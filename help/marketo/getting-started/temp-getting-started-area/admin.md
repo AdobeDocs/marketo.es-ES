@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1103'
 ht-degree: 5%
 
 ---
@@ -28,15 +28,19 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Roles</td>
-    <td><li>Revise las funciones prediseñadas y confirme qué permisos/acceso tiene cada función.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Crear una función nueva</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">editar los roles</a> en función de las necesidades de su organización y de la frecuencia con la que los usuarios inicien sesión.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Asignar usuarios a las funciones adecuadas</a>. Los usuarios deben añadirse a la suscripción en Adobe Admin Console antes de conceder sus funciones en Funciones. Consulte la sección "Usuarios" en la lista de comprobación "Configuración inicial" [LINK]. <br>Después de asignar las funciones de los usuarios, revise el número de usuarios por función.<br>Implemente una función única para cada usuario de API para facilitar la resolución de problemas.</td>
+    <td><li>Revise las funciones prediseñadas y confirme qué permisos/acceso tiene cada función.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Crear una función nueva</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">editar los roles</a> en función de las necesidades de su organización y de la frecuencia con la que los usuarios inicien sesión.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Asignar usuarios a las funciones adecuadas</a>. Los usuarios deben añadirse a la suscripción en Adobe Admin Console antes de conceder sus funciones en Funciones. Consulte la sección "Usuarios" en la lista de comprobación "Configuración inicial" [LINK].</li>
+    <li>Después de asignar las funciones de los usuarios, revise el número de usuarios por función.<br>Implemente una función única para cada usuario de API para facilitar la resolución de problemas.</td>
   </tr>
   <tr>
     <td>Documentación</td>
-    <td>Defina usuarios y funciones para su organización.<br>Defina el proceso para agregar un nuevo usuario/administrador.</td>
+    <td><li>Defina usuarios y funciones para su organización.</li>
+    <li>Defina el proceso para agregar un nuevo usuario/administrador.</li></td>
   </tr>
   <tr>
     <td>Zona protegida (si corresponde)</td>
-    <td>Revise las categorías anteriores para su zona protegida si tiene una.</td>
+    <td><li>Revise las categorías anteriores para su zona protegida si tiene una.</li></td>
   </tr>
 </tbody>
 </table>
@@ -53,11 +57,14 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Espacios de trabajo y particiones (si corresponde)</td>
-    <td>Determinar el número de<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> workspaces</a> y/o particiones que su organización necesita tener y <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">cuántos usuarios tienen acceso a cada espacio de trabajo.</a><br>Defina el propósito principal de cada espacio de trabajo y partición.<br>Definir la relación entre los espacios de trabajo y las particiones.</td>
+    <td><li>Determinar el número de<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> workspaces</a> y/o particiones que su organización necesita tener y <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">cuántos usuarios tienen acceso a cada espacio de trabajo.</a></li>
+    <li>Defina el propósito principal de cada espacio de trabajo y partición.<br>Definir la relación entre los espacios de trabajo y las particiones.</li></td>
   </tr>
   <tr>
     <td>Documentación</td>
-    <td>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales). <br>Importe los registros nuevos a la partición apropiada.<br>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</td>
+    <td><li>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).</li>
+    <li>Importe los registros nuevos a la partición apropiada.</li>
+    <li>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</li></td>
   </tr>
 </tbody>
 </table>
@@ -71,19 +78,16 @@ Texto de introducción.
     <th style="width:80%">Elementos de acción</th>
   </tr>
 </thead>
-  <tr>
-    <th>Área</th>
-    <th>Elementos de acción</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td>Configuración de la campaña inteligente</td>
-    <td>Añadir un <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">restricción en el tamaño de la campaña inteligente</a>, evitando el envío accidental de toda la base de datos.</td>
+    <td><li>Añadir un <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">restricción en el tamaño de la campaña inteligente</a>, evitando el envío accidental de toda la base de datos.</li></td>
   </tr>
   <tr>
     <td>Documentación</td>
-    <td>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).  <br>Importe los registros nuevos a la partición apropiada.<br>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</td>
+    <td><li>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).</li>
+    <li>Importe los registros nuevos a la partición apropiada.</li>
+    <li>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</li></td>
   </tr>
 </tbody>
 </table>
@@ -100,11 +104,12 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Valores predeterminados de correo electrónico</td>
-    <td>En Dominio de marca, seleccione su dominio y añada su CNAME de correo electrónico. Debe tener el siguiente formato: [EmailTrackingCNAME].[CompanyDomain].com.  <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Póngase en contacto con Soporte técnico de Marketo</a> para protegerlo con una provisión de certificado SSL. Este proceso puede tardar hasta tres días hábiles en completarse.</td>
+    <td><li>En Dominio de marca, seleccione su dominio y añada su CNAME de correo electrónico. Debe tener el siguiente formato: [EmailTrackingCNAME].[CompanyDomain].com.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Póngase en contacto con Soporte técnico de Marketo</a> para protegerlo con una provisión de certificado SSL. Este proceso puede tardar hasta tres días hábiles en completarse.</li></td>
   </tr>
   <tr>
     <td>SPF/DKIM</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Configuración de SPF y DKIM</a> para la entrega de correo electrónico.</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Configuración de SPF y DKIM</a> para la entrega de correo electrónico.</li></td>
   </tr>
   <tr>
   </tr>
@@ -125,7 +130,8 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Límites de comunicación</td>
-    <td>Lugar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Límites de comunicación</a>.<br>Determine si su empresa requiere una política sobre límites de comunicación </td>
+    <td><li>Lugar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Límites de comunicación</a>.</li>
+    <li>Determine si su empresa requiere una política sobre límites de comunicación.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,15 +148,15 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Canales</td>
-    <td>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">canales</a>.</td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">canales</a>.</li></td>
   </tr>
   <tr>
     <td>Etiquetas</td>
-    <td>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">etiquetas</a>.</td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">etiquetas</a>.</li></td>
   </tr>
   <tr>
     <td>Calendario (si procede)</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso. <br>Configuración de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Calendario.</a></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso. <br>Configuración de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Calendario.</a></li></td>
   </tr>
 </tbody>
 </table>
@@ -167,17 +173,20 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Administración de campos</td>
-    <td>Implementar la convención de nombres para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">campos personalizados.</a> Por ejemplo, comience por "MKTO".<br>Sea selectivo sobre los campos que sincroniza. Cuantos más campos sincronice, más lento será el ciclo de sincronización.<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Bloquear actualizaciones de campos</a> desea que se escriba una vez (es decir, origen del posible cliente original, detalle del origen del posible cliente original, campos de UTM de primer contacto, etc.)</td>
+    <td><li>Implementar la convención de nombres para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">campos personalizados.</a> Por ejemplo, comience por "MKTO".</li>
+    <li>Sea selectivo sobre los campos que sincroniza. Cuantos más campos sincronice, más lento será el ciclo de sincronización.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Bloquear actualizaciones de campos</a> desea que se escriba una vez (es decir, origen del posible cliente original, detalle del origen del posible cliente original, campos de UTM de primer contacto, etc.).</li></td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td>Actividades personalizadas</td>
-    <td>Definir <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Actividades personalizadas</a> que son específicos de su negocio.  </td>
+    <td><li>Definir <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Actividades personalizadas</a> que son específicos de su negocio.</li></td>
   </tr>
   <tr>
     <td>Objetos personalizados</td>
-    <td>Revisar cuántos <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Objetos personalizados</a> lo necesitas. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Sincronizar esos objetos personalizados con su CRM</a>. </td>
+    <td><li>Revisar cuántos <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Objetos personalizados</a> lo necesitas.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Sincronizar esos objetos personalizados con su CRM</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,7 +203,9 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>CRM </td>
-    <td>Iniciar sincronización de CRM. Elija entre las siguientes opciones, según el CRM que utilice su compañía: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>. <br>Identifique el tipo de acceso que necesita para acceder a su CRM. <br>Identifique al administrador de CRM para la resolución de problemas. </td>
+    <td><li>Iniciar sincronización de CRM. Elija entre las siguientes opciones, según el CRM que utilice su compañía: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <li>Identifique el tipo de acceso que necesita para acceder a su CRM.</li>
+    <li>Identifique al administrador de CRM para la resolución de problemas.</li></td>
   </tr>
   <tr>
     <td>Páginas de destino</td>
@@ -206,15 +217,17 @@ Texto de introducción.
   </tr>
   <tr>
     <td>Servicios web</td>
-    <td>Activar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html">las restricciones de IP</a> si procede. <br>Determine los usuarios/aplicaciones que pueden hacer lo siguiente <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">Llamadas de API</a> en su instancia. <br>Revise todas las aplicaciones que realizarán llamadas a la API y determine si es necesario un aumento o un recorte para las llamadas a la API.  </td>
+    <td><li>Determine los usuarios/aplicaciones que pueden hacer lo siguiente <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">Llamadas de API</a> en su instancia.</li>
+    <li>Revise todas las aplicaciones que realizarán llamadas a la API y determine si es necesario un aumento o un recorte para las llamadas a la API.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td>Configuración requerida <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> servicios para su empresa. Cada LaunchPoint debe estar emparejado con un usuario único de la API para ayudar a solucionar problemas.  </td>
+    <td><li>Configuración requerida <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> servicios para su empresa. Cada LaunchPoint debe estar emparejado con un usuario único de la API para ayudar a solucionar problemas.</li></td>
   </tr>
   <tr>
     <td>Seminarios web interactivos (si corresponde)</td>
-    <td>NOTA: Los seminarios web interactivos solo se proporcionan a instancias de producción. <br>Para crear seminarios web interactivos, la función de seminarios web integrada, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">añadir usuarios a la sección "Usuario"</a> en la pestaña Seminario web interactivo. </td>
+    <td>NOTA: Los seminarios web interactivos solo se proporcionan a instancias de producción.
+    <li>Para crear seminarios web interactivos, la función de seminarios web integrada, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">añadir usuarios a la sección "Usuario"</a> en la pestaña Seminario web interactivo.</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (si procede)</td>
@@ -222,11 +235,15 @@ Texto de introducción.
   </tr>
   <tr>
     <td>Perspectiva de ventas (si corresponde)</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Configurar la acción de información de ventas</a> en Sales Insight&gt;Configuración de acciones.  <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Emita puestos para los usuarios adecuados.</a>  <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Configuración de la API</a>. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Personalizar las puntuaciones de los posibles clientes.</a> </td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Configurar la acción de información de ventas</a> en Sales Insight&gt;Configuración de acciones.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Emita puestos para los usuarios adecuados.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Configuración de la API</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Personalizar las puntuaciones de los posibles clientes.</a></li></td>
   </tr>
   <tr>
     <td>Conexión de ventas (si corresponde)</td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Invite a los administradores de Marketo Engage correspondientes a la instancia de Sales Connect</a>. <br>Complete la <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">configuración de administración de Sales Connect adicional</a> en Sales Connect y Salesforce. </td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Invite a los administradores de Marketo Engage correspondientes a la instancia de Sales Connect</a>.</li>
+    <li>Complete la <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">configuración de administración de Sales Connect adicional</a> en Sales Connect y Salesforce.</li></td>
   </tr>
 </tbody>
 </table>
@@ -243,11 +260,12 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Cofre del tesoro </td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Habilitar el cofre del tesoro</a> para experimentar con características de pilotaje.  <br>Determine las funciones que desea activar o desactivar. </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Habilitar el cofre del tesoro</a> para experimentar con características de pilotaje.</li>
+    <li>Determine las funciones que desea activar o desactivar.</li></td>
   </tr>
   <tr>
     <td>Inspector de campañas </td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Activar el Inspector de campaña</a> para ver todas las campañas inteligentes a la vez. </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Activar el Inspector de campaña</a> para ver todas las campañas inteligentes a la vez.</li></td>
   </tr>
 </tbody>
 </table>

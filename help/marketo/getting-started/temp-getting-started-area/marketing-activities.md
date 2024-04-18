@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 2%
@@ -135,7 +135,7 @@ Marketing Activities aloja todos los activos y contenidos que componen sus progr
   <tr>
     <td>Privacidad y cumplimiento</td>
     <td><li>Cree programas para asegurarse de que cumple con las leyes de privacidad de datos y correo no deseado, como <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">RGPD, CASL, CAN-SPAM, CCPA, etc.</a></li>
-    <br>Nota: Recuerde siempre consultar a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio. </td>
+    <br>Nota: Recuerde siempre consultar a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
   <tr>
     <td>Ciclo de vida</td>

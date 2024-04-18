@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 13%
 
 ---
@@ -29,17 +29,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
   </tr>
-   <tr> 
-   <td><strong>Plantillas para seminarios web interactivos</strong>: Ahorre tiempo creando plantillas personalizadas para los diseños de salas con especificaciones que se ajusten a su organización.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Mejoras en seminarios web interactivos</strong>: ahora puede proporcionar a los hosts y moderadores la capacidad de añadir un título de seminario web, cambiar el nombre de una sala y sincronizar manualmente los datos de participación después de la entrega del evento.</td> 
    <td><i>Próximamente</i></td>

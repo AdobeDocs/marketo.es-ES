@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -20,7 +20,7 @@ La página de notas de la versión estándar de Marketo Engage [se puede encontr
 
 ## Lanzamiento de abril de 2024 {#april-release}
 
-**Fecha de publicación: 16 de abril de 2024**
+**Fecha de publicación: 22 de abril de 2024**
 
 ### Flujos de conversación ahora disponibles para todos los usuarios {#conversational-flows-available-to-all-users}
 
