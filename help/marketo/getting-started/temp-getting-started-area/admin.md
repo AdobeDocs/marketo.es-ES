@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1050'
 ht-degree: 5%
 
 ---
@@ -29,9 +29,10 @@ Texto de introducción.
   <tr>
     <td>Roles</td>
     <td><li>Revise las funciones prediseñadas y confirme qué permisos/acceso tiene cada función.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Crear una función nueva</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">editar los roles</a> en función de las necesidades de su organización y de la frecuencia con la que los usuarios inicien sesión.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Crear una función nueva</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">editar los roles</a> en función de las necesidades de su organización.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Asignar usuarios a las funciones adecuadas</a>. Los usuarios deben añadirse a la suscripción en Adobe Admin Console antes de conceder sus funciones en Funciones. Consulte la sección "Usuarios" en la lista de comprobación "Configuración inicial" [LINK].</li>
-    <li>Después de asignar las funciones de los usuarios, revise el número de usuarios por función.<br>Implemente una función única para cada usuario de API para facilitar la resolución de problemas.</td>
+    <li>Después de asignar las funciones de los usuarios, revise el número de usuarios por función.</li>
+    <li>Implemente una función única para cada usuario de API para facilitar la resolución de problemas.</li></td>
   </tr>
   <tr>
     <td>Documentación</td>
@@ -40,7 +41,7 @@ Texto de introducción.
   </tr>
   <tr>
     <td>Zona protegida (si corresponde)</td>
-    <td><li>Revise las categorías anteriores para su zona protegida si tiene una.</li></td>
+    <td><li>Revise las categorías anteriores para su <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">espacio aislado</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -58,13 +59,14 @@ Texto de introducción.
   <tr>
     <td>Espacios de trabajo y particiones (si corresponde)</td>
     <td><li>Determinar el número de<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> workspaces</a> y/o particiones que su organización necesita tener y <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">cuántos usuarios tienen acceso a cada espacio de trabajo.</a></li>
-    <li>Defina el propósito principal de cada espacio de trabajo y partición.<br>Definir la relación entre los espacios de trabajo y las particiones.</li></td>
+    <li>Defina el propósito principal de cada espacio de trabajo y partición.</li>
+    <li>Definir la relación entre los espacios de trabajo y las particiones.</li></td>
   </tr>
   <tr>
     <td>Documentación</td>
-    <td><li>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).</li>
-    <li>Importe los registros nuevos a la partición apropiada.</li>
-    <li>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</li></td>
+    <td><li>Documente cómo se definen los espacios de trabajo y cómo se relaciona con las particiones de la base de datos (por ejemplo, un espacio de trabajo global que muestre todos los usuarios frente a los sectores empresariales).</li>
+    <li>Importe nuevos registros a la partición apropiada.</li>
+    <li>Defina el valor en su CRM que coloca a los usuarios en la partición apropiada.</li></td>
   </tr>
 </tbody>
 </table>
@@ -81,13 +83,7 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Configuración de la campaña inteligente</td>
-    <td><li>Añadir un <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">restricción en el tamaño de la campaña inteligente</a>, evitando el envío accidental de toda la base de datos.</li></td>
-  </tr>
-  <tr>
-    <td>Documentación</td>
-    <td><li>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).</li>
-    <li>Importe los registros nuevos a la partición apropiada.</li>
-    <li>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</li></td>
+    <td><li>Añadir un <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">restricción en el tamaño de la campaña inteligente</a>, evitando enviar por correo electrónico accidentalmente toda la base de datos.</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,10 +107,6 @@ Texto de introducción.
     <td>SPF/DKIM</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">Configuración de SPF y DKIM</a> para la entrega de correo electrónico.</li></td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
 </tbody>
 </table>
 
@@ -130,7 +122,7 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Límites de comunicación</td>
-    <td><li>Lugar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Límites de comunicación</a>.</li>
+    <td><li>Iniciar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank">límites de comunicación</a>.</li>
     <li>Determine si su empresa requiere una política sobre límites de comunicación.</li></td>
   </tr>
 </tbody>
@@ -148,15 +140,16 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Canales</td>
-    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">canales</a>.</li></td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank">canales</a>.</li></td>
   </tr>
   <tr>
     <td>Etiquetas</td>
-    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">etiquetas</a>.</li></td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">etiquetas</a>.</li></td>
   </tr>
   <tr>
     <td>Calendario (si procede)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso. <br>Configuración de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Calendario.</a></li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso.</li>
+    <li>Configure las variables <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Calendario</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -173,11 +166,9 @@ Texto de introducción.
 <tbody>
   <tr>
     <td>Administración de campos</td>
-    <td><li>Implementar la convención de nombres para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">campos personalizados.</a> Por ejemplo, comience por "MKTO".</li>
+    <td><li>Implementación de una convención de nombres para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank">campos personalizados</a> (por ejemplo, comenzando con "MKTO").</li>
     <li>Sea selectivo sobre los campos que sincroniza. Cuantos más campos sincronice, más lento será el ciclo de sincronización.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Bloquear actualizaciones de campos</a> desea que se escriba una vez (es decir, origen del posible cliente original, detalle del origen del posible cliente original, campos de UTM de primer contacto, etc.).</li></td>
-  </tr>
-  <tr>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank">Bloquear actualizaciones de campos</a> desea que se escriba una vez (por ejemplo, origen del posible cliente original, detalles del origen del posible cliente original, campos de UTM de primer contacto, etc.).</li></td>
   </tr>
   <tr>
     <td>Actividades personalizadas</td>
@@ -213,16 +204,17 @@ Texto de introducción.
   </tr>
   <tr>
     <td>Munchkin</td>
-    <td>NOTA: Si es cliente de Launch Pack, omita este paso. Su asesor le proporcionará las instrucciones de código de Munchkin en su documento de instrucciones de configuración de TI. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Añadir el código de seguimiento de Munchkin</a> a su sitio web. El código Munchkin puede ser <a href="https://developers.marketo.com/javascript-api/lead-tracking/">codificado</a> o implementado mediante Google Tag Manager.  </td>
+    <td>NOTA: Si es cliente de Launch Pack, omita este paso. Su asesor le proporcionará las instrucciones de código de Munchkin en su documento de instrucciones de configuración de TI.
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Añadir el código de seguimiento de Munchkin</a> a su sitio web. El código Munchkin puede ser <a href="https://developers.marketo.com/javascript-api/lead-tracking/">codificado</a> o implementado mediante Google Tag Manager.</li></td>
   </tr>
   <tr>
     <td>Servicios web</td>
     <td><li>Determine los usuarios/aplicaciones que pueden hacer lo siguiente <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">Llamadas de API</a> en su instancia.</li>
-    <li>Revise todas las aplicaciones que realizarán llamadas a la API y determine si es necesario un aumento o un recorte para las llamadas a la API.</li></td>
+    <li>Revise todas las aplicaciones que realizarán llamadas de API y determine si es necesario un aumento o una disminución de las llamadas de API.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td><li>Configuración requerida <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> servicios para su empresa. Cada LaunchPoint debe estar emparejado con un usuario único de la API para ayudar a solucionar problemas.</li></td>
+    <td><li>Configuración de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> servicios para su empresa. Cada LaunchPoint debe estar emparejado con un usuario único de la API para ayudar a solucionar problemas.</li></td>
   </tr>
   <tr>
     <td>Seminarios web interactivos (si corresponde)</td>
@@ -231,14 +223,14 @@ Texto de introducción.
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (si procede)</td>
-    <td>Para usar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, el canal nativo de automatización de conversaciones en Marketo Engage, se continúa con la configuración de permisos de usuario siguiendo los pasos que se indican a continuación en <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Confirme si el administrador del sistema de la organización de Adobe le ha otorgado una función de administrador de productos de Adobe. Contacto <a href="https://helpx.adobe.com/contact.html">Adobe del Servicio de atención al cliente</a> para averiguar quién en su organización tiene privilegios de administrador en la consola. <br>Aceptar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">la invitación "Administrador de productos de Dynamic Chat"</a>. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">correo electrónico de bienvenida</a> se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.  <br>Asigne todos los usuarios adecuados al perfil de producto del Dynamic Chat en Adobe Admin Console. <br>Si se añade un usuario no deseado a varios perfiles de producto, debe eliminar el usuario de todos los perfiles de producto. De lo contrario, seguirán teniendo acceso a Dynamic Chat. <br>Puede <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">editar perfiles de producto en Dynamic Chat</a> y crear un perfil personalizado con un conjunto personalizado de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">permisos disponibles en su suscripción</a>. <br>Asignar usuarios a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Funciones de "Dynamic Chat de acceso"</a> en Marketo Engage/Administrador/Usuarios y funciones. </td>
+    <td>Para usar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, el canal nativo de automatización de conversaciones en Marketo Engage, continúe con la configuración de permisos de usuario siguiendo los pasos que se indican a continuación en la <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Confirme si el administrador del sistema de la organización de Adobe le ha otorgado una función de administrador de productos de Adobe. Contacto <a href="https://helpx.adobe.com/contact.html">Adobe del Servicio de atención al cliente</a> para averiguar quién en su organización tiene privilegios de administrador en la consola. <br>Aceptar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">la invitación "Administrador de productos de Dynamic Chat"</a>. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">correo electrónico de bienvenida</a> se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.  <br>Asigne todos los usuarios adecuados al perfil de producto del Dynamic Chat en Adobe Admin Console. <br>Si se añade un usuario no deseado a varios perfiles de producto, debe eliminar el usuario de todos los perfiles de producto. De lo contrario, seguirán teniendo acceso a Dynamic Chat. <br>Puede <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">editar perfiles de producto en Dynamic Chat</a> y crear un perfil personalizado con un conjunto personalizado de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">permisos disponibles en su suscripción</a>. <br>Asignar usuarios a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Funciones de "Dynamic Chat de acceso"</a> en Marketo Engage/Administrador/Usuarios y funciones. </td>
   </tr>
   <tr>
     <td>Perspectiva de ventas (si corresponde)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Configurar la acción de información de ventas</a> en Sales Insight&gt;Configuración de acciones.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Emita puestos para los usuarios adecuados.</a></li>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Configurar la acción de información de ventas</a> en Perspectiva de ventas &gt; Configuración de acciones.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Emitir puestos para los usuarios adecuados</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">Configuración de la API</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Personalizar las puntuaciones de los posibles clientes.</a></li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Personalizar las puntuaciones de los posibles clientes</a>.</li></td>
   </tr>
   <tr>
     <td>Conexión de ventas (si corresponde)</td>
