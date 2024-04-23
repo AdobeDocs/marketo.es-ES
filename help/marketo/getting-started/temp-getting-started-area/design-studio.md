@@ -4,9 +4,9 @@ title: NUEVO ESTUDIO DE DISEÑO DE ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '309'
 ht-degree: 7%
 
 ---
@@ -28,8 +28,7 @@ Texto...
   <tr>
     <td>Páginas de destino globales</td>
     <td><li>Crear páginas de aterrizaje globales (improvisadas/guiadas).</li>
-    <li>Cree una página de prueba para probar la plantilla de la página de aterrizaje ganadora (si corresponde).</li>
-    <li>Configure la página de aterrizaje del centro de suscripciones en Marketo Engage (si corresponde).</li></td>
+    <li>Cree una página de prueba para probar la plantilla de la página de aterrizaje ganadora (si corresponde).</li></td>
   </tr>
   <tr>
     <td>Plantillas</td>
@@ -37,7 +36,7 @@ Texto...
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Incluir pie de página adecuado mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmentos</a> o tokens en las páginas de aterrizaje para el cumplimiento de la privacidad.</li></td>
+    <td><li>Crear un pie de página mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmentos</a> o tokens en las páginas de aterrizaje para cumplir con la privacidad.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ Texto...
 <tbody>
   <tr>
     <td>Formularios globales</td>
-    <td><li>Configuración de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">formularios globales</a> para casos de uso como preferencias de suscripción, descarga de contenido cerrado, solicitud de demostración, registro en seminario web, etc.</li></td>
+    <td><li>Configuración de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formularios globales</a> para casos de uso como preferencias de suscripción, descargas de contenido cerrado, solicitudes de demostración, registros de seminarios web, etc.</li></td>
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
@@ -62,7 +61,7 @@ Texto...
   </tr>
   <tr>
     <td>Estandarización de datos</td>
-    <td><li>Considere la posibilidad de aplicar listas de selección a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">campos de formulario</a> en lugar de abrir campos de texto para evitar datos confusos.</li></td>
+    <td><li>Considere la posibilidad de aplicar listas de selección a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campos de formulario</a> en lugar de abrir campos de texto para evitar datos confusos.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ Texto...
   </tr>
   <tr>
     <td>Plantillas</td>
-    <td><li>Diseño basado en módulos <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">plantilla de correo electrónico</a> con un diseñador/desarrollador o inserte su propio HTML.</li>
-    <li>Cree una plantilla de correo electrónico probada para probar la plantilla de correo electrónico ganadora (si corresponde).</li></td>
+    <td><li>Diseño basado en módulos <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">plantilla de correo electrónico</a> con un diseñador o desarrollador, o use su propio HTML.</li>
+    <li>Cree una plantilla de correo electrónico probada para probar la plantilla ganadora (si corresponde).</li></td>
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Añadir fragmentos de código</a> sus plantillas de correo electrónico para controlar los bloques reutilizables, como el año de copyright, la ubicación global y el idioma específico para el cumplimiento normativo. Añada tokens para personalizar el contenido en función de la audiencia de destino.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Añadir fragmentos de código</a> a sus plantillas de correo electrónico para controlar bloques reutilizables como el año de copyright, la ubicación global y el idioma específico del cumplimiento normativo. Añada tokens para personalizar el contenido en función de la audiencia de destino.</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ Texto...
 <tbody>
   <tr>
     <td>Fragmentos</td>
-    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Fragmentos</a> para crear bloques de contenido reutilizable que se puedan usar en varios casos de uso, como información de contacto, vínculos de medios sociales, información de marca, así como notas de privacidad y conformidad en correos electrónicos y páginas de aterrizaje.</li></td>
+    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Fragmentos</a> para tener bloques de contenido reutilizables que se puedan utilizar para varios casos de uso, como información de contacto, vínculos de medios sociales, información de marca y notas de privacidad y conformidad en los correos electrónicos y las páginas de aterrizaje.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ Texto...
 <tbody>
   <tr>
     <td>Estructura de carpetas </td>
-    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar recursos globales</a> (por ejemplo, flujos de conversación, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje, plantillas de página de aterrizaje, fragmentos de código) adecuada y fácil de buscar.</li></td>
+    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar recursos globales</a> (por ejemplo, flujos de conversación, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje, plantillas de página de aterrizaje, fragmentos, etc.) apropiadamente.</li></td>
   </tr>
 </tbody>
 </table>
