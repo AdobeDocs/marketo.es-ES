@@ -4,9 +4,9 @@ description: Descripciones de los permisos de funciones - Documentos de Marketo 
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 15%
 
 ---
@@ -67,7 +67,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceder a webhooks: otorga a los usuarios acceso a los webhooks en administración para configurar detalles y asignaciones de respuestas
 * Acceso a espacios de trabajo y particiones: otorga a los usuarios acceso para crear, editar y eliminar espacios de trabajo y particiones en la administración
 
-_&#42;Este permiso se introduce en modo pasivo y no se puede acceder a él en este momento para evitar interrupciones a los usuarios existentes. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a API  {#access-api}
 
@@ -105,7 +105,7 @@ Proporciona a los usuarios acceso a las pestañas de Analytics, a las perspectiv
 * Eliminar informe: al desmarcar se elimina la capacidad del usuario para eliminar informes
 * Exportar datos de Analytics: al desmarcar se elimina la capacidad del usuario para exportar datos de Analytics
 
-_&#42;Este permiso se introduce en modo pasivo y no se puede acceder a él en este momento para evitar interrupciones a los usuarios existentes. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a presentaciones del calendario {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
 
 * Ver datos de oportunidad: oculta la información de la oportunidad en la página de detalles de la persona
 
-_&#42;Este permiso se introduce en modo pasivo y no se puede acceder a él en este momento para evitar interrupciones a los usuarios existentes. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a Actividades de marketing {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Acceder al SEO
 * Administrar SEO
 * SEO estándar
 
-_&#42;Este permiso se introduce en modo pasivo y no se puede acceder a él en este momento para evitar interrupciones a los usuarios existentes. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Enfoque y personalización {#targeting-and-personalization}
 
