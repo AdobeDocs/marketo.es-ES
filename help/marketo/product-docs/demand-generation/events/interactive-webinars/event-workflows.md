@@ -3,9 +3,9 @@ description: Flujos de trabajo de eventos - Documentos de Marketo - Documentaci�
 title: Flujos de trabajo de eventos
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Una vez completado el seminario web, vaya a la pestaña Panel para ver el rendim
 >[!NOTE]
 >
 >Si el seminario web no se ha completado o no se han recibido los datos por algún motivo, la pestaña Tablero aún no estará disponible.
+
+## Sincronización manual {#manual-sync}
+
+Los seminarios web interactivos le permiten obtener los datos de participación del seminario web desde Adobe Connect si no los ha recibido automáticamente en un plazo de dos horas desde su finalización. Aparecerá el botón Sincronizar ahora en la página Información general. Clic **Sincronizar ahora** déclencheur una extracción de Adobe Connect para rellenar los datos en Marketo Engage. Una vez realizada la sincronización, el botón desaparece y la pestaña Tablero se rellena.
 
 ## Widgets del panel {#dashboard-widgets}
 

@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ Cree un seminario web interactivo en unos sencillos pasos.
    >
    >Encontrará información sobre los seminarios web de socios aquí.
 
-1. Establezca el tamaño máximo de audiencia para el seminario web y la duración.
+1. Asigne un título al seminario web. Establezca el tamaño máximo de la audiencia y la duración.
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* El título del seminario web es visible para los participantes cuando se unen. Es importante que el título sea diferente del nombre del programa de eventos de seminarios web interactivos de la instancia de Marketo Engage, así como del nombre de la sala de seminarios web.
+   >
+   >* No puede reutilizar un título de seminario web. Cada uno debe ser único en la instancia de Marketo.
+   >
+   >* Si lo desea, puede cambiar el título del seminario web en una etapa posterior.
 
 1. Programe la fecha y la hora del seminario web y haga clic en **Crear**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Se creará el seminario web interactivo. [Obtenga información sobre cómo agregar presentadores o cohosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 Ahora, es hora de... [diseñe su seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[Obtenga información sobre cómo agregar presentadores o cohosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
