@@ -4,9 +4,9 @@ title: Pasos de configuración
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ La primera parte (en negrita) es la siguiente `[LandingPageCNAME]`. Lo necesitar
 
 Para recuperar el ID de Munchkin que va a reemplazar con el CNAME de su página de aterrizaje, vaya al área de Administración.
 
-![](assets/setup-steps-9.png)
+CAPTURA DE PANTALLA: setup-step-9.png
 
 Clic **Mi cuenta**.
 
-![](assets/setup-steps-10.png)
+CAPTURA DE PANTALLA: setup-step-10.png
 
 Copie el [!UICONTROL Cadena de cuenta] desde la configuración de la página de aterrizaje.
 
-![](assets/setup-steps-11.png)
+CAPTURA DE PANTALLA: setup-step-11.png
 
 Este es el `[Munchkin ID]`. Guárdelo... Tendrá que darlo a TI en el paso 5.
 
@@ -100,17 +100,17 @@ La primera parte es el CNAME de seguimiento de correo electrónico, `[EmailTrack
 
 Para encontrar el vínculo de seguimiento de Marketo, vaya a **[!UICONTROL Administrador]** área.
 
-![](assets/setup-steps-12.png)
+CAPTURA DE PANTALLA: setup-step-12.png
 
 Clic **[!UICONTROL Correo electrónico]**.
 
-![](assets/setup-steps-13.png)
+CAPTURA DE PANTALLA: setup-step-13.png
 
 Copie el [!UICONTROL Vínculo de seguimiento] desde la configuración de correo electrónico.
 
 El [!UICONTROL Vínculo de seguimiento] tiene el siguiente formato: `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+CAPTURA DE PANTALLA: setup-step-14.png
 
 Este es su `[MktoTrackingLink]`. Guárdelo... Tendrá que darlo a TI en el paso 5.
 
@@ -215,35 +215,35 @@ Una vez que el departamento de TI haya completado sus tareas, siga estos pasos p
 
 Vaya a la **[!UICONTROL Administrador]** para añadir el CNAME de su página de aterrizaje
 
-![](assets/setup-steps-15.png)
+CAPTURA DE PANTALLA: setup-step-15.png
 
 Seleccione Landing Pages y haga clic en **[!UICONTROL Editar]** en el [!UICONTROL Configuración] área.
 
-![](assets/setup-steps-16.png)
+CAPTURA DE PANTALLA: setup-step-16.png
 
 Introduzca su nuevo nombre de dominio en el campo **[!UICONTROL Nombre de dominio para páginas de aterrizaje]**. Debe tener el siguiente formato:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+CAPTURA DE PANTALLA: setup-step-17.png
 
 En el **[!UICONTROL Reserva]** , introduzca la dirección URL a la que desea que vayan los visitantes si una página de aterrizaje no está disponible. Puede utilizar la página principal de la empresa si no dispone de una página de reserva. En el **[!UICONTROL Homepage]** , introduzca el sitio web de la empresa.
 
-![](assets/setup-steps-18.png)
+CAPTURA DE PANTALLA: setup-step-18.png
 
 En el [!UICONTROL Administrador] , seleccione **[!UICONTROL Correo electrónico]** para añadir su CNAME de correo electrónico
 
-![](assets/setup-steps-19.png)
+CAPTURA DE PANTALLA: setup-step-19.png
 
 Desplácese hacia abajo hasta [!UICONTROL Dominios de marca]. Seleccione el dominio y haga clic en **[!UICONTROL Editar]**.
 
-![](assets/setup-steps-20.png)
+CAPTURA DE PANTALLA: setup-step-20.png
 
 En el campo Dominio, introduzca el dominio de seguimiento de correo electrónico. Debe tener el siguiente formato:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Haga clic en **[!UICONTROL Guardar]**.
 
-![](assets/setup-steps-21.png)
+CAPTURA DE PANTALLA: setup-step-21.png
 
 ## Integración de su CRM {#integrate-your-crm}
 
