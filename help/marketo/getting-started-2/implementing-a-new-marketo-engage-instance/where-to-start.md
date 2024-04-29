@@ -4,7 +4,7 @@ title: Por dónde empezar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,15 +21,15 @@ En esta guía &quot;Implementación de una nueva instancia de Marketo Engage&quo
 
 Descargar la instancia de Marketo Engage Nuevas listas de comprobación de administración de implementación[INSERTAR VÍNCULO], o consulte las guías en línea que aparecen a continuación.
 
-* [Sección Administración](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin.md){target="_blank"}
+* [Sección Administración](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Base de datos](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database.md){target="_blank"}
+* [Base de datos](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Actividades de marketing](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities.md){target="_blank"}
+* [Actividades de marketing](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Documente la nueva configuración de la instancia](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/documentation.md){target="_blank"}
+* [Documente la nueva configuración de la instancia](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Conectar con compañeros {#connect-with-your-peers}
 
