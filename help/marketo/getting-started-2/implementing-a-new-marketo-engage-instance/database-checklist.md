@@ -1,17 +1,17 @@
 ---
 description: Configure la sección Base de datos para la nueva instancia de Marketo Engage.
-title: 'Nueva instancia: lista de comprobación de base de datos'
+title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de bases de datos'
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 9%
 
 ---
 
-# Nueva Instancia: Lista de Comprobación de Base de Datos {#new-instance-database-checklist}
+# Nuevas Prácticas Recomendadas Para Instancias: Lista De Comprobación De Bases De Datos {#new-instance-best-practices-database-checklist}
 
 La sección Base de datos proporciona una instantánea de los atributos clave sobre las personas de la instancia. Obtenga más información sobre los pasos necesarios para navegar por diferentes listas y segmentaciones de la base de datos, así como para administrar registros de personas.
 

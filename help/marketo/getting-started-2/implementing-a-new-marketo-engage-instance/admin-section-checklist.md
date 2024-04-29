@@ -1,17 +1,17 @@
 ---
 description: Configure la sección Admin para la nueva instancia de Marketo Engage.
-title: 'Nueva instancia: lista de comprobación de la sección de administración'
+title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de la sección de administración'
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 5%
 
 ---
 
-# Nueva instancia: lista de comprobación de sección de administración {#new-instance-admin-section-checklist}
+# Prácticas recomendadas para nuevas instancias: Lista de comprobación de sección de administración {#new-instance-best-practices-admin-section-checklist}
 
 Como administrador nuevo que navega por una nueva instancia de Marketo Engage, aplique la lista de comprobación siguiente para guiarle a través del proceso de implementación. Al igual que con todas estas guías, puede descargar las listas de comprobación [VÍNCULO] y realice un seguimiento de su progreso.
 

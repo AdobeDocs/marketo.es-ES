@@ -1,17 +1,17 @@
 ---
 description: Documente la configuración de la nueva instancia de Marketo Engage.
-title: 'Nueva instancia: documentar la configuración'
+title: 'Prácticas Recomendadas Para Nuevas Instancias: Documentar La Configuración'
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Nueva instancia: documentar la configuración {#new-instancei-document-your-setup}
+# Prácticas Recomendadas Para Nuevas Instancias: Documentar La Configuración {#new-instance-best-practices-document-your-setup}
 
 Ahora que ha aprendido las áreas de producto clave para configurar para una nueva instancia de Marketo Engage, el siguiente paso es crear documentación para la configuración de la instancia y la pila tecnológica. Tanto si la crea mediante una hoja de cálculo como mediante una aplicación de gestión de proyectos, su documentación será un excelente recurso para realizar un seguimiento del progreso y registrar los detalles, así como para mantener su instancia estructurada y sostenible para los futuros especialistas en marketing de su organización.
 

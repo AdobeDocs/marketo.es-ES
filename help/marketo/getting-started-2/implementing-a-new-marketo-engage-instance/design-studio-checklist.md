@@ -1,17 +1,17 @@
 ---
 description: Configure la sección Design Studio para la nueva instancia de Marketo Engage.
-title: 'Nueva instancia: lista de comprobación de Design Studio'
+title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de Design Studio'
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 6%
 
 ---
 
-# Nueva instancia: lista de comprobación de Design Studio {#new-instance-design-studio-checklist}
+# Prácticas recomendadas para nuevas instancias: Lista de comprobación de Design Studio {#new-instance-best-practices-design-studio-checklist}
 
 En la sección Design Studio es donde deben residir los &quot;recursos globales&quot; reutilizables. Cree los recursos globales que su organización planea utilizar en los programas, utilice una convención de nombres uniforme y organícelos en las subcarpetas para facilitar las búsquedas.
 

@@ -1,17 +1,17 @@
 ---
 description: Configure la sección Actividades de marketing para la nueva instancia de Marketo Engage.
-title: 'Nueva instancia: lista de comprobación de actividades de marketing'
+title: 'Nuevas Prácticas Recomendadas De Instancia: Lista De Comprobación De Actividades De Marketing'
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 2%
 
 ---
 
-# Nueva instancia: lista de comprobación de actividades de marketing {#new-instance-marketing-activities-checklist}
+# Nuevas Prácticas Recomendadas De Instancia: Lista De Comprobación De Actividades De Marketing {#new-instance-best-practices-marketing-activities-checklist}
 
 Marketing Activities aloja todos los activos y contenidos que componen sus programas de marketing automatizado. Al configurar una nueva instancia de Marketo Engage, una organización limpia y clara garantiza que todos los usuarios puedan encontrar y administrar fácilmente varios programas.
 

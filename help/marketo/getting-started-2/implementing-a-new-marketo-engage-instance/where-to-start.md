@@ -4,9 +4,9 @@ title: Por dónde empezar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bienvenido a su nueva instancia de Adobe Marketo Engage. Prepárese para optimizar, automatizar y medir tareas y flujos de trabajo de marketing con potentes funcionalidades de automatización de marketing.
 
-En esta guía &quot;Implementación de una nueva instancia de Marketo Engage&quot;, aprenda a implementar sin problemas la instancia para garantizar la higiene y la eficacia operativa a largo plazo. Cada lista de comprobación proporciona pasos útiles para realizar un seguimiento del progreso de la configuración. Utilice las listas de comprobación descargables para documentar su trabajo en el camino para futuras auditorías e incorporación de instancias.
+En esta guía de Implementación de una nueva instancia de Marketo Engage, conozca las prácticas recomendadas para implementar sin problemas la instancia a fin de garantizar la higiene a largo plazo y la eficacia operativa. Cada lista de comprobación proporciona pasos útiles para realizar un seguimiento del progreso de la configuración. Utilice las listas de comprobación descargables para documentar su trabajo en el camino para futuras auditorías e incorporación de instancias.
 
 ## Listas De Comprobación De Prácticas Recomendadas Para La Nueva Instancia De Marketo Engage {#best-practice-checklists-new-instance}
 
