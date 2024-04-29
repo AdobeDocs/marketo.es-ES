@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9346'
 ht-degree: 2%
 
 ---
@@ -45,6 +45,24 @@ ht-degree: 2%
       + [Instancia heredada: Lista de comprobación de Design Studio](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Instancia heredada: Documentar la configuración](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisión de aptitudes principales](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Introducción a Marketo 2 {#getting-started-with-marketo-2}
+   + [¿Qué es Adobe Marketo Engage?](getting-started-2/what-is-adobe-marketo-engage.md)
+   + Configuración inicial {#initial-setup}
+      + [Tareas de configuración inicial](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [Pasos de configuración](getting-started-2/initial-setup/setup-steps.md)
+      + [Configuración de usuario](getting-started-2/initial-setup/user-setup.md)
+   + Implementación de una nueva instancia de Marketo Engage {#implementing-a-new-marketo-engage-instance}
+      + [Por dónde empezar](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [Nueva instancia: lista de comprobación de sección de administración](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Nueva Instancia: Lista de Comprobación de Base de Datos](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Nueva instancia: lista de comprobación de actividades de marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Nueva instancia: lista de comprobación de Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Nueva instancia: documentar la configuración](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + Cosas que saber {#things-to-know}
+      + [Glosario del Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [Glosario de iconos](getting-started-2/things-to-know/icon-glossary.md)
+      + [Glosario de iconos clásicos](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [Centro de ayuda](getting-started-2/things-to-know/help-center.md)
 + Documentos del producto {#product-docs}
    + Aplicaciones adicionales {#additional-apps}
       + SEO {#seo}

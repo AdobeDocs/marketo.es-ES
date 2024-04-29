@@ -1,11 +1,12 @@
 ---
-description: Centro de ayuda - Documentos de Marketo - Documentación del producto
+description: Centro de ayuda - Documentos del Marketo Engage - Documentación del producto
 title: Centro de ayuda
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
@@ -18,39 +19,39 @@ El Centro de ayuda de Adobe Marketo Engage sirve como ubicación centralizada pa
 
 Después de iniciar sesión en Marketo Engage, haga clic en el icono Ayuda.
 
-![](assets/help-center-1.png)
+CAPTURA DE PANTALLA
 
 ### Guías {#guides}
 
 Las guías sirven como tutoriales rápidos para las funciones populares.
 
-![](assets/help-center-2.png)
+CAPTURA DE PANTALLA
 
 1. Haga clic en la guía que desee para verla.
 
-   ![](assets/help-center-3.png)
+CAPTURA DE PANTALLA
 
 1. Clic **Primeros pasos**.
 
-   ![](assets/help-center-4.png)
+CAPTURA DE PANTALLA
 
 1. Clic **Siguiente** para continuar.
 
-   ![](assets/help-center-5.png)
+CAPTURA DE PANTALLA
 
 1. Clic **Listo** para salir del tutorial.
 
-   ![](assets/help-center-6.png)
+CAPTURA DE PANTALLA
 
-   >[!TIP]
-   >
-   >Salga de la guía en cualquier momento haciendo clic en **Descartar**.
+>[!TIP]
+>
+>Salga de la guía en cualquier momento haciendo clic en **Descartar**.
 
 ### Novedades {#whats-new}
 
 La pestaña Novedades contiene todos los detalles de la última versión de Marketo Engage.
 
-![](assets/help-center-7.png)
+CAPTURA DE PANTALLA
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ La pestaña Novedades contiene todos los detalles de la última versión de Mark
 
 La pestaña Recursos le permite acceder rápida y directamente a varias formas de obtener ayuda adicional con la instancia de Marketo Engage.
 
-![](assets/help-center-8.png)
+CAPTURA DE PANTALLA
