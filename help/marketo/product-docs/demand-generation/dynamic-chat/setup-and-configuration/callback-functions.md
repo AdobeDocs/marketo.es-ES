@@ -1,12 +1,11 @@
 ---
 description: Funciones de devolución de llamada - Documentos de Marketo - Documentación del producto
 title: Funciones de devolución de llamada
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 7%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-El argumento &#39;event&#39; del evento es un objeto con metadatos relacionados con la conversación. Puede acceder a los metadatos por event.data
+El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
 
 A continuación se muestran algunos valores de metadatos clave a los que puede acceder:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-El argumento &#39;event&#39; del evento es un objeto con metadatos relacionados con la conversación. Puede acceder a los metadatos por event.data
+El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
 
 A continuación se muestran algunos valores de metadatos clave a los que puede acceder.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-El argumento &#39;event&#39; del evento es un objeto con metadatos relacionados con la conversación. Puede acceder a los metadatos por event.data
+El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
 
 A continuación se muestran algunos valores de metadatos clave a los que puede acceder.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-El argumento &#39;event&#39; del evento es un objeto con metadatos relacionados con la conversación. Puede acceder a los metadatos por event.data
+El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
 
 A continuación se muestran algunos valores de metadatos clave a los que puede acceder.
 
@@ -338,7 +337,7 @@ A continuación se muestran algunos valores de metadatos clave a los que puede a
 </tbody>
 </table>
 
-Si desea enviar cualquiera de estos eventos a una plataforma de terceros como Adobe Analytics o Google Analytics, debe añadir su llamada de seguimiento respectiva dentro de estos eventos de Dynamic Chat. Se parecería a algo como el ejemplo siguiente.
+Si desea enviar cualquiera de estos eventos a una plataforma de análisis como Adobe Analytics o Google Analytics, debe añadir su llamada de seguimiento respectiva dentro de estos eventos de Dynamic Chat. Se parecería a algo como el ejemplo siguiente.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

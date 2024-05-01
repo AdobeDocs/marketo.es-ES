@@ -3,7 +3,7 @@ description: Notas de la versión del Dynamic Chat - Documentos de Marketo - Doc
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;Anteriormente disponible como función de prueba con 100 participaciones d
 
 ### Funciones de devolución de llamada {#callback-functions}
 
-Las funciones de llamada de retorno permiten recopilar eventos de análisis de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes interactúan con conversaciones de Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de la participación del Dynamic Chat en relación con otros datos clave, como el tráfico web.
+[Funciones de devolución de llamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} permiten recopilar eventos de analytics de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes interactúan con las conversaciones de los Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de la participación del Dynamic Chat en relación con otros datos clave, como el tráfico web.
 
 ### Condiciones de disponibilidad del agente activas añadidas a la ramificación condicional {#live-agent-availability-conditional-branching}
 
