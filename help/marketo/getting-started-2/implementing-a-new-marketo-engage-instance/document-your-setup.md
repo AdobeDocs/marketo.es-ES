@@ -4,9 +4,10 @@ title: 'Prácticas Recomendadas Para Nuevas Instancias: Documentar La Configurac
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---
@@ -55,7 +56,7 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
     <br>Tipo de ID
     <br>Perfil(es) de producto
     <p>
-    <li>Como Administrador de productos de Marketo Engage, desarrolle un proceso interno para auditar y actualizar la lista de usuarios de Marketo Engage a una cadencia regular. Para realizar cambios en la lista de usuarios de Adobe Admin Console, tenga en cuenta lo siguiente <a href="https://helpx.adobe.com/es/enterprise/using/users.html" target="_blank">cargando el .csv</a> de forma masiva.</li></td>
+    <li>Como Administrador de productos de Marketo Engage, desarrolle un proceso interno para auditar y actualizar la lista de usuarios de Marketo Engage a una cadencia regular. Para realizar cambios en la lista de usuarios de Adobe Admin Console, tenga en cuenta lo siguiente <a href="https://helpx.adobe.com/es/enterprise/using/users.html" target="_blank">acciones masivas</a>, como cargar un .CSV, utilizar la API de REST de administración de usuarios, etc.</li></td>
   </tr>
   <tr>
     <td>Organización</td>
