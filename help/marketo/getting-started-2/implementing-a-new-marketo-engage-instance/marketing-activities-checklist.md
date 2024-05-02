@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 2%
 
 ---
@@ -54,9 +54,9 @@ Recuerde descargar las listas de comprobación [VÍNCULO] y realice un seguimien
 
 ## Recursos {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Para almacenar recursos de marketing como programas, páginas de destino y correos electrónicos en áreas independientes, consulte la lista de comprobación &quot;Sección de administración&quot; [VÍNCULO] para aprender a configurar espacios de trabajo.
+>Para almacenar recursos de marketing como programas, páginas de destino y correos electrónicos en áreas independientes, consulte la [Lista de comprobación de sección de administración](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) para aprender a configurar espacios de trabajo.
 
 <table>
 <thead>
