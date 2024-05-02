@@ -4,9 +4,9 @@ description: 'Aprobar un fragmento sin borrador: documentos de Marketo, document
 title: Aprobar un fragmento sin borrador
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,24 @@ ht-degree: 0%
 
 La opción Sin borrador se activa cada vez que se aprueba un fragmento. Esto incluye un fragmento de código compartido o referenciado por recursos de otros espacios de trabajo.
 
-1. Ir a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Seleccione un fragmento de código y, en **Acciones de fragmento** menú desplegable, elija **Aprobar**.
+1. Busque y seleccione el fragmento deseado.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
+
+1. En el **Acciones de fragmento** menú desplegable, elija **Aprobar borrador**.
+
+   ![](assets/approve-the-snippet-3.png)
 
 1. Seleccione una opción en el cuadro de diálogo Aprobar fragmento y haga clic en **Aprobar**:
 
    * **Actualizar todo**: Esta opción no creará borradores de los recursos aprobados mediante el fragmento. Todos los recursos reciben las actualizaciones y mantienen sus estados anteriores. Aparece un módulo de progreso en la parte superior derecha de la pantalla; se puede cerrar en cualquier momento. Para restaurarlo, haga clic con el botón derecho en el nombre del fragmento y seleccione Mostrar estado de aprobación.
    * **Crear borradores**: Esta opción creará borradores de los recursos aprobados utilizando el fragmento. Seleccione esta opción si primero deben revisarse los cambios de fragmento. Todos los borradores deben aprobarse manualmente.
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -38,8 +42,8 @@ La opción Sin borrador se activa cada vez que se aprueba un fragmento. Esto inc
 
 >[!CAUTION]
 >
->Esta función está diseñada para ahorrar tiempo con el flujo de trabajo de aprobación de fragmentos. Sin embargo, hay que tener en cuenta algunas limitaciones. Consulte lo siguiente [este documento](https://nation.marketo.com/docs/DOC-4415) para obtener más información. El documento también contiene información sobre la gestión de errores y la resolución de problemas.
+>Esta función está diseñada para ahorrar tiempo con el flujo de trabajo de aprobación de fragmentos. Sin embargo, hay que tener en cuenta algunas limitaciones. Consulte lo siguiente [este artículo](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} para obtener más información.
 
 >[!MORELIKETHIS]
 >
->[Habilitar la opción Sin borrador para fragmentos](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[Habilitar la opción Sin borrador para fragmentos](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
