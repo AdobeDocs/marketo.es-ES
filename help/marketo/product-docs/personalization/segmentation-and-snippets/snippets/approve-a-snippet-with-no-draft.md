@@ -4,7 +4,7 @@ description: 'Aprobar un fragmento sin borrador: documentos de Marketo, document
 title: Aprobar un fragmento sin borrador
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 La opción Sin borrador se activa cada vez que se aprueba un fragmento. Esto incluye un fragmento de código compartido o referenciado por recursos de otros espacios de trabajo.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a la **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ La opción Sin borrador se activa cada vez que se aprueba un fragmento. Esto inc
 
    ![](assets/approve-the-snippet-2.png)
 
-1. En el **Acciones de fragmento** menú desplegable, elija **Aprobar borrador**.
+1. En el **[!UICONTROL Acciones de fragmento]** menú desplegable, elija **[!UICONTROL Aprobar borrador]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Seleccione una opción en el cuadro de diálogo Aprobar fragmento y haga clic en **Aprobar**:
+1. Seleccione una opción en el cuadro de diálogo Aprobar fragmento y haga clic en **[!UICONTROL Aprobar]**:
 
-   * **Actualizar todo**: Esta opción no creará borradores de los recursos aprobados mediante el fragmento. Todos los recursos reciben las actualizaciones y mantienen sus estados anteriores. Aparece un módulo de progreso en la parte superior derecha de la pantalla; se puede cerrar en cualquier momento. Para restaurarlo, haga clic con el botón derecho en el nombre del fragmento y seleccione Mostrar estado de aprobación.
-   * **Crear borradores**: Esta opción creará borradores de los recursos aprobados utilizando el fragmento. Seleccione esta opción si primero deben revisarse los cambios de fragmento. Todos los borradores deben aprobarse manualmente.
+   * **[!UICONTROL Actualizar todo]**: Esta opción no creará borradores de los recursos aprobados mediante el fragmento. Todos los recursos reciben las actualizaciones y mantienen sus estados anteriores. Aparece un módulo de progreso en la parte superior derecha de la pantalla; se puede cerrar en cualquier momento. Para restaurarlo, haga clic con el botón derecho en el nombre del fragmento y seleccione Mostrar estado de aprobación.
+   * **[!UICONTROL Crear borradores]**: Esta opción creará borradores de los recursos aprobados utilizando el fragmento. Seleccione esta opción si primero deben revisarse los cambios de fragmento. Todos los borradores deben aprobarse manualmente.
 
    ![](assets/approve-the-snippet-4.png)
 
