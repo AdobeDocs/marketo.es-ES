@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 6%
@@ -30,8 +30,8 @@ Recuerde descargar las listas de comprobación [VÍNCULO] y realice un seguimien
 <tbody>
   <tr>
     <td>Páginas de destino globales</td>
-    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">Páginas de aterrizaje globales (improvisadas/guiadas)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Creación de una página de prueba</a> para probar la plantilla de la página de aterrizaje ganadora (si corresponde).</li></td>
+    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">Páginas de aterrizaje globales (improvisadas/guiadas)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Creación de una página de prueba</a> para probar la plantilla de la página de aterrizaje ganadora (si corresponde).</li></td>
   </tr>
   <tr>
     <td>Plantillas</td>
@@ -39,7 +39,7 @@ Recuerde descargar las listas de comprobación [VÍNCULO] y realice un seguimien
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Crear un pie de página mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmentos</a> o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> en las páginas de aterrizaje para garantizar el cumplimiento de la privacidad.</li></td>
+    <td><li>Crear un pie de página mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragmentos</a> o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> en las páginas de aterrizaje para garantizar el cumplimiento de la privacidad.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Recuerde descargar las listas de comprobación [VÍNCULO] y realice un seguimien
 <tbody>
   <tr>
     <td>Estructura de carpetas </td>
-    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar recursos globales</a> (por ejemplo, flujos de conversación, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje, plantillas de página de aterrizaje, fragmentos, etc.) apropiadamente.</li></td>
+    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organizar recursos globales</a> (por ejemplo, flujos de conversación, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje, plantillas de página de aterrizaje, fragmentos, etc.) apropiadamente.</li></td>
   </tr>
 </tbody>
 </table>

@@ -3,9 +3,9 @@ description: 'Diseño de seminarios web interactivos: documentos de Marketo, doc
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
    >* Una sala es un espacio en línea que se utiliza para llevar a cabo reuniones.
    >
    >* Si elige una sala de seminarios web existente y necesita cambiarle el nombre, simplemente haga clic en el **Cambiar nombre de sala de seminarios web** a la derecha.
+   >
+   >* La lista desplegable solo muestra las salas existentes que creó anteriormente, no las de otros hosts.
 
 1. Elija una plantilla.
 
