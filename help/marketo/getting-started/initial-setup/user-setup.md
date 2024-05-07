@@ -3,9 +3,9 @@ description: Antes de sumergirse en la nueva instancia de Marketo Engage, deber�
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Las nuevas suscripciones de Marketo Engage se han incorporado a [Adobe Identity 
     <td>Administrador de productos de Marketo Engage y suscripción</td>
     <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li>  
     <ul>
-    <li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> o envíe un correo electrónico a customercare@marketo.comto para saber quién en su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
+    <li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
     <li>Acepte la invitación "Marketo Engage Product Admin" para activar su Adobe ID. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">correo electrónico de bienvenida</a> se envía cuando se asigna la función en Adobe Admin Console.</li></td>
   </tr>
   <tr>
