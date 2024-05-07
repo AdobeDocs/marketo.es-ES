@@ -3,9 +3,9 @@ description: 'Promoción de un seminario web interactivo: documentos de Marketo,
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ La promoción de un seminario web interactivo es similar a la de un seminario we
 ![](assets/promoting-an-interactive-webinar-1.png)
 
 Una vez añadidos o importados los miembros en el programa, puede crear una campaña de correo electrónico dentro del programa de evento de seminario web interactivo para enviar una invitación a todos los miembros del programa y cambiar su estado como &quot;invitados&quot; una vez enviado el correo electrónico.
+
+>[!NOTE]
+>
+>Si desea agregar un copatrocinador o presentador como miembro de la audiencia al programa de eventos de seminario web interactivo, debe utilizar un ID de correo electrónico diferente para ellos; de lo contrario, recibirán el error &quot;este correo electrónico ya está registrado&quot;.
 
 El correo electrónico puede contener detalles específicos del programa, así como una dirección URL de la página de aterrizaje que redireccionaría al destinatario a una página específica donde encontrará más información sobre el seminario web (por ejemplo, contenido, información del presentador, etc.) se puede añadir. Esta página de aterrizaje se puede crear como un recurso local en el programa de eventos de seminarios web interactivos.
 
