@@ -3,7 +3,7 @@ description: Conozca las prácticas recomendadas al implementar una nueva instan
 title: Por dónde empezar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -20,9 +20,9 @@ En esta guía de Implementación de una nueva instancia de Marketo Engage, conoz
 
 Antes de sumergirse en las listas de comprobación de prácticas recomendadas que aparecen a continuación, asegúrese de haber seguido los pasos del área Configuración inicial.
 
-* [Pasos de configuración](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [Configurar protocolos](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [Configurar protocolos](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [Lista de comprobación de configuración de usuario](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 

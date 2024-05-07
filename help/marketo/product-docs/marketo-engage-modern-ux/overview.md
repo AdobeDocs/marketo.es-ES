@@ -3,7 +3,7 @@ description: 'Información general sobre la experiencia de usuario moderna de Ma
 title: Descripción general de UX moderno de Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Hay muchas nuevas funcionalidades en el UX moderno, todas ellas diseñadas para 
 
 **Iconos**
 
-La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Glosario de iconos](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
+La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Glosario de iconos](/help/marketo/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 

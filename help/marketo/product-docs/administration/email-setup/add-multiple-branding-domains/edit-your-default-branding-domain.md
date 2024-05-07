@@ -4,7 +4,7 @@ description: Editar el dominio de marca predeterminado - Documentos de Marketo -
 title: Editar el dominio de marca predeterminado
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ha [configure un CNAME en su DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) antes de agregar los dominios de promoción de la marca en Marketo.
+>Asegúrese de que ha [configure un CNAME en su DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) antes de agregar los dominios de promoción de la marca en Marketo.
 
 1. Vaya a la **[!UICONTROL Administrador]** área.
 
