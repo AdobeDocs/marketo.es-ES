@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
 workflow-type: tm+mt
-source-wordcount: '9332'
+source-wordcount: '9329'
 ht-degree: 2%
 
 ---
@@ -1736,7 +1736,6 @@ ht-degree: 2%
             + [Suscripción a un informe básico](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Suscripción a una lista inteligente](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Tipos de informes {#report-types}
-            + [Informe Actividad de la campaña](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Informe de rendimiento de correo electrónico de Campaign](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Informe Actividad web de la empresa](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Informe Personas por Estado](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
