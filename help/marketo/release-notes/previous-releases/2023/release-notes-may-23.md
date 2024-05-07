@@ -1,11 +1,11 @@
 ---
 description: 'Notas de la versión, mayo de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, mayo de 2023
-exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 2%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Información general sobre la interfaz de Experience Cloud</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Resumen de interfaz de Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Centro de ayuda</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centro de ayuda</a></td>
   </tr>
   </tbody>
 </table>
@@ -57,7 +57,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado de cada una de las funciones.
 
-### Organización en canales múltiples {#cross-channel-orchestration}
+### Orquestación entre canales {#cross-channel-orchestration}
 
 </br>
 

@@ -4,47 +4,49 @@ description: ¿Qué es Adobe Marketo Engage? - Documentos de Marketo - Documenta
 title: ¿Qué es Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '284'
+ht-degree: 5%
 
 ---
 
 # ¿Qué es Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage (a veces denominado Marketo Engage o incluso Marketo) es un software de automatización de marketing. La automatización de marketing le permite optimizar, automatizar y medir las tareas y flujos de trabajo de marketing para que pueda aumentar la eficacia operativa y aumentar los ingresos más rápido.
+Adobe Marketo Engage es un software de automatización de marketing. La automatización de marketing le permite optimizar, automatizar y medir las tareas y flujos de trabajo de marketing para que pueda aumentar la eficacia operativa y aumentar los ingresos más rápido.
 
 ## ¿Qué puedo hacer en Marketo Engage? {#what-can-i-do-in-marketo-engage}
 
-Marketo Engage tiene una gran cantidad de funciones buenas para ayudarle a lograr sus objetivos de marketing. Cosas como...
+Marketo Engage tiene una gran cantidad de funciones útiles para ayudarle a lograr sus objetivos de marketing. Cosas como...
 
 * Editor de formularios
-* Editor de página de aterrizaje
+* Editor de la página de destino
 * Plantillas de página de aterrizaje guiada
 * Editor de correo electrónico
 * Herramientas de Mail Blast
 * Segmentación
-* Contenido predictivo
-* Integración de seminario web
+* Predictive Content
+* Dynamic Chat
+* Seminarios web interactivos nativos
+* Integración de seminarios web de terceros
 * Marketing móvil
 * Sincronizar con su CRM (Salesforce o Dynamics)
 * Integración de sitios web
 * Motor de flujo de trabajo
 * Puntuación de persona
 * Tablero In-CRM para representantes de ventas
-* Análisis de programas
+* Análisis del programa
 * Gestión de la cuenta objetivo
 
 ...y mucho más!
 
 ## ¿Tengo que aprender todo eso? {#do-i-need-to-learn-all-of-that}
 
-¡Tú no! Es fácil empezar en Marketo Engage, y va a evolucionar con usted. Puedes aprender todo si quieres, o simplemente usar las piezas que se adapten a tus necesidades.
+Tú no. Es fácil empezar en Marketo Engage, y va a evolucionar con usted. Puedes aprender todo si quieres, o simplemente usar las piezas que se adapten a tus necesidades.
 
 ## ¿Tengo que hacer alguna configuración? {#do-i-need-to-do-any-setup}
 
-Sí, hicimos una [lista de comprobación de cosas que hacer](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
+Sí, hay un puñado de pasos que debe realizar (o que le recomendamos encarecidamente), y [se pueden encontrar aquí](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## ¿Tengo que esperar hasta que finalice la instalación para aprender? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -56,8 +58,8 @@ Sí la hay. Se destacan los límites estáticos (y otros parámetros) [en este a
 
 ## ¿Cuánto tiempo mantiene Marketo mis datos? {#data-retention-policy}
 
-Consulte las [esta publicación de Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} para obtener más información.
+Consulte las [esta publicación del blog Marketing Nation](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} para obtener más información.
 
 <br>
 
-Le damos la bienvenida a Marketo Engage! Nos alegra que estés aquí.
+¡Bienvenido a Marketo Engage!

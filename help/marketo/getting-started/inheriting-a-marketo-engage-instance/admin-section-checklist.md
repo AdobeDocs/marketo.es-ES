@@ -3,10 +3,10 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 
 >[!TIP]
 >
->Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario del Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario del Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -52,7 +52,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
  </tbody> 
 </table>
 
-## Usuarios y funciones {#users-and-roles}
+## Usuarios y roles {#users-and-roles}
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Quiénes son los <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">Usuarios de API</a> en este caso?</li></td>
   </tr>
   <tr> 
-   <td>Funciones</td> 
+   <td>Roles</td> 
    <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Tanto si utiliza Marketo con identidad de Adobe como si no, revise los permisos de funciones en Marketo Engage en Administración &gt; Usuarios y funciones &gt; Funciones.
    <p><li>¿Cuántos roles hay?</li>  
 <li>Qué <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permisos/acceso</a> ¿tiene cada función? ¿Se debe realizar algún ajuste?</li>
@@ -83,7 +83,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   </tr>
   <tr> 
    <td>Usuarios de asistencia</td> 
-   <td><li>¿Ha configurado el <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contactos autorizados</a> en el Portal de asistencia?</li></td>
+   <td><li>¿Ha configurado el <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contactos autorizados</a> en el Portal de asistencia?</li></td>
   </tr>
   <tr> 
    <td>Documentación interna</td> 
@@ -99,7 +99,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
  </tbody> 
 </table>
 
-## Pista de auditoría {#audit-trail}
+## Seguimiento de auditoría {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,13 +108,13 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Pista de auditoría</td> 
+   <td>Seguimiento de auditoría</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Quién está trabajando</a> en la instancia?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Espacios de trabajo y particiones {#workspaces-and-partitions}
+## Esp. de trab. y particiones {#workspaces-and-partitions}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -123,7 +123,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Espacios de trabajo y particiones</td> 
+   <td>Esp. de trab. y particiones</td> 
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Espacios de trabajo o particiones</a> ¿tiene usted?</li>
 <li>¿Cuál es el propósito principal de cada espacio de trabajo y partición?</li>
 <li>Haga lo siguiente <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> o <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Particiones</a> ¿necesita ser auditado/cambiado?</li>
@@ -351,7 +351,7 @@ Una vez que haya terminado de auditar la configuración de Usuarios y funciones,
 <li>¿Hay funciones que se deben activar o desactivar?</li></td>
   </tr>
   <tr> 
-   <td>Inspector de campaña</td> 
+   <td>Inspector de campañas</td> 
    <td><li>Es <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspector de campaña</a> ¿encendida?
 <br/>Si no es así, considere activarla para identificar fácilmente qué campañas están activas, sincronizándose con su CRM o eliminando registros.</li></td>
   </tr>

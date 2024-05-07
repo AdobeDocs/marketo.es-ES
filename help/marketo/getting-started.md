@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: 'Introducción: Documentos de Marketo: documentación del producto'
 title: Introducción
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 18%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +17,7 @@ ht-degree: 18%
 
 ## ¿Qué es Adobe Marketo Engage? {#what-is-marketo-engage}
 
-¿Qué es el Marketo Engage? ¡buena pregunta!
+¿Qué es el Marketo Engage? ¡Gran pregunta!
 
 [Marketo Engage de aprendizaje](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
@@ -23,7 +25,7 @@ ht-degree: 18%
 
 Con un poco de ayuda de su equipo de TI, podrá hacerlo en poco tiempo.
 
-[Iniciar configuración](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Iniciar configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Consiga algunas victorias rápidas {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Complete estas misiones para conocer las características principales de Marketo
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importar" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importar" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. Enviar un correo electrónico</a>
     </div>
