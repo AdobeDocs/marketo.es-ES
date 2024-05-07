@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '428'
 ht-degree: 10%
 
 ---
@@ -53,7 +53,18 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nuevos permisos de usuarios y funciones</strong>: Hay nuevos permisos disponibles, que proporcionan a los usuarios un acceso más granular a Marketo Engage. Controle las partes del administrador que no estaban bloqueadas anteriormente, como Nueva experiencia y Audiencias predictivas, divida los permisos para conceder acceso a la pista de auditoría de recursos y a la pista de auditoría de administración por separado y utilice los nuevos permisos de creación y movimiento de recursos y carpetas para evitar que los usuarios de solo lectura realicen cambios. Aunque los nuevos permisos aparecerán en la instancia de Marketo Engage a partir del 26 de abril, por ahora son pasivos y estarán accesibles a finales de este trimestre.</td> 
+   <td><strong>Nuevos permisos de usuarios y funciones</strong>: Hay nuevos permisos disponibles, que proporcionan a los usuarios un acceso más granular a Marketo Engage. Controle las partes del administrador que no estaban bloqueadas anteriormente, como Nueva experiencia y Audiencias predictivas, divida los permisos para conceder acceso a la pista de auditoría de recursos y a la pista de auditoría de administración por separado y utilice los nuevos permisos de creación y movimiento de recursos y carpetas para evitar que los usuarios de solo lectura realicen cambios. 
+   <p>Aunque los nuevos permisos aparecerán en la instancia de Marketo Engage a partir del 26 de abril, por ahora son pasivos y estarán accesibles a finales de este trimestre.
+   <li>Acceso a Adobe Experience Manager</li>
+   <li>Asignación de organización de Adobe de acceso</li>
+   <li>Registro de auditoría de administración de acceso</li>
+   <li>Acceder a pista de auditoría de activos</li>
+   <li>Acceder a nueva experiencia</li>
+   <li>Acceso a Predictive Audiences</li>
+   <li>Crear informe</li>
+   <li>Crear lista</li>
+   <li>Exportar actividad de campaña</li>
+   </td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descripciones de los permisos de funciones</a></td>
   </tr>
