@@ -3,16 +3,16 @@ description: Antes de sumergirse en la nueva instancia de Marketo Engage, deber�
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
 # Lista de comprobación de configuración de usuario {#user-setup-checklist}
 
-Ahora que ha completado todas las [pasos iniciales de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md)Sin embargo, es hora de establecer algunos elementos fundamentales para garantizar un uso continuo sin problemas. Esto sentará las bases para su recorrido con Marketo Engage y le ayudará a aprovechar al máximo sus características. ¡Vamos a empezar!
+Ahora que ha completado todas las [pasos iniciales de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}Sin embargo, es hora de establecer algunos elementos fundamentales para garantizar un uso continuo sin problemas. Esto sentará las bases para su recorrido con Marketo Engage y le ayudará a aprovechar al máximo sus características. ¡Vamos a empezar!
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Las nuevas suscripciones de Marketo Engage se han incorporado a [Adobe Identity 
     <td>Administrador de productos de Marketo Engage y suscripción</td>
     <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li>  
     <ul>
-    <li>Contacto <a href="https://helpx.adobe.com/contact.html">Adobe del Servicio de atención al cliente</a> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
+    <li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> o envíe un correo electrónico a customercare@marketo.comto para saber quién en su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
     <li>Acepte la invitación "Marketo Engage Product Admin" para activar su Adobe ID. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">correo electrónico de bienvenida</a> se envía cuando se asigna la función en Adobe Admin Console.</li></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Las nuevas suscripciones de Marketo Engage se han incorporado a [Adobe Identity 
 
 ## Configuración del Dynamic Chat en Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Para usar [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), el canal nativo de automatización de conversaciones en Marketo Engage, continúe con la configuración de permisos de usuario siguiendo los pasos que se indican a continuación en la [Adobe Admin Console](https://adminconsole.adobe.com/).
+Para usar [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), el canal nativo de automatización de conversaciones en Marketo Engage, continúe con la configuración de permisos de usuario siguiendo los pasos que se indican a continuación en la [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -79,7 +79,8 @@ Para usar [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/p
 <tbody>
   <tr>
     <td>Administrador de productos de Dynamic Chat y suscripción (si corresponde)</td>
-    <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe. Contacto <a href="https://helpx.adobe.com/contact.html">Adobe del Servicio de atención al cliente</a> para averiguar quién en su organización tiene privilegios de administrador en la consola.</li>
+    <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li> 
+    <ul><li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
     <li>Acepte el <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Administrador de productos de Dynamic Chat'</a> invitar. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">correo electrónico de bienvenida</a> se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.</li></td>
   </tr>
   <tr>
@@ -121,4 +122,4 @@ Para usar [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/p
 
 <p>
 
-Ahora que su cuenta de Marketo Engage está lista, revise nuestra [Prácticas recomendadas para una nueva instancia de Marketo Engage](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) para aprovechar al máximo su inversión y prepararse para el éxito a largo plazo.
+Ahora que su cuenta de Marketo Engage está lista, revise nuestra [Prácticas recomendadas para una nueva instancia de Marketo Engage](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} para aprovechar al máximo su inversión y prepararse para el éxito a largo plazo.
