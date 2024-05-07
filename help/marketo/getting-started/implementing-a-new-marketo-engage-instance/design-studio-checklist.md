@@ -3,7 +3,7 @@ description: Configure la sección Design Studio para la nueva instancia de Mark
 title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de Design Studio'
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 6%
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 En la sección Design Studio es donde deben residir los &quot;recursos globales&quot; reutilizables. Cree los recursos globales que su organización planea utilizar en los programas, utilice una convención de nombres uniforme y organícelos en las subcarpetas para facilitar las búsquedas.
 
-Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
+Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
 
 ## Páginas de destino {#landing-pages}
 

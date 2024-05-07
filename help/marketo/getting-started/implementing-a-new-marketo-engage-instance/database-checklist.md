@@ -3,7 +3,7 @@ description: Configure la sección Base de datos para la nueva instancia de Mark
 title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de bases de datos'
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 La sección Base de datos es donde encontrará los atributos clave de las personas de la instancia. Obtenga más información sobre los pasos necesarios para navegar por diferentes listas y segmentaciones de la base de datos, así como para administrar registros de personas.
 
-Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
+Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
 
 ## Listas inteligentes del sistema {#system-smart-lists}
 

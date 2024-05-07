@@ -3,7 +3,7 @@ description: Antes de sumergirse en la nueva instancia de Marketo Engage, deber�
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Ahora que ha completado todas las [pasos iniciales de configuración](/help/mark
 
 >[!NOTE]
 >
->También puede descargar esta lista de comprobación, [junto con una lista de prácticas recomendadas](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) para la nueva instancia y compruebe los pasos a medida que avanza.
+>También puede descargar esta lista de comprobación, [junto con una lista de prácticas recomendadas](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) para la nueva instancia y compruebe los pasos a medida que avanza.
 
 ## Marketo Engage en Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
