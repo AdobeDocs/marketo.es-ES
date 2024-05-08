@@ -4,16 +4,16 @@ description: Informe De Correo Electrónico, Rendimiento De La Campaña En Espac
 title: Correo electrónico del informe, rendimiento de la campaña en espacios de trabajo
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Correo electrónico del informe, rendimiento de la campaña en espacios de trabajo {#report-email-campaign-performance-across-workspaces}
 
-Active los informes globales para incluir datos de todos sus Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en su [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Rendimiento de vínculo de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), y [Actividad de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) informes.
+Active los informes globales para incluir datos de todos sus Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en su [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) y [Rendimiento de vínculo de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) informes.
 
 1. Ir a **Analytics** (o **Actividades de marketing**) área.
 

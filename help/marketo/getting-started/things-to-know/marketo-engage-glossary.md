@@ -3,9 +3,9 @@ description: Glosario del Marketo Engage - Documentos de Marketo - Documentació
 title: Glosario del Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 3%
 
 ---
@@ -129,11 +129,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr> 
    <td colspan="1"><strong>Campaña</strong></td> 
    <td colspan="1">"Campaña" puede significar algunas cosas en Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaña</a> es un término más corto para campaña inteligente. Entrada <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campañas</a> son una serie de pasos de correspondencia multicanal. Entrada <strong>Personalización web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campañas</a> son reacciones personalizadas asociadas a un segmento específico.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Informe Actividad de la campaña</a></strong></td> 
-   <td colspan="1">Tipo de informe que muestra cómo <strong>campañas inteligentes</strong> están funcionando.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Informe de rendimiento de correo electrónico de Campaign</a></strong></td> 
    <td colspan="1">Tipo de informe que muestra las métricas de rendimiento de correo electrónico agrupadas por <strong>campaña inteligente</strong>.</td> 
