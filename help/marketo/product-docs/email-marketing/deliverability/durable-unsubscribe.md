@@ -4,9 +4,9 @@ description: 'Cancelación de suscripción duradera: documentación de Marketo: 
 title: Cancelación de suscripción duradera
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Si cambia una dirección de correo electrónico sin suscribir a una que está su
 ## Volver a suscribirse {#re-subscribing}
 
 Al igual que una cancelación de suscripción haría que todas las personas con la misma dirección de correo electrónico se cancelaran, una nueva suscripción volvería a suscribir a todas las personas con la misma dirección de correo electrónico.
-
-## Registro de actividad {#activity-log}
-
-Definiciones de cambio de valor de datos para _updateLeadEmailStatus_ y _resetLeadEmailStatus_ se puede encontrar en [este artículo comunitario](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
