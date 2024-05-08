@@ -4,7 +4,7 @@ description: 'Filtrado de un informe de actividad de campaña: documentos de Mar
 title: Filtrado de un informe de actividad de campaña
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Enfoque su [Informe Actividad de la campaña](/help/marketo/product-docs/reporti
 
 1. Ir a **Actividades de marketing** (o **Analytics**) y seleccione el informe de actividad de la campaña.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Haga clic en **Configurar** y haga doble clic en **Campañas**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Elija las carpetas y las campañas inteligentes específicas que desea incluir en el informe. Clic **Aplicar**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ Enfoque su [Informe Actividad de la campaña](/help/marketo/product-docs/reporti
 
 1. ¡Ya terminaste! Haga clic en **Informe** pestaña para ver _justo_ Seleccione las campañas inteligentes seleccionadas en el informe.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
