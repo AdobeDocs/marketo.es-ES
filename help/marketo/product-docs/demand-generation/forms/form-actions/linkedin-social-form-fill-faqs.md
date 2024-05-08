@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: 'Preguntas frecuentes sobre el relleno de formularios sociales de linkedIn: documentos de Marketo, documentación del producto'
 title: Preguntas frecuentes sobre linkedIn Social Form Fill
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -37,9 +39,9 @@ Antes de realizar este cambio, enviamos notificaciones semanales a su bandeja de
 
 Sí. El cambio solo afecta a la funcionalidad LinkedIn Social Form Fill.
 
-## ¿Facebook y Twitter Social Form Fill siguen funcionando? {#do-facebook-and-twitter-social-form-fill-still-work}
+## ¿Sigue funcionando Facebook y el relleno de formulario social de Twitter? {#do-facebook-and-twitter-social-form-fill-still-work}
 
-Sí. Facebook y el relleno de formulario social de Twitter no han cambiado.
+Sí. Facebook y el relleno del formulario social de Twitter no han cambiado.
 
 ## ¿Ha pasado algo con los datos que ya capturamos a través del rellenado del formulario social de LinkedIn? {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
@@ -61,11 +63,11 @@ No, los formularios de los que hemos eliminado esta funcionalidad siguen publica
 
 No, solo se eliminará el botón LinkedIn del formulario. Siempre que se aplica Relleno de formulario social a un formulario, existe un contenedor creado encima que contiene los botones Relleno de formulario social. Antes del 28 de abril de 2016, si LinkedIn era la única opción, la apariencia del contenedor se parecía a esta imagen:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Después del 28 de abril de 2016, ahora hay un contenedor vacío en la parte superior de cualquier formulario en el que se haya eliminado Rellenar formulario social de LinkedIn:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >

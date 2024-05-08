@@ -4,14 +4,18 @@ description: 'Añadir audiencias coincidentes de LinkedIn como servicio de Launc
 title: Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán volver a autenticar todos los servicios de LaunchPoint de LinkedIn en su **Administrador** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte la [Preguntas frecuentes sobre migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
