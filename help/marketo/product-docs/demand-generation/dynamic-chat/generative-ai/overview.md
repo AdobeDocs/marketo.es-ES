@@ -4,10 +4,10 @@ title: Información general sobre Generative AI
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ La inteligencia artificial aplicada a la generación, en Adobe Dynamic Chat, per
 
 ## Generación de preguntas {#question-generation}
 
-Mejore las experiencias entrantes con conversaciones asistidas por IA para visitantes que utilizan una interfaz formada con conocimientos de ventas, marketing y productos.
+[Elevar experiencias entrantes](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) con conversaciones asistidas por IA para visitantes que utilizan una interfaz formada con conocimientos de ventas, marketing y productos.
 
-CAPTURA DE PANTALLA
+![](assets/generative-ai-overview-1.png)
 
 ## Biblioteca de respuestas {#response-library}
 
-Produzca una colección personalizada de preguntas y respuestas, todas preaprobadas por usted, para usarlas dentro de campañas de chat de inteligencia artificial aplicada a la generación.
+[Producir una colección personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de preguntas y respuestas, todas aprobadas previamente por usted, para su uso dentro de campañas de chat de inteligencia artificial generativa.
 
-CAPTURA DE PANTALLA
+![](assets/generative-ai-overview-2.png)
 
 ## Registro de actividades {#activity-log}
 
-Consulte una lista de todas las tareas y los detalles correspondientes, incluido el nombre, el propietario, el tipo, quién las editó y cuándo.
+[Ver una lista de todas las tareas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) y los detalles que los acompañan, como nombre, propietario, tipo, quién los editó y cuándo.
 
-CAPTURA DE PANTALLA
+![](assets/generative-ai-overview-3.png)
 
 ## Preguntas sin respuesta {#unanswered-questions}
 
-Cree respuestas preaprobadas adicionales para su biblioteca de respuestas mediante IA en función de un repositorio de preguntas sin responder de conversaciones anteriores.
+[Crear respuestas preaprobadas adicionales](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para su biblioteca de respuestas con IA basado en un repositorio de preguntas sin responder de conversaciones anteriores.
 
-CAPTURA DE PANTALLA
+![](assets/generative-ai-overview-4.png)

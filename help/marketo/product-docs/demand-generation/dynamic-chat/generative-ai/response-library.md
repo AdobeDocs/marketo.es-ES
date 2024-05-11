@@ -4,10 +4,10 @@ title: Biblioteca de respuestas
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -57,24 +57,49 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
 ## Editar y cargar preguntas/respuestas de forma masiva {#bulk-edit-and-upload-questions-responses}
 
-1. Texto
+A continuación, encontrará instrucciones sobre cómo realizar ediciones masivas en el archivo de Excel descargado. También se pueden ver en la pestaña Detalles de la tarea del archivo.
 
-CAPTURA DE PANTALLA
+<table>
+<thead>
+  <tr>
+    <th>Acción</th>
+    <th>Instrucciones</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Editar una pregunta</td>
+    <td>Introduzca la nueva pregunta en la columna "editedQuestion" (columna H)</td>
+  </tr>
+  <tr>
+    <td>Editar una respuesta</td>
+    <td>Introduzca la nueva respuesta en la columna "editedResponse" (columna I)</td>
+  </tr>
+  <tr>
+    <td>Añadir una nueva pregunta</td>
+    <td>Introduzca la nueva pregunta en la columna "editedQuestion" (columna H) y deje questionResponsed en blanco. También debe introducir un tema adecuado en la columna "temas" (columna C) y una URL de origen en la columna "sourceUrl!"</td>
+  </tr>
+  <tr>
+    <td>Agregar una pregunta y una respuesta</td>
+    <td>Introduzca la nueva pregunta en la columna "editedQuestion" (columna H), la nueva respuesta en la columna "editedResponse" (columna I) y deje questionResponsed en blanco. También debe introducir un tema apropiado en la columna "temas" (columna C)</td>
+  </tr>
+</tbody>
+</table>
 
-1. Texto
+1. Cuando haya terminado de realizar las ediciones en el archivo, vuelva a la pestaña Biblioteca de respuestas y haga clic en Cargar respuestas.
 
-CAPTURA DE PANTALLA
+   ![](assets/response-library-9.png)
 
-1. Texto
+1. Introduzca el nombre de tarea aplicable. Arrastre y suelte el archivo, o búsquelo en el dispositivo y selecciónelo. Haga clic en **Guardar** cuando termine.
 
-CAPTURA DE PANTALLA
+   ![](assets/response-library-10.png)
 
-1. Texto
+1. Aparece la confirmación y ya está todo listo.
 
-CAPTURA DE PANTALLA
+   ![](assets/response-library-11.png)
 
 ## Filtrar sus preguntas {#filter-your-questions}
 
 De forma predeterminada, las preguntas se enumeran en orden por hora/fecha de creación, y se muestran primero las más recientes. Si busca una pregunta concreta, aplique filtros para limitar la búsqueda. Filtre por temas, nombre de tarea o estado de aprobación.
 
-CAPTURA DE PANTALLA
+![](assets/response-library-12.png)
