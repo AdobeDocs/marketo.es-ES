@@ -4,16 +4,16 @@ title: Generación de preguntas
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # Generación de preguntas {#question-generation}
 
-Vea todas las tareas y sus detalles relevantes, como cuándo se generaron, la cantidad total de preguntas, el estado de aprobación y más.
+Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la cantidad total de preguntas, el estado de aprobación y más.
 
 ## Generar preguntas {#generate-questions}
 
@@ -37,11 +37,11 @@ Vea todas las tareas y sus detalles relevantes, como cuándo se generaron, la ca
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->El estado de la página no se actualiza en tiempo real. Pulse Actualizar para ver cuándo pasa de &quot;Procesando&quot; a &quot;Completado&quot;.
+   >[!TIP]
+   >
+   >El estado de la página no se actualiza en tiempo real. Pulse Actualizar para ver cuándo pasa de &quot;Procesando&quot; a &quot;Completado&quot;.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Descargar preguntas y respuestas {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Vea todas las tareas y sus detalles relevantes, como cuándo se generaron, la ca
 
    ![](assets/question-generation-6.png)
 
-1. Busque la carpeta de descargas en el explorador y seleccione el archivo. Este aspecto puede variar según el explorador.
+1. Busque la carpeta de descargas en el explorador y seleccione el archivo. Este aspecto puede variar según el explorador que utilice.
 
    ![](assets/question-generation-7.png)
 
