@@ -4,16 +4,17 @@ title: Enviar una lista a Google
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Enviar una lista a Google {#send-a-list-to-google}
 
-Siga los pasos a continuación para enviar una lista estática a su cuenta de Google.
+Para aquellos que utilizan Customer Match de Google, siga los pasos a continuación para enviar una lista estática de Marketo Engage a su cuenta de Google.
 
 1. En Marketo Engage, busque y seleccione la lista que desee.
 
@@ -39,7 +40,7 @@ Siga los pasos a continuación para enviar una lista estática a su cuenta de Go
    >
    >* Seleccionar **Mantener sincronización del abono a audiencia** mantiene la lista actualizada a medida que cambia en la instancia. Añadimos o eliminamos personas de la audiencia cuando se añaden o eliminan de la lista estática.
    >
-   >* Al seleccionar la casilla de verificación en la parte inferior, se envía el estado de consentimiento como CONCEDIDO para los datos de usuario enviados a Google Ads con fines de publicidad y personalización de anuncios. Si lo deja sin marcar, el estado de consentimiento se envía como NO ESPECIFICADO.
+   >* Al seleccionar la casilla de verificación en la parte inferior, se envía el estado de consentimiento como CONCEDIDO para los datos de usuario enviados a Google Ads con fines de publicidad y personalización de anuncios. Si lo deja sin marcar, el estado de consentimiento se envía como NO ESPECIFICADO. Para aquellos que planean cargar datos para usuarios en el Espacio Económico Europeo (EEE), Google ha elaborado una lista de [Preguntas frecuentes](https://support.google.com/google-ads/answer/14310715), así como detalles adicionales en los que se describe la [Política de consentimiento del usuario de la UE](https://www.google.com/about/company/user-consent-policy/).
 
 1. Clic **Actualizar**.
 
