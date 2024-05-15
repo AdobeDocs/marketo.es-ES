@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '359'
 ht-degree: 3%
 
 ---
@@ -16,41 +16,47 @@ ht-degree: 3%
 
 La IA generativa en el Adobe Dynamic Chat procesa las señales de intención, las preferencias del usuario y la conducta pasada en tiempo real para generar mensajes relevantes y personalizados para los visitantes del chat.
 
+## Permisos {#permissions}
+
+Para utilizar IA generativa, asegúrese de otorgar a los usuarios deseados lo adecuado [permissions](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+
+![](assets/generative-ai-overview-1.png)
+
 ## Tarjeta de respuesta de generación {#generation-response-card}
 
 Cree un mensaje para el visitante cuando llegue a un determinado punto de la conversación. Configure una serie de preguntas que pueden hacerse de una sola vez para lograr el indicador clave de rendimiento deseado. Añada hasta 5 preguntas de seguimiento e incluya un mensaje de reserva cuando no haya respuesta disponible a la pregunta de un visitante.
 
-(assets/generative-ai-overview-1.png
+![](assets/generative-ai-overview-2.png)
 
 ## Resumen de la conversación {#conversation-summary}
 
 Normalmente, para obtener el contexto completo de una conversación con un visitante, debe desplazarse por toda la transcripción del chat. El resumen de la conversación genera un resumen en tiempo real e incluso incluye temas en los que el visitante expresó interés. Esto es particularmente útil para los agentes de chat que necesitan contexto rápido de una conversación cuando están cambiando entre chats con varios visitantes.
 
-(assets/generative-ai-overview-2.png
+![](assets/generative-ai-overview-3.png)
 
 ## Generación de preguntas {#question-generation}
 
 [Elevar experiencias entrantes](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) con conversaciones asistidas por IA para visitantes que utilizan una interfaz formada con conocimientos de ventas, marketing y productos.
 
-![](assets/generative-ai-overview-1.png)
+![](assets/generative-ai-overview-4.png)
 
 ## Biblioteca de respuestas {#response-library}
 
 [Producir una colección personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de preguntas y respuestas, todas aprobadas previamente por usted, para su uso dentro de campañas de chat de inteligencia artificial generativa.
 
-![](assets/generative-ai-overview-2.png)
+![](assets/generative-ai-overview-5.png)
 
 ## Registro de actividades {#activity-log}
 
 [Ver una lista de todas las tareas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) y los detalles que los acompañan, como nombre, propietario, tipo, quién los editó y cuándo.
 
-![](assets/generative-ai-overview-3.png)
+![](assets/generative-ai-overview-6.png)
 
 ## Preguntas sin respuesta {#unanswered-questions}
 
 [Crear respuestas preaprobadas adicionales](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para su biblioteca de respuestas con IA basado en un repositorio USE UNA PALABRA DIFERENTE de preguntas sin responder de conversaciones anteriores.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-7.png)
 
 >[!IMPORTANT]
 >
@@ -69,12 +75,3 @@ Sí. Hay un límite de duración de 1000 en este momento.
 **¿Qué idiomas están disponibles en la IA generativa?**
 
 Actualmente, solo se admite inglés en la IA generativa.
-
-
-
-POR KG POR DEBAJO...
-
-VÍDEO - 13:09 - MÉTODOS ABREVIADOS
-
-
-
