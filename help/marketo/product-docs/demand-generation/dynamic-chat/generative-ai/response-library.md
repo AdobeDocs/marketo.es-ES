@@ -4,9 +4,10 @@ title: Biblioteca de respuestas
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
@@ -17,27 +18,27 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
 ## Añadir una pregunta manualmente {#manually-add-a-question}
 
-1. En IA generativa, haga clic en **Respuestas asistidas**.
+1. En IA generativa, haga clic en **[!UICONTROL Respuestas asistidas]**.
 
    ![](assets/response-library-1.png)
 
-1. Haga clic en **Biblioteca de respuestas** pestaña.
+1. Haga clic en **[!UICONTROL Biblioteca de respuestas]** pestaña.
 
    ![](assets/response-library-2.png)
 
-1. Clic **Añadir pregunta**.
+1. Clic **[!UICONTROL Añadir pregunta]**.
 
    ![](assets/response-library-3.png)
 
-1. Escriba su pregunta y respuesta. Asigne un tema y añada una dirección URL opcional que los usuarios puedan compartir con los visitantes. Haga clic en **Guardar** cuando termine.
+1. Escriba su pregunta y respuesta. Asigne un tema y añada una dirección URL opcional que los usuarios puedan compartir con los visitantes. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/response-library-4.png)
 
-1. Haga clic en Actualizar y la nueva pregunta aparecerá en la parte superior con el estado &quot;Procesando&quot;.
+1. Haga clic en Actualizar y la nueva pregunta aparecerá en la parte superior con el estado &quot;[!UICONTROL Procesando].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Después de unos minutos, haga clic de nuevo y el estado cambiará a Aprobado.
+1. Después de unos minutos, vuelva a actualizarse y el estado cambiará a Aprobado.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
 >[!NOTE]
 >
->De forma predeterminada, todas las preguntas y respuestas generadas tienen asignado el estado &quot;necesidad de revisión&quot;. Solo las preguntas y respuestas &quot;aprobadas&quot; están disponibles para los visitantes de chat.
+>Todas las preguntas y respuestas generadas se asignan al &quot;[!UICONTROL necesitar revisión]Estado &quot; de forma predeterminada. Solo &quot;[!UICONTROL aprobado]Las preguntas y respuestas de están disponibles para los visitantes de chat.
 
-1. En el **Biblioteca de respuestas**, haga clic en la pregunta que desee.
+1. En el **[!UICONTROL Biblioteca de respuestas]**, haga clic en la pregunta que desee.
 
    ![](assets/response-library-7.png)
 
-1. Realice las ediciones que desee y haga clic en **Guardar**.
+1. Realice las ediciones necesarias y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/response-library-8.png)
 
@@ -86,11 +87,11 @@ A continuación, encontrará instrucciones sobre cómo realizar ediciones masiva
 </tbody>
 </table>
 
-1. Cuando haya terminado de realizar las ediciones en el archivo, vuelva a la pestaña Biblioteca de respuestas y haga clic en Cargar respuestas.
+1. Una vez que haya terminado de realizar las ediciones en el archivo, vuelva al **[!UICONTROL Biblioteca de respuestas]** y haga clic en **[!UICONTROL Cargar respuestas]**.
 
    ![](assets/response-library-9.png)
 
-1. Introduzca el nombre de tarea aplicable. Arrastre y suelte el archivo, o búsquelo en el dispositivo y selecciónelo. Haga clic en **Guardar** cuando termine.
+1. Introduzca el nombre de tarea aplicable. Arrastre y suelte el archivo, o búsquelo en el dispositivo y selecciónelo. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/response-library-10.png)
 
