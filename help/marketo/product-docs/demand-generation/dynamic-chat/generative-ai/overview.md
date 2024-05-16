@@ -3,9 +3,9 @@ description: 'Información general sobre la IA generativa: documentos de Marketo
 title: Información general sobre Generative AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ Normalmente, para obtener el contexto completo de una conversación con un visit
 
 ## Preguntas sin respuesta {#unanswered-questions}
 
-[Crear respuestas preaprobadas adicionales](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para su biblioteca de respuestas con IA basado en un repositorio USE UNA PALABRA DIFERENTE de preguntas sin responder de conversaciones anteriores.
+[Crear respuestas preaprobadas adicionales](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para su biblioteca de respuestas con IA basado en un repositorio de preguntas sin responder de conversaciones anteriores.
 
 ![](assets/generative-ai-overview-8.png)
 
