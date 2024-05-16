@@ -1,11 +1,12 @@
 ---
 description: Diseñador de transmisiones - Documentos de Marketo - Documentación del producto
 title: Diseñador de flujo
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 2%
 
 ---
@@ -41,7 +42,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
   <td>Utilícelo cuando desee recopilar información (por ejemplo, nombre, dirección de correo electrónico, cargo, etc.). Después de elegir a qué campo atribuir su respuesta, puede elegir entre dejar que el visitante escriba su respuesta o seleccionar opciones de una lista de selección que determine (sugerencia: esta última puede ayudar con la limpieza de la base de datos). También puede sobrescribir con su respuesta los datos que tenga actualmente enumerados para ellos, o bien, omitir la pregunta por completo si ya tiene un valor para ellos.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Reserva de reuniones</strong></td>
+  <td style="width:25%"><strong>Convocatoria de reunión</strong></td>
   <td>Proporciona al visitante un calendario de fechas disponibles para programar una reunión. Elija la disponibilidad del calendario mediante round robin, un agente específico o mediante reglas personalizadas. Clic <b>Añadir atributo</b> si desea capturar el nombre o la dirección de correo electrónico del agente y asignarlo al registro de persona del visitante del chat para futuras consultas (sugerencia: cree un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para asignar la información del agente a para no sobrescribir un campo de Marketo Engage estándar).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  <tr>
   <td style="width:25%"><strong>Acción*</strong></td>
   <td>Al igual que los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de posible cliente o compañía (que tenga un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de datos de cadena</a>) con valores implícitos que desea capturar con un registro de posibles clientes. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.
-  <p><i>* Esta tarjeta requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
+  <p><i>* La tarjeta Acción requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat en directo</strong></td>
   <td>Utilice la tarjeta de chat en vivo cuando desee que los visitantes chateen con un agente en vivo.
   <li>La tarjeta de chat en vivo debe ser la última tarjeta de la sucursal.</li>
   <li>Los visitantes se dirigirán a un agente en cuanto lleguen a esta tarjeta en el flujo, por lo que se recomienda preceder esta tarjeta con una tarjeta de preguntas que pregunte a los visitantes si desean chatear con un agente en directo.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Respuestas generadas*</strong></td>
-  <td>Cree un mensaje para el visitante cuando llegue a un determinado punto de la conversación. Configure una serie de preguntas que pueden hacerse de una sola vez para lograr el indicador clave de rendimiento deseado.
-  <p><i>* Esta tarjeta requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Rama condicional</strong></td>
-  <td>Cree ramas en los flujos de diálogo en función de diferentes condiciones. Presente contenido diferente a diferentes personas en el mismo cuadro de diálogo en función de los atributos del posible cliente y de la compañía en Marketo Engage.</td>
  </tr>
 </table>
 

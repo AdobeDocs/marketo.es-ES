@@ -1,12 +1,13 @@
 ---
 description: Bandeja de entrada del agente - Documentos de Marketo - Documentación del producto
 title: Bandeja de entrada del agente
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 1%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 
@@ -56,45 +57,11 @@ Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic e
 
 ![](assets/agent-inbox-6.png)
 
-## Métodos abreviados {#shortcuts}
-
->[!NOTE]
->
->Esta función forma parte de la IA generativa, disponible mediante la suscripción de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
-
-Métodos abreviados, con tecnología de IA generativa [Biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), es una buena manera de obtener ayuda sobre la marcha cuando se chatea con un visitante. Simplemente escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
-
-![](assets/agent-inbox-7.png)
-
-**Preguntar** es para obtener ayuda con las respuestas a una pregunta.
-
-1. Escriba o elija `/ask` en el cuadro de texto Escriba su pregunta y pulse Enter en el teclado.
-
-   ![](assets/agent-inbox-8.png)
-
-1. Aparecerá una respuesta. Haga clic en el icono Copiar para que se pegue automáticamente en el cuadro de texto. Puede editar el texto antes de enviarlo al visitante.
-
-   ![](assets/agent-inbox-9.png)
-
-**Buscar** es para obtener ayuda sobre la búsqueda de páginas relacionadas con texto específico.
-
-1. Escriba o elija `/search` en el cuadro de texto
-
-   ![](assets/agent-inbox-10.png)
-
-1. Escriba lo que quiera buscar y pulse Enter en el teclado.
-
-   ![](assets/agent-inbox-11.png)
-
-1. Aparecerán los vínculos aplicables. Haga clic en el icono Copiar para que se peguen automáticamente en el cuadro de texto. Puede realizar modificaciones antes de enviar la información al visitante.
-
-   ![](assets/agent-inbox-12.png)
-
 ## Historial de actividades {#activity-history}
 
 Debajo de la información del visitante se encuentra el historial de actividades. Vea los tipos de actividades y las fechas, e incluso vea las transcripciones de chat.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
 1. Haga clic en el icono de calendario.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Seleccione el calendario del agente deseado y haga clic en **Enviar**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. El visitante del chat podrá reservar una reunión.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## Resumen de la conversación {#conversation-summary}
-
->[!NOTE]
->
->Esta función forma parte de la IA generativa, disponible mediante la suscripción de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
-
-Resumen de la conversación genera un resumen rápido en tiempo real que incluye los temas por los que el visitante ha expresado interés. Está disponible en la parte inferior derecha de cada pantalla de chat.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->También se puede encontrar un resumen de conversación completado en el registro de actividad del registro de persona del visitante en la base de datos de Marketo Engage.
