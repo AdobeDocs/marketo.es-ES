@@ -3,10 +3,10 @@ description: Administración de usuarios y licencias - Documentos de Marketo - D
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -69,31 +69,31 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 <table> 
   <tr>
    <td width="20%"><b>Fecha de inicio</b></td>
-   <td>Fecha de inicio de la licencia.</td>
+   <td width="80%">Fecha de inicio de la licencia.</td>
   </tr>
   <tr> 
-   <td width="20%"><b>Fecha de caducidad</b></td>
-   <td>Fecha de caducidad de la licencia.</td>
+   <td width="20%"><b>Fecha de vencimiento</b></td>
+   <td width="80%">Fecha de caducidad de la licencia.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Tipo</b></td>
-   <td>El tipo de licencia adquirida. Hay tres tipos disponibles: licencia de eventos compartidos, licencia de salas compartidas, licencia de almacenamiento adicional.</td>
+   <td width="80%">El tipo de licencia adquirida. Hay tres tipos disponibles: licencia de eventos compartidos, licencia de salas compartidas, licencia de almacenamiento adicional.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacidad del evento</b></td>
-   <td>Número máximo de participantes que pueden alojarse en un evento.</td>
+   <td width="80%">Número máximo de participantes que pueden alojarse en un evento.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Eventos totales</b></td>
-   <td>Número total de eventos que se han aprovisionado con esta licencia.</td>
+   <td width="80%">Número total de eventos que se han aprovisionado con esta licencia.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Eventos consumidos</b></td>
-   <td>Número total de eventos completados.</td>
+   <td width="80%">Número total de eventos completados.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacidad de almacenamiento</b></td>
-   <td>Cantidad de almacenamiento disponible para almacenar grabaciones, garantías, heros images, documentación y otros recursos.</td>
+   <td width="80%">Cantidad de almacenamiento disponible para almacenar grabaciones, garantías, heros images, documentación y otros recursos.</td>
   </tr>
   </tbody>
 </table>
