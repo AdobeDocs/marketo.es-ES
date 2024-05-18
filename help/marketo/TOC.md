@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 2%
 
 ---
@@ -1728,7 +1728,6 @@ ht-degree: 2%
             + [Mostrar personas o visitantes anónimos en los informes web](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Profundizar en un informe de rendimiento de personas](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Exportación de un informe a Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
-            + [Filtrado de un informe de actividad de campaña](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrado de recursos en informes de correo electrónico de Campaign](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrado de recursos en un informe de correo electrónico](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Agrupar informes de personas por atributo](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1742,7 +1741,6 @@ ht-degree: 2%
             + [Suscripción a un informe básico](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Suscripción a una lista inteligente](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Tipos de informes {#report-types}
-            + [Informe Actividad de la campaña](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Informe de rendimiento de correo electrónico de Campaign](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Informe Actividad web de la empresa](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Informe Personas por Estado](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
