@@ -4,16 +4,20 @@ description: Seleccione su idioma, configuración regional y zona horaria - Docu
 title: Seleccione su idioma, configuración regional y zona horaria
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # Seleccione su idioma, configuración regional y zona horaria {#select-your-language-locale-and-time-zone}
 
-¿El inglés no es tu primera lengua? No te preocupes, te tenemos cubierto. A continuación se indica cómo cambiar su propio idioma, configuración regional y zona horaria.
+¿El inglés no es tu primera lengua? No te preocupes, te tenemos cubierto. A continuación se indica cómo cambiar el idioma, la configuración regional y el huso horario de la instancia de Marketo Engage.
+
+>[!IMPORTANT]
+>
+>Este artículo es solo para aquellos que lo hacen _no_ use [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si lo hace, puede acceder a la configuración descrita a continuación en su [perfil de cuenta de Adobe](https://account.adobe.com/profile).
 
 ## Idiomas admitidos {#supported-languages}
 
@@ -54,7 +58,7 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
