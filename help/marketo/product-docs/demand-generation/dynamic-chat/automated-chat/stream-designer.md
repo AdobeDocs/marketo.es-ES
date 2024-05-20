@@ -3,7 +3,7 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 2%
@@ -115,7 +115,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    >[!TIP]
    >
-   >Puede personalizar la experiencia para los visitantes de chat conocidos mediante tokens (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Simplemente haga clic en el icono de llave a la derecha y realice su selección. Agregue un valor predeterminado entre las comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
+   >Puede personalizar la experiencia para los visitantes de chat conocidos mediante tokens (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Simplemente haga clic en el icono de llave a la derecha y realice su selección. Agregue un valor predeterminado entre comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
