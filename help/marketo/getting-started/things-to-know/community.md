@@ -4,9 +4,9 @@ title: Comunidad de Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ CAPTURA DE PANTALLA
 
 ## Configure su perfil {#set-up-your-profile}
 
-Cuando haya iniciado sesión en Marketing Nation, haga clic en el icono de avatar predeterminado y seleccione My settings para actualizar sus preferencias, cambiar la foto del avatar, controlar el etiquetado y más.
+Cuando haya iniciado sesión en Marketing Nation, haga clic en el icono de avatar predeterminado y seleccione **[!UICONTROL Mis configuraciones]** para actualizar sus preferencias, cambie la foto del avatar, controle el etiquetado y mucho más.
 
 CAPTURA DE PANTALLA
 
@@ -57,7 +57,7 @@ CAPTURA DE PANTALLA
 
 ## Grupos de usuarios de Marketo {#marketo-user-groups}
 
-Los grupos de usuarios de Marketo (MUG) son encuentros que tienen lugar en diferentes zonas del mundo. Le ofrecen la oportunidad de establecer contactos, analizar las últimas tendencias, obtener información sobre las nuevas funciones y mucho más. Comprueba si hay alguna en tu área. Si no lo hay, únase a un grupo de usuarios virtuales.
+Los grupos de usuarios de Marketo (MUG) son encuentros que tienen lugar en diferentes zonas del mundo. Le ofrecen la oportunidad de establecer contactos, analizar las últimas tendencias, obtener información sobre las nuevas funciones y mucho más. Comprueba si hay alguna en tu área. Si no lo hay, puede unirse a un grupo de usuarios virtuales.
 
 CAPTURA DE PANTALLA
 
@@ -85,6 +85,6 @@ En su solicitud, especifique los siguientes detalles:
 
 Nuestro equipo de la comunidad fusionará sus perfiles de la comunidad en 4-6 días hábiles. Una vez finalizado, verá su historial de participación en el perfil principal de la comunidad al iniciar sesión. Si no lo hace, cierre la sesión de su cuenta y vuelva a iniciarla para confirmar.
 
-<p>
+<br>
 
 Bienvenido a Marketo Engage, y disfrutar de la Nación de Marketing!
