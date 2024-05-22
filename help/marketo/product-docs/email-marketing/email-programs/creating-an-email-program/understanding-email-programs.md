@@ -4,10 +4,10 @@ description: Explicación de los programas de correo electrónico - Documentos d
 title: Explicación de programas de correo electrónico
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '303'
+ht-degree: 0%
 
 ---
 
@@ -36,15 +36,19 @@ Obtenga información acerca de las siguientes pruebas A/B:
 
 ## Tableros {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Algunos prefieren utilizar programas de correo electrónico en lugar de enviar un correo electrónico a través de una campaña inteligente debido al tablero de informes detallado del programa.
+>Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
 
 Disfruta de los frutos de tu trabajo. Los paneles muestran el rendimiento del programa de correo electrónico y de la prueba A/B de un vistazo.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Algunos prefieren utilizar programas de correo electrónico en lugar de enviar un correo electrónico a través de una campaña inteligente debido al panel de informes detallado del programa.
 
 ## Anidado {#nesting}
 

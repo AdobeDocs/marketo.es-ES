@@ -4,9 +4,9 @@ description: Ver el tablero del programa de correo electrónico - Documentos de 
 title: Ver el panel del programa de correo electrónico
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Ver el panel del programa de correo electrónico {#view-the-email-program-dashboard}
 
 Consulte el rendimiento de su programa de correo electrónico (con o sin prueba A/B) con este panel.
+
+>[!CAUTION]
+>
+>Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
 
 ## Seleccione su programa de correo electrónico {#select-your-email-program}
 

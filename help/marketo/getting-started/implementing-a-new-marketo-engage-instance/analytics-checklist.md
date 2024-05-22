@@ -4,7 +4,7 @@ title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación d
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Identifique los informes que deben compartirse con distintos grupos de usuarios 
     <td>NOTA: Este informe requiere que los canales, los estados de progresión y los pasos de éxito estén definidos en la <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Administración &gt; Área de etiquetas</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mida la eficacia de sus tácticas de marketing</a> dentro de programas selectivos.</li>
     <li>Administre la pertenencia al programa (mediante campañas inteligentes para actualizar el programa de adquisición, el estado y los estados de éxito) según las prácticas recomendadas dentro de las actividades de marketing.</li>
     <li>Medición basada en los costes del año actual y en 12 meses.
-    <ul><li>Recuerde que mantener <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costos de período</a> es fundamental para aprovechar el informe de rendimiento del programa.</li>
+    <ul><li>Recuerde que mantener <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costos de período</a> es fundamental para aprovechar el informe de rendimiento del programa.</li></ul>
     <br>SUGERENCIA: Para agregar y ver cualquiera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> en los Informes de rendimiento del programa, asegúrese de que sus equipos seleccionan el programa de adquisición adecuado para el etiquetado. Considerar <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creación de un programa predeterminado</a> que se va a seleccionar como programa de adquisición cuando las listas importadas no se aplican a ningún canal. Esto garantiza que cualquier persona importada tenga un programa de adquisición válido relacionado con su origen, unidad de negocio, canal, etc. en lugar de un valor en blanco.</td>
   </tr>
   <tr>

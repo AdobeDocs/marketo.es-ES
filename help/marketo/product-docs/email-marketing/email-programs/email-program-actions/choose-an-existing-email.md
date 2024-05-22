@@ -4,9 +4,9 @@ description: 'Elegir un correo electrónico existente: documentos de Marketo, do
 title: Elegir un correo electrónico existente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>[!CAUTION]
+>
+>Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
 
 Una vez que haya [creó un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) y ha definido su audiencia, deberá decidir qué correo electrónico va a enviar. Puede [creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) desde cero o elija uno que ya exista. Así es como elegir uno que ya existe.
 

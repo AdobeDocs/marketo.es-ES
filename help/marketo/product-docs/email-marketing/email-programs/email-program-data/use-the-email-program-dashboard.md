@@ -4,9 +4,9 @@ description: Uso del tablero del programa de correo electrónico - Documentos de
 title: Uso del panel del programa de correo electrónico
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Consulte el rendimiento de sus programas de correo electrónico con esta vista de panel.
 
+>[!CAUTION]
+>
+>Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
+
 >[!NOTE]
 >
->Si su programa tiene una prueba A/B, consulte la [Panel del programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Si su programa tiene una prueba A/B, consulte la [Panel del programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -25,7 +29,7 @@ Consulte el rendimiento de sus programas de correo electrónico con esta vista d
 >
 >Todos los datos de esta vista son acumulados (incluye la prueba A/B y el envío final por correo electrónico).
 
-## Enviar correo electrónico {#email-send}
+## Enviar email {#email-send}
 
 Aquí puede ver cuántos correos electrónicos se enviaron, rechazados y entregados.
 
@@ -47,7 +51,7 @@ Este gráfico muestra el número de correos electrónicos abiertos o en los que 
 
 ## Resumen - Participación {#summary-engagement}
 
-Esto le muestra el total [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Esto le muestra el total [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ Para ver los datos más actualizados, simplemente haga clic en el icono de actua
 
 >[!MORELIKETHIS]
 >
->[Uso del panel del programa de correo electrónico: vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Uso del panel del programa de correo electrónico: vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
