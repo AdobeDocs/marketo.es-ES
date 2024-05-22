@@ -4,16 +4,16 @@ description: Explicación de los programas de correo electrónico - Documentos d
 title: Explicación de programas de correo electrónico
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 2%
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 # Explicación de programas de correo electrónico {#understanding-email-programs}
 
-Salude a su nuevo amigo de Marketo, el programa de correo electrónico. Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados en un solo lugar.
+Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados en un solo lugar.
 
 ## Panel de control {#control-panel}
 
@@ -21,7 +21,7 @@ Cuatro cajas te mantienen concentrado. **Audiencia** define el &quot;quién&quot
 
 ![](assets/emailprogram.png)
 
-## Pruebas A/B {#a-b-testing}
+## Prueba A/B {#a-b-testing}
 
 Las pruebas A/B le permiten probar qué correo electrónico es el mejor.
 

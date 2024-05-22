@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 7%
 
 ---
 
@@ -30,6 +30,17 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:65%">Función</th> 
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
+  </tr>
+     <tr> 
+   <td><strong>Plantillas para seminarios web interactivos</strong>: los especialistas en marketing ahora pueden crear plantillas personalizadas para los diseños de sala en los seminarios web interactivos.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Campos deducidos en Forms</strong>: el origen de datos utilizado para rellenar campos deducidos cuando se crea una persona mediante el rellenado de formulario sin actividad web anterior se ha actualizado para utilizar el mismo origen de datos que otros métodos de recopilación de personas. Los datos de campo deducidos ahora son coherentes en todos los puntos de recopilación.</td> 
