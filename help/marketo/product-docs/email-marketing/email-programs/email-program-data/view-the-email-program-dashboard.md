@@ -4,9 +4,9 @@ description: Ver el tablero del programa de correo electrónico - Documentos de 
 title: Ver el panel del programa de correo electrónico
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Consulte el rendimiento de su programa de correo electrónico (con o sin prueba 
 
 >[!CAUTION]
 >
->Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
+>Para obtener un informe preciso, evite _reutilización_ Cree un correo electrónico desde un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar, ya que copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
 
 ## Seleccione su programa de correo electrónico {#select-your-email-program}
 

@@ -4,9 +4,9 @@ description: 'Elegir un correo electrónico existente: documentos de Marketo, do
 title: Elegir un correo electrónico existente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Para generar informes precisos, evite reutilizar un correo electrónico utilizado anteriormente en un programa de correo electrónico a través de una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se añadirán a los números de los informes en el panel original del programa de correo electrónico. Si necesita reutilizar el mismo correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar.
+>Para obtener un informe preciso, evite _reutilización_ Cree un correo electrónico desde un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar, ya que copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
 
 Una vez que haya [creó un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) y ha definido su audiencia, deberá decidir qué correo electrónico va a enviar. Puede [creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) desde cero o elija uno que ya exista. Así es como elegir uno que ya existe.
 
