@@ -3,7 +3,7 @@ description: Configure la sección Admin para la nueva instancia de Marketo Enga
 title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de la sección de administración'
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 6%
@@ -112,7 +112,8 @@ Como administrador nuevo que navega por una nueva instancia de Marketo Engage, a
     <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">etiquetas</a>.</li></td>
   </tr>
   <tr>
-    <td>Calendario (si procede)</td>
+    <td>Calendario<br> 
+    (si procede)</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso.</li>
     <li>Configure las variables <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Calendario</a>.</li></td>
   </tr>

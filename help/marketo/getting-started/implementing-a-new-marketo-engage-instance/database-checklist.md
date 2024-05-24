@@ -3,7 +3,7 @@ description: Configure la sección Base de datos para la nueva instancia de Mark
 title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de bases de datos'
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -84,8 +84,8 @@ Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/gett
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Área</th>
-    <th style="width:80%">Elementos de acción</th>
+    <th style="width:21%">Área</th>
+    <th style="width:79%">Elementos de acción</th>
   </tr>
 </thead>
 <tbody>

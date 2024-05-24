@@ -4,7 +4,7 @@ title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación d
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/gett
   <tr>
     <td>Organización: asignación de nombres, carpetas y archivado</td>
     <td><li>Utilice una convención de nombres de informes para diferenciar los informes de la pestaña Informes globales.</li>
-    <ul>
-    <li>Un ejemplo de práctica recomendada de convención de nombres es [Tipo de informe] [Etiqueta global frente a específica de la unidad de negocio] [Descripción del informe] como [Rendimiento de correo electrónico]-[Global]-[Participación de correo electrónico de 180 días].</li>
-    </ul> 
+    <ul><li>Un ejemplo de práctica recomendada de convención de nombres es [Tipo de informe] [Etiqueta global frente a específica de la unidad de negocio] [Descripción del informe] como [Rendimiento de correo electrónico]-[Global]-[Participación de correo electrónico de 180 días].</li></ul><br>
     <li>Identifique los informes que deben compartirse con distintos grupos de usuarios de su organización (por ejemplo, equipo de ventas o liderazgo de marketing) y organice los informes por carpeta dentro de la carpeta Informes de grupo en Analytics para informes globales.</li> 
     <li>El archivado debe limitarse a la carpeta Informes globales, ya que se trata de informes siempre activos.   <ul>
     <li>Limite el archivado a los cambios organizativos, como la reducción o adición de unidades de negocio relevantes, si realiza informes basados en una estructura de unidades de negocio.</li>
@@ -104,7 +102,7 @@ Identifique los informes que deben compartirse con distintos grupos de usuarios 
     <td>Informe de rendimiento de personas</td>
     <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Se recomienda tener un adecuado <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estrategia de canal y etiqueta</a> para cada implementación de Marketo Engage antes de poder rastrear a las personas adquiridas y el ROI de sus inversiones de marketing por canal.
     <p>
-    <li>Determine los criterios que utilizará para medir el rendimiento de los programas de adquisición de posibles clientes y crear los informes estándar basados en el tiempo (año actual, última vista móvil de 12 meses o 180 días) basados en las siguientes métricas:</li> <ul><li>Programa de Adquisición: Programa de Marketo Engage que recibe el crédito por adquirir a la persona.
+    <li>Determine los criterios que utilizará para medir el rendimiento de los programas de adquisición de posibles clientes y crear los informes estándar basados en el tiempo (año actual, última vista móvil de 12 meses o 180 días) basados en las siguientes métricas:</li> <ul><li>Programa de Adquisición: Programa de Marketo Engage que recibe el crédito por adquirir a la persona.</li>
     <li>Origen de Persona: Categoría de origen para cómo se llegó a conocer el registro en la base de datos (según la lista de origen de los valores de CRM)
     </li></ul>
     <li>Mida las personas creadas por semana o mes. Este informe proporciona una medida de la tasa de crecimiento de la base de datos y si se está acercando al límite de tamaño de la base de datos.</li>
