@@ -4,16 +4,20 @@ description: 'Información general de las funciones MSI: documentos de Marketo, 
 title: Información general de funciones MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 7%
+source-wordcount: '965'
+ht-degree: 6%
 
 ---
 
 # Información general de funciones MSI {#msi-feature-overview}
 
 MSI tiene las siguientes funciones disponibles en Salesforce Lightning y Classic.
+
+>[!NOTE]
+>
+>Para ver todos los datos disponibles, asegúrese de que el zoom del navegador esté configurado en no más del 125% cuando utilice Windows y del 150% en el sistema operativo Mac.
 
 ## Visualforce Panel {#visualforce-panel}
 
@@ -25,7 +29,7 @@ MSI Visualforce Panel incluye las siguientes funcionalidades:
    * Momentos interesantes
    * Actividad en la web
    * Correo electrónico
-   * Puntuación
+   * Puntaje
 
 * Acciones
 
@@ -52,7 +56,7 @@ Campos:
 * Origen del último momento interesante
 * Tipo del último momento interesante
 * Última actividad de Marketo por parte de ventas
-* Último compromiso de Marketo por parte de ventas
+* Última participación de Marketo por parte de ventas
 * Puntaje relativo
 * Valor de puntuación relativa
 * Urgencia
