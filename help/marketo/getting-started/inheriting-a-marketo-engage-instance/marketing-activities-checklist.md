@@ -2,10 +2,10 @@
 description: Lista de comprobación de actividades de marketing de instancia heredadas - Documentos de Marketo - Documentación del producto
 title: Lista de comprobación de actividades de marketing de instancias heredadas
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -100,7 +100,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Limite el número de formularios locales para facilitar la actualización y la alineación a los cambios con las políticas de privacidad de datos y de inclusión/exclusión. Al crear un formulario, ¿qué preguntas se deben hacer? Si la información recopilada no cambia y la funcionalidad avanzada del formulario no cambia, considere un formulario global en lugar de un formulario local.</td>
   </tr>
   <tr> 
-   <td>Forms global</td> 
+   <td>Formularios globales</td> 
    <td><li>¿Dónde se usa? <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">formularios globales</a>? (Páginas de destino Marketo Engage frente a páginas de destino no Marketo Engage)</li>
 <li>¿Cómo dirigen los formularios globales a los usuarios a un? <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">página de agradecimiento</a> (a través de un campo de formulario oculto o dentro de la plantilla de página de CMS)?</li>
 <li>¿Hay campos de formulario que debería considerar agregar o quitar?</li>
@@ -165,9 +165,3 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ una instancia heredada: Base de datos](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[Auditar una instancia heredada: ► de Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

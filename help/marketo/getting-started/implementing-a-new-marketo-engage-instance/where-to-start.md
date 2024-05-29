@@ -3,9 +3,9 @@ description: Conozca las prácticas recomendadas al implementar una nueva instan
 title: Por dónde empezar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Descargar la instancia del Marketo Engage [Nuevas listas de comprobación de adm
 
 * [Base de datos](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Actividades de marketing](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Documente la nueva configuración de la instancia](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Conectar con compañeros {#connect-with-your-peers}
 
-Visite la [Comunidad del país de marketing](https://nation.marketo.com/){target="_blank"} para obtener más información sobre la instancia de Marketo Engage de parte de los empleados de Marketo Engage y de otros usuarios.
+Visite la [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (también conocido como el País de Marketing) para obtener más información sobre su instancia de Marketo Engage de parte de los empleados de Marketo Engage y de los usuarios.
 
-Empiece en la comunidad de Marketing Nation:
+Introducción a la comunidad:
 
 1. Clic **Continuar con Adobe ID** y seleccione la suscripción principal en la página de inicio de sesión.
 1. Al iniciar sesión, complete el perfil de la comunidad.

@@ -3,9 +3,9 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '561'
 ht-degree: 4%
 
 ---
@@ -166,9 +166,3 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ de una instancia heredada: actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[Auditar una instancia heredada: Documentar la ► de configuración de la instancia heredada](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

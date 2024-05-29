@@ -2,10 +2,10 @@
 description: Lista de comprobación de base de datos de instancias heredadas - Documentos de Marketo - Documentación del producto
 title: Lista de comprobación de base de datos de instancias heredadas
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 6%
 
 ---
@@ -42,11 +42,11 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <p>Ejemplo de caso de uso suspendido de marketing: registros de personas que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
   </tr>
    <tr> 
-   <td>Lista de bloqueados</td> 
+   <td>Lista de bloqueos</td> 
    <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">registros de inclusión en la lista de bloqueados</a>? ¿Hay demasiada gente incluida en la lista de bloqueados?</li></td>
   </tr>
   <tr> 
-   <td>Direcciones de emails rechazadas</td> 
+   <td>Direcciones de email rechazadas</td> 
    <td><li>¿Tienes un montón de <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">personas que rebotaron</a> en la base de datos?
    <br/>     En caso afirmativo, considere la posibilidad de investigar el motivo.</li></td></li></td>
   </tr>
@@ -115,9 +115,3 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
