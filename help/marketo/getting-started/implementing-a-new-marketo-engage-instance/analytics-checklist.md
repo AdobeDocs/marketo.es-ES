@@ -4,10 +4,10 @@ title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación d
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
+source-git-commit: 00656b2167435d51da55537d251d84910002e46d
 workflow-type: tm+mt
-source-wordcount: '1615'
-ht-degree: 0%
+source-wordcount: '1393'
+ht-degree: 1%
 
 ---
 
@@ -30,12 +30,11 @@ Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/gett
 <tbody>
   <tr>
     <td>Organización: asignación de nombres, carpetas y archivado</td>
-    <td><li>Utilice una convención de nombres de informes para diferenciar los informes de la pestaña Informes globales.</li>
+    <td><li>Utilice una convención de nombres de informes para diferenciar los informes de la pestaña Informes globales.
     <ul><li>Un ejemplo de práctica recomendada de convención de nombres es [Tipo de informe] [Etiqueta global frente a específica de la unidad de negocio] [Descripción del informe] como [Rendimiento de correo electrónico]-[Global]-[Participación de correo electrónico de 180 días].</li></ul><br>
     <li>Identifique los informes que deben compartirse con distintos grupos de usuarios de su organización (por ejemplo, equipo de ventas o liderazgo de marketing) y organice los informes por carpeta dentro de la carpeta Informes de grupo en Analytics para informes globales.</li> 
-    <li>El archivado debe limitarse a la carpeta Informes globales, ya que se trata de informes siempre activos.   <ul>
-    <li>Limite el archivado a los cambios organizativos, como la reducción o adición de unidades de negocio relevantes, si realiza informes basados en una estructura de unidades de negocio.</li>
-    </ul></td>
+    <li>El archivado debe limitarse a la carpeta Informes globales, ya que se trata de informes siempre activos.   <ul><li>Limite el archivado a los cambios organizativos, como la reducción o adición de unidades de negocio relevantes, si realiza informes basados en una estructura de unidades de negocio.</li></ul>
+    </td>
   </tr>
   <tr>
     <td>Espacios de trabajo (si corresponde)</td>
@@ -102,7 +101,7 @@ Identifique los informes que deben compartirse con distintos grupos de usuarios 
     <td>Informe de rendimiento de personas</td>
     <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Se recomienda tener un adecuado <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estrategia de canal y etiqueta</a> para cada implementación de Marketo Engage antes de poder rastrear a las personas adquiridas y el ROI de sus inversiones de marketing por canal.
     <p>
-    <li>Determine los criterios que utilizará para medir el rendimiento de los programas de adquisición de posibles clientes y crear los informes estándar basados en el tiempo (año actual, última vista móvil de 12 meses o 180 días) basados en las siguientes métricas:</li> <ul><li>Programa de Adquisición: Programa de Marketo Engage que recibe el crédito por adquirir a la persona.</li>
+    <li>Determine los criterios que utilizará para medir el rendimiento de los programas de adquisición de posibles clientes y crear los informes estándar basados en el tiempo (año actual, última vista móvil de 12 meses o 180 días) basados en las siguientes métricas: <ul><li>Programa de Adquisición: Programa de Marketo Engage que recibe el crédito por adquirir a la persona.</li>
     <li>Origen de Persona: Categoría de origen para cómo se llegó a conocer el registro en la base de datos (según la lista de origen de los valores de CRM)
     </li></ul>
     <li>Mida las personas creadas por semana o mes. Este informe proporciona una medida de la tasa de crecimiento de la base de datos y si se está acercando al límite de tamaño de la base de datos.</li>
@@ -116,9 +115,9 @@ Identifique los informes que deben compartirse con distintos grupos de usuarios 
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Mida la eficacia de sus tácticas de marketing</a> dentro de programas selectivos.</li>
     <li>Administre la pertenencia al programa (mediante campañas inteligentes para actualizar el programa de adquisición, el estado y los estados de éxito) según las prácticas recomendadas dentro de las actividades de marketing.</li>
     <li>Medición basada en los costes del año en curso y móvil 12 meses.
-    <ul><li>Recuerde que mantener <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costos de período</a> es fundamental para aprovechar el informe de rendimiento del programa.</li></ul>
-    <br>
-    <br><img src="assets/tip-icon.png" alt="icono de nota"> SUGERENCIA: Para agregar y ver cualquiera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> en los Informes de rendimiento del programa, asegúrese de que sus equipos seleccionan el programa de adquisición adecuado para el etiquetado. Considerar <a href="https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creación de un programa predeterminado</a> que se va a seleccionar como programa de adquisición cuando las listas importadas no se aplican a ningún canal. Esto garantiza que cualquier persona importada tenga un programa de adquisición válido relacionado con el origen, la unidad de negocio, el canal, etc., en lugar de un valor en blanco.</td>
+    <ul><li>Recuerde que mantener <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costos de período</a> es fundamental para aprovechar el informe de rendimiento del programa.</li></ul></li>
+    <p>
+    <img src="assets/tip-icon.png" alt="icono de nota"> SUGERENCIA: Para agregar y ver cualquiera <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> en los Informes de rendimiento del programa, asegúrese de que sus equipos seleccionan el programa de adquisición adecuado para el etiquetado. Considerar <a href="https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creación de un programa predeterminado</a> que se va a seleccionar como programa de adquisición cuando las listas importadas no se aplican a ningún canal. Esto garantiza que cualquier persona importada tenga un programa de adquisición válido relacionado con el origen, la unidad de negocio, el canal, etc., en lugar de un valor en blanco.</td>
   </tr>
   <tr>
     <td>Informe Rendimiento de página de aterrizaje</td>
@@ -161,41 +160,4 @@ Algunos informes de Marketo Engage se implementan mejor como recursos locales de
     <li>Considere utilizar el <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filtro "Segmentación" en la pestaña Configuración del informe</a> y agrupando los datos de informes por el <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segmento</a> (por ejemplo, origen de la persona, sector) utilizado en su programa de participación. Esto le ayudará a obtener información más detallada sobre los patrones de participación de cada segmento, lo que le guiará a realizar cambios estratégicos para mejorar su programa de participación (contenido, flujo, cadencia de flujo, etc.).</li></td>
   </tr>
 </tbody>
-</table>
-
-TABLA CON VIÑETAS DE TRABAJO
-
-<table>
-<tbody>
-<tr>
-    <td>Informes de grupo</td>
-    <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: TEXTO.
-    <p>
-    <li>TEXTO.</li>
-    <li>TEXTO.
-    <ul><li>TEXTO</li>
-    <li>TEXTO</li></ul>
-    <li>TEXTO.</li>
-    <li>TEXTO.</li>
-    <p><img src="assets/tip-icon.png" alt="icono de nota"> SUGERENCIA: TEXTO.</td>
-  </tr>
-  </tbody>
-</table>
-
-PRUEBA FIJA 1
-
-<table>
-<tbody>
-<tr>
-    <td>Informe de rendimiento de personas</td>
-    <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Se recomienda tener un adecuado <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estrategia de canal y etiqueta</a> para cada implementación de Marketo Engage antes de poder rastrear a las personas adquiridas y el ROI de sus inversiones de marketing por canal.
-    <p>
-    <li>Determine los criterios que utilizará para medir el rendimiento de los programas de adquisición de posibles clientes y crear los informes estándar basados en el tiempo (año actual, última vista móvil de 12 meses o 180 días) basados en las siguientes métricas:</li>
-    <ul><li>Programa de adquisición: programa Marketo Engage al que se le atribuye la adquisición de la persona</li>
-    <li>Origen de Persona: Categoría de origen para cómo se llegó a conocer el registro en la base de datos (según la lista de origen de los valores de CRM)</li></ul>
-    <li>Mida las personas creadas por semana o mes. Este informe proporciona una medida de la tasa de crecimiento de la base de datos y si se está acercando al límite de tamaño de la base de datos.</li>
-    <li>Filtrar las métricas de los informes de rendimiento de personas por <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">usar las listas inteligentes como columnas personalizadas.</a></li>
-    <p><img src="assets/tip-icon.png" alt="icono de nota"> SUGERENCIA: Cree listas inteligentes para las columnas personalizadas que desee agregar al informe Rendimiento de personas en la base de datos en lugar de en las actividades de marketing, de modo que pueda ver el nombre de la lista inteligente de forma correcta y clara cuando esté seleccionada en el informe.</td>
-  </tr>
-  </tbody>
 </table>
