@@ -2,11 +2,11 @@
 description: Administración de agentes - Documentos de Marketo - Documentación del producto
 title: Administración de agentes
 feature: Dynamic Chat
-exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,10 @@ En la administración de agentes, consulte la lista de agentes de la instancia d
 Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye información como su nombre, dirección de correo electrónico, estado de chat en vivo y más.
 
 ![](assets/agent-management-2.png)
+
+>[!NOTE]
+>
+>No veo a un agente que usted _justo_ ¿añadido? Pueden tardar hasta dos horas en aparecer aquí después de agregarlas en la Admin Console de Adobe.
 
 ## Equipos {#teams}
 
@@ -42,7 +46,7 @@ Los administradores pueden crear equipos de agentes para facilitar el envío a g
 
    ![](assets/agent-management-6.png)
 
-1. Haga clic en **Crear**.
+1. Clic **Crear**.
 
    ![](assets/agent-management-7.png)
 
