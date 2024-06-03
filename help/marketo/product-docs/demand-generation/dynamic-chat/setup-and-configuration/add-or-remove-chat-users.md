@@ -3,9 +3,9 @@ description: 'Adición o eliminación de usuarios de chat: documentos de Marketo
 title: Agregar o quitar usuarios de chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 1%
 # Agregar o quitar usuarios de chat {#add-or-remove-chat-users}
 
 Siga los pasos a continuación para agregar o eliminar usuarios de chat.
+
+>[!NOTE]
+>
+>De forma predeterminada, todos los administradores de Marketo Engage tienen derechos de administrador en Dynamic Chat.
 
 ## Añadir un usuario de chat {#add-a-chat-user}
 
