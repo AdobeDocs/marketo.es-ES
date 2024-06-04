@@ -6,8 +6,8 @@ exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
 source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
@@ -19,50 +19,50 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 1. Seleccione el programa. Clic **Configurar**.
 
-   ![](assets/use-tags-in-a-program-1.png)
+   ![](assets/image2014-9-23-15-3a45-3a0.png)
 
 1. Arrastre y suelte una etiqueta en el lienzo.
 
-   ![](assets/use-tags-in-a-program-2.png)
+   ![](assets/image2014-9-23-15-3a45-3a13.png)
 
 1. Seleccione un valor de la lista desplegable.
 
-   ![](assets/use-tags-in-a-program-3.png)
+   ![](assets/image2014-9-23-15-3a45-3a30.png)
 
 1. Haga clic en **Guardar**.
 
-   ![](assets/use-tags-in-a-program-4.png)
+   ![](assets/image2014-9-23-15-3a45-3a36.png)
 
 1. Muy bien. Verá la nueva etiqueta en el lienzo.
 
-   ![](assets/use-tags-in-a-program-5.png)
+   ![](assets/image2014-9-23-15-3a45-3a47.png)
 
 ## Editar una etiqueta {#edit-a-tag}
 
 1. Vaya a la **Configurar** pestaña. Haga clic con el botón derecho en la etiqueta. Seleccionar **Editar**.
 
-   ![](assets/use-tags-in-a-program-6.png)
+   ![](assets/image2014-9-23-15-3a45-3a53.png)
 
 1. Haga clic en la lista desplegable. Seleccione un nuevo valor.
 
-   ![](assets/use-tags-in-a-program-7.png)
+   ![](assets/image2014-9-23-15-3a46-3a12.png)
 
 1. Haga clic en **Guardar**.
 
-   ![](assets/use-tags-in-a-program-8.png)
+   ![](assets/image2014-9-23-15-3a46-3a25.png)
 
 1. ¡Excelente! Debería ver las ediciones reflejadas en el lienzo.
 
-   ![](assets/use-tags-in-a-program-9.png)
+   ![](assets/image2014-9-23-15-3a46-3a35.png)
 
 ## Eliminar una etiqueta  {#delete-a-tag}
 
 1. Vaya a la **Configurar** pestaña. Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
 
-   ![](assets/use-tags-in-a-program-10.png)
+   ![](assets/image2014-9-23-15-3a46-3a55.png)
 
 1. Clic **Eliminar** para confirmar.
 
-   ![](assets/use-tags-in-a-program-11.png)
+   ![](assets/image2014-9-23-15-3a47-3a8.png)
 
-¡Buen trabajo! Los programas con etiquetas coherentes facilitan mucho la ejecución de los informes.
+¡Choca esos cinco! Se ha ido. Los programas con etiquetas coherentes facilitan mucho la ejecución de los informes.
