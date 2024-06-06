@@ -3,9 +3,9 @@ description: 'Información general de Adobe Identity Management: documentos de M
 title: Información general sobre Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Todas las nuevas suscripciones de Adobe Marketo Engage (del 31 de julio de 2023 
 
 >[!NOTE]
 >
->El Soporte de Marketo no puede proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El equipo de cuenta de Adobe se pondrá en contacto con el calendario estimado en los próximos meses. Para obtener más información, consulte [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>El Soporte de Marketo no puede proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El equipo de cuenta de Adobe se pondrá en contacto con el calendario estimado en los próximos meses. Para obtener más información, consulte [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, y el [Preguntas más frecuentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Para las suscripciones integradas en Adobe Identity, Adobe Admin Console se utiliza para la administración de usuarios. Los conceptos relacionados con la identidad, como el inicio de sesión único, también se administran en el Admin Console.
 
@@ -46,8 +46,8 @@ Las suscripciones de Adobe Marketo Engage integradas en el sistema Identity Mana
 </td>
  </tr>
  <tr>
-  <td><strong>Administrador de productos de Marketo Engage</strong></td>
-  <td>Una persona a la que se le ha dado acceso a un Marketo Engage con privilegios administrativos. Se ha concedido la función en Marketo Engage, no en Adobe Admin Console.</td>
+  <td><strong>Administrador de Marketo Engage</strong></td>
+  <td>Una persona a la que se le ha dado acceso a un Marketo Engage con privilegios administrativos. Se ha concedido la función en Marketo Engage, no en Adobe Admin Console (aparece solo como "Administrador" en la <b>Editar usuario</b> modal).</td>
  </tr>
  <tr>
   <td><strong>Usuario Marketo Engage</strong></td>
