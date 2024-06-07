@@ -4,16 +4,16 @@ title: Plantillas para seminarios web interactivos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # Plantillas para seminarios web interactivos {#templates-for-interactive-webinars}
 
-Texto
+Cree plantillas fáciles de usar en seminarios web interactivos para producir contenido más rápido o seguir las directrices de marca cuando trabaje en equipo.
 
 ## Crear una plantilla {#create-a-template}
 
@@ -25,7 +25,7 @@ CAPTURA DE PANTALLA
 
 CAPTURA DE PANTALLA
 
-1. Clic [!UICONTROL Administrar plantillas].
+1. Clic **[!UICONTROL Administrar plantillas]**.
 
 CAPTURA DE PANTALLA
 
