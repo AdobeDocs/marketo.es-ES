@@ -4,9 +4,9 @@ description: 'Llamar al webhook: documentos de Marketo: documentación del produ
 title: Llamar a un Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Los webhooks le permiten interactuar con servicios de terceros. Envíe o reciba 
 
 >[!NOTE]
 >
->Aprenda sobre las muchas cosas fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/){target="_blank"} Puedo hacer por ti.
+>Aprenda sobre las muchas cosas fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} Puedo hacer por ti.
 
 ## Uso {#usage}
 

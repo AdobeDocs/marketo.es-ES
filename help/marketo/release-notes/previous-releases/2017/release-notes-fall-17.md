@@ -4,9 +4,9 @@ description: 'Notas De La Versión, Otoño De 2017: Documentos De Marketo: Docum
 title: Notas de la versión, otoño de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Con esta nueva función, ahora puede retener y enviar correos electrónicos seg�
 
 >[!NOTE]
 >
->Si todavía no puede habilitar la Zona horaria del destinatario en sus programas de correo electrónico y participación, no se preocupe. Estamos habilitando gradualmente esta función para todos los clientes.
+>Si todavía no puedes habilitar la Zona horaria del destinatario en tus programas de correo electrónico y participación, ¡no te asustes! Estamos habilitando gradualmente esta función para todos los clientes.
 
 ## [Revisar correos electrónicos de muestra por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -84,12 +84,12 @@ Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dent
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integración de   {#integration}
+## Integración  {#integration}
 
-**[API de previsualización de correo electrónico](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API de previsualización de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ahora puede previsualizar de forma remota el correo electrónico fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-**[Reemplazar API de HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Reemplazar API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Los desarrolladores pueden actualizar el contenido de los recursos de correo electrónico del HTML de forma remota, lo que les permite trabajar dentro de un solo sistema para mantener los recursos.

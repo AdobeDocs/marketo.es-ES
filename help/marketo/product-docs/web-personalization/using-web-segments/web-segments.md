@@ -4,9 +4,9 @@ description: Segmentos web - Documentos de Marketo - Documentación del producto
 title: Segmentos web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -149,7 +149,7 @@ Una vez agregado el país, también puede especificar el estado, la ciudad y el 
 
 >[!TIP]
 >
->**¿Qué condiciones de segmento elijo? ¿&quot;AND&quot; u &quot;OR&quot;?** OR funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo tienen que cumplir uno de los criterios seleccionados en cada campo para poder acceder al segmento. (Por ejemplo, los clientes potenciales pueden proceder de EE. UU. *o* de la industria de Defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, las perspectivas deben ser tanto de Estados Unidos como de la industria de Defensa). Dentro de cada perfil de segmentación, cada campo independiente puede funcionar como ambos, ya sea como &quot;Y&quot; u &quot;O&quot; según la Condición del segmento seleccionada.
+>**¿Qué condiciones de segmento elijo? ¿&#39;Y&#39; u &#39;O&#39;?** OR funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo tienen que cumplir uno de los criterios seleccionados en cada campo para poder acceder al segmento. (Por ejemplo, los clientes potenciales pueden proceder de EE. UU. *o* de la industria de Defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, las perspectivas deben ser tanto de Estados Unidos como de la industria de Defensa). Dentro de cada perfil de segmentación, cada campo independiente puede funcionar como ambos, ya sea como &quot;Y&quot; u &quot;O&quot; según la Condición del segmento seleccionada.
 
 **Industrias** En el **Segmentación de perfiles** , marque la casilla junto a **Industria**.
 
@@ -167,7 +167,7 @@ En el **Segmentación de perfiles** , marque la casilla junto a **Grupo de organ
    * Fortune 500: incluye solo las compañías de Fortune 500 en este segmento
    * Fortune 1000: incluye solo las compañías de Fortune 1000 en este segmento
    * Global 2000: incluye las empresas de Global 2000 en este segmento
-   * Empresa: incluye organizaciones con más de 1000 empleados y unos ingresos buenos a los 250 millones de dólares.
+   * Empresa: incluye organizaciones con más de 1000 empleados e ingresos superiores a 250 millones de dólares
    * SMB: sólo incluye pequeñas y medianas empresas en este segmento
 
 **-Cuentas con nombre-**
@@ -187,7 +187,7 @@ Seleccione entre una [Lista de cuentas con nombre](/help/marketo/product-docs/we
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la lista de cuentas con nombre se utiliza como referencia de índice para la lista de Web Personalization [API de lectura](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>El número entre corchetes junto al nombre de la lista de cuentas con nombre se utiliza como referencia de índice para la lista de Web Personalization [API de lectura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Excluir ISP**
 
@@ -230,7 +230,7 @@ Defina su segmento según el estado de un cliente potencial: conocido o anónimo
 
 * Número de visitas: seleccione esta opción en el cuadro desplegable para especificar el número de visitas de los posibles clientes en el sitio web.
 
-   * Seleccione Igual a, Igual a o Bueno que o Igual a o Menor que en el cuadro desplegable.
+   * Seleccione Igual, Igual o Mayor que, o Igual o Menor que en el cuadro desplegable.
 
 * Visitas específicas: seleccione esta opción en el cuadro desplegable para especificar un visitante específico.
 
@@ -254,7 +254,7 @@ Defina su segmento según el estado de un cliente potencial: conocido o anónimo
 
 ![](assets/segment-extra.png)
 
-### Dispositivo/navegador {#device-browser}
+### Dispositivo/Explorador {#device-browser}
 
 **Sistema operativo móvil**
 
@@ -271,7 +271,7 @@ Arrastre y suelte el sistema operativo móvil en el editor de segmentos
 
 * **Dispositivo**  - En la lista desplegable, seleccione uno o más dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Los dispositivos seleccionados aparecen a continuación.
 
-**Navegador**
+**Explorador**
 
 Visitante de Target que utiliza tipos de explorador o versiones específicos.
 
@@ -286,7 +286,7 @@ Añada el valor de Event que desee segmentar. Por ejemplo, de fuentes de datos d
 
 **API de contexto de usuario**
 
-Llamada de API de personalización web  [puede obtener más información al respecto aquí.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Llamada de API de personalización web  [puede obtener más información al respecto aquí.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -302,7 +302,7 @@ Puede editar un segmento que se haya creado.
 
 1. En el **Segmentos** , haga clic en el icono de edición ( ![](assets/segment-edit.png)) del segmento que desea editar. El **Definir segmento** se abre la página con el segmento seleccionado.
 1. Aplique las ediciones o cambios que desee realizar en el segmento.
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
 ## Eliminar segmentos {#delete-segments}
 
@@ -314,13 +314,13 @@ Puede eliminar los segmentos que ha creado.
 
 >[!NOTE]
 >
->No puede eliminar un segmento asociado a una campaña. Primero debe eliminar la campaña y luego el segmento.
+No puede eliminar un segmento asociado a una campaña. Primero debe eliminar la campaña y luego el segmento.
 
-Excelente! Ahora que comprende la sección Segmentos, vamos a obtener más información sobre las campañas.
+¡Excelente! Ahora que comprende la sección Segmentos, vamos a obtener más información sobre las campañas.
 
 >[!MORELIKETHIS]
 >
->* [Creación de un segmento web básico](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Creación de una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Creación de una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creación de una nueva campaña web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Creación de un segmento web básico](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Creación de una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Creación de una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Creación de una nueva campaña web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

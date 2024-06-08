@@ -4,9 +4,9 @@ description: 'Notas de la versión, invierno de 2019, documentación de Marketo:
 title: Notas de la versión, invierno de 2019
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Compatibilidad con dominios de promoción de varias marcas para la API de recursos:** La aprobación y la clonación de recursos producen los mismos resultados dentro de la API y la interfaz de usuario.
 * **Compatibilidad con Email CC para la API de recursos**: Los usuarios que clonen, aprueben y procesen correos electrónicos a través de la API mantendrán la paridad con la configuración de la interfaz de usuario.
 
-**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **Modo de solo API**: Los usuarios ahora pueden determinar cuándo y cómo rastrear miembros de su base de datos permitiendo que las aplicaciones web de una sola página llamen explícitamente a cuando deseen registrar una visita a una página web en lugar de depender del seguimiento automático de Marketo.
 * **Administración de la exclusión**: Administre fácilmente las exclusiones haciendo coincidir el dominio de la cookie de exclusión con el dominio de la cookie de seguimiento de Munchkin.
@@ -103,10 +103,9 @@ Para administrar dominios y subdominios de forma más eficaz, los usuarios ahora
 
 **Kit de desarrollo de software (SDK) MME actualizado para Android**
 
-Hemos actualizado nuestro SDK para Android a un marco de trabajo más moderno, estable y escalable que contiene más flexibilidad y nuevas funciones de ingeniería. Los desarrolladores de aplicaciones de Android ahora pueden utilizar directamente el de Google [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) con este nuevo SDK.
+Hemos actualizado nuestro SDK para Android a un marco de trabajo más moderno, estable y escalable que contiene más flexibilidad y nuevas funciones de ingeniería. Google Los desarrolladores de aplicaciones de Android ahora pueden utilizar directamente la [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) con este nuevo SDK.
 
-* [Instrucciones para desarrolladores](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Preguntas frecuentes sobre desarrolladores](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instrucciones para desarrolladores]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >
@@ -114,7 +113,7 @@ Hemos actualizado nuestro SDK para Android a un marco de trabajo más moderno, e
 
 ## Actualizaciones adicionales {#additional-updates}
 
-**Plataforma de seminarios web extensible**
+**Plataforma de seminarios web ampliable**
 
 Además de la versión de nuestro producto, nuestro equipo de socios está trabajando en un nuevo marco que permite a los proveedores de seminarios web crear y mantener sus propias integraciones con Marketo, proporcionando más flexibilidad para actualizar y mejorar sus soluciones, a la vez que permite a los especialistas en marketing aprovechar al máximo las integraciones que han elegido.
 

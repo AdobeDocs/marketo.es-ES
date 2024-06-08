@@ -1,18 +1,18 @@
 ---
 description: 'Información de API de exportación masiva: documentos de Marketo, documentación del producto'
-title: Información de API de exportación masiva
+title: Información sobre la API de exportación masiva
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
-# Información de API de exportación masiva {#bulk-export-api-information}
+# Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánto [API de extracción masiva](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} La instancia de Marketo Engage ha ocupado la capacidad durante los últimos siete días.
+Aprenda a comprobar cuánto [API de extracción masiva](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} La instancia de Marketo Engage ha ocupado la capacidad durante los últimos siete días.
 
 >[!NOTE]
 >

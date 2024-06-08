@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 'Tipos de notificación: documentos de Marketo, documentación del producto'
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '237'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Existen varios tipos de notificación.
 
-## Error de campaña  {#campaign-failure}
+## Error en la campaña  {#campaign-failure}
 
 Los errores de Campaign le notifican de los errores que se producen en sus campañas inteligentes.
 
@@ -44,7 +44,7 @@ Cuando las personas se agotan en un flujo, enviamos una notificación. La notifi
 
 Si intenta enviar personas a Facebook sin aceptar los Términos de servicio o si intenta enviar personas a Facebook después de eliminar la aplicación de Marketo.
 
-## Limpieza de campaña de Déclencheur inactivo {#idle-trigger-campaign-cleanup}
+## Limpieza de campañas desencadenadoras sin actividad {#idle-trigger-campaign-cleanup}
 
 Desactive las campañas inteligentes activadas que ya no obtengan ninguna actividad. Más información sobre  [limpieza automática de campaña de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
@@ -60,4 +60,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

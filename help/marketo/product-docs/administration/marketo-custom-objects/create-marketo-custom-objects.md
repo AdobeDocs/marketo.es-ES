@@ -4,9 +4,9 @@ description: 'Creación de objetos personalizados de Marketo: documentos de Mark
 title: Crear objetos personalizados de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
    >
    >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo puede editar los campos [!UICONTROL Nombre plural] y el **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador.
 
-1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **[!UICONTROL Mostrar]** si desea ver datos de objeto personalizados en la página Base de datos. Clic **[!UICONTROL Guardar]**.
+1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **[!UICONTROL Mostrar]** si desea ver datos de objeto personalizados en la página Base de datos. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
    >[!NOTE]
    >
-   >Solo puede rellenar Objetos personalizados de Marketo mediante una importación de lista o el [API](https://developers.marketo.com/documentation/rest/).
+   >Solo puede rellenar Objetos personalizados de Marketo mediante una importación de lista o el [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Creación de un objeto personalizado para una estructura &quot;varios a varios&quot; {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -93,7 +93,7 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
    >
    >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo puede editar los campos [!UICONTROL Nombre plural] y el **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador.
 
-1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **[!UICONTROL Mostrar]** si desea ver datos de objeto personalizados en la página Base de datos. Clic **[!UICONTROL Guardar]**.
+1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **[!UICONTROL Mostrar]** si desea ver datos de objeto personalizados en la página Base de datos. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
 
    >[!NOTE]
    >
-   >Solo puede rellenar Objetos personalizados de Marketo mediante una importación de lista o el [API](https://developers.marketo.com/documentation/rest/).
+   >Solo puede rellenar Objetos personalizados de Marketo mediante una importación de lista o el [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 El siguiente paso es crear el objeto intermedio (consulte a continuación). Pero antes de eso, debe crear un campo al que vincularse.
 
@@ -135,7 +135,7 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
    >
    >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo puede editar los campos [!UICONTROL Nombre plural] y el [!UICONTROL Mostrar en detalle de posibles clientes] deslizador.
 
-1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **Mostrar** si desea ver datos de objeto personalizados en la página Base de datos. Clic **Guardar**.
+1. Tire de la **[!UICONTROL Mostrar en detalle de posibles clientes]** deslizador hacia la pantalla **Mostrar** si desea ver datos de objeto personalizados en la página Base de datos. Haga clic en **Guardar**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

@@ -4,9 +4,9 @@ description: 'Notas de la versión, marzo de 2015: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En la versión de marzo de 2015 se incluyen las siguientes funciones. Compruebe 
 
 ## Calendario HD {#calendar-hd}
 
-Muestre los activos de marketing de su equipo con el nuevo modo de presentación del calendario. ¡Son buenos para televisores o monitores gigantes alrededor de la oficina! Establece y muestra objetivos basados en una lista inteligente o en métricas personalizadas.
+Muestra las actividades de marketing de su equipo con el nuevo modo de presentación del calendario. ¡Son ideales para televisores o monitores gigantes alrededor de la oficina! Establece y muestra objetivos basados en una lista inteligente o en métricas personalizadas.
 
 >[!NOTE]
 >
@@ -37,9 +37,9 @@ El Explorador de ingresos tiene un aspecto completamente nuevo, así como el nue
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](https://developers.marketo.com/)
+[Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-Ahora se admite la creación y edición de correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [mediante la API](https://developers.marketo.com/documentation/asset-api)!
+Ahora se admite la creación y edición de correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [mediante la API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 local {#microsoft-dynamics-on-premise}
 
@@ -53,4 +53,4 @@ Aproveche el [campos de datos de posibles clientes](/help/marketo/product-docs/w
 
 ## RTP: Personalización del contenido web por correo electrónico o nombre de campaña del programa {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continúe la conversación con el posible cliente en todos los canales, desde el correo electrónico a la web. [Personalizar contenido entrante en función de la campaña de correo electrónico o el programa](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nombre utilizado en las actividades de marketing de Marketo.
+Continúe la conversación con el posible cliente en todos los canales, desde el correo electrónico a la web. [Personalizar contenido entrante en función de la campaña de correo electrónico o el programa](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Nombre utilizado en las actividades de marketing de Marketo.

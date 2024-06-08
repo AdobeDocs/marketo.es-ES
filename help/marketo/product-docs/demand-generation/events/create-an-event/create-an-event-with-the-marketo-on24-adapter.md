@@ -4,7 +4,7 @@ description: Creación de un evento con el adaptador Marketo ON24 - Documentos d
 title: Creación de un evento con el adaptador Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -18,13 +18,13 @@ Debe estar familiarizado con los componentes básicos y la secuencia recomendada
 * [Programas de Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} así como los Eventos y las diferencias entre ellos
 * [Canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [Recursos locales](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [Campañas secundarias](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} and [Program Statuses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [Campañas secundarias](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} y [Estados de programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Consulte la [Documentación de API de Marketo](https://developers.marketo.com/documentation/rest/){target="_blank"} para obtener más información sobre las API de Marketo.
+>Consulte la [Documentación de API de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obtener más información sobre las API de Marketo.
 
-## Requisitos previos {#prerequisites}
+## Prerrequisitos {#prerequisites}
 
 Se requiere lo siguiente para utilizar la integración de Marketo ON24:
 

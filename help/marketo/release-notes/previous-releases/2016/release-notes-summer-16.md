@@ -4,7 +4,7 @@ description: 'Notas de la versión, verano de 2016, documentación de Marketo: d
 title: Notas de la versión, verano de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -100,11 +100,11 @@ Especifique un retraso para que las campañas web reaccionen en el sitio web.
 
 Ver datos de análisis de contenido y recomendaciones sin conexión.
 
-## [Compatibilidad con API para el editor de correo electrónico 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Compatibilidad con API para el editor de correo electrónico 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Las API de recursos preexistentes, que anteriormente solo eran compatibles con las plantillas y los correos electrónicos de la versión 1.0, ahora están habilitadas para los recursos de correo electrónico de la versión 2.0.
 
-## [Sitio para desarrolladores de Marketo](https://developers.marketo.com/) {#marketo-developers-site}
+## [Sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nuevo y mejorado
 

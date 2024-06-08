@@ -3,10 +3,10 @@ description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 3%
+source-wordcount: '603'
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronización de campos personalizados de miembro de programa</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronización de campo personalizado para miembros del programa</a></td>
   </tr>
   </tbody>
 </table>
@@ -116,7 +116,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importación masiva de posibles clientes</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importación masiva de posibles clientes</a></td>
   </tr>
   </tbody>
 </table>
@@ -136,7 +136,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integración de Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integración del Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>

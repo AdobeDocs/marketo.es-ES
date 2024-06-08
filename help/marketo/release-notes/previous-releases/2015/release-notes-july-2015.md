@@ -4,7 +4,7 @@ description: 'Notas de la versión, julio de 2015: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Al hacer clic en el mosaico de capacidad de entrega de correo electrónico, ya n
 
 ## Priorización de campaña {#campaign-prioritization}
 
-¿Ha configurado varias campañas de RTP personalizadas y ha notado que algunas de ellas pueden superponerse con otras? Continúe y establezca una prioridad para la que el RTP de las campañas debe mostrarse por encima de otros.
+¿Ha configurado varias campañas de RTP personalizadas y ha notado que algunas de ellas pueden superponerse con otras? Continúe y establezca una prioridad para la cual el RTP de las campañas debe mostrarse por encima de otros.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -50,7 +50,7 @@ Al hacer clic en el mosaico de capacidad de entrega de correo electrónico, ya n
 
 **Acceso al objeto de la compañía mediante la API de REST**: la API de REST ahora proporciona acceso al objeto Marketo Company (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
 
-Aprender [más](https://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de la compañía.
+Aprender [más]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) en nuestra guía de referencia para la API de la compañía.
 
 ## Acceso a entrega de correo electrónico {#access-email-deliverability}
 

@@ -3,10 +3,10 @@ description: 'Notas de la versión, marzo de 2024: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 2%
+source-wordcount: '351'
+ht-degree: 1%
 
 ---
 
@@ -61,6 +61,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 ## Anuncios {#announcements}
 
-* **Obtener corrección de API de miembro del programa**: Se ha realizado un cambio recientemente para corregir el comportamiento de [Obtener miembros del programa](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} punto final. Anteriormente, al utilizar el `updatedAt` tipo de filtro para especificar un intervalo de fechas, existía la posibilidad de que los registros de pertenencia a programas actualizados dentro de ese intervalo no se incluyeran en la respuesta. Además, existía la posibilidad de que los registros de pertenencia a programas actualizados fuera del intervalo de fechas especificado se incluyeran incorrectamente en la respuesta. Se han resuelto ambos problemas.
+* **Obtener corrección de API de miembro del programa**: Se ha realizado un cambio recientemente para corregir el comportamiento de [Obtener miembros del programa](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} punto final. Anteriormente, al utilizar el `updatedAt` tipo de filtro para especificar un intervalo de fechas, existía la posibilidad de que los registros de pertenencia a programas actualizados dentro de ese intervalo no se incluyeran en la respuesta. Además, existía la posibilidad de que los registros de pertenencia a programas actualizados fuera del intervalo de fechas especificado se incluyeran incorrectamente en la respuesta. Se han resuelto ambos problemas.
 
-* **Degradación del complemento del explorador de Account Insight**: el Adobe elimina la administración de cuentas de Target [Complemento del explorador de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Degradación del complemento del explorador de Account Insight**: el Adobe elimina la administración de cuentas de Target [Complemento del explorador de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} de la Chrome Web Store el 8 de abril de 2024. Usuarios existentes: puede seguir utilizando el complemento hasta que migre la instancia de Marketo Engage a Identidad de Adobe y Admin Console. Este cambio **no repercutirá en** cualquier otra función o datos de TAM dentro de Marketo Engage o los complementos de correo electrónico de Chrome y Outlook que funcionen con Sales Insight. [Más información](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

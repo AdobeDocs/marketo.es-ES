@@ -4,9 +4,9 @@ description: 'Notas de la versión, diciembre de 2014, Documentos de Marketo: do
 title: Notas de la versión, diciembre de 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ El [Informe de rendimiento de correo electrónico de Sales Insight](/help/market
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Audiencias personalizadas de facebook {#facebook-custom-audiences}
+## Audiencias personalizadas de Facebook {#facebook-custom-audiences}
 
-Una vez que el administrador de Marketo haya añadido [Facebook a través de Administración > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar una audiencia personalizada de Facebook por posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
+Una vez que el administrador de Marketo haya añadido [Facebook mediante Administración > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar una audiencia personalizada de Facebook por posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -65,7 +65,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 
 · Combinar posible cliente
 
-Todos los detalles estarán disponibles tras el lanzamiento en [developers.marketo.com](https://developers.marketo.com/)
+Todos los detalles estarán disponibles tras el lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Mejoras de compatibilidad de Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
@@ -83,7 +83,7 @@ El despliegue se llevará a cabo a partir de mediados de diciembre y continuará
 
 ## RTP: Módulo de lista de cuentas con nombre {#rtp-named-account-list-module}
 
-Administre y supervise sus cuentas clave de alto rendimiento en la nueva página Cuentas con nombre. Cargue nuevas listas de cuentas con nombre para identificar y segmentar estas organizaciones. Hemos automatizado el proceso, proporcionándole más control y flexibilidad para implementar sus planes de marketing basados en cuentas y segmentar sus cuentas clave en diferentes canales (web y publicidad).
+Administre y supervise sus cuentas clave de alto rendimiento en la nueva página Cuentas con nombre. Cargue nuevas listas de cuentas con nombre para identificar y segmentar estas organizaciones. Hemos automatizado el proceso para que tenga un mayor control y flexibilidad a la hora de implementar sus planes de marketing basados en cuentas y segmentar sus cuentas clave en diferentes canales (web y publicidad).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
@@ -91,6 +91,6 @@ Administre y supervise sus cuentas clave de alto rendimiento en la nueva página
 
 ## RTP: Efecto deslizante para campañas en la zona {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Hemos agregado un nuevo efecto deslizante para las campañas de la zona para permitir que el contenido personalizado se deslice en su lugar al cargar la página.
+Se ha agregado un nuevo efecto deslizante para las campañas de la zona de inserción que permite que el contenido personalizado se deslice en su lugar al cargar la página.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

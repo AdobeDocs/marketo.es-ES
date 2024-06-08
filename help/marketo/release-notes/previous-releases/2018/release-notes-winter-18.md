@@ -4,10 +4,10 @@ description: 'Notas de la versión, invierno de 2018, documentación de Marketo:
 title: Notas de la versión, invierno de 2018
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -85,9 +85,9 @@ Ahora, la personalización web puede personalizar el contenido para un visitante
 
 El contenido recomendado mediante los algoritmos de inteligencia artificial aplicada al contenido optimizados de Marketo genera hasta el doble de clics que el contenido aleatorio.
 
-## Integración de  {#integration}
+## Integración {#integration}
 
-**[Activación/desactivación de la API de Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Activación/desactivación de la API de Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Esta nueva API le permite activar y desactivar de forma remota campañas de déclencheur, de modo que ahora puede crear plantillas de programa completamente automatizadas. Cree una plantilla de programa una vez y, a continuación, automatice la clonación, las actualizaciones de material promocional y ahora la activación o programación de campañas inteligentes.
 

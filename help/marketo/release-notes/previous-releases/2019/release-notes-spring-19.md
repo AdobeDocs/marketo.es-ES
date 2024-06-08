@@ -4,9 +4,9 @@ description: 'Notas de la versión, primavera de 2019, documentación de Marketo
 title: Notas de la versión, primavera de 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Las siguientes funciones se lanzaron el 15 de marzo de 2019.
 
 * **En lista de espera:** Nuevo estado de programa/evento para poner en lista de espera a un miembro cuando desee [ponlos en espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) hasta que se abra una vacante. Esto se aplica a los canales asociados con programas de eventos en Marketo Classic, y tanto a los eventos como a los eventos con programas de seminarios web en Marketo Sky. De forma predeterminada, Lista de espera tiene el mismo valor de paso que Registrado.
 * **[Límite de comunicación personalizada](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Los administradores ahora pueden establecer límites de comunicación diarios o semanales personalizados.
-* **[API de recursos de campaña inteligente](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: enriquezca sus análisis fuera de Marketo con la recuperación de registros de campaña inteligente por fecha e ID actualizados.
+* **[API de recursos de campaña inteligente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: enriquezca sus análisis fuera de Marketo con la recuperación de registros de campaña inteligente por fecha e ID actualizados.
 * **Vínculos de seguimiento HTTPS para correo electrónico:** Para los clientes que han adquirido &quot;Dominios seguros para el seguimiento de vínculos&quot;, los vínculos de seguimiento de marca ahora se pueden mostrar en sus correos electrónicos como HTTPS.
 * **Entrega de correo electrónico Actualizaciones de Powerpack**: capacidad para marcar y comentar resultados de pruebas específicas, compartir resultados con las partes interesadas a través de una URL y rastrear cambios para ver la evolución de un correo electrónico a medida que las partes interesadas editan el contenido.
 

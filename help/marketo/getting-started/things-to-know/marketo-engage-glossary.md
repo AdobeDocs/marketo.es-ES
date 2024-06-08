@@ -3,9 +3,9 @@ description: Glosario del Marketo Engage - Documentos de Marketo - Documentació
 title: Glosario del Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4083'
 ht-degree: 3%
 
 ---
@@ -67,7 +67,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>Un visitante web que nunca rellenó un formulario ni dejó sus detalles en el sitio web.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">Interfaz de programación de aplicaciones</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">Interfaz de programación de aplicaciones</a> (API)</strong></td> 
    <td colspan="1">Conjunto de protocolos predefinidos utilizados para realizar funciones únicas o masivas en un sistema operativo o aplicación (en este caso, Marketo).</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documentos</strong></td> 
-   <td colspan="1">Abreviatura de documentos: los documentos son artículos de ayuda para que los clientes comprendan mejor el producto. Marketo tiene varios tipos diferentes de documentos: documentos de producto (el sitio en el que se encuentra actualmente), <a href="https://developers.marketo.com/" rel="nofollow">Desarrollador</a> documentos, y <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Asistencia</a> documentos.</td> 
+   <td colspan="1">Abreviatura de documentos: los documentos son artículos de ayuda para que los clientes comprendan mejor el producto. Marketo tiene varios tipos diferentes de documentos: documentos de producto (el sitio en el que se encuentra actualmente), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Desarrollador</a> documentos, y <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Asistencia</a> documentos.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Autenticación de mensajes, creación de informes y conformidad basados en dominio (DMARC)</strong></td> 
@@ -443,7 +443,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona conocida</strong></a></td> 
-   <td><p>Cualquier dato de persona en Marketo <strong>database</strong> se consideran datos de personas conocidas. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web son inicialmente <strong>cocinado</strong> Marketo (y son anónimos) a través de <strong>Munchkin</strong> el seguimiento web y se asignan posteriormente al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o asignarse manualmente a través de las API de posibles clientes asociadas de Marketo en ambos casos) <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> y <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associatedLeadUsingPOST">API de REST</a></p></td> 
+   <td><p>Cualquier dato de persona en Marketo <strong>database</strong> se consideran datos de personas conocidas. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web son inicialmente <strong>cocinado</strong> Marketo (y son anónimos) a través de <strong>Munchkin</strong> el seguimiento web y se asignan posteriormente al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o asignarse manualmente a través de las API de posibles clientes asociadas de Marketo en ambos casos) <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> y <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">API de REST</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>También conocido como MSD. Uno de los dos CRM con los que Marketo tiene una integración nativa (consulte <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Código de seguimiento personalizado de JavaScript de Marketo. Rastrea a todas las personas que visitan el sitio web. Esto incluye a los visitantes anónimos (junto con sus direcciones IP y otra información). </td> 
   </tr> 
   <tr> 

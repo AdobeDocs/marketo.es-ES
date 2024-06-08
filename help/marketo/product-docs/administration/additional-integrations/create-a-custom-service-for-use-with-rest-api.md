@@ -4,9 +4,9 @@ description: 'Creación de un servicio personalizado para su uso con la API de R
 title: Crear un servicio personalizado para utilizarlo con la API de ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Si desea integrarse con Marketo a través de la API de ReST, debe crear un servi
 
 >[!TIP]
 >
->Consulte la documentación para desarrolladores para obtener más información sobre [API de ReST](https://developers.marketo.com/documentation/rest/). También tenemos el [API DE SOAP](https://developers.marketo.com/documentation/soap/) si eso es lo que necesitas.
+>Consulte la documentación para desarrolladores para obtener más información sobre [API DE REST](https://developer.adobe.com/marketo-apis/). También tenemos el [API DE SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) si eso es lo que necesitas.
 
 ## Crear servicio personalizado {#create-custom-service}
 
@@ -51,7 +51,7 @@ Si desea integrarse con Marketo a través de la API de ReST, debe crear un servi
    >
    >Tenga en cuenta que ya tenemos la integración nativa para los servicios de seminarios web populares.
 
-1. Haga clic en **[!UICONTROL Crear]**.
+1. Clic **[!UICONTROL Crear]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 

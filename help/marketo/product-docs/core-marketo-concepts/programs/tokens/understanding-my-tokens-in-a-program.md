@@ -4,10 +4,10 @@ description: 'Explicación de mis tokens en un programa: documentos de Marketo, 
 title: Explicación de mis tokens en un programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -46,7 +46,7 @@ Ejemplos:
   </tr> 
   <tr> 
    <td>Script de email <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://developers.marketo.com/documentation/email-scripting/" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
+   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
   </tr> 
   <tr> 
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -57,11 +57,11 @@ Ejemplos:
    <td>Este es el HTML. Utilícelo en correos electrónicos y páginas de aterrizaje.</td> 
   </tr> 
   <tr> 
-   <td>Puntuación <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>Puntaje <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td>Utilice este token en la <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">paso cambiar flujo de puntuación</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campaña SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
+   <td colspan="1">Campaña de SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
    <td colspan="1">Utilice este token para permitir que los posibles clientes que formen parte de un programa de Marketo también se añadan a cualquier campaña de SFDC que se añada.</td> 
   </tr> 
   <tr> 

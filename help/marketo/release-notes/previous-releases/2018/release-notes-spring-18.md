@@ -4,10 +4,10 @@ description: Notas de la versión, primavera de 2018, documentación de Marketo,
 title: Notas de la versión, primavera de 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -45,9 +45,9 @@ Adquiera la versión beta abierta de Marketo Sky para obtener acceso a más de 1
 * Guías en la aplicación y ayuda contextual
 * Etiquetas de recursos y vistas de calendario más flexibles
 
-## Perspectivas de rendimiento {#performance-insights}
+## Desempeño Insights {#performance-insights}
 
-[Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Desempeño Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Comparación de períodos año tras año**
 
@@ -77,12 +77,12 @@ Establezca el objetivo del algoritmo de optimización de ContentAI para obtener 
 
 ## Integración y API {#integration-and-apis}
 
-[API de lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
+[API de lista estática](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Administre listas entre Marketo y otros sistemas más fácilmente con nuevas API bidireccionales para crear, leer, actualizar y eliminar listas estáticas de forma remota sin realizar ninguna acción en la IU de Marketo.
 
 ## Mejoras de privacidad {#privacy-enhancements}
 
-[Privacidad de seguimiento web](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacidad de seguimiento web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 El seguimiento mejorado de Munchkin cumple con las regulaciones de privacidad locales e internacionales al anonimizar las direcciones IP de los visitantes web y permitirles excluirse permanentemente del seguimiento web.

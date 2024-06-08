@@ -4,16 +4,16 @@ description: 'Explicación de las actividades personalizadas: documentos de Mark
 title: Explicación de las actividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '259'
+ht-degree: 5%
 
 ---
 
 # Explicación de las actividades personalizadas {#understanding-custom-activities}
 
-Realice un seguimiento de una acción que una persona haya realizado en su empresa con actividades personalizadas.
+Realice un seguimiento de una acción que una persona ha realizado que sea específica a su negocio con actividades personalizadas.
 
 **Qué son las actividades**
 
@@ -29,12 +29,12 @@ Las actividades personalizadas le ayudan a rastrear una actividad que no está r
 
 **Campos** Puede añadir [campos adicionales](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que desee asociar con su actividad. Al igual que el campo principal, se pueden utilizar como criterios de filtrado en una lista inteligente.
 
-**Introducción**
+**Primeros pasos**
 
 Las actividades personalizadas funcionan igual que las actividades estándar. Sin embargo, la configuración es un proceso de dos partes.
 
 Paso 1: [Creación de una actividad personalizada](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) en su cuenta de Marketo
 
-Paso 2: El empleado de su organización que trabaja con nuestra API puede comenzar la implementación. Encontrará más información aquí: [API de actividad personalizada](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Paso 2: El empleado de su organización que trabaja con nuestra API puede comenzar la implementación. Encontrará más información aquí: [API de actividad personalizada](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 ¡Diviértete!

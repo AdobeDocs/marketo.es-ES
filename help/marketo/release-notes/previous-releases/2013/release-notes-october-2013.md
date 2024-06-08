@@ -4,9 +4,9 @@ description: 'Notas de la versión, octubre de 2013, Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ En la versión de octubre de 2013 de se incluyen las siguientes funciones.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) es para desarrolladores que desean crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de JavaScript de Munchkin, ejemplos de código de API de SOAP, Webhooks y scripts de correo electrónico. También hay disponible un SDK de Java en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) es para desarrolladores que desean crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de JavaScript de Munchkin, ejemplos de código de API de SOAP, Webhooks y scripts de correo electrónico. También hay disponible un SDK de Java en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Adaptador de eventos BrightTALK actualizado {#updated-brighttalk-event-adapter}
 

@@ -4,9 +4,9 @@ description: 'Configuración de la API de SOAP: Documentos de Marketo: documenta
 title: Configuración de la API de SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se recomienda utilizar la API de REST. Más información sobre [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Se recomienda utilizar la API de REST. Más información sobre [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Documentación de API de SOAP](https://developers.marketo.com/documentation/soap/)
+>[Documentación de API de SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

@@ -3,9 +3,9 @@ description: 'Ejecución De Campaign: Documentos De Marketo: Documentación Del 
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ También puede clonar una campaña inteligente existente. Si clona una campaña 
 >
 >No puede clonar una campaña que contenga déclencheur.
 
-## Usar contexto de token de la campaña principal {#use-parent-campaign-token-context}
+## Utilizar el contexto del token de campaña principal {#use-parent-campaign-token-context}
 
 Cuando se establece en true, se envían los siguientes contextos de token a la campaña secundaria (la que se está ejecutando):
 
@@ -60,7 +60,7 @@ Cuando se establece en true, se envían los siguientes contextos de token a la c
 
 **Interacción de API**
 
-Al utilizar Programar o Solicitar campaña [en la API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permiten pasar valores para Mis tokens, que anulan los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
+Al utilizar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permiten pasar valores para Mis tokens, que anulan los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 

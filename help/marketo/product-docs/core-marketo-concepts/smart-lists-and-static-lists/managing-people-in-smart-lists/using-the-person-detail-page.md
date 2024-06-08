@@ -4,10 +4,10 @@ description: Uso de la página de detalles de persona - Documentos de Marketo - 
 title: Uso de la página Detalles de Persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 44%
+source-wordcount: '546'
+ht-degree: 50%
 
 ---
 
@@ -41,26 +41,26 @@ La información de la persona se clasifica en las siguientes pestañas:
 | Ficha | Descripción |
 |---|---|
 | Información | Información de contacto y campos personalizados sobre una persona. |
-| Información de empresa | Información y dirección de la empresa de la persona. |
+| Información de la compañía | Información y dirección de la empresa de la persona. |
 | Información de oportunidad | Información de oportunidad sincronizada desde Salesforce. |
-| Campo de posible cliente de SFDC | Campos integrados de Salesforce. |
+| Campo de lead de SFDC | Campos integrados de Salesforce. |
 | Campo personalizado de SFDC | Campos personalizados de Salesforce. |
-| Registro de actividad | Todas las actividades relacionadas con la persona. |
+| Registro de actividades | Todas las actividades relacionadas con la persona. |
 
 ## Organización de la página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
 | Ficha | Descripción |
 |---|---|
 | Información | Información de contacto y campos personalizados sobre una persona. |
-| Información de empresa | Información y dirección de la empresa de la persona. |
+| Información de la compañía | Información y dirección de la empresa de la persona. |
 | Información de oportunidad | Información de oportunidad sincronizada desde Microsoft. |
 | Campos personalizados de Microsoft | Campos personalizados de Microsoft. |
-| Campo de posible cliente de Microsoft | Campos integrados de Microsoft. |
-| Registro de actividad | Todas las actividades relacionadas con la persona. |
+| Campo de leads de Microsoft | Campos integrados de Microsoft. |
+| Registro de actividades | Todas las actividades relacionadas con la persona. |
 
 >[!NOTE]
 >
->También puede ver Información de oportunidad [insertado mediante API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instancias que no se sincronizan con un CRM.
+>También puede ver Información de oportunidad [insertado mediante API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no se sincronizan con un CRM.
 
 ## Edición de un campo {#editing-a-field}
 
@@ -75,17 +75,17 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 | Dirección | Ingresos anuales | IP anónima | Dirección de facturación | Ciudad de facturación |
 | País de facturación | Código postal de facturación | Estado de facturación | Ciudad | Nombre de la empresa |
 | País | Creado en | Fecha de nacimiento | Departamento | No llamar |
-| Causa por la que no se debe llamar | Razón por la que no se debe llamar | Dirección de email | Email no válido | Causa de email no válido |
+| Causa por la que no se debe llamar | Razón por la que no se debe llamar | Correo electrónico | Email no válido | Causa de email no válido |
 | Identificación de compañía externa | Identificación de persona de ventas externa | Número de fax | Nombre | Nombre completo |
 | Industria | Ciudad inferida | Compañía inferida | País inferido | Área metropolitana inferida |
 | Código de área telefónico inferido | Código postal inferido | Región del estado inferida | Es anónimo | Es cliente |
-| Es socio | Cargo | Apellido | Calificación | Puntuación |
-| Origen de la persona | Estado | Teléfono principal | Nombre de Marketo Social para mostrar en Facebook | Identificación de Marketo Social en Facebook |
-| URL de foto de Marketo Social en Facebook | URL del perfil de Marketo Social en Facebook | Alcance de Marketo Social en Facebook | Inscripciones referidas desde Facebook de Marketo Social | Visitas referidas desde Facebook de Marketo Social |
-| Sexo de Marketo Social | Última inscripción referida desde Facebook de Marketo Social | Última visita referida desde Facebook de Marketo Social | Nombre de Marketo Social para mostrar en LinkedIn | Identificación de Marketo Social en LinkedIn |
-| URL de imagen de Marketo Social para LinkedIn | URL del perfil de Marketo Social en LinkedIn | Alcance de Marketo Social en LinkedIn | Inscripciones referidas desde LinkedIn de Marketo Social | Visitas referidas desde LinkedIn de Marketo Social |
-| ID de Marketo Social Syndication | Inscripciones referidas totales de Marketo Social | Visitas referidas totales de Marketo Social | Nombre de Marketo Social para mostrar en Twitter | Identificación de Marketo Social en Twitter |
-| URL de imagen de Marketo Social para Twitter | URL del perfil de Marketo Social en Twitter | Alcance de Marketo Social en Twitter | Inscripciones referidas desde Twitter de Marketo Social | Visitas referidas desde Twitter de Marketo Social |
+| Es socio | Cargo | Apellido | Calificación | Puntaje |
+| Origen de la persona | Estado | Teléfono principal: | Nombre de Marketo Social para mostrar en Facebook | Identificación de Marketo Social en Facebook |
+| URL de imagen de Marketo Social para Facebook | URL de perfil de Marketo Social en Facebook | Alcance de Marketo Social en Facebook | Ins. ref. desde Facebook de Marketo Social | Visitas referidas desde Facebook de Marketo Social |
+| Sexo de Marketo Social | Última inscripción referida desde Marketo Social | Última visita referida desde  Marketo Social | Nombre de Marketo Social para mostrar en LinkedIn | Identificación de Marketo Social en LinkedIn |
+| URL de imagen de Marketo Social para LinkedIn | URL de perfil de Marketo Social en LinkedIn | Alcance de Marketo Social en LinkedIn | Ins. ref. desde  LinkedIn de Marketo Social | Visitas referidas desde LinkedIn de Marketo Social |
+| Identificación de distribución de Marketo Social | Inscripciones referidas totales de Marketo Social | Visitas referidas totales de Marketo Social | Nombre de Marketo Social para mostrar en Twitter | Identificación de Marketo Social en Twitter |
+| URL de imagen de Marketo Social para Twitter | URL de perfil de Marketo Social en Twitter | Alcance de Marketo Social en Twitter | Ins. ref. desde Twitter de Marketo Social | Visitas referidas desde Twitter de Marketo Social |
 | Segundo nombre | Número de teléfono móvil | Cantidad de empleados | Número de teléfono | Código postal |
 | Prioridad | Puntaje relativo | Función | Saludo | Código SIC |
 | Sitio | Estado | Suscripción cancelada | Razón de la cancelación de la suscripción | Actualizado en |
@@ -95,7 +95,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 >
 >Algunos campos son _no_ editable:
 >
->* Registro de actividad
+>* Registro de actividades
 >* Información de empresa
 >* Oportunidades para contactos de SFDC
 >* Algunos campos específicos de Marketo, como Fecha de creación y Tipo de origen original.

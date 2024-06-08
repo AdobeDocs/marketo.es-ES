@@ -4,7 +4,7 @@ description: 'Notas de la versión, julio de 2014, Documentos de Marketo: docume
 title: Notas de la versión, julio de 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Además del calendario de marketing con el que administra los eventos y los prog
 
 ## Operaciones de lista en la API de ReST {#list-operations-in-the-rest-api}
 
-Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [developers.marketo.com](https://developers.marketo.com/documentation/rest/) para obtener la documentación completa.
+Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obtener la documentación completa.
 
 * Obtener lista por identificador
 * Obtener varias listas
@@ -78,7 +78,7 @@ La página RTP Set Campaign ahora [incluye plantillas listas para usar](/help/ma
 
 ## RTP: Mejoras en la API de JavaScript {#rtp-javascript-api-enhancements}
 
-Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestra [sitio para desarrolladores](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obtener la documentación completa.
+Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestra [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener la documentación completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

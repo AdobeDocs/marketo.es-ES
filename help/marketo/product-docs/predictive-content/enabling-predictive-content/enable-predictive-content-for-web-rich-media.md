@@ -4,9 +4,9 @@ description: 'Habilitar contenido predictivo para medios enriquecidos en web: do
 title: Habilitar contenido predictivo para medios enriquecidos en web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Una vez que haya preparado el título, la descripción y la imagen del contenido
 
 ## Personalice el código JavaScript e incrústelo en su sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla Recomendación de medios enriquecidos [en el sitio para desarrolladores de Marketo](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla Recomendación de medios enriquecidos [en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web, en la ubicación donde desee que aparezca la plantilla.
 
