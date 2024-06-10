@@ -4,9 +4,9 @@ description: 'Añadir Customer Match de Google como servicio de LaunchPoint: Doc
 title: Añadir Customer Match de Google como servicio de LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Añadir Customer Match de Google como servicio de LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
 Con esta integración, puede enviar una audiencia de Marketo Engage a Google para que se segmente con Google AdWords, así como resegmentar audiencias en YouTube, Search y Gmail.
-
->[!IMPORTANT]
->
->Debido a la reciente actualización de la API de Google Ads, la funcionalidad de sincronización entre Adobe y Google está temporalmente desactivada. El Adobe está revisando los requisitos de Google relacionados con la actualización.
 
 >[!NOTE]
 >
