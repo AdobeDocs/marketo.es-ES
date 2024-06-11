@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9359'
 ht-degree: 2%
 
 ---
@@ -724,6 +724,7 @@ ht-degree: 2%
             + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Agregar un equipo del seminario web](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Plantillas](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Promoción de un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Modificar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Seminarios web bajo demanda](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)

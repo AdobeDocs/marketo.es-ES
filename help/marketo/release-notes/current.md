@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 7%
+source-wordcount: '277'
+ht-degree: 5%
 
 ---
 
@@ -33,8 +33,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
      <tr> 
    <td><strong>Plantillas para seminarios web interactivos</strong>: los especialistas en marketing ahora pueden crear plantillas personalizadas para los diseños de sala en los seminarios web interactivos.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Plantillas</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
      <tr> 
    <td><strong>Campos deducidos en Forms</strong>: el origen de datos utilizado para rellenar campos deducidos cuando se crea una persona mediante el rellenado de formulario sin actividad web anterior se ha actualizado para utilizar el mismo origen de datos que otros métodos de recopilación de personas. Los datos de campo deducidos ahora son coherentes en todos los puntos de recopilación.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
