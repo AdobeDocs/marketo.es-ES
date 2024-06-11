@@ -4,7 +4,7 @@ description: Información general del selector de plantillas de correo electrón
 title: Resumen del selector de plantillas de correo electrónico
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cuando usted [crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para usarla en el futuro.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Nombre** será el nombre del correo electrónico que cree a partir de la plantilla, no la propia plantilla. **Descripción** también se aplica al correo electrónico y es opcional.
 
@@ -27,7 +27,7 @@ Si el correo electrónico es crítico y desea que sortee los límites de comunic
 
 **Plantillas iniciales** incluye una colección de plantillas de correo electrónico adaptables listas para usar. Puede usarlos tal cual, o personalizarlos a su gusto.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Mis plantillas** consiste en todas las plantillas que ha creado. También puede tener carpetas.
 
