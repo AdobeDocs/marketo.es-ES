@@ -3,9 +3,9 @@ description: Notas de la versión del Dynamic Chat - Documentos de Marketo - Doc
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Las versiones de Adobe Dynamic Chat funcionan con un modelo de entrega continua que permite un enfoque más escalable de la implementación de funcionalidades. A veces hay varias versiones en un mes, por lo que vuelva a consultar regularmente la información más actualizada.
 
 La página de notas de la versión estándar de Marketo Engage [se puede encontrar aquí](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Lanzamiento de junio de 2024 {#june-release}
+
+**Fecha de publicación: 6 de junio de 2024**
+
+### Tarjeta de flujo de conversación {#conversational-flow-card}
+
+Optimice varios pasos en un flujo dentro de sus cuadros de diálogo aprovechando la tarjeta Flujo de conversación.
+
+Ejemplo: si su objetivo es impulsar los registros para su seminario web a través de varios cuadros de diálogo, debe volver a crear el mismo flujo en todos los cuadros de diálogo que tengan ese objetivo. Y si tiene que actualizar cualquier detalle, tendrá que editar cada Diálogo individual de uno en uno. Ya no es así, gracias a la tarjeta de Flujo de Conversación.
+
+Además de reutilizar los flujos a través de varios cuadros de diálogo, también puede utilizar el mismo flujo de transición al déclencheur a través de otros canales, como formularios y páginas de destino.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Límites de uso {#usage-limits}
+
+La página Límites de uso muestra información importante, como los detalles del paquete y el estado del límite de uso.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Lanzamiento de mayo de 2024 {#may-release}
 

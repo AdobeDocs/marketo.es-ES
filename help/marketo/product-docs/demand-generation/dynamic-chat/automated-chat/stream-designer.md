@@ -3,9 +3,9 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
@@ -67,6 +67,10 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  <tr>
   <td style="width:25%"><strong>Rama condicional</strong></td>
   <td>Cree ramas en los flujos de diálogo en función de diferentes condiciones. Presente contenido diferente a diferentes personas en el mismo cuadro de diálogo en función de los atributos del posible cliente y de la compañía en Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Flujo de conversación</strong></td>
+  <td>Optimice varios pasos en un flujo dentro de sus cuadros de diálogo utilizando la tarjeta Flujo de conversación.</td>
  </tr>
 </table>
 
