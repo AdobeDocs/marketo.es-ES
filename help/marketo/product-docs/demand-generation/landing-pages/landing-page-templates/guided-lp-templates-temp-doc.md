@@ -1,8 +1,8 @@
 ---
-unique-page-id: 7515616
 description: Lista de plantillas de página de aterrizaje guiada - Documentos de Marketo - Documentación del producto
 title: Lista de plantillas de página de aterrizaje guiada
-exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
 workflow-type: tm+mt
@@ -200,6 +200,7 @@ Para importar una plantilla en Marketo:
 <td><img src="assets/10e.jpg"></td>
 </tr>
 </table>
+
 <table>
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md">Plantilla 10F</a></td>
