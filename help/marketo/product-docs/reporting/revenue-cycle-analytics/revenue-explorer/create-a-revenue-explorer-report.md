@@ -4,10 +4,10 @@ description: Creación de un informe del Explorador de ingresos - Documentos de 
 title: Creación de un informe de explorador de ingresos
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '139'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,10 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 >[!AVAILABILITY]
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
+>[!IMPORTANT]
+>
+>La carpeta Papelera del Explorador de ciclos de ingresos se ha ocultado temporalmente debido a un error. Estamos trabajando en una solución, y sus archivos están a salvo. Póngase en contacto con [Compatibilidad con Adobe](https://nation.marketo.com/t5/support/ct-p/Support) si hay algún archivo que necesite restaurar.
 
 1. Vaya a la **Explorador de ingresos** área.
 
@@ -31,7 +35,7 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
    ![](assets/image2015-3-24-14-3a22-3a32.png)
 
-   Excelente! Ha creado oficialmente un informe. Es hora de personalizar añadiendo algunos campos.
+   ¡Excelente! Ha creado oficialmente un informe. Es hora de personalizar añadiendo algunos campos.
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
