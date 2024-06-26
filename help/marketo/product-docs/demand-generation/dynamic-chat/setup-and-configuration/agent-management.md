@@ -3,9 +3,9 @@ description: Administración de agentes - Documentos de Marketo - Documentación
 title: Administración de agentes
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye 
 ## Equipos {#teams}
 
 Los administradores pueden crear equipos de agentes para facilitar el envío a grupos específicos de agentes de ventas.
+
+>[!AVAILABILITY]
+>
+>El acceso a los equipos requiere una suscripción a Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ![](assets/agent-management-3.png)
 
