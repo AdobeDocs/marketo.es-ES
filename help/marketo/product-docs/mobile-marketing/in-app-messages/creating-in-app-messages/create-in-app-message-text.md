@@ -4,9 +4,9 @@ description: 'Creación de texto de mensaje en la aplicación: documentos de Mar
 title: Crear texto de mensaje en la aplicación
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Crear texto de mensaje en la aplicación {#create-in-app-message-text}
 
 Haga clic en el área de texto para trabajar en el estilo y el contenido del texto.
+
+>[!CAUTION]
+>
+>Se recomienda no utilizar emojis en el texto, ya que no son totalmente compatibles en este momento.
 
 1. Haga clic en Texto principal para editarlo en línea.
 
@@ -41,7 +45,7 @@ Haga clic en el área de texto para trabajar en el estilo y el contenido del tex
 
    >[!NOTE]
    >
-   >La fuente de texto que se representa en el anuncio es la estándar para cada plataforma: Helvetica para Apple y Roboto para Android
+   >La fuente de texto que se muestra en el anuncio es la estándar para cada plataforma: Helvetica para Apple y Roboto para Android
 
 1. Marque la casilla para seleccionar la acción Tocar texto.
 
