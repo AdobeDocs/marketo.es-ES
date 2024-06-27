@@ -4,9 +4,9 @@ description: Agregar el inicio de sesión único a un portal - Documentos de Mar
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
+source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!NOTE]
 >
->¿Es usted? [!DNL Microsoft Azure] ¿usuario? Consulte sus [tutorial de integración](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Para su información, hay un error tipográfico en el paso 5c de su tutorial. Utilice `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
+>¿Es usted? [!DNL Microsoft Azure] ¿usuario? Consulte sus [tutorial de integración](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Para su información, hay un error tipográfico en el paso 5c de su tutorial. Establezca el estado de retransmisión en `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
