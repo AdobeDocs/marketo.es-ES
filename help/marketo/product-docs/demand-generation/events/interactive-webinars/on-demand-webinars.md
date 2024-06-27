@@ -2,9 +2,10 @@
 description: Seminarios Web Bajo Demanda - Documentos De Marketo - Documentación Del Producto
 title: Seminarios web bajo demanda
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ Los seminarios web a petición capturan y perfeccionan los posibles clientes que
 
 La URL de unión al seminario web que se compartió con los inscritos antes del evento se puede utilizar para ver la grabación bajo demanda. Una vez que un usuario registrado que no asistió al evento en directo (por ejemplo, un posible cliente con un estado de programa como &quot;No presentarse&quot;), hace clic en la URL de unión al seminario web, el estado del programa de ese posible cliente cambia de &quot;No presentarse&quot; a &quot;Asistido bajo demanda&quot;. El estado del programa de los posibles clientes que vieron el evento en directo y tienen el estado &quot;Asistido&quot; no se vería afectado si deciden visitar la URL de unión y ver la grabación bajo demanda.
 
-Adobe Connect, la tecnología que activa los seminarios web interactivos, realiza un seguimiento de la visita y de la duración del reloj correspondientes a los posibles clientes que ven la grabación, e informa de la información a Marketo diariamente. La grabación está disponible en la URL de unión durante 30 días después del evento. No se puede modificar la duración.
+Adobe Connect, la tecnología que facilita los seminarios web interactivos, realiza un seguimiento de la visita y de la duración del reloj correspondientes a los posibles clientes que ven la grabación, e informa de la información al Marketo Engage diariamente. El seguimiento de los seminarios web a petición se detiene 30 días después del evento. No se puede modificar la duración.
 
-Marketo proporciona las estadísticas de inspección para los seminarios web bajo demanda en la pestaña Tablero con la ayuda de los siguientes widgets:
+Marketo Engage proporciona las estadísticas de inspección para los seminarios web bajo demanda en la pestaña Panel con la ayuda de los siguientes widgets:
 
 * Resumen a petición: Proporciona un resumen del recuento de visitantes (no-espectadores) que ven la grabación después del evento en un día determinado
 
