@@ -3,7 +3,7 @@ description: 'Modificación o eliminación de un seminario web interactivo: docu
 title: Modificar o eliminar un seminario web interactivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Aprenda a realizar cambios en el seminario web interactivo.
    >
    >También puede hacer clic con el botón derecho en el programa de eventos del árbol y seleccionar **Clonar** desde allí.
 
-1. Asigne un nombre al programa clonado, establezca el espacio de trabajo y el destino (si desea que el programa viva en otro lugar) y haga clic en **Guardar**.
+1. Asigne un nombre al programa clonado, establezca Workspace y Destination (si desea que el programa viva en otro lugar) y haga clic en **Guardar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 

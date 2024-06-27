@@ -3,9 +3,9 @@ description: Aceleración de la conexión de correo electrónico - Documentos de
 title: Restricción de conexión de correo electrónico
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,7 @@ ht-degree: 0%
 
 Al integrar su cuenta de Sales Connect para enviarla a través de los proveedores de correo electrónico de Exchange o Gmail, se ofrece una configuración optimizada y se optimiza la capacidad de entrega de correo electrónico para la comunicación de ventas 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y Exchange aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
 
-## Limitación de conexión de correo electrónico (Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Esta función está actualmente en versión beta. Para unirse, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+## Limitación de la conexión de correo electrónico (Beta) {#email-connection-throttling-beta}
 
 La restricción de conexión de correo electrónico permite a los administradores de Sales Connect configurar la velocidad de envío de los mensajes de correo electrónico al utilizar Gmail o Exchange como canal de envío, de modo que la velocidad a la que se entregan los mensajes de correo electrónico al proveedor del canal de envío no supere los límites impuestos.
 
@@ -53,7 +49,7 @@ Cuando se exceden los límites de forma constante, esto a veces se puede ver com
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/email-connection-throttling-6.png)
 

@@ -3,9 +3,9 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: '1279'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ Adobe El sistema Identity Management consta de tres componentes.
 **¿Cuándo se integrarán las suscripciones de Marketo Engage existentes con IMS?**
 
 Las suscripciones de Marketo existentes se migrarán al sistema Identity Management de Adobe a finales de este año. El Soporte de Marketo no podrá proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El equipo de cuenta de Adobe se pondrá en contacto con el calendario estimado en los próximos meses.
+
+**Después de la migración, ¿seguirán siendo iguales las direcciones URL de los Marketo Engage?**
+
+No. Las direcciones URL tendrán un aspecto diferente tras la migración. Sin embargo, los números de ID de sus recursos siguen siendo los mismos. Y los marcadores guardados anteriormente aún deben llevarlo a la ubicación correcta.
+
+**¿Hay algo que tengamos que hacer para prepararnos para el cambio de URL?**
+
+Sí. Hable con su equipo de TI y asegúrese de que añade el dominio siguiente (incluido el asterisco) para permitir todos los recursos de Marketo Engage y los sockets web:
+
+_*.experience.adobe.com_
 
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador de Marketo Engage?**
 
