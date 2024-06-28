@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 4%
+source-wordcount: '465'
+ht-degree: 6%
 
 ---
 
@@ -32,9 +32,42 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:25%">Documentación</th>
   </tr>
      <tr> 
+   <td><strong>Tablero de participación para seminarios web interactivos</strong>: obtenga una vista agregada del rendimiento del seminario web, así como una vista completa de la participación de cada asistente durante el seminario web, para que pueda decidir qué posibles clientes se dirigirán a través de las herramientas de orquestación del Marketo Engage.</td> 
+    <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Administración de salas para seminarios web interactivos</strong>: Acceda a las salas individuales creadas (y realice modificaciones si es necesario), así como acceder al contenido y la grabación (y límpielas si es necesario para optimizar el almacenamiento).</td> 
+    <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Personalización de seminarios web para seminarios web interactivos</strong>: proporcione una experiencia de marca aprobada por la organización uniforme mediante el uso de una interfaz de sala común, pantallas intermediarias (como fondos de pantalla de entrada de asistentes) y fondos de vídeo personalizados, para que la estrategia de seminario web se pueda alinear más fácilmente con la estrategia de marca.</td> 
+    <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Cambio de API de REST de Marketo</strong>: Presentamos un cambio menor en el <a href="https://developers.marketo.com/rest-api/user-management/">API de administración de usuarios</a>. Tanto la <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Examinar usuarios</a> y <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Eliminar usuario</a> los puntos de conexión ahora admiten <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Administración de cuentas de Target</a> usuarios.</td> 
-   <td><i>próximamente</i></td>
-   <td><i>próximamente</i></td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
  </tbody> 
 </table>
