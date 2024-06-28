@@ -4,16 +4,20 @@ description: 'Uso de etiquetas en un programa: documentos de Marketo, documentac
 title: Uso de etiquetas en un programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 
 # Uso de etiquetas en un programa {#use-tags-in-a-program}
 
 Las etiquetas son atributos que describen sus programas y se utilizan para agrupar tipos de programas en los informes.
+
+>[!NOTE]
+>
+>Si utiliza el Explorador del ciclo de ingresos, se debe definir un coste de periodo (incluso si es 0) para que los informes estén disponibles para el programa.
 
 ## Uso de una etiqueta en un programa {#use-a-tag-in-a-program}
 
