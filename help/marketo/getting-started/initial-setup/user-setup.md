@@ -3,7 +3,7 @@ description: Antes de sumergirse en la nueva instancia de Marketo Engage, deber�
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
+source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -32,9 +32,9 @@ Las nuevas suscripciones de Marketo Engage se han incorporado a [Adobe Identity 
 <tbody>
   <tr>
     <td>Administrador de productos de Marketo Engage y suscripción</td>
-    <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li>  
+    <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li> 
     <ul>
-    <li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
+    <li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>marketocares@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
     <li>Acepte la invitación "Marketo Engage Product Admin" para activar su Adobe ID. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">correo electrónico de bienvenida</a> se envía cuando se asigna la función en Adobe Admin Console.</li></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Para usar [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/p
   <tr>
     <td>Administrador de productos de Dynamic Chat y suscripción (si corresponde)</td>
     <td><li>Confirme que el administrador del sistema de su organización de Adobe le ha otorgado una función de administrador de productos de Adobe.</li> 
-    <ul><li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>customercare@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
+    <ul><li>Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a <code>marketocares@marketo.com</code> para averiguar quién de los miembros de su organización ha <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Administrador del sistema de Adobe Admin Console</a> privilegios.</li></ul>
     <li>Acepte el <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Administrador de productos de Dynamic Chat'</a> invitar. El <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">correo electrónico de bienvenida</a> se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.</li></td>
   </tr>
   <tr>
