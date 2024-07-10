@@ -4,18 +4,18 @@ description: 'Explicación de las campañas inteligentes: Documentos de Marketo:
 title: Explicación de las campañas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 3%
+source-wordcount: '249'
+ht-degree: 4%
 
 ---
 
 # Explicación de las campañas inteligentes {#understanding-smart-campaigns}
 
-Si Marketo es un coche potente, la campaña inteligente es realmente el motor. Es fácil de empezar, pero puedes hacer casi cualquier cosa que pidas.
+Si Marketo Engage es un coche, la campaña inteligente es su motor. Las campañas inteligentes pueden hacer más de lo que imaginas y es fácil empezar a usarlas.
 
-La campaña inteligente tiene 3 áreas principales: [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} pestañas.
+La campaña inteligente tiene 3 áreas principales: [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} y [Programación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} pestañas.
 
 ## Lista inteligente {#smart-list}
 
@@ -30,11 +30,11 @@ La lista inteligente es la que define _quién_ desea segmentar con su campaña i
   </tr> 
   <tr> 
    <td>Filtro</td> 
-   <td>Vínculo en el que se hizo clic</td> 
+   <td>Se hizo clic en el vínculo</td> 
    <td><p>Recopile todas las personas de un lote que cumplan los requisitos en este momento.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Activador</td> 
+   <td colspan="1">Desencadenante</td> 
    <td colspan="1">Vínculo de clics</td> 
    <td colspan="1">En el momento en que alguien haga algo, dispara el flujo inmediatamente.</td> 
   </tr> 
