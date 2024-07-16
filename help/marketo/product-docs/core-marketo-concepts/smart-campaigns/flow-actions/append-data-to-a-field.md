@@ -4,7 +4,7 @@ description: 'Anexar datos a un campo: documentos de Marketo, documentación del
 title: Anexar datos a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,26 +17,26 @@ Existe una forma sencilla de anexar datos a un campo. Así es como.
 
 >[!PREREQUISITES]
 >
->[Creación de una campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[Crear una campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
 >Los pasos siguientes también se aplican a [Cambiar datos de miembros del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. En el **[!UICONTROL Flujo]** pestaña, arrastre en **[!UICONTROL Cambiar valor de datos]** paso de flujo.
+1. En la ficha **[!UICONTROL Flujo]**, arrastre el paso de flujo **[!UICONTROL Cambiar valor de datos]**.
 
-   ![](assets/image2014-9-22-16-3a5-3a1.png)
+   ![](assets/append-data-to-a-field-1.png)
 
 1. Busque y seleccione el campo al que desee anexar datos.
 
-   ![](assets/image2014-9-22-16-3a5-3a5.png)
+   ![](assets/append-data-to-a-field-2.png)
 
 1. Busque y seleccione el token para el mismo campo al que desee anexar datos.
 
-   ![](assets/image2014-9-22-16-3a5-3a9.png)
+   ![](assets/append-data-to-a-field-3.png)
 
 1. Ahora añada el valor que desea anexar a lo que ya existe en el campo.
 
-   ![](assets/image2014-9-22-16-3a5-3a12.png)
+   ![](assets/append-data-to-a-field-4.png)
 
 ¡Eso es todo! Puede ser más creativo y agregar varios tokens allí.
