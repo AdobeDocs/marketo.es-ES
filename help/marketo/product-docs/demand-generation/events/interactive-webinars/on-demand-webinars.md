@@ -3,9 +3,9 @@ description: Seminarios Web Bajo Demanda - Documentos De Marketo - Documentació
 title: Seminarios web bajo demanda
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage proporciona las estadísticas de inspección para los seminarios 
    * Duración de visualización promedio en minutos para todos los visitantes: ofrece a los especialistas en marketing una idea de qué parte de la grabación se visualiza y qué campañas inteligentes se pueden utilizar para dirigirse a posibles clientes por encima de una duración de visualización determinada.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Las vistas solo se cuentan cuando la duración del reloj supera un minuto.
 
 Los filtros y déclencheur de los seminarios web interactivos se han modificado para adaptarlos a los seminarios web bajo demanda. El déclencheur &quot;Asiste al evento&quot; y el filtro &quot;Ha asistido al evento&quot; se añaden con una restricción adicional (&quot;Modo de evento&quot;), en los que un experto en marketing puede elegir si el objetivo es una audiencia en directo o bajo demanda. Si la restricción &quot;Modo de evento&quot; no está seleccionada, las audiencias en directo y bajo demanda serán el objetivo. Otras restricciones, como &quot;Fecha de observación&quot; y &quot;Duración de la observación&quot;, se podrían utilizar con el modo de evento &quot;Bajo demanda&quot;. El filtro de inactividad &quot;No ha asistido a un evento&quot; también se puede utilizar para seminarios web bajo demanda con el modo de evento &quot;Bajo demanda&quot;.
