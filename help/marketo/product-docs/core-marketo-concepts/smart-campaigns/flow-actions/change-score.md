@@ -4,34 +4,30 @@ description: 'Cambiar puntuación: Documentos de Marketo: documentación del pro
 title: Cambiar calificación
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 6%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
 # Cambiar calificación {#change-score}
 
-## Información general {#overview}
+Puntuar personas es fácil y potente y ayuda a su equipo de ventas a priorizar.
 
-La puntuación de personas es fácil y potente para ayudar a su equipo de ventas a priorizar.
-
-![](assets/flowstep-changescore.png)
-
-## Uso {#usage}
+![](assets/change-score-1.png)
 
 1. Elija el campo de puntuación que desee cambiar.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >Puede crear varios campos de puntuación. Consulte [Creación de un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para obtener más información.
+   >Puede crear varios campos de puntuación. Consulte [Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para obtener más información.
 
 1. Introduzca el cambio de puntuación que desee.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Cambios:
 
@@ -40,4 +36,4 @@ La puntuación de personas es fácil y potente para ayudar a su equipo de ventas
    * **=5** hará que la puntuación sea ese número exacto
    * **=-5** hará que la puntuación sea ese número negativo exacto
 
-Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el tiempo. ¡Eso es lo que hicimos!
+Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el tiempo.

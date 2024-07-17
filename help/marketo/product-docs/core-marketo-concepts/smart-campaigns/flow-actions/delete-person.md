@@ -4,10 +4,10 @@ description: Eliminar persona - Documentos de Marketo - Documentación del produ
 title: Eliminar persona
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 4%
+source-wordcount: '113'
+ht-degree: 3%
 
 ---
 
@@ -15,26 +15,20 @@ ht-degree: 4%
 
 Las personas erróneas a veces entran en la base de datos. El paso de flujo Eliminar persona puede deshacerse de ellos.
 
-## Información general {#overview}
-
-Utilice el paso de flujo en una campaña inteligente.
-
-![](assets/one-4.png)
+![](assets/delete-person-1.png)
 
 >[!CAUTION]
 >
 >Al eliminar una persona, también se eliminarán todos sus datos RCE históricos. No se puede deshacer.
 
-## Uso {#usage}
+1. Al arrastrar el paso de flujo, también se establecerá automáticamente para eliminarlo de su CRM.
 
-Al arrastrar el paso de flujo, también se establecerá automáticamente para eliminarlo de su CRM.
+   ![](assets/delete-person-2.png)
 
-![](assets/two-4.png)
+1. Puede eliminarlo del Marketo Engage y no de su CRM, de esta forma:
 
-Puede eliminarlo del Marketo Engage y no de su CRM, de esta forma:
-
-![](assets/three-3.png)
+   ![](assets/delete-person-3.png)
 
 >[!NOTE]
 >
->Eliminación de la persona de su CRM _solo funciona con[!DNL Salesforce]_. Si elimina a una persona de Marketo y decide mantenerla en [!DNL Salesforce], se volverán a crear en Marketo si sus [!DNL Salesforce] el registro se actualiza.
+>Quitar a la persona de su CRM _solo funciona con[!DNL Salesforce]_. Si elimina a una persona de Marketo y decide mantenerla en [!DNL Salesforce], se volverá a crear en Marketo si se actualiza su registro [!DNL Salesforce].

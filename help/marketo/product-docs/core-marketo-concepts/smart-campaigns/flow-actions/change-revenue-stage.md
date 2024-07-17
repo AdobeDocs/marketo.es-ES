@@ -4,30 +4,26 @@ description: Cambiar etapa de ingresos - Documentos de Marketo - Documentación 
 title: Cambiar etapa de ingresos
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 10%
+source-wordcount: '75'
+ht-degree: 8%
 
 ---
 
 # Cambiar etapa de ingresos {#change-revenue-stage}
 
-## Información general {#overview}
+Si utiliza el Modeler del ciclo de ingresos y tiene un modelo aprobado, puede decidir mover personas manualmente de una etapa a otra. Este paso de flujo le ayudará.
 
-Si está utilizando el Modelador del ciclo de ingresos y tiene un modelo aprobado, puede decidir mover personas manualmente de una etapa a otra. Este paso de flujo le ayudará.
+![](assets/change-revenue-stage-1.png)
 
-![](assets/image2014-9-22-17-3a4-3a59.png)
+1. Seleccione **[!UICONTROL Modelo]**.
 
-## Uso {#usage}
+   ![](assets/change-revenue-stage-2.png)
 
-1. Seleccione el **[!UICONTROL Modelo]**.
+1. Seleccione la **[!UICONTROL nueva etapa]** que desee asignar y habrá finalizado.
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
-
-1. Seleccione el **[!UICONTROL Nueva etapa]** desea asignar y ya ha terminado.
-
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >

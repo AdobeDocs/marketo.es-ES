@@ -4,28 +4,24 @@ description: Enviar correo electrónico - Documentos de Marketo - Documentación
 title: Enviar email
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 6%
+source-wordcount: '91'
+ht-degree: 4%
 
 ---
 
 # Enviar email {#send-email}
 
-## Información general {#overview}
+El paso de flujo &quot;[!UICONTROL Enviar correo electrónico]&quot; se puede usar como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a sus recursos.
 
-El &quot;[!UICONTROL Enviar correo electrónico]&quot; paso de flujo se puede utilizar como parte de campañas o como un paso de flujo único para enviar correos electrónicos a sus recursos.
-
-![](assets/image2014-9-22-10-3a8-3a11.png)
-
-## Uso {#usage}
+![](assets/send-email-1.png)
 
 Puede previsualizar el correo electrónico seleccionado directamente desde el paso de flujo.
 
 1. Busque y seleccione el correo electrónico que desea enviar.
 
-   ![](assets/image2014-9-22-10-3a8-3a15.png)
+   ![](assets/send-email-2.png)
 
    >[!NOTE]
    >
@@ -33,6 +29,6 @@ Puede previsualizar el correo electrónico seleccionado directamente desde el pa
 
 1. Haga clic en el icono de previsualización para ver el correo electrónico seleccionado actualmente.
 
-   ![](assets/image2014-9-22-10-3a8-3a22.png)
+   ![](assets/send-email-3.png)
 
-Se abrirá una nueva pestaña o ventana donde podrá ver el correo electrónico.
+Se abre una nueva pestaña o ventana donde puede ver el correo electrónico.

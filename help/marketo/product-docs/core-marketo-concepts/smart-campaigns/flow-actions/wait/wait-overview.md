@@ -1,25 +1,23 @@
 ---
 unique-page-id: 1146950
 description: 'Esperar: documentos de Marketo: documentación del producto'
-title: Esperar
+title: Espera
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '188'
+ht-degree: 0%
 
 ---
 
-# Esperar {#wait}
+# Información general de espera {#wait-overview}
 
-## Información general {#overview}
+Pausar a una persona en un flujo de Smart Campaign con el práctico paso de **espera**.
 
-Pausar a una persona en un flujo de campaña inteligente con la práctica **paso de espera**.
+![](assets/wait-overview-1.png)
 
-![](assets/wait-overview.png)
-
-Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. Hacer **no**, sin embargo, abreviar las palabras (es decir, 4 horas). La campaña inteligente seguiría ejecutándose, pero el paso de espera se ignoraría.
+Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. Sin embargo, **no** debe abreviar las palabras (es decir, 4 horas). La campaña inteligente seguiría ejecutándose, pero el paso de espera se ignoraría.
 
 >[!CAUTION]
 >
@@ -27,9 +25,7 @@ Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. Hacer
 
 >[!TIP]
 >
->Si ya tiene a alguien en un paso de espera y no desea que avance después de que finalice el período de espera, inserte [quitar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) justo después del paso de espera. Especifique a quién desea eliminar mediante el [añadir opción](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) opción.
-
-## Uso {#usage}
+>Si ya tiene a alguien en un paso de espera y no desea que avance después de que finalice el período de espera, inserte [quitar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) justo después del paso de espera. Especifique a quién desea eliminar mediante la opción [agregar opción](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 Existen tres formas principales de utilizar un paso de flujo de espera:
 

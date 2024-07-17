@@ -4,7 +4,7 @@ description: 'Uso de un token de fecha en un paso de flujo de espera: documentos
 title: Uso de un token de fecha en un paso de flujo de espera
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -19,17 +19,17 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 >
 >Esto solo se aplica a las campañas de Déclencheur. No puede utilizar esta función en campañas por lotes.
 
-1. En la campaña inteligente **[!UICONTROL Flujo]** , arrastre el cursor sobre la pestaña **[!UICONTROL Esperar]** paso de flujo.
+1. En la pestaña **[!UICONTROL Flujo]** de tu campaña inteligente, arrastra el cursor sobre el paso de flujo **[!UICONTROL Esperar]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Haga clic en el icono de engranaje.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Desde el **[!UICONTROL Tipo]** menú desplegable, seleccione **[!UICONTROL Token de fecha]**.
+1. En el menú desplegable **[!UICONTROL Tipo]**, seleccione **[!UICONTROL Token de fecha]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Elija un token de fecha para especificar cuándo debe finalizar el paso de espera:
 
@@ -38,11 +38,11 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. Para esperar hasta el siguiente aniversario de la fecha del año natural actual o siguiente, marque la casilla.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,17 +50,17 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
 1. De forma opcional, puede modificar la fecha de finalización un número determinado de días.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >También puede especificar el número de días mediante una `{{lead.` o `{{company.` token que representa un campo entero o un `{{my.` token de tipo numérico.
+   >También puede especificar el número de días utilizando un token `{{lead.` o `{{company.` que represente un campo entero o un token `{{my.` de tipo numérico.
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Utilizar una duración en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [Usar una duración en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
    >* [Usar una fecha específica en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

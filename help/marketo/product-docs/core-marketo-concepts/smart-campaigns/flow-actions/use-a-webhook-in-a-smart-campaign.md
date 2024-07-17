@@ -4,7 +4,7 @@ description: 'Uso de un webhook en una campaña inteligente: documentos de Marke
 title: Uso de un webhook en una campaña inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -13,30 +13,30 @@ ht-degree: 0%
 
 # Uso de un webhook en una campaña inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para utilizar un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, agréguela a [Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como una acción de flujo.
+Para usar un [gancho web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, agréguelo a una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como una acción de flujo.
 
 >[!AVAILABILITY]
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. [Creación de una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
+1. [Crear una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
    >Los webhooks solo se pueden usar en campañas de Déclencheur.
 
-1. Vaya a la **[!UICONTROL Flujo]** y arrastre en el **[!UICONTROL Llamar a webhook]** acción de flujo.
+1. Vaya a la pestaña **[!UICONTROL Flujo]** y arrastre la acción de flujo **[!UICONTROL Llamar al webhook]**.
 
-   ![](assets/image2014-9-22-15-3a8-3a2.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
 1. Seleccione el webhook.
 
-   ![](assets/image2014-9-22-15-3a8-3a5.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 
 1. También puede utilizar Webhooks en una lista inteligente.
 
-   ![](assets/2017-05-02-10-54-38.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-3.png)
 
-1. Por último, puede utilizar Webhooks en **[!UICONTROL Agregar opción]** en un paso de flujo.
+1. Por último, puede usar Webhooks en **[!UICONTROL Agregar opción]** en un paso de flujo.
 
-   ![](assets/image2014-9-22-15-3a8-3a13.png)
+   ![](assets/use-a-webhook-in-a-smart-campaign-4.png)

@@ -4,7 +4,7 @@ description: 'Uso de Agregar opción en un paso de flujo: documentos de Marketo,
 title: Uso de Agregar opción en un paso de flujo
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[Agregar un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
 &quot;Agregar opción&quot; le permite utilizar un paso de flujo y decir &quot;depende&quot; al elegir los detalles.
 
-1. En el **[!UICONTROL Flujo]** en la pestaña Smart Campaign, añada cualquier paso del flujo y haga clic en **[!UICONTROL Agregar opción]**.
+1. En la ficha **[!UICONTROL Flujo]** de la campaña inteligente, agregue cualquier paso de flujo y haga clic en **[!UICONTROL Agregar opción]**.
 
-   ![](assets/image2014-9-22-11-3a58-3a20.png)
+   ![](assets/use-add-choice-in-a-flow-step-1.png)
 
 1. Seleccione la condición de elección.
 
-   ![](assets/image2014-9-22-11-3a58-3a50.png)
+   ![](assets/use-add-choice-in-a-flow-step-2.png)
 
 1. Seleccione el operador de opción e introduzca un valor de opción. Esto establece los criterios de selección.
 
-   ![](assets/image2014-9-22-11-3a58-3a54.png)
+   ![](assets/use-add-choice-in-a-flow-step-3.png)
 
 1. Introduzca un valor de paso de flujo para la opción.
 
-   ![](assets/image2014-9-22-11-3a58-3a57.png)
+   ![](assets/use-add-choice-in-a-flow-step-4.png)
 
    >[!CAUTION]
    >
-   >Los tokens _no_ trabaje en la parte condición de un paso flujo de opción.
+   >Los tokens _no_ funcionarán en la condición como parte de un paso del flujo de opciones.
 
 1. Repita los pasos anteriores para agregar varias opciones y, a continuación, agregue o ajuste el valor predeterminado.
 
-   ![](assets/image2014-9-22-11-3a58-3a59.png)
+   ![](assets/use-add-choice-in-a-flow-step-5.png)
 
    >[!TIP]
    >
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Solo se aplica la primera opción coincidente al paso de flujo. Obtenga información sobre cómo [reordenar &quot;Agregar opción&quot; en una acción de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
+   >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Agregar opción&quot; en una acción de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Excelente! Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
+   ¡Excelente! Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
 
    >[!MORELIKETHIS]
    >
