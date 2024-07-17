@@ -4,9 +4,9 @@ description: Cambiar propietario - Documentos de Marketo - Documentación del pr
 title: Cambiar propietario
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 2%
 
 Si tiene personas existentes que ya están asignadas a un propietario, puede utilizar este paso de flujo para reasignarlas a otro propietario.
 
-![](assets/image2014-9-22-15-3a1-3a3.png)
-
-**Uso**
+![](assets/change-owner-1.png)
 
 1. Simplemente elija el propietario o la cola de posibles clientes a la que desee cambiar y vaya.
 
-   ![](assets/image2014-9-22-15-3a1-3a6.png)
+   ![](assets/change-owner-2.png)
 
    >[!CAUTION]
    >
    >Salesforce no permite que los contactos se asignen a colas de posibles clientes. Para un registro que sea un contacto de SFDC:
    >
-   >1. Marketo creará un posible cliente duplicado **solamente** cuando el contacto se sincroniza con Salesforce. En otras palabras, si utiliza la variable **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** paso de flujo con `AssignTo=<a lead queue>`, Marketo creará un posible cliente duplicado en Salesforce y lo asignará a la cola de posibles clientes.
+   >* Marketo creará un posible cliente **solo** duplicado cuando el contacto se sincronice con Salesforce. En otras palabras, si utiliza el paso de flujo **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketo creará un posible cliente duplicado en Salesforce y lo asignará a la cola de posibles clientes.
    >
-   >1. Si usa el **[!UICONTROL Cambiar propietario]** paso de flujo en un contacto, Marketo crea un posible cliente duplicado en Salesforce. Para evitarlo, utilice un filtro en el campo &quot;Tipo de SFDC&quot; que limite la acción únicamente a los posibles clientes.
+   >* Si usa el paso de flujo **[!UICONTROL Cambiar propietario]** en un contacto, Marketo crea un posible cliente duplicado en Salesforce. Para evitarlo, utilice un filtro en el campo &quot;Tipo de SFDC&quot; que limite la acción únicamente a los posibles clientes.
 
    >[!NOTE]
    >

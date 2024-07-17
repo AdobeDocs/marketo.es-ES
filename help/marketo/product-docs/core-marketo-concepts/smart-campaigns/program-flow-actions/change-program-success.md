@@ -4,22 +4,18 @@ description: Cambiar el éxito del programa - Documentos de Marketo - Documentac
 title: Cambiar el éxito del programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 4%
 
 ---
 
 # Cambiar el éxito del programa {#change-program-success}
 
-## Información general {#overview}
+Si alguna vez tiene un grupo de personas marcado incorrectamente con Éxito del programa, puede utilizar este paso de flujo para establecer el éxito en verdadero o falso.
 
-Si alguna vez tiene un grupo de personas marcadas con Éxito del programa accidentalmente, puede utilizar este paso de flujo para establecer el éxito en verdadero o falso.
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## Uso {#usage}
+![](assets/change-program-success-1.png)
 
 1. Al arrastrar este paso de flujo, el programa se establecerá automáticamente en el programa que contiene la campaña inteligente que está editando.
 
@@ -27,22 +23,22 @@ Si alguna vez tiene un grupo de personas marcadas con Éxito del programa accide
    >
    >Solo se verán afectados los miembros del programa.
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
-1. Seleccionar **[!UICONTROL Correcto]** o **[!UICONTROL Fecha de éxito]** como atributo.
+1. Seleccione **[!UICONTROL Éxito]** o **[!UICONTROL Fecha de éxito]** como atributo.
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
    >Si establece la Fecha de éxito en cualquier valor, establece automáticamente el Éxito en verdadero. Si se establece Success en true, la fecha de éxito se establece automáticamente en la fecha actual.
 
-1. Configure las variables **[!UICONTROL Nuevo valor]** hasta **[!UICONTROL Verdadero]** o **[!UICONTROL Falso]**.
+1. Establezca **[!UICONTROL Nuevo valor]** en **[!UICONTROL Verdadero]** o **[!UICONTROL Falso]**.
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >
    >Puede utilizar el paso de flujo dos veces para establecer tanto el indicador de éxito como la fecha.
 
-Excelente! Ahora sabe cómo deshacer y forzar el éxito.
+¡Excelente! Ahora sabe cómo deshacer y forzar el éxito.

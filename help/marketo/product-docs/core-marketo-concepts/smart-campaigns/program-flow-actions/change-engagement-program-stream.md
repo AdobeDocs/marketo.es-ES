@@ -4,22 +4,18 @@ description: Flujo del programa de cambio de participación - Documentos de Mark
 title: Cambiar secuencia de programa de participación
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '93'
+ht-degree: 8%
 
 ---
 
 # Cambiar secuencia de programa de participación {#change-engagement-program-stream}
 
-## Información general {#overview}
+Normalmente, utilizaría [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguirlo. Pero si desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que debe utilizar.
 
-Normalmente, utilizaría [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para lograr esto. Pero si desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que debe utilizar.
-
-![](assets/image2014-9-22-14-3a52-3a14.png)
-
-## Uso {#usage}
+![](assets/change-engagement-program-stream-1.png)
 
 1. Seleccione el programa de participación al que desee mover a la persona.
 
@@ -27,10 +23,10 @@ Normalmente, utilizaría [reglas de transición de flujo](/help/marketo/product-
    >
    >Si selecciona un programa diferente, dejará a la persona en su flujo actual, así como la agregará al nuevo.
 
-   ![](assets/image2014-9-22-14-3a52-3a50.png)
+   ![](assets/change-engagement-program-stream-2.png)
 
 1. Seleccione el flujo al que desee agregar a sus recursos.
 
-   ![](assets/image2014-9-22-14-3a52-3a59.png)
+   ![](assets/change-engagement-program-stream-3.png)
 
 ¡Y eso es todo!
