@@ -4,7 +4,7 @@ description: 'Creación de una lista inteligente: documentos de Marketo, documen
 title: Crear una lista inteligente
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Las listas inteligentes permiten encontrar grupos específicos de personas mediante filtros simples. A continuación se muestra cómo crear uno.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. Seleccione el programa en el que desea crear la lista inteligente.
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
 1. En **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo recurso local]**.
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
-1. Seleccionar **[!UICONTROL Lista inteligente]**.
+1. Seleccione **[!UICONTROL Lista inteligente]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
-1. Introduzca una **[!UICONTROL Nombre]** y haga clic en **[!UICONTROL Crear]**.
+1. Escriba un **[!UICONTROL Nombre]** y haga clic en **[!UICONTROL Crear]**.
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    ¡Ta-da, gran trabajo! Ahora vamos a añadir y definir algunos filtros.
 

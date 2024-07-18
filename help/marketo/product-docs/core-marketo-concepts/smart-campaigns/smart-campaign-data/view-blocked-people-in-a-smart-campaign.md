@@ -4,9 +4,9 @@ description: 'Visualización de personas bloqueadas en una campaña inteligente:
 title: Ver personas bloqueadas en una campaña inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Las personas bloqueadas en la base de datos de Marketo Engage se marcan como incluidas en la lista de bloqueados, sin suscripción, con marketing suspendido o con un correo electrónico no válido o vacío.
 
-1. En la campaña inteligente, haga clic en **[!UICONTROL Programación]**. En **[!UICONTROL Estado de lista inteligente]**, haga clic en el segundo vínculo.
+1. En su campaña inteligente, haga clic en **[!UICONTROL Programar]**. En **[!UICONTROL Estado de la lista inteligente]**, haga clic en el segundo vínculo.
 
-   ![](assets/image2014-9-22-16-3a47-3a38.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
-   >A las personas que han alcanzado sus límites de comunicación también se les puede bloquear la recepción de correos electrónicos. Obtenga información sobre cómo [editar límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} en la sección Administración.
+   >A las personas que han alcanzado sus límites de comunicación también se les puede bloquear la recepción de correos electrónicos. Aprenda a [editar los límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} en la sección Administración.
 
    La pestaña Personas bloqueadas muestra las personas que podrían no recibir correos.
 
-   ![](assets/image2014-9-22-16-3a48-3a11.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -36,6 +36,4 @@ Las personas bloqueadas en la base de datos de Marketo Engage se marcan como inc
    >* [Editar reglas de calificación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
    >* [Habilitar límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
    >* [Ver miembros de campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
-   >* [Ver personas cualificadas en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
-
-¡Ahí tienes! Ahora puede saber quién podría no recibir los envíos de correo.
+   >* [Ver personas calificadas en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}

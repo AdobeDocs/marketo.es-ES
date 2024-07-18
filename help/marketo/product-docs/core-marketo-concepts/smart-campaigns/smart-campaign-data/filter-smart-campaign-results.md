@@ -4,7 +4,7 @@ description: 'Filtrar resultados de campañas inteligentes: documentos de Market
 title: Filtrar resultados de campañas inteligentes
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Filtre los resultados de campañas inteligentes para ver las actividades especí
 
 ## Filtrar por filtros guardados {#filter-by-saved-filters}
 
-1. En la campaña inteligente **[!UICONTROL Resultados]** pestaña, haga clic en **[!UICONTROL Filtrar]** y seleccione un filtro guardado.
+1. En la pestaña **[!UICONTROL Resultados]** de tu campaña inteligente, haz clic en **[!UICONTROL Filtro]** y selecciona un filtro guardado.
 
-   ![](assets/resultsfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-1.png)
 
    >[!NOTE]
    >
@@ -31,22 +31,22 @@ Filtre los resultados de campañas inteligentes para ver las actividades especí
 
 ## Crear un filtro personalizado {#create-a-custom-filter}
 
-1. Clic **[!UICONTROL Filtrar]**, entonces **[!UICONTROL Personalizado]**.
+1. Haga clic en **[!UICONTROL Filtro]** y luego en **[!UICONTROL Personalizado]**.
 
-   ![](assets/filterscustom-hands.png)
+   ![](assets/filter-smart-campaign-results-2.png)
 
-1. Seleccione los tipos de actividades que desea ver y haga clic en **[!UICONTROL Guardar como]**.
+1. Seleccione los tipos de actividad que desea ver y haga clic en **[!UICONTROL Guardar como]**.
 
-   ![](assets/activityfiltersettings-hands.png)
+   ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >Clic **[!UICONTROL Aplicar]** para aplicar directamente un filtro personalizado a los resultados sin guardarlo.
+   >Haga clic en **[!UICONTROL Aplicar]** para aplicar directamente un filtro personalizado a los resultados sin guardarlo.
 
-1. Introduzca un nombre de filtro y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre de filtro y haga clic en **[!UICONTROL Guardar]**.
 
-   ![](assets/saveasfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-4.png)
 
 1. El filtro personalizado se aplicará a los resultados y ahora está disponible en la lista desplegable (es posible que tenga que actualizar la página para verlo en la lista desplegable).
 
-   ![](assets/customfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-5.png)
