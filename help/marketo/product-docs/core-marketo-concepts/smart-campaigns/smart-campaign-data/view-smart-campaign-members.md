@@ -4,32 +4,32 @@ description: 'Ver miembros de campañas inteligentes: documentos de Marketo, doc
 title: Ver miembros de campañas inteligentes
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Ver miembros de campañas inteligentes {#view-smart-campaign-members}
 
-Vea las personas que ya han pasado por el flujo de campañas inteligentes; es decir, los miembros de campañas inteligentes.
+Vea las personas que ya han pasado por el flujo de campaña inteligente.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. En la campaña inteligente, haga clic en **[!UICONTROL Ver miembros de campaña]**.
+1. En su campaña inteligente, haga clic en **[!UICONTROL Ver miembros de la campaña]**.
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->Puede ver los miembros de la campaña desde cualquier lugar dentro de una campaña inteligente.
+   >[!TIP]
+   >
+   >Puede ver los miembros de la campaña desde cualquier lugar dentro de una campaña inteligente.
 
-1. El **[!UICONTROL Miembros de campaña]** La pestaña muestra las personas que ya han pasado por el flujo de campaña inteligente.
+1. La pestaña **[!UICONTROL Miembros de la campaña]** muestra a las personas que ya han pasado por el flujo de Campaña inteligente.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
