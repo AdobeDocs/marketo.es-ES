@@ -2,10 +2,8 @@
 description: Glosario de iconos clásicos - Documentos de Marketo - Documentación del producto
 title: Glosario de iconos clásicos
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -14,15 +12,15 @@ ht-degree: 34%
 
 # Glosario de iconos clásicos {#classic-icon-glossary}
 
-A continuación se muestran los iconos antiguos de la interfaz de Marketo Classic. El glosario del icono actual puede ser [encontrado aquí](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+A continuación se muestran los iconos antiguos de la interfaz de Marketo Classic. El glosario del icono actual se puede [encontrar aquí](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
 **Iconos generales**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th>
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>Carpeta de destino compartida desde otro espacio de trabajo <br>(el candado indica que no se pueden realizar ediciones)</td> 
+   <td>Carpeta de destino compartida desde otro área de trabajo <br> (el candado indica que no se pueden realizar modificaciones)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th>
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th> 
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>Programa de correo electrónico <br>(Indicador rojo abajo = el correo electrónico aún no se ha enviado)</td> 
+   <td>Programa de correo electrónico <br>(indicador rojo abajo = correo electrónico aún no enviado)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th> 
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -639,8 +637,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th>
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th> 
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th>
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Ícono</th>
-   <th style="width:90%">Nombre</th> 
+   <th style="width:15%">Ícono</th>
+   <th style="width:85%">Nombre</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
