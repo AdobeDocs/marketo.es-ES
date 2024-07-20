@@ -4,7 +4,7 @@ description: 'Creación y cambio de vistas para listas y listas inteligentes: Do
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -17,27 +17,27 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Crear una vista {#create-a-view}
 
-1. Vaya a una lista o lista inteligente y haga clic en **[!UICONTROL People]** y haga clic en **[!UICONTROL Crear vista]** en el **[!UICONTROL Ver]** menú desplegable.
+1. Vaya a una lista o lista inteligente, haga clic en la ficha **[!UICONTROL Personas]** y, a continuación, haga clic en **[!UICONTROL Crear vista]** en la lista desplegable **[!UICONTROL Vista]**.
 
-   ![](assets/smartlist-createview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
 1. Asigne un nombre a la vista y busque la columna que desee añadir o quitar.
 
-   ![](assets/image2014-9-12-11-3a23-3a53.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. Añada o elimine las columnas que desee y haga clic en **[!UICONTROL Crear]**.
+1. Agregue o quite las columnas que desee y después haga clic en **[!UICONTROL Crear]**.
 
-   ![](assets/image2014-9-12-11-3a24-3a7.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->Para buscar rápidamente, utilice el **Buscar** cuadro.
+>Para buscar rápidamente, usa el cuadro **Buscar**.
 
 ## Cambiar vistas {#switch-views}
 
-1. Haga clic en **[!UICONTROL Ver]** y, a continuación, seleccione la vista que desee. Cambie de una vista a otra según sea necesario.
+1. Haga clic en la lista desplegable **[!UICONTROL Vista]** y, a continuación, seleccione la vista que desee. Cambie de una vista a otra según sea necesario.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
 >[!NOTE]
 >
@@ -45,31 +45,31 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Editar una vista {#edit-a-view}
 
-1. Asegúrese de que la vista que desea editar está seleccionada en la **[!UICONTROL Ver]** menú desplegable.
+1. Asegúrese de que la vista que desea editar esté seleccionada en la lista desplegable **[!UICONTROL Vista]**.
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. Haga clic en **[!UICONTROL Editar]** opción.
+1. Haga clic en la opción **[!UICONTROL Editar]**.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
 1. Realice los cambios que desee y haga clic en **[!UICONTROL Guardar]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a19.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## Eliminar una vista {#delete-a-view}
 
-1. Seleccione el **[!UICONTROL Editar]** opción para la vista que desea eliminar de la **[!UICONTROL Ver]** menú desplegable.
+1. Seleccione la opción **[!UICONTROL Editar]** para la vista que desee eliminar de la lista desplegable **[!UICONTROL Vista]**.
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. Clic **[!UICONTROL Eliminar]**.
+1. Haga clic en **[!UICONTROL Eliminar]**.
 
-   ![](assets/image2014-9-12-11-3a27-3a39.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 
 Solo usted puede ver las vistas personalizadas que crea en la lista desplegable Vista, así que dígale a sus amigos que necesitan crear las suyas propias.
 
 >[!MORELIKETHIS]
 >
->* [Usar listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [Usar listas inteligentes integradas o del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
 >* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

@@ -4,9 +4,9 @@ description: 'Filtros y Déclencheur de oportunidad: documentos de Marketo, docu
 title: Filtros y Déclencheur de oportunidad
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 5%
 
 ---
@@ -22,36 +22,36 @@ Los filtros de oportunidad le permiten explorar en profundidad los posibles clie
 * Cantidad de oportunidades
 * Monto total de la oportunidad
 * Ingreso esperado total de la oportunidad
-* Tiene una oportunidad
+* Tiene oportunidad
 * Se ha añadido la oportunidad
 * Se ha eliminado la oportunidad
 * Se actualizó la oportunidad
 
-Si está buscando los campos de oportunidad (personalizados o estándar), utilice el **Tiene oportunidad** filtrar o **La oportunidad era`[Added/Removed/Updated]`** filtros o déclencheur.
+Si estás buscando tus campos de oportunidad (personalizados o estándar), usa el filtro **Tiene oportunidad** o **La oportunidad era`[Added/Removed/Updated]`** filtros o déclencheur.
 
-**Número de Optys, Importe de Opty Total, Ingresos esperados de Opty Total**
+**Número de opciones, Importe total de la opción, Ingresos totales esperados de la opción**
 
 Con estos filtros, puede encontrar posibles clientes en función del número total, la cantidad o los ingresos esperados de todas sus oportunidades.
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
 **Tiene oportunidad, Se agregó a la oportunidad, Se eliminó de la oportunidad**
 
-Si está buscando posibles clientes que tengan oportunidades basadas en una combinación de criterios, utilice el **Tiene oportunidad**, **Se agregó a la oportunidad**, o **Se eliminó de la oportunidad** filtro. Ellos te dicen:
+Si está buscando posibles clientes que tienen oportunidades basadas en una combinación de criterios, use el filtro **Tiene oportunidad**, **Se agregó a la oportunidad** o **Se eliminó de la oportunidad**. Ellos te dicen:
 
-* **Tiene oportunidad**: Si este posible cliente tiene actualmente cualquier oportunidad coincidente
-* **Se agregó a la oportunidad**: Si este posible cliente se añadió alguna vez a una oportunidad coincidente
-* **Se eliminó de la oportunidad**: si este posible cliente se ha eliminado de una oportunidad coincidente
+* **Tiene oportunidad**: Si este posible cliente tiene actualmente alguna oportunidad coincidente
+* **Se agregó a la oportunidad**: Si este posible cliente se agregó alguna vez a una oportunidad coincidente
+* **Se eliminó de la oportunidad**: Si este posible cliente se eliminó alguna vez de una oportunidad coincidente
 
-Agregar los criterios de búsqueda como **Restricciones** en el filtro. Las restricciones incluyen los campos estándar y personalizados de la oportunidad:
+Agregue los criterios de búsqueda como **Restricciones** en el filtro. Las restricciones incluyen los campos estándar y personalizados de la oportunidad:
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
-Por ejemplo, supongamos que desea encontrar posibles clientes que tengan oportunidades abiertas de al menos 5000 dólares. Arrastre en el **Tiene oportunidad** filtre y utilice el **Está cerrado** y **Cantidad** restricciones:
+Por ejemplo, supongamos que desea encontrar posibles clientes que tengan oportunidades abiertas de al menos 5000 dólares. Arrastre el filtro **Tiene oportunidad** y use las restricciones **Está cerrado** y **Cantidad**:
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
@@ -59,11 +59,11 @@ Por ejemplo, supongamos que desea encontrar posibles clientes que tengan oportun
 
 **Se actualizó la oportunidad**
 
-El **Se actualizó la oportunidad** El filtro busca cualquier oportunidad cuando se actualiza un campo de oportunidad específico. Seleccione el campo que desea comprobar con el menú desplegable Atributo de Déclencheur y, a continuación, utilice las restricciones para reducir el conjunto de cambios.
+El filtro **Se actualizó la oportunidad** busca cualquier oportunidad cuando se actualizó un campo de oportunidad específico. Seleccione el campo que desea comprobar con el menú desplegable Atributo de Déclencheur y, a continuación, utilice las restricciones para reducir el conjunto de cambios.
 
 Por ejemplo, este filtro le mostrará todos los posibles clientes a los que se les ha cambiado la fecha de cierre en los últimos 30 días:
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## Déclencheur de oportunidad {#opportunity-triggers}
 
@@ -75,8 +75,8 @@ Están disponibles los siguientes déclencheur de oportunidad. Funcionan igual q
 
 Por ejemplo, puede utilizar esta lista inteligente para generar déclencheur cuando se agregue un posible cliente a una oportunidad. En el flujo, puede añadirlos a la lista de suspendidos de marketing o enviarles un correo electrónico de destino.
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
-Para eliminar el déclencheur de los campos personalizados de la oportunidad, utilice el **Se ha actualizado la oportunidad** Seleccione el déclencheur y el campo en el menú desplegable:
+Déclencheur Para desactivar los campos personalizados de oportunidad, usa el déclencheur **Se ha actualizado la oportunidad** y elige el campo en el menú desplegable:
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)

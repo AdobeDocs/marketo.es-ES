@@ -4,9 +4,9 @@ description: 'Hacer referencia a una lista o lista inteligente en espacios de tr
 title: Hacer referencia a una lista o lista inteligente en espacios de trabajo
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,39 @@ Las listas y las listas inteligentes se pueden compartir y se puede hacer refere
 
 >[!NOTE]
 >
->Se aplican reglas de partición de persona (las listas inteligentes y las listas estáticas de un espacio de trabajo solo muestran a las personas que son miembros de la lista) _y_ miembros del espacio de trabajo actual).
+>Se aplican reglas de partición de persona (las listas inteligentes y las listas estáticas de un área de trabajo solo muestran a las personas que son miembros de la lista _y_ miembros del área de trabajo actual).
 
 ## Compartir una lista o lista inteligente {#share-a-list-or-smart-list}
 
-1. Vaya a la **[!UICONTROL Base de datos]**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Haga clic con el botón derecho en una carpeta de campaña. Seleccionar **Nueva carpeta**.
+1. Haga clic con el botón derecho en una carpeta de campaña. Seleccione **Nueva carpeta**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >Los recursos solo se pueden compartir entre espacios de trabajo si están anidados en una carpeta.
+   >Assets solo se puede compartir entre espacios de trabajo si están anidados en una carpeta.
 
-   ![](assets/two-4.png)
+1. Asigne un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Arrastre y suelte una lista o lista inteligente que desee compartir en la nueva carpeta.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Clic con el botón derecho **[!UICONTROL Nueva carpeta]** y seleccione **[!UICONTROL Compartir carpeta]**.
+1. Haga clic con el botón derecho en la nueva carpeta y seleccione **[!UICONTROL Compartir carpeta]**.
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Elija una **[!UICONTROL Workspace]** para compartir con. Seleccionar **[!UICONTROL Guardar]**.
+1. Elige una **[!UICONTROL Workspace]** con la que compartir y haz clic en **[!UICONTROL Guardar]**.
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   ¡Increíble! Esta lista ahora estará disponible en ambos espacios de trabajo.
+   ¡Fantástico! Esta lista ahora estará disponible en ambos espacios de trabajo.
 
    >[!NOTE]
    >
