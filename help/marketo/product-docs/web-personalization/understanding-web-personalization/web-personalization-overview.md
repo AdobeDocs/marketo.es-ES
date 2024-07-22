@@ -1,33 +1,33 @@
 ---
 unique-page-id: 3571900
-description: Información general de personalización web - Documentos de Marketo - Documentación del producto
-title: Información general de personalización web
+description: 'Información general de Web Personalization: documentos de Marketo, documentación del producto'
+title: Información general de Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 1%
 
 ---
 
-# Información general de personalización web {#web-personalization-overview}
+# Información general de Web Personalization {#web-personalization-overview}
 
 ## Introducción {#introduction}
 
-Para los nuevos clientes de Marketo, la personalización en tiempo real se divide en cuatro aplicaciones a las que se accede mediante estos dos mosaicos: Personalización web y Inteligencia artificial aplicada al contenido.
+Para los nuevos clientes de Marketo, Real-Time Personalization se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Web Personalization y ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->La personalización web y la inteligencia artificial aplicada al contenido están disponibles en todos los idiomas compatibles con Marketo (inglés, francés, alemán, japonés, portugués y español).
+>Personalization web y ContentAI están disponibles en todos los idiomas compatibles con Marketo (inglés, francés, alemán, japonés, portugués y español).
 
-Los clientes existentes siguen accediendo a las aplicaciones a través del mosaico Personalización en tiempo real hasta la renovación, momento en el que utilizarán el inicio de sesión anterior.
+Los clientes existentes siguen accediendo a las aplicaciones a través del mosaico de Real-Time Personalization hasta la renovación, momento en el que utilizarán el inicio de sesión anterior.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Al hacer clic en el mosaico Personalización web, aparece la página Panel de control. Haga clic en el mosaico Inteligencia artificial aplicada al contenido y vaya directamente a la página Recommendations de contenido.
+Al hacer clic en el mosaico de Web Personalization, aparece la página Panel. Haga clic en el mosaico Inteligencia artificial aplicada al contenido y vaya directamente a la página Recommendations de contenido.
 
 Las cuatro aplicaciones son:
 
@@ -36,17 +36,17 @@ Las cuatro aplicaciones son:
 * Redireccionamiento de sitios web
 * ContentAI
 
-El **Personalización web** El mosaico es el punto de acceso para crear campañas web personalizadas. Marketing web basado en cuentas y redireccionamiento web. Puede agregar contenido en la página Análisis de contenido.
+El mosaico **Web Personalization** es el punto de acceso para crear campañas web personalizadas. Marketing web basado en cuentas y redireccionamiento web. Puede agregar contenido en la página Análisis de contenido.
 
-**Marketing web basado en cuentas** funciona con la personalización web y las funciones de cuentas con nombre. La página Cuentas con nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
+**Marketing web basado en cuentas** funciona con Web Personalization y ofrece cuentas con nombre. La página Cuentas con nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
 
-**Redireccionamiento de sitios web** le permite volver a enviar marketing a audiencias segmentadas. Puede establecer segmentos, pero no puede usar cuentas con nombre en el filtro.
+**Redireccionamiento de sitios web** le ofrece la posibilidad de volver a enviar marketing a audiencias segmentadas. Puede establecer segmentos, pero no puede usar cuentas con nombre en el filtro.
 
-**ContentAI** es el lugar para dar recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
+**ContentAI** es el lugar donde dar recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
 
 >[!NOTE]
 >
->Para acceder a marketing web basado en cuentas o a redireccionamiento de sitios web, debe hacer clic en el mosaico Personalización web, aunque no tenga la aplicación de personalización web.
+>Para acceder a marketing web basado en cuentas o a redireccionamiento de sitios web, debe hacer clic en el mosaico Personalization web, aunque no tenga la aplicación Personalization web.
 
 ## Organizaciones {#organizations}
 
@@ -69,7 +69,7 @@ El panel derecho de la página Organizaciones ofrece las siguientes funciones y 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icono de hoja de cálculo</strong>: Situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para su uso sin conexión</p><p><strong>Establecer alerta de correo electrónico</strong>: envía un correo electrónico al usuario que ha iniciado sesión cada vez que la organización seleccionada visita el sitio web</p><p><strong>Posibles clientes</strong>: abre la tabla de posibles clientes de la organización seleccionada.</p><p><strong>Compartir</strong>: abre una ventana emergente para enviar un correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono de ubicación</strong>: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web correspondiente que ofrece una perspectiva adicional de la organización seleccionada</p><p><strong>Buscar</strong>: Muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>Referentes</strong>: muestra el vínculo URL de la página que refirió el tráfico a su sitio</p><p><strong>Visitantes</strong>: Muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completaron un formulario de envío) y la hora y fecha de la última visita</p><p><strong>Flujo de navegación</strong>: muestra una tabla de la actividad del usuario y la ruta URL en el sitio, así como el tiempo que ha visitado cada página</p></td> 
+   <td><p><strong>Icono de hoja de cálculo</strong>: situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para su uso sin conexión</p><p><strong>Establecer alerta de correo electrónico</strong>: envía un correo electrónico al usuario que ha iniciado sesión cada vez que la organización seleccionada visita el sitio web</p><p><strong>Posibles clientes</strong>: abre la tabla de posibles clientes de la organización seleccionada</p><p><strong>Compartir</strong>: abre una ventana emergente para enviar un correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono de ubicación</strong>: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web correspondiente y ofrece una perspectiva adicional de la organización seleccionada</p><p><strong>Búsqueda</strong>: Muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>Referentes</strong>: muestra el vínculo URL de la página que refirió el tráfico a su sitio</p><p><strong>Visitantes</strong>: Muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completaron un formulario de envío) y la hora y fecha de la última visita</p><p><strong>Flujo de navegación</strong>: muestra una tabla de la actividad del usuario y la ruta de la URL en el sitio, así como el tiempo que ha visitado cada página</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ¿Busca la dirección web (URL) de una imagen o archivo que ha cargado?
 
-1. Vaya a la **[!UICONTROL Design Studio]**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Clic **[!UICONTROL Imágenes y archivos]**.
+1. Haga clic en **[!UICONTROL Imágenes y archivos]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. El **[!UICONTROL URL]** se muestra en la página de detalles.
+1. La **[!UICONTROL URL]** se muestra en la página de detalles.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 

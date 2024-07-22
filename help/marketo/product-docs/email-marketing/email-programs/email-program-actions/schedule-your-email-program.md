@@ -16,13 +16,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Elija un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Cree un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Con el programa de correo electrónico creado, la audiencia definida y el correo electrónico seleccionado, querrá decirle a su programa *cuando* para enviar el correo electrónico. Así es como.
+Con el programa de correo electrónico creado, la audiencia definida y el correo electrónico seleccionado, querrás decirle a tu programa *cuándo* enviar el correo electrónico. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Con el programa de correo electrónico creado, la audiencia definida y el correo
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. En el **Programación** , establezca la fecha.
+1. En el mosaico **Programar**, establezca la fecha.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,13 +38,13 @@ Con el programa de correo electrónico creado, la audiencia definida y el correo
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. También puede optar por utilizar la variable [Zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) y/o [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funciones.
+1. También puede elegir usar las características de [Zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) y/o [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   ¿Qué tan fácil fue eso? Lo único que queda es [aprobación de un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) y estás listo para ir.
+   ¿Qué tan fácil fue eso? Lo único que queda es [aprobar un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) y ya está listo para comenzar.
 
 >[!MORELIKETHIS]
 >
->* [Programar programas de correo electrónico con zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Programar programas de correo electrónico con zona horaria de destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start para programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

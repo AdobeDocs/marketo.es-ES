@@ -2,11 +2,11 @@
 description: Programa de solicitud WR-AAAA-MM-Web - Documentos de Marketo - Documentación del producto
 title: Programa de solicitud web WR-AAAA-MM
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 14%
+source-wordcount: '400'
+ht-degree: 13%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 14%
 
 Este es un programa de ejemplo ideal para formularios de solicitud de contacto, solicitud de presupuesto, solicitud de demostración o solicitud de prueba que utilizan un programa predeterminado de Marketo Engage. Se puede utilizar con páginas de destino de Marketo o como formulario incrustado en páginas de destino que no sean de Marketo. Se envía un correo electrónico de alerta a una persona especificada tras el envío del formulario.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -27,15 +27,15 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <th>Tipo de programa</th>
   </tr> 
   <tr> 
-   <td>Web Solicitud</td> 
+   <td>Solicitud web</td> 
    <td>01 - Participación - Éxito</td>
-   <td>Inclusivo</td>
+   <td>Incluido</td>
    <td>Predeterminado</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -67,7 +67,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Desempeño de página de destino</td>
   </tr>
    <tr> 
    <td>Campaña inteligente</td> 
@@ -83,7 +83,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Carpeta</td> 
    <td> </td>
    <td>Assets: aloja todos los recursos creativos 
-<br/>(subcarpetas para Alertas y páginas de aterrizaje)</td>
+<br/>(subcarpetas para alertas y páginas de aterrizaje)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -93,7 +93,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -106,7 +106,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
   <tr> 
@@ -139,23 +139,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Después de importar el programa de seminario web, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
    * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad para actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.

@@ -1,10 +1,10 @@
 ---
 description: Uso de la campaña de adición masiva a ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso de la campaña de adición masiva a ventas en Salesforce
-exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -19,33 +19,33 @@ Aprenda a añadir elementos de forma masiva a la campaña de ventas en Salesforc
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ha instalado el [último paquete de perspectivas de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contactos y listas de posibles clientes de Salesforce.
+>Asegúrese de que ha instalado el [último paquete de Perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} en su instancia de Salesforce y de que ha configurado los [botones de acción](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contacto y lista de posibles clientes de Salesforce.
 
 ## Añadir masivamente a la campaña de ventas en Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. En Salesforce, vaya a la página de inicio de posibles clientes/contactos haciendo clic en **Posibles clientes/contactos** pestaña.
+1. En Salesforce, vaya a la página de inicio de Posibles clientes/Contactos al hacer clic en la pestaña **Posibles clientes/Contactos**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 
-1. En el **Ver** , seleccione la vista que desee de los posibles clientes/contactos que desee enviar por correo electrónico.
+1. En el menú desplegable **Vista**, seleccione la vista que desee de los posibles clientes/contactos que desee enviar por correo electrónico.
 
    >[!TIP]
    >
-   >Puede crear una nueva vista haciendo clic en el icono de engranaje de la derecha y seleccionando **Nuevo**. Una vez que le haya dado a la vista un nuevo nombre y lo haya guardado, puede hacer clic en el icono de filtro de la derecha para ayudar a filtrar hasta el conjunto deseado de posibles clientes/contactos que desee enviar por correo electrónico.
+   >Para crear una vista nueva, haz clic en el icono de engranaje a la derecha y selecciona **Nuevo**. Una vez que le haya dado a la vista un nuevo nombre y lo haya guardado, puede hacer clic en el icono de filtro de la derecha para ayudar a filtrar hasta el conjunto deseado de posibles clientes/contactos que desee enviar por correo electrónico.
 
-1. Seleccione la lista de contactos o posibles clientes que desee y haga clic en **Añadir a la campaña de ventas** botón.
+1. Elija la lista de contactos o posibles clientes que desee y haga clic en el botón **Agregar a la campaña de ventas**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-2.png)
 
 1. Se le dirigirá al modal Actions Sales Campaign, con los destinatarios seleccionados añadidos.
 
-1. Realice los cambios necesarios para eliminar personas o grupos y haga clic en **Siguiente**.
+1. Realice las modificaciones necesarias para eliminar personas o grupos y, a continuación, haga clic en **Siguiente**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-3.png)
 
 1. Seleccione la categoría de campaña de ventas que desee utilizar en la lista desplegable Categorías.
 
-1. Seleccione la campaña de ventas a la que desee añadir a las personas seleccionadas y haga clic en **Siguiente**.
+1. Seleccione la campaña de ventas a la que desee agregar a las personas seleccionadas y haga clic en **Siguiente**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
@@ -53,7 +53,7 @@ Aprenda a añadir elementos de forma masiva a la campaña de ventas en Salesforc
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. De nuevo, si el primer paso es un correo electrónico y lo ha configurado para permitirle seleccionar cuándo se inicia la campaña, tendrá la opción de **Comenzar ahora** o **Programar nueva hora de inicio**. Una vez completado este proceso, haga clic en **Inicio**.
+1. De nuevo, si el primer paso es un correo electrónico y lo configuró para permitirle seleccionar cuándo se inicia la campaña, tendrá la opción de **Comenzar ahora** o **Programar una nueva hora de inicio**. Una vez que haya completado esto, haga clic en **Iniciar**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -63,9 +63,9 @@ Después de hacer clic en Inicio, verá una pantalla de confirmación que le per
 
 ## Añadir de forma masiva a la campaña de ventas en Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
-1. En Salesforce, haga clic en **Posibles clientes/contactos** pestaña.
+1. En Salesforce, haga clic en la ficha **Posibles clientes/contactos**.
 
-1. En la lista desplegable Ver, seleccione la vista que desee de los posibles clientes o contactos que desee enviar por correo electrónico y haga clic en **Ir**.
+1. En el menú desplegable Ver, selecciona la vista que desees de los posibles clientes o contactos que deseas enviar por correo electrónico y haz clic en **Ir**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-8.png)
 
@@ -73,19 +73,19 @@ Después de hacer clic en Inicio, verá una pantalla de confirmación que le per
    >
    >Puede crear una nueva vista haciendo clic en Create New View y configurando los filtros disponibles para reducir la lista de destinatarios que enviará por correo electrónico.
 
-1. Seleccione el posible cliente o la lista de contactos que desee y haga clic en **Añadir a la campaña de ventas** botón.
+1. Elija el posible cliente o la lista de contactos que desee y haga clic en el botón **Agregar a la campaña de ventas**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
 
 1. Se le dirigirá al modal de campañas de ventas de acciones con las personas seleccionadas añadidas.
 
-1. Realice los cambios necesarios para eliminar personas o grupos y haga clic en **Siguiente**.
+1. Realice las modificaciones necesarias para eliminar personas o grupos y, a continuación, haga clic en **Siguiente**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
-1. Seleccione la categoría de campaña de ventas que desee utilizar en **Categorías** menú desplegable.
+1. Seleccione la categoría de campaña de ventas que desee usar en la lista desplegable **Categorías**.
 
-1. Seleccione la campaña de ventas a la que desee añadir a las personas seleccionadas y haga clic en **Siguiente**.
+1. Seleccione la campaña de ventas a la que desee agregar a las personas seleccionadas y haga clic en **Siguiente**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
@@ -93,7 +93,7 @@ Después de hacer clic en Inicio, verá una pantalla de confirmación que le per
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. De nuevo, si el primer paso es un correo electrónico y lo ha configurado para permitirle seleccionar cuándo se inicia la campaña, tendrá la opción de **Comenzar ahora** o **Programar nueva hora de inicio**. Una vez completado este proceso, haga clic en **Inicio**.
+1. De nuevo, si el primer paso es un correo electrónico y lo configuró para permitirle seleccionar cuándo se inicia la campaña, tendrá la opción de **Comenzar ahora** o **Programar una nueva hora de inicio**. Una vez que haya completado esto, haga clic en **Iniciar**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

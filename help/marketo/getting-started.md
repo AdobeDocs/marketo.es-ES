@@ -25,7 +25,7 @@ ht-degree: 11%
 
 Con un poco de ayuda de su equipo de TI, podrá hacerlo en poco tiempo.
 
-[Iniciar configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Iniciar la instalación](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Consiga algunas victorias rápidas {#get-some-quick-wins}
 
@@ -38,7 +38,7 @@ Complete estas misiones para conocer las características principales de Marketo
       <img alt="Conectar" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configuración y adición de una persona</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configurar y agregar una persona</a>
     </div>
     <br>
   </td>
@@ -55,7 +55,7 @@ Complete estas misiones para conocer las características principales de Marketo
       <img alt="Correo electrónico" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página de aterrizaje con un formulario</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página de aterrizaje con un formulario </a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ Complete estas misiones para conocer las características principales de Marketo
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importar" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalización de un correo electrónico</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizar un correo electrónico</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Complete estas misiones para conocer las características principales de Marketo
 
 ## PASO 4 ¡Felicidades! Estás listo para la Nación  {#congrats-youre-ready-for-the-nation}
 
-Consulte la [Nación de marketing](https://nation.marketo.com){target="_blank"}!
+¡Eche un vistazo a [Marketing Nation](https://nation.marketo.com){target="_blank"}!

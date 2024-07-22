@@ -6,14 +6,14 @@ exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 1%
 
 ---
 
 # Editar título y metadatos de la página de aterrizaje {#edit-landing-page-title-and-metadata}
 
-Marketo le permite editar su página de aterrizaje [Etiquetas meta para fines de SEO](https://www.w3schools.com/tags/tag_meta.asp) así como personalizar el `<head>` parte del HTML.
+Marketo le permite editar sus [metaetiquetas de página de aterrizaje para fines de SEO](https://www.w3schools.com/tags/tag_meta.asp), así como personalizar la parte `<head>` del HTML.
 
 1. Seleccione una página de aterrizaje y haga clic en **Editar borrador**.
 
@@ -27,14 +27,14 @@ Marketo le permite editar su página de aterrizaje [Etiquetas meta para fines de
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Introduzca el **Título**, **Palabras clave**, y **Descripción** para su página. Seleccione el **Robots** e introduzca el contenido personalizado que desee para el HTML `<head>` sección. Clic **Guardar**.
+1. Escriba **Título**, **Palabras clave** y **Descripción** para su página. Seleccione la opción **Robots** que desee e introduzca el contenido personalizado que desee para la sección HTML `<head>`. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**¿Qué hace [robots](https://www.robotstxt.org/meta.html) ¿Mentiroso?**
+   >**¿Qué significa [robots](https://www.robotstxt.org/meta.html)?**
    >
-   >**índice**: la página se puede buscar en la web. **seguir**: los motores de búsqueda pueden seguir vínculos en páginas indizadas.
+   >**índice**: se puede buscar en la página web. **seguir**: los motores de búsqueda pueden seguir vínculos en páginas indizadas.
 
 1. Edite las etiquetas en cualquier momento y apruebe la página de aterrizaje.

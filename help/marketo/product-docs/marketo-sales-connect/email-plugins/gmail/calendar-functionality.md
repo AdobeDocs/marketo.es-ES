@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Funcionalidad de calendario {#calendar-functionality}
 
-Informe a sus destinatarios de cuándo está disponible pulsando la tecla **Calendario** botón. Esto extrae el calendario de Google y le permite añadir fechas y horas específicas en las que está libre, y el destinatario puede responder con una hora que funcione para ellos.
+Informe a los destinatarios cuando estén disponibles presionando el botón **Calendario**. Esto extrae el calendario de Google y le permite añadir fechas y horas específicas en las que está libre, y el destinatario puede responder con una hora que funcione para ellos.

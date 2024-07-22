@@ -17,7 +17,7 @@ Si ha ejecutado una lista inteligente y han transcurrido unos minutos, los resul
 
 ## Actualizar resultados {#refresh-results}
 
-1. Para actualizar datos en **[!UICONTROL People]** de una lista inteligente, haga clic en el icono de actualización.
+1. Para actualizar datos en la ficha **[!UICONTROL Personas]** de una lista inteligente, haga clic en el icono de actualización.
 
    ![](assets/refreshbutton.png)
 

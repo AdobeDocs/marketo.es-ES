@@ -25,7 +25,7 @@ Puede enviar un ejemplo para comprobar que la notificación push funciona correc
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   O bien, en el menú de acciones Notificaciones push, haga clic en **Enviar muestra**.
+   O bien, en el menú de acciones de notificaciones push, haga clic en **Enviar muestra**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
@@ -37,23 +37,23 @@ Puede enviar un ejemplo para comprobar que la notificación push funciona correc
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   O haga clic en **Agregar dispositivo** hasta [agregar nuevo dispositivo de prueba](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) para enviar la muestra a.
+   O bien, haga clic en **Agregar dispositivo** para [agregar un nuevo dispositivo de prueba](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) al que enviar la muestra.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Tiene dos formas de conectar su dispositivo a la aplicación.
 
-   Con la primera opción, haga clic en **Visitar URL con el dispositivo** , copie la dirección URL del campo y envíela en un correo electrónico o mensaje de texto a su dispositivo. En el dispositivo, pulse la dirección URL. Cuando el estado muestre la conexión, haga clic en **Enviar**.
+   Con la primera opción, haz clic en el botón **Visitar URL con el dispositivo**, copia la URL del campo y envíala en un correo electrónico o mensaje de texto a tu dispositivo. En el dispositivo, pulse la dirección URL. Cuando el estado muestre la conexión, haga clic en **Enviar**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   O bien, con la segunda opción, haga clic en **Escanear código QR con dispositivo** y escanee el código QR con su dispositivo. Cuando el estado muestre la conexión, haga clic en **Enviar**.
+   O, con la segunda opción, haz clic en el botón **Escanear código QR con el dispositivo** y escanea el código QR con tu dispositivo. Cuando el estado muestre la conexión, haga clic en **Enviar**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve en la lista de **Enviar a** ¿field? Marque estas opciones para solucionar problemas:
+   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve enumerado en el campo **Enviar a**? Marque estas opciones para solucionar problemas:
    >
    >* Las notificaciones push se activan en la aplicación asociada a la notificación push.
    >

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de verano de 16. Compruebe la disponibilidad de las funciones en Marketo Edition. Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 
-## [Marketing basado en cuentas](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Marketing basado en la cuenta](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 El marketing basado en cuentas de Marketo proporciona todos los elementos esenciales en una sola plataforma:
 
-* **Target** - Descubrimiento de cuentas, coincidencia de clientes potenciales con cuentas y listas de cuentas con nombre
-* **Participación** : personalización basada en cuentas, participación en canales múltiples y flujos de trabajo específicos de la cuenta
-* **Medida** - Perspectivas a nivel de cuenta y lista, Puntuación de participación en la cuenta e Impacto en la canalización e ingresos
+* **Target**: detección de cuentas, coincidencia de clientes potenciales con cuentas y listas de cuentas con nombre
+* **Participación**: Personalization basado en cuentas, participación en canales múltiples y flujos de trabajo específicos de la cuenta
+* **Medida** - Perspectivas de nivel de cuenta y lista, Puntuación de participación de cuenta e Impacto en la canalización e ingresos
 
 ![](assets/abm-5-acme.png)
 
@@ -39,7 +39,7 @@ La pista de auditoría proporciona un historial completo de los cambios realizad
 
 ![](assets/audit-trail.png)
 
-## [Integración de LaunchPoint de SMS de Marketo-Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Integración de LaunchPoint con SMS de Marketo-Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Cree fácilmente mensajes SMS dentro de Marketo. Personalice y segmente su mensaje con los datos de Marketo enriquecidos y supervise fácilmente su rendimiento con el panel de mensajes SMS.
 
@@ -49,7 +49,7 @@ Cree fácilmente mensajes SMS dentro de Marketo. Personalice y segmente su mensa
 
 ![](assets/vibes-sms2.png)
 
-## [Mejoras de Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## [Mejoras en el correo electrónico 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
 
 **Variables de nivel de módulo**
 
@@ -60,9 +60,9 @@ Anteriormente, todas las variables especificadas en las plantillas de correo ele
 **Actualizaciones de sintaxis**
 
 * Ahora puede utilizar &quot;mktoAddByDefault&quot; en los módulos especificados en las plantillas de correo electrónico 2.0 para indicar qué módulos deben mostrarse en los nuevos correos electrónicos de forma predeterminada. Esto resulta mucho más práctico si crea una plantilla de correo electrónico con una gran cantidad de módulos.
-* En los elementos de imagen, ahora puede especificar si la variable subyacente `<img>` Las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML deben estar bloqueadas o ser editables para el usuario final. mktoLockImgSize=&quot;true&quot; hará que el alto/ancho se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
+* En elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML `<img>` subyacente deben estar bloqueadas o ser editables para el usuario final. mktoLockImgSize=&quot;true&quot; hará que el alto/ancho se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
 
-**Búsqueda de código**
+**Buscando código**
 
 Utilice la nueva funcionalidad de búsqueda para buscar y reemplazar contenido de forma eficaz dentro del código del correo electrónico. Esta funcionalidad también está disponible en el editor de plantillas de correo electrónico.
 
@@ -70,7 +70,7 @@ Utilice la nueva funcionalidad de búsqueda para buscar y reemplazar contenido d
 
 **Compatibilidad con tokens en elementos de imagen**
 
-Ahora, los tokens se pueden utilizar en el área &quot;URL externa&quot; de la experiencia de inserción de imágenes. Si ha especificado imágenes con `{{my.tokens}}`Ahora puede hacer referencia a estos tokens en el Editor de correo electrónico 2.0. Tenga en cuenta que la imagen seguirá apareciendo rota en el lienzo del Editor de correo electrónico 2.0. Sin embargo, los verá procesados en Vista previa y Enviar muestra antes de enviar el correo electrónico.
+Ahora, los tokens se pueden utilizar en el área &quot;URL externa&quot; de la experiencia de inserción de imágenes. Si ha especificado imágenes con `{{my.tokens}}`, ahora puede hacer referencia a estos tokens en Email Editor 2.0. Tenga en cuenta que la imagen seguirá apareciendo rota en el lienzo del Editor de correo electrónico 2.0. Sin embargo, los verá procesados en Vista previa y Enviar muestra antes de enviar el correo electrónico.
 
 ## Varios dominios de personalización de marca {#multiple-branding-domains}
 
@@ -90,13 +90,13 @@ Requerir que cada persona de su equipo de ventas instale nuestro complemento de 
 
 ![](assets/enterprise-key.png)
 
-## [Campañas de personalización web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [Campañas de Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 Especifique un retraso para que las campañas web reaccionen en el sitio web.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Exportación de análisis de contenido y Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Exportación de Recommendations y análisis de contenido](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Ver datos de análisis de contenido y recomendaciones sin conexión.
 
@@ -110,6 +110,6 @@ Nuevo y mejorado
 
 ## [Configuración de privacidad](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Los especialistas en marketing pueden utilizar la configuración de privacidad para decidir si desean rastrear o no a los visitantes mediante las funciones de Munchkin y Personalización web. El nivel de seguimiento se controla mediante la configuración No rastrear del explorador, una cookie de exclusión o una IP no específica. Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas, pero si el experto en marketing no cambia nada, la funcionalidad de Marketo permanece igual.
+Los especialistas en marketing pueden utilizar la configuración de privacidad para decidir si desean rastrear o no a los visitantes mediante las funciones de Munchkin y Web Personalization. El nivel de seguimiento se controla mediante la configuración No rastrear del explorador, una cookie de exclusión o una IP no específica. Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas, pero si el experto en marketing no cambia nada, la funcionalidad de Marketo permanece igual.
 
 Esta función se lanzará gradualmente a los clientes durante un periodo de seis semanas. Si lo necesita de inmediato, póngase en contacto con el Soporte técnico de Marketo.

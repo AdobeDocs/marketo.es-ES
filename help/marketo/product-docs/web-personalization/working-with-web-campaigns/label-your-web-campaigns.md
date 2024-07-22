@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## Añadir una etiqueta a una campaña web {#add-a-label-to-a-web-campaign}
 
-1. Inicie sesión en Personalización web y vaya al área de Campañas web.
+1. Inicie sesión en Web Personalization y vaya al área de Campañas web.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña que desea, use la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Seleccione las campañas que desee etiquetar con una etiqueta.
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Etiquetado de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[Etiquetar un segmento](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

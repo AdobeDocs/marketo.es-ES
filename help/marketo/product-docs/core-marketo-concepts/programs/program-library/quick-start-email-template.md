@@ -2,10 +2,10 @@
 description: 'Plantilla de correo electrónico de inicio rápido: documentos de Marketo, documentación del producto'
 title: Plantilla de correo electrónico de inicio rápido
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Algunos de los programas iniciales de la Biblioteca de referencia del Marketo En
 
 El editor de correo electrónico del Marketo Engage incluye funciones que le ayudan a cambiar el diseño y editar el contenido de los correos electrónicos.
 
-* **Módulos**: Bloques de contenido arrastrables y desplegables que se codifican en la plantilla. Se pueden reorganizar y duplicar.
+* **Módulos**: bloques de contenido arrastrables y desplegables codificados en la plantilla. Se pueden reorganizar y duplicar.
 
-* **Elementos de texto**: puede utilizar el editor para actualizar, copiar, cambiar estilos de fuente o agregar vínculos.
+* **Elementos de texto**: puede usar el editor para actualizar, copiar, cambiar estilos de fuente o agregar vínculos.
 
-* **Elementos de imagen**: al igual que los elementos de texto, las imágenes se pueden intercambiar, vincular y cambiar de tamaño.
+* **Elementos de imagen**: de manera similar a los elementos de texto, las imágenes se pueden intercambiar, vincular y cambiar de tamaño.
 
-* **Variables**: Cuando se selecciona un módulo, las variables aparecen en el lado derecho del editor. Se pueden utilizar para ajustar atributos del módulo que no se pueden editar fácilmente mediante elementos de imagen o texto.
+* **Variables**: cuando se selecciona un módulo, las variables aparecen en el lado derecho del editor. Se pueden utilizar para ajustar atributos del módulo que no se pueden editar fácilmente mediante elementos de imagen o texto.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de módulos {#modules-summary}
 
@@ -92,7 +92,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Color de texto CTA
    * Color de fondo CTA
    * Color de borde CTA
-   * Radio de borde CTA (para redondear los botones) **Nota**: esta función no funciona en los clientes de correo electrónico de Microsoft Outlook)
+   * Radio de borde CTA (para redondear los botones - **Nota**: esta característica no funciona en los clientes de correo electrónico de Microsoft Outlook)
    * URL DE CTA
    * Texto CTA
    * Alineación CTA

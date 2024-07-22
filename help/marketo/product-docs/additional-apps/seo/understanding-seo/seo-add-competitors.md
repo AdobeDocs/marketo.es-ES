@@ -17,21 +17,21 @@ Añadir competidores le permitirá rastrear el rendimiento que tienen para las m
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Haga clic en **[!UICONTROL Competidores]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Competidores]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Clic **[!UICONTROL Agregar competidor]**.
+1. Haga clic en **[!UICONTROL Agregar competidor]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Escriba en **[!UICONTROL Nombre]** y **[!UICONTROL URL]** de su competidor.
+1. Escriba **[!UICONTROL Name]** y **[!UICONTROL URL]** de su competidor.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
@@ -42,4 +42,4 @@ Añadir competidores le permitirá rastrear el rendimiento que tienen para las m
    >[!MORELIKETHIS]
    >
    >* [Agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
-   >* [Explicación de las palabras clave (vista del competidor)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+   >* [Explicación de las palabras clave (vista de competidor)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}

@@ -6,24 +6,24 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # Crear patrones de contenido {#create-content-patterns}
 
-Cuando se establecen patrones de contenido, este se detecta automáticamente cuando un visitante web hace clic en la página web del HTML correspondiente al patrón de contenido. Se utiliza para añadir páginas de HTML (publicaciones de blog, comunicados de prensa, artículos de noticias) como piezas de contenido a la página Todo el contenido. Cuando la detección automática se basa en patrones de contenido, detecta y rastrea páginas de HTML relacionadas con el patrón de URL definido cuando un visitante web ve o hace clic en un vínculo a la página. Este fragmento de contenido (la URL, el nombre de página y los metadatos, incluida la URL y la descripción de la imagen) se añade a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como PDF y vídeo incrustado, debe [habilitar detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Cuando se establecen patrones de contenido, este se detecta automáticamente cuando un visitante web hace clic en la página web del HTML correspondiente al patrón de contenido. Se utiliza para añadir páginas de HTML (publicaciones de blog, comunicados de prensa, artículos de noticias) como piezas de contenido a la página Todo el contenido. Cuando la detección automática se basa en patrones de contenido, detecta y rastrea páginas de HTML relacionadas con el patrón de URL definido cuando un visitante web ve o hace clic en un vínculo a la página. Este fragmento de contenido (la URL, el nombre de página y los metadatos, incluida la URL y la descripción de la imagen) se añade a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como PDF y vídeo incrustado, debe [habilitar la detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Ir a **Configuración de contenido**.
+1. Vaya a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Clic **Patrones de URL**.
+1. Haga clic en **Patrones de URL**.
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Haga clic en **+** para abrir una fila en la que pueda introducir la información.
+1. Haga clic en **+** para abrir una fila donde pueda introducir la información.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -33,21 +33,21 @@ Cuando se establecen patrones de contenido, este se detecta automáticamente cua
 
    >[!NOTE]
    >
-   >Los elementos de la lista desplegable de la derecha reflejan las categorías configuradas al [categorías creadas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Los elementos de la lista desplegable de la derecha reflejan las categorías que configuró al [crear categorías](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Clic **+** para añadir otra ruta.
+1. Haga clic en **+** para agregar otra ruta.
 
    ![](assets/url-patterns-add2.png)
 
-1. Añada la extensión y la categoría para la ruta adicional y haga clic en **Guardar**.
+1. Agregue la extensión y la categoría para la ruta adicional y haga clic en **Guardar**.
 
    ![](assets/url-patterns-save.png)
 
 ## Reglas de patrón de contenido {#content-pattern-rules}
 
-* Puede utilizar un comodín en cualquier parte de una expresión (por ejemplo: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
+* Puede usar un comodín en cualquier lugar de una expresión (por ejemplo: _dominio.com/&#42;_, _dominio.com/&#42;blog&#42;_)
 
-* Se recomienda utilizar /&#42; al final de una expresión para continuar con la detección de patrones (Ejemplo: _domain.com/blog/&#42;_ detecta todas las publicaciones de la carpeta Blog)
+* Se recomienda utilizar /&#42; al final de una expresión para continuar con la detección de patrones (Ejemplo: _domain.com/blog/&#42;_ detecta todas las publicaciones en la carpeta Blog)
 * Los patrones de contenido no distinguen entre mayúsculas y minúsculas (Ejemplo: _domain.com/Blog/&#42;_ detecta todas las páginas html de _domain.com/Blog_ y _domain.com/blog_)
 
 * No se detectan los parámetros de URL (esto evita descubrir varios elementos con la misma URL de contenido, pero con parámetros diferentes)

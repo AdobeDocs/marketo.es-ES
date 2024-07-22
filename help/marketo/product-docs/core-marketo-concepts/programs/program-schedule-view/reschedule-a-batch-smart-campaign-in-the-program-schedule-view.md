@@ -23,10 +23,10 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Excelente! Se ha reprogramado la campaña inteligente. La hora también se puede cambiar desde el **[!UICONTROL Fecha]** en los detalles de la entrada.
+1. ¡Excelente! Se ha reprogramado la campaña inteligente. La hora también se puede cambiar del menú desplegable **[!UICONTROL Fecha]** en los detalles de la entrada.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Reprogramación de un Programa Completo desde la Vista de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[Reprogramación de un programa completo desde la vista de programación](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

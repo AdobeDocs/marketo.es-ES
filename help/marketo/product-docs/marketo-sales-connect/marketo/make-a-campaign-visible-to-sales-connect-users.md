@@ -19,7 +19,7 @@ Las campañas solo se pueden compartir si se hacen visibles. Así es como se hac
 
    ![](assets/one.png)
 
-1. Haga clic en **Lista inteligente** pestaña.
+1. Haga clic en la ficha **Lista inteligente**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Las campañas solo se pueden compartir si se hacen visibles. Así es como se hac
 
    ![](assets/4.png)
 
-1. Haga clic en **Flujo** pestaña.
+1. Haga clic en la ficha **Flujo**.
 
    ![](assets/five.png)
 
@@ -47,6 +47,6 @@ Las campañas solo se pueden compartir si se hacen visibles. Así es como se hac
 
    ![](assets/eight.png)
 
-1. Haga clic en **Programación** pestaña y **Activar** la campaña.
+1. Haga clic en la ficha **Programar** y **Activar** la campaña.
 
    ![](assets/nine.png)

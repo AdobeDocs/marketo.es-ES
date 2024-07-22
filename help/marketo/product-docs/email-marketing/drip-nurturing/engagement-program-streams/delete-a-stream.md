@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si alguna vez necesita eliminar un flujo de su programa de participación, siga estos pasos rápidos y sencillos.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el programa de participación y vaya a **Flujos**.
+1. Seleccione su programa de participación y vaya a **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -37,4 +37,4 @@ Si alguna vez necesita eliminar un flujo de su programa de participación, siga 
 
    >[!NOTE]
    >
-   >Si el flujo tiene personas, se le pedirá que [mover](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primero, sáquenlos.
+   >Si el flujo contiene personas, primero se le pedirá que [las mueva](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md).

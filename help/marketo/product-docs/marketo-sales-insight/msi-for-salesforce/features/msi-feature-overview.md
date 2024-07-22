@@ -46,7 +46,7 @@ Páginas de Visualforce:
 * Posible cliente: incluye la opción de hacer clic en &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI será visible en un diseño de página completa
 * Lista completa de posibles clientes: no incluye la opción &quot;Ir a la lista completa&quot;
 * Móvil principal: visible en la aplicación móvil de Salesforce
-* Puente de contacto principal: muestra el panel MSI del contacto que ha agregado en el campo ID de contacto MSI
+* Bridge de contactos de clientes potenciales: muestra el panel MSI del contacto que ha agregado en el campo ID de contacto MSI
 
 Campos:
 
@@ -62,7 +62,7 @@ Campos:
 * Urgencia
 * Valor de urgencia
 * Ver en Marketo: haga clic en este campo para abrir una vista no editable del posible cliente en Marketo. Incluye: información del posible cliente, información de la empresa, información del posible cliente de SFDC, campos personalizados de SFDC, registro de actividad
-* ID de contacto MSI: agregue un contacto de Salesforce a este campo e incluya el panel &quot;Puente de contacto del posible cliente&quot; en el diseño del posible cliente para ver el panel MSI del contacto
+* ID de contacto MSI: agregue un contacto de Salesforce a este campo e incluya el panel &quot;Bridge de contacto del posible cliente&quot; en la presentación del posible cliente para ver el panel MSI del contacto
 
 ## Diseño de contacto {#contact-layout}
 
@@ -107,7 +107,7 @@ Acciones:
 * Enviar correo electrónico a Marketo
 * Agregar o quitar de la lista de observación
 
-Las siguientes funciones son **no disponible** en la página Diseño de cuenta:
+Las siguientes características **no están disponibles** en la página Diseño de cuenta:
 
 * Estrellas y llamas
 
@@ -130,7 +130,7 @@ Acciones:
 * Enviar correo electrónico a Marketo
 * Agregar o quitar de la lista de observación
 
-Las siguientes funciones son **no disponible** en la página Diseño de oportunidad:
+Las siguientes características **no están disponibles** en la página Diseño de oportunidad:
 
 * Estrellas y llamas
 
@@ -184,7 +184,7 @@ Salesforce Classic: los botones de acción Añadir a la lista de observación, A
 
 >[!MORELIKETHIS]
 >
->[Pestaña Configuración de Sales Insight de Marketo en Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Pestaña Configuración de Marketo Sales Insight en Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Informes de rendimiento de Sales Insight {#sales-insight-performance-reports}
 

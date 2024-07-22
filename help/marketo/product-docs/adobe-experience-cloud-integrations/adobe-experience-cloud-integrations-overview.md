@@ -5,7 +5,7 @@ exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe ofrece una sólida solución de marketing a petición, empezando por la si
 
 >[!NOTE]
 >
->Las integraciones, que incluyen Audience Manager y [!DNL Adobe Real-Time CDP Marketo Connecter], puede requerir la asignación de la organización de IMS en Marketo Engage. [Obtenga información sobre cómo configurar la asignación de organización de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>Las integraciones, que incluyen Audience Manager y [!DNL Adobe Real-Time CDP Marketo Connecter], pueden requerir la asignación de la organización de IMS en Marketo Engage. [Aprenda a configurar la asignación de organización de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Integraciones de Adobe Experience Cloud {#adobe-experience-cloud-integrations}
 
@@ -30,6 +30,6 @@ Permite sincronizar listas estáticas de personas conocidas desde Marketo Engage
 
 **Integración de Marketo con Adobe Experience Manager**
 
-* [Importación de recursos con Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
+* [Importación de Assets con Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [Integración con Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
+* [Integrar con Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Personalizar estilos de sorteos {#customize-sweepstakes-styles}
 
-Cuando usted [crear un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede personalizar el aspecto de la página de aterrizaje.
+Al [crear un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puedes personalizar el aspecto que tendrá en la página de aterrizaje.
 
 >[!AVAILABILITY]
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
 ![](assets/login-marketing-activities-1.png)
 
@@ -26,7 +26,7 @@ Cuando usted [crear un sorteo](/help/marketo/product-docs/demand-generation/soci
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. En el editor de Sorteos, vaya a **Configuración de aplicación** > **Aspecto**.
+1. En el editor de Sorteos, ve a **Configuración de la aplicación** > **Aspecto**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -38,15 +38,15 @@ Cuando usted [crear un sorteo](/help/marketo/product-docs/demand-generation/soci
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Ejemplo de CSS para **Botón Entrar**:
+   Ejemplo de CSS para **Introducir botón**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Imagen de ejemplo para **Botón Entrar**:
+   Imagen de ejemplo para **Introducir botón**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Si utiliza una imagen con texto, recuerde quitar el texto del **Botón Entrar** en Texto, más arriba.
+   >Si usa una imagen con texto, recuerde quitar el texto del campo **Introducir botón** en Texto arriba.
 
 1. A medida que realiza cada cambio, el resultado se muestra en la vista previa Ver y editar.
 
@@ -58,4 +58,4 @@ Cuando usted [crear un sorteo](/help/marketo/product-docs/demand-generation/soci
 
    >[!MORELIKETHIS]
    >
-   >El siguiente paso es añadir [inscríbete y envía correos electrónicos a tus sorteos](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >El siguiente paso es agregar [correos electrónicos de registro y cumplimiento a tus sorteos](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

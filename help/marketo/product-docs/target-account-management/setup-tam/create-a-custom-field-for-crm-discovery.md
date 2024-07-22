@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Agregue campos personalizados a las cuentas, asígnelos a su CRM y úselos para la detección de cuentas de CRM en Marketo.
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clic **Administración de campos**, entonces **Nuevo campo personalizado**.
+1. Haga clic en **Administración de campos** y luego en **Nuevo campo personalizado**.
 
    ![](assets/two-4.png)
 
-1. Haga clic en **Objeto** y seleccione. **Cuenta con nombre**.
+1. Haga clic en el menú desplegable **Objeto** y seleccione **Cuenta con nombre**.
 
    ![](assets/three-3.png)
 
-1. Haga clic en **Tipo** y seleccione un tipo.
+1. Haga clic en el menú desplegable **Tipo** y seleccione un tipo.
 
    ![](assets/four-3.png)
 
-1. Introduzca una **Nombre** (el Nombre de la API se rellenará automáticamente) y haga clic en **Crear**.
+1. Escriba un **Nombre** (el Nombre de la API se rellenará automáticamente) y haga clic en **Crear**.
 
    ![](assets/five-3.png)
 
-1. Una vez creado el campo, selecciónelo en el árbol de la derecha. Haga clic en **Acciones de campo** y seleccione. **Asignar a campo de CRM**.
+1. Una vez creado el campo, selecciónelo en el árbol de la derecha. Haga clic en el menú desplegable **Acciones de campo** y seleccione **Asignar a campo CRM**.
 
    ![](assets/six-2.png)
 
-1. Seleccione el campo de cuenta de CRM a la que desea asignar y haga clic en **Guardar**.
+1. Seleccione el campo de cuenta de CRM al que desee asignar y haga clic en **Guardar**.
 
    ![](assets/seven-1.png)
 

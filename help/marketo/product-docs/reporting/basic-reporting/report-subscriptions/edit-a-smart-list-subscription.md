@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Puede editar estas columnas directamente en la pestaña Subscriptions, que apare
 * Finalizar entrega
 * Formato
 
-1. Seleccionar **Base de datos** (lo estamos utilizando en este ejemplo, pero Marketing Activities funciona exactamente igual).
+1. Seleccione **Base de datos** (la estamos utilizando en este ejemplo, pero las actividades de marketing funcionan exactamente igual).
 
    ![](assets/db-1.png)
 
@@ -33,11 +33,11 @@ Puede editar estas columnas directamente en la pestaña Subscriptions, que apare
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Haga clic en **Frecuencia** para elegir o cambiar la configuración.
+1. Haga clic en la columna **Frecuencia** para elegir o cambiar la configuración.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Abra el **Columnas** y utilice el selector para añadir o quitar columnas del informe. Columnas del informe contiene todas las columnas disponibles y Columnas de Marketo muestra solo las que ha seleccionado para mostrar en el informe. Clic **Guardar**.
+1. Abra la columna **Columnas** y use el selector para agregar o quitar columnas del informe. Columnas del informe contiene todas las columnas disponibles y Columnas de Marketo muestra solo las que ha seleccionado para mostrar en el informe. Haga clic en **Guardar**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ Puede editar estas columnas directamente en la pestaña Subscriptions, que apare
    >
    >Las columnas bajo Columnas de Marketo son las columnas del informe, no las utilizadas en la pestaña Informe de suscripciones.
 
-1. Haga clic en **Fecha de finalización** para editar la fecha de finalización. Seleccionar **Nunca** o **Fecha**. Para una fecha, introdúzcala o selecciónela en el calendario. Clic **Aprobar**.
+1. Haga clic en la columna **Fecha de finalización** para editar la fecha de finalización. Seleccione **Nunca** o **Fecha**. Para una fecha, introdúzcala o selecciónela en el calendario. Haga clic en **Aprobar**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. La última pieza del rompecabezas es el formato. Haga clic en **Formato** y seleccione el que desee. El valor predeterminado es CSV.
+1. La última pieza del rompecabezas es el formato. Haga clic en la columna **Formato** y seleccione la que desee. El valor predeterminado es CSV.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

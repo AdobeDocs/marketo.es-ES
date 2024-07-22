@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También puedes controlar un bloque entero a la vez!
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También p
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Haga clic en **+** firmar y seleccionar **Fieldset**.
+1. Haga clic en el signo **+** y seleccione **Conjunto de campos**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Seleccione el **fieldset** e introduzca un **Etiqueta**.
+1. Seleccione el **conjunto de campos** e introduzca una **etiqueta**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Arrastre los campos que desee al **fieldset**.
+1. Arrastre los campos que desee al **conjunto de campos**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,4 +43,4 @@ Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También p
 
 >[!TIP]
 >
->Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Más información [reglas de visibilidad](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Más información sobre [reglas de visibilidad](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

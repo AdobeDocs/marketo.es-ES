@@ -5,8 +5,8 @@ title: Explicación de notificaciones
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
@@ -32,16 +32,16 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 
    ![](assets/understanding-notifications-3.png)
 
-1. Seleccione el Tipo de notificación e introduzca las direcciones de correo electrónico a las que desea enviar las notificaciones (separadas por una coma). Clic **[!UICONTROL Suscribirse]** cuando termine.
+1. Seleccione el Tipo de notificación e introduzca las direcciones de correo electrónico a las que desea enviar las notificaciones (separadas por una coma). Haga clic en **[!UICONTROL Suscribirse]** cuando haya terminado.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->El **[!UICONTROL enviar a]** es solo para que usted introduzca su correo electrónico, no se mostrará una lista de suscriptores existentes.
+>El área **[!UICONTROL enviar a]** es solo para que usted ingrese su correo electrónico, no mostrará una lista de suscriptores existentes.
 
 En algunos casos, una notificación proporciona un vínculo &quot;Ver la lista completa&quot; para descargar un archivo de valores separados por comas (CSV), por ejemplo, el archivo de errores de sincronización de Microsoft Dynamics. Marketo conserva estos archivos CSV durante 30 días. Si intenta descargar el archivo después de 30 días, se producirá un error 404.
 
 >[!TIP]
 >
->¿Quiere cancelar la suscripción a los correos electrónicos de notificación? No hay problema. Simplemente haga clic en **[!UICONTROL cancelar suscripción a Notificaciones]** en la parte inferior del correo electrónico.
+>¿Quiere cancelar la suscripción a los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el vínculo **[!UICONTROL cancelar la suscripción a las notificaciones]** en la parte inferior del correo electrónico.

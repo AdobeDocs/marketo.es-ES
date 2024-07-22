@@ -15,47 +15,47 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Con esta integración, puede enviar datos de audiencia de listas estáticas e inteligentes de Marketo Engage a Facebook para utilizarlos como audiencias personalizadas en campañas de publicidad de Facebook. A continuación se muestra cómo configurarlo.
 
-1. Ir a Marketo **[!UICONTROL Administrador]**.
+1. Vaya a Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ir a **[!UICONTROL LaunchPoint]**, haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo servicio]**.
+1. Vaya a **[!UICONTROL LaunchPoint]**, haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca una **[!UICONTROL Nombre para mostrar]** para el servicio y seleccione la **[!UICONTROL Audiencias personalizadas de facebook]** servicio desde el **[!UICONTROL Servicio]** menú desplegable.
+1. Escriba un **[!UICONTROL Nombre para mostrar]** para su servicio y seleccione el servicio **[!UICONTROL Audiencias personalizadas de Facebook]** de la lista desplegable **[!UICONTROL Servicio]**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Abra una pestaña nueva en el mismo explorador y vaya a [facebook.com](https://www.facebook.com/){target="_blank"}. Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
+1. Abra una ficha nueva en el mismo explorador y vaya a [facebook.com](https://www.facebook.com/){target="_blank"}. Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
 
    >[!CAUTION]
    >
-   >Para que Marketo envíe audiencias a través de varias cuentas de Ad Manager, el usuario de Facebook que autorice en los siguientes pasos debe tener acceso a *todo* de estas cuentas.
+   >Para que Marketo envíe audiencias a través de varias cuentas de Ad Manager, el usuario de Facebook que usted autorice en los siguientes pasos debe tener acceso a *todas* estas cuentas.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Una vez que haya iniciado sesión en Facebook, vuelva a Marketo. Clic **[!UICONTROL Autorizar]**.
+1. Una vez que haya iniciado sesión en Facebook, vuelva a Marketo. Haga clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Usted _debe_ use una cuenta de Facebook Business Manager para que funcione la integración de Audiencias personalizadas. Para aprender a configurar una cuenta de Business Manager, consulte [Ayuda de facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >Usted _debe_ usar una cuenta de Facebook Business Manager para que funcione su integración de audiencias personalizadas. Para obtener información sobre cómo configurar una cuenta de Business Manager, consulte la [Ayuda de Facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. Si se le solicita, haga clic en **[!UICONTROL OK]** para aceptar la instalación de la aplicación de Marketo en Facebook.
+1. Si se le solicita, haga clic en **[!UICONTROL Aceptar]** para aceptar la instalación de la aplicación Marketo en Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. ¡Ya está autorizado! Seleccione un modo coincidente y haga clic en **[!UICONTROL Crear]**.
+1. ¡Ya está autorizado! Seleccione un modo que coincida y haga clic en **[!UICONTROL Crear]**.
 
    >[!NOTE]
    >
-   >**Coincidencia básica** solo utiliza direcciones de correo electrónico. **Coincidencia avanzada** utiliza siete campos adicionales, lo que aumenta la tasa de coincidencia, para obtener más conversión. Sin embargo, si la política de privacidad de su empresa no permite compartir campos adicionales o si los datos no los incluyen, seleccione Coincidencia básica.
+   >**Coincidencia básica** solo usa direcciones de correo electrónico. **Coincidencia avanzada** usa siete campos adicionales, lo que aumenta la tasa de coincidencia, para obtener más conversión. Sin embargo, si la política de privacidad de su empresa no permite compartir campos adicionales o si los datos no los incluyen, seleccione Coincidencia básica.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,10 +63,10 @@ Con esta integración, puede enviar datos de audiencia de listas estáticas e in
 
    >[!CAUTION]
    >
-   >Antes de que te vayas, asegúrate de [Acepte los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en su cuenta de Facebook. Sin hacerlo, las actualizaciones de audiencia fallarán.
+   >Antes de irte, [acepta los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en tu cuenta de Facebook. Sin hacerlo, las actualizaciones de audiencia fallarán.
 
 >[!MORELIKETHIS]
 >
 >* [Crear una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 >
->* [Configurar anuncios de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
+>* [Configurar anuncios de clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}

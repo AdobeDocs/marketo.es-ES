@@ -16,15 +16,15 @@ Obtenga información sobre cómo enviar una lista estática a LinkedIn, Facebook
 
 ## Cómo enviar una lista {#how-to-send-a-list}
 
-1. En Marketo Engage, seleccione la lista y haga clic en **[!UICONTROL Enumerar acciones]** y seleccione... **[!UICONTROL Enviar a la red de publicidad]**.
+1. En Marketo Engage, seleccione su lista, haga clic en la lista desplegable **[!UICONTROL Acciones de lista]** y seleccione **[!UICONTROL Enviar a la red de publicidad]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Elija entre LinkedIn, Facebook o Google (el resto de opciones no están disponibles en este momento). En este ejemplo, elegimos **[!UICONTROL LinkedIn]**. Clic **[!UICONTROL Siguiente]**.
+1. Elija entre LinkedIn, Facebook o Google (el resto de opciones no están disponibles en este momento). En este ejemplo, elegimos **[!UICONTROL LinkedIn]**. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Haga clic en **[!UICONTROL Audiencia]** y seleccione la audiencia que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Audiencia]** y seleccione la audiencia que desee.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -32,15 +32,15 @@ Obtenga información sobre cómo enviar una lista estática a LinkedIn, Facebook
    >
    >Si alguna vez necesita comprobarlo, puede ver la audiencia de destino a la que se sincroniza una lista a través de la pestaña Estado.
 
-1. Elija el tipo de push que desee y haga clic en **[!UICONTROL Actualizar]**.
+1. Elija el tipo push que desee y haga clic en **[!UICONTROL Actualizar]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Si selecciona &quot;Habilitar sincronización continua de audiencia&quot;, Marketo mantiene la lista actualizada en la red de publicidad elegida a medida que cambia la lista en la instancia de Marketo. Los dos añadimos _y_ eliminar personas de la audiencia si se añaden o eliminan de la lista estática.
+   >Si selecciona &quot;Habilitar sincronización continua de audiencia&quot;, Marketo mantiene la lista actualizada en la red de publicidad elegida a medida que cambia la lista en la instancia de Marketo. Agregamos _y_ quitamos personas de la audiencia si se agregan o eliminan de la lista estática.
 
-1. ¡Y eso es todo! Clic **[!UICONTROL OK]** para salir.
+1. ¡Y eso es todo! Haga clic en **[!UICONTROL Aceptar]** para salir.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Al aprovisionar MSC, Marketo enviará automáticamente sus credenciales a Sales Connect y conectará su instancia a Marketo. Este paso es obligatorio **solo si no ve la conexión establecida** una vez aprovisionada la instancia de Sales Connect. Si ha establecido la conexión, verá sus credenciales introducidas en la página Configuración de administración de Marketo.
+>Al aprovisionar MSC, Marketo enviará automáticamente sus credenciales a Sales Connect y conectará su instancia a Marketo. Este paso es necesario **solo si no ve la conexión establecida** después de aprovisionar la instancia de Sales Connect. Si ha establecido la conexión, verá sus credenciales introducidas en la página Configuración de administración de Marketo.
 
 ## Adquisición de credenciales antes de conectar Sales Connect con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -38,7 +38,7 @@ Tendrá que obtener un conjunto de credenciales desde Marketo. El administrador 
 
 ## Conectar Sales Conectar con Marketo {#connect-sales-connect-to-marketo}
 
-1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
@@ -46,6 +46,6 @@ Tendrá que obtener un conjunto de credenciales desde Marketo. El administrador 
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Introduzca las credenciales de Marketo proporcionadas por el administrador de Marketo y haga clic en **Connect**.
+1. Escriba las credenciales de Marketo proporcionadas por el administrador de Marketo y haga clic en **Conectar**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

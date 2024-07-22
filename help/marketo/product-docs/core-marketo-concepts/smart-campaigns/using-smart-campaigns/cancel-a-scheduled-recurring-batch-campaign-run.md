@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las ejecuciones futuras. Así es como.
 
-1. Seleccione la campaña inteligente y haga clic en **Programación** pestaña.
+1. Seleccione la campaña inteligente y haga clic en la ficha **Programar**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Clic **Programar periodicidad**.
+1. Haga clic en **Programar periodicidad**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Puede cancelar una sola ejecución haciendo clic en ![x roja](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >Puede cancelar una sola ejecución haciendo clic en la ![x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) roja junto a ella. Aprenda a [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Establecer horario en **[!UICONTROL Ninguno]** y haga clic en **[!UICONTROL Guardar]**.
+1. Establezca la programación en **[!UICONTROL None]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    >[!MORELIKETHIS]
    >
-   >[Cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[Cancelar una ejecución programada de campaña por lotes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 12615800
 description: 'Importación de cuentas con nombre: documentación de Marketo: documentación del producto'
-title: Importar cuentas con nombre
+title: Importar cuentas nombradas
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Importar cuentas con nombre {#import-named-accounts}
+# Importar cuentas nombradas {#import-named-accounts}
 
 ¿Ya tiene un CSV lleno de posibles cuentas de destinatario? ¡Importarlos directamente en TAM!
 
-1. Haga clic en **Nuevo** y seleccione. **Importar cuentas con nombre**.
+1. Haga clic en el menú desplegable **Nuevo** y seleccione **Importar cuentas con nombre**.
 
    ![](assets/inaone.png)
 
-1. Se abrirá una nueva ventana. Clic **Examinar**, a continuación, seleccione el archivo de cuentas con nombre que desee importar.
+1. Se abrirá una nueva ventana. Haga clic en **Examinar** y, a continuación, seleccione el archivo de cuentas con nombre que desee importar.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >En su archivo, indique [tanta información](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) como sea posible. Solo puede agregar información firmográfica; no hay nada que Marketo calcule (es decir, Canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de la cuenta y el ID de CRM desde su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta CRM.
+   >En su archivo, proporcione [tanta información](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) como sea posible. Solo puede agregar información firmográfica; no hay nada que Marketo calcule (es decir, Canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de la cuenta y el ID de CRM desde su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta CRM.
 
-1. Elija entre dos modos desduplicados: Nombre de cuenta o Nombre de dominio. En este ejemplo, elegimos Cuenta. Haga clic en **Modos** y seleccione. **Por nombre de cuenta**.
+1. Elija entre dos modos desduplicados: Nombre de cuenta o Nombre de dominio. En este ejemplo, elegimos Cuenta. Haga clic en el menú desplegable **Modos** y seleccione **Por nombre de cuenta**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Si elige **Por modo de dominio** No obstante, se deben incluir tanto los campos de cuenta con nombre como los de dominio.
+   >Si elige **Por modo de dominio**, se deben incluir los campos de cuenta con nombre y de dominio.
 
-1. Para elegir a qué lista de cuentas se agrega su cuenta con nombre, haga clic en **Lista de cuentas** y realice la selección.
+1. Para elegir a qué lista de cuentas se agrega su cuenta con nombre, haga clic en la lista desplegable **Lista de cuentas** y realice la selección.
 
    ![](assets/inafour.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
    >
    >También puede crear una lista de cuentas completamente nueva simplemente escribiendo su nombre en el cuadro desplegable.
 
-1. Para enviar una notificación de la importación, haga clic en **Enviar alerta a** y seleccione un usuario de Marketo. Usted _no puede_ introduzca manualmente una dirección de correo electrónico.
+1. Para enviar una notificación sobre la importación, haz clic en el menú desplegable **Enviar alerta a** y selecciona un usuario de Marketo. Usted _no puede_ escribir manualmente una dirección de correo electrónico.
 
    ![](assets/inafive-2.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/inasix-2.png)
 
-1. Asigne cada campo haciendo doble clic en **Campo de Marketo** y seleccione el campo correspondiente. Clic **Siguiente** cuando termine.
+1. Asigne cada campo haciendo doble clic en la lista desplegable **Campo de Marketo** y seleccionando el campo correspondiente. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/inaseven.png)
 
-   Sin errores!
+   ¡Éxito!
 
    ![](assets/inanine.png)
 

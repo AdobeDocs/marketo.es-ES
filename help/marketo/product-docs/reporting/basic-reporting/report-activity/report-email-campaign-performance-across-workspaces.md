@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Correo electrónico del informe, rendimiento de la campaña en espacios de trabajo {#report-email-campaign-performance-across-workspaces}
 
-Active los informes globales para incluir datos de todos sus Marketo [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en su [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) y [Rendimiento de vínculo de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) informes.
+Active los informes globales para incluir datos de todos sus [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) de Marketo en sus informes de [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) y [Rendimiento de los vínculos de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
-1. Ir a **Analytics** (o **Actividades de marketing**) área.
+1. Vaya al área de **Analytics** (o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,18 +23,18 @@ Active los informes globales para incluir datos de todos sus Marketo [workspaces
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Haga clic en **Configurar** y haga doble clic en **Informes globales**.
+1. Haga clic en la ficha **Configuración** y haga doble clic en **Informes globales**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Seleccionar **Habilitado**.
+1. Seleccione **Habilitado**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. ¡Eso es todo! Haga clic en **Informe** para ver los datos de todos sus espacios de trabajo.
+1. ¡Eso es todo! Haga clic en la ficha **Informe** para ver los datos de todos los espacios de trabajo.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[Filtrado de recursos en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[Filtrar Assets en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

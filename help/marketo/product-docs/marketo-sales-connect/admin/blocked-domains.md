@@ -17,7 +17,7 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
 
@@ -27,10 +27,10 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
    ![](assets/two-3.png)
 
-1. Introduzca el dominio que desea bloquear y haga clic en **Bloquear dominio**.
+1. Escriba el dominio que desea bloquear y haga clic en **Bloquear dominio**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >Correos electrónicos que forman parte de un [Agrupar correo electrónico](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) el envío que falle debido a que se ha enviado a un dominio de correo electrónico bloqueado fallará silenciosamente y no aparecerá en la carpeta de correo electrónico con errores.
+   >Los correos electrónicos que forman parte de un envío de [correo electrónico del grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) que falla debido a que se han enviado a un dominio de correo electrónico bloqueado fallarán silenciosamente y no aparecerán en la carpeta de correo electrónico con errores.

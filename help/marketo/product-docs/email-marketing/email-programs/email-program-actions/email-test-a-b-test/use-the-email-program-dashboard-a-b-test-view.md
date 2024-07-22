@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Uso del panel del programa de correo electrónico: vista de prueba A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Eche un vistazo a cómo [prueba A/B del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) está funcionando con este tablero.
+Comprueba el rendimiento de tu [prueba A/B del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) con este panel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,4 +45,4 @@ Un tablero genial, ¿no crees?
 
 >[!MORELIKETHIS]
 >
->[Uso del panel del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[Usar el panel del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

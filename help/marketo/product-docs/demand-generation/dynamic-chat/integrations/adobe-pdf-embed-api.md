@@ -16,7 +16,7 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
 1. Vaya a [API de incrustación de Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Clic **[!UICONTROL Obtener credenciales]**.
+1. Haga clic en **[!UICONTROL Obtener credenciales]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Introduzca sus credenciales, acepte los términos y haga clic en **[!UICONTROL Crear credenciales]**.
+1. Escriba sus credenciales, acepte los términos y haga clic en **[!UICONTROL Crear credenciales]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,11 +32,11 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
    >
    >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, asegúrese de introducirlo en el paso 4).
 
-1. Clic **[!UICONTROL Copiar]** para copiar el ID de cliente.
+1. Haga clic en **[!UICONTROL Copiar]** para copiar el ID de cliente.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Vuelva al Dynamic Chat y haga clic en **[!UICONTROL Integraciones]**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **[!UICONTROL Activar]**.
+1. De nuevo en el Dynamic Chat, haz clic en **[!UICONTROL Integraciones]**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
@@ -44,4 +44,4 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Ahora puede utilizar la tarjeta de documento en los cuadros de diálogo [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+Ahora puede usar la tarjeta Documento en [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} de sus cuadros de diálogo.

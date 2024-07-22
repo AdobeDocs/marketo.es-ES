@@ -19,15 +19,15 @@ A continuación se indica cómo crear un segmento mediante una lista de cuentas.
 >
 >[Crear una nueva lista de cuentas](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Ir a **Segmentos**.
+1. Vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Clic **Crear nuevo**.
+1. Haga clic en **Crear nuevo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Introduzca un nombre para el segmento. Arrastrar y soltar **Listas de cuentas** desde el **Firmografía** sección.
+1. Introduzca un nombre para el segmento. Arrastre y suelte **Listas de cuentas** desde la sección **Firmographics**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ A continuación se indica cómo crear un segmento mediante una lista de cuentas.
 
    >[!NOTE]
    >
-   >Las listas de cuentas se sincronizan de ABM a la personalización web para su uso en la segmentación. Selecciónelos en la lista desplegable. La sincronización puede tardar hasta cinco minutos. Solo se sincronizará si hay una o más cuentas con nombre en la lista de cuentas.
+   >Las listas de cuentas se sincronizan de ABM a Web Personalization para su uso en la segmentación. Selecciónelos en la lista desplegable. La sincronización puede tardar hasta cinco minutos. Solo se sincronizará si hay una o más cuentas con nombre en la lista de cuentas.
 
-1. Clic **Guardar** o haga clic en **Guardar y definir la campaña** para ir a la página Campañas.
+1. Haga clic en **Guardar** o haga clic en **Guardar y definir la campaña** para ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

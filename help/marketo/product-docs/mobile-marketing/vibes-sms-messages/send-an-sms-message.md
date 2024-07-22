@@ -2,7 +2,8 @@
 description: 'Envío de un mensaje SMS: documentos de Marketo, documentación del producto'
 title: Enviar un mensaje SMS
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Enviar un mensaje SMS {#send-a-vibes-sms-message}
 
-Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, ahora es el momento de enviarlo. Puede enviarlo por lotes o mediante la campaña de Déclencheur.
+Has [creado tu mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, ahora es el momento de enviarlo. Puede enviarlo por lotes o mediante la campaña de Déclencheur.
 
 >[!NOTE]
 >
@@ -31,11 +32,11 @@ Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Haga clic en **Lista inteligente** y defina la audiencia del SMS. En este ejemplo, enviamos a todos los usuarios de nuestra base de datos que tengan &quot;Adobe&quot; enumerado como su compañía.
+1. Haga clic en la ficha **Lista inteligente** y defina la audiencia para el SMS. En este ejemplo, enviamos a todos los usuarios de nuestra base de datos que tengan &quot;Adobe&quot; enumerado como su compañía.
 
    ![](assets/send-an-sms-message-3.png)
 
-1. En el **Flujo** pestaña, arrastrar **Enviar mensaje SMS**. Seleccione la lista SMS Message and Vibes que desee en los desplegables.
+1. En la pestaña **Flujo**, arrastre el cursor sobre **Enviar mensaje SMS**. Seleccione la lista SMS Message and Vibes que desee en los desplegables.
 
    ![](assets/send-an-sms-message-4.png)
 
@@ -43,7 +44,7 @@ Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
    >
    >El selector Lista de vibraciones actúa como un filtro adicional para la audiencia ya identificada en la Lista inteligente y se dirige únicamente a las personas que pertenecen a esa lista de vibraciones.
 
-1. Haga clic en **Programación** y programe su SMS.
+1. Haz clic en la pestaña **Programar** y programa tu SMS.
 
    ![](assets/send-an-sms-message-5.png)
 
@@ -57,11 +58,11 @@ Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
 
    ![](assets/send-an-sms-message-7.png)
 
-1. Haga clic en **Lista inteligente** , seleccione el déclencheur deseado y defina su valor. En este ejemplo, se utiliza **Rellena el formulario**.
+1. Haga clic en la ficha **Lista inteligente**, seleccione el déclencheur deseado y defina su valor. En este ejemplo, se usa **Rellena el formulario**.
 
    ![](assets/send-an-sms-message-8.png)
 
-1. En el **Flujo** pestaña, arrastrar **Enviar mensaje SMS**. Seleccione la lista SMS Message and Vibes que desee en los desplegables.
+1. En la pestaña **Flujo**, arrastre el cursor sobre **Enviar mensaje SMS**. Seleccione la lista SMS Message and Vibes que desee en los desplegables.
 
    ![](assets/send-an-sms-message-9.png)
 
@@ -69,11 +70,11 @@ Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
    >
    >El selector Lista de vibraciones actúa como un filtro adicional para la audiencia ya identificada en la Lista inteligente y se dirige únicamente a las personas que pertenecen a esa lista de vibraciones.
 
-1. Haga clic en **Programación** pestaña, luego **Activar**.
+1. Haga clic en la ficha **Programar** y luego en **Activar**.
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
 >* [Crear un mensaje de vibraciones](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [Uso de las opciones de SMS en una campaña inteligente](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [Uso de opciones de SMS en una campaña inteligente](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

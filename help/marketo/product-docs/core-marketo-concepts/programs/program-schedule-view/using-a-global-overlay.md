@@ -17,7 +17,7 @@ La superposición global en la vista de programación del programa le permite ve
 
 >[!PREREQUISITES]
 >
->Debe tener un [Licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} para utilizar esta función.
+>Debe tener una [licencia del calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} para utilizar esta característica.
 
 ## Uso de la superposición global {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ La superposición global en la vista de programación del programa le permite ve
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleccionar **[!UICONTROL Superposición]** en la esquina inferior derecha.
+1. Seleccione **[!UICONTROL Superposición]** en la esquina inferior derecha.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ La superposición global en la vista de programación del programa le permite ve
 
 ## Utilizar un filtro guardado como superposición {#use-a-saved-filter-as-an-overlay}
 
-Si ha... [guardó un filtro en el Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, puede utilizarlo como superposición en la vista de programación del programa.
+Si ha [guardado un filtro en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, puede utilizarlo como superposición en la vista de programación del programa.
 
-1. Haga clic en **[!UICONTROL Superposición]** y seleccione la definición del filtro.
+1. Haga clic en el menú desplegable **[!UICONTROL Superposición]** y seleccione la definición del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ Si ha... [guardó un filtro en el Calendario de marketing](/help/marketo/product
 
    >[!MORELIKETHIS]
    >
-   >[Creación de superposiciones personalizadas en la vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[Creando superposiciones personalizadas en la vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

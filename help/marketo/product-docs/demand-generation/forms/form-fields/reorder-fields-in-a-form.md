@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es fácil reordenar los campos en un formulario de Marketo. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,4 +31,4 @@ Es fácil reordenar los campos en un formulario de Marketo. Así es como.
 >
 >También puede arrastrar y soltar los campos uno junto al otro. Esto le permite crear columnas.
 
-¡bueno trabajo! Estás meciendo esta cosa.
+¡Buen trabajo! Estás meciendo esta cosa.

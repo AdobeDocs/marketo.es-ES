@@ -2,10 +2,10 @@
 description: Descripción general de la biblioteca de importación de programas - Documentos de Marketo - Documentación del producto
 title: Resumen de biblioteca de importación de programas
 feature: Programs
-exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 La biblioteca de referencia del Marketo Engage incluye varios programas iniciales que puede importar directamente en la instancia de Marketo para empezar a crear programas que ayuden a su equipo.
 
-La biblioteca incluye programas como correo electrónico, participación, evento, puntuación, capacidad de entrega y funciones operativas. Todos los programas han sido desarrollados por el Equipo de Producto de Adobe y examinados por nuestro [global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} equipo en un esfuerzo por maximizar la calidad y la eficacia.
+La biblioteca incluye programas como correo electrónico, participación, evento, puntuación, capacidad de entrega y funciones operativas. Todos los programas han sido desarrollados por el equipo de productos de Adobe y examinados por nuestro equipo de [Servicios profesionales globales](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} en un esfuerzo por maximizar la calidad y efectividad.
 
 ## Ejemplos de programas disponibles {#available-program-examples}
 
-* [EM-AAAA-MM-DD-Envío de un solo correo electrónico](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
+* [Envío de correo electrónico único-MM-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* [NL-AAAA-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
+* [Boletín NL-AAAA-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* [Programa de seminarios web sobre WBN-AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
+* [Programa de seminarios web WBN-AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
-* [Programa EV-AAAA-MM-DD-Evento](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
+* [Programa de eventos EV-AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
 * [Programa de Ferias Comerciales TS-AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
-* [NUR-AAAA-MM-Nutrición simple](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
+* [NUR-AAAA-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
 * [NUR-AAAA-MM-Nutrición avanzada](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
 
@@ -38,19 +38,19 @@ La biblioteca incluye programas como correo electrónico, participación, evento
 
 * [Programa de solicitud web WR-AAAA-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
 
-* [OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
+* [Página de aterrizaje de Advertising Marketo en línea OA-AAAA-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
 * [Administración de datos de OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
-* [Administración de OP-Lead](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
+* [Administración de posibles clientes de OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
-* [OP-Scoring-Behavior](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
+* [Comportamiento-Puntuación-OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
-* [OP-Scoring-Demographic](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
+* [Demográfico-Puntuación-OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
 * [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* [Administración de la capacidad de entrega](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
+* [Administración de la capacidad de envío de OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
 >[!MORELIKETHIS]
 >

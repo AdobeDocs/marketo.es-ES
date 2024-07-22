@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Los campos de formulario ocultos pueden capturar datos de forma silenciosa sin la entrada del visitante. Así es como funciona.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Los campos de formulario ocultos pueden capturar datos de forma silenciosa sin l
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Seleccione el campo y defina la variable **Tipo de campo** hasta **Oculto.**
+1. Seleccione el campo y establezca el **Tipo de campo** en **Oculto.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 

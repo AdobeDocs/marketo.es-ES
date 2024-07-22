@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 
-1. Crear un nuevo [programa predeterminado](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} y asígnele el nombre &quot;Agregar a Lista de bloqueados&quot;.
+1. Cree un nuevo [programa predeterminado](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} y asígnele el nombre &quot;Agregar a Lista de bloqueados&quot;.
 
-1. Clic **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
+1. Haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Seleccionar **[!UICONTROL Lista inteligente]**.
+1. Seleccione **[!UICONTROL Lista inteligente]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
@@ -41,7 +41,7 @@ Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Clic **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nueva campaña inteligente]**.
+1. Haga clic en **[!UICONTROL Nueva]** y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
@@ -49,7 +49,7 @@ Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Arrastrar y soltar **[!UICONTROL Miembro de lista inteligente]**.
+1. Arrastre y suelte **[!UICONTROL Miembro de la lista inteligente]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Haga clic en **[!UICONTROL Flujo]** pestaña. Arrastre y suelte el **[!UICONTROL Cambiar valor de datos]** Acción de flujo.
+1. Haga clic en la ficha **[!UICONTROL Flujo]**. Arrastre y suelte la acción de flujo **[!UICONTROL Cambiar valor de datos]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. En el **[!UICONTROL Atributo]** selección desplegable **[!UICONTROL Bloquear enumerados]** y establecer **[!UICONTROL Nuevo valor]** hasta **[!UICONTROL true]**.
+1. En la lista desplegable **[!UICONTROL Atributo]**, seleccione **[!UICONTROL Bloquear incluido]** y establezca **[!UICONTROL Nuevo valor]** en **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Haga clic en **[!UICONTROL Programación]** y seleccione **[!UICONTROL Ejecutar una vez]**.
+1. Haga clic en la ficha **[!UICONTROL Programar]** y seleccione **[!UICONTROL Ejecutar una vez]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Seleccionar **[!UICONTROL Ejecutar ahora]** y haga clic en **[!UICONTROL Ejecutar]**.
+1. Seleccione **[!UICONTROL Ejecutar ahora]** y haga clic en **[!UICONTROL Ejecutar]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Clic **[!UICONTROL Ejecutar]** otra vez.
+1. Vuelva a hacer clic en **[!UICONTROL Ejecutar]**.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Estas personas ya no recibirán correos electrónicos.
 
 >[!TIP]
 >
->Crear un [Campaña de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} usando **Cambiar valor de datos** con **Bloquear en la lista es verdadero** para todas las personas del futuro que tengan atributos que permitan la lista de bloqueados.
+>Crear una [campaña de Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} usando **Cambiar valor de datos** con **Bloquear en la lista es verdadero** para todas las personas en el futuro que tengan atributos para lista de bloqueados.

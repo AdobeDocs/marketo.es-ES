@@ -17,15 +17,15 @@ ht-degree: 1%
 >
 >* [Agregar una lista de selección de país a su formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Una característica muy interesante de los formularios Marketo es que puede ocultar o mostrar dinámicamente los campos de formulario o [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Una característica muy interesante de los formularios Marketo Forms es que puede ocultar o mostrar dinámicamente los campos de formulario o [conjuntos de campos](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->En este ejemplo, vamos a ocultar la variable **Estado** field a menos que **País** se selecciona como &quot;Estados Unidos&quot;.
+>En este ejemplo, ocultemos el campo **State** a menos que **Country** esté seleccionado como &quot;Estados Unidos&quot;.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -59,7 +59,7 @@ Una característica muy interesante de los formularios Marketo es que puede ocul
 
    >[!NOTE]
    >
-   >Anteriormente convertimos País a un tipo de campo de lista de selección y [se agregaron todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Anteriormente convertimos País a un tipo de campo de lista de selección y [agregamos todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Haga clic en **Guardar**.
 
@@ -69,6 +69,6 @@ Una característica muy interesante de los formularios Marketo es que puede ocul
 
 >[!IMPORTANT]
 >
->El comportamiento del campo de formulario funcionará sin problemas cuando los valores del campo se establezcan o actualicen mediante scripts personalizados con [Funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
 >
 >Es posible que los campos condicionales no funcionen según lo esperado si los valores de los campos los modifican scripts externos que no sean la API de JavaScript de Forms 2.0.

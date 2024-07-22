@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Crear un usuario solo de API {#create-an-api-only-user}
 
-Si desea integrar con Marketo a través de la [API DE REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, deberá crear un usuario solo de API. Así es como.
+Si desea integrarse con Marketo a través de la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, deberá crear un usuario solo de API. Así es como.
 
 >[!IMPORTANT]
 >
->Si crea usuarios de solo API en una suscripción que se ha incorporado a Adobe Identity, los pasos son diferentes y [se puede encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Si estás creando usuarios de solo API en una suscripción que se ha incorporado a Adobe Identity, tus pasos son diferentes y [se pueden encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -25,21 +25,21 @@ Si desea integrar con Marketo a través de la [API DE REST](https://experiencele
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. Clic **[!UICONTROL Invitar nuevo usuario]**.
+1. Haga clic en **[!UICONTROL Invitar nuevo usuario]**.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Introduzca un correo electrónico, un nombre y un apellido para el usuario solo de API. Clic **[!UICONTROL Siguiente]**.
+1. Introduzca un correo electrónico, un nombre y un apellido para el usuario solo de API. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,11 +47,11 @@ Si desea integrar con Marketo a través de la [API DE REST](https://experiencele
    >
    >Añada un motivo opcional o una fecha de caducidad para el acceso. Las fechas de caducidad del acceso son útiles para los empleados a corto plazo.
 
-1. Seleccione el **[!UICONTROL Solo API]** función y marque la **[!UICONTROL Solo API]** casilla de verificación Clic **[!UICONTROL Siguiente]**.
+1. Seleccione el rol **[!UICONTROL Solo API]** y marque la casilla **[!UICONTROL Solo API]**. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Clic **[!UICONTROL Enviar]**.
+1. Haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/create-an-api-only-user-6.png)
 

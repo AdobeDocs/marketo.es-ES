@@ -23,11 +23,11 @@ Añadir usuarios es rápido y sencillo.
 
    ![](assets/invite-team-members-2.png)
 
-1. Clic **Invitar a usuarios**.
+1. Haga clic en **Invitar usuarios**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Introduzca las direcciones de correo electrónico de las personas que desee añadir y haga clic en **Siguiente**.
+1. Escriba las direcciones de correo electrónico de las personas que desee agregar y haga clic en **Siguiente**.
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ Añadir usuarios es rápido y sencillo.
    >
    >De forma predeterminada, todos los miembros nuevos se agregarán al equipo Todos.
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/five.png)

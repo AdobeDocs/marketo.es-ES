@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Puede que no todos los problemas de la página le sean útiles. A continuación se indica cómo eliminar uno.
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. En el [!UICONTROL Páginas] , haga clic en **[!UICONTROL Problemas]**.
+1. En la sección [!UICONTROL Páginas], haga clic en **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Pase el ratón sobre el problema de página que quiera eliminar. Clic **[!UICONTROL Eliminar]**.
+1. Pase el ratón sobre el problema de página que quiera eliminar. Haga clic en **[!UICONTROL Quitar]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clic **[!UICONTROL Eliminar]** eliminará permanentemente este problema de página.
+1. Si hace clic en **[!UICONTROL Eliminar]**, se eliminará permanentemente este problema de página.
 
    >[!CAUTION]
    >

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cualquier informe de **Mis informes **solo es visible para usted. ¿Qué sucede si desea que el informe sea accesible para todos los demás? A continuación se indica cómo hacerlo:
 
-1. En el **Analytics** , haga clic en el área deseada [informe guardado](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. En el área **Analytics**, haga clic en el [informe guardado](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) que desee.
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 
@@ -23,18 +23,18 @@ Cualquier informe de **Mis informes **solo es visible para usted. ¿Qué sucede 
    >
    >Alternativamente, un informe guardado se puede clonar en **Informes de grupo** arrastrando el informe a la carpeta.
 
-1. Clic **Acciones de informe** y seleccione **Clonar informe**.
+1. Haga clic en **Acciones de informe** y seleccione **Clonar informe**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. Haga clic en **Clonar a** y seleccione su grupo. Seleccione el **Carpeta**.
+1. Haga clic en el menú desplegable **Clonar a** y seleccione su grupo. Seleccione la **carpeta**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Nombre** Seleccione el informe y haga clic en **Clonar**.
+1. **Nombre** el informe y haga clic en **Clonar**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   ¡Genial! El informe aparecerá en **Informes de grupo**.
+   ¡Genial! Su informe ahora aparecerá en **Informes de grupo**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)

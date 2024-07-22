@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Inteligencia comercial {#sales-intelligence}
 
-La personalización web de Marketo proporciona información valiosa sobre los visitantes web anónimos y conocidos y las organizaciones que visitan el sitio web. Los ejecutivos de ventas pueden utilizarlo para rastrear, monitorizar y recibir alertas en organizaciones y cuentas clave según la región específica.
+Marketo Web Personalization proporciona información valiosa sobre los visitantes y organizaciones web anónimos y conocidos que visitan el sitio web. Los ejecutivos de ventas pueden utilizarlo para rastrear, monitorizar y recibir alertas en organizaciones y cuentas clave según la región específica.
 
-Acceda a él iniciando sesión en la plataforma de personalización web de Marketo, mediante un informe de correo electrónico diario o semanal o visualizándolo en la aplicación móvil.
+Acceda a él iniciando sesión en la plataforma Marketo Web Personalization, mediante un informe de correo electrónico diario o semanal o visualizándolo en la aplicación móvil.
 
 ## Definir la región del usuario {#define-the-users-region}
 
-Para definir los datos de organización y visitante que ve en Personalización web de Marketo según su región, país o estado, vaya a [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) y seleccione los países o estados.
+Para definir los datos de organización y visitante que ve en Marketo Web Personalization según su región, país o estado, vaya a [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) y seleccione los países o estados.
 
 ## Configuración de informes de correo electrónico diarios o semanales {#set-up-daily-or-weekly-email-reports}
 
-Entrada [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puede configurar para recibir informes de correo electrónico diarios o semanales, enviados por la mañana temprano. Los informes principales de interés para un ejecutivo de ventas incluyen los informes de organizaciones y posibles clientes, que muestran las principales organizaciones visitadas y los posibles clientes enviados, incluido su comportamiento, desde la región específica del usuario.
+En [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puede configurar para recibir informes de correo electrónico diarios o semanales, enviados por la mañana temprano. Los informes principales de interés para un ejecutivo de ventas incluyen los informes de organizaciones y posibles clientes, que muestran las principales organizaciones visitadas y los posibles clientes enviados, incluido su comportamiento, desde la región específica del usuario.
 
 >[!NOTE]
 >
->Le recomendamos que configure ejecutivos de ventas con permiso de solo vista en Personalización web de Marketo. Esto significa que pueden ver todas las páginas, pero no crear, editar ni eliminar ninguna función.
+>Le recomendamos que configure ejecutivos de ventas con permiso de solo vista en Marketo Web Personalization. Esto significa que pueden ver todas las páginas, pero no crear, editar ni eliminar ninguna función.
 
 >[!MORELIKETHIS]
 >

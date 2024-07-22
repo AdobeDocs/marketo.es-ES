@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Después de guardar un analizador, es fácil clonarlo para crear uno nuevo. A continuación, vaya a y edite el nuevo si necesita realizar algún cambio.
 
-1. Haga clic en **Analytics** mosaico.
+1. Haga clic en el mosaico **Analytics**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Haga clic en **Analizador de programas** mosaico.
+1. Haga clic en el mosaico **Analizador de programas**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Cuando el analizador guardado esté abierto, abra la lista desplegable Acciones del analizador y seleccione **Clonar analizador**.
+1. Mientras el analizador guardado esté abierto, abra la lista desplegable Acciones del analizador y seleccione **Analizador de clones**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Seleccione la ubicación del analizador clonado en la **Clonar a** y **Carpeta** desplegables.
+1. Seleccione la ubicación del analizador clonado en los menús desplegables **Clonar a** y **Carpeta**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
@@ -41,4 +41,4 @@ Después de guardar un analizador, es fácil clonarlo para crear uno nuevo. A co
 
    >[!MORELIKETHIS]
    >
-   >[Creación de un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

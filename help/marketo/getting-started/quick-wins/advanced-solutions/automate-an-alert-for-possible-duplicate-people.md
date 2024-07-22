@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ¿Desea recibir una alerta cada vez que se cree un posible duplicado? A continuación se indica cómo configurar una campaña inteligente para hacerlo.
 
-1. [Creación de una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Defina la siguiente lista inteligente:
+1. [Crear una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Defina la siguiente lista inteligente:
 
 * Déclencheur: **[!UICONTROL Se ha creado la persona]**
-* Filtro: **[!UICONTROL Campos duplicados]**. Nombre de campo **[!UICONTROL es] [!UICONTROL Nombre completo]**
+* Filtro: **[!UICONTROL Campos duplicados]**. El nombre de campo **[!UICONTROL es] [!UICONTROL Nombre completo]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Uso del [Enviar token de información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} para incluir un vínculo a la persona en su CRM.
+   >Usando [Enviar token de información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} para incluir un vínculo a la persona en su CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >Además, dos personas con el mismo nombre no significa automáticamente que sean la misma persona.
 
-1. Active la campaña en la **[!UICONTROL Programación]** pestaña.
+1. Active la campaña en la ficha **[!UICONTROL Programar]**.
 
    ![](assets/automate-an-alert-3.png)
 

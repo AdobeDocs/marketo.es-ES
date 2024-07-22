@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Hay ocho tipos de entradas integradas diferentes que estarán visibles y disponi
 
 >[!NOTE]
 >
->Las campañas inteligentes recurrentes son **no** compatible con la vista de programación.
+>No se admiten **campañas inteligentes recurrentes** en la vista de programación.
 
 <table> 
  <thead> 
@@ -28,7 +28,7 @@ Hay ocho tipos de entradas integradas diferentes que estarán visibles y disponi
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Entrada básica<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Entrada básica <span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Tipo de entrada predeterminado. Utilice como marcador de posición o nota. </td> 
   </tr> 
   <tr> 
@@ -40,11 +40,11 @@ Hay ocho tipos de entradas integradas diferentes que estarán visibles y disponi
    <td colspan="1" rowspan="1"><p>Campaña inteligente programada con al menos un paso de flujo de envío de correo electrónico.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Programa de emails <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Programa de email <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Programa de correo electrónico programado.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Prueba del programa de correo electrónico <img alt="--" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Prueba del programa de email <img alt="--" src="assets/image2014-9-24-10-3a5-3a39.png" data-linked-resource-id="3082719" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Probar correos electrónicos en un programa de correo electrónico programado.</td> 
   </tr> 
   <tr> 

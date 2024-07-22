@@ -22,7 +22,7 @@ Vea todas las preguntas que el bot de chat no pudo responder y/o las que los vis
 
    ![](assets/unanswered-questions-1.png)
 
-1. Haga clic en **[!UICONTROL Preguntas sin responder]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Preguntas sin responder]**.
 
    ![](assets/unanswered-questions-2.png)
 

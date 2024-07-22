@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 1%
 
 Una cuadrícula de calor representa visualmente los datos en una cuadrícula de color para que pueda identificar patrones buenos y malos de forma más fácil y rápida.
 
-1. En el informe, haga clic en el icono del gráfico y, a continuación, **Cuadrícula de calor**.
+1. En el informe, haga clic en el icono de gráfico y, a continuación, **Cuadrícula de calor**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Para realizar cambios en su **Cuadrícula de calor**, vaya a la **Propiedades** área.
+1. Para hacer cambios en la **cuadrícula de calor**, ve al área de **Propiedades**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   ¡Increíble! Ahora tiene su **Cuadrícula de calor**!
+   ¡Fantástico! ¡Ahora tienes tu **Cuadrícula de calor**!

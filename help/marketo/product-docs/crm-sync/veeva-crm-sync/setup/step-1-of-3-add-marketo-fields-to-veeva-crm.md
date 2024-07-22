@@ -5,7 +5,7 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '527'
 ht-degree: 7%
 
 ---
@@ -34,7 +34,7 @@ Siga estos pasos para agregar el campo Score.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Clic **[!UICONTROL Objetos y campos]** y seleccione **[!UICONTROL Administrador de objetos]**.
+1. Haga clic en **[!UICONTROL Objetos y campos]** y seleccione **[!UICONTROL Administrador de objetos]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Siga estos pasos para agregar el campo Score.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Haga clic en **[!UICONTROL Contacto]** objeto.
+1. Haga clic en el objeto **[!UICONTROL Contact]**.
 
-1. Seleccionar **[!UICONTROL Campos y relaciones]**.
+1. Seleccione **[!UICONTROL Campos y relaciones]**.
 
-1. Clic **[!UICONTROL Nuevo]**.
+1. Haga clic en **[!UICONTROL Nuevo]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,18 +58,18 @@ Siga estos pasos para agregar el campo Score.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Introduzca el **[!UICONTROL Etiqueta de campo]**, **[!UICONTROL Longitud]**, y **[!UICONTROL Nombre de campo]** para el campo, como se muestra en la tabla siguiente.
+1. Escriba **[!UICONTROL Etiqueta de campo]**, **[!UICONTROL Longitud]** y **[!UICONTROL Nombre de campo]** para el campo, como se muestra en la tabla siguiente.
 
 <table>
  <tbody>
   <tr>
-   <th>Etiqueta de campo
+   <th>Etiqueta del campo
    <th>Nombre del campo
    <th>Tipo de datos
    <th>Atributos de campo
   </tr>
   <tr>
-   <td>Puntuación</td>
+   <td>Puntaje</td>
    <td>mkto71_Lead_Score</td>
    <td>Número</td>
    <td>Longitud 10<br/>
@@ -105,9 +105,9 @@ Cifras decimales 0</td>
 
 1. Elija los diseños de página que deben mostrar el campo.
 
-1. Clic **[!UICONTROL Guardar y nuevo]** para volver y crear cada uno de los otros dos campos personalizados.
+1. Haga clic en **[!UICONTROL Guardar y nuevo]** para volver y crear los otros dos campos personalizados.
 
-1. Clic **[!UICONTROL Guardar]** cuando hayas terminado con los tres.
+1. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado con los tres.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -120,7 +120,7 @@ OPCIONAL: utilice el procedimiento anterior para cualquier campo personalizado a
 <table>
  <tbody>
   <tr>
-   <th>Etiqueta de campo
+   <th>Etiqueta del campo
    <th>Nombre del campo
    <th>Tipo de datos
    <th>Atributos de campo

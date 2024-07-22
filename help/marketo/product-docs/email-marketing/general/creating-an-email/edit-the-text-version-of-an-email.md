@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Al crear un correo electrónico, es posible que desee que su versión de texto e
 
 >[!NOTE]
 >
->Este no es un artículo sobre la creación de un correo electrónico de solo texto. Para obtener información al respecto, consulte [Crear un correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Este no es un artículo sobre la creación de un correo electrónico de solo texto. Para obtener información al respecto, consulte [Crear un mensaje de correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. En el editor de correo electrónico, haga clic en **Texto** en la parte inferior del correo electrónico.
+1. En el editor de correo electrónico, haga clic en la ficha **Texto** en la parte inferior del correo electrónico.
 
    ![](assets/one-5.png)
 
-1. Desmarcar **Copiar automáticamente desde el HTML** para realizar cambios.
+1. Desmarque **Copiar automáticamente del HTML** para realizar cambios.
 
    ![](assets/two-5.png)
 

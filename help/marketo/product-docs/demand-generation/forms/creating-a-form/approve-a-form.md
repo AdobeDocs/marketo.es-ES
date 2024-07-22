@@ -19,7 +19,7 @@ Para agregar un formulario a una de las páginas de aterrizaje, debe aprobarse. 
 
 A continuación se indica cómo aprobar un formulario existente que esté listo para utilizarse.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ A continuación se indica cómo aprobar un formulario existente que esté listo 
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Está aprobado y listo para ser [añadido a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Está aprobado y listo para [agregarse a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -49,10 +49,10 @@ Si está realizando cambios en un formulario, puede aprobar la página directame
 >
 >[Editar un formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

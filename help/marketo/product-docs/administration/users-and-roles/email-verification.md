@@ -24,21 +24,21 @@ Cuando un administrador invita a un usuario, este se verifica automáticamente u
 
 >[!IMPORTANT]
 >
->La excepción a lo anterior es, _en una suscripción solo SSO_, los administradores recibirán una nueva invitación de usuario, pero los usuarios que no sean administradores, no. Los usuarios que no son administradores deben seguir con el proceso de verificación por correo electrónico para garantizar la migración de sus registros. Los usuarios pueden enviarse el vínculo de verificación por correo electrónico accediendo a **Administrador** > **Mi cuenta** > **Configuración de cuenta** y haciendo clic en **Reenviar verificación**.
+>La excepción a lo anterior es, _en una suscripción de solo SSO_, los administradores recibirán una nueva invitación de usuario, pero los usuarios que no sean administradores no. Los usuarios que no son administradores deben seguir con el proceso de verificación por correo electrónico para garantizar la migración de sus registros. Los usuarios pueden enviarse el vínculo de verificación por correo electrónico yendo a **Administración** > **Mi cuenta** > **Configuración de la cuenta** y haciendo clic en **Volver a enviar verificación**.
 
 ![](assets/email-verification-1.png)
 
-## Correo electrónico de verificación {#verification-email}
+## Verificación del correo electrónico {#verification-email}
 
 Los usuarios recibirán el correo electrónico siguiente cuando se active la verificación por correo electrónico para una suscripción o si la activa un administrador/usuario.
 
-Se requiere una sesión de usuario activa para que la verificación del correo electrónico se realice correctamente. En primer lugar, el usuario debe iniciar sesión en su suscripción de Marketo mediante la URL de su proveedor de identidad (IdP). Una vez establecida una sesión, deberían _entonces_ haga clic en **Verificar dirección de correo electrónico** en el correo electrónico.
+Se requiere una sesión de usuario activa para que la verificación del correo electrónico se realice correctamente. En primer lugar, el usuario debe iniciar sesión en su suscripción de Marketo mediante la URL de su proveedor de identidad (IdP). Una vez establecida una sesión, _luego_ harían clic en el vínculo **Verificar dirección de correo electrónico** del correo electrónico.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Para reenviar un correo electrónico de verificación a un usuario no verificado, simplemente seleccione su registro y haga clic en **[!UICONTROL Verificar correo electrónico]** botón.
+>Para reenviar un correo electrónico de verificación a un usuario no verificado, simplemente selecciona su registro y haz clic en el botón **[!UICONTROL Verificar correo electrónico]**.
 
 ## Cambio de una dirección de correo electrónico {#changing-an-email-address}
 
@@ -50,7 +50,7 @@ Cuando se cambia la dirección de correo electrónico de un usuario, pasa a esta
 
 ## Usuarios y funciones {#users-and-roles}
 
-Entrada **[!UICONTROL Administrador]** > **[!UICONTROL Usuarios y funciones]**, la columna Estado de correo electrónico muestra el estado de verificación de cada usuario.
+En **[!UICONTROL Administración]** > **[!UICONTROL Usuarios y roles]**, la columna Estado de correo electrónico muestra el estado de verificación de cada usuario.
 
 ![](assets/email-verification-5.png)
 

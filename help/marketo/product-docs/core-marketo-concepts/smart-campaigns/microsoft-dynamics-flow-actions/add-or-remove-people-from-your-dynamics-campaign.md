@@ -31,7 +31,7 @@ En su campaña inteligente, busque y seleccione la campaña de Dynamics a la que
 >* Asegúrese de que la sincronización de Campaign funcione
 >* La campaña no está activa en [!DNL Microsoft Dynamics]
 
-El sistema crea automáticamente una lista de marketing estática específica de la campaña, cada una para posibles clientes y contactos, a la que se agregará la persona. Es una acción única y, una vez para las sincronizaciones posteriores a la campaña, se utiliza la misma lista de marketing. El estándar de nomenclatura adoptado para el nombre estático de la lista de marketing es `Mkto-leads-<uniqueID>` para posibles clientes y `Mkto-contacts-<uniqueID>` para contactos.
+El sistema crea automáticamente una lista de marketing estática específica de la campaña, cada una para posibles clientes y contactos, a la que se agregará la persona. Es una acción única y, una vez para las sincronizaciones posteriores a la campaña, se utiliza la misma lista de marketing. El estándar de nomenclatura adoptado para el nombre estático de la lista de marketing es `Mkto-leads-<uniqueID>` para los posibles clientes y `Mkto-contacts-<uniqueID>` para los contactos.
 
 La asociación de estas listas de marketing generadas por Marketo con otras campañas podría generar comportamientos confusos. Por ejemplo: añadir a una campaña también resultaría en añadir a la segunda campaña. Del mismo modo, tampoco se recomienda disociar la lista de marketing generada por Marketo de la campaña en Dynamics.
 

@@ -6,7 +6,7 @@ exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -23,34 +23,34 @@ El informe Resumen es una vista mensual de todas las campañas y del rendimiento
 >
 >Conversión asistida: visitante web que rellena cualquier formulario del sitio web y deja su dirección de correo electrónico, que en una visita anterior (en los últimos 6 meses) hizo clic en una campaña personalizada o en un recurso de contenido recomendado.
 
-En Personalización web, vaya a **Analytics** y **Informe de resumen**.
+En Web Personalization, vaya a **Analytics** y **Informe de resumen**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Seleccionar **Mes** y haga clic en **Mostrar informe**.
+Seleccione **Mes** y haga clic en **Mostrar informe**.
 
 ![](assets/2.png)
 
-La primera parte del informe se relaciona con campañas de Personalización web personalizadas y muestra lo siguiente:
+La primera parte del informe está relacionada con las campañas de Personalization web personalizadas y las pantallas:
 
-* **Clics** : todos los clics en campañas de personalización web
-* **Conversiones directas** : todos los visitantes que hicieron clic en una campaña de personalización web durante la visita y rellenaron un formulario
-* **Tasa de conversión directa** : el porcentaje de visitantes que se convirtieron en posibles clientes directos después de hacer clic en una campaña de personalización web. Posibles clientes directos divididos por clics
-* **Conversiones asistidas** : todos los visitantes que rellenaron un formulario e hicieron clic en una campaña de personalización web en una visita anterior (durante los últimos 6 meses).
-* **Sugerencias** : sugerencias para optimizar el rendimiento de la campaña de personalización web
-* **Campañas principales** : las campañas de mayor rendimiento durante el período de tiempo seleccionado, ordenadas por número de clics
+* **Clics**: todos los clics en campañas de Web Personalization
+* **Conversiones directas**: todos los visitantes que hicieron clic en una campaña de Web Personalization durante la visita y rellenaron un formulario
+* **Tasa de conversión directa**: porcentaje de visitantes que se convirtieron en posibles clientes directos después de hacer clic en una campaña de Web Personalization. Posibles clientes directos divididos por clics
+* **Conversiones asistidas**: todos los visitantes que rellenaron un formulario e hicieron clic en una campaña de Web Personalization en una visita anterior (en los últimos 6 meses)
+* **Sugerencias**: sugerencias para optimizar el rendimiento de la campaña de Web Personalization
+* **Campañas principales**: las campañas de mayor rendimiento durante el período de tiempo seleccionado, ordenadas por número de clics.
 
 ![](assets/3.png)
 
-La segunda parte del informe está relacionada con el contenido recomendado del motor de recomendación de contenido de Web Personalization. Muestra lo siguiente:
+La segunda parte del informe se refiere al contenido recomendado del motor de recomendación de contenido de Web Personalization. Muestra lo siguiente:
 
-* **Clics** : todos los clics en el contenido recomendado de Web Personalization
-* **Conversiones directas** : todos los visitantes que hicieron clic en el contenido recomendado durante su visita y rellenaron un formulario
-* **Tasa de conversión directa** : el porcentaje de visitantes que se convirtieron en posibles clientes directos después de hacer clic en el contenido recomendado. Posibles clientes directos divididos por clics
-* **Conversiones asistidas** : todos los visitantes que rellenaron un formulario e hicieron clic en el contenido recomendado en una visita anterior (durante los últimos 6 meses)
-* **Sugerencias** : sugerencias para optimizar el uso del motor de recomendación de contenido
-* **Principales Recommendations** : el contenido recomendado de mayor rendimiento durante el período de tiempo seleccionado, ordenado por número de clics
+* **Clics**: todos los clics en el contenido recomendado de Web Personalization
+* **Conversiones directas**: todos los visitantes que hicieron clic en el contenido recomendado durante su visita y rellenaron un formulario
+* **Tasa de conversión directa**: el porcentaje de visitantes que se convirtió en posible cliente directo después de hacer clic en el contenido recomendado. Posibles clientes directos divididos por clics
+* **Conversiones asistidas**: todos los visitantes que rellenaron un formulario e hicieron clic en el contenido recomendado en una visita anterior (en los últimos 6 meses)
+* **Sugerencias**: sugerencias para optimizar mediante el motor de recomendación de contenido
+* **Recommendations principal**: el contenido recomendado de mayor rendimiento durante el período de tiempo seleccionado, ordenado por número de clics.
 
 >[!NOTE]
 >
->La personalización web de Marketo captura la dirección de correo electrónico del visitante web para cualquier formulario completado en el sitio web. Esto se ve en la página de posibles clientes de personalización web y es el posible cliente que se utiliza en el informe Resumen.
+>Marketo Web Personalization registra la dirección de correo electrónico del visitante de la web para cualquier formulario rellenado en el sitio web. Esto se ve en la página de posibles clientes de Web Personalization y es el posible cliente que se utiliza en el informe Resumen.

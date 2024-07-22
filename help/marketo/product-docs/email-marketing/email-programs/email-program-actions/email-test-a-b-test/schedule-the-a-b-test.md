@@ -6,7 +6,7 @@ exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
 >[!PREREQUISITES]
 >
->[Añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Para las pruebas de fecha y hora, solo debe configurar cuando reciba el resumen de los resultados de la prueba.
 
-1. Seleccione el **Enviar prueba** fecha.
+1. Seleccione la fecha **Enviar prueba**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleccione el **Enviar prueba** hora.
+1. Seleccione la hora **Enviar prueba**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
    >
    >Enviar prueba y Enviar ganador deben estar separados por lo menos 4 horas. Sin embargo, para envíos más grandes, es posible que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
 
-1. Haga lo mismo para **Enviar ganador**. Introduzca los destinatarios de la notificación (opcional) y haga clic en **Siguiente**.
+1. Haz lo mismo con **Enviar ganador**. Escriba los destinatarios de la notificación (opcional) y haga clic en **Siguiente**.
 
    >[!NOTE]
    >
@@ -45,13 +45,13 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
    >[!NOTE]
    >
-   >Si elige declarar un ganador manualmente, debe definir lo siguiente **Envío de informe** fecha/hora en lugar de **Finalizar envío** fecha/hora.
+   >Si decide declarar un ganador manualmente, definirá la fecha y hora del **envío del informe** en lugar del **envío por correo de fin**.
 
    ¡Súper! Ha terminado, revise el resumen y haga clic en Cerrar.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Te darás cuenta de la **Programación** el mosaico se ha actualizado.
+   Observará que el mosaico **Programar** se ha actualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

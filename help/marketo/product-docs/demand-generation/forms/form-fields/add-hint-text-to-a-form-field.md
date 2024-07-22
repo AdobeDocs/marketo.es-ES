@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Agregar texto de sugerencia a un campo de formulario {#add-hint-text-to-a-form-field}
 
-Sugerencias y [instrucciones](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) ayudar a las personas a rellenar formularios. A continuación se muestra cómo agregar una sugerencia.
+Sugerencias e [instrucciones](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) ayudan a las personas a rellenar formularios. A continuación se muestra cómo agregar una sugerencia.
 
 >[!NOTE]
 >
 >**Definición**
 >
->Form **Sugerencias** es el texto dentro del campo que desaparece cuando el visitante empieza a escribir en el campo.
+>El formulario **Hints** es texto dentro del campo que desaparece cuando el visitante comienza a escribir en el campo.
 >
->Form **Instrucciones** Hay pequeñas descripciones que se muestran cuando el visitante pasa el ratón por encima del campo.
+>Las **instrucciones** del formulario son pequeñas descripciones emergentes que se muestran cuando el visitante pasa el ratón sobre el campo.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -35,18 +35,18 @@ Sugerencias y [instrucciones](/help/marketo/product-docs/demand-generation/forms
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >No te olvides de [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+   >No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-¡Eche un vistazo! Vamos a seguir adelante y agregar algo [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.
+¡Eche un vistazo! Vamos a agregar [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.

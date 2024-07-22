@@ -6,7 +6,7 @@ exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Admitimos SSO mediante la especificación SAML 2.0. Sin embargo, no tenemos inte
 
 >[!NOTE]
 >
->Esto solo es aplicable a **Marketo Sales Connect** usuarios. Si no dispone de Sales Connect pero desea obtener más información, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+>Esto solo es aplicable a **usuarios de Marketo Sales Connect**. Si no dispone de Sales Connect pero desea obtener más información, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
 
 ## Requisitos {#requirements}
 
@@ -31,6 +31,6 @@ El archivo metadata.xml de la instancia SSO de su equipo debe contener la direcc
 
 También necesitaremos la Ubicación de SSO para que la cuenta de SSO de su compañía sea un dominio único. Por ejemplo, se requiere un subdominio único como `toutapp.pingidentity.com` o similar. Sin este tipo de identificador único, no podremos configurar SAML desde el panel.
 
-One Login y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión, significa que no podremos configurar un inicio de sesión desde el botón del panel. Todavía podremos configurarlo desde el botón de inicio de sesión único en la [aplicación web](https://toutapp.com/login).
+One Login y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión, significa que no podremos configurar un inicio de sesión desde el botón del panel. Aún podremos configurarlo desde el botón Inicio de sesión único de la [aplicación web](https://toutapp.com/login).
 
 Una vez que tengamos esa información, trabajaremos con nuestro equipo de ingeniería para configurarla para su suscripción.

@@ -48,7 +48,7 @@ La tarjeta Historial de cancelación de suscripción ayuda a los administradores
 
 >[!NOTE]
 >
->Solo habrá una tarjeta Historial de cancelación de suscripción si la persona tiene _resuscrito_ en algún momento.
+>Solo habrá una tarjeta Historial de cancelación de suscripción si la persona ha _vuelto a suscribir_ en algún momento.
 
 ![](assets/unsubscribe-overview-5.png)
 

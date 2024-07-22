@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
 >[!PREREQUISITES]
 >
->El contenido debe ser [aprobado para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
 
-1. En el **Contenido predictivo** , haga clic en un título para abrir el editor.
+1. En la página **Contenido predictivo**, haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Clic **Medios enriquecidos**.
+1. Haga clic en **medios enriquecidos**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Escriba una **Descripción**.
+1. Escriba una **descripción**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Haga clic en **Categorías** cuadro para seleccionar o agregar [categorías que ya has configurado](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
+1. Haz clic en el cuadro **Categorías** para seleccionar o agregar [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +51,6 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
    ![](assets/six-1.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/save.png)

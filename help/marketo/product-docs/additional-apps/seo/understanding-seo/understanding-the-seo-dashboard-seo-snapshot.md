@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilice el tablero para obtener una vista de alto nivel de cómo la clasificación de palabras clave es la tendencia y cómo el sitio está optimizado para la optimización de los motores de búsqueda.
 
-Para saber en qué centrarse para mejorar sus esfuerzos de SEO, utilice el [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este tablero.
+Para saber en qué centrarse para mejorar sus esfuerzos de optimización de los motores de búsqueda, utilice la sección [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Resumen de clasificación de palabras clave] {#keyword-rank-summary}
 
-Esta sección muestra cómo se clasifica el sitio para el [palabras clave de destino](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta sección muestra la clasificación del sitio para las [palabras clave de destino](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Esta sección muestra cómo se clasifica el sitio para el [palabras clave de des
 
 >[!TIP]
 >
->También puede ver cómo [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) El número de palabras clave está funcionando. Haga clic en la lista desplegable y seleccione cuál le interesa.
+>También puede ver el rendimiento de una [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Se basa en una compilación de docenas de prácticas recomendadas. Una puntuaci�
 
 ## [!UICONTROL Tendencias de clasificación de palabras clave] {#keyword-rank-trends}
 
-El [!UICONTROL Tendencias de clasificación de palabras clave] El gráfico extrae las palabras clave con los cinco volúmenes de búsqueda mensuales más altos y representa la clasificación en el tiempo.
+El gráfico [!UICONTROL Tendencias de clasificación de palabras clave] extrae las palabras clave con los cinco volúmenes de búsqueda mensuales más altos y traza la clasificación con el paso del tiempo.
 
 >[!TIP]
 >
@@ -61,7 +61,7 @@ El [!UICONTROL Tendencias de clasificación de palabras clave] El gráfico extra
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Ahora vamos a ver el [!UICONTROL Recommendations] de este tablero.
+Ahora echemos un vistazo a la sección [!UICONTROL Recommendations] de este panel.
 
 >[!MORELIKETHIS]
 >

@@ -15,23 +15,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Si los usuarios de Marketo desean ver su fuente principal no solo en Salesforce, sino también en una fuente RSS, un administrador de Marketo debe habilitarla primero. Es muy fácil.
 
-1. En Mi Marketo, haga clic en **Administrador** y luego **Perspectiva de ventas**.
+1. En Mi Marketo, haga clic en **Administrador** y, a continuación, en **Perspectiva de ventas**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. En Configuración, haga clic en **Editar**. Tenga en cuenta que la fuente RSS se muestra como **Desactivado**.
+1. En Configuración, haga clic en **Editar**. Tenga en cuenta que la fuente RSS se muestra como **Deshabilitado**.
 
    ![](assets/rss-settings-tab.png)
 
-1. En el cuadro de diálogo Editar configuración, marque la **Fuente RSS** y haga clic en **Guardar**.
+1. En el cuadro de diálogo Editar configuración, marque la casilla **Fuente RSS** y haga clic en **Guardar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   Ahora, la fuente RSS se muestra como **Habilitado**.
+   La fuente RSS ahora se muestra como **Habilitado**.
 
    ![](assets/rss-final-box.png)
 

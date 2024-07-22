@@ -2,7 +2,8 @@
 description: 'Uso de opciones de SMS en una campaña inteligente: documentos de Marketo, documentación del producto'
 title: Uso de las opciones de SMS en una campaña inteligente
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,15 +12,15 @@ ht-degree: 2%
 
 # Uso de las opciones de SMS en una campaña inteligente {#using-sms-options-in-a-smart-campaign}
 
-Después de usted [creación de un mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, querrá usar déclencheur y filtros de listas inteligentes dentro de una campaña inteligente para obtener las ventajas.
+Después de [crear un mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, querrás usar déclencheur de listas inteligentes y filtros dentro de una campaña inteligente para obtener los beneficios.
 
 >[!NOTE]
 >
->Si desea enviar un mensaje SMS, tenemos un [artículo específico](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} por eso.
+>Si deseas enviar un mensaje SMS, tenemos un [artículo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} específico para ese caso.
 
 >[!PREREQUISITES]
 >
->Los déclencheur/filtros SMS solo aparecen si la variable [Se ha habilitado el servicio Vibes](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>Los déclencheur/filtros SMS solo aparecen si el servicio [Vibes se ha habilitado](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## DÉCLENCHEUR de SMS {#sms-triggers}
 
@@ -32,11 +33,11 @@ Después de usted [creación de un mensaje SMS](/help/marketo/product-docs/mobil
 
 A continuación se muestran algunos ejemplos:
 
-El **Devoluciones de mensajes SMS** El déclencheur inicia un flujo, como el envío de un correo electrónico, cuando se devuelve un mensaje SMS.
+El déclencheur **Devoluciones de mensajes SMS** inicia un flujo, como enviar un correo electrónico, cuando se devuelve un mensaje SMS.
 
-El **Suscribe a la lista de vídeos** El déclencheur inicia un flujo cuando una persona se suscribe.
+El déclencheur **Suscribirse a la lista de vibraciones** inicia un flujo cuando una persona se suscribe.
 
-El **Vínculo de clics en el mensaje SMS** El déclencheur inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
+El déclencheur **Clicks Link in SMS Message** inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
 
 ## Filtros SMS {#sms-filters}
 
@@ -47,13 +48,13 @@ El **Vínculo de clics en el mensaje SMS** El déclencheur inicia un flujo cuand
   </tr>
 </table>
 
-El **Suscrito a la lista de vídeos** El filtro encuentra a cualquiera que tenga *siempre* suscrito a Vibes. Esto incluye tanto a las personas sin suscribir como a las eliminadas, aunque estas se omitan del flujo. Este filtro es el más adecuado para los informes.
+El filtro **Suscrito a la lista de vibraciones** encuentra a cualquiera que se haya suscrito a vibraciones *alguna vez*. Esto incluye tanto a las personas sin suscribir como a las eliminadas, aunque estas se omitan del flujo. Este filtro es el más adecuado para los informes.
 
-Por el contrario, la variable **Miembro de la lista de vibraciones** el filtro encuentra _cualquiera_ está suscrito actualmente a Vibes y es más adecuado para usarlo en campañas inteligentes o listas.
+Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a _cualquiera_ suscrito actualmente a vibraciones y es el más adecuado para usarlo en campañas o listas inteligentes.
 
 >[!NOTE]
 >
->Todos los filtros de SMS incluyen **Fecha de la actividad** restricción de forma predeterminada.
+>Todos los filtros de SMS incluyen la restricción **Fecha de actividad** de forma predeterminada.
 
 ## Pasos de flujo de SMS {#sms-flow-steps}
 
@@ -81,10 +82,10 @@ Hay tres pasos de flujo de SMS para elegir.
 
 >[!NOTE]
 >
->El **Suscribirse a la lista de vibraciones** y **Cancelar suscripción a la lista de vibraciones** Los flujos de tienen diferentes requisitos. Para **Suscribirse**, debe seleccionar la lista Vibes y la campaña de adquisición Vibes. Para **Cancelar suscripción**, solo se requiere la lista Vibes.
+>Los flujos **Suscribirse a la lista de vibraciones** y **Cancelar la suscripción a la lista de vibraciones** tienen requisitos diferentes. Para **Suscribirse**, debe seleccionar la lista Vibes y la campaña de adquisición Vibes. Para **Cancelar la suscripción**, solo se requiere la lista de vibraciones.
 
 >[!MORELIKETHIS]
 >
 >* [Enviar un mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Definición de listas inteligentes para campañas inteligentes | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Definición de listas inteligentes para campañas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [Definir lista inteligente para campaña inteligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definir lista inteligente para campaña inteligente | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

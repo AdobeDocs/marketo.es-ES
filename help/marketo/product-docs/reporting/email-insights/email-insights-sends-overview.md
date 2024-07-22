@@ -17,7 +17,7 @@ En la página Envíos, examine las características de las comunicaciones por co
 
 ![](assets/one.png)
 
-Uso [filtrado](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar qué correos electrónicos desea ver.
+Use [filtrado](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar qué correos electrónicos desea ver.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ A la derecha de la página hay varios datos sobre los correos electrónicos envi
 
 ![](assets/two-1.png)
 
-**Tipo** indica el tipo de recurso utilizado.
-**Destinatario** El número es la cantidad de personas a las que se envió el correo electrónico.
-**Métricas de envío** le ofrece una visión rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.\
-**Métricas de participación** le ofrece una vista rápida de cuántos destinatarios han abierto, hecho clic en y cancelado la suscripción de un correo electrónico.
-**Puntuación** es el del correo electrónico [Puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Tipo** indica el tipo de recurso usado.
+El número **Destinatario** es la cantidad de personas a las que se envió el correo electrónico.
+**Métricas de envío** le ofrece una vista rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.\
+**Métricas de participación** le ofrece una vista rápida de cuántos destinatarios han abierto, hecho clic en un mensaje de correo electrónico y cancelado su suscripción.
+**Puntuación** es la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de tu correo electrónico.
 
 De forma predeterminada, los correos electrónicos se ordenan por los más recientes, pero puede ordenarlos por cualquier métrica disponible.
 
@@ -47,4 +47,4 @@ Si desea ver las estadísticas del correo electrónico en Analytics, pase el rat
 
 >[!MORELIKETHIS]
 >
->[Resumen de Analytics de Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[Información general sobre Email Insights Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

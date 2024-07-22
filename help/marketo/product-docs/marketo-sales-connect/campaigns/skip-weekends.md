@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al automatizar una campaña, probablemente no quiera que sus correos electrónicos se publiquen un sábado o un domingo. Si no es así, tiene la posibilidad de omitir los fines de semana.
 
-1. En Sales Connect, haga clic en **Campañas** pestaña.
+1. En Sales Connect, haga clic en la ficha **Campañas**.
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ Al automatizar una campaña, probablemente no quiera que sus correos electrónic
 
    ![](assets/two-2.png)
 
-1. Clic **Configuración**.
+1. Haga clic en **Configuración**.
 
    ![](assets/three-2.png)
 
-1. Seleccione el **Omitir fines de semana** casilla de verificación
+1. Seleccione la casilla de verificación **Omitir fines de semana**.
 
    ![](assets/four-2.png)
 

@@ -6,7 +6,7 @@ exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
 source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Las configuraciones son aplicables a todos los usuarios de MSI y no son específ
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-**Pestaña Global de Marketo**
+**Ficha global de Marketo**
 
 * Fuente RSS habilitada: cuando está habilitada, los usuarios de MSI pueden ver su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes en Salesforce). La fuente RSS solo puede funcionar si la función &quot;Caducidad del token&quot; está desactivada. Esta configuración se controla en la página de administración de Sales Insight de Marketo.
 * Mejor modo de depuración
@@ -81,4 +81,4 @@ Si elige hacerlo, se borrarán todas las configuraciones en SFDC y no se podrán
 
 >[!MORELIKETHIS]
 >
->[Añadir el acceso de Sales Insight a los perfiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Agregar acceso a información de ventas a perfiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -16,7 +16,7 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 
 Utilizamos dos métodos independientes para confirmar la actividad de bots:
 
-* Coincidir con [Lista de bots de Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Las actividades que coincidan con cualquier elemento en la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
+* Coincidencia con [lista de bots interactiva de Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Las actividades que coincidan con cualquier elemento de la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
 * Hacer coincidir con patrón de proximidad: Cuando se producen dos o más actividades al mismo tiempo (en menos de un segundo), se identifican como bots. Los atributos considerados durante la comparación son:
    * ID de posible cliente (debe ser el mismo)
    * Recurso de correo electrónico (debe ser el mismo)
@@ -31,35 +31,35 @@ Frente a la actividad de clic en vínculo de correo electrónico y de apertura d
 
 ## Seleccionar tipo de filtro {#select-filter-type}
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Haga clic en **[!UICONTROL Actividad de bots]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Actividad de bots]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Hay dos controles deslizantes para elegir. Puede habilitar solo una o ambas. Si activa **[!UICONTROL Coincidencia con la lista IAB]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots].
+1. Hay dos controles deslizantes para elegir. Puede habilitar solo una o ambas. Si habilita **[!UICONTROL Coincidencia con la lista de IAB]**, elija si desea [!UICONTROL registrar la actividad de bots] _o_ [!UICONTROL filtrar la actividad de bots].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Si activa **[!UICONTROL Coincidencia con el patrón de proximidad]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots]. También puede establecer la cantidad de segundos para **Duración entre actividades** (el valor predeterminado es 0, el máximo es 3).
+1. Si habilita **[!UICONTROL Coincidir con el patrón de proximidad]**, elija si desea [!UICONTROL registrar la actividad del bot] _o_ [!UICONTROL filtrar la actividad del bot]. También puede establecer la cantidad de segundos para **Duración entre actividades** (el valor predeterminado es 0, el máximo es 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Con **Duración entre actividades** Si se establece en 0 segundos, identificaremos las actividades de correo electrónico que se produzcan al mismo segundo. Si se producen varias actividades de correo electrónico en la cantidad designada de segundos, se identificarán como actividades de bots.
+>Con la **duración entre actividades** establecida en 0 segundos, identificaremos las actividades de correo electrónico que se produzcan en el mismo segundo. Si se producen varias actividades de correo electrónico en la cantidad designada de segundos, se identificarán como actividades de bots.
 
 >[!IMPORTANT]
 >
->* Si elige [!UICONTROL Filtrar actividad de bots]Sin embargo, puede ver una caída en las aperturas del correo electrónico y los clics a medida que se eliminan las actividades falsas.
+>* Si eliges [!UICONTROL Filtrar actividad de bots], es posible que veas una caída en las aperturas de correos electrónicos y en los clics a medida que se eliminan las actividades falsas.
 
-**PASO OPCIONAL**: para desactivar cualquiera de las funciones, simplemente anule la selección del deslizador correspondiente. Si lo hace, los datos no se restablecen.
+**PASO OPCIONAL**: Para deshabilitar cualquiera de las características, simplemente anule la selección del control deslizante correspondiente. Si lo hace, los datos no se restablecen.
 
 >[!TIP]
 >

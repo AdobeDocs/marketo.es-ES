@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Administradores adicionales {#additional-admins}
 
-Para cambiar o quitar un miembro del equipo, vaya a la página Configuración y haga clic en **Administración de equipo** en el panel de navegación izquierdo.
+Para cambiar o quitar un miembro del equipo, ve a la página Configuración y haz clic en **Administración de equipo** en el panel de navegación izquierdo.
 Como administrador de una cuenta, aquí es donde puede administrar quién está en el equipo.

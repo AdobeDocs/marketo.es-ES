@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si tiene un formulario que no necesita y no se está utilizando, puede eliminarlo. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -41,4 +41,4 @@ Si tiene un formulario que no necesita y no se está utilizando, puede eliminarl
 
 >[!CAUTION]
 >
->Si elimina un formulario que se está utilizando en un sitio web público, no verá una advertencia y el formulario se romperá. Considerar  [archivándolo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) en su lugar.
+>Si elimina un formulario que se está utilizando en un sitio web público, no verá una advertencia y el formulario se romperá. Considere [archivarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) en su lugar.

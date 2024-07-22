@@ -49,11 +49,11 @@ No, estos datos ya se almacenaron en el registro de persona en Marketo y no se v
 
 ## ¿Dónde puedo encontrar más información sobre la política de API de LinkedIn? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Siga este vínculo para obtener más información sobre los cambios realizados por LinkedIn en su política de API: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Siga este vínculo para obtener más información acerca de los cambios realizados por LinkedIn en su directiva de API: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## ¿Cómo puedo ponerme en contacto con LinkedIn si tengo alguna pregunta? {#how-can-i-contact-linkedin-with-questions}
 
-Siga este vínculo para ponerse en contacto con LinkedIn en relación con sus soluciones de marketing: [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
+Siga este vínculo para ponerse en contacto con LinkedIn acerca de sus soluciones de marketing: [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## Si Marketo quitó esta funcionalidad de mis formularios el 28 de abril, ¿mis formularios y las páginas de aterrizaje afectadas se pusieron en modo de borrador? {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

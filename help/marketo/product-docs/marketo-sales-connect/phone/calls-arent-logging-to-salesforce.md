@@ -6,7 +6,7 @@ exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Si desea que sus llamadas desde el teléfono de ventas se registren automáticamente en Salesforce, asegúrese de que lo siguiente esté configurado.
 
-Necesitará su cuenta de Sales Connect para conectarse a su [Cuenta de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) a través de la conexión API.
+Necesitarás que tu cuenta de Sales Connect esté conectada a tu [cuenta de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) a través de la conexión de API.
 
-Si llama desde el [aplicación web](https://toutapp.com/login), necesitará un ID de Salesforce guardado en ese contacto. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) para ver cómo puede asegurarse de que todos sus contactos de Sales Connect tengan un ID de Salesforce asociado a ellos.
+Si llama desde la [aplicación web](https://toutapp.com/login), necesitará guardar un ID de Salesforce en ese contacto. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) para ver cómo puede asegurarse de que todos sus contactos de Sales Connect tengan un ID de Salesforce asociado a ellos.
 
 >[!NOTE]
 >

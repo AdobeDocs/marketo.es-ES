@@ -27,7 +27,7 @@ Muestra las actividades de marketing de su equipo con el nuevo modo de presentac
 
 ## Integración de Google AdWords {#google-adwords-integration}
 
-Vincule su [Cuenta de Google AdWords en Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics resultaron en posibles clientes cualificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear).
+Vincula tu cuenta de [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics resultaron en posibles clientes cualificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -39,18 +39,18 @@ El Explorador de ingresos tiene un aspecto completamente nuevo, así como el nue
 
 [Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-Ahora se admite la creación y edición de correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [mediante la API](https://developer.adobe.com/marketo-apis/api/asset/)!
+Ahora tenemos compatibilidad para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [a través de la API](https://developer.adobe.com/marketo-apis/api/asset/).
 
 ## Microsoft Dynamics 2015 local {#microsoft-dynamics-on-premise}
 
-Ahora compatible con el último instalador [accesible a través de la aplicación](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Ahora se admite con el instalador más reciente [accesible a través de la aplicación](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP: participación web personalizada con datos de posibles clientes {#rtp-personalized-web-engagement-with-lead-data}
 
-Aproveche el [campos de datos de posibles clientes](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) ya está en la base de datos de posibles clientes de Marketo para crear campañas de segmentación en tiempo real y contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
+Aproveche los [campos de datos de posibles clientes](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que tiene en la base de datos de posibles clientes de Marketo para crear campañas de segmentación en tiempo real y contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
 
 ## RTP: Personalización del contenido web por correo electrónico o nombre de campaña del programa {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continúe la conversación con el posible cliente en todos los canales, desde el correo electrónico a la web. [Personalizar contenido entrante en función de la campaña de correo electrónico o el programa](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Nombre utilizado en las actividades de marketing de Marketo.
+Continúe la conversación con el posible cliente en todos los canales, desde el correo electrónico a la web. [Personalice el contenido entrante en función del nombre del programa o la campaña de correo electrónico](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) que se use en las actividades de marketing de Marketo.

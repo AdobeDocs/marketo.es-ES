@@ -17,15 +17,15 @@ El contenido de la emisión está desactivado de forma predeterminada. Active el
 
 ## Activar contenido de flujo {#activate-stream-content}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa de participación y haga clic en **Flujos** pestaña.
+1. Seleccione el programa de participación y haga clic en la ficha **Transmisiones**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Pase el ratón sobre el contenido que quiere activar, haga clic en el icono con forma de engranaje y, a continuación, haga clic en **Activar**.
+1. Pase el ratón sobre el contenido que quiera activar, haga clic en el icono con forma de engranaje y luego haga clic en **Activar**.
 
    >[!NOTE]
    >
@@ -35,16 +35,16 @@ El contenido de la emisión está desactivado de forma predeterminada. Active el
 
    >[!TIP]
    >
-   >También puede activar todo el contenido de un flujo haciendo clic en el icono de engranaje en el nivel superior y luego haciendo clic en **Activar todo el contenido**.
+   >También puedes activar todo el contenido de un flujo si haces clic en el icono de engranaje en el nivel superior y luego haces clic en **Activar todo el contenido**.
 
    ¡Buen trabajo! Ahora ya sabe cómo activar contenido en sus flujos.
 
 ## Desactivar contenido de la emisión {#deactivate-stream-content}
 
-1. Seleccione el programa de participación y haga clic en **Flujos** pestaña.
+1. Seleccione el programa de participación y haga clic en la ficha **Transmisiones**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Pase el ratón sobre el contenido que quiera desactivar, haga clic en el icono con forma de engranaje y, a continuación, haga clic en **Desactivar**.
+1. Pase el ratón sobre el contenido que quiera desactivar, haga clic en el icono con forma de engranaje y luego haga clic en **Desactivar**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

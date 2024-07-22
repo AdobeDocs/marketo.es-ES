@@ -25,7 +25,7 @@ Para filtrar por lista de cuentas, haga clic en la lista desplegable Ver...
 
 ![](assets/three.png)
 
-Para ver la [Tablero de lista de cuentas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), haga clic en el nombre de la lista de cuentas seleccionada...
+Para ver el [Panel de lista de cuentas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), haga clic en el nombre de la lista de cuentas que seleccionó...
 
 ![](assets/four.png)
 
@@ -33,10 +33,10 @@ Para ver la [Tablero de lista de cuentas](/help/marketo/product-docs/target-acco
 
 ![](assets/five.png)
 
-Si, en lugar de ver el Panel de lista de cuentas, desea explorar en profundidad una cuenta con nombre, haga clic en **Más detalles** bajo su nombre...
+Si en lugar de ver el panel Lista de cuentas desea explorar en profundidad una cuenta con nombre, haga clic en **Más detalles** bajo su nombre...
 
 ![](assets/six.png)
 
-...y vea el [perspectivas de la cuenta con nombre](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...y vea las [perspectivas de la cuenta con nombre](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

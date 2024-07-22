@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilice el tablero para obtener una vista de alto nivel de cómo los rangos de palabras clave son tendencias y cómo su sitio está optimizado para la SEO.
 
-También puede averiguar cómo mejorar utilizando la variable [!UICONTROL Recommendations] sección. ¡Vamos a sumergirnos!
+También puede averiguar cómo mejorar con la sección [!UICONTROL Recommendations]. ¡Vamos a sumergirnos!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL Problemas principales de optimización de la página] {#top-page-optimization-issues}
 
-Esto le mostrará cinco formas de alto impacto para empezar a optimizar su sitio de inmediato! Simplemente haga clic en cualquiera de los enlaces para ver el [Profundizar en detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Esto le mostrará cinco formas de alto impacto para empezar a optimizar su sitio de inmediato! Simplemente haz clic en cualquiera de los enlaces para ver la [Profundización en detalle de la página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -35,10 +35,10 @@ Tener sitios de buena reputación que enlacen su contenido puede aumentar la cla
 
 >[!TIP]
 >
->Puede hacer clic en [!UICONTROL Optimización de vínculos principales] para ver una lista completa.
+>Puedes hacer clic en [!UICONTROL Optimización de vínculos principales] para ver una lista completa.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
 >[!MORELIKETHIS]
 >
->[Profundizar en detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[Detalle de página detallado](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

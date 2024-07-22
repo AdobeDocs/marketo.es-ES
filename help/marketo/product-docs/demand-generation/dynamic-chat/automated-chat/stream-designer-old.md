@@ -1,5 +1,5 @@
 ---
-description: Diseñador de transmisiones - Documentos de Marketo - Documentación del producto
+description: Stream Designer - Documentos de Marketo - Documentación del producto
 title: Diseñador de flujo
 hide: true
 hidefromtoc: true
@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Diseñador de flujo {#stream-designer}
 
-No hay _muchos_ combinaciones de flujo posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratis. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
+Hay _muchas_ combinaciones de secuencias posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratis. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
 
 >[!PREREQUISITES]
 >
->Para poder usar la tarjeta de documento, primero debe [configúrelo.](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} en su cuenta de Adobe.
+>Para poder usar la tarjeta de documento, primero debe [configurarla](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} en su cuenta de Adobe.
 
-## Tarjetas de diseñador de Stream {#stream-designer-cards}
+## Transmitir tarjetas de Designer {#stream-designer-cards}
 
-El diseñador de secuencias contiene varias tarjetas que puede agregar para dar forma a la conversación de chat.
+La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a la conversación de chat.
 
 <table>
  <tr>
@@ -43,7 +43,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  </tr>
  <tr>
   <td style="width:25%"><strong>Convocatoria de reunión</strong></td>
-  <td>Proporciona al visitante un calendario de fechas disponibles para programar una reunión. Elija la disponibilidad del calendario mediante round robin, un agente específico o mediante reglas personalizadas. Clic <b>Añadir atributo</b> si desea capturar el nombre o la dirección de correo electrónico del agente y asignarlo al registro de persona del visitante del chat para futuras consultas (sugerencia: cree un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para asignar la información del agente a para no sobrescribir un campo de Marketo Engage estándar).</td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar una reunión. Elija la disponibilidad del calendario mediante round robin, un agente específico o mediante reglas personalizadas. Haga clic en <b>Agregar atributo</b> si desea capturar el nombre o la dirección de correo electrónico del agente y asignarlo al registro de persona del visitante del chat para futuras consultas (sugerencia: cree un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para asignar la información del agente a para no sobrescribir un campo de Marketo Engage estándar).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Objetivo</strong></td>
@@ -51,7 +51,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  </tr>
  <tr>
   <td style="width:25%"><strong>Acción*</strong></td>
-  <td>Al igual que los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de posible cliente o compañía (que tenga un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de datos de cadena</a>) con valores implícitos que desea capturar con un registro de posibles clientes. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.
+  <td>De manera similar a los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de cliente potencial o compañía (que tenga un tipo de datos de <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">cadena</a>) con valores implícitos que desee capturar con un registro de cliente potencial. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.
   <p><i>* La tarjeta Acción requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
  </tr>
  <tr>
@@ -62,9 +62,9 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  </tr>
 </table>
 
-## Iconos del diseñador de secuencias {#stream-designer-icons}
+## Iconos de Stream Designer {#stream-designer-icons}
 
-En la parte superior derecha del Diseñador de secuencias, verá un puñado de iconos. Esto es lo que hacen.
+En la parte superior derecha de Stream Designer, verás un puñado de íconos. Esto es lo que hacen.
 
 <table>
  <tr>
@@ -91,17 +91,17 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 
 ## Crear una secuencia {#create-a-stream}
 
-Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
+Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
 
-1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, haga clic en **[!UICONTROL Diseñador de secuencias]** pestaña.
+1. Después de [crear tu Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, haz clic en la ficha **[!UICONTROL Transmitir Designer]**.
 
    ![](assets/stream-designer-6.png)
 
-1. Arrastre y suelte el [!UICONTROL Pregunta] Tarjeta de.
+1. Arrastre y suelte la tarjeta [!UICONTROL Question].
 
    ![](assets/stream-designer-7.png)
 
-1. En [!UICONTROL Respuesta del bot de chat], diga su pregunta como le gustaría.
+1. En [!UICONTROL Respuesta de bots de chat], escriba la pregunta como desee.
 
    ![](assets/stream-designer-8.png)
 
@@ -113,13 +113,13 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
    >
    >Poke está configurado como on de forma predeterminada, lo que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo. El Poke solo está disponible en la primera carta de la conversación.
 
-1. Introduzca sus respuestas de usuario y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba sus respuestas de usuario y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Editar valores almacenados]** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta de pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, se almacena ese valor como &quot;SEO&quot;).
+   >**[!UICONTROL Editar valores almacenados]** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta Pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, usted almacena ese valor como &quot;SEO&quot;).
 
 1. Para &quot;Sí&quot; queremos programar una cita, así que debajo de esa opción arrastre sobre la tarjeta Programador de citas.
 
@@ -129,7 +129,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-11.png)
 
-1. Como es un objetivo, arrastre el [!UICONTROL Meta] debajo del Programador de citas.
+1. Como ese es un objetivo, arrastra la tarjeta [!UICONTROL Goal] debajo del Programador de citas.
 
    ![](assets/stream-designer-12.png)
 
@@ -137,7 +137,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-13.png)
 
-1. Para &quot;No&quot; queremos ver si se unen a la lista de correo, así que debajo de esa opción arrastre sobre otra [!UICONTROL Pregunta] Tarjeta de.
+1. Para &quot;No&quot; queremos ver si se unen a la lista de correo, así que debajo de esa opción, arrastra otra tarjeta de [!UICONTROL Pregunta].
 
    ![](assets/stream-designer-14.png)
 
@@ -153,7 +153,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-16.png)
 
-1. Haga clic en **[!UICONTROL Tipo]** y seleccione. **[!UICONTROL Correo electrónico]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Tipo]** y seleccione **[!UICONTROL Correo electrónico]**.
 
    ![](assets/stream-designer-17.png)
 
@@ -180,7 +180,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
     </tr>
    </table>
 
-1. Dado que recopilar su correo electrónico es un objetivo, arrastre el [!UICONTROL Meta] Tarjeta debajo de Captura de información.
+1. Como recopilar su correo electrónico es una meta, arrastre la tarjeta [!UICONTROL Goal] debajo de la captura de información.
 
    ![](assets/stream-designer-19.png)
 
@@ -192,11 +192,11 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-21.png)
 
-1. En este ejemplo crearemos un nuevo documento. Asigne un nombre, introduzca la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
+1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha hospedado y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Seleccione el **[!UICONTROL Previsualizar]** para previsualizar el cuadro de diálogo.
+1. Seleccione la opción **[!UICONTROL Vista previa]** para obtener una vista previa del cuadro de diálogo.
 
    ![](assets/stream-designer-23.png)
 
@@ -206,7 +206,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
 >[!NOTE]
 >
->Antes de hacer clic [!UICONTROL Publish], recuerde asegurarse de que ha [ha introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic en [!UICONTROL Publish], recuerde que debe [ingresar sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

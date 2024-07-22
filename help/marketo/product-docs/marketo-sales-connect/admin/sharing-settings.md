@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En el [aplicación web](https://toutapp.com/login), vaya a la página Configuración.
+1. En la [aplicación web](https://toutapp.com/login), vaya a la página Configuración.
 
    ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
 
    ![](assets/two-2.png)
 
-1. Asegúrese de **Configuración de uso compartido** están activadas. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
+1. Asegúrese de que **Configuración de uso compartido** esté habilitada. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
 
    ![](assets/four-2.png)
 
-1. Clic **Agregar equipos para obtener acceso**.
+1. Haga clic en **Agregar equipos para obtener acceso**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
    >
    >Si no ve ningún equipo, tendrá que ir a Administración de equipos y crear un equipo de usuarios.
 
-1. Clic **Agregar equipos para obtener acceso** para guardar.
+1. Haga clic en **Agregar equipos para obtener acceso** para guardar.
 
    ![](assets/seven-1.png)
 

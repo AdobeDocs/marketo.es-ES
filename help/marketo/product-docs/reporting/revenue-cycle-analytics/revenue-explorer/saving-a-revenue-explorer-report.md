@@ -23,14 +23,14 @@ Los informes del Explorador de ingresos se pueden guardar en el archivo que elij
    >
    >Los cambios que realice en el informe no se guardan automáticamente. Así que asegúrese de ahorrar a menudo!
 
-1. Asigne un nombre descriptivo al informe, seleccione una ubicación y haga clic en **Guardar**!
+1. Asigne un nombre descriptivo al informe, seleccione una ubicación y haga clic en **Guardar**.
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   ¡Eso es todo! Ahora puede acceder a su archivo en **Examinar archivos**.
+   ¡Eso es todo! Ahora puede obtener acceso a su archivo en **Examinar archivos**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Suscribirse a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

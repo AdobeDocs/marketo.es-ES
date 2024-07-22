@@ -1,16 +1,16 @@
 ---
 description: Reglas de validación de formularios globales - Documentos de Marketo - Documentación del producto
-title: Reglas de validación de formularios globales
+title: Reglas de formulario de validación global
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Reglas de validación de formularios globales {#global-form-validation-rules}
+# Reglas de formulario de validación global {#global-form-validation-rules}
 
 Esta función le permite bloquear dominios específicos para que no se envíen a formularios de Marketo Engage.
 
@@ -22,11 +22,11 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Haga clic en **[!UICONTROL Funciones]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Roles]**.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -34,7 +34,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Haga clic en **+** junto a Administración de acceso.
+1. Haga clic en el signo **+** junto a Administración de acceso.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -52,11 +52,11 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Clic **[!UICONTROL Regla de validación de formulario global]**.
+1. Haga clic en **[!UICONTROL Regla de validación de formulario global]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Clic **[!UICONTROL Nueva regla de validación de formulario]**.
+1. Haga clic en **[!UICONTROL Nueva regla de validación de formulario]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
@@ -64,24 +64,24 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
    >
    >La lista desplegable Acciones de regla de validación de formulario permite eliminar o editar las reglas existentes.
 
-1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Introduzca los dominios que desea bloquear en el cuadro de reglas y seleccione **[!UICONTROL Activar regla]** y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Escriba los dominios que quiera bloquear en el cuadro de reglas, seleccione **[!UICONTROL Activar regla]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->El Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Vea esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>El Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Ver esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## Cómo deshabilitar el acceso por formulario{#how-to-disable-access-per-form}
 
-Una vez activadas, las reglas se aplican a todos los formularios. Sin embargo, si tiene un formulario con requisitos específicos y no desea que se rechace nada, puede deshabilitar [!UICONTROL Reglas de validación de formularios globales] en la configuración del formulario.
+Una vez activadas, las reglas se aplican a todos los formularios. Sin embargo, si tiene un formulario con requisitos específicos y no desea que se rechace nada, puede deshabilitar [!UICONTROL Reglas globales de validación de formularios] en la configuración del formulario.
 
-1. En el formulario que desee, haga clic en **[!UICONTROL Configuración de formulario]**, entonces **[!UICONTROL Configuración]**.
+1. En el formulario que desee, haga clic en **[!UICONTROL Configuración del formulario]** y luego en **[!UICONTROL Configuración]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Haga clic en **[!UICONTROL Reglas de validación de formularios globales]** y elija. **[!UICONTROL Desactivado]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Reglas de validación de formulario global]** y elija **[!UICONTROL Deshabilitado]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Cuando apruebe y publique el formulario, ignorará su [!UICONTROL Reglas de validación de formularios globales].
+Cuando apruebe y publique el formulario, se omitirán las [!UICONTROL reglas globales de validación de formularios].

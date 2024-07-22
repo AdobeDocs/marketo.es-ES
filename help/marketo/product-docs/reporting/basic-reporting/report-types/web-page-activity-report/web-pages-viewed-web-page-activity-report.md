@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Páginas Web Vistas, Informe De Actividad De Páginas Web {#web-pages-viewed-web-page-activity-report}
 
-Desde una [Informe Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puede ver las páginas específicas que vieron las personas en el informe.
+Desde un [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puede ver las páginas específicas que vieron las personas en el informe.
 
 >[!PREREQUISITES]
 >
->Para capturar la actividad del sitio web en Marketo, primero debe hacer lo siguiente  [Configure Munchkin en su sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar actividad de tu sitio web en Marketo, primero debes [configurar Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. En su [Informe Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), haga clic en el número de la columna Vistas de página.
+1. En su [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), haga clic en el número de la columna Vistas de páginas.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ Desde una [Informe Actividad de la página web](/help/marketo/product-docs/repor
 
    >[!MORELIKETHIS]
    >
-   >Crear un  [Informe Actividad web de la empresa](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) para ver qué empresas están visitando el sitio.
+   >Cree un [informe de actividad web de la empresa](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) para ver qué empresas visitan el sitio.

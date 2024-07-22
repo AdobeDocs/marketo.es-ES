@@ -61,7 +61,7 @@ Las cuentas con nombre contienen a las personas de las empresas a las que está 
   </tr> 
   <tr> 
    <td><strong>Código SIC</strong></td> 
-   <td><span><strong>S</strong>standard <strong>I</strong>industrial <strong>C</strong>clasificación: código de cuatro dígitos para clasificar industrias<br></span></td> 
+   <td><span>Clasificación <strong>S</strong>estándar <strong>I</strong>industrial <strong>C</strong>código de cuatro dígitos para clasificar industrias<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ingresos</strong></td> 
@@ -72,7 +72,7 @@ Las cuentas con nombre contienen a las personas de las empresas a las que está 
    <td>Número de empleados atribuidos a una cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Puntuación de cuenta</strong></td> 
+   <td colspan="1"><strong>Calificación de la cuenta</strong></td> 
    <td colspan="1">Acumulado de puntuaciones de posibles clientes de varios posibles clientes para proporcionar puntuación a nivel de cuenta</td> 
   </tr> 
   <tr> 

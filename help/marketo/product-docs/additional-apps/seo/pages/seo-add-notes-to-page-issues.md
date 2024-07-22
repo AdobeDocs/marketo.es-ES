@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## Agregar notas en la sección Problemas de página {#adding-notes-in-page-issues-section}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. En la pestaña de páginas, haga clic en **[!UICONTROL Problemas]**.
+1. En la ficha Páginas, haga clic en **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Pase el ratón sobre el problema al que quiera agregar una nota. Clic **[!UICONTROL Agregar nota adhesiva]**.
+1. Pase el ratón sobre el problema al que quiera agregar una nota. Haga clic en **[!UICONTROL Agregar nota adhesiva]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Puede eliminar la nota haciendo clic en el icono pequeño **x** en la esquina superior izquierda.
+>Para eliminar la nota, haga clic en el pequeño **x** en la esquina superior izquierda.
 
 ## Agregar notas en detalle de página Profundizar {#add-notes-in-page-detail-drill-down}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Pase el ratón sobre el problema de página al que desee agregar una nota y haga clic en **[!UICONTROL Añadir nota]**.
+1. Pase el ratón sobre el problema de página al que quiera agregar una nota y haga clic en **[!UICONTROL Agregar nota]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Introduzca su nota. Clic **[!UICONTROL Guardar]**.
+1. Introduzca su nota. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

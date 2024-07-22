@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-Puede crear funciones personalizadas [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para sus programas y asigne valores a la etiqueta.
+Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para sus programas y asignar valores a la etiqueta.
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ Puede crear funciones personalizadas [etiquetas](/help/marketo/product-docs/core
 >
 >Valor de etiqueta de programa: SMB, empresa, mercado medio
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Clic **[!UICONTROL Etiquetas]**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Clic **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo tipo de etiqueta]**.
+1. Haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo tipo de etiqueta]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Introduzca el **[!UICONTROL Tipo de etiqueta]** y una etiqueta **[!UICONTROL Valor]**. Luego haga clic en **[!UICONTROL Añadir otro]**.
+1. Escriba **[!UICONTROL Tag Type]** y una etiqueta **[!UICONTROL Value]**. Luego haga clic en **[!UICONTROL Agregar otro]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ Puede crear funciones personalizadas [etiquetas](/help/marketo/product-docs/core
    >
    >Puede seleccionar varios tipos de programas. Cuando se crea un nuevo programa, este tipo de etiqueta está disponible.
 
-1. Marque **[!UICONTROL Requerido]** y haga clic en **[!UICONTROL Crear]**.
+1. Marque **[!UICONTROL Obligatorio]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Si el tipo de etiqueta es **[!UICONTROL Requerido]**, los usuarios deberán introducir un valor para la etiqueta al crear un nuevo programa.
+   >Si el tipo de etiqueta es **[!UICONTROL Obligatorio]**, los usuarios deberán especificar un valor para la etiqueta al crear un nuevo programa.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

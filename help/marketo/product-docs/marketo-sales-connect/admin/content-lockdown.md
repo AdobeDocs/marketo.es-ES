@@ -17,7 +17,7 @@ Al habilitar el bloqueo de contenido, impida que los usuarios que no sean admini
 
 >[!NOTE]
 >
->Usuarios **testamento** seguir pudiendo editar el contenido de un correo electrónico en el momento de enviarlo o al iniciar una campaña.
+>Los usuarios **seguirán** pudiendo editar el contenido de un correo electrónico en el momento de enviarlo o de iniciar una campaña.
 
 1. En Sales Connect, haga clic en el icono de configuración y seleccione **Configuración**.
 
@@ -27,6 +27,6 @@ Al habilitar el bloqueo de contenido, impida que los usuarios que no sean admini
 
    ![](assets/two-4.png)
 
-1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los controles deslizantes _disable_ la capacidad de los integrantes del equipo para crear o editar plantillas o campañas.
+1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los controles deslizantes _deshabilitará_ la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
 
    ![](assets/three-4.png)

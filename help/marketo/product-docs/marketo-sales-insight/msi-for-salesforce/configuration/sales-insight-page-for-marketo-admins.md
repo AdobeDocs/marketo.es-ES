@@ -29,12 +29,12 @@ Estas credenciales se utilizan para conectar su cuenta de Salesforce a la instan
 
 ## Configuración de puntuación de persona {#person-score-settings}
 
-* **Estrellas**: Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
-* **Llamas**: las llamas representan urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
+* **Estrellas**: Las estrellas representan la puntuación total del posible cliente en comparación con otros posibles clientes.
+* **Llamas**: Las llamas representan urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
 
 De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de posibles clientes para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
 
-1. En el **Administrador** de Marketo, haga clic en **Perspectiva de ventas**.
+1. En el área de **Administrador** de Marketo, haga clic en **Información de ventas**.
 
    ![](assets/four.png)
 
@@ -50,13 +50,13 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
    ![](assets/seven.png)
 
-1. Clic **Guardar**. La perspectiva de ventas tardará un tiempo en volver a calcularse. Puede comprobar su CRM más tarde para ver las estrellas y las llamas.
+1. Haga clic en **Guardar**. La perspectiva de ventas tardará un tiempo en volver a calcularse. Puede comprobar su CRM más tarde para ver las estrellas y las llamas.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Si aún no tiene los campos de puntuación personalizados, así es como hacerlo [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Si aún no tienes tus campos de puntuación personalizados, así es como [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -66,16 +66,16 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
 ![](assets/nine.png)
 
-**Configuración de la cancelación de suscripción:**
+**Configuración de cancelación de suscripción:**
 
 Puede elegir entre las siguientes configuraciones para cancelar la suscripción a Sin plantilla, Correos electrónicos estándar y Correos electrónicos operativos
 
 * Respetar configuración de cancelación de suscripción
 * Respetar la configuración de cancelación de suscripción cuando más de un destinatario
 * Respetar la configuración de cancelación de suscripción cuando más de 5 destinatarios
-* Ignorar configuración de cancelación de suscripción
+* Ignorar la configuración de la cancelación de suscripción
 
-**Habilitar la capacidad de bloquear plantillas:**
+**Habilitar la capacidad para bloquear plantillas:**
 
 Cuando se habilita, los usuarios de MSI no podrán editar las plantillas al enviar correos electrónicos desde Salesforce
 
@@ -83,9 +83,9 @@ Cuando se habilita, los usuarios de MSI no podrán editar las plantillas al envi
 
 Cuando se habilita, los usuarios de MSI pueden ver su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes de Salesforce). La fuente RSS solo puede funcionar si la función &quot;Caducidad del token&quot; está desactivada.
 
-**Vencimiento del token:**
+**Caducidad del token:**
 
-La caducidad del token se controla en el Administrador de funciones. Para habilitarlo o deshabilitarlo, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Cuando se habilita, todos los tokens de Marketo caducan en un plazo de 10 minutos. Cuando está desactivado, los tokens de Marketo no caducan.
+La caducidad del token se controla en el Administrador de funciones. Para habilitarlo o deshabilitarlo, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Cuando se habilita, todos los tokens de Marketo caducan en un plazo de 10 minutos. Cuando está desactivado, los tokens de Marketo no caducan.
 
 Los tokens generados antes de habilitar la caducidad del token no tendrán una hora de caducidad con la que validarse, por lo que no caducarán aunque la función esté habilitada actualmente.
 

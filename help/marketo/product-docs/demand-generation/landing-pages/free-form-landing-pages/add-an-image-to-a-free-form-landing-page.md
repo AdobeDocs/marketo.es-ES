@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >[Agregar imágenes y archivos a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Seleccione la página de aterrizaje de forma libre y haga clic en **Editar** **Borrador**.
+1. Seleccione su página de aterrizaje de forma libre y haga clic en **Editar** **Borrador**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. En el editor, arrastre el cursor sobre el **Imagen** Elemento.
+1. En el editor, arrastre sobre el elemento **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Clic **Insertar**.
+1. Haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   ¡bueno trabajo! Acaba de agregar una imagen a su página de aterrizaje de forma libre.
+   ¡Buen trabajo! Acaba de agregar una imagen a su página de aterrizaje de forma libre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

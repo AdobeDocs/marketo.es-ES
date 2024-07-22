@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 40%
+ht-degree: 43%
 
 ---
 
@@ -29,12 +29,12 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
   </thead>
   <tbody>
     <tr>
-      <td>Birthdate</td>
+      <td>Fecha de nacimiento</td>
       <td>Fecha de nacimiento</td>
     </tr>
     <tr>
       <td>Fecha de creación</td>
-      <td>Fecha de creación en SFDC</td>
+      <td>Fecha de creación de SFDC</td>
     </tr>
     <tr>
       <td>Descripción de contacto</td>
@@ -42,7 +42,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
     </tr>
     <tr>
       <td>Correo electrónico</td>
-      <td>Dirección de email</td>
+      <td>Correo electrónico</td>
     </tr>
     <tr>
       <td>Fax del trabajo</td>
@@ -57,20 +57,20 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
       <td>Suscripción cancelada</td>
     </tr>
     <tr>
-      <td>Eliminado</td>
-      <td>SFDC eliminado</td>
+      <td>eliminado</td>
+      <td>SFDC está eliminado</td>
     </tr>
     <tr>
       <td>Apellido</td>
       <td>Apellido</td>
     </tr>
     <tr>
-      <td>Origen del cliente potencial</td>
+      <td>Origen del lead</td>
       <td>Origen</td>
     </tr>
     <tr>
-      <td>Puntaje del cliente potencial</td>
-      <td>Puntuación</td>
+      <td>Puntaje del lead</td>
+      <td>Puntaje</td>
     </tr>
     <tr>
       <td>MailingCity</td>
@@ -158,12 +158,12 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
       <td>Industria</td>
     </tr>
     <tr>
-      <td>Eliminado</td>
-      <td>SFDC eliminado</td>
+      <td>eliminado</td>
+      <td>SFDC está eliminado</td>
     </tr>
     <tr>
       <td>Nombre de la cuenta</td>
-      <td>Nombre de la compañía</td>
+      <td>Nombre de la empresa</td>
     </tr>
     <tr>
       <td>Empleados</td>
@@ -171,7 +171,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
     </tr>
     <tr>
       <td>Teléfono de cuenta</td>
-      <td>Teléfono principal</td>
+      <td>Teléfono principal:</td>
     </tr>
     <tr>
       <td>Código SIC</td>

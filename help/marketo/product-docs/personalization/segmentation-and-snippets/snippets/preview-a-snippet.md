@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Agregar contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Los fragmentos de código son bloques de contenido dinámico que cambian según las reglas de segmentación.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -27,7 +27,7 @@ Los fragmentos de código son bloques de contenido dinámico que cambian según 
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
-La vista previa es buena para asegurarse de que el contenido tenga el aspecto adecuado para cada segmento.
+La vista previa es excelente para asegurarse de que el contenido tenga el aspecto adecuado para cada segmento.
 
 >[!MORELIKETHIS]
 >

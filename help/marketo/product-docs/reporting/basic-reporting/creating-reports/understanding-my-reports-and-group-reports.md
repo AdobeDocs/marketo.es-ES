@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de Mis informes y Informes de grupo {#understanding-my-reports-and-group-reports}
 
-Puede crear **Mis informes** y **Informes de grupo** desde el [Inicio de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Puede crear **Mis informes** y **Informes de grupo** desde la página de inicio de [Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **Mis informes** solo son visibles para usted.
 
@@ -21,11 +21,11 @@ Puede crear **Mis informes** y **Informes de grupo** desde el [Inicio de Analyti
 
 >[!NOTE]
 >
->Cada espacio de trabajo tiene un conjunto de **Mis informes** y **Informes de grupo**.
+>Cada área de trabajo tiene un conjunto de **Mis informes** y **Informes de grupo**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
 >* [Guardar un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [Clonar un informe para agrupar informes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [Clonar un informe en informes de grupo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

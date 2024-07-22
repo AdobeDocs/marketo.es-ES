@@ -17,7 +17,7 @@ Los correos electrónicos comienzan en estado de borrador. Por lo general, no es
 
 ## Aprobar mediante el menú Acciones de correo electrónico {#approve-it-using-the-email-actions-menu}
 
-1. Busque y seleccione su correo electrónico, haga clic en **Acciones de correo electrónico** y seleccione. **Aprobar**.
+1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Los correos electrónicos comienzan en estado de borrador. Por lo general, no es
 
 ## Aprobar el correo electrónico en el editor de correo electrónico {#approve-your-email-in-the-email-editor}
 
-1. En el correo electrónico, haga clic en **Acciones de correo electrónico** y seleccione. **Aprobar y cerrar**.
+1. En el correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar y cerrar**.
 
    ![](assets/three.png)
 

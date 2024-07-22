@@ -6,7 +6,7 @@ exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Las palabras clave son frases que la gente escribe en los motores de búsqueda. 
 
 >[!NOTE]
 >
->Si tiene muchas palabras clave, puede [Importarlos con un archivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
+>Si tiene muchas palabras clave, puede [importarlas con un archivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Introduzca las palabras clave que quiera segmentar y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba las palabras clave que quiera usar como destino y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

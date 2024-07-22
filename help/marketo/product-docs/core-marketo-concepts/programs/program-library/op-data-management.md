@@ -2,10 +2,10 @@
 description: Administración de datos de OP - Documentos de Marketo - Documentación del producto
 title: Administración de datos de OP
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 26%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 26%
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de datos operacionales simples que utilizan un programa predeterminado para ayudarle a administrar la coherencia de datos para los registros de la base de datos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -35,7 +35,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -112,7 +112,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Nueva persona de la publicidad en línea</td>
+   <td>Nueva persona de Online Advertising</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
@@ -137,17 +137,17 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Lote por la noche de origen de persona (para instancias de alto tráfico)</td>
+   <td>Lote nocturno de Source de personas (para instancias de alto tráfico)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Fuente de personas activada (para instancias de poco tráfico)</td>
+   <td>Source de persona activado (para instancias de poco tráfico)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Capturar origen de persona</td>
+   <td>Source de persona de captura</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -162,7 +162,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Lista de bloqueados</td>
+   <td>Lista de bloqueos</td>
   </tr>
  </tbody> 
 </table>
@@ -171,23 +171,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
-   * Copiar plantilla original - _Recomendado_
+   * Copiar plantilla original: _Recomendado_
    * Usar plantilla de destino
 
 * **Imágenes con el mismo nombre**
-   * Mantener ambos archivos - _Recomendado_
+   * Conservar ambos archivos: _Recomendado_
    * Reemplazar elemento en esta suscripción
 
-* **Plantillas de email con el mismo nombre**
-   * Mantener ambas plantillas - _Recomendado_
+* **Plantillas de correo electrónico con el mismo nombre**
+   * Mantener ambas plantillas: _Recomendado_
    * Reemplazar plantilla existente
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Cada campaña creada debe ser un ejemplo sobre la compilación de la práctica recomendada y no específica para sus casos de uso. Recuerde actualizar las campañas inteligentes para abordar sus puntos problemáticos específicos y los desafíos en materia de datos.
 

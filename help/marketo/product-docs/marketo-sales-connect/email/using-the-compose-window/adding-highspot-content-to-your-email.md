@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si eres cliente de Highspot, puedes insertar fácilmente contenido de Highspot en tus correos electrónicos de Sales Connect.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ Si eres cliente de Highspot, puedes insertar fácilmente contenido de Highspot e
 
    ![](assets/two-5.png)
 
-1. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **Punto álgido**.
+1. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **Punto alto**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Si eres cliente de Highspot, puedes insertar fácilmente contenido de Highspot e
 
    ![](assets/four-5.png)
 
-1. Seleccione el contenido que desee y haga clic en **Añadir contenido** botón.
+1. Seleccione el contenido que desee y haga clic en el botón **Agregar contenido**.
 
    ![](assets/five-3.png)
 

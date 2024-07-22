@@ -16,7 +16,7 @@ Asegúrese de que cada correo electrónico de acciones de información de ventas
 
 >[!NOTE]
 >
->Si usa el `{{team_unsubscribe}}` campo dinámico en una plantilla de correo electrónico y la configuración cancelar la suscripción del mensaje anexado está habilitada, el campo dinámico cancelar la suscripción del equipo rellenará el mensaje cancelar la suscripción _en lugar de_ adjuntando el mensaje de cancelación de suscripción.
+>Si usa el campo dinámico `{{team_unsubscribe}}` en una plantilla de correo electrónico y la opción de anexar el mensaje de cancelación de suscripción está habilitada, el campo dinámico de cancelación de suscripción del equipo rellenará el mensaje de cancelación de suscripción _en lugar de_ anexando el mensaje de cancelación de suscripción.
 
 ## Habilitar/deshabilitar la adición de cancelación de suscripción {#enable-disable-unsubscribe-append}
 
@@ -24,7 +24,7 @@ Asegúrese de que cada correo electrónico de acciones de información de ventas
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. En Configuración De Administración, Haga Clic En **Cancela la suscripción**.
+1. En Configuración De Administración, Haga Clic En **Cancelar Suscripciones**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -34,4 +34,4 @@ Asegúrese de que cada correo electrónico de acciones de información de ventas
 
 >[!TIP]
 >
->Si desactiva la configuración del mensaje de cancelación de suscripción de datos anexados, le recomendamos que agregue un pie de página de cancelación de suscripción a las plantillas para garantizar que la comunicación tenga una opción de exclusión. Para ello, agregue su propio mensaje personalizado a cada plantilla o utilice el `{{team_unsubscribe}}` [campo dinámico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>Si desactiva la configuración del mensaje de cancelación de suscripción de datos anexados, le recomendamos que agregue un pie de página de cancelación de suscripción a las plantillas para garantizar que la comunicación tenga una opción de exclusión. Puede hacerlo agregando su propio mensaje personalizado a cada plantilla o utilizando el `{{team_unsubscribe}}` [campo dinámico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

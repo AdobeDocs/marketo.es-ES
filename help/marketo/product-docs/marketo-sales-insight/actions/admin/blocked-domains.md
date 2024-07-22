@@ -16,7 +16,7 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
 
@@ -26,7 +26,7 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
    ![](assets/blocked-domains-2.png)
 
-1. Introduzca el dominio que desea bloquear y haga clic en **Bloquear dominio**.
+1. Escriba el dominio que desea bloquear y haga clic en **Bloquear dominio**.
 
    ![](assets/blocked-domains-3.png)
 

@@ -5,7 +5,7 @@ exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 
 >[!NOTE]
 >
->Esta función solo está disponible para campañas de Déclencheur y para usuarios a los que se les ha concedido la [Permiso &quot;Editar prioridad de campaña de Déclencheur&quot;](#grant-priority-override-access).
+>Esta característica solo está disponible para campañas de Déclencheur y para los usuarios a los que se les ha concedido el permiso [&quot;Editar prioridad de campaña de Déclencheur&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -28,15 +28,15 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 >
 >Solo los administradores o usuarios con responsabilidades de administrador deben tener acceso de anulación de prioridad de campaña.
 
-1. En el [!UICONTROL Administrador] , haga clic en **[!UICONTROL Usuarios y funciones]**.
+1. En el área [!UICONTROL Administrador], haga clic en **[!UICONTROL Usuarios y roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. Haga clic en **[!UICONTROL Funciones]** , seleccione el usuario al que desea conceder acceso y, a continuación, haga clic en **[!UICONTROL Editar rol]**.
+1. Haga clic en la ficha **[!UICONTROL Roles]**, seleccione el usuario al que desea conceder acceso y, a continuación, haga clic en **[!UICONTROL Editar rol]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. En [!UICONTROL Acceso a actividades de marketing], seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Haga clic en **[!UICONTROL Guardar]**.
+1. En [!UICONTROL Acceder a actividades de marketing], seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -46,7 +46,7 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Haga clic en **[!UICONTROL Anular prioridad de campaña]** deslizador para activar. Elija un nuevo nivel de prioridad y haga clic en **[!UICONTROL Confirmar]**.
+1. Haga clic en el control deslizante **[!UICONTROL Anular prioridad de campaña]** para habilitar. Elija un nuevo nivel de prioridad y haga clic en **[!UICONTROL Confirmar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -56,6 +56,6 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 
 >[!NOTE]
 >
->* Puede ver la prioridad predeterminada de su campaña en la [!UICONTROL Cola de campaña] bajo [!UICONTROL Actividades de marketing]. Para aumentar la tasa de ejecución, recomendamos establecer la prioridad de la campaña en un nivel superior al predeterminado.
+>* Puede ver la prioridad predeterminada de su campaña en [!UICONTROL Cola de campaña] en [!UICONTROL Actividades de marketing]. Para aumentar la tasa de ejecución, recomendamos establecer la prioridad de la campaña en un nivel superior al predeterminado.
 >* La prioridad establecida por el usuario solo se aplica a las nuevas personas que cumplen los requisitos para la campaña; las personas que ya están en cola no se verán afectadas.
->* Las anulaciones de prioridad se capturan en [Pista de auditoría](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
+>* Las invalidaciones de prioridad se capturan en [pista de auditoría](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Genere informes basados en ingresos utilizando la dimensión Cuenta con nombre e
 
 >[!NOTE]
 >
->**Dimension** - atributos (representados por puntos amarillos) que proporcionan diferentes vistas de las medidas.
+>**Dimension**: atributos (representados por puntos amarillos) que proporcionan diferentes vistas de las medidas.
 
 ![](assets/one-2.png)
 
@@ -28,8 +28,8 @@ Genere informes basados en ingresos utilizando la dimensión Cuenta con nombre e
 Los siguientes informes tienen acceso a la dimensión Cuenta con nombre:
 
 * Análisis de correo electrónico
-* Análisis de clientes potenciales
-* Análisis de oportunidad
+* Análisis de leads
+* Análisis de oportunidades
 * Análisis de pertenencia a programas
 
 >[!NOTE]

@@ -6,7 +6,7 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marketing o Ventas desea un nuevo campo. O quizás olvidó uno en su selección inicial de campo. O, sus necesidades cambiaron. En cualquier caso, puede utilizar la sincronización rápida para volver a sincronizar campos específicos.
 
-Normalmente, se utiliza la sincronización rápida para agregar un nuevo campo y actualizar los valores. Sin embargo, hay casos en los que es posible que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) a continuación para obtener más detalles.
+Normalmente, se utiliza la sincronización rápida para agregar un nuevo campo y actualizar los valores. Sin embargo, hay casos en los que es posible que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) más abajo para obtener más información.
 
 La sincronización rápida puede sincronizar valores nulos. Por ejemplo, si utiliza los valores A y B y cambia el valor B en Dynamics a nulo, sincronizará el valor nulo con Marketo.
 
@@ -27,7 +27,7 @@ A continuación se indica cómo utilizar la sincronización rápida para volver 
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Clic **[!UICONTROL Microsoft Dynamics]**.
+1. Haga clic en **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -35,7 +35,7 @@ A continuación se indica cómo utilizar la sincronización rápida para volver 
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Seleccione los campos para la sincronización rápida y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione los campos que desea sincronizar rápidamente y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -63,11 +63,11 @@ A continuación se indica cómo utilizar la sincronización rápida para volver 
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Clic **[!UICONTROL Sincronización avanzada]**.
+1. Haga clic en **[!UICONTROL Sincronización avanzada]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Elegir **[!UICONTROL Actualizado]** y seleccione un intervalo de fechas utilizando los selectores de fechas. Haga clic en **[!UICONTROL Guardar]**.
+1. Elija **[!UICONTROL Actualizado]** y seleccione un intervalo de fechas utilizando los selectores de fechas. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Filtrar por etiquetas existentes {#filter-by-existing-labels}
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Etiquetado de campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Ver segmentos desde una etiqueta específica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Etiquetado de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Etiquetar sus campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Ver segmentos de una etiqueta específica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Etiquetar sus segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

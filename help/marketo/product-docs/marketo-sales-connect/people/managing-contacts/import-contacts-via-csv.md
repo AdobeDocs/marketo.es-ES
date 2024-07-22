@@ -6,7 +6,7 @@ exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Tener contactos en la página Personas es importante porque es de donde extraemo
 
    ![](assets/one.png)
 
-1. Clic **Acciones de grupo** y seleccione **Importar CSV**.
+1. Haga clic en **Acciones de grupo** y seleccione **Importar CSV**.
 
    ![](assets/two.png)
 
-1. Clic **Examinar**.
+1. Haga clic en **Examinar**.
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ Tener contactos en la página Personas es importante porque es de donde extraemo
    >
    >Los grupos están limitados a 1000 contactos.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/four.png)
 
-1. Asigne las columnas de su CSV a sus respectivos campos en Sales Connect. Clic **Siguiente** cuando termine.
+1. Asigne las columnas de su CSV a sus respectivos campos en Sales Connect. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/five.png)

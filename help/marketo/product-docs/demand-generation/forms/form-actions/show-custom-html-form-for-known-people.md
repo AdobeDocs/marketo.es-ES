@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si un visitante está cookie (persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Solo dale el botón de descarga. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ Si un visitante está cookie (persona conocida que proporcionó una dirección d
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Establecer si **Visitante conocido, mostrar**: a **HTML personalizado**.
+1. Definir Si **Visitante conocido, Mostrar**: como **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
@@ -45,18 +45,18 @@ Si un visitante está cookie (persona conocida que proporcionó una dirección d
    |---|---|
    | `{{lead.FirstName}}` | Se mostrará el nombre de la persona. |
    | `{{lead.LastName}}` | Se mostrará el apellido de la persona. |
-   | `{{form.Button:default=Download}}` | Se mostrará el botón del formulario. Sustituya la zona después de `=` para cambiar el texto del botón. |
-   | `{{form.NotYou:default=Not you?}}` | Se mostrará un vínculo en caso de que la persona sea otra. Sustituya la zona después de `=` para cambiar el texto del vínculo. |
+   | `{{form.Button:default=Download}}` | Se mostrará el botón del formulario. Reemplace el área después de `=` para cambiar el texto del botón. |
+   | `{{form.NotYou:default=Not you?}}` | Se mostrará un vínculo en caso de que la persona sea otra. Reemplace el área después de `=` para cambiar el texto del vínculo. |
 
    >[!CAUTION]
    >
    >Solo se pueden utilizar los cuatro tokens anteriores. Aquí no funcionará ningún otro token.
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Si un visitante está cookie (persona conocida que proporcionó una dirección d
 
    >[!NOTE]
    >
-   >Recuerde lo siguiente [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+   >Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ¡Pedazo de torta! Vea lo que una persona vería si volviera al mismo formulario:
 

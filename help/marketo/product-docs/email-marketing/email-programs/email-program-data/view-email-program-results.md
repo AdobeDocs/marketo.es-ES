@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al igual que la pestaña Resultados de las campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Al igual que la pestaña Resultados de las campañas inteligentes, puede ver la 
 
    ![](assets/controlpanelview.jpg)
 
-1. En el **Audiencia** mosaico, haga clic en **Ver resultados**.
+1. En el mosaico **Audiencia**, haga clic en **Ver resultados**.
 
    ![](assets/audiencetile.jpg)
 

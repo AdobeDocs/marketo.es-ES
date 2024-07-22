@@ -19,7 +19,7 @@ Cuando haya habilitado LinkedIn Lead Gen Forms, podrá utilizarlas como filtros 
 >
 >Cuando las personas envían su información en un formulario de generación de posibles clientes de LinkedIn, esa información se envía a Marketo inmediatamente, lo que hace que el formulario esté disponible en la lista desplegable Nombre del formulario de generación de posibles clientes. Los nombres de los formularios no serán visibles hasta que al menos una persona haya enviado el formulario.
 
-1. Utilice el **Rellena El Formulario De LinkedIn Lead Gen** déclencheur de tomar medidas inmediatamente para **Formulario de generación de posibles clientes de LinkedIn completado** filtre por campañas por lotes programadas o por el filtrado estándar de listas inteligentes.
+1. Use el déclencheur **Rellena el formulario de generación de clientes potenciales de LinkedIn** para tomar medidas inmediatamente o el filtro **Relleno del formulario de generación de clientes potenciales de LinkedIn** para campañas por lotes programadas o el filtrado estándar de listas inteligentes.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

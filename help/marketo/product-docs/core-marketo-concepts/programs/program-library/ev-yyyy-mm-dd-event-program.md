@@ -2,10 +2,10 @@
 description: Programa EV-AAAA-MM-DD-Event - Documentos de Marketo - Documentación del producto
 title: Programa EV-AAAA-MM-DD-Evento
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Este es un ejemplo de programa de eventos con una página de registro, tres correos electrónicos de invitación y correos electrónicos de seguimiento que utilizan un programa de eventos para Marketo Engage. Adecuado para todos los eventos en los que se requieren registros, incluidos espectáculos itinerantes, almuerzos, cenas o presentaciones en eventos de ferias comerciales.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -32,14 +32,14 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 <br/>02 - En lista de espera
 <br/>03-Registrados
 <br/>04-No mostrar
-<br/>05-Asistencia-Éxito</td>
-   <td>Inclusivo</td>
+<br/>05-Attended-Success</td>
+   <td>Incluido</td>
    <td>Evento</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -101,12 +101,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de correo electrónico</td>
+   <td>Desempeño de email</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Desempeño de página de destino</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
@@ -162,7 +162,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -175,7 +175,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
   <tr> 
@@ -209,7 +209,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Haga doble clic para obtener detalles  
 <br/><code><--My Content Description Here--></code> 
 <br/>Edite esta descripción de contenido en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá a hacer lo siguiente: 
+<br/>Aprenderá lo siguiente: 
 <li>Viñeta 1</li>
 <li>Viñeta 2</li>
 <li>Viñeta 3</li></td>
@@ -299,23 +299,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Después de importar el programa de seminario web, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
    * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad en las actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.
@@ -330,7 +330,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;06 asistencia (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
+>No olvide activar la campaña &quot;06 asistencia (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
 
 >[!IMPORTANT]
 >

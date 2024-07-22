@@ -18,7 +18,7 @@ Como experto en marketing, dispone de información que puede ayudar a las ventas
 
 >[!NOTE]
 >
->Cuando el usuario de sincronización de Marketo está creando tareas, **Vence en** es un campo obligatorio para la tarea que se va a crear en Veeva. Marketo introducirá cinco días de forma predeterminada si no hay ningún valor.
+>Cuando el usuario de sincronización de Marketo está creando tareas, **Vence en** es un campo obligatorio para que la tarea se cree en Veeva. Marketo introducirá cinco días de forma predeterminada si no hay ningún valor.
 
 De forma predeterminada, el paso de flujo tendrá este aspecto:
 
@@ -30,4 +30,4 @@ Personalice todos los campos para crear la tarea de la manera que desee.
 
 >[!TIP]
 >
->Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en el Asunto y la Descripción. Consulte [Tokens para pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} para obtener más información.
+>Puede usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en el asunto y la descripción. Consulte [Tokens para pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} para obtener más información.

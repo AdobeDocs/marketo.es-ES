@@ -6,16 +6,16 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 8%
+source-wordcount: '200'
+ht-degree: 13%
 
 ---
 
 # Administrar datos de persona {#manage-person-data}
 
-Aproveche los datos de persona para la personalización web seleccionando campos de persona para utilizarlos en la segmentación.
+Aproveche los datos de persona para Web Personalization seleccionando campos de persona para utilizarlos en la segmentación.
 
-1. Ir a **Configuración de cuenta**.
+1. Vaya a **Configuración de la cuenta**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
@@ -25,7 +25,7 @@ Aproveche los datos de persona para la personalización web seleccionando campos
 
 ## Adición de un campo de nueva persona {#adding-a-new-person-field}
 
-1. Seleccionar **Campo para añadir** en la lista desplegable para agregar un campo de datos de persona a la lista.
+1. Seleccione **Campo para agregar** de la lista desplegable para agregar un campo de datos de persona a la lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,13 +35,13 @@ Aproveche los datos de persona para la personalización web seleccionando campos
 
 ## Eliminación de un campo de persona {#deleting-a-person-field}
 
-1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para quitar un campo de la lista. Clic **Sí** para confirmar que desea eliminar el campo.
+1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para quitar un campo de la lista. Haga clic en **Sí** para confirmar que desea eliminar el campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Administración de los campos de datos de persona**
+   >**Administrar los campos de datos de persona**
    >
    >* Solo se pueden incluir campos de datos de persona
    >* Se pueden añadir hasta 30 campos de datos de persona
@@ -52,8 +52,8 @@ Aproveche los datos de persona para la personalización web seleccionando campos
 <table> 
  <tbody> 
   <tr> 
-   <th><p>Nombre de API de REST</p></th> 
-   <th><p>Nombre de API de SOAP</p></th> 
+   <th><p>Nombre de REST API</p></th> 
+   <th><p>Nombre de SOAP API</p></th> 
    <th><p>Nombre descriptivo</p></th> 
   </tr> 
   <tr> 
@@ -74,7 +74,7 @@ Aproveche los datos de persona para la personalización web seleccionando campos
   <tr> 
    <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>Puntuación</p></td> 
+   <td><p>Puntaje</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
@@ -89,7 +89,7 @@ Aproveche los datos de persona para la personalización web seleccionando campos
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>Rol</p></td> 
+   <td><p>Función</p></td> 
   </tr> 
   <tr> 
    <td><p>cancelado</p></td> 
@@ -103,4 +103,4 @@ Los siguientes campos de posibles clientes se proporcionan de forma predetermina
 
 >[!MORELIKETHIS]
 >
->[Creación de segmentos con datos de personas conocidas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Crear un segmento con datos de persona conocida](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

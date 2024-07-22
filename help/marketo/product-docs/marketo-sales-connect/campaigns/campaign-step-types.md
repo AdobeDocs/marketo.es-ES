@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 8%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ Componga un correo electrónico nuevo o utilice una plantilla preexistente.
 
 >[!TIP]
 >
->Conozca los detalles sobre su [opciones de envío](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Conozca los detalles sobre sus [opciones de envío](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Llamar a un {#call}
 

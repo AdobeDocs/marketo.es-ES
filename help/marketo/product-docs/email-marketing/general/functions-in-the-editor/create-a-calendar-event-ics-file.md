@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Un token de archivo de calendario le permite agregar un vínculo de evento de calendario (.ics) a los correos electrónicos y las páginas de aterrizaje de Marketo.
 
-1. Dentro del programa, vaya a **Mis tokens** pestaña.
+1. Dentro de tu programa, ve a la ficha **Mis tokens**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Arrastre una **Archivo de calendario** token para el lienzo.
+1. Arrastre un **archivo de calendario** token al lienzo.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Introduzca una **Nombre de token** y **Editar**.
+1. Escriba un **Nombre de token** y **Editar**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Introduzca los detalles y haga clic en **Guardar**.
+1. Escriba los detalles y haga clic en **Guardar**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
@@ -35,5 +35,5 @@ Un token de archivo de calendario le permite agregar un vínculo de evento de ca
 
 >[!MORELIKETHIS]
 >
->* [Incluir un evento de calendario (.ics) en un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [Incluir un archivo ICS de eventos de calendario en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [Incluir un evento de calendario (.ics) en un mensaje de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Incluir un archivo ICS de evento de calendario en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

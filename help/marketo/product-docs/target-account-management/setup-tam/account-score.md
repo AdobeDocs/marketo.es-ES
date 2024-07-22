@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380774
 description: Puntuación de la cuenta - Documentos de Marketo - Documentación del producto
-title: Puntuación de cuenta
+title: Calificación de la cuenta
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
-# Puntuación de cuenta {#account-score}
+# Calificación de la cuenta {#account-score}
 
 La puntuación de cuentas es una parte vital de la administración de cuentas de Target. Le ayuda a determinar el nivel de participación de sus cuentas.
 
@@ -44,7 +44,7 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 
 >[!NOTE]
 >
->Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. Por ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés del producto de cuenta_ y _Puntuación de participación web de cuenta_).
+>Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés de producto de cuenta_ y _Puntuación de participación en la web de cuenta_).
 >
 >En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.\
 >A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:\
@@ -57,11 +57,11 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 
 Una vez que haya configurado la puntuación del posible cliente, siga los pasos a continuación.
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/account-score-1.png)
 
-1. Clic **Administración de cuentas de Target**.
+1. Haga clic en **Administración de cuenta de Target**.
 
    ![](assets/account-score-2.png)
 
@@ -71,16 +71,16 @@ Una vez que haya configurado la puntuación del posible cliente, siga los pasos 
 
    >[!NOTE]
    >
-   >Puede elegir hasta **cinco** para calcular la puntuación de la cuenta.
+   >Puede elegir hasta **cinco** campos para calcular la puntuación de la cuenta.
 
-1. Introduzca el nombre de la puntuación de la cuenta y haga clic en **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
+1. Escriba el nombre de Puntuación de cuenta, haga clic en el menú desplegable **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
 
    ![](assets/account-score-4.png)
 
-1. Clic **+Agregar** para añadir más puntuaciones.
+1. Haga clic en **+Agregar** para agregar más puntuaciones.
 
    ![](assets/account-score-5.png)
 
-1. Añada todas las puntuaciones deseadas. Clic **Guardar** cuando termine.
+1. Añada todas las puntuaciones deseadas. Haga clic en **Guardar** cuando termine.
 
    ![](assets/account-score-6.png)

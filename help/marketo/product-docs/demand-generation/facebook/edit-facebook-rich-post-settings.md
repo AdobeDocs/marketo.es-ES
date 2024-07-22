@@ -19,13 +19,13 @@ Personalice las publicaciones cuando las personas le compartan en Facebook.
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-Marketo [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permita que los posibles clientes compartan sus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de facebook (etiquetas OG) le permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
+Las [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) de Marketo permiten que tus clientes potenciales compartan tus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de facebook (etiquetas OG) le permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
 
 ## Seleccionar opciones de publicación enriquecida {#select-rich-post-options}
 
 Puede especificar los tipos de información de página que se utilizarán en las publicaciones enriquecidas de Facebook generadas por los recursos compartidos desde la página de aterrizaje.
 
-1. Seleccionar **Mensaje de facebook** en el editor de su **YouTube** botón de vídeo o social.
+1. Seleccione **Mensaje de Facebook** en el editor de su vídeo o botón social de **YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Puede especificar los tipos de información de página que se utilizarán en las
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Añadir contenido dinámico: su aplicación social puede utilizar el de la página de aterrizaje `<TITLE>`, `<CAPTION>`, y `<DESCRIPTION>` para rellenar la publicación enriquecida.
+   * Agregar contenido dinámico: su aplicación social puede utilizar las etiquetas `<TITLE>`, `<CAPTION>` y `<DESCRIPTION>` de su página de aterrizaje para rellenar la publicación enriquecida.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Puede especificar los tipos de información de página que se utilizarán en las
 
 Para controlar los elementos de página que se incluirán en los recursos compartidos de Facebook desde la página de aterrizaje, puede agregar etiquetas OG (Abrir gráfico) de Facebook para el título, el pie de ilustración y la descripción de la página de aterrizaje.
 
-1. Abra la página de aterrizaje que contiene su **Vídeo de YouTube** o botón social.
+1. Abra la página de aterrizaje que contiene su **vídeo de YouTube** o botón de red social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   El **Diseñador de páginas de aterrizaje** se abre en una nueva ventana.
+   La **página de aterrizaje Designer** se abre en una nueva ventana.
 
-1. Seleccionar **Acciones de página de aterrizaje** > **Editar metaetiquetas de página**.
+1. Seleccione **Acciones de página de aterrizaje** > **Editar metaetiquetas de página**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

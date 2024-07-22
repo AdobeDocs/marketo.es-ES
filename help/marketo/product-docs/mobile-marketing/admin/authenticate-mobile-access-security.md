@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ Para habilitar los ID, debe adquirir los códigos y proporcionárselos a su depa
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Compruebe la **Habilitar seguridad** casilla de verificación Clic **Guardar**.
+1. Marque la casilla de verificación **Habilitar seguridad**. Haga clic en **Guardar**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

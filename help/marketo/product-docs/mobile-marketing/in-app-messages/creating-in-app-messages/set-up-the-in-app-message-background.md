@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La selección del fondo de un mensaje es un paso importante para finalizar el me
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Para definir un color, haga clic en **Color** y, a continuación, el cuadrado de selección de color. Seleccione el color haciendo clic en él o introduciendo los códigos hexadecimales o de RGB en el selector de color.
+1. Para establecer un color, haga clic en **Color** y, a continuación, seleccione el cuadrado de selección de color. Seleccione el color haciendo clic en él o introduciendo los códigos hexadecimales o de RGB en el selector de color.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ La selección del fondo de un mensaje es un paso importante para finalizar el me
    >
    >El blanco sin formato, el valor predeterminado, suele ser un ganador.
 
-1. Si desea utilizar un fondo, haga clic en **Imagen** y luego el **Seleccionar imagen** vínculo.
+1. Si desea usar un fondo, haga clic en **Imagen** y luego en el vínculo **Seleccionar imagen**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Elija entre los archivos cargados en Design Studio. Clic **Seleccionar**.
+1. Elija entre los archivos cargados en Design Studio. Haga clic en **Seleccionar**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ La selección del fondo de un mensaje es un paso importante para finalizar el me
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Aplique un borde de imagen opcional. La configuración predeterminada es **Desactivado**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o de RGB en el selector de color.
+1. Aplique un borde de imagen opcional. El valor predeterminado es **Desactivado**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o de RGB en el selector de color.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,12 +65,12 @@ La selección del fondo de un mensaje es un paso importante para finalizar el me
 
    >[!NOTE]
    >
-   >Para las acciones de toque para fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje solo va a una plataforma o a la otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
+   >Para las acciones de toque para fondos, puede configurar diferentes acciones para plataformas de Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va únicamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguna**.
 
-   Para finalizar el trabajo, el último paso es [Configuración del botón Descartar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Para finalizar el trabajo, el último paso es [configurar el botón Descartar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
    >* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >* [Envío de un mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [Enviar un mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Elija un diseño para su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

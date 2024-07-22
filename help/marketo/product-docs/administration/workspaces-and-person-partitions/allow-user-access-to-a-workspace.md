@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360325
-description: Permitir al usuario acceso a un espacio de trabajo - Documentos de Marketo - Documentación del producto
-title: Permitir al usuario acceso a un espacio de trabajo
+description: 'Permitir al usuario acceso a un Workspace: documentos de Marketo, documentación del producto'
+title: Permitir al usuario acceso a Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,31 +11,31 @@ ht-degree: 0%
 
 ---
 
-# Permitir al usuario acceso a un espacio de trabajo {#allow-user-access-to-a-workspace}
+# Permitir al usuario acceso a Workspace {#allow-user-access-to-a-workspace}
 
 Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de negocio o separación geográfica). Separan los recursos (listas inteligentes, programas, etc.) de cada equipo. Así se le da a un usuario acceso a uno o más espacios de trabajo.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
->Más información sobre [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Más información sobre [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. En el **[!UICONTROL Usuarios]** , seleccione el usuario y haga clic en **[!UICONTROL Editar usuario]**.
+1. En la ficha **[!UICONTROL Usuarios]**, seleccione el usuario y haga clic en **[!UICONTROL Editar usuario]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. Seleccione el **[!UICONTROL Roles y espacios de trabajo]** desea que el usuario tenga acceso a.
+1. Seleccione los **[!UICONTROL roles y espacios de trabajo]** a los que desea que el usuario tenga acceso.
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

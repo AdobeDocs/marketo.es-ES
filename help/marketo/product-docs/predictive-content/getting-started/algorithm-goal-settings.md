@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -31,6 +31,6 @@ Configuración de objetivo de algoritmo le permite establecer el objetivo final 
    |---|---|
    | **Conversiones** | Mostrar el contenido que tiene más probabilidades de hacer que la persona que ve el contenido envíe un formulario |
 
-1. Clic **Guardar** cuando termine.
+1. Haga clic en **Guardar** cuando termine.
 
    ![](assets/four.png)

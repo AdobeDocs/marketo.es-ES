@@ -6,30 +6,30 @@ exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
 # Notas de la versión: diciembre de 2012 {#release-notes-december}
 
-La versión de diciembre incluye el muy esperado **Reenviar a amigo** función, así como varias otras cosas! Observe que las características marcadas con un asterisco (&#42;) solo están disponibles en Select Edition y en RCA (Revenue Cycle Analytics).
+La versión de diciembre incluye la muy esperada función **Forward to Friend**, así como varios otros detalles. Tenga en cuenta que las funciones marcadas con un asterisco (&#42;) solo están disponibles en Select Edition y en RCA (Revenue Cycle Analytics).
 
-## Reenviar a amigo {#forward-to-friend}
+## Enviar a un amigo {#forward-to-friend}
 
-Habilitar el uso compartido de contenido con otros usuarios incluyendo una **Reenviar a amigo** en los correos electrónicos. La adición de nuevos filtros y déclencheur le ayudará a identificar a sus influencers, identificando a los usuarios que reenviaron un correo electrónico, así como a aquellos que recibieron los correos electrónicos reenviados.
+Habilita la opción para compartir contenido con otras personas incluyendo el enlace **Reenviar a amigo** en tus correos electrónicos. La adición de nuevos filtros y déclencheur le ayudará a identificar a sus influencers, identificando a los usuarios que reenviaron un correo electrónico, así como a aquellos que recibieron los correos electrónicos reenviados.
 
-Para incluir un **Reenviar a amigo** en el correo electrónico, ábralo en el editor e inserte el `{{system.forwardToFriendLink}}` token.
+Para incluir una invitación de **Reenviar a un amigo** en el correo electrónico, ábrala en el editor e inserte el token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilice los déclencheur y filtros correspondientes para identificar a los usuarios que han utilizado el **Reenviar a amigo** y los que recibieron el correo electrónico.
+Use los déclencheur y filtros correspondientes para identificar a los usuarios que usaron el vínculo **Reenviar a amigo** y a los que recibieron el correo electrónico.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
 ## Permisos granulares de administración {#granular-admin-permissions}
 
-La versión más reciente le proporciona el bueno acceso y control sobre las funciones de administrador, controlando el acceso a diferentes funciones en el área de administración de Marketo para cada función. Al crear una función nueva, puede asignar funciones de administrador específicas a las que dicha función puede acceder.
+Nuestra versión más reciente le ofrece un mayor acceso y control sobre las funciones de administrador, al controlar el acceso a diferentes funciones en el área de administración de Marketo para cada función. Al crear una función nueva, puede asignar funciones de administrador específicas a las que dicha función puede acceder.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -51,9 +51,9 @@ La perspectiva de ventas ya está disponible para los clientes de Microsoft Dyna
 
 Sincronizar datos de oportunidad entre Marketo y Microsoft Dynamics.
 
-## Informe de oportunidades con influencia de marketing&#42; {#marketing-influenced-opportunities-report}
+## Informe de oportunidades influenciadas por el marketing&#42; {#marketing-influenced-opportunities-report}
 
-Vea qué porcentaje de la canalización y de los ingresos de su compañía se vio influido por sus programas de marketing. Entrada **Explorador de ingresos**, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada por el marketing&quot; en el análisis de oportunidades. También puede utilizar los dos informes siguientes en la carpeta Estándar:
+Vea qué porcentaje de la canalización y de los ingresos de su compañía se vio influido por sus programas de marketing. En **Explorador de ingresos**, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada por el marketing&quot; en Análisis de oportunidad. También puede utilizar los dos informes siguientes en la carpeta Estándar:
 
 * Influencia del marketing en las oportunidades creadas
 * Influencia del marketing en oportunidades ganadas cerradas
@@ -66,10 +66,10 @@ Agregue campos de oportunidad personalizados para enriquecer los informes de An�
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Inspector de campaña {#campaign-inspector}
+## Inspector de campañas {#campaign-inspector}
 
 ¿Alguna vez se ha preguntado qué campañas están utilizando una acción de flujo específica, como Cambiar puntuación o Solicitar campaña? ¿O dónde se está utilizando un filtro determinado? El nuevo Inspector de campañas (disponible en el Tesoro) le permite identificar estas campañas, así como las campañas activas y las campañas con errores.
 
-Ir a **Administrador** > **Cofre del tesoro** para habilitar el **Inspector de campaña**.
+Vaya a **Administrador** > **Cofre del tesoro** para habilitar el **Inspector de campaña**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

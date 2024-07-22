@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Marketo le enviará informes sobre cómo va la prueba de correo electrónico. As
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
@@ -43,4 +43,4 @@ Marketo le enviará informes sobre cómo va la prueba de correo electrónico. As
 
    >[!MORELIKETHIS]
    >
-   >[Campeón/Challenger: Apruebe su prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+   >[Campeón/Challenger: Aprueba tu prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

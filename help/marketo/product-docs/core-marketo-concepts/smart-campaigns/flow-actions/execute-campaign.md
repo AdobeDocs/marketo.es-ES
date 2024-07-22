@@ -24,7 +24,7 @@ Hay muchas cosas que puede hacer con una campaña ejecutable. Están diseñadas 
 
 También puede utilizarlos cuando necesite ejecutar un flujo independiente, pero debe depender de los resultados de ese flujo en las opciones de paso de flujo subsiguientes (es decir, si es así, hágalo).
 
-La ejecución de la campaña supone una mejora con [Solicitar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie, mientras que esta última solo se ejecuta en paralelo.
+Ejecutar campaña es una mejora con [Solicitar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie, mientras que esta última solo se ejecuta en paralelo.
 
 >[!NOTE]
 >
@@ -32,17 +32,17 @@ La ejecución de la campaña supone una mejora con [Solicitar campaña](/help/ma
 
 ## Cómo crear una campaña ejecutable {#how-to-create-an-executable-campaign}
 
-1. Haga clic con el botón derecho en el programa deseado y seleccione **[!UICONTROL Nueva campaña inteligente]**.
+1. Haga clic con el botón derecho en el programa que desee y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Asigne un nombre y seleccione **[!UICONTROL Ejecutable]** y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre, seleccione la casilla de verificación **[!UICONTROL Ejecutable]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Defina la lista inteligente y el flujo, como cualquier otra campaña inteligente.
 
-También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, aún tendrá que seleccionar la variable **[!UICONTROL Ejecutable]** después de ponerle nombre.
+También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, aún tendrá que seleccionar la casilla de verificación **[!UICONTROL Ejecutable]** después de asignarle un nombre.
 
 >[!NOTE]
 >
@@ -56,28 +56,28 @@ Cuando se establece en true, se envían los siguientes contextos de token a la c
 * Tokens de campaña
 * Tokens de programa
 * Tokens de miembros
-* [Tokens de déclencheur](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (si se llama desde una campaña activada)
+* [Tokens de Déclencheur](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (si se llaman desde una campaña activada)
 
 **Interacción de API**
 
-Al utilizar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permiten pasar valores para Mis tokens, que anulan los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
+Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
 * La lista inteligente filtrará a cualquier persona que no cumpla los requisitos. Si una persona cumple los requisitos, el registro de actividad de Campaña ejecutada resultante los enumerará como &quot;Cualificado: VERDADERO&quot; (y FALSO si no lo hace)
 * Se aplican reglas de calificación de programación de campaña (Configuración de campaña inteligente en la pestaña Programar )
 * No se puede llamar a las campañas ejecutables en espacios de trabajo
-* Si usa el [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) acción de flujo dirigida a una campaña ejecutable, se dirige tanto al elemento secundario como al principal
+* Si usa la acción de flujo [Quitar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) dirigida a una campaña ejecutable, se dirigirá tanto al elemento secundario como al principal
 * Aprovechar la herencia de tokens: por ejemplo, si tiene un solo flujo de puntuación común activado por varios recursos diferentes, puede definir una puntuación de Mi token predeterminada en la campaña secundaria y en la campaña principal para que pueda anular el valor de campaña de puntuación secundaria de sus campañas principales (consulte a continuación para ver un ejemplo visual)
 * Las campañas ejecutables pueden llamarse hasta tres niveles (por ejemplo, Campaña principal > Secundario > Secundario > Secundario)
 
 >[!CAUTION]
 >
->No deje nunca inválidas las listas inteligentes de Campañas ejecutables; de lo contrario _nadie_ cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
+>Nunca dejes inválidas tus listas inteligentes para Campañas ejecutables, de lo contrario _nadie_ cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
 
 ## Ejemplo de herencia de token {#token-inheritance-example}
 
-A continuación se muestra un ejemplo visual de herencia de tokens en una campaña ejecutable y dos campañas principales: una con contexto de token establecido en **[!UICONTROL Verdadero]**, el otro a **[!UICONTROL Falso]**.
+A continuación se muestra un ejemplo visual de la herencia de tokens en una campaña ejecutable y dos campañas principales: una con el contexto de tokens establecido en **[!UICONTROL True]** y otra en **[!UICONTROL False]**.
 
 Campaña secundaria con una puntuación de cambio identificada.
 
@@ -89,7 +89,7 @@ La campaña infantil es Mis tokens.
 
 ### Ejemplo 1: Verdadero {#example-one-true}
 
-En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Verdadero**.
+En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **True**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -103,7 +103,7 @@ Los resultados: la puntuación cambió en +10.
 
 ### Ejemplo 2: False {#example-two-false}
 
-En el paso Ejecutar flujo de campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Falso**.
+En el paso Ejecutar flujo de campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **False**.
 
 ![](assets/execute-campaign-8.png)
 

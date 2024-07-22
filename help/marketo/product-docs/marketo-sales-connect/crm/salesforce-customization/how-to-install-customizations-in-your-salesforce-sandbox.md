@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!PREREQUISITES]
 >
->[Conectar Sales Conéctese a su zona protegida de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Conectar ventas a su zona protegida de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. En Sales Connect, haga clic en el icono del engranaje situado en la esquina superior derecha y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-3.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Clic **Instalación de personalizaciones**.
+1. Haga clic en **Instalar personalizaciones**.
 
    ![](assets/three-3.png)
 

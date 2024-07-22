@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 A veces es mejor simplemente enumerar las reglas. Aquí vamos:
 
 * Cuando combina dos posibles clientes en **Salesforce**, la sincronización normal indica al Marketo Engage y los posibles clientes se combinan automáticamente como personas en Marketo.
-* Combinación de dos personas en **Marketo** en realidad invoca el mismo proceso que combinarlos como posibles clientes en Salesforce. Sigue funcionando automáticamente.
-* Combinación de un **dirigir (persona) a un contacto** funciona del mismo modo. Termina con un solo contacto en ambos lados.
+* Al combinar dos personas en **Marketo**, se invoca el mismo proceso que al combinarlas como posibles clientes en Salesforce. Sigue funcionando automáticamente.
+* Combinar un **posible cliente (persona) en un contacto** funciona de la misma manera. Termina con un solo contacto en ambos lados.
 * Al combinar, se suma la puntuación predeterminada.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ A veces es mejor simplemente enumerar las reglas. Aquí vamos:
 
 >[!NOTE]
 >
->Inmersión profunda para obtener más información sobre [combinación de personas en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Análisis profundo para obtener más información sobre [la combinación de personas en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

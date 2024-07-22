@@ -21,13 +21,13 @@ Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento de 
 
 >[!NOTE]
 >
->No puede incrustar ninguno [Sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos; lo hará **no** trabajar en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna [sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos de código; **no** funcionará en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Seleccione su **Fragmento** y haga clic en **Editar borrador**.
+1. Seleccione su **fragmento** y haga clic en **Editar borrador**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ Puede agregar tres tipos de contenido a un fragmento de código.
 
 ## Añadir token {#add-token}
 
-1. Arrastre y suelte el **Token** Elemento.
+1. Arrastre y suelte el elemento **Token**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Entrar **Token** y haga clic en **Insertar**.
+1. Escriba **Token** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Añadir imagen/archivo {#add-image-file}
 
-1. Arrastre y suelte el **Imagen/Archivo** Elemento.
+1. Arrastre y suelte el elemento **Image/File**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Puede agregar tres tipos de contenido a un fragmento de código.
    >
    >Puede agregar sus propias imágenes o archivos a Marketo. Más información sobre [imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Seleccione el **Imagen** para utilizar y haga clic en **Insertar**.
+1. Seleccione la **imagen** que desea usar y haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ Puede agregar tres tipos de contenido a un fragmento de código.
    >
    >Utilice las herramientas de formato para personalizar el texto.
 
-1. En Correos electrónicos, haga clic en **Versión de texto** pestaña.
+1. Para correos electrónicos, haz clic en la ficha **Versión de texto**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Clic **Copiar del HTML**.
+1. Haga clic en **Copiar del HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

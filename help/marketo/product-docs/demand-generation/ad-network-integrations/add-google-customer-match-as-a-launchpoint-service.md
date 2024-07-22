@@ -17,25 +17,25 @@ Con esta integración, puede enviar una audiencia de Marketo Engage a Google par
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 1. Ir a **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Clic **[!UICONTROL LaunchPoint]**.
+1. Haga clic en **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleccionar **[!UICONTROL Nuevo]** entonces **[!UICONTROL Nuevo servicio]**.
+1. Seleccione **[!UICONTROL Nuevo]** y después **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca una **[!UICONTROL Nombre para mostrar]** y seleccione **[!UICONTROL Coincidencia de clientes de Google]** desde el **[!UICONTROL Servicio]** menú desplegable. Clic **[!UICONTROL Crear]**.
+1. Escriba un **[!UICONTROL Nombre para mostrar]** y seleccione **[!UICONTROL Coincidencia de clientes de Google]** en la lista desplegable **[!UICONTROL Servicio]**. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/chooseservice.png)
 
-1. Para conectar una cuenta de Google AdWords, haga clic en **[!UICONTROL Autorizar]**.
+1. Para conectar una cuenta de Google AdWords, haz clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ Con esta integración, puede enviar una audiencia de Marketo Engage a Google par
 
    >[!CAUTION]
    >
-   >Para que Marketo envíe audiencias a través de varias cuentas de AdWords, el usuario de Google que autorice en los siguientes pasos debe tener acceso a _todo_ de estas cuentas.
+   >Para que Marketo envíe audiencias a través de varias cuentas de AdWords, el usuario de Google que usted autorice en los siguientes pasos debe tener acceso a _todas_ estas cuentas.
 
    ![](assets/chooseaccount.png)
 
-1. Revise los permisos solicitados y haga clic en **[!UICONTROL Permitir]**.
+1. Revise los permisos solicitados y luego haga clic en **[!UICONTROL Permitir]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Su cuenta de Google AdWords ahora está conectada a Marketo. Clic **[!UICONTROL Crear]**.
+1. Su cuenta de Google AdWords ahora está conectada a Marketo. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/authorizesuccess.png)
 

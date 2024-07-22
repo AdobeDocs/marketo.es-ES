@@ -19,27 +19,27 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Haga clic en en **Desde** (elimine cualquier nombre existente) y haga clic en **Insertar token** botón.
+1. Haga clic en el campo **De** (elimine cualquier nombre existente) y luego haga clic en el botón **Insertar token**.
 
    ![](assets/two.png)
 
-1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione la **`{{lead.Lead Owner First Name}}`** token.
+1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione el token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Introduzca un valor predeterminado en caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
+1. Introduzca un valor predeterminado en el caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Haga clic después del primer token, añada un espacio y, a continuación, haga clic en **Insertar token** botón.
+1. Haga clic después del primer token, agregue un espacio y, a continuación, haga clic en el botón **Insertar token**.
 
    ![](assets/five.png)
 
-1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione la **`{{lead.Lead Owner Last Name}}`** token.
+1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione el token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Introduzca un valor predeterminado en caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
+1. Introduzca un valor predeterminado en el caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -51,14 +51,14 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione la **`{{lead.Lead Owner Email Address}}`** token.
+1. Empiece a escribir &quot;`{{lead.Lead Owner`&quot; y seleccione el token **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Introduzca un valor predeterminado en caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
+1. Introduzca un valor predeterminado en el caso de que el posible cliente aún no tenga un propietario y haga clic en **Insertar**.
 
    ![](assets/ten.png)
 
-1. Asegúrese de que la **Responder a** y **Asunto** los campos están rellenados y ¡ha terminado!
+1. Asegúrese de que los campos **Responder a** y **Asunto** estén rellenados y listo.
 
    ![](assets/eleven.png)

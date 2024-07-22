@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Agregar instrucciones de información sobre herramientas a un campo de formulario {#add-tooltip-instructions-to-a-form-field}
 
-[Sugerencias](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) Las instrucciones y ayudan a las personas a rellenar formularios. A continuación se indica cómo añadir instrucciones de información sobre herramientas.
+[Sugerencias](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) e instrucciones ayudan a las personas a rellenar formularios. A continuación se indica cómo añadir instrucciones de información sobre herramientas.
 
 >[!NOTE]
 >
 >**Definición**
 >
->Form **Sugerencias** es el texto que aparece dentro del campo y que desaparece cuando el visitante empieza a escribir en él.
+>El formulario **Hints** es texto que se encuentra dentro del campo y que desaparece cuando el visitante comienza a escribir en el campo.
 >
->Form **Instrucciones** Hay pequeñas descripciones emergentes cuando el visitante pasa el ratón por encima del campo.
+>Las **instrucciones** del formulario son pequeñas descripciones emergentes cuando el visitante pasa el ratón sobre el campo.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Seleccione el campo e introduzca **Instrucciones**.
+1. Seleccione su campo e ingrese **Instrucciones**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >No te olvides de [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+   >No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

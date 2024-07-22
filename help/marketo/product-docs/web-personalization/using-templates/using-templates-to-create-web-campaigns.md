@@ -7,23 +7,23 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Uso de plantillas para crear campañas web {#using-templates-to-create-web-campaigns}
 
-Agilice y simplifique su proceso de creación de campañas web utilizando nuestras plantillas integradas o [guardar los suyos propios](save-your-campaign-as-a-template.md).
+Acelere y simplifique su proceso de creación de campañas web usando nuestras plantillas integradas o [guardando las suyas](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
 >Las plantillas están optimizadas para todos los dispositivos y experiencias de navegación, tanto para escritorio como para móviles.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Clic **Creación de una nueva campaña web**.
+1. Haga clic en **Crear nueva campaña web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Agilice y simplifique su proceso de creación de campañas web utilizando nuestr
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Clic **Plantillas**.
+1. Haga clic en **Plantillas**.
 
    ![](assets/templates.png)
 
@@ -49,13 +49,13 @@ Agilice y simplifique su proceso de creación de campañas web utilizando nuestr
 
    >[!TIP]
    >
-   >Para campañas móviles, seleccione una plantilla del **mobile** sección.
+   >Para campañas móviles, seleccione una plantilla de la sección **mobile**.
 
 1. Personalice la plantilla.
 
    ![](assets/customize-template.jpg)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/click-save-hand.jpg)
 

@@ -1,12 +1,12 @@
 ---
-description: Límites de uso del producto - Documentos de Marketo - Documentación del producto
+description: Límites de uso de productos - Documentos de Marketo - Documentación del producto
 title: Límites de uso del producto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 14%
+source-wordcount: '233'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ A continuación, se muestran los límites para el uso de las funciones de partic
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions es una aplicación basada en web que se integra con la interfaz de usuario de Salesforce a través de la [Paquete de perspectivas de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
+>Marketo Sales Insight Actions es una aplicación basada en web que se integra con la interfaz de usuario de Salesforce mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 <table>
   <th>Funcionalidad</th>
@@ -40,7 +40,7 @@ A continuación, se muestran los límites para el uso de las funciones de partic
  <tr>
   <td>Plantillas de email</td>
   <td>por instancia</td>
-  <td>2,000</td>
+  <td>2.000</td>
  </tr>
  <tr>
   <td>Categorías de plantilla de correo electrónico</td>

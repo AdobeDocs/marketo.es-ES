@@ -25,21 +25,21 @@ Seleccionada de forma predeterminada, esta opción simplemente muestra la campa�
 
 Especifique un retraso (en segundos totales) para que las campañas web reaccionen en el sitio web.
 
-1. Haga clic en **Mostrar activado** y seleccione. **Demora**.
+1. Haga clic en el menú desplegable **Mostrar en** y seleccione **Demora**.
 
    ![](assets/d1.png)
 
-1. Haga clic en **Esperar** y seleccione la cantidad de tiempo que desee.
+1. Haga clic en el menú desplegable **Esperar** y seleccione la cantidad de tiempo que desee.
 
    ![](assets/d2.png)
 
 ## Desplazamiento {#scroll}
 
-1. Haga clic en **Mostrar activado** y seleccione. **Desplazamiento**.
+1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Desplazamiento**.
 
    ![](assets/s1.png)
 
-1. Haga clic en **Cuándo** y seleccione cuándo desea que se muestre la campaña web.
+1. Haga clic en el menú desplegable **Cuándo** y seleccione cuándo desea que se muestre la campaña web.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Especifique un retraso (en segundos totales) para que las campañas web reaccion
 
 La intención de salida muestra la campaña web al salir el cursor del ratón del explorador.
 
-1. Haga clic en **Mostrar activado** y seleccione. **Intento de salida**.
+1. Haga clic en el menú desplegable **Mostrar en** y seleccione **Salir de la intención**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ La intención de salida muestra la campaña web al salir el cursor del ratón de
 
 >[!TIP]
 >
->¿Quieres ver cómo se verán tus efectos elegidos con antelación? Compruébelos a través de una [Vista previa de campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>¿Quieres ver cómo se verán tus efectos elegidos con antelación? Compruébelo en [Vista previa de campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

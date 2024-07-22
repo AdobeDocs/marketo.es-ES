@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ La atribución le ayuda a medir el éxito del programa. Algunos programas están
 
 ## Atribución de primer toque (FT) {#first-touch-ft-attribution}
 
-La atribución de primer contacto (FT) responde a un **pregunta simple de negocios**, &quot;¿Qué programas son buenos para adquirir nuevos nombres rentables?&quot;
+La atribución de primer toque responde a una **pregunta comercial sencilla**: &quot;¿Qué programas son buenos para adquirir nuevos nombres rentables?&quot;
 
 ## Atribución de varios toques {#multi-touch-attribution}
 
-Respuestas multitáctiles a **cuestión empresarial complicada**, &quot;¿Qué programas influyen más en el avance de las personas en el ciclo de ventas a lo largo del tiempo?&quot;
+Multi-Touch responde a una **pregunta empresarial complicada**: &quot;¿Qué programas influyen más en el avance de las personas en el ciclo de ventas a lo largo del tiempo?&quot;
 
 ## Reglas de atribución {#rules-of-attribution}
 
@@ -41,9 +41,9 @@ En los ejemplos siguientes, puede aplicar estas reglas y comprender todo lo que 
 
 >[!MORELIKETHIS]
 >
->* [Ejemplo 1 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Ejemplo 2 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Ejemplo 3 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Ejemplo 4 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Ejemplo de atribución 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Ejemplo de atribución 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Ejemplo de atribución 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Ejemplo de atribución 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 Si utiliza esta función, definitivamente está aprovechando al máximo su inversión en Marketo.

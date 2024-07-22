@@ -17,19 +17,19 @@ Utilice la función de clonación de la página Campañas web para copiar la con
 
 ## Creación de una campaña para clonar {#create-a-clone-campaign}
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña web que deseas, usa la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Para la campaña web, haga clic en **Clonar**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. El proceso de clonación de la campaña copia todo el contenido de la campaña web existente en la nueva campaña clonada. La nueva campaña web clonada se titula, &quot;[NOMBRE DE CAMPAÑA] Copiar&quot;.
+1. El proceso de clonación de la campaña copia todo el contenido de la campaña web existente en la nueva campaña clonada. La nueva campaña web clonada tiene el título &quot;[NOMBRE DE CAMPAÑA] copia&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -39,6 +39,6 @@ Utilice la función de clonación de la página Campañas web para copiar la con
 
 >[!MORELIKETHIS]
 >
->* [Creación de una campaña de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Creación de una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creación de una campaña de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Crear una campaña de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crear una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una campaña de widget de RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

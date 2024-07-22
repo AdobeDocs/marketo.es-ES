@@ -2,7 +2,8 @@
 description: Prácticas recomendadas para seminarios web interactivos - Documentos de Marketo - Documentación del producto
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
-source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
+exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Cree un ejemplo de seminario web interactivo (IW) y clónelo cada vez para evitar empezar desde cero.
 
-* Vuelva a utilizar las salas de Adobe Connect si va a volver a enviar el mismo contenido más tarde. Vaya a **Borrar contenido de los pods** en el menú Paquetes para borrar el historial de conversaciones y los resultados de las encuestas/pruebas de la última sesión. Esto simplemente borra el contenido de la sala. Todos los datos de sesiones anteriores seguirán estando disponibles en Marketo Engage.
+* Vuelva a utilizar las salas de Adobe Connect si va a volver a enviar el mismo contenido más tarde. Vaya a **Borrar contenido de pods** desde el menú Pods para borrar el historial de chat y los resultados de encuesta/prueba de la última sesión. Esto simplemente borra el contenido de la sala. Todos los datos de sesiones anteriores seguirán estando disponibles en Marketo Engage.
 
 * Evite programar sesiones consecutivas. Asegúrese de tener al menos 30 minutos de tiempo de preparación antes del inicio del seminario web. Esto le permitirá cargar cualquier cambio de presentación de última hora, ajustar el micrófono y la cámara y hacer que los nuevos presentadores se sientan cómodos con la interfaz.
 
@@ -66,25 +67,25 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 * Active el recordatorio de grabación en las Preferencias de sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
 
 * Habilite el área Host y presentador y configúrela con los pods correspondientes. Esta área solo es visible para los anfitriones y presentadores y se puede usar para colaborar entre bastidores. Algunos pods para incluir aquí serían:
-   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo utilizar el panel de participación.
+   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo usar el panel de participación.
    * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
    * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
 
-* Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde `apps.adobeconnect.com` como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
+* Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar de `apps.adobeconnect.com` como archivos .pod o .zip, que luego se pueden compartir en el pod compartido.
    * Algunos pods personalizados populares son Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * [Haga clic aquí](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para ver un breve vídeo sobre cómo utilizar pods personalizados.
+   * [Haz clic aquí](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para ver un breve vídeo sobre cómo usar pods personalizados.
 
 **Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:**
 
-* **Ticker de actividades**: el marcador de actividad muestra información sobre quién está hablando en este momento y alerta cuando los asistentes se unen o abandonan la sala. El marcador de actividad se puede eliminar desmarcando &quot;Mostrar marcador de actividad&quot; en la sección &quot;Barra de menú&quot; en las Preferencias de sala.
+* **Marcador de actividad**: el marcador de actividad muestra información sobre quién está hablando en este momento y alerta cuando los asistentes se unen o abandonan la sala. El marcador de actividad se puede eliminar desmarcando &quot;Mostrar marcador de actividad&quot; en la sección &quot;Barra de menú&quot; en las Preferencias de sala.
 
-* **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del anfitrión/presentador que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
+* **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del presentador/anfitrión que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-* **Panel de chat**: el panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
+* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información acerca del uso del Panel de chat.
 
-* **Chat privado**: desactive el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
+* **Chat privado**: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 
-* **Pod de asistentes**: mueva el pod Asistentes al área Host y Presenter.
+* **Pod de asistentes**: mueva el pod de asistentes al área de Host y Presenter.
 
 ## envío {#delivery}
 
@@ -98,9 +99,9 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano.
 
-* Utilice el área de host y presentador como área de backstage para coordinarse de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para ver un breve vídeo en el área Host y Presenter.
+* Utilice el área de host y presentador como área de backstage para coordinarse de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para ver un breve vídeo sobre el área de Host y Presenter.
 
-* Utilice el modo de preparación para realizar cualquier cambio de último minuto de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para ver un breve vídeo sobre el modo de preparación.
+* Utilice el modo de preparación para realizar cualquier cambio de último minuto de forma privada. [Haz clic aquí](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para ver un breve vídeo sobre el modo de preparación.
 
 * Utilice el panel de control de participación para mantener una pestaña en los niveles de interés de los participantes. Vaya a una encuesta, haga una pregunta de acuerdo o en desacuerdo, envíe una pregunta en el pod de chat o utilice el pod personalizado de Word Cloud para obtener respuestas de los participantes y aumentar los niveles de participación.
 

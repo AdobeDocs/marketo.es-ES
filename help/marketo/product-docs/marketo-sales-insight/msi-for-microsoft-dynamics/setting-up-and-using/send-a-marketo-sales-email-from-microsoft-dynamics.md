@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Su equipo de ventas puede enviar correos electrónicos y hacer que se rastree la apertura y los clics directamente desde Microsoft Dynamics. Así es como.
 
-1. En Dynamics, vaya a **Ventas** área.
+1. En Dynamics, vaya al área **Ventas**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Seleccione una **Vista del sistema**.
+1. Seleccione una **vista de sistema**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,21 +27,21 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastree la
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Haga clic en **...** y haga clic en **Enviar correo electrónico a Marketo**.
+1. Haga clic en la ficha **...** y, a continuación, haga clic en **Enviar correo electrónico de Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >Puede [publicar correos electrónicos como plantillas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que lo utilice su equipo de ventas.
+   >Puede [publicar correos electrónicos como plantillas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que los use su equipo de ventas.
 
-1. Añada un asunto, redacte el correo electrónico y haga clic en **Enviar correo electrónico**. (Elija una plantilla si la necesita).
+1. Agrega un asunto, redacta tu correo electrónico y haz clic en **Enviar correo electrónico**. (Elija una plantilla si la necesita).
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Puede hacer clic en **Enviar correo electrónico de prueba** primero, y se le enviará el correo electrónico (dirección de correo electrónico principal en Microsoft Dynamics) antes de enviar el correo electrónico real.
+   >Primero puede hacer clic en **Enviar correo electrónico de prueba** y se le enviará el correo electrónico (la dirección de correo electrónico principal en Microsoft Dynamics) antes de enviar el correo electrónico real.
 
    >[!NOTE]
    >
@@ -51,4 +51,4 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastree la
 
 >[!MORELIKETHIS]
 >
->[Añadir un posible cliente/contacto a una campaña de Marketo desde Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Agregar un posible cliente/contacto a Marketo Campaign desde Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

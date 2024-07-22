@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Priorice las campañas web cuando dos o más campañas web se superpongan median
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña web que deseas, usa la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. En la página Editar campaña, establezca la puntuación de prioridad (9999 = Prioridad más alta 1 = Prioridad más baja).
 

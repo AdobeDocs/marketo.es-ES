@@ -5,8 +5,8 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 4%
+source-wordcount: '478'
+ht-degree: 8%
 
 ---
 
@@ -18,9 +18,9 @@ Los objetos de mensajes de clave de llamada y llamada de Veeva CRM se sincroniza
 >
 >Marketo conserva los datos de la llamada hasta seis meses después de la fecha de la llamada.
 
-**¿Cuáles son los déclencheur relacionados con Call and Call Key Message?**
+**¿Cuáles son los déclencheur relacionados con el mensaje de clave de llamada y llamada?**
 
-Activadores:
+Desencadenadores:
 
 * Añadido a la llamada
 * Eliminado de la llamada
@@ -50,7 +50,7 @@ Los siguientes campos de los mensajes Call y Call Key están sincronizados y pue
         Objeto
       </th>
       <th>
-        Etiqueta de campo
+        Etiqueta del campo
       </th>
       <th>
         Descripción
@@ -114,42 +114,42 @@ Los siguientes campos de los mensajes Call y Call Key están sincronizados y pue
       <td>Tipo de registro</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Llamar a un</td>
       <td>Busca la llamada. Cada mensaje clave está asociado a una llamada.</td>
       <td>Llamar a 2_vod__c</td>
       <td>Master-Detail(Call)</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Categoría</td>
       <td>Registra la categoría del mensaje. Se utiliza principalmente para informes.</td>
       <td>Category_vod__c</td>
       <td>Lista de selección</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Nombre de presentación CLM</td>
       <td>Nombre de presentación CLM estampado</td>
       <td>Clm_Presentation_Name_vod__c</td>
       <td>Texto (80)</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Nombre del mensaje de clave</td>
       <td>Nombre de mensaje de clave estampada</td>
       <td>Key_Message_Name_vod__c</td>
       <td>Texto (80)</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Nombre del producto</td>
       <td> </td>
       <td>Product_Name__c</td>
       <td>Fórmula (texto)</td>
     </tr>
     <tr>
-      <td>Mensaje de clave de llamada</td>
+      <td>Mensaje clave de llamada</td>
       <td>Reacción</a>
       </td>
       <td>Lista de reproducción del mensaje. Edite la lista de selección para cambiar los valores de reacción.</td>

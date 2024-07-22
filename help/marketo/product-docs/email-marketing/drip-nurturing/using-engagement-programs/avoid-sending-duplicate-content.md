@@ -23,8 +23,8 @@ Estos son siete escenarios y resultados posibles que deben tenerse en cuenta par
 |---|---|---|
 | Una campaña en un programa independiente, independiente y predeterminado | No es miembro del programa predeterminado | Sí |
 | Una campaña en un programa independiente, independiente y predeterminado | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de **igual** programa CEE | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de **igual** programa CEE | No es miembro del programa predeterminado | Sí |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión de tipos dentro de un **distinto** programa CEE | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión de tipos dentro de un **distinto** programa CEE | No es miembro del programa predeterminado | Sí |
-| A **distinto** Programa CEE con un flujo inteligente | Un miembro de ambos programas CEE | No |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro del programa CEE **same** | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro del programa CEE **same** | No es miembro del programa predeterminado | Sí |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro de un programa CEE **diferente** | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro de un programa CEE **diferente** | No es miembro del programa predeterminado | Sí |
+| Un programa CEE **diferente** que usa un flujo inteligente | Un miembro de ambos programas CEE | No |

@@ -17,11 +17,11 @@ Puede organizar las direcciones URL de los vínculos de entrada para el contenid
 
 ## Adición de una URL de vínculo de entrada a una lista {#add-an-inbound-link-url-to-a-list}
 
-1. Vaya a la **[!UICONTROL Vínculos entrantes]** sección.
+1. Vaya a la sección **[!UICONTROL Vínculos entrantes]**.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Pase el ratón sobre la dirección URL del vínculo de entrada que quiera clasificar. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la dirección URL del vínculo de entrada que quiera clasificar. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -31,21 +31,21 @@ Puede organizar las direcciones URL de los vínculos de entrada para el contenid
 
 >[!TIP]
 >
->También puede crear una nueva lista para que la palabra clave vaya. Solo tiene que escribir el nombre que desee en [!UICONTROL Crear una lista nueva].
+>También puede crear una nueva lista para que la palabra clave vaya. Escriba el nombre que desee en [!UICONTROL Crear una lista nueva].
 
 ## Eliminar una URL de vínculo entrante de una lista {#remove-an-inbound-link-url-from-a-list}
 
 A veces, es recomendable quitar las direcciones URL de los vínculos de entrada de una lista.
 
-1. Clic **[!UICONTROL Vínculos entrantes]**.
+1. Haga clic en **[!UICONTROL Vínculos entrantes]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Haga clic en **[!UICONTROL Filtrar por lista]** menú desplegable. Haga clic en la lista que desee limpiar.
+1. Haga clic en la lista desplegable **[!UICONTROL Filtrar por lista]**. Haga clic en la lista que desee limpiar.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Pase el ratón sobre la dirección URL del vínculo de entrada que quiera eliminar. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la dirección URL del vínculo de entrada que quiera eliminar. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

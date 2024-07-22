@@ -6,8 +6,8 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Para acceder a las perspectivas de rendimiento, haga clic en su icono en la pant
 
 ## Contribución {#contribution}
 
-Evaluar el de Marketing [contribución a los ingresos](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) como una función de adquisición de clientes, influencia, conversión, incluso el crecimiento de la base instalada.
+Evalúe la [contribución de marketing a los ingresos](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) como una función de la adquisición de clientes, la influencia, la conversión e incluso el crecimiento de la base instalada.
 
 ![](assets/two.png)
 
@@ -37,19 +37,19 @@ De forma predeterminada, los datos mostrados reflejan el rendimiento por partici
 
 ## Tendencia {#trend}
 
-Descubrir [tendencias a largo plazo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) para detectar estrategias ganadoras consistentes.
+Descubre [tendencias a largo plazo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) para detectar estrategias ganadoras consistentes.
 
 ![](assets/4.png)
 
 ## Configuración {#settings}
 
-En los paneles Ingresos y Canalización, haga clic en [Configuración](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) para definir parámetros adicionales.
+En los paneles Ingresos y Canalización, haga clic en el icono [Configuración](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) para establecer parámetros adicionales.
 
 ![](assets/5.png)
 
 ## Exportar datos {#export-data}
 
-Puede exportar los datos y gráficos en PowerPoint o Excel. También puede guardarlos como una [Gráfico rápido](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Puede exportar los datos y gráficos en PowerPoint o Excel. También puede guardarlos como [Gráfico rápido](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

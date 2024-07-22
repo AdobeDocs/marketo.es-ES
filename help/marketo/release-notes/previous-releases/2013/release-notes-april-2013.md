@@ -6,8 +6,8 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 0%
+source-wordcount: '213'
+ht-degree: 1%
 
 ---
 
@@ -37,7 +37,7 @@ La función de análisis de correo electrónico en su conjunto se activará por 
 
 ## API de programa {#program-apis}
 
-Compatibilidad con programas en la llamada de API de SOAP, incluido el acceso de solo lectura a datos de programa como: recuentos de miembros de programas, adquiridos por, éxito, configuración, canales, etiquetas, tokens y costes. Consulte la documentación de la API de SOAP para obtener más información.
+SOAP Compatibilidad con programas en la llamada de API de, incluido el acceso de solo lectura a datos de programa como: recuentos de miembros de programas, adquiridos por, éxito, configuración, canales, etiquetas, tokens y costes. SOAP Consulte la documentación de la API de para obtener más información.
 
 ## Mejora de ON24 {#on-enhancement}
 

@@ -21,7 +21,7 @@ Además, puede eliminar personas de la campaña en sí, eliminar personas de una
 
 ## Eliminación de una persona directamente de una campaña {#remove-a-person-directly-from-a-campaign}
 
-1. En Sales Connect, haga clic en **Campañas** pestaña.
+1. En Sales Connect, haga clic en la ficha **Campañas**.
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ Además, puede eliminar personas de la campaña en sí, eliminar personas de una
 
    ![](assets/three.png)
 
-1. Busque la persona que desea eliminar y haga clic en **Eliminar**.
+1. Busque a la persona que desea eliminar y haga clic en **Eliminar**.
 
    ![](assets/four.png)
 
-1. (PASO OPCIONAL) También puede quitar varias personas a la vez haciendo clic en las casillas de verificación situadas junto a sus nombres y haciendo clic en el botón **Eliminar** en la parte superior.
+1. (PASO OPCIONAL) También puede quitar varias personas a la vez si hace clic en las casillas de verificación situadas junto a sus nombres y hace clic en el botón **Quitar** de la parte superior.
 
    ![](assets/five.png)
 
 ## Eliminación de una persona de una campaña en la página Personas {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. En Sales Connect, haga clic en **People** pestaña.
+1. En Sales Connect, haga clic en la ficha **Personas**.
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ Además, puede eliminar personas de la campaña en sí, eliminar personas de una
 
    ![](assets/two-a.png)
 
-1. El panel Vista de detalles de la persona se abrirá a la derecha. Haga clic en **Historial** seguido de la pestaña **Eliminar** botón.
+1. El panel Vista de detalles de la persona se abrirá a la derecha. Haga clic en la ficha **Historial** seguida del botón **Quitar**.
 
    ![](assets/three-a.png)
 
 ## Eliminación de un grupo de personas de una campaña {#remove-a-group-of-people-from-a-campaign}
 
-1. En Sales Connect, haga clic en **People** pestaña.
+1. En Sales Connect, haga clic en la ficha **Personas**.
 
    ![](assets/one-b.png)
 
@@ -69,6 +69,6 @@ Además, puede eliminar personas de la campaña en sí, eliminar personas de una
 
    ![](assets/three-b.png)
 
-1. Clic **Acciones** y elija **Eliminar seleccionados de la campaña**.
+1. Haga clic en **Acciones** y elija **Eliminar selección de la campaña**.
 
    ![](assets/four-b.png)

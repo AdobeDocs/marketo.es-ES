@@ -6,7 +6,7 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -23,15 +23,15 @@ Los elementos son los diferentes fragmentos de contenido que conforman una pági
 
 Al editar una página de aterrizaje guiada, los elementos se muestran si se han marcado como editables en la plantilla. Los elementos tendrán los siguientes iconos:
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) Imagen
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) imagen
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulario de Marketo
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)Texto
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)Texto
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Vídeo
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Botón Compartir de Marketo
-* ![—](assets/image2015-5-20-12-3a43-3a21.png)Encuesta de Marketo
+* ![—](assets/image2015-5-20-12-3a43-3a21.png)Sondeo de Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Referencia de Marketo
-* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
-* ![—](assets/image2015-5-20-12-3a47-3a45.png)Fragmento de Marketo
+* ![—](assets/image2015-5-20-12-3a44-3a40.png)Sorteos de Marketo
+* ![—](assets/image2015-5-20-12-3a47-3a45.png)Fragmento de código Marketo
 
 ## Variables {#variables}
 

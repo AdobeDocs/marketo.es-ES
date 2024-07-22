@@ -19,8 +19,8 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 >
 >Ejemplos de campañas inteligentes para solicitar:
 >
->1. **Nutrición a largo plazo** - cuando no tienen un presupuesto este año y solo quieres seguir en el radar
->1. **Ciclo de ventas activo** - cuando el vendedor no quiere ningún mensaje para la persona, excepto el suyo propio. (utilice el indicador suspendido de marketing para cancelar la suscripción temporalmente)
+>1. **Nutrición a largo plazo**: cuando no tengan presupuesto para este año y solo quieras mantenerte al tanto
+>1. **Ciclo de ventas activo**: cuando el vendedor no desea ningún mensaje para la persona, excepto el suyo propio. (utilice el indicador suspendido de marketing para cancelar la suscripción temporalmente)
 >
 >Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pídeles y ponlo en contacto!
 
@@ -28,7 +28,7 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Busque y arrastre el **[!UICONTROL Campaña solicitada]** déclencheur al lienzo.
+1. Busque y arrastre el déclencheur **[!UICONTROL Se ha solicitado la campaña]** al lienzo.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
@@ -36,9 +36,9 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 
    >[!TIP]
    >
-   >Los operadores de origen son para la seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elegir **[!UICONTROL Es Cualquiera]** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
+   >Los operadores de origen son para la seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elija **[!UICONTROL Is Any]** en el primer cuadro si desea permitir solicitudes de todos los orígenes.
    >
-   >_Recordar_, al elegir la perspectiva de ventas, se mostrará mágicamente en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
+   >_Recuerde_, al elegir la perspectiva de ventas, se mostrará automáticamente en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

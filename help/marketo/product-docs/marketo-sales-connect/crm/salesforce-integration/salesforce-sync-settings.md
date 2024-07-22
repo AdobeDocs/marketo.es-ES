@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 >
 >Salesforce y Sales Connect deben estar conectados.
 
-1. En Sales Connect, haga clic en el icono del engranaje situado en la esquina superior derecha y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
    ![](assets/two-2.png)
 
-1. Haga clic en **Configuración de sincronización** pestaña.
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
    ![](assets/four-1.png)
 
-1. Haga clic en **API de Salesforce** pestaña. En esta tarjeta puede configurar sus preferencias para registrar información en Salesforce. Clic **Guardar** cuando termine.
+1. Haga clic en la ficha **API de Salesforce**. En esta tarjeta puede configurar sus preferencias para registrar información en Salesforce. Haga clic en **Guardar** cuando termine.
 
    ![](assets/five.png)
 
@@ -49,9 +49,9 @@ Una vez que active &quot;Email to Salesforce (BCC)&quot;, recibirá un CCO de su
 >
 >Salesforce y Sales Connect deben estar conectados.
 
-**Para registrar los correos electrónicos en Salesforce por correo electrónico (CCO)**
+**Para registrar sus correos electrónicos en Salesforce por correo electrónico (CCO)**
 
-1. En Sales Connect, haga clic en el icono del engranaje situado en la esquina superior derecha y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-3.png)
 
@@ -59,11 +59,11 @@ Una vez que active &quot;Email to Salesforce (BCC)&quot;, recibirá un CCO de su
 
    ![](assets/two-3.png)
 
-1. Haga clic en **Configuración de sincronización** pestaña.
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en **Correo electrónico a Salesforce (CCO)** y haga clic en **Activar**.
+1. Haga clic en la ficha **Enviar correo electrónico a Salesforce (CCO)** y luego en **Activar**.
 
    ![](assets/six-2.png)
 
@@ -71,14 +71,14 @@ Si, por alguna razón, su dirección de correo electrónico a Salesforce no se i
 
 1. Inicie sesión en la instancia de Salesforce.
 1. Busque su nombre de usuario en la esquina superior derecha y seleccione la barra desplegable.
-1. Seleccionar **Mis configuraciones**.
-1. Seleccionar **Correo electrónico**.
-1. Seleccionar **Mi correo electrónico a Salesforce**.
+1. Seleccione **Mi configuración**.
+1. Seleccione **Correo electrónico**.
+1. Seleccione **Mi correo electrónico para Salesforce**.
 1. En esta página, verá un campo denominado &quot;Enviar correo electrónico a la dirección de Salesforce&quot;. Si no hay nada rellenado junto a él, desplácese hacia abajo hasta &quot;Mis direcciones de correo electrónico aceptables&quot;.
 1. Introduzca las direcciones de correo electrónico que desea incluir en la lista de destinatarios copiados ocultos (CCO).
-1. Clic **Guardar cambios**.
+1. Haga clic en **Guardar cambios**.
 
-**No se puede encontrar mi correo electrónico a Salesforce en Mi configuración**
+**No puedo encontrar mi correo electrónico a Salesforce en Mi configuración**
 
 Si no ve Mi correo electrónico a Salesforce en su Configuración, es posible que el administrador no lo haya habilitado. Esto puede suceder si su equipo es nuevo en Salesforce o si su equipo nunca ha utilizado la dirección de CCO que Salesforce proporciona.
 
@@ -86,12 +86,12 @@ Si no ve Mi correo electrónico a Salesforce en su Configuración, es posible qu
 >
 >Necesitará privilegios de administrador para configurar esto.
 
-1. Clic **Configurar**.
-1. Clic **Administración de correo electrónico**.
-1. Clic **Correo electrónico a Salesforce**.
-1. Clic **Editar**.
+1. Haga clic en **Configuración**.
+1. Haga clic en **Administración de correo electrónico**.
+1. Haga clic en **Correo electrónico a Salesforce**.
+1. Haga clic en **Editar**.
 1. Marque la casilla junto a &quot;Activo&quot;.
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
 ## Sincronizar tareas/recordatorios de Sales Connect con tareas de Salesforce {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
@@ -103,7 +103,7 @@ Si no ve Mi correo electrónico a Salesforce en su Configuración, es posible qu
 
    ![](assets/two-2.png)
 
-1. Haga clic en **Configuración de sincronización** pestaña.
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 

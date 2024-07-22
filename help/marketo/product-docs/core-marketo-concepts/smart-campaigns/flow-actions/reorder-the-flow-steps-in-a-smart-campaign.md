@@ -17,9 +17,9 @@ Los pasos de flujo se ejecutan de arriba a abajo. A continuación, se indica có
 
 >[!PREREQUISITES]
 >
->[Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Agregar un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. En la campaña inteligente **[!UICONTROL Flujo]** pestaña, simplemente arrastre y suelte el paso de flujo en el lugar que desee.
+1. En la pestaña **[!UICONTROL Flujo]** de tu campaña inteligente, simplemente arrastra y suelta el paso de flujo donde lo desees.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

@@ -17,7 +17,7 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Filtro Miembro del programa de participación {#member-of-engagement-program-filter}
 
-1. Cree una nueva lista inteligente y luego busque y arrastre en **Miembro del programa de participación** filtro.
+1. Cree una nueva lista inteligente y luego busque y arrastre el filtro **Miembro del programa de participación**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -29,7 +29,7 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Establecer **Contenido agotado** hasta **true**.
+1. Establezca **Contenido agotado** en **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,11 +37,11 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Pestaña Miembros {#members-tab}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y vaya a **Miembros** pestaña.
+1. Seleccione su programa de participación y vaya a la ficha **Miembros**.
 
    ![](assets/memberstab.jpg)
 
@@ -51,7 +51,7 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
    Esto muestra las personas que han agotado todo el contenido y las que no lo han hecho.
 
-## Stream {#stream}
+## Secuencia {#stream}
 
 1. También puede ver el total de personas que han agotado el contenido en la pestaña Transmisiones en el propio flujo.
 

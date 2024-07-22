@@ -6,7 +6,7 @@ exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cinco secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)

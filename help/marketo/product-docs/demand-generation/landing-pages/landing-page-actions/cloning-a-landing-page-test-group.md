@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Desde Design Studio, puede buscar y duplicar un grupo de prueba de página de aterrizaje.
 
-1. Haga clic con el botón derecho en una página no aprobada. Seleccionar **Clonar**.
+1. Haga clic con el botón derecho en una página no aprobada. Seleccionar **clonar**.
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Dé una nueva página clonada **Nombre**. Las páginas clonadas aparecen al final de la carpeta actual.
+1. Asigne un nuevo **Nombre** a esta página clonada. Las páginas clonadas aparecen al final de la carpeta actual.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Ahora cree un nuevo grupo de prueba haciendo clic en **Nuevo** y picking **Nuevo grupo de prueba**.
+1. Ahora cree un nuevo grupo de prueba haciendo clic en **Nuevo** y seleccionando **Nuevo grupo de prueba**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. En el cuadro de diálogo Crear nuevas páginas de aterrizaje, introduzca el nuevo grupo de prueba **Nombre**.
+1. En el cuadro de diálogo Crear nuevas páginas de aterrizaje, escriba el nuevo grupo de prueba **Name**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. En la parte inferior del cuadro de diálogo, seleccione las páginas clonadas en la **Páginas de aterrizaje disponibles** y haga clic en la flecha que señala a la derecha para incluirla en la lista **Páginas de aterrizaje probadas**. Haga esto para todas las páginas de aterrizaje que desee en este grupo.
+1. En la parte inferior del cuadro de diálogo, seleccione las páginas clonadas en la lista **Páginas de aterrizaje disponibles** y haga clic en la flecha que señala a la derecha para incluirla en las **Páginas de aterrizaje probadas**. Haga esto para todas las páginas de aterrizaje que desee en este grupo.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 

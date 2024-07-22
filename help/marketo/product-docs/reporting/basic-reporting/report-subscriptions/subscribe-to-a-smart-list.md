@@ -6,14 +6,14 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 1%
+source-wordcount: '428'
+ht-degree: 0%
 
 ---
 
 # Suscripción a una lista inteligente {#subscribe-to-a-smart-list}
 
-La suscripción a listas inteligentes es una buena manera de realizar un seguimiento de las personas, con informes enviados directamente a la bandeja de entrada.
+La suscripción a listas inteligentes es una buena manera de realizar un seguimiento de las personas, ya que los informes se envían directamente a la bandeja de entrada.
 
 Puede crear una suscripción a una lista inteligente en dos lugares independientes:
 
@@ -36,27 +36,27 @@ Las suscripciones son específicas de Workspace. Por ejemplo, esta lista de susc
 
 ## Crear una suscripción a una lista inteligente {#create-a-smart-list-subscription}
 
-1. Vaya a la **Base de datos** o **Actividades de marketing**.
+1. Vaya a la **base de datos** o a **Actividades de marketing**.
 
    ![](assets/db.png)
 
-1. Seleccione la lista inteligente para la que desea crear una suscripción. Clic **Enumerar acciones** y seleccione **Nueva suscripción a lista inteligente**.
+1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en **Acciones de lista** y seleccione **Nueva suscripción a lista inteligente**.
 
    ![](assets/three.png)
 
-1. Asigne un a su suscripción **Nombre**, luego seleccione o introduzca las direcciones de correo electrónico del **Destinatarios**.
+1. Asigne a su suscripción un **Nombre** y, a continuación, seleccione o escriba las direcciones de correo electrónico de los **Destinatarios**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Haga clic en **Frecuencia** y seleccione una frecuencia.
+1. Haga clic en la lista **Frecuencia** y seleccione una frecuencia.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Configure las variables **Finalizar envío** fecha. Puede seleccionar **Nunca** o una fecha de calendario.
+1. Establezca la fecha **Finalizar envío**. Puede seleccionar **Nunca** o una fecha de calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Clic **Formato** y elija en la lista.
+1. Haga clic en **Formato** y elija en la lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -64,7 +64,7 @@ Las suscripciones son específicas de Workspace. Por ejemplo, esta lista de susc
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. La nueva suscripción a la lista inteligente aparece en la parte superior de la lista de la pestaña Suscripciones. Clic **Enviar** si desea realizar el envío ahora y no esperar hasta la entrega de correo electrónico programada.
+1. La nueva suscripción a la lista inteligente aparece en la parte superior de la lista de la pestaña Suscripciones. Haz clic en **Enviar** si deseas enviar ahora y no esperar hasta la entrega de correo electrónico programada.
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ Los destinatarios recibirán un correo electrónico con una opción para descarg
 
 >[!NOTE]
 >
->Si la variable [Administrador de suscripción segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) se establece en **Sí**, solo las personas con acceso a la instancia de Marketo podrán descargar el informe.
+>Si la opción [Administrador de suscripción segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) está establecida en **Sí**, solamente las personas con acceso a la instancia de Marketo podrán descargar el informe.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Para eliminar una suscripción, selecciónela en la pestaña Subscriptions y hag
 
 >[!MORELIKETHIS]
 >
->* [Editar una suscripción a una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Protección de la configuración de administración de suscripciones](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [Editar una suscripción a lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Proteger la configuración de administración de suscripciones](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

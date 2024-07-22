@@ -6,14 +6,14 @@ exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Plantilla 15E {#template-15e}
 
-Haga clic con el botón derecho para [descargar plantilla 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+Haga clic con el botón derecho para [descargar la plantilla 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cinco secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)

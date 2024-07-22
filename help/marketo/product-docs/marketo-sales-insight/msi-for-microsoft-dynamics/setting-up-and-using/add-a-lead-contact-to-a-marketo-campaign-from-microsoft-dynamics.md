@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede añadir rápida y fácilmente posibles clientes o contactos a las campañas inteligentes de Marketo directamente desde Microsoft Dynamics. Así es como.
 
-1. En Dynamics, vaya a **Ventas** área.
+1. En Dynamics, vaya al área **Ventas**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ Puede añadir rápida y fácilmente posibles clientes o contactos a las campaña
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Clic **...** y seleccione **Añadir a Marketo Campaign**.
+1. Haga clic en **...** y seleccione **Agregar a Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Seleccione la campaña de Marketo a la que desee añadir los posibles clientes o contactos y haga clic en **Añadir**.
+1. Seleccione la campaña de Marketo a la que desee agregar los posibles clientes o contactos y haga clic en **Agregar**.
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >Para que la campaña aparezca en la lista desplegable, utilice la variable  [**Campaña solicitada** déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con la perspectiva de ventas como fuente, al configurar la campaña.
+   >Para que la campaña aparezca en la lista desplegable, use el déclencheur [**Se solicita la campaña**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con la perspectiva de ventas como fuente, cuando configure la campaña.
 
 ¡Y eso es todo! Ahora tiene el poder de las campañas inteligentes de Marketo en sus manos directamente desde Dynamics.

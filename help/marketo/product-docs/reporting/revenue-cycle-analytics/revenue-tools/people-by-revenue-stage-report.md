@@ -23,11 +23,11 @@ Puede crear un informe que muestre en qué fase del modelo del ciclo de ingresos
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 
-1. Haga clic en el informe de **Personas por etapa de ingresos**.
+1. Haga clic en el informe de **Personas por fase de ingresos**.
 
    ![](assets/image2017-3-27-15-3a46-3a27.png)
 
-1. Haga clic en **Configurar** pestaña. Haga doble clic en **Persona Creada En** para establecer el lapso de tiempo deseado para el informe.
+1. Haga clic en la ficha **Configuración**. Haga doble clic en el campo **Persona creada a las** para establecer el lapso de tiempo deseado para informar sobre.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
@@ -35,6 +35,6 @@ Puede crear un informe que muestre en qué fase del modelo del ciclo de ingresos
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Haga clic en **Informe** pestaña. Ahora puede ver en qué fase del modelo de ingresos se encuentra su gente y centrarse en cualquier cuello de botella.
+1. Haga clic en la ficha **Informe**. Ahora puede ver en qué fase del modelo de ingresos se encuentra su gente y centrarse en cualquier cuello de botella.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)

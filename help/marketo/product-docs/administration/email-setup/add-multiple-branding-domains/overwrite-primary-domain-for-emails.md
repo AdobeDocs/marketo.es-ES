@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede sobrescribir el dominio de marca principal por correo electrónico. Esto cambiará la forma en que se marcan los vínculos cuando se envíe el correo electrónico.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
@@ -29,4 +29,4 @@ Puede sobrescribir el dominio de marca principal por correo electrónico. Esto c
 
    >[!NOTE]
    >
-   >No todos los usuarios tienen permisos para establecer el dominio con marca por correo electrónico. Póngase en contacto con el administrador si no ve el [!UICONTROL Dominios de marca] menú desplegable.
+   >No todos los usuarios tienen permisos para establecer el dominio con marca por correo electrónico. Póngase en contacto con el administrador si no ve la lista desplegable [!UICONTROL Dominios de marca].

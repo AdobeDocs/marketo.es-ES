@@ -1,6 +1,6 @@
 ---
 unique-page-id: 1146991
-description: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación - Documentos de Marketo - Documentación del producto
+description: 'Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación: Documentos de Marketo: documentación del producto'
 title: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
@@ -19,7 +19,7 @@ Si tiene una campaña de Déclencheur antigua que debe desactivar, siga estos pa
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. En la pestaña Programación, haga clic en **[!UICONTROL Desactivar]**.
+1. En la ficha Programación, haga clic en **[!UICONTROL Desactivar]**.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
@@ -29,4 +29,4 @@ Si tiene una campaña de Déclencheur antigua que debe desactivar, siga estos pa
 
 >[!NOTE]
 >
->Esto se detendrá _nuevo_ que las personas entren en el flujo, pero las personas que estén en pasos de espera o en cualquier otro paso del flujo seguirán moviéndose por el flujo hasta que se haya completado.
+>Esto evitará que _nuevas_ personas entren al flujo, pero las personas en pasos de espera o cualquier otro paso del flujo seguirán moviéndose a través del flujo hasta que finalice.

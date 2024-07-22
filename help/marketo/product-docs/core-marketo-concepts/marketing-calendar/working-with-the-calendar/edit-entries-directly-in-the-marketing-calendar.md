@@ -17,11 +17,11 @@ Una vez en el modo de enfoque del programa, puede realizar rápidamente cambios 
 
 ## Activar enfoque del programa {#enable-program-focus}
 
-1. Haga clic en **[!UICONTROL Calendario]** mosaico.
+1. Haga clic en el mosaico **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Seleccione una entrada que pertenezca al programa en el que desee centrarse y haga clic en **[!UICONTROL Mostrar enfoque del programa]**.
+1. Seleccione una entrada que pertenezca al programa en el que desea centrarse y haga clic en **[!UICONTROL Mostrar enfoque del programa]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

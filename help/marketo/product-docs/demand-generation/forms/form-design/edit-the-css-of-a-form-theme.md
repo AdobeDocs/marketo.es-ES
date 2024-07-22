@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # Editar el CSS de una temática de formulario {#edit-the-css-of-a-form-theme}
 
-Tiene unas pocas compiladas previamente [temas que solo puede elegir](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es como.
+Tiene algunos [temas generados previamente que solo puede elegir entre](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es como.
 
 >[!NOTE]
 >
 >Si desea probar esto, asegúrese de conocer el código CSS, ya que la compatibilidad con Marketo no está configurada para ayudarle con la codificación personalizada. Además, los cambios realizados solo se aplicarán al formulario que esté editando en ese momento.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ Tiene unas pocas compiladas previamente [temas que solo puede elegir](/help/mark
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Ir a **Configuración de formulario**.
+1. Vaya a **Configuración de formulario**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -55,11 +55,11 @@ Tiene unas pocas compiladas previamente [temas que solo puede elegir](/help/mark
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Cuando haya terminado, haga clic en **Guardar**.
+1. Cuando hayas terminado, haz clic en **Guardar**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Para ver el formulario personalizado, haga clic en **Previsualizar borrador**.
+1. Para ver el formulario personalizado, haga clic en **Vista previa del borrador**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

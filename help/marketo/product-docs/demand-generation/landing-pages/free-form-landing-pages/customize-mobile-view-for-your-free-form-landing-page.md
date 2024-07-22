@@ -23,17 +23,17 @@ La vista móvil de la página de aterrizaje de forma libre es generalmente autom
 
    ![](assets/selectlandingapge.jpg)
 
-1. Clic **Editar borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Haga clic en **Móvil** pestaña.
+1. Haga clic en la ficha **Móvil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Vista móvil frente a escritorio {#mobile-vs-desktop-view}
 
-En Elementos de página, verá un ![](assets/image2015-1-22-18-3a39-3a53.png) (escritorio) y un ![](assets/image2015-1-22-18-3a40-3a31.png) Icono (móvil). Esto le permite mostrar u ocultar diferentes elementos de forma dinámica.
+En Elementos de página, verá un icono ![](assets/image2015-1-22-18-3a39-3a53.png) (escritorio) y un icono ![](assets/image2015-1-22-18-3a40-3a31.png) (móvil). Esto le permite mostrar u ocultar diferentes elementos de forma dinámica.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!TIP]
 >
->La vista móvil también puede tener una organización diferente de los elementos de página. Mueva los elementos por la página de aterrizaje de forma libre o reordene los objetos enumerados en **Elementos de página** mediante arrastrar y soltar.
+>La vista móvil también puede tener una organización diferente de los elementos de página. Mueva elementos en la página de aterrizaje de forma libre o reordene los objetos enumerados en **Elementos de página** arrastrando y soltando.
 
 ## Vista previa para móviles {#preview-mobile-view}
 
-1. Clic **Previsualizar borrador**.
+1. Haga clic en **Vista previa del borrador**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. ¿Quieres ver algo genial? Seleccionar **Lado a lado**.
+1. ¿Quieres ver algo genial? Seleccione **Lado A Lado**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Si le encanta, haga clic en **Aprobar y cerrar**.
+1. Si te encanta, haz clic en **Aprobar y cerrar**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -111,4 +111,4 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!MORELIKETHIS]
 >
->[Hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Hacer compatible una plantilla de página de aterrizaje de forma libre existente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

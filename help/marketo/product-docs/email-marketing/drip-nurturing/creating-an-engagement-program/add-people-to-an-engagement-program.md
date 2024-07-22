@@ -17,7 +17,7 @@ Existen varias formas en que las personas pueden convertirse en miembros de un p
 
 * [Agregar al programa de participación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
 * [Cambiar cadencia del programa de participación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) paso de flujo
-* [Cambiar flujo de programa de participación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) paso de flujo
+* Paso de flujo [Cambiar flujo del programa de participación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
 * [Cambiar estado del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) paso de flujo
 * Si una persona rellena un formulario local para un programa de participación
 * Importación de miembros en un programa de participación (a través de la pestaña Miembros dentro del programa)

@@ -71,15 +71,15 @@ En algunos casos, simplemente se elimina la palabra &quot;posible cliente&quot;.
  </tbody> 
 </table>
 
-Posible cliente y persona **son lo mismo**.
+El posible cliente y la persona **son la misma cosa**.
 
 ## Tokens {#tokens}
 
-Tokens con la palabra lead en ellos **no están cambiando**. Lamentamos cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería muchos de los tokens que se utilizan actualmente. Por lo tanto, seguirá viendo tokens como &quot;`{{lead.First Name}}`.&quot; No hay tokens específicos de persona.
+Los tokens con la palabra posible cliente en ellos **no cambian**. Lamentamos cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería muchos de los tokens que se utilizan actualmente. Por lo tanto, seguirá viendo tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de persona.
 
 >[!NOTE]
 >
->Ahí *es* un token denominado &quot;Notas de persona&quot;; sin embargo, ese token siempre estaba allí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hay.
+>Hay *is* un token llamado &quot;Notas de persona&quot;, sin embargo ese token siempre estuvo ahí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hay.
 
 ## Administración de campos {#field-management}
 
@@ -110,9 +110,9 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 >[!NOTE]
 >
->Para obtener una lista completa de los nombres de campo afectados, visite esta [Artículo de soporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>Para obtener una lista completa de los nombres de campo afectados, visite este [Artículo de soporte técnico](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## La personalización en tiempo real (RTP) ahora es personalización web {#real-time-personalization-rtp-is-now-web-personalization}
+## Real-Time Personalization (RTP) ahora es Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:
 
-| **[Personalización web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Tiene su propio mosaico en la pantalla principal |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Tiene su propio mosaico en la pantalla principal |
 |---|---|
-| **[Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accesible mediante el mosaico Personalización web |
-| **[Redireccionamiento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accesible mediante el mosaico Personalización web |
+| **[Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accesible a través del mosaico de Web Personalization |
+| **[Redireccionamiento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accesible a través del mosaico de Web Personalization |
 | **[Contenido predictivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Tiene su propio mosaico en la pantalla principal |
 
 >[!NOTE]

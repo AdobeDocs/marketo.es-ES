@@ -33,7 +33,7 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/win-1.png)
 
-1. Clic **Opciones**.
+1. Haga clic en **Opciones**.
 
    ![](assets/win-2.png)
 
@@ -41,19 +41,19 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/win-3.png)
 
-1. En Centro de confianza de Microsoft Outlook, haga clic en **Configuración del Centro de confianza**.
+1. En el Centro de confianza de Microsoft Outlook, haga clic en **Configuración del Centro de confianza**.
 
    ![](assets/win-4.png)
 
-1. Haga clic en Descarga automática en el menú de la izquierda y seleccione. **No descargar imágenes automáticamente en el correo electrónico del HTML o en elementos RSS** casilla de verificación.
+1. Haga clic en Descarga automática en el menú de la izquierda y active la casilla de verificación **No descargar imágenes automáticamente en el correo electrónico del HTML o en los elementos RSS**.
 
    ![](assets/win-5.png)
 
-1. Clic **OK** en el cuadro de diálogo Centro de confianza.
+1. Haga clic en **Aceptar** en el cuadro de diálogo Centro de confianza.
 
    ![](assets/win-6.png)
 
-1. Clic **OK** en el cuadro de diálogo Opciones de Outlook.
+1. Haga clic en **Aceptar** en el cuadro de diálogo Opciones de Outlook.
 
    ![](assets/win-6.png)
 
@@ -65,10 +65,10 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/mac-1.png)
 
-1. En Correo electrónico, elija **Lectura**.
+1. En Correo electrónico, elija **Leyendo**.
 
    ![](assets/mac-2.png)
 
-1. En Seguridad, haga clic en **Nunca** botón de opción.
+1. En Seguridad, haga clic en el botón de opción **Nunca**.
 
    ![](assets/mac-3.png)

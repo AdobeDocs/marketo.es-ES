@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si hay un campo que ya no necesita en el formulario, se puede eliminar fácilmente. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,18 +23,18 @@ Si hay un campo que ya no necesita en el formulario, se puede eliminar fácilmen
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Seleccione el campo y haga clic en **eliminar** icono.
+1. Seleccione su campo y haga clic en el icono **eliminar**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->No te olvides de [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+>No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.

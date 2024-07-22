@@ -6,8 +6,8 @@ exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Al iniciar sesión, se añadirán cinco botones de Conexión de ventas a la part
 
 | Botón | Descripción |
 |---|---|
-| **Botón Live Feed** | Abre su conexión de ventas [Live Feed](https://toutapp.com/next#live) donde puede obtener información de seguimiento en tiempo real de sus correos electrónicos. |
+| **Botón de fuente en directo** | Abre tu [Live Feed](https://toutapp.com/next#live) de Sales Connect, donde podrás obtener información de seguimiento en tiempo real de tus correos electrónicos. |
 | **Botón Tareas** | Muestra una lista desplegable de todas las tareas. |
-| **Botones Plantillas y Conversaciones** | Abre su [aplicación web](https://toutapp.com/login)de y la página Conversaciones, respectivamente. Todo dentro de su página de Gmail. |
+| **Botones de plantillas y conversaciones** | Abre la página Plantillas y la página Conversaciones de la [aplicación web](https://toutapp.com/login), respectivamente. Todo dentro de su página de Gmail. |
 | **Botón Sales Gong** | Le permite celebrar sus acuerdos cerrados/ganados con sus compañeros de equipo. |

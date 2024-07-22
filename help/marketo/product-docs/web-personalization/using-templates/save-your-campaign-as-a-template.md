@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ¿Alguna vez ha dedicado tiempo a crear la campaña web perfecta? Ahora puede guardarlo como plantilla para facilitar su reutilización en el futuro.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

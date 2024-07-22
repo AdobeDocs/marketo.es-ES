@@ -19,7 +19,7 @@ Los correos electrónicos tienen capacidades limitadas (CSS limitado y sin JavaS
 >
 >Al crear un correo electrónico nuevo, Ver como página web no está habilitado. Si lo activa y clona el correo electrónico, se copia esta configuración.
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/one-5.png)
 
@@ -27,7 +27,7 @@ Los correos electrónicos tienen capacidades limitadas (CSS limitado y sin JavaS
 
    ![](assets/two-5.png)
 
-1. Compruebe la **Incluir vista como página web** y haga clic en **Guardar**.
+1. Marque la casilla **Incluir vista como página web** y haga clic en **Guardar**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ A continuación se muestra un ejemplo de su aspecto:
 >
 >No verá el vínculo Ver como página web hasta que envíe el correo electrónico. Envíese una prueba a ver.
 
-Para cambiar el texto predeterminado, consulte [Editar el mensaje &quot;Ver como página web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Para cambiar el texto predeterminado, vea [Editar el mensaje &quot;Ver como página web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

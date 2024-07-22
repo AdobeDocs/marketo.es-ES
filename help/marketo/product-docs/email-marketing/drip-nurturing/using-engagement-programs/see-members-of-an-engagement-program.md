@@ -21,7 +21,7 @@ Puede ver rápidamente los miembros de un programa de participación. Así es co
 
    >[!NOTE]
    >
-   >El  [Contenido agotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) el valor de la columna se actualiza después de cada conversión.
+   >El valor de columna [Contenido agotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) se actualiza después de cada conversión.
 
 1. Ahora puede ver todos los miembros del programa.
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Una vez que haya ejecutado un programa de correo electrónico y tenga algunos datos en el panel, puede exportar esos datos sin procesar a Excel para un análisis más detallado. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 

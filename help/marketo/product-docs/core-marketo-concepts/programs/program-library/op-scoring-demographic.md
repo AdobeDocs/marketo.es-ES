@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Documentos de Marketo - Documentación del producto
 title: OP-Scoring-Demographic
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 33%
+source-wordcount: '310'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 33%
 
 Este es un ejemplo de un programa operativo avanzado (con token) que utiliza un programa predeterminado de Marketo Engage para la puntuación demográfica. Vea y edite los valores de puntuación en la pestaña &quot;Mis tokens&quot; del programa. Requiere un campo de puntuación personalizado llamado &quot;Puntuación demográfica&quot;.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -45,14 +45,14 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <th>Nombre de API</th>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td>Puntuación demográfica</td>
    <td>DemographicScore</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -104,7 +104,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Número de empleados</td>
+   <td>Cantidad de empleados</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
@@ -137,96 +137,96 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Annual Revenue - High}}</code></td>
    <td>+15</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Annual Revenue - Low}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Annual Revenue - Mid}}</code></td>
    <td>+10</td>
   </tr>
    <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Generic Email Domain}}</code></td>
    <td>-2</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Industry - High}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Industry - Low}}</code></td>
    <td>+6</td>
   </tr>
    <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Industry - Mid}}</code></td>
    <td>+8</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Invalid First Name}}</code></td>
    <td>-5</td>
   </tr>
    <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Invalid First Name Updated}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Invalid Last Name}}</code></td>
    <td>-5</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Invalid Last Name Updated}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Job Title - High}}</code></td>
    <td>+15</td>
   </tr>
    <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Job Title - Low}}</code></td>
    <td>+5</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Job Title - Mid}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Lead Source - High}}</code></td>
    <td>+20</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Lead Source - Low}}</code></td>
    <td>+8</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Lead Source - Mid}}</code></td>
    <td>+10</td>
   </tr>
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td><code>{{my.Number of Employees}}</code></td>
    <td>+5</td>
   </tr>
@@ -235,23 +235,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
-   * Copiar plantilla original - _Recomendado_
+   * Copiar plantilla original: _Recomendado_
    * Usar plantilla de destino
 
 * **Imágenes con el mismo nombre**
-   * Mantener ambos archivos - _Recomendado_
+   * Conservar ambos archivos: _Recomendado_
    * Reemplazar elemento en esta suscripción
 
-* **Plantillas de email con el mismo nombre**
-   * Mantener ambas plantillas - _Recomendado_
+* **Plantillas de correo electrónico con el mismo nombre**
+   * Mantener ambas plantillas: _Recomendado_
    * Reemplazar plantilla existente
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Cada campaña creada debe ser un ejemplo de la compilación de prácticas recomendadas y no específica para sus casos de uso. Recuerde actualizar las campañas inteligentes para abordar sus puntos problemáticos específicos y los desafíos en materia de datos.
 

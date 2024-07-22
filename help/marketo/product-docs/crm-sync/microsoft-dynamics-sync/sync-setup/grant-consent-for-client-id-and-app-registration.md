@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -65,13 +65,13 @@ Siga los pasos a continuación para obtener información sobre cómo conceder el
    >
    >Si ya ha iniciado sesión en Azure como administrador en otra pestaña, deberá utilizar un explorador diferente o un modo de incógnito para iniciar sesión como usuario de sincronización.
 
-1. Clic **[!UICONTROL Aceptar]**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## Conceder consentimiento a todos los usuarios {#grant-consent-for-all-users}
 
-Como administrador, también puede dar su consentimiento a los permisos delegados de una aplicación en nombre de todos los usuarios de su inquilino. El consentimiento administrativo evita que aparezca el cuadro de diálogo de consentimiento para cada usuario del inquilino, y los usuarios con la función de administrador pueden hacerlo en el portal de Azure. Descubra qué funciones de administrador pueden [consentimiento para permisos delegados aquí](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Como administrador, también puede dar su consentimiento a los permisos delegados de una aplicación en nombre de todos los usuarios de su inquilino. El consentimiento administrativo evita que aparezca el cuadro de diálogo de consentimiento para cada usuario del inquilino, y los usuarios con la función de administrador pueden hacerlo en el portal de Azure. Descubra qué funciones de administrador pueden [consentir permisos delegados aquí](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. En el portal de Azure, vaya a la página principal de la aplicación.
 
@@ -79,10 +79,10 @@ Como administrador, también puede dar su consentimiento a los permisos delegado
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Haga clic en **[!UICONTROL Conceder consentimiento de administrador]** botón (para inquilino).
+1. Haga clic en el botón **[!UICONTROL Conceder consentimiento de administrador]** (para inquilino).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Clic **[!UICONTROL Sí]** para confirmar.
+1. Haga clic en **[!UICONTROL Sí]** para confirmar.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

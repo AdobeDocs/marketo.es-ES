@@ -18,15 +18,15 @@ A continuación, se indica cómo exportar todas las funciones y sus permisos.
 >
 >Permisos de administración necesarios
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Seleccionar **[!UICONTROL Usuarios y funciones]**.
+1. Seleccione **[!UICONTROL Usuarios y roles]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Haga clic en **[!UICONTROL Funciones]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Roles]**.
 
    ![](assets/export-roles-and-permissions-3.png)
 

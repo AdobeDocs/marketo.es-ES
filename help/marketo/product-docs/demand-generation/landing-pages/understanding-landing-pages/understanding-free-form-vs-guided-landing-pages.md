@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de las páginas de aterrizaje improvisadas y guiadas {#understanding-free-form-vs-guided-landing-pages}
 
-La plantilla que elija determina en qué modo de edición de la página de aterrizaje estará trabajando. Hay dos rutas posibles: [de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) y [guiado](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). A continuación encontrará un breve resumen de las diferencias importantes.
+La plantilla que elija determina en qué modo de edición de la página de aterrizaje estará trabajando. Hay dos rutas posibles: [improvisada](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) y [guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). A continuación encontrará un breve resumen de las diferencias importantes.
 
 ## Páginas de forma libre {#free-form-pages}
 

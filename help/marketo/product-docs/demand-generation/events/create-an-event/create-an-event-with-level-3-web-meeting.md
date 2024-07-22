@@ -6,8 +6,8 @@ exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Agregar reunión Web de nivel 3 como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Agregar reunión web de nivel 3 como servicio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las variables apropiadas [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
+>* Establezca las [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)adecuadas para rastrear la participación
 
 Cree primero su seminario web en el nivel 3. Si necesita ayuda, consulte la [Biblioteca de recursos de nivel 3](https://www.level3.com/en/resource-library/). Verá que es muy similar a BrightTalk.  Marketo utiliza un pequeño subconjunto de campos de Nivel 3:
 
-* **Nombre** - El nombre del webcast.
-* **Fecha de inicio** - La fecha de inicio del webcast.
-* **Fecha de finalización** - La fecha de finalización del webcast.
-* **Zona horaria** - La zona horaria establecida para la transmisión web.
-* **Descripción** - La descripción del webcast.
+* **Nombre** - El nombre de la difusión web.
+* **Fecha de inicio** - La fecha de inicio de la difusión web.
+* **Fecha de finalización** - La fecha de finalización de la difusión web.
+* **Zona horaria**: La zona horaria establecida para la transmisión web.
+* **Descripción** - La descripción de la difusión web.
 
-1. Seleccione el nuevo evento. Clic **Acciones de evento,** entonces **Configuración de eventos.**
+1. Seleccione el nuevo evento. Haga clic en **Acciones de eventos,** y, a continuación, en **Configuración de eventos.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. En Socio de evento, seleccione **Reunión web del nivel 3**.
+1. En Socio de evento, seleccione **Reunión web de nivel 3**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -43,7 +43,7 @@ Cree primero su seminario web en el nivel 3. Si necesita ayuda, consulte la [Bib
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 

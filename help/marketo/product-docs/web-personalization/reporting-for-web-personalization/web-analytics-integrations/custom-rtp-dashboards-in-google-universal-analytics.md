@@ -6,7 +6,7 @@ exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integración de RTP con Universal Analytics de Google](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 En esta publicación se explica cómo configurar paneles RTP en Google Universal Analytics (GUA). Los datos enviados desde RTP a GUA pueden configurarse como dos paneles personalizados independientes llamados:
 
@@ -24,13 +24,13 @@ En esta publicación se explica cómo configurar paneles RTP en Google Universal
 
 ## Configuración de un tablero personalizado {#setting-up-a-custom-dashboard}
 
-1. Inicie sesión en Google Analytics. Haga clic en **Informes** en el menú superior. Clic **Paneles** y **+Nuevo tablero personalizado**.
+1. Inicie sesión en Google Analytics. Haz clic en **Informes** en el menú superior. Haga clic en **Paneles** y **+Nuevo panel personalizado**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Seleccionar **Lienzo en blanco**, añada un **Nombre de panel** y haga clic en **Crear tablero**.
+1. Seleccione **Lienzo en blanco**, agregue un **Nombre de panel** y haga clic en **Crear panel**.
 
-1. Clic **Añadir widget** para crear un widget nuevo.
+1. Haga clic en **Agregar widget** para crear un widget nuevo.
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -46,7 +46,7 @@ El tablero consta de 3 columnas
 * Segmentación
 * Profundización firmográfica
 
-1. Cree un nuevo tablero llamado **Panel RTP B2B** y defina los siguientes widgets:
+1. Cree un nuevo tablero llamado **RTP B2B Dashboard** y defina los siguientes widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -58,10 +58,10 @@ El tablero consta de 3 columnas
       Columna 1: Fuentes de tráfico
     </div></th> 
    <th> 
-    <div> <strong>Columna 2: Segmentación</strong> 
+    <div> <strong>Columna 2 - Segmentación</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Columna 3 - Profundización en el plano Firmográfico</strong> 
+    <div> <strong>Columna 3 - Exploración en profundidad por firmografía</strong> 
     </div></th> 
   </tr> 
  </thead> 
@@ -140,7 +140,7 @@ El tablero consta de 3 columnas
     <ul> 
      <li>Nombre: Sesiones y objetivos por segmentos principales</li> 
      <li>Tipo: Tabla<br></li> 
-     <li>Mostrar las columnas siguientes: <br>Etiqueta de evento | Sesiones | Tasa de conversión de objetivos</li> 
+     <li>Mostrar las siguientes columnas: <br>Etiqueta de evento | Sesiones | Tasa de conversión de objetivos</li> 
      <li>Filtro: <br>Mostrar solo | Categoría de evento (contenedor) RTP-Segmentos</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
@@ -167,10 +167,10 @@ Cree un nuevo tablero llamado **Tablero de participación de RTP** y defina los 
     <div> <strong>Exposición de campañas en la columna 1</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Clic en campañas de la columna 2</strong> 
+    <div> <strong>Clic en campañas en la columna 2</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Columna 3 Motor de recomendaciones</strong> 
+    <div> <strong>Motor de recomendación de columna 3</strong> 
     </div></th> 
   </tr> 
  </thead> 
@@ -178,65 +178,65 @@ Cree un nuevo tablero llamado **Tablero de participación de RTP** y defina los 
   <tr> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Total de CTA (participación)</strong></li> 
+     <li>Nombre: <strong>CTA total (participación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la siguiente métrica: <strong>Eventos totales</strong></li> 
-     <li>Filtros:<br><strong>[only show] Categoría del evento (contiene): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): impresión</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (contiene): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente coincidente): Impresión</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Total de CTA (clic)</strong></li> 
+     <li>Nombre: <strong>CTA total (al hacer clic)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la siguiente métrica: <strong>Eventos totales</strong></li> 
-     <li>Filtros:<br><strong>[only show] Categoría del evento (contiene): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): clics</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (contiene): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente coincidente): Clics</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>CRE: clics totales</strong></li> 
+     <li>Nombre: <strong>CRE - Total de clics</strong></li> 
      <li>Tipo: <strong>2.1 Métrica</strong><br></li> 
      <li>Mostrar la siguiente métrica: <strong>Pageviews</strong></li> 
-     <li>Filtro: <strong>[sólo mostrar] Página (que contiene): rcmd</strong></li> 
+     <li>Filtro: <strong>[mostrar solo] Página (que contiene): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <ul> 
-     <li>Nombre: <strong>El Promedio de Duración de la sesión (participación)</strong></li> 
+     <li>Nombre: <strong>Promedio Duración de la sesión (participación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
-     <li>Mostrar la siguiente métrica: <strong>El Promedio de Duración de sesión</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): impresión</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
+     <li>Mostrar la siguiente métrica: <strong>Promedio Duración de la sesión</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente igual): impression</strong><strong>[no mostrar] Etiqueta de evento (conteniendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nombre: <strong>El Promedio de Duración de la sesión (clic)</strong></li> 
+     <li>Nombre: <strong>Promedio Duración de la sesión (clic)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
-     <li>Mostrar la siguiente métrica: <strong>El Promedio de Duración de sesión</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): clics</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
+     <li>Mostrar la siguiente métrica: <strong>Promedio Duración de la sesión</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente igual): clicks</strong><strong>[no mostrar] Etiqueta de evento (conteniendo): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nombre: <strong>CRE: Contenido recomendado principal</strong></li> 
+     <li>Nombre: <strong>CRE - Contenido principal recomendado</strong></li> 
      <li>Tipo: <strong>Tabla</strong><br></li> 
-     <li>Mostrar las columnas siguientes: <br><strong>Título de página | Vistas de página</strong><br></li> 
-     <li>Filtros:<br>Filtro: <strong>[sólo mostrar] Página (que contiene): rcmd</strong></li> 
+     <li>Mostrar las siguientes columnas: <br><strong>Título de página | Vistas de página</strong><br></li> 
+     <li>Filtros:<br>Filtro: <strong>[mostrar solo] Página (que contiene): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Páginas/sesión (participación)</strong></li> 
+     <li>Nombre: <strong>Páginas / Sesión (Participación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
-     <li>Mostrar la siguiente métrica: <strong>Páginas/sesión</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong></li> 
+     <li>Mostrar la siguiente métrica: <strong>Páginas / Sesión</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong></li> 
      <li><strong>[only show] Acción de evento (exactamente igual): impresión</strong></li> 
      <li><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Páginas/sesión (clic)</strong></li> 
+     <li>Nombre: <strong>Páginas / Sesión (Pulsación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
-     <li>Mostrar la siguiente métrica: <strong>Páginas/sesión</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong></li> 
+     <li>Mostrar la siguiente métrica: <strong>Páginas / Sesión</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong></li> 
      <li><strong>[only show] Acción de evento (exactamente igual): clics</strong></li> 
      <li><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -245,17 +245,17 @@ Cree un nuevo tablero llamado **Tablero de participación de RTP** y defina los 
   <tr> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Impresiones por CTA</strong></li> 
+     <li>Nombre: <strong>Impresiones de CTA</strong></li> 
      <li>Tipo: <strong>Tabla</strong></li> 
-     <li>Mostrar las columnas siguientes: <strong>Etiqueta de evento | Total de eventos | Usuarios</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): impresión</strong><strong>[no mostrar] Etiqueta de evento (que contiene): #</strong></li> 
+     <li>Mostrar las siguientes columnas: <strong>Etiqueta de evento | Eventos totales | Usuarios</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente igual): impression</strong><strong>[no mostrar] Etiqueta de evento (conteniendo): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Clickthrough de CTA</strong></li> 
+     <li>Nombre: <strong>Clic por CTA</strong></li> 
      <li>Tipo: <strong>Tabla</strong></li> 
-     <li>Mostrar las columnas siguientes: <strong>Etiqueta de evento | Total de eventos | Usuarios</strong></li> 
-     <li>Filtros:<br><strong>[mostrar solo] Categoría del evento (exactamente igual): RTP-Campaigns</strong><br><strong>[only show] Acción de evento (exactamente igual): clics</strong></li> 
+     <li>Mostrar las siguientes columnas: <strong>Etiqueta de evento | Eventos totales | Usuarios</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solo] Categoría de evento (exactamente igual): RTP-Campaigns</strong><br><strong>[mostrar solo] Acción de evento (exactamente igual): clicks</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
@@ -264,6 +264,6 @@ Cree un nuevo tablero llamado **Tablero de participación de RTP** y defina los 
 
 >[!MORELIKETHIS]
 >
->[Integración de RTP con Universal Analytics de Google](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[Integrar RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
 >[Informes RTP personalizados en Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Agregar o actualizar la firma del correo electrónico {#add-or-update-your-email-signature}
 
-Queremos que los mensajes de correo electrónico de Marketo Sales se sientan como una experiencia perfecta al enviarlos desde su propio cliente de correo electrónico. Una buena manera de hacerlo es añadir su firma de correo electrónico.
+Queremos que los mensajes de correo electrónico de Marketo Sales se sientan como una experiencia perfecta al enviarlos desde su propio cliente de correo electrónico. Una buena manera de hacerlo es agregar su firma de correo electrónico.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
@@ -22,7 +22,7 @@ Queremos que los mensajes de correo electrónico de Marketo Sales se sientan com
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. En el **Dirección y firma** pestaña, seleccione la identidad de correo electrónico para la que desee crear una firma.
+1. En la pestaña **Dirección y firma**, seleccione la identidad de correo electrónico para la que desee crear una firma.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
@@ -30,7 +30,7 @@ Queremos que los mensajes de correo electrónico de Marketo Sales se sientan com
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Introduzca el texto (o imágenes) que desee y haga clic en **Guardar**.
+1. Escriba el texto (o imágenes) que desee y haga clic en **Guardar**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

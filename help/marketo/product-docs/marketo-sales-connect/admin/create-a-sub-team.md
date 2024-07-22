@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. Junto a Todos los equipos, haga clic en el botón **+**.
+1. Junto a Todos los equipos, haga clic en **+**.
 
    ![](assets/three-1.png)
 
-1. Introduzca un nombre de equipo (y una descripción opcional) y haga clic en **Crear**.
+1. Escriba un nombre de equipo (y una descripción opcional) y haga clic en **Crear**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Agregar personas a su subequipo {#add-people-to-your-sub-team}
 
-1. En Administración de equipos, seleccione la opción **Todos** grupo.
+1. En Administración del equipo, seleccione el grupo **Todos**.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Clic **Añadir seleccionados a los equipos**.
+1. Haga clic en **Agregar seleccionados a equipos**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Clic **Añadir a equipos** cuando termine.
+1. Haga clic en **Agregar a equipos** cuando haya terminado.
 
    ![](assets/nine.png)

@@ -5,7 +5,7 @@ exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
 >[!PREREQUISITES]
 >
->Antes de seguir los pasos a continuación, primero debe [habilitar grabación de llamadas](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
+>Antes de seguir los pasos siguientes, primero debe [habilitar la grabación de llamadas](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
-1. Haga clic en el icono Settings y seleccione **Configuración**.
+1. Haga clic en el icono Configuración y seleccione **Configuración**.
 
    ![](assets/two-party-consent-settings-1.png)
 
@@ -26,11 +26,11 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. En la tarjeta Grabación de llamadas, haga clic en **Administrar aviso de grabación**.
+1. En la tarjeta Grabación de llamadas, haz clic en **Administrar aviso de grabación**.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Clic **Importar grabación**.
+1. Haga clic en **Importar grabación**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Clic **OK** cuando termine.
+1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Haga clic en **Aceptar** cuando haya terminado.
 
    ![](assets/two-party-consent-settings-6.png)
 

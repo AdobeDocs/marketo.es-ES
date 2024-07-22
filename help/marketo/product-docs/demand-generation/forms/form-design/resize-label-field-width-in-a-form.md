@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Existen dos formas de cambiar el tamaño del ancho de etiqueta del campo y del p
 
 ## Arrastre y suelte la anchura {#drag-and-drop-the-width}
 
-1. En el [editor de formularios](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleccione el campo cuyo tamaño desee cambiar.
+1. En [editor de formularios](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleccione el campo cuyo tamaño desee cambiar.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -35,4 +35,4 @@ Existen dos formas de cambiar el tamaño del ancho de etiqueta del campo y del p
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-¡bueno trabajo! Bastante fácil, ¿verdad?
+¡Buen trabajo! Bastante fácil, ¿verdad?

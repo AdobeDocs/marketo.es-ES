@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede exportar cualquier informe a un archivo de Excel para trabajar con los datos de otro software.
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en **Informe** pestaña.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Haga clic en **Exportar** botón.
+1. Haga clic en el botón **Exportar**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 

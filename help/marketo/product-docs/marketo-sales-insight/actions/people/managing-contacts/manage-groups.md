@@ -32,7 +32,7 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
   </tr> 
   <tr> 
    <td>Grupos dinámicos</td> 
-   <td>Mis contactos: Todos los contactos que posee.<br>Cancelaciones de la suscripción: contactos que han optado por no recibir correspondencia.</td> 
+   <td>Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td> 
   </tr> 
   <tr> 
    <td>Mis grupos</td> 
@@ -51,7 +51,7 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-1.png)
 
-1. Nombre el grupo y haga clic en **Crear**.
+1. Asigne un nombre al grupo y haga clic en **Crear**.
 
    ![](assets/manage-groups-2.png)
 
@@ -63,7 +63,7 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-3.png)
 
-1. Clic **Acciones de grupo** y seleccione **Crear contacto y agregar a grupo**.
+1. Haga clic en **Acciones de grupo** y seleccione **Crear contacto y agregar al grupo**.
 
    ![](assets/manage-groups-4.png)
 
@@ -107,7 +107,7 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-10.png)
 
-1. Haga clic en **X** junto al equipo con el que compartió el grupo y, a continuación, haga clic en fuera del modal.
+1. Haga clic en **X** junto al equipo con el que compartió el grupo y luego haga clic fuera del modal.
 
    ![](assets/manage-groups-11.png)
 
@@ -137,6 +137,6 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-16.png)
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/manage-groups-17.png)

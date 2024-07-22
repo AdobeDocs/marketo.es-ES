@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Cambie la contraseña de Marketo siguiendo estos sencillos pasos.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. Clic **[!UICONTROL Mi cuenta]**.
+1. Haga clic en **[!UICONTROL Mi cuenta]**.
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. Clic **[!UICONTROL Cambiar contraseña]**.
+1. Haga clic en **[!UICONTROL Cambiar contraseña]**.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Introduzca la contraseña anterior y la nueva contraseña y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba la contraseña anterior y la contraseña nueva y, a continuación, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/change-your-marketo-password-4.png)
 

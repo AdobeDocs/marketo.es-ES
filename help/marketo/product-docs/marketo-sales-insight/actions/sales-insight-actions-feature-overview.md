@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions es una aplicación basada en web que se integra con la interfaz de usuario de Salesforce a través de la [Paquete de perspectivas de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
+>Marketo Sales Insight Actions es una aplicación basada en web que se integra con la interfaz de usuario de Salesforce mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 >[!AVAILABILITY]
 >
@@ -30,15 +30,15 @@ Para ver un vídeo introductorio de las acciones de información sobre ventas, [
 
 Las siguientes acciones están disponibles en la lista desplegable &quot;Elegir acciones&quot; de la barra de navegación superior:
 
-* Enviar email de ventas
+* Enviar correo electrónico de ventas
    * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
-   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
+   * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
    * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
 
-* Añadir a la campaña de ventas
+* Agregar a la campaña de ventas
    * Añadir posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
    * Incluye acceso y uso compartido de equipos, generación de tareas, omisión de fines de semana, omisión de correos electrónicos OOO como respuestas y finalización automática
    * La actividad de la campaña se registrará en el registro personal de Marketo
@@ -84,7 +84,7 @@ Las siguientes acciones están disponibles en la barra de navegación superior:
 
 * Envío de correo electrónico de ventas: capacidad para enviar correos electrónicos de grupo personalizados o con plantilla con seguimiento de visualización, clics y respuestas a todos los contactos asociados a una cuenta u oportunidad
    * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
-   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
+   * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
@@ -122,7 +122,7 @@ Los siguientes datos están disponibles en las pestañas:
 
 ## Pestaña Global de Marketo {#marketo-global-tab}
 
-**Pestaña Resultados más probables**
+**Mejor ficha**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
@@ -142,19 +142,19 @@ Las siguientes acciones en línea están disponibles para posibles clientes/cont
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**Pestaña Correo electrónico**
+**Ficha Correo electrónico**
 
 * Todos los correos electrónicos de ventas enviados se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
 * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente y Fecha
 * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
 
-**Pestaña Llamada**
+**Ficha de llamada**
 
 * Todas las llamadas realizadas con la función de marcador de ventas se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
 * Las columnas incluyen Nombre, Resultado, Notas, Llamado en, Duración y vínculo a la grabación
 * Incluye una tarjeta deslizable con detalles adicionales como Llamada realizada por, Llamada respondida por, Número de teléfono y Estado
 
-**Pestaña Tarea**
+**Ficha de tarea**
 
 * Las tareas de correo electrónico, llamada, InMail y personalizadas creadas y completadas estarán disponibles para la administración de tareas en esta pestaña. Incluye la capacidad de Añadir tarea
 * Automatización de la creación de tareas con campañas de ventas
@@ -163,7 +163,7 @@ Las siguientes acciones en línea están disponibles para posibles clientes/cont
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
-**Fuente directa**
+**Fuente en vivo**
 
 * Posibilidad de ver actualizaciones en directo sobre las actividades de ventas junto con la capacidad de acoplamiento de pantalla
 * Los botones de correo electrónico, llamada y cadencia incrustados hacen que cada conocimiento del cliente sea procesable
@@ -182,11 +182,11 @@ Actividades de ventas que se capturan en Marketo:
 
 Los filtros y Déclencheur incluyen:
 
-* Enviar email de ventas
+* Enviar correo electrónico de ventas
 * Abrió el email de ventas
 * Correo electrónico de ventas seleccionado
-* Correo electrónico de respuesta a ventas
-* Llamada de ventas recibida
+* Respondió al email de ventas
+* Recibió llamada de ventas
 * Añadido a la campaña de ventas
 * Se quitó de Campaña de ventas
 

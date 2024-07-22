@@ -2,11 +2,11 @@
 description: Administración de OP-Lead - Documentos de Marketo - Documentación del producto
 title: Administración de OP-Lead
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 16%
+source-wordcount: '265'
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administra
 >
 >En Marketo Engage, los registros de la base de datos se denominan personas/persona. La administración de posibles clientes en este ejemplo hace referencia a los registros de su CRM.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Resumen del canal {#channel-summary}
 
@@ -39,7 +39,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -80,23 +80,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
-   * Copiar plantilla original - _Recomendado_
+   * Copiar plantilla original: _Recomendado_
    * Usar plantilla de destino
 
 * **Imágenes con el mismo nombre**
-   * Mantener ambos archivos - _Recomendado_
+   * Conservar ambos archivos: _Recomendado_
    * Reemplazar elemento en esta suscripción
 
-* **Plantillas de email con el mismo nombre**
-   * Mantener ambas plantillas - _Recomendado_
+* **Plantillas de correo electrónico con el mismo nombre**
+   * Mantener ambas plantillas: _Recomendado_
    * Reemplazar plantilla existente
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Considere la posibilidad de agregar campañas inteligentes adicionales para abordar cada una de las necesidades de estado del ciclo vital que pueda estar rastreando en su organización. Cada campaña creada en este programa está pensada para ser un ejemplo de la compilación de las prácticas recomendadas y no específica para todos los casos de uso. Recuerde actualizar las campañas inteligentes para abordar el proceso de administración del ciclo de vida del posible cliente específico.
 

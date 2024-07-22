@@ -19,11 +19,11 @@ Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ 
 
 ## Añadir el vínculo a una plantilla de correo electrónico {#add-the-link-to-an-email-template}
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/one-8.png)
 
-1. Busque y seleccione la plantilla de correo electrónico a la que desee añadir el vínculo. Clic **Editar borrador**.
+1. Busque y seleccione la plantilla de correo electrónico a la que desee añadir el vínculo. Haga clic en **Editar borrador**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ 
 
    >[!CAUTION]
    >
-   >No se recomienda utilizar el estilo **posición:relativa** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización de la casilla ‘Forward to Friend’.
+   >No se recomienda usar el estilo **position:relative** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización de la casilla ‘Forward to Friend’.
 
-1. Clic **Previsualizar borrador** para asegurarse de que la plantilla tiene el aspecto que desea.
+1. Haga clic en **Vista previa del borrador** para asegurarse de que la plantilla tiene el aspecto que desea.
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
    ![](assets/five-4.png)
 
-1. Sitúe el cursor donde desee que aparezca el vínculo y haga clic en **Insertar token** botón.
+1. Coloque el cursor donde desee que aparezca el vínculo y haga clic en el botón **Insertar token**.
 
    ![](assets/six-2.png)
 
-1. Seleccione el **`{{system.forwardToFriendLink}}`** token.
+1. Seleccione el token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
    ![](assets/seven-1.png)
 
-1. Cortar el **`{{system.forwardToFriendLink}}`** mediante Ctrl+X (Windows) o Cmd+X (Mac). Resalte &quot;Enviar a un amigo&quot; y haga clic en el icono **Insertar/editar vínculo** botón.
+1. Corte el token **`{{system.forwardToFriendLink}}`** mediante Ctrl+X (Windows) o Cmd+X (Mac). Resalte &quot;Reenviar a un amigo&quot; y haga clic en el botón **Insertar/Editar vínculo**.
 
    ![](assets/eight-1.png)
 
-1. Pegue el **`{{system.forwardToFriendLink}}`** token en la **URL** mediante Ctrl/Cmd+V y, a continuación, haga clic en **Insertar**.
+1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y, a continuación, haga clic en **Insertar**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
 Puede ver quién reenvió y recibió los correos electrónicos en el registro de actividad de la persona.
 
-1. Vaya a la **`Database`**.
+1. Vaya a **`Database`**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    ![](assets/fourteen.png)
 
-1. Vaya a la **Registro de actividad** pestaña. Doble clic **Correo electrónico de reenvío a amigo recibido** o **Enviado por correo electrónico a un amigo** para ver los detalles.
+1. Vaya a la ficha **Registro de actividades**. Haga doble clic en **Correo electrónico recibido reenviado a un amigo** o **Correo electrónico enviado a un amigo** para ver los detalles.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    ![](assets/sixteen.png)
 
-1. Para ver una persona por ID, copie y pegue la variable **ID de persona** al final de la dirección URL (el principio de dicha dirección URL dependerá de la instancia de Marketo):
+1. Para ver una persona por identificador, copie y pegue el **identificador de persona** al final de la dirección URL (el principio de dicha dirección URL dependerá de la instancia de Marketo):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Vamos a hacer el **ID de persona** se puede hacer clic en y vincular directamente a la persona en un parche próximo.
+   >Haremos que **ID de persona** se pueda hacer clic en y vincularemos directamente a la persona en un parche próximo.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Si el amigo que recibe el reenvío es una persona desconocida, se crea una nueva persona con &quot;Reenviar a amigo&quot; marcado como de la persona **Origen**.
-   >Si el correo electrónico es un recurso local de un programa, el programa se marca como del usuario **Programa de adquisición**.
+   >Si el amigo que recibe el reenvío es una persona desconocida, se crea una nueva persona con &quot;Reenviar a amigo&quot; marcado como **Source** de la persona.
+   >Si el correo electrónico es un activo local de un programa, el programa se marca como el **Programa de adquisición** de la persona.
 
 ## Déclencheur o filtro con actividad de reenvío {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ En la lista inteligente de una campaña inteligente, si busca &quot;hacia adelan
 
 ## Probar reenvío a amigo {#test-forward-to-friend}
 
-Para probar ‘Reenviar a un amigo’, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través de la **Enviar correo electrónico** paso de flujo, *no* mediante **Enviar correo electrónico de prueba**.
+Para probar ‘Reenviar a un amigo’, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través del paso de flujo **Enviar correo electrónico**, *no* a través de **Enviar correo electrónico de prueba**.

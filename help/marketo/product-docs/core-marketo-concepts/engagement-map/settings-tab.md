@@ -1,8 +1,8 @@
 ---
 description: Pestaña Configuración - Documentos de Marketo - Documentación del producto
 title: Pestaña Configuración
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,11 +15,11 @@ La pestaña Configuración es el hogar de todas las configuraciones de campaña,
 
 Incluye las tres secciones siguientes.
 
-* **Reglas de calificación**: Determina cuántas veces puede cada persona ejecutar el flujo de campaña inteligente.
+* **Reglas de calificación**: Determina cuántas veces cada persona puede ejecutar el flujo de campaña inteligente.
 
-* **Ejecuciones individuales**: se puede utilizar para programar ejecuciones únicas inmediatamente o en el futuro.
+* **Ejecuciones individuales**: se puede usar para programar ejecuciones únicas inmediatamente o en el futuro.
 
-* **Periodicidad**: se utiliza para programar una periodicidad diaria, semanal o mensual.
+* **Periodicidad**: Se usa para programar una periodicidad diaria, semanal o mensual.
 
   ![](assets/settings-tab-1.png)
 
@@ -46,7 +46,7 @@ El modo de periodicidad incluye la capacidad de configurar una programación rec
 La pestaña Configuración también incluye una breve descripción general de la campaña inteligente. Incluye lo siguiente:
 
 * Estado de la campaña
-* Creado el
+* Creada el
 * Última modificación
 * Modo de lista inteligente
 * Estado de la lista inteligente:

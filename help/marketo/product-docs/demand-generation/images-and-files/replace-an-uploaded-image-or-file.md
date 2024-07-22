@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Reemplazar una imagen o archivo cargado {#replace-an-uploaded-image-or-file}
 
-1. Vaya a la **[!UICONTROL Design Studio]**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Clic **[!UICONTROL Imágenes y archivos]**.
+1. Haga clic en **[!UICONTROL Imágenes y archivos]**.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Seleccione el recurso que desea reemplazar. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Reemplazar imagen o archivo]**.
+1. Seleccione el recurso que desea reemplazar. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Reemplazar imagen o archivo]**.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >El tipo de archivo de reemplazo debe ser el mismo que el original (por ejemplo, .jpg)
 
-1. Después de seleccionar la imagen o el archivo de reemplazo, haga clic en **[!UICONTROL Reemplazar]**.
+1. Después de seleccionar el archivo o la imagen de reemplazo, haga clic en **[!UICONTROL Reemplazar]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

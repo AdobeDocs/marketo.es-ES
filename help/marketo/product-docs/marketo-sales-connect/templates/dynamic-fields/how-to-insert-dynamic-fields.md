@@ -6,7 +6,7 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Le permitimos personalizar sus plantillas de correo electrónico con atributos p
 
 >[!TIP]
 >
->El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que se buscarán en Sales Connect y Salesforce. Esto significa que si un contacto no existe en el [aplicación web](https://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico coincidente. A continuación, se utiliza la información de ese registro para rellenar el campo.
+>El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que se buscarán en Sales Connect y Salesforce. Esto significa que si un contacto no existe en la [aplicación web](https://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico que coincida. A continuación, se utiliza la información de ese registro para rellenar el campo.
 
 ## Insertar un campo dinámico en una plantilla {#insert-a-dynamic-field-into-a-template}
 
-1. Entrada **Plantillas y campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
+1. En **Plantillas y campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
 
-1. Clic **Extraer campos dinámicos**.
+1. Haga clic en **Campos dinámicos de salida**.
 
    >[!NOTE]
    >

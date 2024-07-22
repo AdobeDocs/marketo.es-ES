@@ -34,7 +34,7 @@ Si utiliza Salesforce, las notificaciones de error de sincronización se parecer
 
 ![](assets/salesforcesyncerror.png)
 
-## Compromiso {#engagement}
+## Participación {#engagement}
 
 Cuando las personas se agotan en un flujo, enviamos una notificación. La notificación incluye el número de personas que se agotaron y alguna otra información.
 
@@ -46,7 +46,7 @@ Si intenta enviar personas a Facebook sin aceptar los Términos de servicio o si
 
 ## Limpieza de campañas desencadenadoras sin actividad {#idle-trigger-campaign-cleanup}
 
-Desactive las campañas inteligentes activadas que ya no obtengan ninguna actividad. Más información sobre  [limpieza automática de campaña de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desactive las campañas inteligentes activadas que ya no obtengan ninguna actividad. Más información sobre [limpieza automática de campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

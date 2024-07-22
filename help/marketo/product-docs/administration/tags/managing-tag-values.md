@@ -13,39 +13,39 @@ ht-degree: 0%
 
 # Administración de valores de etiqueta {#managing-tag-values}
 
-[Etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) se utilizan para describir programas. Puede crear tantas como necesite, cada una con valores únicos. A continuación se indica cómo administrar esos valores.
+Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para describir programas. Puede crear tantas como necesite, cada una con valores únicos. A continuación se indica cómo administrar esos valores.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!PREREQUISITES]
 >
->[Creación de una nueva etiqueta de programa y valores de etiqueta](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[Crear una nueva etiqueta de programa y valores de etiqueta](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Adición de valores de etiqueta {#adding-tag-values}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Clic **[!UICONTROL Etiquetas]**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Clic **[!UICONTROL Nuevo]**, entonces **[!UICONTROL Nuevo valor de etiqueta]**.
+1. Haga clic en **[!UICONTROL Nuevo]** y luego en **[!UICONTROL Nuevo valor de etiqueta]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Seleccione el **[!UICONTROL Tipo de etiqueta]**.
+1. Seleccione **[!UICONTROL Tipo de etiqueta]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Introduzca una **[!UICONTROL Valor]** y haga clic en **[!UICONTROL Añadir otro]**. Puede agregar todos los valores que desee.
+1. Escriba un **[!UICONTROL Valor]** y haga clic en **[!UICONTROL Agregar otro]**. Puede agregar todos los valores que desee.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Añada los valores restantes y haga clic en **[!UICONTROL Crear]**.
+1. Agregue los valores restantes y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/managing-tag-values-6.png)
 
@@ -57,11 +57,11 @@ Debería ver los cambios inmediatamente.
 
 Los programas antiguos pueden utilizar etiquetas. Puede dejar de utilizarlos en el futuro ocultando el tipo de etiqueta.
 
-1. Seleccione el **[!UICONTROL Etiqueta]** y seleccione la **[!UICONTROL Valor]** ¿quieres esconderte?
+1. Seleccione la **[!UICONTROL Etiqueta]** y seleccione el **[!UICONTROL Valor]** que desee ocultar.
 
    ![](assets/managing-tag-values-8.png)
 
-1. En **[!UICONTROL Etiquetar acciones]**, seleccione **[!UICONTROL Hide]**.
+1. En **[!UICONTROL Acciones de etiqueta]**, seleccione **[!UICONTROL Ocultar]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -69,7 +69,7 @@ Los programas antiguos pueden utilizar etiquetas. Puede dejar de utilizarlos en 
 
 Si desea volver a ver los valores ocultos, haga lo siguiente:
 
-1. Seleccione el **[!UICONTROL Mostrar ocultos]** casilla de verificación Una vez comprobado, puede ver el valor oculto.
+1. Seleccione la casilla de verificación **[!UICONTROL Mostrar ocultos]**. Una vez comprobado, puede ver el valor oculto.
 
    ![](assets/managing-tag-values-10.png)
 

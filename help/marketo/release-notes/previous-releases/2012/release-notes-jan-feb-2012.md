@@ -6,8 +6,8 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 0%
+source-wordcount: '441'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ En la versión de enero/febrero se incluyen las siguientes funciones. Compruebe 
 
 ## Contenido dinámico avanzado {#advanced-dynamic-content}
 
-_Disponible para versiones Pro y Enterprise_
+_Disponible para las versiones Pro y Enterprise_
 
 Con el contenido dinámico avanzado puede crear comunicaciones por correo electrónico y páginas de aterrizaje atractivas relevantes para su audiencia sin tener que crear varios recursos para el mismo mensaje. Los controladores de vista previa actualizados le permiten ver cada versión única en una sola pantalla.
 
@@ -25,7 +25,7 @@ Con el contenido dinámico avanzado puede crear comunicaciones por correo electr
 
 ## Segmentación  {#segmentation}
 
-_Disponible para versiones Pro y Enterprise_
+_Disponible para las versiones Pro y Enterprise_
 
 La segmentación es un grupo de segmentos, que son un grupo segmentado de personas a las que comercializa. Los segmentos se definen mediante reglas que se rigen por criterios de filtro similares a las listas inteligentes. Sus segmentos pueden basarse en datos demográficos, como el puesto o el sector, o en comportamientos como páginas web visitadas o vínculos en los que se ha hecho clic.
 
@@ -33,7 +33,7 @@ La segmentación es un grupo de segmentos, que son un grupo segmentado de person
 
 ## Fragmentos {#snippets}
 
-_Disponible para versiones Pro y Enterprise_
+_Disponible para las versiones Pro y Enterprise_
 
 Almacene contenido enriquecido que se pueda utilizar una y otra vez para crear correos electrónicos y páginas de aterrizaje estáticos o dinámicos.
 
@@ -41,13 +41,13 @@ Almacene contenido enriquecido que se pueda utilizar una y otra vez para crear c
 
 ## PURL {#purls}
 
-_Disponible para versiones Pro y Enterprise_
+_Disponible para las versiones Pro y Enterprise_
 
 Gracias a las direcciones URL personalizadas (PURL), los especialistas en marketing ahora pueden crear direcciones URL específicas del contacto para impulsar la personalización, la mensurabilidad y las respuestas de alza en programas de marketing multitáctil tanto para campañas de correo directo como de correo electrónico.
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Compatibilidad con la Directiva de privacidad UE {#eu-privacy-directive-support}
+## Compatibilidad con la directiva de privacidad de la UE {#eu-privacy-directive-support}
 
 Las nuevas funciones para respetar la configuración de &quot;No rastrear&quot; del navegador incluyen la capacidad de deshabilitar el seguimiento de posibles clientes anónimos; esto facilita el cumplimiento de las regulaciones de seguimiento de privacidad más estrictas de la UE.
 

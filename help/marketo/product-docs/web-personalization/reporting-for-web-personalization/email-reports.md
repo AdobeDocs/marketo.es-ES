@@ -6,16 +6,16 @@ exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Informes de correo electrónico {#email-reports}
 
-Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la  [Sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la [sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## Informes de correo electrónico de personalización web {#web-personalization-email-reports}
+## Informes de correo electrónico de Web Personalization {#web-personalization-email-reports}
 
 Los informes de correo electrónico diarios o semanales se envían a la dirección de correo electrónico del usuario, con los datos de rendimiento más recientes de la organización, la persona, la campaña y los recursos.
 
@@ -39,17 +39,17 @@ El informe de personas diario/semanal envía al usuario un correo electrónico c
 
 El informe Campañas en tiempo real de mayor rendimiento envía al usuario un correo electrónico con el nombre de las campañas en tiempo real de mayor rendimiento, en el que se muestran el nombre de la campaña, las impresiones, los clics, el segmento al que ha reaccionado la campaña y la tasa de conversión de la campaña.
 
-## Informe de activos de mayor rendimiento {#top-performing-assets-report}
+## Informe de Assets de mayor rendimiento {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-El informe Recursos de mayor rendimiento envía al usuario un correo electrónico con los recursos de contenido de mayor rendimiento, en el que se muestra el nombre del recurso y el porcentaje de coincidencias en comparación con otros recursos.
+El informe de Assets de mayor rendimiento envía al usuario un correo electrónico con los recursos de contenido de mayor rendimiento, en el que se muestra el nombre del recurso y el porcentaje de coincidencias en comparación con otros recursos.
 
-## Informe de activos recomendados {#recommended-assets-report}
+## Informe de Assets recomendado {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-El informe Activos recomendados envía al usuario un correo electrónico con todo el contenido y el número de clics procedentes del contenido que se muestra en el motor de recomendación de contenido.
+El informe Assets recomendado envía al usuario un correo electrónico con todo el contenido y el número de clics procedentes del contenido que se muestra en el motor de recomendación de contenido.
 
 ## Informe de resumen {#summary-report}
 
@@ -61,12 +61,12 @@ El informe Resumen envía al usuario un correo electrónico (mensual o trimestra
 >
 >**Definiciones**
 >
->**Conversión directa**: Un visitante web que hace clic en una campaña personalizada o en un recurso de contenido recomendado y en la misma sesión de visita rellena cualquier formulario del sitio web con su dirección de correo electrónico.
+>**Conversión directa**: Un visitante web que hace clic en una campaña personalizada o en un recurso de contenido recomendado y en la misma sesión de visita completa cualquier formulario del sitio web con su dirección de correo electrónico.
 >
 >**Conversión asistida**: Visitante web que rellena cualquier formulario del sitio web y deja su dirección de correo electrónico, mientras que en una visita anterior (en los últimos 6 meses) hizo clic en una campaña personalizada o en un recurso de contenido recomendado.
 
 >[!NOTE]
 >
->La personalización web de Marketo captura la dirección de correo electrónico del visitante web para cualquier formulario completado en el sitio web. Se visualiza en la página Personas de personalización web y es la persona que se utiliza en el informe Resumen.
+>Marketo Web Personalization registra la dirección de correo electrónico del visitante de la web para cualquier formulario rellenado en el sitio web. Se visualiza en la página Personas de Web Personalization y es la persona que se utiliza en el informe Resumen.
 
-Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la [Sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la [sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

@@ -6,7 +6,7 @@ exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -29,23 +29,23 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
    >
    >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y enviar.
 
-1. Haga clic en **Correo electrónico seleccionado** botón.
+1. Haga clic en el botón **Correo electrónico seleccionado**.
 
    ![](assets/three-2.png)
 
-1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/[programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) el correo electrónico.
+1. Escribe una línea de asunto, selecciona una plantilla (o redacta el correo electrónico desde cero) y envía/[programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) el correo electrónico.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Previsualizar campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral por lotes estén seleccionados para previsualizar todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Previsualizar campos dinámicos**, solo se previsualizará ese correo electrónico.
+   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Vista previa de los campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral por lotes estén seleccionados para previsualizar todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Vista previa de campos dinámicos**, solo se previsualizará ese correo electrónico.
 
 ## Edición de correos electrónicos {#editing-emails}
 
 **Ediciones masivas**
 
-1. Siga los pasos del 1 al 3 desde el [Sección Envío de correos electrónicos](#sending-emails).
+1. Siga los pasos del 1 al 3 de la sección [Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Clic **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico realizadas.
+1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 Complete las Actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico en la barra lateral de composición masiva.
 
-1. Siga los pasos del 1 al 4 desde el [Sección Envío de correos electrónicos](#sending-emails).
+1. Siga los pasos del 1 al 4 de la sección [Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,7 +89,7 @@ Complete las Actualizaciones masivas antes de personalizar cada correo electrón
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Clic **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico realizadas.
+1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
 
    ![](assets/each-four.png)
 

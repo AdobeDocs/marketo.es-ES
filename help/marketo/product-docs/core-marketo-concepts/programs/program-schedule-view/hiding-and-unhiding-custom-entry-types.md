@@ -17,11 +17,11 @@ Los tipos de entradas personalizadas se pueden ocultar en la sección Administra
 
 ## Ocultar un tipo de entrada personalizada {#hide-a-custom-entry-type}
 
-1. Vaya a la **[!UICONTROL Administrador]** y haga clic en **[!UICONTROL Tipos de entradas de calendario]**.
+1. Vaya a la sección **[!UICONTROL Admin]** y haga clic en **[!UICONTROL Tipos de entradas de calendario]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Haga clic con el botón derecho en la entrada personalizada y seleccione **[!UICONTROL Hide]**.
+1. Haga clic con el botón secundario en la entrada personalizada y haga clic en **[!UICONTROL Ocultar]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 

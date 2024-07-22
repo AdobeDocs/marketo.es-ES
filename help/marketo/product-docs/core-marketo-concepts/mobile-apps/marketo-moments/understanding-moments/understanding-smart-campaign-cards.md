@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
 1. La tarjeta de detalles le permite acceder a la información sobre los filtros de lista inteligente, flujo y resumen de correo electrónico.
 
-1. Tocar **Lista inteligente**.
+1. Pulse **Lista inteligente**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tocar **Flujo**.
+1. Pulse **Flujo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Clic **Resumen de correo electrónico**.
+1. Haga clic en **Resumen de correo electrónico**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Es una buena idea echar un vistazo a un correo electrónico antes de que se publ
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tocar [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Previsualizar correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
+1. Pulse [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Previsualizar correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener detalles).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Las tarjetas de las campañas inteligentes sin confirmar aparecerán en gris has
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tocar **Confirmar**.
+1. Pulse **Confirmar**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tocar **Confirmar** para finalizar el trabajo, o **Olvídese De** si tiene dudas.
+1. Pulse **Confirmar** para finalizar el trabajo o **No importa** si tiene dudas.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tocar **Cancelar ejecución**.
+1. Pulse **Cancelar ejecución**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocar **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **Olvídese De**, y la campaña inteligente se ejecutará según lo programado.
+1. Pulse **Cancelar ejecución**. Si en el último minuto decide no cancelar la ejecución, pulse **No importa**, y la campaña inteligente se ejecutará según lo programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,7 +119,7 @@ Puede reprogramar una campaña inteligente confirmada que aún no se haya ejecut
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tocar **Reprogramar**.
+1. Pulse **Volver a programar**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
@@ -141,7 +141,7 @@ Al igual que con otras tarjetas de Momentos de Marketo, puede pulsar los tres pu
 
 >[!NOTE]
 >
->También puede pulsar el botón **Compartir** en una tarjeta de Smart Campaign para compartir y la variable **Listo** y **Favorito** en la tarjeta de detalles.
+>También puede tocar el icono **Compartir** en una tarjeta de Smart Campaign para compartirlo, y los iconos **Listo** y **Favorito** de la tarjeta de detalles.
 
 ## Eliminar rápidamente una tarjeta de campaña inteligente {#quickly-delete-a-smart-campaign-card}
 

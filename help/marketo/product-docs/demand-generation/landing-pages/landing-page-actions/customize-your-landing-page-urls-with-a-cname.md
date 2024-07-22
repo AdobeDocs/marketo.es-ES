@@ -33,17 +33,17 @@ La única palabra (más YourCompany.com) se llama CNAME. Lo necesitarás más ta
 
 ## Búsqueda de su ID de Munchkin {#find-your-munchkin-id}
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Clic **Mi cuenta**.
+1. Haga clic en **Mi cuenta**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
-   >**Permisos de administración necesarios**
+   >**Se requieren permisos de administración**
 
 1. Desplácese hacia abajo hasta &quot;Información de asistencia&quot; y copie su ID de Munchkin.
 
@@ -51,25 +51,25 @@ La única palabra (más YourCompany.com) se llama CNAME. Lo necesitarás más ta
 
 ## Enviar solicitud a TI {#send-request-to-it}
 
-Pida al personal de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] y [ID de Munchkin] con el texto del paso anterior).
+Pida al personal de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] y [Munchkin ID] con el texto del paso anterior).
 
 [CNAME].YourCompany.com > [ID de Munchkin].mktoweb.com
 
 ## Configuración completa de CNAME {#complete-cname-setup}
 
-1. Una vez que el equipo de TI haya creado el CNAME, vaya a **Administrador** área.
+1. Una vez que el equipo de TI haya creado el CNAME, vaya al área de **Admin**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Clic **Páginas de aterrizaje**.
+1. Haga clic en **Páginas de aterrizaje**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. En el **Configuración** , haga clic en **Editar**.
+1. En la sección **Configuración**, haga clic en **Editar**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Introduzca su CNAME en **Nombre de dominio para páginas de aterrizaje**, introduzca su **Página de reserva**, introduzca su **Homepage** y haga clic en **Guardar**.
+1. Escriba su CNAME en **Nombre de dominio para páginas de aterrizaje**, ingrese su **página de reserva**, ingrese su **página principal** y haga clic en **Guardar**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

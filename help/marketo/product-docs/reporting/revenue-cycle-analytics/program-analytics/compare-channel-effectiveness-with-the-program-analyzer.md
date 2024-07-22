@@ -17,9 +17,9 @@ Utilice el analizador de programas para comparar los costes de canal, la adquisi
 
 >[!PREREQUISITES]
 >
->[Creación de un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Haga clic en **Analytics** in **Mi Marketo**.
+1. Haz clic en **Analytics** en **Mi Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
@@ -27,31 +27,31 @@ Utilice el analizador de programas para comparar los costes de canal, la adquisi
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Cambie la vista a **Por canal**.
+1. Cambiar la vista a **Por canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Utilice el **Eje X** desplegable para elegir una métrica para el eje horizontal. Empecemos con lo siguiente **Costo de programa**.
+1. Utilice la lista desplegable **Eje X** para elegir una métrica para el eje horizontal. Empecemos con **Costo de programa**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Utilice la lista desplegable Eje Y para elegir una métrica para el eje vertical. Aquí, vamos con... **(FT) Canalización creada**.
+1. Utilice la lista desplegable Eje Y para elegir una métrica para el eje vertical. Aquí, iremos con la canalización **(FT) creada**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de múltiples contactos (MT). Es importante entender el [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de múltiples contactos (MT). Es importante entender la [diferencia entre la atribución de FTP y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Utilice el **Eje Y** menú desplegable para elegir **(MT) Canalización creada**.
+1. Utilice la lista desplegable **Eje Y** para elegir **(MT) Canalización creada**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   En esta vista de atribución multitáctil, vemos que el canal Seminario web tiene más influencia en la canalización creada y cuesta menos que los canales de Feria comercial y Publicidad en línea.
+   En esta vista de atribución multitáctil, vemos que el canal Seminario web tiene más influencia en la canalización creada y cuesta menos que los canales de la Feria comercial y de Advertising en línea.
 
    Ahora vamos a añadir dos dimensiones más.
 
-1. Utilice el **Tamaño de burbuja** desplegable para seleccionar una medida adicional, como **Nuevos nombres**.
+1. Utilice la lista desplegable **Tamaño de burbuja** para seleccionar una medida adicional, como **Nombres nuevos**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,7 +59,7 @@ Utilice el analizador de programas para comparar los costes de canal, la adquisi
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vemos que el canal del seminario web se encoge, según lo medido por **Nuevos nombres**. Podemos concluir que, si bien tiene muchos miembros, es menos eficaz en la generación de nuevas pistas que el canal de la Feria.
+   Vemos que el canal del seminario web se encoge, según las mediciones de **Nuevos nombres**. Podemos concluir que, si bien tiene muchos miembros, es menos eficaz en la generación de nuevas pistas que el canal de la Feria.
 
 1. Finalmente, utilice la lista desplegable Color para añadir la cuarta dimensión. Vamos a seleccionar **(FT) Ingresos obtenidos**.
 
@@ -69,9 +69,9 @@ Utilice el analizador de programas para comparar los costes de canal, la adquisi
 
    ![](assets/image2014-9-17-18-3a41-3a19.png)
 
-   A partir de los colores, nos enteramos de que el canal de la feria, la burbuja más verde, ha influido en los buenos ingresos ganados, según se mide por la atribución de primer contacto.
+   A partir de los colores, nos enteramos de que el canal de la feria, la burbuja más verde, ha influido en los mayores ingresos obtenidos, según se mide por la atribución de primer contacto.
 
-1. Ahora, si cambiamos la métrica Color a **(MT) Ingresos obtenidos** Sin embargo, vemos que el canal de publicidad en línea, ahora el más ecológico, influyó más en los ingresos -a lo largo del tiempo- que los canales de seminarios web y ferias comerciales.
+1. Ahora, si cambiamos la métrica Color a **(MT) Ingresos obtenidos**, vemos que el canal Advertising en línea, ahora el más ecológico, influyó más en los ingresos -con el tiempo- que los canales Seminario web y Feria comercial.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -83,5 +83,5 @@ En nuestro ejemplo, vemos que el canal de feria es el más caro (el más a la de
 
 >[!MORELIKETHIS]
 >
->* [Exploración de los detalles de programas y canales con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Explorar detalles de programas y canales con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Comparar la eficacia del programa con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

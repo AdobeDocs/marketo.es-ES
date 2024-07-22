@@ -16,13 +16,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Elija un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Cree un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 Las pruebas son una buena manera de optimizar los correos electrónicos para mejorar la participación. A continuación se muestra cómo empezar.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Las pruebas son una buena manera de optimizar los correos electrónicos para mej
 
    ![](assets/selectemailprogram.jpg)
 
-1. En el **Correo electrónico** mosaico, haga clic en **Añadir prueba A/B**.
+1. En el mosaico **Correo electrónico**, haga clic en **Agregar prueba A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -38,15 +38,15 @@ Las pruebas son una buena manera de optimizar los correos electrónicos para mej
    >
    >Al añadir una prueba A/B, el correo electrónico seleccionado ya no estará disponible para su uso en ningún otro programa.
 
-1. Se abrirá una nueva ventana con diferentes **Tipos de prueba** para elegir. Explore uno de los artículos relacionados a continuación para continuar.
+1. Se abrirá una nueva ventana con **tipos de prueba** diferentes para elegir. Explore uno de los artículos relacionados a continuación para continuar.
 
    >[!CAUTION]
    >
-   >Si tiene registros duplicados en la base de datos, esos registros recibirán **ambos** la prueba y los correos electrónicos ganadores. Para evitar que esto ocurra, asegúrese de lo siguiente [buscar y combinar personas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) en la base de datos.
+   >Si tiene registros duplicados en la base de datos, esos registros recibirán **tanto** la prueba como los mensajes de correo electrónico ganadores. Para evitar que esto ocurra, asegúrese de [buscar y combinar personas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) en su base de datos.
 
 >[!MORELIKETHIS]
 >
->* [Usar prueba A/B de &quot;Línea de asunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Usar prueba A/B &quot;Línea de asunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
 >* [Usar prueba A/B de &quot;correo electrónico completo&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
->* [Usar la prueba A/B &quot;Dirección de origen&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
->* [Usar prueba A/B &quot;Fecha/Hora&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+>* [Usar prueba A/B &quot;Dirección desde&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Usar &quot;Fecha/Hora&quot; Prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)

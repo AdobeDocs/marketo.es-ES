@@ -5,20 +5,20 @@ title: Seleccionar ganadores de sorteos
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # Seleccionar ganadores de sorteos {#select-sweepstakes-winners}
 
-Cuando usted [publicar un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), debe seleccionar los ganadores para cada dibujo. Cuando lo haga, su [correo electrónico de cumplimiento](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) se les envía automáticamente.
+Cuando [publique un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), tendrá que seleccionar ganadores para cada sorteo. Cuando lo haga, su [correo electrónico de cumplimiento](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) se les enviará automáticamente.
 
 >[!AVAILABILITY]
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -26,23 +26,23 @@ Cuando usted [publicar un sorteo](/help/marketo/product-docs/demand-generation/s
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Clic **Elegir ganadores**.
+1. Haga clic en **Elegir ganadores**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Para ver una lista de las personas que se han registrado en sus sorteos, haga clic en **Participantes** pestaña.
+   >Para ver una lista de las personas que se han registrado en tu sorteo, haz clic en la ficha **Participantes**.
 
-1. Elija el número de ganadores, seleccione **Estoy listo para elegir** y haga clic en **Siguiente**.
+1. Elige el número de ganadores, selecciona **Estoy listo para elegir** y haz clic en **Siguiente**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Si se elige 0 ganadores para un plano determinado, dicha información no se mostrará en el **Ganadores** pestaña.
+   >Si elige 0 ganadores para un dibujo determinado, esa información no se mostrará en la ficha **Ganadores**.
 
-1. Clic **Finalizar** para enviar el [correo electrónico de cumplimiento](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) a los ganadores enumerados.
+1. Haga clic en **Finalizar** para enviar el [correo electrónico de cumplimiento](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) a los ganadores de la lista.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 

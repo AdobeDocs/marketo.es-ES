@@ -17,21 +17,21 @@ Las páginas de reserva son la última línea de defensa si la página de aterri
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Clic **[!UICONTROL Páginas de aterrizaje]**.
+1. Haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. En el **[!UICONTROL Páginas de aterrizaje]** pestaña, haga clic en **[!UICONTROL Editar]**.
+1. En la ficha **[!UICONTROL Páginas de destino]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Introduzca una **[!UICONTROL Página de reserva]** en el cuadro de diálogo y pulse en **[!UICONTROL Guardar]**.
+1. Escriba una **[!UICONTROL página de reserva]** en el cuadro de diálogo y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/set-a-fallback-page-4.png)
 

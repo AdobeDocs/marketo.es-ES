@@ -17,17 +17,17 @@ La incrustación de un flujo de conversación de Dynamic Chat directamente en un
 
 >[!PREREQUISITES]
 >
->Cree un [Flujo de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) que solo contiene un **Reunión reservada** Tarjeta de.
+>Cree un [flujo de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) simple que solo contenga una tarjeta de **reserva de reunión**.
 
 ## Páginas de aterrizaje guiadas {#guided-landing-pages}
 
-Incruste el siguiente código en la plantilla de la página de aterrizaje guiada: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+Incruste el código siguiente en la plantilla de la página de aterrizaje guiada: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 
 Abra la plantilla de la página de aterrizaje guiada en el editor y seleccione el marcador de posición Flujo de conversación.
 
 Haga clic en el menú desplegable Flujo de conversación y seleccione el CF que ha creado en el paso 1.
 
-Mantener siempre el tipo de envío como **En línea**. Clic **Insertar**.
+Mantenga siempre el tipo de envío como **En línea**. Haga clic en **Insertar**.
 
 El Flujo de conversación que acaba de introducir aparecerá como un Elemento a la derecha.
 

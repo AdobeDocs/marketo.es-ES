@@ -2,7 +2,8 @@
 description: Aprenda a crear e implementar plantillas en seminarios web interactivos.
 title: Plantillas para seminarios web interactivos
 feature: Interactive Webinars
-source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -19,15 +20,15 @@ Cree plantillas fáciles de usar en los seminarios web interactivos para produci
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. Clic **[!UICONTROL Seminarios web interactivos]**.
+1. Haga clic en **[!UICONTROL seminarios web interactivos]**.
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. Clic **[!UICONTROL Administrar plantillas]**.
+1. Haga clic en **[!UICONTROL Administrar plantillas]**.
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
-1. Se abre una nueva pestaña. Clic **Crear nuevo**.
+1. Se abre una nueva pestaña. Haga clic en **Crear nuevo**.
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
@@ -39,11 +40,11 @@ Cree plantillas fáciles de usar en los seminarios web interactivos para produci
    >
    >Las plantillas de organización son las plantillas que usted o su equipo ya han creado.
 
-1. Introduzca un nombre y una descripción. Clic **Guardar y abrir**.
+1. Introduzca un nombre y una descripción. Haz clic en **Guardar y abrir**.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. Se abre una nueva pestaña. Para editar o guardar la plantilla, debe introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Clic **Entrar en sala**.
+1. Se abre una nueva pestaña. Para editar o guardar la plantilla, debe introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Haga clic en **Introducir sala**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
@@ -55,7 +56,7 @@ Cree plantillas fáciles de usar en los seminarios web interactivos para produci
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. Clic **Finalizar ahora**.
+1. Haga clic en **Finalizar ahora**.
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -69,11 +70,11 @@ Siga los pasos a continuación para editar una plantilla existente.
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Clic **[!UICONTROL Seminarios web interactivos]**.
+1. Haga clic en **[!UICONTROL seminarios web interactivos]**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
-1. Clic **[!UICONTROL Administrar plantillas]**.
+1. Haga clic en **[!UICONTROL Administrar plantillas]**.
 
    ![](assets/templates-for-interactive-webinars-13.png)
 
@@ -81,7 +82,7 @@ Siga los pasos a continuación para editar una plantilla existente.
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
-1. Se abre una nueva pestaña. Para editar la plantilla, tendrá que introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Clic **Entrar en sala**.
+1. Se abre una nueva pestaña. Para editar la plantilla, tendrá que introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Haga clic en **Introducir sala**.
 
    ![](assets/templates-for-interactive-webinars-15.png)
 
@@ -93,7 +94,7 @@ Siga los pasos a continuación para editar una plantilla existente.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. Clic **Finalizar ahora**.
+1. Haga clic en **Finalizar ahora**.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

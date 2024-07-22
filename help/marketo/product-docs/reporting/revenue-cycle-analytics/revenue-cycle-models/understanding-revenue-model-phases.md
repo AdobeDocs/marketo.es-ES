@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Las fases son una forma de agrupar una serie de etapas. A veces, varias fases de un modelo reflejan una fase de un canal.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## Definir las fases del modelo {#define-the-phases-of-the-model}
 
-1. Clic **Fases**.
+1. Haga clic en **Fases**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

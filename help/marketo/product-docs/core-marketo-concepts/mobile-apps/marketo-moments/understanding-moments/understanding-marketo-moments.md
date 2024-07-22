@@ -6,8 +6,8 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 1%
+source-wordcount: '604'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->_Acceso a aplicaciones móviles_ se requiere permiso. Póngase en contacto con su administrador de Marketo para [actualizar su función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Se requiere el permiso _Acceder a aplicaciones móviles_. Póngase en contacto con su administrador de Marketo para [actualizar su rol](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Secuencias {#streams}
 
@@ -33,10 +33,10 @@ Aquí están los diferentes flujos en Momentos.
 >
 >**Definición**
 >
->* [!UICONTROL Momentos]: Cualquier cosa que acaba de ejecutarse, o que está a punto de ejecutarse, se envía aquí.
->* [!UICONTROL Favoritos]: Cualquier cosa que hagas como favorita entra aquí.
->* [!UICONTROL Más tarde]: Cualquier cosa que ocurra después de este momento entra aquí.
->* [!UICONTROL Listo]: Cualquier cosa que haya terminado de ejecutarse o que haya marcado como terminada se incluye aquí.
+>* [!UICONTROL Momentos]: Cualquier cosa que se acaba de ejecutar o está a punto de ejecutarse se enviará aquí.
+>* [!UICONTROL Favoritos]: Cualquier cosa que hagas como favorito entra aquí.
+>* [!UICONTROL Más tarde]: Cualquier cosa que ocurra más tarde de este momento entra aquí.
+>* [!UICONTROL Listo]: Cualquier cosa que haya terminado de ejecutarse o que haya marcado como listo se enviará aquí.
 
 Bien, ahora que lo hemos quitado de en medio, ¡echemos un vistazo a Marketo Moments por teléfono!
 
@@ -44,21 +44,21 @@ Bien, ahora que lo hemos quitado de en medio, ¡echemos un vistazo a Marketo Mom
 
 Momentos de Marketo le ofrece tres tarjetas diferentes para seguir el progreso de su correo electrónico:
 
-**[!UICONTROL En cubierta]** - Este correo está a punto de salir. Es su última oportunidad de previsualizarlo, enviar una muestra o, incluso, cancelarlo si tiene que hacerlo.
+**[!UICONTROL En cubierta]**: Este correo electrónico está a punto de salir. Es su última oportunidad de previsualizarlo, enviar una muestra o, incluso, cancelarlo si tiene que hacerlo.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Latido del corazón]** - Hey - este correo electrónico se está entregando ahora! Y aquí están las estadísticas, también. Adelante, compártelo.
+**[!UICONTROL Latido del corazón]** - ¡Oye! ¡Este correo electrónico se está enviando ahora! Y aquí están las estadísticas, también. Adelante, compártelo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Resultados]** - Así es como lo hizo el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
+**[!UICONTROL Resultados]**: así es como se recibió el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Transmisión de momentos {#moments-stream}
 
-Al abrir la aplicación por primera vez o pulsar **[!UICONTROL Momentos]** en el menú, las tarjetas relevantes se muestran primero. Cada una contiene información sobre esa iniciativa de marketing específica y su rendimiento general.
+Cuando abre la aplicación por primera vez o pulsa **[!UICONTROL Momentos]** en el menú, las tarjetas relevantes se muestran primero. Cada una contiene información sobre esa iniciativa de marketing específica y su rendimiento general.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -74,7 +74,7 @@ Al pulsar los tres puntos, se abre un menú de acción de tarjeta.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Excelente! Ahora, puede hacer que algo suceda tocando:
+¡Excelente! Ahora, puede hacer que algo suceda tocando:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,11 +82,11 @@ Excelente! Ahora, puede hacer que algo suceda tocando:
 >
 >**Definición**
 >
->* [!UICONTROL Favorito]: Es fácil prestar atención a las cosas que son más oportunas e importantes si las haces favoritas.
->* [!UICONTROL Listo]: Listo lo quita de la vista Momentos de Marketo (pero lo deja en Marketo, seguro y sonoro).
->* [!UICONTROL Compartir]: Envíe una imagen para motivar o felicitar a su equipo.
->* [!UICONTROL Enviar muestra] (solo correo electrónico): Utilícelo para permitir que otros usuarios comprueben el aspecto de sus correos electrónicos antes de enviarlos.
->* [!UICONTROL Previsualizar correo electrónico] (solo correos electrónicos): Siempre es buena idea consultar sus correos electrónicos con antelación.
+>* [!UICONTROL Favorito]: Es fácil prestar atención a las cosas que son más oportunas e importantes si las conviertes en favoritas.
+>* [!UICONTROL Listo]: Listo lo quita de la vista Momentos de Marketo (pero lo deja en Marketo, a salvo y en buen estado).
+>* [!UICONTROL Compartir]: envía una imagen para motivar o felicitar a tu equipo.
+>* [!UICONTROL Enviar muestra] (solo correo electrónico): usa esto para permitir que otros vean el aspecto de tus correos electrónicos antes de enviarlos.
+>* [!UICONTROL Previsualizar correo electrónico] (solo correos electrónicos): siempre es buena idea revisar tus correos electrónicos por adelantado.
 
 ## Momentos posteriores {#later-moments}
 
@@ -96,7 +96,7 @@ La sección Más tarde muestra las próximas actividades.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tocar **[!UICONTROL Más tarde]**.
+1. Pulse **[!UICONTROL Más tarde]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -121,7 +121,7 @@ Para los eventos, verá el número total de miembros y su estado.
 Las tarjetas Momento de Analytics le muestran el rendimiento de sus correos electrónicos y eventos mes a mes durante los últimos seis meses, para:
 
 1. Posibles clientes adquiridos
-1. Nuevos posibles clientes
+1. Nuevos leads
 1. Cancela suscripción
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
@@ -134,7 +134,7 @@ Las tarjetas de campaña inteligentes representan una sola ejecución de una cam
 
 ## Confirmar o cancelar una acción {#confirm-or-cancel-an-action}
 
-En cada paso del proceso, puede confirmar o cancelar una acción. Si cambia de opinión, solo toque **[!UICONTROL Olvídese De]**.
+En cada paso del proceso, puede confirmar o cancelar una acción. Si cambias de opinión, solo toca **[!UICONTROL No te preocupes]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -142,7 +142,7 @@ En cada paso del proceso, puede confirmar o cancelar una acción. Si cambia de o
 
 Marketo Moments es compatible con estas versiones del sistema operativo:
 
-* [!DNL Apple] iOS 8.0 y versiones posteriores.
+* [!DNL Apple] iOS 8.0 y superior.
 * [!DNL Android] versión 4.1 y superior (básicamente Jellybean y superior).
 
 ¿Listo para obtener más información?
@@ -152,4 +152,4 @@ Marketo Moments es compatible con estas versiones del sistema operativo:
 >* [Explicación de las tarjetas de programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Explicación de las tarjetas de eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Explicación de las tarjetas de Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Explicación de las tarjetas Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Explicación de las tarjetas de campaña inteligentes](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cuando haya habilitado Facebook Lead Ads, puede usarlos en sus campañas inteligentes para ver el éxito del programa. Cuando las personas envían su información en una unidad de anuncios de posibles clientes de Facebook, la información se envía a Marketo inmediatamente.
 
-1. Utilice el **Rellena El Formulario De Anuncios Potenciales** filtro o déclencheur.
+1. Use el déclencheur **Rellena el formulario de anuncios de posibles clientes**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Desactivación de una campaña para una persona {#turn-off-a-campaign-for-one-person}
 
-Después de crear la campaña, simplemente vaya a **Configuración** y elija cómo desea que se comporte la campaña si alguien responde.
+Después de crear tu campaña, simplemente ve a la pestaña **Configuración** y elige cómo quieres que se comporte la campaña si alguien responde.
 
 Ambas opciones finalizarán la campaña y el destinatario no recibirá más correos electrónicos de su parte.
 

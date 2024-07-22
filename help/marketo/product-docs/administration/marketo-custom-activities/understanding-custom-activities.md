@@ -27,13 +27,13 @@ Las actividades personalizadas le ayudan a rastrear una actividad que no está r
 >
 >Las actividades personalizadas difieren de los objetos personalizados. Utilice objetos personalizados cuando el valor pueda cambiar (por ejemplo, el &quot;color del coche&quot; cambia de azul a rojo). Utilice actividades personalizadas cuando rastree momentos que se produjeron y sus detalles no puedan cambiar (por ejemplo, &quot;coche comprado&quot;).
 
-**Campos** Puede añadir [campos adicionales](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que desee asociar con su actividad. Al igual que el campo principal, se pueden utilizar como criterios de filtrado en una lista inteligente.
+**Campos** Puede agregar [campos adicionales](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que desee asociar con su actividad. Al igual que el campo principal, se pueden utilizar como criterios de filtrado en una lista inteligente.
 
-**Primeros pasos**
+**Introducción**
 
 Las actividades personalizadas funcionan igual que las actividades estándar. Sin embargo, la configuración es un proceso de dos partes.
 
-Paso 1: [Creación de una actividad personalizada](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) en su cuenta de Marketo
+Paso 1: [Cree una actividad personalizada](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) en su cuenta de Marketo
 
 Paso 2: El empleado de su organización que trabaja con nuestra API puede comenzar la implementación. Encontrará más información aquí: [API de actividad personalizada](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 

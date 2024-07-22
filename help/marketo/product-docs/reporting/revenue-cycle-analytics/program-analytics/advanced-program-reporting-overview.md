@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Información general sobre informes de programas avanzados {#advanced-program-reporting-overview}
 
-**Explorador del ciclo de ingresos** incluye varias áreas de análisis y una amplia gama de nuevas métricas que le permiten medir la eficacia del programa.
+**Explorador del ciclo de ingresos** incluye varias áreas de análisis y una amplia gama de nuevas métricas que le permiten medir la efectividad del programa.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ Cada área de análisis contiene diferentes conjuntos de datos y métricas dentr
 
 ## Áreas de análisis de programas {#program-analysis-areas}
 
-* **[Análisis de costos de programas](understanding-the-program-cost-analysis-area.md)** - Ver el ROI de todos tus programas.
+* **[Análisis de costos del programa](understanding-the-program-cost-analysis-area.md)** - Vea el ROI de todos sus programas.
 
 * **[Análisis de pertenencia a programas](understanding-the-program-membership-analysis-area.md)** - Ver resultados por canal, participación, criterios de éxito, etc.
 
-* **[Análisis de oportunidad de programa](understanding-the-program-opportunity-analysis-area.md)** : Oportunidades generadas en función de la distribución, sus ingresos y el ROI.
+* **[Análisis de oportunidades del programa](understanding-the-program-opportunity-analysis-area.md)**: oportunidades generadas en función de la distribución, sus ingresos y el retorno de la inversión.
 
-* **[Análisis de fase de ingresos del programa](understanding-the-program-revenue-stage-analysis-area.md)** : nuevos nombres que han alcanzado fases de éxito específicas dentro del modelo de ciclo de ingresos.
+* **[Análisis de fase de ingresos del programa](understanding-the-program-revenue-stage-analysis-area.md)**: nuevos nombres que han alcanzado fases de éxito específicas dentro del modelo de ciclo de ingresos.
 
 ## Analizadores de programas {#program-analyzers}
 
-* **Analizador de programas** - Identifique rápidamente los programas que son exitosos o no, y enfoque sus recursos apropiadamente.
+* **Analizador de programas**: identifique rápidamente los programas que tengan éxito o no y centre sus recursos adecuadamente.
 
-* **Analizador de influencia de oportunidad** - Demostrar la contribución de Marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
+* **Analizador de influencia de oportunidad**: pruebe la contribución de marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
 
 ## Opciones de informe {#report-options}
 

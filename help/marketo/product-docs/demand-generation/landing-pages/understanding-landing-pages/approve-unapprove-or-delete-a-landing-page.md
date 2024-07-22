@@ -21,11 +21,11 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
    >[!TIP]
    >
-   >Puede [aprobar varias páginas a la vez](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar tu vida.
+   >Puedes [aprobar varias páginas a la vez](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar tu vida.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. También puede hacer clic con el botón derecho en la página de aterrizaje y hacer clic en **Aprobar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Aprobar**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -39,13 +39,13 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. También puede hacer clic con el botón derecho en la página de aterrizaje y hacer clic en **Desaprobar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->La página de aterrizaje no aprobada ya no se publica en la web y no genera actividad adicional. Los visitantes de páginas de aterrizaje no aprobadas y sus fichas de Facebook verán el [Página de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>La página de aterrizaje no aprobada ya no se publica en la web y no genera actividad adicional. Los visitantes de páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminar una página de aterrizaje {#delete-a-landing-page}
 
@@ -57,7 +57,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
    >
    >No puede eliminar una página de aterrizaje aprobada. Desapruébelo primero.
 
-1. También puede hacer clic con el botón derecho en la página de aterrizaje y hacer clic en **Eliminar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Eliminar**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ¿Quiere eliminar más de una página de aterrizaje a la vez? Así es como.
 
-1. En Design Studio, haga clic en **Páginas de aterrizaje**.
+1. En Design Studio, haga clic en **Páginas de destino**.
 
    ![](assets/one.png)
 
@@ -77,12 +77,12 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
    >
    >También puede utilizar Ctrl+clic para eliminar varias páginas de aterrizaje que no sean secuenciales.
 
-1. Haga clic en **Acciones de página de aterrizaje** y seleccione. **Eliminar**.
+1. Haga clic en el menú desplegable **Acciones de página de aterrizaje** y seleccione **Eliminar**.
 
    ![](assets/three.png)
 
-1. Clic **Eliminar**.
+1. Haga clic en **Eliminar**.
 
    ![](assets/four.png)
 
-¡Increíble! Ahora sabe cómo aprobar, desaprobar y eliminar páginas de aterrizaje.
+¡Fantástico! Ahora sabe cómo aprobar, desaprobar y eliminar páginas de aterrizaje.

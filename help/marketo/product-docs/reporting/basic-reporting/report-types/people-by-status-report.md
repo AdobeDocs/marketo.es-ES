@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Informe Personas por Estado {#people-by-status-report}
 
-Revise lo bien que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen en cada una _Estado de persona_ valor cada mes.
+Revise lo bien que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen en cada valor de _Estado de la persona_ cada mes.
 
-1. [Creación de un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione la **Personas por estado** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crea un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y selecciona **Personas por estado** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Establezca el lapso de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en **Informe** pestaña.
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
 
-1. Excelente! Ahora puede ver cuántas personas había en cada estado de persona, de un mes a otro.
+1. ¡Excelente! Ahora puede ver cuántas personas había en cada estado de persona, de un mes a otro.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 
@@ -29,4 +29,4 @@ Revise lo bien que está moviendo a las personas a través del proceso comproban
 
    >[!MORELIKETHIS]
    >
-   >[Usar una lista inteligente para filtrar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) a personas específicas.
+   >[Use una lista inteligente para filtrar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) a personas específicas.

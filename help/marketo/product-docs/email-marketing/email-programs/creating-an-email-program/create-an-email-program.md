@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Utilice programas de correo electrónico para enviar un correo electrónico rápida y fácilmente a un grupo de personas.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one.png)
 
-1. Seleccione la carpeta en la que desea crear el programa y haga clic en **Nuevo** y seleccione... **Nuevo programa**.
+1. Seleccione la carpeta en la que desea crear el programa, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo programa**.
 
    ![](assets/two.png)
 
-1. Introduzca un nombre, seleccione **Correo electrónico** como Tipo de programa y haga clic en **Crear**.
+1. Escriba un nombre, seleccione **Correo electrónico** como tipo de programa y haga clic en **Crear**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Al seleccionar **Correo electrónico** como Tipo de programa, el canal se establecerá automáticamente en **Enviar correo electrónico**. Puede cambiarlo si lo desea.
+   >Al seleccionar **Correo electrónico** como Tipo de programa, el canal se establecerá automáticamente en **Envío de correo electrónico**. Puede cambiarlo si lo desea.
 
    ![](assets/four.png)
 
@@ -37,5 +37,5 @@ Utilice programas de correo electrónico para enviar un correo electrónico ráp
 
 >[!MORELIKETHIS]
 >
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)

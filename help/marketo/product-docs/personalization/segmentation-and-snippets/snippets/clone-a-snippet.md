@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,20 +15,20 @@ ht-degree: 1%
 
 Clone un fragmento para crear una copia del mismo que pueda modificar según sus necesidades.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vaya a su fragmento y, a continuación, en **Acciones de fragmento**, haga clic en **Clonar**.
+1. Vaya al fragmento y, a continuación, en **Acciones de fragmento**, haga clic en **Clonar**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Introduzca los detalles del fragmento y haga clic en **Clonar**.
+1. Escriba los detalles del fragmento y haga clic en **Clonar**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
-¡Increíble! Ahora puede modificar el fragmento clonado para adaptarlo a sus necesidades.
+¡Fantástico! Ahora puede modificar el fragmento clonado para adaptarlo a sus necesidades.
 
 >[!MORELIKETHIS]
 >
->[Edición de fragmentos con contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
+>[Editar fragmentos de código con contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)

@@ -6,7 +6,7 @@ exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
    >
    >Si alguna parte del proceso de envío está incompleta, por ejemplo, si el mensaje en la aplicación no está aprobado, aparece un mensaje de advertencia que indica qué área necesita su atención. Soluciónelo y debería ver el mensaje en el paso 2.
 
-1. Clic **Aprobar e iniciar**.
+1. Haga clic en **Aprobar e iniciar**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -41,7 +41,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
 
    Puede pausar o detener un programa activo, pero existe una gran diferencia entre esas dos opciones.
 
-1. Clic **Pausar programa** si necesita detener el programa durante un tiempo pero reanudarlo más tarde. Va a cambiar a **Pausado** estado.
+1. Haga clic en **Pausar programa** si necesita detener el programa durante un tiempo y reanudarlo más tarde. Cambiará al estado **En pausa**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +49,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
    >
    >Las razones para la pausa podrían ser simplemente para detenerla durante un tiempo o si desea modificar el mensaje o ajustar la programación. Sin embargo, no puede cambiar a un mensaje diferente, solo editar el existente.
 
-1. Si desea que el programa en pausa continúe ejecutándose, haga clic en **Reanudar programa**.
+1. Si desea que el programa pausado siga ejecutándose, haga clic en **Reanudar programa**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -63,7 +63,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
 
    >[!NOTE]
    >
-   >Cuando detiene un programa, ya no se ejecuta y no se puede reanudar. Si desea volver a ejecutarlo, tendrá que volver a crearlo. Asegúrese de haber terminado un programa antes de hacer clic en **Detener programa**!
+   >Cuando detiene un programa, ya no se ejecuta y no se puede reanudar. Si desea volver a ejecutarlo, tendrá que volver a crearlo. ¡Así que asegúrate de haber terminado un programa antes de hacer clic en **Detener programa**!
 
 ## Panel en la aplicación {#in-app-dashboard}
 

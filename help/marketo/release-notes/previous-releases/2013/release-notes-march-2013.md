@@ -6,7 +6,7 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En la versión de marzo se incluyen las siguientes funciones.
 
 ## Archivos de calendario de Marketo {#marketo-calendar-files}
 
-Crear un archivo de calendario como **Mi token** para su uso en los correos electrónicos de confirmación de evento y recordatorio. Este archivo de calendario integrado (por ejemplo, el archivo .ics) procesará todos los tokens, incluidos Mis tokens y el `{{member.webinar URL}}` token.
+Cree un archivo de calendario como **Mi token** para utilizarlo en los correos electrónicos de recordatorio y confirmación de eventos. Este archivo de calendario integrado (por ejemplo, archivo .ics) procesará todos los tokens, incluidos Mis tokens y el token `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Los modos de página de aterrizaje se definen mediante su plantilla. [Más información](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) acerca de las plantillas de página de aterrizaje guiadas y de forma libre.
+>Los modos de página de aterrizaje se definen mediante su plantilla. [Más información](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) acerca de las plantillas de página de aterrizaje guiada y de forma libre.
 
 >[!PREREQUISITES]
 >
->Para utilizar una plantilla personalizada, primero debe [crear una plantilla de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Para usar una plantilla personalizada, primero debe [crear una plantilla de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Creación de una página de aterrizaje guiada en un programa {#create-a-guided-landing-page-in-a-program}
 
 Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un programa o en Design Studio para su uso global.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one-1.png)
 
@@ -33,33 +33,33 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Haga clic en **Nuevo** menú desplegable. Seleccionar **Nuevo recurso local**.
+1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Nuevo recurso local**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Seleccionar **Página de aterrizaje**.
+1. Seleccione **Página de aterrizaje**.
 
    ![](assets/four.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en **Plantilla** y seleccione. **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **Plantilla** y seleccione **Plantilla guiada**.
 
    >[!NOTE]
    >
-   >Las plantillas de página de aterrizaje guiada tienen el ![—](assets/image2015-5-26-9-3a26-3a51.png) junto a ellos. Las plantillas guiadas están estructuradas para que puedan seguir siendo totalmente adaptables.
+   >Las plantillas de página de aterrizaje guiada tienen el icono ![—](assets/image2015-5-26-9-3a26-3a51.png) junto a ellas. Las plantillas guiadas están estructuradas para que puedan seguir siendo totalmente adaptables.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
 ## Creación de una página de aterrizaje en Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Ir a **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/six.png)
 
-1. Haga clic en **Nuevo** menú desplegable. Seleccionar **Nueva página de aterrizaje**.
+1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Nueva página de aterrizaje**.
 
    ![](assets/seven.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en **Plantilla** y seleccione. **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **Plantilla** y seleccione **Plantilla guiada**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +69,6 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
 >[!TIP]
 >
->La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la dirección URL, edite **URL de página** field.
+>La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la URL, edite el campo **URL de la página**.
 >
->Borre la **Abrir en el editor** si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.
+>Desactive la casilla de verificación **Abrir en el editor** si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.

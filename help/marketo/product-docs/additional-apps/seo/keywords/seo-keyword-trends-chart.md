@@ -6,16 +6,16 @@ exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # SEO: gráfico de tendencias de palabras clave {#seo-keyword-trends-chart}
 
-Es importante monitorizar cómo se usa la palabra clave [Rangos SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) son tendencias con el tiempo. Consulte este gráfico interesante para monitorizar el progreso.
+Es importante supervisar la tendencia de las [Clasificaciones SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de palabras clave a lo largo del tiempo. Consulte este gráfico interesante para monitorizar el progreso.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ Es importante monitorizar cómo se usa la palabra clave [Rangos SERP](/help/mark
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Muestra su [Rango SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
+   Muestra tu [rango SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 

@@ -17,31 +17,31 @@ Cuando esté listo, puede declarar a un campeón para su prueba de correo electr
 
 >[!MORELIKETHIS]
 >
->[Campeón/Challenger: Apruebe su prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+>[Campeón/Challenger: Aprueba tu prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Busque la prueba de correo electrónico, haga clic con el botón derecho en ella y luego haga clic en **Declarar campeón**.
+1. Busque su prueba de correo electrónico, haga clic con el botón derecho en ella y luego haga clic en **Declarar campeón**.
 
    ![](assets/champion4.jpg)
 
-1. Seleccione el **Ganador** de su elección.
+1. Seleccione el **ganador** de su elección.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Configure las variables **Fecha de declaración**.
+1. Establecer la **fecha de declaración**.
 
    >[!NOTE]
    >
-   >Hasta que **Fecha de declaración**, Marketo seguirá enviando al antiguo campeón y retador(es). Una vez que se llega a la fecha/hora, solo se envía al nuevo campeón.
+   >Hasta la **fecha de declaración**, Marketo continuará enviando al campeón y al retador(es) de siempre. Una vez que se llega a la fecha/hora, solo se envía al nuevo campeón.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observe que la opción predeterminada **Fecha de declaración** es mañana, no hoy.
+   >Observe que la **Fecha de declaración** predeterminada es mañana, no hoy.
 
 1. Seleccione una hora y haga clic en **Guardar**.
 

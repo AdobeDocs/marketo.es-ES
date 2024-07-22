@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes.
 
-1. Vaya a la **Marketo** en Salesforce1.
+1. Vaya al área **Marketo** en Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ La Fuente de posibles clientes es una lista actualizada de eventos interesantes 
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tocar **Fuente de posibles clientes**.
+1. Pulse **Fuente de posibles clientes**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -34,5 +34,5 @@ La Fuente de posibles clientes es una lista actualizada de eventos interesantes 
 >[!MORELIKETHIS]
 >
 >* [Momentos interesantes en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Los mejores lugares para comer en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Enviar correo electrónico de Marketo y acciones de campañas y listas de observación en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Lo mejor en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

@@ -19,17 +19,17 @@ Obtenga una representación visual de la velocidad y el flujo a través del mode
 >
 >[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Haga clic en **Analytics** mosaico.
+1. Haga clic en el mosaico **Analytics**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Analizador de rutas de éxito** icono.
+1. Haga clic en el icono **Analizador de rutas de éxito**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Si recibe una advertencia que indica que no se encontraron datos en el lapso de tiempo especificado, haga clic en **Cerrar** para cambiar el lapso de tiempo. Si no se le solicita, pero desea cambiar el lapso de tiempo, vaya a **Configurar** y haga doble clic **Lapso de tiempo**.
+   >Si recibe la advertencia de que no se encontraron datos en el lapso de tiempo especificado, simplemente haga clic en **Cerrar** para cambiar el lapso de tiempo. Si no se le solicita, pero desea cambiar el lapso de tiempo, vaya a **Configuración** y haga doble clic en **Periodo de tiempo**.
 
 1. Si no tenía datos o está cambiando el lapso de tiempo, seleccione uno en la lista desplegable y haga clic en Guardar.
 
@@ -37,17 +37,17 @@ Obtenga una representación visual de la velocidad y el flujo a través del mode
 
    >[!TIP]
    >
-   >Para seleccionar un rango específico, seleccione **Personalizado** y utilice el **Desde** y **Hasta** campos.
+   >Para seleccionar un rango específico, seleccione **Personalizado** y use los campos **De** y **A**.
 
-1. Si tiene más de un modelo de ciclo de ingresos, seleccione el que desee en **Configurar** pestaña.
+1. Si tiene más de un modelo de ciclo de ingresos, seleccione el que desee en la ficha **Configuración**.
 
    ![](assets/four.png)
 
-1. Seleccione el modelo adecuado y haga clic en **Aplicar**.
+1. Elija el modelo apropiado y haga clic en **Aplicar**.
 
    ![](assets/five.png)
 
-1. Haga clic en **Analizador de rutas de éxito** pestaña.
+1. Haga clic en la ficha **Analizador de rutas de éxito**.
 
    ![](assets/success-tab.png)
 
@@ -55,7 +55,7 @@ Ahora puede explorar el movimiento de cada etapa a la siguiente!
 
 >[!TIP]
 >
->¿Desea guardar el informe? Haga clic en **Acciones del analizador** y seleccione. **Guardar como**.
+>¿Desea guardar el informe? Haga clic en el menú desplegable **Acciones del analizador** y seleccione **Guardar como**.
 
 >[!MORELIKETHIS]
 >

@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ A continuación se indica cómo configurar el contenido predictivo para la barra
 
 >[!PREREQUISITES]
 >
->El contenido debe ser [aprobado para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
 
-1. En el **Contenido predictivo** , haga clic en un título para abrir el editor.
+1. En la página **Contenido predictivo**, haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Clic **Barra**.
+1. Haga clic en **Barra**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ A continuación se indica cómo configurar el contenido predictivo para la barra
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/save.png)

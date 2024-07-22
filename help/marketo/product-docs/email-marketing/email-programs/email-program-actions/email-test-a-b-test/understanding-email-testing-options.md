@@ -7,7 +7,7 @@ feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 3%
 
 Pruebe los correos electrónicos para mejorar su puntuación de participación. Existen dos tipos de pruebas de correo electrónico en Marketo.
 
-## Pruebas A/B {#a-b-testing}
+## Prueba A/B {#a-b-testing}
 
-Es para correos electrónicos únicos que utilizan programas de correo electrónico. Añadir [Pruebas A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) y un grupo pequeño obtendrá el examen y el resto obtendrá el ganador.
+Es para correos electrónicos únicos que utilizan programas de correo electrónico. Si agregas [pruebas A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md), un grupo pequeño obtendrá la prueba y el resto obtendrá el ganador.
 
 ## Campeón de correo electrónico/Challenger {#email-champion-challenger}
 
-Para los correos electrónicos en curso utilizados en campañas inteligentes de déclencheur o programas de participación, puede añadir [campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) pruebas. Esto introduce variaciones en un porcentaje continuo de los destinatarios.
+Para los mensajes de correo electrónico en curso que se usan en campañas inteligentes de déclencheur o programas de participación, puedes agregar las pruebas de [campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Esto introduce variaciones en un porcentaje continuo de los destinatarios.
 
 ¡Feliz Prueba!

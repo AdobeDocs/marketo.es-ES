@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede crear superposiciones personalizadas para ver las entradas que se adapten a sus necesidades.
 
-1. Haga clic en **[!UICONTROL Agenda]** menú desplegable.
+1. Haga clic en la lista desplegable **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 

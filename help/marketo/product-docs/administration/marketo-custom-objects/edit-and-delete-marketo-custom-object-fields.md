@@ -21,7 +21,7 @@ A veces, es necesario editar un campo que aún no está aprobado.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. En el [!UICONTROL Campos] pestaña, haga clic en **[!UICONTROL Acciones de campo]** y **[!UICONTROL Editar campo]**.
+1. En la ficha [!UICONTROL Campos], haga clic en **[!UICONTROL Acciones de campo]** y **[!UICONTROL Editar campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -45,7 +45,7 @@ Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Asegúrese de que realmente desea eliminar el campo antes de extraer el déclencheur. Clic **[!UICONTROL Eliminar]**.
+1. Asegúrese de que realmente desea eliminar el campo antes de extraer el déclencheur. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

@@ -6,7 +6,7 @@ exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '768'
 ht-degree: 8%
 
 ---
@@ -29,21 +29,21 @@ Todos estos campos personalizados son opcionales y no son necesarios para sincro
 
 Agregue tres campos personalizados a los objetos de contacto y posible cliente de Salesforce que se han indicado anteriormente. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
 
-Siga estos pasos para cada uno de los tres campos personalizados para agregarlos. Comience por **[!UICONTROL Puntuación]**.
+Siga estos pasos para cada uno de los tres campos personalizados para agregarlos. Comience con **[!UICONTROL Puntuación]**.
 
-1. Inicie sesión en Salesforce y haga clic en **[!UICONTROL Configurar]**.
+1. Inicie sesión en Salesforce y haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione **[!UICONTROL Posibles clientes]**. Clic **[!UICONTROL Campos]**.
+1. En el menú Generar de la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione **[!UICONTROL Posibles clientes]**. Haga clic en **[!UICONTROL Campos]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Clic **[!UICONTROL Nuevo]** en la sección Campos personalizados y relaciones en la parte inferior de la página.
+1. Haga clic en **[!UICONTROL Nuevo]** en la sección Campos personalizados y relaciones en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Elija el tipo de campo adecuado (para Puntuación - **[!UICONTROL número]**; Programa de adquisición - **[!UICONTROL texto]**; Fecha de adquisición - **Fecha/hora**).
+1. Elija el tipo de campo apropiado (para Score - **[!UICONTROL number]**; Programa de adquisición - **[!UICONTROL text]**; Fecha de adquisición - **Date/Time**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -58,7 +58,7 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
   <tr> 
    <th> 
     <div>
-      Etiqueta de campo 
+      Etiqueta del campo 
     </div></th> 
    <th> 
     <div>
@@ -76,10 +76,10 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
  </thead> 
  <tbody> 
   <tr> 
-   <td>Puntuación</td> 
+   <td>Puntaje</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>Cifras decimales 0 </td> 
+   <td>Longitud 10<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -114,11 +114,11 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    * Definir todos los roles en **[!UICONTROL Visible]** y **[!UICONTROL Solo lectura]**
 
-   * Borre la **[!UICONTROL Solo lectura]** casilla de verificación para el perfil del usuario de sincronización:
+   * Desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **[!UICONTROL Solo lectura]** casilla de verificación para el perfil del administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil Administrador del sistema (como se muestra a continuación)
 
-      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, borre la etiqueta **[!UICONTROL Solo lectura]** casilla de verificación para ese perfil personalizado
+      * Si creó un _perfil personalizado_ para el usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,18 +126,18 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Clic **[!UICONTROL Guardar y nuevo]** para volver y crear cada uno de los otros dos campos personalizados. Clic **[!UICONTROL Guardar]** con lo que has terminado con los tres.
+1. Haga clic en **[!UICONTROL Guardar y nuevo]** para volver y crear los otros dos campos personalizados. Haz clic en **[!UICONTROL Guardar]** con las tres opciones.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione **[!UICONTROL Contactos]**. Clic **[!UICONTROL Campos]**.
+1. En el menú Generar de la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione **[!UICONTROL Contactos]**. Haga clic en **[!UICONTROL Campos]**.
 1. Realice los pasos del 3 al 10 para los campos Puntuación, Fecha de adquisición y Programa de adquisición del objeto de contacto, tal como lo hizo para el objeto de posible cliente.
 1. De forma opcional, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Etiqueta de campo</th> 
+   <th>Etiqueta del campo</th> 
    <th>Nombre del campo</th> 
    <th>Tipo de datos</th> 
    <th>Atributos de campo</th> 
@@ -146,10 +146,10 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
    <td>ID del programa de adquisición</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>Cifras decimales 0 </td> 
+   <td>Longitud 18<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Referente original</td> 
+   <td>Remitente original</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
@@ -231,11 +231,11 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
 Un campo personalizado en el objeto de posible cliente en Salesforce debe asignarse a un campo de contacto en el objeto de contacto para que los datos se transfieran cuando se produzca una conversión.
 
-1. En la esquina superior derecha, haga clic en **[!UICONTROL Configurar]**.
+1. En la esquina superior derecha, haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Escriba &quot;[!UICONTROL campos]&quot; en la Búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; haga clic en **[!UICONTROL Campos]** en Posibles clientes.
+1. Escriba &quot;[!UICONTROL fields]&quot; en la búsqueda de navegación sin presionar Intro. Los campos aparecen bajo diferentes objetos; haga clic en **[!UICONTROL Campos]** en Posibles clientes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
@@ -253,10 +253,10 @@ Un campo personalizado en el objeto de posible cliente en Salesforce debe asigna
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
 
-1. Clic **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
 
 Suficientemente fácil, ¿verdad?
 
 >[!MORELIKETHIS]
 >
->[Paso 2 de 3: Crear un usuario de Salesforce para Marketo (profesional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>[Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

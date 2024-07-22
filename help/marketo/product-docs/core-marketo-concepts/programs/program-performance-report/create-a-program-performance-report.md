@@ -6,8 +6,8 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 3%
+source-wordcount: '126'
+ht-degree: 4%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 Vea excelentes estadísticas sobre sus programas con este informe.
 
-1. [Creación de un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. Haga clic en **[!UICONTROL Informe]** pestaña.
+1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} y seleccione el **[!UICONTROL Rendimiento del programa]** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. Haga clic en la ficha **[!UICONTROL Informe]**.
 1. ¡Tú estás ahí! Explore el informe para ver el rendimiento de los programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Para buscar los programas con los valores más bajos *Coste por éxito*, por ejemplo, [ordenar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} en esa columna y elija **[!UICONTROL Orden ascendente]**.
+>Para encontrar los programas con el menor *Costo por éxito*, por ejemplo, [ordena el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} en esa columna y elige **[!UICONTROL Orden ascendente]**.
 
 Las columnas de un informe Rendimiento de programa incluyen:
 

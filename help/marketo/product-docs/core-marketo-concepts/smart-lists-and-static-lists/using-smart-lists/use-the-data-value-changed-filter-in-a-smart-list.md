@@ -19,20 +19,20 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/ma.png)
 
-1. Seleccione la lista inteligente y haga clic en **[!UICONTROL Lista inteligente]** pestaña.
+1. Seleccione la lista inteligente y haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/two-1.png)
 
-1. Busque el **[!UICONTROL Valor de datos cambiado]** filtre y arrástrelo al lienzo.
+1. Busque el filtro **[!UICONTROL Valor de datos cambiado]** y arrástrelo al lienzo.
 
    ![](assets/three-1.png)
 
-1. Establecer **[!UICONTROL Atributo]** al campo en el que desea buscar los cambios del valor de los datos.
+1. Establezca **[!UICONTROL Atributo]** en el campo en el que desea buscar cambios en el valor de los datos.
 
    ![](assets/four.png)
 
-Este filtro buscará todas las personas que hayan cambiado (cualquier cambio) su estado. Si quieres ponerte aún más elegante, prueba [agregar una restricción a un filtro de Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Este filtro buscará todas las personas que hayan cambiado (cualquier cambio) su estado. Si quieres ser más elegante, intenta [agregar una restricción a un filtro de Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ El panel de participación es la forma más sencilla de ver el rendimiento del c
 
 >[!NOTE]
 >
->La puntuación de participación incluye datos de sus últimos tres lanzamientos. Se calcula una nueva 72 horas después de cada lanzamiento. Obtenga más información acerca de [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>La puntuación de participación incluye datos de sus últimos tres lanzamientos. Se calcula una nueva 72 horas después de cada lanzamiento. Más información sobre la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Ver el panel de participación {#view-the-engagement-dashboard}
 
-Seleccione el programa de participación y haga clic en **Ver** > **Tablero**.
+Seleccione su programa de participación y haga clic en **Ver** > **Tablero**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consulte la [informe de rendimiento del flujo de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obtener estadísticas más detalladas.
+>Consulte el [informe de rendimiento del flujo de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obtener estadísticas más detalladas.
 
 ## Comprender el widget de agotamiento {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Este widget le ayuda a anticipar cuándo los posibles clientes habrán agotado t
 
 >[!NOTE]
 >
->Debe ir a la pestaña Configuración y asegurarse de que las notificaciones de contenido agotado sean **Activado** para ver el gráfico de arriba. Si están desactivados, el gráfico tendrá un aspecto diferente.
+>Debe ir a la pestaña Configuración y asegurarse de que las notificaciones de contenido agotado sean **Activadas** para ver el gráfico de arriba. Si están desactivados, el gráfico tendrá un aspecto diferente.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Para cambiar la clasificación, haga clic en el icono de engranaje y, a continua
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Más reciente_ y _Oldest_ se basan en la hora de la última aprobación.
+_Más reciente_ y _Más antiguo_ se basan en la hora de la última aprobación.
 
 >[!NOTE]
 >
->Obtenga más información en la [Creación de un programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) buceo profundo.
+>Obtenga más información en la explicación detallada de [Crear un programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).

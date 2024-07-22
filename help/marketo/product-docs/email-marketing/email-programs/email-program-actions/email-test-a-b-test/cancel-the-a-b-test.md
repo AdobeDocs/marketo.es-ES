@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Cancelar la prueba A/B {#cancel-the-a-b-test}
 
-Si ha...  [se ha añadido una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) a su programa de correo electrónico y ha decidido que ya no lo desea, se deshace fácilmente. Así es como.
+Si [agregaste una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) a tu programa de correo electrónico y decidiste que ya no la quieres, se deshará fácilmente. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Si ha...  [se ha añadido una prueba A/B](/help/marketo/product-docs/email-marke
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. En el **Correo electrónico** mosaico, haga clic en **Eliminar prueba A/B**.
+1. En el mosaico **Correo electrónico**, haga clic en **Quitar prueba A/B**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 

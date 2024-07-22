@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Una segmentación se puede eliminar siguiendo los pasos a continuación.
 
-1. Vaya a la **Base de datos**.
+1. Ir a **Base de datos**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Vaya a la segmentación y haga clic en **Utilizado por** para comprobar asociaciones.
+1. Vaya a la segmentación y haga clic en **Utilizado por** para comprobar las asociaciones.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Si otros recursos utilizan su segmentación, elimine todas esas asociaciones antes de continuar.
 
-1. Elimine todas las asociaciones y, a continuación, en **Acciones de segmentación** click **Desaprobar**.
+1. Elimine todas las asociaciones y, a continuación, en **Acciones de segmentación**, haga clic en **Desaprobar**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +33,7 @@ Una segmentación se puede eliminar siguiendo los pasos a continuación.
    >
    >Puede eliminar asociaciones eliminando o creando alternativas para los recursos que utilizan la segmentación.
 
-1. Una vez desaprobado, haga clic en **Acciones de segmentación** y Elimine la segmentación.
+1. Una vez desaprobada, haga clic en **Acciones de segmentación** y elimine la segmentación.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

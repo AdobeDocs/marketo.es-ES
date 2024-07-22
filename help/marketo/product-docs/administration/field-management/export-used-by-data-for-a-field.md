@@ -17,13 +17,13 @@ Como administrador, tiene la capacidad de exportar los recursos relacionados de 
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ Como administrador, tiene la capacidad de exportar los recursos relacionados de 
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Haga clic en **[!UICONTROL Acciones de campo]** y seleccione. **[!UICONTROL Exportación utilizada por]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de campo]** y seleccione **[!UICONTROL Exportar utilizadas por]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Un [!DNL Excel] se exportará el archivo. Ábralo para ver su contenido.
+1. Se exportará un archivo de [!DNL Excel]. Ábralo para ver su contenido.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

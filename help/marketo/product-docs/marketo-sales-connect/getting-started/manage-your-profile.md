@@ -5,8 +5,8 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 2%
+source-wordcount: '243'
+ht-degree: 4%
 
 ---
 
@@ -22,13 +22,13 @@ Aquí es donde puede actualizar su nombre y/o contraseña.
 
    ![](assets/manage-your-profile-1.png)
 
-1. La página Mi perfil se abrirá de forma predeterminada. Para actualizar su nombre, simplemente escriba los cambios y haga clic en **Guardar**.
+1. La página Mi perfil se abrirá de forma predeterminada. Para actualizar tu nombre, simplemente escribe los cambios y haz clic en **Guardar**.
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->Su dirección de correo electrónico está configurada para verse solamente. Si también necesita cambiarlo, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Su dirección de correo electrónico está configurada para verse solamente. Si necesita que lo cambien también, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 También puede cambiar la contraseña en esta sección. Los pasos se describen en este documento.
 
@@ -54,19 +54,19 @@ A continuación se indica cómo cambiar el idioma, la configuración regional o 
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para cambiar el idioma, haga clic en **Idioma** y haga su elección.
+1. Para cambiar el idioma, haga clic en la lista desplegable **Idioma** y elija.
 
    ![](assets/manage-your-profile-5.png)
 
-1. La configuración regional hace referencia a la región en la que se habla ese idioma. Haga clic en **Configuración regional** y haga su elección.
+1. La configuración regional hace referencia a la región en la que se habla ese idioma. Haga clic en el menú desplegable **Configuración regional** y elija.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Haga clic en **Su zona horaria** y haga su elección.
+1. Haga clic en el menú desplegable **Su zona horaria** y elija una.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Clic **Guardar** cuando termine.
+1. Haga clic en **Guardar** cuando termine.
 
    ![](assets/manage-your-profile-8.png)
 

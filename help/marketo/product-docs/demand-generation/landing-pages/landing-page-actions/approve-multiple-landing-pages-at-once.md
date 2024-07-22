@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Aprobar varias páginas de aterrizaje a la vez {#approve-multiple-landing-pages-at-once}
 
-1. Ir a **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Clic **Páginas de aterrizaje**.
+1. Haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >No haga clic en el nombre real de la página de aterrizaje, ya que son vínculos y le llevarán a la propia página.
 
-1. Con las páginas de aterrizaje seleccionadas, vaya a **Acciones de página de aterrizaje** y haga clic en **Aprobar**.
+1. Con las páginas de aterrizaje seleccionadas, ve a **Acciones de página de aterrizaje** y haz clic en **Aprobar**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 

@@ -15,47 +15,47 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán volver a autenticar todos los servicios de LaunchPoint de LinkedIn en su **Administrador** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte la [Preguntas frecuentes sobre migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán la reautenticación de todos los servicios LaunchPoint de LinkedIn en su menú de **Admin** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte las [Preguntas frecuentes sobre la migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Conecte su cuenta de Marketo Engage con Audiencias coincidentes de LinkedIn para utilizar una lista estática de Marketo o una lista inteligente como segmento de audiencia de LinkedIn.
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Seleccionar **[!UICONTROL LaunchPoint]**.
+1. Seleccione **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleccionar **[!UICONTROL Nuevo]** y **[!UICONTROL Nuevo servicio]**.
+1. Seleccione **[!UICONTROL Nuevo]** y **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca una **[!UICONTROL Nombre para mostrar]** y elija **[!UICONTROL Audiencias coincidentes de linkedIn]**. Clic **[!UICONTROL Crear]**.
+1. Escriba un **[!UICONTROL Nombre para mostrar]** y elija **[!UICONTROL Audiencias coincidentes de LinkedIn]**. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Para conectar una cuenta de LinkedIn, haga clic en **[!UICONTROL Autorizar]**.
+1. Para conectar una cuenta de LinkedIn, haz clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Para que Marketo envíe audiencias a través de varias cuentas de publicidad de LinkedIn, el usuario de LinkedIn que autorice en los siguientes pasos debe tener acceso a *todo* de estas cuentas de publicidad en el Administrador de campañas.
+   >Para que Marketo envíe audiencias a través de varias cuentas de publicidad de LinkedIn, el usuario de LinkedIn que haya autorizado en los siguientes pasos debe tener acceso a *todas* estas cuentas de publicidad en su Administrador de campañas.
 
 1. LinkedIn se abre en una nueva pestaña. Desde aquí, inicie sesión en su cuenta de LinkedIn.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Revise los permisos solicitados y haga clic en **[!UICONTROL Permitir]**.
+1. Revise los permisos solicitados y luego haga clic en **[!UICONTROL Permitir]**.
 
    ![](assets/li-permissions.png)
 
-1. Su cuenta de LinkedIn ahora está conectada a Marketo. Clic **[!UICONTROL Crear]**.
+1. Su cuenta de LinkedIn ahora está conectada a Marketo. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -65,4 +65,4 @@ Conecte su cuenta de Marketo Engage con Audiencias coincidentes de LinkedIn para
 
 >[!MORELIKETHIS]
 >
->[Uso de una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+>[Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

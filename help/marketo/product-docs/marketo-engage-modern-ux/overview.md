@@ -50,7 +50,7 @@ Hay un montón de nuevas características de árbol disponibles.
 
 >[!NOTE]
 >
->Al realizar una búsqueda en el árbol, solo se muestran los primeros 250 resultados. Si después de realizar una búsqueda no puede localizar el recurso, utilice el [Búsqueda global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) función.
+>Al realizar una búsqueda en el árbol, solo se muestran los primeros 250 resultados. Si después de una búsqueda no puede encontrar su recurso, utilice la función [Búsqueda global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
 **Marketo Classic frente al nuevo Marketo**
 

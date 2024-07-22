@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,7 @@ En este ejemplo, el rojo indica que el valor ha disminuido en el intervalo de fe
 
 ## Posibles clientes adquiridos {#acquired-leads}
 
-El **Posibles clientes adquiridos** Esta tarjeta muestra un informe mes tras mes de tendencias sobre la cantidad de nuevos posibles clientes.
+La tarjeta **Posibles clientes adquiridos** le muestra un informe de tendencias mes tras mes del número de nuevos posibles clientes.
 
 >[!NOTE]
 >
@@ -49,20 +49,20 @@ El **Posibles clientes adquiridos** Esta tarjeta muestra un informe mes tras mes
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## Nuevos posibles clientes {#new-leads}
+## Nuevos leads {#new-leads}
 
-El **[!UICONTROL Nuevos posibles clientes]** Esta tarjeta muestra un informe mes tras mes de tendencias de la cantidad total de nuevos posibles clientes en su instancia durante los últimos seis meses.
+La tarjeta **[!UICONTROL Nuevos posibles clientes]** le muestra un informe de tendencias mes tras mes del número total de nuevos posibles clientes en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancela suscripción {#unsubscribes}
 
-El **[!UICONTROL Cancela la suscripción]** Esta tarjeta muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripción de los últimos seis meses.
+La tarjeta **[!UICONTROL Cancelaciones de suscripción]** le muestra un informe de tendencias mes tras mes de su tasa de cancelación de suscripción durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprender los momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Explicación de las tarjetas de programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

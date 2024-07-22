@@ -6,8 +6,8 @@ exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 2%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ La sincronización entre Salesforce y Marketo es bidireccional solo para posible
 
 ## ¿Qué se sincroniza entre Marketo y Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Clientes potenciales](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
+* [Posibles clientes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [Contactos](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
 * [Cuentas](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
 * [Usuarios](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
@@ -40,6 +40,6 @@ La sincronización entre Salesforce y Marketo es bidireccional solo para posible
 
 >[!NOTE]
 >
->El [las credenciales que introduce en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} se utilizan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
+>Las [credenciales que ingresaste en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} se usan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
 
 La sincronización de Marketo con Salesforce es la más potente de su tipo en el mundo. Se siente como magia; se hace un cambio y el otro sistema está pronto actualizado.

@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/one-edited.png)
 
-1. Se abrirá el editor de correo electrónico. Seleccione el Texto enriquecido, haga clic en el icono de engranaje y seleccione **Editar**.
+1. Se abrirá el editor de correo electrónico. Seleccione el texto enriquecido, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/three.png)
 
-1. Añada o edite el texto y pulse **Guardar**.
+1. Agrega o edita tu texto y pulsa **Guardar**.
 
    ![](assets/four.png)
 
@@ -67,13 +67,13 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
    >
    >Si desea utilizar un token de Marketo, utilice esta opción. Tenga en cuenta que cuando utilice un token, la imagen aparecerá dañada en el editor, pero se procesará en el modo de vista previa y en el correo electrónico de envío de muestra.
 
-   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). A continuación, pulse **Intercambiar**.
+   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). Luego presione **Intercambiar**.
 
    ![](assets/eight.png)
 
-   **Mi PC**
+   **Mi equipo**
 
-   Para cargar una imagen desde el equipo, haga clic en **Examinar**.
+   Para cargar una imagen desde el equipo, haz clic en **Examinar**.
 
    ![](assets/nine.png)
 
@@ -81,13 +81,13 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/ten.png)
 
-   Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y pulse **Intercambiar**.
+   Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y luego presione **Intercambiar**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si va a reemplazar una imagen, debe comprobar el **Sobrescribir imagen existente** que aparece debajo de la dirección URL/nombre de la imagen.
+   >Si reemplazas una imagen, deberás marcar la casilla **Sobrescribir imagen existente** que aparece debajo de la URL/nombre de la imagen.
 
    **Estudio de diseño**
 
@@ -95,7 +95,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/twelve.png)
 
-   ...e insertarlo. Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y pulse **Intercambiar**.
+   ...e insertarlo. Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y luego presione **Intercambiar**.
 
    ![](assets/thirteen.png)
 
@@ -105,7 +105,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/fourteen.png)
 
-1. Haga clic en el elemento Snippet, luego en el icono de engranaje y seleccione **Editar**.
+1. Haga clic en el elemento Snippet, luego en el icono de engranaje y seleccione **Edit**.
 
    ![](assets/fifteen.png)
 
@@ -127,7 +127,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/twenty.png)
 
-1. Pegue en la dirección URL del vídeo desde Vimeo o YouTube. A continuación, haga clic en en el cuadro URL para que se cargue la previsualización. Modifique las dimensiones para adaptarlas a sus necesidades, añada Texto alternativo (opcional) y, a continuación, pulse **Insertar**.
+1. Pegue en la dirección URL del vídeo desde Vimeo o YouTube. A continuación, haga clic en en el cuadro URL para que se cargue la previsualización. Modifique las dimensiones para adaptarlas a sus necesidades, agregue Texto alternativo (opcional) y, a continuación, presione **Insertar**.
 
    ![](assets/twentyone.png)
 

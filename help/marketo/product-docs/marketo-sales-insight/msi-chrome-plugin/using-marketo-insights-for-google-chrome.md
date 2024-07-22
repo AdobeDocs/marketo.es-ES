@@ -45,17 +45,17 @@ Envíe y rastree cualquier correo electrónico de Google con Marketo Insights pa
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Seleccione un **Plantilla disponible** y haga clic en **Ok**.
+1. Seleccione una **plantilla disponible** y haga clic en **Aceptar**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Introduzca el contenido, una dirección de correo electrónico y haga clic en **Enviar**.
+1. Escribe tu contenido, una dirección de correo electrónico y haz clic en **Enviar**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >Los mensajes solo se rastrean cuando el **Enviar** El botón es púrpura.
+   >Los mensajes solo se rastrean cuando el botón **Enviar** es morado.
 
 1. El correo electrónico aparecerá pronto en su Sales Insight de Marketo y se rastreará cualquier apertura y clic.
 
@@ -76,4 +76,4 @@ Puede registrar las respuestas y la actividad antigua en el historial de activid
    >[!MORELIKETHIS]
    >
    >* [Instalar Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Ver información y actividades de persona y cuenta en Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [Ver información y actividades de personas y cuentas en Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

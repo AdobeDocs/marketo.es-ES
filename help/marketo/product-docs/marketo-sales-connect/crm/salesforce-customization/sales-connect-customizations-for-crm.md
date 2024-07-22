@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # Personalizaciones de Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-La API de metadatos crea los campos y los botones siguientes en Salesforce CRM. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Se pueden encontrar las instrucciones [aquí](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+La API de metadatos crea los campos y los botones siguientes en Salesforce CRM. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Encontrará instrucciones [aquí](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ La API de metadatos crea los campos y los botones siguientes en Salesforce CRM. 
 
 ## Cómo instalar personalizaciones en Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -29,11 +29,11 @@ La API de metadatos crea los campos y los botones siguientes en Salesforce CRM. 
 
    ![](assets/two.png)
 
-1. Clic **Personalizaciones de Marketo Sales Connect**.
+1. Haga clic en **Personalizaciones de Marketo Sales Connect**.
 
    ![](assets/three.png)
 
-1. Clic **Conectar con Salesforce**.
+1. Haga clic en **Conectar con Salesforce**.
 
    ![](assets/four.png)
 
@@ -47,9 +47,9 @@ Las actualizaciones del paquete Personalización de Salesforce incluirán mejora
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
-1. En el [aplicación web](https://www.toutapp.com), haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la [aplicación web](https://www.toutapp.com), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -57,11 +57,11 @@ Las actualizaciones del paquete Personalización de Salesforce incluirán mejora
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. La tarjeta de personalización de Sales Connect le mostrará si hay actualizaciones disponibles. Clic **Actualizar personalizaciones**.
+1. La tarjeta de personalización de Sales Connect le mostrará si hay actualizaciones disponibles. Haga clic en **Actualizar personalizaciones**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Clic **Actualizar**.
+1. Haga clic en **Actualizar**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,9 +75,9 @@ Una vez completada, en la tarjeta se mostrará &quot;Las personalizaciones de Sa
 
 ## Campos de actividad personalizada {#custom-activity-fields}
 
-Marketo detectará la creación de los nuevos campos y, a continuación, rellenará una vez los datos, volverá a asignar y realizará una sincronización continua de valores con **nuevo** solo campos de. Los campos antiguos no se actualizarán.
+Marketo detectará la creación de los nuevos campos y realizará un relleno único de datos, una reasignación y una sincronización continua de valores solo en los **nuevos** campos. Los campos antiguos no se actualizarán.
 
-| **Nombre del campo** | **Descripción** |
+| **Nombre de campo** | **Descripción** |
 |---|---|
 | ID de presencia local de llamada MSE | Como usuario, puede elegir la presencia local como opción cuando realice llamadas desde el teléfono MSE. Las llamadas entrantes mostrarán un número local para el receptor. |
 | URL de grabación de llamadas MSE | Las llamadas se pueden grabar y aquí se registrará un vínculo para la grabación. |
@@ -118,8 +118,8 @@ Marketo detectará la creación de los nuevos campos y, a continuación, rellena
    <td>Descripción de la participación.</td> 
   </tr> 
   <tr> 
-   <td>MSE: último origen de participación de marketing</td> 
-   <td>Origen de la participación de marketing.</td> 
+   <td>MSE: Último Source de participación de marketing</td> 
+   <td>Participación de Source of Marketing.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE: último tipo de participación de marketing</td> 
@@ -150,7 +150,7 @@ Marketo detectará la creación de los nuevos campos y, a continuación, rellena
 
 ## Botones {#buttons}
 
-| **Nombre del botón** | **Descripción** |
+| **Nombre de botón** | **Descripción** |
 |---|---|
 | Enviar correo electrónico MSE | Envíe correos electrónicos de ventas desde Salesforce. |
 | Añadir a campaña de MSE | Agregar a campañas MSE desde Salesforce. |
@@ -159,14 +159,14 @@ Marketo detectará la creación de los nuevos campos y, a continuación, rellena
 
 ## Botones de acción masiva {#bulk-action-buttons}
 
-| **Nombre del botón** | **Descripción** |
+| **Nombre de botón** | **Descripción** |
 |---|---|
 | Añadir a campaña de MSE | Agregar a campañas MSE desde Salesforce. |
 | Insertar en MSE | Contacto push de Salesforce a MSE. |
 
 ## Guías del usuario {#user-guides}
 
-[Informes personalizados de MSE en Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Informes personalizados MSE en Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
 [MSE para Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 

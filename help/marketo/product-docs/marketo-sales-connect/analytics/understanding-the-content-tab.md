@@ -17,7 +17,7 @@ La pestaña Contenido trata sobre la participación de su equipo por correo elec
 
 ## Arma secreta {#secret-weapon}
 
-Se trata de una plantilla de correo electrónico que aún no se ha compartido con el equipo, pero que está recibiendo un alto nivel de participación. Le mostramos la línea de asunto de la plantilla y el creador de la plantilla. Esta es una buena oportunidad para ponerse en contacto con este representante y recomendarle que comparta la plantilla.
+Se trata de una plantilla de correo electrónico que aún no se ha compartido con el equipo, pero que está recibiendo un alto nivel de participación. Le mostramos la línea de asunto de la plantilla y el creador de la plantilla. Esta es una gran oportunidad para ponerse en contacto con este representante y recomendar que comparta la plantilla.
 
 ## Mayor participación {#highest-engagement}
 

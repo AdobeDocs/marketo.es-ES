@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puede exportar los resultados de las palabras clave para compartirlos con su equipo o crear un informe.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. Clic **[!UICONTROL Exportar]**.
+1. Haga clic en **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 

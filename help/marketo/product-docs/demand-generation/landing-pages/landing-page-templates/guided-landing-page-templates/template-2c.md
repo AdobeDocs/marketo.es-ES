@@ -6,14 +6,14 @@ exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Plantilla 2C {#template-2c}
 
-Haga clic con el botón derecho para [descargar plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Haga clic con el botón derecho para [descargar la plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -27,6 +27,6 @@ Esta plantilla incluye el siguiente contenido:
 * Una sección del cuerpo con texto y formulario (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

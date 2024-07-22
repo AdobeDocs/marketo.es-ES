@@ -6,14 +6,14 @@ exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Plantilla 20A {#template-20a}
 
-Haga clic con el botón derecho para [descargar plantilla 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+Haga clic con el botón derecho para [descargar la plantilla 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cuatro secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)

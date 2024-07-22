@@ -2,11 +2,11 @@
 description: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo - Documentos de Marketo - Documentación del producto
 title: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo
 feature: Programs
-exl-id: 11745023-a0c1-45ef-9547-6426f24e3fee
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 13%
+source-wordcount: '474'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 13%
 
 Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -30,13 +30,13 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Contenido web</td> 
    <td>Miembro 01 
 <br/>02-Participación-Éxito</td>
-   <td>Inclusivo</td>
+   <td>Incluido</td>
    <td>Predeterminado</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,12 +68,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de correo electrónico</td>
+   <td>Desempeño de email</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Desempeño de página de destino</td>
   </tr>
    <tr> 
    <td>Campaña inteligente</td> 
@@ -94,7 +94,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Carpeta</td> 
    <td> </td>
    <td>Assets: aloja todos los recursos creativos 
-<br/>(subcarpetas para correos electrónicos, páginas de destino y Forms)  </td>
+<br/>(subcarpetas para correos electrónicos, páginas de aterrizaje y Forms)  </td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -104,7 +104,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -117,7 +117,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr> 
   <tr> 
@@ -126,7 +126,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Haga doble clic para obtener detalles  
 <br/><code><--My Content Description Here--></code> 
 <br/>Edite esta descripción de contenido en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá a hacer lo siguiente: 
+<br/>Aprenderá lo siguiente: 
 <li>Viñeta 1</li>
 <li>Viñeta 2</li>
 <li>Viñeta 3</li></td>
@@ -171,23 +171,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Después de importar el programa de contenido, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
    * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad en las actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.
@@ -202,7 +202,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
+>No olvide activar la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
 
 >[!IMPORTANT]
 >

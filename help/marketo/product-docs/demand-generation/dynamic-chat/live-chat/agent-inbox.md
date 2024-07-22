@@ -24,7 +24,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 >[!IMPORTANT]
 >
->**Esto anulará** el [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} ha establecido en Configuración de agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
+>**Esto anulará** la [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que estableciste en la configuración del agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 ## Notificaciones de chat en directo {#live-chat-notifications}
 
-Obtenga más información acerca de las notificaciones en la [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Obtenga más información acerca de las notificaciones en [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversaciones {#conversations}
 
@@ -52,7 +52,7 @@ A la derecha de la pantalla de la bandeja de entrada del agente, podrá ver (de 
 
 ## Finalizar una sesión {#end-a-session}
 
-Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic en el botón **Finalizar sesión** junto a la información del visitante.
+Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic en el botón **Finalizar sesión** situado junto a la información del visitante.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic e
 >
 >Esta función forma parte de la IA generativa, disponible mediante la suscripción de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-Métodos abreviados, con tecnología de IA generativa [Biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), es una buena manera de obtener ayuda sobre la marcha cuando se chatea con un visitante. Simplemente escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
+Los métodos abreviados, con la tecnología de IA generativa [biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), son una excelente manera de obtener ayuda sobre la marcha cuando se chatea con un visitante. Simplemente escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
 
 ![](assets/agent-inbox-7.png)
 
 **Preguntar** es para obtener ayuda con las respuestas a una pregunta.
 
-1. Escriba o elija `/ask` en el cuadro de texto Escriba su pregunta y pulse Enter en el teclado.
+1. Escriba o elija `/ask` en el cuadro de texto. Escriba su pregunta y pulse Enter en el teclado.
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ Métodos abreviados, con tecnología de IA generativa [Biblioteca de respuestas]
 
    ![](assets/agent-inbox-9.png)
 
-**Buscar** es para obtener ayuda sobre la búsqueda de páginas relacionadas con texto específico.
+**Buscar** es para obtener ayuda para encontrar páginas relacionadas con texto específico.
 
-1. Escriba o elija `/search` en el cuadro de texto
+1. Escriba o elija `/search` en el cuadro de texto.
 
    ![](assets/agent-inbox-10.png)
 
@@ -108,7 +108,7 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
    ![](assets/agent-inbox-14.png)
 
-1. Seleccione el calendario del agente deseado y haga clic en **Enviar**.
+1. Elija el calendario del agente deseado y haga clic en **Enviar**.
 
    ![](assets/agent-inbox-15.png)
 

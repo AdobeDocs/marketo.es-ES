@@ -17,7 +17,7 @@ En este artículo se describe cómo corregir un error de estado incompatible y a
 
 ## ¿Qué debe hacer si recibe un mensaje de error? {#what-do-you-do-if-you-received-an-error-message}
 
-Si intenta sincronizar con una campaña de Salesforce existente que contenga posibles clientes y la campaña contiene uno o más estados incompatibles, se muestra un mensaje de error. Un programa de Marketo y una campaña de Salesforce *no* sincronizar si los estados no coinciden exactamente.
+Si intenta sincronizar con una campaña de Salesforce existente que contenga posibles clientes y la campaña contiene uno o más estados incompatibles, se muestra un mensaje de error. Un programa de Marketo y una campaña de Salesforce *no se sincronizarán* si los estados no coinciden exactamente.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 

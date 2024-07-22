@@ -6,7 +6,7 @@ exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
 
 ## Head Start estándar {#standard-head-start}
 
-1. Clic **Actividades de marketing**.
+1. Haga clic en **Actividades de marketing**.
 
    ![](assets/one-1.png)
 
@@ -33,7 +33,7 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
    >
    >Head Start no se puede usar con las pruebas A/B.
 
-1. En el mosaico Programar, programe el correo electrónico y, a continuación, seleccione la **Head Start** cuadro.
+1. En el mosaico Programar, programe su correo electrónico y luego seleccione la casilla **Head Start**.
 
    ![](assets/three-1.png)
 
@@ -43,15 +43,15 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
    >
    >Cualquier persona de la audiencia que cancele la suscripción después del bloqueo del programa seguirá recibiendo el correo electrónico. Recomendamos ajustar la notificación de cancelación de suscripción para reflejar que las cancelaciones de suscripción pueden tardar entre 1 y 2 días hábiles en procesarse.
 
-1. Clic **Aprobar programa**.
+1. Haga clic en **Aprobar programa**.
 
    ![](assets/four-1.png)
 
    Después de la aprobación del programa, hay cuatro estados diferentes que puede ver en el mosaico Aprobación.
 
-   * **Esperando a ejecutarse:** Una vez aprobado el programa.
+   * **Esperando a ejecutarse:** Después de que se apruebe el programa.
    * **Procesamiento iniciado, esperando para ejecutarse:** El procesamiento está en curso.
-   * **Procesamiento finalizado, esperando para ejecutarse:** Procesamiento completado, correo electrónico que ahora espera la hora programada para el inicio.
+   * **Procesamiento finalizado, a la espera de ejecutarse:** Procesamiento completado; ahora el correo electrónico espera la hora programada para el inicio.
    * **Finalizado:** Programa completado.
 
    >[!TIP]
@@ -64,16 +64,16 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
 
 ## Head Start con zona horaria del destinatario {#head-start-with-recipient-time-zone}
 
-Nuestra función actual de Head Start requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para la zona horaria del destinatario? Recuerde que cuando la zona horaria del destinatario está activa, el programa de correo electrónico se inicia a medianoche en la zona horaria más temprana (UTC +14:00). Por lo tanto, para habilitar **ambos** Zona horaria de Head Start y de los destinatarios, es necesario programar los programas **al menos 12 horas antes de la zona horaria más temprana (UTC +14:00)**.)
+Nuestra función actual de Head Start requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para la zona horaria del destinatario? Recuerde que cuando la zona horaria del destinatario está activa, el programa de correo electrónico se inicia a medianoche en la zona horaria más temprana (UTC +14:00). Por lo tanto, para habilitar **tanto la zona horaria de Head Start como la de destinatario de**, los programas deben programarse **al menos 12 horas antes de la zona horaria más temprana (UTC +14:00**).
 
-Esto significa que si se encuentra en América/Los Ángeles y desea habilitar tanto Head Start como la Zona horaria del destinatario, debe programar el programa **34 horas** por adelantado. ¿Cómo llegamos a este número?
+Esto significa que si se encuentra en América/Los Ángeles y desea habilitar Head Start y la zona horaria del destinatario, debe programar el programa con **34 horas** de anticipación. ¿Cómo llegamos a este número?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Más información](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) Obtenga información sobre cómo programar programas de correo electrónico con la zona horaria del destinatario.
+[Más información](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) sobre cómo programar programas de correo electrónico con la zona horaria del destinatario.
 
 >[!MORELIKETHIS]
 >
 >* [Programe su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
->* [Programar programas de correo electrónico con zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Programar programas de correo electrónico con zona horaria de destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Explicación de la zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)

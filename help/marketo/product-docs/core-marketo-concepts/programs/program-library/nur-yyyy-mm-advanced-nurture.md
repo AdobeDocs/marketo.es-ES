@@ -2,11 +2,11 @@
 description: NUR-AAAA-MM-Advanced Nurture - Documentos de Marketo - Documentación del producto
 title: NUR-AAAA-MM-Nutrición avanzada
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 13%
+source-wordcount: '490'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 13%
 
 Este es un ejemplo de programas avanzados de nutrición que utilizan el programa de participación del Marketo Engage. Los programas de correo electrónico anidados impiden que las personas reciban contenido que ya han consumido o controlan el tipo de contenido que deben consumir en cada flujo. Los informes de atribución se pueden ejecutar para cada programa de correo electrónico anidado individual. Canales: &quot;Nutrir&quot; y un canal &quot;Nutrir correo electrónico&quot; dedicado para los programas de correo electrónico anidados envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -29,22 +29,22 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Acompañamiento</td> 
    <td>01 - Miembro 
-<br/>02 - Participación - Éxito</td>
-   <td>Inclusivo</td>
-   <td>Compromiso</td>
+<br/>02 - Participado - Correcto</td>
+   <td>Incluido</td>
+   <td>Participación</td>
   </tr>
   <tr> 
    <td>Nutrir correo electrónico</td> 
    <td>01 - Omitir 
 <br/>02 - Enviado
-<br/>03 - Participación - Éxito</td>
-   <td>Inclusivo</td>
+<br/>03 - Comprometido - Correcto</td>
+   <td>Incluido</td>
    <td>Predeterminado</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -86,12 +86,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de correo electrónico</td>
+   <td>Desempeño de email</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de vínculo de correo electrónico</td>
+   <td>Desempeño de vínculo de email</td>
   </tr>
   <tr>
   <tr> 
@@ -132,12 +132,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Los recursos (contienen programas anidados y las carpetas de recursos también se encuentran en programas anidados para contener correos electrónicos)</td>
+   <td>Assets (contener programas anidados y las carpetas de recursos también se encuentran en programas anidados para contener correos electrónicos)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Programas anidados (se encuentra en la carpeta Recursos)</td>
+   <td>Programas anidados (se encuentra en la carpeta Assets)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -147,7 +147,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -160,7 +160,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
   <tr> 
@@ -183,23 +183,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Considere la posibilidad de actualizar las plantillas del programa importado para utilizar plantillas con marca actual o actualizar la plantilla recién importada para reflejar su marca añadiendo un fragmento o la información del logotipo/pie de página correspondiente.
 
@@ -213,4 +213,4 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;04 - Participación (éxito del programa)&quot; para realizar el seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
+>No olvide activar la campaña &quot;04 - Participación (éxito del programa)&quot; para realizar el seguimiento del éxito. Haz esto _antes_ de que se envíen tus correos electrónicos.

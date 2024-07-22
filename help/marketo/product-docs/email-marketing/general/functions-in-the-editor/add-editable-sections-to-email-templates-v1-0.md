@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Agregar secciones editables a plantillas de correo electrónico v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Si va a crear una plantilla en el Editor de plantillas de correo electrónico v1.0, puede hacer que cualquier sección se pueda editar colocando un especial `<div>` a su alrededor.
+Si está creando una plantilla en el Editor de plantillas de correo electrónico v1.0, puede hacer que cualquier sección se pueda editar colocando un `<div>` especial alrededor de ella.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Si va a crear una plantilla en el Editor de plantillas de correo electrónico v1
 Reglas:
 
 1. El HTML siempre debe ser válido.
-1. La clase de **mktEditable** debe estar incluido.
+1. Se debe incluir la clase de **mktEditable**.
 1. El ID debe ser único en ese HTML.
 1. No hay espacios en el ID.
 
@@ -32,4 +32,4 @@ Reglas:
 >
 >Las instrucciones mktEditable no se pueden anidar.
 
-Si desea obtener información sobre cómo hacerlo en el Editor de plantillas de correo electrónico v2.0, consulte [sintaxis de plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+Si desea obtener información sobre cómo hacerlo en el Editor de plantillas de correo electrónico v2.0, consulte [sintaxis de la plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

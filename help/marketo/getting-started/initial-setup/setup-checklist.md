@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Configurar lista de comprobación {#setup-checklist}
 
-¡Bienvenido a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista de tareas pendientes visuales para comenzar. Encontrará más información en [Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+¡Bienvenido a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista de tareas pendientes visuales para comenzar. Encontrará más detalles en [Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Inicie sesión en Marketo y cree usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 1. Seleccione un CNAME de correo electrónico para los vínculos de seguimiento de marca
 1. Solicite al departamento de TI que configure un registro DNS para su CNAME de correo electrónico
 1. Pedir al departamento de TI que realice la lista de permitidos de Marketo
-1. Configure DKIM y SPF en la [!UICONTROL Administrador] área
-1. Configuración de MX para `[FromDomain1]`
+1. Configure DKIM y SPF en el área [!UICONTROL Admin]
+1. Configurar MX para `[FromDomain1]`
 1. Cuando haya terminado con el CNAME del correo electrónico, configure el CNAME del correo electrónico en Marketo
 
 ## Envíe una URL para las plantillas de página de aterrizaje y correo electrónico {#submit-a-url-for-landing-page-and-email-templates}
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[Pasos de instalación](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

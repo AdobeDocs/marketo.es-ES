@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >Esta función solo está disponible:
 >
->* Para su uso únicamente con objetos personalizados de Marketo, no con objetos personalizados sincronizados a través del nativo [!DNL Salesforce] o [!DNL Microsoft Dynamics] integración
+>* Solo se puede usar con objetos personalizados de Marketo, no con objetos personalizados sincronizados mediante la integración nativa de [!DNL Salesforce] o [!DNL Microsoft Dynamics]
 >* Como déclencheur, no como filtro
 >
->Póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para tener activados los Déclencheur de cambio de objeto personalizado.
+>Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para que se habiliten los Déclencheur de cambio de objeto personalizado.
 
-En la lista inteligente de una campaña inteligente, puede almacenar en déclencheur una acción de flujo cuando se agrega un objeto personalizado a una persona o compañía. También puede crear una lista inteligente que utilice un _cambiar_ en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
+En la lista inteligente de una campaña inteligente, puede almacenar en déclencheur una acción de flujo cuando se agrega un objeto personalizado a una persona o compañía. También puede crear una lista inteligente que use _change_ en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
 
 >[!NOTE]
 >
 >No se crea una entrada de registro de actividad cuando se cambia un registro de objeto personalizado.
 
-1. En Marketo Engage, vaya a **[!UICONTROL Actividades de marketing]**.
+1. En Marketo Engage, vaya a **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ En la lista inteligente de una campaña inteligente, puede almacenar en déclenc
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Seleccione el [!UICONTROL atributo de déclencheur].
+1. Seleccione [!UICONTROL atributo de déclencheur].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

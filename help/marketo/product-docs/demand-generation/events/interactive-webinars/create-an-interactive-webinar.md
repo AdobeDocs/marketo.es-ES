@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Cree un seminario web interactivo en unos sencillos pasos.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
@@ -26,15 +26,15 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Haga clic en la lista desplegable Canal y seleccione cualquier canal que tenga _Evento con seminario web_ en la columna &quot;Se aplica a&quot;. En este ejemplo, elegimos **Seminario web**.
+1. Haga clic en el menú desplegable Canal y seleccione cualquier canal que tenga _Evento con seminario web_ en la columna &quot;Se aplica a&quot;. En este ejemplo, elegimos **Seminario web**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >Para ver a qué canales se aplican _Evento con seminario web_, vaya a **Administrador** > **Etiquetas**. &quot;Se aplica a&quot; debe ser la columna central. Obtenga más información sobre &quot;Se aplica a&quot; en el paso 5 de [este artículo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Para ver qué canales se aplican al _evento con el seminario web_, ve a **Administrador** > **Etiquetas**. &quot;Se aplica a&quot; debe ser la columna central. Obtenga más información sobre &quot;Se aplica a&quot; en el paso 5 de [este artículo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-1. Elegir **Seminarios web interactivos** y haga clic en **Siguiente**.
+1. Elija **seminarios web interactivos** y haga clic en **Siguiente**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -54,14 +54,14 @@ Cree un seminario web interactivo en unos sencillos pasos.
    >
    >* Si lo desea, puede cambiar el título del seminario web en una etapa posterior.
 
-1. Programe la fecha y la hora del seminario web y haga clic en **Crear**.
+1. Programe la fecha/hora del seminario web y haga clic en **Crear**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
 <p>
 
-Ahora, es hora de... [diseñe su seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Es hora de [diseñar tu seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Obtenga información sobre cómo agregar presentadores o cohosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
+>[Aprenda a agregar moderadores o co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

@@ -6,8 +6,8 @@ exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
-ht-degree: 0%
+source-wordcount: '749'
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 Cree una campaña web para personalizar el contenido web en tiempo real y proporcionar el mensaje correcto al usuario correcto en el momento adecuado.
 
-Una campaña web es una reacción personalizada asociada a un segmento específico. La reacción puede ser un cuadro de diálogo en el sitio web y [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [función de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o una alerta por correo electrónico.
+Una campaña web es una reacción personalizada asociada a un segmento específico. La reacción puede ser un cuadro de diálogo en tu sitio web, un [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una [característica de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o una alerta por correo electrónico.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Seleccionar **Creación de una nueva campaña web**.
+1. Seleccione **Crear nueva campaña web**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Seleccione el **Diálogo** tipo de campaña web. Diseñe y añada su creatividad en el editor. Clic **Previsualizar** para ver cómo reaccionará la campaña web en el sitio.
+1. Seleccione el tipo de campaña web **Dialog**. Diseñe y añada su creatividad en el editor. Haga clic en **Vista previa** para ver cómo reaccionará la campaña web en el sitio.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Mostrar activado</strong></td> 
-   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña web.</td> 
+   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra su campaña web.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Estilo de diálogo</strong></td> 
@@ -66,7 +66,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
    <td colspan="1" rowspan="1">Para obtener más opciones de posicionamiento del cuadro de diálogo, seleccione la casilla de verificación "Coordenadas de posición" e introduzca las coordenadas de pantalla exactas (Horizontal, Vertical) en las que desea que aparezca el cuadro de diálogo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Relleno de botón</strong></td> 
+   <td colspan="1"><strong>Botón Completar</strong></td> 
    <td colspan="1">Personalice el botón de cierre del modal mediante el uso del color, el estilo y la posición. También puede utilizar su propio botón vinculándolo en el cuadro URL de la imagen.</td> 
   </tr> 
   <tr> 
@@ -111,15 +111,15 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Editor de texto enriquecido</strong></td> 
-   <td colspan="1"><p>El editor de texto enriquecido permite dar formato al texto, vincular e insertar imágenes. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Puede obtener más información aquí</a>.</p></td> 
+   <td colspan="1"><p>El editor de texto enriquecido permite dar formato al texto, vincular e insertar imágenes. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Más información aquí</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Vista previa en el sitio</strong></td> 
-   <td colspan="1">Previsualice las campañas antes de iniciarlas.<br> 
+   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br> 
     <ul> 
      <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li> 
      <li>Dispositivo: obtenga una vista previa del aspecto de la campaña por dispositivo: Escritorio, Móvil vertical, Móvil horizontal, Tablet vertical, Vertical horizontal.<br></li> 
-     <li>Vista previa: clic <strong>Previsualizar </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña. </li> 
+     <li>Vista previa: haga clic en <strong>Vista previa </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña. </li> 
      <li>Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!TIP]
 >
->Agilice y simplifique el proceso de creación de campañas con nuestra [plantillas integradas](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o por [guardado de la campaña existente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como plantilla para su reutilización.
+>Acelere y simplifique su proceso de creación de campañas utilizando nuestras [plantillas integradas](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o [guardando su campaña existente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como plantilla para reutilizarla.
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 
-1. Desde el **Campañas web** página, haga clic en **Editar** en la campaña web.
+1. En la página **Campañas web**, haga clic en **Editar** en la campaña web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Para facilitar la búsqueda de la campaña web que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Para facilitar la búsqueda de la campaña web que deseas, usa la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Previsualización de una campaña web {#preview-a-web-campaign}
 
-1. Desde el **Campañas web** página, haga clic en **Previsualizar** en la campaña web que desee ver.
+1. En la página **Campañas web**, haga clic en **Vista previa** en la campaña web que desee ver.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## Clonar una campaña web {#clone-a-web-campaign}
 
-Consulte [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Eliminación de una campaña web {#delete-a-web-campaign}
 
-1. Desde el **Campañas web** página, haga clic en **Eliminar** en la campaña web que desea eliminar.
+1. En la página **Campañas web**, haga clic en **Eliminar** en la campaña web que desee eliminar.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,5 +160,5 @@ Consulte [Clonar una campaña web](/help/marketo/product-docs/web-personalizatio
 
 >[!MORELIKETHIS]
 >
->* [Creación de una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creación de una campaña de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Crear una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una campaña de widget de RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

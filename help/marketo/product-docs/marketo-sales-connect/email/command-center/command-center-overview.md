@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
   </tr> 
   <tr> 
    <td title="Color de fondo: Azul"><strong title="">Enviado</strong></td> 
-   <td title="Color de fondo: Azul">Entregados</td> 
+   <td title="Color de fondo: Azul">Enviados</td> 
    <td title="Color de fondo: Azul">Correos electrónicos entregados al destinatario.</td> 
   </tr> 
   <tr> 
@@ -53,11 +53,11 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
   <tr> 
    <td title="Color de fondo: Gris"><br></td> 
    <td title="Color de fondo: Gris">Borrador</td> 
-   <td title="Color de fondo: Gris"><p>Correos electrónicos guardados como borrador.<br><strong>Nota:</strong> Solo los correos electrónicos únicos se pueden guardar como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</p></td> 
+   <td title="Color de fondo: Gris"><p>Correos electrónicos guardados como borrador.<br><strong>Nota:</strong> Solo los mensajes de correo electrónico únicos se pueden guardar como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</p></td> 
   </tr> 
   <tr> 
    <td title="Color de fondo: Gris"><br></td> 
-   <td title="Color de fondo: Gris">En progreso</td> 
+   <td title="Color de fondo: Gris">En curso</td> 
    <td title="Color de fondo: Gris">Estado intermedio al que se dirigen los mensajes de correo electrónico cuando se encuentran en el movimiento de envío. Los correos electrónicos solo deben estar en curso durante unos momentos.</td> 
   </tr> 
   <tr> 
@@ -68,12 +68,12 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
   <tr> 
    <td title="Color de fondo: Azul"><br></td> 
    <td title="Color de fondo: Azul">Rechazados</td> 
-   <td title="Color de fondo: Azul"><p>Correos electrónicos rechazados del servidor de correo electrónico de destinatarios. <br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a los servidores MSC como canal de envío.</p></td> 
+   <td title="Color de fondo: Azul"><p>Correos electrónicos rechazados del servidor de correo electrónico de destinatarios. <br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de entrega.</p></td> 
   </tr> 
   <tr> 
    <td title="Color de fondo: Azul"><br></td> 
    <td title="Color de fondo: Azul">Correo no deseado</td> 
-   <td title="Color de fondo: Azul"><p>Correos electrónicos que el destinatario ha marcado manualmente como correo no deseado.<br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a los servidores MSC como canal de envío.</p></td> 
+   <td title="Color de fondo: Azul"><p>Correos electrónicos que el destinatario ha marcado manualmente como correo no deseado.<br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de entrega.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -95,5 +95,5 @@ Ventaja: Si guarda la búsqueda avanzada, funcionará como una lista dinámica y
 >[!MORELIKETHIS]
 >
 >* [Tareas](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [Información general de búsqueda avanzada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [Redacción de correos electrónicos masivos con selección y envío](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [Información general sobre búsqueda avanzada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Componer correos electrónicos en lotes con Seleccionar y Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

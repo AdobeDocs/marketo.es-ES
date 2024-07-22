@@ -17,7 +17,7 @@ Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
 >[!CAUTION]
 >
->Los campos siguientes deben **no** ocultarse para que el perfil de cuenta funcione correctamente.
+>Los siguientes campos deben **no** estar ocultos para que el perfil de cuenta funcione correctamente.
 >
 >* Sitio web
 >* Compañía
@@ -30,15 +30,15 @@ Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Haga clic en **Perfil de cuenta** pestaña.
+1. Haga clic en la ficha **Perfil de cuenta**.
 
    ![](assets/two-1.png)
 
-1. La pestaña Modelo se abre de forma predeterminada. Clic **Primeros pasos**.
+1. La pestaña Modelo se abre de forma predeterminada. Haga clic en **Comenzar**.
 
    ![](assets/three.png)
 
-1. Asigne un nombre al modelo y elija el tipo de lista o lista de personas que servirán de base para el Perfil de cliente ideal (ICP). Clic **Crear modelo** cuando termine.
+1. Asigne un nombre al modelo y elija el tipo de lista o lista de personas que servirán de base para el Perfil de cliente ideal (ICP). Haga clic en **Crear modelo** cuando haya terminado.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -46,7 +46,7 @@ Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
    ![](assets/five.png)
 
-1. Para ver los resultados del modelo, haga clic en **Consulte Resultado del modelo**.
+1. Para ver los resultados del modelo, haga clic en **Ver resultado del modelo**.
 
    ![](assets/six.png)
 
@@ -56,4 +56,4 @@ Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
    >[!TIP]
    >
-   >Ahora que se ha creado el modelo, [aprenda a sintonizarlo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Ahora que se ha creado el modelo, [aprenda a ajustarlo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

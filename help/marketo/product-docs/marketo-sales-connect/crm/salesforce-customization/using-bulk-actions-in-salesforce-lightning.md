@@ -6,7 +6,7 @@ exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Aprenda a realizar acciones masivas, como añadir posibles clientes a una campa�
 
 ## Correo electrónico masivo {#bulk-email}
 
-1. En Salesforce, haga clic en **Posibles clientes** y, a continuación, elija la lista de posibles clientes que desee.
+1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
 
    ![](assets/one-6.png)
 
@@ -46,31 +46,31 @@ Aprenda a realizar acciones masivas, como añadir posibles clientes a una campa�
 
    ![](assets/three-5.png)
 
-## Agregar a la campaña  {#add-to-campaign}
+## Agregar a la campaña {#add-to-campaign}
 
-1. En Salesforce, haga clic en **Posibles clientes** y, a continuación, elija la lista de posibles clientes que desee.
+1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
 
    ![](assets/four-4.png)
 
-1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Añadir a la campaña de MSC**.
+1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Agregar a MSC Campaign**.
 
    ![](assets/five-4.png)
 
-1. Aparecerá la ventana emergente &quot;Agregar personas a su campaña&quot;. Clic **Siguiente** y siga el flujo de campaña típico para almacenar en déclencheur una campaña de MSC.
+1. Aparecerá la ventana emergente &quot;Agregar personas a su campaña&quot;. Haga clic en **Siguiente** y siga el flujo de campaña habitual para almacenar en déclencheur una campaña de MSC.
 
    ![](assets/six-1.png)
 
 ## Insertar en Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. En Salesforce, haga clic en **Posibles clientes** y, a continuación, elija la lista de posibles clientes que desee.
+1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
 
    ![](assets/seven-2.png)
 
-1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Insertar en MSC**.
+1. Haga clic en la flecha desplegable (en el extremo derecho de la pantalla) y seleccione **Insertar en MSC**.
 
    ![](assets/eight-2.png)
 
-1. Se abrirá una nueva pestaña llamada &quot;Salesforce Bridge&quot;. Haga clic en **Pasar al → de grupo** botón.
+1. Se abrirá una nueva pestaña llamada &quot;Salesforce Bridge&quot;. Haga clic en el botón **Continuar al grupo →**.
 
    ![](assets/nine-2.png)
 
@@ -84,5 +84,5 @@ Aprenda a realizar acciones masivas, como añadir posibles clientes a una campa�
 
 >[!MORELIKETHIS]
 >
->* [Envío de correos electrónicos mediante correo electrónico de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Redacción de correos electrónicos masivos con selección y envío](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Envío de correos electrónicos por correo electrónico de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Componer correos electrónicos en lotes con Seleccionar y Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

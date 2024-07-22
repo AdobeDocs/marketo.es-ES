@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953405
 description: 'Editar configuración de comportamiento de Analytics: documentos de Marketo, documentación del producto'
-title: Editar configuración de comportamiento de Analytics
+title: Editar configuración de comportamiento de análisis
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Editar configuración de comportamiento de Analytics {#edit-analytics-behavior-settings}
+# Editar configuración de comportamiento de análisis {#edit-analytics-behavior-settings}
 
-Puede configurar las variables [comportamiento de analytics a nivel de administrador en los canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, pero también puede editarlo en el nivel de programa. Así es como.
+Puede establecer el comportamiento de [analytics en el nivel de administrador en los canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, pero también puede editarlo en el nivel de programa. Así es como.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Puede configurar las variables [comportamiento de analytics a nivel de administr
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. En el **[!UICONTROL Configurar]** pestaña, arrastrar [!UICONTROL Comportamiento de Analytics] en el lienzo.
+1. En la ficha **[!UICONTROL Configuración]**, arrastre [!UICONTROL Comportamiento de Analytics] al lienzo.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ Puede configurar las variables [comportamiento de analytics a nivel de administr
 >
 >**Definición**
 >
->**[!UICONTROL Inclusivo]** : Esta opción garantizará que el programa esté disponible para la creación de informes en el explorador de ingresos y los analizadores, independientemente de si ha incluido o no un coste de periodo.
+>**[!UICONTROL Inclusivo]**: esta opción garantizará que el programa esté disponible para la generación de informes en el explorador de ingresos y los analizadores, independientemente de si ha incluido o no un costo de período.
 >
->**[!UICONTROL Operativo]** : Esta opción hace que el programa no se muestre en el explorador de ingresos ni en los analizadores.
+>**[!UICONTROL Operativo]**: esta opción hace que el programa no se muestre en el explorador de ingresos ni en los analizadores.
 
 >[!NOTE]
 >

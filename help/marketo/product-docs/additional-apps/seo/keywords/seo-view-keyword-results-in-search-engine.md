@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si desea ver el aspecto de su contenido dentro de un motor de búsqueda, hemos añadido un práctico atajo de teclado.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Pase el ratón sobre una palabra clave. Clic **[!UICONTROL Ver resultados]**.
+1. Pase el ratón sobre una palabra clave. Haga clic en **[!UICONTROL Ver resultados]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 

@@ -25,7 +25,7 @@ Probablemente quiera ver el aspecto de la página de aterrizaje antes de publica
    >
    >El borrador es la versión en la que está trabajando, no la versión activa que ven los clientes.
 
-1. También puede hacer clic con el botón derecho en la página de aterrizaje y seleccionar **Previsualizar**.
+1. También puede hacer clic con el botón derecho en la página de aterrizaje y seleccionar **Vista previa**.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
@@ -41,11 +41,11 @@ Probablemente quiera ver el aspecto de la página de aterrizaje antes de publica
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. En cualquier momento durante el trabajo en el editor de páginas de aterrizaje, puede hacer clic en **Previsualizar borrador**.
+1. En cualquier momento del trabajo en el editor de páginas de aterrizaje, puedes hacer clic en **Previsualizar borrador**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. Puede volver rápidamente a la edición haciendo clic en **Editar borrador**.
+1. Para volver rápidamente a la edición, haga clic en **Editar borrador**.
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 

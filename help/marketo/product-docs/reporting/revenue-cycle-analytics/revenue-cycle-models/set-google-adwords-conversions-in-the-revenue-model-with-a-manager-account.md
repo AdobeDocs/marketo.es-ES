@@ -6,16 +6,16 @@ exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
 
 # Establecer conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Vincule su cuenta de Google AdWords a Marketo para cargar automáticamente datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics resultaron en posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de usted [añadir columnas personalizadas](https://support.google.com/adwords/answer/3073556) en AdWords.
+Vincule su cuenta de Google AdWords a Marketo para cargar automáticamente datos de conversión sin conexión de Marketo a Google AdWords. Entonces, desde la interfaz de usuario de AdWords, podrás ver fácilmente qué clics resultaron en posibles clientes, oportunidades y nuevos clientes calificados (o las etapas de ingresos que quieras rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556) en AdWords.
 
-Si tiene varias cuentas de Google AdWords, puede utilizar una [Cuenta del administrador de Google AdWords](https://www.google.com/adwords/manager-accounts/) (anteriormente conocido como My Client Center) para integrarlos con Marketo.
+Si tiene varias cuentas de Google AdWords, puede usar una [cuenta de Google AdWords Manager](https://www.google.com/adwords/manager-accounts/) (anteriormente conocida como My Client Center) para integrarlas con Marketo.
 
 Puede asignar conversiones sin conexión de AdWords a una o más etapas en un modelo de ingresos. Hay dos maneras:
 
@@ -24,7 +24,7 @@ Puede asignar conversiones sin conexión de AdWords a una o más etapas en un mo
 
 >[!PREREQUISITES]
 >
->[Añadir Google AdWords como servicio de Launchpoint con una cuenta de responsable](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+>[Agregar Google AdWords como servicio de punto de inicio con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Usar acción de escenario {#use-stage-action}
 
@@ -34,11 +34,11 @@ Asigne una conversión de AdWords en Acciones de fase.
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. En el **Acciones de fase** menú desplegable, seleccione **Establecer conversión de AdWords**.
+1. En el menú desplegable **Acciones de ensayo**, seleccione **Definir conversión de AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Establezca un **Conversión de AdWords**.
+1. Establecer una **conversión de AdWords**.
 
    >[!NOTE]
    >
@@ -50,11 +50,11 @@ Asigne una conversión de AdWords en Acciones de fase.
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
-1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las fases de ingresos, vuelva a la página de resumen. Seleccionar **Acciones de modelo** y elija **Aprobar fases**.
+1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las fases de ingresos, vuelva a la página de resumen. Seleccione **Acciones de modelo** y elija **Aprobar etapas**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
@@ -66,15 +66,15 @@ Asigne una conversión de AdWords en Acciones de fase.
 >
 >Las nuevas conversiones creadas desde Marketo tienen activada la configuración de &quot;optimización&quot;. Esto significa que las estrategias de oferta de AdWords pueden optimizar sus ofertas para esas conversiones. Puede cambiar esta configuración desde su cuenta de AdWords.
 
-1. En el **Acciones de fase** menú desplegable, seleccione **Establecer conversión de AdWords**.
+1. En el menú desplegable **Acciones de ensayo**, seleccione **Definir conversión de AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Seleccionar **Nueva conversión**.
+1. Seleccione **Nueva conversión**.
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
-1. Introduzca una **Nombre de conversión**. Clic **Guardar**.
+1. Escriba un **Nombre de conversión**. Haga clic en **Guardar**.
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
@@ -84,11 +84,11 @@ Asigne una conversión de AdWords en Acciones de fase.
 
 Puede asociar todas las etapas del modelo con su Conversión de AdWords en un solo lugar usando Asignaciones de AdWords.
 
-1. Seleccionar **Editar asignaciones de AdWords**.
+1. Seleccione **Editar asignaciones de AdWords**.
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Seleccione el **Cuenta de AdWords** y deseado **Conversión de AdWords** para cada fase que desee rastrear.
+1. Seleccione la **cuenta de AdWords** y la **conversión de AdWords** que desee para cada etapa que desee rastrear.
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
@@ -96,8 +96,8 @@ Puede asociar todas las etapas del modelo con su Conversión de AdWords en un so
 
    ![](assets/image2015-3-27-17-3a30-3a48.png)
 
-1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las fases de ingresos, vuelva a la página de resumen. Seleccionar **Acciones de modelo** y elija **Aprobar fases**.
+1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las fases de ingresos, vuelva a la página de resumen. Seleccione **Acciones de modelo** y elija **Aprobar etapas**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Para ver los datos de conversión sin conexión, deberá iniciar sesión en su cuenta de AdWords. Le recomendamos que utilice su [Función Columnas personalizadas](https://support.google.com/adwords/answer/3073556) para crear columnas de recuento de conversión para cada conversión sin conexión que importe desde Marketo.
+Para ver los datos de conversión sin conexión, deberá iniciar sesión en su cuenta de AdWords. Le recomendamos que use su [característica Columnas personalizadas](https://support.google.com/adwords/answer/3073556) para crear columnas de recuento de conversión para cada conversión sin conexión que importe desde Marketo.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir direcciones IP específicas del seguimiento {#exclude-specific-ips-from-being-tracked}
 
-¿Alguna vez ha querido excluir a sus propios empleados y nombres de organización del seguimiento y la creación de informes en Personalización web?
+¿Alguna vez ha querido excluir a sus propios empleados y nombres de organización del seguimiento y la creación de informes en Web Personalization?
 
 Puede excluir direcciones IP individuales y todo o parte de un rango de direcciones IP.
 
@@ -21,15 +21,15 @@ Puede excluir direcciones IP individuales y todo o parte de un rango de direccio
 >
 >Este proceso puede tardar hasta cinco minutos en completarse.
 
-1. Inicie sesión en Web Personalization y, debajo de su inicio de sesión, haga clic en **Configuración de cuenta**.
+1. Inicie sesión en Web Personalization y en su cuenta de inicio de sesión, haga clic en **Configuración de la cuenta**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Desplácese hacia abajo hasta el **Exclusión de IP** área. Si excluye las direcciones IP por primera vez, haga clic en el icono vacío **Excluir direcciones IP** field.
+1. Desplácese hacia abajo hasta el área **IP exclude**. Si excluye direcciones IP por primera vez, haga clic en el campo **Excluir direcciones IP** vacío.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Introduzca las direcciones IP o intervalos de direcciones IP individuales que desee excluir del seguimiento y la creación de informes y haga clic en **Guardar**.
+1. Escriba las IP individuales o los rangos de IP que desee excluir del seguimiento y los informes, y haga clic en **Guardar**.
 
    ![](assets/exclude-ips-form-hands.png)
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >El diseñador de la página de aterrizaje se abre en una nueva ventana.
 
-1. Arrastre el cursor sobre **Texto enriquecido** Elemento.
+1. Arrastre sobre el elemento **Texto enriquecido**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Introduzca el texto deseado y haga clic en **Guardar**.
+1. Escriba el texto que desee y haga clic en **Guardar**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -65,11 +65,11 @@ Los tokens son fragmentos de texto dinámicos que pueden personalizar la página
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Introduzca una **Valor predeterminado** y haga clic en **Insertar**.
+1. Escriba un **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

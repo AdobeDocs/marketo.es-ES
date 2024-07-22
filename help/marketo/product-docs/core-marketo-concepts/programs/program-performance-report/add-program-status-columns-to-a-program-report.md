@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Agregar columnas de estado de programa a un informe de programa {#add-program-status-columns-to-a-program-report}
 
-Agregar estadísticas sobre el estado del programa a su [informe de ejecución del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
+Agrega estadísticas sobre el estado del programa a tu [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
 
-1. Ir a **[!UICONTROL Actividades de marketing]** (o **[!UICONTROL Analytics]**).
+1. Vaya a **[!UICONTROL Actividades de marketing]** (o a **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Agregar estadísticas sobre el estado del programa a su [informe de ejecución d
 
    ![](assets/emailperformance.jpg)
 
-1. Haga clic en **[!UICONTROL Configurar]** y arrastre el puntero sobre la pestaña **[!UICONTROL Canal]** etiqueta.
+1. Haga clic en la ficha **[!UICONTROL Configuración]** y arrastre el cursor sobre la etiqueta **[!UICONTROL Canal]**.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,20 +33,20 @@ Agregar estadísticas sobre el estado del programa a su [informe de ejecución d
 
    >[!TIP]
    >
-   >Para mostrar las columnas de estado del programa, el informe debe filtrarse por _solo uno_ canal.
+   >Para mostrar las columnas de estado del programa, el informe debe filtrarse por _un solo canal_.
 
-1. Marque la opción para Mostrar columnas de estado del programa. Clic **[!UICONTROL Aplicar]**.
+1. Marque la opción para Mostrar columnas de estado del programa. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. ¡Tú lo hiciste! Haga clic en [!UICONTROL Informe] para ver el informe con las columnas de estado del programa.
+1. ¡Tú lo hiciste! Haga clic en la ficha [!UICONTROL Informe] para ver el informe con las columnas de estado del programa.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->Si no ve una columna para cada estado en el programa, asegúrese de que tiene [seleccionó las columnas que desea mostrar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} en el informe.
+>Si no ve una columna para cada estado en el programa, asegúrese de haber [seleccionado las columnas que desea mostrar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} en el informe.
 
 >[!MORELIKETHIS]
 >
->[Filtrado de un informe de programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[Filtrar un informe de programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

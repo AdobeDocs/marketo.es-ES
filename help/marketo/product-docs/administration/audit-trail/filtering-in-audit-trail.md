@@ -6,7 +6,7 @@ exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y mucho más.
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
@@ -29,21 +29,21 @@ Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y muc
 
    >[!NOTE]
    >
-   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo ubicamos: _todos los correos electrónicos (editados por cualquier persona) de los siete días anteriores_.
+   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo ubicamos: _todos los correos electrónicos - editados por cualquier persona - en los siete días anteriores_.
 
-1. Haga clic en **[!UICONTROL Periodo]** y seleccione. **[!UICONTROL Últimos 7 días]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Periodo]** y seleccione **[!UICONTROL Últimos 7 días]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Haga clic en **[!UICONTROL Tipo de recurso]** y seleccione. **[!UICONTROL Correo electrónico]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Tipo de recurso]** y seleccione **[!UICONTROL Correo electrónico]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Haga clic en **Aacciones** y seleccione. **[!UICONTROL Editar]**.
+1. Haga clic en la lista desplegable **Aacciones** y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Clic **[!UICONTROL Aplicar]**.
+1. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
@@ -55,8 +55,8 @@ Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y muc
 
    >[!NOTE]
    >
-   >Si tiene espacios de trabajo habilitados, verá datos de auditoría para todos los espacios de trabajo. Si aplica un filtro de espacio de trabajo, Marketo recuerda el valor anterior del espacio de trabajo cada vez que utiliza la pista de auditoría. Se aplican los permisos de Workspace en el nivel de recurso.
+   >Si tiene espacios de trabajo habilitados, verá datos de auditoría para todos los espacios de trabajo. Si aplica un filtro de espacio de trabajo, Marketo recuerda el valor anterior del espacio de trabajo cada vez que utiliza la pista de auditoría. Se aplican permisos de Workspace en el nivel de recurso.
 
    >[!MORELIKETHIS]
    >
-   >[Cambiar detalles en pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[Cambiar detalles en la pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

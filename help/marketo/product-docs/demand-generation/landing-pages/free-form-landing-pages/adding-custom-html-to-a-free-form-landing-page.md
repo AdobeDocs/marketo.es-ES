@@ -23,11 +23,11 @@ Puede agregar scripts personalizados, CSS u otros HTML a las páginas de aterriz
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. En el editor de la página de aterrizaje, arrastre el **HTML** Elemento.
+1. En el editor de la página de aterrizaje, arrastre el elemento **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Introduzca el código de HTML personalizado y haga clic en **Guardar**.
+1. Escriba su código de HTML personalizado y haga clic en **Guardar**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
@@ -39,4 +39,4 @@ Puede agregar scripts personalizados, CSS u otros HTML a las páginas de aterriz
 
 >[!CAUTION]
 >
->Si el HTML personalizado no se procesa (como una función JavaScript invisible o CSS), coloque el elemento en una ubicación memorable, como la parte superior izquierda. El contorno del elemento sólo está visible al hacer clic en su área.
+>Si el HTML personalizado no se está representando (como una función invisible de JavaScript o CSS), coloque el elemento en una ubicación memorable, como la parte superior izquierda. El contorno del elemento sólo está visible al hacer clic en su área.

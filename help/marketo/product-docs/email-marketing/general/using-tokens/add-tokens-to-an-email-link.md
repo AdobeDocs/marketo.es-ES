@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para insertar parámetros adicionales y específicos de la persona en los vínculos, puede utilizar tokens. Así es como.
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador** pestaña.
+1. Seleccione su correo electrónico y haga clic en la ficha **Editar borrador**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Para insertar parámetros adicionales y específicos de la persona en los víncu
 
    ![](assets/two.png)
 
-1. Busque o escriba el texto del vínculo. Resáltelo y haga clic en **Insertar/editar vínculo** icono.
+1. Busque o escriba el texto del vínculo. Resáltelo y haga clic en el icono **Insertar/Editar vínculo**.
 
    ![](assets/three.png)
 
-1. Escriba los tokens que desee en **URL** y haga clic en **Insertar**.
+1. Escriba los tokens deseados en **URL** y haga clic en **Insertar**.
 
    ![](assets/four.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/five.png)
 
@@ -39,4 +39,4 @@ Para insertar parámetros adicionales y específicos de la persona en los víncu
 
 >[!MORELIKETHIS]
 >
->[Uso de URL en Mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[Usando direcciones URL en Mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

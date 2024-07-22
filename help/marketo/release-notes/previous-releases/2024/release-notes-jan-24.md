@@ -16,11 +16,11 @@ A continuación encontrará todas las funciones incluidas en la versión de ener
 
 >[!AVAILABILITY]
 >
->Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de enero de 2024**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de enero de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -30,7 +30,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Seminarios web a petición para seminarios web interactivos</strong>: los seminarios web bajo demanda le permiten publicar la grabación del seminario web, así como rastrear sus visitas/relojes. Esto le ayudará a obtener más posibles clientes a través de los inscritos que no asistieron al seminario web (no se presentaron), pero que siguen interesados en conocer más detalles y ver la grabación.</td> 
+   <td><strong>Seminarios web a petición para seminarios web interactivos</strong>: los seminarios web a petición le permiten publicar la grabación del seminario web, así como realizar un seguimiento de sus visitas/inspecciones. Esto le ayudará a obtener más posibles clientes a través de los inscritos que no asistieron al seminario web (no se presentaron), pero que siguen interesados en conocer más detalles y ver la grabación.</td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Seminarios web bajo demanda</a></td>
   </tr>
@@ -40,7 +40,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Páginas de aterrizaje de conversación</strong>: incruste un flujo de conversación de Dynamic Chat directamente en una página de aterrizaje de Marketo Engage para que los visitantes puedan programar una reunión a través de Dynamic Chat sin tener que rellenar un formulario ni interactuar con un bot de chat.</td> 
+   <td><strong>Páginas de aterrizaje de conversación</strong>: incruste un flujo de conversación de Dynamic Chat directamente en una página de aterrizaje de Marketo Engage para que los visitantes puedan programar una reunión a través de un Dynamic Chat sin tener que rellenar un formulario ni interactuar con un bot de chat.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -50,7 +50,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Filtrado de actividad de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, lo que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td> 
+   <td><strong>Filtrado de la actividad de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, ya que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrado de actividad de bots de correo electrónico</a></td>
   </tr>
@@ -60,7 +60,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
    </tr>
     <tr> 
-   <td><strong>Actualización API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes al <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si un registro de persona está vinculado al proporcionado <b>id</b> no se encuentra en la base de datos de Marketo Engage, no se producirá ninguna actualización de registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td> 
+   <td><strong>Actualización de la API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes cuando <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si no se encuentra un registro de persona vinculado al <b>id</b> proporcionado en la base de datos de Marketo Engage, no se actualizará ningún registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en la propiedad <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td> 
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
@@ -70,7 +70,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
    </tr>
   <tr> 
-   <td><strong>Co-hosts para seminarios web interactivos</strong>: los co-hosts de la sección Equipo de seminarios web de los seminarios web interactivos permiten al creador del evento añadir usuarios internos o externos al programa de seminarios web interactivos para compartir las responsabilidades administrativas y de envío.</td> 
+   <td><strong>Co-hosts para seminarios web interactivos</strong>: Los co-hosts de la sección Equipo de seminarios web de seminarios web interactivos permiten al creador del evento agregar usuarios internos o externos al programa de seminarios web interactivos para compartir las responsabilidades administrativas y de envío.</td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Adición de un equipo de seminario web</a></td>
   </tr>
@@ -80,7 +80,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Eliminar un usuario en seminarios web interactivos</strong>: Un administrador de Marketo Engage ahora puede eliminar a un usuario específico en los seminarios web interactivos.</td> 
+   <td><strong>Quitar un usuario en seminarios web interactivos</strong>: Un administrador de Marketo Engage ahora puede quitar un usuario específico en los seminarios web interactivos.</td> 
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
@@ -105,7 +105,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr> 
   </tr>
     <tr> 
-   <td><strong>Ventana de composición ampliable</strong>: la ventana de redacción de correo electrónico ahora comprime automáticamente el espacio no utilizado, lo que permite más espacio en el editor. Además, la ventana podrá salir y ampliarse aún más, lo que proporcionará a los usuarios todo el espacio que necesiten para editar sus correos electrónicos.</td> 
+   <td><strong>Ventana de composición ampliable</strong>: La ventana de composición por correo electrónico ahora comprimirá automáticamente el espacio no utilizado, lo que permitirá más espacio en el editor. Además, la ventana podrá salir y ampliarse aún más, lo que proporcionará a los usuarios todo el espacio que necesiten para editar sus correos electrónicos.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -126,7 +126,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr> 
   </tr>
     <tr> 
-   <td><strong>Interfaz de usuario del bot de chat para Conversational Forms</strong>: Los visitantes del sitio web ahora pueden solicitar chat en vivo en un flujo de conversación.</td> 
+   <td><strong>IU de bots de chat para Forms conversacional</strong>: Los visitantes del sitio web ahora pueden solicitar chat en vivo en un flujo conversacional.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -137,7 +137,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr>
    </tr>
     <tr> 
-   <td><strong>Opciones de color de fuente de Chatbot</strong>: personalice los colores de las fuentes en una configuración de bot de chat.</td> 
+   <td><strong>Opciones de color de fuente del bot de chat</strong>: personalice los colores de fuente en una configuración de bot de chat.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -148,7 +148,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr>
    </tr>
     <tr> 
-   <td><strong>Opción para repetir el cuadro de diálogo</strong>: Ahora puede reiniciar el cuadro de diálogo al principio después de que un visitante haya llegado al final.</td> 
+   <td><strong>Opción para repetir el diálogo</strong>: ahora puede reiniciar el diálogo al principio después de que un visitante haya llegado al final.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -170,7 +170,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr>
     </tr>
     <tr> 
-   <td><strong>Actividades recientes del Marketo Engage en la bandeja de entrada del agente</strong>: las actividades recientes del Marketo Engage, como Correo electrónico abierto y Formulario rellenado, se mostrarán para los posibles clientes en la bandeja de entrada del agente.</td> 
+   <td><strong>Actividades recientes del Marketo Engage en la bandeja de entrada del agente</strong>: las actividades recientes del Marketo Engage, como las de Correo electrónico abierto y Formulario rellenado, se mostrarán para los posibles clientes en la bandeja de entrada del agente.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -180,7 +180,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Bifurcación condicional</strong>: ahora puede mostrar a los visitantes contenido de conversación diferente en función de condiciones predefinidas, como la ubicación del visitante o la disponibilidad del agente en directo.</td> 
+   <td><strong>Ramificación condicional</strong>: ahora puede mostrar a los visitantes contenido de conversación diferente en función de condiciones predefinidas, como la ubicación del visitante o la disponibilidad del agente activo.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -190,12 +190,12 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 ## Anuncios {#announcements}
 
-* **Actualización de cancelación de suscripción a lista de un clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. Aprender [qué son y cómo le afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
+* **Actualización de cancelación de suscripción a una lista de un solo clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. Conoce [qué son y cómo te afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Sincronizar actualización de API de posibles clientes**: La [API de posible cliente de sincronización](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}El comportamiento de se ha ajustado ligeramente en relación con las actualizaciones de `unsubscribed` field. Ahora, cuando pases `null` como valor, es igual a pasar un valor de `false`.
+* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la [API del posible cliente de sincronización](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} se ha ajustado ligeramente en relación con las actualizaciones del campo `unsubscribed`. Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
 
-* **Marketo Engage Forms jQuery 1.x**: En nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: en nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **Verificación por correo electrónico para usuarios solo de SSO**: Solo los usuarios de SSO solían verificarse automáticamente, lo que les permitía utilizar una cuenta de correo electrónico inaccesible. A partir de mediados de enero, todos los usuarios de solo SSO existentes pasarán a estar sin verificar y se les pedirá que vuelvan a verificar su correo electrónico mediante un vínculo que enviemos a la cuenta de correo electrónico. Todos los usuarios nuevos de solo SSO deberán verificar sus direcciones de correo electrónico a partir de ahora.
+* **Verificación por correo electrónico para usuarios solo de SSO**: Los usuarios solo de SSO solían verificarse automáticamente, lo que les permitía usar una cuenta de correo electrónico inaccesible. A partir de mediados de enero, todos los usuarios de solo SSO existentes pasarán a estar sin verificar y se les pedirá que vuelvan a verificar su correo electrónico mediante un vínculo que enviemos a la cuenta de correo electrónico. Todos los usuarios nuevos de solo SSO deberán verificar sus direcciones de correo electrónico a partir de ahora.
 
-* Vea la [Seminario web sobre la versión de Marketo Engage de enero de 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Vea el [Seminario web sobre la versión de Marketo Engage de enero de 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

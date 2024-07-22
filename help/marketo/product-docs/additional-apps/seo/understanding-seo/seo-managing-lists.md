@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede agregar cosas a listas cuando agregue palabras clave, páginas, problemas de página o vínculos entrantes. Las listas le ayudan a mantenerse organizado y le permiten filtrar informes para ver solo los datos de esa lista. Así es como se hacen.
 
-1. Clic **[!UICONTROL Agregar palabras clave]**.
+1. Haga clic en **[!UICONTROL Agregar palabras clave]**.
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ Puede agregar cosas a listas cuando agregue palabras clave, páginas, problemas 
    >
    >Puede crear una nueva lista en la lista desplegable. Introduzca un título y pulse la tecla &quot;retorno&quot;.
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Agregar página a una lista {#add-page-to-a-list}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Pase el ratón sobre la página que quiera añadir a una lista. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la página que quiera añadir a una lista. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para que su página vaya. Solo tiene que escribir el nombre que desee en [!UICONTROL Crear una lista nueva].
+   >También puede crear una nueva lista para que su página vaya. Escriba el nombre que desee en [!UICONTROL Crear una lista nueva].
 
 1. Haga clic en la lista a la que acaba de agregar su página.
 
@@ -41,15 +41,15 @@ ht-degree: 0%
 
 ## Eliminar página de una lista {#remove-page-from-a-list}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. En el **[!UICONTROL Páginas]** , haga clic en la lista que desee limpiar.
+1. En la ficha **[!UICONTROL Páginas]**, haga clic en la lista que desee limpiar.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Pase el ratón sobre la página que quiera eliminar. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la página que quiera eliminar. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Listo. Su página se eliminará de la lista.
+Finalizado. Su página se eliminará de la lista.

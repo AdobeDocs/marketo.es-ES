@@ -4,9 +4,10 @@ title: Nuevo documento Agregar imágenes
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '291'
 ht-degree: 6%
 
 ---
@@ -17,15 +18,15 @@ Tiene varias opciones para agregar nuevos archivos e imágenes al repositorio de
 
 ## Cargar imagen o archivo {#upload-image-or-file}
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Seleccionar **[!UICONTROL Imágenes y archivos]**
+1. Seleccionar **[!UICONTROL imágenes y archivos]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Cargar imagen o archivo]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Cargar imagen o archivo]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -45,13 +46,13 @@ Tiene tres opciones para importar una imagen. Vamos a repasar cada uno de ellos.
 
 Texto
 
-1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+1. Siga los pasos 1 y 2 [de arriba](#upload-image-or-file).
 
-1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Importar imagen o archivo]**.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Seleccione el **[!UICONTROL Web]** y haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione la opción **[!UICONTROL Web]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
@@ -67,13 +68,13 @@ PICC
 
 Texto
 
-1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+1. Siga los pasos 1 y 2 [de arriba](#upload-image-or-file).
 
-1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Importar imagen o archivo]**.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Seleccione el **[!UICONTROL Box]** y haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione la opción **[!UICONTROL Box]** y haga clic en **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -89,7 +90,7 @@ Texto
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. Seleccione el Marketo Engage en el que desea guardar la imagen. En este ejemplo lo dejaremos como Imágenes y archivos (predeterminado). Clic **Importar**.
+1. Seleccione el Marketo Engage en el que desea guardar la imagen. En este ejemplo lo dejaremos como Imágenes y archivos (predeterminado). Haga clic en **Importar**.
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -97,13 +98,13 @@ Texto
 
 Texto
 
-1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+1. Siga los pasos 1 y 2 [de arriba](#upload-image-or-file).
 
-1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Importar imagen o archivo]**.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Seleccione el **[!UICONTROL Adobe Experience Manager]** y haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione la opción **[!UICONTROL Adobe Experience Manager]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

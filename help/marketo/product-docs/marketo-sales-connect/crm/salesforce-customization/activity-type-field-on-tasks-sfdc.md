@@ -6,8 +6,8 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 1%
+source-wordcount: '264'
+ht-degree: 0%
 
 ---
 
@@ -34,11 +34,11 @@ En primer lugar, compruebe que dispone de los valores correctos de la lista de s
 1. Haga clic en Personalizar.
 1. Haga clic en Actividades.
 1. Haga clic en Campos de tarea.
-1. Tipo de clic.
+1. Haga clic en Tipo.
 1. Ahora se encuentra en la Lista de selección de tipo de tarea. Asegúrese de que no haya seleccionado &quot;Predeterminado&quot;.
 1. Asegúrese de que haya un valor Tipo en la lista para Correo electrónico, Llamada y Respuesta.
 
-Ahora que esto ya está hecho, empezará a ver que el campo Tipo rellena el valor correspondiente para los correos electrónicos, las llamadas y las respuestas registrados. Estos valores: _no_ se rellenarán en las tareas de recordatorio de Conexión de ventas.
+Ahora que esto ya está hecho, empezará a ver que el campo Tipo rellena el valor correspondiente para los correos electrónicos, las llamadas y las respuestas registrados. Estos valores _no_ se rellenarán en las tareas de recordatorio de Sales Connect.
 
 >[!NOTE]
 >

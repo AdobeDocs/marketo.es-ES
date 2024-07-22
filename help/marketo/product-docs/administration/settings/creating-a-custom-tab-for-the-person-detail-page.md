@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Si busca un conjunto específico de campos en los detalles de la persona una y otra vez, plantéese crear un diseño personalizado para facilitar las cosas.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Haga clic en **[!UICONTROL Diseñador de diseños personalizados]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Designer de diseño personalizado]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 

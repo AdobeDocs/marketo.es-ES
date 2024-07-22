@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Los resultados muestran todas sus cuentas conocidas desglosadas por grado. A es 
 
 ![](assets/results.png)
 
-Aunque es opcional, le recomendamos que seleccione la casilla Promocionar automáticamente, ya que le ahorrará mucho tiempo. Sin embargo, si desea pasar por cada cuenta y [añadirlos manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
+Aunque es opcional, le recomendamos que seleccione la casilla Promocionar automáticamente, ya que le ahorrará mucho tiempo. Sin embargo, si desea revisar cada cuenta y [agregarlas manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
 
 <table> 
  <tbody> 
@@ -33,7 +33,7 @@ Aunque es opcional, le recomendamos que seleccione la casilla Promocionar autom�
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Tendencia</strong></td> 
+   <td><strong>Propensión</strong></td> 
    <td> 
     <div>
       Aumento estimado de la tasa de conversión en comparación con una selección de cuentas no basada en ICP. 
@@ -158,13 +158,13 @@ Haga clic en la lista desplegable Agregar indicador ICP para insertar indicadore
 
 ![](assets/add-icp.png)
 
-Marcar la casilla Exportar permite ver el indicador ICP en la página Detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Marcar la casilla Exportar le permite ver el indicador ICP en la página Detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Los indicadores ICP se incluyen como restricciones en **Miembro de cuenta designada** Filtros y Déclencheur.
+>Los indicadores ICP se incluyen como restricciones en **Miembros de filtros y Déclencheur de la cuenta con nombre**.
 
 El peso del indicador es lo que controla el nivel de importancia que cada indicador recibe en el modelo.
 
@@ -174,6 +174,6 @@ Haga clic en Actualizar modelo para que los cambios surtan efecto.
 
 ![](assets/refresh-button.png)
 
-Cuando haya terminado de ajustar el modelo (después de actualizarlo), vuelva a la pestaña Resultados del modelo y haga clic en **Guardar y aplicar rangos**.
+Cuando haya terminado de ajustar el modelo (después de actualizarlo), vuelva a la ficha Resultados del modelo y haga clic en **Guardar y aplicar clasificaciones**.
 
 ![](assets/ranks.png)

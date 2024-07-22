@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Clonar un recurso en un programa {#clone-an-asset-in-a-program}
 
-Clonación de clones de un programa _todo_. A veces, solo desea clonar un recurso. Así es como.
+Clonando un programa clona _todo_. A veces, solo desea clonar un recurso. Así es como.
 
 >[!NOTE]
 >
->Deberá realizar pasos adicionales para lo siguiente [clonar un grupo de prueba de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
+>Tendrá que realizar pasos adicionales para [clonar un grupo de prueba de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
 
 ## Clonar un recurso local {#clone-a-local-asset}
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Clonación de clones de un programa _todo_. A veces, solo desea clonar un recurs
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Haga clic con el botón derecho en el recurso local que desee clonar. Clic **[!UICONTROL Clonar]**.
+1. Haga clic con el botón derecho en el recurso local que desee clonar. Haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
@@ -39,9 +39,9 @@ Clonación de clones de un programa _todo_. A veces, solo desea clonar un recurs
 
    >[!TIP]
    >
-   >También puede clonar un recurso en un programa diferente. Utilice el **[!UICONTROL Programa]** para realizar la selección.
+   >También puede clonar un recurso en un programa diferente. Utilice la lista desplegable **[!UICONTROL Programa]** para realizar su selección.
 
-1. Excelente! Ahora debería ver el nuevo recurso clonado.
+1. ¡Excelente! Ahora debería ver el nuevo recurso clonado.
 
    ![](assets/report.jpg)
 

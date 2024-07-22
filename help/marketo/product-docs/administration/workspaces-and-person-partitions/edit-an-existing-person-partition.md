@@ -17,25 +17,25 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!PREREQUISITES]
 >
 >[Crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Clic **[!UICONTROL Espacios de trabajo y particiones]**.
+1. Haga clic en **[!UICONTROL Espacios de trabajo y particiones]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. En el **[!UICONTROL Particiones de persona]** pestaña, seleccione la partición de persona que desee editar y haga clic en **[!UICONTROL Editar partición de persona]**.
+1. En la ficha **[!UICONTROL Particiones de persona]**, seleccione la partición de persona que desee editar y haga clic en **[!UICONTROL Editar partición de persona]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Introduzca la partición de persona **[!UICONTROL Nombre]**, el **[!UICONTROL Workspaces]** pertenecen a y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba la partición de persona **[!UICONTROL Name]**, los **[!UICONTROL espacios de trabajo]** a los que pertenecen y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

@@ -47,7 +47,7 @@ Además del calendario de marketing con el que administra los eventos y los prog
 
 ## Operaciones de lista en la API de ReST {#list-operations-in-the-rest-api}
 
-Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obtener la documentación completa.
+Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obtener toda la documentación.
 
 * Obtener lista por identificador
 * Obtener varias listas
@@ -56,7 +56,7 @@ Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista
 
 ## Importación rápida de listas {#fast-list-import}
 
-Cambio **50 veces más rápido**, sus archivos se ampliarán a Marketo. Las antiguas opciones de importación &quot;Normal&quot; y &quot;Optimizado para nuevos posibles clientes&quot; se han sustituido por &quot;Predeterminado (importación rápida)&quot;.
+Más de **50 veces más rápido**, sus archivos se acercarán a Marketo. Las antiguas opciones de importación &quot;Normal&quot; y &quot;Optimizado para nuevos posibles clientes&quot; se han sustituido por &quot;Predeterminado (importación rápida)&quot;.
 
 La opción &quot;Omitir nuevos posibles clientes y actualizaciones&quot; permanece sin cambios.
 
@@ -68,7 +68,7 @@ El despliegue se llevará a cabo a partir de mediados de julio y continuará dur
 * Más compatible con otros JavaScript del sitio
 * ¡Probado completamente en muchos sitios durante el año pasado!
 
-## RTP: Plantillas de campañas de personalización en tiempo real {#rtp-real-time-personalization-campaign-templates}
+## RTP: Plantillas de campaña de Personalization en tiempo real {#rtp-real-time-personalization-campaign-templates}
 
 La página RTP Set Campaign ahora [incluye plantillas listas para usar](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Elija entre una variedad de estilos, incluidos seminarios web, casos prácticos y libros electrónicos.
 
@@ -78,7 +78,7 @@ La página RTP Set Campaign ahora [incluye plantillas listas para usar](/help/ma
 
 ## RTP: Mejoras en la API de JavaScript {#rtp-javascript-api-enhancements}
 
-Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestra [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener la documentación completa.
+Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestro [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener documentación completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

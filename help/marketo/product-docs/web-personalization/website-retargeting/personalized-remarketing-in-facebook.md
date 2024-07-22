@@ -6,7 +6,7 @@ exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '291'
 ht-degree: 3%
 
 ---
@@ -17,22 +17,22 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 
 >[!PREREQUISITES]
 >
->* Complete la [Redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configurar
->* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Documentación de facebook sobre audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) y remarketing.
+>* Complete la configuración [Redireccionamiento con datos de Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) y remarketing.
 
 ## Creación de una audiencia en Facebook {#creating-an-audience-in-facebook}
 
-1. En Facebook, vaya a [Pestaña Audiencia](https://www.facebook.com/ads/audience_manager) en el Administrador de anuncios.
+1. En Facebook, ve a tu [pestaña Audiencia](https://www.facebook.com/ads/audience_manager) en el Administrador de anuncios.
 
-1. Clic **Herramientas** y seleccione **Audiencias**.
+1. Haga clic en **Herramientas** y seleccione **Audiencias**.
 
    ![](assets/one-1.png)
 
-1. Clic **Crear una audiencia personalizada**.
+1. Haga clic en **Crear una audiencia personalizada**.
 
    ![](assets/two-1.png)
 
-1. Seleccionar **Tráfico del sitio web**.
+1. Seleccione **Tráfico del sitio web**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -44,11 +44,11 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. En la lista Evento, seleccione **Remarketing de RTP** y seleccione un parámetro.
+1. En la lista Evento, seleccione **RTP Remarketing** y elija un parámetro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Para este ejemplo, seleccione Industry to contain **Educación**. Entrar **Educación** y editar **En los últimos** para ser 180 días. Introduzca el nombre de la audiencia: **Industria educativa**. Clic **Crear audiencia**.
+1. Para este ejemplo, seleccione Industria para contener **Educación**. Ingresa a **Educación** y edita **En los últimos** 180 días. Escriba el nombre de la audiencia: **Sector educativo**. Haga clic en **Crear audiencia**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -88,7 +88,7 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
        </tr> 
        <tr> 
         <td>Industria</td> 
-        <td><p>Defensa</p><p>Educación</p><p>Servicios financieros</p><p>Gobierno</p><p>Sanidad, Farmacia, Biotecnología</p><p>Software e Internet</p><p>etc... (según las opciones del sector RTP)</p></td> 
+        <td><p>Defensa</p><p>Education</p><p>Servicios financieros</p><p>Government</p><p>Sanidad, Farmacia, Biotecnología</p><p>Software e Internet</p><p>etc... (según las opciones del sector RTP)</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">Audiencia segmentada</td> 
@@ -103,13 +103,13 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 
 ## Dirija su audiencia a un anuncio {#target-your-audience-with-an-ad}
 
-Para obtener más información, consulte [Documentación de facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Para obtener más información, consulte [Documentación de Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
 1. Vaya al Administrador de anuncios y haga clic en **Crear anuncio**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Seleccionar **Enviar personas a su sitio web** como objetivo de la campaña.
+1. Seleccione **Enviar personas a su sitio web** como objetivo de su campaña.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -129,5 +129,5 @@ Para obtener más información, consulte [Documentación de facebook](https://de
 
 >[!MORELIKETHIS]
 >
->* [Redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Redireccionamiento con datos de Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Remarketing personalizado en Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

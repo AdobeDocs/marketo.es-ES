@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## Crear una categoría {#create-a-category}
 
-1. Haga clic en **Plantillas** pestaña.
+1. Haga clic en la ficha **Plantillas**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Haga clic en **+** junto a **Categorías**.
+1. Haga clic en el icono **+** junto a **Categorías**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## Cambiar nombre de categoría de plantilla {#rename-a-template-category}
 
-1. Haga clic en **Plantillas** pestaña.
+1. Haga clic en la ficha **Plantillas**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccionar **Cambiar nombre**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **Cambiar nombre**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Eliminar una categoría de plantilla {#delete-a-template-category}
 
-1. Haga clic en **Plantillas** pestaña.
+1. Haga clic en la ficha **Plantillas**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccionar **Eliminar**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **Eliminar**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/manage-template-categories-9.png)
 

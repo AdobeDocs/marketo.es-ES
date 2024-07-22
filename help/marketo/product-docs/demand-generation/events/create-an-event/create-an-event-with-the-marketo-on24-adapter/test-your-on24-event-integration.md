@@ -18,20 +18,20 @@ Asegúrese de probar exhaustivamente la integración de eventos.
 ## Secuencia De Prueba Recomendada Antes De Ejecutar La Primera Campaña {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. Rellene el formulario de registro del evento y utilice una dirección de correo electrónico válida para realizar la prueba.
-1. Confirme que el nombre de la prueba se muestra con un **Registrados** en la cuadrícula Pertenencia del evento de Marketo.
-1. Confirmar que el nombre de la prueba también se muestra como **Registrados** en ON24.
+1. Confirme que el nombre de la prueba se muestra con un estado **Registrado** en la cuadrícula Pertenencia de su evento de Marketo.
+1. Confirme que el nombre de la prueba también se muestra como **Registrado** en ON24.
 1. Confirme que la dirección de correo electrónico válida que utilizó para registrar el nombre de la prueba recibió un correo electrónico de confirmación al evento y que la dirección URL única se resuelve en el correo electrónico.
 
    >[!NOTE]
    >
-   >Debe utilizar el `{{member.webinar url}}` token en el correo electrónico de confirmación para que la URL única se muestre en el correo electrónico de cada solicitante de registro.
+   >Debe utilizar el token `{{member.webinar url}}` en el correo electrónico de confirmación para que se muestre la dirección URL única en el correo electrónico de cada solicitante de registro.
 
 ## Después del evento {#after-the-event}
 
 Así se actualizan los datos después de que tenga lugar el evento:
 
 * Marketo recupera los datos de los asistentes de ON24 todas las noches.
-* Una vez que los datos de los asistentes se sincronizan entre Marketo y ON24, Marketo actualiza el estado de pertenencia a Asistencia, Asistencia bajo demanda o Sin presentación. En el evento de **Resumen** pestaña, el estado del evento se actualiza a **Evento completado**.
+* Una vez que los datos de los asistentes se sincronizan entre Marketo y ON24, Marketo actualiza el estado de pertenencia a Asistencia, Asistencia bajo demanda o Sin presentación. En la ficha **Resumen** del evento, el estado del evento se actualiza a **Evento completado**.
 
 >[!MORELIKETHIS]
 >

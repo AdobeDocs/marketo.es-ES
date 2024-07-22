@@ -17,51 +17,51 @@ Una etapa de puerta sirve como una comprobación de calificación.
 
 >[!TIP]
 >
->Es una idea buena crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
+>Es una buena idea crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
 
 ## Agregar Una Fase De Puerta {#add-a-gate-stage}
 
-1. Vaya a la **Analytics** área.
+1. Vaya al área de **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Seleccione un modelo existente o [crear uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Seleccione un modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Clic **Editar borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Haga clic en **Puerta** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
+1. Haga clic en el botón **Puerta** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edite el **Nombre** y seleccione una **Tipo**.
+1. Edite **Name** y seleccione un **Type**.
 
    >[!NOTE]
    >
-   >Seleccionar [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener información sobre el rendimiento de sus cuentas a medida que progresan en el modelo.
+   >Seleccione [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener información sobre el rendimiento de sus cuentas a medida que avanzan en su modelo.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->La fase de puerta divide los posibles clientes en función de los criterios introducidos en las reglas de transición; **no contiene posibles clientes**. Se requiere una transición predeterminada para que los posibles clientes que no son elegidos por las otras transiciones terminen pasando por la transición predeterminada.
+>La fase de puerta divide los posibles clientes en función de los criterios especificados en las reglas de transición; **no contiene posibles clientes**. Se requiere una transición predeterminada para que los posibles clientes que no son elegidos por las otras transiciones terminen pasando por la transición predeterminada.
 
 ## Editar una fase de puerta {#edit-a-gate-stage}
 
 Edite el Nombre, la Descripción y ajuste el Tipo de fase de la Puerta. También puede optar por [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Haga clic en **Puerta** icono del escenario.
+1. Haga clic en el icono de escenario **Puerta**.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Haga clic dentro de **Nombre** y **Descripción** para editar su contenido.
+1. Haga clic dentro de los campos **Nombre** y **Descripción** para editar su contenido.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Seleccione el **Tipo** desplegable para editar.
+1. Seleccione la lista desplegable **Tipo** para editarla.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
@@ -71,11 +71,11 @@ Edite el Nombre, la Descripción y ajuste el Tipo de fase de la Puerta. También
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. También puede eliminar una fase de Puerta haciendo clic en ella y, a continuación, en **Acciones de fase** lista desplegable, seleccionar **Eliminar**.
+1. También puede eliminar una fase de Puerta si hace clic en ella y, a continuación, en la lista desplegable **Acciones de fase**, selecciona **Eliminar**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Ambos métodos de eliminación le piden que confirme su elección. Clic **Eliminar**.
+1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **Eliminar**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
@@ -83,6 +83,6 @@ Edite el Nombre, la Descripción y ajuste el Tipo de fase de la Puerta. También
 
 >[!MORELIKETHIS]
 >
->* [Uso de Etapas de Inventario del Modelo de Ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [Uso de etapas SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Uso de etapas de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Uso de etapas de SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >* [Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

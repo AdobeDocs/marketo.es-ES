@@ -20,17 +20,17 @@ Al crear objetos personalizados, debe proporcionar campos de vínculo para conec
 
 >[!IMPORTANT]
 >
->El Marketo Engage solo admite un objeto edge único para cada objeto bridge en la relación Varios a varios. En el ejemplo que se muestra a continuación, cada inscripción solo puede vincularse a un único curso. Sin embargo, puede haber muchos objetos puente para cada objeto edge, al igual que hay muchas inscripciones de alumnos en cada curso (relación Varios a uno). Si los datos de los objetos personalizados están estructurados de forma que haya más de un registro de objeto Edge para cada registro de objeto Bridge (Uno a varios o Varios a varios), puede crear varios registros de objeto Bridge, cada uno de los cuales hace referencia a un único registro de objeto Edge para representar esos datos en Marketo.
+>El Marketo Engage solo admite un objeto edge único para cada objeto bridge en la relación Varios a varios. En el ejemplo que se muestra a continuación, cada inscripción solo puede vincularse a un único curso. Sin embargo, puede haber muchos objetos puente para cada objeto edge, al igual que hay muchas inscripciones de alumnos en cada curso (relación Varios a uno). Si los datos de objeto personalizados están estructurados de modo que haya más de un registro de objeto de Edge para cada registro de objeto de Bridge (uno a varios o varios a varios), puede crear varios registros de objeto de Bridge, cada uno de los cuales hace referencia a un único registro de objeto de Edge para representar esos datos en Marketo.
 
 ## Creación de un campo de vínculo para una estructura &quot;uno a varios&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
 A continuación, se muestra cómo crear un campo de vínculo en un objeto personalizado para una estructura &quot;uno a varios&quot;.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Clic **[!UICONTROL Objetos personalizados de Marketo]**.
+1. Haga clic en **[!UICONTROL Objetos personalizados de Marketo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -38,29 +38,29 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. En el **[!UICONTROL Campos]** pestaña, haga clic en **[!UICONTROL Nuevo campo]**.
+1. En la ficha **[!UICONTROL Campos]**, haga clic en **[!UICONTROL Nuevo campo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Asigne un nombre al campo de vínculo y añada un opcional [!UICONTROL Descripción]. Asegúrese de seleccionar la [!UICONTROL Vínculo] tipo de datos.
+1. Asigne un nombre al campo de vínculo y agregue una [!UICONTROL descripción] opcional. Asegúrese de seleccionar el tipo de datos [!UICONTROL Link].
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >No podrá volver atrás y crear, editar ni eliminar una [!UICONTROL Vínculo] o [!UICONTROL Campo de desduplicación] una vez aprobado el objeto personalizado.
+   >Una vez que se apruebe el objeto personalizado, no podrás volver atrás y crear, editar ni eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
 
-1. Seleccione si la variable [!UICONTROL Objeto de vínculo] es para un [!UICONTROL dirigir] (persona) o un [!UICONTROL compañía].
+1. Seleccione si el [!UICONTROL objeto de vínculo] es para un [!UICONTROL posible cliente] (persona) o una [!UICONTROL empresa].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Si elige [!UICONTROL dirigir], verá el ID, la dirección de correo electrónico y cualquier campo personalizado en la lista.
+   >Si eliges [!UICONTROL posible cliente], verás el identificador, la dirección de correo electrónico y cualquier campo personalizado en la lista.
    >
-   >Si elige [!UICONTROL compañía], verá el ID y cualquier campo personalizado en la lista.
+   >Si elige [!UICONTROL empresa], verá el identificador y cualquier campo personalizado en la lista.
 
-1. Seleccione el [!UICONTROL Campo de vínculo] desea conectarse a como elemento principal del nuevo campo.
+1. Seleccione el [!UICONTROL campo de vínculo] al que desee conectarse como elemento principal del nuevo campo.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -68,7 +68,7 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
    >
    >En el campo de vínculo solo se admiten tipos de campos de cadena.
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -80,11 +80,11 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto interm
 >
 >Ya debe haber creado el objeto intermedio y los objetos personalizados con los que desea vincularlo.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Clic **[!UICONTROL Objetos personalizados de Marketo]**.
+1. Haga clic en **[!UICONTROL Objetos personalizados de Marketo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -92,23 +92,23 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto interm
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. En el **[!UICONTROL Campos]** pestaña, haga clic en **[!UICONTROL Nuevo campo]**.
+1. En la ficha **[!UICONTROL Campos]**, haga clic en **[!UICONTROL Nuevo campo]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Debe crear dos campos de vínculo. Créelos de uno en uno. En primer lugar, asigne un nombre al campo de los miembros de la lista de la base de datos (por ejemplo, leadID). Añada un opcional [!UICONTROL Descripción]. Asegúrese de seleccionar la [!UICONTROL vincular] [!UICONTROL Tipo de datos].
+1. Debe crear dos campos de vínculo. Créelos de uno en uno. En primer lugar, asigne un nombre al campo de los miembros de la lista de la base de datos (por ejemplo, leadID). Agregue una [!UICONTROL descripción] opcional. Asegúrese de seleccionar el [!UICONTROL vínculo] [!UICONTROL tipo de datos].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >No podrá volver atrás y crear, editar ni eliminar una [!UICONTROL Vínculo] o [!UICONTROL Campo de desduplicación] una vez aprobado el objeto personalizado.
+   >Una vez que se apruebe el objeto personalizado, no podrás volver atrás y crear, editar ni eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
 
-1. Seleccione el [!UICONTROL Objeto de vínculo] de la base de datos; en este caso, [!UICONTROL Posible cliente].
+1. Seleccione [!UICONTROL Link Object] de la base de datos; en este caso, [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Seleccione el [!UICONTROL Campo de vínculo] desea conectarse a, en este caso, [!UICONTROL Id].
+1. Seleccione el [!UICONTROL campo de vínculo] al que desee conectarse, en este caso, [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
@@ -116,11 +116,11 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto interm
    >
    >Solo se admiten tipos de campos de cadena en [!UICONTROL Campo de vínculo].
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Repita este proceso para el segundo vínculo a su objeto personalizado, en este ejemplo, courseID. El [!UICONTROL Objeto de vínculo] nombre será el curso y la variable [!UICONTROL Campo de vínculo] será courseID. Dado que ya ha creado y aprobado el objeto personalizado del curso, estas selecciones están disponibles en los menús desplegables.
+1. Repita este proceso para el segundo vínculo a su objeto personalizado, en este ejemplo, courseID. El nombre de [!UICONTROL objeto de vínculo] será courseID y el [!UICONTROL campo de vínculo] será courseID. Dado que ya ha creado y aprobado el objeto personalizado del curso, estas selecciones están disponibles en los menús desplegables.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -33,7 +33,7 @@ El informe comparte:
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Puntuación de cuenta</strong></td> 
+   <td><strong>Calificación de la cuenta</strong></td> 
    <td> 
     <div>
       Tendencia semanal por puntuación de cuenta (seleccionada en la configuración), seguida de puntuación de cuenta actual 

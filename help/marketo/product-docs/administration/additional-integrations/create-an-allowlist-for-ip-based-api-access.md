@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,21 +17,21 @@ A veces, desea conceder acceso a la API solo a una dirección IP específica o a
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Clic **[!UICONTROL Servicios web]**.
+1. Haga clic en **[!UICONTROL Servicios web]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. En el **[!UICONTROL Restricciones de IP]** , haga clic en **[!UICONTROL Editar],** o haga clic en **[!UICONTROL Editar restricciones de IP]** en la parte superior izquierda.
+1. En el área **[!UICONTROL Restricciones de IP]**, haga clic en **[!UICONTROL Editar],** o en **[!UICONTROL Editar restricciones de IP]** en la esquina superior izquierda.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Compruebe la **[!UICONTROL Habilitar restricciones de IP]** y escriba las direcciones IP que desea Lista de permitidos.
+1. Marque la casilla **[!UICONTROL Habilitar restricciones de IP]** e introduzca las direcciones IP que desea Lista de permitidos.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -39,10 +39,10 @@ A veces, desea conceder acceso a la API solo a una dirección IP específica o a
    >
    >Puede introducir una sola dirección IP o un intervalo de ellas, o utilizar un comodín.
 
-1. Clic **[!UICONTROL Añadir]** para abrir campos adicionales e introducir más direcciones IP.
+1. Haga clic en **[!UICONTROL Agregar]** para abrir campos adicionales e introducir más direcciones IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

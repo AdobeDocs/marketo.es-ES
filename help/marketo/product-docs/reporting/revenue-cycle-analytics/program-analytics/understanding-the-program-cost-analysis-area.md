@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
@@ -43,13 +43,13 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 | Medida | Descripción |
 |---|---|
-| Coste por miembro | Coste medio por miembro del programa |
-| Costo por nuevo nombre | Coste medio por posible cliente adquirido por el programa |
-| Coste por éxito | Coste medio por posible cliente que logró el éxito en la progresión de un programa |
-| Coste por éxito (nuevos nombres) | Coste medio por posible cliente adquirido por el programa Y logrado el éxito en la progresión del programa |
-| Costo de programa | Coste total del período del programa |
+| Costo por miembro | Coste medio por miembro del programa |
+| Costo por nombre nuevo | Coste medio por posible cliente adquirido por el programa |
+| Costo por éxito | Coste medio por posible cliente que logró el éxito en la progresión de un programa |
+| Costo por éxito (nombres nuevos) | Coste medio por posible cliente adquirido por el programa Y logrado el éxito en la progresión del programa |
+| Costo del programa | Coste total del período del programa |
 
-## Suscripción {#membership}
+## Membresía {#membership}
 
 <table> 
  <tbody> 
@@ -76,7 +76,7 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 | Dimensión | Descripción |
 |---|---|
-| Programa Canal | Canal de programa |
+| Canal del programa | Canal del programa |
 | Nombre del programa | Nombre del programa |
 
 ## Intervalo de tiempo de costo de programa {#program-cost-timeframe}
@@ -100,7 +100,7 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 | Medida | Descripción |
 |---|---|
-| % de éxito (nuevos nombres) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y alcanzaron el éxito en la progresión del programa |
+| % de éxito (nombres nuevos) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y alcanzaron el éxito en la progresión del programa |
 | % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
-| Correcto (nuevos nombres) | Número total de nombres nuevos que alcanzaron el éxito en la progresión de un programa |
+| Éxito (nombres nuevos) | Número total de nombres nuevos que alcanzaron el éxito en la progresión de un programa |
 | Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |

@@ -6,8 +6,8 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 0%
+source-wordcount: '310'
+ht-degree: 2%
 
 ---
 
@@ -17,24 +17,24 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
 >[!PREREQUISITES]
 >
->* Usted debe [Configurar anuncios de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Debe tener un modelo aprobado en [Modelador del ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* Debe [configurar Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Debe tener un modelo aprobado en [Modeler del ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## Configuración de administración {#admin-configuration}
 
-1. Ir a Marketo **Administrador**.
+1. Vaya a Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Ir a **LaunchPoint** y haga doble clic en el servicio Facebook Lead Ads que creó anteriormente.
+1. Vaya a **LaunchPoint** y haga doble clic en el servicio de Facebook Lead Ads que creó anteriormente.
 
    >[!NOTE]
    >
-   >Si no lo has hecho, adelante y... [Configurar anuncios de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)Entonces, vuelve aquí.
+   >Si aún no lo has hecho, continúa y [configura anuncios para clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), y vuelve aquí.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Si lo desea, edite el **Nombre para mostrar** para incluir las conversiones sin conexión. Clic **Siguiente**.
+1. Si lo desea, edite el **Nombre para mostrar** para incluir las conversiones sin conexión. Haga clic en **Siguiente**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
@@ -42,19 +42,19 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   ¡Dulce! Ya ha completado la mitad de la operación para habilitar las conversiones sin conexión de Facebook. Vamos a saltar al Modelador del ciclo de ingresos para asignar las etapas.
+   ¡Dulce! Ya ha completado la mitad de la operación para habilitar las conversiones sin conexión de Facebook. Vamos a saltar a la Modeler del ciclo de ingresos para asignar las fases.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuración del Modelador del ciclo de ingresos {#revenue-cycle-modeler-configuration}
+## Configuración de Modeler del ciclo de ingresos {#revenue-cycle-modeler-configuration}
 
 1. Ir a **Analytics**.
 
@@ -77,9 +77,9 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
    >* Otro
    >* Comprar
    >* Búsquedas
-   >* Vistas de contenido
+   >* Vistas del contenido
 
-1. Seleccione el escenario que desee asignar y, a continuación, en el **Conversión de facebook** , seleccione el Evento de Facebook al que desee asignarlo. Repita este paso para asignar todas las fases del RCM a fases de conversión sin conexión en Facebook.
+1. Seleccione el escenario que desee asignar y, a continuación, en el menú desplegable **Conversión de Facebook**, seleccione el evento de Facebook al que desee asignarlo. Repita este paso para asignar todas las fases del RCM a fases de conversión sin conexión en Facebook.
 
    ![](assets/1-1.png)
 
@@ -95,7 +95,7 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    >[!CAUTION]
    >
-   >Compruebe su cuenta de Facebook y asegúrese de que todas las [los anuncios están asociados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al conjunto de eventos de conversiones sin conexión de Marketo. Si no es así, es posible que la atribución de publicidad no funcione.
+   >Compruebe su cuenta de Facebook y asegúrese de que todos los [anuncios están asociados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al conjunto de eventos de conversiones sin conexión de Marketo. Si no es así, es posible que la atribución de publicidad no funcione.
 
    >[!NOTE]
    >
@@ -103,4 +103,4 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
 >[!MORELIKETHIS]
 >
->[Explicación de las conversiones sin conexión Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[Explicación de las conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

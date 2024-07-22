@@ -24,13 +24,13 @@ Añadir usuarios o administradores es rápido y sencillo.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Haga clic en **Acciones** y seleccione **Invitar a usuarios**.
+1. Haga clic en el botón **Acciones** y seleccione **Invitar usuarios**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >También puede seleccionar **Invitar usuarios a través de CSV** si todos aparecen en una hoja de cálculo.
+   >También puede seleccionar **Invitar usuarios a través del CSV** si los tiene todos en una hoja de cálculo.
 
 1. Introduzca las direcciones de correo electrónico de las personas que desea agregar.
 
@@ -42,13 +42,13 @@ Añadir usuarios o administradores es rápido y sencillo.
 
    >[!NOTE]
    >
-   >[Más información sobre los Equipos](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[Más información sobre los equipos](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. Seleccione el espacio de trabajo de Marketo al que desee agregar los nuevos usuarios. Si solo tiene un espacio de trabajo, verá &quot;Predeterminado&quot; como opción. Clic **Invitar**.
+1. Seleccione el espacio de trabajo de Marketo al que desee agregar los nuevos usuarios. Si solo tiene un espacio de trabajo, verá &quot;Predeterminado&quot; como opción. Haga clic en **Invitar**.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -56,7 +56,7 @@ Añadir usuarios o administradores es rápido y sencillo.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Siga estos pasos para convertir un usuario existente en administrador.
 
@@ -68,7 +68,7 @@ Siga estos pasos para convertir un usuario existente en administrador.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Busque el usuario que desea convertir en administrador, haga clic en la lista desplegable Función y seleccione **Administrador**.
+1. Busque el usuario que quiere convertir en administrador, haga clic en la lista desplegable Función y seleccione **Administrador**.
 
    ![](assets/invite-users-and-admins-10.png)
 

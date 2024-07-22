@@ -17,11 +17,11 @@ Puede mantener todas las palabras clave bien organizadas mediante listas. Esto h
 
 ## Añadir a una lista {#add-to-a-list}
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Pase el ratón sobre la palabra clave que quiera añadir a una lista. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la palabra clave que quiera añadir a una lista. Haga clic en **[!UICONTROL Agregar o quitar de la lista]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,7 +31,7 @@ Puede mantener todas las palabras clave bien organizadas mediante listas. Esto h
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para las palabras clave. Solo escribe el nombre **[!UICONTROL Crear una lista nueva]**.
+   >También puede crear una nueva lista para las palabras clave. Escriba el nombre en **[!UICONTROL Crear una nueva lista]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,11 +41,11 @@ Puede mantener todas las palabras clave bien organizadas mediante listas. Esto h
 
 También puede quitar palabras clave de una lista.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Pase el ratón sobre la palabra clave que quiera eliminar de una lista. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre la palabra clave que quiera eliminar de una lista. Haga clic en **[!UICONTROL Agregar o quitar de la lista]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

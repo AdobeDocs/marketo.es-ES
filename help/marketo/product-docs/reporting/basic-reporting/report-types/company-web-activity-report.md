@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 1%
 
 Ver qué empresas visitan el sitio web. Puede elegir mostrar los visitantes conocidos o anónimos, pero no ambos en el mismo informe.
 
-Crear un [Informe Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) para ver a las personas individuales que visitan el sitio.
+Cree un [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) para ver a las personas que visitan el sitio.
 
 >[!PREREQUISITES]
 >
->Para capturar la actividad del sitio web en Marketo, primero debe establecer [Haga clic en Munchkin en su sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Creación de un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el Informe de actividad web de la empresa [tipo de informe](report-type-overview.md).
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo de informe de actividad web de la empresa [3}.](report-type-overview.md)
 
-1. Elija entre [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
+1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
 
-1. [Establezca el lapso de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en **Informe** pestaña.
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
 
 1. ¡Eso es todo! Revise el informe para ver qué empresas visitan el sitio.
 
@@ -33,9 +33,9 @@ Crear un [Informe Actividad de la página web](/help/marketo/product-docs/report
 
    >[!TIP]
    >
-   >Para encontrar las empresas que más visitan su sitio, [ordenar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en el _Vistas de página_ y elija **Orden descendente**.
+   >Para encontrar las empresas que más visitan el sitio, [ordena tu informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en la columna _Vistas de la página_ y elige **Orden descendente**.
 
-   [Columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Para un informe Actividad web de la empresa, incluya:
+   [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de actividad web de la compañía incluyen:
 
 <table> 
  <thead> 
@@ -47,11 +47,11 @@ Crear un [Informe Actividad de la página web](/help/marketo/product-docs/report
  <tbody> 
   <tr> 
    <td>Compañía</td> 
-   <td>La compañía de visitantes.<br> <strong>Nombres en negrita</strong> al menos una persona ha confirmado que es el nombre de la empresa.</td> 
+   <td>La compañía de visitantes.<br> <strong>Al menos una persona ha confirmado que los nombres en negrita</strong> son el nombre de la compañía.</td> 
   </tr> 
   <tr> 
-   <td>Compañía deducida o ISP</td> 
-   <td>La compañía, tal como se deduce de la dirección IP de los visitantes. <br> <strong>Nombres en negrita</strong> indican que se trata de la empresa, no del ISP. </td> 
+   <td>Compañía o ISP inferidos</td> 
+   <td>La compañía, tal como se deduce de la dirección IP de los visitantes. <br> <strong>Los nombres en negrita</strong> indican que se trata de la empresa, no del ISP. </td> 
   </tr> 
   <tr> 
    <td>Vistas de páginas</td> 

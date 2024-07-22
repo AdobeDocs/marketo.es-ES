@@ -16,37 +16,37 @@ Aprenda a añadir y eliminar usuarios, así como a ver sus licencias actuales.
 
 ## Añadir un usuario {#add-a-user}
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/user-and-license-management-1.png)
 
-1. Clic **Seminarios web interactivos**.
+1. Haga clic en **seminarios web interactivos**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Clic **Agregar o quitar usuarios**.
+1. Haga clic en **Agregar o quitar usuarios**.
 
    ![](assets/user-and-license-management-3.png)
 
-1. Haga clic en el menú desplegable Usuarios disponibles, seleccione los usuarios que desee agregar y haga clic en **OK**.
+1. Haga clic en el menú desplegable Usuarios disponibles, seleccione los usuarios que desee agregar y haga clic en **Aceptar**.
 
    ![](assets/user-and-license-management-4.png)
 
 ## Eliminar un usuario {#remove-a-user}
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/user-and-license-management-5.png)
 
-1. Clic **Seminarios web interactivos**.
+1. Haga clic en **seminarios web interactivos**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Clic **Agregar o quitar usuarios**.
+1. Haga clic en **Agregar o quitar usuarios**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Resalte los usuarios que desee eliminar y presione la tecla Supr del teclado. Clic **OK** cuando termine.
+1. Resalte los usuarios que desee eliminar y presione la tecla Supr del teclado. Haga clic en **Aceptar** cuando haya terminado.
 
    ![](assets/user-and-license-management-8.png)
 
@@ -54,11 +54,11 @@ Aprenda a añadir y eliminar usuarios, así como a ver sus licencias actuales.
 
 Los seminarios web interactivos ofrecen licencias específicas para crear eventos con tecnología de Adobe Connect. Cada vez que se añada una licencia, aparecerá un nuevo cuadro de uso de licencia. Los administradores de Marketo pueden ver (no editar) las licencias siguiendo los pasos a continuación. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener licencias adicionales.
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/user-and-license-management-9.png)
 
-1. Clic **Seminarios web interactivos**.
+1. Haga clic en **seminarios web interactivos**.
 
    ![](assets/user-and-license-management-10.png)
 
@@ -98,9 +98,9 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
   </tbody>
 </table>
 
-**Cosas que hay que tener en cuenta**
+**Aspectos a tener en cuenta**
 
-* El tipo &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo tanto el valor en cada campo _además_ La capacidad de almacenamiento se indicará simplemente como &quot;-&quot;.
+* El tipo &quot;Licencia de almacenamiento adicional&quot; simplemente proporciona almacenamiento, por lo tanto el valor en cada campo _además de la Capacidad de almacenamiento de_ se indicará simplemente como &quot;-&quot;.
 
 * El tipo &quot;Licencia de sala compartida&quot; tiene eventos ilimitados y &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo que el campo Eventos totales para estas licencias se enumerará simplemente como &quot;-&quot;.
 
@@ -114,7 +114,7 @@ Los seminarios web interactivos tienen la funcionalidad de regular el uso median
 
 Los usuarios de Marketo a los que se hayan concedido permisos para seminarios web interactivos y que sean propietarios de un programa de eventos de seminarios web interactivos concreto podrán realizar todas las funciones de seminarios web interactivos relacionadas con ese programa. Esto incluye: crear, acceder, modificar, clonar, mover y eliminar ese programa. Sin embargo, una vez que el usuario ya no es un usuario del seminario web interactivo, el propietario del programa podría acceder y mover el programa, pero no realizar ninguna otra función.
 
-Los usuarios de Marketo a los que se han concedido permisos para seminarios web interactivos y son _no_ Los propietarios de un programa de eventos de seminarios web interactivos en particular podrían desempeñar funciones limitadas en esos programas. Los usuarios no administradores de Marketo podrán acceder al programa y clonarlo, pero no podrán realizar otras funciones si tienen permisos para seminarios web interactivos. Sin embargo, los usuarios administradores de Marketo _testamento_ poder realizar todas las funciones, como acceder, modificar, clonar, mover y eliminar ese programa (siempre y cuando tengan permisos para seminarios web interactivos). Una vez revocado este permiso para los usuarios administradores de Marketo y los usuarios no administradores, solo podrían acceder al programa de eventos de seminario web interactivo y no podrían realizar otras funciones.
+Los usuarios de Marketo a los que se les hayan concedido permisos para seminarios web interactivos y que no sean propietarios de _ni de_ un programa de eventos de seminarios web interactivos en particular podrán realizar funciones limitadas en esos programas. Los usuarios no administradores de Marketo podrán acceder al programa y clonarlo, pero no podrán realizar otras funciones si tienen permisos para seminarios web interactivos. Sin embargo, los usuarios administradores de Marketo _podrán_ realizar todas las funciones, como acceder, modificar, clonar, mover y eliminar ese programa (siempre y cuando tengan permisos para seminarios web interactivos). Una vez revocado este permiso para los usuarios administradores de Marketo y los usuarios no administradores, solo podrían acceder al programa de eventos de seminario web interactivo y no podrían realizar otras funciones.
 
 La restricción de las funciones procesables se indicaría mediante un botón de acción atenuado y un mensaje de desplazamiento. Algunos ejemplos de los botones de acción atenuados son &quot;Diseña tu seminario web&quot; o &quot;Entra en tu seminario web&quot;. En el caso de las funciones no procesables, se enviaría un mensaje en el que se destacarían las restricciones. Consulte el ejemplo siguiente:
 

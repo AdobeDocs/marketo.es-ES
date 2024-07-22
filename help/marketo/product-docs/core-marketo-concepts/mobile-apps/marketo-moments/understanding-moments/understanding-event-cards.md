@@ -6,8 +6,8 @@ exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '152'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ Al pulsar cualquier tarjeta de programa de correo electrónico, puede:
 * [Marcar un evento como listo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Compartir una tarjeta de momento del evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Hay dos tarjetas de eventos. El [!UICONTROL En cubierta] La tarjeta de, enviada unas horas antes del evento, muestra cuántas personas se han registrado. El [!UICONTROL Resultados] La tarjeta de, enviada después de, muestra cuántos asistieron realmente.
+Hay dos tarjetas de eventos. La tarjeta [!UICONTROL On-Deck], enviada unas horas antes del evento, muestra cuántas personas se han registrado. La tarjeta [!UICONTROL Resultados], enviada posteriormente, muestra cuántos asistieron realmente.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprender los momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Explicación de los programas de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

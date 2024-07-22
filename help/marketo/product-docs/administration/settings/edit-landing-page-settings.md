@@ -17,17 +17,17 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Clic **[!UICONTROL Páginas de aterrizaje]**.
+1. Haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. En el **[!UICONTROL Páginas de aterrizaje]** , haga clic en **[!UICONTROL Editar]**.
+1. En la sección **[!UICONTROL Páginas de destino]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,21 +37,21 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
    | Término | Definición |
    |---|---|
-   | [!UICONTROL Nombre de dominio para páginas de aterrizaje] | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;go&quot; es el CNAME. Puede tener varios, pero la mayoría de las personas solo utilizan el uno. |
+   | [!UICONTROL Nombre de dominio para páginas de aterrizaje] | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;ir&quot; es el CNAME. Puede tener varios, pero la mayoría de las personas solo utilizan el uno. |
    | [!UICONTROL Página de reserva] | Aquí es donde debe ir si la página de aterrizaje no existe o está caída. Más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Página principal] | Introduzca la URL de su sitio corporativo. |
 
-1. Compruebe la **[!UICONTROL Relleno previo de formulario]** casilla de verificación para permitir que los formularios rellenen previamente información de personas conocidas (cookies). Desmarque para bloquear.
+1. Marque la casilla de verificación **[!UICONTROL Relleno previo de formulario]** para permitir que los formularios prerrellenen información de personas conocidas (cookies). Desmarque para bloquear.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Si desea el relleno previo `<script>` etiqueta para que aparezca al final del `<head>` en el código, marque la **[!UICONTROL Inyectar script de relleno previo al final del encabezado]** cuadro. Deje sin marcar si desea que aparezca al principio.
+   >Si desea que la etiqueta de relleno previo `<script>` aparezca al final de la etiqueta `<head>` en el código, marque la casilla **[!UICONTROL Insertar script de relleno previo al final del encabezado]**. Deje sin marcar si desea que aparezca al principio.
    >
-   >Marque **[!UICONTROL Eliminar vínculos de favoritos predeterminados]** para evitar que Marketo inserte vínculos de favicon en el código.
+   >Marque **[!UICONTROL Quitar vínculos de favicon predeterminados]** para evitar que Marketo inserte vínculos de favicon en el código.
 
-1. Después de realizar las selecciones, haga clic en **[!UICONTROL Guardar]**.
+1. Después de hacer las selecciones, haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-landing-page-settings-6.png)
 

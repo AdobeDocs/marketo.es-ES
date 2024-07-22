@@ -15,7 +15,7 @@ ht-degree: 7%
 
 **Versión**: El mes/año de cada versión. Una vez disponibles, las notas de la versión se vinculan en la siguiente tabla.
 
-**Fecha de lanzamiento**: El despliegue suele comenzar el martes de la semana de la versión, y la actualización se produce más el viernes por la noche. La fecha indicada es para la actualización del viernes.
+**Fecha de lanzamiento**: El despliegue suele comenzar el martes de la semana de lanzamiento, y gran parte de la actualización se produce el viernes por la noche. La fecha indicada es para la actualización del viernes.
 
 **Estado**:
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 * En curso: estamos en el proceso de desplegar las funciones de la versión
 * Enviado: la versión se ha completado
 
-_Las fechas/funciones del lanzamiento están sujetas a cambios_
+_Las fechas/características del lanzamiento están sujetas a cambios_
 
 <table>
  <tbody> 

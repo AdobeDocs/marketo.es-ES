@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si desea mantenerse organizado, puede cambiar el nombre de los flujos. Así es como se hace.
 
-1. Busque y seleccione su programa de participación y haga clic en **Flujos**.
+1. Busque y seleccione su programa de participación y luego haga clic en **Transmisiones**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Si desea mantenerse organizado, puede cambiar el nombre de los flujos. Así es c
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Introduzca el nuevo flujo **Nombre** y haga clic en **Guardar**.
+1. Escriba el nuevo flujo **Name** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

@@ -19,9 +19,9 @@ Así es como se intercambian los datos:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Cuando cree el evento de Marketo, seleccione **Seminario web** como el tipo de canal. Puede editar este canal en Administración, así como crear un nuevo canal. Si crea un canal nuevo, debe ser del tipo **Evento con seminario web** para que la integración funcione. Consulte [Crear un canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} para obtener más información.
+Cuando cree el evento de Marketo, seleccione **Seminario web** como tipo de canal. Puede editar este canal en Administración, así como crear un nuevo canal. Si crea un canal nuevo, debe ser del tipo **Evento con seminario web** para que funcione la integración. Consulte [Crear un canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} para obtener más información.
 
-El siguiente paso es [configure las opciones del evento y sincronice Marketo con el seminario web](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+El siguiente paso es [configurar los eventos y sincronizar Marketo con el seminario web](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

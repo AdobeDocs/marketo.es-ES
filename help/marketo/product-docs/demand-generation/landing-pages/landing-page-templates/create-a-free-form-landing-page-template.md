@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Las páginas de aterrizaje de forma libre requieren menos conocimientos técnicos que sus homólogas guiadas. Para crear una plantilla para futuras páginas de aterrizaje, siga los pasos a continuación.
 
-1. Ir a **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/one.png)
 
-1. Clic **Nuevo**, luego seleccione **Nueva plantilla de página de aterrizaje**.
+1. Haga clic en **Nueva** y, a continuación, seleccione **Nueva plantilla de página de aterrizaje**.
 
    ![](assets/two.png)
 
-1. Elija la carpeta y, a continuación, asigne un nombre a la plantilla. La forma libre es el modo de edición predeterminado, por lo que después de asignar un nombre a la plantilla, haga clic en **Crear**.
+1. Elija la carpeta y, a continuación, asigne un nombre a la plantilla. La forma libre es el modo de edición predeterminado, así que después de asignar un nombre a la plantilla, haga clic en **Crear**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
    >
    >El Soporte de Marketo no está configurado para ayudar a solucionar problemas con el HTML personalizado. Para obtener ayuda del HTML, consulte con un desarrollador web.
 
-1. Cuando haya terminado de realizar modificaciones, haga clic en **Acciones de plantilla**, luego seleccione **Aprobar y cerrar**.
+1. Cuando haya terminado de hacer cambios, haga clic en **Acciones de plantilla** y, a continuación, seleccione **Aprobar y cerrar**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    >[!NOTE]
    >
-   >Seleccionar **Desactivar el seguimiento de Munchkin** si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento web en una página específica.\
-   >Seleccionar **Validar compatibilidad con Mobile** para asegurarse de que su código sea compatible con dispositivos móviles.
+   >Seleccione **Deshabilitar el seguimiento de Munchkin** si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento web en una página específica.\
+   >Seleccione **Validar compatibilidad móvil** para asegurarse de que su código sea compatible con dispositivos móviles.
 
    >[!MORELIKETHIS]
    >
-   >* [Creación de una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Crear una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Crear una plantilla de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [Explicación de las páginas de aterrizaje improvisadas y guiadas](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [Explicación de las páginas de aterrizaje de forma libre y guiadas](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

@@ -20,13 +20,13 @@ La presencia local le da la opción de hacer que parezca que llama desde el mism
 
    ![](assets/local-presence-1.png)
 
-1. Seleccione el **Usar presencia local** casilla de verificación
+1. Seleccione la casilla de verificación **Usar presencia local**.
 
    ![](assets/local-presence-2.png)
 
 ## Preguntas frecuentes {#faq}
 
-**¿Puede mi contacto llamarme a este nuevo número?**
+**¿Puede mi contacto llamarme de vuelta a este nuevo número?**
 
 No, la presencia local solo funciona para llamadas salientes. La persona que llama no puede devolverle la llamada a este &quot;nuevo&quot; número.
 
@@ -34,7 +34,7 @@ No, la presencia local solo funciona para llamadas salientes. La persona que lla
 
 Ofrecemos toda la funcionalidad de teléfono de ventas solo para llamadas en los EE. UU.
 
-**¿El número de presencia local es siempre el mismo cuando se llama a un código de área?**
+**¿El número de presencia local es siempre el mismo cuando llamo a un código de área?**
 
 Es probable que el número siempre sea el mismo cuando llama a un código de área.
 

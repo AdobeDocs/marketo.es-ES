@@ -6,8 +6,8 @@ exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1254'
-ht-degree: 2%
+source-wordcount: '1265'
+ht-degree: 1%
 
 ---
 
@@ -30,10 +30,10 @@ Los elementos se declaran agregando un elemento DOM normal a la plantilla y deco
 
 ## Texto {#text}
 
-Si define una región como Texto enriquecido, los usuarios podrán editar su contenido [uso del Editor de texto enriquecido de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Si define una región como Texto enriquecido, los usuarios podrán editar su contenido [con el Editor de texto enriquecido de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Atributos necesarios:\
-**clase**: &quot;mktoText&quot;\
+**class**: &quot;mktoText&quot;\
 **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
@@ -46,9 +46,9 @@ Ejemplo:
 
 ## Imagen {#image}
 
-Tiene dos opciones para definir elementos de imagen editables. Puede usar una de las siguientes opciones `<div>`, que especifica un contenedor en el que se insertará la imagen, o un `<img>` etiqueta.
+Tiene dos opciones para definir elementos de imagen editables. Puede usar un `<div>`, que especifica el contenedor en el que se insertará la imagen, o una etiqueta `<img>`.
 
-## Opción 1: usar un `<div>` {#option-use-a-div}
+## Opción 1: usar `<div>` {#option-use-a-div}
 
 Atributos necesarios:
 
@@ -57,13 +57,13 @@ id: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guione
 mktoName : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:\
-mktoImgClass: String. El valor aquí se agregará al atributo class del `<img>` dentro del div.
+mktoImgClass: String. El valor aquí se agregará al atributo class del elemento `<img>` dentro del div.
 
 Ejemplo:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opción 2: usar un `<img>` {#option-use-a-img}
+## Opción 2 - Usar un `<img>` {#option-use-a-img}
 
 Atributos necesarios:\
 clase: &quot;mktoImg&quot;\
@@ -79,12 +79,12 @@ Ejemplo:
 
 >[!NOTE]
 >
->Al usar el `<img>` versión, el HTML procesado contendrá un contenedor div generado alrededor del `<img>` etiqueta. Se establecerá en clase .&quot;mktoImg.mktoGen,&quot; y se mostrarán:inline-block.
+>Al utilizar la versión `<img>`, el HTML procesado contendrá un contenedor div generado alrededor de la etiqueta `<img>`. Se establecerá en clase .&quot;mktoImg.mktoGen,&quot; y se mostrarán:inline-block.
 
 ## Formulario {#form}
 
 Ejemplo: Atributos requeridos:\
-**clase**: &quot;mktoForm&quot;\
+**class**: &quot;mktoForm&quot;\
 **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
@@ -93,7 +93,7 @@ Ejemplo: Atributos requeridos:\
 ## Fragmento {#snippet}
 
 Atributos necesarios:\
-**clase**: &quot;mktoSnippet&quot;\
+**class**: &quot;mktoSnippet&quot;\
 **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
@@ -101,10 +101,10 @@ Ejemplo:
 
 `<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
-## Botón Compartir {#share-button}
+## Compartir botón {#share-button}
 
 Atributos necesarios:\
-**clase**: &quot;mktoShareButton&quot;\
+**class**: &quot;mktoShareButton&quot;\
 **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
@@ -170,7 +170,7 @@ Ejemplo:
 
 **Declaración:**
 
-Las variables se declaran como metaetiquetas dentro de `<head>` de la plantilla. Existen tres tipos de variables disponibles para su uso: cadena, color y booleano.
+Las variables se declaran como metaetiquetas dentro del elemento `<head>` de la plantilla. Existen tres tipos de variables disponibles para su uso: cadena, color y booleano.
 
 ## Cadena {#string}
 
@@ -180,7 +180,7 @@ Atributos necesarios:\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:\
-**predeterminado**: Valor de cadena para el atributo. Vacío si no se proporciona ninguno.\
+**default**: valor de cadena para el atributo. Vacío si no se proporciona ninguno.\
 **allowHtml**: &quot;true&quot; o &quot;false&quot;. Controla si el valor se imprimirá sin que se escape el HTML. Si no se establece, el valor predeterminado es &quot;false&quot;.
 
 Ejemplo básico:
@@ -199,7 +199,7 @@ Atributos necesarios:\
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:\
-**predeterminado**: un código de color de carácter HEX de 7 dígitos. P. ej.: #336699
+**default**: código de color de carácter HEX de 7 dígitos. P. ej.: #336699
 
 Ejemplo básico:
 
@@ -218,10 +218,10 @@ Atributos necesarios:\
 
 Opcional:\
 **predeterminado**: cadena booleana. Los controles &quot;true&quot; o &quot;false&quot; si el valor comienza en la posición ON u OFF. &quot;false&quot; si no se proporciona.\
-**false_value**: cadena. Valor que se va a insertar para la variable cuando está en la posición OFF. &quot;false&quot; si no se proporciona.\
-**true_value**: cadena. Valor que se va a insertar para la variable cuando está en la posición ON. &quot;true&quot; si no se proporciona.\
-**false_value_name**: cadena. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición OFF. &quot;OFF&quot; si no se proporciona.\
-**true_value_name**: cadena. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición ON. &quot;ON&quot; si no se proporciona.
+**false_value**: String. Valor que se va a insertar para la variable cuando está en la posición OFF. &quot;false&quot; si no se proporciona.\
+**true_value**: String. Valor que se va a insertar para la variable cuando está en la posición ON. &quot;true&quot; si no se proporciona.\
+**false_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición OFF. &quot;OFF&quot; si no se proporciona.\
+**true_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición ON. &quot;ON&quot; si no se proporciona.
 
 Ejemplo básico:
 

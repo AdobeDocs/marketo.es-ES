@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Filtrado de campañas web {#filter-web-campaigns}
 
-Después de crear cientos de campañas de personalización web, es muy útil poder usar filtros para ver solo las que le interesan.
+Después de crear cientos de campañas de Web Personalization, es muy útil poder usar filtros para ver solo las que le interesan.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. En la página Campañas Web, haga clic en **Filtrar**.
+1. En la página Campañas web, haz clic en **Filtro**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Marque la casilla de verificación del estado o el tipo de campaña que desea filtrar, por ejemplo: **Pausado** o **Diálogo**. Clic **Aplicar**.
+1. Marque la casilla de verificación del estado o el tipo de campaña que desee filtrar, por ejemplo **En pausa** o **Diálogo**. Haga clic en **Aplicar**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Utilice el **Seleccionar todo** para elegir todas o la **Borrar** vínculo para desactivar todas las casillas de verificación.
+   >Use la casilla de verificación **Seleccionar todo** para elegir todos o el vínculo **Borrar** para borrar todas las casillas de verificación.
 
 1. Ahora solo se muestran las campañas que coinciden con el filtro.
 

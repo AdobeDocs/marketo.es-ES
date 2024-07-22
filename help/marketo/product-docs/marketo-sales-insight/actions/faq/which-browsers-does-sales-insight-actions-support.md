@@ -5,7 +5,7 @@ exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '61'
 ht-degree: 1%
 
 ---
@@ -39,4 +39,4 @@ Marketo Sales Insight Actions admite actualmente los siguientes exploradores.
  </tbody> 
 </table>
 
-Para obtener la mejor experiencia, **mantenga su navegador actualizado**!
+¡Para disfrutar de la mejor experiencia, **mantén actualizado tu navegador**!

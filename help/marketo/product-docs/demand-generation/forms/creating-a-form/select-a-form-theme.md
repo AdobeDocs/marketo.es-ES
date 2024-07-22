@@ -6,8 +6,8 @@ exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 1%
+source-wordcount: '128'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gusta más?
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,11 +23,11 @@ Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gust
 
    ![](assets/editform.png)
 
-1. Ir a **Configuración de formulario**.
+1. Vaya a **Configuración de formulario**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Alterne hacia atrás y hacia adelante para elegir el **Tema de formulario** de su gusto.
+1. Alterne entre una y otra para elegir el **tema del formulario** que le guste.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -35,17 +35,17 @@ Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gust
 
    * Simple
    * Recuadro
-   * Resplandor
-   * Ronda
+   * Brillo
+   * Redondo
    * Oscuro
-   * Sombra
+   * Sombreado
    * Sólido
 
    >[!TIP]
    >
-   >También puede [editar el CSS de la temática del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >También puede [editar el CSS del tema del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Clic **Siguiente** para configurar otras opciones de formulario, o haga clic en **Finalizar** si solo desea cambiar la temática del formulario.
+1. Haga clic en **Siguiente** para configurar otras opciones de formulario o haga clic en **Finalizar** si solo desea cambiar el tema del formulario.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
@@ -53,5 +53,5 @@ Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gust
 
 >[!MORELIKETHIS]
 >
->* [Editar el CSS de una temática de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Editar el CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Agregar un campo a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)

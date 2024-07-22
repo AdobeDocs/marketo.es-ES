@@ -2,10 +2,10 @@
 description: Programa de seminarios web WBN-AAAA-MM-DD - Documentos de Marketo - Documentación del producto
 title: Programa de seminarios web sobre WBN-AAAA-MM-DD
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '591'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programa de seminario web con administración de registro, tres correos electrónicos de invitación, recordatorio de asistencia y correos electrónicos de seguimiento que utilizan un programa de eventos para Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -32,16 +32,16 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <br/>02 - En lista de espera
    <br/>03 - Registrados
    <br/>04 - Sin presentación
-   <br/>05 - Asistencia - Éxito
-   <br/>06 - Asistencia a petición - Éxito</td>
-   <td>Inclusivo</td>
+   <br/>05 - Asistido - Correcto
+   <br/>06 - Asistencia a petición - Correcto</td>
+   <td>Incluido</td>
    <td>Evento
    <p>(Integrado: evento con seminario web)</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -109,12 +109,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de correo electrónico</td>
+   <td>Desempeño de email</td>
   </tr>
    <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Desempeño de página de destino</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
@@ -160,7 +160,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Carpeta</td> 
    <td> </td>
    <td>Assets: aloja todos los recursos creativos 
-<br/>(subcarpetas para correo electrónico, páginas de destino y Forms)</td>
+<br/>(subcarpetas para correo electrónico, páginas de aterrizaje y Forms)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -170,7 +170,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -183,7 +183,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
   <tr> 
@@ -222,7 +222,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Haga doble clic para obtener detalles  
 <br/><code><--My Event Description Here--></code> 
 <br/>Edite esta descripción de evento en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá a hacer lo siguiente: 
+<br/>Aprenderá lo siguiente: 
 <li>Viñeta 1</li>
 <li>Viñeta 2</li>
 <li>Viñeta 3</li></td>
@@ -292,23 +292,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Si utiliza un proveedor de seminarios web integrado, no olvide conectar el programa de Marketo Engage a su seminario web en el sistema de alojamiento.
 
@@ -325,7 +325,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;05 - Asistencia (éxito del programa)&quot; para realizar el seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
+>No olvide activar la campaña &quot;05 - Asistencia (éxito del programa)&quot; para realizar el seguimiento del éxito. Haz esto _antes_ de que se envíen tus correos electrónicos.
 
 >[!IMPORTANT]
 >

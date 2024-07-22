@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Habilitar motivos de llamada {#enable-call-reasons}
 
@@ -28,7 +28,7 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
    ![](assets/call-reasons-2.png)
 
-1. Seleccionar **Habilitar motivos de llamada**.
+1. Seleccione **Habilitar motivos de llamada**.
 
    ![](assets/call-reasons-3.png)
 
@@ -50,11 +50,11 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
    ![](assets/call-reasons-6.png)
 
-1. Clic **Administrar motivos de llamada**.
+1. Haga clic en **Administrar motivos de llamada**.
 
    ![](assets/call-reasons-7.png)
 
-1. Introduzca el nombre del motivo de la llamada deseado en el campo de texto y haga clic en **Añadir**.
+1. Escriba el nombre del motivo de la llamada deseado en el campo de texto y haga clic en **Agregar**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Una vez habilitados los motivos de llamada. Los usuarios pueden seleccionar una 
 
    ![](assets/call-reasons-9.png)
 
-1. Introduzca la información de la llamada en el marcador y haga clic en **Llamada**.
+1. Escriba la información de la llamada en el marcador y haga clic en **Llamar**.
 
    ![](assets/call-reasons-10.png)
 

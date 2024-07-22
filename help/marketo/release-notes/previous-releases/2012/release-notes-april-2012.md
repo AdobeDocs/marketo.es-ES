@@ -6,8 +6,8 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -52,7 +52,7 @@ Si no sincroniza su suscripción con Salesforce, notará que se eliminan todas l
 
 ## Análisis del ciclo de ingresos de Marketo {#marketo-revenue-cycle-analytics}
 
-**Etapas de puerta mejoradas en el Modelador del ciclo de ingresos**
+**Fases de puerta mejoradas en el Modeler del ciclo de ingresos**
 
 Permite a los usuarios definir un orden para sus reglas de transición.
 

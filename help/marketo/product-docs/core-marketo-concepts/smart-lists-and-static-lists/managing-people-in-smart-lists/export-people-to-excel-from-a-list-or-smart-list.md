@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede exportarlos fácilmente a Excel. Así es como.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Seleccione la lista o la lista inteligente que desee exportar y vaya a **[!UICONTROL People]** pestaña.
+1. Seleccione la lista o la lista inteligente que desee exportar y vaya a la ficha **[!UICONTROL Personas]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,7 +27,7 @@ Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede e
 
    ![](assets/exportpeople.png)
 
-1. Seleccionar **[!UICONTROL Columnas visibles]** y haga clic en **[!UICONTROL Exportar]**.
+1. Seleccione **[!UICONTROL Columnas visibles]** y haga clic en **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
@@ -37,7 +37,7 @@ Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede e
 
    >[!TIP]
    >
-   >Si los registros personales contienen caracteres extranjeros que no se representan correctamente tras la exportación, intente cambiar el tipo de archivo en la **[!UICONTROL Formato]** menú desplegable.
+   >Si los registros personales contienen caracteres extranjeros que no se representan correctamente al exportar, intente cambiar el tipo de archivo en la lista desplegable **[!UICONTROL Formato]**.
 
 1. Se ejecutará la exportación. Una vez finalizado, puede hacer clic en **[!UICONTROL Descargar ahora]** para obtener el archivo.
 
@@ -45,4 +45,4 @@ Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede e
 
    >[!TIP]
    >
-   >Si la exportación está tardando un tiempo, siempre puede cerrar la sesión y volver a ella más tarde. El **[!UICONTROL Descargar ahora]** se puede acceder al vínculo seleccionando **[!UICONTROL Mostrar estado de exportación]** en el **[!UICONTROL Enumerar acciones]** y es válido durante una semana.
+   >Si la exportación está tardando un tiempo, siempre puede cerrar la sesión y volver a ella más tarde. Se puede acceder al vínculo **[!UICONTROL Descargar ahora]** seleccionando **[!UICONTROL Mostrar estado de exportación]** en el menú **[!UICONTROL Enumerar acciones]**, y es válido durante una semana.

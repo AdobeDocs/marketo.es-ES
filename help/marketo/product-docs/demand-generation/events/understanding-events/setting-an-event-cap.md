@@ -8,7 +8,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,22 +31,22 @@ Limite la cantidad de personas que se pueden registrar para su evento con un lí
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. En la Información general, busque [!UICONTROL Límite de evento] y haga clic en **[!UICONTROL No definido]**.
+1. En la descripción general, busque [!UICONTROL Límite de evento] y haga clic en **[!UICONTROL No establecido]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Introduzca la cantidad máxima de personas que desea registrar para su evento y haga clic en **[!UICONTROL Siguiente]**.
+1. Ingresa la cantidad máxima de personas que quieres que puedan registrarse para tu evento y haz clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Haga clic en [!UICONTROL Página de registro] y seleccione la página de aterrizaje que actuará como página de registro.
+1. Haga clic en el menú desplegable [!UICONTROL Página de registro] y seleccione la página de aterrizaje que actuará como su página de registro.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Haga clic en **[!UICONTROL Página completa de registro]** y seleccione la página de aterrizaje que actuará como página de registro completa. Clic **[!UICONTROL Establecer y habilitar]** cuando termine.
+1. Haga clic en el menú desplegable **[!UICONTROL Página completa de registro]** y seleccione la página de aterrizaje que actuará como página completa de registro. Haga clic en **[!UICONTROL Establecer y habilitar]** cuando haya terminado.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   Ya está todo listo. Si decide que desea editar los detalles del límite del evento, haga clic en el texto azul situado junto a [!UICONTROL Límite de evento].
+   Ya está todo listo. Si decide que desea editar los detalles del límite del evento, haga clic en el texto azul junto a [!UICONTROL Límite del evento].
 
    ![](assets/setting-an-event-cap-6.png)

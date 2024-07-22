@@ -6,7 +6,7 @@ exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
 ## Registro de una aplicación nueva {#registering-a-new-app}
 
-1. [Iniciar sesión](https://login.microsoftonline.com/){target="_blank"} al portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 si expande el **[!UICONTROL Administrador]** en el panel de navegación izquierdo y seleccione **[!UICONTROL Azure AD]**.
+1. [Inicie sesión](https://login.microsoftonline.com/){target="_blank"} en el portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede obtener acceso al portal de Microsoft Azure a través del Centro de administración de Office 365. Para ello, expanda el elemento **[!UICONTROL Admin]** en el panel de navegación izquierdo y seleccione **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >
@@ -25,12 +25,12 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    >[!NOTE]
    >
-   >Si no tiene una cuenta de Azure, puede [apuntarse](https://azure.microsoft.com/en-us/free/){target="_blank"} para empezar. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
+   >Si no tienes una cuenta de Azure, puedes [registrarte](https://azure.microsoft.com/en-us/free/){target="_blank"} para una. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
    >
    >
    >Si tiene una cuenta de Azure pero su suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} para asociar las dos cuentas.
 
-1. Busque y haga clic en **[!UICONTROL Azure Active Directory]** en el panel de navegación izquierdo.
+1. Busque **[!UICONTROL Azure Active Directory]** y haga clic en él en el panel de navegación izquierdo.
 
    ![](assets/two.png)
 
@@ -38,21 +38,21 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    ![](assets/three.png)
 
-1. Clic **[!UICONTROL Nuevo registro]** en la parte superior de la página.
+1. Haga clic en **[!UICONTROL Nuevo registro]** en la parte superior de la página.
 
    ![](assets/four.png)
 
-1. Escriba un nombre para la aplicación, elija el tipo de cuenta aplicable e introduzca una URL de redireccionamiento. Luego haga clic en **[!UICONTROL Registrar]** en la parte inferior de la página.
+1. Escriba un nombre para la aplicación, elija el tipo de cuenta aplicable e introduzca una URL de redireccionamiento. Luego haz clic en **[!UICONTROL Registrar]** en la parte inferior de la página.
 
    ![](assets/five.png)
 
-1. Ahora debería ver su aplicación en la **[!UICONTROL Registros de aplicaciones]** pestaña.
+1. Ahora debería ver su aplicación en la ficha **[!UICONTROL Registros de aplicaciones]**.
 
    ![](assets/six.png)
 
 ## Configuración de permisos de aplicaciones {#configuring-app-permissions}
 
-1. En el **[!UICONTROL Registros de aplicaciones]** en su Active Directory, haga clic en la aplicación para la que desee configurar permisos.
+1. En la ficha **[!UICONTROL Registros de aplicaciones]** de Active Directory, haga clic en la aplicación para la que desee configurar permisos.
 
    ![](assets/seven.png)
 
@@ -60,15 +60,15 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    ![](assets/eight.png)
 
-1. Haga clic en **[!UICONTROL Añadir un permiso]** botón.
+1. Haga clic en el botón **[!UICONTROL Agregar un permiso]**.
 
    ![](assets/nine.png)
 
-1. Elegir **[!UICONTROL Dynamics CRM]**.
+1. Elija **[!UICONTROL Dynamics CRM]**.
 
    ![](assets/ten.png)
 
-1. Compruebe la **[!UICONTROL Acceso al servicio común de datos como usuarios de la organización]** y haga clic en **[!UICONTROL Añadir permisos]**.
+1. Marque la casilla **[!UICONTROL Acceder al servicio de datos comunes como usuarios de la organización]** y luego haga clic en **[!UICONTROL Agregar permisos]**.
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    ![](assets/twelve.png)
 
-1. Haga clic en **[!UICONTROL Conceder consentimiento de administrador]** botón.
+1. Haga clic en el botón **[!UICONTROL Conceder consentimiento de administrador]**.
 
    ![](assets/thirteen.png)
 
-1. Clic **[!UICONTROL Sí]** para confirmar.
+1. Haga clic en **[!UICONTROL Sí]** para confirmar.
 
    ![](assets/fourteen.png)
 

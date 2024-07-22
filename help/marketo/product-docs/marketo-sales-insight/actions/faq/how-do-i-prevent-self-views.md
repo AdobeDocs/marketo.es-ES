@@ -30,7 +30,7 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Clic **Opciones**.
+1. Haga clic en **Opciones**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
@@ -38,19 +38,19 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. En Centro de confianza de Microsoft Outlook, haga clic en **Configuración del Centro de confianza**.
+1. En el Centro de confianza de Microsoft Outlook, haga clic en **Configuración del Centro de confianza**.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Haga clic en Descarga automática en el menú de la izquierda y seleccione. **No descargar imágenes automáticamente en el correo electrónico del HTML o en elementos RSS** casilla de verificación.
+1. Haga clic en Descarga automática en el menú de la izquierda y active la casilla de verificación **No descargar imágenes automáticamente en el correo electrónico del HTML o en los elementos RSS**.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Clic **OK** en el cuadro de diálogo Centro de confianza.
+1. Haga clic en **Aceptar** en el cuadro de diálogo Centro de confianza.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Clic **OK** en el cuadro de diálogo Opciones de Outlook.
+1. Haga clic en **Aceptar** en el cuadro de diálogo Opciones de Outlook.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -62,10 +62,10 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. En Correo electrónico, elija **Lectura**.
+1. En Correo electrónico, elija **Leyendo**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. En Seguridad, haga clic en **Nunca** botón de opción.
+1. En Seguridad, haga clic en el botón de opción **Nunca**.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

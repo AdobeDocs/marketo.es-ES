@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >El uso de la funcionalidad &quot;Deshacer envío&quot; en Gmail impedirá que el correo electrónico se envíe al utilizar la extensión de Gmail, pero es posible que vea una actividad en la aplicación web, así como en Salesforce si está registrando actividades en Salesforce.
 
-1. En Gmail, haga clic en **Escribir**.
+1. En Gmail, haga clic en **Componer**.
 
 1. Introduzca la dirección de correo electrónico del destinatario.
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Seleccione una plantilla de correo electrónico o escriba un nuevo mensaje.
 
-1. Cuando el correo electrónico esté listo para enviarse, haga clic en **Send &amp; Connect** botón. Al hacer clic en ese botón en lugar del botón de envío normal, se asegura de que el correo electrónico se envíe con el seguimiento aplicado. Sales Connect realizará un seguimiento del momento en el que se abre el correo electrónico y del momento en el que alguien hace clic en cualquier vínculo.
+1. Cuando el correo electrónico esté listo para enviarse, haga clic en el botón **Enviar y conectar**. Al hacer clic en ese botón en lugar del botón de envío normal, se asegura de que el correo electrónico se envíe con el seguimiento aplicado. Sales Connect realizará un seguimiento del momento en el que se abre el correo electrónico y del momento en el que alguien hace clic en cualquier vínculo.

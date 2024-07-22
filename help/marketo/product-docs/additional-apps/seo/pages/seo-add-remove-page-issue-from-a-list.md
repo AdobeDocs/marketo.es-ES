@@ -17,15 +17,15 @@ Puede organizar los problemas de página en listas. También puede quitar proble
 
 ## Agregar problemas de página a una lista {#add-page-issues-to-a-list}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. En el **[!UICONTROL Páginas]** pestaña, haga clic en **[!UICONTROL Problemas]**.
+1. En la ficha **[!UICONTROL Páginas]**, haga clic en **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Pase el ratón sobre el problema de página que quiera añadir. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre el problema de página que quiera añadir. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -35,15 +35,15 @@ Puede organizar los problemas de página en listas. También puede quitar proble
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para que la palabra clave vaya. Solo tiene que escribir el nombre que desee en **[!UICONTROL Crear una lista nueva]**.
+   >También puede crear una nueva lista para que la palabra clave vaya. Escriba el nombre que desee en **[!UICONTROL Crear una lista nueva]**.
 
 ## Eliminar problema de página de una lista {#remove-page-issue-from-a-list}
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. En la pestaña de páginas, haga clic en **[!UICONTROL Problemas]**.
+1. En la ficha Páginas, haga clic en **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ Puede organizar los problemas de página en listas. También puede quitar proble
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Pase el ratón sobre el problema de página que quiera eliminar. Clic **[!UICONTROL Agregar o quitar de la lista]**.
+1. Pase el ratón sobre el problema de página que quiera eliminar. Haga Clic En **[!UICONTROL Agregar/Quitar De La Lista]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

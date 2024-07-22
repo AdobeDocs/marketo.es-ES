@@ -19,7 +19,7 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleccione la lista desplegable Acción del evento. Elegir **[!UICONTROL Reprogramar entradas]**.
+1. Seleccione la lista desplegable Acción del evento. Elija **[!UICONTROL Reprogramar entradas]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Clic **[!UICONTROL Reprogramar]**.
+1. Haga clic en **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
@@ -41,7 +41,7 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
 >[!NOTE]
 >
->Los recursos que ya se han ejecutado no se moverán.
+>Los Assets que ya se hayan ejecutado no se moverán.
 
 Ahora todo está reprogramado. Ajuste las fechas específicas según sea necesario.
 

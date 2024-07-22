@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 1%
 
 Puede editar cualquier plantilla de página de aterrizaje en Marketo.
 
-1. Ir a **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Expandir **Páginas de aterrizaje** para mostrar las plantillas.
+1. Expanda **Páginas de destino** para mostrar las plantillas.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleccione el **Plantilla** desea realizar la edición. Clic **Editar borrador**.
+1. Seleccione la **plantilla** que desee editar. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Listo! Ahora puede editar el CSS de la plantilla y tener control total sobre su aspecto y diseño.
+   ¡Listo! Ahora puede editar el CSS de la plantilla y tener control total sobre su aspecto y diseño.
 
    >[!NOTE]
    >

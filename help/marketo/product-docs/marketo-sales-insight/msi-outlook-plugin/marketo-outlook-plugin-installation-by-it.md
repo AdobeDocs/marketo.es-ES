@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ A veces, las políticas corporativas requieren que su equipo de TI instale todo 
 
 >[!PREREQUISITES]
 >
->[Configuración de](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) la clave de empresa.
+>[Configurar](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) la clave de empresa.
 
 Ejecute la siguiente línea de comandos como &quot;System&quot; o una cuenta de usuario administrativo con el modificador /i para instalar.
 
@@ -53,7 +53,7 @@ Para especificar una ubicación de los archivos de registro, puede especificar l
 >
 >Debe existir la ubicación de almacenamiento del archivo de registro o se anulará la instalación.
 
-Consulte la [Lista completa de conmutadores de Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
+Consulte la [lista completa de conmutadores de Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
 
 >[!MORELIKETHIS]
 >

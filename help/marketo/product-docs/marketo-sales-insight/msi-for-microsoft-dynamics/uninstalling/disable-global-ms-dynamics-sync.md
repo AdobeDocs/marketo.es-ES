@@ -6,7 +6,7 @@ exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ Siga estos sencillos pasos para deshabilitar la sincronización de MS Dynamics.
 
    ![](assets/two.png)
 
-1. Clic **Deshabilitar sincronización**.
+1. Haga clic en **Deshabilitar sincronización**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Si no ve el botón Deshabilitar sincronización en su instancia, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si no ves un botón Deshabilitar sincronización en tu instancia, comunícate con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

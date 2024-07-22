@@ -6,8 +6,8 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 3%
 
 ---
 
@@ -17,17 +17,17 @@ Siga los pasos a continuación para configurar MPI.
 
 ## Configuración de oportunidad {#opportunity-setup}
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clic **Análisis del ciclo de ingresos**.
+1. Haga clic en **Análisis del ciclo de ingresos**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si no tiene RCA, debe seleccionar lo siguiente **Análisis de programas** para el paso 2.
+   >Si no tiene RCA, tendrá que seleccionar **Análisis de programa** para el paso 2.
 
 1. En Atribución, haga clic en **Editar**.
 
@@ -56,7 +56,7 @@ Siga los pasos a continuación para configurar MPI.
 
 Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manualmente o mediante la API del programa. En este ejemplo lo hacemos manualmente.
 
-1. Clic **Actividades de marketing**.
+1. Haga clic en **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -64,33 +64,33 @@ Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manua
 
    ![](assets/select-program.png)
 
-1. Haga clic en **Configurar** pestaña.
+1. Haga clic en la ficha **Configuración**.
 
    ![](assets/setup-tab.png)
 
-1. Arrastrar **Costo de período** en el lienzo.
+1. Arrastre **Costo de período** al lienzo.
 
    ![](assets/period-cost.png)
 
-1. Configure el mes del programa como mínimo hace 12 meses y haga clic en **Ok**.
+1. Establezca el mes del programa como mínimo hace 12 meses y haga clic en **Aceptar**.
 
    ![](assets/set-period.png)
 
-1. Configure el coste del periodo y haga clic en **Guardar**.
+1. Establezca el costo del período y haga clic en **Guardar**.
 
    ![](assets/set-cost.png)
 
 A continuación, revise el comportamiento de Analytics para indicar si algún canal en particular debe incluirse en Analytics. Establezca el Comportamiento de Analytics (Normal, Inclusivo, Operativo).
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clic **Etiquetas**.
+1. Haga clic en **Etiquetas**.
 
    ![](assets/tags.png)
 
-1. Haga clic en **+** para expandir la lista de Canales.
+1. Haga clic en **+** para expandir la lista de canales.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ A continuación, revise el comportamiento de Analytics para indicar si algún ca
 
    ![](assets/channel-click.png)
 
-1. Haga clic en **Comportamiento de Analytics** y seleccione el comportamiento deseado.
+1. Haga clic en el menú desplegable **Comportamiento de Analytics** y seleccione el comportamiento que desee.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ A continuación, revise el comportamiento de Analytics para indicar si algún ca
 
    ![](assets/success.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/save.png)
 

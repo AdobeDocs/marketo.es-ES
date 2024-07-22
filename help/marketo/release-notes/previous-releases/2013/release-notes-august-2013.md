@@ -6,7 +6,7 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ En la versión de agosto de 2013 de se incluyen las siguientes funciones.
 
 **Correos electrónicos solo de texto**
 
-Ahora puede enviar [solo la versión de texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) de un correo electrónico. Tenga en cuenta que los vínculos no se decorarán al utilizar esta opción.
+Ahora puedes enviar [solo la versión de texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) de un correo electrónico. Tenga en cuenta que los vínculos no se decorarán al utilizar esta opción.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,13 +25,13 @@ Ahora puede enviar [solo la versión de texto](/help/marketo/product-docs/email-
 
 ### Ignorar contenido agotado {#ignore-exhausted-content}
 
-Configure el programa de participación a [ignorar el agotamiento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), incluida la supresión de cualquier notificación.
+Configure el programa de participación para [ignorar agotamiento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), incluida la supresión de notificaciones.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Prueba de flujo de participación {#engagement-stream-testing}
 
-Utilice el [nueva función de prueba](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) para simular un lanzamiento y probar el contenido recién agregado a un flujo en vivo.
+Use la [nueva característica de prueba](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) para simular una difusión y probar el contenido recién agregado a una transmisión en vivo.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,13 +43,13 @@ Al enviar una prueba por correo electrónico, puede seleccionar el nombre de un 
 
 ## Tokens del sistema &quot;Ver correo electrónico como página web&quot; y &quot;Cancelar suscripción&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Utilice estos [tokens nuevos](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) para proporcionar el bueno control de su ubicación en correos electrónicos.
+Utilice estos [nuevos tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) para controlar mejor su ubicación en correos electrónicos.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Limpieza automática de campaña de Déclencheur {#automatic-trigger-campaign-cleanup}
 
-Marketo le notificará periódicamente a usted y a [desactivar automáticamente las campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se han ejecutado en los últimos seis meses.
+Marketo le notificará periódicamente a usted y a [desactivará automáticamente las campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se hayan ejecutado en los últimos seis meses.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

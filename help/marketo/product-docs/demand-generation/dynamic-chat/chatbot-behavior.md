@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -200,7 +200,7 @@ Los siguientes son diferentes escenarios posibles que describen el comportamient
         <p>V1 hace clic en D1 y completa D1</p>
         <p>V1 visita WP2</p>
       </td>
-      <td>D1 se resolverá el WP1 y después de la finalización<br/>D2 se resolverá en WP2</td>
+      <td>D1 se resolverá en WP1 y después de la finalización<br/>D2 se resolverá en WP2</td>
       <td>
         <p>El recuento de déclencheur, el recuento de interacciones y el recuento completado de D1 se incrementarán en 1</p>
         <p>El recuento de déclencheur para D2 se incrementará en 1</p>
@@ -215,7 +215,7 @@ Los siguientes son diferentes escenarios posibles que describen el comportamient
         <p>V1 visita WP2</p>
         <p>V1 hace clic en D2 y proporciona la primera respuesta</p>
       </td>
-      <td>D1 se resolverá el WP1 y después de la finalización<br/>D2 se resolverá en WP2</td>
+      <td>D1 se resolverá en WP1 y después de la finalización<br/>D2 se resolverá en WP2</td>
       <td>
         <p>El recuento de déclencheur, el recuento de interacciones y el recuento completado de D1 se incrementarán en 1</p>
         <p>El recuento de déclencheur y participación de D2 se incrementará en 1</p>

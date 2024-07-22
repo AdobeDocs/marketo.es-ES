@@ -5,8 +5,8 @@ exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1396'
-ht-degree: 3%
+source-wordcount: '1395'
+ht-degree: 10%
 
 ---
 
@@ -31,7 +31,7 @@ Además, hay un nuevo requisito de responsabilidad para poder demostrar cómo se
 
 ## ¿A quién se aplica? {#to-whom-does-it-apply}
 
-El RGPD se aplica a cualquier organización dentro o fuera de la UE que comercialice bienes o servicios a interesados dentro de la UE y el EEE, o que realice un seguimiento de sus comportamientos. Si realiza negocios con interesados en Europa que impliquen el procesamiento de sus datos personales, esta legislación se aplica a usted. Las sanciones por incumplimiento son significativas, con grandes multas para aquellos que incumplan la normativa; la multa máxima por una sola infracción es de 20 millones de euros o el 4% de la facturación anual mundial, lo que sea bueno.
+El RGPD se aplica a cualquier organización dentro o fuera de la UE que comercialice bienes o servicios a interesados dentro de la UE y el EEA, o que realice un seguimiento de sus comportamientos. Si hace negocios con personas interesadas en Europa que supongan el procesamiento de sus datos personales, esta legislación se aplica a usted. Las sanciones por incumplimiento son significativas, con cuantiosas multas para los infractores de la normativa; la multa máxima por una sola infracción es de 20 millones de euros o el 4% de la facturación anual mundial, la cantidad que sea mayor.
 
 ## Implicaciones para el marketing {#implications-for-marketing}
 
@@ -41,7 +41,7 @@ La forma en que los especialistas en marketing afrontan estas mayores expectativ
 
 Existen dos aspectos clave del RGPD en los que los especialistas en marketing deben revisar las prácticas pasadas, actuales y futuras. El primero es el consentimiento de la persona para procesar sus datos personales, y el segundo es la responsabilidad, a saber, poder demostrar cómo se siguen los principios del RGPD.
 
-Proporcionamos amplia información sobre el consentimiento y la responsabilidad dentro de la plataforma Marketo en nuestro libro electrónico, [RGPD y experto en marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Sin embargo, en este artículo nos centraremos específicamente en las nuevas funciones de las acciones de información de ventas que ayudarán a su organización a adherirse a las reglas del RGPD.
+Proporcionamos amplia información sobre el consentimiento y la responsabilidad dentro de la plataforma Marketo en nuestro libro electrónico, [RGPD y The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Sin embargo, en este artículo nos centraremos específicamente en las nuevas funciones de las acciones de información de ventas que ayudarán a su organización a adherirse a las reglas del RGPD.
 
 ## Cumplimiento del RGPD en acciones de Sales Insight {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -49,7 +49,7 @@ Sales Insight Actions es una potente aplicación, parte de Marketo Engagement Pl
 
 ## Tarjeta de cumplimiento {#compliance-card}
 
-Las acciones de perspectiva de ventas incluyen una tarjeta de cumplimiento en la vista de detalles de persona para proporcionar información clave sobre el tipo de autorización de un contacto, así como su tipo de origen. Esto permite a los usuarios añadir y rastrear fácilmente la información crítica para la privacidad de los datos y les ayuda a tomar decisiones más informadas sobre la estrategia de campaña/alcance.
+Las acciones de perspectiva de ventas incluyen una tarjeta de conformidad en la vista de detalles de persona para proporcionar información clave sobre el tipo de autorización de un contacto, así como su tipo de Source. Esto permite a los usuarios añadir y rastrear fácilmente la información crítica para la privacidad de los datos y les ayuda a tomar decisiones más informadas sobre la estrategia de campaña/alcance.
 
 **Tipo de autorización de contacto**
 
@@ -65,9 +65,9 @@ Los usuarios tienen numerosas opciones para elegir, entre las que se incluyen:
 * Autoridad oficial/de interés público
 * Otro
 
-**Tipo de origen de contacto**
+**Tipo de contacto de Source**
 
-En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento del origen de un contacto. El tipo de fuente define la procedencia de la información de un contacto cuando se cargó inicialmente en las acciones de información de ventas. Comprender el tipo de fuente de un contacto también ayuda a tomar decisiones sobre las prácticas de divulgación, así como a determinar qué otros sistemas o ubicaciones se almacenan los datos personales, lo que garantiza que cada participación esté en línea con la legislación del RGPD.
+En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento del origen de un contacto. El tipo de Source define la procedencia de la información de un contacto cuando se cargó inicialmente en las acciones de información de ventas. Comprender el tipo de fuente de un contacto también ayuda a tomar decisiones sobre las prácticas de divulgación, así como a determinar qué otros sistemas o ubicaciones se almacenan los datos personales, lo que garantiza que cada participación esté en línea con la legislación del RGPD.
 
 De nuevo, los usuarios tienen varias opciones desplegables para elegir, entre ellas:
 
@@ -77,13 +77,13 @@ De nuevo, los usuarios tienen varias opciones desplegables para elegir, entre el
 * Extensión de Chrome
 * Otro
 
-**Edición de la tarjeta de cumplimiento**
+**Editando la tarjeta de cumplimiento**
 
-Cuando la Vista de detalles de persona esté abierta, haga clic en **Editar** en la tarjeta de cumplimiento.
+Cuando se abra la Vista de detalles de la persona, haga clic en **Editar** en la tarjeta de cumplimiento.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Verá dos menús desplegables: Tipo de autorización y Tipo de origen.
+Verá dos menús desplegables: Tipo de autorización y Tipo de Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
@@ -91,15 +91,15 @@ Si elige &quot;Consentimiento&quot; como tipo de autorización, aparecen dos cam
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Si se elige &quot;Otro&quot; para el tipo de autorización o el tipo de origen, se puede introducir texto para describir el tipo de origen.
+Si se elige &quot;Otro&quot; para el tipo de autorización o el tipo de Source, se puede introducir texto para describir el tipo de Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **Acciones masivas**
 
-Las acciones de perspectiva de ventas también permiten actualizar los tipos de origen y autorización de un contacto de forma masiva, lo que ahorra un tiempo valioso en el proceso de conformidad.
+Las acciones de información de ventas también permiten actualizar los tipos de autorización y Source de un contacto de forma masiva, lo que ahorra un tiempo valioso en el proceso de conformidad.
 
-Al seleccionar uno o varios contactos de la página Personas, aparece un punto (menú de tres puntos) a la derecha. Haga clic en él y verá que Autorización y Origen son opciones. Puede establecer la Autorización o el Origen de varios contactos simultáneamente.
+Al seleccionar uno o varios contactos de la página Personas, aparece un punto (menú de tres puntos) a la derecha. Haga clic en él y verá que Autorización y Source son opciones. Puede establecer la Autorización o el Source de varios contactos simultáneamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -111,11 +111,11 @@ Una vez actualizado el tipo de autorización, recibirá una ventana emergente de
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
-Del mismo modo, el Tipo de origen también se puede actualizar de forma masiva haciendo clic en el modal Origen.
+Del mismo modo, el tipo de Source también se puede actualizar por lotes haciendo clic en el modal de Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-8.png)
 
-Después de seleccionar el Tipo de origen correcto para los contactos seleccionados, aparece una ventana de confirmación para confirmar que la actualización se ha realizado correctamente.
+Después de seleccionar el Tipo de Source correcto para los contactos seleccionados, aparecerá una ventana de confirmación para confirmar que la actualización se ha realizado correctamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
@@ -148,7 +148,7 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
   <tr> 
    <td>Título</td> 
    <td>Creado en</td> 
-   <td>Exportado el</td> 
+   <td>Exportado en</td> 
   </tr> 
   <tr> 
    <td>Identificación de email</td> 
@@ -167,7 +167,7 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
 >
 >Esto solo se puede hacer con un contacto a la vez. Actualmente no hay ninguna funcionalidad que permita exportaciones masivas de contactos.
 
-Para exportar la información de contacto, haga clic en los tres puntos verticales del encabezado de la vista de detalles de la persona y seleccione **Exportar**. El archivo .CSV se descargará automáticamente.
+Para exportar la información de contacto, haz clic en los tres puntos verticales del encabezado de la vista de detalles de la persona y selecciona **Exportar**. El archivo .CSV se descargará automáticamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-10.png)
 
@@ -180,9 +180,9 @@ Para exportar la información de contacto, haga clic en los tres puntos vertical
 Un área del RGPD comúnmente malentendida incluye contactos que cancelan la suscripción a la base de datos de la organización. Para adherirse a las nuevas reglas de protección de los datos de aquellos que deciden cancelar la suscripción, se ha incluido la siguiente funcionalidad en las acciones de información de ventas:
 
 **Vínculos de cancelación de suscripción:** Los vínculos de cancelación de suscripción se adjuntarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web de Sales Connect para garantizar que los contactos disponen de un método accesible de exclusión.\
-**Cancelar suscripción a sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM (Salesforce) para garantizar que las exclusiones estén actualizadas.\
-**Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las inclusiones históricas en la Vista de detalles de la persona.\
-**Cancelar suscripción Eliminación:** Volver a suscribirse a un contacto en requiere que el usuario tenga privilegios de administrador y que demuestre que el contacto ha dado un nuevo consentimiento para ponerse en contacto con él.
+**Anular la suscripción a la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM (Salesforce) para asegurarse de que las exclusiones estén actualizadas.\
+**Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las inclusiones históricas en la vista de detalles de la persona.\
+**Quitar la suscripción:** Si se vuelve a suscribir un contacto, se requiere que el usuario tenga privilegios de administrador y que demuestre que el contacto ha dado un nuevo consentimiento para ponerse en contacto con él.
 
 ## Actualizaciones futuras {#future-updates}
 

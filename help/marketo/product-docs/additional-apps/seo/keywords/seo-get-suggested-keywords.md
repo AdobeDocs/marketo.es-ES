@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,27 +17,27 @@ El SEO de Marketo puede sugerir qué palabras clave debe rastrear. Podemos dar s
 
 ## Obtener sugerencias de palabras clave mediante una palabra clave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Clic **[!UICONTROL Obtener sugerencias]**.
+1. Haga clic en **[!UICONTROL Obtener sugerencias]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Introduzca una **[!UICONTROL Palabra clave]**. Clic **[!UICONTROL Sugerir palabras clave]**.
+1. Escriba una **[!UICONTROL palabra clave]**. Haga clic en **[!UICONTROL Sugerir palabras clave]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >¿Sabías que puedes  [añadir la palabra clave a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ¿aquí?
+   >¿Sabía que puede [agregar su palabra clave a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aquí?
 
-1. Seleccione las palabras clave sugeridas. Clic **[!UICONTROL Agregar selección]**.
+1. Seleccione las palabras clave sugeridas. Haga clic en **[!UICONTROL Agregar selección]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   Excelente! Se ha añadido su palabra clave.
+   ¡Excelente! Se ha añadido su palabra clave.
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
@@ -45,31 +45,31 @@ El SEO de Marketo puede sugerir qué palabras clave debe rastrear. Podemos dar s
 
 ## Obtener sugerencias de palabras clave de una dirección URL  {#get-keyword-suggestions-from-a-url}
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Clic **[!UICONTROL Obtener sugerencias]**.
+1. Haga clic en **[!UICONTROL Obtener sugerencias]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Establecer **[!UICONTROL Sugerir por]** hasta **[!UICONTROL URL]**.
+1. Definir **[!UICONTROL Sugerir por]** en **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Introduzca una **[!UICONTROL URL]** y haga clic en **[!UICONTROL Sugerir palabras clave]**.
+1. Escriba una **[!UICONTROL URL]** y haga clic en **[!UICONTROL Sugerir palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >¿Sabías que puedes [añadir la palabra clave a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) ¿aquí?
+   >¿Sabía que puede [agregar su palabra clave a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aquí?
 
-1. Seleccione las palabras clave sugeridas. Clic **[!UICONTROL Agregar selección]**.
+1. Seleccione las palabras clave sugeridas. Haga clic en **[!UICONTROL Agregar selección]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-Excelente! Se ha añadido su palabra clave.
+¡Excelente! Se ha añadido su palabra clave.
 
 ![](assets/image2014-9-18-11-3a8-3a25.png)
 

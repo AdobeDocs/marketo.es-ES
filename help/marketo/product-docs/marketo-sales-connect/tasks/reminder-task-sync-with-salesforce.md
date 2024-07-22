@@ -6,7 +6,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Para obtener información acerca de cómo habilitar la desprotección de sincronización de tareas [Sincronizar tareas/recordatorios de Sales Connect con tareas de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Para obtener información sobre cómo habilitar la sincronización de tareas, revisa [Sincronizar ventas y conectar tareas/recordatorios con tareas de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
 Una vez habilitada la configuración de sincronización de tareas, los usuarios verán sus tareas de recordatorio sincronizadas bidireccionalmente con Salesforce. Esto significa que los usuarios pueden administrar las tareas desde Salesforce o Sales Connect y sentirse seguros de que los sistemas permanecerán alineados.
 
@@ -37,7 +37,7 @@ A continuación se muestra una lista de los campos de tarea de recordatorio de S
  </tr>
  <tr>
   <td>Estado</td>
-  <td>Estado de tarea</td>
+  <td>Estado de la tarea</td>
   <td><p>Muestra el estado de la tarea. Las tareas de Conexión de ventas tienen dos estados que se asignan a dos de los valores de la lista desplegable Estado de la tarea de Salesforce.</p>
   <p>Abrir en Sales Connect = No iniciado en Salesforce.</p>
   <p>Completar en Sales Connect = Completado en Salesforce.</p>
@@ -63,7 +63,7 @@ A continuación se muestra una lista de los campos de tarea de recordatorio de S
 
 ## Sincronización de tareas de conexión de ventas con Salesforce por primera vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Cuando active por primera vez la sincronización entre las tareas de Sales Connect y Salesforce, importaremos sus tareas de Salesforce. Lo haremos **no** Pase cualquier tarea actual que tenga en Sales Connect a Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan con Sales Connect son las creadas *después* se sincroniza Sales Connect con SFDC.
+Cuando active por primera vez la sincronización entre las tareas de Sales Connect y Salesforce, importaremos sus tareas de Salesforce. **no** sobrepasaremos las tareas actuales que tenga en Sales Connect para Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan desde Sales Connect a Salesforce son las tareas creadas *después de* que sincronice Sales Connect con SFDC.
 
 Esto es lo que sucede cuando sincroniza las tareas de Sales Connect y SFDC:
 
@@ -77,8 +77,8 @@ Esto es lo que sucede cuando sincroniza las tareas de Sales Connect y SFDC:
 
 Tras la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en Sales Connect se sincronizará con la lista de tareas de Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará su lista de tareas en Sales Connect.
 
-Para activar esta sincronización, simplemente marque la casilla de sincronización en su [Página Configuración](https://toutapp.com/login) en la aplicación web.
+Para activar esta sincronización, simplemente marca la casilla de sincronización en tu [página de configuración](https://toutapp.com/login) en la aplicación web.
 
 >[!NOTE]
 >
->El campo de asunto de una tarea se puede actualizar en Sales Connect y esa actualización se sincroniza en el campo de asunto de Salesforce para la tarea sincronizada correspondiente, si utiliza el `{{activity_subject}}` campo dinámico en su [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) configuración. Por el contrario, cualquier actualización realizada en el campo de asunto en Salesforce _no_ Vaya al campo de asunto de la tarea Recordatorio de Conexión de ventas.
+>El campo de asunto de una tarea se puede actualizar en Sales Connect y esa actualización se sincronizará en el campo de asunto de Salesforce para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por el contrario, cualquier actualización realizada en el campo de asunto de Salesforce _no_ se sincronizará con el campo de asunto de la tarea de recordatorio de Conexión de ventas.

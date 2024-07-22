@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede establecer un intervalo de tiempo para que el contenido esté activo en el flujo. Así es como.
 
-1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
+1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -23,13 +23,13 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Seleccione su **Activo desde** fecha, luego la **Activo hasta** fecha y clic **Guardar**.
+1. Seleccione su fecha de **Activo desde**, luego la fecha de **Activo hasta** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Puedes irte **Activo hasta** en blanco para que el contenido esté disponible para siempre.
+   >Puede dejar **Activo hasta** en blanco para que el contenido esté disponible para siempre.
 
    ¡Perfecto! Verá el icono de reloj junto al contenido programado. Se activa e inactiva según la programación que haya establecido.
 

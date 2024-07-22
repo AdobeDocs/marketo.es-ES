@@ -6,20 +6,20 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
 # Campos obligatorios para sincronizar Marketo con Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Estos campos *debe* se sincronizará con Marketo tanto para el posible cliente como para que la perspectiva del contacto de ventas funcione:
+Estos campos *deben* sincronizarse con Marketo tanto para el posible cliente como para que funcione la perspectiva del contacto de ventas:
 
 * Prioridad
 * Urgencia
 * Puntaje relativo
 
-Si falta alguno de estos campos, verá un mensaje de error en Marketo con el nombre de los campos que faltan. Para solucionarlo, proteja la instancia para asegurarse de que los campos estén sincronizados para ambos **Posible cliente** y **Contacto**. Si no es así, agréguelos.
+Si falta alguno de estos campos, verá un mensaje de error en Marketo con el nombre de los campos que faltan. Para solucionarlo, proteja su instancia para asegurarse de que los campos estén sincronizados para **Lead** y **Contact**. Si no es así, agréguelos.
 
 A continuación, se indica cómo verificar y agregar campos de sincronización.
 
@@ -27,7 +27,7 @@ A continuación, se indica cómo verificar y agregar campos de sincronización.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **Editar** en Detalles de sincronización de campos.
+1. Haz clic en **Editar** en Detalles de sincronización de campos.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ A continuación, se indica cómo verificar y agregar campos de sincronización.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,4 +57,4 @@ A continuación, se indica cómo verificar y agregar campos de sincronización.
 
 >[!MORELIKETHIS]
 >
->[Configuración de Estrellas y Llamas para Registros de Plomo/Contacto](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[Configuración de estrellas y llamas para registros de contactos o posibles clientes](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

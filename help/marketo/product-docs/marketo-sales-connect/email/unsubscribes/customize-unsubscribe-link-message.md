@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
 
 ## Personalice la mensajería para usted {#customize-messaging-for-yourself}
 
-1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Cancela la suscripción**.
+1. En Mi cuenta, seleccione **Cancelar suscripciones**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
    >
    >No importa cuál sea la dirección URL que se está hipervinculando. Cuando se envía el correo electrónico, ese hipervínculo se convierte en el vínculo de cancelación de suscripción.
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/five.png)
 
 ## Establecer la mensajería de cancelación de suscripción para su equipo {#set-unsubscribe-messaging-for-your-team}
 
-1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/six.png)
 
-1. En Configuración de administración, seleccione **Cancela la suscripción**.
+1. En Configuración de administración, seleccione **Cancelaciones de suscripción**.
 
    ![](assets/eight.png)
 
-1. Personalice la mensajería y haga clic en **Guardar** cuando termine.
+1. Personaliza tu mensaje y haz clic en **Guardar** cuando termines.
 
    ![](assets/seven.png)
 
-1. Seleccionar **Estoy configurando la mensajería predeterminada para mi equipo** para que la mensajería se aplique a todos los usuarios.
+1. Seleccione **Estoy configurando la mensajería predeterminada para mi equipo** para que la mensajería se aplique a todos los usuarios.
 
    ![](assets/eleven.png)

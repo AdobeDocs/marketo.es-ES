@@ -17,11 +17,11 @@ A continuación se indican algunas cosas que debe saber acerca de la adición y 
 
 ## Adición de Valores de Lista {#adding-picklist-values}
 
-1. Si se añade un valor adicional en Salesforce a un tipo de campo de lista desplegable, recibirá un [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identificar a qué formularios afectará esto.
+1. Si se agrega un valor adicional en Salesforce a un tipo de campo de lista desplegable, recibirá una [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} que indica a qué formularios afectará esto.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vaya al editor de formularios y [añadir el valor adicional](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} a su lista de sugerencias.
+1. Vaya al editor de formularios y [agregue el valor adicional](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} a su lista de sugerencias.
 
 ## Eliminar valores de la lista desplegable {#remove-picklist-values}
 

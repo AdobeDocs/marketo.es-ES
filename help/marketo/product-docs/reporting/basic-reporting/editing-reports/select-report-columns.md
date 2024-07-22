@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
-1. Vaya a la **Analytics** (o **Actividades de marketing**) área.
+1. Vaya al área de **Analytics** (o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Haga clic en **Informe** , luego haga clic en cualquier encabezado de columna y seleccione **Columnas** y, a continuación, elija las columnas que desea incluir.
+1. Haga clic en la ficha **Informe**, luego haga clic en cualquier encabezado de columna y seleccione **Columnas** y, a continuación, elija las columnas que desea incluir.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[Ordenar informes en columnas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[Ordenar informe en columnas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

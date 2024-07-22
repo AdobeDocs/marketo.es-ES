@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estas instrucciones para convertir el campo de país en una lista desplegable con una lista de todos los países.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-9.png)
 
@@ -23,23 +23,23 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/editform-1.png)
 
-1. Haga clic en **+** signo.
+1. Haga clic en el signo **+**.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Buscar y seleccionar **País**.
+1. Busque y seleccione **País**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con el **País** el campo seleccionado cambie la **Tipo de campo** hasta **Seleccionar**.
+1. Con el campo **País** seleccionado, cambie **Tipo de campo** a **Seleccionar**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Editar** el **Valores** para añadir la lista de países entre los que los usuarios pueden elegir.
+1. **Editar** los **Valores** para agregar la lista de países entre los que los usuarios pueden elegir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Clic **Avanzadas** **Editor**.
+1. Haga clic en **Avanzado** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
    >
    >No dude en editar la lista o utilizar cualquier otra lista.
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

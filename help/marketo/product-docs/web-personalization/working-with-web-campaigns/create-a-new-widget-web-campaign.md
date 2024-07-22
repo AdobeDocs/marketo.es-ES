@@ -6,26 +6,26 @@ exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
 # Creación de una nueva campaña web de widget {#create-a-new-widget-web-campaign}
 
-Una campaña web es una reacción personalizada asociada a un segmento específico y puede ser una [cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) en su sitio web, una [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una función de widget o una alerta por correo electrónico. La campaña web Widget es un texto o banner que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras permanece fijo en la página del sitio web durante toda la visita.
+Una campaña web es una reacción personalizada asociada a un segmento específico y puede ser un [cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) en tu sitio web, un [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una característica de widget o una alerta por correo electrónico. La campaña web Widget es un texto o banner que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras permanece fijo en la página del sitio web durante toda la visita.
 
 ## Creación de una campaña web de widget {#create-a-widget-web-campaign}
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Seleccionar **Creación de una nueva campaña web**.
+1. Seleccione **Crear nueva campaña web**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Seleccione el **Widget** tipo de campaña.
+1. Seleccione el tipo de campaña **Widget**.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/4.png)
 
-1. Clic **Previsualizar** para ver cómo reaccionará la campaña web en el sitio.
+1. Haga clic en **Vista previa** para ver cómo reaccionará la campaña web en el sitio.
 
    ![](assets/preview.png)
 
@@ -51,7 +51,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mostrar activado</strong></td> 
-   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña web.</td> 
+   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra su campaña web.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animar entrada/salida</strong></td> 
@@ -67,7 +67,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Botón Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personalice el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Tipos de archivo aceptados: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: el widget puede ser texto; personalice el color, el tamaño y la fuente.</td> 
+   <td colspan="1" rowspan="1">Personalice el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Tipos de archivo aceptados: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: el widget puede ser texto; personalice su color, tamaño y fuente.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adhesivo</strong></td> 
@@ -83,10 +83,10 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Vista previa en el sitio </strong></td> 
-   <td colspan="1">Previsualice las campañas antes de iniciarlas.<br> 
+   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br> 
     <ul> 
      <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li> 
-     <li>Vista previa: clic <strong>Previsualizar </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña (Añada la variable <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Extensión de Chrome</a> para obtener la mejor experiencia de vista previa de campañas web). </li> 
+     <li>Vista previa: haga clic en <strong>Vista previa </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña (añada la <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensión de Chrome</a> para disfrutar de la mejor experiencia de vista previa de campañas web). </li> 
      <li>Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li> 
     </ul></td> 
   </tr> 
@@ -95,31 +95,31 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Quiere probar las campañas web con A/B?** Se pueden configurar una o más campañas web [Prueba A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la función Ajuste automático, la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
+>**¿Quiere probar sus campañas web?** Una o más campañas web se pueden [probar A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la función Ajuste automático, la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 
-En la página Campañas web, haga clic en **Editar** en Campaign.
+En la página Campañas web, haz clic en **Editar** en la campaña.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Para facilitar la búsqueda de la campaña que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Para facilitar la búsqueda de la campaña que desea, use la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Clonar una campaña web {#clone-a-web-campaign}
 
-Consulte [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Previsualización de una campaña web {#preview-a-web-campaign}
 
-En la página Campañas web, haga clic en **Previsualizar** en la campaña web que desea previsualizar
+En la página Campañas web, haz clic en **Vista previa** en la campaña web que desees previsualizar
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Eliminación de una campaña web {#delete-a-web-campaign}
 
-1. En la página Campañas web, haga clic en **Eliminar** en la campaña web que desea eliminar.
+1. En la página Campañas web, haga clic en **Eliminar** en la campaña web que desee eliminar.
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,5 +127,5 @@ En la página Campañas web, haga clic en **Previsualizar** en la campaña web q
 
 >[!MORELIKETHIS]
 >
->* [Creación de una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creación de una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crear una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

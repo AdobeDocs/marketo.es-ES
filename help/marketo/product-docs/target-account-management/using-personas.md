@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Las personas son una buena manera de segmentar su audiencia de ABM y comercializ
 
    ![](assets/using-personas-2.png)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Las personas son una buena manera de segmentar su audiencia de ABM y comercializ
    >
    >El Puesto se incluye de forma predeterminada. No se puede modificar ni eliminar.
 
-1. Para añadir personalidades adicionales, haga clic en **+Agregar**.
+1. Para agregar personalidades adicionales, haga clic en **+Agregar**.
 
    ![](assets/four.png)
 
-1. Asigne un nombre al perfil y seleccione el campo correspondiente en la lista desplegable. Puede añadir hasta dos personalidades adicionales. Clic **Guardar** cuando termine.
+1. Asigne un nombre al perfil y seleccione el campo correspondiente en la lista desplegable. Puede añadir hasta dos personalidades adicionales. Haga clic en **Guardar** cuando termine.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Vea sus personalidades visitando una cuenta con nombre específica.
 
    ![](assets/one-a.png)
 
-1. Haga clic en **Personas** pestaña.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/two-a.png)
 

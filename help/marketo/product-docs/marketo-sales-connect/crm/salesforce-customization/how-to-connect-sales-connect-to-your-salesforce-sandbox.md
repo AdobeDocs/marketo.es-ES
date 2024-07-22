@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Su cuenta de Sales Connect no puede estar conectada a Salesforce al establecer una conexión con la zona protegida. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
 
-1. En Sales Connect, haga clic en el icono del engranaje situado en la esquina superior derecha y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-2.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. En la tarjeta Salesforce, haga clic en **Más información**.
+1. En la tarjeta de Salesforce, haga clic en **Más información**.
 
    ![](assets/three-2.png)
 
-1. En la parte inferior de la página, haga clic en **Conectar con espacio aislado**.
+1. En la parte inferior de la página, haz clic en **Conectarse a espacio aislado**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Cómo instalar personalizaciones en la zona protegida de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Cómo instalar personalizaciones en su espacio aislado de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

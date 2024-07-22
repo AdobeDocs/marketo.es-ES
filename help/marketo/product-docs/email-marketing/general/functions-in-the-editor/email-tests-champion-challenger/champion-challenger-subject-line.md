@@ -17,17 +17,17 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en el **Tipo de prueba** menú desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en la lista desplegable **Tipo de prueba**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >En una prueba de asunto, la primera línea de asunto introducida se designa como la **Campeona**. Se llaman a las líneas de asunto siguientes **Desafíos**.
+   >En una prueba de asunto, la primera línea de asunto que se introduzca se designará como **Campeón**. Las líneas de asunto subsiguientes se denominan **Challenger**.
 
-1. Introduzca las líneas de asunto para la **Desafíos**.
+1. Escriba la(s) línea(s) de asunto de **Challenger**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
 
    Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

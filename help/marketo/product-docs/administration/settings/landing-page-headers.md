@@ -18,15 +18,15 @@ Siga los pasos a continuación para personalizar algunos de los encabezados HTTP
 
    ![](assets/landing-page-headers-1.png)
 
-1. Clic **[!UICONTROL Páginas de aterrizaje]**.
+1. Haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Clic **[!UICONTROL Editar]** junto a Encabezados HTTP de la página de aterrizaje.
+1. Haga clic en **[!UICONTROL Editar]** junto a los encabezados HTTP de la página de aterrizaje.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Elija la configuración que desee y haga clic en **[!UICONTROL Guardar]** cuando termine.
+1. Elija la configuración que desee y haga clic en **[!UICONTROL Guardar]** cuando haya terminado.
 
    ![](assets/landing-page-headers-4.png)
 

@@ -16,15 +16,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >[!CAUTION]
 >
->Para obtener un informe preciso, evite _reutilización_ Cree un correo electrónico desde un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar, ya que copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
+>Para generar informes precisos, evite _reutilizar_ un correo electrónico de un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, ya que esto copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
 
-Una vez que haya [creó un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) y ha definido su audiencia, deberá decidir qué correo electrónico va a enviar. Puede [creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) desde cero o elija uno que ya exista. Así es como elegir uno que ya existe.
+Una vez que [hayas creado un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) y hayas definido tu audiencia, decidirás qué correo electrónico estás enviando. Puede [crear un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) desde cero o elegir uno que ya exista. Así es como elegir uno que ya existe.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,13 +32,13 @@ Una vez que haya [creó un programa de correo electrónico](/help/marketo/produc
 
    ![](assets/selectemailprogram.jpg)
 
-1. En el **Correo electrónico** , seleccione el que desee enviar.
+1. En el mosaico **Correo electrónico**, seleccione el que desee enviar.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >Solo se pueden seleccionar correos electrónicos locales. ¿Necesita mover un correo electrónico de un programa a otro? [Descubra cómo aquí](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
+   >Solo se pueden seleccionar correos electrónicos locales. ¿Necesita mover un correo electrónico de un programa a otro? [Aprenda a hacerlo aquí](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    ¡Dulce!
 
@@ -48,5 +48,5 @@ Ahora que hemos decidido qué correo electrónico enviar, podemos configurar una
 
 >[!MORELIKETHIS]
 >
->* [Añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>* [Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >* [Programe su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

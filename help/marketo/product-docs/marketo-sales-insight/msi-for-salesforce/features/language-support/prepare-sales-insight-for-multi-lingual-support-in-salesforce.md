@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 El conocimiento de ventas de Marketo se almacena por idioma. Por lo tanto, si desea que funcione para más de un idioma, debe introducir las credenciales por separado para cada idioma.
 
@@ -31,7 +31,7 @@ El conocimiento de ventas de Marketo se almacena por idioma. Por lo tanto, si de
 
 ## Adición de un nuevo idioma para Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Inicie sesión en Salesforce. En la lista desplegable debajo de su nombre, en la esquina superior derecha, haga clic en **Configurar**.
+1. Inicie sesión en Salesforce. En la lista desplegable debajo de su nombre, en la esquina superior derecha, haga clic en **Configuración**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -39,7 +39,7 @@ El conocimiento de ventas de Marketo se almacena por idioma. Por lo tanto, si de
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
@@ -47,19 +47,19 @@ El conocimiento de ventas de Marketo se almacena por idioma. Por lo tanto, si de
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. La interfaz de Salesforce ahora está en el idioma seleccionado. Puede hacer clic en **+** para ver todas las pestañas disponibles.
+1. La interfaz de Salesforce ahora está en el idioma seleccionado. Puede hacer clic en el icono **+** para ver todas las fichas disponibles.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Clic **Configuración de Marketo Sales Insight** (en el idioma seleccionado).
+1. Haga clic en **Configurar Marketo Sales Insight** (en el idioma seleccionado).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vaya a Marketo. Busque su [Perspectiva de ventas de Marketo **Configuración de API** detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Vaya a Marketo. Busque su [información de ventas de Marketo **configuración de la API** detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Introduzca los detalles de la API de Marketo y haga clic en **Guardar**.
+1. Escriba los detalles de la API de Marketo y haga clic en **Guardar**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -71,19 +71,19 @@ Cuando termine de personalizar su organización de Salesforce, le explicamos có
 >
 >Las siguientes capturas de pantalla están en francés con instrucciones en inglés.  Verá las mismas pantallas con texto en el idioma seleccionado en el paso anterior.
 
-1. Bajo su nombre, haga clic en **Configurar**.
+1. En su nombre, haga clic en **Configuración**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Clic **Información personal** bajo **Mi información personal**.
+1. Haga clic en **Información personal** en **Información personal**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Seleccionar **Inglés** en la lista desplegable Idioma y haga clic en **Guardar**.
+1. Seleccione **Inglés** de la lista desplegable Idioma y haga clic en **Guardar**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

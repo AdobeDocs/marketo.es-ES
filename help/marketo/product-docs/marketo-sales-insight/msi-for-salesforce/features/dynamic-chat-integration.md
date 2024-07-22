@@ -1,38 +1,38 @@
 ---
 description: Integración de Dynamic Chat - Documentos de Marketo - Documentación del producto
-title: Integración de Dynamic Chat
+title: Integración del Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 5%
+source-wordcount: '415'
+ht-degree: 6%
 
 ---
 
-# Integración de Dynamic Chat {#dynamic-chat-integration}
+# Integración del Dynamic Chat {#dynamic-chat-integration}
 
 Obtenga más información sobre la integración de Dynamic Chat con Sales Insight.
 
 >[!PREREQUISITES]
 >
->* El paquete de SFDC de Sales Insight debe ser una versión [2.4.0 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Su paquete SFDC de Sales Insight debe ser de la versión [2.4.0 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Debe tener el [Integración de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurar
+>* Debe tener configurada la [integración de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}
 >
->* Asegúrese de que su perspectiva de ventas [Configuración operativa](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Compruebe que en su [Configuración operativa](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} de Sales Insight tenga rellenado el campo &quot;Clave secreta de API&quot;. Si no lo hace, aprenda a recuperarlo [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Pestaña Configuración de Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
 Siga los pasos a continuación para habilitar la integración de Dynamic Chat.
 
-1. Inicie sesión en su cuenta de Salesforce, haga clic en + al final de la barra de pestañas y luego en **Configuración de Marketo Sales Insight**.
+1. Inicie sesión en su cuenta de Salesforce, haga clic en el signo + al final de la barra de fichas y luego haga clic en **Configuración de Marketo Sales Insight**.
 
 1. Haga clic para desplegar el &quot;Panel de fuerza visual&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Seleccione el **Habilitar datos del Dynamic Chat** casilla de verificación
+1. Seleccione la casilla de verificación **Habilitar datos del Dynamic Chat**.
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -42,13 +42,13 @@ Los usuarios de Sales Insight pueden aprovechar las siguientes actividades de Dy
 
 Diálogo comprometido: Ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante hace clic en un bot de chat e interactúa con el diálogo.
 
-* Nombre del cuadro de diálogo
+* Nombre del diálogo
 * URL de la página
 * Estado (Iniciado/Descartado/Completado)
 
 Cita programada: se ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante programa correctamente una cita a través del bot de chat.
 
-* Nombre del cuadro de diálogo
+* Nombre del diálogo
 * Agente
 * URL de la página
 * Programado el (insertar marca de fecha y hora)
@@ -56,13 +56,13 @@ Cita programada: se ha iniciado sesión en Marketo y se ha completado en Sales I
 
 Meta alcanzada: Se ha iniciado sesión en Marketo y se ha completado en Información de ventas cuando un visitante alcanza una meta en cualquier flujo de diálogo.
 
-* Nombre del cuadro de diálogo
-* Nombre de meta
+* Nombre del diálogo
+* Nombre del objetivo
 * URL de la página
 
 Interactuó con el documento: ha iniciado sesión en Marketo y se rellena en Sales Insight cuando un visitante interactúa con un documento compartido mediante el bot de chat.
 
-* Nombre del cuadro de diálogo
+* Nombre del diálogo
 * Documento
 * Estado
 
@@ -87,7 +87,7 @@ La pestaña Chat también se incluye en la pestaña Global Marketo. Incluye tres
 * Persona
 * Cuenta
 * Tipo de actividad (cuadro de diálogo con participación, cita programada, meta alcanzada)
-* Nombre del cuadro de diálogo
+* Nombre del diálogo
 * Marca de fecha y hora
 
 De nuevo, puede obtener más información sobre un tipo de actividad haciendo clic en él.

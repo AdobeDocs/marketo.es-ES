@@ -5,8 +5,8 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 0%
+source-wordcount: '374'
+ht-degree: 1%
 
 ---
 
@@ -16,17 +16,17 @@ Siga estos pasos para agregar acceso a las funciones de Información de ventas e
 
 >[!PREREQUISITES]
 >
->[Actualice el paquete de Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} a la versión 1.8000 o superior de para utilizar esta función.
+>[Actualice el paquete de Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} a la versión 1.8000 o superior para usar esta característica.
 
 >[!IMPORTANT]
 >
->Si anteriormente ha proporcionado acceso a Sales Insight a todos los perfiles o ha implementado Sales Insight para todos los usuarios, debe [eliminar acceso de nivel de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para utilizar este conjunto de permisos.
+>Si anteriormente ha dado acceso a Sales Insight a todos los perfiles o ha implementado Sales Insight para todos los usuarios, debe [quitar el acceso de nivel de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para utilizar este conjunto de permisos.
 
 ## Información general {#overview}
 
 El permiso &quot;Aplicación de Marketo&quot; forma parte del paquete de Sales Insight Salesforce. Incluye acceso a los objetos mencionados a continuación, clases de Apex y páginas de visualforce. Son necesarios para acceder a todas las funciones de Información sobre ventas.
 
-**Configuración de objeto**
+**Configuración del objeto**
 
 <table> 
  <tbody> 
@@ -85,11 +85,11 @@ El permiso &quot;Aplicación de Marketo&quot; forma parte del paquete de Sales I
 
 1. Inicie sesión en su cuenta de Salesforce.
 
-1. Clic **Configurar**.
+1. Haga clic en **Configuración**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. En Administrador, haga clic en para mostrar **Administrar usuarios**, entonces **Usuarios**.
+1. En Administrador, haga clic para mostrar **Administrar usuarios** y luego **Usuarios**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
@@ -97,11 +97,11 @@ El permiso &quot;Aplicación de Marketo&quot; forma parte del paquete de Sales I
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. Clic **Editar asignaciones**.
+1. Haga clic en **Editar asignaciones**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Seleccionar **Acceso a aplicaciones Marketo** en los conjuntos de permisos disponibles, **Añadir**. Clic **Guardar**.
+1. Seleccione **Acceso a la aplicación Marketo** de los conjuntos de permisos disponibles y, a continuación, **Agregar**. Haga clic en **Guardar**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

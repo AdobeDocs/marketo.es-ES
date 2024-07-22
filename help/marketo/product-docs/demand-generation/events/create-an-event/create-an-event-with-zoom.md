@@ -6,7 +6,7 @@ exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '553'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,35 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir Zoom como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [Agregar zoom como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las variables apropiadas [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
+>* Establezca las [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)adecuadas para rastrear la participación
 
 Primero cree su seminario web en Zoom. Marketo utiliza ciertos ajustes en la creación del Zoom y algunos solo los utiliza Zoom.
 
-Después de crear un evento de Marketo y asociar un seminario web de Zoom con él, los sistemas podrán compartir la información de registro y asistencia. Para obtener ayuda con la creación de un seminario web, consulte  [Introducción a los seminarios web de Zoom](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+Después de crear un evento de Marketo y asociar un seminario web de Zoom con él, los sistemas podrán compartir la información de registro y asistencia. Para obtener ayuda para crear un seminario web, consulte [Introducción a los seminarios web sobre Zoom](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Introduzca la siguiente información para el seminario web y se incorporará a Marketo mediante el adaptador. Si realiza cambios en esta información, debe hacer clic en el vínculo &quot;Actualizar desde el proveedor de seminarios web&quot; en Acciones de eventos para que Marketo vea los cambios.
 
 **Título y descripción**
 
-* **Nombre del seminario web** : introduzca el nombre del seminario web. Este nombre se puede ver en Marketo.
+* **Nombre del seminario web**: escriba el nombre del seminario web. Este nombre se puede ver en Marketo.
 
 * **Descripción** (opcional): escriba la descripción del seminario web. La descripción se puede ver en Marketo.
 
 **Fecha y hora**
 
-* **Fecha de inicio** - Introduzca la fecha de inicio. Esto se puede ver en Marketo.
+* **Fecha de inicio** - Escriba la fecha de inicio. Esto se puede ver en Marketo.
 
-* **Hora de inicio** - Introduzca la hora de inicio. Esto se puede ver en Marketo.
+* **Hora de inicio** - Escriba la hora de inicio. Esto se puede ver en Marketo.
 
-* **Duración** : introduzca la duración. La hora de inicio y la hora de finalización se podrán ver en Marketo.
+* **Duración**: escriba la duración. La hora de inicio y la hora de finalización se podrán ver en Marketo.
 
-* **Zona horaria** - Seleccione la zona horaria aplicable. Esto se puede ver en Marketo.
+* **Zona horaria**: seleccione la zona horaria aplicable. Esto se puede ver en Marketo.
 
-* **Seminario web recurrente**- Manténgase sin marcar.
+* **Seminario web recurrente**: no marcar.
 
-* **Registro** - Marque esta casilla para que el registro sea obligatorio. Utilizará un formulario o una página de aterrizaje de Marketo para capturar la información de registro que se insertará en Zoom.
+* **Registro**: marque esta casilla para que el registro sea obligatorio. Utilizará un formulario o una página de aterrizaje de Marketo para capturar la información de registro que se insertará en Zoom.
 
 >[!NOTE]
 >
@@ -53,11 +53,11 @@ Introduzca la siguiente información para el seminario web y se incorporará a M
 
 >[!TIP]
 >
->Hay campos adicionales que configurará en Zoom que NO afectarán a la integración. Consulte la [Centro de ayuda del seminario web Zoom](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obtener más información sobre estos campos.
+>Hay campos adicionales que configurará en Zoom que NO afectarán a la integración. Consulta el [Centro de ayuda para seminarios web de Zoom](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obtener más información sobre estos campos.
 
 Ahora, ¡vamos a saltar a Marketo!
 
-1. Seleccione un evento. Clic **Acciones de evento** y elija **Configuración de eventos**.
+1. Seleccione un evento. Haga clic en **Acciones de eventos** y elija **Configuración de eventos**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,7 +65,7 @@ Ahora, ¡vamos a saltar a Marketo!
    >
    >El tipo de canal del evento seleccionado debe ser **seminario web**.
 
-1. Elegir **Zoom** desde el **Evento** **Socio** Lista.
+1. Elija **Zoom** de la lista de **Socios** del evento **5}.**
 
    ![](assets/eventsettings1.png)
 
@@ -77,7 +77,7 @@ Ahora, ¡vamos a saltar a Marketo!
 
    ![](assets/selectevent.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/eventsettingssave.png)
 
@@ -89,11 +89,11 @@ Ahora, ¡vamos a saltar a Marketo!
 
    >[!TIP]
    >
-   >Para rellenar el correo electrónico de confirmación con esta dirección URL única, utilice el siguiente token en el correo electrónico: `{{member.webinar url}}`. Cuando se envía la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
+   >Para rellenar el correo electrónico de confirmación con esta dirección URL única, use el siguiente token en el correo electrónico: `{{member.webinar url}}`. Cuando se envía la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
    >
-   >Defina su correo electrónico de confirmación en **Operativo** para garantizar que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
+   >Establece tu correo electrónico de confirmación en **Operativo** para asegurarte de que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
 
-   Las personas que se suscriban a su seminario web se enviarán al proveedor del seminario web a través del **Cambiar estado del programa** Paso de flujo cuando el Nuevo estado se establece en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de hacer **Cambiar estado del programa** paso de flujo #1, y **Enviar correo electrónico** paso de flujo #2.
+   Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo **Cambiar estado del programa** cuando el nuevo estado se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de hacer que el paso de flujo **Cambiar estado del programa** #1 y el paso de flujo **Enviar correo electrónico** #2.
 
    ![](assets/goto-webinar-1.png)
 
@@ -103,4 +103,4 @@ Ahora, ¡vamos a saltar a Marketo!
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar del proveedor de seminarios web** en el menú Acciones de evento de **Resumen** de su evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **Actualizar del proveedor de seminarios web** en el menú Acciones de eventos en la pestaña **Resumen** de tu evento.

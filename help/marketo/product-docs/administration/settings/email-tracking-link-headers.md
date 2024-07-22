@@ -18,7 +18,7 @@ Siga los pasos a continuación para personalizar los encabezados de vínculo de 
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 

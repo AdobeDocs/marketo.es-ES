@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede restringir la entrada del visitante mediante una máscara de entrada. Por ejemplo, es posible que desee que los visitantes especifiquen números de teléfono únicamente en un formato específico.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,19 +23,19 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleccione el campo y asegúrese de que **Tipo de campo** se establece en **Texto**.
+1. Seleccione su campo y asegúrese de que **Tipo de campo** está establecido en **Texto**.
 
    >[!NOTE]
    >
-   >El enmascaramiento de entrada sólo funciona con **Tipos de campos de texto**.
+   >El enmascaramiento de entrada solo funciona con **Tipos de campos de texto**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Haga clic en **Entrada de máscara** vínculo.
+1. Haga clic en el vínculo **Entrada de máscara**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Introduzca la máscara de entrada y haga clic en **Guardar**.
+1. Escriba la máscara de entrada y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
    >
    >Preste atención a las reglas de enmascaramiento. Puede restringir la entrada a números, letras, ambos o incluso limitar el número de caracteres introducidos.
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

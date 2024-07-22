@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-Al enviar correos electrónicos de marketing (que no sean[operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), cancelar la suscripción del texto y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es como.
+Cuando envía correos electrónicos de marketing (que no son [operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), el texto de cancelación de suscripción y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es como.
 
 ## Dónde realizar la edición {#where-to-make-the-edit}
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,11 +36,11 @@ Al enviar correos electrónicos de marketing (que no sean[operativo](/help/marke
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Edite el **[!UICONTROL Cancelar suscripción al HTML]** y **[!UICONTROL Cancelar suscripción a texto]** versiones a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
+1. Edite las versiones de **[!UICONTROL Cancelar la suscripción del HTML]** y **[!UICONTROL Cancelar la suscripción del texto]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Ahí lo tienes. _¡Asegúrese de probar!_ No quiere que sus correos electrónicos de marketing tengan vínculos de cancelación de suscripción rotos.
+   Ahí lo tienes. _¡Asegúrese de probar!_: no desea que los correos electrónicos de marketing tengan vínculos de cancelación de suscripción rotos.
 
 >[!TIP]
 >
@@ -50,8 +50,8 @@ Al enviar correos electrónicos de marketing (que no sean[operativo](/help/marke
 
 Si alguna vez necesita revertir a la cancelación de suscripción predeterminada del sistema, copie/pegue lo siguiente:
 
-[!UICONTROL Cancelar suscripción al HTML]:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Cancelar suscripción a texto]:
+[!UICONTROL Cancelar la suscripción del HTML]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Texto para cancelar la suscripción]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]

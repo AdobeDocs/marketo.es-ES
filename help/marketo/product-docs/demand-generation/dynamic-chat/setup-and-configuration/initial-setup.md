@@ -2,11 +2,11 @@
 description: 'Configuración inicial: Documentos de Marketo, documentación del producto'
 title: Configuración inicial
 feature: Dynamic Chat
-exl-id: 61022682-412f-43d4-9fc9-b4914a6ce8f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 
@@ -18,13 +18,13 @@ Siga los pasos a continuación para configurar Dynamic Chat.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
-1. Una vez habilitado el Dynamic Chat para la instancia de Marketo, el administrador del sistema designado recibirá un correo electrónico de bienvenida. En ese correo electrónico, haga clic en **Primeros pasos**.
+1. Una vez habilitado el Dynamic Chat para la instancia de Marketo, el administrador del sistema designado recibirá un correo electrónico de bienvenida. En ese mensaje de correo electrónico, haga clic en **Introducción**.
 
    ![](assets/initial-setup-1.png)
 
-1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 

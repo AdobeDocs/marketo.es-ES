@@ -5,8 +5,8 @@ exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 15%
+source-wordcount: '557'
+ht-degree: 34%
 
 ---
 
@@ -28,7 +28,7 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <th>Atributo</th>
  </tr>
  <tr>
-  <th rowspan="9">Enviar email de ventas</th>
+  <th rowspan="9">Enviar correo electrónico de ventas</th>
   <td>Enviado por</td>
  </tr>
  <tr>
@@ -38,25 +38,25 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <td>Identificación de la plantilla</td>
  </tr>
  <tr>
-  <td>URL de plantilla de ventas</td>
+  <td>URL de la plantilla de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Nombre de plantilla de ventas</td>
+  <td>Nombre de la plantilla de ventas</td>
  </tr>
  <tr>
   <td>Asunto del correo electrónico</td>
  </tr>
  <tr>
-  <td>Nombre de campaña de ventas</td>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
  <tr>
-  <th rowspan="9">Abrir email de ventas</th>
+  <th rowspan="9">Abrir correo electrónico de ventas</th>
   <td>Enviado por</td>
  </tr>
  <tr>
@@ -66,22 +66,22 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <td>Identificación de la plantilla</td>
  </tr>
  <tr>
-  <td>URL de plantilla de ventas</td>
+  <td>URL de la plantilla de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Nombre de plantilla de ventas</td>
+  <td>Nombre de la plantilla de ventas</td>
  </tr>
  <tr>
   <td>Asunto del correo electrónico</td>
  </tr>
  <tr>
-  <td>Nombre de campaña de ventas</td>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
  <tr>
   <th rowspan="10">Correo electrónico de ventas seleccionado</th>
@@ -97,51 +97,51 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <td>Identificación de la plantilla</td>
  </tr>
  <tr>
-  <td>URL de plantilla de ventas</td>
+  <td>URL de la plantilla de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Nombre de plantilla de ventas</td>
+  <td>Nombre de la plantilla de ventas</td>
  </tr>
  <tr>
   <td>Asunto del correo electrónico</td>
  </tr>
  <tr>
-  <td>Nombre de campaña de ventas</td>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
 <tr>
-  <th rowspan="3">Correo electrónico de respuesta a ventas</th>
+  <th rowspan="3">Respondió al email de ventas</th>
   <td>Recibido por</td>
  </tr>
  <tr>
   <td>Origen</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
  <tr>
-  <th rowspan="11">Llamada de ventas recibida</th>
-  <td>Llamada de Sales realizada por</td>
+  <th rowspan="11">Recibió llamada de ventas</th>
+  <td>Llamada de ventas realizada por</td>
  </tr>
  <tr>
-  <td>Estado de llamada de ventas</td>
+  <td>Estado de la llamada de ventas</td>
  </tr>
  <tr>
-  <td>Asunto de llamada de ventas</td>
+  <td>Asunto de la llamada de ventas</td>
  </tr>
  <tr>
-  <td>Nombre de campaña de ventas</td>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Número de teléfono de ventas llamado</td>
+  <td>Número de teléfono de ventas al que se llamó</td>
  </tr>
  <tr>
   <td>Origen</td>
@@ -150,23 +150,23 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <td>Duración de llamada de ventas</td>
  </tr>
  <tr>
-  <td>URL de la grabación de la llamada de Sales</td>
+  <td>URL de registro de llamadas de ventas</td>
  </tr>
   <tr>
-  <td>Llamada de Sales respondida por</td>
+  <td>Llamada de ventas respondida por</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
  <tr>
-  <th rowspan="6">Añadir a la campaña de ventas</th>
-  <td>Nombre de campaña de ventas</td>
+  <th rowspan="6">Agregar a la campaña de ventas</th>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Estado de llamada de ventas</td>
+  <td>Estado de la llamada de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
   <td>Enviado por</td>
@@ -179,13 +179,13 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
  </tr>
  <tr>
   <th rowspan="6">Eliminar de la campaña de ventas</th>
-  <td>Nombre de campaña de ventas</td>
+  <td>Nombre de la campaña de ventas</td>
  </tr>
  <tr>
-  <td>Estado de llamada de ventas</td>
+  <td>Estado de la llamada de ventas</td>
  </tr>
  <tr>
-  <td>URL de campaña de ventas</td>
+  <td>URL de la campaña de ventas</td>
  </tr>
  <tr>
   <td>Enviado por</td>
@@ -207,7 +207,7 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   <td>Enviado por</td>
  </tr>
  <tr>
-  <td>Identificación de la persona de ventas de Marketo</td>
+  <td>ID de vendedor de Marketo</td>
  </tr>
  <tr>
   <td>Identificación de la plantilla</td>
@@ -235,7 +235,7 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
    <td>URL en la que se hizo clic.</td> 
   </tr> 
   <tr> 
-   <td><strong>Identificación de la persona de ventas de Marketo</strong></td> 
+   <td><strong>ID de vendedor de Marketo</strong></td> 
    <td>ID único de registro de persona en acciones de perspectiva de ventas.</td> 
   </tr> 
   <tr> 
@@ -243,7 +243,7 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
    <td>Dirección de correo electrónico de la persona que envió el correo electrónico.</td> 
   </tr>
   <tr> 
-   <td><strong>Llamada de Sales respondida por</strong></td> 
+   <td><strong>Llamada de ventas respondida por</strong></td> 
    <td>Nombre de la persona que respondió a la llamada.</td> 
   </tr>
   <tr> 
@@ -251,19 +251,19 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
    <td>Duración de la llamada en segundos.</td> 
   </tr>
   <tr> 
-   <td><strong>Llamada de Sales realizada por</strong></td> 
+   <td><strong>Llamada de ventas realizada por</strong></td> 
    <td>Dirección de correo electrónico del vendedor que realizó la llamada.</td> 
   </tr>
   <tr> 
-   <td><strong>URL de la grabación de la llamada de Sales</strong></td> 
+   <td><strong>URL de registro de llamadas de ventas</strong></td> 
    <td>URL de registro de llamadas.</td> 
   </tr>
   <tr> 
-   <td><strong>Estado de llamada de ventas</strong></td> 
+   <td><strong>Estado de la llamada de ventas</strong></td> 
    <td>Se guardará el estado final de la llamada, que incluye: completado, sin respuesta, cancelado, fallido.</td> 
   </tr>
   <tr> 
-   <td><strong>Asunto de llamada de ventas</strong></td> 
+   <td><strong>Asunto de la llamada de ventas</strong></td> 
    <td>Resultado de la llamada seleccionado por un usuario de ventas en el marcador.</td> 
   </tr>
   <tr> 
@@ -271,11 +271,11 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
    <td>ID único del recurso de campaña de ventas en acciones de perspectiva de ventas.</td> 
   </tr>
   <tr> 
-   <td><strong>Nombre de campaña de ventas</strong></td> 
+   <td><strong>Nombre de la campaña de ventas</strong></td> 
    <td>Nombre de la campaña de ventas.</td> 
   </tr>
   <tr> 
-   <td><strong>URL de campaña de ventas</strong></td> 
+   <td><strong>URL de la campaña de ventas</strong></td> 
    <td>URL de acciones de perspectiva de ventas para la campaña de ventas.</td> 
   </tr>
   <tr> 
@@ -283,15 +283,15 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
    <td>Línea de asunto del correo electrónico seguida de un ID único (por ejemplo: Mi línea de asunto (SIA-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Número de teléfono de ventas llamado</strong></td> 
+   <td><strong>Número de teléfono de ventas al que se llamó</strong></td> 
    <td>Número de teléfono al que llama Sales.</td> 
   </tr>
   <tr> 
-   <td><strong>Nombre de plantilla de ventas</strong></td> 
+   <td><strong>Nombre de la plantilla de ventas</strong></td> 
    <td>Nombre de la plantilla de correo electrónico en las acciones de Sales Insight.</td> 
   </tr>
   <tr> 
-   <td><strong>URL de plantilla de ventas</strong></td> 
+   <td><strong>URL de la plantilla de ventas</strong></td> 
    <td>URL de acciones de perspectiva de ventas para plantilla de correo electrónico.</td> 
   </tr>
   <tr> 
@@ -300,11 +300,11 @@ Las actividades siguientes se registrarán en Marketo desde Acciones de informac
   </tr> 
   <tr> 
    <td><strong>Origen</strong></td> 
-   <td>Origen de la actividad. Se definirá como "Exposición" para las actividades de acciones de perspectiva de ventas antes de la versión de octubre de 2021. Será la "aplicación de ventas" para las actividades de acciones de perspectiva de ventas después de la versión de octubre de 2021.</td>
+   <td>Source de la actividad. Se definirá como "Exposición" para las actividades de acciones de perspectiva de ventas antes de la versión de octubre de 2021. Será la "aplicación de ventas" para las actividades de acciones de perspectiva de ventas después de la versión de octubre de 2021.</td>
   </tr> 
   <tr> 
    <td><strong>Identificación de la plantilla</strong></td> 
-   <td>Cuando el origen es Tout, el ID de plantilla será el ID de plantilla de acciones de Marketo Sales Insight. Utilícelo para dirigirse a una plantilla específica en lugar de a la línea de asunto, que podría existir en varias plantillas.
+   <td>Cuando el origen es Tout, el ID de la plantilla será el ID de la plantilla de acciones de Marketo Sales Insight. Utilícelo para dirigirse a una plantilla específica en lugar de a la línea de asunto, que podría existir en varias plantillas.
 </td> 
   </tr> 
  </tbody> 

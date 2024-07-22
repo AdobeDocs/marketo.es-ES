@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 8%
+ht-degree: 16%
 
 ---
 
@@ -35,7 +35,7 @@ El área Análisis de pertenencia a programas le permite analizar la eficacia de
 >
 >Los puntos amarillos son dimensiones y los puntos azules son medidas.
 
-### Suscripción {#membership}
+### Membresía {#membership}
 
 | Medida | Descripción |
 |---|---|
@@ -47,7 +47,7 @@ El área Análisis de pertenencia a programas le permite analizar la eficacia de
 
 | Dimensión | Descripción |
 |---|---|
-| Programa Canal | Canal de programa |
+| Canal del programa | Canal del programa |
 | Nombre del programa | Nombre del programa |
 
 ### Plazo de pertenencia al programa {#program-membership-timeframe}
@@ -64,7 +64,7 @@ El área Análisis de pertenencia a programas le permite analizar la eficacia de
 
 | Medida | Descripción |
 |---|---|
-| % de éxito (nuevos nombres) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y alcanzaron el éxito en la progresión del programa |
+| % de éxito (nombres nuevos) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y alcanzaron el éxito en la progresión del programa |
 | % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
-| Correcto (nuevos nombres) | Número total de nombres nuevos que alcanzaron el éxito en la progresión de un programa |
+| Éxito (nombres nuevos) | Número total de nombres nuevos que alcanzaron el éxito en la progresión de un programa |
 | Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |

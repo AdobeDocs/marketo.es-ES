@@ -17,9 +17,9 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Correos electrónicos completos** en el **Tipo de prueba** menú desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Correos electrónicos completos** en la lista desplegable **Tipo de prueba**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
    >
    >Recuerde: El correo electrónico original es el campeón. Los rivales compiten contra él.
 
-1. Busque y seleccione el **Desafíos** correo electrónico y haga clic en **Clonar**.
+1. Busque y seleccione los correos electrónicos de **Challenger** y luego haga clic en **Clonar**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
 
    Para obtener confianza estadística, asegúrese de que el porcentaje que asigna a los aspirantes incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ¿Desea cambiar la configuración regional del usuario para ver solo los datos de su región específica?
 
-1. Ir a **Configuración de usuario**.
+1. Vaya a **Configuración de usuario**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Clic **Editar regiones**.
+1. Haga clic en **Editar regiones**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

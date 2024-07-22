@@ -22,7 +22,7 @@ ht-degree: 0%
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
 Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición con HTML. El editor de HTML ahora cuenta con una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrá alternar entre las versiones nueva y heredada del editor de **Administración > Correo electrónico > Editar configuración del editor**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **Administración > Correo electrónico > Editar configuración del editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -48,10 +48,10 @@ Al hacer clic en el mosaico de capacidad de entrega de correo electrónico, ya n
 
 ## API de empresa {#company-api}
 
-**Acceso al objeto de la compañía mediante la API de REST**: la API de REST ahora proporciona acceso al objeto Marketo Company (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
+**Acceso al objeto Company a través de la API REST**: La API REST ahora proporciona acceso al objeto Company de Marketo (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
 
-Aprender [más]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) en nuestra guía de referencia para la API de la compañía.
+Obtenga [más información]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) en nuestra guía de referencia para la API de la compañía.
 
 ## Acceso a entrega de correo electrónico {#access-email-deliverability}
 
-**Acceso a herramienta de entrega de correo electrónico**: Este nuevo permiso permite a los administradores otorgar a los usuarios acceso a la herramienta de envío de correo electrónico.
+**Acceder a la herramienta de entrega de correo electrónico**: este nuevo permiso permite a los administradores otorgar a los usuarios acceso a la herramienta de entrega de correo electrónico.

@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Envío de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en **People** pestaña.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -34,9 +34,9 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Edición de un correo electrónico de grupo {#editing-a-group-email}
 
-1. Crear un correo electrónico de grupo mediante [Pasos 1 a 3 anteriores](#sending-a-group-email).
+1. Cree un correo electrónico de grupo mediante [Pasos del 1 al 3 anteriores](#sending-a-group-email).
 
-1. [Elija una plantilla](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md), o complete su correo electrónico.
+1. [Elige una plantilla](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) o completa tu correo electrónico.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Seleccione el destinatario deseado y haga clic en **Previsualizar campos dinámicos**. Vea la vista previa a la derecha.
+1. Seleccione el destinatario deseado y haga clic en **Vista previa de campos dinámicos**. Vea la vista previa a la derecha.
 
    ![](assets/sending-emails-via-group-email-7.png)
 

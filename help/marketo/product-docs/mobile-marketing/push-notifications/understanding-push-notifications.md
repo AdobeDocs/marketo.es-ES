@@ -6,7 +6,7 @@ exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ El administrador de Marketo y el desarrollador de aplicaciones móviles trabajan
 
 ## Paso 2: Crear una notificación push {#step-create-a-push-notification}
 
-[Diseñe su mensaje](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) y previsualizar cómo se muestra en dispositivos Android y iOS.
+[Crea tus mensajes](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) y previsualiza cómo se muestran en los dispositivos Android y iOS.
 
 ## Paso 3: ¡Envíe! {#step-send}
 
-[Se pueden enviar notificaciones push](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) uso de campañas inteligentes por déclencheur y por lotes. Bastante genial, ¿eh?
+[Se pueden enviar notificaciones push](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) mediante campañas inteligentes por lotes y déclencheur. Bastante genial, ¿eh?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

@@ -23,6 +23,6 @@ A veces se puede tener demasiado de una cosa buena. Eliminar presentaciones anti
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Clic **[!UICONTROL Eliminar]** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

@@ -6,8 +6,8 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '404'
+ht-degree: 3%
 
 ---
 
@@ -17,9 +17,9 @@ Las siguientes funciones están incluidas en la versión de agosto de 2014. Comp
 
 ## Licencias de calendario de marketing {#marketing-calendar-licenses}
 
-A partir del 5 de septiembre de 2014, solo 5 usuarios podrán acceder de forma gratuita al calendario de marketing. Asegúrese de [Emitir/revocar una licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios de su elección antes de, para un acceso sin interrupciones.
+A partir del 5 de septiembre de 2014, solo 5 usuarios podrán acceder de forma gratuita al calendario de marketing. Asegúrese de [Emitir/Revocar una licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios que elija antes de entonces para obtener acceso sin interrupciones.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nuevos permisos de usuario {#new-user-permissions}
 
@@ -27,15 +27,15 @@ Se agregaron los siguientes permisos de usuario nuevos:
 
 | Permiso | Descripción |
 |---|---|
-| Acceder al Explorador de ingresos | Si ha adquirido RCA, ahora tendrá control sobre quién puede acceder a él. |
+| Acceder al explorador de ingresos | Si ha adquirido RCA, ahora tendrá control sobre quién puede acceder a él. |
 | Lista de importación | Restringir a los usuarios la importación de listas en la base de datos de posibles clientes. |
 | Lista de importación | Restrinja a los usuarios la importación de listas a través de un programa en actividades de marketing. |
-| Activar campaña de Déclencheur | Controle quién puede activar y no puede activar campañas de déclencheur. |
+| Activar campaña desencadenadora | Controle quién puede activar y no puede activar campañas de déclencheur. |
 | Programar campaña por lotes | Controle quién puede y no puede programar ejecuciones de campañas por lotes. |
 
 ## Exportar usuarios y funciones desde el administrador {#export-users-and-roles-from-admin}
 
-Ahora puede [Exportar una lista de usuarios y funciones](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) de Marketo. También puede incluir una marca de tiempo &quot;Último inicio de sesión&quot; para que se incluya en la exportación.
+Ahora puede [Exportar una lista de usuarios y roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketo. También puede incluir una marca de tiempo &quot;Último inicio de sesión&quot; para que se incluya en la exportación.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ Para mejorar la capacidad de entrega, todos los correos electrónicos salientes 
 >
 >DKIM se desplegará lentamente; es posible que no lo vea durante unas semanas.
 
-## Actualizaciones de personalización en tiempo real {#real-time-personalization-updates}
+## Actualizaciones de Real-Time Personalization {#real-time-personalization-updates}
 
 Hemos añadido etiquetas a la página de la campaña para que pueda etiquetar el contenido de su corazón.
 
@@ -93,6 +93,6 @@ Los usuarios administradores ahora pueden bloquear a los usuarios debido a vario
 
 ## Control de seguimiento {#tracking-control}
 
-Ahora puede excluir direcciones IP específicas de todo el seguimiento y los informes en Personalización en tiempo real.
+Ahora puede excluir direcciones IP específicas de todo el seguimiento y los informes en Real-Time Personalization.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

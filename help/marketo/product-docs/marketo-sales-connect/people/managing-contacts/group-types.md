@@ -33,7 +33,7 @@ Obtenga información sobre los distintos tipos de grupos en Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Grupos dinámicos</p></td> 
-   <td colspan="1">Mis contactos: Todos los contactos que posee.<br>Cancelaciones de la suscripción: contactos que han optado por no recibir correspondencia.</td> 
+   <td colspan="1">Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td> 
   </tr> 
   <tr> 
    <td><p>Mis grupos</p></td> 

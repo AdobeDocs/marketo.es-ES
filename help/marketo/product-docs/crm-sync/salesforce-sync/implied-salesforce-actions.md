@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 21%
 
 ---
@@ -48,6 +48,6 @@ Estas reglas se aplicarán cuando la persona no esté actualmente en [Salesforce
  </tbody> 
 </table>
 
-Puede filtrar los registros SFDC en una lista inteligente utilizando la variable **[!UICONTROL Tipo de SFDC]** Filtre con el operador establecido en no está vacío. Todos los registros SFDC tienen un valor en este campo.
+Puede filtrar los registros SFDC en una lista inteligente usando el filtro **[!UICONTROL SFDC Type]** con el operador establecido en &quot;no está vacío&quot;. Todos los registros SFDC tienen un valor en este campo.
 
-Recuerde, estas acciones automáticas solo se producen si el posible cliente no está actualmente en [Salesforce.com](https://salesforce.com){target="_blank"}
+Recuerde, estas acciones automáticas solo ocurren si el posible cliente no se encuentra actualmente en [Salesforce.com](https://salesforce.com){target="_blank"}

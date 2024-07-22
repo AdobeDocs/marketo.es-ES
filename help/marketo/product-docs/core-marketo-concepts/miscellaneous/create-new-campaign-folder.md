@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Las carpetas de campaña le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y estará en camino a la magia de la automatización.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccionar **[!UICONTROL Nuevo]**.
+1. Seleccione **[!UICONTROL Nuevo]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Seleccionar **[!UICONTROL Nueva carpeta de campaña]**.
+1. Seleccione **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Introduzca una **[!UICONTROL Nombre]** para la carpeta de campaña.
+1. Escriba un **[!UICONTROL Nombre]** para la carpeta de campañas.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Opcional: introduzca un **[!UICONTROL Descripción]** y haga clic en **[!UICONTROL Crear]**.
+1. Opcional: escriba una **[!UICONTROL Descripción]** y haga clic en **[!UICONTROL Crear]**.
 
    >[!TIP]
    >
@@ -38,13 +38,13 @@ Las carpetas de campaña le ayudan a mantener un espacio de trabajo ordenado. Si
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   ¡Increíble! Acaba de crear una carpeta de campaña. Échale un vistazo en el árbol.
+   ¡Fantástico! Acaba de crear una carpeta de campaña. Échale un vistazo en el árbol.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ahora, cuando [creación de un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campaña como una opción.
+   Ahora, cuando [cree un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campaña como una opción.
 
 >[!MORELIKETHIS]
 >
 >* [Crear un programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Creación de una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Crear una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

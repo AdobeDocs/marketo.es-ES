@@ -19,4 +19,4 @@ Revise las actividades web más recientes de su posible cliente, citando el recu
 
 ## Actividades web anónimas {#anonymous-web-activities}
 
-La pestaña Actividades web anónimas muestra todas las **anónimo** actividades web de visitantes de páginas web. Revise las actividades web más recientes citando el recuento de visitas a la página.
+La pestaña Actividades web anónimas muestra todas las actividades web de visitantes de páginas web **anonymous**. Revise las actividades web más recientes citando el recuento de visitas a la página.

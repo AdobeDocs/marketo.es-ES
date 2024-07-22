@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Sus mejores resultados son sus posibles clientes y contactos con la mayor urgenc
 
 >[!NOTE]
 >
->Si sus mejores resultados no coinciden con los mejores posibles clientes y contactos que posee, hable con alguien de su empresa que tenga acceso a Marketo para actualizar su [Reglas de puntuación](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Si tus mejores resultados no coinciden con los mejores posibles clientes y contactos que tienes, habla con alguien de tu empresa que tenga acceso a Marketo para actualizar tus [reglas de puntuación](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Cómo se calculan la urgencia y la puntuación relativa
 

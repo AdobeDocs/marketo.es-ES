@@ -21,11 +21,11 @@ Si el usuario de sincronización de Marketo está configurado en un idioma disti
 
 ## Dar la vuelta {#getting-around-it}
 
-1. Iniciar sesión en [!DNL Salesforce] uso del usuario de marketo sync.
+1. Inicie sesión en [!DNL Salesforce] con el usuario de marketo sync.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. En el nombre de usuario, vaya a **[!UICONTROL Configurar]**.
+1. Bajo el nombre de usuario, vaya a **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -33,11 +33,11 @@ Si el usuario de sincronización de Marketo está configurado en un idioma disti
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Clic **[!UICONTROL Editar]**.
+1. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Cambie el **[!UICONTROL Idioma]** hasta **[!UICONTROL Inglés]**.
+1. Cambiar **[!UICONTROL idioma]** a **[!UICONTROL inglés]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,7 +45,7 @@ Si el usuario de sincronización de Marketo está configurado en un idioma disti
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Vuelva a Marketo, en **[!UICONTROL Administrador]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**, haga clic en **[!UICONTROL Actualizar esquema]**.
+1. En Marketo, en **[!UICONTROL Administración]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**, haga clic en **[!UICONTROL Actualizar esquema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 

@@ -6,8 +6,8 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Un equipo de cuenta es un grupo de partes interesadas que trabajan juntas en una cuenta con nombre. Siga estos pasos para elegir qué funciones de cuenta de CRM se deben agregar.
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one-3.png)
 
-1. Clic **Administración de cuentas de Target**.
+1. Haga clic en **Administración de cuenta de Target**.
 
    ![](assets/account-team-setup-2.png)
 
-1. En Integrantes del equipo de cuentas, haga clic en **Editar**.
+1. En Integrantes del equipo de cuenta, haga clic en **Editar**.
 
    ![](assets/3.png)
 
@@ -31,7 +31,7 @@ Un equipo de cuenta es un grupo de partes interesadas que trabajan juntas en una
    >
    >Para la función de cuenta, asígnele un nombre y haga coincidir con el campo de búsqueda de usuario deseado en su CRM.
 
-1. Escriba el nombre de la función de la cuenta y seleccione **CRM** field. Añada hasta 10.
+1. Escriba el nombre de su rol de cuenta y seleccione el campo **CRM**. Añada hasta 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Un equipo de cuenta es un grupo de partes interesadas que trabajan juntas en una
    >
    >No puede seleccionar el Propietario de la cuenta. Se elige de forma predeterminada desde el nivel de cuenta en su CRM.
 
-1. Clic **Guardar** cuando termine.
+1. Haga clic en **Guardar** cuando termine.
 
    ![](assets/five-2.png)
 

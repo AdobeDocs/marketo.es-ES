@@ -2,11 +2,11 @@
 description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 10%
+ht-degree: 5%
 
 ---
 
@@ -16,15 +16,15 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
 ## Editar permisos existentes {#edit-existing-permissions}
 
-1. En el [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, haga clic en **Dynamic Chat**.
+1. En [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, haga clic en **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
-1. En el **Perfiles de producto** , seleccione el perfil que desea editar. En este ejemplo, elegimos **Live Agent**.
+1. En la ficha **Perfiles de producto**, seleccione el perfil que desee editar. En este ejemplo, elegimos **Agente activo**.
 
    ![](assets/permissions-2.png)
 
-1. Haga clic en **Permisos** pestaña.
+1. Haga clic en la ficha **Permisos**.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
    ![](assets/permissions-4.png)
 
-1. Los elementos de permiso disponibles se muestran a la izquierda. Puede elegir agregar los permisos uno a uno o todos a la vez. En este ejemplo solo hay uno disponible, por lo que vamos a añadir ese. Haga clic en **+** signo.
+1. Los elementos de permiso disponibles se muestran a la izquierda. Puede elegir agregar los permisos uno a uno o todos a la vez. En este ejemplo solo hay uno disponible, por lo que vamos a añadir ese. Haga clic en el signo **+**.
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ Ahora puede repetir este proceso para cualquiera/todas las demás áreas de Dyna
 
 ## Crear un perfil {#create-a-profile}
 
-1. En el [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, haga clic en **Dynamic Chat**.
+1. En [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, haga clic en **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
-1. En el **Perfiles de producto** pestaña, haga clic en **Nuevo perfil**.
+1. En la ficha **Perfiles de producto**, haga clic en **Nuevo perfil**.
 
    ![](assets/permissions-9.png)
 
-1. **Nombre** su perfil de producto. Opcionalmente, puede darle un nombre para mostrar o una descripción y elegir que se notifique a los usuarios cuando se agreguen o eliminen. Clic **Guardar** cuando termine.
+1. **Nombre** su perfil de producto. Opcionalmente, puede darle un nombre para mostrar o una descripción y elegir que se notifique a los usuarios cuando se agreguen o eliminen. Haga clic en **Guardar** cuando termine.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Ahora puede repetir este proceso para cualquiera/todas las demás áreas de Dyna
 
    ![](assets/permissions-11.png)
 
-1. Ahora siga los pasos 3-6 de la [sección anterior](#edit-existing-permissions) para cada área deseada.
+1. Ahora siga los pasos 3-6 de la sección [arriba](#edit-existing-permissions) para cada área deseada.
 
 ## Lista de permisos {#list-of-permissions}
 
@@ -84,10 +84,10 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
     <td>Administración de conversaciones</td>
     <td><li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Cuadros de diálogo de publicación</li>
+    <li>Diálogos de Publish</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Publicar flujos de conversación</li></td>
+    <li>Flujos de conversación Publish</li></td>
   </tr>
   <tr>
     <td>Chat en directo</td>
@@ -117,19 +117,19 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
     <li>Ver lista de cuentas <b>*</b></li>
-    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
+    <li>Administrar cuentas (agregar, editar, eliminar) <b>*</b></li>
     <li>Administrar configuración del bot de chat</li>
     <li>Administrar configuración de flujos de conversación</li>
     <li>Administración de privacidad y seguridad</li>
     <li>Administrar integraciones</li>
     <li>Administrar agentes</li>
     <li>Ver equipos del agente <b>*</b></li>
-    <li>Administrar equipos de agentes (añadir, editar, eliminar) <b>*</b></li></td>
+    <li>Administrar equipos del agente (agregar, editar, eliminar) <b>*</b></li></td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** Actualmente solo disponible para usuarios de Dynamic Prime
+**&#42;** Actualmente solo está disponible para usuarios de Dynamic Prime
 
 <p>
 
@@ -150,18 +150,18 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <td><i>Administración de conversaciones</i>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Cuadros de diálogo de publicación</li>
+    <li>Diálogos de Publish</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Publicar flujos de conversación</li>
+    <li>Flujos de conversación Publish</li>
     <br>
-    <i>Chat en directo</i>
+    <i>Chat en vivo</i>
     <li>n/a</li>
     <br>
     <i>Reuniones</i>
     <li>n/a</li>
     <br>
-    <i>Analytics</i>
+    <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
@@ -169,7 +169,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <i>Configuración del agente</i>
     <li>n/a</li>
     <br>
-    <i>Configuración del administrador</i>
+    <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -182,13 +182,13 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
     <br>
-    <i>Chat en directo</i>
+    <i>Chat en vivo</i>
     <li>Ver mis conversaciones</li>
     <br>
     <i>Reuniones</i>
     <li>n/a</li>
     <br>
-    <i>Analytics</i>
+    <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
@@ -198,7 +198,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
     <br>
-    <i>Configuración del administrador</i>
+    <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -211,13 +211,13 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
     <br>
-    <i>Chat en directo</i>
+    <i>Chat en vivo</i>
     <li>n/a</li>
     <br>
     <i>Reuniones</i>
     <li>n/a</li>
     <br>
-    <i>Analytics</i>
+    <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
@@ -226,7 +226,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
     <br>
-    <i>Configuración del administrador</i>
+    <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -238,18 +238,18 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <td><i>Administración de conversaciones</i>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Cuadros de diálogo de publicación</li>
+    <li>Diálogos de Publish</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Publicar flujos de conversación</li>
+    <li>Flujos de conversación Publish</li>
     <br>
-    <i>Chat en directo</i>
+    <i>Chat en vivo</i>
     <li>n/a</li>
     <br>
     <i>Reuniones</i>
     <li>n/a</li>
     <br>
-    <i>Analytics</i>
+    <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
@@ -258,12 +258,12 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <i>Configuración del agente</i>
     <li>n/a</li>
     <br>
-    <i>Configuración del administrador</i>
+    <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
     <li>Ver lista de cuentas <b>*</b></li>
-    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
+    <li>Administrar cuentas (agregar, editar, eliminar) <b>*</b></li>
     <li>Administrar configuración del bot de chat</li>
     <li>Administrar configuración de flujos de conversación</li>
     <li>Administración de privacidad y seguridad</li>
@@ -277,14 +277,14 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
     <br>
-    <i>Chat en directo</i>
+    <i>Chat en vivo</i>
     <li>Ver mis conversaciones</li>
     <li>Ver todas las conversaciones</li>
     <br>
     <i>Reuniones</i>
     <li>Administrar todas las reuniones</li>
     <br>
-    <i>Analytics</i>
+    <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
@@ -295,18 +295,18 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
     <br>
-    <i>Configuración del administrador</i>
+    <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
     <li>Ver lista de cuentas <b>*</b></li>
-    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
+    <li>Administrar cuentas (agregar, editar, eliminar) <b>*</b></li>
     <li>Administrar agentes</li>
     <li>Ver equipos del agente <b>*</b></li>
-    <li>Administrar equipos de agentes <b>*</b></li>
+    <li>Administrar equipos del agente <b>*</b></li>
     </td>
   </tr>
 </tbody>
 </table>
 
-**&#42;** Actualmente solo disponible para usuarios de Dynamic Prime
+**&#42;** Actualmente solo está disponible para usuarios de Dynamic Prime

@@ -17,29 +17,29 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel del 
 
 >[!PREREQUISITES]
 >
->[Crear un analizador de influencia de oportunidades](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Crear un Analizador de influencia de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Ir a **Analytics** y seleccione la **Analizador de influencia de oportunidad**.
+1. Vaya a **Analytics** y seleccione **Opportunity Influence Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
    El Analizador de influencia de oportunidades es una representación visual de las interacciones y los éxitos de programas y eventos que intervienen en esa oportunidad. Vamos a explorar el gráfico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Puntos naranjas** representar momentos interesantes en la oportunidad (correos electrónicos abiertos, visitas a stands de ferias comerciales, descargas de documentos técnicos, etc.). Los puntos más grandes indican más interacciones.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **puntos naranjas** representan momentos interesantes en la oportunidad (correos electrónicos abiertos, visitas a puestos en ferias comerciales, descargas de documentos técnicos, etc.). Los puntos más grandes indican más interacciones.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Iconos del cuaderno** indicar los éxitos del programa.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Iconos del cuaderno** indican éxitos del programa.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Iconos del calendario** indicar los éxitos del evento.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Los iconos del calendario** indican que el evento se ha realizado correctamente.
 
    * **Período de oportunidad**. El área verde representa la oportunidad en sí misma, desde la creación de oportunidades hasta el cierre de oportunidades (ganadas o perdidas).
 
-   * **Ciclo de vida de oportunidad**. Las áreas grises antes y después del período de oportunidad verde muestran las interacciones que llevaron a la oportunidad y la siguieron.
+   * **Ciclo de vida de la oportunidad**. Las áreas grises antes y después del período de oportunidad verde muestran las interacciones que llevaron a la oportunidad y la siguieron.
 
-   El **Configuración** el panel enumera las personas de la cuenta:
+   El panel **Configuración** enumera las personas de la cuenta:
 
    * El **número entre paréntesis** es el número de interacciones con ese contacto.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)El **estrella amarilla** indica el contacto principal.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La **estrella amarilla** indica el contacto principal.
 
 1. Pase el ratón por encima de un nombre para ver el puesto que ocupa esa persona y la fuente de su participación en la oportunidad.
 
@@ -61,4 +61,4 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel del 
 
    >[!MORELIKETHIS]
    >
-   >[Configuración de un analizador de influencia de oportunidades](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Configurar un Analizador de influencia de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

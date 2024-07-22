@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Las versiones de Adobe Dynamic Chat funcionan con un modelo de entrega continua que permite un enfoque más escalable de la implementación de funcionalidades. A veces hay varias versiones en un mes, por lo que vuelva a consultar regularmente la información más actualizada.
 
-La página de notas de la versión estándar de Marketo Engage [se puede encontrar aquí](/help/marketo/release-notes/current.md){target="_blank"}.
+La página de notas de la versión estándar del Marketo Engage [ se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
 
 ## Lanzamiento de junio de 2024 {#june-release}
 
-**Fecha de publicación: 6 de junio de 2024**
+**Fecha de la versión: 6 de junio de 2024**
 
 ### Tarjeta de flujo de conversación {#conversational-flow-card}
 
@@ -42,25 +42,25 @@ La página Límites de uso muestra información importante, como los detalles de
 
 ### Biblioteca de respuestas aprobadas previamente {#pre-approved-response-library}
 
-[Crear una biblioteca aprobada por marketing](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} de preguntas y respuestas generadas por IA para configurar el chat de IA generativa en minutos.
+[Cree una biblioteca con aprobación de mercadotecnia](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} de preguntas y respuestas generadas por IA para configurar charlas generativas sobre IA en minutos.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### Preguntas sin respuesta {#unanswered-questions}
 
-[Uso de un repositorio de preguntas sin responder](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} de conversaciones anteriores para generar nuevas respuestas preaprobadas que mantengan una biblioteca de respuestas con la información más reciente.
+[Use un repositorio de preguntas sin responder](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} de conversaciones anteriores para generar nuevas respuestas aprobadas previamente y mantener una biblioteca de respuestas con la información más reciente.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### Resúmenes de conversación {#conversation-summaries}
 
-[Proporcionar conversaciones resumidas a los agentes de ventas](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} incluyendo perspectivas sobre temas clave de discusión antes de las reuniones para reducir el tiempo de preparación y mejorar los agentes de ventas de armas con la información más reciente.
+[Proporcione a los agentes de ventas conversaciones resumidas](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"}, incluidas perspectivas sobre temas clave de discusión antes de las reuniones, para reducir el tiempo de preparación y mejorar los agentes de ventas de armas con la información más reciente.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### Métodos abreviados de ventas de GenAI {#genai-sales-shortcuts}
 
-[Proporcione a los agentes de chat en vivo formas más rápidas](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} para acceder a las respuestas generadas por IA, edite las respuestas generadas existentes y busque contenido adicional para enviar a los compradores durante la conversación.
+[Proporcione a los agentes de chat en vivo formas más rápidas](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} de acceder a las respuestas generadas por IA, editar las respuestas generadas existentes y buscar contenido adicional para enviar a los compradores durante la conversación.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -80,13 +80,13 @@ Empuje a los visitantes web con una llamada a la acción para llevar las convers
 
 ### Flujos de conversación ahora disponibles para todos los usuarios {#conversational-flows-available-to-all-users}
 
-Convierta sus formularios y páginas de aterrizaje en algo más conversacional y acorte el canal de ventas al permitir que posibles clientes cualificados reserven una reunión o conversen con Ventas inmediatamente después de enviar un formulario con Conversational Forms, ahora totalmente disponible&#42; para todos los usuarios de Dynamic Chat.
+Haga que sus formularios y páginas de aterrizaje sean más conversacionales y acorte el canal de ventas al permitir que los posibles clientes cualificados reserven una reunión o conversen con Ventas inmediatamente después de enviar un formulario con Conversational Forms, ahora totalmente disponible&#42; para todos los usuarios Dynamic Chat.
 
-_&#42;Anteriormente disponible como función de prueba con 100 participaciones de por vida. Las participaciones en el flujo de conversación ahora se contarán para el límite mensual de 250 conversaciones comprometidas para los usuarios en el paquete Seleccionar._
+_&#42;Anteriormente disponible como característica de prueba con 100 participaciones de por vida. Las participaciones en el flujo de conversación ahora se contarán para el límite mensual de 250 conversaciones comprometidas para los usuarios del paquete Select._
 
 ### Funciones de devolución de llamada {#callback-functions}
 
-[Funciones de devolución de llamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} permiten recopilar eventos de analytics de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes interactúan con las conversaciones de los Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de la participación del Dynamic Chat en relación con otros datos clave, como el tráfico web.
+Las [funciones de devolución de llamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} le permiten recopilar eventos de análisis de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes se relacionan con conversaciones de Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de la participación del Dynamic Chat en relación con otros datos clave, como el tráfico web.
 
 ### Condiciones de disponibilidad del agente activas añadidas a la ramificación condicional {#live-agent-availability-conditional-branching}
 

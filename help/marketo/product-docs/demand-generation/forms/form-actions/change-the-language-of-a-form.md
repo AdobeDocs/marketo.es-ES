@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aprenda a cambiar el idioma del formulario.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
@@ -23,11 +23,11 @@ Aprenda a cambiar el idioma del formulario.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Clic **Configuración de formulario** y seleccione **Configuración**.
+1. Haga clic en **Configuración de formulario** y seleccione **Configuración**.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Seleccione el **Idioma del formulario**.
+1. Seleccione el **idioma del formulario** que desee.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
@@ -35,11 +35,11 @@ Aprenda a cambiar el idioma del formulario.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Clic **Aprobar y cerrar** para aplicar y guardar cambios.
+1. Haga clic en **Aprobar y cerrar** para aplicar y guardar los cambios.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ Aprenda a cambiar el idioma del formulario.
 
    >[!TIP]
    >
-   >Recuerde lo siguiente [aprobar la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) cambia el borrador creado por el formulario.
+   >Recuerde [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
 
 El formulario ahora reflejará el idioma seleccionado.
 

@@ -16,15 +16,15 @@ Puede añadir botones de Marketo a los diseños de Salesforce. A continuación s
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Clic **Configurar**. Busque &quot;diseño de búsqueda&quot; y haga clic en **Buscar diseños** bajo **Posibles clientes**.
+1. Haga clic en **Configuración**. Busque &quot;diseño de búsqueda&quot; y haga clic en **Diseños de búsqueda** en **Posibles clientes**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Clic **Editar** en el **Vista de lista de posibles clientes** fila.
+1. Haga clic en **Editar** en la fila **Vista de lista de posibles clientes**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Añadir **Añadir a Marketo Campaign**, **Enviar correo electrónico a Marketo**, y **Agregar a la lista de observación** botones para abrir **Botones seleccionados** y **Guardar**.
+1. Agregue los botones **Agregar a Marketo Campaign**, **Enviar correo electrónico de Marketo** y **Agregar a la lista de observación** a los **botones seleccionados** y **Guardar**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

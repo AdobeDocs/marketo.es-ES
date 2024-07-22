@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Uso de la fuente de posibles clientes {#using-the-lead-feed}
 
-La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como una fuente RSS o Twitter - las actualizaciones más recientes están en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
+La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como un RSS o fuente de Twitter - las actualizaciones más recientes están en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Al visualizarlo en Salesforce, cada elemento tiene:
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><p>Elemento</p></td> 
+   <td><p>Artículo</p></td> 
    <td><p>Descripción</p></td> 
   </tr> 
   <tr> 
@@ -75,7 +75,7 @@ Al visualizarlo en Salesforce, cada elemento tiene:
 También puede obtener actualizaciones de fuentes de posibles clientes por fuente RSS.  Una fuente RSS le permite recibir actualizaciones de sus posibles clientes aunque no esté conectado a Salesforce. La fuente contiene la misma información que la Fuente de posibles clientes de Salesforce, así como lo siguiente (cuando está disponible):
 
 * dirección de email
-* número de teléfono
+* Número de teléfono
 * número de móvil
 * número de fax
 * dirección de empresa
@@ -83,7 +83,7 @@ También puede obtener actualizaciones de fuentes de posibles clientes por fuent
 
 >[!NOTE]
 >
->El administrador de Marketo de su empresa debe [habilitar fuentes RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que esto funcione.
+>El administrador de Marketo de su empresa debe [habilitar las fuentes RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que esto funcione.
 
 Para obtener actualizaciones de RSS, necesitará dos cosas: el vínculo RSS y un lector de fuentes RSS. Puede obtener el vínculo RSS haciendo clic en el icono RSS en la fuente principal:
 

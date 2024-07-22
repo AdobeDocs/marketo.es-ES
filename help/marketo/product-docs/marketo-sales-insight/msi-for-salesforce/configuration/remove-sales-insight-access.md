@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Siga estos pasos para eliminar el acceso a las funciones de Información sobre v
 
 Se requiere permiso para acceder a los objetos mencionados a continuación, a las clases de Apex y a las páginas de visualforce para acceder a todas las funciones de Sales Insight. Si los elimina, se eliminará el acceso a la perspectiva de ventas.
 
-**Configuración de objeto**
+**Configuración del objeto**
 
 <table> 
  <tbody> 
@@ -77,13 +77,13 @@ Se requiere permiso para acceder a los objetos mencionados a continuación, a la
 
 1. Inicie sesión en su cuenta de Salesforce.
 
-1. Clic **Configurar**.
+1. Haga clic en **Configuración**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. En Administrador, haga clic en **Administrar usuarios**, entonces **Perfiles**.
+1. En Administrador, haga clic en **Administrar usuarios** y luego en **Perfiles**.
 
-1. Haga clic en el perfil que desea actualizar y, a continuación, **Editar**.
+1. Haz clic en el perfil que deseas actualizar y luego **Editar**.
 
 1. Desplácese hacia abajo hasta &quot;Configuración de ficha personalizada&quot; en Configuración de ficha.
 
@@ -109,27 +109,27 @@ Se requiere permiso para acceder a los objetos mencionados a continuación, a la
    * Valores
    * WebActivityCache
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso a clase Apex habilitado&quot;. Clic **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a clase Apex habilitado&quot;. Haga clic en **Editar**.
 
 1. En la sección &quot;Clases Apex habilitadas&quot;, seleccione todas las clases que comienzan por &quot;mkto_si&quot;. Esto debería sumar 159 clases.
 
-1. Clic **Eliminar**, entonces **Guardar**.
+1. Haz clic en **Quitar** y después en **Guardar**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso a la página de VisualForce habilitado&quot;. Clic **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a la página de VisualForce habilitado&quot;. Haga clic en **Editar**.
 
 1. En la sección &quot;Páginas Visualforce habilitadas&quot;, seleccione todas las páginas que empiecen por &quot;mkto_si&quot;. Esto debería sumar 64 páginas.
 
-1. Clic **Eliminar**, entonces **Guardar**.
+1. Haz clic en **Quitar** y después en **Guardar**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso a definiciones de configuración personalizadas habilitadas&quot;. Clic **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a definiciones de configuración personalizadas habilitadas&quot;. Haga clic en **Editar**.
 
 1. Seleccione &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; y &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Clic **Eliminar**, entonces **Guardar**.
+1. Haz clic en **Quitar** y después en **Guardar**.
 
    ![](assets/remove-sales-insight-access-6.png)
 

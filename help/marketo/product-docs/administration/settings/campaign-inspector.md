@@ -1,34 +1,34 @@
 ---
 description: Inspector de campaña - Documentos de Marketo - Documentación del producto
-title: Inspector de campaña
+title: Inspector de campañas
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Inspector de campaña {#campaign-inspector}
+# Inspector de campañas {#campaign-inspector}
 
 Utilice el Inspector de campaña para ver o buscar todas las campañas inteligentes en un solo lugar.
 
 ## Habilitar el Inspector de campaña {#enable-campaign-inspector}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Clic **[!UICONTROL Cofre del tesoro]**.
+1. Haz clic en **[!UICONTROL Cofre del tesoro]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Clic **[!UICONTROL Editar]** junto al Inspector de campaña.
+1. Haga clic en **[!UICONTROL Editar]** junto al Inspector de campaña.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Seleccione el **[!UICONTROL Habilitado]** y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione la casilla **[!UICONTROL Habilitado]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Una vez habilitada, la pestaña Inspector de campaña se encuentra junto a la pe
 
 ![](assets/campaign-inspector-5.png)
 
-Haga clic en **[!UICONTROL Campañas activas]** desplegable para filtrar por diferentes tipos de campañas.
+Haga clic en la lista desplegable **[!UICONTROL Campañas activas]** para filtrar por diferentes tipos de campañas.
 
 ![](assets/campaign-inspector-6.png)
 

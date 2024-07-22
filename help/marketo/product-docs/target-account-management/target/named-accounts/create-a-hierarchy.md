@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las jerarquías están pensadas para crearse en CRM. Sin embargo, si no tiene un CRM, siga estos pasos para crear una jerarquía manualmente.
 
-1. En Cuentas con nombre, haga clic en **Agrupar por jerarquía** casilla de verificación
+1. En Cuentas con nombre, haga clic en la casilla **Agrupar por jerarquía**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Las jerarquías están pensadas para crearse en CRM. Sin embargo, si no tiene un
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Haga clic en **Acciones de cuenta con nombre** y seleccione. **Vincular a cuenta con nombre**.
+1. Haga clic en el menú desplegable **Acciones de cuenta con nombre** y seleccione **Vincular a cuenta con nombre**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Si desea desvincular cuentas, siga los pasos anteriores y elija **Desvincular de la cuenta con nombre**.
+   >Si desea desvincular cuentas, siga los pasos anteriores pero elija **Desvincular de la cuenta con nombre**.
 
-1. Seleccione una cuenta con nombre principal de la lista desplegable y haga clic en **Vínculo**.
+1. Seleccione una cuenta principal con nombre en la lista desplegable y haga clic en **Vínculo**.
 
    ![](assets/create-a-hierarchy-4.png)
 

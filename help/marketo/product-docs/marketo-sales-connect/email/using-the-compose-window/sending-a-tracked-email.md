@@ -20,13 +20,13 @@ Al enviar un correo electrónico con Marketo Sales Connect, se realiza un seguim
 >Debe tener una identidad verificada y un canal de envío de correo electrónico configurado antes de enviar un correo electrónico rastreado.
 >
 >* [Verifique su dirección de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Configuración de un canal de entrega para [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Configurar un canal de entrega para [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/one.png)
 
-1. Introduzca el nombre o el correo electrónico de un destinatario en la **Hasta** field.
+1. Escriba el nombre o el correo electrónico de un destinatario en el campo **Para**.
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ Al enviar un correo electrónico con Marketo Sales Connect, se realiza un seguim
 
    >[!NOTE]
    >
-   >Si alguien que ha sido CC o CCO abre el correo electrónico, esa apertura se registrará como una vista en el registro de la persona en el **Hasta** field.
+   >Si alguien que ha sido CC o CCO abre el correo electrónico, esa apertura se registrará como una vista en el registro de la persona en el campo **Para**.
 
 1. Añada una línea de asunto.
 
@@ -48,9 +48,9 @@ Al enviar un correo electrónico con Marketo Sales Connect, se realiza un seguim
 
    >[!NOTE]
    >
-   >Se requiere una línea de asunto y un destinatario para enviar el correo electrónico. Lo haremos **guardar automáticamente el borrador** una vez añadidos la línea de asunto y el destinatario.
+   >Se requiere una línea de asunto y un destinatario para enviar el correo electrónico. **guardaremos automáticamente su borrador** una vez que se hayan agregado la línea de asunto y el destinatario.
 
-1. Componga el correo electrónico con el editor. Clic **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), si lo prefiere) cuando haya terminado.
+1. Componga el correo electrónico con el editor. Haga clic en **Enviar** (o en [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), si lo prefiere) cuando haya terminado.
 
    ![](assets/five.png)
 

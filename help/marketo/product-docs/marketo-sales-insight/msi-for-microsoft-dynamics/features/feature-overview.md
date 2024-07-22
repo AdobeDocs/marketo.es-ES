@@ -20,12 +20,12 @@ Las siguientes características están disponibles en la nueva solución MSI MSD
 * Estrellas y llamas
 * Momento interesante
 * Actividad en la web
-* Puntuación
+* Puntaje
 * Correo electrónico (abrir y hacer clic)
 
 ## Campos personalizados de Marketo Sales Insight en el diseño del posible cliente  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
-* Puntaje del cliente potencial
+* Puntaje del lead
 * Puntaje relativo
 * Prioridad
 * Urgencia
@@ -45,12 +45,12 @@ Las siguientes características están disponibles en la nueva solución MSI MSD
 * Estrellas y llamas
 * Momento interesante
 * Actividad en la web
-* Puntuación
+* Puntaje
 * Correo electrónico (abrir y hacer clic)
 
 ## Campos personalizados de Marketo Sales Insight en el diseño de contacto  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
-* Puntaje del cliente potencial
+* Puntaje del lead
 * Puntaje relativo
 * Prioridad
 * Urgencia
@@ -70,7 +70,7 @@ Las siguientes características están disponibles en la nueva solución MSI MSD
 * Estrellas y llamas
 * Momento interesante
 * Actividad en la web
-* Puntuación
+* Puntaje
 * Correo electrónico (abrir y hacer clic)
 
 ## Página de resultados más probables de Marketo {#marketo-best-bets-page}

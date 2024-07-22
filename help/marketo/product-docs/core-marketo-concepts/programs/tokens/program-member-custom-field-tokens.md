@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ En la parte posterior de las funciones Campos personalizados de miembro de progr
 
 Los tokens de PMCF serán compatibles con el dominio miembro de la familia de tokens.
 
-Los tokens de miembro se utilizan para campos dentro del ámbito de Miembro de programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. {{member.registration code}} resuelve en el código de registro proporcionado por el proveedor de servicios.
+Los tokens de miembro se utilizan para campos dentro del ámbito de Miembro de programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. {{member.registration code}} resuelve el código de registro proporcionado por el proveedor de servicios.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Los tokens de miembro se utilizan para campos dentro del ámbito de Miembro de p
 
 Puede insertar tokens de campos personalizados de miembros del programa en correos electrónicos, páginas de aterrizaje, SMS, notificaciones push y webhooks.
 
-**Emails**
+**Correos electrónicos**
 
-1. Seleccione el correo electrónico deseado y haga clic en **[!UICONTROL Editar borrador]**.
+1. Seleccione el correo electrónico que desee y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -53,9 +53,9 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 >
 >No olvide aprobar su correo electrónico.
 
-**Páginas de destino**
+**Páginas de aterrizaje**
 
-1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
+1. Seleccione su página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Introduzca un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
+1. Escriba un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -89,7 +89,7 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Haga clic en **`{{ Token`** botón.
+1. Haga clic en el botón **`{{ Token`**.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -101,25 +101,25 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
-**Insertar notificaciones**
+**Notificaciones Push**
 
 1. Seleccione la notificación push que desee y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Clic **[!UICONTROL Notificación push]**.
+1. Haga clic en **[!UICONTROL Notificación push]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Haga clic en el mensaje en el editor y haga clic en `{{` para obtener el selector de token.
+1. Haga clic en el mensaje en el editor y haga clic en el botón `{{` para obtener el selector de tokens.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
+1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Escriba un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clic **[!UICONTROL Finalizar]** para guardar y salir (o **[!UICONTROL Siguiente]** para revisarlo primero).
+1. Haga clic en **[!UICONTROL Finalizar]** para guardar y salir (o en **[!UICONTROL Siguiente]** para revisar primero).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

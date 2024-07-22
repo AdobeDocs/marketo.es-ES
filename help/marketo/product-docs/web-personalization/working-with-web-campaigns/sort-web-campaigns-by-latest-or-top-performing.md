@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puede ordenar las campañas web de un par de formas diferentes.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ Puede ordenar las campañas web de un par de formas diferentes.
    >
    >**Definición**
    >
-   >**Última** - se ordenará según la fecha de creación de la campaña. La campaña más reciente en la parte superior.
+   >**Más reciente**: se ordenará según la fecha en que se creó la campaña. La campaña más reciente en la parte superior.
    >
-   >**Máximo rendimiento** : ordenará las campañas según la tasa de clics. El clic más alto en la parte superior.
+   >**Rendimiento superior**: ordenará las campañas según la tasa de clics. El clic más alto en la parte superior.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

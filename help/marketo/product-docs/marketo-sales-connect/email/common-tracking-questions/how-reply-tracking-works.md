@@ -6,7 +6,7 @@ exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ El seguimiento de respuestas se realiza mirando un ID de mensaje que aparece en 
 
 >[!PREREQUISITES]
 >
->**Conexión con el servidor de correo electrónico:** Sales Connect debe estar conectado con su bandeja de entrada para que podamos saber cuándo ha llegado una nueva respuesta. Necesitarás tener tu cuenta de Sales Connect [conectado a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si utiliza Outlook, tendremos que integrarlo con su [servidor exchange](https://toutapp.com/next#settings/exchange_settings).
+>**Conexión con el servidor de correo electrónico:** Sales Connect debe estar conectado a su bandeja de entrada para que sepamos cuándo ha llegado una nueva respuesta. Necesitarás tener tu cuenta de Sales Connect [conectada a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si utiliza Outlook, tendremos que integrarlo con su [servidor de Exchange](https://toutapp.com/next#settings/exchange_settings).
 
 Si Sales Connect no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta en Salesforce.  ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 

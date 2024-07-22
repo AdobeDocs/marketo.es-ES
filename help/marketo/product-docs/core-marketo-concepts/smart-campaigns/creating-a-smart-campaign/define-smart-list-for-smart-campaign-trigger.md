@@ -19,7 +19,7 @@ Haga que una campaña inteligente se ejecute de a una persona a la vez en funci�
 >
 >Realizar ediciones de listas inteligentes o pasos de flujo en una campaña activa puede dañar potencialmente su funcionalidad. Si decide hacerlo, proceda con precaución.
 
-1. En la campaña inteligente, haga clic en **[!UICONTROL Lista inteligente]** pestaña.
+1. En su campaña inteligente, haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Haga que una campaña inteligente se ejecute de a una persona a la vez en funci�
 
    >[!NOTE]
    >
-   >Se ejecuta una campaña inteligente con déclencheur en _Déclencheur_ modo. Se ejecuta en una persona a la vez en función de los eventos activados y los filtros adicionales.
+   >Se ejecuta una campaña inteligente con déclencheur en modo _Déclencheur_. Se ejecuta en una persona a la vez en función de los eventos activados y los filtros adicionales.
 
    >[!IMPORTANT]
    >
@@ -53,10 +53,10 @@ Haga que una campaña inteligente se ejecute de a una persona a la vez en funci�
 
    >[!NOTE]
    >
-   >Con varios déclencheur, una persona pasa por el flujo si _CUALQUIERA_ se activa uno de los déclencheur.
+   >Con varios déclencheur, una persona pasa por el flujo si _ANY_ se activa uno de los déclencheur.
 
-Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definición de listas inteligentes para campañas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir listas inteligentes para campañas inteligentes | Lote ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[Agregar un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -6,8 +6,8 @@ exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Marque como favorita una tarjeta para facilitar la referencia futura.
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. Tocar **[!UICONTROL Favorito]**.
+1. Pulse **[!UICONTROL Favorito]**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 

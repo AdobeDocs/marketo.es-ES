@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Busque una persona a partir de los resultados de una lista o lista inteligente mediante la búsqueda rápida.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione la lista inteligente en la que desee buscar y, a continuación, haga clic en **[!UICONTROL People]** pestaña.
+1. Seleccione la lista inteligente que quiera buscar y luego haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/smartlistpeople.png)
 
 ## Buscar Personas Mediante Información Personal {#find-people-using-personal-info}
 
-1. En el **[!UICONTROL Búsqueda rápida]** en la parte inferior de la pantalla, escriba una palabra clave (**nombre personal**, **dirección de email**, o **cargo**).
+1. En el cuadro **[!UICONTROL Búsqueda rápida]** de la parte inferior de la pantalla, escriba una palabra clave (**nombre personal**, **dirección de correo electrónico** o **cargo**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Busque una persona a partir de los resultados de una lista o lista inteligente m
 
 ## Buscar personas con un nombre de empresa {#find-people-using-a-company-name}
 
-1. Para buscar una compañía, escriba `[company]` en el cuadro Búsqueda rápida, seguido de cualquier parte del nombre de la compañía que esté buscando.
+1. Para buscar una compañía, escriba `[company]` en el cuadro Búsqueda rápida, seguido de cualquier parte del nombre de compañía que esté buscando.
 
    ![](assets/supersmartlistsearch.jpg)
 

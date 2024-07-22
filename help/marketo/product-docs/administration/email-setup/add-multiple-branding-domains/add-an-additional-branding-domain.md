@@ -17,28 +17,28 @@ Agregue un dominio de promoción de la marca adicional cuando ejecute varias mar
 
 >[!PREREQUISITES]
 >
->Usted debe [reemplazar el vínculo de seguimiento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) con un dominio con marca antes de agregar dominios con marca adicionales.
+>Debe [reemplazar el vínculo de seguimiento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) por un dominio con marca antes de agregar dominios con marca adicionales.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Clic **[!UICONTROL Añadir]** para agregar un dominio de personalización de marca adicional.
+1. Haga clic en **[!UICONTROL Agregar]** para agregar un dominio de marca adicional.
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. Introduzca el nombre del nuevo dominio de marca y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba el nombre del nuevo dominio de personalización de marca y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->Puede elegir convertir este dominio en principal, y todos los correos electrónicos no enviados existentes en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se establecerán de forma predeterminada en el dominio principal. Usted será capaz de [sobrescribir esto por correo electrónico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Puede elegir convertir este dominio en principal, y todos los correos electrónicos no enviados existentes en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se establecerán de forma predeterminada en el dominio principal. Podrás [sobrescribir esto por correo electrónico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >
->[Editar el dominio de marca predeterminado](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
+>[Editar su dominio de marca predeterminado](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)

@@ -6,7 +6,7 @@ exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    >[!TIP]
    >
-   >¿Cuál es la diferencia entre las plantillas? Consulte [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) antes de empezar.
+   >¿Cuál es la diferencia entre las plantillas? Consulte [Elegir un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) antes de comenzar.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Haga clic en **Estilo** y haga clic en el área de imagen de la plantilla.
+1. Haga clic en la ficha **Estilo** y luego en el área de la imagen de la plantilla.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Clic **Seleccionar imagen**.
+1. Haga clic en **Seleccionar imagen**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Seleccione la imagen en Design Studio y haga clic en **Seleccionar**.
+1. Seleccione la imagen de Design Studio y haga clic en **Seleccionar**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,7 +47,7 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Clic **Eliminar**. Ahora, puedes elegir otro.
+1. Haga clic en **Quitar**. Ahora, puedes elegir otro.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +55,7 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Opcionalmente, aplique un borde de imagen. La configuración predeterminada es **Desactivado**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o de RGB en el selector de color.
+1. Opcionalmente, aplique un borde de imagen. El valor predeterminado es **Desactivado**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o de RGB en el selector de color.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -85,11 +85,11 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    >[!NOTE]
    >
-   >Para las acciones de toque para imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje solo va a una plataforma o a la otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
+   >Para las acciones de toque para imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va únicamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguna**.
 
-¡bueno trabajo! Ahora, es hora de... [cree el texto del mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+¡Gran trabajo! Ahora es el momento de [crear el texto para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Elija un diseño para su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

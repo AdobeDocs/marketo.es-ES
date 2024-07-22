@@ -23,11 +23,11 @@ Siga estos pasos para crear un informe Análisis de pertenencia a programas que 
 
    ![](assets/one.png)
 
-1. Clic **Crear nuevo** entonces **Informe**.
+1. Haga clic en **Crear nuevo** y luego en **Informe**.
 
    ![](assets/two.png)
 
-1. Seleccionar **Análisis de pertenencia a programas** y haga clic en **OK**.
+1. Seleccione **Análisis de pertenencia a programa** y haga clic en **Aceptar**.
 
    ![](assets/three.png)
 
@@ -47,13 +47,13 @@ Siga estos pasos para crear un informe Análisis de pertenencia a programas que 
 
 ![](assets/seven.png)
 
-Puede añadir rápidamente un atributo de posible cliente como _Nombre completo_ para ver quiénes son los miembros.
+Puede agregar rápidamente un atributo de posible cliente como _Nombre completo_ para ver quiénes son los miembros.
 
 >[!TIP]
 >
 >Hay un montón de atributos de cliente potencial / empresa para elegir. ¡Échales un vistazo!
 
-1. Busque y haga doble clic en **Nombre completo** punto amarillo.
+1. Busque y haga doble clic en el punto amarillo **Nombre completo**.
 
    ![](assets/eight.png)
 

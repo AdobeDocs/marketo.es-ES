@@ -6,8 +6,8 @@ exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 0%
+source-wordcount: '373'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Introducir información de usuario de sincronización de Dynamics {#enter-dynamics-sync-user-information}
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/login-admin.png)
 
-1. Clic **[!UICONTROL CRM]**.
+1. Haga clic en **[!UICONTROL CRM]**.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Haga clic **[!DNL Microsoft]**.
+1. Haga clic en **[!DNL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Clic **[!UICONTROL Editar]** in **[!UICONTROL Introducir credenciales]**.
+1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Introducir credenciales]**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -46,30 +46,30 @@ ht-degree: 0%
    >
    >Asegúrese de que sus credenciales sean correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de Marketo.
 
-1. Introduzca el **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]** y CRM **[!UICONTROL URL]**, luego haga clic en **[!UICONTROL Guardar]**.
+1. Escriba **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]** y la **[!UICONTROL URL]** de CRM, y después haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
-   >* El Nombre de usuario en Marketo debe coincidir con el Nombre de usuario para el usuario de sincronización en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
-   >* Si no conoce la dirección URL, [obtenga información sobre cómo encontrarlo aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* El Nombre de usuario en Marketo debe coincidir con el Nombre de usuario para el usuario de sincronización en CRM. El formato puede ser `user@domain.com` o DOMAIN\user.
+   >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
-## Seleccionar campos para sincronizar {#select-fields-to-sync}
+## Seleccionar campos para sincronización {#select-fields-to-sync}
 
 Ahora necesitamos seleccionar los campos sobre los que queremos sincronizar.
 
-1. Clic **[!UICONTROL Editar]** in **[!UICONTROL Seleccionar campos para sincronizar]**.
+1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Seleccionar campos para sincronizar]**.
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
-1. Hay campos preseleccionados que se sincronizan. Añada más si lo desea y haga clic en **[!UICONTROL Guardar]**.
+1. Hay campos preseleccionados que se sincronizan. Agregue más si lo desea y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
 
    >[!NOTE]
    >
-   >Marketo almacena una referencia a los campos que se van a sincronizar. Si elimina un campo en Dynamics, se recomienda hacerlo con la variable [sincronización deshabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+   >Marketo almacena una referencia a los campos que se van a sincronizar. Si elimina un campo en Dynamics, se recomienda hacerlo con la [sincronización deshabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. A continuación, actualice el esquema en Marketo editando y guardando [Seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## Sincronizar campos para un filtro personalizado {#sync-fields-for-a-custom-filter}
 
@@ -79,7 +79,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **[!UICONTROL Editar]** en Detalles de sincronización de campos.
+1. Haz clic en **[!UICONTROL Editar]** en Detalles de sincronización de campos.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ## Habilitar sincronización {#enable-sync}
 
-1. Clic **[!UICONTROL Editar]** in **[!UICONTROL Habilitar sincronización]**.
+1. Haz clic en **[!UICONTROL Editar]** en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -97,7 +97,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
    >
    >Marketo no desduplicará automáticamente una sincronización de Microsoft Dynamics o cuando introduzca manualmente personas o posibles clientes.
 
-1. Lea todo en la ventana emergente, introduzca el correo electrónico y haga clic en **[!UICONTROL Iniciar sincronización]**.
+1. Lee todo en la ventana emergente, escribe tu correo electrónico y haz clic en **[!UICONTROL Iniciar sincronización]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 

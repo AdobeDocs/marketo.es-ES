@@ -21,13 +21,13 @@ Utilice objetos personalizados para realizar un seguimiento de métricas especí
 
 Utilice objetos personalizados como filtros y déclencheur en sus campañas inteligentes. Por ejemplo:
 
-* **Filtrar**: envíe correos electrónicos solo a los propietarios de una marca de vehículo específica
-* **Déclencheur**: envíe un correo electrónico cuando se añada un objeto personalizado a una persona o empresa.
+* **Filtro**: envía correos electrónicos solo a los propietarios de una marca de vehículo específica
+* **Déclencheur**: envíe un mensaje de correo electrónico cuando se agregue un objeto personalizado a una persona o compañía.
 
 Puede configurar objetos personalizados en una relación de uno a varios o de varios a varios. Por ejemplo:
 
-* **Uno a varios**: Una persona posee varios coches
-* **Varios a varios**: varios alumnos se inscriben en varios cursos desde un catálogo de cursos
+* **Uno a varios**: Una persona posee varios autos
+* **Varios a varios**: hay varios alumnos inscritos en varios cursos de un catálogo de cursos
 
 Una estructura &quot;uno a varios&quot; utiliza un único campo de vínculo para conectar el objeto personalizado a una persona o compañía.
 
@@ -43,11 +43,11 @@ Los objetos personalizados &quot;varios a varios&quot; utilizan dos campos de v�
 
 ## Acceso a objetos personalizados de Marketo {#accessing-marketo-custom-objects}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Clic **[!UICONTROL Objetos personalizados de Marketo]**.
+1. Haga clic en **[!UICONTROL Objetos personalizados de Marketo]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ Los objetos personalizados &quot;varios a varios&quot; utilizan dos campos de v�
 
 ## Ver objetos personalizados asociados a una persona {#view-custom-objects-associated-to-a-person}
 
-Después de crear la estructura de objetos personalizada, al cargar los datos de objetos personalizados específicos, los objetos personalizados se asocian automáticamente a las personas de la base de datos mediante el campo de vínculo del objeto personalizado. Puede ver información desde el [!UICONTROL Objetos personalizados] en la página de detalles de la persona.
+Después de crear la estructura de objetos personalizada, al cargar los datos de objetos personalizados específicos, los objetos personalizados se asocian automáticamente a las personas de la base de datos mediante el campo de vínculo del objeto personalizado. Puede ver información en la ficha [!UICONTROL Objetos personalizados] de la página de detalles de la persona.
 
 1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Abra la base de datos y haga clic en **[!UICONTROL People]** pestaña. Haga doble clic en el registro de una persona asociada a un objeto personalizado.
+1. Abra la base de datos y haga clic en la ficha **[!UICONTROL Personas]**. Haga doble clic en el registro de una persona asociada a un objeto personalizado.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. En la página de detalles de la persona, haga clic en **[!UICONTROL Objetos personalizados]** pestaña. Seleccione el objeto de la lista desplegable.
+1. En la página de detalles de la persona, haga clic en la ficha **[!UICONTROL Objetos personalizados]**. Seleccione el objeto de la lista desplegable.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

@@ -6,7 +6,7 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Paso 1: Crear una campaña de puntuación {#step-create-a-scoring-campaign}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/simple-scoring-1.png)
 
-1. Haga clic con el botón derecho **Aprendizaje** y haga clic en **[!UICONTROL Nueva carpeta de campaña]**.
+1. Haga clic con el botón derecho en la carpeta **Aprendizaje** y haga clic en **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![](assets/simple-scoring-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >Si ya tiene una carpeta Puntuación, póngale otro nombre, como Puntuación 1. Los nombres de las carpetas deben ser únicos.
 
-1. Haga clic con el botón derecho **Puntuación** carpeta y seleccione **[!UICONTROL Nueva campaña inteligente]**.
+1. Haga clic con el botón derecho en la carpeta **Puntuación** y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/simple-scoring-4.png)
 
@@ -44,45 +44,45 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-5.png)
 
-1. Haga clic en **[!UICONTROL Lista inteligente]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/simple-scoring-6.png)
 
    Queremos que esta campaña se ejecute cada vez que una persona rellene su **Formulario de solicitud de prueba**.
 
-1. Busque y arrastre el **[!UICONTROL Rellena el formulario]** déclencheur en el lienzo izquierdo.
+1. Busque y arrastre el déclencheur **[!UICONTROL Rellena formulario]** al lienzo izquierdo.
 
    ![](assets/simple-scoring-7.png)
 
-1. Seleccionar **Mi formulario**.
+1. Seleccione **Mi formulario**.
 
    ![](assets/simple-scoring-8.png)
 
    >[!NOTE]
    >
-   >Si ha completado la [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} ganancia rápida, deberías tener el formulario. Si ha utilizado un nombre diferente para el formulario, selecciónelo.
+   >Si completaste la [página de aterrizaje con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}, deberías tener el formulario. Si ha utilizado un nombre diferente para el formulario, selecciónelo.
 
-1. Haga clic en **[!UICONTROL Flujo]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Flujo]**.
 
    ![](assets/simple-scoring-9.png)
 
-1. Arrastre el **Cambiar puntuación** acción de flujo en el lienzo izquierdo.
+1. Arrastre la acción de flujo **Cambiar puntuación** al lienzo izquierdo.
 
    ![](assets/simple-scoring-10.png)
 
-1. Puede escribir cualquier valor para añadirlo a la puntuación de la persona. Vamos a introducir &quot;+5&quot; en **[!UICONTROL Cambiar]** field.
+1. Puede escribir cualquier valor para añadirlo a la puntuación de la persona. Vamos a escribir &quot;+5&quot; en el campo **[!UICONTROL Cambiar]**.
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >Las buenas campañas de puntuación son clave para ofrecer personas de alta calidad a Ventas. Leer [**La guía definitiva para la puntuación de posibles clientes**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
+   >Las buenas campañas de puntuación son clave para ofrecer personas de alta calidad a Ventas. Lea [**La guía definitiva para la puntuación de posibles clientes**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Haga clic en **[!UICONTROL Programación]** y la pestaña **[!UICONTROL Activar]** botón.
+1. Haga clic en la ficha **[!UICONTROL Programar]** y en el botón **[!UICONTROL Activar]**.
 
    ![](assets/simple-scoring-12.png)
 
-1. Clic **[!UICONTROL Activar]** en la pantalla de confirmación.
+1. Haz clic en **[!UICONTROL Activar]** en la pantalla de confirmación.
 
    ![](assets/simple-scoring-13.png)
 
@@ -92,11 +92,11 @@ ht-degree: 0%
 
 ## Paso 2: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccione la página de aterrizaje que creó en la [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} ganancia rápida.
+1. Seleccione la página de aterrizaje que creó en la [página de aterrizaje con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
    ![](assets/simple-scoring-14.png)
 
-1. Clic **[!UICONTROL Previsualizar]**. La página de aterrizaje se abrirá en una nueva pestaña.
+1. Haga clic en **[!UICONTROL Vista previa]**. La página de aterrizaje se abrirá en una nueva pestaña.
 
    ![](assets/simple-scoring-15.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## Paso 3: Ver la información de la persona {#step-view-the-person-info}
 
-1. Vaya a la **[!UICONTROL Base de datos]** área.
+1. Vaya al área de **[!UICONTROL Base de datos]**.
 
    ![](assets/simple-scoring-17.png)
 

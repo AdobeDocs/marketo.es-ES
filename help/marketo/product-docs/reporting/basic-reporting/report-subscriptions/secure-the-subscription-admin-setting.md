@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Un administrador puede elegir requerir el inicio de sesión para ver un informe.
 
-1. Clic **Administrador**, y luego **Configuración de inicio**.
+1. Haga clic en **Administrador** y luego en **Configuración de inicio de sesión**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Clic **Editar** para Configuración de informes de listas inteligentes.
+1. Haga clic en **Editar** para ver la configuración del informe de listas inteligentes.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Seleccionar **Sí** para requerir un inicio de sesión para descargar informes.
+1. Seleccione **Sí** para requerir un inicio de sesión para descargar informes.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

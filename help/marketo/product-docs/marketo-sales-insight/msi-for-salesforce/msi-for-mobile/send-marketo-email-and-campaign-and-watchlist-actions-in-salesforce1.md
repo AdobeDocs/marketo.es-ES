@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Vaya al área de Detalles del posible cliente de Salesforce1 y haga clic en **Relacionado** pestaña.
+1. Vaya al área de Detalles del posible cliente en Salesforce1 y haga clic en la ficha **Relacionado**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >¿Qué campañas inteligentes aparecen? Las que tienen déclencheur &quot;Se solicita una campaña&quot;. Obtenga información sobre cómo configurar un [campaña activada mediante &quot;Se ha solicitado la campaña&quot;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >¿Qué campañas inteligentes aparecen? Las que tienen déclencheur &quot;Se solicita una campaña&quot;. Aprenda a configurar una campaña [desencadenada mediante &quot;Se ha solicitado la campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Genial, ahora sus vendedores pueden participar activamente en el esfuerzo de marketing.
 

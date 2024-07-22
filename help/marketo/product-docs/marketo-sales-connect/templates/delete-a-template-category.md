@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Haga clic en el icono de menú situado junto a una categoría y, a continuación, haga clic en **Eliminar**.
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
 >[!NOTE]
 >

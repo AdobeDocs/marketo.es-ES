@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Eliminar un informe {#delete-a-report}
 
-Una vez que comience [creación de informes](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Sin embargo, puede terminar rápidamente con muchos de ellos. Recuerde eliminar los informes que ya no necesite.
+Una vez que [empieces a crear informes](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), puedes acabar rápidamente con muchos de ellos. Recuerde eliminar los informes que ya no necesite.
 
-1. Haga clic con el botón derecho en el informe innecesario del árbol y seleccione **Eliminar informe**.
+1. Haga clic con el botón derecho en el informe que no necesite en el árbol y seleccione **Eliminar informe**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

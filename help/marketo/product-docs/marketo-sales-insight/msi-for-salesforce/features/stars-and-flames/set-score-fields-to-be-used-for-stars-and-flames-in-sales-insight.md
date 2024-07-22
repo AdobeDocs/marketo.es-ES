@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-De forma predeterminada, Marketo Sales Insight utiliza el **Puntuación de posibles clientes** para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
+De manera predeterminada, Marketo Sales Insight usa el campo **Puntuación de posibles clientes** para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
 
 >[!TIP]
 >
->Si aún no tiene los campos de puntuación personalizados, así es como hacerlo [crear](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) a ellos.
+>Si aún no tienes tus campos de puntuación personalizados, así es como [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definición**
 >
->* **Estrellas**: Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
->* **Llamas**: las llamas representan la urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
+>* **Estrellas**: Las estrellas representan la puntuación total del posible cliente en comparación con otros posibles clientes.
+>* **Llamas**: Las llamas representan la urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
 >
 
-1. En **Administrador**, haga clic en **Perspectiva de ventas**.
+1. En **Administrador**, haga clic en **Información de ventas**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
@@ -39,15 +39,15 @@ De forma predeterminada, Marketo Sales Insight utiliza el **Puntuación de posib
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Seleccione el campo que desee utilizar para **Estrellas**.
+1. Seleccione el campo que desee usar para **Stars**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Seleccione el campo que desee utilizar para **Llamas**.
+1. Seleccione el campo que desee usar para **Llamas**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
@@ -57,4 +57,4 @@ De forma predeterminada, Marketo Sales Insight utiliza el **Puntuación de posib
 
    >[!MORELIKETHIS]
    >
-   >[Prioridad, urgencia, puntuación relativa y resultados más probables](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Prioridad, urgencia, puntuación relativa y elementos más probables](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

@@ -21,17 +21,17 @@ Puede programar la campaña web en función de la hora del visitante web o de un
 >
 >**Ejemplo**
 >
->Programar las fechas de inicio y finalización es bueno para un evento programado, como un seminario web, que se ejecuta durante un período específico. Las repeticiones son perfectas para una oferta especial que se ejecuta cada semana solo en un día en particular.
+>Programar las fechas de inicio y parada es ideal para un evento programado, como un seminario web, que se ejecuta durante un período específico. Las repeticiones son perfectas para una oferta especial que se ejecuta cada semana solo en un día en particular.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña que desea, use la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Abra el menú Campaign Status y seleccione **Programación**.
+1. Abra el menú Estado de la campaña y seleccione **Programar**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,18 +51,18 @@ Puede programar la campaña web en función de la hora del visitante web o de un
    >
    >Puede seleccionar la fecha y la hora en el menú desplegable y en el calendario, o bien introducirlas manualmente. Los horarios son de 12 horas AM/PM.
 
-1. De forma predeterminada, la campaña se ejecutará todos los días entre las fechas de inicio y finalización. Si desea ejecutar la campaña solo en días específicos o en horas específicas, utilice el **Repetir** configuración. Seleccione el día y las horas de inicio y finalización para mostrar la campaña. Utilice el signo más + para agregar días adicionales.
+1. De forma predeterminada, la campaña se ejecutará todos los días entre las fechas de inicio y finalización. Si desea ejecutar la campaña solamente en días específicos o a horas específicas, use la configuración **Repetir**. Seleccione el día y las horas de inicio y finalización para mostrar la campaña. Utilice el signo más + para agregar días adicionales.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Clic **Programación**.
+1. Haga clic en **Programar**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. El estado de la campaña en la página Campañas cambia a **Programado** y aparece el icono de reloj/calendario. Haga clic en este icono para editar la programación de campaña.
+1. El estado de la campaña en la página Campañas cambia a **Programada** y aparece el icono de reloj/calendario. Haga clic en este icono para editar la programación de campaña.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >El estado de la campaña permanece como **Programado** incluso cuando la campaña se está ejecutando durante las horas programadas seleccionadas. Cuando pasa una fecha de finalización programada, el estado de la campaña cambia a **Pausado**.
+   >El estado de la campaña permanece como **Programada** incluso cuando la campaña se esté ejecutando durante las horas programadas seleccionadas. Cuando ha pasado una fecha de finalización programada, el estado de la campaña cambia a **En pausa**.

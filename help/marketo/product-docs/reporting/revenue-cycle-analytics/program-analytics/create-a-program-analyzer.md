@@ -6,7 +6,7 @@ exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Descubra qué programas y canales le están dando el mayor impulso a su inversi�
 
 >[!NOTE]
 >
->Para obtener buenos datos de un analizador de programas, asegúrese de que sus contactos de CRM tengan funciones en las oportunidades y de que sus programas de Marketo estén completamente configurados, con [costes del periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), estados de programa y definido correctamente.
+>Para obtener buenos datos de un analizador de programas, asegúrese de que sus contactos de CRM tengan funciones en las oportunidades y de que sus programas de Marketo estén completamente configurados, con [costes de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), estados de programa y definición de éxito.
 
 >[!TIP]
 >
->Para que los programas sin coste aparezcan en el analizador de programas, [establecer el coste de su periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) a 0 $.
+>Para que los programas sin costo aparezcan en el analizador de programas, [establezca su costo de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) en $0.
 
-1. Haga clic en **Analytics** mosaico.
+1. Haga clic en el mosaico **Analytics**.
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. Haga clic en **Analizador de programas** mosaico.
+1. Haga clic en el mosaico **Analizador de programas**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -35,7 +35,7 @@ Descubra qué programas y canales le están dando el mayor impulso a su inversi�
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. Haga clic en **Configurar** para añadir y personalizar filtros.
+1. Haga clic en la ficha **Configuración** para agregar y personalizar filtros.
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
@@ -43,19 +43,19 @@ Descubra qué programas y canales le están dando el mayor impulso a su inversi�
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. Seleccione el periodo de tiempo que desee analizar y haga clic en **Aplicar**.
+1. Seleccione el período de tiempo que desee analizar y haga clic en **Aplicar**.
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
    >[!TIP]
    >
-   >Para seleccionar un rango específico, seleccione **Personalizado** y utilice el **Desde** y **Hasta** campos.
+   >Para seleccionar un rango específico, seleccione **Personalizado** y use los campos **De** y **A**.
 
 1. Si desea guardar el nuevo analizador personalizado, en la lista desplegable Acciones del analizador, seleccione **Guardar como**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Seleccione la ubicación donde desea guardar el analizador personalizado mediante los menús desplegables Guardar en y Carpeta. Asigne un nombre al nuevo analizador personalizado. Una descripción es opcional. Clic **Guardar**.
+1. Seleccione la ubicación donde desea guardar el analizador personalizado mediante los menús desplegables Guardar en y Carpeta. Asigne un nombre al nuevo analizador personalizado. Una descripción es opcional. Haga clic en **Guardar**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -65,11 +65,11 @@ Descubra qué programas y canales le están dando el mayor impulso a su inversi�
 
 >[!NOTE]
 >
->Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de múltiples contactos (MT). Es importante entender el [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de múltiples contactos (MT). Es importante entender la [diferencia entre la atribución de FTP y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
->* [Comparación de la eficacia del canal con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Comparar la eficacia del canal con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Comparar la eficacia del programa con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [Exploración de los detalles de programas y canales con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Explorar detalles de programas y canales con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Clonar un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

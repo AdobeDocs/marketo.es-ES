@@ -45,7 +45,7 @@ Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora
 
    ![](assets/five-2.png)
 
-1. Para volver al modelo, haga clic en **Modelador**.
+1. Para volver al modelo, haz clic en **Modeler**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora
 
    ![](assets/seven.png)
 
-1. Una vez configuradas las reglas para todas las transiciones, haga clic en **Validate** para verificar.
+1. Una vez que haya configurado las reglas para todas las transiciones, haga clic en **Validar** para verificarlas.
 
    ![](assets/eight.png)
 

@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Los costos de período se refieren al dinero que gasta en un mes específico en 
 >
 >Si gasta 1000 dólares para contratar un ilustrador para un libro electrónico que se lanza en julio, el programa de libros electrónicos tendría un costo de 1000 dólares en julio.
 >
->Si gastas $200 al mes en [!DNL Google Adwords] - el [!DNL Google Adwords] el programa tendría un costo de período de 200 dólares _cada mes_.
+>Si gasta 200 $ al mes en [!DNL Google Adwords], el programa [!DNL Google Adwords] tendría un costo de período de 200 $ _al mes_.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Imagine un evento, como un seminario web, que se produce en marzo. Las nuevas pe
 
    ![](assets/graph1.png)
 
-   ... los contactos añadidos en los meses anteriores y posteriores *solamente* Contar hacia marzo.
+   ...los contactos agregados en los meses anteriores y posteriores *solo* contarán hacia marzo.
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ Imagine un evento, como un seminario web, que se produce en marzo. Las nuevas pe
 
    >[!NOTE]
    >
-   >En resumen: los meses sin un periodo definido, los costes se desplazarán &quot;hacia atrás&quot; hasta el último que se haya definido. Si no hay ningún coste de periodo anterior, los meses se trasladan &quot;hacia delante&quot; al siguiente que se haya definido. Si no se ha definido un coste de período para _cualquiera_ meses, los informes en RCE no estarán disponibles para el programa.
+   >En resumen: los meses sin un periodo definido, los costes se desplazarán &quot;hacia atrás&quot; hasta el último que se haya definido. Si no hay ningún coste de periodo anterior, los meses se trasladan &quot;hacia delante&quot; al siguiente que se haya definido. Si no se ha definido un costo de período para _cualquier_ meses, los informes en RCE no estarán disponibles para el programa.
 
    >[!MORELIKETHIS]
    >
-   >* [Uso de Costes de Período en un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [Filtrado de un informe de programa por coste de período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [Uso de costos de período en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filtrar un informe de programa por costo de período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

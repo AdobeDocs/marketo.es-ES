@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Establecer un campo de formulario como obligatorio {#make-a-form-field-required}
 
-Cuándo [adición de campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) es posible que desee hacer que algunos de ellos sean obligatorios para la persona que los rellena. Así es como.
+Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), es posible que desee que algunos de ellos sean obligatorios para la persona que los rellena. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -27,16 +27,16 @@ Cuándo [adición de campos a un formulario](/help/marketo/product-docs/demand-g
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. ¡Bien hecho! Clic **Finalizar**.
+1. ¡Bien hecho! Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->No te olvides de [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulario se mantiene para que los cambios se activen.
+>No olvide [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) en la que se base este formulario para que los cambios se activen.
 
-¿Es necesario [reordene los campos agregados al formulario](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+¿Necesita [reordenar los campos que agregó al formulario](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

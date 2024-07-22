@@ -19,7 +19,7 @@ Las listas estáticas son un grupo de personas que ya se encuentran en la base d
 
    ![](assets/db.png)
 
-1. Haga clic en **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Nueva lista]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nueva lista]**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Las listas estáticas son un grupo de personas que ya se encuentran en la base d
 
    ![](assets/three.png)
 
-   Ahora tiene una lista vacía lista para rellenar. Aprenda a añadir personas [aquí](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
+   Ahora tiene una lista vacía lista para rellenar. Aprenda a agregar personas [aquí](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
 
    >[!NOTE]
    >

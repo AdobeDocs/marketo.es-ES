@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Búsqueda y uso de plantillas {#finding-and-using-templates}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Fijar categorías de plantilla en la ventana de composición {#pinning-template-categories-in-the-compose-window}
 
-Favorito **hasta cinco** categorías de plantilla específicas para obtener acceso rápido a las plantillas más utilizadas.
+**favorita hasta cinco** categorías de plantilla específicas para obtener acceso rápido a las plantillas más utilizadas.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Haga clic en **+** junto a Favoritos.
+1. Haga clic en el icono **+** junto a Favoritos.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Haga clic en **Anclar una categoría** y seleccione la categoría que desee.
+1. Haga clic en el menú desplegable **Anclar una categoría** y seleccione la categoría que desee.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Favorito **hasta cinco** categorías de plantilla específicas para obtener acce
    >
    >Se recomienda fijar la categoría &quot;Todas&quot; para acceder rápidamente a la búsqueda de toda la biblioteca de plantillas, ya que a menudo es necesario buscar en todas las plantillas para encontrar lo que está buscando. Cuando haya seleccionado una categoría anclada y haga clic en el icono de búsqueda, la búsqueda se mostrará de forma predeterminada en la categoría anclada seleccionada.
 
-1. Clic **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
+1. Haga clic en **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ Favorito **hasta cinco** categorías de plantilla específicas para obtener acce
 
    >[!NOTE]
    >
-   >**Favoritos** está ahí de forma predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
+   >**Favoritos** está ahí de manera predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
 
    La categoría seleccionada está anclada.

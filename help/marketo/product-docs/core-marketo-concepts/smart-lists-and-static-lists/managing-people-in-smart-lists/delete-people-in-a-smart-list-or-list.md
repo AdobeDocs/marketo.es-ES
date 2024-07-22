@@ -6,7 +6,7 @@ exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Puede eliminar rápida y fácilmente algunas o todas las personas que están en 
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma-1.png)
 
-1. Seleccione la lista o lista inteligente que contiene todas las personas que desea eliminar y vaya a **[!UICONTROL People]** pestaña.
+1. Seleccione la lista/lista inteligente que contiene todas las personas que desea eliminar y vaya a la ficha **[!UICONTROL Personas]**.
 
    ![](assets/two-1.png)
 
@@ -31,19 +31,19 @@ Puede eliminar rápida y fácilmente algunas o todas las personas que están en 
    >
    >Al eliminar a una persona, no solo la está eliminando de la lista, sino que se eliminará completamente de la base de datos.
 
-1. Clic **[!UICONTROL Seleccionar todo]**. También puede elegir manualmente algunos registros utilizando Ctrl/Cmd y haciendo clic en.
+1. Haga clic en **[!UICONTROL Seleccionar todo]**. También puede elegir manualmente algunos registros utilizando Ctrl/Cmd y haciendo clic en.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Si los resultados se extienden por varias páginas, haga clic en **[!UICONTROL Seleccionar todo]** seleccionará todas las personas en todas las páginas.
+   >Si los resultados abarcan varias páginas, al hacer clic en **[!UICONTROL Seleccionar todo]** se seleccionarán todas las personas en todas las páginas.
 
-1. Para eliminar completamente a las personas de Marketo, haga clic en **[!UICONTROL Eliminar persona]**.
+1. Para eliminar por completo a las personas de Marketo, haga clic en **[!UICONTROL Eliminar persona]**.
 
    ![](assets/four-1.png)
 
-1. Establecer **[!UICONTROL Eliminar de CRM]** hasta **[!UICONTROL true]** si también desea eliminar los registros de su CRM.
+1. Establezca **[!UICONTROL Quitar de CRM]** a **[!UICONTROL true]** si también desea eliminar los registros de su CRM.
 
    ![](assets/five.png)
 
@@ -55,16 +55,16 @@ Puede eliminar rápida y fácilmente algunas o todas las personas que están en 
    >
    >Si el Marketo no está vinculado a su CRM, la opción aparece atenuada como en la captura de pantalla.
 
-1. Clic **[!UICONTROL Ejecutar ahora]**.
+1. Haga clic en **[!UICONTROL Ejecutar ahora]**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Si va a eliminar más de 50 personas, verá esto. Escriba el número de personas que está eliminando y marque la opción **[!UICONTROL No se puede deshacer]** y haga clic en **[!UICONTROL Eliminar]**.
+1. Si va a eliminar más de 50 personas, verá esto. Escriba el número de personas que está eliminando, marque la casilla **[!UICONTROL No se puede deshacer]** y luego haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Para ver los resultados de la eliminación masiva, haga clic en **[!UICONTROL Ver resultados]** en el cuadro emergente Acción de flujo único, en la esquina superior derecha de la pantalla. Los tiempos de eliminación pueden variar considerablemente, según varios factores.
+   >Para ver los resultados de la eliminación masiva, haga clic en **[!UICONTROL Ver resultados]** en el cuadro emergente Acción de un solo flujo en la esquina superior derecha de la pantalla. Los tiempos de eliminación pueden variar considerablemente, según varios factores.
 
    Esta es una gran característica, solo tenga cuidado al usarlo!

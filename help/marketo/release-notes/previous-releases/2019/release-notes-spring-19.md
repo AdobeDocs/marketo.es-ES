@@ -23,15 +23,15 @@ Las siguientes funciones se lanzaron el 15 de marzo de 2019.
 
 ## Mejoras en la plataforma principal {#core-platform-enhancements}
 
-* **En lista de espera:** Nuevo estado de programa/evento para poner en lista de espera a un miembro cuando desee [ponlos en espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) hasta que se abra una vacante. Esto se aplica a los canales asociados con programas de eventos en Marketo Classic, y tanto a los eventos como a los eventos con programas de seminarios web en Marketo Sky. De forma predeterminada, Lista de espera tiene el mismo valor de paso que Registrado.
-* **[Límite de comunicación personalizada](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Los administradores ahora pueden establecer límites de comunicación diarios o semanales personalizados.
-* **[API de recursos de campaña inteligente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: enriquezca sus análisis fuera de Marketo con la recuperación de registros de campaña inteligente por fecha e ID actualizados.
+* **En lista de espera:** Nuevo estado de programa/evento para poner en lista de espera a un miembro cuando quieras [ponerlo en espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) hasta que se abra una vacante. Esto se aplica a los canales asociados con programas de eventos en Marketo Classic, y tanto a los eventos como a los eventos con programas de seminarios web en Marketo Sky. De forma predeterminada, Lista de espera tiene el mismo valor de paso que Registrado.
+* **[Límite de comunicación personalizada](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: los administradores ahora pueden establecer límites de comunicación diarios o semanales personalizados.
+* **[API de recursos de campaña inteligente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: enriquece tu análisis fuera de Marketo con la recuperación del registro de campaña inteligente por fecha e ID actualizados.
 * **Vínculos de seguimiento HTTPS para correo electrónico:** Para los clientes que han adquirido &quot;Dominios seguros para el seguimiento de vínculos&quot;, los vínculos de seguimiento de marca ahora se pueden mostrar en sus correos electrónicos como HTTPS.
-* **Entrega de correo electrónico Actualizaciones de Powerpack**: capacidad para marcar y comentar resultados de pruebas específicas, compartir resultados con las partes interesadas a través de una URL y rastrear cambios para ver la evolución de un correo electrónico a medida que las partes interesadas editan el contenido.
+* **Actualizaciones del Powerpack de envío de correo electrónico**: capacidad para marcar y comentar resultados de pruebas específicas, compartir resultados con partes interesadas a través de una dirección URL y realizar un seguimiento de los cambios para ver la evolución de un correo electrónico a medida que las partes interesadas editan el contenido.
 
 Account-Based Marketing
 
-**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Ahora disponible de forma general. AccountAI utiliza inteligencia artificial para revelar las cuentas que debe orientar para su estrategia ABM.
+**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** ahora disponible de forma general. AccountAI utiliza inteligencia artificial para revelar las cuentas que debe orientar para su estrategia ABM.
 
 <br> 
 
@@ -41,18 +41,18 @@ Se espera que las siguientes funciones se publiquen durante el primer trimestre 
 
 ## Marketo Sky {#marketo-sky}
 
-* **Funcionalidad completa del programa de correo electrónico**: envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados para disfrutar de una experiencia fácil de usar.
-* **Funcionalidad de campañas inteligentes**: disfrute de una estabilidad mejorada en una nueva interfaz de usuario a medida que la funcionalidad de la campaña inteligente sigue desplegándose en Sky.
-* **Administrar recursos de Design Studio**: Se ha añadido la capacidad de administrar plantillas, imágenes, Forms, fragmentos de código, archivos, correos electrónicos y páginas de destino de forma masiva desde las vistas de lista de Design Studio.
-* **Tablero de zona horaria de envío en destinatario**: Comprenda el comportamiento de los clientes con los informes para correos electrónicos enviados mediante la función Entregar en zona horaria de destinatario en Sky.
+* **Funcionalidad completa del programa de correo electrónico**: Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados para disfrutar de una experiencia fácil de usar.
+* **Funcionalidad de campañas inteligentes**: Disfruta de una mayor estabilidad en una nueva interfaz de usuario a medida que la funcionalidad de campañas inteligentes continúa desplegándose en Sky.
+* **Administrar Assets de Design Studio**: Se ha agregado la capacidad de administrar plantillas, imágenes, Forms, fragmentos de código, archivos, correos electrónicos y páginas de aterrizaje de forma masiva desde las vistas de lista de Design Studio.
+* **Tablero de zona horaria de entrega a destinatario**: Comprenda el comportamiento de los clientes con los informes de los correos electrónicos enviados mediante la función de zona horaria de entrega a destinatario en Sky.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Auditoría mejorada**: Nueva visibilidad de todas las personas, los correos electrónicos y los [content](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) en una instancia con capacidad añadida para [finalizar campañas existentes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)creado por otros usuarios.
-* **[Administración de cancelación de suscripción](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximice la capacidad de entrega y el cumplimiento con la capacidad de [bloquear dominios de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) de ser contactado. Marketo también hará referencia cruzada a la base de datos de posibles clientes para las cancelaciones de suscripción antes de enviar un correo electrónico.
+* **Auditoría mejorada**: Nueva visibilidad de todas las personas, correos electrónicos y [contenido](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) en una instancia con capacidad agregada para [finalizar campañas existentes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)creadas por otros usuarios.
+* **[Administración de cancelación de suscripción](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximice la capacidad de entrega y el cumplimiento con la capacidad de [bloquear los dominios de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) para que no se pongan en contacto con ellos. Marketo también hará referencia cruzada a la base de datos de posibles clientes para las cancelaciones de suscripción antes de enviar un correo electrónico.
 
 ## Bizible by Marketo {#bizible-by-marketo}
 
-* **Mejoras en las funciones de Bizible Discover**: Las nuevas funciones de segmentación de tableros permiten a los especialistas en marketing comprender mejor el rendimiento.
-* **Compatibilidad con múltiples monedas**: cambie entre su moneda corporativa y cualquier moneda local con la nueva funcionalidad de conversión automática de moneda de Bizible creada en tablas de moneda CRM.
-* **Costes de campaña de CRM**: mida el gasto y el ROI de las actividades de marketing sin conexión con la capacidad de extraer automáticamente los datos de coste del objeto de campaña de CRM.
+* **Mejoras en la característica de Bizible Discover**: Las nuevas capacidades de segmentación de tableros permiten a los especialistas en marketing comprender mejor el rendimiento.
+* **Compatibilidad con múltiples monedas**: cambie entre su moneda corporativa y cualquier moneda local con la nueva funcionalidad de conversión de moneda automática de Bizible creada en tablas de moneda CRM.
+* **Costos de campaña de CRM**: mida el gasto y el ROI de las actividades de marketing sin conexión con la capacidad de extraer automáticamente los datos de costo del objeto de campaña de CRM.

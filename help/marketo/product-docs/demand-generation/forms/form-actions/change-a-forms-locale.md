@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al tratar con formularios internacionales, querrá mostrar las fechas y horas en los formatos correctos. Marketo lo hará automáticamente, todo lo que tiene que hacer es establecer la configuración regional del formulario y nosotros nos encargamos del resto.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,15 +27,15 @@ Al tratar con formularios internacionales, querrá mostrar las fechas y horas en
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Seleccione el **Configuración regional** de su elección.
+1. Seleccione la **configuración regional** que elija.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Clic **Aprobar y cerrar** para aplicar y guardar cambios.
+1. Haga clic en **Aprobar y cerrar** para aplicar y guardar los cambios.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Al tratar con formularios internacionales, querrá mostrar las fechas y horas en
 
    >[!NOTE]
    >
-   >Recuerde lo siguiente [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+   >Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ¡Eso es todo! Las personas pueden ver la fecha y la hora en la configuración regional correcta.
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las campañas inteligentes y los programas de correo electrónico se pueden crear como entradas provisionales y deben confirmarse para que cualquier cosa suceda. Así es como.
 
-1. Vaya a la **[!UICONTROL Calendario]**.
+1. Ir a **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 

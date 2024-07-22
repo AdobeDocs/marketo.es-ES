@@ -16,7 +16,7 @@ Las carpetas dentro de un programa se pueden utilizar para organizar las campañ
 
 ## Crear una carpeta {#create-a-folder}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/ma.png)
 
@@ -24,11 +24,11 @@ Las carpetas dentro de un programa se pueden utilizar para organizar las campañ
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Asigne un nombre a la nueva carpeta y pulse **[!UICONTROL Entrar]**.
+1. Asigne un nombre a la nueva carpeta y presione **[!UICONTROL Intro]**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Excelente! Ahora tiene una nueva carpeta para almacenar sus recursos locales.
+¡Excelente! Ahora tiene una nueva carpeta para almacenar sus recursos locales.
 
 ## Cambiar nombre de carpeta {#rename-a-folder}
 
@@ -38,7 +38,7 @@ Está bien que cambies de opinión.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Escriba un nombre nuevo y pulse **[!UICONTROL Entrar]**.
+1. Escriba un nombre nuevo y presione **[!UICONTROL Entrar]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -65,7 +65,7 @@ Al archivar una carpeta:
 * Las plantillas archivadas no están disponibles al crear un correo electrónico o una página de aterrizaje en Design Studio
 * Las páginas archivadas no se pueden usar en grupos de prueba de página de aterrizaje
 
-Funcionalidad que hará que **no** cambiar al archivar:
+Funcionalidad que **no** cambiará al archivar:
 
 * La búsqueda global sigue encontrando resultados en carpetas archivadas
 * Un recurso que está en uso seguirá funcionando incluso después de archivarse

@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta versión incluye características sociales integradas y muy esperadas y productos de administración de posibles clientes. Nota: las funciones sociales están disponibles como complemento o como parte de paquetes seleccionados.
 
-## Publicar un vídeo de YouTube con uso compartido en medios sociales {#publish-a-youtube-video-with-social-sharing}
+## Vídeo de Publish a YouTube con uso compartido en medios sociales {#publish-a-youtube-video-with-social-sharing}
 
 Amplíe la audiencia de sus vídeos animando a sus visitantes a compartirlos socialmente mediante el nuevo uso compartido de vídeos en sus páginas de aterrizaje.
 
@@ -33,7 +33,7 @@ Obtenga información y reduzca la fricción al permitir que los posibles cliente
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publicación de páginas de aterrizaje en Facebook {#publish-landing-pages-to-facebook}
+## Páginas de destino de Publish en Facebook {#publish-landing-pages-to-facebook}
 
 Amplíe el alcance de sus páginas de aterrizaje publicándolas directamente en Facebook, con aplicaciones sociales, formularios y la funcionalidad completa de las páginas de aterrizaje de Marketo.
 

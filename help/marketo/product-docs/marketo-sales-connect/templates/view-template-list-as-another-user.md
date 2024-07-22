@@ -17,13 +17,13 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Clic **Plantillas**.
+1. Haga clic en **Plantillas**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Ver como** y seleccione el usuario que desee.
+1. Haga clic en el menú desplegable **Ver como** y seleccione el usuario que desee.
 
    ![](assets/two.png)
 

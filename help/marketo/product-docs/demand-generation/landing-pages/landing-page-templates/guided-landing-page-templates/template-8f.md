@@ -6,14 +6,14 @@ exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # Plantilla 8F {#template-8f}
 
-Haga clic con el botón derecho para [descargar plantilla 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+Haga clic con el botón derecho para [descargar la plantilla 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -27,6 +27,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cinco secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

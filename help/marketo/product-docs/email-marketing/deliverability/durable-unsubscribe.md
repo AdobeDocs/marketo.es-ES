@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Hemos añadido un estado de correo electrónico principal, que es independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
 
-Si el indicador de cancelación de suscripción se establece de falso a verdadero, el estado del correo electrónico principal se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se elimina y se vuelve a crear una persona, o si se crea un nuevo registro con la misma dirección de correo electrónico, el indicador de cancelación de suscripción **no** se sobrescribirá.
+Si el indicador de cancelación de suscripción se establece de falso a verdadero, el estado del correo electrónico principal se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se quita una persona y se vuelve a crear, o si se crea un nuevo registro con la misma dirección de correo electrónico, el indicador de cancelación de suscripción **no** se sobrescribirá.
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ Si el indicador de cancelación de suscripción se establece de falso a verdader
 
 Existen varias formas de volver a suscribir a una persona.
 
-En Salesforce, **despejar** el campo Exclusión de correo electrónico en el registro del posible cliente/contacto. Se sincronizará con Marketo.
+En Salesforce, **borre** el campo Exclusión de correo electrónico en el registro del posible cliente/contacto. Se sincronizará con Marketo.
 
 ![](assets/one.png)
 
-En Marketo, **despejar** Seleccione el cuadro de cancelación de suscripción en la pestaña Información del registro de la persona.
+En Marketo, **borre** la casilla de cancelación de la suscripción en la ficha Información del registro de la persona.
 
 ![](assets/two.png)
 
-Ejecute un **Cambiar valor de datos** paso de flujo, como se muestra a continuación, en una o varias personas.
+Ejecute un paso de flujo de **Cambiar valor de datos** como se muestra a continuación en una o varias personas.
 
 ![](assets/three.png)
 
-Actualizar una persona existente mediante la API de SOAP.
+SOAP Actualizar una persona existente mediante la API de.
 
 ## Creación de una nueva persona {#creating-a-new-person}
 
@@ -55,4 +55,4 @@ Al igual que una cancelación de suscripción haría que todas las personas con 
 
 >[!MORELIKETHIS]
 >
->[Explicación de cancelación de suscripción](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[Descripción de la cancelación de suscripción](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

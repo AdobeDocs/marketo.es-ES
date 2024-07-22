@@ -7,7 +7,7 @@ exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Tener contactos en la página Personas es importante porque es de donde extraemo
 
    ![](assets/import-contacts-via-csv-1.png)
 
-1. Clic **Acciones de grupo** y seleccione **Importar CSV**.
+1. Haga clic en **Acciones de grupo** y seleccione **Importar CSV**.
 
    ![](assets/import-contacts-via-csv-2.png)
 
-1. Clic **Examinar**.
+1. Haga clic en **Examinar**.
 
    ![](assets/import-contacts-via-csv-3.png)
 
@@ -34,10 +34,10 @@ Tener contactos en la página Personas es importante porque es de donde extraemo
    >
    >Los grupos están limitados a 1000 contactos.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/import-contacts-via-csv-4.png)
 
-1. Asigne las columnas de su CSV a sus respectivos campos en Sales Connect. Clic **Siguiente** cuando termine.
+1. Asigne las columnas de su CSV a sus respectivos campos en Sales Connect. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/import-contacts-via-csv-5.png)

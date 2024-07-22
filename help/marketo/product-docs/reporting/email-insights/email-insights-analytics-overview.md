@@ -17,7 +17,7 @@ En Analytics, explore los datos agregados para la entrega y la participación po
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtrado](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) está disponible para ayudarle a explorar en profundidad métricas específicas.
+[El filtrado](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) está disponible para ayudarle a explorar en profundidad métricas específicas.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ El gráfico muestra los criterios filtrados. Para ocultar uno de los filtros, si
 
 ![](assets/chart2.png)
 
-Si crea un gráfico que desee volver a utilizar, conviértalo en un [gráfico rápido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Si deseas volver a crear un gráfico, conviértelo en un [gráfico rápido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ También puede especificar lo que ve (de izquierda a derecha): Todos, Audiencia,
 
 >[!MORELIKETHIS]
 >
->[Resumen de envíos de Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Información general sobre envíos de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

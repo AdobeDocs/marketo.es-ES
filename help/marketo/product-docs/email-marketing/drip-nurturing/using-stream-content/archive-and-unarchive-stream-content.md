@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivar y desarchivar contenido de la emisión {#archive-and-unarchive-stream-content}
 
-Si ya no desea utilizar un fragmento de contenido en un flujo, puede hacer lo siguiente [quitar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. A continuación se muestra cómo archivar contenido.
+Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. A continuación se muestra cómo archivar contenido.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede hacer lo si
 
 ## Archivar contenido de la emisión {#archive-stream-content}
 
-1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
+1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Pase el ratón sobre el correo electrónico que quiere archivar y, a continuación, debajo del icono de engranaje, haga clic en **Archivar**.
+1. Pase el ratón sobre el correo electrónico que quiera archivar y luego, debajo del icono de engranaje, haga clic en **Archivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,15 +33,15 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede hacer lo si
 
 ## Desarchivar contenido de la emisión {#unarchive-stream-content}
 
-1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
+1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Haga clic en el icono de engranaje del flujo y luego haga clic en **Mostrar contenido archivado**.
+1. Haz clic en el icono de engranaje de tu flujo y luego haz clic en **Mostrar contenido archivado**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Ahora que puede ver el contenido archivado, haga clic en el icono con forma de engranaje del contenido que desea desarchivar y, a continuación, haga clic en **Desarchivar**.
+1. Ahora que puedes ver el contenido archivado, haz clic en el icono de engranaje del contenido que deseas desarchivar y luego haz clic en **Desarchivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

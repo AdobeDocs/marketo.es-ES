@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dashboardleads.jpg)
 
-1. Clic **Anular** para confirmación completa.
+1. Haga clic en **Anular** para obtener una confirmación completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

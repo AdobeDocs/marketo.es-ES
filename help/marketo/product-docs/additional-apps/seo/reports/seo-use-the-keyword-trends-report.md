@@ -6,8 +6,8 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ En este informe, puede ver la clasificación que se hace según las palabras cla
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Haga clic en **[!UICONTROL Tendencias de clasificación de palabras clave]**.
+1. Haz clic en **[!UICONTROL Tendencias de clasificación de palabras clave]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -31,12 +31,12 @@ En este informe, puede ver la clasificación que se hace según las palabras cla
 
    Elementos de informe descritos:
 
-   | Elemento | Descripción |
+   | Artículo | Descripción |
    |---|---|
    | [!UICONTROL Palabras clave] | El número de palabras clave que está rastreando. |
-   | [!UICONTROL Clasificar direcciones URL] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
-   | [!UICONTROL El Promedio de clasificar] | Clasificación promedio de palabras clave en el intervalo que ha establecido. |
-   | [!UICONTROL El Promedio de búsquedas] | El número promedio de búsquedas en esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días) en la búsqueda de Google US |
+   | [!UICONTROL URL de clasificación] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
+   | [!UICONTROL Promedio rango] | Clasificación promedio de palabras clave en el intervalo que ha establecido. |
+   | [!UICONTROL Promedio búsquedas] | El número promedio de búsquedas en esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días) en la búsqueda de Google US |
 
 ## Filtrado de datos {#filtering-data}
 
@@ -48,18 +48,18 @@ En este informe, puede ver la clasificación que se hace según las palabras cla
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportación de datos {#exporting-data}
+## Exportando datos {#exporting-data}
 
 >[!TIP]
 >
 >Puede exportar este informe a su escritorio.
 
-1. Clic **[!UICONTROL Exportar CSV]** o **[!UICONTROL Export PDF]**.
+1. Haga clic en **[!UICONTROL Exportar CSV]** o en **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   ¡bueno trabajo! También puede ver cómo se compara con sus competidores en la clasificación de palabras clave.
+   ¡Buen trabajo! También puede ver cómo se compara con sus competidores en la clasificación de palabras clave.
 
    >[!NOTE]
    >
-   >[Uso del informe Tendencias de clasificación de KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Uso del informe de tendencias de clasificación de KW competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

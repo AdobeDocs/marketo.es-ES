@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Salesforce requiere (como mínimo) apellidos y nombre de compañía para sus posibles clientes y contactos. Los registros incompletos no se sincronizarán con Salesforce. Si desea sincronizar registros parciales, debe establecer los valores predeterminados que Marketo utilizará con Salesforce.
 
-1. Ir a **[!UICONTROL Administrador]** y haga clic en **[!DNL Salesforce]**.
+1. Vaya a **[!UICONTROL Admin]** y haga clic en **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Clic **[!UICONTROL Editar opciones de sincronización]**.
+1. Haga clic en **[!UICONTROL Editar opciones de sincronización]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Introduzca una **[!UICONTROL Apellidos de la persona predeterminada]** y una **[!UICONTROL Compañía de persona predeterminada]**, luego haga clic en **[!UICONTROL Guardar]**.
+1. Escriba **[!UICONTROL apellidos de persona predeterminada]** y **[!UICONTROL compañía de persona predeterminada]**; a continuación, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/sync-options-hands.png)
 

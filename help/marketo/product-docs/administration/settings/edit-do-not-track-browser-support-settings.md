@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
 >&quot;No rastrear&quot; se establecerá en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no necesita realizar ningún paso.
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Clic **[!UICONTROL Munchkin]**.
+1. Haz clic en **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Seleccionar **[!UICONTROL Asistencia]** y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione **[!UICONTROL Asistencia]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Para obtener más información sobre &quot;No rastrear&quot; y cómo funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Para obtener más información sobre &quot;No rastrear&quot; y cómo funciona, visita [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).

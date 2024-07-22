@@ -17,15 +17,15 @@ Los canales de programa son una colección de estados o puntos de comprobación 
 
 Si lo hace por accidente o ya no lo necesita, puede eliminarlo.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. Clic **[!UICONTROL Etiquetas]**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Seleccione el canal que desee eliminar. En el **[!UICONTROL Etiquetar acciones]** , haga clic en **[!UICONTROL Eliminar]**.
+1. Seleccione el canal que desee eliminar. En el menú desplegable **[!UICONTROL Acciones de etiqueta]**, haga clic en **[!UICONTROL Eliminar]**.
 
    >[!TIP]
    >

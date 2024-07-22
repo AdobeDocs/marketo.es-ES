@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Clic **Correos electrónicos**.
+1. Haga clic en **Correos electrónicos**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -83,13 +83,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Estado: Enviado**_
+_**Estado: enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtra por la actividad de correo electrónico enviado. Puede elegir vistas/sin vistas, clics/sin clics y/o respuestas/sin respuestas.
 
-_**Estado: Pendiente**_
+_**Estado: pendiente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -109,12 +109,12 @@ Filtra por todos los correos electrónicos pendientes.
   <td>Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para poder guardarse como borrador.</td>
  </tr>
  <tr>
-  <td><strong>En progreso</strong></td>
+  <td><strong>En curso</strong></td>
   <td>Correos electrónicos en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos.</td>
  </tr>
 </table>
 
-_**Estado: Sin entregar**_
+_**Estado: sin entregar**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -127,7 +127,7 @@ Filtra por correos electrónicos que nunca se entregaron.
  </tr>
  <tr>
   <td><strong>Error</strong></td>
-  <td>Cuando un correo electrónico no se envía desde Sales Connect (los motivos más comunes son: mensajes de correo electrónico enviados a contactos que se han dado de baja o bloqueados, o si se ha producido un problema al rellenar los campos dinámicos).</td>
+  <td>Cuando un correo electrónico no se envía desde Sales Connect (los motivos más comunes son: mensajes de correo electrónico enviados a contactos que han cancelado la suscripción o que están bloqueados, o si se ha producido un problema al rellenar los campos dinámicos).</td>
  </tr>
  <tr>
   <td><strong>Rechazados</strong></td>
@@ -143,7 +143,7 @@ Filtra por correos electrónicos que nunca se entregaron.
 
 A continuación se indica cómo crear una búsqueda guardada.
 
-1. Una vez que todos los filtros estén colocados, haga clic en **Guardar filtros como**.
+1. Una vez que todos los filtros estén establecidos, haga clic en **Guardar filtros como**.
 
    ![](assets/advanced-search-overview-13.png)
 

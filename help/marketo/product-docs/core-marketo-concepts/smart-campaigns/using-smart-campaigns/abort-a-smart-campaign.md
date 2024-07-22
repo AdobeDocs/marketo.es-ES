@@ -19,15 +19,15 @@ ht-degree: 0%
 
 A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fue un error. Así es como tirar del freno de emergencia y detener la campaña inteligente a mitad de carrera.
 
-1. Seleccione la campaña inteligente que desee y haga clic en **[!UICONTROL Programación]** pestaña.
+1. Elija la campaña inteligente que desee y haga clic en la ficha **[!UICONTROL Programar]**.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Haga clic en **[!UICONTROL Acciones de campaña]** menú desplegable. Seleccionar **[!UICONTROL Anular campaña]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de campaña]**. Seleccione **[!UICONTROL Anular campaña]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Clic **[!UICONTROL Anular]** para confirmar.
+1. Haga clic en **[!UICONTROL Anular]** para confirmar.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,10 +39,10 @@ A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fu
 
    >[!NOTE]
    >
-   >Eche un vistazo a la **[!UICONTROL Resultados]** de la campaña inteligente para ver qué acciones tuvieron lugar antes de la anulación. También encontrará una  [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con más detalles.
+   >Eche un vistazo a la pestaña **[!UICONTROL Results]** de la campaña inteligente para ver qué acciones se llevaron a cabo antes de la anulación. También encontrarás una [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con detalles adicionales.
 
    >[!TIP]
    >
-   >¿Desea eliminar a una persona del flujo en una campaña de déclencheur? Desproteger [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
+   >¿Desea eliminar a una persona del flujo en una campaña de déclencheur? Consulte [Quitar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
 Siempre vuelva a comprobar su trabajo, pero este freno de emergencia puede ser útil.

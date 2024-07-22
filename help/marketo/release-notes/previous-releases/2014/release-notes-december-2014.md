@@ -17,7 +17,7 @@ Las siguientes funciones están incluidas en la versión de diciembre de 2014. C
 
 ## Informes de perspectiva de ventas {#sales-insight-reports}
 
-El [Informe de rendimiento de correo electrónico de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) le permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite correos electrónicos enviados a través de Salesforce, Microsoft Dynamics, el complemento de Outlook y el complemento de Gmail.
+El [Informe de rendimiento del correo electrónico de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) le permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite correos electrónicos enviados a través de Salesforce, Microsoft Dynamics, el complemento de Outlook y el complemento de Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ El [Informe de rendimiento de correo electrónico de Sales Insight](/help/market
 
 ## Audiencias personalizadas de Facebook {#facebook-custom-audiences}
 
-Una vez que el administrador de Marketo haya añadido [Facebook mediante Administración > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar una audiencia personalizada de Facebook por posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
+Una vez que el administrador de Marketo haya agregado [Facebook mediante Administración > Punto de inicio](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), podrá crear, actualizar o [reemplazar fácilmente una audiencia personalizada de Facebook con posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonación mejorada en espacios de trabajo  {#improved-cloning-across-workspaces}
 
-[Clonación de un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) conectarse a otro espacio de trabajo nunca ha sido tan fácil. Al hacer clic en clonar, se selecciona el espacio de trabajo de destino. ¡No más clonar en una carpeta y luego mover la carpeta!
+[Clonar un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) en otro espacio de trabajo nunca ha sido tan fácil. Al hacer clic en clonar, se selecciona el espacio de trabajo de destino. ¡No más clonar en una carpeta y luego mover la carpeta!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Una vez que el administrador de Marketo haya añadido [Facebook mediante Adminis
 
 ## Lista inteligente de referencia {#reference-smart-list}
 
-[Se puede hacer referencia a las listas inteligentes compartidas con otro espacio de trabajo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) al crear una lista inteligente o un flujo.
+Se puede hacer referencia a [listas inteligentes compartidas con otro área de trabajo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) al crear una lista inteligente o un flujo.
 
 ## Enumerar mejoras de importación {#list-import-improvements}
 
-[Importar archivos](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificado en UTF-16, Shift-JIS o EUC-JP. Seguimos admitiendo archivos codificados con UTF-8.
+[Importar archivos](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificados en UTF-16, Shift-JIS o EUC-JP. Seguimos admitiendo archivos codificados con UTF-8.
 
 ## Seguimiento de vínculos en scripts de correo electrónico {#link-tracking-in-email-scripting}
 
@@ -65,11 +65,11 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 
 · Combinar posible cliente
 
-Todos los detalles estarán disponibles tras el lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Mejoras de compatibilidad de Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
-Hemos realizado varias mejoras menores en Munchkin para garantizar que se siga cargando rápidamente y funcionando como se desea en casos con otro JavaScript en la página.
+Hemos realizado varias mejoras menores en Munchkin para garantizar que se siga cargando rápidamente y funcionando como se desea en casos con otros JavaScript en la página.
 
 El despliegue se llevará a cabo a partir de mediados de diciembre y continuará durante los próximos meses.
 

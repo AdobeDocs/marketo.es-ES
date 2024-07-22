@@ -37,7 +37,7 @@ Se puede acceder a cada una de estas funciones desde:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Pestaña Resultados más probables**
+**Ficha Resultados más probables**
 
 * Pestaña Acciones masivas recomendadas: Acción de grupo y que puede controlar el perfil de usuario
 
@@ -47,7 +47,7 @@ Se puede acceder a cada una de estas funciones desde:
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 
-**Vista de lista con acción masiva**
+**Vista de lista con acción en masa**
 
 * Vista de lista de posibles clientes: acción masiva y el perfil de usuario no puede controlarlo
 * Vista de lista de contactos: acción masiva y el perfil de usuario no puede controlarla

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # ¿Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico? {#how-does-sales-insight-actions-handle-email-de-duping}
 
-Cuando estás... [carga de un CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) en las acciones de Sales Insight, combinamos todos como contactos en el CSV antes de que se realice la importación.
+Cuando [está cargando un archivo CSV](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) en acciones de información de ventas, combinamos todos los contactos similares en el CSV antes de que se realice la importación.
 
 Esto se basa en direcciones de correo electrónico similares. Por lo tanto, si hay dos direcciones de correo electrónico idénticas, las combinamos en un contacto.
 

@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,19 +19,19 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que m
 >
 >No todos han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Launch **Explorador de ingresos**.
+1. Iniciar **Explorador de ingresos**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Clic **Crear nuevo** y seleccione **Informe**.
+1. Haga clic en **Crear nuevo** y seleccione **Informe**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Seleccionar **Análisis de correo electrónico** y haga clic en **OK**.
+1. Seleccione el área **Análisis de correo electrónico** y haga clic en **Aceptar**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Busque el **Enviado (semana)** punto amarillo y haga clic con el botón derecho. Clic **Filtrar**.
+1. Busque el punto amarillo **Enviado (semana)** y haga clic con el botón secundario en él. Haga clic en **Filtro**.
 
    >[!NOTE]
    >
@@ -39,22 +39,22 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que m
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Marque **Semana actual enviada** y haga clic en **OK**.
+1. Marque **Semana actual de envío** y haga clic en **Aceptar**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Busque y haga doble clic en **Canal de programa** punto amarillo.
+1. Busque y haga doble clic en el punto amarillo **Canal del programa**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Busque y haga doble clic en **Nombre de correo electrónico** punto amarillo.
+1. Busque y haga doble clic en el punto amarillo **Nombre de correo electrónico**.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Busque y haga doble clic en **Enviado**, **Abierto** y **Clic** puntos azules.
+1. Busque y haga doble clic en los puntos azules **Enviados**, **Abiertos** y **Hechos clic**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   ¡bueno trabajo! Debe tener un informe con un aspecto similar al siguiente:
+   ¡Buen trabajo! Debe tener un informe con un aspecto similar al siguiente:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

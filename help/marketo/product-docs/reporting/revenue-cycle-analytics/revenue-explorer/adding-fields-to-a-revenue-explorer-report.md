@@ -44,7 +44,7 @@ Personalice los informes del explorador de ingresos arrastrando y soltando los c
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   ¡Increíble! ¡Ahora tienes un informe completo!
+   ¡Fantástico! ¡Ahora tienes un informe completo!
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 

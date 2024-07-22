@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir el código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Agregar el código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-En el [Actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y  [Informes de actividad web de la empresa](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puede ver lo siguiente [personas o visitantes anónimos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan el sitio. Los visitantes anónimos han deducido datos, como el área metropolitana.  A continuación, se indica cómo seleccionar si el informe muestra los posibles clientes conocidos o los visitantes anónimos.
+En los [informes Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y [Actividad web de la compañía](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), podrá ver [personas o visitantes anónimos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan su sitio. Los visitantes anónimos han deducido datos, como el área metropolitana.  A continuación, se indica cómo seleccionar si el informe muestra los posibles clientes conocidos o los visitantes anónimos.
 
 1. En el informe Actividad de la página web, haga clic en **Configurar**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Doble clic **Origen de actividad**.
+1. Haga doble clic en **Activity Source**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
@@ -35,10 +35,10 @@ En el [Actividad de página web](/help/marketo/product-docs/reporting/basic-repo
    >
    >La inclusión de ISP para visitantes anónimos genera un informe más largo, pero su exclusión proporciona una visión más clara de la procedencia de los visitantes, además de las fuentes estándar, como Google.
 
-1. Eso es todo. Haga clic en **Informe** para volver y ver el informe con personas conocidas o anónimas.
+1. Eso es todo. Haz clic en la pestaña **Informe** para volver y ver el informe con personas conocidas o anónimas.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
 >[!MORELIKETHIS]
 >
->[Seguimiento de actividades y personas anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+>[Seguimiento de personas y actividades anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

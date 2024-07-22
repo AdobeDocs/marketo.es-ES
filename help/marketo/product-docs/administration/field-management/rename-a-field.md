@@ -19,13 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Haga clic en **[!UICONTROL Utilizado por]** para buscar recursos que hagan referencia a este campo.
+   >Haga clic en el vínculo **[!UICONTROL Utilizado por]** para buscar los recursos que hacen referencia a este campo.
 
 1. Cambie el nombre del campo y haga clic en **[!UICONTROL Guardar]**.
 

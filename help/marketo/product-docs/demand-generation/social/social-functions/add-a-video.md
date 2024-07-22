@@ -23,11 +23,11 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. Arrastrar sobre **Vídeo** de los elementos de la derecha.
+1. Arrastre sobre **Vídeo** desde los elementos de la derecha.
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
-1. Seleccionar **Crear nuevo** de la lista desplegable.
+1. Seleccione **Crear nuevo** en la lista desplegable.
 
    ![](assets/image2014-9-23-16-3a51-3a11.png)
 
@@ -35,16 +35,16 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
    >
    >También puede crear un recurso compartido de vídeo _dentro de un programa_ seleccionando **Nuevo** > **Nuevo recurso local**. A continuación, puede seleccionarlo en la lista desplegable, como se muestra aquí.
 
-1. Introduzca la URL del vídeo de YouTube y asigne un nombre al recurso compartido de vídeo. En el **Clonar desde** opción seleccionar **Ninguno** y haga clic en **Insertar**.
+1. Introduzca la URL del vídeo de YouTube y asigne un nombre al recurso compartido de vídeo. En la opción **Clonar desde**, seleccione **Ninguno** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
 >[!TIP]
 >
->Para ahorrar tiempo, puede utilizar el **Clonar desde** opción para copiar todos los ajustes de un recurso compartido de vídeo existente.
+>Para ahorrar tiempo, puede usar la opción **Clonar a partir de** para copiar toda la configuración de un recurso compartido de vídeo existente.
 
-¡Felicidades! Ha añadido un recurso compartido de vídeo a su página de aterrizaje. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puede [publicación de la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [coloque el recurso compartido de vídeo en el sitio web](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+¡Felicidades! Ha añadido un recurso compartido de vídeo a su página de aterrizaje. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puedes [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar el recurso compartido de vídeo en tu sitio web](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->Ha terminado, pero puede cambiar la configuración del recurso compartido de vídeo si es necesario. Comience por [personalización del flujo de uso compartido](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (cuándo y dónde se abre el mensaje para compartir).
+>Ha terminado, pero puede cambiar la configuración del recurso compartido de vídeo si es necesario. Comience por [personalizar el flujo de recursos compartidos](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (cuándo y dónde se abre la solicitud de recursos compartidos).

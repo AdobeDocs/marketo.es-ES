@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Esta área de análisis le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal. Proporciona información sobre cuántos de los nuevos nombres generados han alcanzado fases de ruta de éxito específicas dentro del modelo de ciclo de ingresos.
 
-**Ejemplos de preguntas comerciales que puede responder mediante esta área de análisis son las siguientes**:
+**Las preguntas comerciales de ejemplo que puede responder con este área de análisis incluyen**:
 
 ¿Cuántos nombres nuevos de un programa determinado han alcanzado alguna vez una fase específica en mi modelo?
 
@@ -29,7 +29,7 @@ Esta área de análisis le permite analizar la eficacia de programas individuale
 
 ![](assets/three-3.png)
 
-**Dimension y medidas de análisis de etapas de ingresos de programas**
+**Dimension y medidas de análisis de etapa de ingresos de programa**
 
 Los Dimension y las medidas se clasifican por funcionalidad y se representan con puntos amarillos o azules en el sistema: amarillo para las dimensiones y azul para las medidas. Utilice dimensiones y medidas de análisis de la fase de ingresos del programa para responder preguntas específicas en el informe.
 
@@ -83,8 +83,8 @@ Para ver las dimensiones o medidas disponibles dentro de una categoría, haga cl
    <td colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Programa Canal</p></td> 
-   <td colspan="1" rowspan="1"><p>Canal de programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal del programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal del programa</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nombre del programa</p></td> 
@@ -93,7 +93,7 @@ Para ver las dimensiones o medidas disponibles dentro de una categoría, haga cl
  </tbody> 
 </table>
 
-**Intervalo de tiempo de costo de programa**
+**Período de tiempo de costo del programa**
 
 <table> 
  <tbody> 
@@ -116,7 +116,7 @@ Para ver las dimensiones o medidas disponibles dentro de una categoría, haga cl
  </tbody> 
 </table>
 
-**Suscripción a fase**
+**Pertenencia a la fase**
 
 <table> 
  <tbody> 
@@ -137,7 +137,7 @@ Para ver las dimensiones o medidas disponibles dentro de una categoría, haga cl
    <td colspan="1" rowspan="1"><p>Describe si la fase está en la ruta de éxito o no</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Costo por nuevo nombre</p></td> 
+   <td colspan="1" rowspan="1"><p>Costo por nombre nuevo</p></td> 
    <td colspan="1" rowspan="1"><p>El coste medio de un nuevo nombre que alguna vez llegó a la fase</p></td> 
   </tr> 
   <tr> 
@@ -153,4 +153,4 @@ Para ver las dimensiones o medidas disponibles dentro de una categoría, haga cl
 
 >[!MORELIKETHIS]
 >
->[Creación de un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crear un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

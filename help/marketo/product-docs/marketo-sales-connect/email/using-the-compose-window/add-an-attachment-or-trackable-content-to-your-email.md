@@ -21,7 +21,7 @@ Al enviar un correo electrónico a través de Sales Connect, tiene la opción de
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Al enviar un correo electrónico a través de Sales Connect, tiene la opción de
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
 
    ![](assets/attach-five.png)
 
@@ -59,13 +59,13 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
    ![](assets/three-4.png)
 
-1. Seleccione el contenido que desee añadir y haga clic en **Se hace un seguimiento del contenido** y haga clic en **Insertar**.
+1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **Se ha hecho un seguimiento del contenido** y luego haga clic en **Insertar**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
 
    El contenido aparece como un vínculo en el correo electrónico. El destinatario puede hacer clic en el vínculo para descargar el contenido.
 

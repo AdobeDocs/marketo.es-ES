@@ -21,13 +21,13 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
 >[!IMPORTANT]
 >
->La carpeta Papelera del Explorador de ciclos de ingresos se ha ocultado temporalmente debido a un problema técnico. Estamos trabajando en una solución, y sus archivos están a salvo. Póngase en contacto con [Compatibilidad con Adobe](https://nation.marketo.com/t5/support/ct-p/Support) si hay algún archivo que necesite restaurar.
+>La carpeta Papelera del Explorador de ciclos de ingresos se ha ocultado temporalmente debido a un problema técnico. Estamos trabajando en una solución, y sus archivos están a salvo. Póngase en contacto con el [Soporte técnico del Adobe](https://nation.marketo.com/t5/support/ct-p/Support) si necesita restaurar algún archivo.
 
-1. Vaya a la **Explorador de ingresos** área.
+1. Vaya al área de **Explorador de ingresos**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Haga clic en **Crear nuevo** y luego seleccione **Informe**.
+1. Haz clic en **Crear nuevo** y luego selecciona **Informe**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -41,5 +41,5 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
 >[!MORELIKETHIS]
 >
->[Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Adición de medidas personalizadas a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[Agregar campos a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Agregando medidas personalizadas a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

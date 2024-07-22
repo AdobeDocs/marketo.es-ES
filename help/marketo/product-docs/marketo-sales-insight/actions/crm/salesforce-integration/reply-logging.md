@@ -7,7 +7,7 @@ exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Las acciones de perspectiva de ventas le permiten registrar automáticamente las
 ## Requisitos {#requirements}
 
 * Debe registrar correos electrónicos mediante el registro de API
-* Debe ser capaz de [seguimiento de una respuesta](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
+* Debe poder [rastrear una respuesta](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Debe estar conectado con Salesforce
-* Debe tener Salesforce [Llamadas de API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponible
+* Debe tener Salesforce [llamadas API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm?lang=es) disponibles
 
 ## Habilitar registro de respuestas {#enable-reply-logging}
 
-1. Para habilitar el registro de respuestas, puede ir a la página de configuración de Salesforce. Una vez desactivado el registro de la API, verá la opción para comprobar _Registrar respuestas_.
+1. Para habilitar el registro de respuestas, puede ir a la página de configuración de Salesforce. Una vez que el registro de API esté desactivado, verá la opción de comprobar _Respuestas al registro_.
 
    >[!NOTE]
    >
@@ -35,10 +35,10 @@ Las acciones de perspectiva de ventas le permiten registrar automáticamente las
 
 Es importante obtener datos significativos de los informes de Salesforce. Tener la capacidad de que el campo Tipo se rellene como &quot;Respuesta&quot; le permite obtener esos datos en los informes. Asociarse con su `Salesforce admin` para obtener esta configuración.
 
-1. Ir a **Configurar** > **Personalizar** > **Actividades** > **Campos de tarea**.
-1. Clic **Tipo**.
-1. En Valores de Lista de selección de tipo de tarea, haga clic en **Nuevo**.
-1. Escriba &quot;Responder&quot; en el cuadro vacío. Asegúrese de poner en mayúscula la &quot;R&quot; y haga clic en **Guardar**.
+1. Vaya a **Configuración** > **Personalizar** > **Actividades** > **Campos de tarea**.
+1. Haga clic en **Tipo**.
+1. En Valores de lista de selección de tipo de tarea, haga clic en **Nuevo**.
+1. Escriba &quot;Responder&quot; en el cuadro vacío. Asegúrese de poner en mayúscula la &quot;R&quot; y hacer clic en **Guardar**.
 
    >[!NOTE]
    >

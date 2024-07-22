@@ -6,16 +6,16 @@ exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # Notas de la versión: enero de 2014 {#release-notes-january}
 
-En la versión de enero de 2014 se incluyen las siguientes funciones. Compruebe su [Marketo Edition](https://www.marketo.com/pricing/) para la disponibilidad de funcionalidades.
+En la versión de enero de 2014 se incluyen las siguientes funciones. Compruebe la disponibilidad de las características en [Marketo Edition](https://www.marketo.com/pricing/).
 
-## Forms 2.0 {#forms}
+## Formularios 2.0 {#forms}
 
 Atención: la documentación de Forms 2.0 estará disponible próximamente.
 
@@ -41,12 +41,12 @@ Atrás quedaron los días en que se quitaba el código HTML de los formularios c
 
 ## Límites de comunicación para el programa de correo electrónico {#communication-limits-for-email-program}
 
-[Establecer límites de comunicación en un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantizar que no se comunica en exceso con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
+[Establezca límites de comunicación en un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para asegurarse de que no se comunica en exceso con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionales en Análisis de pertenencia a programas {#additional-fields-in-program-membership-analysis}
 
-Ahora puede agregar y agrupar sus [Análisis de pertenencia a programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por atributos de cliente potencial y compañía. Por ejemplo, puede agregar el campo Sector para ver la división de los miembros del programa y los éxitos.
+Ahora puede agregar y agrupar sus métricas de [Análisis de pertenencia a programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por cliente potencial y atributos de compañía. Por ejemplo, puede agregar el campo Sector para ver la división de los miembros del programa y los éxitos.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -21,11 +21,11 @@ Añada una identidad cuando tenga varias direcciones de correo electrónico desd
 
 1. Haga clic en el icono Configuración.
 
-1. Clic **Configuración de correo electrónico**.
+1. Haga clic en **Configuración de correo electrónico**.
 
-1. Clic **Añadir identidad**.
+1. Haga clic en **Agregar identidad**.
 
-1. Introduzca su información (el correo electrónico y el nombre son campos obligatorios), haga clic en **Crear** cuando termine.
+1. Escriba su información (los campos de correo electrónico y nombre son obligatorios), haga clic en **Crear** cuando haya terminado.
 
 1. Haga clic en el vínculo que aparece en el correo electrónico de verificación que recibe.
 
@@ -37,4 +37,4 @@ Añada una identidad cuando tenga varias direcciones de correo electrónico desd
 
 >[!MORELIKETHIS]
 >
->[Añadir su firma de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[Agregue Su Firma De Correo Electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

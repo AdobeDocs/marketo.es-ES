@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '586'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Para obtener información acerca de cómo habilitar la desprotección de sincronización de tareas [Sincronizar tareas/recordatorios de acciones de Sales Insight con tareas de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Para obtener información sobre cómo habilitar la sincronización de tareas, revisa [Sincronizar tareas/recordatorios de acciones de perspectiva de ventas con tareas de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Una vez habilitada la configuración de sincronización de tareas, los usuarios verán sus tareas de recordatorio sincronizadas bidireccionalmente con Salesforce. Esto significa que los usuarios pueden administrar las tareas desde las acciones de Salesforce o Sales Insight y confiar en que los sistemas permanecerán alineados.
 
@@ -37,7 +37,7 @@ A continuación se muestra una lista de los campos de tarea de recordatorio de l
  </tr>
  <tr>
   <td>Estado</td>
-  <td>Estado de tarea</td>
+  <td>Estado de la tarea</td>
   <td><p>Muestra el estado de la tarea. Las tareas de Acciones de perspectiva de ventas tienen dos estados que se asignan a dos de los valores de la lista desplegable Estado de la tarea de Salesforce.</p>
   <p>Abrir en Acciones de perspectiva de ventas = No iniciado en Salesforce.</p>
   <p>Completar en acciones de información de ventas = Completado en Salesforce.</p>
@@ -63,7 +63,7 @@ A continuación se muestra una lista de los campos de tarea de recordatorio de l
 
 ## Sincronización de tareas de acciones de Sales Insight con Salesforce por primera vez {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Cuando active por primera vez la sincronización entre las acciones de Sales Insight y las tareas de Salesforce, importaremos sus tareas de Salesforce. Lo haremos **no** Pase cualquier tarea actual que tenga en Acciones de perspectiva de ventas a Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan desde las acciones de información de ventas a Salesforce son las tareas creadas *después* Puede sincronizar las acciones de información de ventas con SFDC.
+Cuando active por primera vez la sincronización entre las acciones de Sales Insight y las tareas de Salesforce, importaremos sus tareas de Salesforce. **no** transferiremos a Salesforce ninguna tarea actual que usted tenga en Acciones de perspectiva de ventas. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan con las acciones de información de ventas en Salesforce son las tareas creadas *después de* que sincronice las acciones de información de ventas con SFDC.
 
 Esto es lo que sucede cuando sincroniza las acciones de Sales Insight y las tareas de SFDC:
 
@@ -77,8 +77,8 @@ Esto es lo que sucede cuando sincroniza las acciones de Sales Insight y las tare
 
 Después de la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en Acciones de Sales Insight se sincronizará con la lista de tareas en Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará su lista de tareas en Acciones de perspectiva de ventas.
 
-Para activar esta sincronización, simplemente marque la casilla de sincronización en su [Página Configuración](https://toutapp.com/login) en la aplicación web.
+Para activar esta sincronización, simplemente marca la casilla de sincronización en tu [página de configuración](https://toutapp.com/login) en la aplicación web.
 
 >[!NOTE]
 >
->El campo de asunto de una tarea se puede actualizar en Sales Insight Actions y esa actualización se sincroniza en el campo de asunto de Salesforce para la tarea sincronizada correspondiente, si utiliza el campo `{{activity_subject}}` campo dinámico en su [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) configuración. Por el contrario, cualquier actualización realizada en el campo de asunto en Salesforce _no_ Vaya al campo de asunto de la tarea Recordatorio de acciones de perspectiva de ventas.
+>El campo de asunto de una tarea se puede actualizar en Acciones de perspectiva de ventas y esa actualización se sincronizará en el campo de asunto de Salesforce para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por el contrario, cualquier actualización realizada en el campo de asunto de Salesforce _no_ se sincronizará con el campo de asunto de la tarea de recordatorio Acciones de perspectiva de ventas.

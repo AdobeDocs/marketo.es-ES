@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Si ha programado una ejecución para una de las campañas por lotes y desea cancelarla, este es el modo.
 
-1. Seleccione la campaña y vaya a **[!UICONTROL Programación]** pestaña.
+1. Seleccione la campaña y vaya a la ficha **[!UICONTROL Programar]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Busque la ejecución programada que desea cancelar y haga clic en **x** al lado.
+1. Busque la ejecución programada que desea cancelar y haga clic en **x** junto a ella.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Confirme la cancelación haciendo clic en **[!UICONTROL OK]**.
+1. Confirme la cancelación haciendo clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

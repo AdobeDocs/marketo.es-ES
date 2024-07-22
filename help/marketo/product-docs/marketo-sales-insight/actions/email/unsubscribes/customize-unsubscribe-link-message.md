@@ -22,7 +22,7 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. En Configuración de administración, haga clic en **Cancela la suscripción**.
+1. En Configuración de administración, haga clic en **Cancelar suscripciones**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
    >
    >No importa la dirección URL que escriba. Cuando se envía el correo electrónico, el primer hipervínculo (o el único) se vincula automáticamente a la página de cancelación de suscripción predeterminada.
 
-1. Introduzca una dirección URL, determine si desea que el vínculo se abra en la ventana actual o en una nueva y haga clic en **Guardar**.
+1. Escriba una dirección URL, determine si desea que el vínculo se abra en la ventana actual o en una nueva y haga clic en **Guardar**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Clic **Guardar** en la parte inferior para guardar los cambios.
+1. Haga clic en **Guardar** en la parte inferior para guardar los cambios.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

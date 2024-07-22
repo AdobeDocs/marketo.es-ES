@@ -6,7 +6,7 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Crear un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacer esto por [creación de una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando una lista. A continuación se indica cómo hacerlo importando una lista.
+Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [creando una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando una lista. A continuación se indica cómo hacerlo importando una lista.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,7 +33,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 
    ![](assets/importlist.png)
 
-1. Se abrirá la ventana de importación de listas, haga clic en **Examinar** y seleccione el archivo que desea importar. Una vez seleccionada la lista de personas, haga clic en **Siguiente**.
+1. Se abrirá la ventana de importación de la lista, haz clic en **Examinar** y selecciona el archivo que deseas importar. Una vez seleccionada la lista de personas, haga clic en **Siguiente**.
 
    ![](assets/importlist1.png)
 
@@ -49,7 +49,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
    >
    >Marketo recordará las asignaciones para futuras importaciones.
 
-1. Introduzca una **Nombre** para la lista y haga clic en **Importar**.
+1. Escriba un **Nombre** para la lista y haga clic en **Importar**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo.
 >
->Utilice el ![—](assets/image2014-10-23-16-3a32-3a36-1.png) botón en el **Audiencia** mosaico para ver cuántas personas cumplen los requisitos para recibir el correo electrónico en función de los criterios de la lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
+>Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36-1.png) del mosaico **Audiencia** para ver cuántas personas cumplen los requisitos para recibir el correo electrónico según los criterios de la lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
 
 >[!TIP]
 >
@@ -82,4 +82,4 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >[!MORELIKETHIS]
 >
 >* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Crear un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

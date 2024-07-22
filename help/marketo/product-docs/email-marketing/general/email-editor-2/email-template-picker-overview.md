@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Resumen del selector de plantillas de correo electrónico {#email-template-picker-overview}
 
-Cuando usted [crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para usarla en el futuro.
+Cuando [crea un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas entre las que elegir. También puede crear su propia plantilla y guardarla para usarla en el futuro.
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Nombre** será el nombre del correo electrónico que cree a partir de la plantilla, no la propia plantilla. **Descripción** también se aplica al correo electrónico y es opcional.
+**Name** será el nombre del correo electrónico que cree a partir de la plantilla, no la propia plantilla. **Descripción** también se aplica al correo electrónico y es opcional.
 
 ![](assets/two-2.png)
 
-Si el correo electrónico es crítico y desea que sortee los límites de comunicación, [ponerlo en funcionamiento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **Abrir en el editor** está seleccionado de forma predeterminada y simplemente significa que desea empezar a editar el nuevo correo electrónico de inmediato. **Crear** significa, crear!
+Si el correo electrónico es esencial y desea que eluda los límites de comunicación, [haga que sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **Abrir en el editor** está seleccionado de forma predeterminada y simplemente significa que deseas empezar a editar el nuevo correo electrónico de inmediato. **Crear** significa, ¡crear!
 
 ![](assets/three-2.png)
 
@@ -29,7 +29,7 @@ Si el correo electrónico es crítico y desea que sortee los límites de comunic
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Mis plantillas** consiste en todas las plantillas que ha creado. También puede tener carpetas.
+**Mis plantillas** se compone de todas las plantillas que ha creado. También puede tener carpetas.
 
 ![](assets/five-2.png)
 
@@ -37,7 +37,7 @@ Todas las carpetas que aparezcan en Correos electrónicos > Plantillas en el ár
 
 ![](assets/six-1.png)
 
-Para previsualizar una plantilla, pase el ratón sobre su miniatura y haga clic en **Previsualizar**. También puede hacer doble clic en él.
+Para obtener una vista previa de una plantilla, pasa el ratón sobre su miniatura y haz clic en **Vista previa**. También puede hacer doble clic en él.
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ El visor muestra cómo se representará la plantilla en un equipo de escritorio.
 
 ![](assets/nine-1.png)
 
-Si le gusta esta plantilla, selecciónela haciendo clic en **Seleccionar** en la parte inferior derecha. ¿Quieres seguir buscando? Haga clic en **X** en la parte superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
+Si te gusta esta plantilla, selecciónela haciendo clic en **Seleccionar** en la parte inferior derecha. ¿Quieres seguir buscando? Haz clic en **X** en la esquina superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
 
 ![](assets/ten-1.png)
 

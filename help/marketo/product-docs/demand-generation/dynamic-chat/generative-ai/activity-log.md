@@ -18,7 +18,7 @@ Consulte una lista de todas las tareas y los detalles correspondientes, incluido
 
    ![](assets/activity-log-1.png)
 
-1. Haga clic en **[!UICONTROL Registro de actividades]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Registro de actividades]**.
 
    ![](assets/activity-log-2.png)
 

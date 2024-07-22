@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -30,7 +30,7 @@ Un programa de eventos es un tipo de programa que se puede utilizar para automat
 >* Ferias
 >* Meetups
 
-Los eventos pueden conectarse automáticamente a su [proveedor de seminarios web](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) así como sincronizar con un [aplicación de registro de iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Los eventos se pueden conectar automáticamente a tu [proveedor de seminarios web](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) y sincronizarse con una [aplicación de registro de iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >

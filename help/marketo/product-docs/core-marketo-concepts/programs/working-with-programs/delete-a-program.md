@@ -19,19 +19,19 @@ Puede archivar un programa, pero a veces solo desea deshacerse de él de forma p
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Haga clic en **[!UICONTROL Acciones de programa]** y seleccione. **[!UICONTROL Eliminar]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de programa]** y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Seleccione el botón de opción &quot;Eliminar todo...&quot;. Revise los efectos de la eliminación del programa y haga clic en **[!UICONTROL Eliminar]** para confirmar.
+1. Seleccione el botón de opción &quot;Eliminar todo...&quot;. Revise los efectos de la eliminación del programa y, a continuación, haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
 >[!TIP]
 >
->Archivar programas mantiene los datos del programa, pero lo aparta de su camino. Seleccione esa opción y haga clic en **[!UICONTROL Siguiente]** para ver más detalles sobre el archivado.
+>Archivar programas mantiene los datos del programa, pero lo aparta de su camino. Seleccione esa opción y haga clic en **[!UICONTROL Siguiente]** para ver más detalles acerca del archivado.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Listo. Es como si el programa nunca existiera.
+Finalizado. Es como si el programa nunca existiera.
 
 ## ¿Por qué no puedo eliminar mi programa? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ Para solucionar el problema, es posible que necesite explorar en profundidad y d
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clic **[!UICONTROL Utilizado por]** para ver dónde está en uso el recurso.
+1. Haga clic en **[!UICONTROL Utilizado por]** para ver dónde se encuentra el recurso en uso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

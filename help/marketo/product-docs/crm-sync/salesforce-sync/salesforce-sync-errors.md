@@ -6,7 +6,7 @@ feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -16,15 +16,15 @@ Ver un resumen de los errores enfrentados durante el proceso de sincronización.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Ver errores de sincronización {#view-sync-errors}
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. En Integración, haga clic en **Salesforce** y, a continuación, el **[!UICONTROL Errores de sincronización]** pestaña.
+1. En Integración, haga clic en **Salesforce** y luego en la ficha **[!UICONTROL Errores de sincronización]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Ver un resumen de los errores enfrentados durante el proceso de sincronización.
 
 | Campo | Descripción |
 |---|---|
-| Error el | Nivel de registro _o_ Nivel de trabajo |
+| Error en | Nivel de registro _o_ nivel de trabajo |
 | Fecha y hora del error | Detalles del error |
 | Tipo de error | Mensaje devuelto de SFDC |
 
@@ -48,7 +48,7 @@ Ver un resumen de los errores enfrentados durante el proceso de sincronización.
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Seleccione la fecha y el intervalo de tiempo y, a continuación, filtre por tipo de error (nivel de trabajo o nivel de registro). Clic **[!UICONTROL Aplicar]** cuando termine.
+1. Seleccione la fecha y el intervalo de tiempo y, a continuación, filtre por tipo de error (nivel de trabajo o nivel de registro). Haga clic en **[!UICONTROL Aplicar]** cuando haya terminado.
 
    ![](assets/salesforce-sync-errors-4.png)
 

@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -31,13 +31,13 @@ Estos son algunos informes que puede crear en el área de Análisis de oportunid
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Oportunidad cerrada por origen del posible cliente
+1. Oportunidad cerrada por Source de posibles clientes
 
    Este informe desglosa todas las oportunidades cerradas por el origen del posible cliente y le ofrece una visión general clara de qué fuentes funcionan y cuáles no.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Tiempo para el cierre por origen
+1. Tiempo para el cierre por Source
 
    Este informe muestra la relación entre el promedio de días para cerrar una oportunidad y el origen del posible cliente.
 
@@ -67,13 +67,13 @@ El análisis de oportunidad le permite acceder a todas las dimensiones relaciona
    | Ciudad | La ciudad donde se encuentra la compañía |
    | País | El condado donde se encuentra la compañía |
    | Industria | El sector en el que se encuentra la compañía |
-   | Nombre de la compañía | Nombre de la empresa |
+   | Nombre de la empresa | Nombre de la empresa |
    | Número de empleados | Número de empleados de la compañía |
    | Código postal | Código postal de la empresa |
    | Código SIC | Código SIC de la empresa |
    | Estado | El estado donde se encuentra la compañía |
 
-1. Atributos del posible cliente
+1. Atributos de los leads
 
    | Dimensión | Descripción |
    |---|---|
@@ -81,16 +81,16 @@ El análisis de oportunidad le permite acceder a todas las dimensiones relaciona
    | Convertido a oportunidad | El posible cliente se convierte en una oportunidad |
    | Email no válido | Si el posible cliente tiene una dirección de correo electrónico válida |
    | Marketing suspendido | ¿El posible cliente está suspendido de los correos electrónicos de marketing? |
-   | Dirección de email | Dirección de correo electrónico del posible cliente |
+   | Correo electrónico | Dirección de correo electrónico del posible cliente |
    | Cargo | Puesto de responsable |
    | Nombre completo | Nombre completo del posible cliente |
    | Tipo de origen original | Tipo de origen original del posible cliente |
-   | Registrar tipo de origen | Tipo de origen registrado del posible cliente |
-   | Correo electrónico del propietario del posible cliente | Dirección de correo electrónico del propietario del posible cliente |
-   | Puesto de propietario del posible cliente | Puesto del propietario del posible cliente |
+   | Registrar tipo de Source | Tipo de origen registrado del posible cliente |
+   | Email del propietario del lead | Dirección de correo electrónico del propietario del posible cliente |
+   | Cargo del propietario del lead | Puesto del propietario del posible cliente |
    | Nombre del propietario del posible cliente | Nombre del propietario del posible cliente |
-   | Origen del cliente potencial | Origen del posible cliente |
-   | Estado del cliente potencial | Estado del posible cliente |
+   | Origen del lead | Origen del cliente potencial |
+   | Estado del lead | Estado del posible cliente |
 
 1. Plazo de creación de cliente potencial
 
@@ -102,12 +102,12 @@ El análisis de oportunidad le permite acceder a todas las dimensiones relaciona
    | Semana de creación de cliente potencial | La semana en la que se crea el posible cliente |
    | Fecha de creación de cliente potencial | La fecha en la que se crea el posible cliente |
 
-1. Atributos de oportunidad
+1. Atributos de la oportunidad
 
    | Dimensión | Descripción |
    |---|---|
    | Oportunidad cerrada | ¿La oportunidad está cerrada? |
-   | Categoría de pronóstico de oportunidad | Categoría de previsión de oportunidad |
+   | Categoría de pronóstico de la oportunidad | Categoría de previsión de oportunidad |
    | Nombre de la oportunidad | Nombre de oportunidad |
    | Etapa de la oportunidad | Fase de oportunidad |
    | Tipo de oportunidad | Tipo de oportunidad |
@@ -146,13 +146,13 @@ El análisis de oportunidad le permite acceder a todas las dimensiones relaciona
    | Número de oportunidades (perdidas) | Número total de oportunidades que se pierden |
    | Número de oportunidades (abiertas) | Número total de oportunidades que aún están abiertas |
    | Cantidad de oportunidades (ganadas) | Número total de oportunidades ganadas |
-   | Monto de la oportunidad | Monto total de oportunidad. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
+   | Monto de la oportunidad | Importe total de la oportunidad. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
    | Importe de oportunidad (perdido) | Cantidad total de oportunidades perdidas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
    | Importe de oportunidad (Abierto) | Importe total de las oportunidades abiertas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
    | Importe de oportunidad (won) | Importe total de las oportunidades ganadas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
 
 >[!MORELIKETHIS]
 >
->* [Creación de un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [Crear un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Agregar campos a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Suscribirse a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

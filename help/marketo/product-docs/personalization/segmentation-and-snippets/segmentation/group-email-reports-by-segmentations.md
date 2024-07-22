@@ -17,32 +17,32 @@ Las segmentaciones no son solo para contenido dinámico. También puede agrupar 
 
 >[!PREREQUISITES]
 >
->[Aprobación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
+>[Aprobar una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Vaya a la **Actividades de marketing** (o **Analytics**) área.
+1. Vaya al área de **Actividades de marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Seleccione su **Rendimiento de correo electrónico** informe.
+1. Seleccione su informe **Rendimiento del correo electrónico**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Haga clic en **Configurar** pestaña y arrastre **Agrupar por segmentos**.
+1. Haga clic en la ficha **Configuración** y arrastre el cursor sobre **Agrupar por segmentación**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Elija una o dos segmentaciones para agrupar el informe. Clic **Aplicar**.
+1. Elija una o dos segmentaciones para agrupar el informe. Haga clic en **Aplicar**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. ¡Eso es todo! Haga clic en **Informe** pestaña. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
+1. ¡Eso es todo! Haga clic en la ficha **Informe**. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Si utiliza dos segmentaciones, se muestra una fila para cada una _combinación_ de segmentos.
+1. Si usa dos segmentaciones, se mostrará una fila por cada _combinación_ de segmentos.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->[Filtrado de recursos en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[Filtrar Assets en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

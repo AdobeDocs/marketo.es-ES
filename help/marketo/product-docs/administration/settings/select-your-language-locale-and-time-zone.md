@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Este artículo es solo para aquellos que lo hacen _no_ use [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si lo hace, puede acceder a la configuración descrita a continuación en su [perfil de cuenta de Adobe](https://account.adobe.com/profile).
+>Este artículo es solo para aquellos que _no_ usan [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si lo hace, se puede acceder a la configuración que se describe a continuación en su [perfil de cuenta de Adobe](https://account.adobe.com/profile).
 
 ## Idiomas admitidos {#supported-languages}
 
@@ -30,11 +30,11 @@ ht-degree: 5%
 
 ## Cambiar idioma, configuración regional y zona horaria del usuario {#change-user-language-locale-and-time-zone}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Seleccionar **[!UICONTROL Mi cuenta]**.
+1. Seleccione **[!UICONTROL Mi cuenta]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 5%
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Cambie su **[!UICONTROL Idioma]**.
+1. Cambia tu **[!UICONTROL idioma]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,11 +50,11 @@ ht-degree: 5%
    >
    >También tiene la opción de cambiar solo el idioma haciendo clic en la lista desplegable de idioma en la parte superior de la página de inicio de sesión.
 
-1. Cambie su **[!UICONTROL Configuración regional]**.
+1. Cambia tu **[!UICONTROL configuración regional]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Cambie su **[!UICONTROL Zona horaria]**.
+1. Cambia tu **[!UICONTROL Zona Horaria]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 

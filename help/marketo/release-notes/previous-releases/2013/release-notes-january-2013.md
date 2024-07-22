@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '321'
+ht-degree: 1%
 
 ---
 
 # Notas de la versión: enero de 2013 {#release-notes-january}
 
-La versión de enero amplía nuestra oferta social con **Ofertas de referencia**. Además, los usuarios de Marketo Lead Management pueden establecer sus preferencias de zona horaria, idioma y configuración regional. Tenga en cuenta que las funciones de están marcadas con un &#42; solo están disponibles en la edición Select.
+La versión de enero amplía nuestra oferta social con **Ofertas de reenvío**. Además, los usuarios de Marketo Lead Management pueden establecer sus preferencias de zona horaria, idioma y configuración regional. Tenga en cuenta que las características marcadas con &#42; solo están disponibles en la edición seleccionada.
 
 ## Ofertas recomendadas {#referral-offers}
 
-A **Oferta de referencia** le da a sus clientes potenciales un incentivo para referir a sus amigos. Cree metas y recompensas para referencias exitosas. Puede utilizarlo en páginas de aterrizaje, su sitio web e incluso Facebook.
+Una **oferta de reenvío** le da a tus posibles clientes un incentivo para remitir a sus amigos. Cree metas y recompensas para referencias exitosas. Puede utilizarlo en páginas de aterrizaje, su sitio web e incluso Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -57,7 +57,7 @@ Los nombres para mostrar de campos pueden mostrar texto en diferentes idiomas (p
 
 ![](assets/image2014-9-22-15-3a22-3a56.png)
 
-## Cambiar datos de programa {#change-program-data}
+## Cambiar datos del programa {#change-program-data}
 
 El paso de flujo Cambiar datos del programa le permite cambiar el estado de éxito y la fecha de éxito de un miembro del programa manualmente a través de una campaña. Puede utilizar este paso de flujo para corregir un error o para cambiar manualmente un miembro que puede no haber participado en el programa como estaba previsto.
 

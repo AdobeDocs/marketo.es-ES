@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A veces, las personas desean optar por volver a recibir correos electrónicos. A
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!CAUTION]
 >
@@ -27,17 +27,17 @@ A veces, las personas desean optar por volver a recibir correos electrónicos. A
 >
 >Si tiene activada la sincronización de cancelación de suscripción, debe quitar la cancelación de suscripción de ToutApp y desmarcar la exclusión en Salesforce para que el registro de la persona no se vuelva a sincronizar.
 
-1. Vaya a la [aplicación web](https://toutapp.com/login) y haga clic en **People**.
+1. Vaya a la [aplicación web](https://toutapp.com/login) y haga clic en **Personas**.
 
 1. Seleccione la persona para abrir la vista de detalles de la persona.
 
    ![](assets/two.png)
 
-1. Haga clic en los tres puntos de la vista de detalles de la persona y seleccione **Quitar cancelación de suscripción**.
+1. Haga clic en los tres puntos de la vista de detalles de la persona y seleccione **Quitar la suscripción**.
 
    ![](assets/three.png)
 
-1. Seleccione el motivo por el que la persona se incluye de nuevo para recibir correos electrónicos y haga clic en **Quitar cancelación de suscripción**.
+1. Seleccione el motivo por el que la persona vuelve a recibir correos electrónicos y, a continuación, haga clic en **Quitar la suscripción**.
 
    ![](assets/four.png)
 

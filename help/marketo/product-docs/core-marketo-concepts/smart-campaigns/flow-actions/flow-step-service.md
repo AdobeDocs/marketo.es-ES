@@ -5,14 +5,14 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
 # Servicio de paso de flujo {#flow-step-service}
 
-Pasos de flujo de autoservicio es un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en campañas inteligentes de Adobe Marketo Engage. Esta guía está destinada a los usuarios finales Marketo Engage que desean instalar y utilizar servicios que ya se han creado y publicado. Para obtener información sobre cómo crear y publicar su propio servicio, consulte la [Repositorio de GitHub para la interfaz de Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Pasos de flujo de autoservicio es un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en campañas inteligentes de Adobe Marketo Engage. Esta guía está destinada a los usuarios finales Marketo Engage que desean instalar y utilizar servicios que ya se han creado y publicado. Para obtener información sobre cómo crear y publicar su propio servicio, consulte el [repositorio de GitHub para la interfaz de Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [aquí](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Incorporación y administración de servicios {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ La instalación de un paso de flujo personalizado requiere permisos de administr
 
 ## URL de instalación {#installation-url}
 
-Para comenzar la instalación, primero deberá obtener la URL del documento de OpenAPI que define su servicio. El proveedor de servicios debe poder proporcionárselo y, por lo general, tendrá una dirección URL que termina en `/openapi.json`. Las direcciones URL completas tendrán este aspecto `https://www.example.com/OpenAPI.json`. Una vez que tenga esta URL, vaya al menú Service Providers en la sección Admin.
+Para comenzar la instalación, primero deberá obtener la URL del documento de OpenAPI que define su servicio. Su proveedor de servicios debe poder proporcionarle esto y normalmente tendrá una dirección URL que termina en `/openapi.json`. Las direcciones URL completas se parecerán a `https://www.example.com/OpenAPI.json`. Una vez que tenga esta URL, vaya al menú Service Providers en la sección Admin.
 
-Clic **[!UICONTROL Siguiente]** para ir a la sección Introducir Credenciales de Servicio.
+Haga clic en **[!UICONTROL Siguiente]** para ir a la sección Introducir credenciales de servicio.
 
 ![](assets/flow-step-service-1.png)
 
 ## Introducir credenciales de servicio {#enter-service-credentials}
 
-Para acceder al servicio que se está instalando, Marketo debe tener credenciales de API válidas. El proveedor de servicios debe proporcionarle estas credenciales. Los servicios tienen tres opciones de autenticación diferentes, por lo que puede ver una de las tres solicitudes diferentes de credenciales: **Clave de API** que solo tiene un campo de entrada, **Autenticación básica** que requiere un nombre de usuario y una contraseña y también puede requerir un campo llamado Dominio, y **OAuth2** uso del _Credenciales del cliente_ subvención, que requiere una _ID de cliente_ y _Secreto del cliente_.
+Para acceder al servicio que se está instalando, Marketo debe tener credenciales de API válidas. El proveedor de servicios debe proporcionarle estas credenciales. Los servicios tienen tres opciones de autenticación diferentes, por lo que puede que vea una de las tres solicitudes de credenciales diferentes: **Clave de API** que tiene un solo campo de entrada, **Autenticación básica** que requiere un nombre de usuario y una contraseña y que también puede requerir un campo llamado Dominio, y **OAuth2** que usa la concesión de _Credenciales del cliente_, que requiere un _ID del cliente_ y _Secreto del cliente_.
 
 Al guardar las credenciales, Marketo intentará llamar al extremo de estado del servicio para comprobar que son válidas. Si las credenciales proporcionadas no son válidas, aparecerá un error que lo indica.
 
@@ -38,7 +38,7 @@ Algunos proveedores de servicios incluirán un paso opcional de la Guía de inco
 
 ## Asignación de campos {#field-mapping}
 
-Para recibir o devolver datos de un campo de posible cliente específico, ese campo debe asignarse. Aunque la asignación es un paso necesario durante la incorporación, siempre puede volver para modificar las asignaciones más adelante. Existen dos tipos de asignaciones que se configuran en pantallas independientes: **Campos salientes**, que se envían al servicio cuando Marketo invoca el paso de flujo, y **Campos entrantes** que son campos que pueden recibir datos del servicio cuando devuelve datos a Marketo.
+Para recibir o devolver datos de un campo de posible cliente específico, ese campo debe asignarse. Aunque la asignación es un paso necesario durante la incorporación, siempre puede volver para modificar las asignaciones más adelante. Existen dos tipos de asignaciones configuradas en pantallas independientes: **Campos salientes**, que se envían al servicio cuando Marketo invoca el paso de flujo, y **Campos entrantes**, que son campos que pueden recibir datos del servicio cuando devuelve datos a Marketo.
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ Las asignaciones de campos opcionales pueden deshabilitarse sin interrumpir el s
 
 ## Asignaciones gobernadas por servicio {#service-driven-mappings}
 
-Los servicios que tienen un conjunto fijo de entradas y salidas, como un paso del flujo de registro de eventos, utilizan **Asignaciones gobernadas por servicio**. Para este tipo de asignación, el proveedor de servicios proporcionará un tipo de datos y una sugerencia en forma de nombre de API. Si la sugerencia coincide con el nombre de la API de un campo de posible cliente existente, ese campo se rellenará automáticamente en la sección de asignación. Para los campos sin una sugerencia coincidente, deberá rellenar la asignación manualmente desde la lista de campos con el tipo de datos coincidente. Las asignaciones necesarias deben rellenarse para completar la incorporación.
+Los servicios que tienen un conjunto fijo de entradas y salidas, como un paso de flujo de registro de evento, utilizan **Asignaciones impulsadas por servicio**. Para este tipo de asignación, el proveedor de servicios proporcionará un tipo de datos y una sugerencia en forma de nombre de API. Si la sugerencia coincide con el nombre de la API de un campo de posible cliente existente, ese campo se rellenará automáticamente en la sección de asignación. Para los campos sin una sugerencia coincidente, deberá rellenar la asignación manualmente desde la lista de campos con el tipo de datos coincidente. Las asignaciones necesarias deben rellenarse para completar la incorporación.
 
 ![](assets/flow-step-service-2.png)
 
 ## Asignaciones Dirigidas Por El Usuario {#user-driven-mappings}
 
-Los servicios que no tienen un conjunto fijo de entradas y salidas, como un servicio de formato de fecha, utilizan **Asignaciones Dirigidas Por El Usuario**. Esto significa que cada campo entrante y saliente debe configurarlo un administrador.
+Los servicios que no tienen un conjunto fijo de entradas y salidas, como un servicio de formato de fecha, utilizan **Asignaciones dirigidas por el usuario**. Esto significa que cada campo entrante y saliente debe configurarlo un administrador.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ Algunos servicios tienen opciones de configuración global opcionales o requerid
 
 ## Retirada de un servicio {#retiring-a-service}
 
-Para facilitar las transiciones a versiones nuevas o alternativas de un servicio, sin interrumpir el uso activo, los servicios se pueden retirar del menú Proveedores de servicios. **Retirada de un servicio** elimina el paso de flujo correspondiente de la paleta Flujo de campaña inteligente, de modo que no se puedan crear nuevos usos. En la mayoría de los casos, debe tener un servicio de reemplazo listo para reemplazar el existente cuando decida retirar un servicio.
+Para facilitar las transiciones a versiones nuevas o alternativas de un servicio, sin interrumpir el uso activo, los servicios se pueden retirar del menú Proveedores de servicios. **Al retirar un servicio**, se quita el paso de flujo correspondiente de la paleta Flujo de campaña inteligente, de modo que no se puedan crear nuevos usos del mismo. En la mayoría de los casos, debe tener un servicio de reemplazo listo para reemplazar el existente cuando decida retirar un servicio.
 
 ## Obsolescencia del servicio {#service-deprecation}
 
@@ -102,6 +102,6 @@ A diferencia de la mayoría de los demás pasos de flujo, los implementados con 
 
 Cada servicio de paso de flujo tiene varios tipos de registro asociados para ayudar a monitorizar el estado y solucionar cualquier problema relacionado con la integración.
 
-## Estadísticas de servicio {#service-statistics}
+## Service Statistics {#service-statistics}
 
 El registro de estadísticas del servicio agrega los resultados de las invocaciones y las llamadas de retorno de cada servicio. Se agrupan por tiempo, nivel (fragmento o registro) y código, y proporcionan recuentos y el mensaje de registro más reciente para cada código recibido. Este tablero está diseñado principalmente para ayudar a monitorizar el estado del servicio.

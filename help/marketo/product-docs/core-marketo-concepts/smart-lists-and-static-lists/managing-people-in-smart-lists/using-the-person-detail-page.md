@@ -19,9 +19,9 @@ La página de detalles de la persona contiene toda la información que Marketo c
 
 Hay muchas maneras de abrir a personas específicas. Algunos ejemplos son:
 
-* Desde el **Base de datos**, puede buscar en Búsqueda rápida
-* Cualquiera **Lista inteligente** o lista
-* **Miembros** pestaña de un programa
+* Desde la **base de datos**, puede buscar en Búsqueda rápida
+* Cualquier **lista inteligente** o lista
+* Pestaña **Miembros** de un programa
 * **Ver miembros de campaña** en una campaña inteligente
 * Algunos **informes**
   <br> 
@@ -60,7 +60,7 @@ La información de la persona se clasifica en las siguientes pestañas:
 
 >[!NOTE]
 >
->También puede ver Información de oportunidad [insertado mediante API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no se sincronizan con un CRM.
+>También puede ver la información de oportunidad [insertada a través de la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no están sincronizadas con un CRM.
 
 ## Edición de un campo {#editing-a-field}
 
@@ -93,15 +93,15 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 
 >[!NOTE]
 >
->Algunos campos son _no_ editable:
+>Algunos campos _no_ son editables:
 >
 >* Registro de actividades
 >* Información de empresa
 >* Oportunidades para contactos de SFDC
->* Algunos campos específicos de Marketo, como Fecha de creación y Tipo de origen original.
+>* Algunos campos específicos de Marketo, como Fecha de creación y Tipo de Source original.
 >
 >Más información sobre [Campos administrados por el sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Creación de una ficha personalizada para la página de detalles de persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[Creando una ficha personalizada para la página de detalles de persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

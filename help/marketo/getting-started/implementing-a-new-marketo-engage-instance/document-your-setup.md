@@ -26,8 +26,8 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
 <tbody>
   <tr>
     <td>Lista de importación</td>
-    <td><li>Reúna una lista de fuentes de datos de las que se extraerán registros para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importar en Marketo Engage</a>.</li>
-    <li>Si está importando desde varios orígenes de datos, considere la posibilidad de utilizar Listas maestras o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">crear un campo personalizado</a> en el registro de persona para indicar la fuente de datos.</li></td>
+    <td><li>Recopile una lista de orígenes de datos de los que se extraerán registros para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importarlos al Marketo Engage</a>.</li>
+    <li>Si está importando desde varios orígenes de datos, considere la posibilidad de usar Listas maestras o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">crear un campo personalizado</a> en el registro de persona para denotar el origen de datos.</li></td>
   </tr>
   <tr>
     <td>Integración de base de datos</td>
@@ -48,7 +48,7 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
 <tbody>
   <tr>
     <td>Usuarios</td>
-    <td><li>Documente el <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuarios actuales</a> en su caso por razones de seguridad. Los siguientes detalles deben incluirse como mínimo (y todos son visibles en Administración &gt; Usuarios y funciones):</li>
+    <td><li>Documente a los <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuarios actuales</a> en su instancia por motivos de seguridad. Los siguientes detalles deben incluirse como mínimo (y todos son visibles en Administración &gt; Usuarios y funciones):</li>
     <ul>
     <li>Nombre</li>
     <li>Correo electrónico</li>
@@ -59,15 +59,15 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
     <li>Fecha de inicio de sesión más reciente</li></ul>
     <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: También puede ampliar esta sección para incluir documentación sobre funciones/permisos.
     <p>
-    <li>Como Administrador de productos de Marketo Engage, desarrolle un proceso interno para auditar y actualizar la lista de usuarios de Marketo Engage a una cadencia regular. Para realizar cambios en la lista de usuarios de Adobe Admin Console, tenga en cuenta lo siguiente <a href="https://helpx.adobe.com/es/enterprise/using/users.html" target="_blank">acciones masivas</a>, como cargar un .CSV, utilizar la API de REST de administración de usuarios, etc.</li></td>
+    <li>Como Administrador de productos de Marketo Engage, desarrolle un proceso interno para auditar y actualizar la lista de usuarios de Marketo Engage a una cadencia regular. Para realizar cambios en la lista de usuarios en Adobe Admin Console, considere <a href="https://helpx.adobe.com/es/enterprise/using/users.html" target="_blank">acciones masivas</a>, como cargar un .CSV, usar la API de REST de administración de usuarios, etc.</li></td>
   </tr>
   <tr>
     <td>Organización</td>
-    <td><li>Documente la estructura de carpetas acordada, las convenciones de nomenclatura estándar para programas, recursos, etc. y el por qué detrás de las decisiones tomadas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Obtenga más información sobre las prácticas recomendadas aquí.</a></li></td>
+    <td><li>Documente la estructura de carpetas acordada, las convenciones de nomenclatura estándar para programas, recursos, etc. y el por qué detrás de las decisiones tomadas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Cree un registro de cambios donde pueda documentar qué está cambiando en su instancia y el por qué de las modificaciones. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Obtenga más información sobre las prácticas recomendadas aquí.</a></li></td>
+    <td><li>Cree un registro de cambios donde pueda documentar qué está cambiando en su instancia y el por qué de las modificaciones. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
   </tr>
   <tr>
     <td>Manuales</td>

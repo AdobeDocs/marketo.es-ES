@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,24 +17,24 @@ Los vínculos de los correos electrónicos de suscripción al informe caducan al
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. Clic **[!UICONTROL Configuración de inicio]**.
+1. Haga clic en **[!UICONTROL Configuración de inicio de sesión]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. Clic **[!UICONTROL Editar caducidad de URL]**.
+1. Haga clic en **[!UICONTROL Editar caducidad de URL]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. En la lista desplegable, seleccione el número de días antes de que caduque el vínculo. Clic **[!UICONTROL Guardar]**.
+1. En la lista desplegable, seleccione el número de días antes de que caduque el vínculo. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->Esta configuración solo se aplica a los vínculos de informes y alertas. Sí lo tiene **no** aplicar al correo electrónico [descargar informe](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) correos electrónicos de vínculo o marketing.
+>Esta configuración solo se aplica a los vínculos de informes y alertas. No se aplica **not** al vínculo enviado por correo electrónico [informe de descarga](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) o a los correos electrónicos de marketing.

@@ -17,7 +17,7 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
 ## Vista de resumen {#summary-view}
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Clic **[!UICONTROL Exportar]** en la parte inferior del informe Resumen para descargar.
+1. Haga clic en **[!UICONTROL Exportar]** en la parte inferior del informe Resumen para descargar.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Utilizado por la vista {#used-by-view}
 
-1. Entrada **[!UICONTROL Actividades de marketing]**, seleccione un programa.
+1. En **[!UICONTROL Actividades de marketing]**, seleccione un programa.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Haga clic en **[!UICONTROL Ver]** menú desplegable. Seleccionar **[!UICONTROL Utilizado por]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Ver]**. Seleccionar **[!UICONTROL Utilizado Por]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
 ## Vista de abono {#membership-view}
 
-1. Entrada **[!UICONTROL Actividades de marketing]**, seleccione un programa.
+1. En **[!UICONTROL Actividades de marketing]**, seleccione un programa.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Haga clic en **[!UICONTROL Ver]** menú desplegable. Seleccionar **[!UICONTROL Suscripción]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Ver]**. Seleccione **[!UICONTROL Pertenencia]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
    >[!NOTE]
    >
-   >**[!UICONTROL Histórico]** significa cualquier persona que haya pasado por el programa, mientras que **[!UICONTROL Actual]** solo incluye a las personas que están actualmente en el programa.
+   >**[!UICONTROL Histórico]** significa cualquiera que haya pasado por el programa, mientras que **[!UICONTROL Actual]** solo incluye a las personas que actualmente están en el programa.
 
    >[!MORELIKETHIS]
    >

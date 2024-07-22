@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A veces, es posible arrastrar un campo incorrecto al informe. A continuación se indica cómo eliminarla:
 
-1. Arrastre el campo que desee eliminar a **papelera** en la parte inferior derecha del informe.
+1. Arrastre el campo que desee eliminar al icono **papelera** en la parte inferior derecha del informe.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ A veces, es posible arrastrar un campo incorrecto al informe. A continuación se
 
 >[!MORELIKETHIS]
 >
->[Guardado de un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Guardando un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

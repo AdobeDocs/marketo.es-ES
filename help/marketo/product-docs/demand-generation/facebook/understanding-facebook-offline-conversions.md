@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ Las campañas de facebook Lead Ads generan posibles clientes y los envían a Mar
 >
 >Sin conversiones fuera de línea, el anunciante probablemente invertiría más dinero en el anuncio 3. Con los datos de conversión sin conexión, es más probable que el anunciante invierta en el anuncio 1.
 
-Puede [Configuración de conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar el rendimiento de anuncios sin conexión a Facebook.
+Puede [configurar las conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar el rendimiento de anuncios sin conexión a Facebook.
 
-1. Asegúrese de que su [Integración de facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está actualizado.
+1. Asegúrese de que la integración de [Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) esté actualizada.
 1. Asigne fases en el modelo del ciclo de ingresos a las fases de conversión sin conexión en Facebook.
 1. Cuando se genera un posible cliente de Facebook a partir de un anuncio de Facebook y este alcanza una fase asignada, Marketo devuelve los datos de conversión sin conexión a Facebook varias veces al día mediante una API segura y automatizada. Los datos aparecen en el informe Administrador de Facebook Ads.
 

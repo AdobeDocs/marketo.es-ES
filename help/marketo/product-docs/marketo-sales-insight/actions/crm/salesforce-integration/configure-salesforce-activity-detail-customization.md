@@ -5,8 +5,8 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 0%
+source-wordcount: '699'
+ht-degree: 1%
 
 ---
 
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Acciones de Salesforce y Sales Insight [debe estar conectado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Registro de actividad de correo electrónico mediante API [debe estar habilitado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Las acciones de Salesforce y Sales Insight [deben estar conectadas](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* El registro de la actividad de correo electrónico mediante la API [debe estar habilitado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 La personalización de los detalles de actividad permite a los administradores configurar la información que se registra en el campo Tarea de Salesforce - Asunto, cuando se sincroniza una actividad de Acciones de perspectiva de ventas/tarea de recordatorio con Salesforce.
 
 >[!NOTE]
 >
->* Las actualizaciones realizadas en el campo Asunto en las Acciones de perspectiva de ventas de una tarea de recordatorio se reflejarán en el campo Asunto de la tarea de Salesforce correspondiente, si está utilizando `{{activity_subject}}` Campo dinámico en la personalización de detalles de actividad.
+>* Las actualizaciones realizadas en el campo Asunto en las acciones de perspectiva de ventas de una tarea de recordatorio se reflejarán en el campo Asunto de la tarea de Salesforce correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de actividad.
 >* Los saltos de línea no son compatibles al registrar información en el campo de asunto de Salesforce. Los saltos de línea del editor de personalización de detalles de actividad se eliminarán cuando se actualice el asunto de una tarea de ventas.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -35,7 +35,7 @@ La personalización de los detalles de actividad permite a los administradores c
  </tr>
  <tr>
   <td><strong>2</td>
-  <td>Actividad de correo electrónico</td>
+  <td>Actividad de email</td>
  </tr>
  <tr>
   <td><strong>3</td>
@@ -103,7 +103,7 @@ Actividad Los campos dinámicos hacen referencia a información sobre sus activi
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
 Al configurar los detalles de la actividad, tenga en cuenta qué datos serían más relevantes para las ventas al revisar el historial de tareas en Salesforce.
 
@@ -111,11 +111,11 @@ Al configurar los detalles de la actividad, tenga en cuenta qué datos serían m
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Clic **Salesforce**.
+1. Haga clic en **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Clic **Configuración de sincronización**.
+1. Haga clic en **Configuración de sincronización**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ Al configurar los detalles de la actividad, tenga en cuenta qué datos serían m
    >
    >Aunque no es obligatorio, ajustar el texto agregado entre corchetes puede facilitar a algunas personas la discernición entre los datos cuando se rellenan en un campo de asunto en Salesforce. Ejemplo: `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Añada cualquier campo dinámico adicional que desee haciendo clic en el **Agregar campo dinámico** botón.
+1. Agregue cualquier campo dinámico adicional que desee haciendo clic en el botón **Agregar campo dinámico**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ Al configurar los detalles de la actividad, tenga en cuenta qué datos serían m
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 

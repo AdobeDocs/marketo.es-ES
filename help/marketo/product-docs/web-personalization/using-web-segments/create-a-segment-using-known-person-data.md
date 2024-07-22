@@ -19,11 +19,11 @@ A continuación, se muestra cómo crear un segmento utilizando valores de datos 
 >
 >[Administrar datos de persona](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Ir a **Segmentos**.
+1. Vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Clic **Crear nuevo**.
+1. Haga clic en **Crear nuevo**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -49,7 +49,7 @@ A continuación, se muestra cómo crear un segmento utilizando valores de datos 
 
 ## Selección de varios campos de datos de persona {#selecting-multiple-person-data-fields}
 
-1. Clic **+** para agregar otro campo de datos de persona.
+1. Haga clic en **+** para agregar el campo de datos de otra persona.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ A continuación, se muestra cómo crear un segmento utilizando valores de datos 
 
    ![](assets/nine.png)
 
-1. Clic **Guardar** para guardar el segmento o **Guardar y definir la campaña** para guardar y vaya a la página de Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir la campaña** para guardar e ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

@@ -22,6 +22,6 @@ Cuando un registro es verdadero y uno es falso es cuando se vuelve complicado.
 | Si el filtro de sincronización para el registro de pérdida es: | y el filtro de sincronización para el registro ganador es: | Este es el resultado en Marketo |
 |---|---|---|
 | Verdadero | Verdadero | El registro ganador continúa sincronizándose con Marketo |
-| Falso | Falso | El récord ganador continúa _no_ sincronizar con Marketo |
+| Falso | Falso | El registro ganador continúa sincronizándose _no_ con Marketo |
 | Falso | Verdadero | El registro ganador se sincronizará con Marketo |
 | Verdadero | Falso | El registro ganador no se sincronizará con Marketo |

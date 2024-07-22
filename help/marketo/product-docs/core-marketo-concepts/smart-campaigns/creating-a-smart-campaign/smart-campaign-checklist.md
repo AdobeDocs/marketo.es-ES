@@ -17,7 +17,7 @@ Siga los siguientes pasos para garantizar un funcionamiento sin problemas de la 
 
 ## Eliminación de errores de listas inteligentes {#get-rid-of-smart-list-errors}
 
-En su campaña inteligente, haga clic en **[!UICONTROL Lista inteligente]**. Elimine cualquier línea roja ondulada que vea al corregir los errores.
+En su campaña inteligente, haga clic en **[!UICONTROL Smart List]**. Elimine cualquier línea roja ondulada que vea al corregir los errores.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ En su campaña inteligente, haga clic en **[!UICONTROL Lista inteligente]**. Eli
 
 >[!NOTE]
 >
->Uso de **[!UICONTROL Miembro de lista inteligente]** podría tener errores en esa otra lista. Revisa allí también.
+>El uso de **[!UICONTROL Member of Smart List]** podría contener errores en esa otra lista. Revisa allí también.
 
 ## Eliminación de errores de flujo {#get-rid-of-flow-errors}
 
-En la campaña inteligente, haga clic en **[!UICONTROL Flujo]**. Elimine las líneas rojas onduladas que vea al corregir los errores.
+En su campaña inteligente, haga clic en **[!UICONTROL Flujo]**. Elimine las líneas rojas onduladas que vea al corregir los errores.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,24 +43,24 @@ En la campaña inteligente, haga clic en **[!UICONTROL Flujo]**. Elimine las lí
 
 ## Revise la pestaña Programación {#review-the-schedule-tab}
 
-En el **[!UICONTROL Programación]** pestaña, marca **[!UICONTROL Estado de lista inteligente]** para cualquier error en la campaña inteligente que deba corregirse.
+En la ficha **[!UICONTROL Programación]**, compruebe **[!UICONTROL Estado de la lista inteligente]** para ver si hay algún error en la campaña inteligente que deba corregirse.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Comprobar límite de restricciones de persona {#check-person-restrictions-limit}
 
-En el **[!UICONTROL Programación]** pestaña, asegúrese de que el número de personas cualificadas no supere el límite de restricción de personas.
+En la ficha **[!UICONTROL Programar]**, asegúrese de que el número de personas calificadas no supere el límite de restricción de personas.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Si es necesario, puede [anulación de restricciones de persona en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Si es necesario, puede [anular las restricciones de persona en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Recordatorio**
 >
->Si la campaña inteligente sigue fallando, aprenda a [comprender las notificaciones](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para averiguar qué ha fallado y cómo solucionarlo.
+>Si su campaña inteligente sigue fallando, aprenda a [comprender las notificaciones](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para averiguar qué ha fallado y cómo solucionarlo.
 
 ¡Buen trabajo! Tenga esta lista de comprobación a mano antes de ejecutar una campaña inteligente.

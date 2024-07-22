@@ -6,8 +6,8 @@ exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 3%
+source-wordcount: '99'
+ht-degree: 4%
 
 ---
 
@@ -71,4 +71,4 @@ A continuación, se muestran las versiones más recientes para todos los cliente
  </tbody> 
 </table>
 
-Para obtener la mejor experiencia, **mantenga su navegador y cliente de correo electrónico actualizados**!
+Para disfrutar de la mejor experiencia, **mantén actualizados tu navegador y tu cliente de correo electrónico**!

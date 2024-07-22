@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 Existen tres formas diferentes de agregar manualmente personas a una cuenta con nombre en TAM.
 
-## Acción de flujo único {#single-flow-action}
+## Acción de flujo individual {#single-flow-action}
 
-1. Clic **Base de datos**.
+1. Haga clic en **Base de datos**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/two.png)
 
-1. Haga clic en la persona para seleccionarla. Haga clic en **Acciones de persona** , haga clic en **Marketing** y seleccione **Agregar a cuenta con nombre**.
+1. Haga clic en la persona para seleccionarla. Haga clic en el menú desplegable **Acciones de persona**, haga clic en **Marketing** y seleccione **Agregar a cuenta con nombre**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Cuenta con nombre** , seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
+1. Haga clic en la lista desplegable **Cuenta con nombre**, seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
 
    ![](assets/four.png)
 
 ## Etapa de flujo de campaña inteligente {#smart-campaign-flow-step}
 
-1. Seleccione la campaña inteligente y haga clic en **Flujo**.
+1. Seleccione su campaña inteligente y haga clic en **Flujo**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/seven.png)
 
-1. Haga clic en **Cuenta con nombre** y seleccione la cuenta con nombre que desee.
+1. Haga clic en la lista desplegable **Cuenta con nombre** y seleccione la Cuenta con nombre que desee.
 
    ![](assets/eight.png)
 
@@ -55,7 +55,7 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
 ## Lista de importación {#list-import}
 
-1. Seleccione la lista y haga clic en **Enumerar acciones** y seleccione. **Importar lista**.
+1. Seleccione su lista, haga clic en la lista desplegable **Acciones de lista** y seleccione **Importar lista**.
 
    ![](assets/nine.png)
 
@@ -63,7 +63,7 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/ten.png)
 
-1. Asigne los campos deseados. Asegúrese de que la **Cuenta con nombre** el campo está asignado.
+1. Asigne los campos deseados. Asegúrese de que el campo **Cuenta con nombre** esté asignado.
 
    ![](assets/eleven.png)
 

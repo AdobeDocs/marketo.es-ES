@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
  </tr>
  <tr>
   <th rowspan="2">Enviado</th>
-  <td>Entregados</td>
+  <td>Enviados</td>
   <td>Correos electrónicos entregados al destinatario.</td>
  </tr>
  <tr>
@@ -45,10 +45,10 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
  <tr>
   <td>Borrador</td>
   <td>Correos electrónicos guardados como borrador.<br/>
-  <strong>Nota</strong>: solo los correos electrónicos únicos se pueden guardar como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</td>
+  <strong>Nota</strong>: solo los correos electrónicos individuales pueden guardarse como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</td>
  </tr>
  <tr>
-  <td>En progreso</td>
+  <td>En curso</td>
   <td>Estado intermedio al que se dirigen los mensajes de correo electrónico cuando se encuentran en el movimiento de envío. Los correos electrónicos solo deben estar en curso durante unos momentos.</td>
  </tr>
  <tr>
@@ -60,12 +60,12 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
  <tr>
   <td>Rechazados</td>
   <td>Correos electrónicos rechazados del servidor de correo electrónico de destinatarios.<br/>
-  <strong>Nota</strong>: Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a los servidores MSC como canal de envío.</td>
+  <strong>Nota</strong>: Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de entrega.</td>
  </tr>
  <tr>
   <td>Correo no deseado</td>
   <td>Correos electrónicos que el destinatario ha marcado manualmente como correo no deseado.<br/>
-  <strong>Nota</strong>: Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a los servidores MSC como canal de envío.</td>
+  <strong>Nota</strong>: Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de entrega.</td>
  </tr>
 </table>
 

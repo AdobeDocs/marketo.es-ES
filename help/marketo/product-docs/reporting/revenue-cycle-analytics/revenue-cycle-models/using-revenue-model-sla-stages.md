@@ -17,27 +17,27 @@ SLA significa &quot;acuerdo de nivel de servicio&quot;. Estas fases se utilizan 
 
 >[!TIP]
 >
->Es una idea buena crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
+>Es una buena idea crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
 
 ## Agregar una fase de SLA {#add-an-sla-stage}
 
-1. Para agregar una nueva etapa de SLA del modelo del ciclo de ingresos, haga clic en **Analytics** en la pantalla de inicio de Mi Marketo.
+1. Para agregar una nueva etapa de SLA del modelo del ciclo de ingresos, haga clic en el botón **Analytics** en la pantalla de inicio de Mi Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la sección Analytics, seleccione el modelo existente o [crear uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. En la sección Analytics, seleccione el modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Clic **Editar borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para añadir una nueva etapa de SLA, haga clic en **SLA** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
+1. Para agregar una nueva etapa de SLA, haga clic en el botón **SLA** y, a continuación, arrastre y suelte en cualquier lugar dentro del lienzo.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Puede editar la variable **Nombre**, añada un **Descripción** y ajuste el **Tipo** después de agregar una fase. También puede seleccionar **[Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar **Name**, agregar **Description** y ajustar **Type** después de agregar una fase. También puede seleccionar **[Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
@@ -49,11 +49,11 @@ Al seleccionar un icono de etapa de SLA, puede editar el Nombre, añadir una Des
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Haga clic dentro de **Nombre** y **Descripción** para editar su contenido.
+1. Haga clic dentro de los campos **Nombre** y **Descripción** para editar su contenido.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Seleccione el **Tipo** desplegable para editar.
+1. Seleccione la lista desplegable **Tipo** que desea editar.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,12 +19,12 @@ Clonar una presentación para reutilizarla en diferentes lugares.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Haga clic con el botón derecho en la presentación y seleccione **[!UICONTROL Clonar]**.
+1. Haga clic con el botón derecho en la presentación y seleccione **[!UICONTROL Clone]**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
-1. Introduzca un nombre para la presentación clonada y haga clic en **[!UICONTROL Clonar]**.
+1. Escriba un nombre para la presentación clonada y haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
-   Excelente! Ya existe una copia exacta de la presentación.
+   ¡Excelente! Ya existe una copia exacta de la presentación.

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede agrupar los informes de personas por cualquier segmento que haya definido en sus segmentaciones.
 
-1. Ir a **Actividades de marketing** (o **Analytics**) sección.
+1. Vaya a la sección **Actividades de marketing** (o **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,22 +23,22 @@ Puede agrupar los informes de personas por cualquier segmento que haya definido 
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Haga clic en **Configurar** y haga doble clic en **Agrupar personas por**.
+1. Haga clic en la ficha **Configuración** y haga doble clic en **Agrupar personas por**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >También puede [agrupar los informes de persona por persona o atributo de compañía](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >También puede [agrupar los informes de personas por persona o atributo de compañía](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. En el **Agrupar personas por** , empiece a escribir &quot;Segmentación&quot; en el cuadro de texto. Si la variable **Segmentaciones** Cuando aparezca el encabezado, seleccione uno de la lista debajo del encabezado.
+1. En el cuadro de diálogo **Agrupar personas por**, empiece a escribir &quot;Segmentación&quot; en el cuadro de texto. Cuando aparezca el encabezado **Segmentaciones**, seleccione una de la lista debajo del encabezado.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Haga clic en **Informe** para ver el informe agrupado por el segmento seleccionado.
+1. Haga clic en la ficha **Informe** para ver el informe agrupado por el segmento seleccionado.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[Adición de columnas personalizadas a un informe de persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[Agregar columnas personalizadas a un informe de persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

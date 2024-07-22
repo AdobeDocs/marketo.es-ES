@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Si tiene una identidad de correo electrónico no verificada, siga los pasos a continuación.
 
-1. Haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/verify-your-email-1.png)
 
@@ -27,7 +27,7 @@ Si tiene una identidad de correo electrónico no verificada, siga los pasos a co
 
    ![](assets/verify-your-email-3.png)
 
-1. Clic **Reenviar**.
+1. Haga clic en **Reenviar**.
 
    ![](assets/verify-your-email-4.png)
 

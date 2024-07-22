@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si tiene una palabra clave para la que no desea seguir optimizando, así es como se elimina.
 
-1. Haga clic en para ir al **[!UICONTROL Palabras clave]** sección.
+1. Haga clic para ir a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -23,6 +23,6 @@ Si tiene una palabra clave para la que no desea seguir optimizando, así es como
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Clic **[!UICONTROL Eliminar]** de nuevo para confirmar.
+1. Vuelva a hacer clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)

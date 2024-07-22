@@ -1,16 +1,17 @@
 ---
 description: 'Conectar con Outlook: documentos de Marketo: documentación del producto'
-title: Conectar con Outlook
-source-git-commit: 2538bd5973eb3372352c3ddbada6521911f9fc33
+title: Conectarse a Outlook
+exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 0%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 
-# Conectar con Outlook {#connect-to-outlook}
+# Conectarse a Outlook {#connect-to-outlook}
 
-Obtenga información sobre cómo conectar su cuenta de acciones de información de ventas con Outlook.
+Obtenga información sobre cómo conectar su cuenta de acciones de perspectiva de ventas con Outlook.
 
 >[!NOTE]
 >
@@ -20,7 +21,7 @@ Obtenga información sobre cómo conectar su cuenta de acciones de información 
 
 La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Marketo Sales, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Marketo Sales, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/connect-to-outlook-1.png)
 
@@ -28,15 +29,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/connect-to-outlook-2.png)
 
-1. Haga clic en **Conexión de correo electrónico** pestaña.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Clic **Primeros pasos**.
+1. Haga clic en **Comenzar**.
 
    ![](assets/connect-to-outlook-4.png)
 
-1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
 
    ![](assets/connect-to-outlook-5.png)
 
@@ -61,15 +62,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
    >
    >Marketo no admite cuentas híbridas de Exchange en este momento.
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/connect-to-outlook-7.png)
 
-1. Si no ha iniciado sesión en Outlook, escriba la información de inicio de sesión y haga clic en **Siguiente**. Si lo está, elija la cuenta a la que desee conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no ha iniciado sesión en Outlook, escriba su información de inicio de sesión y haga clic en **Siguiente**. Si lo estás, elige la cuenta a la que deseas conectarte y haz clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/connect-to-outlook-8.png)
 
-1. Clic **Aceptar**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/connect-to-outlook-9.png)
 
@@ -83,7 +84,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
 La conexión a Exchange local significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Marketo Sales, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Marketo Sales, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/connect-to-outlook-10.png)
 
@@ -91,15 +92,15 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
 
    ![](assets/connect-to-outlook-11.png)
 
-1. Haga clic en **Conexión de correo electrónico** pestaña.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Clic **Primeros pasos**.
+1. Haga clic en **Comenzar**.
 
    ![](assets/connect-to-outlook-13.png)
 
-1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
 
    ![](assets/connect-to-outlook-14.png)
 
@@ -120,7 +121,7 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
     </tbody>
    </table>
 
-1. Introduzca sus credenciales de y haga clic en **Connect**.
+1. Escriba sus credenciales y haga clic en **Conectar**.
 
    ![](assets/connect-to-outlook-16.png)
 
@@ -144,8 +145,8 @@ Es posible que tenga que trabajar con su equipo de TI para obtener permiso para 
 
 En función de las preferencias de su equipo informático y de la configuración actual, es mejor consultar con él sobre cómo conceder acceso. A continuación se muestran algunos artículos que pueden ayudar a guiar la conversación.
 
-* Consentimiento global: [Aplicaciones integradas y Azure AD para administradores de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Consentimiento del usuario: [Configurar el consentimiento de los usuarios a las aplicaciones](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Consentimiento de administrador: [Configuración del flujo de trabajo de consentimiento de administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Activar o desactivar el consentimiento del usuario: [Administración del consentimiento del usuario a las aplicaciones en Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Consentimiento global: [aplicaciones integradas y Azure AD para administradores de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* Consentimiento de usuario: [Configurar el consentimiento de los usuarios a las aplicaciones](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
+* Consentimiento de administrador: [Configurar el flujo de trabajo del consentimiento de administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Activar o desactivar el consentimiento del usuario: [Administrar el consentimiento del usuario para las aplicaciones de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
 * Administración con Microsoft Defender: [Administrar aplicaciones de OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

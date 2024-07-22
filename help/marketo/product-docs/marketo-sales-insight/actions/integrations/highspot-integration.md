@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Integración de Highspot {#highspot-integration}
 
-Las ventas pueden acceder a las funciones de punto álgido desde las acciones de perspectiva de ventas y lograr una visibilidad, eficacia y rendimiento buenos a lo largo del ciclo de ventas. Los usuarios de Acción de conocimiento de ventas pueden seleccionar el contenido de ventas almacenado en la plataforma de habilitación de ventas de Highspot e insertarlo directamente en correos electrónicos, plantillas de correo electrónico y campañas de ventas, todo mientras capturan el seguimiento de contenido y el análisis dentro de las Acciones de conocimiento de ventas y Highspot.
+Las ventas pueden acceder a las funciones de punto álgido desde las acciones de información de ventas y lograr una mayor visibilidad, eficiencia y rendimiento a lo largo del ciclo de ventas. Los usuarios de Acción de conocimiento de ventas pueden seleccionar el contenido de ventas almacenado en la plataforma de habilitación de ventas de Highspot e insertarlo directamente en correos electrónicos, plantillas de correo electrónico y campañas de ventas, todo mientras capturan el seguimiento de contenido y el análisis dentro de las Acciones de conocimiento de ventas y Highspot.
 
 ## Habilitación de la integración de Highspot {#enabling-highspot-integration}
 
@@ -28,7 +28,7 @@ Las ventas pueden acceder a las funciones de punto álgido desde las acciones de
 
    ![](assets/highspot-integration-2.png)
 
-1. Desplazarse a **Integraciones** y haga clic en el control deslizante para activar Highspot.
+1. Desplácese a la tarjeta **Integraciones** y haga clic en el control deslizante para habilitar la zona alta.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Ahora los usuarios verán una opción para seleccionar Punto álgido al seleccio
 
 Acceda a la zona alta y añada contenido a los correos electrónicos desde la ventana de composición Acciones de perspectiva de ventas, el editor de plantillas y el editor de correo electrónico de la campaña de ventas. A continuación se indican los pasos para acceder al contenido desde la ventana de composición.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo seleccionamos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo seleccionamos **Componer** en el encabezado).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Acceda a la zona alta y añada contenido a los correos electrónicos desde la ve
 
    ![](assets/highspot-integration-6.png)
 
-1. Escriba su mensaje. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de imagen) y seleccione **Punto álgido**.
+1. Escriba su mensaje. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de imagen) y seleccione **Punto alto**.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ Acceda a la zona alta y añada contenido a los correos electrónicos desde la ve
 
    ![](assets/highspot-integration-8.png)
 
-1. Seleccione el contenido que desee y haga clic en **Añadir contenido** botón.
+1. Seleccione el contenido que desee y haga clic en el botón **Agregar contenido**.
 
    ![](assets/highspot-integration-9.png)
 

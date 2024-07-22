@@ -15,11 +15,11 @@ ht-degree: 2%
 
 ¿Quién votó por qué en tu encuesta? Vamos a averiguarlo.
 
-1. Entrada **Actividades de marketing**, seleccione la encuesta y haga clic en **Participantes** pestaña.
+1. En **Actividades de marketing**, seleccione la encuesta y haga clic en la ficha **Participantes**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Haga clic en el número en la **Votos** columna.
+1. Haga clic en el número de la columna **Votos**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >Obtenga más información sobre el alcance social y el impacto de sus aplicaciones en [Ver rendimiento social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Obtenga más información acerca del alcance social y el impacto de sus aplicaciones en [Ver rendimiento social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

@@ -1,8 +1,8 @@
 ---
 description: 'Pestaña Mapa de participación: Documentos de Marketo: documentación del producto'
 title: Pestaña Mapa de participación
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Pasos de flujo: si un paso de flujo incluye opciones, esta tarjeta mostrará el 
 * Lista de condiciones de elección asociadas al paso de flujo
 * Editar paso de flujo
 
-Pasos de flujo: Si un paso de flujo sí lo hace _no_ Si incluye cualquier opción, esta tarjeta mostrará los atributos asociados al paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
+Pasos de flujo: si un paso de flujo _no_ incluye ninguna opción, esta tarjeta mostrará los atributos asociados al paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
 
 * Campaña a la que pertenece el paso de flujo
 * Lista de atributos asociados al paso de flujo
@@ -69,7 +69,7 @@ Pasos de flujo: Si un paso de flujo sí lo hace _no_ Si incluye cualquier opció
    * Lista de condiciones de elección asociadas al paso de flujo
    * Editar paso de flujo
 
-* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Haciendo clic en _elección_ expandirá la campaña asociada a la opción específica, así como mostrará un panel deslizable con la siguiente información:
+* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta _choice_, se expandirá la campaña asociada a la opción específica y se mostrará un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece la opción
    * Editar elección

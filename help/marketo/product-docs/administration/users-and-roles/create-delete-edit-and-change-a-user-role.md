@@ -7,17 +7,17 @@ feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # Crear, eliminar, editar y cambiar un rol de usuario {#create-delete-edit-and-change-a-user-role}
 
-**Funciones** agrupe un conjunto de permisos. **Permisos** le permiten hacer cosas en Marketo. Usted asigna un **función** a un usuario. Fácil como el pastel.
+**Roles** agrupan un conjunto de permisos. **Permisos** le permiten hacer cosas en Marketo. Usted asigna un **rol** a un usuario. Fácil como el pastel.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!IMPORTANT]
 >
@@ -26,38 +26,38 @@ ht-degree: 0%
 >* Administración
 >* Administrador de productos de Adobe
 >* Usuario estándar
->* Editor RTP
->* Lanzador de RTP
+>* Editor de RTP
+>* Selector de RTP
 
 ## Crear un rol {#create-a-role}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Vaya a la **[!UICONTROL Funciones]** y haga clic en **[!UICONTROL Nuevo rol]**.
+1. Vaya a la ficha **[!UICONTROL Roles]** y haga clic en **[!UICONTROL Nuevo rol]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
-1. Asigne un nombre a la nueva función, compruebe todos los permisos que desea conceder a los usuarios asociados a la función y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre a la nueva función, compruebe todos los permisos que desea conceder a los usuarios asociados con la función y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Eliminar un rol {#delete-a-role}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. En el **[!UICONTROL Funciones]** , seleccione una función y haga clic en **[!UICONTROL Eliminar función]**.
+1. En la ficha **[!UICONTROL Roles]**, seleccione un rol y haga clic en **[!UICONTROL Eliminar rol]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
@@ -75,23 +75,23 @@ ht-degree: 0%
 >
 >Para editar su propia función de usuario, debe iniciar sesión como otro usuario con derechos de administrador.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Haga clic en **[!UICONTROL Funciones]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Seleccione la función que desee editar y haga clic en **[!UICONTROL Editar rol]**.
+1. Seleccione la función que desee editar y haga clic en **[!UICONTROL Editar función]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
-1. Realice todos los cambios necesarios y haga clic en **[!UICONTROL Guardar]**.
+1. Realice todos los cambios que necesite y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
@@ -101,15 +101,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Descubra cómo aquí](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Aprenda a hacerlo aquí](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Cambiar rol de usuario {#change-a-users-role}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 

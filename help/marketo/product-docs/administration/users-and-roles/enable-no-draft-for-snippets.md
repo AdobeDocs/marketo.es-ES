@@ -6,7 +6,7 @@ exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,35 +23,35 @@ La opción No borrador se habilita automáticamente para todas las funciones de 
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Vaya a la **[!UICONTROL Funciones]** , seleccione una función y haga clic en **[!UICONTROL Editar rol]**.
+1. Vaya a la ficha **[!UICONTROL Roles]**, seleccione un rol y haga clic en **[!UICONTROL Editar rol]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expanda el **[!UICONTROL Acceder a Design Studio]** opción.
+1. Expanda la opción **[!UICONTROL Access Design Studio]**.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expanda el **[!UICONTROL Fragmento de acceso]** opción.
+1. Expanda la opción **[!UICONTROL Fragmento de acceso]**.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expanda el **[!UICONTROL Aprobar fragmento]** y compruebe el **[!UICONTROL Sin Borrador]** cuadro. Luego haga clic en **[!UICONTROL Guardar]**.
+1. Expanda el permiso **[!UICONTROL Aprobar fragmento]** y marque la casilla **[!UICONTROL Sin borrador]**. Luego haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Para desactivar la opción Sin borrador, siga los pasos del 1 al 4 anteriores, desactive la casilla No borrador y haga clic en **[!UICONTROL Guardar]**.
+>Para deshabilitar la opción Sin borrador, siga los pasos del 1 al 4 anteriores, desactive la casilla No borrador y haga clic en **[!UICONTROL Guardar]**.
 
 >[!MORELIKETHIS]
 >

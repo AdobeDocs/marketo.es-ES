@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ El segundo diseño Emergente elimina los cuadros de texto, lo que le proporciona
 
 ![](assets/image2016-5-9-13-3a4-3a43.png)
 
-El tercer diseño de ventana emergente es bueno si no necesita utilizar una imagen en el mensaje en la aplicación. Dos botones ofrecen a los destinatarios de mensajes una selección de acciones. Texto limitado a tres líneas. Los tamaños de tipo más grandes reducen el número de líneas disponibles.
+El tercer diseño de ventana emergente es ideal si no necesita utilizar una imagen en el mensaje en la aplicación. Dos botones ofrecen a los destinatarios de mensajes una selección de acciones. Texto limitado a tres líneas. Los tamaños de tipo más grandes reducen el número de líneas disponibles.
 
 ![](assets/image2016-5-9-13-3a7-3a33.png)
 
@@ -58,7 +58,7 @@ El tercer diseño de pantalla completa es el mismo que el segundo, excepto por s
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Ahora que conoce las plantillas, es hora de elegir una al [creación de imágenes de mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Ahora que conoce las plantillas, es hora de elegir una al [crear las imágenes de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >

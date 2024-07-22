@@ -5,8 +5,8 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 4%
+source-wordcount: '318'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +32,7 @@ Componga un correo electrónico nuevo o utilice una plantilla preexistente.
 
 >[!TIP]
 >
->Conozca los detalles sobre su [opciones de envío](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Conozca los detalles sobre sus [opciones de envío](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Llamar a un {#call}
 
@@ -66,4 +66,4 @@ También puede hacer que una &quot;Tarea para enviar por correo electrónico&quo
 
 >[!MORELIKETHIS]
 >
->[Creación de una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Crear una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Ir a **Administrador**, luego haga clic en **Perspectiva de ventas**.
+1. Vaya a **Administrador** y haga clic en **Información de ventas**.
 
    ![](assets/1.png)
 
@@ -33,7 +33,7 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
    ![](assets/2.png)
 
-1. Marque **Habilitar la capacidad de bloquear plantillas**. Clic **Guardar**.
+1. Marque **Habilitar la capacidad para bloquear plantillas**. Haga clic en **Guardar**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,11 +43,11 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
 >[!NOTE]
 >
->Si cambia esta configuración como administrador, **no** afectar de forma retroactiva a las plantillas existentes; es decir, no las bloqueará automáticamente.
+>Si se cambia esta configuración como administrador **no**, las plantillas existentes se verán afectadas de forma retroactiva; es decir, no se bloquearán automáticamente.
 
 ## Bloquear plantilla en el editor de correo electrónico {#lock-template-in-the-email-editor}
 
-1. Seleccione el correo electrónico que desea bloquear y haga clic en **Editar borrador**.
+1. Seleccione el correo electrónico que desee bloquear y, a continuación, haga clic en **Editar borrador**.
 
    ![](assets/5.png)
 
@@ -55,7 +55,7 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
    ![](assets/6.png)
 
-1. Marque **Publicar en Marketo Sales Insight** si aún no está marcada. Ahora puede desmarcar **Permitir al usuario de CRM editar el correo electrónico** para bloquear la plantilla. Clic **Guardar**.
+1. Comprueba **Publish to Marketo Sales Insight** si aún no lo está. Ahora puede desmarcar **Permitir que el usuario de CRM edite el correo electrónico** para bloquear la plantilla. Haga clic en **Guardar**.
 
    ![](assets/7.png)
 

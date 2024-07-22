@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de diálogo, zona interna o widget).
 
-1. Haga clic con el botón derecho en un formulario aprobado. Seleccionar **Código incrustado**.
+1. Haga clic con el botón derecho en un formulario aprobado. Seleccionar **código incrustado**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +23,11 @@ Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. En Personalización web, vaya a **Campañas web**.
+1. En Web Personalization, vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Clic **Crear nueva campaña**.
+1. Haga clic en **Crear nueva campaña**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de
 
    ![](assets/five-1.png)
 
-1. Pegue el código incrustado del formulario en el Editor de origen del HTML. Clic **Actualizar**.
+1. Pegue el código incrustado del formulario en el Editor de Source de HTML. Haga clic en **Actualizar**.
 
    ![](assets/six-1.png)
 
 1. El formulario no se mostrará en la vista del editor, pero puede previsualizarlo para ver cómo se procesará en una campaña.
 
-1. Clic **Launch** para iniciar la campaña.
+1. Haga clic en **Iniciar** para iniciar la campaña.
 
    >[!NOTE]
    >
@@ -73,16 +73,16 @@ Para agregar código CSS al script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Pegue el código incrustado del formulario con el código de estilo de fondo en el Editor de origen del HTML. Clic **Actualizar**.
+1. Pegue el código incrustado del formulario con el código de estilo de fondo en el Editor de Source de HTML. Haga clic en **Actualizar**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Clic **Previsualizar** Haga clic en para ver cómo se procesará en una campaña (el formulario no se mostrará en la vista del editor). Este es un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
+1. Haga clic en **Vista previa** para ver cómo se procesará en una campaña (el formulario no se mostrará en la vista del editor). Este es un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Editar el CSS de una temática de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Editar el CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensaje de agradecimiento sin una página de aterrizaje de seguimiento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

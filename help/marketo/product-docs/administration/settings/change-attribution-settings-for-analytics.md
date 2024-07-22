@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Puede cambiar la forma en que Marketo vincula los contactos con las oportunidades para la atribución de primer contacto y de varios contactos, las métricas de conversión de posibles clientes y el indicador de oportunidad influenciado por el marketing.
 
-Esta configuración afectará a [!UICONTROL Explorador de ingresos] informes en el [Análisis de oportunidad de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)y áreas de análisis de posibles clientes. Esto también afectará a la [!UICONTROL Analizador de programas] informe.
+Esta configuración afectará los informes de [!UICONTROL Explorador de ingresos] en las áreas de [Análisis de oportunidad de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) y Análisis de posibles clientes. Esto también afectará el informe [!UICONTROL Analizador de programas].
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. Clic **[!UICONTROL Análisis del ciclo de ingresos]**.
+1. Haga clic en **[!UICONTROL Análisis del ciclo de ingresos]**.
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Haga clic en **[!UICONTROL Editar]** vínculo en **[!UICONTROL Atribución]**.
+1. Haga clic en el vínculo **[!UICONTROL Editar]** en **[!UICONTROL Atribución]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
@@ -41,7 +41,7 @@ Esta configuración afectará a [!UICONTROL Explorador de ingresos] informes en 
    >
    >**Definición**
    >
-   >**[!UICONTROL Explícito]**: solo los contactos con funciones (predeterminado).
+   >**[!UICONTROL Explícito]**: solo los contactos con roles (predeterminado).
    >
    >**[!UICONTROL Híbrido]**: contactos con funciones si están disponibles. Si no hay ninguno disponible, utiliza todos los contactos de las cuentas.
    >
@@ -49,4 +49,4 @@ Esta configuración afectará a [!UICONTROL Explorador de ingresos] informes en 
 
 >[!CAUTION]
 >
->Al utilizar **[!UICONTROL Implícito]**, Marketo siempre examinará todos los contactos asociados a la cuenta, independientemente de la función. **Marketo recomienda encarecidamente utilizar [!UICONTROL Explícito] modo**. Uso de [!UICONTROL Implícito] puede crear falsos positivos; es decir, personas con crédito por una oportunidad a pesar de no tener influencia real en la oportunidad. Uso [!UICONTROL Implícito] con precaución.
+>Al usar **[!UICONTROL Implicit]**, Marketo siempre examinará todos los contactos asociados a la cuenta, independientemente de la función. **Marketo recomienda encarecidamente usar [!UICONTROL Modo explícito]**. El uso de [!UICONTROL Implicit] puede crear falsos positivos; es decir, personas con crédito por una oportunidad a pesar de no tener influencia real en la oportunidad. Use [!UICONTROL Implícito] con precaución.

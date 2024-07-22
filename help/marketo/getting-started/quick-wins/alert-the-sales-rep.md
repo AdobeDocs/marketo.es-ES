@@ -6,7 +6,7 @@ exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
 ## Paso 1: Crear un mensaje de correo electrónico de alerta {#step-create-an-alert-email}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Seleccionar **Mi programa** que creó en la [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} victoria rápida, luego bajo **[!UICONTROL Nuevo]** click **[!UICONTROL Nuevo recurso local]**.
+1. Seleccione **Mi programa** que creó en la [página de aterrizaje con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} y, a continuación, en **[!UICONTROL Nuevo]** haga clic en **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **Nombre** En el correo electrónico &quot;Mi alerta por correo electrónico&quot;, seleccione una plantilla y haga clic en **[!UICONTROL Crear]**.
+1. **Nombre** el correo electrónico &quot;Mi alerta por correo electrónico&quot;, selecciona una plantilla y haz clic en **[!UICONTROL Crear]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Introduzca el **Nombre desde**, **Desde correo electrónico**, **[!UICONTROL Responder a]**, y **[!UICONTROL Asunto]** que desea que vea su equipo de ventas.
+1. Escriba el **Nombre desde**, **Correo electrónico desde**, **[!UICONTROL Responder a]** y **[!UICONTROL Asunto]** que desea que vea su equipo de ventas.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -51,7 +51,7 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. Sitúe el cursor en el lugar en el que desee insertar la información de contacto de la persona y haga clic en **Insertar token** icono.
+1. Coloque el cursor donde desee insertar la información de contacto de la persona y haga clic en el icono **Insertar token**.
 
    ![](assets/alert-the-sales-rep-8.png)
 
@@ -63,25 +63,25 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
    >
    >{{SP_Send_Alert_Info}} es un token especial para los correos electrónicos de alerta. Consulte [Usar el token Enviar información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} para obtener más información.
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Haga clic en **[!UICONTROL Acciones de correo electrónico]** y seleccione. **[!UICONTROL Aprobar y cerrar]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## Paso 2: Crear una campaña de Déclencheur de alertas {#step-create-an-alert-trigger-campaign}
 
-1. Seleccionar **Mi programa** creado anteriormente y luego en **[!UICONTROL Nuevo]** click **[!UICONTROL Nueva campaña inteligente]**.
+1. Seleccione **Mi programa** creado anteriormente y, a continuación, en **[!UICONTROL Nuevo]** haga clic en **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **Nombre** Seleccione la campaña &quot;Mi campaña de alerta&quot; y haga clic en **[!UICONTROL Crear]**.
+1. **Asigne un nombre** a la campaña &quot;Mi campaña de alerta&quot; y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. En el **[!UICONTROL Lista inteligente]** , busque y arrastre el **[!UICONTROL Rellena el formulario]** déclencheur al lienzo.
+1. En la ficha **[!UICONTROL Lista inteligente]**, busque y arrastre el déclencheur **[!UICONTROL Rellena el formulario]** al lienzo.
 
    ![](assets/alert-the-sales-rep-14.png)
 
@@ -89,33 +89,33 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. En el **[!UICONTROL Flujo]** , busque y arrastre el **[!UICONTROL Enviar alerta]** acción de flujo al lienzo.
+1. En la ficha **[!UICONTROL Flujo]**, busque y arrastre la acción de flujo **[!UICONTROL Enviar alerta]** al lienzo.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Seleccionar **[!UICONTROL Mi correo electrónico de alerta]** creado anteriormente y salir **[!UICONTROL Enviar a]** as **[!UICONTROL Propietario de ventas]**.
+1. Seleccione **[!UICONTROL Mi correo electrónico de alerta]** creado anteriormente y deje **[!UICONTROL Enviar a]** como **[!UICONTROL Propietario de ventas]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Escriba su dirección de correo electrónico en la **[!UICONTROL A otros correos electrónicos]** field.
+1. Escriba su dirección de correo electrónico en el campo **[!UICONTROL Para otros correos electrónicos]**.
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. Vaya a la **[!UICONTROL Programación]** y haga clic en la pestaña **[!UICONTROL Activar]** botón.
+1. Vaya a la ficha **[!UICONTROL Programar]** y haga clic en el botón **[!UICONTROL Activar]**.
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >Configure las variables **[!UICONTROL Reglas de calificación]** hasta **[!UICONTROL cada vez]** (editando la campaña inteligente) para permitir que la misma persona almacene en déclencheur las alertas varias veces.
+   >Establezca las **[!UICONTROL Reglas de calificación]** en **[!UICONTROL cada vez]** (editando la campaña inteligente) para permitir que la misma persona almacene alertas en déclencheur varias veces.
 
-1. Clic **[!UICONTROL Activar]** en la pantalla de confirmación.
+1. Haz clic en **[!UICONTROL Activar]** en la pantalla de confirmación.
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## Paso 3: ¡Pruébelo! {#step-test-it-out}
 
-1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Ver página aprobada]**.
+1. Seleccione su página de aterrizaje y haga clic en **[!UICONTROL Ver página aprobada]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -123,7 +123,7 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
    >
    >No olvide aprobar las páginas de aterrizaje; no se activan hasta que se aprueban.
 
-1. Rellene el formulario y haga clic en **[!UICONTROL Enviar]**.
+1. Complete el formulario y haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -131,7 +131,7 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
    >[!NOTE]
    >
-   >Haga clic en **[!UICONTROL Información de persona]** en Marketo para ver la información de contacto.
+   >Haga clic en la ficha **[!UICONTROL Información de persona]** de Marketo para ver la información de contacto.
 
 ## ¡Misión completa! {#mission-complete}
 

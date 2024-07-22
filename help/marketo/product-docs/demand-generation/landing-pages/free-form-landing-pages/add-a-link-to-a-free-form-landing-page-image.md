@@ -15,20 +15,20 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir una imagen a una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Agregar una imagen a una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >Esto solo se aplica a las páginas de aterrizaje de forma libre.
 
-1. Seleccione la imagen que añadió a la página de aterrizaje y expanda la **Hoja de propiedades.**
+1. Seleccione la imagen que agregó a su página de aterrizaje y expanda la **Hoja de propiedades.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Escriba el vínculo mailto en la **URL de vínculo.**
+1. Escriba el vínculo mailto en la **URL del vínculo.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   ¡bueno trabajo! Ahora tiene una imagen como correo para vincular en la página de aterrizaje de Marketo.
+   ¡Gran trabajo! Ahora tiene una imagen como correo para vincular en la página de aterrizaje de Marketo.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)

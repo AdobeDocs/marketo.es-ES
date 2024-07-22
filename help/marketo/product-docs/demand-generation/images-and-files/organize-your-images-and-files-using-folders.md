@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La creación de carpetas permite mover imágenes y archivos, ver solo el conjunto de imágenes que desee y cargar directamente en una carpeta específica.
 
-1. Vaya a la **[!UICONTROL Design Studio]**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Clic con el botón derecho en **[!UICONTROL Imágenes y archivos]** y seleccione **[!UICONTROL Nueva carpeta]**.
+1. Haga clic con el botón derecho en **[!UICONTROL Imágenes y archivos]** y seleccione **[!UICONTROL Nueva carpeta]**.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
@@ -27,7 +27,7 @@ La creación de carpetas permite mover imágenes y archivos, ver solo el conjunt
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Volver atrás a **[!UICONTROL Imágenes y archivos]** y seleccione el recurso que desee mover. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Mover]**.
+1. Vuelva a **[!UICONTROL Imágenes y archivos]** y seleccione el recurso que desea mover. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Mover]**.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ La creación de carpetas permite mover imágenes y archivos, ver solo el conjunt
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. Clic **MMover**.
+1. Haz clic en **MMover**.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

@@ -25,11 +25,11 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Seleccionar **Código incrustado** en Acciones de aplicación social.
+1. Seleccione **Código incrustado** de las acciones de aplicaciones sociales.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copie el código del encabezado de página del sitio (`<head>`) y cuerpo (`<body>`).
+1. Copie el código para el encabezado de página del sitio (`<head>`) y el cuerpo (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Si necesita establecer el tamaño de la aplicación social en dimensiones específicas de la página, agregue la variable **outerHeight** y **outerWidth** al segundo fragmento de código. Por ejemplo, puede agregar lo siguiente `options='{"outerHeight":400, "outerWidth":600}'`, como en:
+1. Si necesita establecer el tamaño de la aplicación social en dimensiones específicas de la página, agregue las opciones **outerHeight** y **outerWidth** al segundo fragmento de código. Por ejemplo, puede agregar `options='{"outerHeight":400, "outerWidth":600}'`, como en:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -49,6 +49,6 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    >[!MORELIKETHIS]
    >
-   >* [Botón Personalizar aplicación social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Establecer requisito de uso compartido social](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Publicación de páginas de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Personalizar botón de aplicación social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Establecer requisito de uso compartido en redes sociales](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Páginas de aterrizaje de Publish en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

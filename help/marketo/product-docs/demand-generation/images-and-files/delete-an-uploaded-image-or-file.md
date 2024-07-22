@@ -19,15 +19,15 @@ La eliminación de imágenes o archivos es rápida y sencilla.
 >
 >Una vez eliminadas, las imágenes o los archivos se eliminan por completo del Marketo Engage y no se pueden recuperar.
 
-1. Vaya a la **[!UICONTROL Design Studio]**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Seleccionar **[!UICONTROL Imágenes y archivos]**
+1. Seleccionar **[!UICONTROL imágenes y archivos]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Busque y seleccione la imagen o el archivo que desee. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Eliminar]**.
+1. Busque y seleccione la imagen o el archivo que desee. Haga clic en la lista desplegable **[!UICONTROL Acciones de imagen y archivo]** y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
@@ -37,7 +37,7 @@ La eliminación de imágenes o archivos es rápida y sencilla.
 
    >[!NOTE]
    >
-   >Los recursos no se eliminarán si están en uso.
+   >Assets no eliminará si está en uso en este momento.
 
 >[!MORELIKETHIS]
 >

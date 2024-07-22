@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '335'
+ht-degree: 11%
 
 ---
 
@@ -121,7 +121,7 @@ Descargue el programa de instalación adecuado para su versión de Microsoft Out
 
 ## Actualización {#upgrade}
 
-1. Identifique su [Versión de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifique su [versión de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Seleccione su versión en la lista anterior.
 
@@ -129,7 +129,7 @@ Descargue el programa de instalación adecuado para su versión de Microsoft Out
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -149,11 +149,11 @@ Descargue el programa de instalación adecuado para su versión de Microsoft Out
    >
    >Si la instalación falla, colabore con su departamento de TI para asegurarse de que el tráfico HTTPS no esté bloqueado. El instalador requiere que el tráfico HTTPS esté abierto.
 
-1. Clic **Siguiente** para instalar en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para instalarlo en la ubicación predeterminada.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ Descargue el programa de instalación adecuado para su versión de Microsoft Out
 
 >[!MORELIKETHIS]
 >
->* [Envío y seguimiento de un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envío y seguimiento desde Outlook mediante una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar y rastrear un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar y rastrear desde Outlook usando una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

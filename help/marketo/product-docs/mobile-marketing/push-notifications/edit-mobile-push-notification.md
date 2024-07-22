@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Editar notificación push móvil {#edit-mobile-push-notification}
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. Seleccione la aplicación móvil y haga clic en **Editar borrador**.
+1. Seleccione su aplicación móvil y haga clic en **Editar borrador**.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->Más información sobre [configuración de notificaciones push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aquí.
+>Obtenga más información acerca de [configurar notificaciones push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aquí.

@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Puede controlar la visibilidad de sus programas estableciendo el comportamiento 
 
 >[!NOTE]
 >
->Más información sobre cómo establecer el comportamiento de análisis [aquí](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>Obtenga más información acerca de cómo establecer el comportamiento de análisis [aquí](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Estoy ejecutando una campaña multicanal para el lanzamiento de un nuevo producto. ¿Cómo puedo ver el rendimiento de esta campaña en todos los canales en un solo lugar? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ También es posible que pierda oportunidades debido a la falta de Coste del prog
 
 1. Inclusivo: esta opción garantizará que el programa esté disponible en MPI independientemente de si ha incluido o no un coste de período.
 
-1. [Operativo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - Esta opción hace que el programa no se muestre en MPI.
+1. [Operativo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs): esta opción hace que el programa no se muestre en MPI.
 
 >[!NOTE]
 >
->Costo de período **tiene** para configurarse para los informes Éxito y Nuevos nombres en el panel de participación. Este tablero utiliza datos de coste de período para sumar éxitos y nuevos nombres. Si el coste del período no está configurado, el panel de participación no presentará informes correctamente, independientemente de la configuración de comportamiento de Analytics anterior.
+>El costo de período **tiene** que configurar para los informes de éxito y nombres nuevos en el panel de participación. Este tablero utiliza datos de coste de período para sumar éxitos y nuevos nombres. Si el coste del período no está configurado, el panel de participación no presentará informes correctamente, independientemente de la configuración de comportamiento de Analytics anterior.
 
 ## ¿Por qué me estoy perdiendo algunas oportunidades en MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Los campos personalizados, el tipo de oportunidad y los filtros ABM son todos at
 
 ## Deseo utilizar un campo de oportunidad de Salesforce personalizado para los informes de ingresos en lugar del campo de importe de oportunidad de Salesforce estándar. ¿MPI me permitirá hacer eso? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sí. [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) puede reasignar el campo Cantidad de oportunidad de Marketo a un campo de oportunidad de Salesforce personalizado siempre y cuando el tipo de campo sea moneda. Dado que MPI señala al campo de cantidad de oportunidad de Marketo, MPI puede utilizar los datos del campo personalizado reasignado de Salesforce.
+Sí. [El soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) puede reasignar el campo Cantidad de oportunidad de Marketo a un campo de oportunidad de Salesforce personalizado siempre y cuando el tipo de campo sea moneda. Dado que MPI señala al campo de cantidad de oportunidad de Marketo, MPI puede utilizar los datos del campo personalizado reasignado de Salesforce.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI está diseñado para permitirle medir el rendimiento del programa desde la p
 
 ## ¿Puedo medir el éxito de las estrategias basadas en cuentas en MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sí. MPI se integra con [MARKETO TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para incorporar listas de cuentas ABM a MPI sin problemas. Puede utilizar el filtro Lista de cuentas ABM para elegir la lista ABM deseada para filtrar los datos.
+Sí. MPI se integra perfectamente con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para extraer listas de cuentas ABM a MPI. Puede utilizar el filtro Lista de cuentas ABM para elegir la lista ABM deseada para filtrar los datos.
 
 ## ¿La atribución está disponible al instante cuando compro MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Las funcionalidades de atribución de Marketo están disponibles para nuestros clientes cuando compran MPI. Sin embargo, [configuración adecuada](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) es necesario para garantizar que los datos de oportunidades y programas fluyen correctamente a MPI.
+Las funcionalidades de atribución de Marketo están disponibles para nuestros clientes cuando compran MPI. Sin embargo, se requiere la [configuración adecuada](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) para garantizar que las oportunidades y los datos del programa fluyen correctamente a MPI.
 
 ## ¿Qué tengo que hacer para configurar la atribución? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Las funcionalidades de atribución de Marketo están disponibles para nuestros c
 
 >[!TIP]
 >
->Todos los pasos de configuración necesarios se detallan en [este artículo](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Todos los pasos de configuración requeridos se detallan en [este artículo](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## ¿Cuál es la diferencia entre MPI y el Analizador de programas? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

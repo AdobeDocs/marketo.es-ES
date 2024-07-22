@@ -15,11 +15,11 @@ ht-degree: 4%
 
 Si Marketo Engage es un coche, la campaña inteligente es su motor. Las campañas inteligentes pueden hacer más de lo que imaginas y es fácil empezar a usarlas.
 
-La campaña inteligente tiene 3 áreas principales: [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} y [Programación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} pestañas.
+La campaña inteligente tiene tres áreas principales: las pestañas [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} y [Programar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Lista inteligente {#smart-list}
 
-La lista inteligente es la que define _quién_ desea segmentar con su campaña inteligente. Tiene filtros y déclencheur.
+La lista inteligente es la forma en que se define a _who_ que se quiere dirigir con la campaña inteligente. Tiene filtros y déclencheur.
 
 <table> 
  <tbody> 
@@ -55,8 +55,8 @@ Hay una enorme cantidad de cosas que la campaña inteligente puede hacer. Pónga
 
 >[!CAUTION]
 >
->Si mueve una campaña inteligente de un programa a otro y los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente la información para reflejar su nuevo programa, como lo hará **no** actualización automática.
+>Si mueve una campaña inteligente de un programa a otro y los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente la información para reflejar su nuevo programa, ya que **no** se actualizará automáticamente.
 
 >[!MORELIKETHIS]
 >
->[Creación de una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[Crear una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

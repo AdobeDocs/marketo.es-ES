@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Una vez que haya añadido todo el contenido a un flujo, puede probarlo de a una pieza a la vez.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Una vez que haya añadido todo el contenido a un flujo, puede probarlo de a una 
 
    ![](assets/two.png)
 
-1. Clic **Acciones de programa** y seleccione **Probar flujo**.
+1. Haga clic en **Acciones de programa** y seleccione **Probar secuencia**.
 
    ![](assets/three.png)
 
-1. Seleccione a su persona en el **Persona de prueba** menú desplegable. Recuerde, el contenido se publicará, así que tenga esto en cuenta al elegir.
+1. Seleccione a su persona en la lista desplegable **Persona de prueba**. Recuerde, el contenido se publicará, así que tenga esto en cuenta al elegir.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Una vez que haya añadido todo el contenido a un flujo, puede probarlo de a una 
 
    >[!TIP]
    >
-   >Si la persona de prueba que busca no existe, use el **Crear persona** opción para crear uno sobre la marcha.
+   >Si la persona de prueba que busca no existe, use la opción **Crear persona** para crear una sobre la marcha.
 
    Haga clic en Flujo inicial, seleccione el flujo que desee probar y haga clic en Ejecutar difusión.
    ![](assets/five-rubiks.png)
 
-1. Después de que la persona pasa por el [reglas de transición](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Una vez configurado anteriormente, haga clic en el icono Actualizar.
+1. Una vez que la persona haya pasado por las [reglas de transición](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que configuró anteriormente, haga clic en el icono Actualizar.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Una vez que haya añadido todo el contenido a un flujo, puede probarlo de a una 
 
    >[!NOTE]
    >
-   >No se enviará ningún otro contenido a menos que haga clic en **Ejecutar lanzamiento de nuevo**.
+   >No se enviará ningún otro contenido a menos que haga clic en **Ejecutar difusión de nuevo**.

@@ -16,19 +16,19 @@ Antes de enviar un correo electrónico, puede probar el formato de correo electr
 
 1. Navegue hasta el panel Perspectiva de ventas en Salesforce de un posible cliente o contacto.
 
-1. Clic **Enviar correo electrónico a Marketo**.
+1. Haga clic en **Enviar correo electrónico de Marketo**.
 
-1. Clic **Editar destinatarios de prueba**.
+1. Haga clic en **Editar destinatarios de prueba**.
 
-1. Puede elegir uno o más posibles clientes de la lista para ver cómo se renderizarán en ellos. Clic **Aplicar cambios** cuando termine.
+1. Puede elegir uno o más posibles clientes de la lista para ver cómo se renderizarán en ellos. Haga clic en **Aplicar cambios** cuando haya terminado.
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Como recordatorio, seleccionar esos posibles clientes **no tiene** enviarles la prueba de correo electrónico, le muestra _aspecto que tendrá el correo electrónico para ellos_. Si elige cuatro posibles clientes, recibirá cuatro correos electrónicos de prueba diferentes.
+   >Como recordatorio, al seleccionar esos posibles clientes **no** se les envía la prueba de correo electrónico, lo que le muestra _el aspecto que tendrá el correo electrónico para ellos_. Si elige cuatro posibles clientes, recibirá cuatro correos electrónicos de prueba diferentes.
 
-1. Clic **Enviar prueba**.
+1. Haga clic en **Enviar prueba**.
 
 Recibirá un correo electrónico con los valores de token rellenados para los posibles clientes que elija.
 

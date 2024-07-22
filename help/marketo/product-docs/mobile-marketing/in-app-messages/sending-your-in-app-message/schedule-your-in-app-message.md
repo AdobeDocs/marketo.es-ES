@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Envíe el mensaje ahora o programe para más tarde.
 
-1. Para programar un mensaje en la aplicación, seleccione **Establecer fecha futura** y elija una fecha de inicio en el calendario desplegable.
+1. Para programar un mensaje en la aplicación, selecciona **Establecer fecha futura** y elige una fecha de inicio en el calendario desplegable.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -31,4 +31,4 @@ Envíe el mensaje ahora o programe para más tarde.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-¡Tranquilo! Por último, pero no menos importante, está la [Aprobación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) paso.
+¡Tranquilo! Por último, pero no menos importante, está el paso [Aprobación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Para recibir actualizaciones de sus informes del Explorador de ciclos de ingresos y compartirlos, puede suscribir cualquier dirección de correo electrónico a un informe existente.
 
-1. Ir a **Analytics** y seleccione **Nuevo** > **Nueva suscripción a informe**.
+1. Vaya a **Analytics** y seleccione **Nuevo** > **Nueva suscripción a informe**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Para suscribirse a un informe básico creado en un programa, consulte [Suscripción a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Para suscribirse a un informe básico que creó en un programa, vea [Suscribirse a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Para Origen del informe, seleccione **Explorador de ingresos**.
+1. Para Report Source, seleccione **Explorador de ingresos**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ Para recibir actualizaciones de sus informes del Explorador de ciclos de ingreso
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [administrar todas las suscripciones a informes](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un solo lugar.
+>Aprenda a [administrar todas las suscripciones a informes](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un solo lugar.

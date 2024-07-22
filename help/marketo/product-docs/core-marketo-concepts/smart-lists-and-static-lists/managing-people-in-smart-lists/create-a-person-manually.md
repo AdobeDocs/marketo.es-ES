@@ -19,7 +19,7 @@ Hay muchas maneras de hacer que una persona entre en Marketo Engage. Si necesita
 >
 >Marketo no admite direcciones de correo electrónico que contengan emojis.
 
-1. Vaya a la **[!UICONTROL Base de datos]**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/db-1.png)
 
@@ -27,7 +27,7 @@ Hay muchas maneras de hacer que una persona entre en Marketo Engage. Si necesita
 
    ![](assets/two-2.png)
 
-1. Introduzca la información de la persona y haga clic en **[!UICONTROL Crear]**.
+1. Escriba la información de la persona y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/three-2.png)
 

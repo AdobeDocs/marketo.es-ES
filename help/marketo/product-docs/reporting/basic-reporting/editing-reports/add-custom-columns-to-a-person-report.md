@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Adición de columnas personalizadas a un informe de persona {#add-custom-columns-to-a-person-report}
 
-Puede filtrar aún más las métricas de los informes de personas mediante su [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como columnas personalizadas.
+Puede filtrar aún más las métricas de los informes de personas usando sus [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como columnas personalizadas.
 
-1. Vaya a la **Actividades de marketing** (o **Analytics**) área.
+1. Vaya al área de **Actividades de marketing** (o **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Seleccione el informe y haga clic en **Configurar** pestaña.
+1. Seleccione el informe y haga clic en la ficha **Configuración**.
 
    ![](assets/two-1.png)
 
-1. Arrastrar sobre **Columnas personalizadas**.
+1. Arrastre sobre **Columnas personalizadas**.
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ Puede filtrar aún más las métricas de los informes de personas mediante su [l
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. ¡Lo has hecho! Haga clic en **Informe** para ver el informe con las columnas nuevas.
+1. ¡Lo has hecho! Haga clic en la ficha **Informe** para ver el informe con las columnas nuevas.
 
    ![](assets/five-1.png)
 

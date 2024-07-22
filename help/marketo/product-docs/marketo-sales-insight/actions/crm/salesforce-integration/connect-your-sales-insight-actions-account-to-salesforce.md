@@ -24,11 +24,11 @@ Siga estos sencillos pasos para conectar la cuenta de acciones de perspectiva de
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. En la pestaña Conexiones y personalizaciones, haga clic en **Salesforce** entonces **Connect**.
+1. En la pestaña Conexiones y personalizaciones, haz clic en **Salesforce** y luego en **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -42,11 +42,11 @@ Siga estos sencillos pasos para conectar la cuenta de acciones de perspectiva de
 
 1. En Mi cuenta, seleccione **Salesforce**.
 
-1. En la pestaña Conexiones y personalizaciones, haga clic en **Salesforce** entonces **Connect**.
+1. En la pestaña Conexiones y personalizaciones, haz clic en **Salesforce** y luego en **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

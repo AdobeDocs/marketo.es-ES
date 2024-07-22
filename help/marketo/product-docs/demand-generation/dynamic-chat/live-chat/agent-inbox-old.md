@@ -25,7 +25,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 >[!IMPORTANT]
 >
->**Esto anulará** el [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} ha establecido en Configuración de agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
+>**Esto anulará** la [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que estableciste en la configuración del agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 ## Notificaciones de chat en directo {#live-chat-notifications}
 
-Obtenga más información acerca de las notificaciones en la [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Obtenga más información acerca de las notificaciones en [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversaciones {#conversations}
 
@@ -53,7 +53,7 @@ A la derecha de la pantalla de la bandeja de entrada del agente, podrá ver (de 
 
 ## Finalizar una sesión {#end-a-session}
 
-Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic en el botón **Finalizar sesión** junto a la información del visitante.
+Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic en el botón **Finalizar sesión** situado junto a la información del visitante.
 
 ![](assets/agent-inbox-6.png)
 
@@ -75,7 +75,7 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
    ![](assets/agent-inbox-8.png)
 
-1. Seleccione el calendario del agente deseado y haga clic en **Enviar**.
+1. Elija el calendario del agente deseado y haga clic en **Enviar**.
 
    ![](assets/agent-inbox-9.png)
 

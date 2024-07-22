@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
+El parámetro `event` es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos si accede a `event.data`.
 
 Estos son algunos valores de metadatos clave a los que puede acceder:
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
+El parámetro `event` es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos si accede a `event.data`.
 
 Estos son algunos valores de metadatos clave a los que puede acceder:
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
+El parámetro `event` es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos si accede a `event.data`.
 
 Estos son algunos valores de metadatos clave a los que puede acceder:
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-El `event` El parámetro es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos accediendo a `event.data`.
+El parámetro `event` es un objeto con metadatos relacionados con la conversación. Puede acceder a estos metadatos si accede a `event.data`.
 
 Estos son algunos valores de metadatos clave a los que puede acceder:
 

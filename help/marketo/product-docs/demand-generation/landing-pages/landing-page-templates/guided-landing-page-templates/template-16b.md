@@ -6,14 +6,14 @@ exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Plantilla 16B {#template-16b}
 
-Haga clic con el botón derecho para [descargar plantilla 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
+Haga clic con el botón derecho para [descargar la plantilla 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 
 * Seis secciones del cuerpo
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

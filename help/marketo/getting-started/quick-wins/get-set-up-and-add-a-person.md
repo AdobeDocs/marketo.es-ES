@@ -6,7 +6,7 @@ exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 ## Paso 1: Inicio de sesión en Marketo {#step-log-in-to-marketo}
 
-1. [Iniciar sesión en Marketo](https://app.marketo.com){target="_blank"} usando las credenciales que recibió por correo electrónico.
+1. [Inicie sesión en Marketo](https://app.marketo.com){target="_blank"} con las credenciales que recibió por correo electrónico.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -25,11 +25,11 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 Vamos a crear una carpeta para guardar todo lo que hagas en las misiones.
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Haga clic en **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Nueva carpeta de campaña]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
@@ -45,27 +45,27 @@ Vamos a crear una carpeta para guardar todo lo que hagas en las misiones.
 
 Añádase como persona en Marketo para poder enviarse correos electrónicos de prueba más adelante.
 
-1. Vaya a la **[!UICONTROL Base de datos]** área.
+1. Vaya al área de **[!UICONTROL Base de datos]**.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Haga clic en **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Nueva persona]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nueva]** y seleccione **[!UICONTROL Nueva persona]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Escriba su nombre y apellidos, dirección de correo electrónico y nombre de la empresa y haga clic en **[!UICONTROL Crear]** para agregarse como persona.
+1. Escriba su nombre y apellidos, dirección de correo electrónico y nombre de empresa, luego haga clic en **[!UICONTROL Crear]** para agregarse como persona.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
-   >Marketo lo hace **no** admite direcciones de correo electrónico que contengan emojis.
+   >Marketo **no** admite direcciones de correo electrónico que contengan emojis.
 
-1. Para ver a los usuarios, abra su [!UICONTROL Listas inteligentes del sistema] en el menú de la izquierda, haga clic en **[!UICONTROL Todas las personas]**.
+1. Para ver a tus personas, abre tus [!UICONTROL Listas inteligentes del sistema] en el menú de la izquierda y luego haz clic en **[!UICONTROL Todas las personas]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Haga clic en **[!UICONTROL People]** pestaña. Debería verse en la base de datos.
+1. Haga clic en la ficha **[!UICONTROL Personas]**. Debería verse en la base de datos.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

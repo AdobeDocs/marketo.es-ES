@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ## Buscar todos los miembros de una etapa de ingresos específica {#find-all-members-of-a-specific-revenue-stage}
 
-1. En una lista inteligente, haga clic en **[!UICONTROL Lista inteligente]** , busque la pestaña **[!UICONTROL Fase de ingresos]** filtre y arrástrelo al lienzo.
+1. En una lista inteligente, haga clic en la ficha **[!UICONTROL Lista inteligente]**, busque el filtro **[!UICONTROL Fase de ingresos]** y arrástrelo al lienzo.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Seleccione una **[!UICONTROL Fase de ingresos]**.
+1. Seleccione una **[!UICONTROL etapa de ingresos]**.
 
    ![](assets/two.jpg)
 
-1. Vaya a la **[!UICONTROL People]** para ver los resultados.
+1. Vaya a la ficha **[!UICONTROL Personas]** para ver los resultados.
 
    ![](assets/peopleresults.jpg)
 
 ## Ejecutar un paso de flujo en los miembros de una fase de ingresos {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Ahora que sabe qué personas están en qué etapas de ingresos, puede comercializarlas directamente. Además de elegir **[!UICONTROL Fase de ingresos]** como filtro de lista inteligente, también puede elegirlo como filtro &quot;if&quot; en el flujo.
+Ahora que sabe qué personas están en qué etapas de ingresos, puede comercializarlas directamente. Además de elegir **[!UICONTROL Ingreso Stage]** como filtro de lista inteligente, también puede elegirlo como filtro &quot;if&quot; en el flujo.
 
-1. En el paso de flujo deseado, haga clic en **[!UICONTROL Agregar opción]** y seleccione **[!UICONTROL Fase de ingresos]** de la lista desplegable.
+1. En el paso de flujo deseado, haga clic en **[!UICONTROL Agregar opción]** y seleccione **[!UICONTROL Etapa de ingresos]** en la lista desplegable.
 
    ![](assets/six.png)
 

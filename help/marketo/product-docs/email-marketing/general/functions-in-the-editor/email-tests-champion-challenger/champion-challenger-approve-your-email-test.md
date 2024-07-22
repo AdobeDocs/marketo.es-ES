@@ -19,25 +19,25 @@ El último paso para configurar la prueba de correo electrónico para aprobarla.
 >
 >[Campeón/Challenger: Configurar alertas de informes](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Busque y haga clic con el botón derecho en **Prueba de correo electrónico**, luego haga clic en **Aprobar prueba**.
+1. Busque la **prueba de correo electrónico**, haga clic con el botón secundario en ella y, a continuación, haga clic en **Aprobar prueba**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >Al aprobar un **Correo electrónico completo** Pruebe y apruebe primero el correo electrónico del aspirante.
+   >Al aprobar una prueba de **Correo electrónico completo**, apruebe primero el correo electrónico del aspirante.
 
    >[!NOTE]
    >
-   >Para enviar la prueba, elija el correo electrónico al que agregó la prueba en la **Enviar correo electrónico** paso de flujo de la campaña de déclencheur. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos electrónicos de campeón/aspirante no funcionarán en las campañas por lotes.
+   >Para enviar la prueba, elige el correo electrónico al que agregaste la prueba en el paso de flujo **Enviar correo electrónico** de tu campaña de déclencheur. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos electrónicos de campeón/aspirante no funcionarán en las campañas por lotes.
 
    ¿No fue fácil? Una vez que reciba algunos informes, querrá declararse campeón.
 
    >[!MORELIKETHIS]
    >
-   >* [Campeón/Challenger: Declarar un campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Campeón/Challenger: Declarar campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
    >* [Campeón/Challenger: descartar una prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

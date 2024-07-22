@@ -6,7 +6,7 @@ exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 El primer paso es decidir quién debe recibir el mensaje en la aplicación. Debe configurar la lista inteligente.
 
-1. Clic **Editar lista inteligente**.
+1. Haga clic en **Editar lista inteligente**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,7 +27,7 @@ El primer paso es decidir quién debe recibir el mensaje en la aplicación. Debe
    >
    >Actualmente, no se admiten varios valores para el campo Aplicación móvil para programas de mensajes en la aplicación.
 
-1. **Apertura de aplicación** es la configuración de Acción predeterminada, pero puede seleccionar cualquier evento personalizado que ya haya configurado.
+1. **Apertura de aplicación** es la configuración de acción predeterminada, pero puede seleccionar cualquier evento personalizado que ya haya configurado.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
@@ -35,11 +35,11 @@ El primer paso es decidir quién debe recibir el mensaje en la aplicación. Debe
    >
    >El déclencheur predeterminado (Apertura de aplicación) y los déclencheur personalizados que el desarrollador haya agregado al código se muestran automáticamente en el selector de acciones. Si falta un evento personalizado, póngase en contacto con el desarrollador para asegurarse de que ha añadido los eventos personalizados a la aplicación. Tenga en cuenta que el proceso de codificación y aprobación de eventos personalizados puede tardar algún tiempo en completarse. Consulte [este artículo](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) para obtener más información.
 
-1. Las restricciones están disponibles para **Tiene actividad de aplicación móvil** déclencheur si los necesitas.
+1. Las restricciones están disponibles para el déclencheur **Tiene actividad de aplicación móvil** si las necesita.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. Puede añadir filtros a la lista inteligente para limitar quién recibe el mensaje en la aplicación. En este ejemplo, se utiliza la variable **Fecha de adquisición** filtro, solo las personas adquiridas el 9 de junio de 2016 recibirán el mensaje en la aplicación.
+1. Puede añadir filtros a la lista inteligente para limitar quién recibe el mensaje en la aplicación. En este ejemplo, con el filtro **Fecha de adquisición**, solo las personas adquiridas el 9 de junio de 2016 recibirán el mensaje en la aplicación.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ El primer paso es decidir quién debe recibir el mensaje en la aplicación. Debe
 
    >[!NOTE]
    >
-   >El límite de visualización predeterminado es **Una vez por sesión**. Si desea que el mensaje deje de mostrarse después de que el destinatario responda, seleccione **Cada vez hasta que se pulsa**. Si se debe mostrar cada vez, independientemente de lo que haga el destinatario, elija **Cada vez**.
+   >El límite de visualización predeterminado es **Una vez por sesión**. Si desea que el mensaje deje de mostrarse después de que el destinatario responda, seleccione **Cada vez hasta que se pulse**. Si debería mostrarse cada vez, independientemente de lo que haga el destinatario, elija **Cada vez**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 ¡Buen trabajo! Ya tienes tu audiencia configurada. Ha obtenido la barra azul y la marca de verificación verde.
 
-Tiempo para [seleccione el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+¡Hora de [seleccionar su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

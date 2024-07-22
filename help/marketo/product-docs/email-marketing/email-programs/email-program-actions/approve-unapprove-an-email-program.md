@@ -16,9 +16,9 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Elija un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Cree un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
 >* [Programe su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A continuación se muestra cómo:
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A
    >
    >Si no aprueba su programa de correo electrónico, el correo electrónico no se enviará.
 
-1. En el **Aprobación** mosaico siga y haga clic en **Aprobar programa**.
+1. En el mosaico **Aprobación**, continúe y haga clic en **Aprobar programa**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A
 
 Si cambia de opinión y decide que no desea que se publique, puede desaprobar el programa de correo electrónico.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Si cambia de opinión y decide que no desea que se publique, puede desaprobar el
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. En el **Aprobación** mosaico, simplemente haga clic en **Desaprobar programa**.
+1. En el mosaico **Aprobación**, simplemente haga clic en **Desaprobar programa**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

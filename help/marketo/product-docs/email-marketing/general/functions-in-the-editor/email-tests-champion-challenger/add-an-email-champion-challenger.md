@@ -26,9 +26,9 @@ A continuación se muestra cómo empezar.
 
 >[!CAUTION]
 >
->Los correos electrónicos de campeón/aspirante solo funcionan con campañas de déclencheur y flujos de programas de participación. Para los envíos de correo por lotes, utilice el programa de correo electrónico [Funcionalidad de las pruebas A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Los correos electrónicos de campeón/aspirante solo funcionan con campañas de déclencheur y flujos de programas de participación. Para los envíos de correo por lotes, use la [funcionalidad de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,7 +38,7 @@ A continuación se muestra cómo empezar.
 
    >[!NOTE]
    >
-   >Para las explosiones de correo únicas, obtenga más información sobre [programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >Para mensajes de una sola vez, obtén más información sobre [programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
 1. En **Acciones de correo electrónico**, haga clic en **Nueva prueba**.
 
@@ -49,5 +49,5 @@ A continuación se muestra cómo empezar.
    >[!MORELIKETHIS]
    >
    >* [Campeón/Challenger: Correos electrónicos completos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Campeón/Challenger: Línea de asunto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Campeón/Desafío: Línea de asunto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
    >* [Campeón/Challenger: Dirección de origen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

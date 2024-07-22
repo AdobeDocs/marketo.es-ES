@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Los modelos del ciclo de ingresos llevan el marketing al siguiente nivel. Modela
 
 ## Modelo mental (cómo pensar en esto) {#mental-model-how-to-think-about-this-thing}
 
-El Modelador es como una serie de cubos con agua en ellos. Hay agujeros en la parte inferior de los cubos.
+El Modeler es como una serie de cubos con agua en ellos. Hay agujeros en la parte inferior de los cubos.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
@@ -37,11 +37,11 @@ De forma predeterminada, un nuevo modelo le inicia con seis etapas de ingresos. 
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Fíjese que todos están sobre un fondo verde. Esto se denomina **Ruta de éxito**. Más información sobre la ruta de éxito [aquí](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Fíjese que todos están sobre un fondo verde. Esto se denomina **Ruta de éxito**. Obtenga más información sobre la ruta de acceso correcta [aquí](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Fases** son los hitos en una progresión de leads hacia sus objetivos.
+**Las etapas** son los hitos en una progresión de clientes potenciales hacia sus objetivos.
 
-**Transiciones** se muestran como flechas y controlan cómo se mueven los posibles clientes entre las fases.
+Las **transiciones** se muestran como flechas y controlan cómo se mueven los posibles clientes entre las fases.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Esto parece una caja y es la más básica de las etapas. Analytics realizará un
 
 ## Fase de SLA {#sla-stage}
 
-Es la abreviatura de **Contrato de nivel de servicio** escenario. La intención aquí es que algunas etapas querrán aplicar un límite de tiempo.
+Esta es la abreviatura de la fase **Contrato de nivel de servicio**. La intención aquí es que algunas etapas querrán aplicar un límite de tiempo.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Una fase de Puerta está diseñada para situaciones en las que desea filtrar pos
 >
 >**Ejemplo**
 >
->Se puede utilizar una puerta para los posibles clientes que forman parte de una **lista de cuentas con nombre** para separarlo del proceso normal.
+>Se podría usar una puerta para los posibles clientes que forman parte de una **lista de cuentas con nombre** para separar esto del proceso normal.
 
 ## Transiciones {#transitions}
 
@@ -97,12 +97,12 @@ Perdido es uno bueno para añadir, pero tenga en cuenta que no está en el camin
 >
 >* [Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Uso de Etapas de Inventario del Modelo de Ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Uso de etapas de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
 >* [Uso de etapas de puerta del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Uso de etapas SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Uso de etapas de SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [Informe sobre el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [Informe sobre su modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

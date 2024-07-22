@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Puede desactivar las notificaciones automáticas por correo electrónico que se 
 
    ![](assets/admin-1.png)
 
-1. Haga clic **[!DNL Salesforce]**.
+1. Haga clic en **[!DNL Salesforce]**.
 
    ![](assets/adminsalesforce.png)
 
@@ -27,6 +27,6 @@ Puede desactivar las notificaciones automáticas por correo electrónico que se 
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Desmarque la **[!UICONTROL Enviar notificación por correo electrónico al propietario en Salesforce tras la asignación del posible cliente]** cuadro. Haga clic en **[!UICONTROL Guardar]**.
+1. Anule la selección del cuadro **[!UICONTROL Enviar notificación por correo electrónico al propietario en Salesforce tras la asignación de posibles clientes]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/new-screen.png)

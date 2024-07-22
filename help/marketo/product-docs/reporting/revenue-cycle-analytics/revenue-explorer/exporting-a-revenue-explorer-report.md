@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puede exportar cualquier informe del explorador de ingresos y compartirlo con quien desee.
 
-1. Haga clic en el icono de engranaje y seleccione **Exportar** y seleccione un formato de archivo.
+1. Haga clic en el icono del engranaje, seleccione **Exportar** y seleccione un formato de archivo.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Puede exportar cualquier informe del explorador de ingresos y compartirlo con qu
    >* Excel
    >* CSV
 
-1. Seleccione el **Formato de página** y **Orientación** y haga clic en **Exportar**.
+1. Seleccione el **formato de página** y la **orientación** deseados y haga clic en **Exportar**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Puede exportar cualquier informe del explorador de ingresos y compartirlo con qu
 
 >[!MORELIKETHIS]
 >
->[Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Suscribirse a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

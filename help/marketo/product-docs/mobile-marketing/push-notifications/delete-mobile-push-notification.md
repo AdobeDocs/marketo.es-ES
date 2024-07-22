@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512463
 description: 'Eliminar notificaciones push móviles: documentos de Marketo: documentación del producto'
-title: Eliminar notificación push móvil
+title: Eliminar notificación de inserción para dispositivos móviles
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Eliminar notificación push móvil {#delete-mobile-push-notification}
+# Eliminar notificación de inserción para dispositivos móviles {#delete-mobile-push-notification}
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 

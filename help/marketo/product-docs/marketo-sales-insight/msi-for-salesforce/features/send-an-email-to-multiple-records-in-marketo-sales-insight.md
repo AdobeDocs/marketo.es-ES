@@ -6,20 +6,20 @@ exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 # Enviar un correo electrónico a varios registros en Marketo Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-Es muy fácil enviar un correo electrónico de Marketo a varias personas mediante Marketo Sales Insight. Comencemos.
+Es muy fácil enviar un correo electrónico de Marketo a varias personas mediante Marketo Sales Insight. Vamos a empezar...
 
-1. En Salesforce, haga clic **Posibles clientes** o **Contactos**.
+1. En Salesforce, haga clic en **Posibles clientes** o en **Contactos**.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-1.png)
 
-1. Clic **Ir** para ver todos los posibles clientes abiertos.
+1. Haga clic en **Ir** para ver todos los posibles clientes abiertos.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-2.png)
 
@@ -29,19 +29,19 @@ Es muy fácil enviar un correo electrónico de Marketo a varias personas mediant
 
    >[!NOTE]
    >
-   >Si utiliza Salesforce Lightning, el botón indicará **Enviar correo electrónico de Marketo (Lightning)**.
+   >Si usas Salesforce Lightning, el botón indicará **Enviar correo electrónico de Marketo (lightning)**.
 
    >[!TIP]
    >
-   >¿No ves el botón? Asegúrese de que ha [se han añadido los botones de Marketo a la vista de lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >¿No ves el botón? Asegúrese de haber [agregado los botones de Marketo a la vista de lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
-1. Continúe y redacte el correo electrónico. Clic **Envío con Marketo** cuando termine.
+1. Continúe y redacte el correo electrónico. Haga clic en **Enviar con Marketo** cuando termine.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-4.png)
 
    >[!TIP]
    >
-   >Puede [publicar correo electrónico en Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) y elija entre esos correos electrónicos.
+   >Puedes [publicar el correo electrónico en la perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) y elegir entre esos mensajes.
 
    >[!NOTE]
    >

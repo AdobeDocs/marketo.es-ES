@@ -6,7 +6,7 @@ exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
 ## Creación de un nuevo tablero {#creating-a-new-dashboard}
 
-1. Clic **Explorador de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Clic **Crear nuevo**, entonces **Tablero**.
+1. Haga clic en **Crear nuevo** y luego en **Tablero**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    >[!NOTE]
    >
-   >Puede personalizar aún más el aspecto del tablero haciendo clic en **Temas** y elegir tu favorito.
+   >Puede personalizar aún más el aspecto de su tablero si hace clic en **Temas** y elige su favorito.
 
-1. En la primera sección del tablero, haga clic en **Insertar** y seleccione **Archivo**.
+1. En la primera sección del panel, haga clic en el icono **Insertar** y seleccione **Archivo**.
 
    ![](assets/four.png)
 
-1. Doble clic **Explorador de ingresos**.
+1. Haga doble clic en **Explorador de ingresos**.
 
    ![](assets/five.png)
 
-1. Doble clic **Todos los informes y paneles**.
+1. Haga doble clic en **Todos los informes y paneles**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    ![](assets/seven.png)
 
-1. Seleccione el informe y haga clic en **Seleccionar**.
+1. Elija su informe y haga clic en **Seleccionar**.
 
    ![](assets/eight.png)
 
@@ -61,31 +61,31 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    ![](assets/ten.png)
 
-1. Para guardar, haga clic en el icono Guardar, introduzca un nombre de archivo, haga doble clic en la carpeta del Explorador de ingresos hasta que llegue a la carpeta deseada para el panel y haga clic en **Guardar**.
+1. Para guardar, haz clic en el icono Guardar, escribe un nombre de archivo, haz doble clic en la carpeta del Explorador de ingresos hasta que llegues a la carpeta deseada para tu panel y haz clic en **Guardar**.
 
    ![](assets/eleven.png)
 
 ## Edición de un tablero {#editing-a-dashboard}
 
-1. Clic **Explorador de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Haga doble clic en **Explorador de ingresos** carpeta. Desplácese hasta donde se encuentre el tablero.
+1. Haga doble clic en la carpeta **Explorador de ingresos**. Desplácese hasta donde se encuentre el tablero.
 
    ![](assets/thirteen.png)
 
-1. Seleccione el tablero que desea editar y haga clic en **Editar**.
+1. Seleccione el tablero que desee editar y luego haga clic en **Editar**.
 
    ![](assets/fourteen.png)
 
 ## Eliminación de un panel {#deleting-a-dashboard}
 
-1. Clic **Explorador de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Haga doble clic en **Explorador de ingresos** carpeta. Desplácese hasta donde se encuentre el tablero.
+1. Haga doble clic en la carpeta **Explorador de ingresos**. Desplácese hasta donde se encuentre el tablero.
 
    ![](assets/thirteen.png)
 

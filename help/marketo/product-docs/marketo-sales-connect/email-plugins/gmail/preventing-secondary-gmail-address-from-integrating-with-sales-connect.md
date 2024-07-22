@@ -6,7 +6,7 @@ exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -19,24 +19,24 @@ La razón más común para una conexión de Gmail rota es una integración accid
 
 ## ¿Por qué Sales Connect siquiera intenta integrarse con mi Gmail personal? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
 
-Sales Connect se integra con Gmail a través de una extensión instalada en el navegador Chrome. Siempre que la extensión detecta una instancia de Gmail abierta, ofrece una opción para integrarse con ella. Para evitar una integración con su cuenta personal de Gmail, le recomendamos una de las tres cosas...
+Sales Connect se integra con Gmail mediante una extensión instalada en el explorador Chrome. Siempre que la extensión detecta una instancia de Gmail abierta, ofrece una opción para integrarse con ella. Para evitar una integración con su cuenta personal de Gmail, le recomendamos una de las tres cosas...
 
-Iniciar sesión como otro usuario de Chrome (recomendado)
+Iniciar Sesión Como Otro Usuario De Chrome (Recomendado)
 
-Clic [este vínculo](https://support.google.com/chrome/answer/2364824?hl=en) para leer cómo crear otro perfil de Chrome.
+Haga clic en [este vínculo](https://support.google.com/chrome/answer/2364824?hl=en) para leer cómo crear otro perfil de Chrome.
 
-**Pros**: al iniciar sesión como otro usuario, se abrirá una nueva instancia de Chrome. Esta instancia es una ventana nueva de Chrome y ninguna de las extensiones antiguas existirá en esta. También mantiene cookies para que no tenga que iniciar sesión en su Gmail cada vez.
+**Profesionales**: Si inicias sesión como otro usuario, se abrirá una nueva instancia de Chrome. Esta es una ventana completamente nueva de Chrome y ninguna de sus extensiones antiguas existirá en esta. También mantiene cookies para que no tenga que iniciar sesión en su Gmail cada vez.
 
-**Contras**: Debe tener dos ventanas de Chrome abiertas.
+**Desventajas**: Debe tener dos ventanas de Chrome abiertas.
 
 Usar otro explorador
 
-**Ventajas:** El uso de otro navegador de Internet (IE o Firefox) que no tenga la extensión instalada evitará que esto ocurra.
+**Ventajas:** Usar otro navegador de Internet (IE o Firefox) que no tenga instalada la extensión evitará que esto ocurra.
 
-**Contras**: El uso de varios exploradores puede ser molesto.
+**Desventajas**: Usar varios exploradores puede ser molesto.
 
 Uso De Una Ventana De Incógnito
 
-**Ventajas:** Una ventana de incógnito es como abrir una versión desnuda de Chrome. Esto significa que no tendrá ninguna de las extensiones instaladas y que Sales Connect no estará allí para conectarse.
+**Ventajas:** Una ventana de incógnito es como abrir una versión de Chrome desnuda. Esto significa que no tendrá ninguna de las extensiones instaladas y que Sales Connect no estará allí para conectarse.
 
-**Contras**: Tendrá que iniciar sesión en Gmail cada vez que inicie su día y nuevamente si cierra la ventana accidentalmente.
+**Desventajas**: Tendrás que iniciar sesión en Gmail cada vez que empieces el día y de nuevo si cierras la ventana accidentalmente.

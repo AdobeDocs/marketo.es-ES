@@ -6,24 +6,24 @@ exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
 # Plantillas recomendadas {#recommended-templates}
 
-Las plantillas recomendadas de Sales Connect le ayudan a obtener los mensajes adecuados y, al mismo tiempo, le ahorran tiempo. Esto le proporciona el bueno flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona adecuada.
+Las plantillas recomendadas de Sales Connect le ayudan a obtener los mensajes adecuados y, al mismo tiempo, le ahorran tiempo. Esto le proporciona un mayor flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona adecuada.
 
 1. Vaya a la pestaña Plantillas.
 
 1. Seleccione la plantilla que desee recomendar y haga clic en **Editar**.
 
-1. Para activar la funcionalidad de plantilla recomendada en la plantilla, marque **Sugerir automáticamente esta plantilla cuando**.
+1. Para habilitar la funcionalidad de plantilla recomendada en su plantilla, marque **Sugerir automáticamente esta plantilla cuando**.
 
 ## Todo vs. Cualquier {#all-vs-any}
 
-Ahora es el momento de seleccionar la configuración de criterios. Seleccionar **Todo** si desea que la plantilla se recomiende cuando se cumplan todos los criterios. Seleccionar **Cualquiera** si desea que su plantilla se recomiende cuando se cumpla cualquiera de los criterios.
+Ahora es el momento de seleccionar la configuración de criterios. Seleccione **Todos** si desea que se recomiende su plantilla cuando se cumplan todos los criterios. Seleccione **Cualquiera** si desea que se recomiende su plantilla cuando se cumpla cualquiera de los criterios.
 
 ## Estableciendo criterios {#setting-criteria}
 
@@ -33,13 +33,13 @@ Los criterios van a establecer las condiciones para las que se recomendarán las
 
 Ahora, seleccione la condición. Cuando se cumplan las condiciones del campo dinámico, se recomendará la plantilla. Elija entre 4 condiciones diferentes.
 
-**Igual a**: el valor debe coincidir exactamente (por ejemplo, Marketo es igual a Marketo)
+**Es igual a**: el valor debe coincidir de forma exacta (por ejemplo, Marketo es igual a Marketo)
 
-**Does not Equal**: el valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, País de marketing no es igual a Marketing)
+**No es igual a**: el valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, País de mercadotecnia no es igual a Mercadotecnia)
 
-**Contains**: solo necesita contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
+**Contiene**: solo necesita contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
 
-**Does Not Contiene**: el valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
+**No contiene**: El valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
 
 ## Aspecto De Una Plantilla Recomendada {#what-a-recommended-template-looks-like}
 

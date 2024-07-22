@@ -12,11 +12,11 @@ ht-degree: 4%
 
 # Verificación de cancelación de suscripción de Marketo {#marketo-unsubscribe-check}
 
-La comprobación de cancelación de suscripción de Marketo utiliza la conexión de su equipo a Marketo para evitar que los correos electrónicos lleguen a personas que han cancelado su suscripción en el sistema de administración de posibles clientes de Marketo. Cuando un usuario de ventas envía un correo electrónico con Marketo Sales, se realiza una llamada de API a Marketo para comprobar si se cancela la suscripción del ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
+La comprobación de cancelación de suscripción de Marketo utiliza la conexión de su equipo a Marketo para evitar que los correos electrónicos vayan a parar a personas que han cancelado su suscripción en el sistema de administración de posibles clientes de Marketo. Cuando un usuario de ventas envía un correo electrónico con Marketo Sales, se realiza una llamada de API a Marketo para comprobar si se cancela la suscripción del ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Encendiéndola... {#turning-it-on}
 
@@ -24,11 +24,11 @@ La comprobación de cancelación de suscripción de Marketo utiliza la conexión
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. En Configuración de administración, haga clic en **Cancela la suscripción**.
+1. En Configuración de administración, haga clic en **Cancelar suscripciones**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Haga clic en **Integraciones** pestaña. En la sección Cancelar la suscripción a Marketo, haga clic en el control deslizante para activar la comprobación.
+1. Haga clic en la ficha **Integraciones**. En la sección Cancelar la suscripción a Marketo, haga clic en el control deslizante para activar la comprobación.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

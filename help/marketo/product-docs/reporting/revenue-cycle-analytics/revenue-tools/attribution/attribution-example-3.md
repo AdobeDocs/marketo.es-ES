@@ -6,8 +6,8 @@ exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 1%
 
 Lea el siguiente escenario e intente determinar los números que deben estar en la cuadrícula.
 
-* Abril de 11 | Steve downloads (Contenido) - success
+* Abril de 11 | Descargas de Steve (contenido): éxito
 * Abril de 22 | Se crea una oportunidad por 3000 $ (tanto Steve como Jason tienen funciones)
-* Abril de 25 | Jason asiste (seminario web) - success
-* Abril de 30 | La oportunidad está cerrada-ganada
+* Abril de 25 | Jason asiste (seminario web) - éxito
+* Abril de 30 | La oportunidad está ganada
 
 | Métrica de atribución | (Contenido) | (Seminario web) |
 |---|---|---|
 | (MT) Opción creada | `<pre>1</pre>` | `<pre>0</pre>` |
-| (MT) Canalización creada | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
+| (MT) Canal creado | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (MT) Opción ganada | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (MT) Ingresos obtenidos | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
+| (MT) Ingreso obtenido | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
 
 **Mostrar respuestas**
 
@@ -49,6 +49,6 @@ Pruebe todos los ejemplos y usted será un profesional de la atribución!
 
 >[!MORELIKETHIS]
 >
->* [Ejemplo 1 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Ejemplo 2 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Ejemplo 4 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Ejemplo de atribución 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Ejemplo de atribución 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Ejemplo de atribución 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

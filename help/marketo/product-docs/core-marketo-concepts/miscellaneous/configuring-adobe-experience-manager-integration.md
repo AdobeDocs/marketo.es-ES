@@ -19,7 +19,7 @@ Configure Adobe Experience Manager AEM AEM () para poder acceder a los recursos,
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!IMPORTANT]
 >
@@ -35,7 +35,7 @@ Configure Adobe Experience Manager AEM AEM () para poder acceder a los recursos,
 
    ![](assets/two.png)
 
-1. Entrada **[!UICONTROL Herramientas]**, haga clic en **[!UICONTROL Operaciones]** y seleccione **[!UICONTROL Consola web]**.
+1. En **[!UICONTROL Herramientas]**, haga clic en **[!UICONTROL Operaciones]** y seleccione **[!UICONTROL Consola web]**.
 
    ![](assets/2a.png)
 
@@ -43,23 +43,23 @@ Configure Adobe Experience Manager AEM AEM () para poder acceder a los recursos,
 
    ![](assets/three.png)
 
-1. Haga clic en **+** Firme a la derecha.
+1. Haga clic en el signo **+** de la derecha.
 
    ![](assets/four.png)
 
-1. En el **[!UICONTROL Orígenes permitidos (Regexp)]** cuadro de texto, escriba `https://.*\.marketo\.com` y haga clic en **[!UICONTROL Guardar]**.
+1. En el cuadro de texto **[!UICONTROL Orígenes permitidos (Regexp)]**, escriba `https://.*\.marketo\.com` y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/five-psd.png)
 
-1. En el encabezado situado en la parte superior de la página, haga clic en **[!UICONTROL Consola web]** y seleccione **[!UICONTROL Información del sistema]**.
+1. En el encabezado de la parte superior de la página, haz clic en **[!UICONTROL Consola web]** y selecciona **[!UICONTROL Información del sistema]**.
 
    ![](assets/six.png)
 
-1. En Información del servidor, haga clic en **[!UICONTROL Restart]** botón.
+1. En Información del servidor, haga clic en el botón **[!UICONTROL Reiniciar]**.
 
    ![](assets/seven.png)
 
-1. Clic **[!UICONTROL OK]** para confirmar.
+1. Haga clic en **[!UICONTROL Aceptar]** para confirmar.
 
    ![](assets/eight.png)
 
@@ -71,10 +71,10 @@ Configure Adobe Experience Manager AEM AEM () para poder acceder a los recursos,
 
    ![](assets/ten.png)
 
-1. Clic **[!UICONTROL Editar]**.
+1. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/eleven.png)
 
-1. AEM Introduzca la dirección URL de la y haga clic en **[!UICONTROL OK]**.
+1. AEM Escriba la dirección URL de la y haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/twelve.png)

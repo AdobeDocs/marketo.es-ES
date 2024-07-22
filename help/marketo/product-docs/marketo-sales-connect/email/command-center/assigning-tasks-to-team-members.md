@@ -23,7 +23,7 @@ Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser un
 
    ![](assets/one-1.png)
 
-1. Clic **Agregar tarea**.
+1. Haga clic en **Agregar tarea**.
 
    ![](assets/two-1.png)
 
@@ -51,6 +51,6 @@ Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser un
 
    ![](assets/eight.png)
 
-1. Añada cualquier detalle importante que sea relevante para su compañero (opcional) y haga clic en **Crear**.
+1. Agregue los detalles importantes que sean relevantes para su compañero de equipo (opcional) y haga clic en **Crear**.
 
    ![](assets/nine.png)

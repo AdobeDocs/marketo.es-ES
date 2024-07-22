@@ -19,11 +19,11 @@ Las ofertas de reenvío ofrecen a las personas un incentivo para recomendar a su
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local**.
+1. Dentro de su programa, seleccione **Nuevo** > **Nuevo recurso local**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. En el **Galería de recursos locales**, haga clic en **Oferta de referencia**.
+1. En la **Galería de recursos local**, haga clic en **Oferta de referencia**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ Las ofertas de reenvío ofrecen a las personas un incentivo para recomendar a su
 
    >[!TIP]
    >
-   >Para ahorrar tiempo, puede utilizar el **Clonar desde** opción para copiar todos los ajustes de una oferta de referencia existente.
+   >Para ahorrar tiempo, puede usar la opción **Clonar a partir de** para copiar toda la configuración de una oferta de referencia existente.
 
    El editor de ofertas de referencia se abre en una nueva ventana. La configuración predeterminada es correcta, pero debe agregar un vínculo a las reglas de la oferta (términos y condiciones). El vínculo aparece en la parte inferior de las pantallas de mensajes compartidos. Le mostraremos cómo en el siguiente paso.
 
-1. Clic **Opciones avanzadas**.
+1. Haga clic en **Opciones avanzadas**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Añada un vínculo a las reglas de la oferta. Introduzca el **URL**.
+1. Añada un vínculo a las reglas de la oferta. Escriba la **URL**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >En esta pantalla, también puede añadir un vínculo de política de privacidad. Consulte  [Añadir su política de privacidad a una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >En esta pantalla, también puede añadir un vínculo de política de privacidad. Ver [Agregar su política de privacidad a una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    >[!TIP]
    >
-   >Para cambiar cualquiera de los valores predeterminados de la oferta de referencia, haga clic en **Atrás**. Para guardar el trabajo para más tarde sin aprobarlo, haga clic en **Cerrar**.
+   >Para cambiar cualquiera de los valores predeterminados de su oferta de referencia, haga clic en **Atrás**. Para guardar tu trabajo para más tarde sin aprobarlo, haz clic en **Cerrar**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ Si hay algún problema en la oferta de referencia, se le pedirá que lo resuelva
 
 >[!MORELIKETHIS]
 >
->El siguiente paso es [publicar su oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) en una página de aterrizaje, en el sitio web o en Facebook.
+>El siguiente paso es [publicar tu oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) en una página de aterrizaje, en tu sitio web o en Facebook.

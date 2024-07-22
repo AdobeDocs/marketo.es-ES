@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
-description: 'Creación de un nuevo espacio de trabajo: documentos de Marketo, documentación del producto'
-title: Crear un nuevo espacio de trabajo
+description: Creación de una nueva documentación de Workspace - Documentos de Marketo - Documentación del producto
+title: Crear un nuevo Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# Crear un nuevo espacio de trabajo {#create-a-new-workspace}
+# Crear un nuevo Workspace {#create-a-new-workspace}
 
 Los espacios de trabajo son útiles para subdividir la compañía. Los motivos para configurar espacios de trabajo son:
 
@@ -22,37 +22,37 @@ A continuación se indica cómo crear un nuevo espacio de trabajo.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
->Comprender primero con [Explicación de espacios de trabajo y particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Comprender primero con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
->Para obtener más información sobre las prácticas recomendadas de Workspace, póngase en contacto con [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Para obtener más información acerca de las prácticas recomendadas de Workspace, comuníquese con [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Clic **[!UICONTROL Espacios de trabajo y particiones]**.
+1. Haga clic en **[!UICONTROL Espacios de trabajo y particiones]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Clic **[!UICONTROL Nuevo espacio de trabajo]**.
+1. Haga clic en **[!UICONTROL Nuevo Workspace]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Introduzca una **[!UICONTROL Nombre]** y seleccione la opción **[!UICONTROL Particiones de persona]** que desee utilizar. Elija una **[!UICONTROL Partición de persona principal]**. Asegúrese de lo siguiente [crear particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si aún no lo ha hecho.
+1. Escriba un **[!UICONTROL Nombre]** y seleccione las **[!UICONTROL Particiones de persona]** que desee usar. Elija una **[!UICONTROL Partición de persona principal]**. Asegúrese de [crear particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si aún no lo ha hecho.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* El **[!UICONTROL Todas las particiones de persona]** casilla de verificación significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
+   >* La casilla de verificación **[!UICONTROL Todas las particiones de persona]** significa que este espacio de trabajo puede usar todas las particiones de persona del sistema.
    >
-   >* El **[!UICONTROL Partición de persona principal]** actúa como valor predeterminado y es donde se asignarán todas las personas.
+   >* La **[!UICONTROL Partición de persona principal]** actúa como predeterminada y es donde se asignarán todas las personas.
 
    >[!IMPORTANT]
    >

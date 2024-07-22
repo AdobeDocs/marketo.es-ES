@@ -17,9 +17,9 @@ Marketo realiza un seguimiento del número de vistas de página y de las finaliz
 
 >[!PREREQUISITES]
 >
->[Crear dos o más páginas de aterrizaje](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
+>[Cree dos o más páginas de aterrizaje](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
 
-1. En Design Studio, haga clic en **Nuevo**. En la lista desplegable, seleccione **Nuevo grupo de prueba**.
+1. En Design Studio, haga clic en **Nuevo**. En el menú desplegable, seleccione **Nuevo grupo de prueba**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,8 +27,8 @@ Marketo realiza un seguimiento del número de vistas de página y de las finaliz
    >
    >Las otras formas de crear un grupo de prueba son las siguientes:
    >
-   >* Haga clic con el botón derecho en una página de aterrizaje del árbol y seleccione **Convertir a grupo de prueba**
-   >* Cree un grupo de prueba de página de aterrizaje en un programa seleccionando **Grupo de prueba AB** en el **Nuevo recurso local** menú
+   >* Haga clic con el botón derecho en una página de aterrizaje del árbol y seleccione **Convertir en grupo de prueba**
+   >* Cree un grupo de prueba de página de aterrizaje en un programa eligiendo **Grupo de prueba AB** en el menú **Nuevo recurso local**
 
 1. Introduzca un nombre y una descripción opcional. Seleccione las páginas de aterrizaje que desee probar y haga clic en **Crear**.
 
@@ -42,7 +42,7 @@ Marketo realiza un seguimiento del número de vistas de página y de las finaliz
 
    ![](assets/three-1.png)
 
-1. Haga clic en **Opciones del grupo de prueba** y seleccione. **Aprobar grupo de prueba**.
+1. Haga clic en el menú desplegable **Opciones del grupo de prueba** y seleccione **Aprobar grupo de prueba**.
 
    ![](assets/four-1.png)
 

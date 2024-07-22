@@ -19,14 +19,14 @@ Puede modificar la dirección URL de una página de aterrizaje. Esto puede ayuda
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. Haga clic en **Acciones de página de aterrizaje** desplegable, desplazarse a **Herramientas de URL** y seleccione **Configuración de URL**.
+1. Haga clic en el menú desplegable **Acciones de página de aterrizaje**, desplácese hasta **Herramientas de URL** y seleccione **Configuración de URL**.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Introduzca el **Nueva URL**, elija que se descarte o redirija la URL antigua y haga clic en **Guardar**.
+1. Escriba la **URL nueva**, elija que se descarte o se redirija la URL antigua y haga clic en **Guardar**.
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >Si decide mantener ambas direcciones URL, se creará automáticamente una regla de redirección. Más información sobre [Redirecciones de URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Si decide mantener ambas direcciones URL, se creará automáticamente una regla de redirección. Más información sobre [redirecciones de URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

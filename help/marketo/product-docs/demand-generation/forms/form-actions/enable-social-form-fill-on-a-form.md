@@ -19,7 +19,7 @@ Permita que sus visitantes rellenen el formulario mediante su red social. Obtend
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,7 +27,7 @@ Permita que sus visitantes rellenen el formulario mediante su red social. Obtend
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. En **Form** **Configuración** haga clic en **Configuración**.
+1. En **Formulario** **Configuración**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +37,13 @@ Permita que sus visitantes rellenen el formulario mediante su red social. Obtend
 
    >[!TIP]
    >
-   >Eche un vistazo a lo que [datos que Marketo capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si la gente usa los botones sociales.
+   >Eche un vistazo a los [datos que Marketo capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

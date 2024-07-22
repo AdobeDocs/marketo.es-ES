@@ -16,13 +16,13 @@ La configuración de Gestión de inicios de sesión permite a los administradore
 
 >[!NOTE]
 >
->De forma predeterminada, la opción Solo de Salesforce estará seleccionada para las instancias de acciones de perspectiva de ventas. Recomendamos esta configuración para que los usuarios puedan [inicio de sesión automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) de Salesforce.
+>De forma predeterminada, la opción Solo de Salesforce estará seleccionada para las instancias de acciones de perspectiva de ventas. Recomendamos esta configuración para que los usuarios puedan [iniciar sesión automáticamente](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) desde Salesforce.
 
 ## Actualizar configuración de administración de inicio de sesión {#update-login-management-settings}
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Para actualizar las preferencias de administración de inicio de sesión, siga estos pasos.
 
@@ -34,7 +34,7 @@ Para actualizar las preferencias de administración de inicio de sesión, siga e
 
    ![](assets/login-management-settings-2.png)
 
-1. Desplácese hacia abajo hasta la tarjeta Administración de inicio de sesión y seleccione la configuración deseada (en este ejemplo, elegimos Solo Salesforce). Clic **Guardar** cuando termine.
+1. Desplácese hacia abajo hasta la tarjeta Administración de inicio de sesión y seleccione la configuración deseada (en este ejemplo, elegimos Solo Salesforce). Haga clic en **Guardar** cuando termine.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Solo Salesforce significa que los usuarios solo pueden autenticarse para utiliza
 
 ### ¿Cómo activa un nuevo usuario en mi instancia su cuenta cuando se selecciona &quot;Solo Salesforce&quot;? {#activate-when-salesforce-only-is-selected}
 
-Al hacer clic en **Primeros pasos** botón en el correo electrónico de invitación, los nuevos usuarios se enviarán a una pantalla de activación de cuenta donde se les pedirá que conecten su instancia de Salesforce para activar su cuenta de acciones de Sales Insight.
+Al hacer clic en el botón **Introducción** del correo electrónico de invitación, los nuevos usuarios se enviarán a una pantalla de activación de cuenta, donde deberán conectar su instancia de Salesforce para activar su cuenta de acciones de información de ventas.
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,13 +54,13 @@ Al navegar a nuestra pantalla de inicio de sesión, los usuarios introducirán p
 
 >[!NOTE]
 >
->Esto solo afecta a los usuarios que navegan directamente a la pantalla de inicio de sesión. Los usuarios que accedan a Acciones desde Salesforce iniciarán sesión con [Inicio de sesión automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>Esto solo afecta a los usuarios que navegan directamente a la pantalla de inicio de sesión. Los usuarios que estén accediendo a Acciones desde Salesforce iniciarán sesión con [Inicio de sesión automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ![](assets/login-management-settings-5.png)
 
 ### ¿Cómo se gestiona la autenticación de usuarios para las acciones cuando un usuario accede a una función de acciones desde Salesforce y se selecciona &quot;Solo Salesforce&quot;? {#how-is-user-authentication-handled}
 
-Cuando un usuario hace clic en una de las acciones (llamada, correo electrónico, campaña, tareas, lista de campañas, etc.), utilizamos su autenticación SFDC para registrarla automáticamente en su cuenta de acciones de Sales Insight. A esto lo llamamos autenticación [Inicio de sesión automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+Cuando un usuario hace clic en una de las acciones (llamada, correo electrónico, campaña, tareas, lista de campañas, etc.), utilizamos su autenticación SFDC para registrarla automáticamente en su cuenta de acciones de Sales Insight. A esta autenticación la llamamos [inicio de sesión automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## Preguntas frecuentes sobre todos los métodos de inicio {#all-login-methods-faq}
 

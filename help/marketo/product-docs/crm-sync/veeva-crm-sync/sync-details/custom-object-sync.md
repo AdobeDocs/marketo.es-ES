@@ -18,7 +18,7 @@ Los objetos personalizados creados en su instancia de Veeva CRM también pueden 
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ Los objetos personalizados creados en su instancia de Veeva CRM también pueden 
 
 ## Habilitar objeto personalizado {#enable-custom-object}
 
-1. En Marketo, haga clic en **[!UICONTROL Administrador]**, entonces **[!UICONTROL Sincronización de objetos Veeva]**.
+1. En Marketo, haz clic en **[!UICONTROL Administrador]** y luego en **[!UICONTROL Sincronizar objetos de Veeva]**.
 
    ![](assets/custom-object-sync-1.png)
 
@@ -34,7 +34,7 @@ Los objetos personalizados creados en su instancia de Veeva CRM también pueden 
 
    ![](assets/custom-object-sync-2.png)
 
-1. Clic **[!UICONTROL Deshabilitar sincronización global]**.
+1. Haga clic en **[!UICONTROL Deshabilitar sincronización global]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Los objetos personalizados creados en su instancia de Veeva CRM también pueden 
    >
    >Los objetos personalizados deben tener nombres únicos. Marketo no admite dos objetos personalizados diferentes con el mismo nombre.
 
-1. Clic **[!UICONTROL Habilitar sincronización]**.
+1. Haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Clic **[!UICONTROL Habilitar sincronización]** otra vez.
+1. Vuelva a hacer clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Vuelva a la **[!UICONTROL Veeva]** pestaña.
+1. Vuelva a la ficha **[!UICONTROL Veeva]**.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Clic **[!UICONTROL Habilitar sincronización]**.
+1. Haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Para ver todos los objetos personalizados de Veeva, haga clic en **[!UICONTROL Administrador]** y **[!UICONTROL Sincronización de objetos Veeva]**.
+1. Para ver todos los objetos personalizados de Veeva, haz clic en **[!UICONTROL Administrador]** y **[!UICONTROL Sincronizar objetos de Veeva]**.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ Los objetos personalizados creados en su instancia de Veeva CRM también pueden 
 
 >[!MORELIKETHIS]
 >
->* [Sincronización de mensajes de clave de llamada y llamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>* [Sincronizando mensajes de clave de llamada y llamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [Agregar o quitar campo de objeto personalizado como restricciones de lista inteligente/Déclencheur](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

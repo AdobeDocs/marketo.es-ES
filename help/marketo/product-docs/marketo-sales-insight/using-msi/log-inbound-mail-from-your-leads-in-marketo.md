@@ -23,7 +23,7 @@ Puede registrar las respuestas de sus posibles clientes directamente en Outlook 
 
 >[!TIP]
 >
->También puede hacer clic con el botón derecho en un mensaje y hacer clic en **Iniciar Sesión Con Marketo**.
+>También puedes hacer clic con el botón derecho en un mensaje y hacer clic en **Iniciar sesión con Marketo**.
 
 Debería ver una confirmación.
 
@@ -43,5 +43,5 @@ Registre las respuestas del posible cliente para agregarlas a su historial en Ma
 
 >[!MORELIKETHIS]
 >
->* [Envío y seguimiento de un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Envío y seguimiento desde Outlook mediante una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar y rastrear un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar y rastrear desde Outlook usando una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

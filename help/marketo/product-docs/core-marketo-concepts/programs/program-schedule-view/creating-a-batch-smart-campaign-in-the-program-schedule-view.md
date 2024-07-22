@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creación de una campaña inteligente por lotes en la vista Programación de programas {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Puede crear nuevas campañas inteligentes y [volver a ejecutar los existentes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dentro del programa desde la vista programación del programa.
+Puede crear nuevas campañas inteligentes y [volver a ejecutar las existentes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dentro del programa desde la vista de programación del programa.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Puede crear nuevas campañas inteligentes y [volver a ejecutar los existentes](/
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Elija un nombre para su entrada, que se convertirá en su nueva campaña inteligente. Pulse el botón **[!UICONTROL Entrar/Volver]** para confirmar el nombre.
+1. Elija un nombre para su entrada, que se convertirá en su nueva campaña inteligente. Presione la tecla **[!UICONTROL Intro/Retorno]** para confirmar el nombre.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Haga clic en **[!UICONTROL Tipo]** y elija. **[!UICONTROL Campaña inteligente]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Tipo]** y elija **[!UICONTROL Campaña inteligente]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Puede crear nuevas campañas inteligentes y [volver a ejecutar los existentes](/
 
    ![](assets/four.png)
 
-1. Elija su [Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} reglas.
+1. Elige tus reglas de [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    ![](assets/changeprogramstatus-hands.png)
 

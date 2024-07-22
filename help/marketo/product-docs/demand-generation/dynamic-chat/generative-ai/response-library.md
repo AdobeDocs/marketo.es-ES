@@ -20,11 +20,11 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
    ![](assets/response-library-1.png)
 
-1. Haga clic en **[!UICONTROL Biblioteca de respuestas]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Biblioteca de respuestas]**.
 
    ![](assets/response-library-2.png)
 
-1. Clic **[!UICONTROL Añadir pregunta]**.
+1. Haga clic en **[!UICONTROL Agregar pregunta]**.
 
    ![](assets/response-library-3.png)
 
@@ -32,7 +32,7 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
    ![](assets/response-library-4.png)
 
-1. Haga clic en Actualizar y la nueva pregunta aparecerá en la parte superior con el estado &quot;[!UICONTROL Procesando].&quot;
+1. Haga clic en Actualizar y la nueva pregunta aparecerá en la parte superior con el estado &quot;[!UICONTROL Procesando]&quot;.
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ En un solo lugar, vea todas sus preguntas, su estado de aprobación y el nombre 
 
 >[!NOTE]
 >
->Todas las preguntas y respuestas generadas se asignan al &quot;[!UICONTROL necesitar revisión]Estado &quot; de forma predeterminada. Solo &quot;[!UICONTROL aprobado]Las preguntas y respuestas de están disponibles para los visitantes de chat.
+>A todas las preguntas y respuestas generadas se les asigna el estado &quot;[!UICONTROL necesita revisión]&quot; de manera predeterminada. Solo las preguntas y respuestas &quot;[!UICONTROL aprobadas]&quot; están disponibles para los visitantes de chat.
 
-1. En el **[!UICONTROL Biblioteca de respuestas]**, haga clic en la pregunta que desee.
+1. En la **[!UICONTROL biblioteca de respuestas]**, haga clic en la pregunta que desee.
 
    ![](assets/response-library-7.png)
 
-1. Realice las ediciones necesarias y haga clic en **[!UICONTROL Guardar]**.
+1. Realice las modificaciones que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/response-library-8.png)
 
@@ -85,7 +85,7 @@ A continuación, encontrará instrucciones sobre cómo realizar ediciones masiva
 </tbody>
 </table>
 
-1. Una vez que haya terminado de realizar las ediciones en el archivo, vuelva al **[!UICONTROL Biblioteca de respuestas]** y haga clic en **[!UICONTROL Cargar respuestas]**.
+1. Cuando haya terminado de realizar las modificaciones en el archivo, vuelva a la pestaña **[!UICONTROL Biblioteca de respuestas]** y haga clic en **[!UICONTROL Cargar respuestas]**.
 
    ![](assets/response-library-9.png)
 

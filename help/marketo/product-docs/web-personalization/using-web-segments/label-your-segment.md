@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Para utilizar una etiqueta existente, haga clic en **Establecer etiqueta**, marque una casilla y haga clic en **Aplicar**.
+1. Para usar una etiqueta existente, haz clic en **Establecer etiqueta**, marca una casilla y haz clic en **Aplicar**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. O bien, para crear una etiqueta nueva, haga clic en **Establecer etiqueta**, introduzca el nuevo nombre de la etiqueta y haga clic en **Crear nuevo**.
+1. O bien, para crear una etiqueta nueva, haga clic en **Establecer etiqueta**, escriba el nombre de la etiqueta nueva y haga clic en **Crear nueva**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

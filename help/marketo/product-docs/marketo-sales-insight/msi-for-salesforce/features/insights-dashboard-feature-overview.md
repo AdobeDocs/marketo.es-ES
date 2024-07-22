@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Obtenga más información acerca de las funciones disponibles en su panel de per
 * El usuario puede resaltar una semana específica para ver las actividades dentro de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Resumen y profundización de la participación**
+**Desglose y resumen de la participación**
 
 * Explorar en profundidad las tarjetas de actividad para momentos interesantes, correo electrónico y actividad web
 * Tarjeta de actividad Momentos interesantes: incluye la opción Suscribirse
@@ -71,7 +71,7 @@ Pestaña Evento:
 * Vista predeterminada: La semana actual está seleccionada
 * La función &quot;Mostrar actividad de cuenta&quot; no está disponible en los posibles clientes, ya que no forma parte de ninguna cuenta de Salesforce hasta que se convierte en contacto
 
-**Resumen y profundización de la participación**
+**Desglose y resumen de la participación**
 
 * Desglose de tarjetas de actividad para momentos interesantes, correo electrónico y actividad web
 * Tarjeta de actividad Momentos interesantes: incluye la opción Suscribirse
@@ -111,7 +111,7 @@ Pestaña Evento:
 * El usuario puede resaltar una semana específica para ver las actividades dentro de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Resumen y desglose de la participación**
+**Desglose y resumen de la participación**
 
 * Desglose de tarjetas de actividad para momentos interesantes, correo electrónico y actividad web, incluido el nombre del contacto
 * Tarjeta de actividad Momentos interesantes: incluye la opción Suscribirse
@@ -147,7 +147,7 @@ Pestaña Evento:
 * El usuario puede resaltar una semana específica para ver las actividades dentro de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Resumen y desglose de la participación**
+**Desglose y resumen de la participación**
 
 * Desglose de tarjetas de actividad para momentos interesantes, correo electrónico y actividad web, incluido el nombre del contacto
 * Tarjeta de actividad Momentos interesantes: incluye la opción Suscribirse
@@ -156,7 +156,7 @@ Pestaña Evento:
 * La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono y utilizarlo como filtro para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas campañas y eventos de correo electrónico** Pestaña Campañas de correo electrónico:
+**Próximas campañas y eventos de correo electrónico** pestaña Campañas de correo electrónico:
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
 * No específico del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posible cliente, contacto, cuenta y oportunidad será la misma

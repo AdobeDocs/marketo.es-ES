@@ -26,10 +26,10 @@ En este artículo, encontrará información sobre el comportamiento esperado aso
    * Filtros predictivos: [!DNL Sky/Classic]
    * Registros proyectados - [!DNL Sky/Classic]
    * Predicciones de probabilidad de nivel de posible cliente - [!DNL Sky/Classic]
-   * Objetivos y seguimiento: [!DNL Sky] solamente
-   * Información y recomendaciones: [!DNL Sky] solamente
-* La activación inicial tarda **24 a 48 horas** para que todos los procesos se completen después de habilitar PA. Verá todas las funcionalidades de Audiencias predictivas y Filtros predictivos en la interfaz, pero estas funciones pueden tardar hasta 24 horas en empezar a funcionar.
-* **Las predicciones solo se generarán para las nuevas campañas que se creen después de activar la función.**
+   * Seguimiento y objetivos: solo [!DNL Sky]
+   * Información y recomendaciones - [!DNL Sky] solamente
+* La activación inicial tarda de **24 a 48 horas** en completarse para todos los procesos una vez habilitada la PA. Verá todas las funcionalidades de Audiencias predictivas y Filtros predictivos en la interfaz, pero estas funciones pueden tardar hasta 24 horas en empezar a funcionar.
+* **Solo se generarán predicciones para las nuevas campañas que se creen después de activar la característica.**
 
 **Hay algunas consideraciones adicionales específicas de los filtros predictivos**:
 
@@ -38,8 +38,8 @@ En este artículo, encontrará información sobre el comportamiento esperado aso
 * Los filtros predictivos no están disponibles para campañas de déclencheur.
 * Para ejecutar una campaña inteligente, es necesario utilizar filtros de probabilidad junto con otros filtros normales.
 * La función Reglas guardadas no está disponible para su uso en campañas que contienen filtros predictivos.
-* Puede utilizar **hasta 5** filtros predictivos en una lista inteligente.
-* Los filtros predictivos pueden procesar una **máximo de 1 millón de posibles clientes cualificados**.
+* Puede usar **hasta 5** filtros predictivos en una lista inteligente.
+* Los filtros predictivos pueden procesar un **máximo de 1 millón de posibles clientes calificados**.
 * Puede tener **hasta 50 programas activos** con filtros predictivos. Un programa activo es cualquier programa que utiliza filtros predictivos y que se ha programado al menos una vez.
 
 ## ¿Cuándo no están disponibles los registros proyectados?

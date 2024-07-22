@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Añadir la pestaña Marketo a Salesforce {#add-marketo-tab-to-salesforce}
 
-1. En Salesforce, haga clic **+** y haga clic en **Personalizar mis fichas**.
+1. En Salesforce, haga clic en **+** y luego en **Personalizar mis fichas**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Seleccione Marketo en la lista de la izquierda. Luego haga clic en **Añadir** para agregarlo al **Fichas seleccionadas**.
+1. Seleccione Marketo en la lista de la izquierda. A continuación, haga clic en **Agregar** para agregarlo a **las fichas seleccionadas**.
 
    >[!TIP]
    >
-   >Utilice el **Arriba** y **Abajo** flecha para reordenar las pestañas.
+   >Use las flechas **Arriba** y **Abajo** para reordenar las fichas.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

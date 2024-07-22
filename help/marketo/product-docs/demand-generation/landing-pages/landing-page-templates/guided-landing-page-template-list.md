@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lista de plantillas de página de aterrizaje guiada {#guided-landing-page-template-list}
 
-Examine nuestra colección de plantillas de ejemplo para utilizarlas con [Editor de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y se basa en el marco de trabajo del Bootstrap.
+Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y se basa en el marco de trabajo del Bootstrap.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Para importar una plantilla en Marketo:
 
 1. Haga clic en el nombre de la plantilla para verla más grande.
 1. Descargue la plantilla elegida.
-1. En Marketo, vaya a **Estudio de diseño.**
-1. Clic **Páginas de aterrizaje** en el árbol izquierdo, seleccione **Plantillas.**
+1. En Marketo, vaya a **Design Studio.**
+1. Haga clic en **Páginas de destino** en el árbol izquierdo y, a continuación, seleccione **Plantillas.**
 
 1. En la barra de menús, haga clic en **Importar plantilla.**
-1. Seleccione el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guiado**).
+1. Elija el archivo descargado, escriba un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guided**).
 
 <table>
 <tr>

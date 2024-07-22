@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 20%
+ht-degree: 32%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 20%
 
 >[!PREREQUISITES]
 >
->Aprenda a utilizar [Etapa de flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Aprenda a utilizar el [paso de flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponibles {#available-tokens}
 
-Desproteger [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
+Consulta [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puedes poner en un momento interesante.
 
 ## Tokens de déclencheur {#trigger-tokens}
 
 En función del déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
 
-* `{{trigger.Trigger Name}}` que siempre es el déclencheur en sí. Por ejemplo: hace clic en Vínculo en el correo electrónico.
+* `{{trigger.Trigger Name}}`, que siempre es el propio déclencheur real. Por ejemplo: hace clic en Vínculo en el correo electrónico.
 * `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Clicks Link on Webpage es la propia URL, el asunto de Salesforce déclencheur, etc.
 * Hay disponibles déclencheur adicionales basados en restricciones, que se enumeran a continuación.
 
@@ -169,7 +169,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Reenviar al email de un amigo</td> 
+   <td>Email de Enviar a un amigo enviado</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -186,7 +186,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
-   <td>Se cancela la suscripción a emails</td> 
+   <td>Se cancela la suscripción a email</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -379,7 +379,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
   <tr> 
-   <td>La persona está eliminada de SFDC</td> 
+   <td>La persona está eliminada de SFDC.</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -396,7 +396,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
   <tr> 
-   <td>La persona está sincronizada con SFDC</td> 
+   <td>La persona está sincronizada con SFDC.</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -657,7 +657,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Se añade a la campaña de ventas</td> 
+   <td>Se agrega a la campaña de ventas</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -692,7 +692,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Llamada de ventas recibida</td> 
+   <td>Recibió llamada de ventas</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -711,7 +711,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
  </tbody> 
 </table>
 
-### Tokens de Déclencheur de Dynamic Chat {#dynamic-chat-trigger-tokens}
+### Tokens de activación de Dynamic Chat {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 </thead>
 <tbody>
   <tr>
-    <td>Interacción con un diálogo</td>
+    <td>Participó en un diálogo</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -762,7 +762,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Interactúe con un formulario de conversación</td>
+    <td>Participó en un formulario conversacional</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>Interacción con un agente en el cuadro de diálogo</td>
+    <td>Interactuó con un agente en el diálogo</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -806,7 +806,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Interacción con un agente en forma de conversación</td>
+    <td>Interactuó con un agente en el formulario conversacional</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Reunión programada en el cuadro de diálogo</td>
+    <td>Programó una reunión en el diálogo</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -850,7 +850,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Reunión programada en forma de conversación</td>
+    <td>Reunión programada en el formulario conversacional</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Objetivo de diálogo alcanzado</td>
+    <td>Alcanzó el objetivo del diálogo</td>
     <td></td>
     <td></td>
     <td></td>
@@ -894,7 +894,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Objetivo del formulario de conversación alcanzado</td>
+    <td>Objetivo de formulario conversacional alcanzado</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Interactuó con el documento en el diálogo</td>
+    <td>Interactuó con un documento en el diálogo</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,7 +938,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
     <td></td>
   </tr>
   <tr>
-    <td>Interactuó con el documento en forma conversacional</td>
+    <td>Interactuó con un documento en el formulario conversacional</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1034,7 +1034,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Vínculo Clics en la página web</td> 
+   <td>Hace clic en un vínculo de una página web</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -1055,9 +1055,9 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 
 >[!NOTE]
 >
->Si no tiene un cheque ![(marca)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene una marca de verificación ![(marca de verificación)](assets/check.png), devolverá una cadena vacía (nada) en el momento interesante.
 
-&#42;El Déclencheur **Página web de visitas** tiene algunos tokens adicionales:
+&#42;El Déclencheur **Visita la página web** tiene algunos tokens adicionales:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

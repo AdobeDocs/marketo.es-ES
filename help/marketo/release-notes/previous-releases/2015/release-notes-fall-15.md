@@ -6,8 +6,8 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
-ht-degree: 0%
+source-wordcount: '999'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Las siguientes funciones se incluyen en la versión de otoño de 1515. Compruebe
 
 [Suscripción a una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-La suscripción a una lista inteligente permite a los especialistas en marketing exportar una lista inteligente y enviarla por correo electrónico a las partes interesadas que no utilizan Marketo, por ejemplo, los equipos de ventas o telemarketing.
+La suscripción a listas inteligentes permite a los especialistas en marketing exportar una lista inteligente y enviarla por correo electrónico a las partes interesadas que no utilizan Marketo, por ejemplo, los equipos de ventas o telemarketing.
 
 La exportación puede programarse diariamente, semanalmente o mensualmente, puede tener una fecha de entrega final y puede personalizarse para compartir un número limitado de columnas.
 
@@ -45,7 +45,7 @@ Cree fácilmente objetos personalizados desde la IU de administración. Actualme
 
 [Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nos complace anunciar el lanzamiento de una actualización de nuestra extensión Google Mail Sales Insight. Visualícelo en el  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Nos complace anunciar el lanzamiento de una actualización de nuestra extensión Google Mail Sales Insight. Visualizarlo en [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Esta actualización incluye muchas nuevas funciones y funcionalidades:
 
@@ -61,11 +61,11 @@ Esta actualización incluye muchas nuevas funciones y funcionalidades:
 * [Enviar muestra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Vista previa](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalización sencilla de notificaciones push con [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personalice fácilmente las notificaciones push con [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-También puede [previsualización](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o envíe un [muestra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) una notificación push antes de implementarla en los clientes.
+También puede [obtener una vista previa](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o enviar una notificación push de [ejemplo](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) antes de implementarla a los clientes.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -86,7 +86,7 @@ Las estadísticas de los correos electrónicos enviados a través de campañas i
 
 ## RTP: análisis de contenido y Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análisis de contenido](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) y RECOMMENDATIONS
+[Análisis de contenido](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) y Recommendations
 
 El análisis de contenido de RTP le muestra el rendimiento de sus activos de contenido web desde visitas web regulares, así como las visitas generadas desde el motor de recomendación de contenido de RTP.
 
@@ -94,10 +94,10 @@ El análisis de contenido de RTP le muestra el rendimiento de sus activos de con
 * Aumente su consumo de contenido habilitando contenido en el motor de contenido predictivo de RTP para recomendar automáticamente el mejor contenido a los visitantes adecuados
 * Desglóselo en cada recurso de contenido para ver métricas, gráficos y rendimiento más detallados
 
-La página Recursos de RTP ahora se divide en Análisis de contenido y Recommendations de contenido.
+La página de Assets de RTP ahora se divide en Análisis de contenido y Recommendations de contenido.
 
-* **Análisis de contenido:** Muestra las vistas y los posibles clientes directos de todo el contenido web descubierto y definido, lo que le ayuda a analizar su contenido con mejor rendimiento
-* **Recommendations de contenido**: Muestra impresiones y clics a partir del contenido recomendado por RTP y la atribución de posibles clientes asociada. También puede editar y habilitar recomendaciones de contenido desde esta página para [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) y [medios enriquecidos](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recomendaciones.
+* **Análisis de contenido:** Muestra las vistas y los posibles clientes de todo el contenido web detectado y definido, lo que le ayuda a analizar su contenido con mejor rendimiento
+* **Recommendations de contenido**: muestra impresiones y clics del contenido recomendado por RTP y la atribución de posibles clientes asociada. También puede editar y habilitar recomendaciones de contenido desde esta página para las recomendaciones [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) y [medios enriquecidos](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Todos los datos de posibles clientes directos en estas dos páginas se han actualizado de forma retrospectiva desde el inicio del año (1 de enero de 2015).
 
@@ -111,7 +111,7 @@ La clonación de una campaña RTP hace que la creación de campañas web más pe
 
 ## Mejoras del editor de texto enriquecido {#rich-text-editor-improvements}
 
-Se están realizando varias mejoras en el editor de texto enriquecido. Después de publicar el editor actualizado en julio, recibimos buenos comentarios y pudimos trabajar con estos cambios en esta actualización. Hay mucho más por venir en los próximos meses. Esta es una lista de las novedades del cuarto trimestre:
+Se están realizando varias mejoras en el editor de texto enriquecido. Después de publicar el editor actualizado en julio, recibimos buenos comentarios y pudimos trabajar estos cambios en esta actualización. Hay mucho más por venir en los próximos meses. Esta es una lista de las novedades del cuarto trimestre:
 
 * VML ahora se admite en el código de HTML:
 

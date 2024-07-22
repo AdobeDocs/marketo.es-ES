@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Prioridad de orden de segmentación {#segmentation-order-priority}
 
-Es importante entender cómo **pedido** establece la prioridad para la evaluación de sus recursos en una segmentación.
+Es importante comprender cómo **order** establece la prioridad para la evaluación de sus recursos en una segmentación.
 
 >[!PREREQUISITES]
 >
->[Creación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Definir reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definir reglas de segmentos ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >Solo puede editar una segmentación en modo de borrador.
 
-1. Vaya a la **Base de datos**.
+1. Ir a **Base de datos**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Seleccione su **Segmentación**. Entrada **Acciones de segmentación**, haga clic en **Editar segmentos**.
+1. Seleccione su **segmentación**. En **Acciones de segmentación**, haga clic en **Editar segmentos**.
 
    ![](assets/segmentation-order-priority-2.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Hacer que una campaña esté visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Hacer que una campaña sea visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Adición de particulares a una campaña {#add-individuals-to-a-campaign}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Para añadir una persona a una Marketo Campaign desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en **People** Ficha.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Clic **Añadir seleccionados a la campaña**.
+1. Haga clic en **Agregar selección a campaña**.
 
    ![](assets/four-3.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Clic **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/five-2.png)
 
-1. Clic **Campaña de marketing**.
+1. Haga clic en **Campaña de marketing**.
 
    ![](assets/six-1.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Se muestran los contactos que cumplen los requisitos. Clic **Inicio** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
 
    ![](assets/nine.png)
 
 ## Añadir un grupo a una campaña {#add-a-group-to-a-campaign}
 
-1. Haga clic en **People** Ficha.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -73,15 +73,15 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Clic **Añadir un grupo a Campaign**.
+1. Haga clic en **Agregar grupo a Campaign**.
 
    ![](assets/twelve.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Clic **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/thirteen.png)
 
-1. Seleccionar **Campaña de marketing**.
+1. Seleccione **Campaña de marketing**.
 
    ![](assets/six-1.png)
 
@@ -101,6 +101,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Se muestran los contactos que cumplen los requisitos. Clic **Inicio** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
 
    ![](assets/nine.png)

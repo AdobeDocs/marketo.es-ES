@@ -19,17 +19,17 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Busque el campo, selecciónelo y, a continuación, en **[!UICONTROL Acciones de campo]** click **[!UICONTROL Ocultar campo]**.
+1. Busque el campo, selecciónelo y, a continuación, en **[!UICONTROL Acciones de campo]**, haga clic en **[!UICONTROL Ocultar campo]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
    >* No puede ocultar los campos estándar (del sistema).
    >* No se pueden ocultar los campos de información de oportunidad.
 
-1. Clic **[!UICONTROL Hide]** para confirmar.
+1. Haga clic en **[!UICONTROL Ocultar]** para confirmar.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
 ## Mostrar un campo {#unhide-a-field}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Busque y seleccione el campo. En el [!UICONTROL Acciones de campo] , haga clic en **[!UICONTROL Mostrar campo]**.
+1. Busque y seleccione el campo. En la lista desplegable [!UICONTROL Acciones de campo], haga clic en **[!UICONTROL Mostrar campo]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

@@ -17,7 +17,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
 
 >[!PREREQUISITES]
 >
->El contenido debe ser [aprobado para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
 
 1. En la página Contenido predictivo, haga clic en un título para abrir el editor.
 
@@ -39,7 +39,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    >
    >Si ha cambiado la etiqueta del botón, se actualizará cuando guarde los cambios o previsualice la imagen.
 
-1. Para añadir o editar la dirección URL de la imagen, haga clic en **Editar imagen**.
+1. Para agregar o editar la URL de la imagen, haz clic en **Editar imagen**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    >
    >Para garantizar la mejor calidad, la imagen debe tener 400 x 400 píxeles o menos.
 
-1. Inserte la dirección URL de la imagen y haga clic en **Añadir**.
+1. Inserte la URL de la imagen y haga clic en **Agregar**.
 
    ![](assets/five.png)
 
-1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic en el cuadro de recorte y arrástrelo para aislar el área de imagen que desee utilizar. Clic **Previsualizar** cuando termine.
+1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic en el cuadro de recorte y arrástrelo para aislar el área de imagen que desee utilizar. Haga clic en **Vista previa** cuando haya terminado.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Si lo desea, haga clic en **Categorías** y añadir categorías al contenido. Las opciones proceden del [categorías que ya has configurado](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Si lo desea, haga clic en el campo **Categorías** y agregue categorías al contenido. Las opciones proceden de [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
 
    ![](assets/nine.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >En Marketo Email Editor v2.0, también puede [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que utiliza mientras habilita el contenido.
+   >En Marketo Email Editor v2.0, también puedes [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que usas mientras habilitas el contenido.

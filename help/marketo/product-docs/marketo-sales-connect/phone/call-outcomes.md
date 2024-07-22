@@ -5,7 +5,7 @@ exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Permita que sus equipos de ventas seleccionen los resultados de las llamadas al 
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
 ## Habilitar resultados de llamadas {#enable-call-outcomes}
 
@@ -28,7 +28,7 @@ Permita que sus equipos de ventas seleccionen los resultados de las llamadas al 
 
    ![](assets/call-outcomes-2.png)
 
-1. Seleccionar **Habilitar resultados de llamadas**.
+1. Seleccione **Habilitar resultados de llamadas**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -50,7 +50,7 @@ Permita que sus equipos de ventas seleccionen los resultados de las llamadas al 
 
    ![](assets/call-outcomes-6.png)
 
-1. Clic **Administrar resultados de llamadas**.
+1. Haga clic en **Administrar resultados de llamadas**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Permita que sus equipos de ventas seleccionen los resultados de las llamadas al 
 
    ![](assets/call-outcomes-8.png)
 
-1. Haga clic en el menú desplegable Answered y elija el tipo de resultado (en este ejemplo, elegimos Answered). Luego haga clic en **Añadir**.
+1. Haga clic en el menú desplegable Answered y elija el tipo de resultado (en este ejemplo, elegimos Answered). Luego haga clic en **Agregar**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Una vez habilitados los resultados de la llamada. Los usuarios pueden selecciona
 
    ![](assets/call-outcomes-10.png)
 
-1. Introduzca la información de la llamada en el marcador y haga clic en **Llamada**.
+1. Escriba la información de la llamada en el marcador y haga clic en **Llamar**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -89,4 +89,4 @@ Una vez habilitados los resultados de la llamada. Los usuarios pueden selecciona
 >[!MORELIKETHIS]
 >
 >* [Registrar motivos de llamada y resultados de llamada a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Razones de llamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Motivos de llamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

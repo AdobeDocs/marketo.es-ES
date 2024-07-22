@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## ¿Cuál es la diferencia entre el contenido y un archivo adjunto? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **archivo adjunto** es igual que un archivo adjunto que utilizaría en su cliente de correo electrónico habitual.
+Un **archivo adjunto** es similar a un archivo adjunto que usaría en su cliente de correo electrónico normal.
 
 **Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) que le gustaría que Sales Connect le realizara un seguimiento.
 

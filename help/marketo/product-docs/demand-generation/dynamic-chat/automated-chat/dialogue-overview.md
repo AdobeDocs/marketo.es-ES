@@ -16,13 +16,13 @@ Los cuadros de diálogo son conversaciones de chat individuales. En cada Diálog
 
 ## Criterios de audiencia {#audience-criteria}
 
-El [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} sección de un Diálogo es donde definirá dónde y a quién se mostrará su conversación de chat
+La sección [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} de un cuadro de diálogo es donde definirá dónde y a quién se mostrará su conversación de chat
 
 ![](assets/dialogue-overview-1.png)
 
 ## Diseñador de flujo {#stream-designer}
 
-El [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} de un cuadro de diálogo es donde diseñará la conversación que desea tener con los visitantes del sitio web.
+La sección [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} de un Diálogo es donde diseñarás la conversación que deseas tener con los visitantes de tu sitio web.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -39,11 +39,11 @@ En la pestaña Informes podrá ver las métricas relacionadas con el rendimiento
 </td>
  </tr>
  <tr>
-  <td><strong>Interacciones</strong></td>
+  <td><strong>Comprometido</strong></td>
   <td>Aumenta cuando un visitante interactúa con al menos una tarjeta en un cuadro de diálogo (por ejemplo, Pregunta, Captura de información, etc.)</td>
  </tr>
  <tr>
-  <td><strong>Finalizaciones</strong></td>
+  <td><strong>Completado</strong></td>
   <td>Aumenta cada vez que un visitante llega al final de una rama en un Diálogo.</td>
  </tr>
  <tr>
@@ -64,10 +64,10 @@ En la pestaña Informes podrá ver las métricas relacionadas con el rendimiento
 
 Puede desactivar (y volver a activar) todos los cuadros de diálogo publicados al mismo tiempo.
 
-1. En Dynamic Chat, haga clic en **[!UICONTROL Configuración]** pestaña.
+1. En el Dynamic Chat, haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Alternar el **[!UICONTROL Chat activado]** cambie a off para deshabilitar (y vuelva a activar para volver a habilitar) todos los cuadros de diálogo.
+1. Cambie el conmutador **[!UICONTROL Chat habilitado]** a Desactivado para deshabilitar (y vuelva a activarlo para volver a habilitar) todos los cuadros de diálogo.
 
    ![](assets/dialogue-overview-5.png)

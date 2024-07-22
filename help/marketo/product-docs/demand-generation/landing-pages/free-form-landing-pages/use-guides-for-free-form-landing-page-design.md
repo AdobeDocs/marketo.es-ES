@@ -17,13 +17,13 @@ Al diseñar una página de aterrizaje de forma libre, puede utilizar guías para
 
 >[!NOTE]
 >
->Las guías solo están disponibles en la **De Forma Libre** editor de páginas de aterrizaje.
+>Las guías solo están disponibles en el editor de páginas de aterrizaje **Free-form**.
 
-1. Seleccione una **Página de aterrizaje** y haga clic en **Editar borrador**.
+1. Seleccione una **página de aterrizaje** y haga clic en **Editar borrador**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Clic **Acciones de página de aterrizaje** y seleccione **Mostrar guías**.
+1. Haga clic en **Acciones de página de aterrizaje** y seleccione **Mostrar guías**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

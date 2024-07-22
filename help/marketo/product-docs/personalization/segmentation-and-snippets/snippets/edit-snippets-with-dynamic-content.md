@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Crear un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Utilice la segmentación en fragmentos de código para administrar fácilmente el contenido dinámico de sus correos electrónicos y páginas de aterrizaje.
 
 ## Añadir segmentación {#add-segmentation}
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Haga clic en su **Fragmento** y luego **Editar borrador**.
+1. Haz clic en tu **fragmento** y luego en **Editar borrador**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Haga clic en **Segmentar por**.
+1. Haz clic en **Segmentar por**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Entrar **Segmentación** y haga clic en **Guardar**.
+1. Ingresa **Segmentación** y haz clic en **Guardar**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Aplicar contenido dinámico {#apply-dynamic-content}
 
-1. Haga clic en un **Segmento** y luego editar contenido. Repita el proceso para cada segmento
+1. Haga clic en un **segmento** y luego edite el contenido. Repita el proceso para cada segmento
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -52,5 +52,5 @@ Utilice la segmentación en fragmentos de código para administrar fácilmente e
 
 >[!MORELIKETHIS]
 >
->* [Añadir un fragmento de código a un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Añadir un fragmento a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+>* [Agregar un fragmento de código a un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+>* [Agregar un fragmento a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

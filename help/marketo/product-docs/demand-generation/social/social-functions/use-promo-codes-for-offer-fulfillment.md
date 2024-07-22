@@ -17,7 +17,7 @@ Al crear una oferta de referencia o un sorteo, puede enviar un código de promoc
 
 ## Cargar códigos promocionales {#upload-promo-codes}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,11 +25,11 @@ Al crear una oferta de referencia o un sorteo, puede enviar un código de promoc
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. En el editor de ofertas de recomendación, vaya a **Configuración de aplicación** y luego **Detalles de oferta**.
+1. En el editor de ofertas de reenvío, ve a **Configuración de la aplicación** y luego a **Detalles de la oferta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. En Correos electrónicos, seleccione **Usar códigos promocionales** y, en Cargar códigos, haga clic en **Examinar** para seleccionar el archivo de códigos promocionales de su sistema.
+1. En Correos electrónicos, selecciona **Usar códigos promocionales** y, en Cargar códigos, haz clic en **Examinar** para seleccionar el archivo de códigos promocionales de tu sistema.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +51,16 @@ Una vez que los participantes empiecen a obtener la recompensa de su oferta, pue
 
 >[!NOTE]
 >
->Solo los usuarios de Marketo con _Premios de acceso_ tienen acceso a esta información. Consulte  [Administración de roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Solo los usuarios de Marketo con el permiso _Access Awards_ tienen acceso a esta información. Consulte [Administración de roles y permisos de usuarios](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione su oferta de referencia o su Sorteo y haga clic en el botón **Participantes** pestaña.
+1. Seleccione su oferta de referencia o sorteo y haga clic en la ficha **Participantes**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Aquí debería ver algunas entradas. Haga clic en el número en la **Códigos promocionales** para ver los códigos promocionales enviados a ese participante y cuándo.
+1. Aquí debería ver algunas entradas. Haz clic en el número de la columna **Códigos promocionales** para ver los códigos promocionales que se enviaron a ese participante y cuándo.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

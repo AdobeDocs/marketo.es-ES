@@ -19,7 +19,7 @@ Es posible que haya visto la opción &quot;Usar filtros&quot; al crear listas in
 
 >[!NOTE]
 >
->El cambio de la lógica de reglas de listas inteligentes solo se aplica a filtros, _no_ déclencheur.
+>El cambio de la lógica de reglas de listas inteligentes solo se aplica a los déclencheur, _no_.
 
 Los déclencheur siempre se evalúan como O incluso si el ajuste anterior está establecido en TODO. A continuación se muestra un ejemplo:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Por lo tanto, si una persona rellena el formulario _o_ visita la página, la campaña evaluará a esa persona en función de _todo_ o _cualquiera_ de los filtros siguientes, según la configuración utilizada.
+Por lo tanto, si una persona rellena el formulario _o_ visita la página, la campaña evaluará a esa persona en función de _todos_ o _cualquiera_ de los filtros subsiguientes, según la configuración utilizada.
 
 >[!MORELIKETHIS]
 >
->[Uso de la lógica de regla de listas inteligentes avanzadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>[Usando lógica avanzada de reglas de listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

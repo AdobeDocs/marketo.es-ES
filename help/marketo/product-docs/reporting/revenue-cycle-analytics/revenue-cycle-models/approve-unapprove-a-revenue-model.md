@@ -17,11 +17,11 @@ Solo puede tener un modelo aprobado en un momento dado.
 
 >[!CAUTION]
 >
->[Las fases individuales deben aprobarse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) y las personas agregadas antes de aprobar un modelo completo.
+>[Se deben aprobar las fases individuales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) y se deben agregar personas antes de aprobar un modelo completo.
 
 ## Aprobar {#approve}
 
-1. Vaya a la **Analytics** área.
+1. Vaya al área de **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Solo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Desde el **Acciones de modelo** menú, elija **Aprobar modelo**.
+1. En el menú **Acciones de modelo**, elija **Aprobar modelo**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Aparecerá un cuadro de diálogo para confirmar su elección. Clic **Aprobar**.
+1. Aparecerá un cuadro de diálogo para confirmar su elección. Haga clic en **Aprobar**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Solo puede tener un modelo aprobado en un momento dado.
 >
 >Si desaprueba el modelo, se quitarán todas las personas y se eliminará su historial en el modelo.
 
-1. Vaya a la **Analytics** área.
+1. Vaya al área de **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +53,7 @@ Solo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Haga clic en **Acciones de modelo** y elija **Desaprobar modelo**.
+1. Haga clic en el menú **Acciones de modelo** y elija **Desaprobar modelo**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 

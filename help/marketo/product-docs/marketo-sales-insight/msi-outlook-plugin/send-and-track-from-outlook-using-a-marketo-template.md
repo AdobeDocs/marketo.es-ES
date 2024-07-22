@@ -23,11 +23,11 @@ Si su equipo de marketing ha puesto plantillas a su disposición, así es como p
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Seleccione la plantilla que desee, previsualícela y haga clic en **OK**.
+1. Seleccione la plantilla que desee, previsualícela y haga clic en **Aceptar**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Realice todas las ediciones necesarias y haga clic en **Envío y seguimiento**.
+1. Realice todas las ediciones y luego haga clic en **Enviar y rastrear**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ Si su equipo de marketing ha puesto plantillas a su disposición, así es como p
    >
    >No se admiten tokens con el complemento. Elimine los que puedan estar en la plantilla.
 
-1. Compruebe la vista previa, asegúrese de que tenga buen aspecto y haga clic en **Enviar**.
+1. Consulta la vista previa, asegúrate de que tenga buen aspecto y luego haz clic en **Enviar**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
@@ -43,4 +43,4 @@ Si su equipo de marketing ha puesto plantillas a su disposición, así es como p
 
 >[!MORELIKETHIS]
 >
->[Registrar correo entrante de sus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar correo entrante de tus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

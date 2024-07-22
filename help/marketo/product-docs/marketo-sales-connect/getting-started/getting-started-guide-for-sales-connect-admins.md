@@ -16,17 +16,17 @@ En este documento se explican los pasos iniciales para configurar la nueva insta
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
 ## Acceso a su nueva cuenta de Marketo Sales Connect {#accessing-your-new-marketo-sales-connect-account}
 
-Si ha adquirido Marketo Sales Connect, el acceso a su instancia se proporcionará desde la sección de administración de Marketo. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) para ver las instrucciones sobre cómo un administrador de Marketo puede proporcionar acceso a la nueva instancia.
+Si ha adquirido Marketo Sales Connect, el acceso a su instancia se proporcionará desde la sección de administración de Marketo. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) para ver las instrucciones sobre cómo un administrador de Marketo puede proporcionar acceso a su nueva instancia.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Invitar y administrar usuarios {#inviting-and-managing-users}
 
-Una vez que haya aprovisionado su cuenta de Marketo Sales Connect desde Marketo y haya invitado a su primer usuario administrador, ese usuario administrador puede invitar a usuarios adicionales desde la página de administración de usuarios de Marketo Sales Connect. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para ver cómo invitar a usuarios desde la página administración de usuarios.
+Una vez que haya aprovisionado su cuenta de Marketo Sales Connect desde Marketo y haya invitado a su primer usuario administrador, ese usuario administrador puede invitar a usuarios adicionales desde la página de administración de usuarios de Marketo Sales Connect. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para ver cómo invitar a usuarios desde la página de administración de usuarios.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -34,7 +34,7 @@ Una vez que haya aprovisionado su cuenta de Marketo Sales Connect desde Marketo 
 
 Todos los usuarios deberán conectarse individualmente a Salesforce para habilitar las actividades de registro de ventas en Salesforce, como correos electrónicos, llamadas y tareas. Sin embargo, cuando se conecte a Salesforce como administrador, tendrá la oportunidad de configurar las opciones de registro de actividad para todo su equipo, de modo que la configuración de registro global se aplique a todos los usuarios de Sales Connect.
 
-Para conectar la instancia de Sales Connect a la instancia de Salesforce, como administrador o no administrador, siga los pasos que se indican en [este artículo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+Para conectar su instancia de Sales Connect a su instancia de Salesforce, como administrador o no administrador, siga los pasos de [este artículo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -43,7 +43,7 @@ Para conectar la instancia de Sales Connect a la instancia de Salesforce, como a
 La conexión a Marketo permitirá a los vendedores aprovechar el poder de la automatización de marketing y las perspectivas de marketing en sus esfuerzos de prospección. Las siguientes funciones requieren que configure una integración con Marketo.
 
 * Compartir [campañas de marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) con vendedores
-* Push [Momentos interesantes](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) a la fuente en directo
+* Insertar [momentos interesantes](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) en el canal en directo
 * Registro de actividades de ventas en Marketo
 
 Para obtener más información sobre cómo conectarse a Marketo y conceder a los usuarios de ventas acceso a la conexión, haga clic aquí.
@@ -52,7 +52,7 @@ Para obtener más información sobre cómo conectarse a Marketo y conceder a los
 
 Una parte de garantizar que las ventas estén preparadas para el éxito significa tener las capacidades adecuadas en su espacio de trabajo principal. El paquete de personalización de Sales Connect permite acceder a las funciones de participación y a los atributos clave de la actividad de ventas desde Salesforce.
 
-Para obtener más información sobre la instalación de la personalización de Sales Connect [haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+Para obtener más información sobre cómo instalar la personalización de Sales Connect [haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 ## Pruebas en espacio aislado {#testing-in-sandbox}
 

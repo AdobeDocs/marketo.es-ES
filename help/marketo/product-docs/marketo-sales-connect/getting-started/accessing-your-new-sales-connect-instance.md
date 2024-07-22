@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios.**
+>Se requieren **permisos de administración.**
 
 Una vez adquirido Sales Connect, aparecerá una nueva página de integración en la instancia de Marketo. Utilice esta página para invitar a su primer usuario y aprovisionar su instancia de Sales Connect.
 
@@ -22,7 +22,7 @@ Una vez adquirido Sales Connect, aparecerá una nueva página de integración en
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Clic **Conexión de ventas**.
+1. Haga clic en **Conexión de ventas**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
@@ -34,4 +34,4 @@ El usuario recibirá un correo electrónico con los pasos para obtener acceso a 
 
 >[!NOTE]
 >
->Los usuarios adicionales **no** se añadirán a través de Marketo y, en su lugar, a través de la página User Management de Sales Connect. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para obtener más información sobre cómo agregar usuarios adicionales.
+>Se agregarán **no** usuarios adicionales a través de Marketo y, en su lugar, se agregarán a través de la página Administración de usuarios de Sales Connect. [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para obtener más información sobre cómo agregar usuarios adicionales.

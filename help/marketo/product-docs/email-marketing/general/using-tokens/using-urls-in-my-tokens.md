@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga los pasos a continuación para utilizar Mis tokens para insertar direcciones URL en sus correos electrónicos.
 
-1. Seleccione el programa y haga clic en **Mis tokens**.
+1. Seleccione su programa y haga clic en **Mis tokens**.
 
    ![](assets/one-4.png)
 
@@ -23,19 +23,19 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    ![](assets/two-4.png)
 
-1. Asigne un nombre único al token, introduzca una dirección URL (sin el https://) y haga clic en **Guardar**.
+1. Asigne un nombre único al token, escriba una dirección URL (sin el https://) y haga clic en **Guardar**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Para asegurarse de que se realiza un seguimiento de los clics en el correo electrónico, haga lo siguiente **no** introduzca https:// dentro del valor del token.
+   >Para asegurarse de que se hace un seguimiento de los clics en el correo electrónico, haga **not** escribir https:// dentro del valor del token.
 
 1. Seleccione el correo electrónico en el programa.
 
    ![](assets/four-3.png)
 
-1. Clic **Editar borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
    >
    >Por supuesto, también tiene la opción de introducir &quot;https&quot; si su sitio lo utiliza.
 
-1. Busque su My Token, selecciónelo y haga clic en **Insertar**.
+1. Busque mi token, selecciónelo y haga clic en **Insertar**.
 
    ![](assets/eight.png)
 
@@ -63,11 +63,11 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    ![](assets/ten.png)
 
-1. Pulse Ctrl/Cmd+V para pegar el contenido en **URL** y haga clic en **Insertar**.
+1. Presione Ctrl/Cmd+V para pegar el contenido en el cuadro **URL** y haga clic en **Insertar**.
 
    ![](assets/eleven.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/twelve.png)
 

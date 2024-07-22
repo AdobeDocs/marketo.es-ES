@@ -23,7 +23,7 @@ Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo, ver
 
 >[!NOTE]
 >
->Más información [Primer toque y multitoque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Obtenga información sobre [primer toque y multitoque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Elija para qué período desea ver las métricas. En este ejemplo, se busca el año actual (acumulado anual).
 
@@ -47,7 +47,7 @@ El gráfico de barras muestra el rendimiento del programa en todos los canales (
 
 >[!TIP]
 >
->Si desea que las barras del gráfico se amplíen a medida que se desplaza por los grupos, seleccione la opción **Escalar eje Y para ajustar** casilla de verificación
+>Si desea que las barras del gráfico se amplíen a medida que se desplaza por los grupos, active la casilla de verificación **Escalar eje Y para ajustar**.
 
 Pase el ratón sobre una barra para ver detalles adicionales.
 
@@ -65,8 +65,8 @@ La cuadrícula de datos siguiente funciona como una hoja de cálculo, y muestra 
 |---|---|
 | **Ingresos obtenidos** | La porción de crédito (en valor monetario) que recibió el programa por influir en la oportunidad ganada |
 | **Costo** | Coste total del programa |
-| **Costo por oportunidad ganada** | La relación entre el costo del programa y la porción de crédito (en valor numérico) que el programa recibió por influir en la creación de nuevas oportunidades |
-| **Relación De Ingresos Ganados A Coste** | Proporción de la parte del crédito (en valor monetario) que recibió el programa por influir en las oportunidades ganadas y el coste del programa |
+| **Costo por oportunidad ganado** | La relación entre el costo del programa y la porción de crédito (en valor numérico) que el programa recibió por influir en la creación de nuevas oportunidades |
+| **Porcentaje De Ingresos Ganados A Costo** | Proporción de la parte del crédito (en valor monetario) que recibió el programa por influir en las oportunidades ganadas y el coste del programa |
 
 Expanda un canal para ver sus diez programas principales, con los programas restantes combinados.
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Cuando las personas agotan todo el contenido en un flujo, Marketo puede enviarle una notificación. Puede deshabilitar o habilitar las notificaciones según sus necesidades. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione un programa de participación y haga clic en **Configurar** pestaña.
+1. Seleccione un programa de participación y haga clic en la ficha **Configuración**.
 
    ![](assets/setuptab.jpg)
 
-1. Doble clic **Notificaciones de contenido agotadas**.
+1. Haga doble clic en **Notificaciones de contenido agotado**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Seleccionar **Desactivado** (o **Activado**) y haga clic en **Guardar**.
+1. Seleccione **Desactivado** (o **Activado**) y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

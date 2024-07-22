@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utilizar una imagen o borrarla por completo. Así es como se hace.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,24 +23,24 @@ Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utili
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Seleccione el campo y edite el **Etiqueta**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
+1. Seleccione su campo y luego edite la **Etiqueta**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Si desea ponerse elegante, puede hacer clic en el ![lápiz](assets/image2014-9-15-17-3a27-3a7.png). Esto abrirá un editor de texto enriquecido y le permitirá ir a la ciudad con imágenes, enlaces y más!
+   >Si quieres ponerte elegante, puedes hacer clic en el ![lápiz](assets/image2014-9-15-17-3a27-3a7.png). Esto abrirá un editor de texto enriquecido y le permitirá ir a la ciudad con imágenes, enlaces y más!
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
 >[!NOTE]
 >
->No te olvides de [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
+>No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
 ¡Ahí lo tienes! Poco a poco te estás convirtiendo en un diseñador de formularios campeón.

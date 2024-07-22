@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede utilizar programas de participación en Marketo para alimentar el correo electrónico con facilidad.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione la carpeta en la que desea crear el programa de participación y haga clic en **Nuevo** y **Nuevo programa**.
+1. Seleccione la carpeta en la que desea crear el programa de participación y, a continuación, haga clic en **Nuevo** y **Nuevo programa**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Introduzca una **Nombre**, seleccione **Participación** para **Tipo de programa** y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione **Participación** para **Tipo de programa** y haga clic en **Crear**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
@@ -33,5 +33,5 @@ Puede utilizar programas de participación en Marketo para alimentar el correo e
 
    >[!MORELIKETHIS]
    >
-   >* [Añadir contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Definir cadencia de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Agregar contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Establecer cadencia de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 El registro de actividad es la fuente fiable definitiva. Esta es la historia completa del recorrido de una persona en Marketo Engage.
 
-1. Vaya a la **[!UICONTROL Base de datos]**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Seleccionar **[!UICONTROL Todas las personas]**.
+1. Seleccione **[!UICONTROL Todas las personas]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Haga clic en **[!UICONTROL People]** pestaña. Seleccionar una persona **[!UICONTROL Id]** número.
+1. Haga clic en la ficha **[!UICONTROL Personas]**. Seleccione un número de persona **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Clic **[!UICONTROL Registro de actividad]**.
+1. Haga clic en **[!UICONTROL Registro de actividades]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ El registro de actividad es la fuente fiable definitiva. Esta es la historia com
 
    >[!MORELIKETHIS]
    >
-   >Más información sobre [filtrado del registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} para ver actividades de personas específicas.
+   >Más información sobre [filtrar el registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} para ver actividades específicas de personas.

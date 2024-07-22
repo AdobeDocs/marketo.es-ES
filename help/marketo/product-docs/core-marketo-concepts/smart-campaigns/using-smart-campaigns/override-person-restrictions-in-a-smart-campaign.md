@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Anulación de restricciones de persona en una campaña inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo Engage le permite establecer el número máximo de personas que pueden cumplir los requisitos para una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si lo desea _invalidar_ este límite, así es como.
+Marketo Engage le permite establecer el número máximo de personas que pueden cumplir los requisitos para una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si desea _anular_ este límite, así es como debe hacerlo.
 
 >[!PREREQUISITES]
 >
->Asegúrese de [habilitar restricciones de persona para campañas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} en Administración de Marketo.
+>Asegúrese de [habilitar restricciones de persona para campañas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} en el administrador de Marketo.
 
-1. Entrada **[!UICONTROL Actividades de marketing]**, vaya a la campaña inteligente y haga clic en **[!UICONTROL Programación]**.
+1. En **[!UICONTROL Actividades de marketing]**, vaya a su campaña inteligente y haga clic en **[!UICONTROL Programar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. En Configuración de campaña inteligente, haga clic en **[!UICONTROL Editar]**.
+1. En Configuración de campañas inteligentes, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ Marketo Engage le permite establecer el número máximo de personas que pueden c
    >
    >El límite predeterminado es el establecido en Administración.
 
-1. Introduzca un nuevo límite y haga clic en **[!UICONTROL Guardar]**.
+1. Introduce un nuevo límite y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 

@@ -17,29 +17,29 @@ El análisis del ciclo de ingresos puede informar sobre campos personalizados de
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **Administrador** sección.
+1. Vaya a la sección **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Seleccionar **Análisis del ciclo de ingresos**.
+1. Seleccione **Análisis del ciclo de ingresos**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Haga clic en **Sincronización de campos personalizados** y seleccione el área de análisis que desee.
+1. Haga clic en la ficha **Sincronización de campos personalizados** y elija el área de análisis que desee.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Seleccione el campo para el que desea activar la sincronización y haga clic en **Editar opción de sincronización**.
+1. Seleccione el campo para el que desea habilitar la sincronización y haga clic en **Editar opción de sincronización**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Cambie el **Estado de sincronización** hasta **Habilitado**.
+1. Cambiar el **estado de sincronización** a **Habilitado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Seleccione el **Tipo de RCA** de su elección y haga clic en **Guardar**.
+1. Seleccione el **tipo de RCA** que elija y luego haga clic en **Guardar**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 

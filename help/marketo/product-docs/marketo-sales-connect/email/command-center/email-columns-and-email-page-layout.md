@@ -122,7 +122,7 @@ Puede configurar el diseño siguiendo estos pasos.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Seleccione el **Correos electrónicos** sección.
+1. Seleccione la sección **Correos electrónicos**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

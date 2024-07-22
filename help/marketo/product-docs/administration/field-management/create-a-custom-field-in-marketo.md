@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si necesita un nuevo campo personalizado en Marketo Engage para almacenar o capturar datos, así es como crear uno.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ Si necesita un nuevo campo personalizado en Marketo Engage para almacenar o capt
    >
    >Si desea que los campos se mantengan sincronizados con su CRM, créelos en el CRM y se crearán automáticamente en Marketo.
 
-1. Clic **[!UICONTROL Nuevo campo personalizado]**.
+1. Haga clic en **[!UICONTROL Nuevo campo personalizado]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -35,11 +35,11 @@ Si necesita un nuevo campo personalizado en Marketo Engage para almacenar o capt
 
    >[!TIP]
    >
-   >Consulte la [Glosario de tipos de campos personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Consulte el [Glosario de tipos de campos personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Introduzca el [!UICONTROL Nombre] tal como desea que aparezca en Marketo. El [!UICONTROL Nombre de API] se genera automáticamente. Puede modificarlo, pero no se puede cambiar el nombre una vez configurado. Clic **[!UICONTROL Crear]** cuando termine.
+1. Escriba [!UICONTROL Name] tal como desea que aparezca en Marketo. El [!UICONTROL nombre de API] se genera automáticamente. Puede modificarlo, pero no se puede cambiar el nombre una vez configurado. Haga clic en **[!UICONTROL Crear]** cuando haya terminado.
 
 >[!CAUTION]
 >
@@ -49,6 +49,6 @@ Si necesita un nuevo campo personalizado en Marketo Engage para almacenar o capt
 
 >[!NOTE]
 >
->El nombre de la API lo utilizan la API de SOAP y otros procesos backend.
+>SOAP El nombre de la API lo utilizan la API de y otros procesos backend.
 
 Ahora puede utilizar este campo personalizado en formularios, pasos de flujo y listas inteligentes.

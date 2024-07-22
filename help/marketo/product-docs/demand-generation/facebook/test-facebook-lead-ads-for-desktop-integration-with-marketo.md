@@ -17,11 +17,11 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
 >[!PREREQUISITES]
 >
->Usted debe [Configuración de la integración de Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Debe [configurar la integración de Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. En Facebook Power Editor, seleccione una campaña y un anuncio y haga clic en **Editar**.
+1. En Facebook Power Editor, selecciona una campaña y un anuncio y haz clic en **Editar**.
 
-1. En **Vínculos**, haga clic en **Ver en el suministro de noticias** vínculo.
+1. En **Vínculos**, haga clic en el vínculo **Ver en el suministro de noticias**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -33,7 +33,7 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
    >
    >Este es solo un ejemplo, que utiliza una llamada a acción para obtener más información. La llamada a acción de la unidad de anuncios de posibles clientes puede ser diferente.
 
-1. Envíe su unidad de prueba de anuncio de posibles clientes rellenando el formulario en su equipo de escritorio. Clic **Enviar**.
+1. Envíe su unidad de prueba de anuncio de posibles clientes rellenando el formulario en su equipo de escritorio. Haga clic en **Enviar**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. ¡Aquí es donde ocurre la magia! Una vez enviado el formulario, [crear una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que utiliza el filtro Formulario de anuncios potenciales de Facebook rellenado. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
+1. ¡Aquí es donde ocurre la magia! Una vez que hayas enviado el formulario, [crea una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que usa el filtro Formulario de anuncios potenciales de Facebook rellenado. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Ahora haga clic en **People** para validar que la sincronización funciona correctamente.
+1. Ahora haga clic en la ficha **Personas** para comprobar que la sincronización funciona correctamente.
 
    ![](assets/people.png)
 
@@ -53,4 +53,4 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
 >[!MORELIKETHIS]
 >
->[Configurar anuncios de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configurar anuncios de clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

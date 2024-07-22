@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Hay ciertas configuraciones en la creación del seminario web ON24 que utilizan 
 * Inicio del evento en directo: la fecha y hora de inicio. Esto se puede ver en Marketo.
 * Hora de finalización activa: la fecha y hora de finalización. Esto se puede ver en Marketo.
 
-El siguiente paso es [creación de un evento en Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
+El siguiente paso es [crear un evento en Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

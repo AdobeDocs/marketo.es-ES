@@ -6,7 +6,7 @@ exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Los correos electrónicos de ventas sitúan automáticamente el pie de página d
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
 >**Definición**
 >
->**Correos electrónicos de ventas** son los que se envían desde Sales Insight (no incluye los que se envían desde el complemento de Marketo Outlook).
+>**Correos electrónicos de ventas** son los enviados desde Sales Insight (no incluye los enviados desde el Complemento de Outlook de Marketo).
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/one-1.png)
 
-1. Clic **Perspectiva de ventas**, entonces **Editar configuración**.
+1. Haga clic en **Información de ventas** y luego en **Editar configuración**.
 
    ![](assets/two-1.png)
 
@@ -38,14 +38,14 @@ Los correos electrónicos de ventas sitúan automáticamente el pie de página d
    ![](assets/three-1.png)
 
    * **Sin plantilla** - Compuesto manualmente por el usuario de ventas.
-   * **Correo electrónico estándar** - Correos electrónicos basados en una plantilla.
-   * **Correo electrónico operativo** - Correos electrónicos que ignoran los límites de cancelación de suscripción, marketing suspendido y comunicación (envían sin importar qué).
+   * **Correo electrónico estándar**: correos electrónicos basados en una plantilla.
+   * **Correo electrónico operativo**: Correos electrónicos que omiten los límites de cancelación de suscripción, marketing suspendido y comunicaciones (se envían independientemente de qué).
 
    Tiene la opción de establecer un comportamiento diferente para cada tipo.
 
    >[!CAUTION]
    >
-   >**Respetar configuración de cancelación de suscripción**: los posibles clientes no suscritos NO recibirán el correo electrónico aunque el correo electrónico publicado esté &quot;operativo&quot;
+   >**Respetar la configuración de cancelación de suscripción**: los posibles clientes no suscritos NO recibirán el correo electrónico aunque el correo electrónico publicado esté &quot;operativo&quot;
    >
    >**Ignorar configuración de cancelación de suscripción**: los posibles clientes no suscritos recibirán el correo electrónico
 
@@ -53,7 +53,7 @@ Los correos electrónicos de ventas sitúan automáticamente el pie de página d
 
    >[!TIP]
    >
-   >Las dos últimas opciones permiten incluir o excluir dinámicamente el pie de página de cancelación de suscripción en función del número de destinatarios (Bueno que 1 o Bueno que 5).
+   >Las dos últimas opciones permiten incluir o excluir dinámicamente el pie de página de cancelación de suscripción en función del número de destinatarios (mayor que 1 o mayor que 5).
 
    ![](assets/four-1.png)
 

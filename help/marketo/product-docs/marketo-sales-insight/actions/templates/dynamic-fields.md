@@ -5,7 +5,7 @@ exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Le permitimos personalizar sus plantillas de correo electrónico con atributos p
 
 >[!TIP]
 >
->El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que buscarán tanto Sales Insight Actions como Salesforce. Esto significa que si un contacto no existe en el [aplicación web](https://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico coincidente. A continuación, se utiliza la información de ese registro para rellenar el campo.
+>El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que buscarán tanto Sales Insight Actions como Salesforce. Esto significa que si un contacto no existe en la [aplicación web](https://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico que coincida. A continuación, se utiliza la información de ese registro para rellenar el campo.
 
 ## Insertar un campo dinámico en una plantilla {#insert-a-dynamic-field-into-a-template}
 
-1. Entrada **Plantillas y campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
+1. En **Plantillas y campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
 
-1. Clic **Insertar campo dinámico**.
+1. Haga clic en **Insertar campo dinámico**.
 
    >[!NOTE]
    >
@@ -48,9 +48,9 @@ Para ello, añada &quot;|&quot; después de la etiqueta del campo dinámico y, a
 
 ## Glosario de campos dinámicos {#dynamic-fields-glossary}
 
-Al crear una plantilla en las acciones de información de ventas, siempre se recomienda integrar los campos dinámicos utilizando **Insertar campo dinámico** botón.
+Al crear una plantilla en las acciones de información de ventas, siempre se recomienda integrar los campos dinámicos con el botón **Insertar campo dinámico**.
 
-Esta herramienta se utiliza para `auto-personalize your email` y ahorrarte toneladas de tiempo por `pulling information from the People page`.
+Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará mucho tiempo a `pulling information from the People page`.
 
 | Campo dinámico | Ejemplo de lo que aparece en el correo electrónico |
 |---|---|
@@ -65,13 +65,13 @@ Esta herramienta se utiliza para `auto-personalize your email` y ahorrarte tonel
 | `{{title}}` | Escritor técnico sénior |
 | `{{work_website}}` | https://www.adobe.com |
 
-**Cosas que debe tener en cuenta**:
+**Aspectos a tener en cuenta**:
 
 * Si la información de un contacto se introduce incorrectamente o no aparece en la página Personas, no se abrirá correctamente en la plantilla.
-* La diferencia entre `{{company}}` y `{{company_friendly}}` es eso `{{company_friendly}}` eliminará cualquier título formal, como Inc., LLC., etc., del nombre de la compañía de su contacto.
-* Al utilizar `{{company_friendly}}`, asegúrese de separar Inc. o Co. con una coma en los datos de contacto. Así es como las acciones de perspectiva de ventas saben qué eliminar al extraer el valor.
+* La diferencia entre `{{company}}` y `{{company_friendly}}` es que `{{company_friendly}}` eliminará cualquier título formal, como Inc., LLC., etc., del nombre de la compañía del contacto.
+* Cuando use `{{company_friendly}}`, asegúrese de separar Inc. o Co. con una coma en los detalles de contacto. Así es como las acciones de perspectiva de ventas saben qué eliminar al extraer el valor.
 * Le permitimos personalizar sus plantillas de correo electrónico con atributos predefinidos como `{{my_name}}` o `{{my_title}}`. Estos campos le permiten hacer referencia rápidamente a sí mismo en sus plantillas de correo electrónico.
-* El sistema anexa automáticamente la firma del usuario a cada correo electrónico enviado. Si el usuario utiliza una plantilla con `{{my_signature}}` Campo dinámico, el sistema rellenará la firma donde la variable `{{my_signature}}` se ha colocado el campo dinámico. Solo se añade allí para evitar duplicaciones. El sistema se encargará de `{{team_unsubscribe}}` del mismo modo cuando la configuración global de cancelación de suscripción de datos anexados está habilitada.
+* El sistema anexa automáticamente la firma del usuario a cada correo electrónico enviado. Si el usuario está usando una plantilla con el campo dinámico `{{my_signature}}`, el sistema rellenará la firma donde se ha colocado el campo dinámico `{{my_signature}}`. Solo se añade allí para evitar duplicaciones. El sistema administrará `{{team_unsubscribe}}` del mismo modo cuando la configuración global de cancelación de suscripción de datos anexados esté habilitada.
 
 >[!TIP]
 >

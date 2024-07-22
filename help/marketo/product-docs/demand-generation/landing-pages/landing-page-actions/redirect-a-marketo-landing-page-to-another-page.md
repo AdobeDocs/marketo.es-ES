@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,17 +17,17 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 1. En **Administrador**, haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. En el **Reglas** pestaña, haga clic en **Nuevo** y luego **Nueva regla de redirección**.
+1. En la ficha **Reglas**, haga clic en **Nueva** y, a continuación, en **Nueva regla de redireccionamiento**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en el primero **URL original** y seleccione su Marketo. [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Haga clic en el primer menú desplegable de **URL original** y seleccione su [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) de Marketo.
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -35,7 +35,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Recuerde, solo puede redirigir direcciones URL que comiencen con su Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Seleccione la página de aterrizaje que desee redirigir en el segundo **URL original** field.
+1. Elija la página de aterrizaje que quiera redirigir en el segundo campo **URL original**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,7 +43,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Puede introducir cualquier ruta de URL, incluso si la página o el directorio no existen.
 
-1. Haga clic en **URL de redireccionamiento** y seleccione la página a la que desee redirigir a los visitantes.
+1. Haga clic en el menú desplegable **URL de redireccionamiento** y seleccione la página a la que desee redirigir a los visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -53,8 +53,8 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 
    >[!TIP]
    >
-   >Para redirigir a una página web fuera de Marketo, haga clic en **Utilizar página de aterrizaje que no sea de Marketo**.
+   >Para redirigir a una página web fuera de Marketo, haga clic en **Usar página de aterrizaje que no sea de Marketo**.
 
    >[!MORELIKETHIS]
    >
-   >[Redireccionar una ruta de URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
+   >[Redirigir una ruta de acceso de dirección URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)

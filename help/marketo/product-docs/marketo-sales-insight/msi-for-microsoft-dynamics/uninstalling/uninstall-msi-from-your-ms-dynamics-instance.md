@@ -6,7 +6,7 @@ exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -23,31 +23,31 @@ Para desinstalar MSI de la instancia de MS Dynamics, deberá realizar los pasos 
 
    ![](assets/one-1.png)
 
-1. Clic **Perspectiva de ventas**.
+1. Haga clic en **Información de ventas**.
 
    ![](assets/six.png)
 
-1. Clic **Editar sincronización de campos**.
+1. Haga clic en **Editar sincronización de campos**.
 
    ![](assets/seven.png)
 
-1. Seleccione el **Deshabilitar sincronización** y haga clic en **Guardar**.
+1. Seleccione la casilla de verificación **Deshabilitar sincronización** y haga clic en **Guardar**.
 
    >[!NOTE]
    >
-   >Asegúrese de que [deshabilitar la sincronización global de MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de deshabilitar la sincronización de campos.
+   >Asegúrese de [deshabilitar la sincronización global de MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de deshabilitar la sincronización de campos.
 
    ![](assets/eight.png)
 
 ## Los siguientes pasos tienen lugar en la instancia de MS Dynamics: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. Clic **Configuración avanzada**.
+1. Haga clic en **Configuración avanzada**.
 
-1. Clic **Soluciones**.
+1. Haga clic en **Soluciones**.
 
-1. Seleccionar **Perspectiva de ventas de Marketo** y haga clic en el icono eliminar.
+1. Seleccione **Marketo Sales Insight** y haga clic en el icono Eliminar.
 
-1. Cuando aparezca el modal Uninstall Solution, haga clic en **OK**.
+1. Cuando aparezca el modal Desinstalar solución, haz clic en **Aceptar**.
 
    Normalmente, la solución de MS Dynamics tarda unos 20 minutos en desinstalarse completamente. Sin embargo, si tiene una instancia de MS Dynamics grande, podría tardar más.
 

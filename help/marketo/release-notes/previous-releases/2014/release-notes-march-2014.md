@@ -17,7 +17,7 @@ En la versión de marzo de 2014 se incluyen las siguientes funciones. Compruebe 
 
 ## Botón Actualizar del panel del programa de correo electrónico {#email-program-dashboard-refresh-button}
 
-Utilice el [botón actualizar](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obtener métricas de correo electrónico actualizadas sobre su envío de correo electrónico o su prueba AB.
+Use el [botón de actualización](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obtener métricas de correo electrónico actualizadas sobre su envío de correo electrónico o su prueba A/B.
 
 ![](assets/image2014-9-22-11-3a35-3a15.png)
 
@@ -29,19 +29,19 @@ Utilice el [botón actualizar](/help/marketo/product-docs/email-marketing/email-
 
 ## Columnas de estado de programa en el informe de rendimiento del programa {#program-status-columns-in-program-performance-report}
 
-Al usar el [informe de ejecución del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), ahora puede ver cuántas personas hay en qué estados del programa.
+Al usar el [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), ahora puede ver cuántas personas se encuentran en cada estado de programa.
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
 ## Programas operativos y de inclusión para Analytics {#inclusive-and-operational-programs-for-analytics}
 
-Ahora puede [incluir programas sin costes de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) en el Explorador de ingresos y en los Analizadores, configurando la opción Comportamiento de Analytics en &quot;Inclusivo&quot; al editar los Canales de programa. También puede excluir programas operativos de la creación de informes seleccionando &quot;Operativo&quot;.
+Ahora puede [incluir programas sin costos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) en el Explorador de ingresos y Analizadores estableciendo la opción Comportamiento de Analytics en &quot;Inclusivo&quot; al editar Canales de programa. También puede excluir programas operativos de la creación de informes seleccionando &quot;Operativo&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
 ## Opciones híbridas e implícitas para la conversión de posibles clientes {#hybrid-and-implicit-options-for-lead-conversion}
 
-Puede cambiar la forma en que Marketo vincula contactos y oportunidades para las métricas de conversión de posibles clientes en Análisis de posibles clientes. Puede [cambio de la configuración de atribución](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) a una de las tres opciones. Cambiar esta configuración no modifica ningún dato de Marketo o CRM; simplemente cambia la forma en que se ejecutan los informes y se puede revertir en cualquier momento.
+Puede cambiar la forma en que Marketo vincula contactos y oportunidades para las métricas de conversión de posibles clientes en Análisis de posibles clientes. Puede [cambiar la configuración de atribución](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) a una de las tres opciones. Cambiar esta configuración no modifica ningún dato de Marketo o CRM; simplemente cambia la forma en que se ejecutan los informes y se puede revertir en cualquier momento.
 
 La configuración Explicit solo trata los contactos con funciones en una oportunidad como posibles clientes convertidos (comportamiento predeterminado). Implicit tratará todos los contactos asociados a la cuenta en la oportunidad, independientemente de la función, como convertidos. Híbrido tratará los contactos con funciones como convertidos si están disponibles; si no lo están, trataremos todos los contactos de la cuenta como convertidos.
 
@@ -51,12 +51,12 @@ Como recordatorio, esta configuración también cambia las métricas de atribuci
 
 ## Idioma adicional del usuario {#additional-user-language}
 
-Seleccione su [Idioma de aplicación de Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Vea la interfaz de Marketo Lead Management en su idioma preferido (ahora compatible con japonés).
+Seleccione Su [Idioma De Aplicación De Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Vea la interfaz de Marketo Lead Management en su idioma preferido (ahora compatible con japonés).
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo Developer Blog {#marketo-developer-blog}
 
-El [Blog de desarrolladores de Marketo](https://developers.marketo.com/blog/) está dedicado a aquellos desarrolladores web e ingenieros de software que apoyan las necesidades de rápida evolución del experto en marketing moderno. Puede suscribirse a anuncios sobre nuevas opciones de integración, actualizaciones de versiones de API y una nueva serie de artículos explicativos que incluyen ejemplos de código y prácticas recomendadas sobre la integración con la plataforma Marketo.
+El [blog para desarrolladores de Marketo](https://developers.marketo.com/blog/) está dedicado a aquellos desarrolladores web e ingenieros de software que apoyan las necesidades de rápida evolución del experto en marketing moderno. Puede suscribirse a anuncios sobre nuevas opciones de integración, actualizaciones de versiones de API y una nueva serie de artículos explicativos que incluyen ejemplos de código y prácticas recomendadas sobre la integración con la plataforma Marketo.
 
-El [primer artículo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) En esta serie, explicará cómo recuperar de forma eficaz información sobre las personas (clientes/contactos/posibles clientes) almacenadas en Marketo mediante la API.
+El [primer artículo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de esta serie le guiará para recuperar de manera eficaz información sobre las personas (clientes, contactos o posibles clientes) almacenadas en Marketo mediante la API.

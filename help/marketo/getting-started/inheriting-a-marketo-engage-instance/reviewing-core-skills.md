@@ -37,4 +37,4 @@ Si tiene tiempo limitado para profundizar en las habilidades principales, le rec
 
 <p>
 
-![Cómo organizar los programas](assets/reviewing-core-skills-6.png) [**Cómo organizar los programas**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![Cómo organizar tus programas](assets/reviewing-core-skills-6.png) [**Cómo organizar tus programas**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

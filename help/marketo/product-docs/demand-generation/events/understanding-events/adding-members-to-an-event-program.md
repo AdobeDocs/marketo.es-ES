@@ -21,9 +21,9 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
 1. Crear y [agregar personas a una lista estática](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Creación de una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Crear una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. En la lista inteligente de la campaña inteligente que creó en el paso dos, busque y agregue **Miembro de lista** filtro.
+1. En la lista inteligente de la campaña inteligente que creó en el paso 2, busque y agregue el filtro **Miembro de la lista**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
    ![](assets/four.png)
 
-1. En el flujo, busque y añada **Cambiar estado del programa** paso de flujo.
+1. En el flujo, busque y agregue el paso de flujo **Cambiar estado del programa**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
    ![](assets/seven.png)
 
-1. En la pestaña Schedule, haga clic en **Ejecutar una vez**.
+1. En la ficha Programación, haga clic en **Ejecutar una vez**.
 
    ![](assets/eight.png)
 
-1. Seleccionar **Ejecutar ahora** y haga clic en **Ejecutar**.
+1. Seleccione **Ejecutar ahora** y haga clic en **Ejecutar**.
 
    ![](assets/nine.png)
 

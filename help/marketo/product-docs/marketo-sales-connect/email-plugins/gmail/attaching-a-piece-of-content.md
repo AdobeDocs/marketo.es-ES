@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adjuntar un fragmento de contenido {#attaching-a-piece-of-content}
 
-Añada contenido rastreable haciendo clic en **Contenido** y cargar un archivo. Aparecerá cualquier contenido rastreado anteriormente para que lo seleccione en la ventana emergente sin tener que volver a cargarlo.
+Agregue contenido rastreable haciendo clic en el botón **Contenido** y cargando un archivo. Aparecerá cualquier contenido rastreado anteriormente para que lo seleccione en la ventana emergente sin tener que volver a cargarlo.
 
 >[!NOTE]
 >

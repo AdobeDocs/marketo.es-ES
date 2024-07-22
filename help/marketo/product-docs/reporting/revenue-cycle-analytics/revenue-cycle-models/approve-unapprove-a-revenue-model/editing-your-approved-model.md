@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. No se pueden eliminar fases al editar un modelo de borrador (una vez aprobado el modelo). En su lugar, puede combinar esa fase con otra del modelo. Haga clic con el botón derecho en la fase que desee combinar y haga clic en **Combinar**.
+1. No se pueden eliminar fases al editar un modelo de borrador (una vez aprobado el modelo). En su lugar, puede combinar esa fase con otra del modelo. Haga clic con el botón derecho en la etapa que desee combinar y haga clic en **Combinar**.
 
    ![](assets/two.png)
 
-1. Elija la nueva etapa para los posibles clientes que actualmente están en la seleccionada o seleccione **Ninguno** para eliminar los posibles clientes del modelo. Cuando haya terminado, haga clic en **Combinar**.
+1. Elija la nueva etapa para los posibles clientes que estén actualmente en la etapa seleccionada, o bien seleccione **Ninguno** para eliminar los posibles clientes del modelo. Cuando haya terminado, haga clic en **Combinar**.
 
    ![](assets/three.png)
 
-1. Cuando haya terminado de realizar cambios en el modelo, vuelva a aprobarlo seleccionando **Aprobar borrador de modelo** en el **Acciones de modelo** menú.
+1. Cuando haya terminado de realizar cambios en el modelo, vuelva a aprobarlo seleccionando **Aprobar borrador de modelo** en el menú **Acciones de modelo**.
 
    ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Si desaprueba el modelo, se eliminarán todos sus posibles clientes y se eliminará su historial en el modelo. Considere la posibilidad de editar el modelo en lugar de desaprobarlo.
 
-1. Seleccione el modelo que desea desaprobar. Desde el **Acciones de modelo** menú, seleccione **Desaprobar modelo**.
+1. Seleccione el modelo que desea desaprobar. En el menú **Acciones de modelo**, seleccione **Desaprobar modelo**.
 
    ![](assets/five.png)
 
-1. Clic **Desaprobar**.
+1. Haga clic en **Desaprobar**.
 
    ![](assets/six.png)
 

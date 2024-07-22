@@ -6,7 +6,7 @@ exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ Asignamos automáticamente una fuente a cada contacto que entre en la base de da
 
 ## Autorización {#authorization}
 
-De conformidad con [RGPD](https://eugdpr.org/), utilice la autorización para indicar cómo ha recibido permiso para relacionarse con estos contactos.
+De conformidad con el [RGPD](https://eugdpr.org/), use la autorización para indicar cómo obtuvo permiso para relacionarse con estos contactos.
 
 ![](assets/authorization.png)
 
@@ -49,6 +49,6 @@ Realizar una cancelación de suscripción masiva en los contactos que ya no dese
 
 ## Eliminar {#delete}
 
-Eliminar contactos de forma masiva. Se pueden encontrar los pasos completos [aquí](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Eliminar contactos de forma masiva. Encontrará pasos completos [aquí](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)

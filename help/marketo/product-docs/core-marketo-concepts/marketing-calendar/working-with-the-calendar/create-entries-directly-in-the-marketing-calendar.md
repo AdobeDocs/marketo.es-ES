@@ -17,10 +17,10 @@ Marketo permite crear entradas directamente en el calendario de marketing median
 
 * Entradas básicas
 * Entradas personalizadas
-* Programas de email
+* Programas de correo electrónico
 * Campañas inteligentes
 
-1. Haga clic en **[!UICONTROL Calendario]** mosaico.
+1. Haga clic en el mosaico **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -38,7 +38,7 @@ Marketo permite crear entradas directamente en el calendario de marketing median
 
    >[!TIP]
    >
-   >Tenga en cuenta que también puede crear **Campañas inteligentes**, **Programas de correo electrónico** y **Entradas básicas** de esta misma manera.
+   >Tenga en cuenta que también puede crear **Campañas inteligentes**, **Programas de correo electrónico** y **Entradas básicas** de la misma manera.
 
 1. Cuando termine de editar, cierre el modo de enfoque del programa.
 
@@ -46,4 +46,4 @@ Marketo permite crear entradas directamente en el calendario de marketing median
 
 >[!MORELIKETHIS]
 >
->[Editar entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Editar entradas directamente en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

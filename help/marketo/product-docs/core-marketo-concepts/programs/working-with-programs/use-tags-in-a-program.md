@@ -21,7 +21,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Uso de una etiqueta en un programa {#use-a-tag-in-a-program}
 
-1. Seleccione el programa. Clic **Configurar**.
+1. Seleccione el programa. Haga clic en **Configuración**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -43,7 +43,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Editar una etiqueta {#edit-a-tag}
 
-1. Vaya a la **Configurar** pestaña. Haga clic con el botón derecho en la etiqueta. Seleccionar **Editar**.
+1. Vaya a la ficha **Configuración**. Haga clic con el botón derecho en la etiqueta. Seleccione **Editar**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Eliminar una etiqueta  {#delete-a-tag}
 
-1. Vaya a la **Configurar** pestaña. Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
+1. Vaya a la ficha **Configuración**. Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/use-tags-in-a-program-11.png)
 

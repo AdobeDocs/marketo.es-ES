@@ -18,7 +18,7 @@ ht-degree: 0%
 Es fácil añadir un correo electrónico a un flujo en un programa de participación y funciona bien. Sin embargo, si las necesidades de su empresa son más complejas, puede tener sentido colocar el correo electrónico dentro de un programa. Por ejemplo, es posible que desee:
 
 * Enviar un correo electrónico a un subgrupo de personas en el flujo
-* Enviar *distinto* correos electrónicos a subgrupos dentro del flujo
+* Enviar *correos electrónicos diferentes* a subgrupos dentro del flujo
 * Incluir páginas de aterrizaje, formularios u otros recursos en el entorno de
 * Habilitar la atribución multitáctil
 * Añadir pasos de flujo adicionales, como correos electrónicos de alerta
@@ -31,17 +31,17 @@ Cuando se utiliza un programa anidado, la decisión de enviar un correo electró
 * Si es miembro del programa, no recibirá el correo electrónico
 * Si ya no es miembro pero recibió el correo electrónico anteriormente a través de ese programa, no recibirá el correo electrónico
 
-Cuando utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes *en ese programa específico*, puede recibirlo de nuevo.
+Cuando utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes de *en ese programa específico*, puede recibirlo de nuevo.
 
 Puede resultar difícil mezclar correos electrónicos y programas en un programa de participación. Es posible que desee utilizar una o la otra.
 
 >[!TIP]
 >
->Asegúrese de utilizar un **Miembro del programa de participación** filtre en la lista inteligente.
+>Asegúrese de usar un filtro de **Miembro del programa de participación** en la lista inteligente.
 
 ## ¿Qué les sucede a las personas que no cumplen los criterios de las listas inteligentes? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-En caso de que alguien se filtre de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente fragmento de contenido durante el reparto actual. Pasarán a la siguiente parte de contenido del flujo para el *siguiente* escayola.
+En caso de que alguien se filtre de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente fragmento de contenido durante el reparto actual. Pasarán al siguiente fragmento de contenido del flujo para el *siguiente* reparto.
 
 ## ¿Qué contiene un programa anidado? {#what-does-a-nested-program-contain}
 
@@ -57,5 +57,5 @@ Informes de cambios con la ubicación del correo electrónico. Por lo tanto, si 
 
 >[!MORELIKETHIS]
 >
->* [Añadir contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Agregar contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Explicación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

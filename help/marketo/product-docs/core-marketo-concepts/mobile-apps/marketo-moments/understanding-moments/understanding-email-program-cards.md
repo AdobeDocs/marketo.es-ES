@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tocar **[!UICONTROL Confirmar]**.
+1. Pulse **[!UICONTROL Confirmar]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocar **[!UICONTROL Confirmar]** para finalizar el trabajo, o **[!UICONTROL Olvídese De]** si tuvieras dudas.
+1. Puntee **[!UICONTROL Confirmar]** para finalizar el trabajo o **[!UICONTROL No importa]** si no se lo ha pensado.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tocar **[!UICONTROL Cancelar envío]**.
+1. Pulse **[!UICONTROL Cancelar envío]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,7 +75,7 @@ Puede reprogramar las tarjetas de correo electrónico confirmadas o no confirmad
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tocar **[!UICONTROL Reprogramar]**.
+1. Pulse **[!UICONTROL Volver a programar]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
@@ -93,11 +93,11 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocar **[!UICONTROL Enviar muestra]**.
+1. Pulse **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Introduzca una dirección de correo electrónico y haga clic en **[!UICONTROL Enviar muestra]**.
+1. Escriba una dirección de correo electrónico y haga clic en **[!UICONTROL Enviar ejemplo]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualizarla.
 
-1. Tocar **[!UICONTROL Previsualizar correo electrónico]**.
+1. Pulse **[!UICONTROL Previsualizar correo electrónico]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -115,6 +115,6 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Comprender los momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Explicación de las tarjetas de Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

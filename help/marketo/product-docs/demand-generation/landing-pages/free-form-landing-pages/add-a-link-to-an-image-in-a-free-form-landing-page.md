@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir una imagen a una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Agregar una imagen a una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Haga clic en la imagen a la que desee agregar un vínculo.
 
    ![](assets/click-on-image.png)
 
-1. Expanda el **Hoja de propiedades**.
+1. Expanda la **hoja de propiedades**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copie o escriba el vínculo en el **linkUrl** cuadro.
+1. Copie o escriba el vínculo en el cuadro **linkUrl**.
 
    ![](assets/add-link.png)
 
-   ¡Felicidades! Ahora ha agregado correctamente un vínculo a una imagen de la página de aterrizaje. Ahora puede [previsualizar la página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para verlo en acción.
+   ¡Felicidades! Ahora ha agregado correctamente un vínculo a una imagen de la página de aterrizaje. Ahora puede [obtener una vista previa de la página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para verla en acción.
 
 >[!TIP]
 >

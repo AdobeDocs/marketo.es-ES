@@ -17,33 +17,33 @@ Puede restringir o permitir que los usuarios accedan a Marketo en función de su
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!IMPORTANT]
 >
 >La información de este artículo es para usuarios que inician sesión directamente en login.marketo.com y no se aplica a aquellos que se autentican con Adobe ID. No es posible aplicar restricciones de IP en los inicios de sesión únicos (SSO) en este momento.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. Clic **[!UICONTROL Configuración de inicio]**.
+1. Haga clic en **[!UICONTROL Configuración de inicio de sesión]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Clic **[!UICONTROL Editar restricciones de IP]**.
+1. Haga clic en **[!UICONTROL Editar restricciones de IP]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Elija si desea **Permitir** o **Bloquear** direcciones específicas, introduzca las direcciones y haga clic en **[!UICONTROL Guardar]**.
+1. Elija si quiere **permitir** o **bloquear** direcciones específicas, ingrese las direcciones y luego haga clic en **[!UICONTROL Guardar]**.
 
    >[!NOTE]
    >
    >**Definición**
    >
-   >* **[!UICONTROL Direcciones IP permitidas]**: Añadir direcciones IP permitidas es inclusivo. Incluirá todas las direcciones IP especificadas y excluirá todo lo demás.
-   >* **[!UICONTROL Bloquear direcciones IP]**: Evita que direcciones IP específicas accedan a Marketo.
-   >* **[!UICONTROL Deshabilitar restricciones de IP]**: si selecciona esta opción, dejarán de funcionar todas las reglas de restricción. Utilícelo para realizar pruebas.
+   >* **[!UICONTROL Direcciones IP permitidas]**: La adición de direcciones IP permitidas es inclusiva. Incluirá todas las direcciones IP especificadas y excluirá todo lo demás.
+   >* **[!UICONTROL Bloquear direcciones IP]**: impide que determinadas direcciones IP tengan acceso a Marketo.
+   >* **[!UICONTROL Deshabilitar restricciones de IP]**: si se activa esta opción, se impedirá que funcionen todas las reglas de restricción. Utilícelo para realizar pruebas.
 
    >[!NOTE]
    >

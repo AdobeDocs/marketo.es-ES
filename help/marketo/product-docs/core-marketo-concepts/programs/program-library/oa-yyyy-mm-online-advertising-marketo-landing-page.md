@@ -1,20 +1,20 @@
 ---
-description: Página de aterrizaje de Marketo de publicidad en línea de OA-YYYY-MM - Documentos de Marketo - Documentación del producto
-title: OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea
+description: Página de aterrizaje de Advertising Marketo en línea - Documentos de Marketo - Documentación del producto
+title: 'Página de aterrizaje de Advertising Marketo en línea: OA-AAAA-MM'
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 12%
 
 ---
 
-# OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Página de aterrizaje de Advertising Marketo en línea: OA-AAAA-MM {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Este es un ejemplo de programa de seguimiento de publicidad en línea que incluye una página de aterrizaje de Marketo con formulario de registro y un programa predeterminado de Marketo. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -29,14 +29,14 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Publicidad en línea</td> 
    <td>01 - Miembro 
-<br/>02 - Participación - Éxito</td>
-   <td>Inclusivo</td>
+<br/>02 - Participado - Correcto</td>
+   <td>Incluido</td>
    <td>Predeterminado</td>
   </tr>
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,12 +68,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de correo electrónico</td>
+   <td>Desempeño de email</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Desempeño de página de destino</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
@@ -104,7 +104,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
-   <td>Informes de  </td>
+   <td>Informes</td>
   </tr>
  </tbody> 
 </table>
@@ -117,7 +117,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  <tbody> 
   <tr> 
    <th>Tipo de token</th> 
-   <th>Nombre de token</th>
+   <th>Nombre del token</th>
    <th>Valor</th>
   </tr> 
   <tr> 
@@ -126,7 +126,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>Haga doble clic para obtener detalles  
 <br/><code><--My Content Description Here--></code> 
 <br/>Edite esta descripción de contenido en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá a hacer lo siguiente: 
+<br/>Aprenderá lo siguiente: 
 <li>Viñeta 1</li>
 <li>Viñeta 2</li>
 <li>Viñeta 3</li></td>
@@ -173,32 +173,32 @@ CAPTURA DE PANTALLA DEL PROGRAMA
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
    * Copiar plantilla original
-   * Usar plantilla de destino - _Recomendado_
+   * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
    * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción - _Recomendado_
+   * Reemplazar elemento en esta suscripción: _Recomendado_
 
-* **Plantillas de email con el mismo nombre**
+* **Plantillas de correo electrónico con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
 
 CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Después de importar el programa de contenido, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
    * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad en las actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.
 
 * Considere la posibilidad de actualizar las plantillas del programa importado para utilizar plantillas con marca actual o actualizar la plantilla recién importada para reflejar su marca añadiendo un fragmento o la información del logotipo/pie de página correspondiente.
 
-* Use Etiquetas de programas para filtrar informes según las distintas fuentes de publicidad en línea.
+* Use Etiquetas de programas para filtrar informes según las distintas fuentes de Advertising en línea.
 
 * Considere la posibilidad de actualizar la convención de nombres de este ejemplo de programa para que se ajuste a la convención de nombres.
 
@@ -208,7 +208,7 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02 - Participación (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
+>No olvide activar la campaña &quot;02 - Participación (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
 
 >[!IMPORTANT]
 >

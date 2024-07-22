@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Al aprovisionar acciones de información de ventas, Marketo enviará automáticamente sus credenciales a Acciones y conectará su instancia a Marketo. Este paso es obligatorio **solo si no ve la conexión establecida** una vez aprovisionada la instancia de Sales Connect. Si ha establecido la conexión, verá las credenciales introducidas en la página Configuración de administración de Marketo y una opción para desconectar.
+>Al aprovisionar acciones de información de ventas, Marketo enviará automáticamente sus credenciales a Acciones y conectará su instancia a Marketo. Este paso es necesario **solo si no ve la conexión establecida** después de aprovisionar la instancia de Sales Connect. Si ha establecido la conexión, verá las credenciales introducidas en la página Configuración de administración de Marketo y una opción para desconectar.
 
 ## Adquisición de credenciales antes de conectar Sales Connect con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -40,7 +40,7 @@ PICC
 
 ## Conectar Sales Conectar con Marketo {#connect-sales-connect-to-marketo}
 
-1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
 
 PICC
 
@@ -48,6 +48,6 @@ PICC
 
 PICC
 
-1. Introduzca las credenciales de Marketo proporcionadas por el administrador de Marketo y haga clic en **Connect**.
+1. Escriba las credenciales de Marketo proporcionadas por el administrador de Marketo y haga clic en **Conectar**.
 
 PICC

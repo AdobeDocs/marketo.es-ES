@@ -19,7 +19,7 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para cambiar el color del botón estándar, haga clic en **Color** botón.
+1. Para cambiar el color del botón estándar, haga clic en el botón **Color**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Si desea utilizar su propia imagen para un botón, haga clic en el botón Imagen y en **Seleccionar imagen**.
+1. Si desea usar su propia imagen para un botón, haga clic en el botón Imagen y luego en **Seleccionar imagen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Seleccione la imagen y haga clic en **Seleccionar**.
+1. Elija la imagen y haga clic en **Seleccionar**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -71,9 +71,9 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
    >
    >El botón siempre tiene una acción de toque, por lo que la casilla de verificación Acción de toque se selecciona automáticamente, con el mensaje predeterminado &quot;Descartar mensaje&quot;.
 
-Ya casi está. El último paso es [configurar el fondo del mensaje en la aplicación y el botón desechar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Ya casi está. El último paso es [configurar el fondo del mensaje en la aplicación y descartar el botón](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Elija un diseño para su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

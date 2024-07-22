@@ -26,7 +26,7 @@ Una vez que haya confirmado con su equipo de TI que el CNAME está configurado c
 
 >[!NOTE]
 >
->**Se requieren privilegios de administrador.**
+>Se requieren **privilegios de administrador.**
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
@@ -36,6 +36,6 @@ Una vez que haya confirmado con su equipo de TI que el CNAME está configurado c
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. En la pestaña Seguimiento de dominios personalizados, introduzca su CNAME y haga clic en **Connect**.
+1. En la pestaña Seguimiento de dominio personalizado, escriba su CNAME y haga clic en **Conectar**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

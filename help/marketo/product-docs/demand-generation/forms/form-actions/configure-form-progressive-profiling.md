@@ -6,7 +6,7 @@ exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Para que esta función funcione correctamente, asegúrese de que Rellenar previamente formulario está habilitado para los campos visibles y [inhabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
+>Para que esta función funcione correctamente, asegúrese de que Rellenar previamente formulario esté habilitado para los campos visibles y [deshabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para los campos ocultos.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Establecer **Perfiles progresivos** hasta **Habilitado**.
+1. Establezca **Perfil progresivo** en **Habilitado**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Bien, ahora vamos a configurarlo. Ir a **Detalles del campo**.
+1. Bien, ahora vamos a configurarlo. Vaya a **Detalles del campo**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Los campos fuera de **Perfiles progresivos** siempre se mostrará en el formulario, incluso si se han rellenado.
+   >Los campos que están fuera del cuadro **Perfiles progresivos** siempre se mostrarán en el formulario, aunque estén rellenados.
 
-1. Seleccione el **Perfiles progresivos** cuadro.
+1. Seleccione la casilla **Perfiles progresivos**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,13 +59,13 @@ ht-degree: 0%
    >
    >Tenga cuidado al utilizar los campos obligatorios en la generación progresiva de perfiles. Estos campos podrían permanecer en blanco si el visitante introduce una nueva dirección de correo electrónico (que crearía una nueva persona) después de enviar anteriormente los datos de los demás campos, ya que se suprimirían en el formulario más reciente.
 
-1. Ahora elija cuántos campos en blanco desea que vean los usuarios en **Perfiles progresivos** en cualquier momento.
+1. Ahora elija cuántos campos en blanco desea que vean los usuarios en el cuadro **Perfiles progresivos** en un momento dado.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Si elige **Número** **de** **Vacío** **Campos** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
+   >Si elige **Número** **de** **Campos** **en blanco** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
    >
    >* Nombre (vacío)
    >* Apellidos (vacío)
@@ -86,11 +86,11 @@ ht-degree: 0%
    >* Dirección de correo electrónico (rellenada previamente)
    >* País (vacío)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

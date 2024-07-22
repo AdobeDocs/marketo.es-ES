@@ -27,11 +27,11 @@ Los correos electrónicos operativos ignoran los estados de cancelación de susc
 >
 >Solo debe utilizar correos electrónicos operativos para correos electrónicos críticos y respuesta automática. No están pensados para correos electrónicos de marketing.
 
-1. Una vez abierto el editor, haga clic en **Configuración de correo electrónico**.
+1. Una vez que se abra el editor, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/two-1.png)
 
-1. Marque **Correo electrónico operativo** y haga clic en **Guardar**.
+1. Compruebe **Correo electrónico operativo** y haga clic en **Guardar**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ Los correos electrónicos operativos ignoran los estados de cancelación de susc
 >
 >Los correos electrónicos operativos no se diseñaron para funcionar con los programas de participación. Por lo tanto, un programa de participación ignorará el estado operativo de un correo electrónico. Tenga esto en cuenta al trabajar con ellos.
 
-No olvide aprobar este correo electrónico para que los cambios surtan efecto. Obtenga información sobre cómo  [aprobar un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+No olvide aprobar este correo electrónico para que los cambios surtan efecto. Aprenda a [aprobar un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

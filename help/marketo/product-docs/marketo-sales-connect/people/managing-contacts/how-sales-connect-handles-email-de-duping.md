@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Cómo gestiona Sales Connect la desduplicación de correo electrónico {#how-sales-connect-handles-email-de-duping}
 
-Cuando estás... [carga de un CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) en Sales Connect, combinamos todos como contactos en el archivo CSV antes de realizar la importación.
+Cuando [está cargando un archivo CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) en Sales Connect, combinamos todos como contactos en el CSV antes de que se realice la importación.
 
 Esto se basa en direcciones de correo electrónico similares. Por lo tanto, si hay dos direcciones de correo electrónico idénticas, las combinamos en un contacto.
 

@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ La vista de detalles de persona proporciona un perfil detallado de cada persona 
 
 ## Cómo acceder a {#how-to-access}
 
-1. Para acceder a la vista de detalles de la persona, haga clic en **People** pestaña.
+1. Para obtener acceso a la vista de detalles de la persona, haga clic en la ficha **Personas**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -49,7 +49,7 @@ Incluye toda la información de contacto de la persona.
 * Puede agregar una persona a Salesforce
 * Extracción de información de cuenta y posible cliente/contacto de Salesforce
 
-**Campos personalizados de**
+**Campos personalizados**
 
 * Agregue o quite campos personalizados que se puedan usar como campos dinámicos en sus plantillas y campañas
 
@@ -89,11 +89,11 @@ PICC
 
 * Ver cualquier campaña de marketing a la que esté abonada esta persona
 
-**Emails de ventas**
+**Correos electrónicos de ventas**
 
 * Ver los correos electrónicos que ha enviado a esta persona y las métricas de participación
 
-**Llamadas de venta**
+**Llamadas de ventas**
 
 * Ver las llamadas que ha realizado a esta persona
 

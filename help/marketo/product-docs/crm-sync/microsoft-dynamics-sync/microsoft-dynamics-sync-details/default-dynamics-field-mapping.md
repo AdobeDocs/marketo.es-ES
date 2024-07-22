@@ -5,8 +5,8 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 40%
+source-wordcount: '823'
+ht-degree: 44%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 40%
 
 Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Dynamics y Marketo.  Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
 
-## Campos de clientes potenciales {#lead-fields}
+## Campos de leads {#lead-fields}
 
 <table>
   <colgroup>
@@ -39,17 +39,17 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
       <td>salutación</td>
     </tr>
     <tr>
-      <td>Primer nombre</td>
+      <td>Primer/a</td>
       <td>Nombre</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Medio</td>
+      <td>Segundo nombre</td>
       <td>Segundo nombre</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Apellido</td>
+      <td>Último/a</td>
       <td>Apellido</td>
       <td>apellido</td>
     </tr>
@@ -66,7 +66,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     <tr>
       <td>Teléfono</td>
       <td>Teléfono comercial</td>
-      <td>telephone1</td>
+      <td>teléfono1</td>
     </tr>
     <tr>
       <td>Teléfono móvil</td>
@@ -105,7 +105,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     </tr>
     <tr>
       <td>Origen de la persona</td>
-      <td>Origen del cliente potencial</td>
+      <td>Origen del lead</td>
       <td>lead sourcecode</td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     <tr>
       <td>Notas de la persona</td>
       <td>Descripción</td>
-      <td>descripción</td>
+      <td>Descripción</td>
     </tr>
     <tr>
       <td>No llamar</td>
@@ -149,7 +149,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft - No enviar email</td>
+      <td>Microsoft - No enviar correo electrónico</td>
       <td>No permitir correos electrónicos</td>
       <td>donotemail</td>
     </tr>
@@ -166,7 +166,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     <tr>
       <td>Microsoft - Teléfono particular</td>
       <td>Teléfono particular</td>
-      <td>telephone2</td>
+      <td>teléfono2</td>
     </tr>
     <tr>
       <td>Método De Contacto Preferido De Microsoft</td>
@@ -226,7 +226,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     <tr>
       <td>Ingresos anuales</td>
       <td>Ingresos anuales</td>
-      <td>ingresos</td>
+      <td>Ingresos</td>
     </tr>
   </tbody>
 </table>
@@ -279,17 +279,17 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
       <td>salutación</td>
     </tr>
     <tr>
-      <td>Primer nombre</td>
+      <td>Primer/a</td>
       <td>Nombre</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Medio</td>
+      <td>Segundo nombre</td>
       <td>Segundo nombre</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Apellido</td>
+      <td>Último/a</td>
       <td>Apellido</td>
       <td>apellido</td>
     </tr>
@@ -306,7 +306,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     <tr>
       <td>Teléfono</td>
       <td>Teléfono comercial</td>
-      <td>telephone1</td>
+      <td>teléfono1</td>
     </tr>
     <tr>
       <td>Teléfono móvil</td>
@@ -369,14 +369,14 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft - No enviar email</td>
+      <td>Microsoft - No enviar correo electrónico</td>
       <td>No permitir correos electrónicos</td>
       <td>donotemail</td>
     </tr>
     <tr>
       <td>Microsoft - Teléfono particular</td>
       <td>Teléfono particular</td>
-      <td>telephone2</td>
+      <td>teléfono2</td>
     </tr>
     <tr>
       <td>Método De Contacto Preferido De Microsoft</td>
@@ -431,17 +431,17 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     <tr>
       <td>Notas de la persona</td>
       <td>Descripción</td>
-      <td>descripción</td>
+      <td>Descripción</td>
     </tr>
     <tr>
       <td>Calificación de persona</td>
-      <td>Puntaje del cliente potencial</td>
+      <td>Puntaje del lead</td>
       <td>mkt_lead_score</td>
     </tr>
     <tr>
       <td>Notas de la persona</td>
       <td>Descripción</td>
-      <td>descripción</td>
+      <td>Descripción</td>
     </tr>
   </tbody>
 </table>
@@ -523,9 +523,9 @@ Los campos Contacto a continuación se sincronizan para uso interno.
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Teléfono principal</td>
-      <td>Teléfono principal</td>
-      <td>telephone1</td>
+      <td>Teléfono principal:</td>
+      <td>Teléfono principal:</td>
+      <td>teléfono1</td>
     </tr>
     <tr>
       <td>Tipo de negocio</td>
@@ -545,12 +545,12 @@ Los campos Contacto a continuación se sincronizan para uso interno.
     <tr>
       <td>Ingresos anuales</td>
       <td>Ingresos anuales</td>
-      <td>ingresos</td>
+      <td>Ingresos</td>
     </tr>
     <tr>
       <td>Notas de la compañía</td>
       <td>Descripción</td>
-      <td>descripción</td>
+      <td>Descripción</td>
     </tr>
     <tr>
       <td>Industria</td>
@@ -569,7 +569,7 @@ Los campos Contacto a continuación se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Cantidad de empleados</td>
-      <td>Número de empleados</td>
+      <td>Cantidad de empleados</td>
       <td>número de empleados</td>
     </tr>
     <tr>
@@ -584,7 +584,7 @@ Los campos Contacto a continuación se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Cantidad de empleados</td>
-      <td>Número de empleados</td>
+      <td>Cantidad de empleados</td>
       <td>número de empleados</td>
     </tr>
   </tbody>
@@ -628,7 +628,7 @@ Los campos de Cuenta a continuación se sincronizan para uso interno.
       <th>Nombre de API de MS Dynamics</th>
     </tr>
     <tr>
-      <td>Cerrar probabilidad</td>
+      <td>Probabilidad cercana</td>
       <td>Probabilidad</td>
       <td>probabilidad cercana</td>
     </tr>
@@ -648,14 +648,14 @@ Los campos de Cuenta a continuación se sincronizan para uso interno.
       <td>name</td>
     </tr>
     <tr>
-      <td>Valor estimado</td>
+      <td>Valor calculado</td>
       <td>Est. Ingresos</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
       <td>Descripción</td>
       <td>Descripción</td>
-      <td>descripción</td>
+      <td>Descripción</td>
     </tr>
   </tbody>
 </table>

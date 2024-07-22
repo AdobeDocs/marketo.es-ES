@@ -19,11 +19,11 @@ Las aplicaciones sociales de Marketo tienen sus propios déclencheur y filtros e
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Para usar Social _déclencheur_, seleccione la campaña inteligente y haga clic en **Lista inteligente** pestaña. A la derecha, haga clic en + para expandir **Déclencheur**, entonces **Social**.
+1. Para usar _déclencheur_ de redes sociales, seleccione su campaña inteligente y haga clic en la ficha **Lista inteligente**. A la derecha, haz clic en + para expandir **Déclencheur** y luego **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para usar Social _filtros_, haga clic en **+** para expandir el **Filtros**.
+1. Para usar _filtros_ de redes sociales, haga clic en **+** para expandir los **filtros**.
 
    ![](assets/two-282-29.png)
 

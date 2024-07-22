@@ -6,36 +6,36 @@ exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 # Configurar anuncios de posibles clientes de Facebook {#set-up-facebook-lead-ads}
 
-Uso [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas de publicidad en Facebook y generar posibles clientes para Marketo.
+Use [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas publicitarias en Facebook y generar posibles clientes para Marketo.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!AVAILABILITY]
 >
 >Para que Facebook Lead Ads se añada a su instancia, póngase en contacto con el equipo de la cuenta de Adobe (su administrador de cuentas).
 
-1. Ir a Marketo **Administrador**.
+1. Vaya a Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ir a **LaunchPoint**, haga clic en **Nuevo,** y seleccione **Nuevo servicio**.
+1. Vaya a **LaunchPoint**, haga clic en **Nuevo,** y seleccione **Nuevo servicio**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca una **Nombre para mostrar** para el servicio, seleccione la **Facebook Lead Ads** del menú desplegable y haga clic en **Crear**.
+1. Escriba un **Nombre para mostrar** para su servicio, seleccione el servicio **Facebook Lead Ads** en la lista desplegable y haga clic en **Crear**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra una pestaña nueva en el mismo explorador y vaya a [facebook.com](https://www.facebook.com). Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
+1. Abra una ficha nueva en el mismo explorador y vaya a [facebook.com](https://www.facebook.com). Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -47,15 +47,15 @@ Uso [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecu
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Si se le solicita, haga clic en **OK** para aceptar la instalación de la aplicación de Marketo en Facebook.
+1. Si se le solicita, haga clic en **Aceptar** para aceptar la instalación de la aplicación Marketo en Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Verá que ahora está autorizado. Clic **Siguiente**.
+1. Verá que ahora está autorizado. Haga clic en **Siguiente**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Seleccione las páginas de las que desea que Marketo extraiga anuncios de Facebook Lead y haga clic en **Siguiente**.
+1. Seleccione las páginas de las que quiera que Marketo extraiga anuncios de Facebook Lead y haga clic en **Siguiente**.
 
    >[!TIP]
    >
@@ -67,7 +67,7 @@ Uso [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecu
 
    >[!TIP]
    >
-   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de los anuncios potenciales en Marketo. También puede [extraer datos de preguntas personalizadas de Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de los anuncios potenciales en Marketo. También puede [extraer datos de las preguntas personalizadas de los anuncios de posibles clientes](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -82,5 +82,5 @@ Uso [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecu
 >[!MORELIKETHIS]
 >
 >* [Asignar o quitar permisos en el Administrador de acceso de posibles clientes (Facebook)](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
->* [Uso de filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Usar filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [Asignar campos personalizados a Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

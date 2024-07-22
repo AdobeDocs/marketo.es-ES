@@ -18,17 +18,17 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 >[!PREREQUISITES]
 >
 >* [Crear un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Creación de una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Crear una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Busque la página de aterrizaje y haga clic en **Editar borrador**.
+1. Busque su página de aterrizaje y haga clic en **Editar borrador**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Arrastre y suelte el **Form** en la página.
+1. Arrastre y suelte el elemento **Form** en la página.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 
 1. Tiene tres opciones al elegir la página de seguimiento:
 
-   * **Página de aterrizaje** - para elegir una página de aterrizaje de Marketo
-   * **URL externa** - para elegir cualquier URL que desee
-   * **Formulario definido** : para utilizar la configuración definida a nivel de formulario
+   * **Página de aterrizaje**: para elegir una página de aterrizaje de Marketo
+   * **Dirección URL externa**: para elegir la dirección URL que desee
+   * **Formulario definido** - para usar la configuración definida a nivel de formulario
 
    >[!NOTE]
    >
@@ -48,10 +48,10 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
    >
    >La página de seguimiento es la página que verán los usuarios después de enviar el formulario.
 
-1. Clic **Insertar**.
+1. Haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    ¡Bien hecho!
 
-Simplemente cierre el editor de la página de aterrizaje y [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Simplemente cierre el editor de páginas de aterrizaje y [apruebe el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

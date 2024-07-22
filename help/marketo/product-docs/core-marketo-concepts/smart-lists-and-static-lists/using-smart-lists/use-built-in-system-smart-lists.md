@@ -15,15 +15,15 @@ ht-degree: 7%
 
 El Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
 
-1. Vaya a la **[!UICONTROL Base de datos]**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/db.png)
 
-1. Abra el **[!UICONTROL Listas inteligentes del sistema]** para mostrar la colección.
+1. Abra la carpeta **[!UICONTROL Listas inteligentes del sistema]** para mostrar la colección.
 
    ![](assets/two.png)
 
-1. Para ver un ejemplo: Seleccione **[!UICONTROL Todas las personas]**, luego haga clic en **[!UICONTROL People]** pestaña.
+1. Para ver un ejemplo: Seleccione **[!UICONTROL Todas las personas]** y luego haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/three.png)
 
@@ -38,8 +38,8 @@ Este es un resumen de lo que hacen las listas inteligentes integradas:
 | Todas las personas | Todas las personas de la base de datos de Marketo |
 | Personas que cancelaron su suscripción | A estas personas solo se les pueden enviar correos electrónicos operativos; esto generalmente lo controla la propia persona. |
 | Marketing suspendido | Estas personas solo pueden recibir correos electrónicos operativos; normalmente, usted, el experto en marketing, lo controla. |
-| Lista de bloqueados | Estas personas no recibirán ningún correo electrónico. |
-| Direcciones de emails rechazadas | Personas con una dirección de correo electrónico que no se puede enviar o que rechazan el correo electrónico. |
+| Lista de bloqueos | Estas personas no recibirán ningún correo electrónico. |
+| Direcciones de email rechazadas | Personas con una dirección de correo electrónico que no se puede enviar o que rechazan el correo electrónico. |
 | Duplicados posibles | Personas que podrían estar duplicadas en la base de datos de Marketo. |
 
 >[!NOTE]

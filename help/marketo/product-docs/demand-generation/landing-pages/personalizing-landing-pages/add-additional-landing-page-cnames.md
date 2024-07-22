@@ -21,19 +21,19 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
 >[!TIP]
 >
->**Mismo dominio de nivel superior: ¡bueno! Las cookies se comparten**.<br/> **ir**.mycompany.com > **información**.mycompany.com
+>**Mismo dominio de nivel superior - ¡Bien! Se comparten las cookies**.<br/> **ir**.mycompany.com > **información**.mycompany.com
 >
->**Diferentes dominios de nivel superior: ¡malo! Las cookies son _no_ compartido**.<br/> ve.**mycompany**.com > ir.**mynewcompany**.com
+>**Diferentes dominios de nivel superior - ¡Malo! Las cookies _no_ se han compartido**.<br/> ir.**mycompany**.com > ir.**mynewcompany**.com
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Clic **Mi cuenta**.
+1. Haga clic en **Mi cuenta**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
 ## Enviar solicitud a TI {#send-request-to-it}
 
-1. Solicite a su departamento de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] con el CNAME de su elección y [ID de Munchkin] con el texto del paso anterior).
+1. Pida al departamento de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] por el CNAME de su elección y [Munchkin ID] por el texto del paso anterior).
 
    [CNAME].YourCompany.com > [ID de Munchkin].mktoweb.com
 
 ## Añadir un nuevo CNAME {#add-a-new-cname}
 
-1. Una vez que el departamento de TI haya creado el CNAME, vaya a **Administrador** área.
+1. Una vez que el departamento de TI haya creado el CNAME, vaya al área de **Admin**.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Clic **Páginas de aterrizaje**.
+1. Haga clic en **Páginas de aterrizaje**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Clic **Nuevo** luego seleccione **Nuevo alias de dominio**.
+1. Haga clic en **Nuevo** y, a continuación, seleccione **Nuevo alias de dominio**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Introduzca su **Alias de dominio.** El **Página predeterminada** se muestra si el visitante no introduce una dirección URL. Introduzca a dónde deben ir en ese caso.
+1. Escriba su alias de dominio **.**: se muestra la **página predeterminada** si el visitante no escribe una dirección URL. Introduzca a dónde deben ir en ese caso.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Introduzca su **Página predeterminada** y haga clic en **Crear**.
+1. Escriba su **página predeterminada** y haga clic en **Crear**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

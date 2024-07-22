@@ -17,21 +17,21 @@ Para recibir actualizaciones automáticas de un informe básico o compartirlo, p
 
 >[!NOTE]
 >
->Para las suscripciones al informe del Explorador del ciclo de ingresos, consulte [Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Para las suscripciones al informe del Explorador del ciclo de ingresos, consulte [Suscribirse a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en **Suscripciones** pestaña.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Suscripciones**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >También puede suscribirse a informes desde el **Analytics** pestaña.
+   >También puede suscribirse a informes desde la ficha **Analytics**.
 
-1. Clic **Nueva suscripción a informe**.
+1. Haga clic en **Nueva suscripción a informe**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +49,4 @@ Para recibir actualizaciones automáticas de un informe básico o compartirlo, p
 
    >[!MORELIKETHIS]
    >
-   >Obtenga información sobre cómo [administrar todas las suscripciones a informes](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un solo lugar.
+   >Aprenda a [administrar todas las suscripciones a informes](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un solo lugar.

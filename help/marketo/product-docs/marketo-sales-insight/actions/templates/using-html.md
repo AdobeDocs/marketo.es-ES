@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/using-html-2.png)
 
-1. Haga clic en **Origen** en el editor de plantillas.
+1. Haga clic en el botón **Source** del editor de plantillas.
 
    ![](assets/using-html-3.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Si ve el error &quot;Error - para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no admitimos. Debe buscar la palabra estilo en el código fuente y eliminar todo de `<style>` mediante `</style>`.
+>Si ve el error &quot;Error - para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no admitimos. Debe buscar la palabra estilo en el código Source y eliminar todo desde `<style>` hasta `</style>`.

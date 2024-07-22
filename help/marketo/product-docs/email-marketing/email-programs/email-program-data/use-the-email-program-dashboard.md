@@ -17,11 +17,11 @@ Consulte el rendimiento de sus programas de correo electrónico con esta vista d
 
 >[!CAUTION]
 >
->Para obtener un informe preciso, evite _reutilización_ Cree un correo electrónico desde un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar, ya que copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
+>Para generar informes precisos, evite _reutilizar_ un correo electrónico de un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, ya que esto copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
 
 >[!NOTE]
 >
->Si su programa tiene una prueba A/B, consulte la [Panel del programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Si su programa tiene una prueba A/B, consulte [Panel del programa de correo electrónico - Vista de la prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ Este gráfico muestra el número de correos electrónicos abiertos o en los que 
 
 ## Resumen - Participación {#summary-engagement}
 
-Esto le muestra el total [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Esto le muestra la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"} general.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ El resto de los datos se muestran como Aperturas, Clics, Proporción de clics/ap
 
 >[!TIP]
 >
->El **Cancelar suscripción** La tasa del ejemplo anterior era tan pequeña que Marketo amplió para ofrecerle un mejor aspecto. El segundo número dentro de la barra simplemente se agrega para escalar.
+>La tasa de **cancelación de suscripción** en el ejemplo anterior era tan pequeña que Marketo aumentó para ofrecerle un mejor aspecto. El segundo número dentro de la barra simplemente se agrega para escalar.
 
 >[!NOTE]
 >
 >**Definición**
 >
->**Aperturas** se cuentan cuando el destinatario del correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado en Marketo. Si el destinatario ve el correo electrónico pero decide no descargar sus imágenes, no se contará como una apertura. Si las imágenes se cargan en el panel de vista previa del destinatario, generalmente se contará como una apertura, pero variará según el cliente de correo electrónico.
+>**Las aperturas** se cuentan cuando el destinatario del correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado por Marketo. Si el destinatario ve el correo electrónico pero decide no descargar sus imágenes, no se contará como una apertura. Si las imágenes se cargan en el panel de vista previa del destinatario, generalmente se contará como una apertura, pero variará según el cliente de correo electrónico.
 >
->**Haga clic para abrir** mide el porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo. Tomamos el número de clics únicos dividido por el número de aperturas únicas y luego lo multiplicamos por 100 para mostrarlo como un porcentaje.
+>**Clic para abrir** mide el porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo. Tomamos el número de clics únicos dividido por el número de aperturas únicas y luego lo multiplicamos por 100 para mostrarlo como un porcentaje.
 
 ## Actualizar panel {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ Para ver los datos más actualizados, simplemente haga clic en el icono de actua
 
 >[!MORELIKETHIS]
 >
->[Uso del panel del programa de correo electrónico: vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[Usar el panel del programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

@@ -20,7 +20,7 @@ Siga los pasos a continuación para aprender a utilizar los déclencheur y filtr
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. En el **Lista inteligente** pestaña, busque &quot;Aplicaciones de ventas&quot;.
+1. En la ficha **Lista inteligente**, busque &quot;Aplicaciones de ventas&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Siga los pasos a continuación para aprender a utilizar los déclencheur y filtr
 
 >[!NOTE]
 >
->Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestra [Glosario de actividades de acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestro [Glosario de actividades de acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

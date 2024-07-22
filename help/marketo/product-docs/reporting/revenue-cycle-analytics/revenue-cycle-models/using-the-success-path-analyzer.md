@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Uso del analizador de rutas de éxito {#using-the-success-path-analyzer}
 
-Utilice un analizador de rutas de éxito para explorar los detalles específicos que reflejan el flujo (cantidad) y la velocidad (velocidad, en términos de días) de las personas en las fases de su [Modelo del ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Use un analizador de rutas de éxito para explorar los detalles específicos que reflejan tanto el flujo (cantidad) como la velocidad (velocidad, en términos de días) de las personas a través de las fases de su [modelo del ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Creación de un analizador de rutas de éxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Crear un analizador de rutas de éxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Ir a **Analytics** y seleccione su **Analizador de rutas de éxito**.
+1. Vaya a **Analytics** y seleccione su **Analizador de rutas de éxito**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    El gráfico de la derecha refleja los datos en el botón seleccionado de la izquierda. De forma predeterminada, es Balance.
 
-1. Clic **En flujo** para representar gráficamente cuántas personas entraron en el escenario durante el lapso de tiempo seleccionado.
+1. Haga clic en **En flujo** para representar gráficamente cuántas personas ingresaron al escenario durante el lapso de tiempo seleccionado.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,17 +33,17 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
    * Haga clic en Conv % para representar gráficamente la tasa de conversión de esta etapa a la siguiente.
    * Haga clic en Tiempo promedio para ver cuánto tiempo han pasado las personas en esta fase antes de pasar a la siguiente.
 
-1. Clic **Acciones de gráfico** > Comparar periodo para comparar los datos con un lapso de tiempo diferente de igual longitud.
+1. Haga clic en **Acciones de gráfico** > Comparar período para comparar los datos con un lapso de tiempo diferente de igual longitud.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Seleccione el **Desde** fecha del período de comparación.
+1. Seleccione la fecha **Desde** para el período de comparación.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   El **Hasta** La fecha se configura automáticamente para que coincida con la duración del período de tiempo original.
+   La fecha **Hasta** se establece automáticamente para que coincida con la duración del período de tiempo original.
 
-1. Clic **Comparar**.
+1. Haga clic en **Comparar**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Para cambiar la escala de tiempo del gráfico, haga clic en uno de los **Gráfico por** botones: diario (predeterminado), semanal y mensual
+1. Para cambiar la escala de tiempo del gráfico, haga clic en uno de los botones **Gráfico de**: diario (predeterminado), semanal y mensual
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para las fases con SLA (contratos de nivel de servicio), haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a cada persona que ha incumplido un objetivo de SLA en el lapso de tiempo especificado.
+1. Para las fases con SLA (contratos de nivel de servicio), haga clic en **Acciones de gráfico** > **Mostrar vencimiento de SLA** para mostrar a todas las personas que no hayan cumplido un objetivo de SLA en el lapso de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Las personas que aparecen en naranja podrían *o puede que no* aún se encuentra en la fase de SLA.
+   Las personas que aparecen en naranja podrían *o no* seguir en la fase de SLA.
 
-1. Clic **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar todas las personas con objetivos de SLA caducados que aún se encuentran en la fase de SLA al final del período de tiempo especificado.
+1. Haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar todas las personas con objetivos de SLA vencidos que aún se encuentran en la fase de SLA al final del período de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 

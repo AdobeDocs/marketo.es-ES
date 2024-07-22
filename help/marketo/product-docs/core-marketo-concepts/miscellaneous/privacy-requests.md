@@ -4,8 +4,8 @@ title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -25,8 +25,8 @@ Este documento proporciona información general sobre la administración de soli
 
 Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos de Marketo Engage de dos formas:
 
-* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [aquí](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=es){target="_blank"}.
-* A través de la API de Privacy Service. Consulte la documentación [aquí](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* A través de la [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [aquí](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=es){target="_blank"}.
+* A través de la API de Privacy Service. Consulte la documentación [aquí](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} y la información de la API [aquí](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
 El [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} admite dos tipos de solicitudes: acceso a datos y eliminación de datos.
 
@@ -38,10 +38,10 @@ Para realizar solicitudes de acceso y eliminación de datos para Marketo Engage,
 
 1. Identificar lo siguiente:
 
-   a. ID de organización de IMS<br/>
+   a. ID de organización de IMS <br/>
 b. Dirección de correo electrónico de la persona sobre la que desea actuar
 
-   Un ID de organización de IMS es una cadena alfanumérica de 24 caracteres anexada a @AdobeOrg. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen el ID de organización de IMS de su organización, póngase en contacto con el Servicio de atención al cliente de Adobe en `gdprsupport@adobe.com`. Necesita el ID de organización de IMS para enviar solicitudes a la API de privacidad.
+   Un ID de organización de IMS es una cadena alfanumérica de 24 caracteres anexada a @AdobeOrg. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen la ID de organización de IMS de su organización, póngase en contacto con el servicio de atención al cliente de Adobe en `gdprsupport@adobe.com`. Necesita el ID de organización de IMS para enviar solicitudes a la API de privacidad.
 
 1. En Privacy Service, puede enviar solicitudes de acceso y eliminación a Marketo Engage y comprobar el estado de las solicitudes existentes.
 
@@ -49,16 +49,16 @@ b. Dirección de correo electrónico de la persona sobre la que desea actuar
 
 &quot;companyContext&quot;:
 
-* &quot;namespace&quot;: **imsOrgID**
-* &quot;Valor&quot;: `<Your IMS Org ID Value>`
+* &quot;área de nombres&quot;: **imsOrgID**
+* &quot;valor&quot;: `<Your IMS Org ID Value>`
 
 &quot;usuarios&quot;:
 
-* &quot;action&quot;: bien **access** o **eliminar**
+* &quot;acción&quot;: **acceso** o **eliminación**
 * &quot;userID&quot;:
-   * &quot;namespace&quot;: **email**
-   * &quot;tipo&quot;: **standard**
-   * &quot;Valor&quot;: `<Data Subject's Email Address>`
+   * &quot;área de nombres&quot;: **correo electrónico**
+   * &quot;tipo&quot;: **estándar**
+   * &quot;valor&quot;: `<Data Subject's Email Address>`
 
 &quot;incluir&quot;:
 
@@ -66,7 +66,7 @@ b. Dirección de correo electrónico de la persona sobre la que desea actuar
 
 &quot;regulación&quot;:
 
-* **rgpd**, **ccpa**, **pdpa**, **lgpd_bra**, o **nzpa_nzl**  (que es la norma de privacidad que se aplica a la solicitud)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** o **nzpa_nzl** (que es la norma de privacidad que se aplica a la solicitud)
 
 ## Ejemplo 1: Solicitud de eliminación de RGPD {#gdpr-delete-request}
 

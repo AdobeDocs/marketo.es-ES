@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo permite compartir modelos entre espacios de trabajo. Así es como.
 
-1. Vaya a la **Analytics** sección.
+1. Vaya a la sección **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Haga clic con el botón derecho **Mis modelos** y haga clic en **Nueva carpeta**.
+1. Haga clic con el botón derecho en la carpeta **Mis modelos** y luego haga clic en **Nueva carpeta**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,7 +27,7 @@ Marketo permite compartir modelos entre espacios de trabajo. Así es como.
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Arrastre los modelos que desee compartir a la carpeta **Compartir carpeta**.
+1. Arrastre los modelos que desee compartir a la **carpeta para compartir**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 

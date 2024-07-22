@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -17,20 +17,20 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/edit-account-settings-1.png)
 
-1. Seleccionar **[!UICONTROL Mi cuenta]**.
+1. Seleccione **[!UICONTROL Mi cuenta]**.
 
    ![](assets/edit-account-settings-2.png)
 
-1. Seleccionar **[!UICONTROL Editar configuración de la cuenta]**.
+1. Seleccione **[!UICONTROL Editar configuración de la cuenta]**.
 
    ![](assets/edit-account-settings-3.png)
 
-1. Realice las ediciones necesarias y haga clic en **[!UICONTROL Guardar]**.
+1. Realice las modificaciones que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-account-settings-4.png)

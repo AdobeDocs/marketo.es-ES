@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puede configurar déclencheur y filtros para una aplicación móvil o campaña inteligente.
 
-Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para rastrear una acción, como pulsar una notificación push, que _no lo hice_ suceda.
+Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Use filtros de inactividad para rastrear una acción (por ejemplo, tocar una notificación push) que _no se_ produjo.
 
 * La Aplicación Móvil Está/Estaba Instalada
 * Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
@@ -39,7 +39,7 @@ Utilice restricciones con déclencheur y filtros para ordenar aún más los dato
 
 Todos los déclencheur, excepto la notificación push de tipo Se envió, contienen estas dos restricciones estándar:
 
-* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tableta Android, desconocido (esta es una lista preestablecida)
+* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, desconocido (esta es una lista preestablecida)
 
 * Platform: iPhone o Android
 
@@ -47,7 +47,7 @@ Algunos déclencheur ofrecen restricciones adicionales, como las siguientes:
 
 * Versión de la aplicación: una forma de dirigirse a personas que no están en la versión más reciente. Por ejemplo, si la versión más reciente de la aplicación es 2.0, puede utilizarla para buscar personas que NO estén en la versión 2.0 de la aplicación
 
-* Instalar origen: actualmente, la única opción es API
+* Instalar Source: actualmente, la única opción es API
 
 * Configuración regional: la configuración del dispositivo
 
@@ -57,7 +57,7 @@ Algunos déclencheur ofrecen restricciones adicionales, como las siguientes:
 
 * Duración de la sesión (segundos): tiempo de la sesión cuando la aplicación está en primer plano
 
-* ¿Está activada la push? **Verdadero** significa que se pueden enviar notificaciones push. **Falso** significa que no pueden; por ejemplo, la persona puede haber optado por no recibir notificaciones push
+* Está habilitada la funcionalidad Push - **True** significa que se pueden enviar notificaciones push. **Falso** significa que no pueden hacerlo; por ejemplo, es posible que la persona haya optado por no recibir notificaciones push
 
 ## Déclencheur y filtros {#triggers-and-filters}
 
@@ -69,7 +69,7 @@ Utilice este filtro para averiguar todas las personas que han instalado su aplic
 >
 >El filtro encontrará instalaciones actuales y anteriores, ya que Marketo no realiza un seguimiento de las desinstalaciones de aplicaciones.
 
-**Restricciones** : Tipo de dispositivo, plataforma, aplicación móvil, versión de aplicación móvil, tipo de dispositivo, origen de instalación, con push habilitado y configuración regional
+**Restricciones**: Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de aplicación móvil, Tipo de dispositivo, Instalar Source, Es push habilitado y Configuración regional.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ La Aplicación Móvil Está/Estaba Instalada
 
 * No se ha instalado la aplicación móvil: filtro de inactividad
 
-**Restricciones** : Tipo de dispositivo, plataforma, versión de aplicación, configuración regional y origen de instalación
+**Restricciones**: tipo de dispositivo, plataforma, versión de aplicación, configuración regional e instalación de Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Deberá trabajar con el desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 
@@ -129,7 +129,7 @@ Las restricciones de acción permiten utilizar el déclencheur y los filtros par
 >
 >**Ejemplo**
 >
->En el tipo de acción de *Compras* Sin embargo, esta es una acción muy específica, con las otras restricciones que la definen:
+>Bajo el tipo de acción *Compras*, hay una acción muy específica, con las demás restricciones que la definen:
 >
 >* Compré una camisa
 >   * Era rojo
@@ -152,7 +152,7 @@ Este es el aspecto del filtro en Marketo:
 >| Detalles de la acción | Color | Color |
 >| Métrica de la acción | Precio | Precio |
 
-**Tiene/tuvo sesión de aplicación móvil**
+**Tiene/Tuvo Sesión De Aplicación Móvil**
 
 * Tiene sesión de aplicación móvil: déclencheur
 
@@ -160,7 +160,7 @@ Este es el aspecto del filtro en Marketo:
 
 * NO se ha tenido la sesión de la aplicación móvil: filtro de inactividad
 
-**Restricciones** : Tipo de dispositivo, plataforma y duración de la sesión (segundos)
+**Restricciones**: tipo de dispositivo, plataforma y duración de la sesión (segundos)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ Notificaciones push con toque o toque
 
 * Notificación push sin pulsar: filtro de inactividad
 
-**Restricciones** : Tipo de dispositivo, Plataforma, Versión de aplicación móvil, Notificación push y Versión de plataforma
+**Restricciones**: tipo de dispositivo, plataforma, versión de aplicación móvil, notificación push y versión de plataforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,7 +180,7 @@ Notificaciones push con toque o toque
 >
 >Utilice el filtro de inactividad de notificaciones push sin pulsar para buscar personas que no hayan pulsado una notificación push que se les haya enviado recientemente, de modo que pueda realizar el seguimiento por correo electrónico.
 
-**Se Envió La Notificación Push** Esta actividad solo está disponible como filtro.
+**Se envió la notificación push** Esta actividad solo está disponible como filtro.
 
 * Se envió la notificación push: filtro
 
@@ -193,4 +193,4 @@ Notificaciones push con toque o toque
 >[!MORELIKETHIS]
 >
 >* [Agregar una restricción a un filtro de listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Uso de filtros de inactividad en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [Usar filtros de inactividad en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

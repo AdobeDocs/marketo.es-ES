@@ -7,23 +7,23 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Transición de personas entre flujos de participación {#transition-people-between-engagement-streams}
 
-Los programas de participación pueden tener más de un flujo. Si usted [agregar un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), querrá definir una forma en que las personas se muevan de un flujo a otro. Estos se denominan **reglas de transición.**
+Los programas de participación pueden tener más de un flujo. Si [agrega una secuencia](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), querrá definir una forma para que las personas se muevan de una secuencia a otra. Se denominan **reglas de transición.**
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione su programa de participación de varias transmisiones y vaya a **Flujos**.
+1. Seleccione su programa de participación de varias transmisiones y vaya a **Transmisiones**.
 
    ![](assets/multistream.jpg)
 
-1. Clic **Reglas de transición** para la secuencia que desee extraer de otras secuencias, haga clic en **Editar reglas de transición**.
+1. Haga clic en **Reglas de transición** para el flujo que quiera extraer de otros flujos y luego haga clic en **Editar reglas de transición**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ Los programas de participación pueden tener más de un flujo. Si usted [agregar
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Vamos a establecer el operador en **es cualquier** para que la gente se traslade para cualquier oportunidad adicional.
+1. Establezcamos el operador en **is any** para que las personas se trasladen para cualquier oportunidad agregada.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -47,10 +47,10 @@ Los programas de participación pueden tener más de un flujo. Si usted [agregar
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Excelente! Ahora, cualquier persona del programa de participación que se añada a una oportunidad se moverá al flujo de fase intermedia.
+   ¡Excelente! Ahora, cualquier persona del programa de participación que se añada a una oportunidad se moverá al flujo de fase intermedia.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >Los pasos descritos anteriormente *hacer* se aplican a las personas que [al pausar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) y también.
+   >Los pasos descritos anteriormente *do* se aplican a las personas que están [en pausa](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) también.

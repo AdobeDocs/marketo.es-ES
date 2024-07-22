@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Connect incluye dos categorías predeterminadas que ayudan a organizar las plantillas.
 
-1. Haga clic en **+** junto a **Categorías**.
+1. Haga clic en el icono **+** junto a **Categorías**.
 
 1. Escriba un nombre para la nueva categoría y haga clic en **Crear**.
 

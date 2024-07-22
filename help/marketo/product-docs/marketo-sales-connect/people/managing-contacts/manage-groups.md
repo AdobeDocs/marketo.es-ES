@@ -21,7 +21,7 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/one-4.png)
 
-1. Nombre el grupo y haga clic en **Crear**.
+1. Asigne un nombre al grupo y haga clic en **Crear**.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Clic **Acciones de grupo** y seleccione **Crear contacto**.
+1. Haga clic en **Acciones de grupo** y seleccione **Crear contacto**.
 
    ![](assets/four-3.png)
 
@@ -65,7 +65,7 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/eight.png)
 
-1. Clic **Compartir**.
+1. Haga clic en **Compartir**.
 
    ![](assets/nine.png)
 
@@ -81,7 +81,7 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Haga clic en **X** junto al equipo con el que compartió el grupo y, a continuación, haga clic en fuera del modal.
+1. Haga clic en **X** junto al equipo con el que compartió el grupo y luego haga clic fuera del modal.
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/six.png)
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Cambiar nombre**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **Rename**.
 
    ![](assets/thirteen.png)
 
@@ -111,6 +111,6 @@ Aprenda a administrar sus grupos en Sales Connect.
 
    ![](assets/sixteen.png)
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/seventeen.png)

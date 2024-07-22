@@ -7,31 +7,31 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Habilite direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
 
-Las direcciones URL personalizadas son buenas para las campañas de correo impreso.
+Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **Administrador** y haga clic en **Páginas de aterrizaje**.
+1. Vaya a la sección **Admin** y haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Compruebe la **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
+1. Marque la casilla **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-¡bueno trabajo! Ahora que ha habilitado las PURL en su cuenta, puede habilitarlas para páginas de aterrizaje individuales.
+¡Buen trabajo! Ahora que ha habilitado las PURL en su cuenta, puede habilitarlas para páginas de aterrizaje individuales.
 
 >[!NOTE]
 >

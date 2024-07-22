@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Puede añadir vínculos entrantes manualmente. A continuación se muestra cómo:
 
-1. Vaya a la **[!UICONTROL Vínculos entrantes]** sección.
+1. Vaya a la sección **[!UICONTROL Vínculos entrantes]**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Clic **[!UICONTROL Añadir URL]**.
+1. Haga clic en **[!UICONTROL Agregar direcciones URL]**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Escriba la dirección URL. Clic **[!UICONTROL Añadir]**.
+1. Escriba la dirección URL. Haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >¿Sabías que puedes [añadir el vínculo de entrada a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? ¡Eche un vistazo!
+   >¿Sabía que puede [agregar su vínculo de entrada a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? ¡Eche un vistazo!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

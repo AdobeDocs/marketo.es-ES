@@ -13,23 +13,23 @@ ht-degree: 2%
 
 # Administrar mis tokens {#managing-my-tokens}
 
-El uso de tokens puede simplificar sus esfuerzos en Marketo. Puede utilizar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) en pasos de flujo, webhooks, correos electrónicos y páginas de aterrizaje. Así es como se hacen.
+El uso de tokens puede simplificar sus esfuerzos en Marketo. Puede usar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) en pasos de flujo, webhooks, correos electrónicos y páginas de aterrizaje. Así es como se hacen.
 
 >[!TIP]
 >
->Obtenga más información acerca de los tokens que ya están disponibles en [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>Obtenga más información sobre los tokens que ya están disponibles en [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Crear un token My {#create-a-my-token}
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione un programa o una carpeta de campaña. Clic **[!UICONTROL Mis tokens]**.
+1. Seleccione un programa o una carpeta de campaña. Haga clic en **[!UICONTROL Mis tokens]**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Seleccione una **[!UICONTROL Mi token]** escriba. Arrástrelo y suéltelo en el lienzo.
+1. Seleccione un tipo de **[!UICONTROL Mi token]**. Arrástrelo y suéltelo en el lienzo.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ El uso de tokens puede simplificar sus esfuerzos en Marketo. Puede utilizar [Mis
 
 ## Editar un token mío {#edit-a-my-token}
 
-1. Haga doble clic en **[!UICONTROL Mi token]** y realice sus cambios. Haga clic en **Guardar**.
+1. Haga doble clic en **[!UICONTROL Mi token]** y realice los cambios. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,16 +57,16 @@ El uso de tokens puede simplificar sus esfuerzos en Marketo. Puede utilizar [Mis
 >
 >Cuando elimine un My Token, asegúrese de que no hace referencia a él en ningún recurso. Si se elimina, se mostrará un espacio en blanco en cualquier lugar donde se haga referencia a él.
 
-1. Haga clic con el botón derecho en **[!UICONTROL Mi token]**. Seleccionar **[!UICONTROL Eliminar token]**.
+1. Haga clic con el botón derecho en **[!UICONTROL Mi token]**. Seleccione **[!UICONTROL Eliminar token]**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Clic **[!UICONTROL Eliminar]**.
+1. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+   >* [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
    >* [Explicación de mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
-   >* [Uso de URL en Mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}
+   >* [Usando direcciones URL en Mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

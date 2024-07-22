@@ -7,7 +7,7 @@ feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
 ## Recuperación del script de conversión {#retrieve-the-conversion-script}
 
-1. En el editor de ofertas de referencia, haga clic en **Detalles de oferta** y luego seleccione **Evento de JavaScript del cliente** en la lista desplegable objetivo de cumplimiento.
+1. En el editor de ofertas de reenvío, haga clic en **Detalles de la oferta** y, a continuación, seleccione **Evento de JavaScript del cliente** en la lista desplegable de objetivo de cumplimiento.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copie el script superior en el cuadro gris y colóquelo en la página web dentro de `<body>` etiquetas. La secuencia de comandos inferior se coloca dentro de `<header>` etiquetas.
+1. Copie el script superior en el cuadro gris y colóquelo en la página web dentro de las etiquetas `<body>`. El script inferior se coloca dentro de las etiquetas `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
 ## Recuperación del script del cargador {#retrieve-the-loader-script}
 
-1. Seleccione la oferta de referencia del árbol y haga clic en **Acciones de oferta de referencia** y **Código incrustado**.
+1. Seleccione la oferta de referencia del árbol y, a continuación, haga clic en **Acciones de oferta de referencia** y en **Código incrustado**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Haga clic con el botón derecho en **Código de encabezado** e insértelo en el encabezado de la página web. A continuación, haga lo mismo para el **Código de cuerpo**.
+1. Haga clic con el botón derecho en **Código de encabezado** e insértelo en el encabezado de la página web. Entonces haga lo mismo para el **Código de cuerpo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,16 +47,16 @@ Pegue los scripts de conversión en el HTML para el cuerpo y el encabezado. A co
 
 ## Conexión del script de conversión {#connecting-the-conversion-script}
 
-Aquí es donde escribirá una función de JavaScript que utilice el ID de HTML específico del elemento de página en el que desee almacenar en déclencheur la finalización del objetivo. Por ejemplo:
+Aquí es donde escribirá una función de JavaScript que utiliza el ID de HTML específico del elemento de página en el que desee almacenar en déclencheur la finalización del objetivo. Por ejemplo:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
 En este ejemplo hay un botón en la página web con el ID &quot;#myButtonId&quot;. Cuando se hace clic en ese botón, la persona se registra como si hubiera completado el objetivo.
 
-¡Increíble! El sitio web ahora captura los objetivos de promoción social personalizados con Marketo.
+¡Fantástico! El sitio web ahora captura los objetivos de promoción social personalizados con Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Especificar objetivo para oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Especificar meta para oferta de reenvío](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implementar Social en el sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Implementar Social en su sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

@@ -6,7 +6,7 @@ exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -31,11 +31,11 @@ Cambie la configuración, como la zona horaria o los informes de correo electró
    * Añadir datos personales (nombre y apellido, número de móvil y zona horaria)
    * Seleccione el número de filas que desee exportar al exportar tablas en la plataforma. Ver campo: &quot;Número máximo de filas en la exportación de Excel (limitado a 10 000)&quot;
    * Seleccione las notificaciones móviles de una nueva persona o lista de observación relacionada con la aplicación móvil
-   * Ajuste la configuración de la región personal haciendo clic en **Editar regiones**.
+   * Para ajustar la configuración de la región personal, haga clic en **Editar regiones**.
    * Cambiar la contraseña
    * Seleccione la configuración de notificación de los informes de correo electrónico para los informes de correo electrónico sobre organizaciones, personas, campañas y rendimiento de los recursos
 
-   Clic **Guardar** después de realizar cualquier cambio.
+   Haga clic en **Guardar** después de realizar los cambios.
 
    >[!NOTE]
    >
@@ -43,13 +43,13 @@ Cambie la configuración, como la zona horaria o los informes de correo electró
 
 ## Seleccionar informes de correo electrónico {#select-email-reports}
 
-Seleccione qué [informe de correo electrónico](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) para asociarlo a su usuario y frecuencia (diaria, semanal o trimestral) de envío del informe.
+Seleccione el [informe de correo electrónico](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) que desea asociar a su usuario y la frecuencia (diaria, semanal o trimestral) con que se enviará el informe.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Clic **Guardar** no le sacará de Configuración de usuario. Para salir, haga clic en el logotipo de Marketo en la esquina superior izquierda y seleccione el destino.
+>Al hacer clic en **Guardar** no abandonarás la Configuración de usuario. Para salir, haga clic en el logotipo de Marketo en la esquina superior izquierda y seleccione el destino.
 
 >[!MORELIKETHIS]
 >

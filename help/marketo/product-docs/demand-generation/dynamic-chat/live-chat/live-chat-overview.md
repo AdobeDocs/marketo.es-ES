@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ El chat en vivo permite a los visitantes del sitio web entablar conversaciones d
 
 ## Añadir agentes de chat en directo {#add-live-chat-agents}
 
-Para comenzar con el chat en vivo, tendrás que agregar tus agentes de chat en vivo como [usuarios en Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Una vez hecho esto, puede agregar una [tarjeta de chat en vivo](#using-the-live-chat-card) a un cuadro de diálogo nuevo o existente.
+Para comenzar a usar el chat en vivo, deberás agregar a tus agentes de chat en vivo como [usuarios en Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} y darles el [permiso para chatear en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Una vez hecho esto, puedes agregar una [tarjeta de chat en vivo](#using-the-live-chat-card) a un cuadro de diálogo nuevo o existente.
 
-Cuando los visitantes soliciten hablar con un agente a través de su cuadro de diálogo, los agentes tendrán varios [opciones de notificación](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} donde pueden comenzar a chatear con el visitante.
+Cuando los visitantes soliciten hablar con un agente a través de su Diálogo, los agentes tendrán [opciones de notificación](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Cuando hagan clic en la notificación, se les redirigirá a su [Bandeja de entrada del agente](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}, donde podrán empezar a conversar con el visitante.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Cuando los visitantes soliciten hablar con un agente a través de su cuadro de d
 
 ## Uso de la tarjeta de chat en directo {#using-the-live-chat-card}
 
-Utilice la tarjeta de chat en vivo en el [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} cuando desee que los visitantes charlen con un agente activo.
+Usa la tarjeta de chat en vivo en [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} cuando quieras que los visitantes chateen con un agente en vivo.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
   </tr>
     <tr> 
    <td><b>Reglas personalizadas</b></td>
-   <td>Todas las reglas personalizadas se someterán al ciclo cuando se considere hacia dónde dirigir al visitante. Si el visitante no cumple los requisitos para ninguna regla personalizada, obtiene el <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensaje de reserva de chat en vivo</a>.</td>
+   <td>Todas las reglas personalizadas se someterán al ciclo cuando se considere hacia dónde dirigir al visitante. Si el visitante no cumple los requisitos para ninguna regla personalizada, recibe el <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensaje de reserva de chat en vivo</a>.</td>
   </tr> 
   <tr> 
    <td><b>Equipo</b></td>
@@ -78,11 +78,11 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
 
 ### Activación de notificaciones {#enabling-notifications}
 
-Los agentes de chat en vivo verán un banner en la parte superior de la pantalla cuando inicien sesión que dice &quot;Habilita las notificaciones del navegador para recibir notificaciones de chat en vivo&quot;. Clic **Activar**.
+Los agentes de chat en vivo verán un banner en la parte superior de la pantalla cuando inicien sesión que dice &quot;Habilita las notificaciones del navegador para recibir notificaciones de chat en vivo&quot;. Haga clic en **Habilitar**.
 
 ![](assets/live-chat-overview-4.png)
 
-El navegador solicitará a los agentes de chat en vivo que muestren notificaciones. Clic **Permitir**.
+El navegador solicitará a los agentes de chat en vivo que muestren notificaciones. Haga clic en **Permitir**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -107,7 +107,7 @@ Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte s
 
 ### Cosas que hay que tener en cuenta {#things-to-note}
 
-* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán la [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para suscriptores de Dynamic Chat Prime que tienen la opción de enrutamiento configurada como **Equipo**, se intentará con un agente más antes de que aparezca el mensaje de reserva.
+* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para los suscriptores de Dynamic Chat Prime que tienen la opción de enrutamiento establecida en **Equipo**, se intentará usar un agente más antes de que aparezca el mensaje de reserva.
 * Hay un límite de 10 chats en vivo por agente en este momento.
 
 >[!MORELIKETHIS]

@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ La página Análisis de contenido muestra el contenido existente descubierto (es
 
 ## Ver análisis de contenido {#view-content-analytics}
 
-Ir a **Análisis de contenido**.
+Vaya a **Análisis de contenido**.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ La tabla de Analytics proporciona los siguientes detalles:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Título</strong></td> 
-   <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Clic <strong>Título</strong> para abrir la URL de contenido en una nueva pestaña.</td> 
+   <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Haga clic en <strong>Título</strong> para abrir la dirección URL de contenido en una ficha nueva.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Recomendación </strong><strong>Icono</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indica si el fragmento de contenido se ha añadido para <a href="#">Recommendations de contenido</a>.</td> 
+   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1">Indica si el fragmento de contenido se ha agregado para <a href="#">Recommendations de contenido</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vistas</strong></p></td> 
@@ -85,12 +85,12 @@ Los análisis de contenido adicionales incluyen:
 **Analytics**
 
 * **Vistas**: vistas de ese fragmento de contenido para el intervalo de tiempo seleccionado
-* **Conversiones directas**: Visitantes web que vieron el contenido y rellenaron un formulario en la misma visita.
-* **Tasa de conversión****:** Tasa de conversión porcentual calculada por conversiones directas divididas por clics
+* **Conversiones directas**: visitantes web que vieron el contenido y rellenaron un formulario en la misma visita.
+* **Tasa de conversión****:** Una tasa de conversión porcentual calculada por conversiones directas divididas por clics
 
 **Tendencias**
 
-* A **Tendencias** gráfico que muestra los últimos 30 días de vistas de la parte de contenido específica. Pase el ratón sobre el gráfico de líneas para ver la cantidad de vistas de contenido de un día específico
+* Un gráfico de **tendencias** que muestra los últimos 30 días de vistas de la parte de contenido específica. Pase el ratón sobre el gráfico de líneas para ver la cantidad de vistas de contenido de un día específico
 
 ## Eliminar contenido {#delete-content}
 

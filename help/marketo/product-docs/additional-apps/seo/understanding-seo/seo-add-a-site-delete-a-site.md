@@ -21,27 +21,27 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 ## [!UICONTROL Agregar un sitio] {#add-a-site}
 
-1. Haga clic en la lista desplegable Administración y seleccione **[!UICONTROL Administrador]**.
+1. Haga clic en el menú desplegable Administración y seleccione **[!UICONTROL Administrador]**.
 
    >[!NOTE]
    >
-   >**Permisos de administración necesarios**
+   >**Se requieren permisos de administración**
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Agregar sitio]**.
+1. Haga clic en **[!UICONTROL Agregar sitio]**.
 
    ![](assets/two.png)
 
-1. Introduzca el **[!UICONTROL Nombre], [!UICONTROL URL del sitio web]** y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba **[!UICONTROL Name], [!UICONTROL URL del sitio web]** y haga clic en **[!UICONTROL Guardar]**.
 
    >[!TIP]
    >
-   >También puede agregar un **[!UICONTROL URL de blog]** si tiene uno.
+   >También puede agregar una **[!UICONTROL URL del blog]** si la tiene.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   Excelente! Acaba de agregar otro sitio.
+   ¡Excelente! Acaba de agregar otro sitio.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio que ya no le interese optimizar.
 
-1. Haga clic en la lista desplegable Administración y seleccione **[!UICONTROL Administrador]**.
+1. Haga clic en el menú desplegable Administración y seleccione **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
@@ -57,14 +57,14 @@ Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio 
 
    ![](assets/six.png)
 
-1. Clic **[!UICONTROL Eliminar]**.
+1. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/seven.png)
 
-1. Confirme que desea lo siguiente **[!UICONTROL Eliminar]**.
+1. Confirme que quiere **[!UICONTROL eliminar]**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un restablecimiento seleccionando el sitio y haciendo clic en **[!UICONTROL Restablecer]**. El restablecimiento de un sitio _eliminar todos los datos del sitio_ y volver a crear el sitio.
+   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede restablecer seleccionando el sitio y haciendo clic en **[!UICONTROL Restablecer]**. Si se restablece un sitio, _se eliminarán todos los datos del sitio_ y se volverá a crear el sitio.

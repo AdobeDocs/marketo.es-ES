@@ -15,11 +15,11 @@ A continuación encontrará todas las funciones incluidas en la versión de mayo
 
 >[!AVAILABILITY]
 >
->Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de mayo de 2023**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de mayo de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
 
 ### UX moderno de Marketo Engage {#modern-ux}
 
@@ -39,7 +39,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tbody>
 </table>
 
-* **Centro de ayuda para Marketo Engage**: el Centro de ayuda proporciona a los usuarios Marketo Engage una ubicación central para buscar recursos de ayuda desde el producto. Además, el Centro de ayuda permite a los usuarios activar guías del producto que explican cómo aprovechar las funciones clave.
+* **Centro de ayuda para Marketo Engage**: El Centro de ayuda proporciona a los usuarios Marketo Engage una ubicación central para buscar recursos de ayuda dentro del producto. Además, el Centro de ayuda permite a los usuarios activar guías del producto que explican cómo aprovechar las funciones clave.
 
 <table> 
   <tr> 
@@ -65,7 +65,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para que los especialistas en marketing creen, administren y entreguen eventos dentro de Marketo Engage. Personalice los seminarios web según el tipo de evento e incluso añada moderadores si lo desea. Obtenga información de participación enriquecida a través de funciones de Adobe Connect como encuestas en directo, chat, sesiones de preguntas y respuestas, clics en vínculos web, descargas de documentos y mucho más. Recupere la grabación del seminario web directamente en Marketo Engage y evalúe su rendimiento a través de métricas de panel enriquecidas.
 
-Los seminarios web interactivos se implementarán gradualmente. Para solicitar un acceso más temprano, por favor complete [este formulario](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Los seminarios web interactivos se implementarán gradualmente. Para solicitar acceso con anterioridad, por favor complete [este formulario](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -81,4 +81,4 @@ Los seminarios web interactivos se implementarán gradualmente. Para solicitar u
 
 ## Anuncios {#announcements}
 
-* **_Seminario web sobre lanzamiento de productos_**: [Seminario web de marzo y mayo de 2023 sobre la versión para Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Seminario web de lanzamiento del producto_**: [Seminario web de lanzamiento del Marketo Engage de marzo y mayo de 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

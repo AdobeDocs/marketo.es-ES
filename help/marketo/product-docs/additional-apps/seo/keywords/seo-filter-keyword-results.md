@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # SEO - Filtrar resultados de palabras clave {#seo-filter-keyword-results}
 
-Puede que tengas un montón de [palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
+Es posible que tenga muchas [palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
 
 ## Filtrar por lista {#filter-by-list}
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,17 +27,17 @@ Puede que tengas un montón de [palabras clave](/help/marketo/product-docs/addit
 
    >[!NOTE]
    >
-   >Si no ve ninguna lista, haga lo siguiente: [obtenga información sobre cómo crear una lista de palabras clave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Si no ve ninguna lista, [aprenda a crear una lista de palabras clave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 ¡Dulce! Ahora solo verá las palabras clave de esa lista.
 
 ## Filtrar por Rango SERP {#filter-by-serp-rank}
 
-1. Vaya a la [!UICONTROL Palabras clave] sección.
+1. Vaya a la sección [!UICONTROL Palabras clave].
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Los cuadrados naranjas definen los límites superior (izquierda) e inferior (derecha). El filtro funciona con la palabra clave [Rango SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   Los cuadrados naranjas definen los límites superior (izquierda) e inferior (derecha). El filtro funciona en la [clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de la palabra clave.
 
 1. Deslice los cuadrados anaranjados a la izquierda/derecha para filtrar los resultados.
 
@@ -47,10 +47,10 @@ Puede que tengas un montón de [palabras clave](/help/marketo/product-docs/addit
 
 También puede encontrar las palabras clave que está buscando utilizando el campo de búsqueda en la esquina superior derecha.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Introduzca la palabra clave en la variable **[!UICONTROL Buscar]** field.
+1. Escriba la palabra clave en el campo **[!UICONTROL Buscar]**.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

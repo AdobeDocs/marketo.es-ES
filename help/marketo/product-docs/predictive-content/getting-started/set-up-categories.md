@@ -17,7 +17,7 @@ Cree categorías en Contenido predictivo para agrupar los resultados predictivos
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Cuando edite el contenido detectado, añada categorías en la pantalla de edición. Haga clic en **Categorías** y selecciónelos en la lista desplegable.
+Cuando edite el contenido detectado, añada categorías en la pantalla de edición. Haga clic en el campo **Categorías** y selecciónelas en la lista desplegable.
 
 ![](assets/two.png)
 
@@ -29,23 +29,23 @@ Al agregar contenido, puede etiquetarlo con categorías seleccionadas en la vent
 
 A continuación se indica cómo crear etiquetas de categoría.
 
-1. Ir a **Configuración de contenido**.
+1. Vaya a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Clic **Categorías**.
+1. Haga clic en **Categorías**.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Se muestran las etiquetas de categoría existentes. Introduzca una etiqueta de categoría nueva y haga clic en **Crear nuevo**.
+1. Se muestran las etiquetas de categoría existentes. Escriba una etiqueta de categoría nueva y haga clic en **Crear nuevo**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Para quitar una etiqueta de categoría, haga clic en **x** al lado.
+1. Para quitar una etiqueta de categoría, haz clic en **x** junto a ella.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Clic **Guardar** cuando hayas terminado.
+1. Haz clic en **Guardar** cuando hayas terminado.
 
    ![](assets/save-new.png)
 

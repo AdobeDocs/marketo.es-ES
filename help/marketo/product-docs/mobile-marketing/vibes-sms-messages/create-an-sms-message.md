@@ -2,7 +2,8 @@
 description: 'Creación de un mensaje SMS: documentos de Marketo, documentación del producto'
 title: Creación de un mensaje SMS
 feature: Mobile Marketing
-source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
+exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -15,13 +16,13 @@ A continuación se muestra cómo crear un mensaje SMS.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se pueda aprovisionar correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, una conexión a través de Marketo Webhooks puede ser utilizada por [contactar directamente con Vibes](https://www.vibes.com/talk-to-sales).
+>Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se pueda aprovisionar correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, se puede utilizar una conexión a través de Webhooks de Marketo poniéndose en contacto directamente con Vibes](https://www.vibes.com/talk-to-sales).[
 
 >[!PREREQUISITES]
 >
->[Añadir vibraciones como servicio de LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
+>[Agregar vibraciones como servicio de LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/create-an-sms-message-1.png)
 
@@ -29,11 +30,11 @@ A continuación se muestra cómo crear un mensaje SMS.
 
    ![](assets/create-an-sms-message-2.png)
 
-1. Seleccionar **Mensaje SMS**.
+1. Seleccionar **mensaje SMS**.
 
    ![](assets/create-an-sms-message-3.png)
 
-1. Introduzca un nombre y una descripción opcional para el nuevo mensaje SMS y haga clic en **Crear**.
+1. Escriba un nombre y una descripción opcional para el nuevo mensaje SMS y haga clic en **Crear**.
 
    ![](assets/create-an-sms-message-4.png)
 
@@ -45,7 +46,7 @@ A continuación se muestra cómo crear un mensaje SMS.
    >
    >El límite de caracteres de un mensaje SMS es de 160 caracteres con el conjunto de caracteres ASCII estándar. Si supera los 160 caracteres, el mensaje se dividirá en función del recuento total de caracteres.
 
-1. Para añadir un token en el mensaje, escriba un saludo rápido y haga clic en **Token**.
+1. Para agregar un token a tu mensaje, escribe un saludo rápido y haz clic en **Token**.
 
    ![](assets/create-an-sms-message-6.png)
 
@@ -57,15 +58,15 @@ A continuación se muestra cómo crear un mensaje SMS.
    >
    >Cumplimiento de SMS: todos los mensajes SMS salientes deben incluir el nombre de la marca o la descripción del programa. Las instrucciones HELP y STOP deben proporcionarse al menos una vez al mes por suscriptor para programas de mensajes recurrentes.
 
-1. Seleccione el **Token**, introduzca un opcional **Valor predeterminado** y haga clic en **Crear**.
+1. Seleccione el **token** deseado, escriba un **valor predeterminado** opcional y haga clic en **Crear**.
 
    ![](assets/create-an-sms-message-7.png)
 
-1. Para añadir un vínculo, seleccione en qué parte del mensaje desea que aparezca y haga clic en **Vínculo**.
+1. Para agregar un vínculo, selecciona en qué parte del mensaje deseas que aparezca y haz clic en **Vínculo**.
 
    ![](assets/create-an-sms-message-8.png)
 
-1. Seleccione un tipo de vínculo. La página de aterrizaje de Marketo es la predeterminada. Si va con él, haga clic en el menú desplegable Landing Page y seleccione la página deseada. Clic **Insertar** cuando termine.
+1. Seleccione un tipo de vínculo. La página de aterrizaje de Marketo es la predeterminada. Si va con él, haga clic en el menú desplegable Landing Page y seleccione la página deseada. Haga clic en **Insertar** cuando haya terminado.
 
    ![](assets/create-an-sms-message-9.png)
 
@@ -73,7 +74,7 @@ A continuación se muestra cómo crear un mensaje SMS.
    >
    >Los dos vínculos de seguimiento están seleccionados de forma predeterminada. Desmarcar solo Incluir mkt_tok seguirá permitiendo el seguimiento del vínculo, pero después de redireccionar, la URL de destino no incluirá el parámetro de cadena de consulta mkt_tok. Este parámetro lo utilizan las páginas de aterrizaje de Marketo y Munchkin para garantizar un seguimiento adecuado de las actividades de la persona (como cuando una persona decide excluirse).
 
-1. Si desea utilizar una dirección URL externa en su lugar, seleccione **URL externa**, introduzca/pegue la dirección URL y haga clic en **Insertar**.
+1. Si desea usar una dirección URL externa en su lugar, seleccione **Dirección URL externa**, ingrese/pegue la dirección URL y haga clic en **Insertar**.
 
    ![](assets/create-an-sms-message-10.png)
 
@@ -83,7 +84,7 @@ A continuación se muestra cómo crear un mensaje SMS.
 
    >[!CAUTION]
    >
-   >Se recomienda lo siguiente _no_ utilice acortadores de URL (por ejemplo, Bitly), ya que los operadores pueden marcar el mensaje como correo no deseado.
+   >Se recomienda _no_ usar acortadores de URL (por ejemplo, Bitly), ya que los operadores pueden marcar su mensaje como correo no deseado.
 
 1. El vínculo se muestra en el mensaje.
 

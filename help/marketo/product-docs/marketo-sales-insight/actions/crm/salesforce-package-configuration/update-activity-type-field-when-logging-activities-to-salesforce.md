@@ -1,11 +1,11 @@
 ---
 description: Actualizar el campo Tipo de actividad al registrar actividades en Salesforce - Documentos de Marketo - Documentación del producto
 title: Actualizar el campo Tipo de actividad al registrar actividades en Salesforce
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 
@@ -33,24 +33,24 @@ Primero compruebe qué valores le faltan en la lista de selección de tipo de ta
 ### En Salesforce Lightning {#salesforce-lightning}
 
 1. Vaya a [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configurar** > **Administrador de objetos**.
+1. Haga clic en el icono del engranaje situado en la esquina superior derecha y seleccione **Configuración** > **Administrador de objetos**.
 1. Escriba &quot;task&quot; en el cuadro &quot;Búsqueda rápida&quot;.
 1. En el panel izquierdo, haga clic en **Campos y relaciones**.
-1. Etiqueta de campo de clic **Tipo**.
+1. Haga clic en la etiqueta de campo **Type**.
 1. En Valor de lista de selección de tipo de tarea, haga clic en **Nuevo**.
 1. Escriba el nombre de los valores de la lista de selección de tipo de tarea que faltan (&quot;Correo electrónico, &quot;Llamada&quot;, &quot;Respuesta&quot;).
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
 ### En Salesforce Classic {#salesforce-classic}
 
 1. Vaya a [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Clic **Configurar** > **Generar** > **Personalizar** > **Actividades** > **Campos de tarea**.
-1. Clic **Tipo**.
+1. Haga clic en **Configuración** > **Compilación** > **Personalizar** > **Actividades** > **Campos de tarea**.
+1. Haga clic en **Tipo**.
 1. En Valor de lista de selección de tipo de tarea, haga clic en **Nuevo**.
 1. Escriba el nombre de los valores de la lista de selección de tipo de tarea que faltan (&quot;Correo electrónico, &quot;Llamada&quot;, &quot;Respuesta&quot;).
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
-Ahora que esto ya está hecho, empezará a ver que el campo Tipo rellena el valor correspondiente para los correos electrónicos, las llamadas y las respuestas registrados. Estos valores: _no_ se rellenarán en las tareas de recordatorio de Acciones de perspectiva de ventas.
+Ahora que esto ya está hecho, empezará a ver que el campo Tipo rellena el valor correspondiente para los correos electrónicos, las llamadas y las respuestas registrados. Estos valores _no_ se rellenarán en las tareas de recordatorio de acciones de información de ventas.
 
 >[!NOTE]
 >
@@ -59,5 +59,5 @@ Ahora que esto ya está hecho, empezará a ver que el campo Tipo rellena el valo
 >[!MORELIKETHIS]
 >
 >* [Registro de atributos de actividad de ventas en Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [Configurar la personalización de detalles de actividad de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [Configurar la personalización de los detalles de actividad de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [Sincronizar actividades de ventas con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

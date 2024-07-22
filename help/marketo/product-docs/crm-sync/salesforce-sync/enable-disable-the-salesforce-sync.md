@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cuando realice cambios importantes en la configuración de la sincronización o del campo, debe deshabilitar la sincronización mientras configura. A continuación se muestra cómo:
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 

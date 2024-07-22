@@ -6,7 +6,7 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir audiencias personalizadas de Facebook como servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} en la sección Administración.
+>* [Agregar audiencias personalizadas de Facebook como servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} en la sección de administración.
 >* [Acepte los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en su cuenta de Facebook.
 
 >[!TIP]
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Seleccione el **Posibles clientes** y, a continuación, haga clic en **Enviar mediante el puente de publicidad** en la parte inferior.
+1. Seleccione la ficha **Posibles clientes** y luego haga clic en el icono **Enviar a través de Ad Bridge** de la parte inferior.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Seleccionar **Facebook** y haga clic en **Siguiente**.
+1. Seleccione **Facebook** y haga clic en **Siguiente**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Haga clic en **Audiencia** y seleccione. **+ Nueva audiencia**.
+1. Haga clic en el menú desplegable **Audiencia** y seleccione **+ Nueva audiencia**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >La API de Facebook permite hasta 500 audiencias personalizadas por cuenta de publicidad de Facebook.
 
-1. Escriba una **Nombre de audiencia**. Clic **Actualizar**.
+1. Escriba un **Nombre de audiencia**. Haga clic en **Actualizar**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Desea intercambiar una audiencia nueva por una existente que esté asociada actualmente a un conjunto o grupo de anuncios? Seleccione el **Reemplazar una audiencia existente** casilla de verificación. Al hacer esto, **no** elimine la audiencia que se va a reemplazar.
+   >¿Desea intercambiar una audiencia nueva por una existente que esté asociada actualmente a un conjunto o grupo de anuncios? Active la casilla de verificación **Reemplazar una audiencia existente**. Al hacerlo, **no** eliminará la audiencia que se está reemplazando.
 
 1. Cuando termine, el cuadro de diálogo de estado se actualizará.
 
@@ -68,8 +68,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulte la [Ruta de aprendizaje de facebook para clientes de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Abarca todo lo que necesita saber, desde crear una página de Facebook hasta segmentar los anuncios de Facebook mediante las integraciones de red de anuncios de Marketo.
+   >Consulte la [ruta de aprendizaje de Facebook para clientes de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Abarca todo lo que necesita saber, desde crear una página de Facebook hasta segmentar los anuncios de Facebook mediante las integraciones de red de anuncios de Marketo.
 
    >[!MORELIKETHIS]
    >
-   >[Añadir posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Agregar posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Después de crear un objeto personalizado, debe agregarle campos para satisfacer sus necesidades comerciales.
 
-Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculos tienen un trabajo especial, conectar objetos personalizados y se tratan en un [artículo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculo tienen un trabajo especial, para conectar objetos personalizados, y se tratan en [artículo independiente](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. Clic **[!UICONTROL Objetos personalizados de Marketo]**.
+1. Haga clic en **[!UICONTROL Objetos personalizados de Marketo]**.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 
@@ -29,7 +29,7 @@ Los campos definen la información específica que utiliza un objeto personaliza
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Haga clic en **[!UICONTROL Campos]** pestaña, luego **[!UICONTROL Nuevo campo]**.
+1. Haga clic en la ficha **[!UICONTROL Campos]** y luego en **[!UICONTROL Nuevo campo]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -37,7 +37,7 @@ Los campos definen la información específica que utiliza un objeto personaliza
    >
    >Marketo crea automáticamente los tres campos mostrados arriba cuando crea un objeto personalizado. Marketo administra estos campos automáticamente y no se pueden editar ni eliminar.
 
-1. Introduzca una [!UICONTROL Nombre para mostrar] y (opcional) [!UICONTROL Descripción].
+1. Escriba un [!UICONTROL Nombre para mostrar] y (opcional) [!UICONTROL Descripción].
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -45,11 +45,11 @@ Los campos definen la información específica que utiliza un objeto personaliza
    >
    >El nombre de la API solo se puede editar hasta que se apruebe.
 
-1. Ahora, elija un adecuado [!UICONTROL Tipo de datos] de la lista.
+1. Ahora, elija un [!UICONTROL Tipo de datos] apropiado en la lista.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Tire de la [!UICONTROL Desduplicación] pase el cursor sobre si desea utilizar el nuevo campo como identificador único. Clic **[!UICONTROL Guardar]** para terminar.
+1. Pase el control deslizante [!UICONTROL Desduplicar] si quiere usar el nuevo campo como identificador único. Haga clic en **[!UICONTROL Guardar]** para finalizar.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

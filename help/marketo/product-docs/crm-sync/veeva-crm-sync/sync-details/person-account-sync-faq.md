@@ -5,7 +5,7 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ La sincronización de los campos relacionados con el contacto de la cuenta de pe
 
 Estaríamos bien y dejaríamos que Veeva CRM ganara. Sin embargo, es raro que se produzca este tipo de colisión de datos.
 
-**¿El tipo de registros de cliente potencial o contacto se sincroniza con Veeva CRM?**
+**¿El tipo de registros de contacto o posible cliente está sincronizado con Veeva CRM?**
 
 Veeva CRM solo trata los objetos de cuenta de persona y también tiene cuentas de negocio. Los tipos tradicionales de CRM de Posible Cliente, Contactos y Oportunidades no están realmente en uso en los sistemas tradicionales de CRM de Veeva. Pueden crearse en Veeva CRM, pero no son compatibles oficialmente con este conector.
 
@@ -60,7 +60,7 @@ No, ya que los tipos de posible cliente y contacto no son compatibles con la sin
 
 No, como el Contacto no es un tipo de registro independiente, no se admite la sincronización de una persona con Veeva.
 
-**¿Se sincronizan todos y cada uno de los campos estándar con Marketo?**
+**¿Todos los campos estándar se sincronizan con Marketo?**
 
 No, no todos los campos estándar son útiles. Todos los campos personalizados pueden formar parte de la sincronización.
 
@@ -75,4 +75,4 @@ Sí, si hay un conflicto, registraremos el resultado en el registro de actividad
 >[!MORELIKETHIS]
 >
 >* [Asignación de campos Veeva predeterminada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
->* [Sincronización de mensajes de clave de llamada y llamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [Sincronizando mensajes de clave de llamada y llamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

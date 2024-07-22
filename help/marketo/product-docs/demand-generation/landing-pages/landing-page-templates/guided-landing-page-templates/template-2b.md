@@ -6,14 +6,14 @@ exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Plantilla 2B {#template-2b}
 
-Haga clic con el botón derecho para [descargar plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Haga clic con el botón derecho para [descargar la plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -27,6 +27,6 @@ Esta plantilla incluye el siguiente contenido:
 * Una sección del cuerpo con vídeo y texto (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

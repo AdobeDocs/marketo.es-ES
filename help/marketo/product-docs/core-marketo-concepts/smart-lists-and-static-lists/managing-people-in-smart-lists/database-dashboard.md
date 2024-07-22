@@ -19,7 +19,7 @@ El tablero de base de datos sirve como instantánea para ayudarle a determinar r
 >
 >Cada espacio de trabajo tiene su propio panel de base de datos.
 
-Para llegar, seleccione **[!UICONTROL Base de datos]** desde Mi Marketo.
+Para llegar allí, selecciona **[!UICONTROL Base de datos]** de tu My Marketo.
 
 ![](assets/database-dashboard-1.png)
 
@@ -31,6 +31,6 @@ Los gráficos indican la cantidad total de personas, la cantidad de personas com
 >
 >¿Desea obtener información más específica u oportuna sobre su gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
-**Total de personas:** El número de personas permanentes para el espacio de trabajo enumerado.
+**Personas totales:** Cantidad de personas permanentes para el área de trabajo enumerada.
 
-**Personas comercializables:** El número de personas permanentes para el espacio de trabajo enumerado, _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado intensamente, personas incluidas en la lista de bloqueados, personas que han cancelado la suscripción, personas configuradas actualmente como Marketing suspendido.
+**Personas comercializables:** El número de personas de todo el tiempo para el espacio de trabajo enumerado, _menos las siguientes_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado con fuerza, personas incluidas en la lista de bloqueados, personas que han cancelado su suscripción, personas actualmente configuradas como Marketing suspendido.

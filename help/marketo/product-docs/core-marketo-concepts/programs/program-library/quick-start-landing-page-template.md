@@ -2,10 +2,10 @@
 description: 'Plantilla de la página de aterrizaje de inicio rápido: documentos de Marketo, documentación del producto'
 title: Plantilla de página de aterrizaje de inicio rápido
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Algunos de los programas iniciales de la Biblioteca de referencia de Marketo Eng
 
 >[!TIP]
 >
->Más información sobre [Plantillas de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Más información sobre [Plantillas de páginas de aterrizaje guiadas](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de secciones {#sections-summary}
 
@@ -49,7 +49,8 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 * Elemento de texto de párrafo para actualizar la copia de párrafo
 * Elemento de formulario para agregar en un formulario
 * Elemento de texto debajo del formulario para editar el texto y los vínculos de la política de privacidad
-* Variables para editar: color de fondo para la sección
+* Variables para editar:
+Color de fondo de la sección
    * Color de fondo directamente detrás del formulario
    * Radio del borde del cuadro alrededor del formulario (haciendo que tenga esquinas curvas o, si se establece en &quot;0&quot;, esquinas al cuadrado)
    * Mostrar u ocultar toda la sección
@@ -79,9 +80,9 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
 
 ### Variables adicionales {#additional-variables}
 
-* **Radio de borde de botón**: ajusta el botón del formulario para que sea redondeado o rectangular
+* **Radio de borde de botón**: ajusta el botón de formulario para que sea redondeado o rectangular
 * **Color del botón**: actualiza el color del botón en el formulario
-* **Color de desplazamiento del botón**: cambia el color del estado de desplazamiento del botón del formulario
+* **Color de desplazamiento del botón**: cambia el color del estado de desplazamiento del botón en el formulario
 * **Color del vínculo**: actualiza el color de los vínculos en toda la página
-* **Espaciado superior de sección**: añade espacio encima de cada sección excepto de la sección del logotipo
-* **Espaciado inferior de sección**: añade espacio debajo de cada sección excepto la sección de logotipos
+* **Espaciado superior de la sección**: agrega espacio sobre cada sección excepto la sección del logotipo
+* **Espaciado inferior de la sección**: agrega espacio debajo de cada sección excepto la sección de logotipos

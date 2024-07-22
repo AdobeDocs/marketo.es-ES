@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, web, anuncios) mediante déclencheur a nivel de cuenta.
 
-Seleccione la campaña inteligente y haga clic en **[!UICONTROL Lista inteligente]**.
+Seleccione su campaña inteligente y haga clic en **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Introduzca &quot;Cuenta con Nombre&quot; en el cuadro de búsqueda para encontra
 
 ![](assets/two-1.png)
 
-Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos lo siguiente _Añadido a la cuenta con nombre_.
+Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos _Se agregó a la cuenta con nombre_.
 
 ![](assets/three-1.png)
 

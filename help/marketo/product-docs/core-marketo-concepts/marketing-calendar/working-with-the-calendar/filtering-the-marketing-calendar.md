@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtrar la información mostrada en el calendario.
 
-1. Haga clic en **[!UICONTROL Calendario]** mosaico.
+1. Haga clic en el mosaico **[!UICONTROL Calendario]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Haga clic en **[!UICONTROL Tipo de entrada]** menú desplegable.
+1. Haga clic en la lista desplegable **[!UICONTROL Tipo de entrada]**.
 
    >[!NOTE]
    >
@@ -43,8 +43,8 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   ¡Increíble! Ahora solo verá las entradas que se apliquen al filtro que acaba de definir.
+   ¡Fantástico! Ahora solo verá las entradas que se apliquen al filtro que acaba de definir.
 
    >[!NOTE]
    >
-   >[Guardar una definición de filtro en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Guardando definición de filtro en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

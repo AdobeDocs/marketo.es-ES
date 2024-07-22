@@ -4,7 +4,8 @@ title: Comunidad de Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Comunidad de Adobe Marketo Engage {#marketo-engage-community}
 
-El [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/) (también conocida como la nación del marketing) es el lugar donde puede obtener más información sobre la instancia de Marketo Engage de otros usuarios, así como de los empleados de Marketo. Antes de saltar, dedique un momento a familiarizarse con el [Directrices de la comunidad](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/) (también conocida como el País de mercadotecnia) es el lugar donde puede obtener más información acerca de la instancia de Marketo Engage de otros usuarios, así como de los empleados de Marketo. Antes de saltar, tómese un momento para familiarizarse con las [Directrices de la comunidad](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registre su nombre de usuario {#register-your-username}
 
@@ -33,7 +34,7 @@ CAPTURA DE PANTALLA
 
 ## Configure su perfil {#set-up-your-profile}
 
-Cuando haya iniciado sesión en Marketing Nation, haga clic en el icono de avatar predeterminado y seleccione **[!UICONTROL Mis configuraciones]** para actualizar sus preferencias, cambie la foto del avatar, controle el etiquetado y mucho más.
+Cuando haya iniciado sesión en Marketing Nation, haga clic en el icono de avatar predeterminado y seleccione **[!UICONTROL Mis ajustes]** para actualizar sus preferencias, cambiar la foto de avatar, controlar el etiquetado y mucho más.
 
 CAPTURA DE PANTALLA
 

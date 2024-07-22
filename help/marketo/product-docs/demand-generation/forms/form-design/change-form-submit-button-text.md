@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede cambiar rápida y fácilmente un botón de formularios de &quot;Enviar&quot; a cualquier otra palabra. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Puede cambiar rápida y fácilmente un botón de formularios de &quot;Enviar&quo
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Seleccione el botón y cambie el **Etiqueta**.
+1. Seleccione el botón y cambie la **Etiqueta**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,11 +31,11 @@ Puede cambiar rápida y fácilmente un botón de formularios de &quot;Enviar&quo
    >
    >Tenga en cuenta que también puede cambiar la etiqueta de espera. Esto se muestra después de hacer clic en el botón y antes de que finalice la acción de envío del formulario.
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

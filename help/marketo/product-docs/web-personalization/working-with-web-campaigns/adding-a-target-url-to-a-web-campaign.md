@@ -6,7 +6,7 @@ exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Se encuentra una dirección URL de destino en la página Definir campaña y defi
 
 ## Adición de una URL de destino para campañas web de cuadros de diálogo o widgets {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Seleccionar **Creación de una nueva campaña web**.
+1. Seleccione **Crear nueva campaña web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Añadir un **Nombre de campaña**. Seleccione una **Segmento de destino**. Añadir **URL de destino**.
+1. Agregar **nombre de campaña**. Seleccione un **Segmento de destino**. Agregar **URL de destino**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -50,36 +50,36 @@ Se encuentra una dirección URL de destino en la página Definir campaña y defi
 
 ## Adición de varias direcciones URL en la dirección URL de destino {#adding-multiple-urls-to-target-url}
 
-Haciendo clic en el icono de signo más (![—](assets/image2015-2-18-8-3a40-3a59.png)) abrirá el cuadro de diálogo Entrada de varios valores para agregar varias direcciones URL. Añada una dirección URL por línea.
+Al hacer clic en el icono de signo más (![—](assets/image2015-2-18-8-3a40-3a59.png)), se abrirá el cuadro de diálogo Entrada de varios valores para agregar varias direcciones URL. Añada una dirección URL por línea.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
->* Las campañas web de cuadros de diálogo y widgets pueden utilizar cualquier página y el comodín (&#42;) opciones.
->* En casos de uso avanzados, las campañas web de la zona In pueden utilizar comodines al final de la ruta de la URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
->* La URL distingue entre mayúsculas y minúsculas
+>* Las campañas web de cuadros de diálogo y widgets pueden utilizar las opciones Cualquier página y Comodín (&#42;).
+* En casos de uso avanzados, las campañas web de la zona In pueden utilizar comodines al final de la ruta de la URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+* La URL distingue entre mayúsculas y minúsculas
 
 ## Adición de una URL de destino para campañas web en la zona {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Ir a **Web** **Campañas**.
+1. Vaya a **Web** **Campañas**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Seleccionar **Creación de una nueva campaña web**.
+1. Seleccione **Crear nueva campaña web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Añadir un **Nombre de campaña**. Seleccione una **Segmento de destino**. Añadir **URL de destino**.
+1. Agregar **nombre de campaña**. Seleccione un **Segmento de destino**. Agregar **URL de destino**.
 
    >[!NOTE]
    >
-   >La dirección URL de destino con zonas de entrada debe definir una dirección URL o direcciones URL específicas. En casos de uso avanzados, las campañas web de la zona In pueden utilizar comodines al final de la ruta de la URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   La dirección URL de destino con zonas de entrada debe definir una dirección URL o direcciones URL específicas. En casos de uso avanzados, las campañas web de la zona In pueden utilizar comodines al final de la ruta de la URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
->* [Creación de una campaña de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Creación de una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creación de una campaña de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Crear una campaña de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Crear una campaña de RTP en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Crear una campaña de widget de RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

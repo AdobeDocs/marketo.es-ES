@@ -6,7 +6,7 @@ exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '532'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,11 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 >[!PREREQUISITES]
 >
->Debes ser... [ha emitido una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Se le debe [emitir una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!IMPORTANT]
 >
->La instalación no es compatible con equipos en los que la carpeta Usuario de Windows contenga caracteres que no sean ingleses. Windows genera automáticamente esta carpeta en `<System Root>\Users\` se basa en el nombre de usuario de Windows y puede contener caracteres que no sean ingleses si el nombre de usuario de Windows no es inglés. Trabaje con su equipo de TI para comprobar si tiene problemas de instalación.
+>La instalación no es compatible con equipos en los que la carpeta Usuario de Windows contenga caracteres que no sean ingleses. Windows genera automáticamente esta carpeta en `<System Root>\Users\` según el nombre de usuario de Windows y puede contener caracteres que no sean ingleses si el nombre de usuario de Windows no es inglés. Trabaje con su equipo de TI para comprobar si tiene problemas de instalación.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 ## Descargar instalador {#download-installer}
 
-1. Identifique su [Versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifique su [versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Haga clic en el vínculo para descargar el programa de instalación adecuado para su versión de Microsoft Outlook.
 
@@ -56,7 +56,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    >[!IMPORTANT]
    >
-   >Microsoft ha lanzado un [nueva versión de Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+   >Microsoft ha lanzado [una nueva versión de Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nueva versión no admite el complemento MSI Outlook existente. El complemento MSI Outlook seguirá funcionando para escritorios de Windows que ejecuten la versión clásica de Outlook. Para obtener más información acerca del nuevo Outlook para Windows para organizaciones, [haga clic aquí](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copiar el código de registro {#copy-your-registration-code}
 
@@ -76,13 +76,13 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    >[!NOTE]
    >
-   >Si recibe una advertencia de seguridad, no se preocupe. Solo haga clic en **Ejecutar**.
+   >Si recibe una advertencia de seguridad, no se preocupe. Simplemente haga clic en **Ejecutar**.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Completar en **Nombre**, **Apellidos**, **Correo electrónico**, luego copie y pegue el **Código de registro** del correo electrónico al formulario y haga clic en **Siguiente**.
+1. Rellene **Nombre**, **Apellido**, **Dirección de correo electrónico**, luego copie y pegue el **código de registro** del correo electrónico en el formulario y haga clic en **Siguiente**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -90,19 +90,19 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si la instalación falla, consulte con su departamento de TI para asegurarse de que el tráfico HTTPS no esté bloqueado. El instalador requiere que el tráfico HTTPS esté abierto.
 
-1. Clic **Siguiente** para instalar en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para instalarlo en la ubicación predeterminada.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Si aparece un mensaje de seguridad acerca de un editor desconocido, haga clic en **Sí**.
+   >Si recibe una solicitud de seguridad acerca de un editor desconocido, haga clic en **Sí**.
 
-1. La instalación ha finalizado y haga clic en **Cerrar**.
+1. La instalación ha finalizado, haga clic en **Cerrar**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
@@ -116,5 +116,5 @@ Obtenga más información sobre el uso de las acciones Mensaje de Marketo y Regi
 
 >[!MORELIKETHIS]
 >
->* [Envío y seguimiento de un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
->* [Envío y seguimiento desde Outlook mediante una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
+>* [Enviar y rastrear un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Enviar y rastrear desde Outlook usando una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

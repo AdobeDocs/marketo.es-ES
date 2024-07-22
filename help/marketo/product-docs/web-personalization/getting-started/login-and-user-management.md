@@ -6,52 +6,52 @@ exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 # Inicio de sesión y administración de usuarios {#login-and-user-management}
 
-## Creación de una función de usuario de personalización web {#create-a-web-personalization-user-role}
+## Crear una función de usuario de Web Personalization {#create-a-web-personalization-user-role}
 
-1. Vaya a la **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la sección **Administrador** y, a continuación, haga clic en **Usuarios y roles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Clic **Funciones**.
+1. Haga clic en **Roles**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
    >[!NOTE]
    >
-   >Si la función de usuario de Web Personalization (WP) ya existe, asegúrese de que está configurada como se muestra en el paso 4.
+   >Si la función de usuario Web Personalization (WP) ya existe, asegúrese de que está configurada como se muestra en el paso 4.
 
-1. Clic **Nuevo rol**.
+1. Haga clic en **Nuevo rol**.
 
    ![](assets/three-1.png)
 
-1. Introduzca un Nombre de función y seleccione Permisos. Clic **Crear** (esta función debe [aplicar a todos los espacios de trabajo](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Introduzca un Nombre de función y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Para conceder a los usuarios permiso para acceder a todo en Segmentación y personalización, asegúrese de seleccionar _todo_ las casillas de verificación.
+   >Para dar permiso a los usuarios para acceder a todo en Targeting y Personalization, asegúrese de seleccionar _todas_ las casillas de verificación.
 
-## Permisos de usuario de personalización web y contenido predictivo {#web-personalization-and-predictive-content-user-permissions}
+## Permisos de usuario de Web Personalization y contenido predictivo {#web-personalization-and-predictive-content-user-permissions}
 
-**Segmentación y personalización**: el usuario tiene permisos de solo vista, si este permiso solo está seleccionado.
+**Segmentación y Personalization**: el usuario tiene permisos de solo vista, si este permiso solo está seleccionado.
 
-**Personalización web de administrador + Predictivo**: el usuario solo tiene acceso a la configuración de la cuenta y a la configuración de contenido para la aplicación de personalización web y contenido predictivo. Los usuarios pueden ver las páginas en la aplicación, pero no tienen permisos para crear, editar, eliminar ni iniciar.
+**Admin Web Personalization + Predictive**: el usuario solo tiene acceso a la configuración de la cuenta y a la configuración de contenido para la aplicación Web Personalization y de contenido predictivo. Los usuarios pueden ver las páginas en la aplicación, pero no tienen permisos para crear, editar, eliminar ni iniciar.
 
 **Editor de contenido predictivo**: el usuario tiene acceso de editor a la aplicación de contenido predictivo. El permiso permite crear, editar o eliminar fragmentos de contenido. No permite habilitar contenido para uso predictivo en la web o por correo electrónico.
 
-**Lanzador de contenido predictivo**: el usuario tiene acceso a todas las funciones de contenido predictivo, excepto a la configuración de la cuenta y el contenido. El permiso permite crear, editar y eliminar y habilitar fragmentos de contenido.
+**Iniciador de contenido predictivo**: el usuario tiene acceso a todas las características de contenido predictivo, excepto a la configuración de la cuenta y el contenido. El permiso permite crear, editar y eliminar y habilitar fragmentos de contenido.
 
-**Editor de campañas web**: el usuario tiene acceso de editor a todas las funciones de personalización web para crear, editar y eliminar campañas web, pero no para iniciarlas.
+**Editor de campañas web**: el usuario tiene acceso de editor a todas las características de Web Personalization para crear, editar y eliminar, pero no para iniciar campañas web.
 
-**Lanzador de campañas web**: el usuario tiene acceso a todas las funciones de la aplicación de personalización web, excepto a la configuración de la cuenta y el contenido. El permiso permite crear, editar, eliminar e iniciar campañas web.
+**Lanzador de campañas web**: el usuario tiene acceso a todas las características de la aplicación Web Personalization, excepto a la configuración de la cuenta y del contenido. El permiso permite crear, editar, eliminar e iniciar campañas web.
 
 ## Asignar rol WP al usuario {#assign-wp-role-to-user}
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Los usuarios recién habilitados verán el **Personalización web** mosaico en Mi Marketo la próxima vez que inicien sesión.
+1. Los usuarios recién habilitados verán el mosaico **Web Personalization** en Mi Marketo la próxima vez que inicien sesión.
 
    ![](assets/eight.png)

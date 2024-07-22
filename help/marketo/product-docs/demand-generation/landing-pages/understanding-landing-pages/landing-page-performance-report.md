@@ -19,8 +19,8 @@ Vea cuántas personas rellenaron los formularios en sus páginas de aterrizaje y
 >
 >Si ve una discrepancia en las cifras entre su lista inteligente y el informe de rendimiento de la página de aterrizaje, es probable que las listas inteligentes solo filtren datos en Personas, mientras que los informes de rendimiento de la página de aterrizaje incluyen medios sociales (Facebook, Google Ads, etc.) y actividades anónimas, además de los datos de Personas.
 
-1. [Creación de un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el Rendimiento de la página de aterrizaje [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Establezca el lapso de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la pestaña Informe.
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo de informe [Rendimiento de la página de aterrizaje](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha Informe.
 1. ¡Eso es todo! Explore el informe para evaluar el rendimiento de las páginas de aterrizaje.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
@@ -29,9 +29,9 @@ Vea cuántas personas rellenaron los formularios en sus páginas de aterrizaje y
 
    >[!TIP]
    >
-   >Busque las páginas con el porcentaje de conversión más alto. [Ordenación del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija Orden descendente.
+   >Busque las páginas con el porcentaje de conversión más alto. [Ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija Orden descendente.
 
-   El icono de la pestaña en el informe indica que las estadísticas son el total de todas las páginas de ese informe [grupo de prueba de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   El icono AB del informe indica que las estadísticas son el total de todas las páginas de ese [grupo de prueba de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Desplácese hacia la derecha para ver el número de visitas que se originaron en varias plataformas de medios sociales.
 
@@ -39,8 +39,8 @@ Vea cuántas personas rellenaron los formularios en sus páginas de aterrizaje y
 
 >[!NOTE]
 >
->Actividad generada por el [botón social con analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) no se incluye aquí. Para ver estas estadísticas, consulte la [Tablero social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+>La actividad generada por el botón social [con análisis](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) no se incluye aquí. Para obtener esas estadísticas, consulte [Tablero social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
->[Filtrar el informe de rendimiento de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) por recursos locales o globales.
+>[Filtre el informe de rendimiento de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) por recursos locales o globales.

@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Los tipos de etiquetas identifican el tipo de información por la que desea orde
 
 >[!TIP]
 >
->Póngase en contacto con el administrador de Marketo si desea crear [etiquetas personalizadas](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Hable con su administrador de Marketo si desea crear [etiquetas personalizadas](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Cada tipo de etiqueta tiene valores para elegir.
 
 ## Canal {#channel}
 
-Los canales se utilizan para informar sobre cómo [miembros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} se ha movido a través de su programa. Cada canal tiene un conjunto de estados de progresión y un estado que se configura para que sea igual de exitoso.
+Los canales se usan para informar sobre cómo se movieron tus [miembros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} a través de tu programa. Cada canal tiene un conjunto de estados de progresión y un estado que se configura para que sea igual de exitoso.
 
 >[!NOTE]
 >

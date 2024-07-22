@@ -19,9 +19,9 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
    ![](assets/two-2.png)
 
-1. Si este es su primer objeto personalizado, haga clic en **[!UICONTROL Sincronizar esquema]**. De lo contrario, haga clic **[!UICONTROL Actualizar esquema]** para asegurarse de que dispone de la última versión.
+1. Si este es su primer objeto personalizado, haga clic en **[!UICONTROL Sincronizar esquema]**. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]** para asegurarse de que dispone de la última versión.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -41,7 +41,7 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
    >
    >Una sincronización del esquema de objeto personalizado de Salesforce puede tardar unos minutos.
 
-1. Clic **[!UICONTROL Actualizar esquema]**.
+1. Haga clic en **[!UICONTROL Actualizar esquema]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
@@ -53,11 +53,11 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Clic **[!UICONTROL Habilitar sincronización]** otra vez.
+1. Vuelva a hacer clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Vuelva a la **[!DNL Salesforce]** y haga clic en **[!UICONTROL Habilitar sincronización]**.
+1. Vuelva a la ficha **[!DNL Salesforce]** y haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 >
 >No se pueden usar objetos personalizados en campañas inteligentes con déclencheur.
 
-1. En la lista inteligente, arrastre el puntero sobre **[!UICONTROL Tiene oportunidad]** filtrar y establecer en **[!UICONTROL true]**.
+1. En tu lista inteligente, arrastra el filtro **[!UICONTROL Tiene oportunidad]** y establece en **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
 >[!MORELIKETHIS]
 >
->[Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Agregar o quitar campo de objeto personalizado como restricciones de lista inteligente/Déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

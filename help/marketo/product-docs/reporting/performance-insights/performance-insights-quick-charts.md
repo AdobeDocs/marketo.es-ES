@@ -6,7 +6,7 @@ exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Los gráficos rápidos son miniaturas que puede personalizar y guardar, lo que p
 
 ## Crear un nuevo gráfico rápido {#create-a-new-quick-chart}
 
-Los gráficos rápidos se derivan de los datos especificados. En este ejemplo, se elige: **nuevas oportunidades (primer contacto), tipo de oportunidad = nuevo negocio, acumulado anual actual**.
+Los gráficos rápidos se derivan de los datos especificados. En este ejemplo, elegiremos: **nuevas oportunidades (primer contacto), tipo de oportunidad = nuevo negocio, acumulado anual actual**.
 
-1. Haga clic en el filtro de fecha y seleccione **Año actual (SAA)**.
+1. Haga clic en el filtro de fecha y elija **Año actual (SAA)**.
 
    ![](assets/1-2.png)
 
@@ -31,7 +31,7 @@ Los gráficos rápidos se derivan de los datos especificados. En este ejemplo, s
 
    ![](assets/3-3.png)
 
-1. Haga clic en el icono Export y seleccione **Guardar como gráfico rápido**.
+1. Haga clic en el icono Exportar y seleccione **Guardar como gráfico rápido**.
 
    ![](assets/4-2.png)
 
@@ -49,7 +49,7 @@ El gráfico rápido ahora está con los demás.
 
 ## Ver gráficos rápidos existentes {#view-existing-quick-charts}
 
-1. Para ver los gráficos rápidos existentes, simplemente haga clic en **Gráficos rápidos** icono.
+1. Para ver los gráficos rápidos existentes, simplemente haga clic en el icono **gráficos rápidos**.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ El gráfico rápido ahora está con los demás.
 
 Si necesita eliminar un gráfico rápido, siga estos sencillos pasos.
 
-1. Haga clic en **Gráficos rápidos** icono.
+1. Haga clic en el icono **Gráficos rápidos**.
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ Si necesita eliminar un gráfico rápido, siga estos sencillos pasos.
 
    ![](assets/9-2.png)
 
-1. Clic **Eliminar**.
+1. Haga clic en **Eliminar**.
 
    ![](assets/10-1.png)

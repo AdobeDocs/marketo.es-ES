@@ -17,25 +17,25 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 >[!NOTE]
 >
->Desproteger [Explicación de las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obtener más información.
+>Consulte [Explicación de las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obtener más información.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Crear nuevo tipo de etiqueta {#create-a-new-tag-type}
 
 Para crear un nuevo tipo de etiqueta:
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Clic **[!UICONTROL Etiquetas]**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Clic **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo tipo de etiqueta]**.
+1. Haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo tipo de etiqueta]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ Para crear un nuevo tipo de etiqueta:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Introduzca el valor deseado para el tipo de etiqueta. Clic **[!UICONTROL Añadir otro]** para introducir valores adicionales.
+1. Introduzca el valor deseado para el tipo de etiqueta. Haga clic en **[!UICONTROL Agregar otro]** para escribir valores adicionales.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ Para crear un nuevo tipo de etiqueta:
 
    >[!NOTE]
    >
-   >* Seleccione &quot;[!UICONTROL Requerido]&quot; si desea que esta etiqueta se añada cada vez que se cree un nuevo programa.
-   >* Eliminación de un tipo de programa de &#39;[!UICONTROL Se aplica a]&#39; eliminará la etiqueta y sus valores de todos los programas existentes de ese tipo. Si desea conservar los valores de etiqueta existentes y hacer que esta etiqueta sea opcional en adelante para _todo_ Tipos de programas enumerados, deje la casilla de verificación &quot;Requerido&quot; sin seleccionar.
+   >* Seleccione &quot;[!UICONTROL Obligatorio]&quot; si desea agregar esta etiqueta cada vez que se cree un nuevo programa.
+   >* Si quita un tipo de programa de la lista &#39;[!UICONTROL Se aplica a]&#39;, se eliminará la etiqueta y sus valores de todos los programas existentes de ese tipo. Si desea conservar los valores de etiquetas existentes y hacer que esta etiqueta sea opcional en adelante para _todos los_ tipos de programas enumerados, deje la casilla de verificación &quot;Requerido&quot; sin seleccionar.
 
    >[!TIP]
    >
-   >Si desea que una etiqueta similar sea necesaria para algunos tipos de programas pero opcional para otros, deberá configurar dos etiquetas independientes, cada una de las cuales se aplica a diferentes tipos de programas con una con &quot;[!UICONTROL Requerido]&quot; seleccionado y el otro con &quot;[!UICONTROL Requerido]&quot; no seleccionado.
+   >Si desea que una etiqueta similar sea necesaria para algunos tipos de programas pero opcional para otros, deberá configurar dos etiquetas independientes, cada una de las cuales se aplica a diferentes tipos de programas con una etiqueta con &quot;[!UICONTROL Obligatorio]&quot; seleccionado y otra con &quot;[!UICONTROL Obligatorio]&quot; no seleccionado.
 
 1. Haga clic en **[!UICONTROL Crear]**.
 

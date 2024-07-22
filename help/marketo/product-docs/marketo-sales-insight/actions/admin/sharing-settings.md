@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Cuando Configuración de uso compartido está habilitada, solo los administrador
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En el [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/sharing-settings-1.png)
 
@@ -28,7 +28,7 @@ Cuando Configuración de uso compartido está habilitada, solo los administrador
 
    ![](assets/sharing-settings-2.png)
 
-1. Asegúrese de **Configuración de uso compartido** está activada. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
+1. Asegúrese de que **Configuración de uso compartido** esté habilitada. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Cuando Configuración de uso compartido está habilitada, solo los administrador
 
    ![](assets/sharing-settings-4.png)
 
-1. Clic **Agregar equipos para obtener acceso**.
+1. Haga clic en **Agregar equipos para obtener acceso**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Cuando Configuración de uso compartido está habilitada, solo los administrador
    >
    >Si no ve ningún equipo, tendrá que ir a Administración de equipos y crear un equipo de usuarios.
 
-1. Clic **Agregar equipos para obtener acceso** para guardar.
+1. Haga clic en **Agregar equipos para obtener acceso** para guardar.
 
    ![](assets/sharing-settings-7.png)
 

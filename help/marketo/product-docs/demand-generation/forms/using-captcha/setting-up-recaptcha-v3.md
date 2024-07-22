@@ -5,8 +5,8 @@ exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ Para el paso 6 de la sección de configuración inicial de reCAPTCHA v3 a contin
 
    ![](assets/setting-up-recaptcha-v3-1.png)
 
-1. Clic **Mi cuenta**.
+1. Haga clic en **Mi cuenta**.
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
@@ -34,7 +34,7 @@ Para el paso 6 de la sección de configuración inicial de reCAPTCHA v3 a contin
 
 Los siguientes pasos se realizan fuera de Marketo.
 
-1. Ir a [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} y haga clic en el Admin Console v3.
+1. Vaya a [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} y haga clic en el Admin Console v3.
 
 1. Iniciar sesión o registrarse con una cuenta de Google.
 
@@ -42,9 +42,9 @@ Los siguientes pasos se realizan fuera de Marketo.
 
 1. Cree una etiqueta para identificar la clave que se va a utilizar para el Marketo Engage.
 
-1. Elegir tipo **reCAPTCHA v3**. Actualmente, el Marketo Engage no admite reCAPTCHA v2.
+1. Elija el tipo **reCAPTCHA v3**. Actualmente, el Marketo Engage no admite reCAPTCHA v2.
 
-1. Añada cada dominio que utilice la suscripción del Marketo Engage. Los dominios no establecidos aquí devolverán los errores en los formularios en los que reCAPTCHA esté habilitado. Recuerde reemplazar las palabras &quot;centro de datos&quot; y &quot;munchkinID&quot; por las palabras [datos de su suscripción](#retrieve-your-data-center-and-munchkin-id).
+1. Añada cada dominio que utilice la suscripción del Marketo Engage. Los dominios no establecidos aquí devolverán los errores en los formularios en los que reCAPTCHA esté habilitado. Recuerde reemplazar las palabras &quot;datacenter&quot; y &quot;munchkinID&quot; por los [datos de su suscripción](#retrieve-your-data-center-and-munchkin-id).
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -58,7 +58,7 @@ Los siguientes pasos se realizan fuera de Marketo.
 
 1. Acepte los Términos de servicio de reCAPTCHA.
 
-1. Clic **Enviar**.
+1. Haga clic en **Enviar**.
 
    >[!NOTE]
    >
@@ -68,17 +68,17 @@ Los siguientes pasos se realizan fuera de Marketo.
 
 >[!IMPORTANT]
 >
->Después de seguir estos pasos y [habilitar CAPTCHA en su primer formulario de Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}No obstante, asegúrese de probar el formulario inmediatamente, ya que cualquier tipo de configuración incorrecta en la configuración de reCAPTCHA puede romperlo.
+>Después de seguir estos pasos y [habilitar CAPTCHA en su primer formulario Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, asegúrese de probar el formulario de inmediato, ya que cualquier tipo de configuración incorrecta en la configuración de reCAPTCHA puede romper el formulario.
 
 1. En Marketo, haga clic en **Administrador**.
 
    ![](assets/setting-up-recaptcha-v3-4.png)
 
-1. Seleccionar **CAPTCHA** en el árbol.
+1. Seleccione **CAPTCHA** en el árbol.
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 
-1. Clic **Editar** en la configuración de CAPTCHA.
+1. Haga clic en **Editar** en la configuración de CAPTCHA.
 
    ![](assets/setting-up-recaptcha-v3-6.png)
 
@@ -86,7 +86,7 @@ Los siguientes pasos se realizan fuera de Marketo.
 
    ![](assets/setting-up-recaptcha-v3-7.png)
 
-1. Inserte la Clave secreta y la Clave del sitio. Clic **Guardar** cuando termine.
+1. Inserte la Clave secreta y la Clave del sitio. Haga clic en **Guardar** cuando termine.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
 

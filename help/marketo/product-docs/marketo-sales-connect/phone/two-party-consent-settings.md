@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
 >[!PREREQUISITES]
 >
->Antes de seguir los pasos a continuación, primero debe [habilitar grabación de llamadas](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Antes de seguir los pasos siguientes, primero debe [habilitar la grabación de llamadas](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. Haga clic en el icono Settings y seleccione **Configuración**.
+1. Haga clic en el icono Configuración y seleccione **Configuración**.
 
    ![](assets/one-1.png)
 
@@ -31,7 +31,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/three-1.png)
 
-1. Clic **Importar grabación**.
+1. Haga clic en **Importar grabación**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/five.png)
 
-1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Clic **OK** cuando termine.
+1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Haga clic en **Aceptar** cuando haya terminado.
 
    ![](assets/six.png)
 

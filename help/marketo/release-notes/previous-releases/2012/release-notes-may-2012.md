@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Con las nuevas propiedades de Espera avanzada, puede configurar el paso de esper
 
 Figura 1. Especifique el paso de espera para finalizar en un día laborable
 
-## Recursos archivados ocultos {#archived-assets-hidden}
+## Assets archivado oculto {#archived-assets-hidden}
 
 Los recursos archivados se filtran automáticamente de sugerencias automáticas, listas desplegables e informes, lo que facilita la búsqueda de lo que busca.
 
@@ -55,13 +55,13 @@ Figura 5. Protéjalos en
 
 ## URL de confirmación de seminario web mejorado {#enhanced-webinar-confirmation-url}
 
-¡Ahora disponible para ON24 y Adobe Connect! Incluya un vínculo único en el correo electrónico de confirmación para cada asistente registrado que utilice el nuevo `{{member.webinar URL}}` token. Las mejoras de Adobe Connect también incluyen la capacidad de activar o desactivar el correo electrónico con información de la cuenta de Adobe que incluye el ID de inicio de sesión y la contraseña del usuario.
+¡Ahora disponible para ON24 y Adobe Connect! Incluya un vínculo único en el correo electrónico de confirmación para cada asistente registrado con el nuevo token `{{member.webinar URL}}`. Las mejoras de Adobe Connect también incluyen la capacidad de activar o desactivar el correo electrónico con información de la cuenta de Adobe que incluye el ID de inicio de sesión y la contraseña del usuario.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
 Figura 6. Llevar a las personas al seminario web
 
-## Previsualización de plantilla {#template-preview}
+## Vista previa de la plantilla {#template-preview}
 
 ¿Busca una plantilla específica al crear el correo electrónico o la página de aterrizaje, pero no está seguro de su aspecto? Con la nueva capacidad de previsualización de plantilla, puede verificar la plantilla seleccionada antes de guardar un nuevo recurso.
 
@@ -99,7 +99,7 @@ Figura 11. Configuración de Microsoft Dynamics
 
 ## Mejoras en Sales Insight de Marketo {#marketo-sales-insight-enhancements}
 
-**Opciones de cancelación de suscripción**
+**Opciones de cancelación de suscripción al pie**
 
 Configure cuándo y si se muestra el pie de página de cancelación de suscripción para los correos electrónicos enviados a través de Sales Insight.
 

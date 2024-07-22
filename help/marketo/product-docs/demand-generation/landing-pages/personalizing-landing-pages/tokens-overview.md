@@ -87,7 +87,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Los campos de persona personalizados también funcionan si se utiliza su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
+* Los campos de persona personalizados también funcionan si usa su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
 
 ## Tokens de empresa {#company-tokens}
 
@@ -122,7 +122,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 
 >[!NOTE]
 >
->Obtenga más información acerca de estos tokens en la [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Obtenga más información acerca de estos tokens en el [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 
 >[!NOTE]
 >
->Más información sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en función de los déclencheur utilizados en una campaña inteligente.
+>Encuentre más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) según los déclencheur utilizados en una campaña inteligente.
 
 ## Tokens de programa {#program-tokens}
 
@@ -163,10 +163,10 @@ Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del 
 
 ## Token de miembro {#member-token}
 
-Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para URL únicas para los asistentes al seminario web. Cada persona tiene una URL única para acceder al seminario web que se puede insertar mediante una `{{member.webinar url}}` token. El `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
+Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para URL únicas para los asistentes al seminario web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->El `{{member.webinar url}}` Este token solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del programa de eventos.
+>El token `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del programa de eventos.

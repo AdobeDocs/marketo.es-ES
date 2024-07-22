@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 55%
+ht-degree: 58%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 55%
 
 Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
 
-## Campos de clientes potenciales {#lead-fields}
+## Campos de leads {#lead-fields}
 
 | Campo de SFDC | Campo de Marketo |
 |---|---|
@@ -24,18 +24,18 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo 
 | Compañía | Nombre de la empresa |
 | Fecha convertida | Fecha de conversión de SFDC |
 | País | País |
-| Fecha de creación | Fecha de creación en SFDC |
+| Fecha de creación | Fecha de creación de SFDC |
 | Descripción | Notas de la persona |
-| Correo electrónico | Dirección de email |
+| Correo electrónico | Correo electrónico |
 | Fax | Número de fax |
 | Nombre | Nombre |
 | No participar en el correo electrónico | Suscripción cancelada |
 | Industria | Industria |
-| Convertido | SFDC se ha convertido |
-| Eliminado | SFDC eliminado |
+| Convertido | SFDC convertido |
+| eliminado | SFDC está eliminado |
 | Apellido | Apellido |
-| Origen del cliente potencial | Origen |
-| Puntaje del cliente potencial | Puntuación |
+| Origen del lead | Origen |
+| Puntaje del lead | Puntaje |
 | Teléfono móvil | Número de teléfono móvil |
 | Empleados | Cantidad de empleados |
 | Teléfono | Número de teléfono |
@@ -52,17 +52,17 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo 
 
 | Campo de SFDC | Campo de Marketo |
 |---|---|
-| Birthdate | Fecha de nacimiento |
-| Fecha de creación | Fecha de creación en SFDC |
+| Fecha de nacimiento | Fecha de nacimiento |
+| Fecha de creación | Fecha de creación de SFDC |
 | Descripción de contacto | Notas de la persona |
-| Correo electrónico | Dirección de email |
+| Correo electrónico | Correo electrónico |
 | Fax del trabajo | Número de fax |
 | Nombre | Nombre |
 | No participar en el correo electrónico | Suscripción cancelada |
-| Eliminado | SFDC eliminado |
+| eliminado | SFDC está eliminado |
 | Apellido | Apellido |
-| Origen del cliente potencial | Origen |
-| Puntaje del cliente potencial | Puntuación |
+| Origen del lead | Origen |
+| Puntaje del lead | Puntaje |
 | MailingCity | Ciudad |
 | MailingCountry | País |
 | MailingPostalCode | Código postal |
@@ -85,10 +85,10 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo 
 | Calle de facturación | Dirección de facturación |
 | Descripción de cuenta | Notas de la compañía |
 | Industria | Industria |
-| Eliminado | SFDC eliminado |
+| eliminado | SFDC está eliminado |
 | Nombre de la cuenta | Nombre de la empresa |
 | Empleados | Cantidad de empleados |
-| Teléfono de cuenta | Teléfono principal |
+| Teléfono de cuenta | Teléfono principal: |
 | Código SIC | Código SIC |
 | Sitio de cuenta | Sitio |
 | Tipo de cuenta | Tipo de SFDC |
@@ -102,5 +102,5 @@ Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
 |---|---|
 | Identificación de SFDC | El ID de Salesforce de 18 caracteres |
 | Tipo de SFDC | Posible cliente o contacto. Si está vacío, el posible cliente solo existe como persona en Marketo |
-| Fecha de creación en SFDC | Fecha de creación en SFDC (puede ser diferente de Creación en Marketo) |
+| Fecha de creación de SFDC | Fecha de creación en SFDC (puede ser diferente de Creación en Marketo) |
 | Se ha eliminado el SFDC | La persona solía estar en SFDC, pero se ha eliminado y ahora solo vive en Marketo |

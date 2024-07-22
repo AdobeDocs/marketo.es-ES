@@ -6,8 +6,8 @@ exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 0%
+source-wordcount: '394'
+ht-degree: 1%
 
 ---
 
@@ -19,13 +19,13 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
 >[!NOTE]
 >
->* Además de configurar el servidor SMTP, su [debe verificarse la identidad del correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de poder enviar correos electrónicos.
+>* Además de configurar su servidor SMTP, su [identidad de correo electrónico debe verificarse](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) para poder enviar correos electrónicos.
 >* Se recomienda trabajar con su equipo de TI o con el proveedor de servidores SMTP para obtener las credenciales de servidor adecuadas para su servidor SMTP.
 >* No puede conectar el servidor de Gmail y Exchange con las credenciales del servidor SMTP. Utilice nuestro servicio de conexión de correo electrónico para integrarse con estos proveedores.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -33,11 +33,11 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Clic **Canal de envío personalizado**.
+1. Haga clic en **Canal de entrega personalizado**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. Introduzca las credenciales del servidor SMTP y haga clic en **Connect**.
+1. Escriba sus credenciales de servidor SMTP y haga clic en **Conectar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -49,7 +49,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. Busque la identidad de correo electrónico para la que desea elegir un canal de envío y haga clic en **Elegir canal de entrega**.
+1. Busque la identidad de correo electrónico para la que desea elegir un canal de entrega y haga clic en **Elegir canal de entrega**.
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
@@ -57,7 +57,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Haga clic en el menú desplegable Canal y elija el canal de entrega personalizado que acaba de añadir. Clic **Guardar**.
+1. Haga clic en el menú desplegable Canal y elija el canal de entrega personalizado que acaba de añadir. Haga clic en **Guardar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -69,9 +69,9 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -79,11 +79,11 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su uso indivi
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Clic **Canal de envío de equipo**.
+1. Haga clic en **Canal de envío de equipo**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. Introduzca las credenciales del servidor SMTP y haga clic en **Connect**.
+1. Escriba sus credenciales de servidor SMTP y haga clic en **Conectar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 

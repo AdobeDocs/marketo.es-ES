@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Las tareas de recordatorio son una buena manera de mantenerse al tanto de la participación del cliente y del cliente potencial. Para crear una tarea, siga estos pasos.
 
-1. Clic **Centro de comandos**.
+1. Haga clic en **Centro de comandos**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Tareas se abre de forma predeterminada. Clic **Agregar tarea**.
+1. Tareas se abre de forma predeterminada. Haga clic en **Agregar tarea**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ Las tareas de recordatorio son una buena manera de mantenerse al tanto de la par
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de llamada, una plantilla de mensaje InMail o incluso notas sobre la persona. Clic **Crear** cuando termine.
+1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de llamada, una plantilla de mensaje InMail o incluso notas sobre la persona. Haga clic en **Crear** cuando haya terminado.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

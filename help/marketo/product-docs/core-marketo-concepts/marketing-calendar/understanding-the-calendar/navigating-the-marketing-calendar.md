@@ -6,8 +6,8 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Navegar por el calendario de marketing es fácil. Así es como.
 
 >[!PREREQUISITES]
 >
->Asegúrese de que tiene un [Licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} : de lo contrario, el mosaico Calendario de marketing no aparecerá en Mi Marketo.
+>Asegúrese de que tiene una [licencia del calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}; de lo contrario, el mosaico del calendario de mercadotecnia no aparecerá en Mi Marketo.
 
 >[!NOTE]
 >
 >Las campañas inteligentes recurrentes no son compatibles con los calendarios de marketing.
 
-1. Vaya a la **Calendario de marketing**.
+1. Vaya a **Calendario de mercadotecnia**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ Navegar por el calendario de marketing es fácil. Así es como.
 
 ## Cambiar entre modos {#change-between-modes}
 
-1. Haga clic en **[!UICONTROL 3 semanas]** o **[!UICONTROL Mes]** pestañas para cambiar entre modos.
+1. Haga clic en las fichas **[!UICONTROL 3 semanas]** o **[!UICONTROL Mes]** para cambiar de modo.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,15 +41,15 @@ Navegar por el calendario de marketing es fácil. Así es como.
 
 La vista de agenda muestra todas las entradas como una lista.
 
-1. Haga clic en **[!UICONTROL Filtrar]** menú desplegable.
+1. Haga clic en la lista desplegable **[!UICONTROL Filtro]**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Seleccione el **[!UICONTROL Agenda]** vista.
+1. Seleccione la vista **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   ¡Increíble! Esta es una gran vista para ver todo lo que está planificado.
+   ¡Fantástico! Esta es una gran vista para ver todo lo que está planificado.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -67,7 +67,7 @@ También puede utilizar estos métodos abreviados del teclado.
 | Avanzar en el tiempo | alt/opt + down |
 | Ir a &quot;hoy&quot; | alt/opt + t |
 
-¡Increíble! Estos son los conceptos básicos. También puede personalizar la vista mediante filtros.
+¡Fantástico! Estos son los conceptos básicos. También puede personalizar la vista mediante filtros.
 
 >[!MORELIKETHIS]
 >

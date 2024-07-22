@@ -5,7 +5,7 @@ exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ A veces, es posible que desee eliminar campos en Dynamics. El Marketo Engage man
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
-1. Clic **[!UICONTROL Deshabilitar sincronización]**.
+1. Haga clic en **[!UICONTROL Deshabilitar sincronización]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-3.png)
 
 1. En una nueva pestaña del explorador, inicie sesión en Dynamics y elimine los campos que desee.
 
-1. En Marketo, en Microsoft Dynamics, haga clic en **[!UICONTROL Editar]** junto a &quot;Paso 2: Seleccione los campos que desea sincronizar&quot;.
+1. Cuando vuelva a Marketo, en Microsoft Dynamics, haga clic en **[!UICONTROL Editar]** junto a &quot;Paso 2: Seleccionar campos para sincronizar&quot;.
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
@@ -38,7 +38,7 @@ A veces, es posible que desee eliminar campos en Dynamics. El Marketo Engage man
 
 >[!CAUTION]
 >
->Clic **[!UICONTROL Guardar]** es necesario para guardar el esquema actualizado para la sincronización, incluso si no se han realizado cambios.
+>Se requiere hacer clic en **[!UICONTROL Guardar]** para guardar el esquema actualizado para la sincronización, aunque no se hayan realizado cambios.
 
 >[!NOTE]
 >

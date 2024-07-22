@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO: importación de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
 
-1. Puede [añadir palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave desde un archivo CSV. A continuación se muestra cómo realizar la importación.
+1. Puede [agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave de un archivo CSV. A continuación se muestra cómo realizar la importación.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Clic **[!UICONTROL Importar]**.
+1. Haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Clic **[!UICONTROL Elegir archivo]**.
+1. Haga clic en **[!UICONTROL Elegir archivo]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >Los límites de importación varían en función de la suscripción. Póngase en contacto con su representante de ventas para obtener más información.
 
-1. Clic **[!UICONTROL Importar]**.
+1. Haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

@@ -18,6 +18,6 @@ Al hacer clic en el menú de puntos debajo de la columna Acciones, puede utiliza
 * Enviar correo electrónico a Marketo
 * Añadir a Marketo Campaign
 
-También puede seleccionar varios posibles clientes en la pestaña Resultados más probables y elegir _Enviar correo electrónico a Marketo_ o _Añadir a Marketo Campaign_.
+También puede seleccionar varios posibles clientes en la ficha Resultados más probables y elegir _Enviar correo electrónico de Marketo_ o _Agregar a Marketo Campaign_.
 
 ![](assets/best-bets-1.png)

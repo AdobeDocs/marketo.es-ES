@@ -6,8 +6,8 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* [Crear un correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [Editar elementos en un correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+>* [Editar elementos en un mensaje de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 Los vínculos de correo electrónico de texto se pueden rastrear en Marketo. Vamos a ver cómo funciona. 1. Seleccione el correo electrónico y haga clic en Editar borrador.
 
@@ -26,7 +26,7 @@ Los vínculos de correo electrónico de texto se pueden rastrear en Marketo. Vam
 
    ![](assets/two-8.png)
 
-1. Escriba la dirección URL entre corchetes, de esta manera: `[[www.domain.com/path/page.html]]`.
+1. Escriba la dirección URL entre corchetes, de la siguiente manera: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -42,4 +42,4 @@ Los vínculos de correo electrónico de texto se pueden rastrear en Marketo. Vam
 >
 >Pruébelo para volver a comprobarlo. Asegúrese de haber introducido correctamente los corchetes.
 
-¡Buen trabajo! 
+¡Buen trabajo!

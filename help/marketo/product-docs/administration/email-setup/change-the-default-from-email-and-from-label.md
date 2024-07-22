@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Cambiar la etiqueta predeterminada Desde correo electrónico y Desde {#change-the-default-from-email-and-from-label}
 
-Cada usuario administrador tiene la capacidad de cambiar los valores predeterminados de **[!UICONTROL Desde correo electrónico]** y **[!UICONTROL Etiqueta Desde]** para que, cuando creen nuevos correos electrónicos, se utilicen esos valores predeterminados.
+Cada usuario administrador tiene la capacidad de cambiar los valores predeterminados de **[!UICONTROL De correo electrónico]** y **[!UICONTROL De etiqueta]** para que cuando cree nuevos correos electrónicos, se utilicen esos valores predeterminados.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Introduzca los valores predeterminados que desee para **[!UICONTROL Desde correo electrónico]** y **[!UICONTROL Etiqueta Desde]** luego haga clic en **[!UICONTROL Guardar cambios]**.
+1. Escriba los valores predeterminados que desee para **[!UICONTROL Desde el correo electrónico]** y **[!UICONTROL Desde la etiqueta]**, y luego haga clic en **[!UICONTROL Guardar cambios]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

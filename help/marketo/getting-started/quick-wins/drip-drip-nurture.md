@@ -6,7 +6,7 @@ exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -19,24 +19,24 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 
 >[!PREREQUISITES]
 >
->* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Paso 1: Crear un programa de participación {#step-create-an-engagement-program}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Seleccione el **Aprendizaje** , haga clic en la **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Nuevo programa]**.
+1. Seleccione la carpeta **Aprendizaje**, haga clic en la lista desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo programa]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Introduzca una **[!UICONTROL Nombre]** y seleccione **[!UICONTROL Participación]** para el **[!UICONTROL Tipo de programa]**.
+1. Escriba un **[!UICONTROL Nombre]** y seleccione **[!UICONTROL Participación]** para el **[!UICONTROL Tipo de programa]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Asegúrese de que la **[!UICONTROL Canal]** el campo es **[!UICONTROL Nutrir]** y haga clic en **[!UICONTROL Crear]**.
+1. Asegúrese de que el campo **[!UICONTROL Canal]** sea **[!UICONTROL Nutrir]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -44,23 +44,23 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 
 ## Paso 2: Crear un correo electrónico {#step-create-an-email}
 
-1. Seleccione el programa de participación y haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
+1. Seleccione su programa de participación, haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Clic **[!UICONTROL Correo electrónico]**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Introduzca una **[!UICONTROL Nombre]**, seleccione la **[!UICONTROL Plantilla]** que desee utilizar y haga clic en **[!UICONTROL Crear]**.
+1. Escriba un **[!UICONTROL Nombre]**, seleccione la **[!UICONTROL Plantilla]** que desee usar y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >¿No ve el editor de correo electrónico? Su navegador probablemente bloqueó la ventana. Habilitar ventanas emergentes de `app.marketo.com` en el explorador y haga clic en **[!UICONTROL Editar borrador]** en la barra de menú superior.
+   >¿No ve el editor de correo electrónico? Su navegador probablemente bloqueó la ventana. Habilite ventanas emergentes de `app.marketo.com` en su explorador y haga clic en **[!UICONTROL Editar borrador]** en la barra de menú superior.
 
-1. Ingresar asunto.
+1. Introduzca un asunto.
 
    ![](assets/drip-drip-nurture-8.png)
 
@@ -68,7 +68,7 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. Edite el correo electrónico y haga clic en **[!UICONTROL Guardar]**.
+1. Edite su correo electrónico y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
@@ -88,17 +88,17 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 
 Ahora es el momento de crear un flujo de contenido para su programa de participación con los correos electrónicos que ha creado.
 
-1. Seleccione el programa de participación y haga clic en **[!UICONTROL Flujos]** pestaña.
+1. Seleccione el programa de participación y haga clic en la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Haga clic en **[!UICONTROL Añadir contenido]** en el flujo.
+1. Haga clic en el botón **[!UICONTROL Agregar contenido]** del flujo.
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >También puede utilizar la variable **+** icono.
+   >También puede usar el icono **+**.
 
 1. Deje seleccionado el tipo &quot;Correo electrónico&quot;. Busque y seleccione los dos correos electrónicos que ha creado.
 
@@ -106,7 +106,7 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
 
 ## Paso 4: Activar el contenido de la emisión {#step-activate-stream-content}
 
-1. Active todo el contenido a la vez haciendo clic en el icono de engranaje de flujo y luego haga clic en **[!UICONTROL Activar todo el contenido]**.
+1. Activa todo el contenido a la vez haciendo clic en el icono de engranaje de flujo, luego haz clic en **[!UICONTROL Activar todo el contenido]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -114,11 +114,11 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
    >
    >No puede activar contenido sin aprobarlo primero.
 
-   ¡bueno trabajo! Un paso más y el programa de participación estará listo.
+   ¡Gran trabajo! Un paso más y el programa de participación estará listo.
 
 ## Paso 5: Configuración de la cadencia del flujo {#step-set-the-stream-cadence}
 
-1. Clic **[!UICONTROL Definir cadencia de flujo]**.
+1. Haga clic en **[!UICONTROL Establecer cadencia de flujo]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
@@ -134,7 +134,7 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
 
 ## Paso 6: Añadir una persona de prueba a su programa de participación {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vaya a la **[!UICONTROL Base de datos]** área.
+1. Vaya al área de **[!UICONTROL Base de datos]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -146,11 +146,11 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
    >
    >Asegúrese de que la persona de prueba tenga una dirección de correo electrónico válida para que pueda confirmar la recepción de correos electrónicos al realizar la prueba.
 
-1. Haga clic con el botón derecho en la persona y luego haga clic en **[!UICONTROL Programas]** y **[!UICONTROL Agregar al programa de participación...]**.
+1. Haga clic con el botón secundario en la persona, luego haga clic en **[!UICONTROL Programas]** y **[!UICONTROL Agregar al programa de participación...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Seleccione su **[!UICONTROL Programa]** y **[!UICONTROL Transmitir]**, luego haga clic en **[!UICONTROL Ejecutar ahora]**.
+1. Seleccione su **[!UICONTROL programa]** y **[!UICONTROL emisión]**, luego haga clic en **[!UICONTROL Ejecutar ahora]**.
 
    ![](assets/drip-drip-nurture-22.png)
 

@@ -23,11 +23,11 @@ No es una buena idea enviar un correo electrónico a alguien varias veces al dí
 >
 >Cuando cualquier persona supera los límites de comunicación establecidos, Marketo bloquea los correos electrónicos no operativos (los correos electrónicos operativos siempre se envían).
 
-1. En la campaña inteligente, haga clic en **[!UICONTROL Programación]** y luego **[!UICONTROL Editar configuración]**.
+1. En su campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** y luego en **[!UICONTROL Editar configuración]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Compruebe la **[!UICONTROL Bloquear correos electrónicos no operativos]** y haga clic en **[!UICONTROL Guardar]**.
+1. Marque la casilla de verificación **[!UICONTROL Bloquear correos electrónicos no operativos]** y luego haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ No es una buena idea enviar un correo electrónico a alguien varias veces al dí
 
 >[!TIP]
 >
->Para que sea la opción predeterminada, edite su [límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} en la sección Administración.
+>Para que sea la opción predeterminada, edite [límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} en la sección Administración.
 
 Ahora puede estar seguro de que no está enviando accidentalmente demasiados correos electrónicos a su audiencia.

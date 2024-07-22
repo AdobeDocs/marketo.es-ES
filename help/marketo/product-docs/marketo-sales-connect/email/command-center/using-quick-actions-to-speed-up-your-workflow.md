@@ -19,7 +19,7 @@ Existen dos tipos de columnas de acción rápida en la cuadrícula de correo ele
 
 Las acciones rápidas de correo electrónico son dinámicas y se actualizan según las acciones más relevantes para el estado del correo electrónico que esté viendo. Hay un máximo de dos acciones rápidas de correo electrónico visibles para cada estado de correo electrónico. Puede ver qué acciones rápidas de correo electrónico estarán disponibles para cada estado a continuación.
 
-**Entregados**
+**Entregado**
 
 | Estado | Descripción |
 |---|---|
@@ -40,7 +40,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,12 +59,12 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Fallo, rechazos y spam**
+**Error, rechazados y correo no deseado**
 
 <table> 
  <colgroup> 
@@ -78,7 +78,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>

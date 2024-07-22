@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Mientras que los informes están disponibles en el nivel de diálogo, compruebe la participación general utilizando los tres paneles siguientes.
 
-Acceda a cada tablero en **Analytics** en la barra de navegación izquierda.
+Acceda a cada tablero de **Analytics** en la barra de navegación izquierda.
 
 ![](assets/analytics-1.png)
 
@@ -54,8 +54,8 @@ Ver cuadros de diálogo, flujos de conversación o todo. Seleccione un intervalo
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Finalizaciones</b></td>
-    <td>Un evento completado se produce cuando un visitante llega a la última solicitud de una conversación <i>o</i> cuando un visitante agota todo el contenido de una conversación.
+    <td style="width:25%"><b>Completado</b></td>
+    <td>Se produce un evento completado cuando un visitante llega a la última solicitud de una conversación <i>o</i> cuando un visitante agota todo el contenido de una conversación.
     <br>Un evento completado por visitante y por sesión.</td>
   </tr>
   <tr>

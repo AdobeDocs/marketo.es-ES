@@ -24,7 +24,7 @@ Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye 
 
 >[!NOTE]
 >
->No veo a un agente que usted _justo_ ¿añadido? Pueden tardar hasta dos horas en aparecer aquí después de agregarlas en la Admin Console de Adobe.
+>¿No ve un agente que _acaba de_ agregar? Pueden tardar hasta dos horas en aparecer aquí después de agregarlas en la Admin Console de Adobe.
 
 ## Equipos {#teams}
 
@@ -38,7 +38,7 @@ Los administradores pueden crear equipos de agentes para facilitar el envío a g
 
 ### Crear un equipo {#create-a-team}
 
-1. Clic **+ Crear equipo**.
+1. Haga clic en **+ Crear equipo**.
 
    ![](assets/agent-management-4.png)
 
@@ -46,11 +46,11 @@ Los administradores pueden crear equipos de agentes para facilitar el envío a g
 
    ![](assets/agent-management-5.png)
 
-1. Haga clic en **Agregar agentes** y seleccione los agentes que desee.
+1. Haga clic en el menú desplegable **Agregar agentes** y seleccione los agentes que desee.
 
    ![](assets/agent-management-6.png)
 
-1. Clic **Crear**.
+1. Haga clic en **Crear**.
 
    ![](assets/agent-management-7.png)
 
@@ -70,7 +70,7 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 
 >[!NOTE]
 >
->Selección de la **Incluir opción de reserva de reunión** Esta casilla de verificación dará al visitante del chat la opción de reservar una reunión cuando no haya agentes disponibles para el chat en vivo.
+>Si selecciona la casilla de verificación **Incluir opción de reserva de reunión**, el visitante del chat tendrá la opción de reservar una reunión cuando no haya agentes disponibles para el chat en vivo.
 
 >[!TIP]
 >

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Solo se puede acceder a esta función antes de la sincronización inicial con Salesforce. Una vez que **[!UICONTROL Sincronizar ahora]** cuando se pulsa el botón, ya no se puede hacer.
+>Solo se puede acceder a esta función antes de la sincronización inicial con Salesforce. Una vez que pulse el botón **[!UICONTROL Sincronizar ahora]**, ya no podrá hacerlo.
 
 Durante la sincronización inicial con Salesforce, Marketo Engage combina automáticamente campos personalizados con nombres similares en un único campo del lado de Marketo para garantizar que los datos se puedan intercambiar con los objetos de posible cliente y contacto en CRM. Este artículo explica cómo personalizar estas asignaciones.
 
 ## Asignar campos no asignados {#map-unmapped-fields}
 
-Cuando vea un campo en la variable [!UICONTROL Campos no asignados] , significa que no está asignado a un campo similar del posible cliente o contacto en Salesforce. Puedes arreglar eso.
+Cuando ve un campo en la carpeta [!UICONTROL Campos no asignados], significa que no está asignado a un campo similar del posible cliente o contacto en Salesforce. Puedes arreglar eso.
 
-1. Clic **[!UICONTROL Editar asignaciones]**.
+1. Haga clic en **[!UICONTROL Editar asignaciones]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Abra el **[!UICONTROL Campos personalizados sin asignar]** carpeta.
+1. Abra la carpeta **[!UICONTROL Campos personalizados sin asignar]**.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Cuando vea un campo en la variable [!UICONTROL Campos no asignados] , significa 
 
    ![](assets/three.png)
 
-1. Clic **[!UICONTROL Finalizar asignaciones]** cuando haya terminado.
+1. Haga clic en **[!UICONTROL Finalizar asignaciones]** cuando haya terminado.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Cuando vea un campo en la variable [!UICONTROL Campos no asignados] , significa 
 
 Si tiene campos con nombres similares en el posible cliente y en el objeto de contacto, Marketo los asignará automáticamente. Puede considerar que son diferentes y que contienen datos diferentes. Rompa la asignación de esta manera.
 
-1. Clic **[!UICONTROL Editar asignaciones]**.
+1. Haga clic en **[!UICONTROL Editar asignaciones]**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
@@ -55,7 +55,7 @@ Si tiene campos con nombres similares en el posible cliente y en el objeto de co
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Clic **[!UICONTROL Finalizar asignaciones]** cuando hayas terminado.
+1. Haga clic en **[!UICONTROL Finalizar asignaciones]** cuando haya terminado.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ Si tiene campos con nombres similares en el posible cliente y en el objeto de co
 
 ## Restablecer esquema {#reset-schema}
 
-1. Si realiza algunos cambios en el esquema en Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **[!UICONTROL Restablecer esquema]**.
+1. Si realiza algunos cambios en el esquema de Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **[!UICONTROL Restablecer esquema]**.
 
    * Se restablecerán todos los cambios de asignación.
    * Al restablecer el esquema, solo se añaden campos, no se eliminan (aunque se oculten al usuario de sincronización).

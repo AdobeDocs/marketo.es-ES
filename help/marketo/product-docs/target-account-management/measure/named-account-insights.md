@@ -6,7 +6,7 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '424'
 ht-degree: 3%
 
 ---
@@ -17,15 +17,15 @@ El Tablero de cuentas con nombre proporciona una vista de 360 grados de una cuen
 
 ![](assets/one-1.png)
 
-## Tablero {#dashboard}
+## Panel de control {#dashboard}
 
-El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de una cuenta con nombre, lo que evita la necesidad de dirigirse a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de una cuenta con nombre, lo que evita la necesidad de dirigirse a cada persona para evaluar su progreso. Puede profundizar en la actividad del correo electrónico mediante [Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
 >Los gráficos muestran datos de los últimos 90 días.
 
-**Participación de cuenta con el tiempo** Haga clic en **Ver** desplegable de la derecha para cambiar por qué ve. Además de Puntuación de cuenta, puede ver por Ingresos totales...
+**Participación de la cuenta a lo largo del tiempo** Haga clic en el menú desplegable **Ver** que hay a la derecha para cambiar por qué ve. Además de Puntuación de cuenta, puede ver por Ingresos totales...
 
 ![](assets/two-new.png)
 
@@ -36,7 +36,7 @@ El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Puntuación de cuenta</strong></td> 
+   <td><strong>Calificación de la cuenta</strong></td> 
    <td><p>Consulte la participación de una semana a otra en función de todas las puntuaciones de cuenta que haya creado en Administración. Puede comparar estas puntuaciones de cuenta en paralelo. Para determinar la participación semanal, tomamos la participación máxima de cualquier día de la semana.</p></td> 
   </tr> 
   <tr> 
@@ -58,13 +58,13 @@ Disponible para los usuarios de Marketo Sales Insight, puede ver los momentos in
 
 **Personas principales**
 
-Estas personas se calculan en función de prioridades que se basan en la actualización o la urgencia mostradas por personas de cuentas con nombre (lo mismo que [Recomendaciones](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) en Sales Insight) o puntuaciones definidas por el usuario. **Prioridad** solo está disponible para los usuarios de Marketo Sales Insight.
+Estas personas se calculan en función de prioridades que se basan en la actualización o la urgencia mostradas por personas de cuentas con nombre (lo mismo que [resultados más probables](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) en Sales Insight) o puntuaciones definidas por el usuario. **Prioridad** solo está disponible para los usuarios de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Incluye elementos secundarios**
 
-Clic **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta con nombre seleccionada y ver sus análisis agregados.
+Haga clic en **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta con nombre seleccionada y ver el análisis agregado.
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ La coincidencia de cliente potencial con cuenta utiliza la lógica difusa para e
 
 >[!NOTE]
 >
->Para añadir a cualquiera de las personas de la lista, selecciónelas y haga clic en **Agregar personas**.
+>Para agregar a cualquiera de las personas de la lista, selecciónelas y haga clic en **Agregar personas**.
 
 ## Utilizado por {#used-by}
 
@@ -108,10 +108,10 @@ Vea los miembros del equipo de cuentas, agregue o elimine miembros, e incluso as
 
 >[!NOTE]
 >
->Haga clic en **Acciones del equipo de cuenta** desplegable para agregar o quitar miembros de la cuenta, o asignar un propietario de la cuenta.
+>Haga clic en el menú desplegable **Acciones del equipo de cuenta** para agregar o quitar miembros de la cuenta o asignar un propietario de cuenta.
 
 ## Indicadores ICP {#icp-indicators}
 
-Ver los indicadores ICP seleccionados para exportar al [sintonizó su modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Vea los indicadores ICP que seleccionó para exportar cuando [ajustó su modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

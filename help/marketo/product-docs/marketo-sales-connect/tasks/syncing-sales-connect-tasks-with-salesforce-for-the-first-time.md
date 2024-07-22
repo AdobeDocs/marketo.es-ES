@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronización de tareas de conexión de ventas con Salesforce por primera vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Cuando active por primera vez la sincronización entre las tareas de Sales Connect y Salesforce, importaremos sus tareas de Salesforce. Lo haremos **no** Pase cualquier tarea actual que tenga en Sales Connect a Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan con Sales Connect son las creadas *después* se sincroniza Sales Connect con SFDC.
+Cuando active por primera vez la sincronización entre las tareas de Sales Connect y Salesforce, importaremos sus tareas de Salesforce. **no** sobrepasaremos las tareas actuales que tenga en Sales Connect para Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan desde Sales Connect a Salesforce son las tareas creadas *después de* que sincronice Sales Connect con SFDC.
 
 Esto es lo que sucede cuando sincroniza las tareas de Sales Connect y SFDC:
 
@@ -27,4 +27,4 @@ Esto es lo que sucede cuando sincroniza las tareas de Sales Connect y SFDC:
 
 Tras la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en Sales Connect se sincronizará con la lista de tareas de Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará su lista de tareas en Sales Connect.
 
-Para activar esta sincronización, simplemente marque la casilla de sincronización en su [Página Configuración](https://toutapp.com/login) en la aplicación web.
+Para activar esta sincronización, simplemente marca la casilla de sincronización en tu [página de configuración](https://toutapp.com/login) en la aplicación web.

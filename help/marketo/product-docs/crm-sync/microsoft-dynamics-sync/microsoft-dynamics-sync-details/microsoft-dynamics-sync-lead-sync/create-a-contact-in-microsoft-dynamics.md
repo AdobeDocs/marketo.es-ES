@@ -17,22 +17,22 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Acciones de persona]** y **[!DNL Microsoft]** y seleccione **[!UICONTROL Sincronizar persona con Microsoft]**.
+1. Haga clic en **[!UICONTROL Acciones de persona]** y **[!DNL Microsoft]**, y seleccione **[!UICONTROL Sincronizar persona con Microsoft]**.
 
    ![](assets/two.png)
 
-1. Clic **[!UICONTROL Sincronizar como]** y seleccione **[!UICONTROL Contacto]**. Clic **[!UICONTROL Ejecutar ahora]**.
+1. Haga clic en **[!UICONTROL Sincronizar como]** y seleccione **[!UICONTROL Contacto]**. Haga clic en **[!UICONTROL Ejecutar ahora]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Cuando se utiliza el &quot;[!UICONTROL Sincronizar persona con Microsoft]&quot; acción de flujo (solo en una campaña de Déclencheur), el posible cliente/contacto se creará en tiempo real en Dynamics.
+   >Al usar la acción de flujo &quot;[!UICONTROL Sincronizar persona con Microsoft]&quot; (solo en una campaña de Déclencheur), el posible cliente/contacto se creará en tiempo real en Dynamics.
 
 1. Marketo clasifica ese registro de posible cliente en Dynamics como un contacto que no está asociado a ninguna cuenta en Dynamics.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Ahora puede seleccionar **[!UICONTROL Contacto]** cuando se utiliza la restricción Sincronizar como en un filtro de campaña inteligente.
+1. Ahora, puedes seleccionar **[!UICONTROL Contacto]** cuando uses la restricción Sincronizar como en un filtro de campaña inteligente.
 
    ![](assets/five.png)

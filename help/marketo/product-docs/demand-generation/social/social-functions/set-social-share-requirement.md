@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Establecer requisito de uso compartido social {#set-social-share-requirement}
 
-Cuando usted [crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede requerir que las personas compartan la oferta para registrarse o hacerla opcional.
+Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede requerir que las personas compartan la oferta para registrarse o para que sea opcional.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ Cuando usted [crear una oferta de referencia](/help/marketo/product-docs/demand-
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. En el editor de ofertas de recomendación, vaya a **Configuración de aplicación** y luego **Pasos del flujo de registro**.
+1. En el editor de ofertas de reenvío, ve a **Configuración de la aplicación** y luego a **Pasos del flujo de registro**.
 
    ![](assets/three.png)
 
@@ -31,9 +31,9 @@ Cuando usted [crear una oferta de referencia](/help/marketo/product-docs/demand-
 
    ![](assets/four.png)
 
-   * **Captura de persona** > **Compartir**: la persona puede omitir el uso compartido y registrarse.
-   * **Compartir** > **Captura de persona**: la persona debe compartir para registrarse.
+   * **Captura de persona** > **Compartir**: la persona puede omitir el uso compartido y simplemente registrarse.
+   * **Compartir** > **Captura de persona**: la persona debe compartir para poder registrarse.
 
-1. Para cada opción, consulte la vista previa en la **Ver y editar** ventana.
+1. Para cada opción, consulte la vista previa en la ventana **Ver y editar**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

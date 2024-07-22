@@ -6,7 +6,7 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -23,13 +23,13 @@ El Historial de inicio de sesión del usuario identifica a las personas que inic
 
 * Fecha y hora de inicio de sesión
 * Nombre y dirección de correo electrónico del usuario
-* Rol
+* Función
 * Espacio de trabajo
 * Dirección IP
 
 Para ver el historial de inicio de sesión del usuario:
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/user-login-history-1.png)
 
@@ -37,7 +37,7 @@ Para ver el historial de inicio de sesión del usuario:
 
    ![](assets/user-login-history-2.png)
 
-1. Haga clic en **[!UICONTROL Historial de inicio]** pestaña. La lista muestra los inicios de sesión más recientes.
+1. Haga clic en la ficha **[!UICONTROL Historial de inicio de sesión]**. La lista muestra los inicios de sesión más recientes.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ Para ver el historial de inicio de sesión del usuario:
 
    ![](assets/user-login-history-6.png)
 
-1. Seleccione los usuarios en la **[!UICONTROL Usuarios]** menú desplegable.
+1. Seleccione a los usuarios de la lista desplegable **[!UICONTROL Usuarios]**.
 
    ![](assets/user-login-history-7.png)
 
-1. Compruebe la **[!UICONTROL Solo inicios de sesión con errores]** para mostrar solo los inicios de sesión que hayan dado error en la búsqueda.
+1. Marque la casilla **[!UICONTROL Solo inicios de sesión con errores]** para mostrar solo los inicios de sesión con errores en la búsqueda.
 
    ![](assets/user-login-history-8.png)
 
-1. Clic **[!UICONTROL Aplicar]**.
+1. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/user-login-history-9.png)
 

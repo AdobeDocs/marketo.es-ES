@@ -7,7 +7,7 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Una vez que haya creado su programa de participación, debe añadir contenido a los flujos. Puede agregar correos electrónicos o programas a un flujo.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
+1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
    Puede añadir contenido de dos formas diferentes:
 
-**Botón Añadir contenido**
+**Botón Agregar contenido**
 
-1. Haga clic en **Añadir contenido** botón.
+1. Haga clic en el botón **Agregar contenido**.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Elegir **Correo electrónico** _o_ **Programa**, luego seleccione el correo electrónico o programa/campaña inteligente que desee agregar.
+1. Elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -39,18 +39,18 @@ Una vez que haya creado su programa de participación, debe añadir contenido a 
    >
    >Los correos electrónicos locales de este programa de participación se ordenarán arriba.
 
-**Icono +**
+**+ Icono**
 
-1. Haga clic en **+** icono, elija **Correo electrónico** _o_ **Programa**, luego seleccione el correo electrónico o programa/campaña inteligente que desee agregar.
+1. Haga clic en el icono **+**, elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Una campaña inteligente debe contener la variable **Miembro del programa de participación** filtre para que funcione correctamente.
+   >Una campaña inteligente debe contener el filtro **Miembro del programa de participación** para que funcione correctamente.
 
-¡bueno trabajo! Ahora sabe cómo agregar contenido a las secuencias de programas. Añada todo lo que necesite para su nutrición. Consulte el artículo relacionado siguiente para obtener más información.
+¡Buen trabajo! Ahora sabe cómo agregar contenido a las secuencias de programas. Añada todo lo que necesite para su nutrición. Consulte el artículo relacionado siguiente para obtener más información.
 
 >[!MORELIKETHIS]
 >
->[Adición de un programa a un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Agregar un programa a un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

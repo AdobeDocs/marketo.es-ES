@@ -23,7 +23,7 @@ En el ejemplo siguiente, se crea una medida calculada para los rechazos leves, q
 
 1. Coloque sobre los campos que necesita para su informe. Consulte [Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
 
-1. Haga clic con el botón derecho en una métrica existente (celda azul) y haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
+1. Haga clic con el botón derecho en una métrica existente (celda azul), haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ En el ejemplo siguiente, se crea una medida calculada para los rechazos leves, q
    >
    >Puede escribir los símbolos matemáticos usted mismo o utilizar el cuadro de selección.
 
-1. Cuando haya terminado, haga clic en **OK**.
+1. Cuando haya terminado, haga clic en **Aceptar**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
@@ -49,4 +49,4 @@ En el ejemplo siguiente, se crea una medida calculada para los rechazos leves, q
 
    >[!MORELIKETHIS]
    >
-   >[Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Agregar campos a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

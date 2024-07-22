@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente directamente desde la vista de programación del programa.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 

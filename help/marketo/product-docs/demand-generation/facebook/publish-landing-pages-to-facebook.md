@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: 'Publicación de páginas de aterrizaje en Facebook: documentos de Marketo, documentación del producto'
-title: Publicación de páginas de aterrizaje en Facebook
+description: 'Páginas de aterrizaje de Publish en Facebook: Documentos de Marketo: documentación del producto'
+title: Páginas de destino de Publish en Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Publicación de páginas de aterrizaje en Facebook {#publish-landing-pages-to-facebook}
+# Páginas de destino de Publish en Facebook {#publish-landing-pages-to-facebook}
 
 Puede publicar sus páginas de aterrizaje en Facebook, conocer su audiencia donde ya están y generar más tráfico a sus programas.
 
@@ -29,7 +29,7 @@ Supongamos que está lanzando un nuevo libro, podría llegar a parte de su audie
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Seleccionar **Publicar en Facebook** de Acciones de página de aterrizaje.
+1. Seleccione **Publish to Facebook** de las acciones de página de aterrizaje.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ Supongamos que está lanzando un nuevo libro, podría llegar a parte de su audie
    >
    >Deberá utilizar una cuenta que tenga permisos de administrador para la página de Facebook en la que desee publicar la página de aterrizaje de Marketo.
 
-1. Seleccione el **Página de facebook** donde desee publicar la página de aterrizaje e introduzca el nombre con el que debe aparecer la página de aterrizaje de Marketo.
+1. Seleccione la **página de Facebook** en la que desea publicar la página de aterrizaje e introduzca el nombre con el que debe aparecer la página de aterrizaje de Marketo.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Para reemplazar las páginas de aterrizaje de Marketo que haya publicado anteriormente en Facebook, seleccione **Reemplazar ficha existente** y elija la pestaña que desea reemplazar en la lista desplegable. Tenga en cuenta que esto no reemplazará las pestañas que no sean de Marketo.
+   >Para reemplazar las páginas de aterrizaje de Marketo que haya publicado anteriormente en Facebook, seleccione **Reemplazar pestaña existente** y elija la pestaña que desea reemplazar en la lista desplegable. Tenga en cuenta que esto no reemplazará las pestañas que no sean de Marketo.
 
 1. Los posibles clientes ahora pueden visitar la página de aterrizaje directamente en la página de Facebook. Simplemente haga clic en el nombre de la ficha debajo de la imagen de portada.
 

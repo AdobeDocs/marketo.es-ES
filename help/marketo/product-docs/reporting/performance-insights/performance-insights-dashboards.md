@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '504'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ El tablero de Engagement le ayuda a medir la efectividad de sus programas de cri
 
 Medición de la participación de audiencia
 
-Elija la **Éxitos** métrica para medir la participación de la audiencia en sus programas de nutrición. El éxito es una medida de la interacción significativa en Marketo.
+Elija la métrica **Éxitos** para medir la participación de la audiencia en sus programas de nutrición. El éxito es una medida de la interacción significativa en Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ El propósito de un programa es crear una interacción significativa con la pers
 
 Medición de adquisición de nombre nuevo
 
-Elija la **Nuevos nombres** métrica para medir la eficacia de los programas de adquisición de nuevos nombres.
+Elija la métrica **Nuevos nombres** para medir la efectividad de sus programas de adquisición de nuevos nombres.
 
 ![](assets/4-3.png)
 

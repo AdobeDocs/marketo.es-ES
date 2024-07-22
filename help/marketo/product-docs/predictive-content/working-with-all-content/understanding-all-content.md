@@ -19,12 +19,12 @@ La página Todo el contenido muestra todo el contenido que se ha detectado o añ
 
 Los campos de página incluyen:
 
-* **Título**: nombre del fragmento de contenido
-* **Categorías**: Creado por usted y utilizado para agrupar sus resultados predictivos para la web o el correo electrónico
-* **Vistas**: Clics totales en el contenido web detectado (incluidas todas las fuentes)
+* **Título**: El nombre del fragmento de contenido
+* **Categorías**: creadas por usted y utilizadas para agrupar sus resultados predictivos para la web o el correo electrónico
+* **Vistas**: Clics totales en contenido web detectado (incluidos todos los orígenes)
 * **Conversiones**: El número de visitantes que vieron un fragmento de contenido y completaron un formulario en la misma visita
-* **Tasa de conversión**: Un porcentaje calculado por conversiones directas divididas por clics
-* **Aprobar para predictivo**: El icono se muestra si el contenido se aprueba
+* **Tasa de conversión**: Un porcentaje calculado por conversiones directas dividido por clics
+* **Aprobar para Predictive**: El icono se muestra si el contenido está aprobado
 
 Puede añadir un nuevo fragmento de contenido y rastrearlo, eliminarlo o aprobar un fragmento de contenido. Después de aprobar el contenido, puede editarlo en la página Contenido predictivo.
 
@@ -32,7 +32,7 @@ Puede añadir un nuevo fragmento de contenido y rastrearlo, eliminarlo o aprobar
 
 Filtre el contenido seleccionando una o más categorías. A continuación, configure la fecha o el intervalo de fechas para el análisis de contenido mediante la configuración estándar o personalizada.
 
-1. En el **Todo el contenido** , haga clic en el icono de filtro y, en **Categoría**, seleccione una o varias categorías de contenido.
+1. En la página **Todo el contenido**, haga clic en el icono de filtro y, en **Categoría**, seleccione una o varias categorías de contenido.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtre el contenido seleccionando una o más categorías. A continuación, confi
 
 ## Mostrar Analytics para una fecha o un intervalo de fechas {#display-analytics-for-a-date-or-date-range}
 
-1. Para mostrar los datos de una fecha o un intervalo de fechas específico, haga clic en el icono de calendario y, a continuación, seleccione en el panel izquierdo. Para un intervalo de fechas personalizado, haga clic en el primer y último día del intervalo de fechas en el calendario (como se muestra). Clic **Aplicar**.
+1. Para mostrar los datos de una fecha o un intervalo de fechas específico, haga clic en el icono de calendario y, a continuación, seleccione en el panel izquierdo. Para un intervalo de fechas personalizado, haga clic en el primer y último día del intervalo de fechas en el calendario (como se muestra). Haga clic en **Aplicar**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
@@ -50,7 +50,7 @@ Filtre el contenido seleccionando una o más categorías. A continuación, confi
 
 >[!MORELIKETHIS]
 >
->* [Añadir contenido nuevo](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Agregar contenido nuevo](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
 >* [Eliminar contenido](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Desaprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)

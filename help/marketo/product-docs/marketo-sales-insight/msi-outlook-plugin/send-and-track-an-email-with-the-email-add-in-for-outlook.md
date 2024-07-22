@@ -6,7 +6,7 @@ exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
 
 >[!PREREQUISITES]
 >
->Si aún no lo ha hecho, instale el [Complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si aún no lo ha hecho, instale el [complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
    >
    >Si incluye varios destinatarios en el correo electrónico, se rastreará toda la actividad debajo del primer destinatario.
 
-1. Componga el correo electrónico como lo haría normalmente y haga clic en **Envío y seguimiento**.
+1. Escribe el correo electrónico como lo harías normalmente y luego haz clic en **Enviar y rastrear**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
 
    >[!TIP]
    >
-   >Si desea utilizar una plantilla de Marketo, consulte [Envío y seguimiento desde Outlook mediante una plantilla](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Si desea usar una plantilla de Marketo, vea [Enviar y rastrear desde Outlook usando una plantilla](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Consulte la vista previa y haga clic en **Enviar**.
+1. Eche un vistazo a la vista previa y haga clic en **Enviar**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -59,4 +59,4 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
 
 >[!MORELIKETHIS]
 >
->[Registrar correo entrante de sus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar correo entrante de tus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

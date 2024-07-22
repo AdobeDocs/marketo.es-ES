@@ -6,8 +6,8 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ En este informe, puede ver cómo usted y sus competidores se clasifican según l
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Clic **[!UICONTROL Tendencias de clasificación de KW del competidor]**.
+1. Haga clic en **[!UICONTROL Tendencias de clasificación KW de la competencia]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -31,12 +31,12 @@ Este gráfico puede mostrarle qué porcentaje de sus palabras clave se clasifica
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
-| Elemento | Descripción |
+| Artículo | Descripción |
 |---|---|
 | [!UICONTROL Palabras clave] | El número de palabras clave que está rastreando. |
-| [!UICONTROL Clasificar direcciones URL] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
-| [!UICONTROL % en rango] | El porcentaje de clasificación de palabras clave en el rango que ha establecido. |
-| [!UICONTROL El Promedio de búsquedas] | El número promedio de búsquedas en esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días, en la búsqueda de Google US) |
+| [!UICONTROL URL de clasificación] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
+| [!UICONTROL % en el rango] | El porcentaje de clasificación de palabras clave en el rango que ha establecido. |
+| [!UICONTROL Promedio búsquedas] | El número promedio de búsquedas en esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días, en la búsqueda de Google US) |
 
 ## Filtrado de datos {#filtering-data}
 
@@ -44,16 +44,16 @@ Este gráfico puede mostrarle qué porcentaje de sus palabras clave se clasifica
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Haga clic en **[!UICONTROL Rango]** desplegable para elegir el rango de clasificación para el que desea ver las palabras clave.
+1. Haga clic en el menú desplegable **[!UICONTROL Clasificación]** para elegir el rango de clasificación para el que desea ver las palabras clave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportación de datos {#exporting-data}
+## Exportando datos {#exporting-data}
 
 >[!TIP]
 >
 >Puede exportar este informe a su escritorio.
 
-1. Clic **[!UICONTROL Exportar CSV]** o **[!UICONTROL Export PDF]**.
+1. Haga clic en **[!UICONTROL Exportar CSV]** o en **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

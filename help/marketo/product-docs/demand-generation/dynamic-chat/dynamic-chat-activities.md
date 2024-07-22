@@ -1,16 +1,16 @@
 ---
 description: Actividades del Dynamic Chat - Documentos de Marketo - Documentación del producto
-title: Actividades del Dynamic Chat
+title: Actividades de chat dinámicas
 feature: Dynamic Chat
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
 source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Actividades del Dynamic Chat {#dynamic-chat-activities}
+# Actividades de chat dinámicas {#dynamic-chat-activities}
 
 Dynamic Chat ofrece varios filtros y déclencheur para utilizarlos en sus listas inteligentes.
 
@@ -22,19 +22,19 @@ Dynamic Chat ofrece varios filtros y déclencheur para utilizarlos en sus listas
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Activado</b></td>
+    <td style="width:25%"><b>Desencadenado</b></td>
     <td>Un evento de déclencheur se produce cuando un visitante cumple los criterios de segmentación de un flujo de diálogo o conversación y se muestra en el cuadro de diálogo.
-    <br>Un evento de déclencheur por visitante y sesión.</td>
+    <br>Un evento de déclencheur por visitante y por sesión.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Participación con un flujo/diálogo de conversación</b></td>
-    <td>La primera vez que un visitante web hace clic en un mensaje en un flujo de diálogo o conversación (haciendo clic en una opción de opción múltiple, enviando información, reservando una reunión, abriendo un documento, etc.) se produce una participación. Si un visitante abre un diálogo o un flujo de conversación, pero no hace clic en un mensaje, se genera una participación <b>no</b> registrado. 
-    <br>Un evento de participación por visitante y sesión.</td>
+    <td>La primera vez que un visitante web hace clic en un mensaje en un flujo de diálogo o conversación (haciendo clic en una opción de opción múltiple, enviando información, reservando una reunión, abriendo un documento, etc.) se produce una participación. Si un visitante abre un diálogo o un flujo de conversación, pero no hace clic en un mensaje, se registra una participación de <b>no</b>. 
+    <br>Un evento de participación por visitante y por sesión.</td>
   </tr>
    <tr>
-    <td style="width:25%"><b>Interacción con un agente</b></td>
+    <td style="width:25%"><b>Comprometido con un agente</b></td>
     <td>Sucede cuando un visitante se conecta correctamente a un agente de chat en directo.
-    <br>Uno relacionado con el evento del agente por visitante y por sesión.</td>
+    <br>Un evento relacionado con el agente por visitante y por sesión.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Interactuó con el documento</b></td>
@@ -56,5 +56,5 @@ Dynamic Chat ofrece varios filtros y déclencheur para utilizarlos en sus listas
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
 * Las condiciones son compatibles con los pasos de flujo del Dynamic Chat
-* Las actividades del Dynamic Chat se pueden sincronizar con [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Las actividades del Dynamic Chat se pueden sincronizar con [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
 * Puede ver actividades de Dynamic Chat individuales en el registro de actividad de una persona

@@ -17,11 +17,11 @@ En la versión de primavera de 17 se incluyen las siguientes funciones. Comprueb
 
 Haga clic en los vínculos del título para ver los artículos detallados de cada función. **Nota**: Si un tema tiene varios subencabezados, los vínculos se colocan allí.
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [Forms de generación de clientes potenciales de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) son una forma más directa para que una empresa ejecute campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés en un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketo, donde se pueden producir procesos de seguimiento automatizados y actividades de enrutamiento de posibles clientes.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) es una forma más directa para que una empresa ejecute campañas de generación de clientes potenciales en LinkedIn. Las personas pueden rellenar formularios para expresar interés en un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketo, donde se pueden producir procesos de seguimiento automatizados y actividades de enrutamiento de posibles clientes.
 
-La integración de Marketo con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona dentro del formulario de generación de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar utilizando el nuevo **Rellena El Formulario De LinkedIn Lead Gen** déclencheur y filtro.
+La integración de Marketo con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona dentro del formulario de generación de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar con el nuevo déclencheur y filtro **Rellena el formulario de generación de clientes potenciales de LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -45,15 +45,15 @@ Transfiera fácilmente grandes cantidades de datos de persona y actividad de Mar
 
 Marketo ABM ahora le permite crear hasta 10 campos personalizados en sus cuentas con nombre. Puede asignar estos campos personalizados a campos en su objeto de cuenta de CRM y Marketo ABM sincronizará los datos, lo que le permitirá ampliar sus cuentas con nombre de ABM y le ayudará a dirigir su marketing.
 
-**[Puntuación percentil en cuentas con nombre ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Puntuación porcentual en cuentas con nombre ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 Las puntuaciones de las cuentas con nombre pueden variar considerablemente. Marketo ABM ahora calcula automáticamente un percentil para cada una de sus puntuaciones, para que pueda ver de un vistazo dónde se clasifica cada cuenta con nombre entre sus otras cuentas con nombre.
 
-**[API de lista de cuentas ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API de lista de cuenta ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Aproveche las integraciones de socios de ABM enriquecidas y sólidas con compatibilidad de API mejorada para Listas de cuentas con nombre.
 
-## Mejoras de personalización web {#web-personalization-enhancements}
+## Mejoras de Web Personalization {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
@@ -65,7 +65,7 @@ Los nuevos efectos de campaña web proporcionan a los visitantes una experiencia
 * píxel alcanzado
 * desplazarse por debajo del pliegue de la página
 
-**[Campaña web tras intención de salida](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campaña Web Tras La Intención De Salida](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Capte la atención de los visitantes antes de que cierren la página. Configure las campañas web personalizadas para que se muestren únicamente cuando un gesto del ratón indique que el visitante está abandonando la página.
 
@@ -89,7 +89,7 @@ Archivar es un nuevo estado de Campaña web que le permite archivar Campañas we
 
 **[Localización](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-La personalización web ahora se ofrece en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
+Web Personalization ahora se ofrece en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
 ## Mejoras predictivas {#predictive-enhancements}
 

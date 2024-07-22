@@ -22,7 +22,7 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
 
    ![](assets/people-page-columns-1.png)
 
-1. Desplácese por y seleccione las columnas que desee (también puede hacer clic en **Seleccionar todo** si desea cada columna). Haga clic en para salir de la lista cuando haya terminado.
+1. Desplácese y seleccione las columnas que desee (también puede hacer clic en **Seleccionar todo** si desea todas las columnas). Haga clic en para salir de la lista cuando haya terminado.
 
    ![](assets/people-page-columns-2.png)
 
@@ -48,7 +48,7 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
   </tr> 
   <tr> 
    <td colspan="1">Correo electrónico (predeterminado)</td> 
-   <td colspan="1">Dirección de email</td> 
+   <td colspan="1">Correo electrónico</td> 
   </tr> 
   <tr> 
    <td colspan="1">Teléfono</td> 
@@ -67,7 +67,7 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
    <td>Campaña de ventas en la que se encuentra la persona</td> 
   </tr> 
   <tr> 
-   <td># Campañas</td> 
+   <td>N.° de campañas</td> 
    <td>Número total de campañas de ventas de las que la persona ha formado parte</td> 
   </tr> 
   <tr> 
@@ -75,7 +75,7 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
    <td>Número total de llamadas realizadas a esta persona</td> 
   </tr> 
   <tr> 
-   <td># Emails</td> 
+   <td>N.° de correos electrónicos</td> 
    <td>Número total de correos electrónicos enviados a esta persona</td> 
   </tr> 
   <tr> 
@@ -99,15 +99,15 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
    <td>Número de tareas abiertas para esta persona</td> 
   </tr> 
   <tr> 
-   <td># Vistas</td> 
+   <td>N.° de respuestas</td> 
    <td>Número total de vistas realizadas por esta persona</td> 
   </tr> 
   <tr> 
-   <td># Clics</td> 
+   <td>N.° de clics</td> 
    <td>Número total de clics de esta persona</td> 
   </tr> 
   <tr> 
-   <td># Respuestas</td> 
+   <td>N.° de respuestas</td> 
    <td>Número total de respuestas de esta persona</td> 
   </tr> 
   <tr> 
@@ -120,7 +120,7 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
   </tr> 
   <tr> 
    <td>Origen</td> 
-   <td>Origen desde el que se creó la persona</td> 
+   <td>Source de dónde se creó la persona</td> 
   </tr> 
   <tr> 
    <td>Grupos (predeterminado)</td> 

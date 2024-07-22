@@ -6,8 +6,8 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 3%
 
 ---
 
@@ -48,16 +48,16 @@ Puede quitar un filtro en cualquier momento haciendo clic en la X situada junto 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Lista de cuentas ABM</strong></td> 
-   <td colspan="1">Si utiliza Marketo ABM, todas las listas de cuentas se sincronizarán con MPI y serán visibles a través del filtro "ABM Account List". Puede seleccionar una lista de cuentas para filtrar los resultados a esas cuentas.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Más información sobre las Listas de cuentas ABM.</a></td> 
+   <td colspan="1"><strong>Lista de cuentas de ABM</strong></td> 
+   <td colspan="1">Si utiliza Marketo ABM, todas las listas de cuentas se sincronizarán con MPI y serán visibles a través del filtro "ABM Account List". Puede seleccionar una lista de cuentas para filtrar los resultados a esas cuentas.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Más información acerca de las listas de cuentas ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cuenta con nombre ABM</strong></td> 
-   <td colspan="1">Si utiliza Marketo ABM, todas las cuentas con nombre se sincronizarán con MPI y serán visibles a través del filtro "ABM Named Account". Puede seleccionar una cuenta con nombre para filtrar los resultados a esas cuentas.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Más información sobre las Cuentas con nombre ABM.</a></td> 
+   <td colspan="1">Si utiliza Marketo ABM, todas las cuentas con nombre se sincronizarán con MPI y serán visibles a través del filtro "ABM Named Account". Puede seleccionar una cuenta con nombre para filtrar los resultados a esas cuentas.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Más información sobre las cuentas con nombre ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Atributos personalizados</strong></td> 
-   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">usted habilita</a> para el análisis de oportunidades se puede filtrar en Performance Insights.</p></td> 
+   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que habilitas</a> para el análisis de oportunidades se pueden filtrar en las perspectivas de rendimiento.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Período de inversión</strong></p></td> 
@@ -73,7 +73,7 @@ Puede quitar un filtro en cualquier momento haciendo clic en la X situada junto 
   </tr> 
   <tr> 
    <td><strong>Espacio de trabajo</strong></td> 
-   <td><p>Los espacios de trabajo son áreas independientes en Marketo que contienen recursos de marketing como programas, páginas de aterrizaje, correos electrónicos y mucho más. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Obtenga más información sobre los espacios de trabajo aquí.</a></p></td> 
+   <td><p>Los espacios de trabajo son áreas independientes en Marketo que contienen recursos de marketing como programas, páginas de aterrizaje, correos electrónicos y mucho más. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Obtenga más información acerca de los espacios de trabajo aquí.</a></p></td> 
   </tr> 
  </tbody> 
 </table>

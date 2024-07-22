@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Obtenga información sobre cómo conectar su cuenta de Sales Connect con Outlook
 
 La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -31,15 +31,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/two.png)
 
-1. Haga clic en **Conexión de correo electrónico** pestaña.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/three.png)
 
-1. Clic **Primeros pasos**.
+1. Haga clic en **Comenzar**.
 
    ![](assets/four.png)
 
-1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
@@ -64,15 +64,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
    >
    >Marketo no admite cuentas híbridas de Exchange en este momento.
 
-1. Clic **OK**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/seven-a.png)
 
-1. Si no ha iniciado sesión en Outlook, escriba la información de inicio de sesión y haga clic en **Siguiente**. Si es así, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no ha iniciado sesión en Outlook, escriba su información de inicio de sesión y haga clic en **Siguiente**. Si es así, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/eight-a.png)
 
-1. Clic **Aceptar**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/nine-a.png)
 
@@ -86,7 +86,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
 La conexión a Exchange local significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -94,15 +94,15 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
 
    ![](assets/two.png)
 
-1. Haga clic en **Conexión de correo electrónico** pestaña.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/three.png)
 
-1. Clic **Primeros pasos**.
+1. Haga clic en **Comenzar**.
 
    ![](assets/four.png)
 
-1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
@@ -123,7 +123,7 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
     </tbody>
    </table>
 
-1. Introduzca sus credenciales de y haga clic en **Connect**.
+1. Escriba sus credenciales y haga clic en **Conectar**.
 
    ![](assets/seven-b.png)
 

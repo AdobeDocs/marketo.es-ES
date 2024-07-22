@@ -17,11 +17,11 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Criterios de campeón estándar {#standard-champion-criteria}
 
-1. Elija uno de los disponibles **Criterios de campeón**.
+1. Elija uno de los **criterios de campeón** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
    >
    >Vamos a rastrear esta métrica y le enviaremos un informe con los datos por correo electrónico.
 
-1. Si eligió uno de los valores predeterminados **Criterios de campeón**, adelante y continúe con [Campeón/Challenger: Configurar alertas de informes](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Si eligió uno de los **criterios de campeón** predeterminados, continúe y pase a [Campeón/Challenger: Configurar alertas de informe](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md).
 
 ## Criterios de campeón personalizados {#custom-champion-criteria}
 
-1. Si desea lucir, puede personalizar seleccionando la opción **Conversión personalizada** y haciendo clic en **Editar**.
+1. Si quieres ser más elegante, puedes personalizarlo seleccionando **Conversión personalizada** y haciendo clic en **Editar**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -55,7 +55,7 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   Excelente! Ahora es el momento de programar el informe.
+   ¡Excelente! Ahora es el momento de programar el informe.
 
    >[!MORELIKETHIS]
    >

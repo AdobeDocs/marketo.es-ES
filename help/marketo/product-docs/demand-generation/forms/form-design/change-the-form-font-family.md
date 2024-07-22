@@ -6,7 +6,7 @@ exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
 >
 >Esta configuración afecta a la etiqueta del formulario, el texto de entrada y cualquier texto enriquecido.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,19 +31,19 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleccione el **Familia de fuentes** lo quieres.
+1. Seleccione la **familia de fuentes** que desee.
 
    >[!TIP]
    >
-   >Un montón de [Google Fonts](https://www.google.com/fonts) están disponibles para su uso.
+   >Hay un montón de [Google Fonts](https://www.google.com/fonts) disponibles para usar.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    >[!NOTE]
    >
@@ -61,4 +61,4 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
 
 >[!MORELIKETHIS]
 >
->[Cambiar el tamaño de la fuente del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[Cambiar el tamaño de fuente del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

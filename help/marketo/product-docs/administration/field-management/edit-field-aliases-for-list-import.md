@@ -17,13 +17,13 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,17 +31,17 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. En el **[!UICONTROL Acciones de campo]** , haga clic en **[!UICONTROL Editar alias de importación]**.
+1. En el menú desplegable **[!UICONTROL Acciones de campo]**, haga clic en **[!UICONTROL Editar alias de importación]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. Introduzca un alias y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un alias y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->Clic **[!UICONTROL Añadir otro]** e introduzca más alias si los necesita.
+>Haga clic en **[!UICONTROL Agregar otro]** e introduzca más alias si los necesita.
 
 ¡Mira eso! Ahora, si importa una hoja de cálculo con una columna denominada &quot;DOB&quot;, Marketo la reconocerá automáticamente como &quot;Fecha de nacimiento&quot; e importará los datos en el campo correcto.
 

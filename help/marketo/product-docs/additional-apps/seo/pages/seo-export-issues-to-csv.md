@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO: Exportar problemas a CSV {#seo-export-issues-to-csv}
 
-Puede exportar su [problema de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) datos a un archivo CSV si desea compartir esa información con personas fuera de Marketo. Así es como.
+Puede exportar los datos de [problema de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) a un archivo CSV si desea compartir esa información con personas fuera de Marketo. Así es como.
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -23,11 +23,11 @@ Puede exportar su [problema de página](/help/marketo/product-docs/additional-ap
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Este es el [Profundizar en detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Resultados de optimización de página]** es una lista de todos los problemas con esa página en particular.
+   Este es el [Detalle de página detallado](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Resultados de optimización de página]** es una lista de todos los problemas con esa página en particular.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. Clic **[!UICONTROL Exportar]**.
+1. Haga clic en **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 

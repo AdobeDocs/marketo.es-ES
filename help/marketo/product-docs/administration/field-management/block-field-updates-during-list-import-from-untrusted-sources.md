@@ -17,38 +17,38 @@ Puede confiar más en los datos de algunas listas que en otras. A veces, tiene d
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 ## Bloqueo De Actualizaciones De Campos De Fuentes Que No Son De Confianza {#blocking-field-updates-from-untrusted-sources}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Busque el campo que desee, selecciónelo y, a continuación, en **[!UICONTROL Acciones de campo]**, haga clic en **[!UICONTROL Bloquear actualizaciones de campos]**.
+1. Busque el campo que desee, selecciónelo y en **[!UICONTROL Acciones de campo]**, haga clic en **[!UICONTROL Bloquear actualizaciones de campo]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Marque **[!UICONTROL Importar origen que no es de confianza]** y haga clic en **[!UICONTROL Aplicar]**.
+1. Compruebe el origen de **[!UICONTROL Importación de lista que no es de confianza]** y haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->Puede mantener los campos a salvo de todas las listas, de confianza y no de confianza, comprobando también **[!UICONTROL Lista Importar origen de confianza]**.
+>Puede mantener los campos a salvo de todas las listas, de confianza y no de confianza, comprobando también **[!UICONTROL Importar lista de origen de confianza]**.
 
 Repita los pasos anteriores para cualquier otro campo que desee proteger de listas que no sean de confianza.
 
 ## Ejecución de una importación de lista que no es de confianza {#running-an-untrusted-list-import}
 
-1. Al ejecutar la importación de la lista, asegúrese de seleccionar **[!UICONTROL No confiable]** si desea que todos los campos configurados en el paso anterior sean seguros.
+1. Al ejecutar la importación de la lista, asegúrese de seleccionar **[!UICONTROL No es de confianza]** si desea que todos los campos que configuró en el paso anterior sean seguros.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Para obtener instrucciones detalladas sobre la importación de listas, consulte [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Para obtener instrucciones detalladas sobre cómo importar listas, consulte [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 ¡Buen trabajo! Ahora sabe cómo mantener los campos clave a salvo de listas que no son de confianza.

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -23,31 +23,31 @@ Configure la siguiente configuración para empezar a utilizar el nuevo panel de 
 
 1. Abra una nueva pestaña en el navegador para obtener las credenciales de Marketo Sales Insights de su cuenta de Marketo.
 
-1. Vaya a la **Administrador** área.
+1. Vaya al área de **Admin**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Clic **Perspectiva de ventas**.
+1. Haga clic en **Información de ventas**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Clic **Ver** para rellenar las credenciales de la API de REST.
+1. Haga clic en **Ver** para rellenar las credenciales de la API de REST.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Verá una ventana emergente de confirmación. Clic **OK**.
+1. Verá una ventana emergente de confirmación. Haga clic en **Aceptar**.
 
 ## Configuración de Sales Insight en Salesforce {#configure-sales-insight-in-salesforce}
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Busque y seleccione. **Configuración del sitio remoto**.
+1. Busque y seleccione **Configuración del sitio remoto**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Clic **Nuevo sitio remoto**.
+1. Haga clic en **Nuevo sitio remoto**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -55,13 +55,13 @@ Configure la siguiente configuración para empezar a utilizar el nuevo panel de 
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 
    Ahora ha creado la configuración del sitio remoto para la API de REST.
 
-## Acceder a Marketo Sales Insight {#access-marketo-sales-insight}
+## Acceder a Sales Insight de Marketo {#access-marketo-sales-insight}
 
 1. Copie las credenciales del panel de API de REST en la página de administración de Sales Insight de Marketo. Péguelos en la sección API de REST de la página Configuración de Sales Insight de Salesforce.
 

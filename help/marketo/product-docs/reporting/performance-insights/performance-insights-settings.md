@@ -23,7 +23,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Ver el éxito del programa por {#view-program-success-by}
 
-**Panel de participación: contribución y tendencia**
+**Tablero de participación - Contribución y tendencia**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Configuración del período anterior {#previous-period-configuration}
 
-**Participación, Canalización, Paneles de ingresos: solo contribución**
+**Participación, canalización, paneles de ingresos - Solo contribución**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Oportunidades influenciadas por el marketing {#marketing-influenced-opportunities}
 
-**Tablero de canalización: contribución y tendencia**
+**Tablero de canalización - Contribución y tendencia**
 
 <table> 
  <tbody> 

@@ -21,7 +21,7 @@ Puede añadir cualquier título en la página Todo el contenido al contenido pre
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Haga clic en **Acciones de contenido** y seleccione. **Aprobar para contenido predictivo**.
+1. Haga clic en el menú desplegable **Acciones de contenido** y seleccione **Aprobar para contenido predictivo**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ También puede aprobar títulos para contenido predictivo directamente en la ven
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Compruebe la **Aprobar para contenido predictivo** en la ventana emergente Editar contenido y haga clic en **Guardar**.
+1. Marque la casilla **Aprobar contenido predictivo** en la ventana emergente Editar contenido y haga clic en **Guardar**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

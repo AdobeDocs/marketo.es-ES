@@ -29,13 +29,13 @@ Ahora puede añadir contenido predictivo al correo electrónico. Cuando se abre 
 
 ![](assets/predictive.png)
 
-## [Conversiones sin conexión de facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Con la integración de conversiones sin conexión de Facebook, los datos de conversión de Marketo (para posibles clientes de anuncios) se envían automáticamente de vuelta a Facebook para que su equipo de publicidad pueda optimizar mejor su gasto en publicidad. En este informe de Facebook Ad Manager, se resaltan las conversiones sin conexión.
 
 ![](assets/facebook.png)
 
-## [ID universal](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [Id. universal](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 Un ID universal le permite acceder a varias suscripciones de Marketo con un solo inicio de sesión y cambiar entre suscripciones rápidamente. Puede utilizar un único perfil de comunidad para todas las suscripciones.
 
@@ -53,21 +53,21 @@ Ahora puede asignar equipos de cuentas a cuentas con nombre en Marketing basado 
 
 **API DE REST**
 
-Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite la [Sitio web de desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite el [sitio web de desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
-## [Mejoras de pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [Mejoras en la pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 La pista de auditoría proporciona un historial completo de los cambios realizados en la suscripción de Marketo. Hemos agregado funcionalidades de seguimiento adicionales para programas, así como detalles importantes sobre cambios para campañas inteligentes, listas inteligentes y cambios realizados en usuarios y funciones.
 
 ## [Nuevos permisos](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Poner correo electrónico en funcionamiento**
+**Poner el correo electrónico en funcionamiento**
 
 Se acabaron los días en los que tenía que preocuparse por los usuarios que enviaban correos electrónicos transaccionales a personas de la base de datos que habían cancelado la suscripción. Ahora puede especificar qué usuarios pueden hacer que un correo electrónico sea operativo o editar correos electrónicos operativos.
 
 **Editar restricciones de campaña**
 
-Por qué se establece [restricciones de campaña](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) ¿si no puedes hacerlos cumplir? Cuando establece la Configuración de límite de campaña para restringir el número de personas en la base de datos a las que se puede dirigir con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
+¿Por qué establecer [restricciones de campaña](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si no puede aplicarlas? Cuando establece la Configuración de límite de campaña para restringir el número de personas en la base de datos a las que se puede dirigir con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
 
 ## [Sonido para notificaciones push móviles](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,9 +80,9 @@ Aporte mayor riqueza a las notificaciones push de iOS habilitando el sonido. Est
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Perspectiva de ventas compatible con cifrado de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Información de ventas compatible con cifrado de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight ahora es compatible con Salesforce Shield Encryption. Todos los clientes de Sales Insight deben actualizar a este último paquete administrado (versión 1.4359.2), que es [disponible en Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight ahora es compatible con Salesforce Shield Encryption. Todos los clientes de Sales Insight deben actualizar a este último paquete administrado (versión 1.4359.2), que está [disponible en Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API de cuentas con nombre](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 

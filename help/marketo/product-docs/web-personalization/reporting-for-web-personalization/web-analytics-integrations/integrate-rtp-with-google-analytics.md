@@ -6,7 +6,7 @@ exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Este artículo muestra cómo utilizar el antiguo Google Standard Analytics, pero le recomendamos que cambie a Universal Analytics.
 >
->Si todavía no está usando el [código de seguimiento de analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/)Sin embargo, Google recomienda que vuelva a etiquetar el sitio para utilizarlo. Google está desaprobando lo siguiente:
+>Si aún no estás usando el [código de seguimiento de analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/), Google recomienda que vuelvas a etiquetar tu sitio para utilizarlo. Google está desaprobando lo siguiente:
 >
 >* ga.js
 >* urchin.js
@@ -28,13 +28,13 @@ ht-degree: 0%
 >* Variables personalizadas
 >* Variables definidas por el usuario
 >
->Consulte cómo realizar la integración [Personalización web con Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>Ver cómo integrar [Web Personalization con Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introducción {#introduction}
 
-Analice el análisis web desde un nuevo ángulo con el flujo de datos directo de la personalización en tiempo real (RTP) de Marketo a su cuenta de Google Analytics (GA). Mida sus visitas web en GA según organizaciones, industrias y campañas de RTP. Vea métricas como los tipos de industrias o segmentos de RTP en GA y cómo funcionan y generan posibles clientes según diferentes fuentes de tráfico (social, de pago, orgánico), analizando las tasas de clics en las campañas y midiendo el impacto que las campañas de personalización tienen en su sitio web. Aproveche esta capacidad para obtener el máximo beneficio de su cuenta de RTP
+Analice el análisis web desde un nuevo ángulo con el flujo de datos directo de Marketo Real-Time Personalization (RTP) a su cuenta de Google Analytics (GA). Mida sus visitas web en GA según organizaciones, industrias y campañas de RTP. Vea métricas como los tipos de industrias o segmentos de RTP en GA y cómo funcionan y generan posibles clientes según diferentes fuentes de tráfico (social, de pago, orgánico), analizando las tasas de clics en las campañas y midiendo el impacto que las campañas de personalización tienen en su sitio web. Aproveche esta capacidad para obtener el máximo beneficio de su cuenta de RTP
 
-**AUDIENCE ANALYTICS RTP**
+**Audience Analytics RTP**
 
 Con la integración, tiene una nueva dimensión en su cuenta de GA. RTP mejora automáticamente sus paneles con:
 
@@ -64,32 +64,32 @@ Mida sus campañas RTP y correlácelas con el promedio general del sitio. Descub
 
 ## Configuración de RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Agregue el correo electrónico rtp.ga2@gmail.com como usuario de lectura y análisis a su cuenta de GA. Para obtener más información, consulte [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Agregue el correo electrónico rtp.ga2@gmail.com como usuario de lectura y análisis a su cuenta de GA. Para obtener más información, vea [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. En su cuenta de RTP. Ir a **Configuración de cuenta**.
+1. En su cuenta de RTP. Vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. En **Configuración de cuenta**, **Dominio** y **Analytics**.
+1. En **Configuración de la cuenta**, **Dominio** y **Analytics**.
 
-1. Haga clic en **Google Analytics**.
+1. Haz clic en **Google Analytics**.
 
-1. Active el correspondiente **Variables personalizadas** y **Eventos** para anexar estos datos de RTP a los Google Analytics.
+1. Active las **Variables personalizadas** y **Eventos** relevantes para anexar estos datos de RTP a los Google Analytics.
 
-1. Introduzca el **Ranura** número para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
+1. Escriba el número **Slot** para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
 >[!NOTE]
 >
->Para enviar datos de segmentos a GA, en la variable [Página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en la plataforma RTP, seleccione la casilla de verificación **Enviar evento a los Google Analytics sobre la coincidencia de segmentos**.
+>Para enviar datos de segmentos a GA, en la [página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plataforma RTP, marque la casilla de verificación **Enviar evento a los Google Analytics en Coincidencia de segmento**.
 
 ## Configuración de informes de Google Analytics con datos RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
 En los Google Analytics puede utilizar paneles, segmentación de GA e informes para ver los datos de RTP:
 
-* [Paneles](https://support.google.com/analytics/answer/1068216?hl=en) proporcionar información general sobre el rendimiento del sitio web.
+* [Paneles](https://support.google.com/analytics/answer/1068216?hl=en) proporcionan información general sobre el rendimiento del sitio web.
 * Un segmento de GA está diseñado para filtrar visitantes en la interfaz de GA y ver el tráfico por segmento. Consulte cómo generar un segmento [aquí](https://support.google.com/analytics/answer/3124493?hl=en).
 * Creando [informes personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para ver o configurar correos electrónicos programados. Consulte en Personalización > Nuevo informe personalizado.

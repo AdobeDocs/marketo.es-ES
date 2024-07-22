@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Seguimiento de actividades y personas anónimas {#tracking-anonymous-activity-and-people}
 
-La primera vez que alguien visita un Marketo [página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (o una página de su sitio web que tenga el [Código de seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo crea un _actividad anónima_ y utiliza una cookie del explorador para realizar el seguimiento. Una vez identificado el visitante, se convierte en una persona y el historial asociado con la cookie del explorador se combina con.
+La primera vez que alguien visite una [página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) de Marketo (o una página de su sitio web que tenga el [código de seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo creará una _actividad anónima_ y usará una cookie de explorador para realizar el seguimiento. Una vez identificado el visitante, se convierte en una persona y el historial asociado con la cookie del explorador se combina con.
 
 1. Se crea una actividad anónima cuando alguien:
 
-   * Visita su Marketo [página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) la primera vez.
-   * Visita una página del sitio que tiene [Seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
-   * Hace clic en [Ver como página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) en un correo electrónico de Marketo.
+   * Visita tu [página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) de Marketo la primera vez.
+   * Visita una página de tu sitio que tiene [seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+   * Hace clic en el vínculo [Ver como página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) de un correo electrónico de Marketo.
 
    >[!NOTE]
    >
@@ -27,15 +27,15 @@ La primera vez que alguien visita un Marketo [página de aterrizaje](/help/marke
 
    Una actividad anónima se combina con una persona nueva o existente cuando alguien:
 
-   * Clics en una [vínculo en un correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Rellena un Marketo [formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Utiliza Marketo [API DE REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (para desarrolladores) para asociar una actividad anónima con un registro conocido.
+   * Hace clic en un vínculo [de un correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
+   * Rellena un [formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) de Marketo.
+   * Utiliza la API [REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) de Marketo (para desarrolladores) para asociar una actividad anónima con un registro conocido.
 
    Un nombre de la base de datos puede estar vinculado a muchas cookies porque los usuarios suelen utilizar distintos dispositivos y exploradores para visitar el sitio.
 
    >[!NOTE]
    >
-   >Cuando los registros anónimos se combinan en un registro de persona nuevo o existente, los valores de los campos personalizados **no** transferencia terminada.
+   >Cuando los registros anónimos se combinan en un registro de persona nuevo o existente, los valores de los campos personalizados **no** se transferirán.
 
    >[!MORELIKETHIS]
    >

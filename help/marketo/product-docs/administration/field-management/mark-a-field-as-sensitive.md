@@ -5,7 +5,7 @@ exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Como administrador de Marketo, puede marcar un campo específico como &quot;conf
 >
 >Esta función se habilitará para todas las instancias de Marketo en la tarde del martes 11 de mayo.
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Clic **[!UICONTROL Administración de campos]**.
+1. Haga clic en **[!UICONTROL Administración de campos]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -30,7 +30,7 @@ Como administrador de Marketo, puede marcar un campo específico como &quot;conf
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Seleccione el **[!UICONTROL Marcar campo como confidencial]** casilla de verificación
+1. Seleccione la casilla de verificación **[!UICONTROL Marcar campo como confidencial]**.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

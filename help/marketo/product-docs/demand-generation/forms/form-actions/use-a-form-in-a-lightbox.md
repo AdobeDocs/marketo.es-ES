@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -31,7 +31,7 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Establecer **Tipo de código** hasta **Lightbox**.
+1. Establezca **Tipo de código** en **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
@@ -41,4 +41,4 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
 Entregue el código a su desarrollador web y pídale que lo añada a su sitio web.
 
-¡bueno trabajo!
+¡Gran trabajo!

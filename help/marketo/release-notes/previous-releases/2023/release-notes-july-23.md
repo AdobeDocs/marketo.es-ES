@@ -5,8 +5,8 @@ feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
 source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 3%
+source-wordcount: '655'
+ht-degree: 5%
 
 ---
 
@@ -16,15 +16,15 @@ A continuación encontrará todas las funciones incluidas en la versión de juli
 
 >[!AVAILABILITY]
 >
->Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **21 de julio de 2023**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **21 de julio de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
 
 </br>
 
-* **Mapa de participación**: el mapa de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los mapas se pueden descargar y compartir.
+* **Mapa de participación**: El Mapa de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los mapas se pueden descargar y compartir.
 
 <table> 
   <tr> 
@@ -38,7 +38,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tbody>
 </table>
 
-* **Notificaciones: Error de servicios web**: la notificación de error de servicios web ahora incluye el nombre de la suscripción, lo que facilita a los que administran varias instancias de Marketo Engage. También hemos agregado una columna &quot;Usuario&quot; a la tabla que contiene códigos de error y recuentos, para que pueda identificar fácilmente qué usuario de API fue responsable de generar un error específico al llamar a la API de REST de Marketo.
+* **Notificaciones - Error de servicios web**: La notificación de error de servicios web ahora incluye el nombre de la suscripción, lo que facilita a los administradores de varias instancias de Marketo Engage. También hemos agregado una columna &quot;Usuario&quot; a la tabla que contiene códigos de error y recuentos, para que pueda identificar fácilmente qué usuario de API fue responsable de generar un error específico al llamar a la API de REST de Marketo.
 
 <table> 
   <tr> 
@@ -60,7 +60,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Origen del chat para el Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
+* **Chatear con Source para el Dynamic Chat**: &quot;Chatear&quot; ahora se ofrece como fuente de nuevos registros de personas y actividades. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
 
 <table> 
   <tr> 
@@ -74,7 +74,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Actividades de Dynamic Chat mejoradas**: las actividades, los filtros y los déclencheur de los Dynamic Chat se han mejorado con atributos adicionales y convenciones de nomenclatura estandarizada.
+* **Actividades de Dynamic Chat mejoradas**: las actividades de Dynamic Chat, los filtros y los déclencheur se han mejorado con atributos adicionales y convenciones de nomenclatura estandarizada.
 
 <table> 
   <tr> 
@@ -88,11 +88,11 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-### Perspectiva de ventas de Marketo {#marketo-sales-insight}
+### Marketo Sales Insight {#marketo-sales-insight}
 
 </br>
 
-* **Cancelar suscripción a la configuración de datos anexados para acciones de información de ventas**: Ahora tiene más control sobre los mensajes de cancelación de suscripción con las nuevas opciones de configuración para Cancelar la suscripción a la adición. Las nuevas funciones permiten a los administradores controlar cuándo, dónde y qué mensajes de cancelación de suscripción aparecerán en los correos electrónicos de ventas.
+* **Anular la suscripción a la configuración de datos anexados para las acciones de información de ventas**: ahora tiene más control sobre los mensajes de cancelación de suscripción con las nuevas opciones de configuración para cancelar la suscripción de datos anexados. Las nuevas funciones permiten a los administradores controlar cuándo, dónde y qué mensajes de cancelación de suscripción aparecerán en los correos electrónicos de ventas.
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Peticiones de datos de campo dinámicas para acciones de perspectiva de ventas**: Ahora puede pedir al equipo de ventas que personalice partes específicas de un correo electrónico aún más con las nuevas peticiones de datos de campo disponibles para añadirlas a las plantillas de correo electrónico en las acciones de perspectiva de ventas.
+* **Indicadores de campo dinámico para acciones de perspectiva de ventas**: ahora puede pedir al equipo de ventas que personalice partes específicas de un mensaje de correo electrónico aún más con nuevos indicadores de campo disponibles para agregarlos a plantillas de correo electrónico en acciones de perspectiva de ventas.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Campos dinámicos predeterminados para acciones de información de ventas**: los campos dinámicos predeterminados le permiten configurar un valor de reserva al que un campo dinámico puede resolver si no hay ningún valor disponible para rellenar. Esto ayuda a garantizar que los correos electrónicos se publiquen con toda la personalización completada.
+* **Campos dinámicos predeterminados para las acciones de información de ventas**: los campos dinámicos predeterminados le permiten configurar un valor de reserva que un campo dinámico puede resolver si no hay ningún valor disponible para rellenar. Esto ayuda a garantizar que los correos electrónicos se publiquen con toda la personalización completada.
 
 <table> 
   <tr> 
@@ -134,7 +134,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Soporte del Dynamic Chat para Sales Insight**: Se han realizado actualizaciones para admitir los nuevos atributos de Dynamic Chat introducidos en esta versión para todos los usuarios de Dynamic Chat.
+* **Soporte de Dynamic Chat para la perspectiva de ventas**: se han realizado actualizaciones para admitir los nuevos atributos de Dynamic Chat introducidos en esta versión para todos los usuarios de Dynamic Chat.
 
 <table> 
   <tr> 
@@ -148,7 +148,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Soporte de Dynamic Chat para acciones de información de ventas**: Ahora admitimos actividades de Dynamic Chat en la fuente de posibles clientes, así como notificaciones cuando se enruta un chat en directo a un agente.
+* **Soporte de Dynamic Chat para acciones de información de ventas**: ahora se admiten actividades de Dynamic Chat en la fuente de posibles clientes, así como notificaciones cuando se enruta un chat en vivo a un agente.
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Tokens de Déclencheur de Dynamic Chat**: Introducción de nuevos tokens de Déclencheur para actividades de Dynamic Chat que se utilizarán en momentos interesantes.
+* **Tokens de Déclencheur de Dynamic Chat**: presentando nuevos Tokens de Déclencheur para las actividades de Dynamic Chat que se usarán en momentos interesantes.
 
 <table> 
   <tr> 
@@ -171,13 +171,13 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Tokens de Déclencheur de Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Tokens de activación de Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Anuncios {#announcements}
 
-* **Actualización a Google Analytics 4**: Marketo era compatible anteriormente con Universal Analytics, que dejará de registrar datos el 1 de julio de 2023. Los usuarios de RTP deberán seguir el proceso de migración en su panel de Google Analytics para completar la asistencia a la integración de Google Analytics 4 en RTP. En adelante, los usuarios tendrán una etiqueta alfanumérica única (ubicada dentro de la variable `<head>` del html) en sus páginas de aterrizaje, lo que permite a Marketo enviar datos a los Google Analytics.
+* **Actualizar a Google Analytics 4**: Marketo admitía anteriormente Universal Analytics, que dejará de registrar datos el 1 de julio de 2023. Los usuarios de RTP deberán seguir el proceso de migración en su panel de Google Analytics para completar la asistencia a la integración de Google Analytics 4 en RTP. En adelante, los usuarios tendrán una etiqueta alfanumérica única (ubicada en la sección `<head>` del HTML) en sus páginas de aterrizaje que permitirá a Marketo enviar datos a los Google Analytics.
 
-* **_Seminario web sobre lanzamiento de productos_**: [Seminario web de julio y septiembre de 2023 sobre la versión para Marketo Engage](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Seminario web de lanzamiento del producto_**: [Seminario web de lanzamiento del Marketo Engage de julio y septiembre de 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

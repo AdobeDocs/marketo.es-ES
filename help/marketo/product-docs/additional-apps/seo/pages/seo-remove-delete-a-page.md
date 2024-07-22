@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ¿Desea eliminar una página? No te preocupes, así es como.
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. En el [!UICONTROL Páginas] , pase el ratón sobre la página que quiere eliminar y haga clic en **[!UICONTROL Eliminar]**, luego haga clic en **[!UICONTROL Eliminar]**.
+1. En la ficha [!UICONTROL Páginas], pase el ratón sobre la página que quiere eliminar, haga clic en **[!UICONTROL Eliminar]** y, a continuación, haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

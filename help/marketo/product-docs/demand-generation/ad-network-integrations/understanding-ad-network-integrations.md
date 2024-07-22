@@ -36,7 +36,7 @@ Las capacidades incluyen:
 
    * Por ejemplo, una persona busca, ve y hace clic en un anuncio y, a continuación, rellena un formulario en línea. Después, recibe una demostración sin conexión y se convierte en una oportunidad de CRM. Ahí es donde el anunciante lo apunta
 
-* Redireccionamiento de visitantes del sitio web mediante [Personalización web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, para devolverlos a su sitio web
+* Redireccionamiento de visitantes del sitio web mediante [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} para devolverlos al sitio web
 
    * Personalizar por segmento o vertical
 
@@ -44,11 +44,11 @@ Las capacidades incluyen:
 
 Puede utilizar las integraciones para lo siguiente:
 
-* [Añadir Google AdWords como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Añadir posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Agregar Google AdWords como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Agregar posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
 * [Crear una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 * [Configurar conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [Uso de una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | Datos de audiencia | Ingesta de clientes potenciales | Conversión sin conexión |
 |---|---|---|---|

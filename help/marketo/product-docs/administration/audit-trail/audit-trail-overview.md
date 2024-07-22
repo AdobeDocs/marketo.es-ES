@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ La pista de auditoría captura, en tiempo real, una lista completa de las accion
 
 ## Qué auditamos {#what-we-audit}
 
-Marketo auditará el [crear, editar y eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acciones para:
+Marketo auditará las acciones [crear, editar y eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
 * Recursos de Design Studio
 * Todos los programas de Marketo
@@ -41,18 +41,18 @@ Marketo auditará el [crear, editar y eliminar](/help/marketo/product-docs/admin
 * Listas (inteligentes/estáticas)
 * Usuarios (administrador)
 * Funciones y permisos (administrador)
-* Espacio de trabajo y particiones (administrador)
+* Workspace y particiones (administrador)
 * Historial de inicio de sesión del usuario
 
 >[!NOTE]
 >
->Marketo es _no_ auditar los cambios realizados en Personalización web, Contenido predictivo o Perspectiva de ventas en este momento.
+>Marketo _no_ está auditando los cambios realizados en Web Personalization, Contenido predictivo o Perspectiva de ventas en este momento.
 
 ## Componentes de pista de auditoría {#audit-trail-components}
 
 La pista de auditoría consta de tres componentes.
 
-**1) [Pista de auditoría de activos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [Registro de auditoría de recursos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Consulte la actividad realizada en recursos específicos.
 
@@ -60,15 +60,15 @@ Consulte la actividad realizada en recursos específicos.
 
 Monitorice los detalles basados en el usuario.
 
-**3) [Historial de inicio de sesión del usuario](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [Historial de inicio de sesión de usuario](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Ver quién ha iniciado sesión en su suscripción y cuándo. También incluye los intentos de inicio de sesión erróneos.
 
 >[!TIP]
 >
->Hay muchas cosas que puede auditar con la pista de auditoría, asegúrese de utilizar [Filtrado](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Es mucho lo que puede auditar con la pista de auditoría. ¡Asegúrese de usar [Filtrado](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
-## Exportación de datos {#exporting-data}
+## Exportando datos {#exporting-data}
 
 Solo puede ver datos de 30 días en su instancia. Para obtener (hasta) seis meses, utilice la opción de exportación.
 
@@ -78,7 +78,7 @@ Solo puede ver datos de 30 días en su instancia. Para obtener (hasta) seis mese
 >
 >**Definición**
 >
->**Desconocido:** Entrada [!DNL Webhook], puede ver el nombre de un usuario y su correo electrónico en la lista como &quot;Desconocido&quot;. Esto sucede cuando realiza un cambio en los valores de la lista de selección en su CRM. Estos valores aparecen en formularios Marketo y páginas de aterrizaje. Al realizar esta actualización en CRM, se realizará un borrador automático de las páginas de aterrizaje que hagan referencia al formulario. Entrada [!DNL Webhook]Por lo tanto, capturaremos que la página de aterrizaje fue redactada, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no podemos capturar la información del usuario desde el lado del CRM.
+>**Desconocido:** En [!DNL Webhook], es posible que vea el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto sucede cuando realiza un cambio en los valores de la lista de selección en su CRM. Estos valores aparecen en formularios Marketo y páginas de aterrizaje. Al realizar esta actualización en CRM, se realizará un borrador automático de las páginas de aterrizaje que hagan referencia al formulario. En [!DNL Webhook], capturaremos que la página de aterrizaje se redactó, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no podemos capturar la información del usuario desde CRM.
 
 >[!MORELIKETHIS]
 >

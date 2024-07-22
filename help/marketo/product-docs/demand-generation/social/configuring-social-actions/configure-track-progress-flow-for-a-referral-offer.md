@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Configuración del flujo de seguimiento de progreso para una oferta de referencia {#configure-track-progress-flow-for-a-referral-offer}
 
-Cuando usted [crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
+Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +23,11 @@ Cuando usted [crear una oferta de referencia](/help/marketo/product-docs/demand-
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. En el editor de ofertas de recomendación, vaya a **Flujo de seguimiento de progreso** > **Redes sociales**.
+1. En el editor de ofertas de referencia, vaya a **Seguimiento del flujo de progreso** > **Redes sociales**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. En el **Ver y editar** , edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para suscribirse a su oferta.
+1. En la ventana **Ver y editar**, edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para suscribirse a su oferta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 

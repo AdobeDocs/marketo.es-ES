@@ -5,7 +5,7 @@ exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -16,33 +16,33 @@ Las siguientes funciones se incluyen en la versión de marzo de 2022. Compruebe 
 
 >[!AVAILABILITY]
 >
->Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones comenzarán a lanzarse el **11 de marzo de 2022**, con un despliegue gradual de cada función en las semanas siguientes (a menos que se especifique lo contrario).
+Las siguientes características comenzarán a lanzarse el **11 de marzo de 2022**, con un despliegue gradual de cada característica en las semanas siguientes (a menos que se especifique lo contrario).
 
 ## Orquestación entre canales {#cross-channel-orchestration}
 
-* **Dynamic Chat**: maximice todas las oportunidades en su sitio web segmentando tanto los posibles clientes como las cuentas con conversaciones proactivas, atractivas y personalizadas 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite a los usuarios de Marketo Engage empezar a aprovechar el chat como parte clave de las experiencias multicanal integradas para los casos de uso de ventas y marketing B2B. Las funciones incluyen: la capacidad de reservar reuniones directamente dentro del chat, enrutamiento de posibles clientes, plantillas de inicio, creación de conversaciones de arrastrar y soltar y mucho más. El Dynamic Chat se incluye en todos los paquetes de Marketo Engage y se implementará para todos los usuarios de Marketo Engage este año.
+* **Dynamic Chat**: aprovecha al máximo todas las oportunidades en tu sitio web al segmentar tanto a los posibles clientes como a las cuentas con conversaciones proactivas, atractivas y personalizadas 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que los usuarios de Marketo Engage empiecen a aprovechar el chat como parte clave de las experiencias multicanal integradas para los casos de uso de ventas y marketing B2B. Las funciones incluyen: la capacidad de reservar reuniones directamente dentro del chat, enrutamiento de posibles clientes, plantillas de inicio, creación de conversaciones de arrastrar y soltar y mucho más. El Dynamic Chat se incluye en todos los paquetes de Marketo Engage y se implementará para todos los usuarios de Marketo Engage este año.
 
-* **Mejora del filtrado de actividades de bots de correo electrónico**: como mejora de la versión publicada anteriormente. [Filtrado de actividades de bots de correo electrónico](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} con, ahora puede incluirse en el registro de actividades identificadas como bots. A continuación, puede filtrar y almacenar en déclencheur las acciones basadas en actividades identificadas como realizadas por bots.
+* **Mejora del filtrado de actividades de bots de correo electrónico**: como mejora de la característica [Filtrado de actividades de bots de correo electrónico](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lanzada anteriormente, ahora puede optar por registrarse en las actividades identificadas como bots. A continuación, puede filtrar y almacenar en déclencheur las acciones basadas en actividades identificadas como realizadas por bots.
 
 ## Experiencia de próxima generación {#modern-ux}
 
-* **Pantallas actualizadas en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
+* **Screens actualizado en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
 
    * Vista de lista de formularios en Design Studio (incluidas las nuevas acciones masivas)
 
-* **Importar actualización de flujo de trabajo de programa**: el flujo de trabajo del programa de importación se está entregando en la experiencia de próxima generación con un diseño actualizado y mejoras de uso. Se trata de un cambio automático sin conmutador.
+* **Actualización del flujo de trabajo del programa de importación**: El flujo de trabajo del programa de importación se está entregando en la experiencia de próxima generación con un diseño actualizado y mejoras de uso. Se trata de un cambio automático sin conmutador.
 
-* **Control de administración para el conmutador de alternancia de experiencia de próxima generación**: administre el despliegue de la experiencia de próxima generación de una manera que funcione para los usuarios, con la capacidad para que los administradores seleccionen qué tipos de usuarios pueden acceder al conmutador.
+* **Control de administración para el conmutador de alternancia de experiencia de próxima generación**: administre el despliegue de la experiencia de próxima generación de una manera que funcione para los usuarios con la capacidad para que los administradores seleccionen qué tipos de usuarios pueden acceder al conmutador de alternancia.
 
 ## Automatización de experiencias {#experience-automation}
 
-* **Pasos de flujo de autoservicio (beta)**: Amplíe la conectividad entre Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para utilizarlos en campañas inteligentes. Tanto los usuarios como los socios de Marketo pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas por lotes y ejecutables, a diferencia de los webhooks, que solo se pueden utilizar en campañas de déclencheur.
+* **Pasos de flujo de autoservicio (Beta)**: expanda la conectividad entre Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para usarlos en campañas inteligentes. Tanto los usuarios como los socios de Marketo pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas por lotes y ejecutables, a diferencia de los webhooks, que solo se pueden utilizar en campañas de déclencheur.
 
-* **Caducidad de recurso**: mantenga el control de sus campañas y recursos en los que el tiempo es un factor importante con la capacidad de programar su desactivación automática en una fecha y hora especificadas en la experiencia del usuario de Classic.
+* **Caducidad de recursos**: mantenga el control de sus campañas y recursos en los que el tiempo es un factor importante con la capacidad de programar su desactivación automática en una fecha y hora especificadas en la experiencia del usuario de Classic.
 
 * **Anulación de prioridad de campaña inteligente**: Asegúrese de que las campañas inteligentes de déclencheur de alta prioridad se ejecuten lo antes posible con la capacidad de anular la clasificación de prioridad de campaña estándar. Las campañas inteligentes de déclencheur de menor prioridad también se pueden reducir en prioridad para liberar recursos de procesamiento para otras tareas de alta prioridad.
 
@@ -50,11 +50,11 @@ Las siguientes funciones comenzarán a lanzarse el **11 de marzo de 2022**, con 
 
 * **Devolver Deshabilitar estado de seguimiento abierto de correos electrónicos**: permite leer el estado de seguimiento abierto de los correos electrónicos a través de la API
 * **Recuperar líneas de asunto de contenido dinámico del correo electrónico**: permite a los especialistas en marketing realizar análisis de las líneas de asunto dinámicas en las herramientas de BI
-* **CRUD de campos personalizados de miembro de programa**: permite a los especialistas en marketing crear campos personalizados de miembros de programa mediante programación
-* **Exportación masiva de objetos personalizados actualizada en el filtro**: permite a los especialistas en marketing sincronizar objetos personalizados mediante programación
-* **Exponer la configuración de Head Start para programas de correo electrónico**: permite a los especialistas en marketing configurar programas de correo electrónico con Head Start mediante API
+* **Campos personalizados de miembros de programa CRUD**: permite a los especialistas en marketing crear mediante programación campos personalizados de miembros de programa
+* **Exportación masiva de objetos personalizados actualizadaEn el filtro**: permite a los especialistas en marketing sincronizar objetos personalizados mediante programación
+* **Exponer la configuración de Head Start para programas de correo electrónico**: permite a los especialistas en marketing configurar programas de correo electrónico con Head Start a través de API
 * **Actualización selectiva de etiquetas de programa**: permite a los especialistas en marketing insertar actualizaciones selectivas de etiquetas sin insertar todas las etiquetas al mismo tiempo
-* **Campo Resultado de la extracción masiva de actividades**: permite a los especialistas en marketing identificar qué actividades se omitieron o fallaron
+* **Campo actionResult de extracción masiva de actividades**: permite a los especialistas en marketing identificar qué actividades se omitieron o fallaron
 
 **_Lanzamiento durante todo el trimestre_**
 
@@ -64,18 +64,18 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Plantillas de BI**: Bizsible ahora proporcionará artefactos de informes descargables y fundamentales e informes de muestra para Tableau y Power BI para permitir el rápido desarrollo de informes personalizados adaptados a sus necesidades comerciales específicas.
+* **Plantillas de BI**: Bizsible ahora proporcionará artefactos de informes básicos descargables e informes de muestra para Tableau y Power BI para permitir el desarrollo rápido de informes personalizados adaptados a sus necesidades comerciales específicas.
 
-## Conexión de ventas {#sales-connect}
+## Sales Connect {#sales-connect}
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Limitación de la conexión de correo electrónico (GA)**: la restricción de conexión de correo electrónico permite a los administradores de Sales Connect configurar la velocidad de envío de los mensajes de correo electrónico al utilizar Gmail o Exchange como canal de envío, de modo que la velocidad a la que se entregan los mensajes de correo electrónico al proveedor del canal de envío no supere los límites impuestos.
+* **Restricción de conexión de correo electrónico (GA)**: la restricción de conexión de correo electrónico permite a los administradores de Sales Connect configurar la velocidad de envío de los mensajes de correo electrónico al usar Gmail o Exchange como canal de envío, de modo que la velocidad a la que se entregan los mensajes de correo electrónico al proveedor del canal de envío no supere los límites impuestos.
 
 ## Anuncios {#announcements}
 
-* **Desaprobación del Marketo Sky**: En marzo, Marketo Sky dejará de estar disponible, ya que centramos nuestros recursos en ofrecer la experiencia del usuario de próxima generación. Con el fin de mantener el acceso a una funcionalidad exclusiva de Marketo Sky hoy en día, hemos incorporado la caducidad de los recursos y la anulación de prioridad de las campañas inteligentes a la experiencia clásica. [Haga clic aquí](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
+* **Desaprobación del Marketo Sky**: En marzo, Marketo Sky ya no estará disponible porque centramos nuestros recursos en ofrecer la experiencia del usuario de próxima generación. Con el fin de mantener el acceso a una funcionalidad exclusiva de Marketo Sky hoy en día, hemos incorporado la caducidad de los recursos y la anulación de prioridad de las campañas inteligentes a la experiencia clásica. [Haga clic aquí](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
 
-**_Seminario web sobre lanzamiento de productos_**
+**_Seminario web sobre la versión del producto_**
 
-[Seminario web de marzo y mayo de 2022 sobre la versión para Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[Seminario web sobre la versión de Marketo Engage de marzo y mayo de 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

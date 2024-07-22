@@ -6,8 +6,8 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 2%
+source-wordcount: '847'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >      * Eventos en directo / Jornadas
 >      * Ferias
 >      * Seminarios web
->   * Newsletters
+>   * Boletines informativos
 >   * Acompañamiento
 >   * Contenido web
 >   * Formularios web
@@ -46,7 +46,7 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >   * Momentos interesantes
 >   * Emails de ventas
 >   * Campañas solicitadas de ventas
->* **Archivar**
+>* **Archivo**
 >   * Archivar eventos
 >      * Archivo 2012
 >      * Archivo 2013
@@ -55,15 +55,15 @@ Cada uno de estos elementos mencionados en el ejemplo es una carpeta. Observe c�
 
 >[!TIP]
 >
->La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas, así como para crear informes. Esto ayudará a que su sistema funcione más rápido. Aprender [más información sobre las carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas, así como para crear informes. Esto ayudará a que su sistema funcione más rápido. Más información [sobre las carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Sin duda, puede agregar más carpetas como crea conveniente. Solo tenga en cuenta que las futuras generaciones de especialistas en marketing de su compañía vivirán con sus decisiones sobre cómo nombrar/organizar las cosas.
 
 ## Esquemas de nomenclatura {#naming-schemes}
 
-La asignación de nombres es fundamental, ya que todas las funciones de Marketo utilizan un lenguaje común para comunicarse. Para los programas, debe ponerles un nombre único. **No puede haber dos programas con el mismo nombre**. Una práctica recomendada es utilizar el siguiente formato:
+La asignación de nombres es fundamental, ya que todas las funciones de Marketo utilizan un lenguaje común para comunicarse. Para los programas, debe ponerles un nombre único. **Dos programas no pueden tener el mismo nombre**. Una práctica recomendada es utilizar el siguiente formato:
 
-[Abreviatura de tipo de programa] [AAAA]-[MM]-[DD opcional] [Descripción breve]
+[Abreviatura del tipo de programa] [AAAA]-[MM]-[DD opcional] [Descripción breve]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ La asignación de nombres es fundamental, ya que todas las funciones de Marketo 
 >1. Boletín NL 2015-06
 >1. Tema del seminario web de WBN 2015-12-01 aquí
 
-Los nombres de los programas deben ser únicos en su suscripción, incluso en diferentes [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Para los recursos locales dentro de los programas, la regla es **mantenga el nombre simple**. Asigne un nombre a la invitación &quot;Invitación&quot;, en lugar de &quot;Invitación al seminario web de junio de 2015&quot;. Como se encuentran en un programa, el programa principal forma parte automáticamente del nombre al elegirlo en otra parte. En otras palabras, los recursos locales solo deben ser únicos dentro del programa. Puede tener cientos de recursos llamados &quot;Invitar&quot;, cada uno en un programa diferente y no le causará problemas.
+Los nombres de los programas deben ser únicos en su suscripción, incluso en [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} diferentes.  Para los recursos locales dentro de los programas, la regla es **mantener el nombre simple**. Asigne un nombre a la invitación &quot;Invitación&quot;, en lugar de &quot;Invitación al seminario web de junio de 2015&quot;. Como se encuentran en un programa, el programa principal forma parte automáticamente del nombre al elegirlo en otra parte. En otras palabras, los recursos locales solo deben ser únicos dentro del programa. Puede tener cientos de recursos llamados &quot;Invitar&quot;, cada uno en un programa diferente y no le causará problemas.
 
 ## Tokens {#tokens}
 
@@ -97,7 +97,7 @@ Un evento suele tener muchas partes móviles, incluidas: invitaciones, páginas 
 
 ## Programas de participación {#engagement-programs}
 
-Aprender [todo acerca de los programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. La mejor manera de organizar el programa de participación es con carpetas. Cree una carpeta para cada flujo y luego coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivos en cada flujo cuando el contenido quede obsoleto y desee eliminarlo.
+[todo acerca de los programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. La mejor manera de organizar el programa de participación es con carpetas. Cree una carpeta para cada flujo y luego coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivos en cada flujo cuando el contenido quede obsoleto y desee eliminarlo.
 
 ## Programas operativos {#operational-programs}
 
@@ -121,4 +121,4 @@ Algunas personas incluso abstraen la mayoría del texto de los correos electrón
 
 ## Resumen {#summary}
 
-Como puede ver, hay mucho poder en Marketo. Cubrimos los conceptos básicos aquí, pero consideramos servicios adicionales de [Marketo Engage expertos](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar y prepararse para el éxito.
+Como puede ver, hay mucho poder en Marketo. Cubrimos los conceptos básicos aquí, pero considera servicios adicionales de [Marketo Engage expertos](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararte para el éxito.

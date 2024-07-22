@@ -22,7 +22,7 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 >
 >Con la opción Omitir fines de semana habilitada, los correos electrónicos se programarán en función de una semana de 5 días. Es decir, cuando se programa un paso, los fines de semana se ignorarán como días.
 
-1. Clic **Campañas**.
+1. Haga clic en **Campañas**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Haga clic en **Configuración** pestaña.
+1. Haga clic en la ficha **Configuración**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Seleccione el **Omitir fines de semana** casilla de verificación
+1. Seleccione la casilla de verificación **Omitir fines de semana**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 
 Si utiliza una conexión de correo electrónico, detectaremos las devoluciones en función del mensaje de rechazo enviado a la bandeja de entrada de los usuarios. Además, podemos eliminar personas de las campañas de ventas cuando se detecta una devolución.
 
-1. Clic **Campañas**.
+1. Haga clic en **Campañas**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,11 +50,11 @@ Si utiliza una conexión de correo electrónico, detectaremos las devoluciones e
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Haga clic en **Configuración** pestaña.
+1. Haga clic en la ficha **Configuración**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Seleccione el **Eliminar al configurar el rechazo** casilla de verificación
+1. Seleccione la casilla de verificación **Eliminar al recibir un rechazo**.
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -62,7 +62,7 @@ Si utiliza una conexión de correo electrónico, detectaremos las devoluciones e
 
 Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos enviar automáticamente su campaña de ventas si un destinatario responde a su correo electrónico.
 
-1. Clic **Campañas**.
+1. Haga clic en **Campañas**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,7 +70,7 @@ Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos 
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Haga clic en **Configuración** pestaña.
+1. Haga clic en la ficha **Configuración**.
 
    ![](assets/sales-campaign-settings-11.png)
 
@@ -80,6 +80,6 @@ Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos 
 
 >[!MORELIKETHIS]
 >
->* [Creación de una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [Crear una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >* [Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

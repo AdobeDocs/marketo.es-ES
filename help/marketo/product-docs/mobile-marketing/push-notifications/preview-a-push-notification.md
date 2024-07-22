@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es fácil obtener una vista previa del aspecto que tendrá la notificación push, tanto para Android como para iOS. Hay cuatro formas de hacerlo.
 
-En el árbol de navegación, haga clic con el botón derecho en el archivo de la notificación que desee previsualizar y haga clic en **Previsualizar**.
+En el árbol de navegación, haz clic con el botón derecho en el archivo de la notificación que deseas previsualizar y haz clic en **Previsualizar**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ En el árbol de navegación, haga clic con el botón derecho en el archivo de la
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-O bien, en la página de vista de notificaciones push, haga clic en **Acciones de notificaciones push** y luego **Previsualizar**. O haga clic en **Previsualizar** en el extremo derecho.
+O bien, en la página de vista de notificaciones push, haga clic en **Acciones de notificaciones push** y luego en **Vista previa**. O bien, haga clic en **Vista previa** en el extremo derecho.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Finalmente, en el editor, puede hacer clic en **Previsualizar borrador** en la parte superior derecha mientras trabaja en la notificación.
+Por último, en el editor, puedes hacer clic en la pestaña **Vista previa del borrador** en la esquina superior derecha mientras trabajas en la notificación.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -49,7 +49,7 @@ En la pantalla de bloqueo, aparece en parte hacia abajo, debajo del tiempo.
 
 ## Previsualizaciones de iOS {#ios-previews}
 
-Al igual que con Android, haga clic o utilice las flechas del teclado para alternar entre vistas.
+Al igual que con Android, haga clic o utilice flechas de teclado para alternar entre vistas.
 
 En la pantalla Inicio, la notificación aparece en la parte superior.
 
@@ -68,4 +68,4 @@ Por lo tanto, con la vista previa de las notificaciones push, siempre sabe lo qu
 >[!MORELIKETHIS]
 >
 >* [Crear una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [Configuración de notificaciones push móviles](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [Configurar notificación push móvil](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

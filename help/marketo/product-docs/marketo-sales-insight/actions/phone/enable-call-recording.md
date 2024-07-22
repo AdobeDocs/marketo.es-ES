@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Habilitar grabación de llamadas {#enable-call-recording}
 
-Como administrador, puede habilitar el registro de llamadas para sus llamadas de acciones de información de ventas. Grabar las llamadas de su equipo puede ser una buena manera de instruir a sus representantes de ventas sobre las mejores prácticas de llamadas.
+Como administrador, puede habilitar el registro de llamadas para sus llamadas de acciones de información de ventas. Grabar las llamadas de su equipo puede ser una buena manera de entrenar a sus representantes de ventas en las mejores prácticas de llamadas.
 
-1. Haga clic en el icono Settings y seleccione **Configuración**.
+1. Haga clic en el icono Configuración y seleccione **Configuración**.
 
    ![](assets/enable-call-recording-1.png)
 
@@ -22,11 +22,11 @@ Como administrador, puede habilitar el registro de llamadas para sus llamadas de
 
    ![](assets/enable-call-recording-2.png)
 
-1. Seleccione el **Habilitar grabación de llamadas** alternar.
+1. Seleccione la opción **Habilitar grabación de llamadas**.
 
    ![](assets/enable-call-recording-3.png)
 
-1. Si deseas que tus vendedores puedan activar o desactivar la grabación de llamadas, pulsa **Grabación opcional para todos los integrantes del equipo**. Si desea que todas las llamadas se registren automáticamente, haga clic en **Registrar todas las llamadas**.
+1. Si deseas que tus vendedores puedan habilitar o deshabilitar la grabación de llamadas, haz clic en **Grabación opcional para todos los integrantes del equipo**. Si desea que todas las llamadas se registren automáticamente, haga clic en **Registrar todas las llamadas**.
 
    ![](assets/enable-call-recording-4.png)
 

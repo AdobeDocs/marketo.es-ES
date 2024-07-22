@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
@@ -21,13 +21,13 @@ Marketo Sales Connect es una solución de soporte de ventas multifacética con u
 
 ## La Live Feed {#the-live-feed}
 
-Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) de contenido de marketing y ventas.
+Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de marketing como de ventas.
 
 ![](assets/engagement.jpg)
 
 ## Vista de detalles de persona {#person-detail-view}
 
-Acceso [estadísticas detalladas de personas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Acceder a [estadísticas detalladas de personas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -44,15 +44,15 @@ Vea cómo sus clientes potenciales participan en sus esfuerzos de ventas.
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td><p>Enviar email de ventas</p></td> 
+   <td><p>Enviar correo electrónico de ventas</p></td> 
    <td><p>El usuario ha enviado un correo electrónico de ventas desde Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Abrir email de ventas</p></td> 
+   <td><p>Abrir correo electrónico de ventas</p></td> 
    <td><p>El posible cliente ha abierto un correo electrónico de ventas enviado desde Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Hacer clic en el email de ventas</p></td> 
+   <td><p>Hacer clic en el correo electrónico de ventas</p></td> 
    <td><p>Posible cliente ha hecho clic en un vínculo de un correo electrónico de ventas enviado desde Sales Connect.</p></td> 
   </tr> 
   <tr> 
@@ -60,11 +60,11 @@ Vea cómo sus clientes potenciales participan en sus esfuerzos de ventas.
    <td colspan="1"><p>El posible cliente ha recibido un correo electrónico enviado desde Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Recibir llamada de ventas</p></td> 
-   <td colspan="1"><p>El posible cliente ha recibido una llamada de un vendedor que utiliza el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Teléfono de ventas</a>.</p></td> 
+   <td colspan="1"><p>Recibe llamada de ventas</p></td> 
+   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor con el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">teléfono de ventas</a>.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Añadir a la campaña de ventas</p></td> 
+   <td colspan="1"><p>Agregar a la campaña de ventas</p></td> 
    <td colspan="1"><p>El posible cliente se ha añadido a una campaña de ventas creada en Sales Connect (en la página Campañas).</p></td> 
   </tr> 
   <tr> 
@@ -80,11 +80,11 @@ Vea cómo sus clientes potenciales participan en sus esfuerzos de ventas.
 
 ## Compartir campañas de marketing {#share-marketing-campaigns}
 
-Cree una campaña inteligente sencilla para que sus usuarios de ventas tengan acceso a [Datos de campaña de Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Cree una campaña inteligente simple para que sus usuarios de ventas tengan acceso a [datos de campañas de Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
-¿Está listo para comenzar? Para obtener instrucciones de configuración, haga clic en el vínculo siguiente.
+¿Listo para empezar? Para obtener instrucciones de configuración, haga clic en el vínculo siguiente.
 
 >[!MORELIKETHIS]
 >

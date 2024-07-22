@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Obtenga información sobre cómo buscar una imagen o un archivo.
 
-1. Vaya a la **[!UICONTROL Design Studio]**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Clic **[!UICONTROL Imágenes y archivos]** para obtener la lista completa de todos los archivos cargados.
+1. Haga clic en **[!UICONTROL Imágenes y archivos]** para obtener la lista completa de todos los archivos cargados.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. En el cuadro Buscar, escriba la palabra con la que comienza el archivo y pulse **Entrar**.
+1. En el cuadro Buscar, escriba la palabra con la que comienza el archivo y presione **Entrar**.
 
    ![](assets/search-uploaded-images-and-files-3.png)
 

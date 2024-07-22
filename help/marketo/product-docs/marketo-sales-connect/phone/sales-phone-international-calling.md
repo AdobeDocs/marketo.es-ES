@@ -6,8 +6,8 @@ exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 17%
+source-wordcount: '399'
+ht-degree: 11%
 
 ---
 
@@ -65,7 +65,7 @@ Sales Phone te facilita la comunicación internacional. Para los clientes que ll
   </tr> 
   <tr> 
    <td>Hungría</td> 
-   <td>36, 361</td> 
+   <td>37, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlanda </td> 
@@ -137,7 +137,7 @@ Sales Phone te facilita la comunicación internacional. Para los clientes que ll
   </tr> 
   <tr> 
    <td>Estados Unidos</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1 1800 1808 1844 1855 1866 1867 1877 1888</td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Sales Phone te facilita la comunicación internacional. Para los clientes que ll
 
 {#international-calling-faq}
 
-**¿Por qué el MSE no apoya las llamadas internacionales para todos los países?**
+**¿Por qué MSE no admite llamadas internacionales para todos los países?**
 
 Hoy en día, ofrecemos llamadas internacionales con teléfono de ventas sin costo adicional. Queremos facilitarle la comunicación con sus propios clientes y clientes potenciales, por lo que hemos lanzado la compatibilidad con llamadas internacionales de tarifa estándar. Ofrecemos cobertura a 34 países fuera de los Estados Unidos y Canadá para regiones en Europa, Asia y otros destinos clave. Seguiremos ampliando en función de los comentarios de los clientes.
 
@@ -154,10 +154,10 @@ Hoy en día, ofrecemos llamadas internacionales con teléfono de ventas sin cost
 
 Esta es la lista de países desde y hacia los que actualmente no admitimos llamadas. Si el país desde el que llama es compatible, podrá llamar a cualquier otro país internacional al que apoyemos.
 
-**¿Hay tipos específicos de números a los que no puedo llamar con el teléfono de ventas?**
+**¿Hay tipos de números específicos a los que no puedo llamar con el teléfono de ventas?**
 
 Sí. No admitimos llamadas a números de teléfono del servicio de tarifa premium (como números 900 en EE. UU. y números +449 en el Reino Unido). En general, no admitimos llamadas a números de teléfono de coste compartido, así como un pequeño número de otras rutas premium.
 
-**¿Puedo utilizar la presencia local cuando llame a un servicio internacional?**
+**¿Puedo usar la presencia local al llamar a llamadas internacionales?**
 
 No. La presencia local solo está disponible para números de Estados Unidos.

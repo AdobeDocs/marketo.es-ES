@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ Obtenga una vista previa de la página de aterrizaje después de agregar conteni
 
 >[!PREREQUISITES]
 >
->* [Uso de contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Previsualización de una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [Usar contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Vista previa de una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 1. Seleccione una página de aterrizaje y haga clic en **Previsualizar página**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Haga clic en la lista desplegable y seleccione una **Segmento** para previsualizarlo.
+1. Haga clic en la lista desplegable y seleccione un **segmento** para previsualizarlo.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-¡Increíble! Ahora puede asegurarse de que las páginas de aterrizaje funcionen según lo desea en todos los segmentos.
+¡Fantástico! Ahora puede asegurarse de que las páginas de aterrizaje funcionen según lo desea en todos los segmentos.

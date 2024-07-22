@@ -23,7 +23,7 @@ Los fragmentos de código son pequeños fragmentos de HTML que pueden seguir reg
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. En el editor de la página de aterrizaje, arrastre el puntero sobre la barra **Fragmento** Elemento.
+1. En el editor de la página de aterrizaje, arrastre sobre el elemento **Snippet**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -37,6 +37,6 @@ Los fragmentos de código son pequeños fragmentos de HTML que pueden seguir reg
 
    >[!NOTE]
    >
-   >Si desea agregar un fragmento de código a una página de aterrizaje guiada, consulte [este artículo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Si desea agregar un fragmento a una página de aterrizaje guiada, consulte [este artículo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ¡Excelente trabajo! Ahora sabe cómo agregar fragmentos de código a las páginas de aterrizaje.

@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Crear un fragmento {#create-a-snippet}
 
-Los fragmentos de código se pueden usar como bloques de contenido dinámico en **correos electrónicos** y **páginas de aterrizaje**.
+Los fragmentos se pueden usar como bloques de contenido dinámico en **correos electrónicos** y **páginas de aterrizaje**.
 
-1. Vaya a la **Estudio de diseño.**
+1. Vaya a **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Clic **Nuevo** y luego **Nuevo fragmento**.
+1. Haga clic en **Nuevo** y luego en **Nuevo fragmento**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Introduzca los detalles necesarios y haga clic en **Crear**.
+1. Introduce los detalles necesarios y haz clic en **Crear**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-¡Buen trabajo! Simplifique su trabajo creando fragmentos para el contenido dinámico. Ahora puedes seguir adelante y... [añadir contenido al nuevo fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+¡Buen trabajo! Simplifique su trabajo creando fragmentos para el contenido dinámico. Ahora puedes seguir y [agregar contenido a tu nuevo fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Añadir contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Agregar contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 >* [Explicación del contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

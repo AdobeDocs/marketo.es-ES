@@ -34,15 +34,15 @@ En las pestañas Yo y Equipo verá información sobre las ofertas cerradas. Este
 
 ## Ficha Yo {#me-tab}
 
-El [Ficha Yo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} es un bueno lugar para comprobar la participación de sus correos electrónicos, plantillas y vínculos. Si es administrador de Acciones de perspectiva de ventas, puede filtrar por cualquier usuario de su equipo para ver sus estadísticas.
+La [pestaña Yo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} es un buen lugar para comprobar la participación de tus correos electrónicos, plantillas y vínculos. Si es administrador de Acciones de perspectiva de ventas, puede filtrar por cualquier usuario de su equipo para ver sus estadísticas.
 
 ## Ficha Equipo {#team-tab}
 
-En el [Ficha Equipo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, consulte las estadísticas y las clasificaciones de todo el equipo. También puede filtrar por cualquier subequipo que haya creado.
+En la [ficha Equipo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, vea las estadísticas y las clasificaciones de todo el equipo. También puede filtrar por cualquier subequipo que haya creado.
 
 ## Pestaña Contenido {#content-tab}
 
-El [Pestaña Contenido](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contiene estadísticas sobre plantillas, contenido y vínculos. Puede filtrar por todos o por equipos que hayan creado sus administradores.
+La [pestaña Contenido](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contiene estadísticas sobre plantillas, contenido y vínculos. Puede filtrar por todos o por equipos que hayan creado sus administradores.
 
 Si ve texto azul debajo de la columna de asunto, significa que la plantilla se comparte. Puede hacer clic en el texto azul que se llevará a esa plantilla. Vea su uso haciendo clic en **Análisis de plantilla**.
 

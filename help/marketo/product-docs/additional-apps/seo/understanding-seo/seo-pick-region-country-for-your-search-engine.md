@@ -17,13 +17,13 @@ Los administradores de SEO podrán elegir la región del motor de búsqueda que 
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Haga clic en **[!UICONTROL Motores de búsqueda]** pestaña.
+1. Haga clic en la ficha **[!UICONTROL Motores de búsqueda]**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 

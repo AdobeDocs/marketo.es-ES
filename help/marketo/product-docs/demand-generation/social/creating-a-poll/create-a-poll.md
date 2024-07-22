@@ -6,7 +6,7 @@ exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Involucre a las personas con una encuesta en la que puedan votar y compartir con
 
 >[!PREREQUISITES]
 >
->Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de Marketo antes de empezar. Agregue una imagen de 60 x 60 px para cada entrada de encuesta. Consulte [Agregar imágenes y archivos a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de Marketo antes de empezar. Agregue una imagen de 60 x 60 px para cada entrada de encuesta. Ver [Agregar imágenes y archivos a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local**.
+1. Dentro de su programa, seleccione **Nuevo** > **Nuevo recurso local**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. En el **Galería de recursos locales**, haga clic en **Encuesta**.
+1. En la **Galería de recursos local**, haga clic en **Sondeo**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -33,7 +33,7 @@ Involucre a las personas con una encuesta en la que puedan votar y compartir con
 
    >[!TIP]
    >
-   >Para ahorrar tiempo, puede utilizar el **Clonar desde** opción para copiar todos los ajustes de un recurso compartido de vídeo existente.
+   >Para ahorrar tiempo, puede usar la opción **Clonar a partir de** para copiar toda la configuración de un recurso compartido de vídeo existente.
 
 1. Asigne un titular a la encuesta (normalmente una pregunta corta).
 
@@ -43,7 +43,7 @@ Involucre a las personas con una encuesta en la que puedan votar y compartir con
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Para añadir una entrada, haga clic en **+** y editar el título y la descripción.
+1. Para agregar una entrada, haga clic en el símbolo **+** y edite el título y la descripción.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -51,15 +51,15 @@ Involucre a las personas con una encuesta en la que puedan votar y compartir con
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Seleccione la imagen que necesita y haga clic en **Seleccionar**.
+1. Seleccione la imagen que necesita y luego haga clic en **Seleccionar**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Una vez definida la miniatura, el título y la descripción de todas las entradas, haga clic en **Finalizar**.
+1. Cuando haya establecido la miniatura, el título y la descripción de todas las entradas, haga clic en **Finalizar**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Clic **Aprobar** y **Cerrar.**
+1. Haga clic en **Aprobar** y **Cerrar.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -67,7 +67,7 @@ El editor de encuestas se abre en una nueva ventana. La configuración predeterm
 
 >[!TIP]
 >
->Para cambiar cualquiera de los valores predeterminados en la encuesta, haga clic en **Atrás**. Para guardar el trabajo para más tarde sin aprobarlo, haga clic en **Cerrar**.
+>Para cambiar cualquiera de los valores predeterminados en la encuesta, haga clic en **Atrás**. Para guardar tu trabajo para más tarde sin aprobarlo, haz clic en **Cerrar**.
 
 Si hay algún problema en la encuesta, se le pedirá que lo resuelva antes de aprobarla.
 
@@ -77,4 +77,4 @@ Si hay algún problema en la encuesta, se le pedirá que lo resuelva antes de ap
 
 >[!MORELIKETHIS]
 >
->El siguiente paso es [publicación de la encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Comience por [personalización de la configuración de encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>El siguiente paso es [publicar la encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Comience por [personalizar la configuración de la encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).

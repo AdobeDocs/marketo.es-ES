@@ -17,29 +17,29 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
 >[!IMPORTANT]
 >
->LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán volver a autenticar todos los servicios de LaunchPoint de LinkedIn en su **Administrador** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte la [Preguntas frecuentes sobre migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán la reautenticación de todos los servicios LaunchPoint de LinkedIn en su menú de **Admin** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte las [Preguntas frecuentes sobre la migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
 >Un posible cliente de LinkedIn no se considerará Marketo Engage si coincide con un registro de persona existente en Marketo asociado a un registro de empresa creado mediante las API de empresa y si la suscripción de Marketo no está conectada a un CRM.
 
-1. Ir a Marketo **Administrador**.
+1. Vaya a Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ir a **LaunchPoint**, haga clic en **Nuevo** y seleccione **Nuevo servicio**.
+1. Vaya a **LaunchPoint**, haga clic en **Nuevo** y seleccione **Nuevo servicio**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca una **Nombre para mostrar** para el servicio, seleccione la **LinkedIn Lead Gen** del menú desplegable y haga clic en **Siguiente**.
+1. Escriba un **Nombre para mostrar** para su servicio, seleccione el servicio **LinkedIn Lead Gen** en la lista desplegable y haga clic en **Siguiente**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo abre una nueva pestaña en el mismo explorador para [linkedin.com](https://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
+1. Marketo abre una nueva ficha en el mismo explorador en [linkedin.com](https://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -51,11 +51,11 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Cuando se le solicite, haga clic en **Permitir** para aceptar la instalación de la aplicación de Marketo en LinkedIn.
+1. Cuando se le solicite, haga clic en **Permitir** aceptar la instalación de la aplicación Marketo en LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Verá que ahora está autorizado. Clic **Siguiente**.
+1. Verá que ahora está autorizado. Haga clic en **Siguiente**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
@@ -81,7 +81,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    >[!NOTE]
    >
-   >Solo los campos de LinkedIn que ya se han guardado en una [plantilla de formulario](https://www.linkedin.com/help/lms/answer/79634) en el Administrador de LinkedIn Campaign, se mostrarán como campos de LinkedIn que se pueden asignar a campos de Marketo.
+   >Solo los campos de LinkedIn que ya se hayan guardado en una [plantilla de formulario](https://www.linkedin.com/help/lms/answer/79634) en el Administrador de LinkedIn Campaign se mostrarán como campos de LinkedIn que se pueden asignar a campos de Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
@@ -93,4 +93,4 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
 >[!MORELIKETHIS]
 >
->[Uso de filtros y Déclencheur de formulario de LinkedIn Lead Gen en una campaña inteligente](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[Usar Déclencheur y filtros de formularios de generación de clientes potenciales de LinkedIn en una campaña inteligente](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)

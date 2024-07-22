@@ -19,29 +19,29 @@ Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con la lista inteligente seleccionada, haga clic en **Lista inteligente** pestaña.
+1. Con la lista inteligente seleccionada, haga clic en la ficha **Lista inteligente**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Busque el **Miembro del modelo de ingresos** filtre y arrástrelo al lienzo.
+1. Busque el filtro **Miembro del modelo de ingresos** y arrástrelo al lienzo.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleccione una **Modelo**.
+1. Seleccionar un **modelo**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Esto le daría todos los posibles clientes de ese modelo, independientemente del escenario. Por lo general, usted querrá una etapa específica. Utilice el siguiente filtro en su lugar.
 
-1. Busque el **Fase de ingresos** filtre y arrástrelo al lienzo.
+1. Busque el filtro **Ingreso Stage** y arrástrelo al lienzo.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleccione una **Fase**.
+1. Seleccione un **escenario**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vaya a la **Posibles clientes** para ver los resultados.
+1. Vaya a la pestaña **Posibles clientes** para ver los resultados.
 
    ![](assets/2.png)
 

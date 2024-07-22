@@ -16,19 +16,19 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia importando una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-Una vez que haya creado su programa de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico está enviando. Puede [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o cree uno desde cero. A continuación se indica cómo crear un nuevo correo electrónico.
+Una vez que haya creado su programa de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico está enviando. Puedes [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o crear uno desde cero. A continuación se indica cómo crear un nuevo correo electrónico.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one.png)
 
-1. Seleccione su programa de correo electrónico. En el **Correo electrónico** mosaico, haga clic en **Nuevo correo electrónico**.
+1. Seleccione su programa de correo electrónico. En el mosaico **Correo electrónico**, haga clic en **Nuevo correo electrónico**.
 
    ![](assets/newemaildashboard.png)
 
-1. Introduzca una **Nombre**, seleccione la plantilla que desee y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione la plantilla que desee y haga clic en **Crear**.
 
    ![](assets/three.png)
 
@@ -38,10 +38,10 @@ Una vez que haya creado su programa de correo electrónico y definido su audienc
 
    >[!NOTE]
    >
-   >Obtenga información sobre cómo [edición de elementos en un correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >Obtenga información sobre cómo [editar elementos en un correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
 
 1. No olvide aprobar su correo electrónico.
 
    ![](assets/five.png)
 
-Excelente! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a  [añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o saltarse directamente a [programación de su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+¡Excelente! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a [agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o directamente a [programar tu programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

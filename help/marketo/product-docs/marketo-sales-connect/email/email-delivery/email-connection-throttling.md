@@ -5,7 +5,7 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,13 @@ Cuando se exceden los límites de forma constante, esto a veces se puede ver com
 * Solo restringe los correos electrónicos enviados a través de Gmail o Exchange, no restringe el canal de envío personalizado
 * La restricción de conexión de correo electrónico pone en cola los correos electrónicos de cada usuario individual por separado, ya que cada usuario tiene su propia conexión con su proveedor de correo electrónico
 
-**Configuración de la limitación de conexión de correo electrónico**
+**Configuración de la limitación de la conexión de correo electrónico**
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Clic **General**.
+1. Haga clic en **General**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,7 +45,7 @@ Cuando se exceden los límites de forma constante, esto a veces se puede ver com
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -61,7 +61,7 @@ Empresa/Empresa
 * 30 por minuto
 * 500 destinatarios por correo electrónico
 
-Más información [se puede encontrar aquí](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Encontrará más información [aquí](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -69,14 +69,14 @@ Más información [se puede encontrar aquí](https://docs.microsoft.com/en-us/of
 * 2 correos electrónicos por segundo (límite de API)
 * 2000 destinatarios por mensaje (máximo de 500 para destinatarios externos)
 
-Más información [se puede encontrar aquí](https://support.google.com/a/answer/166852?hl=en).
+Encontrará más información [aquí](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server (2010, 2013)**
+**Servidor de Microsoft Exchange (2010, 2013)**
 
 El departamento de TI de la organización establece los límites a medida que la organización aloja el servidor. Póngase en contacto con el administrador de red o del sistema según corresponda para obtener más información.
 
 >[!MORELIKETHIS]
 >
->* [Resumen del canal de entrega](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
+>* [Descripción general del canal de entrega](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Conexión de correo electrónico para usuarios de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Conexión de correo electrónico para usuarios de Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

@@ -19,7 +19,7 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
 >
 >Esta configuración afecta a la etiqueta del formulario, el texto de entrada y el texto del botón de envío.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,19 +27,19 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. En **Configuración de formulario**, Seleccionar **Configuración**.
+1. En **Configuración De Formulario**, Seleccione **Configuración**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Seleccione el **Tamaño de fuente** lo quieres.
+1. Seleccione el **tamaño de fuente** que desee.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    >[!NOTE]
    >

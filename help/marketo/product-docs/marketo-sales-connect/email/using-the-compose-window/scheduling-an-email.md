@@ -19,11 +19,11 @@ Siga estos sencillos pasos para programar un correo electrónico.
 >
 >Para actualizar la zona horaria predeterminada, vaya a la página Configuración.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/one-1.png)
 
-1. Cuando haya terminado de redactar el correo electrónico, haga clic en **Programación** en la parte inferior derecha
+1. Cuando termine de redactar el correo electrónico, haga clic en **Programar** en la parte inferior derecha
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Siga estos sencillos pasos para programar un correo electrónico.
 
    ![](assets/four-1.png)
 
-1. Ahora que la fecha y la hora programadas están seleccionadas, haga clic en **Enviar** para programar el correo electrónico.
+1. Ahora que la fecha y hora programadas están seleccionadas, haga clic en **Enviar** para programar el correo electrónico.
 
    ![](assets/five-1.png)
 

@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -27,14 +27,14 @@ Las campañas por lotes solo tendrán filtros dentro de la sección de la lista 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Haciendo clic en **[!UICONTROL Programación]** Esta pestaña confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
+Al hacer clic en la ficha **[!UICONTROL Programar]**, se confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campañas inteligentes por lotes**
 
 * Se puede programar para recurrencias, como diarias, semanales y mensuales. También puede hacer que se ejecuten solo una vez.
-* Son visibles en la [vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. No se incluirá en la vista nada después de un paso &quot;Espera&quot; dentro de la campaña inteligente.
+* Están visibles en la [vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. No se incluirá en la vista nada después de un paso &quot;Espera&quot; dentro de la campaña inteligente.
 
 <br> 
 
@@ -50,15 +50,15 @@ Si una campaña inteligente utiliza al menos un déclencheur dentro de la secci�
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Haciendo clic en **[!UICONTROL Programación]** Esta pestaña confirma que la campaña inteligente está configurada en &quot;Activada&quot;.
+Al hacer clic en la ficha **[!UICONTROL Programar]**, se confirmará que la campaña inteligente está configurada como &quot;Activada&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Campañas desencadenadoras**
+**Campañas de Déclencheur**
 
 * No se pueden programar para repeticiones. Solo se pueden establecer como activos o inactivos.
 * Puede configurar más de un déclencheur. Sin embargo, si se activa algún déclencheur, las acciones de campaña se ejecutarán.
 
 >[!TIP]
 >
->Utilice el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} para ver paso a paso qué ha sucedido en sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.
+>Use el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} para ver paso a paso qué ha sucedido en sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.

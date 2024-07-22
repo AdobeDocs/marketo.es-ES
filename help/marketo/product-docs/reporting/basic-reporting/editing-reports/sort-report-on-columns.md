@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de las cifras más importantes.
 
-1. Ir a **Analytics** (o **Actividades de marketing**).
+1. Vaya a **Analytics** (o a **Actividades de marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en **Informe** pestaña.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
 
    ![](assets/reports2.jpg)
 
@@ -27,10 +27,10 @@ Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de 
 
    ![](assets/image2014-9-16-10-3a47-3a46.png)
 
-1. Excelente! Ahora puede centrarse en los datos más interesantes del informe.
+1. ¡Excelente! Ahora puede centrarse en los datos más interesantes del informe.
 
    ![](assets/image2014-9-16-10-3a47-3a50.png)
 
    >[!MORELIKETHIS]
    >
-   >[Seleccionar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Seleccionar columnas de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

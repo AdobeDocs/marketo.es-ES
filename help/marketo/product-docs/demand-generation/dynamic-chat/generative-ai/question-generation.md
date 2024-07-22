@@ -20,7 +20,7 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
    ![](assets/question-generation-1.png)
 
-1. Clic **[!UICONTROL Generación de preguntas]**.
+1. Haga clic en **[!UICONTROL Generar preguntas]**.
 
    ![](assets/question-generation-2.png)
 
@@ -30,13 +30,13 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
    >[!IMPORTANT]
    >
-   >Para garantizar que el Marketo Engage pueda crear secuencias de comandos de contenido desde las direcciones URL proporcionadas, primero debe realizar la lista de permitidos de varias direcciones IP. [Consulte a continuación para obtener más información](#ip-addresses-to-allowlist).
+   >Para garantizar que el Marketo Engage pueda crear secuencias de comandos de contenido desde las direcciones URL proporcionadas, primero debe realizar la lista de permitidos de varias direcciones IP. [Vea los detalles a continuación](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
    >Los sitios o las páginas deben ser públicos (es decir, no estar ocultos tras un inicio de sesión) para que se pueda eliminar su información.
 
-1. En función de su contenido, la generación de preguntas y respuestas puede tardar hasta 30 minutos. Clic **[!UICONTROL OK]**.
+1. En función de su contenido, la generación de preguntas y respuestas puede tardar hasta 30 minutos. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
 >[!NOTE]
 >
->Las preguntas y respuestas generadas también se pueden ver en [Biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Las preguntas y respuestas generadas también se pueden ver en la [biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Busque la tarea deseada y haga clic en el icono de descarga junto a su nombre.
 
@@ -60,15 +60,15 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
    ![](assets/question-generation-7.png)
 
-1. En el archivo de Excel, **[!DNL Task details]** muestra solo eso, varios detalles sobre la tarea, incluidas instrucciones sobre cómo agregar o editar preguntas o respuestas.
+1. En el archivo de Excel, **[!DNL Task details]** muestra solo eso, varios detalles sobre la tarea, incluidas instrucciones sobre cómo agregar o editar preguntas y/o respuestas.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Si decide añadir/editar preguntas y/o respuestas de forma masiva, [obtenga información sobre cómo volver a cargarlos aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Si decide agregar o editar preguntas y/o respuestas de forma masiva, [aprenda a volver a cargarlas aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. El **[!DNL Q&Rs]** proporciona detalles adicionales, incluidas las preguntas y respuestas generadas.
+1. La ficha **[!DNL Q&Rs]** proporciona detalles adicionales, incluidas las preguntas y respuestas generadas.
 
    ![](assets/question-generation-9.png)
 

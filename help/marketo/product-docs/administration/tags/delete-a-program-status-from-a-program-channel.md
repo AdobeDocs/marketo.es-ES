@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Los estados de programa son los puntos de comprobación a través de una ruta de programas (canal). Si establece un estado por error o ya no lo necesita, puede eliminarlo.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Clic **[!UICONTROL Etiquetas]**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Seleccione el canal del que desee quitar un estado y, a continuación, en **[!UICONTROL Etiquetar acciones]**, haga clic en **[!UICONTROL Editar]**.
+1. Seleccione el canal del que desea quitar un estado y, en **[!UICONTROL Acciones de etiqueta]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Haga clic en el rojo **X** para eliminar el estado, haga clic en **[!UICONTROL Guardar]**.
+1. Haga clic en el **X** rojo para quitar el estado y, a continuación, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Los estados de programa son los puntos de comprobación a través de una ruta de
    >
    >Si hay alguna persona asignada actualmente al estado en cuestión, no puede eliminarla; sin embargo, puede ocultarla.
 
-¡Bien hecho! También puede [eliminar un canal completo](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si es necesario.
+¡Bien hecho! También puede [eliminar un canal completo](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si lo necesita.

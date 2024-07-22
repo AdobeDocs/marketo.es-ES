@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La tendencia muestra el rendimiento del canal de a lo largo de un periodo de tiempo.
 
-Haga clic en **Tendencia** para acceder a esta vista.
+Haga clic en la ficha **Tendencia** para obtener acceso a esta vista.
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ Haga clic en **Tendencia** para acceder a esta vista.
 
 ![](assets/2-1.png)
 
-Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo analizaremos las oportunidades ganadas a través de [Primer contacto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer contacto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

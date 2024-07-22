@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect le ofrece varias opciones para enviar correos electrónico
 
 ## Recomendado: Gmail o Exchange mediante una conexión de correo electrónico {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect permite una configuración optimizada y una capacidad de envío mejorada mediante nuestro servicio de conexión de correo electrónico. La conexión de correo electrónico permite a cada usuario conectarse a su [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) cuenta de a Sales Connect para que se utilice como canal de entrega preferido para todos los correos electrónicos de Sales Connect.
+Sales Connect permite una configuración optimizada y una capacidad de envío mejorada mediante nuestro servicio de conexión de correo electrónico. La conexión de correo electrónico permite a cada usuario conectarse a su cuenta de [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) con Sales Connect para utilizarse como el canal de entrega elegido para todos los correos electrónicos de Sales Connect.
 
 El uso de Gmail o Exchange tiene algunas ventajas destacables sobre otras opciones de canales de envío:
 
@@ -25,21 +25,21 @@ El uso de Gmail o Exchange tiene algunas ventajas destacables sobre otras opcion
 * Los métodos de autenticación como SPF y DKIM ya están configurados y administrados por su equipo de TI, por lo que no hay ninguna configuración adicional.
 * El envío de correos electrónicos dentro de una red de correo electrónico determinada (por ejemplo, enviar un correo electrónico como usuario de Exchange a una empresa que recibe correos electrónicos a través de Exchange) puede ayudar a aumentar aún más la capacidad de envío.
 
-Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío que aplican Microsoft y Google. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Más información sobre [restricción de correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío, que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Obtenga más información acerca de la limitación de [correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
 >De forma predeterminada, el complemento O365 siempre utilizará su canal de entrega de Exchange y el complemento de Gmail siempre utilizará su canal de entrega de Gmail para enviar correos electrónicos desde los complementos.
 
-**Seguimiento de devoluciones**: MSC puede detectar devoluciones para los usuarios de Exchange Online o Gmail detectando el mensaje de devolución enviado a la bandeja de entrada del remitente. Estas notificaciones de rechazo se resumirán en notificaciones de análisis de plantilla, análisis de campaña y fuentes en directo para los usuarios. El seguimiento de devoluciones no es compatible con los clientes locales de Exchange.
+**Seguimiento de devoluciones**: MSC puede detectar devoluciones para los usuarios de Exchange Online o Gmail al detectar el mensaje de devolución que se envía a la bandeja de entrada del remitente. Estas notificaciones de rechazo se resumirán en notificaciones de análisis de plantilla, análisis de campaña y fuentes en directo para los usuarios. El seguimiento de devoluciones no es compatible con los clientes locales de Exchange.
 
 ## Canal de entrega personalizado a través de SMTP {#custom-delivery-channel-via-smtp}
 
 Sales Connect ofrece la opción adicional de conectar un servidor SMTP de terceros para utilizarlo como el canal de envío preferido de su equipo de ventas.
 
-La utilización de un proveedor SMTP de terceros es una buena opción para los equipos de ventas en los que el volumen de correo electrónico es la prioridad número uno. Los proveedores SMTP como Sendgrid y Sparkpost están optimizados para satisfacer las necesidades de envío masivo de correo electrónico y pueden ampliarse para satisfacer las necesidades de aquellos que buscan implementar grandes volúmenes de correo electrónico.
+La utilización de un proveedor SMTP de terceros es una excelente opción para los equipos de ventas en los que el volumen de correo electrónico es la prioridad número uno. Los proveedores SMTP como Sendgrid y Sparkpost están optimizados para satisfacer las necesidades de envío masivo de correo electrónico y pueden ampliarse para satisfacer las necesidades de aquellos que buscan implementar grandes volúmenes de correo electrónico.
 
-Además, los proveedores SMTP de terceros ofrecen una plétora de funciones para ayudar a satisfacer las necesidades de envío de su equipo (como informes de envío de correo electrónico y direcciones IP dedicadas), lo que lo convierte en una buena opción para aquellos que buscan controles más granulares y visibilidad alrededor de su canal de envío de correo electrónico de ventas.
+Además, los proveedores SMTP de terceros ofrecen una plétora de funciones para ayudar a satisfacer las necesidades de envío de su equipo (como informes de envío de correo electrónico y direcciones IP dedicadas), lo que lo convierte en una excelente opción para aquellos que buscan controles más granulares y visibilidad alrededor de su canal de envío de correo electrónico de ventas.
 
 ## Servidores MSC (heredados) {#msc-servers-legacy}
 

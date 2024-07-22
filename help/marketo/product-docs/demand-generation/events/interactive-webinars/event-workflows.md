@@ -22,19 +22,19 @@ Una vez completado el seminario web, vaya a la pestaña Panel para ver el rendim
 
 ## Sincronización manual {#manual-sync}
 
-Los seminarios web interactivos le permiten obtener los datos de participación del seminario web desde Adobe Connect si no los ha recibido automáticamente en un plazo de dos horas desde su finalización. Aparecerá el botón Sincronizar ahora en la página Información general. Clic **Sincronizar ahora** déclencheur una extracción de Adobe Connect para rellenar los datos en Marketo Engage. Una vez realizada la sincronización, el botón desaparece y la pestaña Tablero se rellena.
+Los seminarios web interactivos le permiten obtener los datos de participación del seminario web desde Adobe Connect si no los ha recibido automáticamente en un plazo de dos horas desde su finalización. Aparecerá el botón Sincronizar ahora en la página Información general. Al hacer clic en **Sincronizar ahora** se déclencheur una extracción de Adobe Connect para rellenar los datos en el Marketo Engage. Una vez realizada la sincronización, el botón desaparece y la pestaña Tablero se rellena.
 
 ## Widgets del panel {#dashboard-widgets}
 
 El panel consta de cuatro widgets.
 
-**Estado del programa de eventos**: Muestra los distintos estados de programa de ese evento y el número de miembros del programa que tienen actualmente ese valor de estado de programa.
+**Estado del programa de eventos**: Muestra los distintos estados de programa de ese evento y el número de miembros del programa que contienen actualmente ese valor de estado de programa.
 
-**Asistencia**: destaca la duración de la asistencia de varios miembros que han asistido al seminario web en comparación con la duración general del seminario web en términos de porcentaje.
+**Asistencia**: resalta la duración de asistencia de varios miembros que han asistido al seminario web en comparación con la duración general del seminario web en términos de porcentaje.
 
-**Rendimiento de encuesta**: Muestra varias encuestas iniciadas durante el seminario web con tecnología de Adobe Connect y la distribución de los miembros que han asistido y respondido a la encuesta en cada una de las respuestas.
+**Rendimiento de la encuesta**: Muestra varias encuestas iniciadas durante el seminario web con tecnología de Adobe Connect y la distribución de los miembros que han asistido y respondido a la encuesta en todas las respuestas.
 
-**Actividad de descarga de clics y archivos**: Proporciona el recuento de descargas de archivos y vínculos web en los que se hizo clic durante el seminario web con tecnología de Adobe Connect por parte de varios miembros que han asistido al seminario web y han realizado esa acción específica.
+**Actividad de descarga de clics y archivos**: Proporciona el recuento de descargas de archivos y vínculos web en los que se hizo clic durante el seminario web con tecnología Adobe Connect por parte de varios miembros que han asistido al seminario web y han realizado esa acción específica.
 
 ## Grabación de seminario web {#webinar-recording}
 
@@ -44,7 +44,7 @@ Vaya a la pestaña Información general para ver el seminario web grabado, obten
 
 >[!NOTE]
 >
->* Los seminarios web interactivos no se registran automáticamente. Una vez que comience el seminario web, haga clic en la lista desplegable junto al nombre del seminario web y seleccione **Grabar sesión**.
+>* Los seminarios web interactivos no se registran automáticamente. Cuando comience el seminario web, haga clic en el menú desplegable situado junto al nombre del seminario web y seleccione **Grabar sesión**.
 >* Si se graba la sesión, el host debe finalizar manualmente la grabación o seleccionar &quot;Finalizar sesión para todos&quot; para detener la grabación. De lo contrario, la grabación se detendrá automáticamente en un plazo de 10 minutos desde que el último asistente abandone la sala.
 >* La grabación se descarga en formato MP4.
 >* Al compartir la grabación, cualquier persona que tenga el vínculo lo podrá ver, por lo que asegúrese de que se comparta con la audiencia a la que va dirigida.
@@ -57,22 +57,22 @@ Utilice déclencheur y filtros interactivos relacionados con seminarios web para
 
 Cada déclencheur viene con restricciones adicionales, lo que le permite capturar un subconjunto centrado de ese grupo.
 
-**Hace preguntas durante el evento** (Versión de filtro: ha hecho preguntas durante el evento)
+**Hace preguntas durante el evento** (Versión del filtro: ha hecho preguntas durante el evento)
 
 ![](assets/event-workflows-4.png)
 
-**Asiste al evento** (Versión de filtro: ha asistido al evento)
+**Asiste al evento** (versión del filtro: ha asistido al evento)
 
 ![](assets/event-workflows-5.png)
 
-**Clics en un vínculo** (Versión de filtro: se ha hecho clic en un vínculo)
+**Clics en un vínculo** (Versión de filtro: Se hizo clic en un vínculo)
 
 ![](assets/event-workflows-6.png)
 
-**Descarga un recurso** (Versión de filtro: se ha descargado un recurso)
+**Descarga un recurso** (versión de filtro: ha descargado un recurso)
 
 ![](assets/event-workflows-7.png)
 
-**Responde a una encuesta** (Versión de filtro: Respondido a una encuesta)
+**Responde a una encuesta** (Versión de filtro: Respondió a una encuesta)
 
 ![](assets/event-workflows-8.png)

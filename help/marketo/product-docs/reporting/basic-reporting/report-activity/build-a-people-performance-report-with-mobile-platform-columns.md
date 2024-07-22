@@ -6,7 +6,7 @@ exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Crear listas inteligentes móviles {#create-mobile-smart-lists}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -29,7 +29,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/three-1.png)
 
-1. Clic **Lista inteligente**.
+1. Haga clic en **Lista inteligente**.
 
    ![](assets/four-1.png)
 
@@ -41,7 +41,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/six-1.png)
 
-1. Definir correo electrónico como **es cualquier**.
+1. Establecer correo electrónico en **es cualquiera**.
 
    ![](assets/seven.png)
 
@@ -53,7 +53,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
    >
    >En este ejemplo se ha utilizado el filtro Correo electrónico abierto. También puede utilizar el filtro Correo electrónico en el que se hizo clic, ya que tiene la restricción Plataforma.
 
-1. Establecer Platform en **iOS**.
+1. Establezca Platform en **iOS**.
 
    ![](assets/nine.png)
 
@@ -61,11 +61,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
    >
    >Al menos una persona debe haber abierto uno de sus correos electrónicos en un dispositivo iOS para que la sugerencia automática de Marketo lo encuentre. Si no aparece, puede escribirlo manualmente y guardarlo.
 
-   Ahora cree una segunda lista inteligente para la plataforma &quot;Android&quot;. Una vez hecho esto, pase a la siguiente sección.
+   Ahora cree una segunda lista inteligente para la plataforma Android. Una vez hecho esto, pase a la siguiente sección.
 
 ## Creación de un informe de rendimiento de personas {#create-a-people-performance-report}
 
-1. En Actividades de marketing, seleccione el programa que aloja su **iOS** y **Android** listas inteligentes.
+1. En Actividades de marketing, seleccione el programa que hospeda sus listas inteligentes **iOS** y **Android**.
 
    ![](assets/ten.png)
 
@@ -73,11 +73,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/eleven.png)
 
-1. Clic **Informe**.
+1. Haga clic en **Informe**.
 
    ![](assets/twelve.png)
 
-1. Establecer tipo en **Rendimiento de personas**.
+1. Establezca el tipo en **Rendimiento de personas**.
 
    ![](assets/thirteen.png)
 
@@ -85,11 +85,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/fourteen.png)
 
-   ¡Lo estás haciendo bueno! Ahora, a la siguiente sección.
+   ¡Lo estás haciendo genial! Ahora, a la siguiente sección.
 
 ## Agregar listas inteligentes móviles como columnas {#add-mobile-smart-lists-as-columns}
 
-1. En el informe recién creado, haga clic en **Configurar** y luego arrastre **Columnas personalizadas** en el lienzo.
+1. En el informe que acaba de crear, haga clic en **Configuración** y, a continuación, arrastre **Columnas personalizadas** al lienzo.
 
    ![](assets/fifteen.png)
 
@@ -101,7 +101,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/sixteen.png)
 
-1. Clic **Informe** para ejecutar el informe y ver los datos.
+1. Haga clic en **Informe** para ejecutar el informe y ver los datos.
 
    ![](assets/seventeen.png)
 

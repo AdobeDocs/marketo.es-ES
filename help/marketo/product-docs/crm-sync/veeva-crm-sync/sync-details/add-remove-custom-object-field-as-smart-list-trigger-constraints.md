@@ -16,9 +16,9 @@ El Marketo Engage proporciona un control específico sobre la sincronización de
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Clic **[!UICONTROL Administrador]**, entonces **[!UICONTROL Sincronización de objetos Veeva]**.
+1. Haz clic en **[!UICONTROL Administrador]** y luego en **[!UICONTROL Sincronizar objetos de Veeva]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,7 +26,7 @@ El Marketo Engage proporciona un control específico sobre la sincronización de
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. Clic **[!UICONTROL Editar campos visibles]**.
+1. Haga clic en **[!UICONTROL Editar campos visibles]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
@@ -38,7 +38,7 @@ El Marketo Engage proporciona un control específico sobre la sincronización de
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Marque las casillas junto a las restricciones de filtro/déclencheur que desee y haga clic en **[!UICONTROL Guardar]**.
+1. Marque las casillas que están junto a las restricciones de filtro/déclencheur que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ El Marketo Engage proporciona un control específico sobre la sincronización de
    >
    >Todos los campos están seleccionados de forma predeterminada para que sean restricciones en los filtros.
 
-1. Haga clic en **[!UICONTROL Campos]** para confirmar los cambios.
+1. Haga clic en la ficha **[!UICONTROL Campos]** para confirmar los cambios.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 
@@ -58,4 +58,4 @@ Ahora sus listas inteligentes y campañas inteligentes tienen aún más poder.
 
 >[!MORELIKETHIS]
 >
->[Habilitar/Deshabilitar sincronización de objetos personalizada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}
+>[Habilitar/Deshabilitar sincronización de objetos personalizados](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}

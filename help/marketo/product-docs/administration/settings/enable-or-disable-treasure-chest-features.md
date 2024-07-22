@@ -17,21 +17,21 @@ El cofre del tesoro contiene divertidas características experimentales que no s
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Clic **[!UICONTROL Cofre del tesoro]**.
+1. Haz clic en **[!UICONTROL Cofre del tesoro]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Clic **[!UICONTROL Editar]** para la función que desea activar o desactivar.
+1. Haga clic en **[!UICONTROL Editar]** para la característica que desee habilitar o deshabilitar.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Compruebe la **[!UICONTROL Habilitado]** marque la casilla para activar o desmarque para desactivar y haga clic en **[!UICONTROL Guardar]**.
+1. Marque la casilla **[!UICONTROL Habilitado]** para habilitar o desmárquela para deshabilitar y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

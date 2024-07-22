@@ -4,7 +4,7 @@ title: Plantillas de correo electrónico de ventas transaccionales
 feature: Marketo Sales Connect
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ Si su equipo envía correos electrónicos transaccionales o no comerciales, pued
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
-* Los correos electrónicos no comerciales evitarán las cancelaciones de suscripción de ventas y [Comprobación de cancelación de suscripción del Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
+* Los correos electrónicos no comerciales evitarán las cancelaciones de suscripción de ventas y la [comprobación de cancelación de suscripción del Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, pero no evitarán los [dominios bloqueados](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* Los mensajes de cancelación de suscripción no se adjuntarán automáticamente a los correos electrónicos no comerciales, aunque la variable [anexar configuración de administración de mensaje de cancelación de suscripción](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} seguirá rellenando el mensaje de cancelación de suscripción de su equipo.
+* Los mensajes de cancelación de suscripción no se adjuntarán automáticamente a los mensajes de correo electrónico no comerciales, aunque la configuración [anexar/cancelar la suscripción del administrador de mensajes](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} esté habilitada. Sin embargo, el `{{team_unsubscribe}}` [campo dinámico](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} seguirá rellenando el mensaje de cancelación de suscripción del equipo.
 
 ## Configuración de una plantilla de correo electrónico para uso no comercial {#configure-an-email-template-for-non-commercial-use}
 
@@ -39,7 +39,7 @@ Si su equipo envía correos electrónicos transaccionales o no comerciales, pued
 >
 >Cuando se selecciona una persona sin suscribir, aparece resaltada en naranja.
 
-1. En el encabezado, haga clic en **Escribir**. Busque y seleccione la plantilla no comercial que desee.
+1. En el encabezado, haga clic en **Componer**. Busque y seleccione la plantilla no comercial que desee.
 
    ![](assets/transactional-sales-email-templates-4.png)
 
@@ -47,7 +47,7 @@ Si su equipo envía correos electrónicos transaccionales o no comerciales, pued
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. Clic **Enviar**.
+1. Haga clic en **Enviar**.
 
    ![](assets/transactional-sales-email-templates-6.png)
 

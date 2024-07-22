@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Algunas palabras clave van muy bien con ciertas páginas. Así es como se hace coincidir la palabra clave perfecta con su página perfecta. Esto proporcionará los datos más precisos y las mejores recomendaciones para la mejora.
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 
@@ -23,7 +23,7 @@ Algunas palabras clave van muy bien con ciertas páginas. Así es como se hace c
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Seleccione la palabra clave para la que intenta optimizar la página. Clic **[!UICONTROL Actualizar]**.
+1. Seleccione la palabra clave para la que intenta optimizar la página. Haga clic en **[!UICONTROL Actualizar]**.
 
    >[!TIP]
    >

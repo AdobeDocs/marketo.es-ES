@@ -19,7 +19,7 @@ A veces ya no desea que los visitantes del sitio envíen formularios mediante un
 >
 >No todos los clientes han adquirido esta funcionalidad.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -35,11 +35,11 @@ A veces ya no desea que los visitantes del sitio envíen formularios mediante un
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

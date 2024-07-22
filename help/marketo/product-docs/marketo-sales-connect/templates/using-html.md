@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 1. Copie el código fuente de los correos electrónicos en la herramienta que utiliza para crear correos electrónicos en HTML (por ejemplo, el Editor de correo electrónico de Marketo).
 
-1. Haga clic en **Origen** en el editor de plantillas.
+1. Haga clic en el botón **Source** del editor de plantillas.
 
 1. Pegue el código fuente allí.
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
 >[!NOTE]
 >
->Si ve el error &quot;Error - para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no admitimos. Debe buscar la palabra estilo en el código fuente y eliminar todo de `<style>` mediante `</style>`.
+>Si ve el error &quot;Error - para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no admitimos. Debe buscar la palabra estilo en el código Source y eliminar todo desde `<style>` hasta `</style>`.

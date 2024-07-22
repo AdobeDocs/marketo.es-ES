@@ -2,11 +2,11 @@
 description: 'Enrutamiento: documentos de Marketo: documentación del producto'
 title: Enrutando
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Regla personalizada: puede elegir agentes específicos para recibir reuniones en
 
 >[!NOTE]
 >
->El enrutamiento de cuentas recibe la prioridad más alta. Cuando un visitante llega al punto de la conversación para reservar una reunión o iniciar una conversación en directo, [Enrutamiento de cuenta](#account-routing) primero se comprueba antes de considerar otras opciones de enrutamiento.
+>El enrutamiento de cuentas recibe la prioridad más alta. Cuando un visitante llega al punto de la conversación para reservar una reunión o iniciar una conversación en vivo, [Enrutamiento de cuentas](#account-routing) se comprueba primero antes de considerar otras opciones de enrutamiento.
 
 ## Crear una regla personalizada {#create-a-custom-rule}
 
@@ -30,11 +30,11 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 
    ![](assets/routing-1.png)
 
-1. Haga clic en **Reglas personalizadas** pestaña.
+1. Haga clic en la ficha **Reglas personalizadas**.
 
    ![](assets/routing-2.png)
 
-1. Clic **Crear regla**.
+1. Haga clic en **Crear regla**.
 
    ![](assets/routing-3.png)
 
@@ -54,7 +54,7 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 
    ![](assets/routing-7.png)
 
-1. Cuando haya seleccionado todos los valores deseados, haga clic en **Guardar**.
+1. Cuando se hayan seleccionado todos los valores deseados, haga clic en **Guardar**.
 
    ![](assets/routing-8.png)
 
@@ -74,7 +74,7 @@ En este ejemplo, enrutaremos a todos los empleados desde Lego directamente al ag
 
    >[!TIP]
    >
-   >Puede crear varias cuentas a la vez haciendo clic en **Cargar lista de cuentas** y cargando un CSV.
+   >Puede crear varias cuentas a la vez haciendo clic en **Cargar lista de cuentas** y cargando un archivo CSV.
 
 1. Introduzca el nombre de la empresa, el dominio y seleccione el agente deseado.
 

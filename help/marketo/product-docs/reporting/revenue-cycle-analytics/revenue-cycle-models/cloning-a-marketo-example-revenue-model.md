@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo tiene modelos de ingresos de ejemplo que le ayudarán a inspirarse. Clona estos modeladores y haz que sean tuyos. A continuación se muestra cómo:
 
-1. Vaya a la **Analytics** área.
+1. Vaya al área de **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Seleccionar **Modelador del ciclo de ingresos** y haga clic en **Ejemplos de Marketo**.
+1. Seleccione la carpeta **Revenue Cycle Modeler** y haga clic en **Ejemplos de Marketo**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -31,7 +31,7 @@ Marketo tiene modelos de ingresos de ejemplo que le ayudarán a inspirarse. Clon
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Introduzca una **Nombre** y haga clic en **Clonar**.
+1. Escriba un **Nombre** y haga clic en **Clonar**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

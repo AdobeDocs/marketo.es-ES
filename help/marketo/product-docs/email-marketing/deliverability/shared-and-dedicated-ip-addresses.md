@@ -6,7 +6,7 @@ exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -31,31 +31,31 @@ Como de costumbre, hay pros y contras para ambas opciones.
 
 **Ventajas y desventajas de una IP dedicada**
 
-_Pros_
+_Profesionales_
 
-**Reputación** - Usted es el propietario de su reputación y capacidad de entrega.\
-**Monitorización** : La monitorización de los informes de capacidad de entrega permite responder rápidamente a los cambios en las métricas de entrega.\
-**Resolución de problemas** - Es más fácil investigar, entender y resolver los problemas de entrega.
+**Reputación**: es el propietario total de su reputación y capacidad de envío.\
+**Supervisión**: la supervisión de los informes de capacidad de entrega le permite responder rápidamente a los cambios en las métricas de entrega.\
+**Resolución de problemas**: es más fácil investigar, comprender y resolver los problemas de entrega.
 
-_Contras_
+_Inconvenientes_
 
-**Cambios de volumen** - Los picos de volumen pueden afectar negativamente a su reputación y deben ser administrados.\
-**Proceso de calentamiento de IP** - La reputación se construye con el tiempo. Algunos proveedores de servicios de Internet (ISP) limitan las direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación durante las primeras semanas (Marketo puede ayudarle a guiarle).\
-**Coste** - Normalmente hay un cargo adicional para enviar desde una IP dedicada con cualquier proveedor.
+**Cambios de volumen**: los picos de volumen pueden afectar negativamente a su reputación y es necesario administrarlos.\
+**Proceso de calentamiento de IP**: la reputación se crea con el tiempo. Algunos proveedores de servicios de Internet (ISP) limitan las direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación durante las primeras semanas (Marketo puede ayudarle a guiarle).\
+**Costo**: normalmente hay un cargo adicional para enviar desde una IP dedicada con cualquier proveedor.
 
 **Ventajas e inconvenientes de una IP compartida**
 
-_Pros_
+_Profesionales_
 
-**Buenos compañeros de cuarto** : Si las personas con las que comparte su IP siguen las prácticas de envío recomendadas, se beneficiará de.\
-**Frecuencia de envío** : No hay una frecuencia de correo mínima necesaria para cumplir los requisitos para una IP compartida, a diferencia de las IP dedicadas.\
-**Coste** : Nunca se aplica un cargo adicional para enviar desde una IP compartida.
+**Buenos compañeros de habitación**: si los usuarios con los que comparte su IP siguen las prácticas recomendadas de envío, se beneficiará.\
+**Frecuencia de envío**: no se necesita una frecuencia de envío mínima para calificar para una IP compartida, a diferencia de las IP dedicadas.\
+**Costo**: nunca hay un cargo adicional para enviar desde una IP compartida.
 
-_Contras_
+_Inconvenientes_
 
-**Malos compañeros de cuarto** : Si las personas con las que comparte su IP se involucran en prácticas de envío deficientes, sus campañas de correo electrónico podrían verse afectadas negativamente.\
-**Control** - Usted tiene mucho menos control sobre su reputación de remitente.\
-**Resolución de problemas** : A menudo puede resultar más difícil resolver un problema al enviar desde direcciones IP compartidas.
+**Compañeros de cuarto malos**: si los compañeros con los que comparte su IP se involucran en prácticas de envío deficientes, sus campañas de correo electrónico podrían verse afectadas negativamente.\
+**Control**: tienes mucho menos control sobre la reputación de tu remitente.\
+**Resolución de problemas**: a menudo puede ser más difícil resolver un problema al enviarlo desde direcciones IP compartidas.
 
 >[!NOTE]
 >

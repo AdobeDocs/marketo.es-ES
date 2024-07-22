@@ -18,13 +18,13 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Clic **Plantillas**.
+1. Haga clic en **Plantillas**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Haga clic en **Ver como** y seleccione el usuario que desee.
+1. Haga clic en el menú desplegable **Ver como** y seleccione el usuario que desee.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
    >[!NOTE]
    >
-   >También puede utilizar filtros o la función de búsqueda junto con _Ver como_ para ver qué es lo más relevante para usted.
+   >También puede usar filtros o la función de búsqueda junto con _Ver como_ para ver qué es lo más relevante para usted.

@@ -29,15 +29,15 @@ Haga clic en los vínculos del título para ver los artículos detallados de cad
 
 Impulse más canalizaciones e ingresos al potenciar las ventas con la inteligencia, el contenido, los libros de reproducción y los análisis para convertir más de sus posibles clientes en oportunidades de ventas. Sales Engage proporciona a ventas y marketing una plataforma unificada para la participación en todo el recorrido del cliente y permite una mejor coordinación a través de una vista compartida de los puntos de contacto del cliente.
 
-**ToutApp**
+**AplicaciónSalida**
 
-* **Tarjeta de cumplimiento**: garantice el cumplimiento del RGPD recopilando la fuente de contactos de ventas y los detalles del consentimiento del cliente para recibir comunicaciones.
-* **Actualización de directiva de contraseñas**: mantenga sus datos más seguros con requisitos más estrictos para la creación, restablecimiento y caducidad de contraseñas (cumple con los requisitos de cumplimiento de Soc II - Tipo 1).
-* **Experiencia optimizada de configuración de cuentas**: configure su cuenta y conéctela a Gmail, Outlook y otros sistemas más rápido.
+* **Tarjeta de cumplimiento**: Asegure el cumplimiento del RGPD al capturar el origen de los contactos de ventas y los detalles del consentimiento del cliente para recibir comunicaciones.
+* **Actualización de la directiva de contraseñas**: Mantenga sus datos seguros con requisitos más estrictos para la creación, restablecimiento y caducidad de contraseñas (cumple los requisitos de cumplimiento de Soc II - Tipo 1).
+* **Experiencia de configuración de cuenta optimizada**: configure su cuenta y conéctese a Gmail, Outlook y otros sistemas más rápido.
 
-## Marketo Sky Open Beta {#marketo-sky-open-beta}
+## Marketo Sky Abrir Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/)
+[Marketo Sky Abrir Beta](https://help.marketo.com/)
 
 Adquiera la versión beta abierta de Marketo Sky para obtener acceso a más de 100 nuevas funciones que mejoran la productividad, entre las que se incluyen:
 
@@ -49,7 +49,7 @@ Adquiera la versión beta abierta de Marketo Sky para obtener acceso a más de 1
 
 [Desempeño Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Comparación de períodos año tras año**
+**Comparación de período año tras año**
 
 Obtenga perspectivas más relevantes comparando los resultados con el mismo periodo del año anterior.
 

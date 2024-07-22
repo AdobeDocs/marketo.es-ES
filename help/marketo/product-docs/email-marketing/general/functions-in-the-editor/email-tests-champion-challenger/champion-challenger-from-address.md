@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Dirección desde** en el **Tipo de prueba** menú desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Dirección de origen** en la lista desplegable **Tipo de prueba**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La primera dirección remitente se designa como **Campeona**. Se llama a las direcciones remitente subsiguientes **Desafíos**.
+   >La primera dirección remitente se designa como **Campeón**. Las direcciones de origen subsiguientes se denominan **Challenger**.
 
-1. Introduzca el **Nombre desde** (izquierda) y **Dirección desde** (derecha) para los aspirantes.
+1. Escriba **Nombre desde** (izquierda) y **Dirección desde** (derecha) para los aspirantes.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Clic **Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

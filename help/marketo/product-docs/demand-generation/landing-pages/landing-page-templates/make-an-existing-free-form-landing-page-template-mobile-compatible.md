@@ -17,27 +17,27 @@ Esto se puede hacer en dos lugares, el Editor de plantillas y el Editor de pági
 
 ## Actualización desde el Editor de plantillas {#upgrade-from-the-template-editor}
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Seleccionar **Plantillas**.
+1. Seleccione **Plantillas**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Seleccione una plantilla donde **Compatible con Mobile** es **No**.
+1. Seleccione una plantilla donde **Compatible con dispositivos móviles** sea **No**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Clic **Editar borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Clic **Hacer compatible con Mobile**.
+1. Haga clic en **Hacer compatible el móvil**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Clic **Actualizar**.
+1. Haga clic en **Actualizar**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -51,7 +51,7 @@ Esto se puede hacer en dos lugares, el Editor de plantillas y el Editor de pági
 
 ## ¿Qué hace compatible una plantilla con dispositivos móviles? {#what-makes-a-template-mobile-compatible}
 
-¡buenas preguntas! La plantilla debe tener las etiquetas siguientes:
+¡Grandes preguntas! La plantilla debe tener las etiquetas siguientes:
 
 `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
 
@@ -69,11 +69,11 @@ Si realiza cambios en la plantilla, haga clic en Acciones de plantilla y selecci
 
 Cuando está editando una página de aterrizaje y hace clic en la pestaña móvil, a veces observa que la plantilla no se ha actualizado. ¡No temas! Puede actualizarlo justo allí.
 
-1. Haga clic en **Móvil** pestaña.
+1. Haga clic en la ficha **Móvil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Haga clic en la casilla de verificación y en **Activar**.
+1. Haga clic en la casilla y luego en **Activar**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ Cuando está editando una página de aterrizaje y hace clic en la pestaña móvi
    >
    >Al activar la versión móvil de una plantilla, se crearán borradores de todas las páginas de aterrizaje que la utilicen.
 
-¡Increíble! Ahora puede [personalización de la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas las páginas de aterrizaje que utilizan esta plantilla.
+¡Fantástico! Ahora puedes [personalizar la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas tus páginas de aterrizaje que usen esta plantilla.

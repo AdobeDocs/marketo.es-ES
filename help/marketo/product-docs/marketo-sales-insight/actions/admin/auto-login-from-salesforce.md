@@ -16,7 +16,7 @@ El inicio de sesión automático permite a los usuarios de Acciones de perspecti
 
 Para utilizar el inicio de sesión automático:
 
-* [Configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) debe configurarse como &quot;Solo Salesforce&quot;
+* [La configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) debe establecerse en &quot;Solo Salesforce&quot;
 
 * Se debe haber invitado al usuario a utilizar las acciones de información de ventas
 

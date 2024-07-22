@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ejecute un informe para analizar las personas, los programas, las páginas de aterrizaje, los correos electrónicos y los activos sociales.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,23 +25,23 @@ Ejecute un informe para analizar las personas, los programas, las páginas de at
 
    >[!NOTE]
    >
-   >También puede crear informes desde el **Analytics** pestaña.
+   >También puede crear informes desde la ficha **Analytics**.
 
 1. Haga clic con el botón derecho en el programa y seleccione **Nuevo recurso local**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Clic **Informe**.
+1. Haga clic en **Informe**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Selección del informe **Tipo**.
+1. Seleccione el informe **Type**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >Consulte [Resumen del tipo de informe](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obtener una breve descripción de cada uno.
+   >Consulte [Información general del tipo de informe](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para ver una breve descripción de cada uno.
 
 1. Asigne un nombre al informe.
 
@@ -51,9 +51,9 @@ Ejecute un informe para analizar las personas, los programas, las páginas de at
    >
    >Para facilitar en gran medida la navegación por los informes más adelante, incluya en el nombre una referencia al tipo de informe.
 
-1. Establezca el lapso de tiempo del informe. Consulte [Cambiar un intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más información.
+1. Establezca el lapso de tiempo del informe. Consulte [Cambiar el lapso de tiempo de un informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más información.
 
-1. Haga clic en **Informe** para ver las estadísticas.
+1. Haga clic en la ficha **Informe** para ver las estadísticas.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -63,8 +63,8 @@ Ejecute un informe para analizar las personas, los programas, las páginas de at
 
    >[!NOTE]
    >
-   >Puede terminar rápidamente con muchos informes. Recuerde lo siguiente [eliminación de un informe](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) ya no lo necesita.
+   >Puede terminar rápidamente con muchos informes. Recuerde [eliminar un informe](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) que ya no necesite.
 
    >[!MORELIKETHIS]
    >
-   >Puede [cambio de un intervalo de tiempo de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscripción a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportación de un informe a Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), y más.
+   >Puede [cambiar el lapso de tiempo de un informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscribirse a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar un informe a Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) y más.

@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Utilice texto enriquecido en un formulario para agregar instrucciones u otra información entre los campos. Eche un vistazo.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,11 +23,11 @@ Utilice texto enriquecido en un formulario para agregar instrucciones u otra inf
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Haga clic en **+** signo.
+1. Haga clic en el signo **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Seleccionar **Texto enriquecido**.
+1. Seleccionar **texto enriquecido**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Utilice texto enriquecido en un formulario para agregar instrucciones u otra inf
    >
    >Si necesita un separador de líneas en el formulario, utilice el botón Línea horizontal.
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ Utilice texto enriquecido en un formulario para agregar instrucciones u otra inf
 
 >[!TIP]
 >
->¿Sabías que también puedes [añadir reglas de visibilidad](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un bloque de texto enriquecido?
+>¿Sabía que también puede [agregar reglas de visibilidad](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un bloque de texto enriquecido?

@@ -27,16 +27,16 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para su pre
 
 >[!TIP]
 >
->Asegúrese de lo siguiente _Previsualizar una presentación_ antes de iniciar.
+>Asegúrese de _Previsualizar una presentación_ antes de iniciar.
 
-1. Clic **[!UICONTROL Launch]**.
+1. Haga clic en **[!UICONTROL Iniciar]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Clic **[!UICONTROL Launch]** una vez más. Esto cerrará la sesión de Marketo para que la presentación se pueda mostrar de forma segura.
+1. Haga clic en **[!UICONTROL Iniciar]** una vez más. Esto cerrará la sesión de Marketo para que la presentación se pueda mostrar de forma segura.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la pestaña a un monitor externo para mostrarla y haga clic en **[!UICONTROL Pantalla completa]**.
+   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la ficha a un monitor externo para que la muestre y haga clic en **[!UICONTROL Pantalla completa]**.

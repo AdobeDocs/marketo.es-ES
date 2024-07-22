@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Agregar contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Se debe aprobar un fragmento antes de utilizarlo.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Haga clic en su **Fragmento**. En **Acciones de fragmento**, haga clic en **Aprobar**.
+1. Haz clic en tu **fragmento**. En **Acciones de fragmento**, haga clic en **Aprobar**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puede desactivar un programa de participación con solo pulsar un botón. Esto evitará que se envíe cualquier contenido. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa de participación y haga clic en **Configurar**.
+1. Seleccione el programa de participación y haga clic en **Configuración**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ Puede desactivar un programa de participación con solo pulsar un botón. Esto e
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Doble clic **Estado del programa**.
+1. Haga doble clic en **Estado del programa**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Seleccionar **Desactivado** y haga clic en **Guardar**.
+1. Seleccione **Desactivado** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

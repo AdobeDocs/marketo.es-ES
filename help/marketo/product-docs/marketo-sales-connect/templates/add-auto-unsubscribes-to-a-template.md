@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir cancelaciones de suscripción automáticas a una plantilla {#add-auto-unsubscribes-to-a-template}
 
-1. Seleccione la plantilla y haga clic en **Editar** en la sección Cancelar la suscripción.
+1. Seleccione su plantilla y haga clic en **Editar** en la sección Cancelar suscripción.
 
 1. Seleccione si desea anexar la cancelación de suscripción automática, la cancelación de la suscripción del bloque automático o ambas opciones.
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->También puede ajustar la forma en que aparecen estos mensajes de cancelación de suscripción desde el **Zona horaria y cancelaciones de suscripciones** pestaña en **Configuración**.
+>También puede ajustar la forma en que aparecen estos mensajes de cancelación de suscripción en la ficha **Zona horaria y cancelaciones de suscripción** en **Configuración**.

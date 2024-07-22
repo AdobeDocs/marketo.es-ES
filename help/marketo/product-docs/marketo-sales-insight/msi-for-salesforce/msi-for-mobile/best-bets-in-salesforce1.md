@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Los mejores lugares para comer en Salesforce1 {#best-bets-in-salesforce}
 
-Su [Recomendaciones](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) son sus posibles clientes y contactos con la mayor urgencia y puntuación relativa. Solo los posibles clientes que posea serán visibles en esa lista y esta se actualizará a medida que cambien las puntuaciones de los posibles clientes.
+Tus [mejores resultados](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) son tus posibles clientes y contactos con la mayor urgencia y puntuación relativa. Solo los posibles clientes que posea serán visibles en esa lista y esta se actualizará a medida que cambien las puntuaciones de los posibles clientes.
 
 1. Vaya al área de Marketo en la aplicación de Salesforce.
 
@@ -24,4 +24,4 @@ Su [Recomendaciones](/help/marketo/product-docs/marketo-sales-insight/msi-for-sa
 >[!MORELIKETHIS]
 >
 >* [Momentos interesantes en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Enviar correo electrónico de Marketo y acciones de campañas y listas de observación en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

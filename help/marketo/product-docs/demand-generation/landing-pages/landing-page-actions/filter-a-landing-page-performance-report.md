@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrado de un informe de rendimiento de página de aterrizaje {#filter-a-landing-page-performance-report}
 
-Enfoque su [informe de rendimiento de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en páginas de aterrizaje de sus programas (recursos locales), en Design Studio (recursos globales) o en los que se han archivado.
+Concentre su [informe de rendimiento de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en páginas de aterrizaje de sus programas (recursos locales), en las de Design Studio (recursos globales) o en las que se han archivado.
 
-1. Ir a **Analytics** (o **Actividades de marketing**).
+1. Vaya a **Analytics** (o a **Actividades de marketing**).
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ Enfoque su [informe de rendimiento de página de aterrizaje](/help/marketo/produ
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Haga clic en **Configurar** y arrastre un filtro.
+1. Haga clic en la ficha **Configuración** y arrastre un filtro.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Páginas de aterrizaje de Design Studio:** Recursos globales, administrados en Design Studio.
-   * **Páginas de aterrizaje de actividades de marketing:** Recursos locales en los programas de la pestaña Actividades de marketing.
-   * **Páginas de aterrizaje archivadas:** Páginas de aterrizaje inactivas y retiradas.
+   * **Páginas de destino de Design Studio:** Recursos globales, administrados en Design Studio.
+   * **Páginas de aterrizaje de actividades de marketing:** Recursos locales en los programas de la ficha Actividades de marketing.
+   * **Páginas de aterrizaje archivadas:** Páginas de aterrizaje retiradas e inactivas.
 
 1. Elija las carpetas y las páginas de aterrizaje específicas que desea incluir en el informe.
 
@@ -39,6 +39,6 @@ Enfoque su [informe de rendimiento de página de aterrizaje](/help/marketo/produ
    >
    >Si selecciona una carpeta, el informe incluirá todo lo que la carpeta contenga en el momento en que se ejecute el informe.
 
-1. ¡Ya terminaste! Haga clic en **Informe** para ver el informe filtrado.
+1. ¡Ya terminaste! Haga clic en la ficha **Informe** para ver el informe filtrado.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

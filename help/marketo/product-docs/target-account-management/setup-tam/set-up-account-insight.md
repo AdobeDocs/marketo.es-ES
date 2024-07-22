@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ A continuación se indica cómo configurar Account Insight.
 
 >[!PREREQUISITES]
 >
->Puntuación de cuenta TAM [se debe configurar](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) primero.
+>La puntuación de la cuenta TAM [debe configurarse](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) primero.
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin-1.png)
 
-1. Clic **Administración de cuentas de Target** en el árbol, luego el **Ventas** pestaña.
+1. Haga clic en **Administración de cuentas de Target** en el árbol y, a continuación, en la ficha **Ventas**.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Clic **Editar**.
+1. Haga clic en **Editar**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ A continuación se indica cómo configurar Account Insight.
 
    >[!NOTE]
    >
-   >Si la variable [Configuración de puntuación de cuenta](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) Cuando se actualizan en cualquier momento, un administrador debe actualizar la configuración de Ventas para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
+   >Si la [configuración de puntuación de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) se actualiza en cualquier momento, el administrador debe actualizar la configuración en Ventas para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/five-4.png)

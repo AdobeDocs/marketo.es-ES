@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ## Creación de contactos {#creating-contacts}
 
-1. En la página Personas, haga clic en **Acciones** y seleccione **Crear contacto**.
+1. En la página Personas, haga clic en el botón **Acciones** y seleccione **Crear contacto**.
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. Introduzca el nombre/apellido y la dirección de correo electrónico, junto con cualquier otra información que desee. Clic **Crear** cuando haya terminado, o **Crear y agregar nuevo** para agregar más contactos.
+1. Introduzca el nombre/apellido y la dirección de correo electrónico, junto con cualquier otra información que desee. Haz clic en **Crear** cuando termines, o en **Crear y agregar nuevo** para agregar más contactos.
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
    >[!TIP]
    >
-   >¿Quieres añadir varios contactos a la vez? [Haga clic aquí](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) para obtener información sobre cómo importar contactos mediante CSV.
+   >¿Quieres añadir varios contactos a la vez? [Haga clic aquí](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) para obtener información sobre cómo importar contactos a través de CSV.
 
 ## Eliminando contactos {#deleting-contacts}
 
@@ -36,6 +36,6 @@ ht-degree: 0%
    >
    >Para eliminar varios contactos, simplemente seleccione varias personas. Los pasos restantes serían los mismos.
 
-1. Clic **Eliminar contacto** para confirmar.
+1. Haga clic en **Eliminar contacto** para confirmar.
 
    ![](assets/creating-and-deleting-contacts-4.png)

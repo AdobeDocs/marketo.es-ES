@@ -5,8 +5,8 @@ exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 0%
+source-wordcount: '461'
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
 ### Crear campo de actividad personalizado en Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,11 +31,11 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Clic **Campos personalizados de actividad**.
+1. Haga clic en **Campos personalizados de actividad**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Clic **Nuevo**.
+1. Haga clic en **Nuevo**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -47,7 +47,7 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. El resto de los ajustes son opcionales. Una vez completada la configuración, haga clic en **Siguiente**.
+1. El resto de los ajustes son opcionales. Una vez completada la configuración, haz clic en **Siguiente**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
@@ -59,7 +59,7 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
    >
    >Asegúrese de que el campo personalizado esté visible para el perfil que utilizan los usuarios de Acciones de perspectiva de ventas, junto con cualquier otro lugar donde desee que esté visible.
 
-1. Seleccione a qué diseños de página desea añadir el campo y haga clic en **Guardar** (opcionalmente, puede hacer clic en **Guardar y nuevo** y repita el proceso para el campo Razón de la llamada).
+1. Seleccione a qué diseños de página desea agregar el campo y haga clic en **Guardar** (opcionalmente, puede hacer clic en **Guardar y nuevo** y repetir el proceso para el campo Motivo de la llamada).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -69,7 +69,7 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 >
 >Solo tendrá que seguir estos pasos si no seleccionó el diseño de página deseado en el paso 9 anterior.
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,11 +77,11 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Clic **Diseños de página de tarea**.
+1. Haga clic en **Diseños de página de tareas**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. Clic **Editar** junto al diseño de página de la tarea al que desea agregar este campo.
+1. Haga clic en **Editar** junto al diseño de página de tarea al que desee agregar este campo.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -97,11 +97,11 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
 ### Crear campo de actividad personalizado en Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. En Salesforce, haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configurar**.
+1. En Salesforce, haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. Clic **Administrador de objetos**.
+1. Haga clic en **Administrador de objetos**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -109,25 +109,25 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Haga clic en **Actividad** etiqueta.
+1. Haga clic en la etiqueta **Actividad**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Clic **Campos y relaciones**.
+1. Haga clic en **Campos y relaciones**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Clic **Nuevo**.
+1. Haga clic en **Nuevo**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### Agregar un campo de actividad personalizado al diseño de página de la tarea en Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. En Salesforce, haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configurar**.
+1. En Salesforce, haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Clic **Administrador de objetos**.
+1. Haga clic en **Administrador de objetos**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -135,11 +135,11 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Haga clic en **Tarea** etiqueta.
+1. Haga clic en la etiqueta **Tarea**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Clic **Diseños de página**.
+1. Haga clic en **Diseños de página**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,11 +151,11 @@ Para utilizar estos campos, primero debe crear el campo como un campo de activid
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
 >* [Resultados de llamadas](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
->* [Razones de llamada](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [Motivos de llamada](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

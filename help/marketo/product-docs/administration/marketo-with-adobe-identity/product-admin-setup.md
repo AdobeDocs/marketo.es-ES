@@ -5,18 +5,18 @@ exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 # Configuración de administración de productos {#product-admin-setup}
 
-1. Cuando un administrador del sistema le haya invitado, recibirá un correo electrónico de bienvenida. En ese correo electrónico, haga clic en **[!UICONTROL Primeros pasos]**.
+1. Cuando un administrador del sistema le haya invitado, recibirá un correo electrónico de bienvenida. En ese mensaje de correo electrónico, haga clic en **[!UICONTROL Introducción]**.
 
    ![](assets/admin-setup-7.png)
 
-1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 

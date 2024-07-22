@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512445
 description: 'Verificar la configuración push: documentos de Marketo, documentación del producto'
-title: Verificar configuración push
+title: Verificar la configuración de inserción
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Verificar configuración push {#verify-push-configuration}
+# Verificar la configuración de inserción {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Verifique la configuración push para asegurarse de que todo esté sincronizado correctamente.
 
-1. Haga clic en **Administrador**.
+1. Haz clic en **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Seleccionar **Aplicaciones móviles**.
+1. Seleccione **Aplicaciones móviles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,7 +31,7 @@ Verifique la configuración push para asegurarse de que todo esté sincronizado 
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clic **Acciones de aplicación móvil** y seleccione **Verificar configuración push**.
+1. Haga clic en **Acciones de aplicación móvil** y seleccione **Verificar configuración push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 

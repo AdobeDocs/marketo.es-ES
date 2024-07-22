@@ -2,10 +2,11 @@
 description: 'Informes de SMS: documentos de Marketo: documentación del producto'
 title: Informes de SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +16,7 @@ El Tablero de mensajes SMS proporciona análisis útiles sobre sus mensajes.
 
 ## Acceso al panel {#access-the-dashboard}
 
-1. Para ver los informes, seleccione el mensaje SMS que desee. Haga clic en **Ver** y seleccione. **Tablero**.
+1. Para ver los informes, seleccione el mensaje SMS que desee. Haga clic en el menú desplegable **Vista** y seleccione **Tablero**.
 
    ![](assets/sms-reporting-1.png)
 
@@ -25,7 +26,7 @@ El Tablero de mensajes SMS proporciona análisis útiles sobre sus mensajes.
 
 ## Información general del panel {#dashboard-overview}
 
-### Progresión de SMS {#sms-progression}
+### Avance de SMS {#sms-progression}
 
 Muestra el total enviado y el total entregado. Las cantidades se encuentran a la derecha y, si pasa el ratón por encima de una barra, se muestra el porcentaje.
 
@@ -37,7 +38,7 @@ Muestra la Tasa de salida hacia otro sitio calculada como porcentaje. Pase el ra
 
 ![](assets/sms-reporting-4.png)
 
-### Actividad con el tiempo {#activity-over-time}
+### Actividad a través del tiempo {#activity-over-time}
 
 Permite seleccionar Total enviado o Total entregado. Seleccione un intervalo adecuado del selector de intervalo de fechas.
 

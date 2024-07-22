@@ -35,7 +35,7 @@ En las pestañas Yo y Equipo verá información sobre las ofertas cerradas. Este
 
 ## Ficha Yo {#me-tab}
 
-La pestaña Me es un bueno lugar para comprobar la participación de sus correos electrónicos, plantillas y vínculos. Si es administrador de Sales Connect, puede filtrar por cualquier usuario de su equipo para ver sus estadísticas.
+La pestaña Me es un buen lugar para comprobar la participación de sus correos electrónicos, plantillas y vínculos. Si es administrador de Sales Connect, puede filtrar por cualquier usuario de su equipo para ver sus estadísticas.
 
 ## Ficha Equipo {#team-tab}
 

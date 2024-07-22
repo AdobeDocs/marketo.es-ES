@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puede ajustar la vista de palabras clave para mostrar los datos que más le interesen.
 
-1. Vaya a la **[!UICONTROL Palabras clave]** sección.
+1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,14 +27,14 @@ Puede ajustar la vista de palabras clave para mostrar los datos que más le inte
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Seleccione o anule la selección de las columnas que desee ver. Clic **[!UICONTROL Guardar]**.
+1. Seleccione o anule la selección de las columnas que desee ver. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   ¡Increíble! Ahora ha personalizado la vista de palabra clave.
+   ¡Fantástico! Ahora ha personalizado la vista de palabra clave.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Explicación de palabras clave: vista de resumen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Comprender las palabras clave - Vista de resumen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estos sencillos pasos para exportar los datos de su campaña web.
 
-1. Ir a **Campañas web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/one-2.png)
 

@@ -6,7 +6,7 @@ exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Puede ver mucha información sobre las páginas mediante el desglose de detalles
 
 ## Buscar exploración en profundidad de página {#find-page-drill-down}
 
-1. Vaya a la **[!UICONTROL Páginas] sección**.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -29,24 +29,24 @@ Puede ver mucha información sobre las páginas mediante el desglose de detalles
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## [!UICONTROL Detalles de página] Sección {#page-detail-section}
+## [!UICONTROL Detalle de página] Sección {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| Elemento | Descripción |
+| Artículo | Descripción |
 |---|---|
 | [!UICONTROL Puntuación de optimización] | La salsa secreta utilizada para mostrarle lo bien que su página está optimizada para la búsqueda en una escala de 1 a 100. |
-| [!UICONTROL Por hacer] caja | Muestra el número de problemas pendientes relacionados con la página en la que se encuentra. |
-| [!UICONTROL Total de vínculos entrantes] | Número total de vínculos entrantes al sitio web. |
-| [!UICONTROL Vínculos entrantes (dominios únicos)] | El número de otros sitios web con al menos un vínculo de entrada al sitio. |
+| [!UICONTROL Tareas pendientes] | Muestra el número de problemas pendientes relacionados con la página en la que se encuentra. |
+| [!UICONTROL Vínculos entrantes en total] | Número total de vínculos entrantes al sitio web. |
+| [!UICONTROL Vínculos de entrada (dominios únicos)] | El número de otros sitios web con al menos un vínculo de entrada al sitio. |
 | [!UICONTROL Vínculos de salida] | El número de vínculos que salen a otros sitios web desde esta página en particular. |
-| [!UICONTROL Recursos compartidos de facebook] | Número de veces que se compartió esta página el [!DNL Facebook]. |
-| [!UICONTROL Facebook me gusta] | Número de veces que se vinculó este recurso compartido de página en [!DNL Facebook]. |
-| [!UICONTROL Clics en facebook] | Número de clics desde [!DNL Facebook share]. |
+| [!UICONTROL Recursos compartidos de Facebook] | Número de veces que se compartió esta página el [!DNL Facebook]. |
+| [!UICONTROL Me gusta Facebook] | Número de veces que este recurso compartido de página se vinculó en [!DNL Facebook]. |
+| [!UICONTROL Clics en Facebook] | Número de clics desde [!DNL Facebook share]. |
 
-## [!UICONTROL Palabras clave para las que está optimizada la página] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Palabra(s) clave(s) para la que está optimizada la página] {#keyword-s-that-page-is-optimized-for}
 
-Aquí es donde usted [seleccione para qué palabra clave está intentando optimizar la página](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Aquí es donde [seleccionas la palabra clave para la que estás intentando optimizar tu página](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -56,10 +56,10 @@ Aquí es donde usted [seleccione para qué palabra clave está intentando optimi
 
 ## [!UICONTROL Resultados de optimización de página] {#page-optimization-results}
 
-El [!UICONTROL Resultados de optimización de página] le indicará los pasos exactos que debe seguir para aumentar la puntuación de optimización o mejorar los resultados en la búsqueda de esta página.
+Los [!UICONTROL resultados de optimización de página] le indicarán los pasos exactos que debe seguir para aumentar la puntuación de optimización o mejorar el rendimiento al buscar esta página.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 
 >[!MORELIKETHIS]
 >
->[Optimización de páginas específicas con palabras clave de destino](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+>[Optimizar páginas específicas con palabras clave de destino](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)

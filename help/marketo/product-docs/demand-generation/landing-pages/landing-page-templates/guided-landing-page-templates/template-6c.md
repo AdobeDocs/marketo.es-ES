@@ -6,14 +6,14 @@ exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Plantilla 6C {#template-6c}
 
-Haga clic con el botón derecho para [descargar plantilla 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Haga clic con el botón derecho para [descargar la plantilla 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cuatro secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón derecho para descargar esta plantilla:**
+**Haga clic con el botón secundario para descargar esta plantilla:**
 
 [Plantilla 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)

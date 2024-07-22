@@ -19,10 +19,10 @@ Si desea eliminar un filtro en el Calendario de marketing, ha llegado al lugar c
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Haga clic en el rojo **x**.
+1. Haga clic en el **x** rojo.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Clic **[!UICONTROL Eliminar]** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)

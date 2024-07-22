@@ -6,8 +6,8 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 0%
+source-wordcount: '907'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 El área Análisis de oportunidad de programa le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal de programa.
 
-**Ejemplos de preguntas comerciales que puede responder mediante esta área de análisis son las siguientes**:
+**Las preguntas comerciales de ejemplo que puede responder con este área de análisis incluyen**:
 
 ¿Cuántas oportunidades se han asociado a un programa determinado y cuántas de ellas hemos ganado?
 
@@ -100,7 +100,7 @@ Al igual que con la adquisición, el valor de la contribución a las ventas real
  </tbody> 
 </table>
 
-_&#42;(FT) = Atribución de primer contacto, utilizada para medidas de adquisición de posibles clientes; (MT) = Atribución de varios contactos, utilizada para medidas de éxito de los posibles clientes_
+_&#42;(FT) = Atribución de primer contacto, utilizada para medidas de adquisición de posibles clientes; (MT) = Atribución de varios contactos, utilizada para medidas de éxito de posibles clientes_
 
 A continuación se muestra un escenario que describe cómo se calculan las unidades de oportunidad cuando hay dos programas que generaron posibles clientes, pero esos posibles clientes llevaron a una oportunidad desde la misma cuenta.
 
@@ -147,7 +147,7 @@ Las demás medidas disponibles reflejan el rendimiento general del Programa.
    <td>Número total de nuevos nombres, es decir, nuevos posibles clientes, adquiridos por el Programa.</td> 
   </tr> 
   <tr> 
-   <td>Costo de programa</td> 
+   <td>Costo del programa</td> 
    <td>Coste total del programa.</td> 
   </tr> 
   <tr> 
@@ -165,19 +165,19 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
  <tbody> 
   <tr> 
    <th>Categoría</th> 
-   <th>Etiqueta para mostrar</th> 
+   <th>Mostrar etiqueta</th> 
   </tr> 
   <tr> 
-   <td>Atributos de oportunidad</td> 
+   <td>Atributos de la oportunidad</td> 
    <td>Oportunidad cerrada<br>Nombre de oportunidad*<br>Nombre de propietario de oportunidad<br>Fase de oportunidad<br>Tipo de oportunidad</td> 
   </tr> 
   <tr> 
    <td>Periodo de oportunidad</td> 
-   <td>Oportunidad cerrada año/trimestre/mes<br>Oportunidad creada año/trimestre/mes</td> 
+   <td>Oportunidad Cerrada Año/Trimestre/Mes<br>Oportunidad Creada Año/Trimestre/Mes</td> 
   </tr> 
   <tr> 
    <td>Atributos del programa</td> 
-   <td>Canal de programa<br>Nombre del programa</td> 
+   <td>Canal de programa<br>Nombre de programa</td> 
   </tr> 
   <tr> 
    <td>Intervalo de tiempo de costo de programa</td> 
@@ -186,8 +186,8 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
  </tbody> 
 </table>
 
-*&#42;Todas las oportunidades que daban cualquier tipo de crédito de atribución a un programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más programas.*
+*&#42;Todas las oportunidades que dieron crédito de atribución de cualquier tipo a un programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más programas.*
 
 >[!MORELIKETHIS]
 >
->[Creación de un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crear un informe de explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 Los vínculos de los correos electrónicos de suscripción al informe caducan al cabo de tres días. Para cambiar la hora de caducidad de estos vínculos, siga estos pasos.
 
-1. En **Administrador**, haga clic en **Configuración de inicio**.
+1. En **Administrador**, haga clic en **Configuración de inicio de sesión**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Haga clic en **Editar caducidad de URL** botón.
+1. Haga clic en el botón **Editar caducidad de la URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. En el menú desplegable, seleccione cuántos días quedan para que caduque el vínculo. Clic **Guardar**.
+1. En el menú desplegable, seleccione cuántos días quedan para que caduque el vínculo. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

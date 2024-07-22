@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A veces, es recomendable eliminar los vínculos de entrada. A continuación se muestra cómo:
 
-1. Vaya a la **[!UICONTROL Vínculos entrantes]** sección.
+1. Vaya a la sección **[!UICONTROL Vínculos entrantes]**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ A veces, es recomendable eliminar los vínculos de entrada. A continuación se m
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. Clic **[!UICONTROL Eliminar]**.
+1. Haga clic en **[!UICONTROL Quitar]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al crear una aplicación social, puede elegir la URL que se compartirá en las publicaciones de los participantes.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Al crear una aplicación social, puede elegir la URL que se compartirá en las p
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. En el editor de aplicaciones sociales, vaya a **Configuración de aplicación** y luego **Opciones avanzadas**.
+1. En el editor de aplicaciones sociales, ve a **Configuración de la aplicación** y luego a **Opciones avanzadas**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -38,9 +38,9 @@ Al crear una aplicación social, puede elegir la URL que se compartirá en las p
    >Compartir Las publicaciones pueden vincularse a tres lugares:
    >
    >* **Página de referencia**: La página que contiene la aplicación.
-   >* **Otra página de aterrizaje**: una página de aterrizaje de Marketo diferente de las de la lista desplegable.
-   >* **URL externa**: una página de aterrizaje que no es de Marketo.
+   >* **Otra página de aterrizaje**: una página de aterrizaje de Marketo diferente de las que aparecen en la lista desplegable.
+   >* **Dirección URL externa**: Una página de aterrizaje que no es de Marketo.
 
 >[!MORELIKETHIS]
 >
->[Añadir su política de privacidad a una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Agregar su política de privacidad a una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

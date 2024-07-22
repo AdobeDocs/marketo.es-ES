@@ -20,7 +20,7 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -38,7 +38,7 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
 
    El archivo adjunto aparece en la parte inferior del correo electrónico.
 
@@ -58,13 +58,13 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Seleccione el contenido que desee añadir y haga clic en **Se hace un seguimiento del contenido** y haga clic en **Insertar**.
+1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **Se ha hecho un seguimiento del contenido** y luego haga clic en **Insertar**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
 
    El contenido aparece como un vínculo en el correo electrónico. El destinatario puede hacer clic en el vínculo para descargar el contenido.
 
@@ -96,7 +96,7 @@ Dentro del visor de contenido, los posibles clientes pueden hacer lo siguiente:
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Eventos de contenido rastreables en Live Feed**
+**Eventos de contenido rastreable en Live Feed**
 
 Cuando un posible cliente haga clic en el vínculo de nuestro documento, verá un evento de clic. Puede hacer clic en ese vínculo para ver el contenido. Siempre que haya iniciado sesión en su cuenta de Actions en el explorador, no contaremos estos clics como eventos.
 

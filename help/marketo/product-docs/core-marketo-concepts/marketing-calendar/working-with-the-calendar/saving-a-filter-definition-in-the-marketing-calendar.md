@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ Al guardar un filtro, puede cambiar de una definición a otra.
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Asigne un nombre al filtro. Clic **[!UICONTROL Guardar]**.
+1. Asigne un nombre al filtro. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -39,4 +39,4 @@ Al guardar un filtro, puede cambiar de una definición a otra.
 
    >[!NOTE]
    >
-   >[Uso compartido de una definición de filtro en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Compartir una definición de filtro en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

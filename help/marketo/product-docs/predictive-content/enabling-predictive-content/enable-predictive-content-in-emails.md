@@ -6,7 +6,7 @@ exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 >
 >Antes de activar Contenido predictivo, debe:
 >
->* **Preparación del contenido predictivo**
+>* **Preparar el contenido predictivo**
 >
 >   * [Editar contenido predictivo para correos electrónicos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} o
 >   * [Editar contenido predictivo para medios enriquecidos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} o
@@ -33,11 +33,11 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 
 ## Adición de contenido predictivo mediante el editor de correo electrónico 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Clic **Actividades de marketing**.
+1. Haga clic en **Actividades de marketing**.
 
    ![](assets/one.png)
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 
    ![](assets/three.png)
 
-1. Para seleccionar una o varias categorías, haga clic en el icono **Categorías** , realice sus selecciones y haga clic en. **Aplicar**.
+1. Para seleccionar una o más categorías, haga clic en la lista desplegable **Categorías**, realice sus selecciones y haga clic en **Aplicar**.
 
    ![](assets/four.png)
 
@@ -57,7 +57,7 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 
    ![](assets/five.png)
 
-1. Para previsualizar el correo electrónico, haga clic en **Previsualizar** en la esquina superior derecha.
+1. Para obtener una vista previa del correo electrónico, haz clic en **Vista previa** en la esquina superior derecha.
 
    ![](assets/six.png)
 
@@ -67,9 +67,9 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 
    >[!NOTE]
    >
-   >La imagen no está seleccionada **_hasta que el destinatario abra el correo electrónico_**. Por lo tanto, lo que se ve en la vista previa es solo un ejemplo y no es necesariamente la imagen que ve el destinatario.
+   >La imagen no se selecciona **_hasta que el destinatario abra el correo electrónico_**. Por lo tanto, lo que se ve en la vista previa es solo un ejemplo y no es necesariamente la imagen que ve el destinatario.
 
-1. Una vez que haya terminado de previsualizar el correo electrónico, haga clic en **Previsualizar acciones** y seleccione. **Aprobar y cerrar**. O si todavía tiene que editar, haga clic en **Editar borrador** a la derecha.
+1. Una vez que hayas terminado de obtener una vista previa del correo electrónico, haz clic en la lista desplegable **Acciones de vista previa** y selecciona **Aprobar y cerrar**. O si todavía tiene que editar, haga clic en **Editar borrador** a la derecha.
 
    ![](assets/eight.png)
 
@@ -85,9 +85,9 @@ Después de aprobar su correo electrónico, estará equipado con contenido predi
 
 ## Adición de contenido predictivo cuando no se utiliza el editor de correo electrónico 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Si no está utilizando un [Correo electrónico 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} , añadir contenido predictivo al correo electrónico se puede hacer simplemente etiquetando una imagen en la plantilla como un elemento de imagen editable de Marketo.
+Si no usas una plantilla de [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"}, puedes agregar contenido predictivo al correo electrónico simplemente etiquetando una imagen en tu plantilla como un elemento de imagen editable de Marketo.
 
-Obtenga información acerca de [Sintaxis específica de Marketo aquí](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Obtenga información acerca de la [sintaxis específica de Marketo aquí](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Este es un ejemplo del aspecto que debería tener el código (este es solo un ejemplo, no copie el código siguiente exactamente).
 

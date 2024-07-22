@@ -17,7 +17,7 @@ Una lista semilla es una lista de cuentas de correo electrónico en varios prove
 
 >[!IMPORTANT]
 >
->Este artículo es para aquellos con una suscripción activa al Everest en este momento. Si utiliza Inbox Tracker by Bird (anteriormente MessageBird), sus tutoriales [se puede encontrar aquí](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Este artículo es para aquellos con una suscripción activa al Everest en este momento. Si usa el rastreador de bandeja de entrada por pájaro (anteriormente MessageBird), sus tutoriales [se pueden encontrar aquí](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importación de una lista semilla {#import-a-seed-list}
 
@@ -25,15 +25,15 @@ Una lista semilla es una lista de cuentas de correo electrónico en varios prove
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Se abrirá la aplicación Everest. En la navegación izquierda, haga clic en **En vuelo** y seleccione **Ubicación de bandeja de entrada**.
+1. Se abrirá la aplicación Everest. En la barra de navegación izquierda, haga clic en **En vuelo** y seleccione **Ubicación de la bandeja de entrada**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Haga clic en **Administrar lista semilla** pestaña.
+1. Haga clic en la ficha **Administrar lista semilla**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Haga clic en la lista desplegable Actions y seleccione **Descargar uno por línea**.
+1. Haga clic en el menú desplegable Acciones y seleccione **Descargar uno por línea**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ Una lista semilla es una lista de cuentas de correo electrónico en varios prove
    >
    >Utilice el Optimizador de listas semilla (en la parte superior de la página) si desea que Everest optimice la lista por usted.
 
-1. Después de la exportación, la lista aparecerá como un archivo .txt en la carpeta de descargas del explorador. Recuperarlo, y [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) Conviértalo en su instancia de Marketo como una lista estática.
+1. Después de la exportación, la lista aparecerá como un archivo .txt en la carpeta de descargas del explorador. Revíselo y [impórtelo](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) a su instancia de Marketo como una lista estática.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

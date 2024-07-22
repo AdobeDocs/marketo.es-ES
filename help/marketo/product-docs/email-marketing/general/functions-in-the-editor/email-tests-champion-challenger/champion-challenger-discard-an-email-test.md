@@ -17,18 +17,18 @@ Si, en cualquier momento, decide que no desea continuar ejecutando la prueba de 
 
 >[!PREREQUISITES]
 >
->[Campeón/Challenger: Apruebe su prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+>[Campeón/Challenger: Aprueba tu prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Busque la prueba de correo electrónico, haga clic con el botón derecho en ella y luego haga clic en **Descartar prueba**.
+1. Busque la prueba de correo electrónico, haga clic con el botón secundario en ella y luego haga clic en **Descartar prueba**.
 
    ![](assets/champion5.jpg)
 
-1. Clic **Eliminar** para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   ¡Ya terminaste! Si alguna vez decide volver a configurar una prueba, continúe y [añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   ¡Ya terminaste! Si alguna vez decides volver a configurar una prueba, [agrega un campeón/aspirante por correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

@@ -19,8 +19,8 @@ Todo lo que debe hacer es elegir cuándo desea que se envíen los correos electr
 
 Si no programó su primer paso o necesita elegir un &quot;Enviar a las&quot;, se le pedirá que elija cuándo debe enviarse la campaña cada vez que añada a una persona o a un grupo.
 
-Abra el modal Add to Campaign, ya sea añadiendo individuos, un grupo o personas seleccionadas y haga clic en **Siguiente**.
+Abra el modal Agregar a campaña, ya sea agregando personas, un grupo o personas seleccionadas y haga clic en **Siguiente**.
 
-Después de hacer clic en **Siguiente**, puede previsualizar el primer correo electrónico.
+Después de hacer clic en **Siguiente**, puede obtener una vista previa del primer correo electrónico.
 
-Después de hacer clic **Siguiente** de nuevo, se le dirigirá a una opción para cuándo desea que se publique su campaña. Puede hacer que comience ahora o programar una hora para que comience la campaña más tarde.
+Después de volver a hacer clic en **Siguiente**, se te dirigirá a una opción para cuando quieras que se publique la campaña. Puede hacer que comience ahora o programar una hora para que comience la campaña más tarde.

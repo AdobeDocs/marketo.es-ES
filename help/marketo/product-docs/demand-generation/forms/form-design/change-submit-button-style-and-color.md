@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si encuentra el botón de envío estándar aburrido o si necesita algo más elegante, no dude en elegir entre una amplia gama de estilos de botones listos para usar.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,13 +23,13 @@ Si encuentra el botón de envío estándar aburrido o si necesita algo más eleg
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Seleccione el **Enviar** y haga clic en **Editar** junto a Estilo de botón.
+1. Seleccione el botón **Enviar** y haga clic en **Editar** junto a Estilo de botón.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >¿Sabía que puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición? Es así de fácil. ¡Pruébalo!
+   >¿Sabía que puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición? Es así de fácil. Pruébelo.
 
 1. Elija el estilo de botón que desee (desplácese hacia arriba/abajo).
 
@@ -43,15 +43,15 @@ Si encuentra el botón de envío estándar aburrido o si necesita algo más eleg
    >
    >También puede introducir el código de color manualmente.
 
-1. Clic **Seleccionar**.
+1. Haga clic en **Seleccionar**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

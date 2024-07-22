@@ -6,7 +6,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,15 +16,15 @@ Marketo ofrece una variedad de módulos de informes para diferentes necesidades.
 
 ## Informes básicos {#basic-reporting}
 
-Puede configurar [informes básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dentro de los programas o en el área de Analytics. Los informes básicos están compuestos por diferentes tipos de informes predeterminados con la flexibilidad de filtrar, ordenar y ajustar intervalos de tiempo.
+Puede configurar [informes básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} en programas o en el área de Analytics. Los informes básicos están compuestos por diferentes tipos de informes predeterminados con la flexibilidad de filtrar, ordenar y ajustar intervalos de tiempo.
 
 ## Información del email {#email-insights}
 
-Utilice Analytics y Envíos para obtener lo siguiente [información valiosa](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} en correos electrónicos a partir de datos históricos.
+Use Analytics y envíos para obtener [información valiosa](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sobre correos electrónicos a partir de datos históricos.
 
-## Perspectivas de rendimiento {#performance-insights}
+## Desempeño Insights {#performance-insights}
 
-[Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} abarca el rendimiento del canal y el rendimiento del programa para la participación, la canalización y la generación de ingresos.
+[Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} cubre el rendimiento del canal y del programa para la participación, la canalización y la generación de ingresos.
 
 ## Informes avanzados de BI Analytics {#advanced-bi-analytics-reporting}
 

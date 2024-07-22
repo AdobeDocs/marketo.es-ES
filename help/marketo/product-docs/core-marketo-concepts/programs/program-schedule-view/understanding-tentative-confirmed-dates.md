@@ -17,7 +17,7 @@ Las campañas inteligentes y los programas de correo electrónico tienen una pot
 
 ## Tentativo {#tentative}
 
-Las fechas provisionales transmiten la intención. Piense en esto como _lapicería_ algo en el calendario. Las entradas provisionales no se ejecutarán, solo son marcadores de posición.
+Las fechas provisionales transmiten la intención. Piense en esto como _escribir a lápiz_ algo en el calendario. Las entradas provisionales no se ejecutarán, solo son marcadores de posición.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -47,7 +47,7 @@ Las entradas confirmadas se ejecutarán sin duda. Tienen reglas, recursos aproba
 
 ## Finalizado  {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y es **[!UICONTROL Finalizado]**, no puede moverlo ni convertirlo en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y está **[!UICONTROL Finalizada]**, no puede moverla ni convertirla en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

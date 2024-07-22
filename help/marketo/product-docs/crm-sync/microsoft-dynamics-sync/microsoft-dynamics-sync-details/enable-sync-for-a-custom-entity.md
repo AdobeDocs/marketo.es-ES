@@ -17,22 +17,22 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 >[!NOTE]
 >
 >* Cuando se habilita la sincronización para una entidad personalizada, Marketo realiza una sincronización inicial para incluir todos los datos del objeto personalizado.
->* Los miembros de la lista y la lista de marketing son _no admitido_ en este momento.
+>* Los miembros de la lista de marketing y de la lista de marketing _no son compatibles_ en este momento.
 
 >[!IMPORTANT]
 >
 >El usuario de sincronización de Marketo necesita acceso de lectura al objeto personalizado para enumerarlo y realizar una sincronización con él.
 
-1. Vaya a la **[!UICONTROL Administrador]** sección.
+1. Vaya a la sección **[!UICONTROL Admin]**.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Seleccionar **[!UICONTROL Microsoft Dynamics]** y haga clic en **[!UICONTROL Deshabilitar sincronización]**.
+1. Seleccione **[!UICONTROL Microsoft Dynamics]** y haga clic en **[!UICONTROL Deshabilitar sincronización]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,25 +40,25 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
    >
    >Debe deshabilitar la sincronización global temporalmente para habilitar o deshabilitar una entidad personalizada.
 
-1. En Administración de bases de datos, haga clic en **[!UICONTROL Sincronización de entidades de Dynamics]**.
+1. En Administración de bases de datos, haga clic en **[!UICONTROL Sincronizar entidades de Dynamics]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Clic **[!UICONTROL Sincronizar esquema]**.
+1. Haga clic en **[!UICONTROL Sincronizar esquema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Seleccione la entidad que desee sincronizar y haga clic en **[!UICONTROL Habilitar sincronización]**.
+1. Seleccione la entidad que desea sincronizar y haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Seleccione los campos que desee sincronizar o utilice como [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o déclencheur (para registros añadidos, _no_ actualizado) en listas inteligentes. Cuando termine, haga clic en **[!UICONTROL Habilitar sincronización]**.
+1. Seleccione los campos que desee sincronizar o usar como [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o déclencheur (para registros agregados, _no_ actualizados) en listas inteligentes. Cuando termine, haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >Durante el proceso de sincronización, es posible que observe que &quot;[!UICONTROL Sincronización de entidades dinámicas]El elemento &quot; desaparece del árbol de navegación. Este es el comportamiento esperado y volverá a aparecer una vez completada la sincronización.
+   >Durante el proceso de sincronización, es posible que observe que el elemento &quot;[!UICONTROL Sincronización de entidades dinámicas]&quot; desaparece del árbol de navegación. Este es el comportamiento esperado y volverá a aparecer una vez completada la sincronización.
 
 1. La entidad ahora tiene una marca de verificación verde.
 

@@ -6,7 +6,7 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU. y del sector de los servicios financieros.
 
-1. Ir a **Segmentos**.
+1. Vaya a **Segmentos**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Clic **Crear nuevo**.
+1. Haga clic en **Crear nuevo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,11 +27,11 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU.
 
    ![](assets/segment-name.png)
 
-1. Arrastrar **Ubicación** en el menú de la derecha y suéltelo en el editor de segmentos.
+1. Arrastre **Location** desde el menú de la derecha y suéltelo en el editor de segmentos.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Seleccione un país para añadir en la lista desplegable. Seleccione el **Estados Unidos**.
+1. Seleccione un país para añadir en la lista desplegable. Seleccione **Estados Unidos**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,17 +39,17 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU.
    >
    >El número de ciudades está limitado a 300 por segmento.
 
-1. Arrastrar **Industrias** en el menú de la derecha y suéltelo en el editor de segmentos.
+1. Arrastre **Industrias** desde el menú de la derecha y suéltelo en el editor de segmentos.
 
    ![](assets/industries-hand.jpg)
 
-1. Seleccione Industrias que desee añadir en la lista desplegable. Seleccione el **Sector de servicios financieros**.
+1. Seleccione Industrias que desee añadir en la lista desplegable. Seleccione **Sector de servicios financieros**.
 
    ![](assets/segment-industries.png)
 
    Ahora ha configurado un segmento básico para todos los clientes potenciales que visitan su sitio web desde EE. UU. y el sector financiero.
 
-1. Clic **Guardar** para guardar el segmento o **Guardar y definir la campaña** para ir a la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir la campaña** para ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

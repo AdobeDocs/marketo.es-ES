@@ -5,7 +5,7 @@ title: Espacio aislado de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 ## Cosas que hay que saber sobre Sandboxes {#things-to-know-about-sandboxes}
 
 * Una vez que el equipo de la cuenta de Adobe haya configurado la zona protegida y le haya enviado la invitación, debe utilizar una dirección de correo electrónico diferente para iniciar sesión que la de producción de Marketo.
-* Si desea agregar usuarios, el proceso es el mismo que [adición de usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya han iniciado sesión en Marketo.
+* Si desea agregar usuarios, el proceso es el mismo que [agregar usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya han iniciado sesión en Marketo.
 * La zona protegida de Marketo empezará vacía, pero tendrá las mismas funciones disponibles que la de producción.
-* Si crea un programa en la zona protegida y desea moverlo a producción, puede realizar una [importación de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Si crea un programa en su zona protegida y desea moverlo a producción, puede realizar una [importación de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Las zonas protegidas se limitan para que las instancias de producción no se vean afectadas negativamente por los entornos de prueba. Puede enviar hasta 20 correos electrónicos por campaña ejecutada.
 
 >[!CAUTION]
@@ -34,7 +34,7 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 
 ## Copia de instancia {#instance-copy}
 
-Puede enviar un caso de asistencia técnica solicitando una copia de instancia única para rellenar el espacio aislado. La copia de instancia no se traslada _todo_, sin embargo. Consulte con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener más información.
+Puede enviar un caso de asistencia técnica solicitando una copia de instancia única para rellenar el espacio aislado. Sin embargo, la copia de instancia no llevará _todo_. Consulte [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener más información.
 
 >[!NOTE]
 >

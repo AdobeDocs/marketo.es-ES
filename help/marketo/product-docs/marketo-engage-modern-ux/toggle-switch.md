@@ -26,7 +26,7 @@ Habilite el conmutador de alternancia para roles individuales o todos los roles.
 
    ![](assets/toggle-switch-1.png)
 
-1. Clic **Nueva experiencia**.
+1. Haga clic en **Nueva experiencia**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -46,15 +46,15 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-5.png)
 
-Para habilitarlo para _todo_ , haga clic en el icono de engranaje situado junto al conmutador.
+Para habilitarlo para _todas las_ características, haga clic en el icono de engranaje situado junto al conmutador.
 
 ![](assets/toggle-switch-6.png)
 
-Seleccionar **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
+Seleccione **Habilitar para todas las características disponibles** y haga clic en **Aceptar**.
 
 ![](assets/toggle-switch-7.png)
 
-## Funciones disponibles {#available-features}
+## Características disponibles {#available-features}
 
 Las siguientes funciones están disponibles actualmente en el UX moderno (con nuevas funciones añadidas en cada versión):
 

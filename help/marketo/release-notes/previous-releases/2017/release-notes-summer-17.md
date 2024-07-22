@@ -6,7 +6,7 @@ exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Asegúrese de que el mensaje y el contenido sean coherentes y evite realizar edi
 
 ## Mejoras de ABM {#abm-enhancements}
 
-**Fuente de datos para búsqueda de empresa en japonés**
+**Búsqueda de datos en Source para empresas japonesas**
 
 Hacer coincidir personas con nombres de empresas en japonés en el idioma local.
 
@@ -39,13 +39,13 @@ Hacer coincidir personas con nombres de empresas en japonés en el idioma local.
 
 La integración de LeanData ahora permite la coincidencia de cliente potencial con cuenta en Marketo. Mantenga el marketing y las ventas alineados al tener los mismos posibles clientes asociados a las cuentas dentro de los sistemas de ventas y marketing de registro. Las opciones más flexibles proporcionan a las operaciones de marketing y ventas más control sobre las reglas de coincidencia de cliente potencial con cuenta para que puedan alcanzar el nivel de precisión deseado.
 
-## Mejoras de personalización web {#web-personalization-enhancements}
+## Mejoras de Web Personalization {#web-personalization-enhancements}
 
-**[Mejoras en Campaign Preview](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
+**[Mejoras en la vista previa de Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Los profesionales del marketing ahora pueden asegurarse de que sus campañas web tengan un aspecto bueno en cualquier dispositivo *antes* lanzarlos. Con estas mejoras, vea el rendimiento de sus campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece previsualizaciones más coherentes y precisas.
+Los profesionales del marketing ahora pueden asegurarse de que sus campañas web tengan un aspecto impecable en cualquier dispositivo *antes de* iniciarlas. Con estas mejoras, vea el rendimiento de sus campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece previsualizaciones más coherentes y precisas.
 
-**[Mejoras en Widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
+**[Mejoras en la campaña de widgets](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
 Ya están disponibles nuevas opciones para las campañas de widgets, como las siguientes:
 
@@ -55,13 +55,13 @@ Ya están disponibles nuevas opciones para las campañas de widgets, como las si
 
 ## ContentAI {#contentai}
 
-**[Análisis de IA de contenido y sugerencias](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
+**[Sugerencias y análisis ContentAI](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
 Aumente el retorno de su marketing de contenido con análisis más profundos y sugerencias de contenido con tecnología de IA para aumentar la participación. Los potentes análisis muestran el rendimiento del contenido recomendado, incluidas las vistas populares, de tendencias y basadas en audiencias. También verá sugerencias para que se incluya contenido adicional.
 
 ## Analytics {#analytics}
 
-**Mejoras de Email Insights**
+**Mejoras en Email Insights**
 
 Saque más partido a la experiencia de las perspectivas de correo electrónico con las nuevas formas de preparar y compartir datos. Ahora puede descargar los resultados de perspectivas de correo electrónico en Microsoft Excel y PowerPoint para trabajar con los datos fuera de Marketo.
 

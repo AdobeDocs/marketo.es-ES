@@ -17,7 +17,7 @@ Al usar Marketo Sales Insight (MSI) y Marketo Sales Connect (MSC) en paralelo, l
 
 >[!NOTE]
 >
->Esto solo afecta a los clientes que utilizan **ambos** MSI y MSE, y que desean utilizar la característica Más probable de MSI. Si no necesita ni utiliza los resultados más probables, puede hacer caso omiso de.
+>Esto solo afecta a los clientes que usan **tanto** MSI como MSE, y que desean usar la característica Lo mejor en MSI. Si no necesita ni utiliza los resultados más probables, puede hacer caso omiso de.
 
 ## Introducción {#getting-started}
 
@@ -33,70 +33,70 @@ A continuación se muestran los nombres recomendados de las reglas de flujo de t
  <tbody> 
   <tr> 
    <td>Actualizar Campo Desc De Momento Interesante</td> 
-   <td><p>Copiar de: Última descripción de participación de Marketo<br>Copiar a: Último momento interesante Desc</p></td> 
+   <td><p>Copiar de: Última descripción de Marketo Engagement<br>Copiar en: Último momento interesante Desc</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar campo de tipo de momento interesante</td> 
-   <td><p>Copiar de: Tipo de participación de la última Marketo<br>Copiar a: Tipo de último momento interesante</p></td> 
+   <td><p>Copiar de: Último tipo de participación de Marketo<br>Copiar en: Último tipo de momento interesante</p></td> 
   </tr> 
   <tr> 
-   <td>Actualizar campo de origen de momento interesante</td> 
-   <td><p>Copiar de: último origen de participación de Marketo<br>Copiar en: Último momento interesante Origen</p></td> 
+   <td>Actualizar campo de Source de momento interesante</td> 
+   <td><p>Copiar de: Último Source de Marketo Engagement<br>Copiar en: Último momento interesante Source</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar campo Fecha de momento interesante</td> 
-   <td><p>Copiar de: fecha de la última participación de Marketo<br>Copiar a: Fecha del último momento interesante</p></td> 
+   <td><p>Copiar de: Fecha de la última participación de Marketo<br>Copiar a: Fecha del último momento interesante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instrucciones {#instructions}
 
-1. Después de hacer clic **Configurar**, buscar **Flujo de trabajo** y seleccione **Reglas de flujo de trabajo**.
+1. Después de hacer clic en **Configuración**, busque **Flujo de trabajo** y seleccione **Reglas de flujo de trabajo**.
 
    ![](assets/one-1.png)
 
-1. Seleccionar **Nueva regla**.
+1. Seleccione **Nueva regla**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable Objeto y seleccione **Posible cliente**, luego haga clic en **Siguiente**.
+1. Haga clic en el menú desplegable Objeto, seleccione **Posible cliente** y, a continuación, haga clic en **Siguiente**.
 
    ![](assets/three-1.png)
 
-1. Introduzca &quot;Update Interested Moment Desc Field&quot; en el nombre de la regla. Seleccione el botón de opción **creado y cada vez que se edita**. En la lista desplegable Criterios de regla, seleccione **la fórmula se evalúa como verdadera**. Busque y seleccione la función ISCHANGED. A continuación, resalte el valor del campo predeterminado y haga clic en **Insertar campo**.
+1. Introduzca &quot;Update Interested Moment Desc Field&quot; en el nombre de la regla. Seleccione el botón de opción **creado y cada vez que se edite**. En la lista desplegable Criterios de regla, seleccione **formula se evalúa como true**. Busque y seleccione la función ISCHANGED. A continuación, resalte el valor de campo predeterminado y haga clic en **Insertar campo**.
 
    ![](assets/four-1.png)
 
-1. En la ventana emergente &quot;Insertar campo&quot;, elija **Última descripción de Marketo Engagement** y haga clic en **Insertar**.
+1. En el elemento emergente &quot;Insertar campo&quot;, elija **Último descripción de la participación de Marketo** y haga clic en **Insertar**.
 
    ![](assets/five-1.png)
 
-1. Clic **Guardar y siguiente**.
+1. Haga clic en **Guardar y siguiente**.
 
    ![](assets/6.png)
 
-1. En la lista desplegable Agregar acción de flujo de trabajo, seleccione **Nueva actualización de campo**.
+1. En el menú desplegable Agregar acción de flujo de trabajo, seleccione **Nueva actualización de campo**.
 
    ![](assets/seven.png)
 
-1. En el campo Nombre, introduzca &quot;Actualizar campo de descripción de momento interesante&quot; (Unique Name se generará automáticamente). En la lista desplegable Field to Update, elija **Desc de último momento interesante**. Seleccione el **Utilizar una fórmula para establecer un nuevo valor** y, a continuación, haga clic en **Mostrar editor de fórmulas**.
+1. En el campo Nombre, introduzca &quot;Actualizar campo de descripción de momento interesante&quot; (Unique Name se generará automáticamente). En el menú desplegable Campo para actualizar, elija **Último momento interesante Desc**. Seleccione el botón de opción **Usar una fórmula para establecer un nuevo valor** y, a continuación, haga clic en **Mostrar editor de fórmulas**.
 
    ![](assets/eight.png)
 
-1. Haga clic en **Insertar campo** botón.
+1. Haga clic en el botón **Insertar campo**.
 
    ![](assets/9a.png)
 
-1. Seleccionar **Última descripción de Marketo Engagement** y haga clic en **Insertar**. En la página siguiente, haga clic en **Guardar**.
+1. Seleccione **Última descripción de Marketo Engagement** y haga clic en **Insertar**. En la página siguiente, haz clic en **Guardar**.
 
    ![](assets/nine.png)
 
-1. Clic **Listo**.
+1. Haga clic en **Listo**.
 
    ![](assets/twelve.png)
 
-1. Clic **Activar** para activar la regla de flujo de trabajo.
+1. Haga clic en **Activar** para activar la regla de flujo de trabajo.
 
    ![](assets/thirteen.png)
 

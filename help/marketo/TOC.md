@@ -734,7 +734,7 @@ ht-degree: 2%
       + Facebook {#facebook}
          + [Añadir posibles clientes a una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Crear una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Editar la configuración de Post enriquecido de Facebook](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Editar configuración de publicación enriquecida de Facebook](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [Páginas de destino de Publish en Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Configurar anuncios de posibles clientes de Facebook](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Asignar campos personalizados a Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

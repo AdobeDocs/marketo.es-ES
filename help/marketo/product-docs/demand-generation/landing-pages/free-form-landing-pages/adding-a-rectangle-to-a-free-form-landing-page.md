@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adición de un rectángulo a una página de aterrizaje de forma libre {#adding-a-rectangle-to-a-free-form-landing-page}
 
-Los rectángulos en las páginas de aterrizaje son buenos para resaltar un área del texto.
+Los rectángulos en las páginas de aterrizaje son ideales para resaltar un área del texto.
 
 1. Seleccione una página de aterrizaje de forma libre y haga clic en **Editar borrador**.
 
@@ -23,11 +23,11 @@ Los rectángulos en las páginas de aterrizaje son buenos para resaltar un área
    >
    >El diseñador de páginas de aterrizaje de forma libre se abre en una nueva ventana.
 
-1. Arrastre el cursor sobre **Rectángulo** Elemento.
+1. Arrastre el cursor sobre el elemento **Rectangle**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Seleccione el rectángulo y utilice el **Hoja de propiedades** para realizar los cambios necesarios.
+1. Seleccione el rectángulo y use la **Hoja de propiedades** para realizar los cambios necesarios.
 
    >[!TIP]
    >

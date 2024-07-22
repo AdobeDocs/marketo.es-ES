@@ -6,14 +6,14 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 15%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 # Sincronización de SFDC: cola de posibles clientes {#sfdc-sync-lead-queue}
 
-El Marketo Engage le permite agregar personas a [Colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} para ayudar con la distribución de posibles clientes. Aquí están los detalles.
+El Marketo Engage le permite agregar personas a [colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} para ayudar con la distribución de posibles clientes. Aquí están los detalles.
 
 ## ¿Cómo asignar una persona a una cola en Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
@@ -34,4 +34,4 @@ Si un posible cliente es propiedad de una cola en Salesforce, estos campos de pr
 * Apellido del propietario de ventas
 * Título de propietario de ventas
 * Número de teléfono del propietario de ventas
-* Dirección de email del propietario de ventas
+* Dirección de correo electrónico del propietario de ventas

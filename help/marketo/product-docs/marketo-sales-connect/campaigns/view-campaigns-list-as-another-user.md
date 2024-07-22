@@ -17,13 +17,13 @@ Como administrador, puede ver las campañas como cualquier usuario.
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
 1. En la aplicación web, haga clic en **Campañas**.
 
    ![](assets/one-5.png)
 
-1. Haga clic en **Ver como** y seleccione el usuario que desee.
+1. Haga clic en el menú desplegable **Ver como** y seleccione el usuario que desee.
 
    ![](assets/two-4.png)
 

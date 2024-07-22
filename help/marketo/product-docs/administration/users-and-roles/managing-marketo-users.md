@@ -15,31 +15,31 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Este artículo es solo para aquellos que lo hacen _no_ use [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si lo hace, siga los pasos que se indican a continuación [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Este artículo es solo para aquellos que _no_ usan [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si lo hace, siga los pasos de [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Crear usuarios {#create-users}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Clic **[!UICONTROL Invitar nuevo usuario]**.
+1. Haga clic en **[!UICONTROL Invitar nuevo usuario]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Introduzca el **[!UICONTROL Correo electrónico]**, **[!UICONTROL Nombre]**, y **[!UICONTROL Apellidos]**.
+1. Escriba **[!UICONTROL Correo electrónico]**, **[!UICONTROL Nombre]** y **[!UICONTROL Apellidos]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Si lo desea, introduzca un motivo para la invitación y seleccione una fecha de caducidad en la **[!UICONTROL El acceso caduca]** mediante el selector de fechas.
+1. De manera opcional, escriba un motivo para la invitación y seleccione una fecha de caducidad en el campo **[!UICONTROL Caduca el acceso]** con el selector de fechas.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Clic **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >Cuando llega la fecha de caducidad, el usuario recibe una notificación de caducidad y su cuenta se bloquea.
 
-1. Seleccione el **[!UICONTROL Rol]** y haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione el **[!UICONTROL Rol]** que elija y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Edite el mensaje de invitación si es necesario. Clic **Send**.
+1. Edite el mensaje de invitación si es necesario. Haga clic en **Send**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -75,13 +75,13 @@ El nuevo usuario ahora aparece en la pestaña Usuarios y recibirá un correo ele
 
 >[!NOTE]
 >
->Si el usuario que desea eliminar también es un usuario Dynamic Chat, debe [eliminarlos del Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} en el Admin Console antes de poder eliminarlos en el Marketo Engage.
+>Si el usuario que desea eliminar también es un usuario Dynamic Chat, debe [quitarlo del Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} en el Admin Console para poder eliminarlo en el Marketo Engage.
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-11.png)
 
@@ -89,17 +89,17 @@ El nuevo usuario ahora aparece en la pestaña Usuarios y recibirá un correo ele
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Confirme haciendo clic en **[!UICONTROL OK]**.
+1. Confirme haciendo clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Restablecer contraseñas de usuario {#reset-user-passwords}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-15.png)
 
@@ -107,7 +107,7 @@ El nuevo usuario ahora aparece en la pestaña Usuarios y recibirá un correo ele
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Clic **[!UICONTROL Cerrar]** para descartar el mensaje.
+1. Haga clic en **[!UICONTROL Cerrar]** para cerrar la solicitud.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,11 +119,11 @@ El usuario recibirá un correo electrónico con las instrucciones para restablec
 
 ## Cambiar permisos y editar información de usuario {#change-permissions-and-edit-user-information}
 
-1. Vaya a la **[!UICONTROL Administrador]** área.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Clic **[!UICONTROL Usuarios y funciones]**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-19.png)
 

@@ -17,13 +17,13 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 
 >[!NOTE]
 >
->**Permisos de administración necesarios**
+>**Se requieren permisos de administración**
 
-1. Clic **[!UICONTROL Administrador]**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clic **[!UICONTROL Administrador]** y luego **[!UICONTROL Sincronización de objetos de Salesforce]**.
+1. Haga clic en **[!UICONTROL Admin]** y luego en **[!UICONTROL Sincronizar objetos de Salesforce]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -35,11 +35,11 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Clic **[!UICONTROL Editar campos visibles]**.
+1. Haga clic en **[!UICONTROL Editar campos visibles]**.
 
    >[!TIP]
    >
-   >Si la variable **[!UICONTROL Editar campos visibles]** está atenuado, el objeto está actualmente en uso en una lista inteligente o campaña inteligente. Elimine todas las asociaciones para continuar.
+   >Si el botón **[!UICONTROL Editar campos visibles]** está deshabilitado, el objeto está actualmente en uso en una lista inteligente o campaña inteligente. Elimine todas las asociaciones para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -47,7 +47,7 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Marque las casillas junto a las restricciones de filtro/déclencheur necesarias y haga clic en **[!UICONTROL Guardar]**.
+1. Marque las casillas junto a las restricciones de déclencheur/filtro necesarias y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
    >
    >Todos los campos están seleccionados de forma predeterminada para que sean restricciones en los filtros.
 
-1. Haga clic en **[!UICONTROL Campos]** para confirmar los cambios.
+1. Haga clic en la ficha **[!UICONTROL Campos]** para confirmar los cambios.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -67,4 +67,4 @@ Ahora sus listas inteligentes y campañas inteligentes tienen aún más poder.
 
 >[!MORELIKETHIS]
 >
->[Habilitar/Deshabilitar sincronización de objetos personalizada](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
+>[Habilitar/Deshabilitar sincronización de objetos personalizados](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

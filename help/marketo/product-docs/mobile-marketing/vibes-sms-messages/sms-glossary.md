@@ -2,7 +2,8 @@
 description: 'Glosario de SMS: documentos de Marketo, documentación del producto'
 title: Glosario de SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -57,7 +58,7 @@ A continuación se muestran algunos términos comunes que encontrará al utiliza
   </tr>
   <tr>
     <td>Evento</td>
-    <td>Un evento es una incidencia definida que se puede enviar a la plataforma Vibes y utilizar para almacenar en déclencheur las acciones activadas por API, incluidos los envíos de mensajes. Cada evento contiene datos específicos del evento, incluido un event_type, que se utiliza para determinar a qué campaña de mensajes activada por API corresponde. La API de evento se puede activar mediante Webhook en el Marketo Engage. Obtenga más información con nuestra <a href="https://developer-platform.vibes.com/reference/event-api">Referencia de API de evento</a>.</td>
+    <td>Un evento es una incidencia definida que se puede enviar a la plataforma Vibes y utilizar para almacenar en déclencheur las acciones activadas por API, incluidos los envíos de mensajes. Cada evento contiene datos específicos del evento, incluido un event_type, que se utiliza para determinar a qué campaña de mensajes activada por API corresponde. La API de evento se puede activar mediante Webhook en el Marketo Engage. Obtenga más información con nuestra <a href="https://developer-platform.vibes.com/reference/event-api">referencia de API de eventos</a>.</td>
   </tr>
   <tr>
     <td>Palabra clave</td>
@@ -81,7 +82,7 @@ A continuación se muestran algunos términos comunes que encontrará al utiliza
   </tr>
   <tr>
     <td>Registro de persona</td>
-    <td>Un registro de persona es una recopilación de datos de un número de teléfono móvil específico. A cada registro de persona también se le asigna una clave persona única para la identificación. Los ID de Marketo están vinculados a las vibraciones mediante el campo external_person_id. Más información sobre los registros de persona en <a href="https://developer-platform.vibes.com/reference/person-api">Documentación de API de persona de Vibes</a>.</td>
+    <td>Un registro de persona es una recopilación de datos de un número de teléfono móvil específico. A cada registro de persona también se le asigna una clave persona única para la identificación. Los ID de Marketo están vinculados a las vibraciones mediante el campo external_person_id. Obtenga más información acerca de los registros de personas en <a href="https://developer-platform.vibes.com/reference/person-api">Vibes Person API documentation</a>.</td>
   </tr>
   <tr>
     <td>Código corto</td>
@@ -101,7 +102,7 @@ A continuación se muestran algunos términos comunes que encontrará al utiliza
   </tr>
   <tr>
     <td>Plataforma de vibraciones</td>
-    <td>El sitio web en el que inicia sesión para administrar sus campañas. Ir a <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> para acceder a la plataforma Vibes.</td>
+    <td>El sitio web en el que inicia sesión para administrar sus campañas. Vaya a <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> para acceder a la plataforma Vibes.</td>
   </tr>
 </tbody>
 </table>

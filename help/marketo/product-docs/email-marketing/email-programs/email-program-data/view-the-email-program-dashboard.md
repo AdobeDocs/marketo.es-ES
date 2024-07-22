@@ -17,11 +17,11 @@ Consulte el rendimiento de su programa de correo electrónico (con o sin prueba 
 
 >[!CAUTION]
 >
->Para obtener un informe preciso, evite _reutilización_ Cree un correo electrónico desde un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} en su lugar, ya que copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
+>Para generar informes precisos, evite _reutilizar_ un correo electrónico de un programa de correo electrónico, ya sea haciendo referencia a él en una campaña inteligente o moviendo el recurso del programa de correo electrónico iniciado a uno nuevo. Al hacerlo, se acumulan todos los datos en cada panel de informes adjunto a ese correo electrónico. Si necesita reutilizar un correo electrónico, [clónelo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, ya que esto copia el correo electrónico, pero crea uno nuevo con un nuevo ID de correo electrónico.
 
 ## Seleccione su programa de correo electrónico {#select-your-email-program}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ Si ha añadido una prueba A/B al programa de correo electrónico y la prueba se 
 
 ## Vista de programa de correo electrónico {#email-program-view}
 
-Alternativamente, si no ha añadido una prueba A/B *o* si la prueba termina, se mostrará lo siguiente:
+Alternativamente, si no agregó una prueba A/B *o* si la prueba ha finalizado, se debería mostrar lo siguiente:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ Alternativamente, si no ha añadido una prueba A/B *o* si la prueba termina, se 
 
 >[!MORELIKETHIS]
 >
->* [Uso del panel del programa de correo electrónico: vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Uso del panel del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Usar el panel del programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Usar el panel del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

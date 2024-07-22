@@ -1,10 +1,10 @@
 ---
 description: Información general del mapa de participación - Documentos de Marketo - Documentación del producto
 title: Información general del mapa de participación
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,23 @@ El Mapa de participación le permite visualizar de forma intuitiva sus campañas
 
 ## Acceso al mapa de participación {#accessing-engagement-map}
 
-Vaya a cualquier campaña existente y haga clic en **Mapa de participación** botón.
+Vaya a cualquier campaña existente y haga clic en el botón **Mapa de participación**.
 
 ![](assets/engagement-map-overview-2.png)
 
-Una vez en el mapa de participación, verá dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Una vez en el mapa de participación, verás dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} y [Configuración](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descripciones de tarjeta {#card-descriptions}
 
-**Déclencheur**: En las campañas que incluyen déclencheur, el mapa tendrá una tarjeta Información general de Déclencheur. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
+**Déclencheur**: en las campañas que incluyen déclencheur, el mapa tendrá una tarjeta &quot;Información general de Déclencheur&quot;. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
 
-**Filtros**: en las campañas que incluyen filtros, el mapa contiene una tarjeta Información general de filtro. Al hacer clic en él, se muestra un panel deslizable con información adicional sobre cada filtro.
+**Filtros**: en las campañas que incluyen filtros, el mapa contendrá una tarjeta Información general de filtro. Al hacer clic en él, se muestra un panel deslizable con información adicional sobre cada filtro.
 
-**Pasos de flujo**: Cada campaña incluirá una tarjeta para cada paso del flujo. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
+**Pasos de flujo**: Cada campaña incluirá una tarjeta para cada paso de flujo. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
 
-**Opciones**: Si un paso de flujo incluye una o más opciones, al hacer clic en la tarjeta de flujo se muestra una tarjeta para cada opción, así como un panel deslizable con información adicional.
+**Opciones**: si un paso de flujo incluye una o más opciones, al hacer clic en la tarjeta de flujo se mostrará una tarjeta para cada opción, así como un panel deslizable con información adicional.
 
 ## Campañas anidadas {#nested-campaigns}
 
@@ -75,7 +75,7 @@ La navegación superior incluye las siguientes funciones:
 
 No. El mapa de participación es totalmente compatible con versiones anteriores. Con solo hacer clic en un botón, podrá ver cada una de las campañas existentes en la interfaz del mapa de participación visual.
 
-**¿Tener el Mapa de participación en Marketo Engage significa que perderé acceso a la estructura de carpetas y tendré que volver a aprender a crear una campaña inteligente?**
+**¿Tener el mapa de participación en Marketo Engage significa que perderé el acceso a la estructura de carpetas y tendré que volver a aprender a crear una campaña inteligente?**
 
 No. Lo bueno del Mapa de participación es que te ofrece lo mejor de ambos mundos; es complementario a la forma actual de crear campañas. Todos los usuarios seguirán teniendo el potente conjunto de funciones de Marketo Engage, ahora complementado por imágenes claras.
 
@@ -83,11 +83,11 @@ No. Lo bueno del Mapa de participación es que te ofrece lo mejor de ambos mundo
 
 No. Todos los usuarios actuales y nuevos de Marketo Engage con todas las suscripciones tendrán acceso a esta función gratuita.
 
-**Como administrador de Marketo Engage, ¿soy responsable de activar o desactivar el Mapa de participación?**
+**Como Marketo Engage, ¿soy responsable de activar o desactivar el mapa de participación?**
 
 No. El mapa de participación estará disponible para todos los usuarios en sus instancias. No podrá activarlo/desactivarlo para determinados usuarios, espacios de trabajo, etc.
 
-**¿En qué se diferencia esto de otros creadores visuales?**
+**¿En qué se diferencia esto de otros generadores visuales?**
 
 Hay tres cosas clave que diferencian el Mapa de participación:
 
@@ -99,5 +99,5 @@ Hay tres cosas clave que diferencian el Mapa de participación:
 
 >[!MORELIKETHIS]
 >
->* [Pestaña Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [Pestaña Configuración](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [Ficha Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Ficha Configuración](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

@@ -17,9 +17,9 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 
 >[!PREREQUISITES]
 >
->[Creación de una página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Crear una página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
    ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
    >
    >La plantilla define los elementos disponibles en las páginas de aterrizaje guiadas. Si no ve un formulario en el panel Elementos, seleccione una plantilla nueva o hable con el creador de la plantilla.
 
-1. Haga doble clic en **Form** en el panel elemento.
+1. Haga doble clic en **Formulario** en el panel de elementos.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -49,7 +49,7 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
    >
    >La página de seguimiento es la página que verán los usuarios después de enviar el formulario.
 
-1. En este ejemplo utilizaremos Definido por formulario. Clic **Insertar**.
+1. En este ejemplo utilizaremos Definido por formulario. Haga clic en **Insertar**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +57,4 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ahora solo tiene que cerrar el editor de páginas de aterrizaje y [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Ahora solo cierra el editor de páginas de aterrizaje y [aprueba el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

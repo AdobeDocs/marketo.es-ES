@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Utilice contenido dinámico en los correos electrónicos para enviar la información de destino de los posibles clientes.
 
 >[!NOTE]
 >
->El uso de variables dentro del contenido dinámico en un correo electrónico solo se admite cuando se utilizan campañas de Déclencheur. Lo es **no** se admite al usar campañas por lotes.
+>El uso de variables dentro del contenido dinámico en un correo electrónico solo se admite cuando se utilizan campañas de Déclencheur. Se admite **no** al usar campañas por lotes.
 
 ## Añadir segmentación {#add-segmentation}
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/1.2.png)
 
-1. En este ejemplo estamos haciendo que la Línea de asunto sea dinámica. Haga clic en el campo Subject y luego haga clic en el botón **Hacer dinámico** botón.
+1. En este ejemplo estamos haciendo que la Línea de asunto sea dinámica. Haga clic en el campo Asunto y, a continuación, haga clic en el botón **Convertir en dinámico**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >También puede hacer que un elemento dentro del correo electrónico sea dinámico. Para ello, seleccione el área, haga clic en el icono de engranaje y seleccione **Hacer dinámico** (o [Reemplazar por fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), dependiendo de lo que esté haciendo).
+   >También puede hacer que un elemento dentro del correo electrónico sea dinámico. Para ello, seleccione el área, haga clic en el icono de engranaje y seleccione **Hacer dinámico** (o [Reemplazar con fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), según lo que esté haciendo).
 
 1. Introduzca el nombre de la segmentación, selecciónela y haga clic en **Guardar**.
 
@@ -76,4 +76,4 @@ Utilice contenido dinámico en los correos electrónicos para enviar la informac
 >[!MORELIKETHIS]
 >
 >* [Vista previa de un correo electrónico con contenido dinámico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [Uso de contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [Usar contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

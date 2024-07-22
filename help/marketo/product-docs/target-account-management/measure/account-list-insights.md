@@ -44,16 +44,16 @@ Para ver el tablero de una lista de cuentas, simplemente haga clic en su nombre.
 
 ## Pestaña Cuentas con nombre {#named-accounts-tab}
 
-Haga clic en **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
+Haga clic en la ficha **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Puede quitar una cuenta con nombre en esta pestaña seleccionándola y haciendo clic en **Eliminar cuentas con nombre**.
+>Puede quitar una cuenta con nombre en esta ficha seleccionándola y haciendo clic en **Quitar cuentas con nombre**.
 
 ## Utilizado por ficha {#used-by-tab}
 
-Haga clic en **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
+Haga clic en la ficha **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
 
 ![](assets/four-2.png)

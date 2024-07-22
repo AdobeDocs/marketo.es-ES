@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Documentos de Marketo - Documentación del producto
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 23%
+ht-degree: 19%
 
 ---
 
@@ -33,7 +33,7 @@ Este programa de ejemplo es para procesos operativos para rastrear la adquisici�
  </tbody> 
 </table>
 
-## El programa contiene los siguientes recursos {#program-contains-the-following-assets}
+## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,23 +64,23 @@ Este programa de ejemplo es para procesos operativos para rastrear la adquisici�
 
 ## Reglas de conflicto {#conflict-rules}
 
-* **Etiquetas del programa**
+* **Etiquetas de programas**
    * Crear etiquetas en esta suscripción: _Recomendado_
    * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
-   * Copiar plantilla original - _Recomendado_
+   * Copiar plantilla original: _Recomendado_
    * Usar plantilla de destino
 
 * **Imágenes con el mismo nombre**
-   * Mantener ambos archivos - _Recomendado_
+   * Conservar ambos archivos: _Recomendado_
    * Reemplazar elemento en esta suscripción
 
-* **Plantillas de email con el mismo nombre**
-   * Mantener ambas plantillas - _Recomendado_
+* **Plantillas de correo electrónico con el mismo nombre**
+   * Mantener ambas plantillas: _Recomendado_
    * Reemplazar plantilla existente
 
-## Prácticas recomendadas {#best-practices}
+## Mejores prácticas {#best-practices}
 
 * Ejecute primero la campaña por lotes si necesita ponerse al día en la administración de datos.
 

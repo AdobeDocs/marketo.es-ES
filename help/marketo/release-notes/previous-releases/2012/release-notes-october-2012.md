@@ -6,7 +6,7 @@ exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Descubra quién ha estado compartiendo su contenido y votando en sus encuestas c
 
 ## Perfiles sociales {#social-profiles}
 
-Ahora puede recopilar información sobre los posibles clientes cuando compartan contenido o rellenen formularios con sus perfiles sociales. Esto incluye los identificadores de Facebook, LinkedIn y Twitter, el número de amigos que tienen y más.
+Ahora puede recopilar información sobre los posibles clientes cuando compartan contenido o rellenen formularios con sus perfiles sociales. Esto incluye identificadores de Facebook, LinkedIn y Twitter, el número de amigos que tienen y más.
 
 ## Suscripciones del informe del Explorador de ingresos {#revenue-explorer-report-subscriptions}
 

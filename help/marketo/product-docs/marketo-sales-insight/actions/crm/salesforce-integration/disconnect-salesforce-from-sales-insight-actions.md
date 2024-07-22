@@ -18,7 +18,7 @@ A veces, es posible que tenga que desconectar su cuenta de Salesforce de su cuen
 
 ## Cómo desconectarse de Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En Acciones de información de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
@@ -32,7 +32,7 @@ A veces, es posible que tenga que desconectar su cuenta de Salesforce de su cuen
 
 ## Cómo desconectarse de Salesforce sin ser administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En Acciones de información de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 

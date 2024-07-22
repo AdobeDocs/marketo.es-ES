@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Desglose en un informe de rendimiento de personas para ver información adicional sobre las personas.
 
-1. Haga clic en **Informe** para ver cualquier informe existente.
+1. Haga clic en la ficha **Informe** para ver cualquier informe existente.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Desglose en un informe de rendimiento de personas para ver información adiciona
 
    ![](assets/two.png)
 
-1. Haga clic en **Profundizar en**.
+1. Haz clic en **explorar en profundidad**.
 
    ![](assets/three.png)
 
-1. En el **Profundizar en** , seleccione el atributo al que desee profundizar. Luego haga clic en **Profundizar en**.
+1. En la ventana emergente **Explorar en profundidad**, seleccione el atributo al que desea explorar en profundidad. Luego haga clic en **explorar en profundidad**.
 
    ![](assets/four.png)
 
-1. ¡bueno trabajo! El informe detallado se abrirá en una nueva pestaña. Ahora puede explorar el nuevo informe.
+1. ¡Buen trabajo! El informe detallado se abrirá en una nueva pestaña. Ahora puede explorar el nuevo informe.
 
    >[!TIP]
    >
@@ -39,6 +39,6 @@ Desglose en un informe de rendimiento de personas para ver información adiciona
 
    ![](assets/five.png)
 
-1. Para guardar los resultados (opcional), haga clic en **Exportar** en la parte inferior izquierda.
+1. Para guardar los resultados (opcional), haga clic en el icono **Exportar** en la parte inferior izquierda.
 
    ![](assets/six.png)

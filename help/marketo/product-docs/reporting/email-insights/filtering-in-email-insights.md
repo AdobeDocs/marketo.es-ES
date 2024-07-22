@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -59,10 +59,10 @@ Elija entre intervalos de fechas preestablecidos comunes, seleccione fechas espe
 
 >[!NOTE]
 >
->Los intervalos de fechas se aplican tanto a la página de Analytics como a la de Envíos. El **Comparar** sin embargo, esta opción solo se aplica a la página de Analytics.
+>Los intervalos de fechas se aplican tanto a la página de Analytics como a la de Envíos. Sin embargo, la opción **Comparar** solo se aplica a la página de Analytics.
 
-## Marketing basado en cuentas {#account-based-marketing}
+## Marketing basado en la cuenta {#account-based-marketing}
 
-Si utiliza [Administración de cuentas de Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), hay filtros específicos para usted.
+Si usa [Administración de cuentas de Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), hay filtros específicos para usted.
 
 ![](assets/abm.png)

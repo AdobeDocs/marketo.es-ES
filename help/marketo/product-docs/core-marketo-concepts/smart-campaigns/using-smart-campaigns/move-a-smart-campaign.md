@@ -17,17 +17,17 @@ Mueva una campaña inteligente entre diferentes programas o carpetas mediante la
 
 >[!CAUTION]
 >
->Dado que las reglas no cambiarán, si los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente esa información para reflejar su nuevo programa, como lo hará _no_ actualización automática.
+>Como las reglas no cambiarán, si los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente esa información para reflejar su nuevo programa, ya que _no_ se actualizará automáticamente.
 
-1. Ir a **[!UICONTROL Actividades de marketing]**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Busque la campaña inteligente que desee mover, haga clic con el botón derecho en ella y seleccione **[!UICONTROL Mover]**.
+1. Busque la campaña inteligente que quiera mover, haga clic con el botón derecho en ella y seleccione **[!UICONTROL Mover]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Seleccione el **[!UICONTROL Hasta]** (destino), **[!UICONTROL Programa]**, y opcional **[!UICONTROL Carpeta]**. Seleccionar **[!UICONTROL Mover]**.
+1. Seleccione **[!UICONTROL Para]** (destino), **[!UICONTROL Programa]** y **[!UICONTROL Carpeta]** opcional. Seleccione **[!UICONTROL Mover]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

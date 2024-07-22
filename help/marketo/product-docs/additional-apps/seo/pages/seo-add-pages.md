@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ¡Tienes páginas! Marketo SEO rastreará automáticamente su sitio y los rastreará. En caso de que nos perdiéramos algunos, ponlos en la aplicación SEO de esta manera:
 
-1. Vaya a la **[!UICONTROL Páginas]** sección.
+1. Vaya a la sección **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Clic **[!UICONTROL Agregar páginas]**.
+1. Haga clic en **[!UICONTROL Agregar páginas]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Escriba las direcciones URL que desee agregar. Clic **[!UICONTROL Añadir]**.
+1. Escriba las direcciones URL que desee agregar. Haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >¿Sabías que puedes [agregar la página a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? ¡Eche un vistazo!
+   >¿Sabía que puede [agregar su página a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? ¡Eche un vistazo!
 
    Los datos de su página pueden tardar un momento en cargarse. Espere al mensaje de alerta verde y actualice la página para actualizar la visualización.
 

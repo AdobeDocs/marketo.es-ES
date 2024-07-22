@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Hacer que una campaña esté visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Hacer que una campaña sea visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Adición de particulares a una campaña {#add-individuals-to-a-campaign}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Para añadir una persona a una Marketo Campaign desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en **People** Ficha.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Haga clic en la casilla de verificación para seleccionar los contactos y haga clic en **Añadir seleccionados a la campaña**.
+1. Haga clic en la casilla de verificación para seleccionar los contactos y haga clic en **Agregar seleccionados a la campaña**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Clic **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
-1. Clic **Campaña de marketing**.
+1. Haga clic en **Campaña de marketing**.
 
 PICC
 
@@ -60,13 +60,13 @@ PICC
 
 PICC
 
-1. Se muestran los contactos que cumplen los requisitos. Clic **Inicio** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
 
 PICC
 
 ## Añadir un grupo a una campaña {#add-a-group-to-a-campaign}
 
-1. Haga clic en **People** Ficha.
+1. Haga clic en la ficha **Personas**.
 
 PICC
 
@@ -74,15 +74,15 @@ PICC
 
 PICC
 
-1. Clic **Añadir un grupo a Campaign**.
+1. Haga clic en **Agregar grupo a Campaign**.
 
 PICC
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Clic **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
 
 PICC
 
-1. Seleccionar **Campaña de marketing**.
+1. Seleccione **Campaña de marketing**.
 
 PICC
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. Se muestran los contactos que cumplen los requisitos. Clic **Inicio** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
 
 PICC

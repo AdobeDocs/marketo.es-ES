@@ -15,6 +15,6 @@ ht-degree: 0%
 
 No podemos eliminar una categoría completa ni mover plantillas en bloque a una nueva categoría en este momento.
 
-Lo que puede hacer es editar cada plantilla dentro de la categoría a un nombre de categoría existente o a un nombre completamente nuevo. Esto moverá todas las plantillas existentes a una carpeta diferente. Una vez que la carpeta esté vacía, desaparecerá.
+Lo que puede hacer es editar cada plantilla dentro de la categoría a un nombre de categoría existente o a un nombre nuevo. Esto moverá todas las plantillas existentes a una carpeta diferente. Una vez que la carpeta esté vacía, desaparecerá.
 
 Estamos trabajando para añadir la capacidad de hacerlo en masa.

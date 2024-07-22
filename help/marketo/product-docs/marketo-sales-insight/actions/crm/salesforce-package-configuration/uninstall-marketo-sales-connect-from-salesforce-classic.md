@@ -4,7 +4,7 @@ title: Desinstalar Marketo Sales Connect de Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1197'
 ht-degree: 8%
 
 ---
@@ -15,15 +15,15 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
 ## Eliminar campos de Conexión de ventas del diseño de página {#remove-sales-connect-fields-from-page-layout}
 
-1. En Salesforce Classic, haga clic en **Configurar**.
+1. En Salesforce Classic, haga clic en **Configuración**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, posibles clientes. A continuación, seleccione **Diseños de página**.
+1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, posibles clientes. Seleccione **Diseños de página**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Clic **Editar** junto a Diseño de posibles clientes.
+1. Haga clic en **Editar** junto al diseño del posible cliente.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
@@ -41,7 +41,7 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
 1. Existen 10 tipos de campos MSC que se pueden agregar a esta sección. Elimine todos los campos que ha añadido o simplemente elimine toda la sección.
 
-1. Clic **Guardado rápido** cuando termine.
+1. Haga clic en **Guardar rápidamente** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
@@ -59,7 +59,7 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Clic **Guardado rápido** cuando termine.
+1. Haga clic en **Guardar rápidamente** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,15 +69,15 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Seleccione los campos de conexión de ventas del área Campos seleccionados y haga clic en la flecha Eliminar. Clic **OK** cuando termine.
+1. Seleccione los campos de conexión de ventas del área Campos seleccionados y haga clic en la flecha Eliminar. Haga clic en **Aceptar** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >La abreviatura MSE _es_ Conexión de ventas. Es solo el nombre anterior, &quot;Marketo Sales Engage&quot;.
+   >La abreviatura MSE _es_ Sales Connect. Es solo el nombre anterior, &quot;Marketo Sales Engage&quot;.
 
-1. Clic **Guardar** cuando haya terminado con la página de posibles clientes.
+1. Haz clic en **Guardar** cuando termines de usar la página de posibles clientes.
 
 ## Eliminar botones de acción masiva de conexión de ventas de la vista de lista de posibles clientes {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
@@ -85,11 +85,11 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Junto a la Vista de lista de posibles clientes, haga clic en **Editar**.
+1. Junto a Vista de lista de posibles clientes, haga clic en **Editar**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Seleccionar **Añadir a MSC Campaign (Classic)**, **Correo electrónico con MSC (clásico)**, y **Insertar en MSC (Classic)** y haga clic en la flecha Quitar. Luego haga clic en **Guardar**.
+1. Seleccione **Agregar a MSC Campaign (Classic)**, **Enviar correo electrónico con MSC (Classic)** y **Insertar en MSC (Classic)**, y haga clic en la flecha Quitar. Luego haz clic en **Guardar**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,9 +97,9 @@ Ya no debería ver los botones en la vista de lista de posibles clientes.
 
 ## Quitar la configuración de MSC para contactos {#remove-msc-configuration-for-contacts}
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
-1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Contactos. A continuación, seleccione **Diseños de página**.
+1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Contactos. Seleccione **Diseños de página**.
 
 1. Junto a Diseño de contacto, haga clic en **Editar**.
 
@@ -107,9 +107,9 @@ Ya no debería ver los botones en la vista de lista de posibles clientes.
 
 ## Quitar la configuración de MSC para la oportunidad {#remove-msc-configuration-for-opportunity}
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
-1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Oportunidades. A continuación, seleccione **Diseños de página**.
+1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Oportunidades. Seleccione **Diseños de página**.
 
 1. Junto a Diseño de oportunidad, haga clic en **Editar**.
 
@@ -121,9 +121,9 @@ La vista de oportunidad solo tiene un botón: &quot;Enviar correo electrónico M
 
 ## Quitar la configuración MSC de la cuenta {#remove-msc-configuration-for-account}
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
-1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Cuenta. A continuación, seleccione **Diseños de página**.
+1. En la barra de navegación izquierda, debajo de Generar, expanda (pero no haga clic en) Personalizar y, a continuación, Cuenta. Seleccione **Diseños de página**.
 
 1. Junto a Diseño de cuenta, haga clic en **Editar**.
 
@@ -135,9 +135,9 @@ La vista de cuenta solo tiene un botón: &quot;Enviar correo electrónico MSE&qu
 
 ## Quitar bandeja de salida de ventas Marketo {#remove-marketo-sales-outbox}
 
-1. En Salesforce, haga clic en **+** en la parte superior de la pantalla.
+1. En Salesforce, haga clic en la ficha **+** en la parte superior de la pantalla.
 
-1. Clic **Personalizar mis fichas**.
+1. Haga clic en **Personalizar mis fichas**.
 
 1. Seleccione la opción Marketo Sales Outbox de la derecha. Haga clic en la flecha Quitar y luego en **Guardar**.
 
@@ -145,13 +145,13 @@ La vista de cuenta solo tiene un botón: &quot;Enviar correo electrónico MSE&qu
 
 Una vez que haya eliminado todos los objetos de su cuenta de Salesforce, siga los pasos a continuación.
 
-1. En Salesforce, haga clic **Configurar**.
+1. En Salesforce, haga clic en **Configuración**.
 
 1. En el cuadro Búsqueda rápida, escriba &quot;Clases Apex&quot;.
 
-1. Clic **Eliminar** junto a todas las entradas &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; de la lista.
+1. Haga clic en **Eliminar** junto a todas las entradas &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; de la lista.
 
-¡Ya está todo listo!
+Ya está todo listo.
 
 Esta es una lista de todos los objetos que deben eliminarse de la instancia de Salesforce:
 
@@ -192,19 +192,19 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>Etapa actual de campaña de MSC</td>
   <td>Si un contacto/posible cliente está en una campaña, este campo registrará el nombre del paso en el que se encuentra actualmente</td>
   <td>Actividad</td>
-  <td>Casilla</td>
+  <td>Casilla de verificación</td>
  </tr>
  <tr>
   <td>Archivos adjuntos de correo electrónico MSC vistos</td>
   <td>Registra datos cuando se envía un correo electrónico con un archivo adjunto que ve el destinatario</td>
   <td>Actividad</td>
-  <td>Casilla</td>
+  <td>Casilla de verificación</td>
  </tr>
  <tr>
   <td>Correo electrónico MSC pulsado</td>
   <td>Registra una marca de verificación cuando el destinatario hace clic en un vínculo del correo electrónico</td>
   <td>Actividad</td>
-  <td>Casilla</td>
+  <td>Casilla de verificación</td>
  </tr>
  <tr>
   <td>Correo electrónico MSC respondido</td>
@@ -240,7 +240,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>Correo electrónico MSC visto</td>
   <td>Registra una marca de verificación cuando el destinatario ve un correo electrónico</td>
   <td>Actividad</td>
-  <td>Casilla</td>
+  <td>Casilla de verificación</td>
  </tr>
 </table>
 
@@ -257,7 +257,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -267,7 +267,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -277,17 +277,17 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>MSC: último origen de participación de marketing</td>
-  <td>Origen de la participación de marketing</td>
+  <td>MSC: Último Source de participación de marketing</td>
+  <td>Participación de Source of Marketing</td>
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -297,7 +297,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -307,7 +307,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -317,7 +317,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -327,7 +327,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -337,7 +337,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -347,9 +347,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
-  <td>Casilla</td>
+  <td>Casilla de verificación</td>
  </tr>
 </table>
 
@@ -365,7 +365,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>
   <p>Cuenta 
   <p>Contacto 
-  <p>Cliente potencial 
+  <p>Posible cliente 
   <p>Oportunidad</td>
  </tr>
  <tr>
@@ -373,21 +373,21 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>Agregar a campañas MSC desde Salesforce</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
  <tr>
   <td>Insertar en MSC</td>
   <td>Contacto push de Salesforce a MSC</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
  <tr>
   <td>Llamar con MSC</td>
   <td>Realizar llamadas de ventas desde Salesforce</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
 </table>
 
@@ -402,20 +402,20 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>Agregar a campañas MSC desde Salesforce</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
  <tr>
   <td>Insertar en MSC (Classic)</td>
   <td>Contacto push de Salesforce a MSC</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
  <tr>
   <td>Correo electrónico con MSC (clásico)</td>
   <td>Correo electrónico con MSC de Salesforce</td>
   <td>
   <p>Contacto
-  <p>Cliente potencial</td>
+  <p>Posible cliente</td>
  </tr>
 </table>

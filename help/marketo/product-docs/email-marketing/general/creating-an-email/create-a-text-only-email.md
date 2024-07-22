@@ -17,21 +17,21 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 
 >[!NOTE]
 >
->Dado que el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible) rastrea las aperturas, es **no** No se pueden rastrear correos electrónicos de solo texto.
+>Dado que el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible) rastrea las aperturas, **no** pueden rastrearse para correos electrónicos de solo texto.
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya al área de **Actividades de mercadotecnia**.
 
    ![](assets/one-1.png)
 
-1. Seleccione el programa y haga clic en **Nuevo** y seleccione. **Nuevo recurso local**.
+1. Seleccione su programa, haga clic en el menú desplegable **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/two-1.png)
 
-1. Seleccionar **Correo electrónico**.
+1. Seleccione **Correo electrónico**.
 
    ![](assets/three-1.png)
 
-1. Introduzca una **Nombre**, seleccione una plantilla y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione una plantilla y haga clic en **Crear**.
 
    ![](assets/four-1.png)
 
@@ -39,19 +39,19 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 
    ![](assets/five.png)
 
-1. Marque **Solo texto** y haga clic en **Guardar**.
+1. Comprueba **Solo texto** y haz clic en **Guardar**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Los vínculos no se rastrean automáticamente en correos electrónicos solo de texto. Consulte cómo [Adición de vínculos rastreados a un correo electrónico de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Los vínculos no se rastrean automáticamente en correos electrónicos solo de texto. Ver cómo [agregar vínculos rastreados a un correo electrónico de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >También puede editar un correo electrónico existente y cambiar esta configuración. No te olvides de aprobar el borrador.
 
-1. Desmarque la **Copiar automáticamente desde el HTML** casilla de verificación
+1. Desmarque la casilla de verificación **Copiar automáticamente del HTML**.
 
    ![](assets/seven.png)
 

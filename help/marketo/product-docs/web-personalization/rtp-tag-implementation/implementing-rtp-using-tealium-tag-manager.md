@@ -6,7 +6,7 @@ exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Vaya a la pestaña Etiquetas y añada la etiqueta de contenedor personalizada Tealium, ubicada en la pestaña Varios del mercado de etiquetas.
 
-1. En el campo Title, introduzca **MARKETO RTP** y haga clic en **Finalizar**.
+1. En el campo Título, escriba **Marketo RTP** y haga clic en **Finalizar**.
 
 1. Guarde los cambios.
 
@@ -31,7 +31,7 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. En el menú Administración, haga clic en **Administrar plantillas** en Administración de cuentas.
 
-1. Seleccionar **Contenedor personalizado de Tealium: Marketo RTP** en la lista desplegable para abrir la plantilla de etiqueta.
+1. Seleccione **Contenedor personalizado Tealium: Marketo RTP** de la lista desplegable para abrir la plantilla de etiqueta.
 
 1. Inicie sesión en su cuenta de RTP.
 
@@ -43,14 +43,14 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
 
-1. Copie la etiqueta JavaScript de RTP y péguela entre Start Tag Library Code y End Tag Library Code en la plantilla de perfil de Tealium.
+1. Copie la etiqueta RTP JavaScript y péguela entre Start Tag Library Code y End Tag Library Code en la plantilla de perfil de Tealium.
 
    >[!NOTE]
    >
    >**Pasos importantes**
    >
-   >Retire el `<!-- RTP tag -->` y `<!-- End of RTP tag -->` etiquetas del código que coloque en este archivo.
+   >Quite las etiquetas `<!-- RTP tag -->` y `<!-- End of RTP tag -->` del código que coloque en este archivo.
    >
-   >Eliminar cualquiera `<script type='text/javascript'>` y `</script>` etiquetas del código que coloque en este archivo.
+   >Elimine las etiquetas `<script type='text/javascript'>` y `</script>` del código que coloque en este archivo.
 
 1. **Haga clic en Guardar plantilla de perfil** y publique su nuevo perfil.

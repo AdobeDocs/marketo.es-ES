@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puedes hacer algunas ediciones en los anuncios de la página de todo el contenido.
 
-1. En el **Todo el contenido** , pase el ratón sobre la fila del título que quiere editar y haga clic en el icono de edición.
+1. En la página **Todo el contenido**, pase el ratón sobre la fila del título que quiera editar y haga clic en el icono de edición.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,10 +23,10 @@ Puedes hacer algunas ediciones en los anuncios de la página de todo el contenid
 
    ![](assets/edit-content-2.png)
 
-1. Haga clic en **Categorías** campo para añadir o quitar categorías. Seleccione nuevas en la lista desplegable. Puede quitar una categoría seleccionada actualmente haciendo clic en su **X**.
+1. Haga clic en el campo **Categorías** para agregar o quitar categorías. Seleccione nuevas en la lista desplegable. Puede quitar una categoría seleccionada actualmente haciendo clic en su **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Compruebe la **Aprobar para contenido predictivo** casilla para aprobar o desmarque la casilla para desaprobar. Clic **Guardar** cuando termine.
+1. Marque la casilla **Aprobar contenido predictivo** para aprobarla o desmarque la casilla para desaprobarla. Haga clic en **Guardar** cuando termine.
 
    ![](assets/edit-content-4.png)

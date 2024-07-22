@@ -6,7 +6,7 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ En la versión de abril de 2015 se incluyen las siguientes funciones. Compruebe 
 >
 >Esta función se lanzará el martes 28 de abril.
 
-El nuevo [Página de inicio de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes específicos en todos los tipos de informes disponibles.
+La nueva [página de inicio de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes específicos en los tipos de informes disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ Además, ahora está disponible la organización de informes privados frente a c
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-**Marketo Mobile Engagement**
+**Participación de Marketo Mobile**
 
 Con Marketo Mobile Engagement, ofrecer experiencias móviles atractivas es fácil. Cree campañas altamente personalizadas que proporcionen contenido atractivo sin tener que depender nunca de un equipo de desarrollo de aplicaciones. Los nuevos filtros y déclencheur le permiten escuchar y responder en el canal móvil mediante notificaciones push.
 
@@ -41,7 +41,7 @@ Con Marketo Mobile Engagement, ofrecer experiencias móviles atractivas es fáci
 
 [Integración de linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Amplíe su estrategia de nutrición de clientes potenciales a anuncios sociales y de exhibición de pago. El [integración de red de anuncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator puede crear de forma segura un segmento de audiencia dentro de LinkedIn basado en los miembros de cualquier lista inteligente o estática. Los miembros dentro de un segmento de audiencia de LinkedIn se pueden nutrir con una secuencia de anuncios relevantes.
+Amplíe su estrategia de nutrición de clientes potenciales a anuncios sociales y de exhibición de pago. La integración de [red de anuncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator te permite crear de forma segura un segmento de audiencia dentro de LinkedIn basado en los miembros de cualquier lista inteligente o estática. Los miembros dentro de un segmento de audiencia de LinkedIn se pueden nutrir con una secuencia de anuncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -53,6 +53,6 @@ Sus funciones favoritas de Sales Insight (fuente de posibles clientes, mejores a
 
 ## RTP: Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP: Account-Based Marketing Analytics**
+**RTP - Account-Based Marketing Analytics**
 
 Obtenga visibilidad instantánea del rendimiento de sus listas de cuentas con nombre clave en función de cada fase del ciclo de compra, con el nuevo gráfico de rendimiento de sus listas de cuentas con nombre. El gráfico muestra el estado de la visita desde la organización clave, desde la sensibilización hasta la acción, en función del número de visitas y el estado del visitante.

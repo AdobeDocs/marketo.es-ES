@@ -6,8 +6,8 @@ exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 1%
+source-wordcount: '403'
+ht-degree: 0%
 
 ---
 
@@ -17,31 +17,31 @@ Los programas de correo electrónico y participación se pueden configurar para 
 
 >[!NOTE]
 >
->La zona horaria del destinatario funciona actualmente **solamente** con contenido de correo electrónico. No funcionará para programas de participación predeterminados.
+>Actualmente, la zona horaria del destinatario funciona **solamente** con contenido de correo electrónico. No funcionará para programas de participación predeterminados.
 
-## Programas de email {#email-programs}
+## Programas de correo electrónico {#email-programs}
 
-Existen dos escenarios principales en los que [programación de un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
+Hay dos escenarios principales cuando [se programa un correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
 1. Programando el programa para que se ejecute en las próximas 25 horas.
 1. Programar el programa para que se ejecute durante más de 25 horas en el futuro (es decir, la semana que viene).
 
-Para adaptarse a cada zona horaria, los programas de correo electrónico programados con Zona horaria del destinatario comienzan a ejecutarse a medianoche en el **primero/primero** zona horaria mundial (UTC +14:00).
+Para adaptarse a cada zona horaria, los programas de correo electrónico programados con la zona horaria del destinatario comienzan a ejecutarse a medianoche en la zona horaria **primero/más temprano** del mundo (UTC +14:00).
 
 ## Programas de participación {#engagement-programs}
 
-Cuando usted [programar un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la zona horaria del destinatario está activa, el programa de reparto empezará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este reparto.
+Cuando [programe un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la zona horaria del destinatario esté activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este reparto.
 
 ## Cálculo de zona horaria {#calculating-time-zone}
 
 Marketo calcula la zona horaria en función de la ciudad, el estado, el país o el código postal de una persona. Si no podemos calcular la zona horaria de alguien a partir de estos valores, volvemos a los campos Ciudad deducida, Estado deducido, País deducido y Código postal deducido.
 
-En los casos en que **solamente** País o región **solamente** Estado disponible:
+En casos en los que tenemos **solamente** país o **solamente** estado disponibles:
 
 * Para los países con tres o menos zonas horarias, seleccionamos la zona horaria media.
 * Para los estados con dos zonas horarias, se selecciona la anterior de las dos.
 
-Si todavía no podemos determinar la zona horaria de alguien a partir de cualquier combinación de estos campos, lo haremos **no** asigne una zona horaria y el correo electrónico se enviará en función de la zona horaria de suscripción de Marketo. Por lo tanto, si el programa está programado para la PDT de las 9:00 a. m., las personas sin zona horaria asignada se enviarán por correo electrónico a la PDT de las 9:00 a. m.
+Si todavía no podemos determinar la zona horaria de alguien a partir de cualquier combinación de estos campos, **no** asignaremos una zona horaria y el correo electrónico se enviará según la zona horaria de suscripción de Marketo. Por lo tanto, si el programa está programado para la PDT de las 9:00 a. m., las personas sin zona horaria asignada se enviarán por correo electrónico a la PDT de las 9:00 a. m.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Si todavía no podemos determinar la zona horaria de alguien a partir de cualqui
 
 >[!MORELIKETHIS]
 >
->* [Programar programas de correo electrónico con zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Programar programas de correo electrónico con zona horaria de destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start para programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
 >* [Programar programas de participación con la zona horaria del destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

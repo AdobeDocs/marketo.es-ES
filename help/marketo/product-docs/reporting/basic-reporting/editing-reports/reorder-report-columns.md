@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puede cambiar el orden de las columnas en un informe.
 
-1. Vaya a la **Actividades de marketing** (o **Analytics**) área.
+1. Vaya al área de **Actividades de marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en **Informe** pestaña.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -35,4 +35,4 @@ Puede cambiar el orden de las columnas en un informe.
 
    >[!MORELIKETHIS]
    >
-   >[Seleccionar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Seleccionar columnas de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

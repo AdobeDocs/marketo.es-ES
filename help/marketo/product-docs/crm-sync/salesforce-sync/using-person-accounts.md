@@ -37,11 +37,11 @@ Utilice el filtro &quot;Es cuenta de persona&quot; de la lista inteligente para 
 
 ## ¿Dónde se muestra la información de mis cuentas de persona en Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Las actividades relacionadas con cuentas de persona se muestran en la variable **[!UICONTROL Cuenta]** panel.
+Las actividades relacionadas con cuentas de persona se muestran en el panel **[!UICONTROL Cuenta]**.
 
 >[!NOTE]
 >
->Datos de ventas de Marketo **[!UICONTROL Añadir a Marketo Campaign]** y **[!UICONTROL Enviar correo electrónico]** Las opciones de no están disponibles actualmente para cuentas de persona.
+>Las opciones **[!UICONTROL Añadir a Marketo Campaign]** y **[!UICONTROL Enviar correo electrónico]** de Marketo Sales Insight no están disponibles actualmente para las cuentas de persona.
 
 ## ¿Cómo asocio oportunidades a una cuenta de persona? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo depende de la función de contacto de la oportunidad para determinar a q
 
 ## ¿Qué campo de correo electrónico debo usar para las cuentas de persona? {#which-email-field-should-i-use-for-person-accounts}
 
-Hay dos campos de correo electrónico para una cuenta de persona. Utilice el **Correo electrónico** en los formularios (no en el campo **Dirección de correo electrónico de persona**) para garantizar que la deduplicación de Marketo y otro procesamiento de correo electrónico funcionen correctamente.
+Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo **Dirección de correo electrónico** en sus formularios (no la **Dirección de correo electrónico de la persona**) para asegurarse de que la deduplicación de Marketo y otros procesos de correo electrónico funcionen correctamente.

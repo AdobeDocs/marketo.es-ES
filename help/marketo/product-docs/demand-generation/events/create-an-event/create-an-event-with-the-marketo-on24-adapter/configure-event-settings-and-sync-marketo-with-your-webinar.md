@@ -6,8 +6,8 @@ exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON2
 
 ## Configurar el evento {#set-the-event}
 
-1. Elija el evento que desea asociar a un seminario web ON24 y, a continuación, haga clic en **Acciones de evento** y seleccione. **Configuración de eventos**.
+1. Elija el evento que desea asociar a un seminario web ON24, luego haga clic en la lista desplegable **Acciones de evento** y seleccione **Configuración de evento**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON2
 
    ![](assets/three.png)
 
-1. Introduzca el ID de evento (obténgalo de ON24). Clic **Guardar**.
+1. Introduzca el ID de evento (obténgalo de ON24). Haga clic en **Guardar**.
 
    ![](assets/four.png)
 
@@ -41,19 +41,19 @@ Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON2
 
 Al configurar un evento asociado a un seminario web ON24, la programación de eventos se rellena con datos de ON24. Para acceder al cuadro de diálogo Programación de eventos, siga estos pasos.
 
-1. Seleccione el evento. Haga clic en **Acciones de evento** y seleccione. **Programar.**
+1. Seleccione el evento. Haga clic en el menú desplegable **Acciones de evento** y seleccione **Programar.**
 
    ![](assets/five.png)
 
-1. Elija su **Fecha de inicio, fecha de finalización**, y **Zona horaria**. Clic **Guardar**.
+1. Elija su **fecha de inicio, fecha de finalización** y **zona horaria**. Haga clic en **Guardar**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Si actualiza cualquier información de evento en ON24, debe hacer clic en **Actualizar del proveedor de seminarios web** en el menú Acciones de evento para ver los nuevos datos rellenados.
+   >Si actualiza cualquier información de evento en ON24, debe hacer clic en **Actualizar del proveedor de seminarios web** en el menú Acciones de evento para ver cómo se rellenan los nuevos datos.
 
-Ahora puede pasar al siguiente paso: [creación de campañas secundarias y recursos locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
+Ahora puede pasar al siguiente paso: [crear campañas secundarias y recursos locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 La primera vez que se sincroniza con Microsoft Dynamics, se descarga la versión más reciente de los complementos de Marketo. Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar donde desea descargar la nueva versión.
 
-[Descargar el complemento más reciente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondiente a su versión de Dynamics.
+[Descargue el complemento más reciente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondiente a su versión de Dynamics.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Actualización de la solución de Dynamics {#updating-your-dynamics-solution}
 
-1. Importe la última versión de la solución a través de la versión existente de su Dynamics CRM (por ejemplo, si su Dynamics CRM tiene la versión 1.4 y la última versión es 1.5, importaría _sobre_ versión 1.4).
+1. Importe la última versión de la solución a través de la versión existente de su Dynamics CRM (p. ej.: si su Dynamics CRM tiene la versión 1.4 y la última es la 1.5, importaría _más de_ la versión 1.4).
 
-1. Verá la siguiente ventana emergente. Seleccionar **Actualizar** y **Mantener personalizaciones**, luego haga clic en **Importar**.
+1. Verá la siguiente ventana emergente. Seleccione **Actualizar** y **Mantener personalizaciones**, y luego haga clic en **Importar**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 

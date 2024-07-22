@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Aprenda a personalizar el aspecto de la ventana de diálogo del bot de chat.
 
-Para empezar, haga clic en **Configuración de bots de chat** bajo **Configuración**.
+Para comenzar, haga clic en **Configuración del bot de chat** en **Configuración**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +28,7 @@ Hay varias opciones de personalización diferentes.
 
 Aquí es donde definirá el aspecto del bot de chat donde se mostrarán los cuadros de diálogo, incluidos: colores, fuentes, ubicación del widget del bot y el nombre/avatar del bot de chat.
 
-El color de cada categoría está determinado por una [valor de color hexadecimal](https://color.adobe.com/create/color-wheel){target="_blank"} (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
+El color de cada categoría está determinado por un [valor de color hexadecimal](https://color.adobe.com/create/color-wheel){target="_blank"} (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
 
 ![](assets/configuration-3.png)
 
@@ -38,7 +38,7 @@ El anclaje permite al visitante del sitio abrir/cerrar el cuadro de diálogo. Pu
 
 ### Configuración de bots {#agent-settings}
 
-En Configuración de bots, puede añadir una etiqueta a su cuadro de diálogo (por ejemplo: &quot;Ayudante de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de la respuesta (en segundos) y cambiar el avatar del chat. Para cargar su propia imagen de avatar, haga clic en **+** botón.
+En Configuración de bots, puede añadir una etiqueta a su cuadro de diálogo (por ejemplo: &quot;Ayudante de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de la respuesta (en segundos) y cambiar el avatar del chat. Para cargar su propia imagen de avatar, haga clic en el botón **+**.
 
 ![](assets/configuration-5.png)
 
@@ -46,13 +46,13 @@ En Configuración de bots, puede añadir una etiqueta a su cuadro de diálogo (p
 >
 >Los avatares personalizados deben ser imágenes cuadradas de menos de 256 kb y más pequeñas que 200 x 200 px. Los tipos de archivo admitidos son: .jpg, .png, .gif, .webp, .svg.
 
-Cuando haya terminado de realizar cambios, recuerde hacer clic en **Guardar**.
+Cuando hayas terminado de hacer cambios, recuerda hacer clic en **Guardar**.
 
 ![](assets/configuration-6.png)
 
 ## Pestaña Privacidad {#privacy-tab}
 
-Haga clic en **Privacidad** para añadir o editar la dirección URL de la política de privacidad del sitio (opcional).
+Haga clic en la ficha **Privacidad** para agregar o editar la dirección URL de la directiva de privacidad del sitio (opcional).
 
 ![](assets/configuration-7.png)
 

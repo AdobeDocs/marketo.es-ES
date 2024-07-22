@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Siga los pasos de este artículo para otorgar a los usuarios de Acciones de perspectiva de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en el canal en directo y acceso a Campañas de marketing.
 
-Tendrá que invitar a usuarios a [Acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso del equipo (en Acciones de perspectiva de ventas), donde se concede acceso a la conexión de Marketo.
+Deberá invitar a usuarios a [Acciones de información de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso al equipo (en Acciones de información de ventas), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
@@ -28,7 +28,7 @@ Tendrá que invitar a usuarios a [Acciones de perspectiva de ventas](/help/marke
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Haga clic en **Acceso de usuario** pestaña. Seleccione uno o varios usuarios y haga clic en **Connect**.
+1. Haga clic en la ficha **Acceso de usuario**. Seleccione uno o más usuarios y luego haga clic en **Conectar**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ Tendrá que invitar a usuarios a [Acciones de perspectiva de ventas](/help/marke
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **PASO OPCIONAL**: haga clic en el menú desplegable Espacio de trabajo y seleccione los espacios de trabajo que desee.
+   **PASO OPCIONAL**: Haga clic en la lista desplegable Workspace y seleccione los espacios de trabajo que desee.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Clic **Connect**.
+1. Haga clic en **Conectar**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

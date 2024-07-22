@@ -6,7 +6,7 @@ exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 En realidad, hay varios tipos diferentes de cancelaciones de suscripción integradas en Marketo. Todos se representan mediante campos en el objeto de persona, como Nombre.
 
-Todos estos campos están incorporados en la suscripción a Marketo. Todos son de tipo booleano (casilla de verificación). Pueden utilizarse en Forms o [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) pasos de flujo.
+Todos estos campos están incorporados en la suscripción a Marketo. Todos son de tipo booleano (casilla de verificación). Se pueden usar en pasos de flujo de Forms o [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Suscripción cancelada {#unsubscribed}
 
@@ -35,6 +35,6 @@ Este estado impide que una persona envíe correos durante 24 horas después de q
 
 ## Está en la lista de bloqueos {#blocklisted}
 
-[Utilícelo para personas como la competencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Cualquiera que desee recibir **no** correos electrónicos: operativos, de marketing, etc. ¡No reciben nada!
+[Use esto para personas como la competencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Cualquiera que desee recibir **no** correos electrónicos: operativos, de marketing, etc. ¡No reciben nada!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

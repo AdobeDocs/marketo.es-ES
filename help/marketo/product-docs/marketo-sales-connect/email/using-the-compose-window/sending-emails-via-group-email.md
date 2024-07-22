@@ -6,7 +6,7 @@ exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Envío de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en **People** pestaña.
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -35,7 +35,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Edición de un correo electrónico de grupo {#editing-a-group-email}
 
-1. Crear un correo electrónico de grupo mediante [Pasos 1 a 3 anteriores](#sending-a-group-email).
+1. Cree un correo electrónico de grupo mediante [Pasos del 1 al 3 anteriores](#sending-a-group-email).
 
 1. Elija una plantilla o complete su correo electrónico.
 
@@ -49,7 +49,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/edit-four.png)
 
-1. Clic **Previsualizar campos dinámicos** y vea la vista previa a la derecha.
+1. Haga clic en **Vista previa de campos dinámicos** y vea la vista previa a la derecha.
 
    ![](assets/edit-five.png)
 

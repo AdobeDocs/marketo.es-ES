@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Personalizar flujo de uso compartido de vídeo {#customize-video-share-flow}
 
-Cuando usted [crear un recurso compartido de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puede personalizar cuándo y dónde aparece el mensaje para compartir.
+Cuando [crea un recurso compartido de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puede personalizar cuándo y dónde aparece el mensaje para compartir.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Cuando usted [crear un recurso compartido de vídeo](/help/marketo/product-docs/
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. En el editor de uso compartido de vídeo, vaya a **Configuración de aplicación** > **Opciones avanzadas**.
+1. En el editor de uso compartido de vídeo, ve a **Configuración de la aplicación** > **Opciones avanzadas**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ Cuando usted [crear un recurso compartido de vídeo](/help/marketo/product-docs/
 
 >[!MORELIKETHIS]
 >
->El siguiente paso es [configuración de lo que sucede después de compartir vídeo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>El siguiente paso es [configurar lo que sucede después de compartir el vídeo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

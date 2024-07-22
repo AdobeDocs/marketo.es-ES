@@ -6,8 +6,8 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsof
 
 >[!PREREQUISITES]
 >
->Debe tener [Implementación con Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} Configurado 2.0, 2.1 o 3.0 (ADFS). **Nota**: el documento IFD se descarga automáticamente al hacer clic en el vínculo.
+>Debe tener [Implementación con conexión a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 o 3.0 (ADFS) configurados. **Nota**: el documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
->[Descargar la solución Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de empezar.
+>[Descargue Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de comenzar.
 
 >[!NOTE]
 >
->**Permisos de administración de Dynamics requeridos**.
+>**Se requieren permisos de administración de Dynamics**.
 >
 >Necesita privilegios de administrador de CRM para realizar esta sincronización.
 
@@ -35,23 +35,23 @@ Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsof
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. Seleccionar **[!UICONTROL Soluciones]** en el árbol.
+1. Seleccione **[!UICONTROL Soluciones]** en el árbol.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. Clic **[!UICONTROL Importar]**.
+1. Haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Clic **[!UICONTROL Examinar]**. Seleccione la solución Marketo Lead Management que desee [descargado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Examinar]**. Seleccione la solución Marketo Lead Management [descargada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Vea la información de la solución y haga clic en **[!UICONTROL Ver detalles del paquete de solución]**.
+1. Vea la información de la solución y haga clic en **[!UICONTROL Ver detalles del paquete de la solución]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Cuando haya terminado de comprobar todos los detalles, haga clic en **[!UICONTROL Cerrar]**.
+1. Cuando termine de comprobar todos los detalles, haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
@@ -79,11 +79,11 @@ Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsof
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo Lead Management aparecerá ahora en el **Todas las soluciones** página.
+1. Marketo Lead Management aparecerá en la página **Todas las soluciones**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Seleccione Marketo Lead Management y haga clic en **[!UICONTROL Publicar todas las personalizaciones]**.
+1. Seleccione Marketo Lead Management y haga clic en **[!UICONTROL Publish All Customization]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

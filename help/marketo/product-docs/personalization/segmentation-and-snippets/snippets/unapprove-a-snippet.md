@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Un fragmento no aprobado no se puede utilizar en correos electrónicos o páginas de aterrizaje.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vaya al fragmento y asegúrese de que no lo sea **Utilizado por** cualquier recurso.
+1. Vaya al fragmento y asegúrese de que ningún recurso lo **usa**.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Si otros recursos utilizan el fragmento de código, quite esas asociaciones antes de continuar.
 
-1. Entrada **Acciones de fragmento**, haga clic en **Desaprobar**.
+1. En **Acciones de fragmento**, haga clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 

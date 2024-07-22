@@ -17,13 +17,13 @@ Puede administrar y ver los miembros de sus programas mediante la ficha Miembros
 
 >[!NOTE]
 >
->Profundizar en [abono al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Profundice en [la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Buscar un miembro {#search-for-a-member}
 
 En la parte inferior de la sección Miembros, utilice el campo de búsqueda para buscar miembros del programa por nombre, correo electrónico, cargo o compañía.
 
-1. Haga clic en **[!UICONTROL Miembros]** de su programa.
+1. Haga clic en la ficha **[!UICONTROL Miembros]** de su programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,11 +49,11 @@ Haga clic con el botón derecho en el encabezado de columna para ordenar alfabé
 
 ## Elija qué columnas están visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
 
-1. Haga clic en **[!UICONTROL Ver]** y seleccione. **[!UICONTROL Crear vista]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Vista]** y seleccione **[!UICONTROL Crear vista]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Asigne un nombre a la vista personalizada. Seleccionar títulos de columnas. Clic **[!UICONTROL Añadir]** y **[!UICONTROL Eliminar]** para mover columnas y crear una vista.
+1. Asigne un nombre a la vista personalizada. Seleccionar títulos de columnas. Haga clic en **[!UICONTROL Agregar]** y **[!UICONTROL Quitar]** para mover columnas y crear una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Haga clic con el botón derecho en el encabezado de columna para ordenar alfabé
 
 ## Filtrar la cuadrícula de miembros  {#filter-the-members-grid}
 
-1. Haga clic en **[!UICONTROL Filtrar]** y seleccione un paso de progresión por el que ordenar.
+1. Haga clic en el menú desplegable **[!UICONTROL Filtro]** y seleccione un paso de progresión por el que ordenar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Haga clic con el botón derecho en el encabezado de columna para ordenar alfabé
 
 Puede cambiar el estado de sus personas dentro de la cuadrícula de miembros.
 
-1. Mantenga pulsado **[!UICONTROL Ctrl/Cmd]** y seleccione las personas.
+1. Mantenga presionado **[!UICONTROL Ctrl/Cmd]** y seleccione las personas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Haga clic en **[!UICONTROL Cambiar estado]** y seleccione un estado.
+1. Haga clic en el menú desplegable **[!UICONTROL Cambiar estado]** y seleccione un estado.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Muchas características, pero todas son bastante sencillas. ¡Disfrútelo!
 
 >[!MORELIKETHIS]
 >
->[Crear un informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[Crear un informe de rendimiento de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

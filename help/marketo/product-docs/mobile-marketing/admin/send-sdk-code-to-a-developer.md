@@ -26,11 +26,11 @@ En ocasiones, un administrador debe enviar código SDK a un desarrollador.
 
 Así es como lo haces.
 
-1. Clic **Administrador**.
+1. Haga clic en **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Seleccionar **Aplicaciones móviles**.
+1. Seleccione **Aplicaciones móviles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,11 +38,11 @@ Así es como lo haces.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clic **Acciones de aplicación móvil** y seleccione **Enviar a desarrollador**.
+1. Haga clic en **Acciones de aplicación móvil** y seleccione **Enviar al desarrollador**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Introduzca una dirección de correo electrónico y haga clic en **Enviar**.
+1. Escriba una dirección de correo electrónico y haga clic en **Enviar**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

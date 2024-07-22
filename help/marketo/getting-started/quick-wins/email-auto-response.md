@@ -6,7 +6,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -17,34 +17,34 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
 
-1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/email-auto-response-1.png)
 
-1. Seleccione el programa en el menú de la izquierda y haga clic en **[!UICONTROL Nuevo]** y seleccione... **[!UICONTROL Nuevo recurso local]**.
+1. Seleccione su programa en el menú de la izquierda, haga clic en la lista desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/email-auto-response-2.png)
 
-1. Seleccionar **[!UICONTROL Correo electrónico]**.
+1. Seleccione **[!UICONTROL Correo electrónico]**.
 
    ![](assets/email-auto-response-3.png)
 
-1. Asigne un nombre al correo electrónico &quot;Correo electrónico de respuesta automática&quot;, seleccione una plantilla y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre al correo electrónico &quot;Correo electrónico de respuesta automática&quot;, elija una plantilla y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/email-auto-response-4.png)
 
-   Se abrirá un editor de correo electrónico en una nueva ventana o pestaña. Si las ventanas emergentes están bloqueadas, haga clic en **[!UICONTROL Editar borrador]** en la página resumen de recursos para acceder al correo electrónico.
+   Se abrirá un editor de correo electrónico en una nueva ventana o pestaña. Si los elementos emergentes están bloqueados, haga clic en **[!UICONTROL Editar borrador]** en la página de resumen de recursos para acceder al correo electrónico.
 
 1. Introduzca una línea de asunto y haga doble clic en el área editable del correo electrónico.
 
    ![](assets/email-auto-response-5.png)
 
-   _Se abrirá un editor de texto enriquecido sobre el editor de correo electrónico._
+   _Se abrirá un editor de texto enriquecido en la parte superior del editor de correo electrónico._
 
 1. Resaltar el contenido de correo electrónico existente.
 
@@ -54,55 +54,55 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-7.png)
 
-1. Haga clic en **[!UICONTROL Acciones de correo electrónico]** y seleccione. **[!UICONTROL Aprobar y cerrar]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/email-auto-response-8.png)
 
 ## Paso 2: Crear una campaña inteligente {#step-create-a-smart-campaign}
 
-1. Seleccione el programa y haga clic en **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Nueva campaña inteligente]**.
+1. Seleccione su programa, haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/email-auto-response-9.png)
 
-1. **Nombre** Seleccione la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en **[!UICONTROL Crear]**.
+1. **Asigne un nombre** a la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/email-auto-response-10.png)
 
-1. Vaya a la **[!UICONTROL Lista inteligente]** pestaña.
+1. Vaya a la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/email-auto-response-11.png)
 
-   Estamos configurando esta campaña para que se ejecute cada vez que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
+   Estamos configurando esta campaña para que se ejecute cada vez que una persona rellene el formulario que creó en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
-1. Busque y arrastre el **[!UICONTROL Rellena el formulario]** déclencheur al lienzo.
+1. Busque y arrastre el déclencheur **[!UICONTROL Rellena formulario]** al lienzo.
 
    ![](assets/email-auto-response-12.png)
 
-1. Seleccionar **[!UICONTROL Mi formulario]** en la lista desplegable. Luego haga clic en **[!UICONTROL Flujo]** pestaña.
+1. Seleccione **[!UICONTROL Mi formulario]** en la lista desplegable. Luego haga clic en la ficha **[!UICONTROL Flujo]**.
 
    ![](assets/email-auto-response-13.png)
 
-1. Arrastre el **[!UICONTROL Enviar correo electrónico]** acción de flujo en el lienzo izquierdo.
+1. Arrastre la acción de flujo **[!UICONTROL Enviar correo electrónico]** al lienzo izquierdo.
 
    ![](assets/email-auto-response-14.png)
 
-1. Seleccione su **Correo electrónico de respuesta automática**. Luego haga clic en **[!UICONTROL Programación]** pestaña.
+1. Seleccione su **correo electrónico de respuesta automática**. Luego haga clic en la ficha **[!UICONTROL Programar]**.
 
    ![](assets/email-auto-response-15.png)
 
-1. Clic **[!UICONTROL Editar]**.
+1. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/email-auto-response-16.png)
 
-1. Seleccionar **[!UICONTROL cada vez]** y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione **[!UICONTROL cada vez]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/email-auto-response-17.png)
 
-1. Clic **[!UICONTROL Activar]**.
+1. Haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/email-auto-response-18.png)
 
-1. Clic **[!UICONTROL Activar]** en la pantalla de confirmación.
+1. Haz clic en **[!UICONTROL Activar]** en la pantalla de confirmación.
 
    ![](assets/email-auto-response-19.png)
 
@@ -112,11 +112,11 @@ ht-degree: 0%
 
 ## Paso 3: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccionar **Mi página** (se creó en el [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} ganancia rápida) y haga clic en **[!UICONTROL Previsualizar]**.
+1. Seleccione **Mi página** (se creó en la [página de aterrizaje con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}) y haga clic en **[!UICONTROL Vista previa]**.
 
    ![](assets/email-auto-response-20.png)
 
-   _La página de aterrizaje &quot;Prueba gratuita&quot; se abrirá en una nueva pestaña._
+   _Su página de aterrizaje de &quot;Prueba gratuita&quot; se abrirá en una nueva pestaña._
 
 1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **[!UICONTROL Enviar]**.
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 ## Misión finalizada {#mission-complete}
 
-En solo unos minutos, debería ver el correo electrónico de respuesta automática en su bandeja de entrada. ¡bueno trabajo!
+En solo unos minutos, debería ver el correo electrónico de respuesta automática en su bandeja de entrada. ¡Buen trabajo!
 
 <br> 
 

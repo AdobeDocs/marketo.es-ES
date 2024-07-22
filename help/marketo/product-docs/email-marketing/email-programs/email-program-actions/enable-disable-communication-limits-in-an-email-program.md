@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Habilitar/deshabilitar límites de comunicación en un programa de correo electrónico {#enable-disable-communication-limits-in-an-email-program}
 
-Al ejecutar un programa de correo electrónico, puede optar por ignorar o respetar el [límites de comunicación a nivel de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Así es como se hace.
+Al ejecutar un programa de correo electrónico, puede optar por ignorar o respetar los [límites de comunicación de nivel de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Así es como se hace.
 
 >[!NOTE]
 >
->Los límites de comunicación son [se establece en la sección Administración](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) y le ayudan a evitar enviar a una persona demasiados correos electrónicos.
+>Los límites de comunicación están [establecidos en la sección de administración](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) y le ayudan a evitar enviar demasiados correos electrónicos a una persona.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Al ejecutar un programa de correo electrónico, puede optar por ignorar o respet
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. En el **Configurar** , haga doble clic en el elemento de línea límite de comunicación.
+1. En la ficha **Configuración**, haga doble clic en el elemento de línea de límite de comunicación.
 
    ![](assets/blockoperational.png)
 
@@ -35,4 +35,4 @@ Al ejecutar un programa de correo electrónico, puede optar por ignorar o respet
 
    ![](assets/ifaperson.jpg)
 
-   Saliendo **Bloquear correos electrónicos no operativos** marcado impedirá enviar el correo electrónico a cualquier persona que haya recibido más correos electrónicos de los permitidos por la configuración de administración.
+   Si se deja **Bloquear correos electrónicos no operativos** marcados, no se podrá enviar el correo electrónico a nadie que haya recibido más correos electrónicos de los que permite la configuración de administración.

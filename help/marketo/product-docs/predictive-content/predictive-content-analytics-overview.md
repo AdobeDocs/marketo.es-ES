@@ -61,7 +61,7 @@ Muestra el contenido de conversión principal por tasa de conversión para el in
 >
 >**Definición**
 >
->**Tasa de conversión**: Un porcentaje calculado por conversiones directas divididas por clics.
+>**Tasa de conversión**: Un porcentaje calculado por conversiones directas dividido por clics.
 
 ## Contenido de tendencias {#trending-content}
 

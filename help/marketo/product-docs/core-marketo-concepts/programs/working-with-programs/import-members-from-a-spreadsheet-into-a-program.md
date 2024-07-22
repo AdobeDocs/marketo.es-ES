@@ -6,7 +6,7 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
 ## Importar el CSV a Marketo {#import-your-csv-into-marketo}
 
-1. En el programa, vaya a **[!UICONTROL Miembros]** sección.
+1. En su programa, vaya a la sección **[!UICONTROL Miembros]**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Clic **[!UICONTROL Importar miembros]**.
+1. Haga clic en **[!UICONTROL Importar miembros]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
@@ -45,13 +45,13 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
    >[!NOTE]
    >
-   >Si hay campos que no desea importar, seleccione **[!UICONTROL IGNORAR]** en el menú desplegable Marketo Field.
+   >Si hay campos que no desea importar, seleccione **[!UICONTROL IGNORAR]** en el menú desplegable Campo de Marketo.
 
-1. Seleccione el **[!UICONTROL Estado de miembro]** para su lista.
+1. Seleccione el **[!UICONTROL estado de miembro]** para su lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Clic **[!UICONTROL Importar]**.
+1. Haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -59,7 +59,7 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Excelente! Debería ver los nuevos miembros importados.
+   ¡Excelente! Debería ver los nuevos miembros importados.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 

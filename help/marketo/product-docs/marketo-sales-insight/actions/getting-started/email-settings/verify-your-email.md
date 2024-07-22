@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 Si tiene una identidad de correo electrónico no verificada, siga los pasos a continuación.
 
-1. Haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/verify-your-email-1.png)
 
@@ -22,11 +22,11 @@ Si tiene una identidad de correo electrónico no verificada, siga los pasos a co
 
    ![](assets/verify-your-email-2.png)
 
-1. En Dirección y firma, busque el correo electrónico que desee verificar y haga clic en **Reenviar correo electrónico de verificación**. Se enviará un nuevo correo electrónico de verificación.
+1. En Dirección y firma, busque el correo electrónico que desea verificar y haga clic en **Reenviar correo electrónico de verificación**. Se enviará un nuevo correo electrónico de verificación.
 
    ![](assets/verify-your-email-3.png)
 
-1. Clic **Reenviar**.
+1. Haga clic en **Reenviar**.
 
    ![](assets/verify-your-email-4.png)
 
@@ -36,4 +36,4 @@ Si tiene una identidad de correo electrónico no verificada, siga los pasos a co
 
 >[!NOTE]
 >
->Si no recibe el correo electrónico de verificación, compruebe su carpeta de correo no deseado. Si no está allí, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si no recibe el correo electrónico de verificación, compruebe su carpeta de correo no deseado. Si no está ahí, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

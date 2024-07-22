@@ -23,7 +23,7 @@ Información adicional sobre los permisos:
 
 ## Permisos disponibles {#available-permissions}
 
-Cuando usted [crear o editar un rol](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas correspondientes.
+Cuando [crea o edita un rol](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite ese rol marcando las casillas correspondientes.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ Cuando usted [crear o editar un rol](/help/marketo/product-docs/administration/u
 Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 
 * Acceso a Adobe Connect: otorga a los usuarios acceso a la pantalla de Adobe Connect
-* Acceso a Adobe Experience Manager&#42; : otorga a los usuarios acceso a la pantalla de Adobe Experience Manager
-* Asignación de organización de Adobe de acceso&#42; : otorga a los usuarios acceso a la pantalla Asignación de organizaciones de Adobe
-* Registro de auditoría de administración de acceso&#42; : otorga a los usuarios acceso a la pantalla Registro de auditoría de administración
-* Registro de auditoría de acceso&#42; : otorga a los usuarios acceso a la pista de auditoría de acceso
+* Acceso a Adobe Experience Manager&#42;: otorga a los usuarios acceso a la pantalla de Adobe Experience Manager
+* Acceso a asignación de organización de Adobe &#42;: otorga a los usuarios acceso a la pantalla de asignación de organización de Adobe
+* Acceso a la pista de auditoría de administración &#42;: otorga a los usuarios acceso a la pantalla Pista de auditoría de administración
+* Pista de auditoría de acceso &#42;: otorga a los usuarios acceso a la pista de auditoría de acceso
 * Pista de auditoría de acceso: otorga a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración
 * Acceso a CAPTCHA: acceso a la pantalla CAPTCHA
 * Acceso a canales: otorga a los usuarios acceso solo para modificar la etiqueta Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso: otorga a los usuarios acceso para habilitar un límite de comunicación en la administración
-* Acceso a CRM: otorga a los usuarios acceso a CRM, como [!DNL Salesforce] o [!DNL Microsoft Dynamics], en Administración
-* Acceso [[!DNL Data.com]](https://data.com) : otorga a los usuarios acceso a la acción de flujo Data.com
+* Acceso a CRM: otorga a los usuarios acceso a CRM, como [!DNL Salesforce] o [!DNL Microsoft Dynamics], en administración
+* Acceso [[!DNL Data.com]](https://data.com): otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso a la administración de correo electrónico: otorga a los usuarios acceso a la administración de correo electrónico para cambiar la configuración predeterminada, como cancelar la suscripción y personalizar la marca de los dominios
 * Acceso a socios de eventos: otorga a los usuarios acceso a LaunchPoint en administración
 * Acceso a Administración de campos: otorga a los usuarios acceso a Administración de campos en Administración
@@ -50,28 +50,28 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Ubicación de acceso: otorga a los usuarios acceso a Ubicación en la administración para establecer el idioma, la configuración regional, la zona horaria y la moneda predeterminados
 * Acceder al historial de inicio de sesión: otorga a los usuarios acceso al historial de inicio de sesión del usuario en la pista de auditoría
 * Configuración de inicio de sesión con acceso: otorga a los usuarios acceso a la configuración de inicio de sesión en Administración para la configuración de seguridad, restricciones de IP e informes de listas inteligentes
-* Acceder a nueva experiencia&#42; : otorga a los usuarios acceso a la pantalla Nueva experiencia
+* Acceder a la nueva experiencia&#42;: otorga a los usuarios acceso a la pantalla Nueva experiencia
 * Acceso a la actividad personalizada de Marketo: otorga a los usuarios acceso a las actividades personalizadas de Marketo en Administración
 * Acceso al objeto personalizado de Marketo: otorga a los usuarios acceso a los objetos personalizados de Marketo en la administración
-* Acceso [!DNL Munchkin] - Acceso de los usuarios de GIves a [!DNL Munchkin] en Administración, para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
-* Acceso a Predictive Audiences&#42; : otorga a los usuarios acceso a la pantalla Audiencias predictivas
+* Acceso [!DNL Munchkin]: los usuarios de GIves obtienen acceso a [!DNL Munchkin] en Administración para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
+* Acceso a Predictive Audiences&#42;: otorga a los usuarios acceso a la pantalla Predictive Audiences
 * Acceso a Revenue Cycle Analytics: otorga a los usuarios acceso a Revenue Cycle Analytics en Administración para configurar la sincronización de resumen y atribución
 * Acceder a funciones: otorga a los usuarios acceso para administrar y editar funciones, pero no para los usuarios
 * Acceder a la perspectiva de ventas: otorga a los usuarios acceso para administrar la perspectiva de ventas en Administración, para establecer el estado, la configuración de la API, la puntuación de persona y otras configuraciones
 * Acceso al inicio de sesión único: otorga a los usuarios acceso para administrar el inicio de sesión único en la administración, para habilitar SAML y trabajar con la configuración de SAML y redirigir las direcciones URL de la página
 * Acceso a campaña inteligente: otorga a los usuarios acceso a la campaña inteligente en administración, para restringir los límites de personas calificadas
-* Acceso a la API de SOAP: otorga a los usuarios acceso para administrar las API de SOAP en los servicios web de administración
+* SOAP SOAP API de acceso: otorga a los usuarios acceso para administrar las API de los servicios web en la administración de los usuarios de
 * Etiquetas de acceso: otorga a los usuarios acceso a todas las etiquetas personalizadas excepto a la etiqueta de canal
 * Acceder al cofre del tesoro: otorga a los usuarios acceso a las características experimentales del cofre del tesoro en Administración
 * Acceder a usuarios: otorga a los usuarios acceso para editar y administrar usuarios (pero no funciones) en Administración
 * Acceder a webhooks: otorga a los usuarios acceso a los webhooks en administración para configurar detalles y asignaciones de respuestas
 * Acceso a espacios de trabajo y particiones: otorga a los usuarios acceso para crear, editar y eliminar espacios de trabajo y particiones en la administración
 
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a API  {#access-api}
 
-Otorga a los usuarios el **Solo API** **Rol** Acceda a las API individuales que se enumeran a continuación.
+Otorga a los usuarios con la **API solamente** **función** acceso a las API individuales que se enumeran a continuación.
 
 * Aprobar recursos
 * Ejecutar campaña
@@ -101,11 +101,11 @@ Otorga a los usuarios el **Solo API** **Rol** Acceda a las API individuales que 
 Proporciona a los usuarios acceso a las pestañas de Analytics, a las perspectivas de correo electrónico, a los informes y a los tres elementos siguientes, a menos que estén desmarcados.
 
 * Al desmarcar se elimina el acceso del usuario al Explorador de ingresos
-* Crear informe&#42; : otorga a los usuarios acceso para crear, clonar, leer, actualizar y mover recursos de informes en Analytics y actividades de marketing, así como recursos del Modelador del ciclo de ingresos
+* Crear informe&#42;: otorga a los usuarios acceso para crear, clonar, leer, actualizar y mover recursos de informes en Analytics y actividades de marketing, así como recursos de Modeler del ciclo de ingresos
 * Eliminar informe: al desmarcar se elimina la capacidad del usuario para eliminar informes
 * Exportar datos de Analytics: al desmarcar se elimina la capacidad del usuario para exportar datos de Analytics
 
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a presentaciones del calendario {#access-calendar-presentations}
 
@@ -119,11 +119,11 @@ Proporciona a los usuarios acceso a la ficha Design Studio y a la vista del árb
 
 * Acceder a Correo electrónico
    * Editar correo electrónico: otorga a los usuarios permiso para editar, crear y clonar correos electrónicos
-      * Hacer que el correo electrónico sea operativo: otorga permiso a los usuarios para hacer que un correo electrónico sea operativo. Consulte: [Hacer que un correo electrónico sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Hacer que el correo electrónico sea operativo: otorga permiso a los usuarios para hacer que un correo electrónico sea operativo. Ver: [Poner un correo electrónico en funcionamiento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
       * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
-      * Establecer dominio con marca: permite a los usuarios trabajar con dominios con marca. Consulte: [Añadir un dominio de promoción de otras marcas](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Establecer dominio con marca: permite a los usuarios trabajar con dominios con marca. Ver: [Agregar un dominio de promoción de otra marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acceder a Plantilla de correo electrónico
 
@@ -186,11 +186,11 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
 * Importar personalizados
 * Lista de importación
 * Combinar personas
-* Ejecutar acciones de flujo único: permite a los usuarios ejecutar **Cambiar valor de datos** paso de flujo en las personas de la base de datos
+* Ejecutar acciones de flujo único: permite a los usuarios ejecutar el paso de flujo **Cambiar valor de datos** en las personas de la base de datos
 
 * Ver datos de oportunidad: oculta la información de la oportunidad en la página de detalles de la persona
 
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a Actividades de marketing {#access-marketing-activities}
 
@@ -225,11 +225,11 @@ Acceder al SEO
 * Administrar SEO
 * SEO estándar
 
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se introduce en modo pasivo y es visible, pero no accesible en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
+_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Enfoque y personalización {#targeting-and-personalization}
 
-* Administración de personalización web
+* Administración de Web Personalization
 * Editor de campañas principales
 * Lanzador de campañas CRE
 * Editor de campañas web
@@ -237,5 +237,5 @@ _&#42;Para evitar interrupciones a los usuarios existentes, este permiso se intr
 
 Administración del espacio de trabajo
 
-* Acceso de administrador para un espacio de trabajo específico (solo si tiene espacios de trabajo habilitados)
+* Acceso de administrador para un Workspace específico (solo si tiene espacios de trabajo habilitados)
 * Mover recursos entre espacios de trabajo (solo si están habilitados los espacios de trabajo)

@@ -17,16 +17,16 @@ En la versión de octubre de 2013 de se incluyen las siguientes funciones.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) muestra las plantillas de correo electrónico y de página de aterrizaje (incluidas las plantillas de correo electrónico móviles adaptables) que puede descargar de la biblioteca del programa de Marketo. Añadiremos plantillas mensualmente, ¡vuelva a comprobarlo con frecuencia!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) muestra plantillas de correo electrónico y de página de aterrizaje (incluidas las plantillas de correo electrónico móvil adaptables) que puede descargar de la Biblioteca del programa de Marketo. Añadiremos plantillas mensualmente, ¡vuelva a comprobarlo con frecuencia!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) es para desarrolladores que desean crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de JavaScript de Munchkin, ejemplos de código de API de SOAP, Webhooks y scripts de correo electrónico. También hay disponible un SDK de Java en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) es para desarrolladores que desean crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de Munchkin JavaScript SOAP, ejemplos de código de API de, Webhooks y scripts de correo electrónico. También hay disponible un SDK de Java en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Adaptador de eventos BrightTALK actualizado {#updated-brighttalk-event-adapter}
 
 Sincronice campos adicionales de BrightTALK a Marketo, incluido el nombre de la empresa, el cargo, el sector y el tamaño de la empresa.
 
-## Aplicación de registro de eventos para tabletas Android {#android-tablet-event-check-in-app}
+## Aplicación de registro de eventos de Android Tablet {#android-tablet-event-check-in-app}
 
-Registre a los inscritos en su evento con nuestro nuevo [Aplicación de registro basada en Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible el [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Registra a los inscritos en tu evento con nuestra nueva aplicación de registro [basada en Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible en [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

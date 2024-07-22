@@ -43,7 +43,7 @@ Con esta nueva función, ahora puede retener y enviar correos electrónicos seg�
 
 Marketo tiene una nueva opción para elegir un segmento al enviar correos electrónicos de muestra para su revisión. Ya no es necesario determinar manualmente a qué segmento pertenece un posible cliente, lo que facilita el envío de correos electrónicos con contenido dinámico a diferentes segmentos.
 
-## [Preguntas personalizadas de linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Preguntas personalizadas de LinkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personalice los formularios de LinkedIn Lead Gen para recopilar atributos de posibles clientes personalizados. Ahora puede hacer hasta tres preguntas personalizadas por formulario, elegir entre preguntas de una sola línea o de opción múltiple y volver a asignar a los campos de posible cliente de Marketo.
 
@@ -62,7 +62,7 @@ Marketo ABM ahora sincroniza y muestra cuentas de CRM sin contactos. Incluya nue
 
 ## ContentAI Analytics {#contentai-analytics}
 
-**[Nuevo filtro de lista de cuentas ABM](https://docs.marketo.com/x/1BPG)**
+**[Nuevo filtro de lista de cuenta ABM](https://docs.marketo.com/x/1BPG)**
 
 Vea y compare el rendimiento del contenido en las listas de cuentas de ABM para optimizar el contenido existente. ContentAI le muestra:
 
@@ -70,7 +70,7 @@ Vea y compare el rendimiento del contenido en las listas de cuentas de ABM para 
 * contenido convertido superior
 * Contenido sugerido con tecnología de IA para actividades de marketing
 
-## Mejoras de personalización web {#web-personalization-enhancements}
+## Mejoras de Web Personalization {#web-personalization-enhancements}
 
 **[Tokens para campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
@@ -78,7 +78,7 @@ Los tokens ya están disponibles para su uso en campañas web. Aproveche los tok
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[Diseñar imágenes de Studio en el editor de campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Imágenes de Design Studio en el editor de campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dentro de Marketo.
 
@@ -86,7 +86,7 @@ Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dent
 
 ## Integración  {#integration}
 
-**[API de previsualización de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ahora puede previsualizar de forma remota el correo electrónico fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 

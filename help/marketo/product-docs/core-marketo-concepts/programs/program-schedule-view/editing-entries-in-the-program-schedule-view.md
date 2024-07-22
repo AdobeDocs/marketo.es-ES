@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Escriba un nombre nuevo y pulse **[!UICONTROL Entrar/Volver]** en el teclado para confirmar el cambio.
+1. Escriba un nombre nuevo y presione **[!UICONTROL Intro/Retorno]** en el teclado para confirmar el cambio.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -39,7 +39,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Excelente! La descripción ha cambiado.
+1. ¡Excelente! La descripción ha cambiado.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 

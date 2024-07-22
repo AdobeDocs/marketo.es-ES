@@ -6,7 +6,7 @@ exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ Marketo ofrece a los especialistas en marketing una forma de obtener el consenti
 
 O bien, el experto en marketing puede rastrear usuarios, pero utilizar una IP anónima.
 
-Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas. Sin embargo, si el experto en marketing _no lo tiene_ Para cambiar cualquier cosa en la configuración de Marketo, la funcionalidad de Marketo sigue siendo la misma.
+Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas. Sin embargo, si el especialista en marketing _no_ cambia nada en la configuración de Marketo, la funcionalidad de Marketo permanece igual.
 
 ## Configuración del explorador para No rastrear {#browser-settings-for-do-not-track}
 
 Los visitantes web pueden configurar su navegador para evitar el seguimiento de cualquier sitio web eligiendo &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de este explorador y dispositivo en particular. Consulte la configuración de privacidad del explorador para obtener información detallada.
 
-Entrada [!DNL Munchkin], un experto en marketing puede [decida si admite o ignora la configuración DNT del explorador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+En [!DNL Munchkin], un especialista en mercadotecnia puede [decidir si admite o ignora la configuración DNT del explorador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-En la personalización web, un experto en marketing puede decidir si [admitir o ignorar la configuración DNT del explorador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
+En Web Personalization, un especialista en mercadotecnia puede decidir si [admite o ignora la configuración DNT del explorador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
 ## Exclusión de un sitio web específico {#opt-out-from-a-specific-website}
 
-También puede permitir que los visitantes del sitio excluyan el seguimiento del sitio web, independientemente de si lo hacen o no **No rastrear el explorador** Los ajustes de están configurados. Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
+También puede permitir que los visitantes del sitio excluyan el seguimiento del sitio web, independientemente de si la configuración de **Explorador no rastrear** está establecida o no. Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
 
-Para ello, debe añadir un parámetro a un vínculo de no participación en una página web que tenga [!DNL Munchkin] seguimiento activado. Puede ser cualquier página web, pero el vínculo a la página web debe contener el parámetro siguiente:
+Para ello, debe agregar un parámetro a un vínculo de no participación en una página web que tenga habilitado el seguimiento de [!DNL Munchkin]. Puede ser cualquier página web, pero el vínculo a la página web debe contener el parámetro siguiente:
 
 ?marketo_opt_out=true
 
@@ -50,9 +50,9 @@ Puede crear y publicar una página de aterrizaje como página de seguimiento par
 
 ![](assets/understanding-privacy-settings-2.png)
 
-Cuando se hace clic en el vínculo, Marketo agrega una cookie llamada **mkto_opt_out** al explorador del visitante que deshabilita [!DNL Munchkin] seguimiento del visitante del sitio que hace clic en el vínculo con el parámetro anterior.
+Cuando se hace clic en el vínculo, Marketo agrega una cookie denominada **mkto_opt_out** al explorador del visitante que deshabilita el seguimiento de [!DNL Munchkin] para el visitante del sitio que hace clic en el vínculo con el parámetro anterior.
 
-Para validar que la cookie se puede plantar, compruebe que es un posible cliente con cookies y haga clic en el vínculo. A continuación, compruebe las cookies del explorador para comprobar que la variable **mkto_opt_out** se ha añadido la cookie.
+Para validar que la cookie se puede plantar, compruebe que es un posible cliente con cookies y haga clic en el vínculo. A continuación, compruebe las cookies de su explorador para verificar que se agregó la cookie **mkto_opt_out**.
 
 ![](assets/understanding-privacy-settings-3.png)
 
@@ -60,20 +60,20 @@ Para validar que la cookie se puede plantar, compruebe que es un posible cliente
 >
 >Actualmente solo funciona con [!DNL Munchkin] versiones 152 y posteriores.
 
-## Opt-in {#opt-in}
+## Participar {#opt-in}
 
 Los especialistas en marketing pueden permitir que los usuarios acepten la inclusión mediante las funciones de Marketo en correos electrónicos, formularios, páginas de aterrizaje y otros métodos.
 
 ## Seguimiento con una IP anónima {#tracking-using-an-anonymized-ip}
 
-Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, añada este código al RTP o [!DNL Munchkin] Javascript que está incrustado en el sitio web.
+Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, agregue este código al RTP o al JavaScript [!DNL Munchkin] incrustado en el sitio web.
 
 * Para [!DNL Munchkin], simplemente agregue {&quot;anonymizeIP&quot;,true} a la función init.
 
   >[!NOTE]
   >
-  >El uso de este parámetro requiere lo siguiente [!DNL Munchkin] V2 estar habilitado. Para activarlo para su suscripción, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/community/support_solutions).
+  >El uso de este parámetro requiere que [!DNL Munchkin] V2 esté habilitado. Para activarla en tu suscripción, ponte en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/community/support_solutions).
 
-* Para la personalización web (RTP), añada esto al javascript:
+* Para Web Personalization (RTP), añádalo al javascript:
 
 `anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`

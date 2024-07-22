@@ -21,7 +21,7 @@ Puede desaprobar cualquier título para contenido predictivo en la página Todo 
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Haga clic en **Acciones de contenido** y seleccione. **Desaprobar para contenido predictivo**.
+1. Haga clic en el menú desplegable **Acciones de contenido** y seleccione **Desaprobar contenido predictivo**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Puede desaprobar un título mientras lo está editando.
 
    ![](assets/click-icon-hand.png)
 
-1. Desmarque la **Aprobar para contenido predictivo** y haga clic en **Guardar**.
+1. Desmarque la casilla **Aprobar contenido predictivo** y haga clic en **Guardar**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

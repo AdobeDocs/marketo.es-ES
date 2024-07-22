@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Bienvenido a su nueva instancia de Adobe Marketo Engage. Prepárese para optimizar, automatizar y medir tareas y flujos de trabajo de marketing con potentes funcionalidades de automatización de marketing.
 
-En esta guía de Implementación de una nueva instancia de Marketo Engage, conozca las prácticas recomendadas para implementar sin problemas la instancia a fin de garantizar la higiene a largo plazo y la eficacia operativa. Cada lista de comprobación proporciona pasos útiles para realizar un seguimiento del progreso de la configuración. Utilice el [listas de comprobación descargables](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar su trabajo en el camino para futuras auditorías de instancias e incorporación de usuarios.
+En esta guía de Implementación de una nueva instancia de Marketo Engage, conozca las prácticas recomendadas para implementar sin problemas la instancia a fin de garantizar la higiene a largo plazo y la eficacia operativa. Cada lista de comprobación proporciona pasos útiles para realizar un seguimiento del progreso de la configuración. Use las [listas de comprobación descargables](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar su trabajo en el camino para futuras auditorías de instancias e incorporación de usuarios.
 
 ## Configuración inicial {#initial-setup}
 
 Antes de sumergirse en las listas de comprobación de prácticas recomendadas que aparecen a continuación, asegúrese de haber seguido los pasos del área Configuración inicial.
 
-* [Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+* [Pasos de instalación](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 * [Configurar protocolos](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
@@ -28,27 +28,27 @@ Antes de sumergirse en las listas de comprobación de prácticas recomendadas qu
 
 ## Listas De Comprobación De Prácticas Recomendadas Para La Nueva Instancia De Marketo Engage {#best-practice-checklists-new-instance}
 
-Descargar la instancia del Marketo Engage [Nuevas listas de comprobación de administración de implementación](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}, o consulte las guías en línea que aparecen a continuación.
+Descargue la instancia de Marketo Engage [Nuevas listas de comprobación de administración de implementación](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} o consulte las guías en línea a continuación.
 
-* [Sección Administración](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [Sección de administración](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
 * [Base de datos](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Estudio de diseño](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Actividades de marketing](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
+* [Actividades de mercadotecnia](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
 * [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
-* [Documente la nueva configuración de la instancia](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [Documentar la nueva configuración de la instancia](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Conectar con compañeros {#connect-with-your-peers}
 
-Visite la [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (también conocido como el País de Marketing) para obtener más información sobre su instancia de Marketo Engage de parte de los empleados de Marketo Engage y de los usuarios.
+Visite la [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (también conocida como el País de mercadotecnia) para obtener más información acerca de la instancia de Marketo Engage de parte de los empleados del Marketo Engage y de otros usuarios.
 
 Introducción a la comunidad:
 
-1. Clic **Continuar con Adobe ID** y seleccione la suscripción principal en la página de inicio de sesión.
+1. Haga clic en **Continuar con Adobe ID** y seleccione su suscripción principal en la página de inicio de sesión.
 1. Al iniciar sesión, complete el perfil de la comunidad.
 1. Después de enviar la información, llegará a la página principal de la comunidad y estará listo para comenzar.
 

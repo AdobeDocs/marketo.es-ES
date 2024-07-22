@@ -27,7 +27,7 @@ Puede hacer clic en cada uno de los siguientes botones para ver los resultados m
 * Contactos de cuenta: puede ver los resultados más probables para todos los contactos que pertenecen a cuentas asignadas a usted en CRM, incluso si el contacto en sí no está asignado a usted
 * Contactos de oportunidad: puede ver los resultados más probables de todos los contactos que pertenecen a Oportunidades que se le han asignado en CRM, incluso si el contacto en sí no está asignado a usted
 
-**Cosas que hay que tener en cuenta**
+**Aspectos a tener en cuenta**
 
 Los botones de posible cliente y contacto están seleccionados de forma predeterminada. Puede seleccionar una o más opciones de filtro y siempre se tendrá que seleccionar un mínimo de una de las cuatro opciones.
 

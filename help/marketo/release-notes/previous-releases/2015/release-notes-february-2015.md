@@ -6,7 +6,7 @@ exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ En la versión de febrero de 2015 se incluyen las siguientes funciones. Comprueb
 
 ## Mejoras en la automatización de marketing {#marketing-automation-enhancements}
 
-**[Mover la campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[Mover campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 ¡Alégrate! Ahora puede mover campañas inteligentes dentro y fuera de los programas mediante arrastrar y soltar o la función Mover del árbol.
 
-**[Dynamics 2015 (en línea)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - ¡compatible!
+**[Dynamics 2015 (en línea)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - ¡Compatible!
 
 **Cambios en el certificado HTTPS**
 
@@ -31,15 +31,15 @@ y reemplazarán los protocolos de seguridad utilizados actualmente (SHA-1 y SSL)
 
 * marketo.net (tráfico cifrado de Munchkin)
 
-* [marketo.com](https://marketo.com) (principales aplicaciones SaaS)
+* [marketo.com](https://marketo.com) (aplicaciones SaaS principales)
 
-Esto sucederá poco después de esta versión. El protocolo SHA-1 se admitirá temporalmente en [mktoapi.com](https://mktoapi.com) dominio hasta diciembre de 2015 para permitir a los propietarios de sistemas y aplicaciones heredados actualizar sus sistemas con compatibilidad con SHA-2.
+Esto sucederá poco después de esta versión. El protocolo SHA-1 se admitirá temporalmente en el dominio [mktoapi.com](https://mktoapi.com) hasta diciembre de 2015 para permitir que los propietarios de aplicaciones y sistemas heredados actualicen sus sistemas con compatibilidad con SHA-2.
 
 **Munchkin seguro**
 
 Estamos eliminando nuestro soporte para SSL3. Hemos mantenido SSL3 hasta ahora para mantener la compatibilidad con navegadores web antiguos, pero en 2015 ya no vemos tráfico web significativo de esos navegadores. Esto solo afectaría a Munchkin cuando se usara en páginas seguras y se implementaría lentamente después de la versión de febrero.
 
-## Mejoras en la personalización en tiempo real {#real-time-personalization-enhancements}
+## Mejoras de Real-Time Personalization {#real-time-personalization-enhancements}
 
 **[URL de destino para campañas](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
@@ -47,6 +47,6 @@ Seleccione las páginas en las que desea que se muestre su campaña en tiempo re
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**País y estado agregados a la segmentación basada en cuentas**
+Se agregó **país y estado a la segmentación basada en cuentas**
 
 Ahora se pueden agregar el país y el estado a las listas de cuentas con nombre. Segmente a los posibles clientes de cuentas clave desde ubicaciones específicas.

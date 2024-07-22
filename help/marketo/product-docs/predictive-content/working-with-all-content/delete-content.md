@@ -19,7 +19,7 @@ Cuando ya no necesitas un fragmento de contenido, es fácil deshacerse de él.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Haga clic en **Acciones de contenido** y seleccione. **Eliminar contenido**.
+1. Haga clic en la lista desplegable **Acciones de contenido** y seleccione **Eliminar contenido**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

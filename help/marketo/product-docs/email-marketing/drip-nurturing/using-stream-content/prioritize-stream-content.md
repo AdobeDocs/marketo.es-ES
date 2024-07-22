@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Una vez que haya agregado contenido al flujo, es posible que desee cambiar la prioridad. El contenido siempre se entrega de arriba a abajo en cada reparto y no se envía ningún contenido a la misma persona dos veces.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y haga clic en **Flujos** pestaña.
+1. Seleccione el programa de participación y haga clic en la ficha **Transmisiones**.
 
    ![](assets/cloneasteam-1.jpg)
 

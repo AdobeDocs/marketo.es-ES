@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Cambiar posición de etiqueta de formulario {#change-form-label-position}
 
-Cuándo [creación de un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas del campo de formulario muy fácilmente. Así es como.
+Al [crear un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas del campo de formulario muy fácilmente. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,24 +23,24 @@ Cuándo [creación de un formulario](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Seleccionar **Configuración**.
+1. Seleccione **Configuración**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Seleccione el **Posición de etiqueta** lo quieres.
+1. Seleccione la **Posición de etiqueta** que desee.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    Actualmente tiene dos opciones:
 
    * Izquierda (predeterminado)
-   * Arriba
+   * Por encima del
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    >[!NOTE]
    >
@@ -56,4 +56,4 @@ Cuándo [creación de un formulario](/help/marketo/product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->[Cambio de la familia de fuentes del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Cambiar la familia de fuentes del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Definir valores en una radio o campo seleccionado en un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Una vez que haya [definición de un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para ser un botón de opción o un tipo de selección, debe definir los valores entre los que puede elegir el usuario. Así es como.
+Una vez que haya [establecido un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de opción o un tipo de selección, querrá definir los valores entre los que el usuario puede elegir. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -39,11 +39,11 @@ Una vez que haya [definición de un tipo de campo](/help/marketo/product-docs/ad
    >
    >**Definición**
    >
-   >**Mostrar valor:** Lo que se muestra al visitante.
+   >**Valor para mostrar:** Lo que se muestra al visitante.
    >
-   >**Valor almacenado:** Lo que se graba en Marketo.
+   >**Valor almacenado:** Lo que se ha registrado en Marketo.
 
-1. Añada tantos valores como necesite y haga clic en **Guardar**.
+1. Agregue todos los valores que necesite y haga clic en **Guardar**.
 
    >[!NOTE]
    >
@@ -53,13 +53,13 @@ Una vez que haya [definición de un tipo de campo](/help/marketo/product-docs/ad
 
    >[!TIP]
    >
-   >Clic **Editor avanzado** para copiar/pegar una lista de valores si lo desea. Puede ahorrar tiempo en realidad.
+   >Haga clic en **Editor avanzado** para copiar y pegar una lista de valores si lo desea. Puede ahorrar tiempo en realidad.
 
-1. Clic **Finalizar**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Clic **Aprobar y cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

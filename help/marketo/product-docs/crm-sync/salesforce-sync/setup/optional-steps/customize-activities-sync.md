@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 4%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
 
    ![](assets/admin.png)
 
-1. Clic **[!DNL Salesforce]**, luego haga clic en **[!UICONTROL Editar opciones de sincronización]**.
+1. Haga clic en **[!DNL Salesforce]** y luego en **[!UICONTROL Editar opciones de sincronización]**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
 
    >[!NOTE]
    >
-   >Una vez habilitado, Marketo insertará un historial de actividades de tres meses. Según la cantidad de datos, _esta operación podría tardar varios días en completarse_. Las actualizaciones que se producen durante la inserción inicial de Actividades se pueden retrasar hasta que se completa la sincronización inicial de Actividades.
+   >Una vez habilitado, Marketo insertará un historial de actividades de tres meses. Según la cantidad de datos, _esto podría tardar varios días en completarse_. Las actualizaciones que se producen durante la inserción inicial de Actividades se pueden retrasar hasta que se completa la sincronización inicial de Actividades.
 
 <table> 
  <colgroup> 
@@ -48,19 +48,19 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
    <td>Rellenó cualquier formulario de Marketo</td> 
   </tr> 
   <tr> 
-   <td>Añadido a la lista</td> 
+   <td>Se agregó a la lista</td> 
    <td><p>Paso de flujo: Se ha añadido a una lista estática</p></td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico enviado</td> 
+   <td>Se envió el email</td> 
    <td>Paso de flujo: se envió un correo electrónico</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico enviado</td> 
+   <td>Correo electrónico entregado</td> 
    <td>Se ha recibido un correo electrónico (no devuelto)</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico abierto</td> 
+   <td>Se abrió el email</td> 
    <td>Apertura de un correo electrónico (sin bloquear imágenes)</td> 
   </tr> 
   <tr> 
@@ -68,19 +68,19 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
    <td>Se ha hecho clic en un vínculo de un correo electrónico enviado por Marketo</td> 
   </tr> 
   <tr> 
-   <td>Eliminado de la lista</td> 
+   <td>Se quitó de Lista</td> 
    <td>Paso de flujo: se ha eliminado de una lista estática</td> 
   </tr> 
   <tr> 
-   <td>Quitar de flujo</td> 
+   <td>Quitar de Flujo</td> 
    <td>Paso de flujo: Eliminar del flujo</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico de ventas enviado</td> 
+   <td>Se envió el email de ventas</td> 
    <td>Se ha enviado un correo electrónico a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico de ventas abierto</td> 
+   <td>Se abrió el email de ventas</td> 
    <td>Se ha abierto un correo electrónico enviado a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
@@ -88,7 +88,7 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
    <td>Se ha hecho clic en un vínculo de un correo electrónico enviado a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico de ventas recibido</td> 
+   <td>Se recibió el email de ventas</td> 
    <td>El representante de ventas recibió y registró un correo electrónico en el complemento MSI Outlook</td> 
   </tr> 
  </tbody> 
@@ -96,8 +96,8 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
 
 >[!NOTE]
 >
->&quot;Correo electrónico de ventas recibido&quot; sí _no_ media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
+>&quot;Correo electrónico de ventas recibido&quot; significa _no_ entregado. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
 
 >[!TIP]
 >
->Si está interesado en obtener más información de Marketo en Salesforce, consulte nuestra [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} producto.
+>Si está interesado en obtener más información de Marketo en Salesforce, vea nuestro producto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

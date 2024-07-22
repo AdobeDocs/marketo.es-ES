@@ -6,7 +6,7 @@ exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Introducción {#intro}
 
-Analice su análisis web desde una perspectiva B2B consultando los datos de la organización, el sector y la campaña de personalización en tiempo real (RTP) de Marketo en su cuenta de Adobe Analytics.
+Analice su análisis web desde una perspectiva B2B consultando los datos de la organización, el sector y la campaña de Marketo Real-Time Personalization (RTP) en su cuenta de Adobe Analytics.
 
 Este documento permite la integración entre Marketo Real-Time Personalization (RTP) y Adobe Adobe Analytics. Los datos de RTP le permitirán detectar y analizar las tendencias en todos los segmentos del sector y organizaciones que visiten su sitio, así como medir la eficacia de sus campañas de RTP, proporcionando perspectivas y análisis para obtener resultados óptimos.
 
@@ -51,8 +51,8 @@ Vea las impresiones y conversiones de campañas RTP en Vínculos personalizados 
 
 Este informe de vínculo personalizado muestra las impresiones y conversiones de las campañas con el siguiente formato de nombre:
 
-* Segmento IS de impresión: [Nombre del segmento RTP], ICampaign: [Nombre de campaña RTP]
-* Segmento de IS de conversión: [Nombre del segmento RTP], ICampaign: [Nombre de campaña RTP]
+* Segmento ISegment de impresión: [Nombre de segmento RTP], ICampaign: [Nombre de campaña RTP]
+* Segmento de conversión ISegment: [Nombre de segmento RTP], ICampaign: [Nombre de campaña RTP]
 
 ![](assets/custom-links-report.png)
 
@@ -62,10 +62,10 @@ La integración utiliza la API de JavaScript que ofrece Adobe Analytics. En la i
 
 Complete los siguientes pasos para configurar estas variables en AA:
 
-1. Ir a **Herramientas de administración** en su cuenta de AA.
-1. Seleccione el **Grupo de informes** para usar con la integración.
+1. Vaya a **Herramientas de administración** en su cuenta de AA.
+1. Seleccione el **grupo de informes** que se usará con la integración.
 1. En **Editar configuración**, vaya a **Conversión** y seleccione **[Variables de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Seleccione el [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) número (se recomienda):
+   Seleccione el número [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (se recomienda):
 
    1. Evar n.º 20 para conversiones personalizadas del sector
    1. Evar n.º 21 para conversiones personalizadas de organización
@@ -76,11 +76,11 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
    1. Cambiar estado a _Habilitado_.
 
-      1. Cambie el nombre a **Industria** y **Organización**. (Así es como aparecerá en el grupo de informes).
+      1. Cambie el nombre a **Sector** y **Organización**. (Así es como aparecerá en el grupo de informes).
 
-      1. Cambie el campo Caduca después a **Visita**.
+      1. Cambie el campo Caduca después de a **Visita**.
 
-1. En **Editar configuración** ir a **Conversión** y seleccione **[Eventos de éxito](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. En **Editar configuración**, vaya a **Conversión** y seleccione **[Eventos de éxito](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Seleccione el número de evento de eventos de éxito personalizados (se recomienda):
 
@@ -93,9 +93,9 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
       1. Cambie los nombres de los dos eventos a **Campañas RTP** y **Segmentos RTP**. Este es el nombre que aparecerá en el grupo de informes.
 
-   1. Seleccione el campo Type que desea **Contador (sin subrelaciones)**
+   1. Seleccione el campo Tipo que se **Contador (sin subrelaciones)**
 
-1. En **Editar configuración** ir a **[Tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** y seleccione **[Variables de tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. En **Editar configuración**, vaya a **[Tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** y seleccione **[Variables de tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Seleccione la variable de tráfico Nº de propiedad (se recomienda):
 
@@ -112,19 +112,19 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
    1. Seleccione el campo Habilitado para **Habilitado**.
 
-   1. Seleccione el campo Informes de ruta para **Habilitado**.
+   1. Seleccione el campo Informes de ruta a **Habilitado**.
 
-## Configurado en la personalización en tiempo real (RTP) de Marketo {#set-up-in-marketo-real-time-personalization-rtp}
+## Configurado en Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. En la plataforma RTP, vaya a **Configuración de cuenta**.
+1. En la plataforma RTP, vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. En **Configuración de cuenta**, haga clic en **Dominio**.
-1. En **Analytics, haga clic en** **Adobe Analytics**.
-1. Turno **Activado** las variables Conversion, Custom y Traffic alternan.
-1. Asignar las variables de conversión, evento y tráfico **números de ranura** para que coincida con los números de ranura creados en AA
-1. Clic **Guardar**.
+1. En **Configuración de la cuenta**, haga clic en **Dominio**.
+1. En **Analytics, haga clic** en **Adobe Analytics**.
+1. Activa **1} las opciones de Conversión, Personalizado y Tráfico.**
+1. Asigne las variables de conversión, evento y tráfico **números de ranura** para que coincidan con los números de ranura creados en AA
+1. Haga clic en **Guardar**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -151,7 +151,7 @@ Complete los siguientes pasos para configurar estas variables en AA:
 >
 >**Asegúrese de que estos números de ranura se alinean con los números de variables y eventos creados en AA.**
 
-## Informes de   {#reports}
+## Informes {#reports}
 
 Cree informes mejorados de Adobe Analytics del sitio según los nombres de las organizaciones, los sectores y los segmentos de RTP y los datos de las campañas en tiempo real.
 
@@ -162,9 +162,9 @@ Algunos ejemplos de informes y paneles personalizados en AA son:
 * Páginas visitadas por organización
 * Rendimiento del canal de marketing según la organización, el sector y los segmentos
 
-**-Ejemplos de informes-**
+**- Ejemplos de informes -**
 
-**Informe Principales Industrias**
+**Informe de industrias principales**
 
 ![](assets/top-industries-report.png)
 
@@ -172,43 +172,43 @@ Algunos ejemplos de informes y paneles personalizados en AA son:
 
 ![](assets/image2014-11-29-12-3a29-3a42.png)
 
-**Creación del tablero de RTP**
+**Creando el tablero RTP**
 
-Crear un [nuevo tablero](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), llamado **Tablero RTP**. Este tablero le ayudará a comprender el desglose de sus visitantes según los segmentos verticales y RTP.
+Cree un [nuevo panel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), llamado **panel RTP**. Este tablero le ayudará a comprender el desglose de sus visitantes según los segmentos verticales y RTP.
 
-1. Clic **Panel,** click **Agregar panel**.
+1. Haga clic en **Panel,** haga clic en **Agregar panel**.
 
-1. Asignar un nombre al tablero **Tablero RTP**.
+1. Asigne un nombre al tablero **RTP Dashboard**.
 
-1. Seleccione el **tamaño del tablero** 3 x 2, 2 x 2
+1. Seleccione el **tamaño del tablero** 3 x 2, 2 x 2.
 
-1. Cree el [informe breve](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) y agregue [contenido en el tablero](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Cree el [informe breve](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) y agregue [contenido al tablero](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Agregar el informe breve de industrias al panel
 
-1. Ir a **Conversiones personalizadas**, haga clic en **Industria**.
+1. Vaya a **Conversiones personalizadas** y haga clic en **Sector**.
 
-1. Configurar gráfico en **Gráfico circular**.
+1. Configurar gráfico en **gráfico circular**.
 
-1. Haga clic en **Tablero**, agregue **Informe breve**.
+1. Haz clic en **Tablero** y agrega **Informe breve**.
 
-1. Asignar un nombre al informe **Principales industrias**.
+1. Asigne un nombre al informe **Industrias principales**.
 
-1. Colocar en el panel **Tablero RTP**.
+1. Colocar en el tablero **RTP Dashboard**.
 
 1. Crear **Nuevo**.
 
 Adición del informe breve de segmentos al panel
 
-1. Ir a **Métricas del sitio**. Haga clic en **Eventos personalizados**, **Segmentos**.
+1. Vaya a **Métricas del sitio**. Haz clic en **Eventos personalizados**, **Segmentos**.
 
-1. Configurar gráfico en **Barra vertical**.
+1. Configurar gráfico en **barra vertical**.
 
-1. Haga clic en **Tablero**, agregue **Informe breve**.
+1. Haz clic en **Tablero** y agrega **Informe breve**.
 
-1. Asignar un nombre al informe **Segmentos principales**.
+1. Asigne un nombre al informe **Segmentos principales**.
 
-1. Colocar en el panel **Tablero RTP**.
+1. Colocar en el tablero **RTP Dashboard**.
 
 1. Crear **Nuevo**.
 
@@ -216,7 +216,7 @@ Los informes breves se mostrarán en el tablero.
 
 ## Ver impresiones y clics (conversiones) en Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Clic **Vínculos personalizados**.
+1. Haga clic en **Vínculos personalizados**.
 
    ![](assets/sitecatalyst1-1.png)
 

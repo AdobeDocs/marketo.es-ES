@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/two-2.png)
 
-1. Cuando haya seleccionado el intervalo de fecha, haga clic en **Aplicar**.
+1. Cuando haya seleccionado el intervalo de fechas, haga clic en **Aplicar**.
 
    ![](assets/three-2.png)
 
@@ -65,7 +65,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
 ¿Desea eliminar uno de sus gráficos rápidos? ¡Es fácil!
 
-1. Haga clic en **Gráficos rápidos** icono.
+1. Haga clic en el icono **Gráficos rápidos**.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/ten.png)
 
-1. Clic **Ok**.
+1. Haga clic en **Aceptar**.
 
    ![](assets/eleven.png)
 

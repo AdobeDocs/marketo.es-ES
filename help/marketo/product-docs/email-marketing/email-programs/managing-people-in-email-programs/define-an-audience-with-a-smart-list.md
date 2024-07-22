@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Definición de una audiencia con una lista inteligente {#define-an-audience-with-a-smart-list}
 
-Una vez que [creación de un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), querrá decirle a quién enviar el correo electrónico. Puede hacer esto por [importación de una lista de personas](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) o con una lista inteligente. A continuación se indica cómo hacerlo con una lista inteligente.
+Una vez que [cree un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), querrá decirle a quién enviar el correo electrónico. Puede hacerlo [importando una lista de personas](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) o con una lista inteligente. A continuación se indica cómo hacerlo con una lista inteligente.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Una vez que [creación de un programa de correo electrónico](/help/marketo/prod
 >
 >La definición de la audiencia solo funciona cuando el programa de correo electrónico no está aprobado.
 
-1. Ir a **Actividades de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa de correo electrónico y haga clic en **Editar lista inteligente** en el **Audiencia** mosaico.
+1. Seleccione su programa de correo electrónico y haga clic en **Editar lista inteligente** en el icono **Audiencia**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -47,7 +47,7 @@ Una vez que [creación de un programa de correo electrónico](/help/marketo/prod
 
    ![](assets/myemailprogram.jpg)
 
-   ¡Excelente trabajo! Ahora es el momento de... [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [crear un correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para enviar a estas personas.
+   ¡Excelente trabajo! Ahora es el momento de [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [crear un correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para enviarlo a estas personas.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Una vez que [creación de un programa de correo electrónico](/help/marketo/prod
 >* Email no válido
 >* Correo electrónico vacío
 >
->Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo. **Tenga en cuenta:** Los correos electrónicos operativos se seguirán enviando a las personas marcadas como no suscritas y suspendido el marketing.
+>Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo. **Tenga en cuenta lo siguiente:** Se enviarán mensajes de correo electrónico operativos a las personas que se hayan marcado como no suscritas y se haya suspendido el marketing.
 >
->Utilice el ![—](assets/image2014-10-23-16-3a32-3a36.png) en el mosaico Audiencia para ver cuántas personas recibirán el correo electrónico.
+>Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36.png) del mosaico Audiencia para ver cuántas personas recibirán el correo electrónico.
 
 >[!MORELIKETHIS]
 >
 >* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Crear un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
