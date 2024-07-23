@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Zona protegida de Marketo - Documentos de Marketo - Documentación del producto
 title: Espacio aislado de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 
 ## Cosas que hay que saber sobre Sandboxes {#things-to-know-about-sandboxes}
 
-* Una vez que el equipo de la cuenta de Adobe haya configurado la zona protegida y le haya enviado la invitación, debe utilizar una dirección de correo electrónico diferente para iniciar sesión que la de producción de Marketo.
 * Si desea agregar usuarios, el proceso es el mismo que [agregar usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya han iniciado sesión en Marketo.
 * La zona protegida de Marketo empezará vacía, pero tendrá las mismas funciones disponibles que la de producción.
 * Si crea un programa en su zona protegida y desea moverlo a producción, puede realizar una [importación de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
