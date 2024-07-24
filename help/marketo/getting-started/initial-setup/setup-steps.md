@@ -4,9 +4,9 @@ short-description: ¿Acaba de empezar a usar Adobe Marketo Engage? Aprenda qué 
 title: Pasos de configuración
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -187,13 +187,13 @@ include:mktomail.com
 
 `b.` Para DKIM, cree Registros de recursos DNS para cada dominio que deseemos configurar. A continuación se muestran los registros de host y los valores TXT de cada dominio que firmaremos:
 
-**`[DKIMDomain1]`**: el registro de host es **`[HostRecord1]`** y el valor TXT es **[TXTValue1]**.
+**`[DKIMDomain1]`**: el registro de host es **`[HostRecord1]`** y el valor TXT es **`[TXTValue1]`**.
 
 **`[DKIMDomain2]`**: el registro de host es **`[HostRecord2]`** y el valor TXT es **`[TXTValue2]`**.
 
 `[`Copie **HostRecord** y **TXTValue** para cada **DKIMDomain** que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide verificar cada dominio en **Administración > Correo electrónico > DKIM** después de que su personal de TI haya completado este paso.`]`
 
-`5)` Necesitamos asegurarnos de que haya un registro MX válido para nuestros dominios FROM **[FromDomain1]**, **[FromDomain2]**, etc. ¿Puede confirmarlo? Si no es así, configúrelo para asignar a nuestro registro MX de dominio corporativo. Esto garantizará que podamos procesar las respuestas/respuestas automáticas a nuestros correos de Marketo.
+`5)` Debemos asegurarnos de que haya un registro MX válido para nuestros dominios FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. ¿Puede confirmarlo? Si no es así, configúrelo para asignar a nuestro registro MX de dominio corporativo. Esto garantizará que podamos procesar las respuestas/respuestas automáticas a nuestros correos de Marketo.
 
 Avíseme cuando haya completado estos pasos para que pueda completar el proceso de configuración con Marketo.
 

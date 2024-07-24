@@ -4,7 +4,8 @@ title: Panel de participación
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1759'
 ht-degree: 0%
@@ -102,15 +103,15 @@ CAPTURA DE PANTALLA
 
 ### Participación {#engagement}
 
-Esta interfaz proporciona información general sobre el rendimiento de un evento en una sesión activa. La descripción general incluye métricas clave, participación a lo largo del tiempo e interacciones de los participantes. Ayuda a los organizadores a evaluar el éxito del evento e identificar áreas de mejora.
+Proporciona información general sobre el rendimiento de un evento en una sesión activa. La descripción general incluye métricas clave, participación a lo largo del tiempo e interacciones de los participantes. Ayuda a los organizadores a evaluar el éxito del evento e identificar áreas de mejora.
 
-En el panel izquierdo, seleccione Participación para ver el rendimiento de la sesión en directo. Seleccione Engagement summary (PDF) para descargar el resumen de rendimiento de la sesión en directo. La descripción general se clasifica en diferentes secciones.
+En el panel izquierdo, seleccione **[!UICONTROL Participación]** para ver el rendimiento de la sesión en directo. **[!UICONTROL Haga clic en Resumen de participación (PDF)]** para descargar el resumen de rendimiento de la sesión activa. La descripción general proporciona datos en diferentes secciones.
 
 CAPTURA DE PANTALLA
 
 **Métricas clave**
 
-Vea el número de registros, asistentes y participación en la sesión en directo desde Métricas clave.
+Vea el número de registros, asistentes y participación en la sesión en directo.
 
 CAPTURA DE PANTALLA
 
@@ -134,14 +135,14 @@ CAPTURA DE PANTALLA
   </tr>
   <tr>
     <td><b>Duración media del reloj en minutos</td>
-    <td>Muestra la duración promedio de la visualización en minutos de la sesión activa.</td>
+    <td>Muestra la duración media de la visualización en minutos de la sesión activa.</td>
   </tr>
 </tbody>
 </table>
 
 **Participación a lo largo del tiempo**
 
-Obtenga información acerca de la participación promedio a lo largo del tiempo durante la sesión en directo desde los gráficos de participación. Los hosts pueden monitorizar cómo fluctúan los niveles de participación, lo que les permite identificar momentos críticos de interacción alta o baja. Compruebe qué parte de la puntuación de participación promedio obtuvieron los participantes comprometidos en diferentes diseños.
+Obtenga información acerca de la participación promedio a lo largo del tiempo durante la sesión en directo desde los gráficos de participación. Los hosts pueden monitorizar cómo fluctúan los niveles de participación, lo que les permite identificar momentos críticos de interacción alta o baja. Vea qué parte de la puntuación de participación promedio obtuvieron los participantes comprometidos en diferentes diseños.
 
 CAPTURA DE PANTALLA
 
@@ -151,7 +152,7 @@ Al pasar el ratón por encima del gráfico, vea la siguiente información:
 * Puntuación media de participación en ese momento.
 * Número de asistentes comprometidos en ese momento.
 * Diseño del compromiso en ese momento.
-* Seleccione Ver instantáneo en grabación para ver el instante en la grabación en que la participación era alta o baja.
+* Seleccione **[!UICONTROL Ver instantáneo en la grabación]** para ver el instante en la grabación donde la participación era alta o baja.
 * Puntuación media de participación (%) a lo largo del tiempo en la sesión
 * Asistencia durante la sesión
 * La participación en diferentes diseños de seminario web se muestra cuando se utilizaron diferentes diseños dentro de la sala durante el evento. Ayuda a correlacionar el aumento y la caída de la participación en diferentes diseños.
@@ -162,28 +163,28 @@ Puede ver las interacciones de los asistentes desde diferentes pods. Proporciona
 
 CAPTURA DE PANTALLA
 
-Seleccione Ir a interacciones para ver las respuestas de las encuestas, las métricas de control de calidad y las reacciones de los asistentes durante la sesión. Vea cómo se involucra a los asistentes entre pods desde Interacciones y descargue informes de interacción desde la sección siguiente.
+Seleccione **[!UICONTROL Ir a interacciones]** para ver las respuestas de las encuestas, las métricas de control de calidad y las reacciones de los asistentes durante la sesión. Vea cómo se involucra a los asistentes entre pods desde Interacciones y descargue informes de interacción desde la sección siguiente.
 
 ### Interacciones {#interactions}
 
-Vea cómo los asistentes interactúan y participan en la sesión desde Interacciones. Rastree las respuestas a encuestas, métricas de control de calidad, reacciones de los asistentes y vínculos y archivos perdidos de los pods respectivos. Los hosts también pueden descargar informes de interacción de estos pods para un mejor análisis. Al analizar estas interacciones, identifique las tendencias y ajuste sus estrategias para fomentar un entorno más interactivo y atractivo.
+Vea cómo los asistentes interactúan y participan en la sesión desde Interacciones. Rastree las respuestas a encuestas, métricas de control de calidad, reacciones de los asistentes y vínculos y archivos perdidos de los pods respectivos. Los hosts también pueden descargar informes de interacción de estos pods para un mejor análisis. Al analizar estas interacciones, puede identificar tendencias y ajustar sus estrategias para fomentar un entorno más interactivo y atractivo.
 
-En el panel izquierdo, seleccione Interacciones para ver cómo participan los asistentes entre pods.
+En el panel izquierdo, seleccione **[!UICONTROL Interacciones]** para ver cómo interactúan los asistentes entre pods.
 
 CAPTURA DE PANTALLA
 
-Seleccione la pestaña Encuestas en la barra de menús para ver las preguntas y respuestas añadidas a la encuesta. Esta pestaña muestra la siguiente información:
+Seleccione la ficha **[!UICONTROL Encuestas]** de la barra de menús para ver las preguntas y respuestas agregadas a la encuesta. Esta pestaña muestra la siguiente información:
 
-* Seleccione Informe de encuesta (CSV) para descargar el informe correspondiente a las interacciones en el pod de encuestas.
+* Seleccione **[!UICONTROL Informe de encuesta (CSV)]** para descargar el informe de interacciones en el pod de encuesta.
 * Pregunta de encuesta y su tipo.
 * Número de respuestas y período durante el cual el pod de sondeo estuvo abierto y comprometido.
-* Seleccione Ver todas las respuestas de `<number>` para verlas en una ventana de diálogo.
+* Seleccione **Ver todas las `<number>` respuestas** para verlas en una ventana de diálogo.
 
-Seleccione la pestaña Otras interacciones en la barra de menús para ver la participación en otros pods y descargar sus informes.
+Seleccione la ficha **[!UICONTROL Otras interacciones]** de la barra de menús para ver la participación en otros pods y descargar sus informes.
 
 CAPTURA DE PANTALLA
 
-Seleccione Descargar informes de interacción en la lista desplegable superior derecha para descargar informes de diferentes pods. Descargue los informes de control de calidad, vínculos y archivos y Reacciones desde aquí para obtener un mejor seguimiento.
+Seleccione **[!UICONTROL Descargar informes de interacción]** de la lista desplegable para descargar informes de diferentes pods. Descargue los informes de control de calidad, vínculos y archivos y Reacciones desde aquí para obtener un mejor seguimiento.
 
 La información de participación en los pods está disponible en diferentes secciones.
 
@@ -234,28 +235,28 @@ CAPTURA DE PANTALLA
 
 En el gráfico, vea los siguientes detalles:
 
-* Nombre de los archivos que se añaden a la secuencia de archivos.
+* Nombre de los archivos que se agregan a la secuencia de archivos.
 * Número de asistentes que descargaron al menos un archivo.
 * Tendencia de descargas únicas en cada archivo agregado al pod de vínculos web.
 
 ### Actividad bajo demanda {#on-demand-activity}
 
-En el panel izquierdo, seleccione Actividad bajo demanda para ver el resumen de las grabaciones. También puede descargar un informe para la actividad bajo demanda.
+En el panel izquierdo, seleccione **[!UICONTROL Actividad a petición]** para ver el resumen de las grabaciones. También puede descargar un informe para la actividad bajo demanda.
 
 CAPTURA DE PANTALLA
 
 En la actividad bajo demanda, vea las siguientes métricas:
 
-* Seleccione Informe bajo demanda (CSV) para descargar las métricas bajo demanda.
+* Haga clic en **[!UICONTROL Informe bajo demanda (CSV)]** para descargar las métricas bajo demanda.
 * Número de visualizadores únicos hasta que se actualizó el tablero por última vez.
 * Número de espectadores que vieron la grabación pero que no pudieron asistir al seminario web.
 * Número de espectadores que asistieron al seminario web y vieron la grabación. Es probable que sean los mejores prospectos.
-* Número de visualizadores que se registraron para la sesión bajo demanda.
+* Número de espectadores que se registraron en la sesión bajo demanda.
 * Duración media de la grabación en minutos.
 
 ### Actividad de participante {#participant-activity}
 
-En el panel izquierdo, seleccione Actividad del participante para ver información consolidada sobre el nivel de participación de cada asistente. Vea cómo se clasifica este compromiso en niveles desde el nivel de compromiso del participante. Seleccione Informe de actividad de usuario (CSV) para descargar el informe y mejorar el seguimiento.
+En el panel izquierdo, seleccione **[!UICONTROL Actividad del participante]** para ver información consolidada sobre el nivel de participación de cada asistente. Vea cómo se clasifica este compromiso en niveles desde el nivel de compromiso del participante. Haga clic en **[!UICONTROL Informe de actividad de usuario (CSV)]** para descargar el informe y mejorar el seguimiento.
 
 CAPTURA DE PANTALLA
 
@@ -272,23 +273,26 @@ Vea los siguientes detalles de la tabla:
 
 Descargue informes para diferentes actividades y pods desde un concentrador centralizado como host.
 
-1. En el panel izquierdo, seleccione Descargar informes.
-1. Seleccione Descargar todo (.zip) para descargar informes de todas las actividades y pods a la vez.
+1. En el panel izquierdo, seleccione **[!UICONTROL Descargar informes]**.
+
+1. Seleccione **[!UICONTROL Descargar todo (.zip)]** para descargar los informes de todas las actividades y pods de una sola vez.
 
 CAPTURA DE PANTALLA
 
-Seleccione el icono situado junto a cada informe para descargarlos individualmente.
+>[!NOTE]
+>
+>Haga clic en el icono de descarga situado junto a cada informe para descargarlo de forma individual.
 
 ## Nivel de participación del participante {#participant-engagement-level}
 
-Las organizaciones utilizan Adobe Connect para ofrecer seminarios web con un alto nivel de personalización, marca y participación. Las herramientas interactivas como las encuestas, el chat, las preguntas y respuestas ayudan a atraer a los asistentes y a recopilar más que solo datos de registro y asistencia. Después de que los asistentes interactúen con estas funciones interactivas, los datos de participación se utilizan para clasificar a los asistentes en tres niveles de participación: alta, media y baja. Los especialistas en marketing pueden utilizar el nivel de participación para actualizar segmentos de audiencia, actualizar puntuaciones de posibles clientes y alertar sobre ventas.
+Las organizaciones utilizan Adobe Connect para ofrecer seminarios web con un alto nivel de personalización, marca y participación. Las herramientas interactivas como las encuestas, el chat, las preguntas y respuestas ayudan a atraer a los asistentes y a recopilar más que solo datos de registro y asistencia. Después de que los asistentes interactúen con estas funciones interactivas, los datos de participación se utilizan para clasificar a los asistentes en tres niveles de participación: alta, media y baja. Puede utilizar el nivel de participación para actualizar segmentos de audiencia, actualizar puntuaciones de persona y alertar a las ventas.
 
-Comprenda el criterio para clasificar el nivel de participación de cada participante:
+Comprenda los criterios para clasificar el nivel de participación de cada participante:
 
 <table><thead>
   <tr>
     <th>Nivel de participación</th>
-    <th>Criterio de clasificación</th>
+    <th>Criterios de clasificación</th>
   </tr></thead>
 <tbody>
   <tr>

@@ -4,9 +4,10 @@ title: Administración de salas
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -15,23 +16,35 @@ ht-degree: 0%
 
 Las salas de seminarios web interactivos con tecnología de Adobe Connect están diseñadas para facilitar eventos en línea atractivos y colaborativos. Estos seminarios web almacenan una cantidad de contenido y grabaciones en salas de seminarios web creadas por miembros autorizados de la organización. Como miembro con derecho a crear una sala, puede acceder a ella y administrarla desde un lugar centralizado.
 
-Siga estos pasos para administrar y acceder a las salas o grabaciones que ha creado.
+## Administración y acceso a salas {#manage-and-access-rooms}
 
 1. Seleccione la ficha Design Studio en la barra de menús superior.
-1. En el panel de navegación de la izquierda, seleccione Plantillas de seminarios web interactivos > Administrar salas.
+
+1. En el panel de navegación de la izquierda, seleccione Seminarios web interactivos > Administrar salas.
+
 1. Acceda y administre salas o grabaciones desde la barra de menús superior.
 
-## Administración y acceso a salas {#manage-and-access-rooms}
+NUEVO ENCABEZADO
 
 Una sala interactiva de seminarios web es un espacio virtual diseñado para albergar eventos en línea atractivos y en directo donde los participantes pueden interactuar activamente con el presentador y otros participantes. En estas salas, puede encontrar el contenido cargado y las grabaciones de seminarios web.
 
 Para ver la lista de todas las habitaciones, seleccione Habitaciones en la barra de menús superior. En estas salas se pueden encontrar todas las salas que se han creado, así como el contenido cargado (enlace aquí donde se explica cómo cargar el contenido) y las grabaciones (enlace aquí donde se explican las grabaciones). También puede ver el número de grabaciones, el tamaño del archivo en la habitación y la fecha del último acceso para las habitaciones correspondientes.
 
-TABLA
-
-* Grabaciones: permite ver el número de grabaciones disponibles en una sala.
-* Tamaño del archivo en la habitación: permite ver el tamaño de archivo combinado del contenido y las grabaciones disponibles en una habitación.
-* Último acceso: muestra la fecha en la que se accedió por última vez a esta sala. Puede ordenar la información en función de la cronología.
+<table><tbody>
+  <tr>
+    <td><b>Grabaciones</td>
+    <td>Ver el número de grabaciones disponibles en una habitación.</td>
+  </tr>
+  <tr>
+    <td><b>Tamaño de archivo en la habitación</td>
+    <td>Ver el tamaño de archivo combinado del contenido y las grabaciones disponibles en una sala.</td>
+  </tr>
+  <tr>
+    <td><b>Último acceso el</td>
+    <td>Muestra la fecha en la que se accedió por última vez a la sala. Puede ordenar la información en función de la cronología.</td>
+  </tr>
+</tbody>
+</table>
 
 CAPTURA DE PANTALLA
 
@@ -94,7 +107,7 @@ Puede realizar las siguientes acciones desde este concentrador centralizado:
 
 Las grabaciones son recursos inestimables que capturan la esencia de los debates en directo, las presentaciones y las sesiones de preguntas y respuestas. Permiten a los participantes revisar perspectivas clave, detalles perdidos o conceptos complejos a su propio ritmo.
 
-Una vez que seleccione Grabaciones en la barra superior, se le dirigirá a Mis grabaciones, donde podrá ver una lista de todas las grabaciones que ha cargado.
+Haga clic en la ficha Grabaciones para ver una lista de todas las grabaciones que ha cargado.
 
 En Mi grabación, puede encontrar todas las grabaciones disponibles en la sala que ha creado. También puede ver su tamaño, fecha y hora y duración respectivos de las grabaciones.
 
