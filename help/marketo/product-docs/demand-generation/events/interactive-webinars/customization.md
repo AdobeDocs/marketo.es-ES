@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,17 @@ Puede personalizar las siguientes opciones:
 
 ## Personalizar pantallas interactivas de seminarios web {#customize-interactive-webinar-screens}
 
-1. Haga clic en **Design Studio**.
+1. Vaya a **Design Studio**.
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. Haga clic en **seminarios web interactivos** y seleccione **Personalizar seminarios web**.
 
-1. Personalice la interfaz de la sala, las pantallas inmediatas o los fondos de vídeo virtual desde la barra de menús.
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Puede personalizar la interfaz de la sala, las pantallas inmediatas o los fondos de vídeo virtual.
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### Personalización de la interfaz de sala {#customize-the-room-interface}
 
@@ -41,27 +47,25 @@ Para personalizar el aspecto de una sala, seleccione la ficha Interfaz de sala e
 
 1. En el panel derecho, personalice las siguientes preferencias:
 
-CAPTURA DE PANTALLA
+   ![](assets/interactive-webinars-customization-4.png)
 
-**Logotipo personalizado**: selecciona Cargar logotipo y explora la imagen desde tu dispositivo. El tamaño de la imagen no debe superar los 50 x 31 píxeles y puede estar en diferentes formatos de archivo: .svg, .gif, .jpg y .png. Puede cambiar o eliminar su logotipo.
+   **Logotipo personalizado**: selecciona Cargar logotipo y explora la imagen desde tu dispositivo. El tamaño de la imagen no debe superar los 50 x 31 píxeles y puede estar en diferentes formatos de archivo: .svg, .gif, .jpg y .png. Puede cambiar o eliminar su logotipo.
 
-**Vínculo de redirección**: Agregue una dirección URL para redirigir a los asistentes después de que hagan clic en el logotipo.
+   **Vínculo de redirección**: Agregue una dirección URL para redirigir a los asistentes después de que hagan clic en el logotipo.
 
-**Texto alternativo**: agregue un texto alternativo para los asistentes mediante las características de accesibilidad.
+   **Texto alternativo**: agregue un texto alternativo para los asistentes mediante las características de accesibilidad.
 
-**Colores**: selecciona colores para la barra de la sala, los iconos de la sala, el fondo de la sala, la barra del pod y los iconos o mosaicos del pod para cambiar el color de las diferentes secciones.
+   **Colores**: selecciona colores para la barra de la sala, los iconos de la sala, el fondo de la sala, la barra del pod y los iconos o mosaicos del pod para cambiar el color de las diferentes secciones.
 
-También puede introducir el código de color HEX mediante la opción HEX.
+   También puede introducir el código de color HEX mediante la opción HEX.
 
-Seleccione **[!UICONTROL Ver plantillas]** para cambiar el tema de la sala.
+   Seleccione **[!UICONTROL Ver plantillas]** para cambiar el tema de la sala.
 
-Después de realizar los cambios, puede comprobar el logotipo y los colores en Vista previa.
+   Después de realizar los cambios, puede comprobar el logotipo y los colores en Vista previa.
 
-1. Seleccione **[!UICONTROL Aplicar]** para guardar los cambios.
+1. Seleccione **[!UICONTROL Aplicar]** para guardar los cambios. Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
 
->[!NOTE]
->
->Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### Personalización de pantallas intermedias {#customize-intermediate-screens}
 
@@ -71,19 +75,13 @@ Para personalizar el aspecto de una sala, seleccione la ficha Pantallas intermed
 
 1. En el panel derecho, personalice la imagen de fondo seleccionando **Cargar imagen** y busque un logotipo en una imagen. El tamaño de la imagen no debe superar los 1920 x 1080 píxeles y puede estar en diferentes formatos de archivo: .svg, .gif, .jpg y .png. Si lo desea, puede cambiar o eliminar el logotipo.
 
-Después de realizar los cambios, vea el fondo en Vista previa.
+   ![](assets/interactive-webinars-customization-6.png)
 
-CAPTURA DE PANTALLA
+   >[!NOTE]
+   >
+   >La imagen cargada se aplica en las pantallas de entrada, salida y espera.
 
->[!NOTE]
->
->La imagen cargada se aplica en las pantallas de entrada, salida y espera.
-
-1. Seleccione **[!UICONTROL Aplicar]** para guardar los cambios.
-
->[!NOTE]
->
->Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
+1. Seleccione **[!UICONTROL Aplicar]** para guardar los cambios. Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
 
 ### Personalizar fondos de vídeo virtuales {#Customize-virtual-video-backgrounds}
 
@@ -91,11 +89,11 @@ Utilice fondos definidos por la organización durante los eventos para mostrar e
 
 **Fondos personalizados**
 
-Utilice el conmutador a fin de permitir fondos personalizados en sus eventos y salas.
+1. Haga clic en el conmutador a fin de permitir fondos personalizados en los eventos y salas.
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Seleccione **Cargar fondo** para cargar un fondo personalizado. El tamaño de la imagen no debe superar los 1920 x 1080 píxeles y puede estar en diferentes formatos de archivo: .svg, .gif, .jpg y .png.
-
-CAPTURA DE PANTALLA
 
 Pase el ratón sobre la imagen de fondo personalizada para eliminarla de los fondos de vídeo.
 
@@ -103,11 +101,7 @@ Después de realizar los cambios, vea el fondo en Vista previa.
 
 Puede utilizar el control deslizante de la pantalla Vista previa para acercar o alejar el contenido y probar el aspecto que tendría el fondo virtual si el usuario estuviera cerca o lejos de la cámara. Si hay texto en segundo plano, esto ayudaría a garantizar que permanezca visible.
 
-1. Seleccione **Aplicar** para guardar los cambios.
-
->[!NOTE]
->
->Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
+1. Seleccione **[!UICONTROL Aplicar]** para guardar los cambios. Para restablecer la configuración predeterminada, haga clic en **[!UICONTROL Restablecer a la configuración predeterminada]**.
 
 **Fondos de Adobe Connect**
 
@@ -115,6 +109,6 @@ Adobe Connect proporciona nueve fondos predeterminados listos para usar. Puede v
 
 Utilice el conmutador para controlar la disponibilidad de estos fondos predeterminados en sus eventos y salas.
 
-CAPTURA DE PANTALLA
+![](assets/interactive-webinars-customization-8.png)
 
-Seleccione **Aplicar** para guardar los cambios o seleccione **Restablecer a valores predeterminados** para restablecer los valores predeterminados.
+Seleccione **Aplicar** para guardar los cambios o **Restablecer a los valores predeterminados** para restablecer los valores predeterminados.
