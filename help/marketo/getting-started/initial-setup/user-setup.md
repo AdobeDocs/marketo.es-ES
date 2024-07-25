@@ -1,19 +1,19 @@
 ---
-description: Antes de sumergirse en la nueva instancia de Marketo Engage, deberá completar algunos pasos básicos para un uso continuo. Estos pasos incluyen la configuración de la cuenta de usuario, la configuración de administración de soporte y la suscripción a actualizaciones continuas del sistema.
-short-description: Después de completar los pasos de configuración iniciales, aprenda a establecer elementos básicos para garantizar un uso continuo y sin problemas.
+description: Antes de profundizar en la nueva instancia de Marketo Engage, deberá completar algunos pasos básicos para un uso continuado. Estos pasos incluyen la configuración de la cuenta de usuario, la configuración de administración de asistencia y la suscripción a actualizaciones continuas del sistema.
+short-description: Después de completar los pasos de configuración iniciales, aprenda a establecer los elementos básicos para garantizar un uso continuado y sin problemas.
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Lista de comprobación de configuración de usuario {#user-setup-checklist}
 
-Ahora que ha completado todos los [pasos iniciales de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, es hora de establecer algunos elementos básicos para garantizar un uso continuo y sin problemas. Esto sentará las bases para su recorrido con Marketo Engage y le ayudará a aprovechar al máximo sus características. ¡Vamos a empezar!
+Ahora que ha completado todos los [pasos iniciales de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, es hora de establecer algunos elementos básicos para garantizar un uso continuo y sin problemas. Esto sentará las bases para su recorrido con Marketo Engage y le ayudará a aprovechar al máximo sus características. ¡Empecemos!
 
 >[!NOTE]
 >

@@ -1,5 +1,5 @@
 ---
-description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
+description: 'Notas de la versión actuales, documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information

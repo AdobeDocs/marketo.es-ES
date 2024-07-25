@@ -1,17 +1,17 @@
 ---
-description: Glosario del Marketo Engage - Documentos de Marketo - Documentación del producto
-short-description: Conozca los términos de los Marketo Engage y sus definiciones para ayudarle a ponerse al día rápidamente.
-title: Glosario del Marketo Engage
+description: 'Glosario de Marketo Engage, documentos de Marketo: documentación del producto'
+short-description: Conozca los términos de Marketo Engage y sus definiciones para ayudarle a ponerse al día rápidamente.
+title: Glosario de Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '4098'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Glosario del Marketo Engage {#marketo-engage-glossary}
+# Glosario de Marketo Engage {#marketo-engage-glossary}
 
 A continuación encontrará definiciones de muchos de los términos que puede encontrar al utilizar Marketo Engage. Para solicitar que se agregue un término, [envíenos un correo electrónico](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
@@ -76,7 +76,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Se usa para confirmar cuándo un <strong>recurso</strong> está listo para consumirse. Assets no se puede ver públicamente hasta que se haya aprobado.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> recurso</strong></td> 
+   <td colspan="1"><strong>Recurso</strong></td> 
    <td colspan="1">Un elemento que sirve como contenido en su instancia de Marketo (por ejemplo, <strong>correo electrónico</strong>, <strong>página de aterrizaje</strong>, <strong>campaña inteligente</strong>, etc.).</td> 
   </tr> 
  </tbody> 
@@ -244,7 +244,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Un tipo de programa en Marketo. Un programa genérico que utilizará cuando un programa de correo electrónico, evento o participación no sea relevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Capacidad de envío</strong></td> 
+   <td colspan="1"><strong>Estrategia y definición</strong></td> 
    <td colspan="1">La capacidad de un mensaje de correo electrónico para llegar a la bandeja de entrada del destinatario deseado, que puede verse afectada por <strong>correo no deseado</strong> y los filtros del lado del cliente. Diferente a "Entregado", que solo indica que el correo electrónico se entregó al servidor de destinatario.</td> 
   </tr> 
   <tr> 
@@ -593,7 +593,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>Cuando una persona da su permiso para empezar a recibir correos electrónicos de marketing.</td> 
   </tr> 
   <tr> 
-   <td><strong>Opción de exclusión</strong></td> 
+   <td><strong>Exclusión</strong></td> 
    <td>(consulte <a href="#u"><strong>cancelar la suscripción</strong></a>)</td> 
   </tr> 
  </tbody> 
@@ -631,7 +631,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Las particiones de persona actúan como <strong>bases de datos</strong> independientes. Cada partición tiene su propia gente que no desduplica ni mezcla con otras particiones.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Grupo de usuarios</strong></a></td> 
    <td colspan="1">En la <strong>administración de cuentas de Target</strong> de Marketo, las personas son un subconjunto de una audiencia, lo que permite un direccionamiento más específico.</td> 
   </tr> 
   <tr> 

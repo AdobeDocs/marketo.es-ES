@@ -1,12 +1,12 @@
 ---
-description: Notas de la versión del Dynamic Chat - Documentos de Marketo - Documentación del producto
+description: 'Notas de la versión actuales, documentos de Marketo: documentación del producto'
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '1472'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ La página de notas de la versión estándar del Marketo Engage [ se encuentra a
 
 ## Lanzamiento de junio de 2024 {#june-release}
 
-**Fecha de la versión: 6 de junio de 2024**
+**Fecha de publicación: viernes, 06 de junio de 2024**
 
 ### Tarjeta de flujo de conversación {#conversational-flow-card}
 
@@ -38,7 +38,7 @@ La página Límites de uso muestra información importante, como los detalles de
 
 ## Lanzamiento de mayo de 2024 {#may-release}
 
-**Fecha de la versión: 15 de mayo de 2024**
+**Fecha de versión: jueves, 15 de mayo de 2024**
 
 ### Biblioteca de respuestas aprobadas previamente {#pre-approved-response-library}
 
@@ -74,9 +74,9 @@ Empuje a los visitantes web con una llamada a la acción para llevar las convers
 
 <p>
 
-## Lanzamiento de abril de 2024 {#april-release}
+## Versión de abril de 2024 {#april-release}
 
-**Fecha de publicación: 23 de abril de 2024**
+**Fecha de publicación: miércoles, 23 de abril de 2024**
 
 ### Flujos de conversación ahora disponibles para todos los usuarios {#conversational-flows-available-to-all-users}
 
@@ -177,7 +177,7 @@ Cuando lanzamos Dynamic Chat en 2022, no había compatibilidad con el chat en vi
 
 ## Lanzamiento de febrero de 2024 {#february-release}
 
-**Fecha de publicación: 22 de febrero de 2024**
+**Fecha de publicación: viernes, 22 de febrero de 2024**
 
 ### Página Conversaciones {#conversations-page}
 
@@ -195,7 +195,7 @@ La ramificación condicional permite crear ramas en los flujos de diálogo en fu
 
 ## Lanzamiento de enero de 2024 {#january-release}
 
-**Fecha de la versión: 24 de enero de 2024**
+**Fecha de la versión: jueves, 24 de enero de 2024**
 
 ### Configuración del límite de chat en directo simultáneo en la administración de agentes {#Concurrent-live-chat-limit-setting}
 
