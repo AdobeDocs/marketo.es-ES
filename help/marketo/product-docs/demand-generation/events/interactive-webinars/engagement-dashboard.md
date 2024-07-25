@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Vea la participación de los siguientes tipos de sesiones en un seminario web in
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/engagement-dashboard-1.png)
 
 1. Seleccione el evento deseado.
 
-   CAPTURA DE PANTALLA
+   ![](assets/engagement-dashboard-2.png)
 
 1. En la Información general, haga clic en **[!UICONTROL Ver tablero de participación]**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Puede ver los siguientes detalles en el panel de participación.
 
 Esta interfaz proporciona una vista consolidada del rendimiento del evento para sesiones en directo y bajo demanda. En el panel izquierdo, seleccione Resumen de eventos para ver las métricas generales.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Proporciona información general sobre el rendimiento de un evento en una sesió
 
 En el panel izquierdo, seleccione **[!UICONTROL Participación]** para ver el rendimiento de la sesión en directo. **[!UICONTROL Haga clic en Resumen de participación (PDF)]** para descargar el resumen de rendimiento de la sesión activa. La descripción general proporciona datos en diferentes secciones.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-5.png)
 
 **Métricas clave**
 
 Vea el número de registros, asistentes y participación en la sesión en directo.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ CAPTURA DE PANTALLA
 
 Obtenga información acerca de la participación promedio a lo largo del tiempo durante la sesión en directo desde los gráficos de participación. Los hosts pueden monitorizar cómo fluctúan los niveles de participación, lo que les permite identificar momentos críticos de interacción alta o baja. Vea qué parte de la puntuación de participación promedio obtuvieron los participantes comprometidos en diferentes diseños.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-7.png)
 
 Al pasar el ratón por encima del gráfico, vea la siguiente información:
 
@@ -161,7 +161,7 @@ Al pasar el ratón por encima del gráfico, vea la siguiente información:
 
 Puede ver las interacciones de los asistentes desde diferentes pods. Proporciona información como las encuestas respondidas, las preguntas formuladas, la interacción con el chat, el clic en al menos un vínculo y la descarga de al menos un archivo.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-8.png)
 
 Seleccione **[!UICONTROL Ir a interacciones]** para ver las respuestas de las encuestas, las métricas de control de calidad y las reacciones de los asistentes durante la sesión. Vea cómo se involucra a los asistentes entre pods desde Interacciones y descargue informes de interacción desde la sección siguiente.
 
@@ -171,7 +171,7 @@ Vea cómo los asistentes interactúan y participan en la sesión desde Interacci
 
 En el panel izquierdo, seleccione **[!UICONTROL Interacciones]** para ver cómo interactúan los asistentes entre pods.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-9.png)
 
 Seleccione la ficha **[!UICONTROL Encuestas]** de la barra de menús para ver las preguntas y respuestas agregadas a la encuesta. Esta pestaña muestra la siguiente información:
 
@@ -182,7 +182,7 @@ Seleccione la ficha **[!UICONTROL Encuestas]** de la barra de menús para ver la
 
 Seleccione la ficha **[!UICONTROL Otras interacciones]** de la barra de menús para ver la participación en otros pods y descargar sus informes.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-10.png)
 
 Seleccione **[!UICONTROL Descargar informes de interacción]** de la lista desplegable para descargar informes de diferentes pods. Descargue los informes de control de calidad, vínculos y archivos y Reacciones desde aquí para obtener un mejor seguimiento.
 
@@ -192,7 +192,7 @@ La información de participación en los pods está disponible en diferentes sec
 
 Vea los siguientes atributos del pod de preguntas y respuestas.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-11.png)
 
 * Total de preguntas formuladas.
 * Número de preguntas sin responder.
@@ -204,7 +204,7 @@ CAPTURA DE PANTALLA
 
 Vea las reacciones de los asistentes desde aquí, como estar de acuerdo, estar en desacuerdo, aplaudir y reír durante la sesión.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-12.png)
 
 En el gráfico de reacciones, vea los siguientes detalles:
 
@@ -218,7 +218,7 @@ En el gráfico de reacciones, vea los siguientes detalles:
 
 Ver los vínculos añadidos al pod de vínculos web durante la sesión y el número de clics en el vínculo compartido. El pod de vínculos web le permite agregar vínculos de fuentes externas al seminario web para generar participación.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-13.png)
 
 En el gráfico, vea los siguientes detalles:
 
@@ -231,7 +231,7 @@ En el gráfico, vea los siguientes detalles:
 
 Vea los archivos agregados al pod de archivos durante la sesión y la cantidad de descargas únicas. El pod de archivos permite agregar archivos y proporcionar recursos para generar participación.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-14.png)
 
 En el gráfico, vea los siguientes detalles:
 
@@ -243,7 +243,7 @@ En el gráfico, vea los siguientes detalles:
 
 En el panel izquierdo, seleccione **[!UICONTROL Actividad a petición]** para ver el resumen de las grabaciones. También puede descargar un informe para la actividad bajo demanda.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-15.png)
 
 En la actividad bajo demanda, vea las siguientes métricas:
 
@@ -258,7 +258,7 @@ En la actividad bajo demanda, vea las siguientes métricas:
 
 En el panel izquierdo, seleccione **[!UICONTROL Actividad del participante]** para ver información consolidada sobre el nivel de participación de cada asistente. Vea cómo se clasifica este compromiso en niveles desde el nivel de compromiso del participante. Haga clic en **[!UICONTROL Informe de actividad de usuario (CSV)]** para descargar el informe y mejorar el seguimiento.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-dashboard-16.png)
 
 Vea los siguientes detalles de la tabla:
 
@@ -277,7 +277,7 @@ Descargue informes para diferentes actividades y pods desde un concentrador cent
 
 1. Seleccione **[!UICONTROL Descargar todo (.zip)]** para descargar los informes de todas las actividades y pods de una sola vez.
 
-CAPTURA DE PANTALLA
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >

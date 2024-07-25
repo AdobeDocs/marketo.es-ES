@@ -3,9 +3,9 @@ description: Verificación por correo electrónico - Documentos de Marketo - Doc
 title: Verificación de correo electrónico
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Cuando un administrador invita a un usuario, este se verifica automáticamente u
 
 >[!IMPORTANT]
 >
->La excepción a lo anterior es, _en una suscripción de solo SSO_, los administradores recibirán una nueva invitación de usuario, pero los usuarios que no sean administradores no. Los usuarios que no son administradores deben seguir con el proceso de verificación por correo electrónico para garantizar la migración de sus registros. Los usuarios pueden enviarse el vínculo de verificación por correo electrónico si hacen clic en su icono de Perfil, acceden a **Mi cuenta** > **Configuración de la cuenta** y hacen clic en **Volver a enviar verificación**.
+>La excepción a lo anterior es, _en una suscripción de solo SSO_, los administradores recibirán una nueva invitación de usuario, pero los usuarios que no sean administradores no. Los usuarios que no son administradores deben seguir con el proceso de verificación por correo electrónico para garantizar la migración de sus registros. Los usuarios pueden enviarse el vínculo de verificación por correo electrónico haciendo clic en su icono &quot;Mi perfil&quot; y navegando a **Mi cuenta** > **Configuración de la cuenta** > **Volver a enviar la verificación**.
 
 ![](assets/email-verification-1.png)
 
