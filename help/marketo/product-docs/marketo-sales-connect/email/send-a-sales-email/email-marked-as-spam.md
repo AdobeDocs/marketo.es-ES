@@ -4,7 +4,7 @@ description: Correo electrónico marcado como correo no deseado - Documentos de 
 title: Correo electrónico marcado como spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Como empresa, trabajamos duro para garantizar que nuestras tasas de entrega se m
 **Comprueba Tu Configuración**
 
 * Seguimiento de dominio personalizado: Esto le permite hacer que todos los vínculos de seguimiento se muestren sobre la marcha&quot;.&quot;su dominio&quot; en lugar de go.toutapp. Algunos dispositivos de seguridad de correo electrónico verán que el correo electrónico proviene de &quot;su dominio&quot;, pero el vínculo se está redireccionando a go.outapp. Al implementar el seguimiento de vínculos de dominio personalizados, los correos electrónicos tendrán un aspecto legítimo y una mayor probabilidad de llegar a la bandeja de entrada del destinatario.
-* Canal de entrega de correo electrónico: De forma predeterminada, los correos electrónicos se envían a través de los servidores de ToutApp. Al configurar su propio Gmail o SMTP personalizado, puede dar a sus correos electrónicos la mejor oportunidad de aterrizar en la bandeja de entrada de un destinatario. [Haga clic aquí](https://nation.marketo.com/docs/DOC-5080) para obtener más información sobre cómo seleccionar el canal de entrega adecuado para sus necesidades.
+* Canal de entrega de correo electrónico: De forma predeterminada, los correos electrónicos se envían a través de los servidores de ToutApp. Al configurar su propio Gmail o SMTP personalizado, puede dar a sus correos electrónicos la mejor oportunidad de aterrizar en la bandeja de entrada de un destinatario. [Haga clic aquí](https://nation.marketo.com/docs/DOC-5080){target="_blank"} para obtener más información sobre cómo seleccionar el canal de entrega adecuado según sus necesidades.
 
 **Comprueba El Comportamiento De Tu Correo Electrónico**
 
@@ -28,4 +28,4 @@ Como empresa, trabajamos duro para garantizar que nuestras tasas de entrega se m
 
 * Asegúrese de tener una firma de correo electrónico completa con una dirección física.
 
-* Lee y asegúrate de cumplir con las [leyes CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lee y asegúrate de cumplir con las [leyes CAN-SPAM](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}.
