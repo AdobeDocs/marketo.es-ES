@@ -4,10 +4,10 @@ description: Explicación de los campos administrados por el sistema - Documento
 title: Explicación de los campos administrados por el sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
 workflow-type: tm+mt
-source-wordcount: '512'
-ht-degree: 13%
+source-wordcount: '523'
+ht-degree: 16%
 
 ---
 
@@ -17,53 +17,183 @@ Es posible que haya observado que la [página de detalles de persona](/help/mark
 
 ## Tipos de campo {#field-types}
 
-| **Nombre de campo** | **Definición** |
-|---|---|
-| Tipo de origen original | La ubicación en la que se descubrió por primera vez una persona o visitante de un sitio web (Ejemplo: importación de lista, visita de página web) |
-| Información de origen original | Detalles específicos sobre esa ubicación (Ejemplo: Nombre de la lista, URL de la página web) |
-| Motor de búsqueda original | Si procede, el motor de búsqueda que refirió a la persona a la fuente de entrada original |
-| Frase de búsqueda original | Si procede, el término de búsqueda utilizado que refirió a la persona a la fuente de entrada original |
-| Remitente original | URL que alojó el origen de entrada original |
-| Tipo de origen del registro | La ubicación de una actividad se convirtió en una persona por primera vez (Ejemplo: importación de lista, visita de página web) |
-| Información de origen del registro | Detalles específicos sobre esa ubicación (Ejemplo: Nombre de la lista, URL de la página web) |
-| IP anónima | Indica la dirección IP de una persona |
-| Compañía inferida | Mejor estimación de Marketo (basada en la dirección IP) de la compañía de la persona |
-| Ciudad inferida | Mejor estimación de Marketo (basada en la dirección IP) de la ciudad de la persona |
-| Región del estado inferida | Mejor estimación de Marketo (basada en la dirección IP) del estado o la región de la persona |
-| Código postal inferido | Mejor estimación de Marketo (basada en la dirección IP) del código postal de la persona |
-| País inferido | Mejor estimación de Marketo (basada en la dirección IP) del país de la persona |
-| Área metropolitana inferida | Mejor estimación de Marketo (basada en la dirección IP) del área metropolitana de la persona |
-| Código de área telefónico inferido | Mejor estimación de Marketo (basada en la dirección IP) del código de área de la persona |
+<table><thead>
+  <tr>
+    <th>Nombre del campo</th>
+    <th>Definición</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Tipo de origen original</td>
+    <td>La ubicación en la que se descubrió por primera vez una persona o visitante de un sitio web (Ejemplo: importación de lista, visita de página web)</td>
+  </tr>
+  <tr>
+    <td>Información de origen original</td>
+    <td>Detalles específicos sobre esa ubicación (Ejemplo: Nombre de la lista, URL de la página web)</td>
+  </tr>
+  <tr>
+    <td>Motor de búsqueda original</td>
+    <td>Si procede, el motor de búsqueda que refirió a la persona a la fuente de entrada original</td>
+  </tr>
+  <tr>
+    <td>Frase de búsqueda original</td>
+    <td>Si procede, el término de búsqueda utilizado que refirió a la persona a la fuente de entrada original</td>
+  </tr>
+  <tr>
+    <td>Remitente original</td>
+    <td>URL que alojó el origen de entrada original</td>
+  </tr>
+  <tr>
+    <td>Tipo de origen del registro</td>
+    <td>La ubicación de una actividad se convirtió en una persona por primera vez (Ejemplo: importación de lista, visita de página web)</td>
+  </tr>
+  <tr>
+    <td>Información de origen del registro</td>
+    <td>Detalles específicos sobre esa ubicación (Ejemplo: Nombre de la lista, URL de la página web)</td>
+  </tr>
+  <tr>
+    <td>IP anónima</td>
+    <td>Indica la dirección IP de una persona</td>
+  </tr>
+  <tr>
+    <td>Compañía inferida</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) de la compañía de la persona</td>
+  </tr>
+  <tr>
+    <td>Ciudad inferida</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) de la ciudad de la persona</td>
+  </tr>
+  <tr>
+    <td>Región del estado inferida</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) del estado o la región de la persona</td>
+  </tr>
+  <tr>
+    <td>Código postal inferido</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) del código postal de la persona</td>
+  </tr>
+  <tr>
+    <td>País inferido</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) del país de la persona</td>
+  </tr>
+  <tr>
+    <td>Área metropolitana inferida</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) del área metropolitana de la persona</td>
+  </tr>
+  <tr>
+    <td>Código de área telefónico inferido</td>
+    <td>Mejor estimación de Marketo (basada en la dirección IP) del código de área de la persona</td>
+  </tr>
+</tbody></table>
 
 ## Valores posibles para el tipo de Source original y de registro {#possible-values-for-original-and-registration-source-type}
 
 A continuación se muestran algunos valores posibles y lo que significan.
 
-| **Tipo de Source original** | **Definición** |
-|---|---|
-| Salesforce.com | Se detectó la persona a partir de una sincronización de [!DNL Webhook] |
-| Visitas a páginas web | La persona se ha descubierto desde una página web |
-| Rellenado de formulario web | La persona se descubrió después de rellenar un formulario |
-| Lista de importación | Se descubrió una persona a partir de una importación de lista |
-| Nueva persona | La persona se ha introducido manualmente en la base de datos |
-| Clic en vínculo web | Se descubrió una persona después de hacer clic en un vínculo |
-| Correo electrónico de ventas | Se envió un correo electrónico a la persona a través del complemento de correo electrónico [!DNL Sales Insight] |
-| Persona | Se sincronizó a la persona de [!DNL Salesforce] como persona |
-| Contacto | La persona se sincronizó desde [!DNL Webhook] como contacto |
-| API [!DNL Munchkin] | La API del Marketo Engage [!DNL Munchkin] descubrió la persona |
-| Aplicación social | La persona fue descubierta por un widget social |
-| API de servicios web | Una API de servicio web descubrió la persona |
-| Socio del evento | La persona se ha descubierto mediante un servicio de seminario web sincronizado |
-| Lead asociado | Persona que se fusionó mediante la llamada a la API de Associate Lead |
+<table><thead>
+  <tr>
+    <th>Tipo de origen original</th>
+    <th>Definición</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Se ha descubierto una persona en la sincronización de Salesforce</td>
+  </tr>
+  <tr>
+    <td>Visitas a páginas web</td>
+    <td>La persona se ha descubierto desde una página web</td>
+  </tr>
+  <tr>
+    <td>Rellenado de formulario web</td>
+    <td>La persona se descubrió después de rellenar un formulario</td>
+  </tr>
+  <tr>
+    <td>Lista de importación</td>
+    <td>Se descubrió una persona a partir de una importación de lista</td>
+  </tr>
+  <tr>
+    <td>Nueva persona</td>
+    <td>La persona se ha introducido manualmente en la base de datos</td>
+  </tr>
+  <tr>
+    <td>Clic en vínculo web</td>
+    <td>Se descubrió una persona después de hacer clic en un vínculo</td>
+  </tr>
+  <tr>
+    <td>Correo electrónico de ventas</td>
+    <td>Se ha enviado un correo electrónico a la persona a través del complemento de correo electrónico de Sales Insight</td>
+  </tr>
+  <tr>
+    <td>Persona</td>
+    <td>La persona se ha sincronizado desde Salesforce como persona</td>
+  </tr>
+  <tr>
+    <td>Contacto</td>
+    <td>La persona se ha sincronizado desde Webhook como contacto</td>
+  </tr>
+  <tr>
+    <td>API de Munchkin</td>
+    <td>La persona fue descubierta por la API de Marketo Engage Munchkin</td>
+  </tr>
+  <tr>
+    <td>Aplicación social</td>
+    <td>La persona fue descubierta por un widget social</td>
+  </tr>
+  <tr>
+    <td>API de servicios web</td>
+    <td>Una API de servicio web descubrió la persona</td>
+  </tr>
+  <tr>
+    <td>Socio del evento</td>
+    <td>La persona se ha descubierto mediante un servicio de seminario web sincronizado</td>
+  </tr>
+  <tr>
+    <td>Asociar posible cliente</td>
+    <td>Persona que se fusionó mediante la llamada a la API de Associate Lead</td>
+  </tr>
+</tbody></table>
 
-| **Tipo de registro de Source** | **Definición** |
-|---|---|
-| Lista de importación | Se convirtió en una persona a través de una importación de lista |
-| Salesforce.com | Se convirtió en persona a través de una sincronización de [!DNL Webhook] |
-| Rellenado de formulario web | Se convierte en persona después de rellenar un formulario |
-| Correo electrónico de ventas | Se envió un correo electrónico a la persona a través del complemento de correo electrónico [!DNL Webhook] |
-| API de servicios web | SOAP La persona se ha creado mediante la API de/REST |
-| Nueva persona | La persona se ha introducido manualmente en la base de datos |
-| API [!DNL Munchkin] | Se convirtió en persona a través de la API [!DNL Munchkin] de Marketo |
-| Aplicación social | Convertirse en una persona a través de un widget social |
-| Socio del evento | Convertirse en persona mediante un servicio de seminario web vinculado |
+<table><thead>
+  <tr>
+    <th>Tipo de origen del registro</th>
+    <th>Definición</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Lista de importación</td>
+    <td>Se convirtió en una persona a través de una importación de lista</td>
+  </tr>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Se convirtió en una persona a través de la sincronización de Salesforce</td>
+  </tr>
+  <tr>
+    <td>Rellenado de formulario web</td>
+    <td>Se convierte en persona después de rellenar un formulario</td>
+  </tr>
+  <tr>
+    <td>Correo electrónico de ventas</td>
+    <td>Se ha enviado un correo electrónico a la persona a través del complemento de correo electrónico de Sales Insight</td>
+  </tr>
+  <tr>
+    <td>API de servicios web</td>
+    <td>SOAP La persona se ha creado mediante la API de/REST</td>
+  </tr>
+  <tr>
+    <td>Nueva persona</td>
+    <td>La persona se ha introducido manualmente en la base de datos</td>
+  </tr>
+  <tr>
+    <td>API de Munchkin</td>
+    <td>Hágase persona a través de la API Munchkin de Marketo</td>
+  </tr>
+  <tr>
+    <td>Aplicación social</td>
+    <td>Convertirse en una persona a través de un widget social</td>
+  </tr>
+  <tr>
+    <td>Socio del evento</td>
+    <td>Convertirse en persona mediante un servicio de seminario web vinculado</td>
+  </tr>
+</tbody>
+</table>
