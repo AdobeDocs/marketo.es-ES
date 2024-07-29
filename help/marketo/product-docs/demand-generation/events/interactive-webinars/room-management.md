@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Para ver la lista de todas tus habitaciones, selecciona **[!UICONTROL Habitacion
 </tbody>
 </table>
 
-CAPTURA DE PANTALLA
+![](assets/room-management-3.png)
 
 Puede realizar las siguientes acciones desde esta interfaz centralizada:
 
@@ -82,7 +82,7 @@ La pestaña Content permite ver los archivos cargados, su tipo, tamaño, fecha d
 </tbody>
 </table>
 
-CAPTURA DE PANTALLA
+![](assets/room-management-4.png)
 
 Puede realizar las siguientes acciones en la pestaña Content:
 
@@ -96,14 +96,14 @@ Puede realizar las siguientes acciones en la pestaña Content:
 
 La ficha Grabaciones permite ver todas las grabaciones disponibles en esta sala. Cada grabación se muestra con detalles como su tamaño, fecha y hora de grabación y duración.
 
-CAPTURA DE PANTALLA
+![](assets/room-management-5.png)
 
 Puede realizar las siguientes acciones desde este concentrador centralizado:
 
 * Haga clic en el botón **[!UICONTROL Sala de lanzamiento]** para iniciar e ingresar a la sala.
 * Utilice la barra de búsqueda para encontrar la grabación que está buscando.
 * Haga clic en el icono Descargar archivo para descargar un archivo en el dispositivo. Seleccione dos o más archivos para descargarlos por lotes.
-* Haga clic en el icono Copiar grabación para copiar la URL de grabación.
+* Haga clic en el icono Copiar vínculo de grabación para copiar la URL de grabación.
 * Haga clic en el icono Editar grabación para realizar cambios en la grabación.
 * Haga clic en el icono Eliminar para eliminar la grabación. Cuando se elimina una grabación, no se puede recuperar.
 * Seleccione una grabación para reproducirla en el dispositivo.
@@ -112,18 +112,17 @@ Puede realizar las siguientes acciones desde este concentrador centralizado:
 
 Las grabaciones son recursos inestimables que capturan la esencia de los debates en directo, las presentaciones y las sesiones de preguntas y respuestas. Permiten a los participantes revisar perspectivas clave, detalles perdidos o conceptos complejos a su propio ritmo.
 
-Haga clic en la ficha **Grabaciones** para ver una lista de todas las grabaciones que ha cargado.
+Haga clic en la ficha **[!UICONTROL Grabaciones]** para ver una lista de todas las grabaciones que ha cargado.
 
-En Mi grabación, puede encontrar todas las grabaciones disponibles en la sala que ha creado. También puede ver su tamaño, fecha y hora y duración respectivos de las grabaciones.
+En **[!UICONTROL Mis grabaciones]**, encontrará todas las grabaciones disponibles en la sala que creó. También puede ver su tamaño, fecha y hora y duración respectivos de las grabaciones.
 
-CAPTURA DE PANTALLA
+![](assets/room-management-6.png)
 
 Puede realizar las siguientes acciones desde este concentrador centralizado:
 
 * Utilice la barra de búsqueda para encontrar la grabación que está buscando. También puede buscar dentro de una cronología seleccionando un Intervalo de fechas.
-* Seleccione Copiar vínculo de grabación   para copiar la URL de registro.
-* Edite la grabación. (añadir un enlace para editar la grabación en &quot;editar&quot; palabra)
-* Seleccione Editar grabación para realizar cambios en la grabación. (añadir un enlace para editar la grabación en &quot;editar&quot; palabra)
-* Seleccione Mostrar página vinculada   para ver la información acerca de la sala donde está disponible la grabación seleccionada.
-* Utilice Eliminar espacio para quitar la grabación. Una vez eliminada una grabación, no se puede recuperar.
+* Haga clic en el icono Copiar vínculo de grabación para copiar la URL de grabación.
+* Haga clic en el icono Editar grabación para realizar cambios en la grabación.
+* Haga clic en el icono Mostrar página vinculada para ver la información sobre la sala donde está disponible la grabación seleccionada.
+* Haga clic en el icono Eliminar para eliminar la grabación. Cuando se elimina una grabación, no se puede recuperar.
 * Seleccione una grabación para reproducirla en el dispositivo.
