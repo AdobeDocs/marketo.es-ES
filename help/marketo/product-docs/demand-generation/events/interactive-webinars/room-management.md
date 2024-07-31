@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Administración de salas {#room-management}
 
-Las salas de seminarios web interactivos con tecnología de Adobe Connect están diseñadas para facilitar eventos en línea atractivos y colaborativos. Estos seminarios web almacenan una cantidad de contenido y grabaciones en salas de seminarios web creadas por miembros autorizados de la organización. Como miembro con derecho a crear una sala, puede acceder a ella y administrarla desde un lugar centralizado.
+Las salas de seminarios web interactivos con tecnología de Adobe Connect están diseñadas para facilitar eventos en línea atractivos y colaborativos. Estos seminarios web almacenan contenido y grabaciones creadas y utilizadas durante el seminario web. Como miembro con derecho a crear una sala, puede acceder a ella y administrarla desde una ubicación central.
+
+>[!NOTE]
+>
+>Solo puede acceder a las salas que ha creado para un seminario web y no a las salas de otros miembros de su organización.
 
 ## Administrar y acceder a salas y grabaciones {#manage-and-access-rooms-and-recordings}
 
