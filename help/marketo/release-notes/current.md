@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '521'
+ht-degree: 5%
 
 ---
 
@@ -33,8 +33,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
      <tr> 
    <td><strong>Tablero de participación para seminarios web interactivos</strong>: obtenga una vista de rendimiento de seminario web agregada, así como una vista completa de la participación de cada asistente durante el seminario web, para que pueda decidir qué clientes potenciales se dirigirán a través de las herramientas de orquestación de Marketo Engage.</td> 
-    <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+    <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Panel de participación</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
      <tr> 
    <td><strong>Administración de salas para seminarios web interactivos</strong>: Acceda a las salas individuales creadas (y realice las modificaciones necesarias), así como el contenido y la grabación (y bórrelos si es necesario para optimizar el almacenamiento).</td> 
-    <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+    <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Administración de salas</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
      <tr> 
    <td><strong>Personalización de seminarios web para seminarios web interactivos</strong>: proporcione una experiencia de marca aprobada por la organización uniforme mediante el uso de una interfaz de sala común, pantallas intermediarias (como fondos de pantalla de entrada de asistentes) y fondos de vídeo personalizados para que la estrategia de seminario web se pueda alinear más fácilmente con la estrategia de marca.</td> 
-    <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+    <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalización de seminarios web interactivos</a></td>
   </tr>
   <tr> 
    <td> </td> 
