@@ -4,9 +4,9 @@ description: Configuración de cuándo se abre el botón Social - Documentos de 
 title: Configurar cuando se abre el botón Social
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Cuando crea un [botón social](/help/marketo/product-docs/demand-generation/land
 
 >[!IMPORTANT]
 >
->El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. Ya no se pueden crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vaya a **Actividades de marketing**.
 

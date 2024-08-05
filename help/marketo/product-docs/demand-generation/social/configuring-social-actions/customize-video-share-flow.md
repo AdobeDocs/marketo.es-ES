@@ -4,9 +4,9 @@ description: Personalizar el flujo de uso compartido de vídeos - Documentos de 
 title: Personalizar flujo de uso compartido de vídeo
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Cuando [crea un recurso compartido de vídeo](/help/marketo/product-docs/demand-
 
 >[!IMPORTANT]
 >
->El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. Ya no se pueden crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vaya a **Actividades de marketing**.
 

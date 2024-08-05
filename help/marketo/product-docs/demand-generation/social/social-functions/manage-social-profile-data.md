@@ -4,9 +4,9 @@ description: 'Administración de datos de perfil social: documentos de Marketo, 
 title: Administrar datos de perfil social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Cuando alguien interactúa con una [aplicación social](/help/marketo/product-do
 
 >[!IMPORTANT]
 >
->El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. Ya no se pueden crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Las aplicaciones sociales y de relleno de formularios capturan conjuntos de campos ligeramente diferentes; consulte la sección correspondiente a cada uno de los campos siguientes.
 

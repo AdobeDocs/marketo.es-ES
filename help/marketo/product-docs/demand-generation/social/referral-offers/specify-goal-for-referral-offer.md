@@ -4,9 +4,9 @@ description: 'Especificar el objetivo de la oferta de reenvío: documentos de Ma
 title: Especificar objetivo para oferta de referencia
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generat
 
 >[!IMPORTANT]
 >
->El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. Ya no se pueden crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 También puede utilizar un déclencheur de lista inteligente en Marketo Engage para esperar a que se produzca cualquier hito, como una oportunidad que se esté creando para la persona a la que se hace referencia.
 
