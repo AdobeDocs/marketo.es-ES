@@ -3,16 +3,20 @@ unique-page-id: 2359805
 description: Seleccionar ganadores del sorteo - Documentos de Marketo - Documentación del producto
 title: Seleccionar ganadores de sorteos
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
 # Seleccionar ganadores de sorteos {#select-sweepstakes-winners}
 
 Cuando [publique un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), tendrá que seleccionar ganadores para cada sorteo. Cuando lo haga, su [correo electrónico de cumplimiento](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) se les enviará automáticamente.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

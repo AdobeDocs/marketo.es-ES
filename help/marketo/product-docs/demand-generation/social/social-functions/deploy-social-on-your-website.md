@@ -4,9 +4,9 @@ description: 'Implementar Social en el sitio web: Documentos de Marketo: documen
 title: Implementar Social en el sitio web
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Incruste aplicaciones sociales en páginas que no sean de Marketo.
 
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 Puede implementar aplicaciones sociales en su propio sitio web para atraer a su audiencia y llevar a todos a la conversación más amplia en las redes sociales. A medida que las personas comparten sus promociones y contenido con sus amigos en las redes sociales, genera más tráfico en el sitio.
 

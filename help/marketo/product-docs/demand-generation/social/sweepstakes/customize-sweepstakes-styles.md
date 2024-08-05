@@ -3,16 +3,20 @@ unique-page-id: 2359807
 description: Personalizar estilos de sorteo - Documentos de Marketo - Documentación del producto
 title: Personalizar estilos de sorteos
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
 # Personalizar estilos de sorteos {#customize-sweepstakes-styles}
 
 Al [crear un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puedes personalizar el aspecto que tendrá en la página de aterrizaje.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

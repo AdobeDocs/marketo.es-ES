@@ -4,16 +4,20 @@ description: Déclencheur y filtros para actividades sociales - Documentos de Ma
 title: Déclencheur y filtros para actividades sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 23%
+source-wordcount: '193'
+ht-degree: 21%
 
 ---
 
 # Déclencheur y filtros para actividades sociales {#triggers-and-filters-for-social-activities}
 
 Las aplicaciones sociales de Marketo tienen sus propios déclencheur y filtros especiales.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -29,7 +33,7 @@ Las aplicaciones sociales de Marketo tienen sus propios déclencheur y filtros e
 
 1. Consulte la tabla siguiente para ver qué déclencheur y filtros funcionan con cada aplicación social.
 
-   | Déclencheur/Filtros | Botones sociales | Sondeos | Videos | Ofertas recomendadas | Sorteos |
+   | Déclencheur/Filtros | Botones sociales | Sondeos | Vídeos | Ofertas recomendadas | Sorteos |
    |---|---|---|---|---|---|
    | Objetivo alcanzado en la recomendación |  |  |  | ![(marca)](assets/check.png) | |
    | Comparte contenido | ![(marca)](assets/check.png) | ![(marca)](assets/check.png) | ![(marca)](assets/check.png) | ![(marca)](assets/check.png) | ![(marca)](assets/check.png) |

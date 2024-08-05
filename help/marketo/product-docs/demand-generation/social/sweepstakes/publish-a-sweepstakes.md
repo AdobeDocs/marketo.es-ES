@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Publish a Sweepstakes - Documentos de Marketo - Documentación del producto
 title: Publish a Sorteo
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Publish a Sorteo {#publish-a-sweepstakes}
 
 Después de [crear un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puedes publicarlo en tus páginas de aterrizaje de Marketo, en tu sitio web y en tu Facebook.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

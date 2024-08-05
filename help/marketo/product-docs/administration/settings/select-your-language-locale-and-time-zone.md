@@ -4,7 +4,7 @@ description: Seleccione su idioma, configuración regional y zona horaria - Docu
 title: Seleccione su idioma, configuración regional y zona horaria
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Este artículo es solo para aquellos que _no_ usan [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Si lo hace, se puede acceder a la configuración que se describe a continuación en su [perfil de cuenta de Adobe](https://account.adobe.com/profile).
+>Este artículo es solo para aquellos que _no_ usan [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si lo hace, se puede acceder a la configuración que se describe a continuación en su [perfil de cuenta de Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Idiomas admitidos {#supported-languages}
 

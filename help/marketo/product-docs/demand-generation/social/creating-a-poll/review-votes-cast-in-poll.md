@@ -4,16 +4,20 @@ description: Revisar los votos emitidos en la encuesta - Documentos de Marketo -
 title: Revisar los votos emitidos en la encuesta
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 2%
+source-wordcount: '100'
+ht-degree: 4%
 
 ---
 
 # Revisar los votos emitidos en la encuesta {#review-votes-cast-in-poll}
 
 ¿Quién votó por qué en tu encuesta? Vamos a averiguarlo.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. En **Actividades de marketing**, seleccione la encuesta y haga clic en la ficha **Participantes**.
 

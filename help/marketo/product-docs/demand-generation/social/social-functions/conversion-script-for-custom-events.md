@@ -4,16 +4,20 @@ description: Script de conversión para eventos personalizados - Documentos de M
 title: Script de conversión para eventos personalizados
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 1%
 
 ---
 
 # Script de conversión para eventos personalizados {#conversion-script-for-custom-events}
 
-El objetivo de cumplimiento se define al crear una oferta de referencia. Si la acción que cuenta para el objetivo es un evento específico en su propia página web, puede utilizar un script de conversión para llamar a nuestra API de JavaScript.
+Al crear una referencia oferta, se define el objetivo de cumplimiento. Si la acción que cuenta para el objetivo es un evento específico en su propia página web, puede utilizar un script de conversión para llamar a nuestra API de JavaScript.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Recuperación del script de conversión {#retrieve-the-conversion-script}
 
@@ -35,7 +39,7 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Haga clic con el botón derecho en **Código de encabezado** e insértelo en el encabezado de la página web. Entonces haga lo mismo para el **Código de cuerpo**.
+1. Haga clic con el botón derecho en el Code **de encabezado e insértelo en el encabezado de su** página web. Luego haga lo mismo para el **cuerpo Code**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -59,4 +63,4 @@ En este ejemplo hay un botón en la página web con el ID &quot;#myButtonId&quot
 >
 >* [Especificar meta para oferta de reenvío](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implementar Social en su sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Implementar Social en el sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

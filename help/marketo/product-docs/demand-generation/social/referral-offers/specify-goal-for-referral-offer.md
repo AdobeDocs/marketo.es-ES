@@ -4,9 +4,9 @@ description: 'Especificar el objetivo de la oferta de reenvío: documentos de Ma
 title: Especificar objetivo para oferta de referencia
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), necesita definir el objetivo de cumplimiento. El objetivo puede definirse por la actividad de la persona en la página web, como las visitas a la página o los registros. Incluso puedes usar un [evento personalizado de JavaScript](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-También puede utilizar un déclencheur de lista inteligente en Marketo para esperar a que se produzca cualquier hito, como una oportunidad que se esté creando para la persona a la que se hace referencia.
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+También puede utilizar un déclencheur de lista inteligente en Marketo Engage para esperar a que se produzca cualquier hito, como una oportunidad que se esté creando para la persona a la que se hace referencia.
 
 Ejemplo de metas:
 

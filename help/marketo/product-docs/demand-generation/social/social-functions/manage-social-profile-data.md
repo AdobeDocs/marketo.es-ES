@@ -4,9 +4,9 @@ description: 'Administración de datos de perfil social: documentos de Marketo, 
 title: Administrar datos de perfil social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '339'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 5%
 # Administrar datos de perfil social {#manage-social-profile-data}
 
 Cuando alguien interactúa con una [aplicación social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) de Marketo o autoriza a su red social a rellenar previamente un formulario de Marketo con [relleno de formulario social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo captura todos los datos disponibles en su perfil social. Puede ver esta información en la [página Detalles de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) o agregarla como una columna en una [vista personalizada de una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Las aplicaciones sociales y de relleno de formularios capturan conjuntos de campos ligeramente diferentes; consulte la sección correspondiente a cada uno de los campos siguientes.
 

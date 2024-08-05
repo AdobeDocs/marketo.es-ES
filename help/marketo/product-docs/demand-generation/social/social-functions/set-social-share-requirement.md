@@ -4,16 +4,20 @@ description: Establecer requisito de uso compartido en redes sociales - Document
 title: Establecer requisito de uso compartido social
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # Establecer requisito de uso compartido social {#set-social-share-requirement}
 
 Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede requerir que las personas compartan la oferta para registrarse o para que sea opcional.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vaya a **Actividades de marketing**.
 

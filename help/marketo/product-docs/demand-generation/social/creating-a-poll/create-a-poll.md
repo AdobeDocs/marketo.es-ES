@@ -4,9 +4,9 @@ description: 'Creación de una encuesta: documentos de Marketo, documentación d
 title: Crear una encuesta
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Crear una encuesta {#create-a-poll}
 
 Involucre a las personas con una encuesta en la que puedan votar y compartir con sus amigos en redes sociales. Puede agregarlo a lugares como sus páginas de aterrizaje, su sitio web y Facebook.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

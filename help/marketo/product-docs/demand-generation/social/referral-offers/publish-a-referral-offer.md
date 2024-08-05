@@ -4,16 +4,20 @@ description: 'Publish: oferta de referencia - Documentos de Marketo - Documentac
 title: Publish como oferta de referencia
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
 # Publish como oferta de referencia {#publish-a-referral-offer}
 
 Después de [crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede publicarla en sus páginas de aterrizaje de Marketo, en Facebook y en su sitio web.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vaya a la página de aterrizaje y ábrala para editarla.
 
@@ -35,4 +39,4 @@ Después de [crear una oferta de referencia](/help/marketo/product-docs/demand-g
 
 >[!TIP]
 >
->Pruebe y perfeccione la oferta de recomendación. Vaya a la oferta de la página web y regístrese con la información de la prueba. Tome nota de todo lo que desee cambiar sobre la experiencia del usuario.
+>Pruebe y perfeccione la oferta de recomendación. Vaya a la oferta de la página web y regístrese con la información de la prueba. Anote todo lo que desee cambiar sobre la experiencia del usuario.

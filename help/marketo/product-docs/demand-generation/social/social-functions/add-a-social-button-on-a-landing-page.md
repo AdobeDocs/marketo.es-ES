@@ -4,16 +4,20 @@ description: 'Adición de un botón social en una página de aterrizaje: documen
 title: Añadir un botón social en una página de aterrizaje
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # Añadir un botón social en una página de aterrizaje {#add-a-social-button-on-a-landing-page}
 
 Un botón social anima a las personas a compartir su contenido con sus amigos. Colóquelo en páginas de aterrizaje, Facebook y en su sitio web.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

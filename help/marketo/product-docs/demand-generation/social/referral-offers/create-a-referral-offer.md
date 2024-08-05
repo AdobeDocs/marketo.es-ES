@@ -4,16 +4,20 @@ description: 'Creación de una oferta de referencia: documentos de Marketo, docu
 title: Crear una oferta de referencia
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # Crear una oferta de referencia {#create-a-referral-offer}
 
 Las ofertas de reenvío ofrecen a las personas un incentivo para recomendar a sus amigos. Cree metas y recompensas para referencias exitosas. Puede colocarlo en páginas de aterrizaje, sitios web e incluso Facebook.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

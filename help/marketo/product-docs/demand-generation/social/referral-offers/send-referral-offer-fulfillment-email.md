@@ -4,9 +4,9 @@ description: Enviar correo electrónico de cumplimiento de ofertas de referencia
 title: Enviar correo electrónico de cumplimiento de oferta de referencia
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Enviar correo electrónico de cumplimiento de oferta de referencia {#send-referral-offer-fulfillment-email}
 
 Recompense a sus clientes con cupones y códigos de descuento utilizando el correo electrónico de cumplimiento de la oferta.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

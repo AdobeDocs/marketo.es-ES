@@ -4,9 +4,9 @@ description: Configuración de la atribución de ingresos para campañas de Digi
 title: Configuración de la atribución de ingresos para campañas de Digital Advertising
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configuración de la atribución de ingresos para campañas de Digital Advertising {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 A continuación se indica cómo configurar la atribución de ingresos para canales y campañas de publicidad digital. Una vez configurada, puede realizar la atribución de ingresos de primer toque y multitoque para anuncios digitales del mismo modo que en otros programas de Marketo.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Después de configurar el primer programa de publicidad en Marketo, puede clonarlo y actualizarlo para otros canales. Por ejemplo, clone un programa de LinkedIn en uno de Facebook.
 

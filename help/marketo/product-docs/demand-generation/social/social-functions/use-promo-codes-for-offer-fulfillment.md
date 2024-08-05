@@ -4,16 +4,20 @@ description: 'Uso de códigos promocionales para el cumplimiento de ofertas: doc
 title: Uso de códigos promocionales para el cumplimiento de ofertas
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # Uso de códigos promocionales para el cumplimiento de ofertas {#use-promo-codes-for-offer-fulfillment}
 
 Al crear una oferta de referencia o un sorteo, puede enviar un código de promoción (cupón) a cada ganador. Para canjear su recompensa, utilizan el código, por ejemplo, en la página de pago de una compra en su sitio.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Cargar códigos promocionales {#upload-promo-codes}
 

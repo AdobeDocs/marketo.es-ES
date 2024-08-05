@@ -1,19 +1,23 @@
 ---
 unique-page-id: 2359763
-description: 'Ver rendimiento social: Documentos de Marketo: documentación del producto'
-title: Ver rendimiento social
+description: Rendimiento Ver Social - Marketo Docs - Documentación de productos
+title: Rendimiento Ver Social
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
 
-# Ver rendimiento social {#view-social-performance}
+# Rendimiento Ver Social {#view-social-performance}
 
 Consulte las actividades sociales generadas por sus aplicaciones sociales. El Tablero social le ofrece una perspectiva de las distintas interacciones sociales que se generan en sus aplicaciones sociales y le permite realizar un seguimiento del rendimiento de una aplicación social.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -37,9 +41,9 @@ Consulte las actividades sociales generadas por sus aplicaciones sociales. El Ta
 
    >[!NOTE]
    >
-   >Si selecciona **Últimas 24 horas**, las métricas se calculan por hora, en la parte superior de la hora. Para todos los demás intervalos, las métricas se ejecutan a diario a medianoche del día anterior.
+   >Si selecciona Últimas **24 horas**, las métricas se calculan cada hora, al principio de la hora. Para todos los demás intervalos, las métricas se ejecutan diariamente, a medianoche del día anterior.
 
-1. Usa el **Canal social** para revisar la progresión social y la efectividad de tu promoción.
+1. Utilice el Embudo de **Social para revisar la** progresión social y la eficacia de su promoción.
 
    * **Visitas de campaña**: Número de veces que los posibles clientes cargan una página que contiene su aplicación social.
    * **Interacciones**: La cantidad de veces que los posibles clientes han interactuado con su aplicación social, como registrarse en una [oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), votar en una [encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [compartir un vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), etc.
@@ -53,11 +57,11 @@ Consulte las actividades sociales generadas por sus aplicaciones sociales. El Ta
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Utilice el panel **Audiencia** para revisar cómo los posibles clientes le ayudan a correr la voz.
+1. Usa el panel de **audiencia** para revisar cómo tus prospectos te están ayudando a correr la voz.
 
-   * **Perfiles totales**: El número total de posibles clientes que han iniciado sesión en las redes sociales desde su aplicación social.
-   * **Influencers**: El número de posibles clientes que han generado al menos un clic resultante de un uso compartido de la aplicación.
-   * **Alcance social**: La suma de todas las conexiones de los posibles clientes. Para los posibles clientes que comparten en redes sociales, este es el número de amigos que tienen en el momento en que compartieron desde su aplicación social. En el caso del uso compartido por correo electrónico, este es el número de destinatarios del correo electrónico que generan desde la aplicación.
+   * **Perfiles totales**: el número total de prospectos que han iniciado sesión en las redes sociales desde tu aplicación social.
+   * **Influencers**: el número de prospectos que han generado al menos un clic resultante de un uso compartido de la aplicación.
+   * **Social Alcance**: La suma de todas las conexiones de los prospectos. Para los posibles clientes que comparten en redes sociales, este es el número de amigos que tienen en el momento en que compartieron desde su aplicación social. En el caso del uso compartido por correo electrónico, este es el número de destinatarios del correo electrónico que generan desde la aplicación.
    * **Impresiones sociales**: La cantidad total de veces que su aplicación social apareció en las fuentes de las conexiones de los posibles clientes.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
@@ -72,4 +76,4 @@ Consulte las actividades sociales generadas por sus aplicaciones sociales. El Ta
 
 >[!MORELIKETHIS]
 >
->También puede usar déclencheur y filtros para ver quién comparte el contenido e interactúa con las aplicaciones sociales, de modo que pueda actuar en consecuencia. Ver [Usar Déclencheur y filtros para actividades sociales](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>También puede usar activadores y filtros para ver quién comparte sus contenido e interactúa con sus aplicaciones sociales para que pueda actuar sobre esas interacciones. Ver [Usar Déclencheur y filtros para actividades sociales](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).

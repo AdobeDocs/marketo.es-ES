@@ -4,16 +4,20 @@ description: Configuración de cuándo se abre el botón Social - Documentos de 
 title: Configurar cuando se abre el botón Social
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
 # Configurar cuando se abre el botón Social {#configure-when-social-button-opens}
 
 Cuando crea un [botón social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puede configurar cuándo el botón presenta la solicitud para compartir.
+
+>[!IMPORTANT]
+>
+>El 31 de julio de 2024, empezamos el proceso de dejar de utilizar esta función. No va a poder crear nuevos recursos. Los recursos existentes seguirán funcionando hasta el 31 de enero de 2025. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vaya a **Actividades de marketing**.
 
