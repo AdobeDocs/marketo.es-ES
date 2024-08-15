@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
-ht-degree: 2%
+source-wordcount: '9348'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 2%
       + [Nuevas prácticas recomendadas para instancias: lista de comprobación de Analytics](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Prácticas Recomendadas Para Nuevas Instancias: Documentar La Configuración](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Cosas que saber {#things-to-know}
-      + [Glosario del Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Glosario de Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Glosario de iconos](getting-started/things-to-know/icon-glossary.md)
       + [Glosario de iconos clásicos](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centro de ayuda](getting-started/things-to-know/help-center.md)
@@ -104,7 +104,7 @@ ht-degree: 2%
          + [Descubra Los Permisos Que Tiene](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Requisitos mínimos del sistema](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
-         + [Exploradores admitidos](product-docs/administration/setup-administration/supported-browsers.md)
+         + [Navegadores admitidos](product-docs/administration/setup-administration/supported-browsers.md)
       + Integraciones adicionales {#additional-integrations}
          + [Añadir Adobe Connect as a LaunchPoint Service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Añadir Google AdWords como servicio de Launchpoint con una cuenta de responsable](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -726,6 +726,7 @@ ht-degree: 2%
             + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Agregar un equipo del seminario web](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Ofrecer un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Plantillas](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Personalización](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Administración de salas](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1008,7 +1009,7 @@ ht-degree: 2%
             + [Publish a Sorteo](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Seleccionar ganadores de sorteos](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing por correo electrónico {#email-marketing}
-      + Entrega {#deliverability}
+      + Entregabilidad {#deliverability}
          + [Cancelación de suscripción duradera](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Paquete de funciones de entrega de correo electrónico: Cómo importar una lista de semillas](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Devoluciones graves y leves en correos electrónicos](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1153,7 +1154,7 @@ ht-degree: 2%
    + Notificaciones de Marketo {#marketo-notifications}
       + [Notificación: Conexión de Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Introducción {#getting-started}
+      + Primeros pasos {#getting-started}
          + [Información general de Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Acceso a la nueva instancia de Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guía de introducción para administradores de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1286,7 +1287,7 @@ ht-degree: 2%
             + [Envío de un correo electrónico rastreado](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Envío de correos electrónicos mediante correo electrónico de grupo](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + PREGUNTAS FRECUENTES {#faq}
+      + Preguntas más frecuentes {#faq}
          + [¿Puedo recuperar un contacto o grupo que he eliminado?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Preguntas frecuentes sobre contenido y archivos adjuntos](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [¿Sales Connect tiene una aplicación de iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1362,7 +1363,7 @@ ht-degree: 2%
    + Perspectiva de ventas de Marketo {#marketo-sales-insight}
       + Acciones {#actions}
          + [Información general sobre acciones de Sales Insight](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + Introducción {#getting-started}
+         + Primeros pasos {#getting-started}
             + [Guía de incorporación del usuario de acciones de Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Lista de comprobación de incorporación de usuarios de acciones de Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Guía de configuración de administración de acciones de Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1448,7 +1449,7 @@ ht-degree: 2%
                + [Conectar con Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Conectarse a Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + PREGUNTAS FRECUENTES {#faq}
+         + Preguntas más frecuentes {#faq}
             + [¿Puedo recuperar un contacto o grupo que he eliminado?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [¿Puedo rastrear varios destinatarios con CC/CCO?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Preguntas frecuentes sobre contenido y archivos adjuntos](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1517,7 +1518,7 @@ ht-degree: 2%
          + [Uso de Marketo Insights para Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Ver información y actividades de persona y cuenta en Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI para Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + Características {#features}
+         + Funciones {#features}
             + [Descripción general de funciones](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
             + Ficha Marketo {#marketo-tab}
                + [Configurar vistas de MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
@@ -1556,7 +1557,7 @@ ht-degree: 2%
             + [Añadir el acceso de Sales Insight a los perfiles](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Agregar botones de acción masiva a Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + Características {#features}
+         + Funciones {#features}
             + [Información general de funciones MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Resumen de funciones del panel de perspectivas](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Integración del Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1653,7 +1654,7 @@ ht-degree: 2%
          + [Uso de las opciones de SMS en una campaña inteligente](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [Informes de SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [Glosario de SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + Personalización {#personalization}
       + Segmentación y fragmentos {#segmentation-and-snippets}
          + Segmentación {#segmentation}
             + [Aprobación de una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1680,7 +1681,7 @@ ht-degree: 2%
       + [El resumen de contenido predictivo](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definir una lista inteligente para actividades de contenido predictivo](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Información general de análisis de contenido predictivo](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + Introducción {#getting-started}
+      + Primeros pasos {#getting-started}
          + [Configuración de objetivo de algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Crear patrones de contenido](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Implementación de JavaScript para la inteligencia artificial aplicada al contenido](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1814,7 +1815,7 @@ ht-degree: 2%
             + [Explicación de los modelos de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Uso de etapas de puerta del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Uso de Etapas de Inventario del Modelo de Ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Uso de etapas SLA del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Uso de etapas de SLA del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Uso de transiciones del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Uso del analizador de rutas de éxito](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Explorador de ingresos {#revenue-explorer}
@@ -1856,7 +1857,7 @@ ht-degree: 2%
          + [Configurar la perspectiva de cuenta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Información general del complemento de Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Invitar a usuarios a acceder a Account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destino {#target}
+      + Target {#target}
          + Cuentas con nombre {#named-accounts}
             + [Resumen de cuenta con nombre](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importar cuentas nombradas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1892,7 +1893,7 @@ ht-degree: 2%
          + [Marketing web basado en cuentas con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Crear una nueva lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Creación de segmentos mediante una lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + Introducción {#getting-started}
+      + Primeros pasos {#getting-started}
          + [Agregar subdominios en la configuración de la cuenta](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Editar regiones](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Inicio de sesión y administración de usuarios](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1968,58 +1969,58 @@ ht-degree: 2%
    + [Versión actual](release-notes/current.md)
    + [Versión del Dynamic Chat](release-notes/dynamic-chat.md)
    + Versiones anteriores {#previous-releases}
-      + {#2024} de 2024
+      + 2024 {#2024}
          + [Notas de la versión: Enero de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de la versión: Marzo de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [Notas de la versión: Abril de 2024](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Notas de la versión: 24 de junio](release-notes/previous-releases/2024/release-notes-june-24.md)
-      + {#2023} de 2023
+      + 2023 {#2023}
          + [Notas de la versión: Enero de 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notas de la versión: Marzo de 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [Notas de la versión: mayo de 2023](release-notes/previous-releases/2023/release-notes-may-23.md)
          + [Notas de la versión: julio de 2023](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [Notas de la versión: 23 de septiembre](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [Notas de la versión: 23 de octubre](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + {#2022} de 2022
+      + 2022 {#2022}
          + [Notas de la versión: 22 de enero](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Notas de la versión: Marzo de 2022](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Notas de la versión: mayo de 2022](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Notas de la versión: 22 de junio](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [Notas de la versión: Agosto de 2022](release-notes/previous-releases/2022/release-notes-aug-22.md)
          + [Notas de la versión: 22 de octubre](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + {#2021} de 2021
+      + 2021 {#2021}
          + [Notas de la versión: Enero de 2021](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notas de la versión: mayo de 2021](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Notas de la versión: Agosto de 2021](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [Notas de la versión: 21 de octubre](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + {#2020} de 2020
+      + 2020 {#2020}
          + [Notas de la versión: 20 de enero](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [Notas de la versión: 20 de febrero](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [Notas de la versión: 20 de junio](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [Notas de la versión: julio de 2020](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [Notas de la versión: octubre de 2020](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + {#2019} de 2019
+      + 2019 {#2019}
          + [Notas de la versión, agosto de 2019](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [Notas de la versión: Junio de 2019](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [Notas de la versión: Primavera de 2019](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [Notas de la versión: Invierno de 2019](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + {#2018} de 2018
+      + 2018 {#2018}
          + [Notas de la versión: Otoño de 2018](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [Notas de la versión: Primavera de 2018](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [Notas de la versión: Invierno de 2018](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + {#2017} de 2017
+      + 2017 {#2017}
          + [Notas de la versión: Mejoras de ABM en abril de 2017](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [Notas de la versión: Mejoras de ABM en agosto de 2017](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [Notas de la versión: otoño de 2017](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [Notas de la versión: Primavera de 2017](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Notas de la versión: Verano de 2017](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [Notas de la versión: Invierno de 2017](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + {#2016} de 2016
+      + 2016 {#2016}
          + [Notas de la versión: otoño de 2016](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [Notas de la versión: Primavera de 2016](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [Notas de la versión: Verano de 2016](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [Notas de la versión: Invierno de 2016](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + {#2015} de 2015
+      + 2015 {#2015}
          + [Notas de la versión: abril de 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [Notas de la versión: otoño de 2015](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [Notas de la versión: febrero de 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
