@@ -3,9 +3,9 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Las suscripciones de Marketo existentes se migrarán al sistema Identity Managem
 
 **Después de la migración, ¿seguirán siendo iguales las direcciones URL de los Marketo Engage?**
 
-No. Las direcciones URL tendrán un aspecto diferente tras la migración. Sin embargo, los números de ID de sus recursos siguen siendo los mismos. Y los marcadores guardados anteriormente aún deben llevarlo a la ubicación correcta.
+No. Las direcciones URL tendrán un aspecto diferente tras la migración.
 
 **¿Hay algo que necesitemos hacer para prepararnos para el cambio de dirección URL?**
 
-Sí. Hable con su equipo de TI y asegúrese de que añade el dominio siguiente (incluido el asterisco) para permitir todos los recursos de Marketo Engage y los sockets web:
+Sí. Después de la migración, Marketo Engage pasará de ser atendido desde experience.adobe.com a Adobe Experience Cloud. Deberá trabajar con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [ en la parte superior de este artículo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} a fin de evitar interrupciones en el acceso de los Marketo Engage.
 
-_*.experience.adobe.com_
+Los vínculos y marcadores anteriores a los recursos de Marketo Engage en el dominio engage-xx.marketo.com _seguirán funcionando_. Sin embargo, primero debe iniciar sesión en la instancia de Marketo Engage de la dirección URL a la que está navegando. Por ejemplo, para navegar a un marcador de una campaña inteligente en una instancia con Munchkin ID 123-ABC-456, primero debe iniciar sesión en la instancia de Marketo Engage con Munchkin ID 123-ABC-456.
 
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador de Marketo Engage?**
 
@@ -98,7 +98,7 @@ No. El flujo de trabajo Invitación de usuario ya no está activo cuando una sus
 
 **Para Adobe IMS, ¿tenemos la opción de usar Adobe ID, Enterprise ID o Federated ID?**
 
-Sí, usted determina el tipo de identidad para que su organización la apoye. Encontrará más información aquí: [Información general de identidad](https://helpx.adobe.com/enterprise/using/identity.html) y aquí: [Configurar identidad](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+Sí, usted determina el tipo de identidad para que su organización la apoye. Encontrará más información aquí: [Información general de identidad](https://helpx.adobe.com/es/enterprise/using/identity.html) y aquí: [Configurar identidad](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **¿Qué tarjetas de producto se admiten en Adobe Admin Console?**
 
