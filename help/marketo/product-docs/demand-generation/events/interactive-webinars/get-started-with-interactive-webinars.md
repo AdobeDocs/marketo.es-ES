@@ -2,9 +2,9 @@
 description: 'Introducción a seminarios web interactivos: documentos de Marketo, documentación del producto'
 title: Introducción a los seminarios web interactivos
 feature: Interactive Webinars
-source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
+source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,10 @@ Por lo tanto, ha leído la [Información general sobre seminarios web interactiv
 
 ## Documentación adicional {#additional-documentation}
 
-Una vez finalizado el seminario web, vea el rendimiento con el útil panel en la pantalla Información general del evento. Puede ver la participación detallada de su audiencia en [Tablero de participación](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Puede aprovechar la participación en el seminario web para dirigirse a la audiencia de forma personalizada mediante filtros inteligentes y Déclencheur en [flujos de trabajo de eventos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Y aprenda a hacer un seguimiento de su rendimiento a petición a través de [seminarios web a petición](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+Una vez finalizado el seminario web, vea el rendimiento con el útil panel en la pantalla Información general del evento. Puede ver la participación detallada de su audiencia en [Tablero de participación](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Aproveche la participación en el seminario web para dirigirse a la audiencia de forma personalizada mediante Déclencheur y filtros inteligentes en [flujos de trabajo de eventos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. Y aprenda a hacer un seguimiento de su rendimiento a petición a través de [seminarios web a petición](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Tenemos más artículos de ayuda sobre este tema, entre ellos [Prácticas recomendadas para seminarios web interactivos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, cómo [personalizar los seminarios web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} para que reflejen sus necesidades/marca, crear plantillas para toda la organización mediante [Plantillas para seminarios web interactivos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} y cómo administrar salas y grabaciones en [Administración de salas](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
+
+ 
 
 Disfrute de los seminarios web interactivos (con tecnología de Adobe Connect).
