@@ -2,19 +2,17 @@
 description: Migración de soporte de Marketo Engage - Documentos de Marketo - Documentación del producto
 title: Migración de soporte de Marketo Engage
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Migración de soporte de Marketo Engage {#marketo-engage-support-migration}
 
-Obtenga más información acerca de los próximos cambios en la experiencia de soporte de Adobe Marketo Engage. Los cambios están diseñados para mejorar su experiencia de usuario y optimizar sus tareas administrativas.
+Obtenga más información acerca de los próximos cambios en el proceso de soporte de Adobe Marketo Engage. Las actualizaciones están diseñadas para optimizar sus tareas administrativas y mejorar su experiencia general.
 
 ## Admin Console Marketo Engage {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ La segunda actualización mejorará significativamente la forma en que envía lo
 
 ## ¿Cómo sé cuándo se ha completado la migración de soporte? {#support-migration-has-been-completed}
 
-La migración de asistencia se producirá una vez completada la migración de usuario para todas las suscripciones. Si se le ha añadido como PSA como parte de la migración de asistencia, recibirá un correo electrónico una vez completada la migración de usuarios, lo que indica que se le ha añadido como administrador de asistencia para ponerse en contacto con el servicio de asistencia para esas suscripciones específicas. Esto almacenará en déclencheur una redirección automática desde el país de marketing a Adobe Experience League para todos los envíos de casos. Continúe enviando casos de soporte a través de la nación de marketing hasta que se active la redirección automática.
+La migración de asistencia se producirá una vez completada la migración de usuario para todas las suscripciones. Si se le ha añadido como PSA como parte de la migración de asistencia, recibirá un correo electrónico una vez completada la migración de usuarios, que indica que se le ha añadido como administrador de asistencia para ponerse en contacto con el servicio de asistencia de Adobe para esas suscripciones específicas. Esto almacenará en déclencheur una redirección automática desde el país de marketing a Adobe Experience League para todos los envíos de casos. Continúe enviando casos de soporte a través de la nación de marketing hasta que se active la redirección automática.
 
 ## Recursos adicionales {#additional-resources}
 
