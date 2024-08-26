@@ -3,9 +3,9 @@ description: Preguntas frecuentes sobre el Dynamic Chat - Documentos de Marketo 
 title: Preguntas frecuentes del Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Esto probablemente indica que no se le ha agregado como usuario Dynamic Chat en 
 
 **¿Cómo puedo acceder a la transcripción para una conversación comprometida?**
 
-Se puede acceder a las transcripciones de Dynamic Chat de cualquier posible cliente conocido que haya participado con un cuadro de diálogo de Dynamic Chat a través de la actividad &quot;Participado con el diálogo&quot; en Marketo Engage.
+Se puede acceder a las transcripciones de Dynamic Chat de cualquier posible cliente conocido que haya participado con un cuadro de diálogo de Dynamic Chat a través de la actividad &quot;Participado con el diálogo&quot; en Marketo Engage y cuyo estado de conversación sea &quot;Completado&quot; o &quot;Rechazado&quot;.
 
 **Una vez que un visitante participa en un Diálogo, ¿puede reiniciar la conversación o volver a una pregunta anterior?**
 
