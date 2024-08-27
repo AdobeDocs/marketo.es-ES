@@ -3,9 +3,9 @@ description: Stream Designer - Documentos de Marketo - Documentación del produc
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    >[!TIP]
    >
-   >Puede personalizar la experiencia para los visitantes de chat conocidos mediante tokens (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Simplemente haga clic en el icono de llave a la derecha y realice su selección. Agregue un valor predeterminado entre comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
+   >¡Puede personalizar la experiencia para los visitantes de chat!
+   >
+   >* Haga clic en el icono &quot;insertar HTML&quot; `</>` para insertar su propio HTML y obtener el aspecto deseado de la conversación.
+   >
+   >* Utilice tokens para que los visitantes conocidos del chat personalicen su experiencia (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Haga clic en el icono de llaves `{}` y realice la selección. Agregue un valor predeterminado entre comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
