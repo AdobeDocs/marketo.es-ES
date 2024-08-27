@@ -3,9 +3,9 @@ description: Prácticas recomendadas para seminarios web interactivos - Document
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 ## Preparación antes del evento {#pre-event-preparation}
 
 ### Creación de un evento {#creating-an-event}
+
+>[!TIP]
+>
+>La experiencia web móvil de los seminarios web interactivos no es adaptable, por lo que recomendamos utilizar la aplicación de Adobe Connect para disfrutar de una experiencia de seminario web perfecta en su dispositivo móvil. Tenga en cuenta que la aplicación de Adobe Connect no está disponible actualmente en tiendas de aplicaciones de China.
 
 * Cree un ejemplo de seminario web interactivo (IW) y clónelo cada vez para evitar empezar desde cero.
 
