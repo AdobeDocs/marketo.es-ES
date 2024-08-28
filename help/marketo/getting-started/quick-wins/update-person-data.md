@@ -4,9 +4,9 @@ description: 'Actualización de datos de persona: documentos de Marketo, documen
 title: Actualizar datos de persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,12 @@ Imaginemos que en su reciente feria comercial, una persona le dio información d
 1. Escriba la nueva información que recibió y cierre la pestaña.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Asegúrese de que las direcciones de correo electrónico solo contienen caracteres ASCII.
+>
+>* Marketo **no** admite direcciones de correo electrónico que contengan emojis.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: 'Importar una lista de personas: documentos de Marketo, documentaci
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,9 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!CAUTION]
    >
-   >Marketo **no** admite direcciones de correo electrónico que contengan emojis.
+   >* Asegúrese de que las direcciones de correo electrónico solo contienen caracteres ASCII.
+   >
+   >* Marketo **no** admite direcciones de correo electrónico que contengan emojis.
 
 ## Paso 2: Crear un programa {#step-create-a-program}
 
