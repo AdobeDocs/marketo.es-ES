@@ -3,9 +3,9 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ Si los agentes no reciben notificaciones del explorador incluso después de perm
 
 ### Cuando se enruta un chat en directo a un agente {#when-a-live-chat-is-routed-to-an-agent}
 
-Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte superior de la pantalla pidiéndoles que acepten.
+Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte superior de la pantalla pidiéndole que acepte, así como un sonido de notificación para ayudar a evitar notificaciones perdidas.
 
 ![](assets/live-chat-overview-3.png)
 

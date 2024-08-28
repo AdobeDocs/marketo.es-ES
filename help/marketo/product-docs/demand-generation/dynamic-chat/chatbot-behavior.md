@@ -3,9 +3,9 @@ description: 'Comportamiento del bot de chat: documentos de Marketo: documentaci
 title: Comportamiento del bot de chat
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Los siguientes son diferentes escenarios posibles que describen el comportamient
    </tbody>
 </table>
 
-## Escenarios {#scenarios}
+## Situaciones {#scenarios}
 
 <table>
   <tr>
@@ -406,3 +406,7 @@ Los siguientes son diferentes escenarios posibles que describen el comportamient
     </tr>
   </tbody>
 </table>
+
+## Resolución de posibles clientes en tiempo real {#real-time-lead-resolution}
+
+Durante una conversación con un posible cliente anónimo y se proporciona un ID de correo electrónico, resolvemos si existe un registro de posible cliente conocido con ese ID de correo electrónico y utilizamos ese registro para la personalización en tiempo real. Si encontramos varios registros, los combinamos en tiempo real. Este comportamiento se implementa tanto para los cuadros de diálogo como para los flujos de conversación.
