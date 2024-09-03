@@ -3,9 +3,9 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
@@ -32,7 +32,7 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
    ![](assets/permissions-4.png)
 
-1. Los elementos de permiso disponibles se muestran a la izquierda. Puede elegir agregar los permisos uno a uno o todos a la vez. En este ejemplo solo hay uno disponible, por lo que vamos a añadir ese. Haga clic en el signo **+**.
+1. Los elementos de permiso disponibles se muestran a la izquierda. Puede elegir agregar los permisos uno a uno o todos a la vez. Haga clic en el signo **+**.
 
    ![](assets/permissions-5.png)
 
