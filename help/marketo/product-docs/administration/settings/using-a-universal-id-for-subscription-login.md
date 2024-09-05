@@ -4,9 +4,9 @@ description: Uso de un ID universal para el inicio de sesión con suscripción -
 title: Uso de un ID universal para el inicio de sesión con suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Con un ID universal para varias suscripciones, solo usted puede cambiar la contr
 ## Cambio entre suscripciones {#switching-between-subscriptions}
 
 Con un ID universal, puede ver la suscripción en la que ha iniciado sesión y seleccionar otras suscripciones a las que tiene acceso de inicio de sesión. En la mayoría de los casos, puede cambiar entre ellos sin tener que cerrar la sesión y volver a iniciarla.
+
+Si el inicio de sesión único [y el identificador universal están habilitados, debe tener el permiso para omitir el inicio de sesión único establecido para alternar entre suscripciones.](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
