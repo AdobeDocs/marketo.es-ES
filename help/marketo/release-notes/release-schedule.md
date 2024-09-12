@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 
@@ -33,33 +33,33 @@ _Las fechas/características del lanzamiento están sujetas a cambios_
    <th width="250px">Estado</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">Enero del 24</a></td>
-   <td>12 de enero de 2024</td>
-   <td>Enviado</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">Marzo del 24</a></td>
-   <td>8 de marzo de 2024</td>
-   <td>Enviado</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">Abril del 24</a></td>
-   <td>26 de abril de 2024</td>
-   <td>Enviado</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Junio del 24</a></td>
-   <td>7 de junio de 2024</td>
-   <td>Enviado</td>
-  </tr>
-  <tr> 
-   <td>Julio de 2024</td>
+   <td><a href="/help/marketo/release-notes/current.md">Julio de 2024</a></td>
    <td>26 de julio de 2024</td>
    <td>En curso</td>
   </tr>
   <tr> 
    <td>Octubre del 24</td>
    <td>4 de octubre de 2024</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Enero del 25</td>
+   <td>17 de enero de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Marzo del 25</td>
+   <td>7 de marzo de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Abril del 25</td>
+   <td>25 de abril de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Junio del 25</td>
+   <td>6 de junio de 2025</td>
    <td>Dentro del horario</td>
   </tr>
  </tbody>

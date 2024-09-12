@@ -2,9 +2,9 @@
 description: 'Notas de la versión, julio de 2024: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2024
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 4%
 
 ---
@@ -65,8 +65,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
      <tr> 
    <td><strong>Cambio de la API de REST de Marketo</strong>: estamos introduciendo un cambio menor en la <a href="https://developers.marketo.com/rest-api/user-management/">API de administración de usuarios</a>. Los extremos <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Examinar usuarios</a> y <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Eliminar usuario</a> ahora admiten usuarios de <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Administración de cuentas de Target</a>.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
  </tbody> 
 </table>
