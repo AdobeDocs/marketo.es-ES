@@ -2,9 +2,9 @@
 description: 'Notas de la versión, julio de 2024: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2024
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 4%
 
 ---
@@ -88,4 +88,4 @@ Los usuarios ya no podrán crear, clonar ni incrustar ninguna de estas funciones
 
 * **Token de acceso en desuso del parámetro de consulta**: La compatibilidad con la autenticación mediante tokens de acceso en un parámetro de consulta de una llamada de API de REST de Marketo Engage se eliminará en una versión futura (fecha específica por determinar). Las integraciones existentes deberían migrar al uso del encabezado de autorización [descrito aquí](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. El nuevo desarrollo solo debe utilizar el encabezado Autorización para la autenticación con el Marketo Engage.
 
-* **Se requiere reautenticación de LinkedIn**: LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán la reautenticación de todos los servicios LaunchPoint de LinkedIn en su menú de **Admin** > **LaunchPoint** entre el 26 de julio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Puede encontrar instrucciones sobre cómo lograr este(a) [aquí para la generación de clientes potenciales Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} y [aquí para las audiencias coincidentes](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. El servicio de formularios de generación de clientes potenciales tiene un tipo de &quot;LinkedIn Lead Gen&quot; y el servicio de audiencias coincidentes tiene un tipo de &quot;LinkedIn Matched Audiences&quot;. Para obtener más información, consulte las [Preguntas frecuentes sobre la migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Se requiere reautenticación de LinkedIn**: LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de Marketo Engage LinkedIn. Estos cambios requerirán la reautenticación de todos los servicios LaunchPoint de LinkedIn en su menú de **Admin** > **LaunchPoint** entre el 26 de julio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Puede encontrar instrucciones sobre cómo lograr este(a) [aquí para la generación de clientes potenciales Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} y [aquí para las audiencias coincidentes](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. El servicio de formularios de generación de clientes potenciales tiene un tipo de &quot;LinkedIn Lead Gen&quot; y el servicio de audiencias coincidentes tiene un tipo de &quot;LinkedIn Matched Audiences&quot;. Para obtener más información, visite las [Preguntas frecuentes sobre la migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
