@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 6%
+source-wordcount: '513'
+ht-degree: 7%
 
 ---
 
@@ -65,6 +65,34 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
    <tr> 
    <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su huso horario y acceder a los detalles de la suscripción.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Métricas de trabajo pendiente de sincronización de Salesforce</strong>: ahora puede supervisar el rendimiento de sincronización y las tendencias de trabajo pendiente para planificar y programar actualizaciones de CRM para una experiencia de sincronización óptima.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Mejoras en el informe de rendimiento del correo electrónico</strong>: se han realizado varias mejoras en las métricas de informes de correo electrónico y en el seguimiento de actividades, lo que ofrece perspectivas adicionales y mejora la precisión.
+   <ul>
+   <li>Filtrar personas eliminadas y combinadas de las métricas de rendimiento de correo electrónico</li>
+   <li>Correos electrónicos ahora clasificados como <i>anulados</i> después de esperar tres días para la actividad de respuesta</li>
+   <li>Aperturas de correo electrónico de la cuenta en el nivel de campaña</li>
+   <li>Se ha mejorado el seguimiento de la actividad de correo electrónico mediante el refinamiento de la ubicación del píxel de seguimiento</li>
+   </td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
