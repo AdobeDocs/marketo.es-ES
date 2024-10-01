@@ -4,14 +4,14 @@ title: Tablero de métricas de observabilidad de sincronización de Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-# Tablero de métricas de observabilidad de sincronización de Salesforce {#salesforce-sync-observability-metrics-dashboard}
+# Métricas de registro de sincronización de Salesforce  {#salesforce-sync-backlog-metrics}
 
 Revise el rendimiento de la sincronización y los trabajos pendientes de sincronización con este tablero.
 

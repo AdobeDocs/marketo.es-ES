@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -32,7 +32,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Datos de registro mejorados en el panel de participación para seminarios web interactivos</strong>: TeAhora puedes ver qué compañías han tenido la mayor asistencia y obtener la compañía, el título y el sector actualizados a nivel de posible cliente en los informes disponibles en el panel de participación.</td> 
+   <td><strong>Datos de registro mejorados en el panel de participación para seminarios web interactivos</strong>: ahora puede ver qué compañías han tenido la mayor asistencia y obtener información sobre la compañía, el título y el sector a nivel de posible cliente en los informes disponibles en el panel de participación.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
