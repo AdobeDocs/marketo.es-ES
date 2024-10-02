@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 7%
+source-wordcount: '485'
+ht-degree: 6%
 
 ---
 
@@ -72,18 +72,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Métricas de trabajo pendiente de sincronización de Salesforce</strong>: ahora puede supervisar el rendimiento de sincronización y las tendencias de trabajo pendiente para planificar y programar actualizaciones de CRM para una experiencia de sincronización óptima.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>Mejoras en el informe de rendimiento del correo electrónico</strong>: se han realizado varias mejoras en las métricas de informes de correo electrónico y en el seguimiento de actividades, lo que ofrece perspectivas adicionales y mejora la precisión.
