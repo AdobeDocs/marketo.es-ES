@@ -4,7 +4,7 @@ title: Métricas de registro de sincronización de Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Tanto si la actualización se realiza en el lado del Marketo Engage como en el d
 
 Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un valor de campo), muchos registros se modifican, lo que provoca nuevos SysModStamps. Un gran número de actualizaciones de registros de personas debe resincronizarse entre el Marketo Engage y su CRM, a veces creando un registro de asuntos pendientes momentáneo.
 
-## Prácticas recomendadas para administrar los trabajos pendientes de sincronización {#best-practices-for-managing-sync-backlogs}
+## Prácticas recomendadas para administrar los trabajos pendientes de sincronización {#best-practices}
 
 **Campos sincronizados**: Asegúrese de que los campos sincronizados sean solo los que deban sincronizarse. Los cambios en los campos aumentan el registro de pendientes de sincronización y los campos de prioridad inferior pueden detenerse o ralentizar los campos más importantes en la sincronización. Póngase en contacto con [Soporte técnico para Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para quitar campos sincronizados.
 

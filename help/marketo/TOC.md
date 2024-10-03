@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 3%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 3%
          + Explicación del editor de correo electrónico {#understanding-the-email-editor}
             + [Explicación del registro de eventos de correo electrónico](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Uso del editor de texto enriquecido](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Beta Nuevo editor de correo electrónico {#beta-new-email-editor}
+            + [Crear un correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [Crear una plantilla de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [Cómo acceder a un correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [Cómo acceder a una plantilla de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + Creando un correo electrónico {#creating-an-email}
             + [Aprobar un correo electrónico](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Crear un correo electrónico de solo texto](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 3%
             + [Conexión de correo electrónico para usuarios de Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail No Extrae La Firma De Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Cómo añadir una plantilla](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [Cómo instalar la extensión del explorador ToutApp](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [Instalación del complemento de correo electrónico de Sales Connect para Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [Cómo enviar un correo electrónico desde Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Cómo desinstalar Sales Connect de Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [Prevención de la integración de direcciones secundarias de Gmail con Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 3%
                + [Cómo desinstalar Sales Connect de Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Complemento de Office 365 {#office-365-add-in}
                + [Agregar correo electrónico a Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Instalación de Sales Connect para Office365 Mac OS, Windows y Online](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Instalación del complemento de correo electrónico de Sales Connect para Outlook (en línea, Mac y Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + Correo electrónico {#email}
          + Centro de comandos {#command-center}
             + [Información general del centro de comandos](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
