@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 46a2170aab30abdb5d9e77219fc56fc2537d1c59
+source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 12%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -33,18 +33,18 @@ _Las fechas/características del lanzamiento están sujetas a cambios_
    <th width="250px">Estado</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Julio de 2024</a></td>
-   <td>26 de julio de 2024</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">Julio de 2024</a></td>
+   <td>sábado, 26 de julio de 2024</td>
+   <td>Enviado</td>
+  </tr>
+  <tr> 
+   <td><a href="/help/marketo/release-notes/current.md">Octubre del 24</td>
+   <td>sábado, 04 de octubre de 2024</td>
    <td>En curso</td>
   </tr>
   <tr> 
-   <td>Octubre del 24</td>
-   <td>4 de octubre de 2024</td>
-   <td>Dentro del horario</td>
-  </tr>
-  <tr> 
    <td>Enero del 25</td>
-   <td>17 de enero de 2025</td>
+   <td>sábado, 17 de enero de 2025</td>
    <td>Dentro del horario</td>
   </tr>
  </tbody>
