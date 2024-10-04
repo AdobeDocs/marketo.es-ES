@@ -4,10 +4,10 @@ title: Crear una plantilla de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -39,13 +39,21 @@ Texto de introducción aquí.
 
 ## Diseño de la plantilla {#design-your-template}
 
-En la pantalla de diseño, puede elegir algunas opciones. Diseñe desde cero, importe su propio HTML o elija una plantilla guardada (una de nuestras muestras o una de las suyas).
+En la página Diseñar la plantilla, puede elegir entre algunas opciones. Diseñe desde cero, importe su propio HTML o seleccione una plantilla existente (una de las muestras o una que ya haya guardado).
 
 >[!BEGINTABS]
 
 >[!TAB Diseñar desde cero]
 
-1. Seleccione **Diseño desde cero**.
+Defina su contenido añadiendo y moviendo elementos estructurales con sencillas acciones de arrastrar y soltar.
+
+## Diseñe desde cero {#design-from-scratch}
+
+1. En la página Diseña tu plantilla, selecciona **Diseñar desde cero**.
+
+   CAPTURA DE PANTALLA
+
+1. texto.
 
    CAPTURA DE PANTALLA
 
@@ -55,13 +63,39 @@ En la pantalla de diseño, puede elegir algunas opciones. Diseñe desde cero, im
 
 >[!TAB HTML de importación]
 
-1. Seleccione Importar HTML.
+Puede importar contenido existente del HTML para diseñar sus plantillas de correo electrónico. El contenido puede ser:
+
+* Archivo de HTML con una hoja de estilos incorporada
+
+* Archivo .zip que incluye un archivo de HTML, la hoja de estilos (.css) y las imágenes
+
+>[!NOTE]
+>
+>No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
+
+## Importe su HTML {#import-your-html}
+
+1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
 
    CAPTURA DE PANTALLA
 
-1. Texto.
+1. Arrastre y suelte el HTML o archivo .zip deseado y haga clic en **Importar**.
 
    CAPTURA DE PANTALLA
+
+   >[!CAUTION]
+   >
+   >El uso de una etiqueta `<table>` como primera capa en un archivo de HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de capa superior.
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+EN CUENTA DE PRUEBA: CONFIGURACIÓN/ESTILOS/CONVERSOR DE HTML
 
 >[!TAB Plantillas de muestra]
 
