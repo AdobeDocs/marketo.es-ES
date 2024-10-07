@@ -4,16 +4,20 @@ title: Crear una plantilla de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '302'
+ht-degree: 2%
 
 ---
 
 # Crear una plantilla de correo electrónico {#create-an-email-template}
 
 Texto de introducción aquí.
+
+>[!IMPORTANT]
+>
+>Este artículo es solo para miembros de la beta cerrada de New Marketo Engage Email Editor. Por favor, no disemine.
 
 1. Inicie sesión en [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
@@ -118,3 +122,7 @@ EN CUENTA DE PRUEBA: CONFIGURACIÓN/ESTILOS/CONVERSOR DE HTML
    CAPTURA DE PANTALLA
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Cómo acceder a una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

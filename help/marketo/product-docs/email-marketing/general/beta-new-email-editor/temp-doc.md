@@ -4,7 +4,7 @@ title: Doc temporal
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 3%
@@ -39,6 +39,7 @@ Inserte campos de personalización para personalizar el contenido a partir de at
 Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
 Haga clic en la pestaña Vínculos del panel izquierdo para mostrar todas las direcciones URL del contenido de las que se realizará un seguimiento. Puede modificar su Tipo de seguimiento o Etiqueta y añadir Etiquetas si es necesario.
 Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o de HTML personalizadas.
+
 PRECAUCIÓN
 No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.
 
