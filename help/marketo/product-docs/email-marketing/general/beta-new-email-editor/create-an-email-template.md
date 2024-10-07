@@ -4,9 +4,9 @@ title: Crear una plantilla de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,7 @@ Texto de introducción aquí.
 >
 >Este artículo es solo para miembros de la beta cerrada de New Marketo Engage Email Editor. Por favor, no disemine.
 
-1. Inicie sesión en [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   CAPTURA DE PANTALLA
-
-¿DESEA ENUMERAR CADA PASO HASTA EL GET A MARKETO?
+1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. En Mi Marketo, seleccione **Design Studio**.
 
@@ -45,13 +41,9 @@ Texto de introducción aquí.
 
 En la página Diseñar la plantilla, puede elegir entre algunas opciones. Diseñe desde cero, importe su propio HTML o seleccione una plantilla existente (una de las muestras o una que ya haya guardado).
 
->[!BEGINTABS]
-
->[!TAB Diseñar desde cero]
+### Diseñe desde cero {#design-from-scratch}
 
 Defina su contenido añadiendo y moviendo elementos estructurales con sencillas acciones de arrastrar y soltar.
-
-## Diseñe desde cero {#design-from-scratch}
 
 1. En la página Diseña tu plantilla, selecciona **Diseñar desde cero**.
 
@@ -77,7 +69,7 @@ Puede importar contenido existente del HTML para diseñar sus plantillas de corr
 >
 >No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
 
-## Importe su HTML {#import-your-html}
+### Importe su HTML {#import-your-html}
 
 1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-EN CUENTA DE PRUEBA: CONFIGURACIÓN/ESTILOS/CONVERSOR DE HTML
+### Elija una plantilla {#choose-a-template}
+
+Existen dos tipos de plantillas para elegir.
+
+* Plantillas de muestra: Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
+
+* Plantillas guardadas: son plantillas que ha creado desde cero mediante el menú Plantillas o un correo electrónico que ha creado y elegido guardar como plantilla.
+
+>[!BEGINTABS]
 
 >[!TAB Plantillas de muestra]
+
+Elija una de las cuatro plantillas listas para usar para empezar con su diseño de plantillas de correo electrónico.
 
 1. Seleccione Plantillas de muestra.
 
