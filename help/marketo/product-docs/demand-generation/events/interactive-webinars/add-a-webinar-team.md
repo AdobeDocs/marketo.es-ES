@@ -3,16 +3,20 @@ description: 'Añadir un equipo del seminario web: documentos de Marketo, docume
 title: Agregar un equipo del seminario web
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # Agregar un equipo del seminario web {#add-a-webinar-team}
 
 Un equipo de seminarios web en seminarios web interactivos consta de todas las funciones que contribuyen al éxito de la entrega del seminario web en Adobe Connect. Esto incluye a presentadores y coanfitriones.
+
+>[!IMPORTANT]
+>
+>Se recomienda encarecidamente que [diseñe su seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes de_ que agregue presentadores o co-anfitriones.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ El presentador es una función externa que participa en la entrega de la experie
 
 >[!PREREQUISITES]
 >
->[Crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Diseñe su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Añadir un host compartido {#add-a-co-host}
 
@@ -70,4 +76,4 @@ El presentador es una función externa que participa en la entrega de la experie
 
 >[!MORELIKETHIS]
 >
->[Crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

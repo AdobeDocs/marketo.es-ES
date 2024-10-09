@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -81,8 +81,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <li>Aperturas de correo electrónico de la cuenta en el nivel de campaña</li>
    <li>Se ha mejorado el seguimiento de la actividad de correo electrónico mediante el refinamiento de la ubicación del píxel de seguimiento</li>
    </td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Informe de rendimiento de correo electrónico</a></td>
   </tr>
  </tbody> 
 </table>

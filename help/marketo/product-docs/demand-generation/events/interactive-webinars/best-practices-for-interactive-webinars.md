@@ -3,9 +3,9 @@ description: Prácticas recomendadas para seminarios web interactivos - Document
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Evite programar sesiones consecutivas. Asegúrese de tener al menos 30 minutos de tiempo de preparación antes del inicio del seminario web. Esto le permitirá cargar cualquier cambio de presentación de última hora, ajustar el micrófono y la cámara y hacer que los nuevos presentadores se sientan cómodos con la interfaz.
 
-* Asigne funciones a los integrantes del equipo. Agréguelos como Co-hosts y Presentadores. Los anfitriones y los moderadores pueden entrar en la sala antes que los participantes.
+* Asigne funciones a los integrantes del equipo. Agréguelos como Co-hosts y Presentadores. Los anfitriones y los moderadores pueden entrar en la sala antes que los participantes. No obstante, asegúrese de [diseñar su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes de_ agregar co-anfitriones y moderadores.
 
 ### Promoción del evento {#promoting-your-event}
 
