@@ -3,16 +3,16 @@ description: Configuración del administrador - Documentos de Marketo - Document
 title: Ajustes de administración
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
 # Ajustes de administración {#admin-setup}
 
-Una vez que se le añada como administrador del sistema de Adobe al Marketo Engage en una organización de Adobe, deberá seguir algunos pasos para completar la configuración inicial.
+Después de que se le añada como administrador del sistema de Adobe al Marketo Engage en una organización de Adobe, deberá seguir algunos pasos para completar la configuración inicial.
 
 ## Configuración inicial {#initial-setup}
 
@@ -44,9 +44,11 @@ Una vez que el administrador del sistema accede al Admin Console, es hora de cre
 
    ![](assets/admin-setup-5.png)
 
-1. Asigne un nombre al perfil de producto (el nombre para mostrar y la descripción son opcionales) y haga clic en **[!UICONTROL Guardar]**.
+1. Asigne un nombre al perfil de producto (el nombre para mostrar y la descripción son opcionales) y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/admin-setup-6.png)
+
+1. No es necesario seleccionar ningún servicio. Haga clic en **[!UICONTROL Guardar]**.
 
 >[!NOTE]
 >
