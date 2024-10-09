@@ -3,9 +3,9 @@ description: 'Migración a la identidad de Adobe: documentos de Marketo, documen
 title: Migración a la identidad de Adobe
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ La herramienta Consola de migración de usuarios de autoservicio de Marketo cons
 
 * **Ficha Estado de la migración**
 * **Ficha Migración de usuarios**
+
+Existen tres pasos principales necesarios para completar una migración de autoservicio.
+
+1. Migrar todos los usuarios aptos verificados con direcciones de correo electrónico deseados (ficha Migración de usuarios)
+1. Omitir todos los usuarios no aptos y los usuarios aptos no deseados (pestaña Migración de usuarios)
+1. Una vez completados los pasos 1 y 2, complete la confirmación de migración (pestaña Estado de la migración)
 
 ### Pestaña Estado de migración {#migration-status-tab}
 
