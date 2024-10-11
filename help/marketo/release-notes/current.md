@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 5%
 
 ---
@@ -54,8 +54,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
    <tr> 
    <td><strong>Recuento de listas inteligentes configuradas para afectar a</strong>: vea cuántas personas se verán afectadas al editar las reglas de calificación de una campaña inteligente.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
    <tr> 
    <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su huso horario y acceder a los detalles de la suscripción.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 

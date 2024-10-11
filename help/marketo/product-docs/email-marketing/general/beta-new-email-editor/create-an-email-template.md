@@ -4,9 +4,9 @@ title: Crear una plantilla de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,10 @@ Texto de introducción aquí.
 >[!IMPORTANT]
 >
 >Este artículo es solo para miembros de la beta cerrada de New Marketo Engage Email Editor. Por favor, no disemine.
+
+>[!NOTE]
+>
+>Las plantillas de correo electrónico del nuevo editor de correo electrónico solo se pueden utilizar para crear correos electrónicos en el nuevo editor. No se puede hacer referencia a ellos en el antiguo editor de correo electrónico.
 
 1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -79,17 +83,19 @@ Puede importar contenido existente del HTML para diseñar sus plantillas de corr
 
    CAPTURA DE PANTALLA
 
+   >[!NOTE]
+   >
+   >Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o incluir recursos en el contenido.
+
+1. Para poder aprovechar los componentes de contenido de Email Designer, acceda a la pestaña HTML converter y haga clic en Convert.
+
+   CAPTURA DE PANTALLA
+
    >[!CAUTION]
    >
    >El uso de una etiqueta `<table>` como primera capa en un archivo de HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de capa superior.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Ahora puede personalizar el archivo importado según sea necesario con el editor de correo electrónico visual.
 
 ### Elija una plantilla {#choose-a-template}
 
@@ -124,7 +130,3 @@ Elija una de las cuatro plantillas listas para usar para empezar con su diseño 
    CAPTURA DE PANTALLA
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[Cómo acceder a una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

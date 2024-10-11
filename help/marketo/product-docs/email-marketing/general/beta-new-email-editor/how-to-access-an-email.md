@@ -4,30 +4,22 @@ title: Cómo acceder a un correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 10%
 
 ---
 
 # Cómo acceder a un correo electrónico {#how-to-access-an-email}
 
-Texto de introducción aquí.
+Después de crear un correo electrónico en el nuevo editor, puede hacer referencia a él en Campañas inteligentes o Listas inteligentes.
 
 >[!IMPORTANT]
 >
 >Este artículo es solo para miembros de la beta cerrada de New Marketo Engage Email Editor. Por favor, no disemine.
 
-1. Inicie sesión en [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   CAPTURA DE PANTALLA
-
-   ¿DESEA ENUMERAR CADA PASO HASTA EL GET A MARKETO?
-
-1. En Mi Marketo, seleccione Design Studio.
-
-   CAPTURA DE PANTALLA
+1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Texto
 

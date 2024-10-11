@@ -4,10 +4,10 @@ title: Crear un correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 3%
+source-wordcount: '1063'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ Texto de introducción aquí.
 
 Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 
-## Diseño del correo electrónico {#design-your-email}
+## Elija su tipo de contenido {#choose-your-content-type}
 
 1. En el correo electrónico que acaba de crear, haga clic en **+ Agregar contenido de correo electrónico**.
 
@@ -47,27 +47,25 @@ Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 
 1. Se carga la página &quot;Crear el correo electrónico&quot;. Puede elegir entre algunas opciones:
 
-* [Diseñe desde cero](#design-from-scratch)
+* [Diseñe desde cero](#design-from-scratch) con el Editor de correo electrónico
 
-* [Importar su propio HTML](#import-html)
+* [Importe su propio HTML](#import-html) a través de un HTML o archivo zip
 
 * [Seleccione una plantilla existente](#choose-a-template) (una de nuestras muestras o una que ya haya guardado)
 
 ### Diseñe desde cero {#design-from-scratch}
 
-Breve introducción
+Cuando comience desde cero en el editor de correo electrónico, utilice las opciones siguientes para definir el contenido.
 
-1. Texto
+1. En la página principal Diseña tu plantilla, selecciona **Diseñar desde cero**.
 
-   CAPTURA DE PANTALLA
+Añada estructura y contenido al correo electrónico.
 
-1. Texto
+Agregar imágenes.
 
-   CAPTURA DE PANTALLA
+Personalice su contenido.
 
-1. Texto
-
-   CAPTURA DE PANTALLA
+Revise y actualice los vínculos.
 
 ### Importar HTML {#import-html}
 
@@ -89,13 +87,11 @@ Puede importar contenido existente del HTML para diseñar sus plantillas de corr
 
    CAPTURA DE PANTALLA
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o incluir recursos en el contenido.
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Puede realizar los cambios que desee en el contenido importado con las [herramientas del editor de correo electrónico](#add-structure-and-content).
 
 ### Elija una plantilla {#choose-a-template}
 
@@ -109,9 +105,9 @@ Existen dos tipos de plantillas para elegir.
 
 >[!TAB Plantillas de muestra]
 
-Elija una de las cuatro plantillas listas para usar para empezar con su diseño de correo electrónico.
+Elija una de nuestras plantillas listas para usar para empezar con su diseño de correo electrónico.
 
-1. En la página Crear su correo electrónico, seleccione Plantillas de ejemplo.
+1. En la página Crear su correo electrónico, seleccione **Plantillas de ejemplo**.
 
    CAPTURA DE PANTALLA
 
@@ -141,6 +137,97 @@ Elija una de las plantillas creadas anteriormente.
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## Añadir estructura y contenido {#add-structure-and-content}
+
+1. Para empezar a crear o modificar contenido, arrastre y suelte un elemento de Estructuras en el lienzo. Edite su configuración en el panel de la derecha.
+
+   >[!TIP]
+   >
+   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+
+   CAPTURA DE PANTALLA
+
+   >[!NOTE]
+   >
+   >Cada tamaño de columna no puede ser inferior al 10 % de la anchura total del componente de estructura. Solo se pueden eliminar columnas vacías.
+
+1. En la sección Contenido, arrastre sobre los elementos deseados y suéltelos en uno o más componentes de estructura.
+
+   CAPTURA DE PANTALLA
+
+1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
+
+CAPTURA DE PANTALLA
+
+### Añadir Assets {#add-assets}
+
+Desde el Selector de recursos, puede seleccionar directamente los recursos almacenados en la biblioteca de Assets. Haga doble clic en la carpeta que contiene los recursos. Arrástrelos y suéltelos en un componente de estructura.
+
+Inserte campos de personalización para personalizar el contenido a partir de atributos de perfiles, suscripciones a audiencias, atributos contextuales, etc.
+
+Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
+
+Haga clic en la pestaña Vínculos del panel izquierdo para mostrar todas las direcciones URL del contenido de las que se realizará un seguimiento. Puede modificar su Tipo de seguimiento o Etiqueta y añadir Etiquetas si es necesario.
+
+Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o de HTML personalizadas.
+
+PRECAUCIÓN
+No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.
+
+Una vez que el contenido esté listo, haga clic en el botón Simular contenido para comprobar la renderización. Puede elegir la vista de escritorio o la vista móvil.
+
+Cuando esté listo, haga clic en Guardar
+
+
+
+
+
+## Comprobar alertas {#check-alerts}
+
+A medida que diseña el contenido, se muestran alertas en la interfaz (parte superior derecha de la pantalla) cuando falta la configuración clave.
+
+Existen dos tipos de alertas:
+
+**Advertencias**
+
+Las advertencias hacen referencia a recomendaciones y prácticas recomendadas, como:
+
+* **El vínculo de no participación no está presente en el cuerpo del correo electrónico**: aunque los vínculos de cancelación de suscripción son un requisito, se recomienda agregarlos al cuerpo del correo electrónico.
+
+>[!NOTE]
 >
->[Cómo acceder a un correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>No es necesario agregar una opción de cancelación de suscripción para [Correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (que no sean de marketing).
+
+* **La versión de texto del HTML está vacía**: debe definir una versión de texto del cuerpo del correo electrónico para los casos en los que no se pueda mostrar el contenido del HTML.
+
+* **El vínculo vacío está presente en el cuerpo del correo electrónico**: compruebe que todos los vínculos del correo electrónico sean correctos.
+
+* **El tamaño del correo electrónico ha superado el límite de 100 KB**: para una entrega óptima, asegúrese de que el tamaño del correo electrónico no supere los 100 KB.
+
+**Errores**
+
+Los errores impiden enviar o probar el correo electrónico hasta que se resuelvan:
+
+* **Falta la línea de asunto**: se requiere una línea de asunto de correo electrónico.
+
+* **La versión de correo electrónico del mensaje está vacía**: este error se produce cuando no se ha configurado el contenido del correo electrónico.
+
+## Prueba del correo electrónico
+
+Cuando se define el contenido del mensaje, puede utilizar perfiles de prueba para previsualizarlo, enviar pruebas y controlar cómo se procesa en clientes populares de escritorio, móviles y basados en web. Si ha insertado contenido personalizado, puede comprobar cómo se muestra en el mensaje mediante los datos del perfil de prueba.
+
+Para obtener una vista previa del contenido del correo electrónico, haga clic en **Simular contenido** y, a continuación, agregue un perfil de prueba para comprobar el mensaje mediante los datos del perfil de prueba.
+
+CAPTURA DE PANTALLA
+
+## Referencia a un correo electrónico {#reference-an-email}
+
+Después de crear un correo electrónico en el nuevo editor, puede hacer referencia a él en campañas inteligentes o listas inteligentes como lo haría con cualquier otro correo electrónico.
+
+* Haga referencia a él en una lista inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+
+* Haga referencia a él en una campaña inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+
+>[!NOTE]
+>
+>Solo se puede hacer referencia a los correos electrónicos guardados. No hay estado &quot;aprobado&quot; en el nuevo editor de correo electrónico.
