@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 5%
 
 ---
@@ -78,7 +78,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <ul>
    <li>Filtrar personas eliminadas y combinadas de las métricas de rendimiento de correo electrónico</li>
    <li>Correos electrónicos ahora clasificados como <i>anulados</i> después de esperar tres días para la actividad de respuesta</li>
-   <li>Aperturas de correo electrónico de la cuenta en el nivel de campaña</li>
+   <li>Las aperturas de correo electrónico se cuentan como aperturas únicas por separado para cada campaña inteligente</li>
    <li>Se ha mejorado el seguimiento de la actividad de correo electrónico mediante el refinamiento de la ubicación del píxel de seguimiento</li>
    </td> 
    <td>Enviado</td>
