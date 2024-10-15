@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 3%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 3%
             + [Explicación del registro de eventos de correo electrónico](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Uso del editor de texto enriquecido](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta Nuevo editor de correo electrónico {#beta-new-email-editor}
-            + [Crear un correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [Crear una plantilla de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [Cómo acceder a un correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [Cómo acceder a una plantilla de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [Nueva descripción general del editor de correo electrónico (beta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [Creación de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [Plantillas de correo electrónico](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + Creando un correo electrónico {#creating-an-email}
             + [Aprobar un correo electrónico](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Crear un correo electrónico de solo texto](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
