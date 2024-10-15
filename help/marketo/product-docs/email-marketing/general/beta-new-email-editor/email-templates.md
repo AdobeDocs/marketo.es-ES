@@ -4,7 +4,7 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 1%
@@ -310,7 +310,7 @@ Esta acción se puede realizar desde:
 * La página de listado _Plantillas de correo electrónico_: haga clic en el icono de Más acciones (tres puntos) de la plantilla de correo electrónico que quiera y elija Editar.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
 ```
 
 Esta acción lo lleva a la página _Diseñar su plantilla_ o a la página del editor de contenido visual en función del último estado guardado de la plantilla de correo electrónico. Desde aquí puede editar el contenido de su plantilla de correo electrónico según sea necesario. Consulte Creación de plantillas de correo electrónico para obtener información sobre las opciones de edición.
