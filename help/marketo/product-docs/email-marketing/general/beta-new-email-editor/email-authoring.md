@@ -1,0 +1,324 @@
+---
+description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
+title: Creación de correo electrónico
+hide: true
+hidefromtoc: true
+feature: Email Editor
+source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+workflow-type: tm+mt
+source-wordcount: '1212'
+ht-degree: 1%
+
+---
+
+# Creación de correo electrónico {#email-authoring}
+
+Texto de introducción aquí.
+
+>[!IMPORTANT]
+>
+>Este artículo es solo para miembros de la versión beta del nuevo editor de correo electrónico para Marketo Engage. Por favor, no disemine.
+
+## Crear un correo electrónico {#create-an-email}
+
+1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. En Mi Marketo, seleccione **Design Studio**.
+
+   ![](assets/create-an-email-1.png)
+
+1. En el árbol, seleccione **Correos electrónicos (nuevo editor)**.
+
+   ![](assets/create-an-email-2.png)
+
+1. Haga clic en el botón **Crear correo electrónico**.
+
+   ![](assets/create-an-email-3.png)
+
+1. Introduzca un nombre de correo electrónico y una línea de asunto. Haga clic en **Crear**.
+
+   ![](assets/create-an-email-4.png)
+
+Eso es todo. Ahora es el momento de diseñar su correo electrónico.
+
+## Elija su tipo de contenido {#choose-your-content-type}
+
+1. En el correo electrónico que acaba de crear, haga clic en **+ Agregar contenido de correo electrónico**.
+
+   CAPTURA DE PANTALLA
+
+1. Se carga la página _Crear tu correo electrónico_. Puede elegir entre algunas opciones:
+
+* [Diseñe desde cero](#design-from-scratch) con el editor de correo electrónico visual
+
+* [Importe su propio HTML](#import-html) a través de un HTML o archivo zip
+
+* [Seleccione una plantilla existente](#choose-a-template) (una de nuestras muestras o una que ya haya guardado)
+
+### Diseñe desde cero {#design-from-scratch}
+
+Cuando comience desde cero en el editor de correo electrónico, utilice las opciones siguientes para definir el contenido.
+
+1. En la página _Crear tu correo electrónico_, selecciona **Diseñar desde cero**.
+
+1. Agregue [estructura y contenido](#add-structure-and-content) a su correo electrónico.
+
+1. Agregar [imágenes](#add-assets).
+
+1. [Personaliza](#personalize-content) tu contenido.
+
+1. Revisar vínculos y [editar seguimiento](#edit-url-tracking).
+
+### Importar HTML {#import-html}
+
+Puede importar contenido existente del HTML para diseñar el correo electrónico. El contenido puede ser:
+
+* Archivo de HTML con una hoja de estilos incorporada
+
+* Archivo .zip que incluye un archivo de HTML, la hoja de estilos (.css) y las imágenes
+
+>[!NOTE]
+>
+>No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
+
+1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
+
+   CAPTURA DE PANTALLA
+
+1. Arrastre y suelte el HTML o archivo .zip deseado y haga clic en **Importar**.
+
+   CAPTURA DE PANTALLA
+
+>[!NOTE]
+>
+>Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
+
+Puede realizar los cambios que desee en el contenido importado con [las herramientas visuales del editor de correo electrónico](#add-structure-and-content).
+
+### Elija una plantilla {#choose-a-template}
+
+Existen dos tipos de plantillas para elegir.
+
+* Plantillas de muestra: Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
+
+* Plantillas guardadas: son plantillas que ha creado desde cero mediante el menú Plantillas o un correo electrónico que ha creado y elegido guardar como plantilla.
+
+>[!BEGINTABS]
+
+>[!TAB Plantillas de muestra]
+
+Elija una de nuestras plantillas listas para usar para empezar con su diseño de correo electrónico.
+
+1. En la página Crear su correo electrónico, seleccione **Plantillas de ejemplo**.
+
+   CAPTURA DE PANTALLA
+
+1. Seleccione la plantilla que desee.
+
+   CAPTURA DE PANTALLA
+
+1. Aparecerá una vista previa. Para confirmar la selección, haga clic en **Usar esta plantilla**.
+
+   CAPTURA DE PANTALLA
+
+>[!TAB Plantillas guardadas]
+
+Elija una de las plantillas creadas anteriormente.
+
+1. En la página Crear su correo electrónico, seleccione **Plantillas guardadas**.
+
+   CAPTURA DE PANTALLA
+
+1. Seleccione la plantilla que desee.
+
+   CAPTURA DE PANTALLA
+
+1. Aparecerá una vista previa. Para confirmar la selección, haga clic en **Usar esta plantilla**.
+
+   CAPTURA DE PANTALLA
+
+>[!ENDTABS]
+
+## Añadir estructura y contenido {#add-structure-and-content}
+
+1. Para empezar a crear o modificar contenido, arrastre y suelte un elemento de Estructuras en el lienzo. Edite su configuración en el panel de la derecha.
+
+   >[!TIP]
+   >
+   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+
+   CAPTURA DE PANTALLA
+
+   >[!NOTE]
+   >
+   >Cada tamaño de columna no puede ser inferior al 10 % de la anchura total del componente de estructura. Solo se pueden eliminar columnas vacías.
+
+1. En la sección Contenido, arrastre sobre los elementos deseados y suéltelos en uno o más componentes de estructura.
+
+   CAPTURA DE PANTALLA
+
+1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
+
+CAPTURA DE PANTALLA
+
+### Añadir Assets {#add-assets}
+
+```
+ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
+```
+
+```
+Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+```
+
+1. Para acceder a sus imágenes, haga clic en el icono Selector de recursos.
+
+   CAPTURA DE PANTALLA
+
+1. Arrastre y suelte la imagen deseada en un componente de estructura.
+
+   CAPTURA DE PANTALLA
+
+   >[!NOTE]
+   >
+   >Para reemplazar una imagen existente, selecciónela y haga clic en **Seleccionar un recurso** en la pestaña Configuración a la derecha.
+
+Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
+
+
+
+Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o de HTML personalizadas.
+
+PRECAUCIÓN
+No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.
+
+Una vez que el contenido esté listo, haga clic en el botón Simular contenido para comprobar la renderización. Puede elegir la vista de escritorio o la vista móvil.
+
+Cuando esté listo, haga clic en Guardar
+
+### Capas, configuración y estilos {#layers-settings-styles}
+
+```
+ARE THEY CALLED LAYERS OR COMPONENTS
+```
+
+Abra el árbol de navegación para acceder a estructuras específicas y a sus columnas/componentes para una edición más granular.
+
+1. Para acceder a, haga clic en el icono del árbol de navegación.
+
+CAPTURA DE PANTALLA
+
+
+
+
+### Personalizar contenido {#personalize-content}
+
+Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente.
+
+1. Seleccione el componente de texto y haga clic en el icono **Agregar personalización**.
+
+   CAPTURA DE PANTALLA
+
+1. Haga clic en el [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} deseado.
+
+   CAPTURA DE PANTALLA
+
+1. Haga clic en + o ... para añadir un token al espacio en blanco.
+
+   CAPTURA DE PANTALLA
+
+   >[!NOTE]
+   >
+   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``
+
+1. Haga clic en **Guardar** cuando termine.
+
+### Editar seguimiento de URL {#edit-url-tracking}
+
+A veces no se desea habilitar la URL de seguimiento de Marketo en un vínculo de un mensaje de correo electrónico. Esto resulta útil cuando la página de destino no admite parámetros de URL y puede provocar que se rompa un vínculo.
+
+1. Haga clic en el icono Links para mostrar todas las direcciones URL del correo electrónico.
+
+   CAPTURA DE PANTALLA
+
+1. Haga clic en el icono de lápiz para editar el seguimiento de cualquier vínculo deseado.
+
+   CAPTURA DE PANTALLA
+
+   ```
+   LABEL?
+   
+   TAGS?
+   ```
+
+   <table><tbody>
+     <tr>
+       <td><b>Seguimiento sin mkt_tok</b></td>
+       <td>definición</td>
+     </tr>
+     <tr>
+       <td><b>Seguimiento con mkt_tok</b></td>
+       <td>definición</td>
+     </tr>
+     <tr>
+       <td><b>No rastrear</b></td>
+       <td>definición</td>
+     </tr>
+   </tbody>
+   </table>
+
+1. Haga clic en **Guardar** cuando termine.
+
+## Comprobar alertas {#check-alerts}
+
+A medida que diseña el contenido, las alertas se muestran en la parte superior derecha de la pantalla cuando falta la configuración clave.
+
+Existen dos tipos de alertas:
+
+**Advertencias**
+
+Las advertencias hacen referencia a recomendaciones y prácticas recomendadas, como:
+
+* **El vínculo de no participación no está presente en el cuerpo del correo electrónico**: aunque los vínculos de cancelación de suscripción son un requisito, se recomienda agregarlos al cuerpo del correo electrónico.
+
+>[!NOTE]
+>
+>No es necesario agregar una opción de cancelación de suscripción para [Correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (que no sean de marketing).
+
+* **La versión de texto del HTML está vacía**: debe definir una versión de texto del cuerpo del correo electrónico para los casos en los que no se pueda mostrar el contenido del HTML.
+
+* **El vínculo vacío está presente en el cuerpo del correo electrónico**: compruebe que todos los vínculos del correo electrónico sean correctos.
+
+* **El tamaño del correo electrónico ha superado el límite de 100 KB**: para una entrega óptima, asegúrese de que el tamaño del correo electrónico no supere los 100 KB.
+
+**Errores**
+
+Los errores impiden enviar o probar el correo electrónico hasta que se resuelvan:
+
+* **Falta la línea de asunto**: se requiere una línea de asunto de correo electrónico.
+
+* **La versión de correo electrónico del mensaje está vacía**: este error se produce cuando no se ha configurado el contenido del correo electrónico.
+
+## Prueba del correo electrónico
+
+Cuando se define el contenido del mensaje, puede utilizar perfiles de prueba para previsualizarlo, enviar pruebas y controlar cómo se procesa en clientes populares de escritorio, móviles y basados en web. Si ha insertado contenido personalizado, puede comprobar cómo se muestra en el mensaje mediante los datos del perfil de prueba.
+
+Para obtener una vista previa del contenido del correo electrónico, haga clic en **Simular contenido** y, a continuación, agregue un perfil de prueba para comprobar el mensaje mediante los datos del perfil de prueba.
+
+CAPTURA DE PANTALLA
+
+## Referencia a un correo electrónico {#reference-an-email}
+
+Después de crear un correo electrónico en el nuevo editor, puede hacer referencia a él en campañas inteligentes o listas inteligentes como lo haría con cualquier otro correo electrónico.
+
+* Haga referencia a él en una lista inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+
+* Haga referencia a él en una campaña inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+
+>[!NOTE]
+>
+>Solo se puede hacer referencia a los correos electrónicos guardados. No hay estado &quot;aprobado&quot; en el nuevo editor de correo electrónico.
+
+>[!MORELIKETHIS]
+>
+>[Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
