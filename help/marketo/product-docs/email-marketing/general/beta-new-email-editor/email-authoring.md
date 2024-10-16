@@ -4,9 +4,9 @@ title: Creación de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
    >
    >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 1. En la sección Contenido, arrastre sobre los elementos deseados y suéltelos en uno o más componentes de estructura.
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
-
-CAPTURA DE PANTALLA
 
 ### Añadir Assets {#add-assets}
 
@@ -261,11 +259,13 @@ A veces no se desea habilitar la URL de seguimiento de Marketo en un vínculo de
 
 1. Haga clic en el icono Links para mostrar todas las direcciones URL del correo electrónico.
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Haga clic en el icono de lápiz para editar el seguimiento de cualquier vínculo deseado.
 
-   CAPTURA DE PANTALLA
+1. Haga clic en el menú desplegable **Tipo de seguimiento** y realice la selección.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Cuando se define el contenido del mensaje, puede utilizar perfiles de prueba par
 
 Para obtener una vista previa del contenido del correo electrónico, haga clic en **Simular contenido** y, a continuación, agregue un perfil de prueba para comprobar el mensaje mediante los datos del perfil de prueba.
 
-CAPTURA DE PANTALLA
+![](assets/test-your-email-1.png)
 
 ## Referencia a un correo electrónico {#reference-an-email}
 

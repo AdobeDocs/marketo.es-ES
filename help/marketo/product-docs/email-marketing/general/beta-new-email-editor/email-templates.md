@@ -4,9 +4,9 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
 
-CAPTURA DE PANTALLA
-
 ### Añadir Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
 ### Personalizar contenido {#personalize-content}
 
-Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente.
+Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
 
-1. Seleccione el componente de texto y haga clic en el icono **Agregar personalización**.
+1. Seleccione el componente de texto. Coloque el cursor donde desee que aparezca el token y haga clic en el icono **Agregar personalización**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/personalize-content-1.png)
 
 1. Haga clic en el [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} deseado.
 
-   CAPTURA DE PANTALLA
+   ![](assets/personalize-content-2.png)
 
-1. Haga clic en + o ... para añadir un token al espacio en blanco.
+1. Busque el token deseado y haga clic en el icono **...** (al hacer clic en el icono + se agrega un token sin texto de reserva).
 
-   CAPTURA DE PANTALLA
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``
+   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``. Se recomienda en caso de que no haya ningún valor para la persona en el campo que elija.
 
-1. Haga clic en **Guardar** cuando termine.
+1. Establece el texto de reserva y haz clic en **Agregar**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Haga clic en **Guardar**.
 
 ### Editar seguimiento de URL {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ A veces no se desea habilitar la URL de seguimiento de Marketo en un vínculo de
 
 1. Haga clic en el icono Links para mostrar todas las direcciones URL del correo electrónico.
 
-   CAPTURA DE PANTALLA
+   ![](assets/edit-url-tracking-1.png)
 
 1. Haga clic en el icono de lápiz para editar el seguimiento de cualquier vínculo deseado.
 
-   CAPTURA DE PANTALLA
+1. Haga clic en el menú desplegable **Tipo de seguimiento** y realice la selección.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
