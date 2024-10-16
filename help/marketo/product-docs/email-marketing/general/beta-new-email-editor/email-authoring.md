@@ -4,16 +4,16 @@ title: Creación de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # Creación de correo electrónico {#email-authoring}
 
-Texto de introducción aquí.
+Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Designer de correo electrónico del Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Los errores impiden enviar o probar el correo electrónico hasta que se resuelva
 
 * **La versión de correo electrónico del mensaje está vacía**: este error se produce cuando no se ha configurado el contenido del correo electrónico.
 
-## Prueba del correo electrónico
+## Prueba del correo electrónico {#test-your-email}
 
 Cuando se define el contenido del mensaje, puede utilizar perfiles de prueba para previsualizarlo, enviar pruebas y controlar cómo se procesa en clientes populares de escritorio, móviles y basados en web. Si ha insertado contenido personalizado, puede comprobar cómo se muestra en el mensaje mediante los datos del perfil de prueba.
 
