@@ -4,30 +4,26 @@ title: Métricas de registro de sincronización de Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
 # Métricas de registro de sincronización de Salesforce  {#salesforce-sync-backlog-metrics}
 
-El registro de pendientes de sincronización representa los registros pendientes de sincronización de Salesforce a Marketo Engage y viceversa. Garantizar que el registro de pendientes esté bajo control dará lugar a sincronizaciones adecuadas y oportunas.
-
->[!NOTE]
->
->El registro de pendientes cubre los números pendientes de las actualizaciones posteriores a la sincronización en ambos lados, y no aquellos que se realizan mediante pasos de flujo de sincronización como los pasos de flujo [Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} o [Sincronizar persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}.
+El registro de pendientes de sincronización es el nombre utilizado para los registros pendientes de sincronización. Tiene en cuenta los registros pendientes de sincronización de Salesforce con Marketo Engage y viceversa. Garantizar que el registro de pendientes permanece bajo control dará lugar a sincronizaciones suaves y de tiempo. El registro de pendientes abarca los números pendientes de las actualizaciones posteriores a la sincronización en ambos lados, y no aquellos que se realizan mediante pasos de flujo de sincronización como los pasos de flujo de Sincronizar posible cliente a SFDC.
 
 ## Cómo acceder a {#how-to-access}
 
 1. En Marketo Engage, vaya al área **Admin**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. Seleccione **Salesforce**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## Tendencia de trabajo pendiente de sincronización {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ La tendencia del registro de pendientes refleja los cambios en los registros de 
 
 El registro de pendientes se observa a un intervalo de tiempo particular de 4 horas en el eje x. Este valor es para todos los objetos sincronizados. Este es el total del registro de pendientes en Salesforce y Marketo Engage que esperan sincronizarse.
 
-CAPTURA DE PANTALLA
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## Rendimiento de sincronización y registro de pendientes {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ Las estadísticas reflejan el rendimiento y el estado del registro de pendientes
 >
 >Las estadísticas se actualizan de forma gradual, no por día natural.
 
-CAPTURA DE PANTALLA
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un va
 
 ## Prácticas recomendadas para administrar los trabajos pendientes de sincronización {#best-practices}
 
-**Campos sincronizados**: Asegúrese de que los campos sincronizados sean solo los que deban sincronizarse. Los cambios en los campos aumentan el registro de pendientes de sincronización y los campos de prioridad inferior pueden detenerse o ralentizar los campos más importantes en la sincronización. Póngase en contacto con [Soporte técnico para Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para quitar campos sincronizados.
+**Campos visibles para el usuario de sincronización**: Asegúrese de que los campos visibles para sincronizar sean solo los que necesitan sincronizarse y tengan valor para los esfuerzos de marketing. Cualquier actualización de un registro en Salesforce que actualice la última marca de tiempo modificada colocará un registro en la cola del registro de sincronización pendiente, y la sincronización de campos innecesarios puede ralentizar los campos más importantes que se están sincronizando. Si se ocultan los campos innecesarios al usuario de sincronización, las actualizaciones de esos campos resultarán en una omisión mucho más rápida que una actualización. Póngase en contacto con su administrador de Salesforce para revisar las prácticas recomendadas aquí y actualizar qué campos son visibles para el usuario de sincronización de Marketo.
 
-**Campos confidenciales**: Algunos campos son propensos a actualizaciones frecuentes (por ejemplo, campos de moneda que están sujetos a cambios de moneda). Revise si es necesario sincronizar o si los campos deben diseñarse de forma diferente.
+**Ocultar o filtrar registros innecesarios**: si un registro no se puede comercializar, es posible que esté desperdiciando recursos de sincronización. Si el usuario de sincronización no puede verlo, no desperdiciará recursos al intentar sincronizarlo. [El soporte técnico del Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} puede ayudar a configurar un filtro de sincronización para inhibir la sincronización de registros en función de criterios adicionales. Encontrará más información sobre la configuración de un filtro de sincronización personalizado [aquí](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Se recomienda encarecidamente utilizar campos de índice dentro de Salesforce (póngase en contacto con salesforce para obtener más información).
 
-**Objetos personalizados**: revise periódicamente los objetos personalizados sincronizados y quite los que ya no necesiten sincronizarse.
+**Programar actualizaciones masivas durante horas no críticas**: revise los patrones de sincronización de datos para identificar períodos no críticos. Revise si se pueden programar actualizaciones masivas en estos períodos no críticos, si es posible.
 
-**Actividades**: compruebe si hay actividades sincronizadas que se puedan quitar de la sincronización.
+**Campos actualizados con frecuencia**: Algunos campos son propensos a actualizaciones frecuentes. Por ejemplo, los campos de moneda que están sujetos a cambios de moneda. Revise si es necesario sincronizarlos o si los campos deben diseñarse de forma diferente. Si tiene otros campos que se actualizan con frecuencia y no son necesarios, ocúltelos del usuario de sincronización. Asegúrese de hablar con los administradores de SFDC sobre las integraciones que pueden estar actualizando campos.
 
-**Programar actualizaciones masivas durante horas no críticas**: revise los patrones de sincronización de datos para identificar períodos no críticos. Compruebe si se pueden programar actualizaciones masivas durante estos períodos no críticos.
+**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
 
-Si está siguiendo todas las prácticas recomendadas anteriores y aún experimenta retrasos significativos, póngase en contacto con el [Soporte técnico del Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+**Actividades**: [Revise si alguna de las actividades](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización que se pueda quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
+
+**Revisar errores de sincronización**: La administración de excepciones puede ralentizar la sincronización. Revisar las notificaciones de los usuarios y resolver los errores puede mejorar el estado de la sincronización.
+
+**Póngase en contacto con el soporte técnico**: Si está siguiendo todas las prácticas recomendadas anteriores y aún experimenta retrasos significativos, póngase en contacto con el [Soporte técnico del Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.
