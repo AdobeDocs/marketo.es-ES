@@ -4,7 +4,7 @@ description: 'Explicación de las opciones de envío: documentos de Marketo, doc
 title: Descripción de opciones de envío
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Para cualquier día o paso posterior de la campaña, tendrá las siguientes opci
 **Enviar este correo electrónico al correo electrónico anterior**
 
 * Esta opción de envío es un &quot;seguimiento&quot; del correo electrónico anterior y adjunta el cuerpo del correo electrónico anterior al final de este correo electrónico.
+

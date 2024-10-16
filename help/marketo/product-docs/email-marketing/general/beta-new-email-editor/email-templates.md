@@ -4,9 +4,9 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1672'
 ht-degree: 1%
 
 ---
@@ -192,38 +192,38 @@ Cuando esté listo, haga clic en Guardar
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Abra el árbol de navegación para acceder a estructuras específicas y a sus columnas/componentes para una edición más granular.
+Abra el árbol de navegación para acceder a estructuras específicas y a sus columnas/componentes para una edición más granular. Para acceder a, haga clic en el icono del árbol de navegación.
 
-1. Para acceder a, haga clic en el icono del árbol de navegación.
+![](assets/layers-settings-styles-1.png)
 
-CAPTURA DE PANTALLA
+En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alineación vertical dentro de un componente de estructura compuesto por columnas.
 
+1. Seleccione la columna en el componente de estructura directamente en el lienzo o mediante el _árbol de navegación_ que se muestra a la izquierda.
 
-El ejemplo siguiente describe cómo ajustar el relleno y la alineación vertical dentro de un componente de estructura compuesto por tres columnas.
+1. En la barra de herramientas de la columna, haga clic en la herramienta _[!UICONTROL Seleccionar una columna]_ y elija la que desee editar.
 
-Seleccione el componente de estructura directamente en el correo electrónico o mediante el árbol de navegación disponible en el menú de la izquierda.
+   También puede seleccionarlo en el árbol de estructura. Los parámetros editables de esa columna se muestran en las fichas _[!UICONTROL Configuración]_ y _[!UICONTROL Estilos]_ de la derecha.
 
-En la barra de herramientas, haga clic en Seleccionar una columna y elija la que desee editar. También puede seleccionarlo en el árbol de estructura.
+   ![](assets/layers-settings-styles-2.png)
 
-Los parámetros editables para esa columna se muestran en la pestaña Estilos.
+1. Para editar las propiedades de la columna, haga clic en la ficha _[!UICONTROL Estilos]_ de la derecha y cámbielas según sus necesidades:
 
+   * Para **[!UICONTROL Background]**, cambie el color de fondo según sea necesario.
 
+     Desactive la casilla de verificación para un fondo transparente. Habilite la configuración de **[!UICONTROL imagen de fondo]** para usar una imagen como fondo en lugar de un color sólido.
 
-En Alineación (Alignment), seleccione Superior (Top), Medio (Middle) o Inferior.
+   * Para **[!UICONTROL Alignment]**, selecciona el icono _Top_, _Middle_ o _Bottom_.
+   * Para **[!UICONTROL Padding]**, defina el relleno para todos los lados.
 
+     Seleccione **[!UICONTROL relleno diferente para cada lado]** si desea ajustar el relleno. Haga clic en el icono _Bloquear_ para interrumpir la sincronización.
 
+   * Expanda la sección **[!UICONTROL Avanzado]** para definir estilos en línea para la columna.
 
-En Relleno, defina el relleno para todos los lados.
+   ![](assets/layers-settings-styles-3.png)
 
-Seleccione Relleno diferente para cada lado si desea ajustar el relleno. Haga clic en el icono de bloqueo para interrumpir la sincronización.
+1. Repita estos pasos según sea necesario para ajustar la alineación y el relleno de las demás columnas del componente.
 
-
-
-Proceda de forma similar para ajustar la alineación y el relleno de las otras columnas.
-
-Guarde los cambios.
-
-
+1. Guarde los cambios.
 
 ### Personalizar contenido {#personalize-content}
 
