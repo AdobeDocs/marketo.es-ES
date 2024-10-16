@@ -3,9 +3,9 @@ description: Explicación de las opciones de envío de campañas de ventas para 
 title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '750'
 ht-degree: 2%
 
 ---
@@ -45,6 +45,10 @@ Para los días o pasos siguientes de la campaña de ventas, tiene las siguientes
 
 * Esta opción enviará el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
 * Se enviará el día en que esté asociado.
+
+>[!IMPORTANT]
+>
+>El envío de un correo electrónico al mismo tiempo que el correo electrónico anterior no es compatible con los correos electrónicos enviados el mismo día. En su lugar, el correo electrónico se enviará en el momento del correo electrónico enviado el día anterior. Si se selecciona esta opción para un correo electrónico el primer día de la campaña (no recomendado), ese correo electrónico se envía inmediatamente al inicio de la campaña.
 
 ### Enviar este correo electrónico a la siguiente hora {#subsequent-send-at-following-time}
 

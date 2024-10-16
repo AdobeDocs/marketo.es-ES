@@ -4,10 +4,10 @@ description: 'Explicación de las opciones de envío: documentos de Marketo, doc
 title: Descripción de opciones de envío
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 5%
+source-wordcount: '609'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ Si es el primer paso y el primer día de la campaña, tiene las siguientes opcio
 
 ![](assets/image2019-10-25-10-43-19.png)
 
-Elegiré cuándo enviar este correo electrónico
+**Elegiré cuándo enviar este correo electrónico**
 
 * Esta opción le permite elegir el momento &quot;enviar a las&quot; para el primer correo electrónico de la campaña cuando esta se inicia añadiendo personas.
 
-Enviar este correo electrónico a la siguiente hora
+**Enviar este correo electrónico a la siguiente hora**
 
 * Cuando inicie su campaña añadiendo personas a ella, programaremos el correo electrónico para esta hora.
 * Siempre tiene la opción de elegir un nuevo momento &quot;Enviar a las&quot; al iniciar la campaña.
 
-Crear una tarea. Enviaré este email por mi cuenta
+**Crear una tarea; yo mismo enviaré este correo electrónico**
 
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
 * Una vez que haya realizado esta selección, cuando inicie la campaña, pondremos en cola estas tareas en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
@@ -38,17 +38,21 @@ Crear una tarea. Enviaré este email por mi cuenta
 
 Para cualquier día o paso posterior de la campaña, tendrá las siguientes opciones:
 
-Enviar este email al mismo tiempo que el email anterior de esta campaña
+**Envíe este correo electrónico al mismo tiempo que el anterior en esta campaña**
 
 * Esta opción enviará el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
 * Se enviará el día en que esté asociado.
 
-Enviar este correo electrónico a la siguiente hora
+>[!IMPORTANT]
+>
+>El envío de un correo electrónico al mismo tiempo que el correo electrónico anterior no es compatible con los correos electrónicos enviados el mismo día. En su lugar, el correo electrónico se enviará en el momento del correo electrónico enviado el día anterior. Si se selecciona esta opción para un correo electrónico el primer día de la campaña (no recomendado), ese correo electrónico se envía inmediatamente al inicio de la campaña.
+
+**Enviar este correo electrónico a la siguiente hora**
 
 * Cuando inicie su campaña añadiendo personas a ella, programaremos el correo electrónico para esta hora.
 * Siempre tiene la opción de elegir un nuevo momento &quot;Enviar a las&quot; al iniciar la campaña.
 
-Crear una tarea. Enviaré este email por mi cuenta
+**Crear una tarea; yo mismo enviaré este correo electrónico**
 
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
 * Una vez que haya hecho esta selección, cuando inicie la campaña, Tout pondrá en cola estas tareas por usted en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
@@ -56,6 +60,6 @@ Crear una tarea. Enviaré este email por mi cuenta
    * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
    * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
-Enlazar este correo electrónico con el anterior
+**Enviar este correo electrónico al correo electrónico anterior**
 
 * Esta opción de envío es un &quot;seguimiento&quot; del correo electrónico anterior y adjunta el cuerpo del correo electrónico anterior al final de este correo electrónico.

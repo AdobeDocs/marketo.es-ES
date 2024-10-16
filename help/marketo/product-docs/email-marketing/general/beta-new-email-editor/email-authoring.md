@@ -4,9 +4,9 @@ title: Creación de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 
 ## Elija su tipo de contenido {#choose-your-content-type}
 
-1. En el correo electrónico que acaba de crear, haga clic en **+ Agregar contenido de correo electrónico**.
+1. En el correo electrónico que acaba de crear, haga clic en **Agregar contenido de correo electrónico**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/choose-your-content-type-1.png)
 
 1. Se carga la página _Crear tu correo electrónico_. Puede elegir entre algunas opciones:
 
@@ -83,11 +83,9 @@ Puede importar contenido existente del HTML para diseñar el correo electrónico
 
 1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
 
-   CAPTURA DE PANTALLA
+1. Arrastre y suelte el HTML o archivo .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
 
-1. Arrastre y suelte el HTML o archivo .zip deseado y haga clic en **Importar**.
-
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Existen dos tipos de plantillas para elegir.
 
 >[!TAB Plantillas de muestra]
 
-Elija una de nuestras plantillas listas para usar para empezar con su diseño de correo electrónico.
+Elija una de las plantillas listas para usar para empezar con su diseño de plantillas de correo electrónico.
 
-1. En la página Crear su correo electrónico, seleccione **Plantillas de ejemplo**.
+1. La pestaña Plantillas de muestra está abierta de forma predeterminada.
 
-   CAPTURA DE PANTALLA
+1. Seleccione la plantilla que desee utilizar.
 
-1. Seleccione la plantilla que desee.
+   ![](assets/authoring-sample-templates-1.png)
 
-   CAPTURA DE PANTALLA
+1. Haga clic en **Usar esta plantilla**.
 
-1. Aparecerá una vista previa. Para confirmar la selección, haga clic en **Usar esta plantilla**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   CAPTURA DE PANTALLA
+1. Edite el contenido como desee con el diseñador de contenido visual.
 
 >[!TAB Plantillas guardadas]
 
-Elija una de las plantillas creadas anteriormente.
+1. Haga clic en la ficha **Plantillas guardadas** y seleccione la plantilla que desee.
 
-1. En la página Crear su correo electrónico, seleccione **Plantillas guardadas**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   CAPTURA DE PANTALLA
+1. Haga clic en **Usar esta plantilla**.
 
-1. Seleccione la plantilla que desee.
+   ![](assets/authoring-saved-templates-2.png)
 
-   CAPTURA DE PANTALLA
-
-1. Aparecerá una vista previa. Para confirmar la selección, haga clic en **Usar esta plantilla**.
-
-   CAPTURA DE PANTALLA
+1. Edite el contenido como desee con el diseñador de contenido visual.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ CAPTURA DE PANTALLA
 
 ### Personalizar contenido {#personalize-content}
 
-Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente.
+Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
 
-1. Seleccione el componente de texto y haga clic en el icono **Agregar personalización**.
+1. Seleccione el componente de texto. Coloque el cursor donde desee que aparezca el token y haga clic en el icono **Agregar personalización**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Haga clic en el [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} deseado.
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Haga clic en + o ... para añadir un token al espacio en blanco.
+1. Busque el token deseado y haga clic en el icono **...** (al hacer clic en el icono + se agrega un token sin texto de reserva).
 
-   CAPTURA DE PANTALLA
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``
+   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``. Se recomienda en caso de que no haya ningún valor para la persona en el campo que elija.
 
-1. Haga clic en **Guardar** cuando termine.
+1. Establece el texto de reserva y haz clic en **Agregar**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Haga clic en **Guardar**.
 
 ### Editar seguimiento de URL {#edit-url-tracking}
 

@@ -4,16 +4,16 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
 
 # Plantillas de correo electrónico {#email-templates}
 
-Texto de introducción aquí.
+Para un proceso de diseño acelerado y mejorado, puede crear plantillas de correo electrónico independientes para reutilizar fácilmente el contenido personalizado.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Texto de introducción aquí.
 
 En la página _Diseña tu plantilla_, puedes elegir entre algunas opciones. [Diseñe desde cero](#design-from-scratch), [importe su propio HTML](#import-html) o [seleccione una plantilla existente](#choose-a-template) (una de nuestras muestras o una que ya haya guardado).
 
+![](assets/design-your-template-1.png)
+
 ### Diseñe desde cero {#design-from-scratch}
 
 Defina su contenido añadiendo y moviendo elementos estructurales con sencillas acciones de arrastrar y soltar.
 
 1. En la página _Diseña tu plantilla_, selecciona **Diseñar desde cero**.
-
-   CAPTURA DE PANTALLA
 
 1. Agregar [estructura y contenido](#add-structure-and-content).
 
@@ -71,11 +71,9 @@ Puede importar contenido existente del HTML para diseñar sus plantillas de corr
 
 1. En la página _Diseña tu plantilla_, selecciona **HTML de importación**.
 
-   CAPTURA DE PANTALLA
+1. Arrastre y suelte el HTML o archivo .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
 
-1. Arrastre y suelte el HTML o archivo .zip deseado y haga clic en **Importar**.
-
-   CAPTURA DE PANTALLA
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Existen dos tipos de plantillas para elegir.
 
 >[!TAB Plantillas de muestra]
 
-Elija una de las cuatro plantillas listas para usar para empezar con su diseño de plantillas de correo electrónico.
+Elija una de las plantillas listas para usar para empezar con su diseño de plantillas de correo electrónico.
 
-1. Seleccione Plantillas de muestra.
+1. La pestaña Plantillas de muestra está abierta de forma predeterminada.
 
-   CAPTURA DE PANTALLA
+1. Seleccione la plantilla que desee utilizar.
 
-1. Texto.
+   ![](assets/sample-templates-1.png)
 
-   CAPTURA DE PANTALLA
+1. Haga clic en **Usar esta plantilla**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Edite el contenido como desee con el diseñador de contenido visual.
 
 >[!TAB Plantillas guardadas]
 
-1. Seleccione Plantillas guardadas.
+1. Haga clic en la ficha **Plantillas guardadas** y seleccione la plantilla que desee.
 
-   CAPTURA DE PANTALLA
+   ![](assets/saved-templates-1.png)
 
-1. Texto.
+1. Haga clic en **Usar esta plantilla**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/saved-templates-2.png)
+
+1. Edite el contenido como desee con el diseñador de contenido visual.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Elija una de las cuatro plantillas listas para usar para empezar con su diseño 
    >
    >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Elija una de las cuatro plantillas listas para usar para empezar con su diseño 
 
 1. En la sección Contenido, arrastre sobre los elementos deseados y suéltelos en uno o más componentes de estructura.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-structure-and-content-2.png)
 
 1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
 
@@ -194,6 +198,30 @@ Abra el árbol de navegación para acceder a estructuras específicas y a sus co
 
 CAPTURA DE PANTALLA
 
+
+El ejemplo siguiente describe cómo ajustar el relleno y la alineación vertical dentro de un componente de estructura compuesto por tres columnas.
+
+Seleccione el componente de estructura directamente en el correo electrónico o mediante el árbol de navegación disponible en el menú de la izquierda.
+
+En la barra de herramientas, haga clic en Seleccionar una columna y elija la que desee editar. También puede seleccionarlo en el árbol de estructura.
+
+Los parámetros editables para esa columna se muestran en la pestaña Estilos.
+
+
+
+En Alineación (Alignment), seleccione Superior (Top), Medio (Middle) o Inferior.
+
+
+
+En Relleno, defina el relleno para todos los lados.
+
+Seleccione Relleno diferente para cada lado si desea ajustar el relleno. Haga clic en el icono de bloqueo para interrumpir la sincronización.
+
+
+
+Proceda de forma similar para ajustar la alineación y el relleno de las otras columnas.
+
+Guarde los cambios.
 
 
 
