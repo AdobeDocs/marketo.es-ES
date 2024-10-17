@@ -2,9 +2,9 @@
 description: Métricas de registro de pendientes de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
 title: Métricas de registro de sincronización de Salesforce
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un va
 
 ## Prácticas recomendadas para administrar los trabajos pendientes de sincronización {#best-practices}
 
-**Campos visibles para el usuario de sincronización**: Asegúrese de que los campos visibles para sincronizar sean solo los que necesitan sincronizarse y tengan valor para los esfuerzos de marketing. Cualquier actualización de un registro en Salesforce que actualice la última marca de tiempo modificada colocará un registro en la cola del registro de sincronización pendiente, y la sincronización de campos innecesarios puede ralentizar los campos más importantes que se están sincronizando. Si se ocultan los campos innecesarios al usuario de sincronización, las actualizaciones de esos campos resultarán en una omisión mucho más rápida que una actualización. Póngase en contacto con su administrador de Salesforce para revisar las prácticas recomendadas aquí y actualizar qué campos son visibles para el usuario de sincronización de Marketo.
+**Campos visibles para el usuario de sincronización**: Asegúrese de que los campos visibles para sincronizar sean solo los que necesitan sincronizarse y tengan valor para los esfuerzos de marketing. Cualquier actualización de un registro en Salesforce que actualice la última marca de tiempo modificada colocará un registro en la cola del registro de sincronización pendiente, y la sincronización de campos innecesarios puede ralentizar los campos más importantes que se están sincronizando. Si se ocultan los campos innecesarios al usuario de sincronización, las actualizaciones de esos campos resultarán en una omisión mucho más rápida que una actualización. Trabaje con su administrador de Salesforce para revisar las prácticas recomendadas [aquí](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} y actualizar qué campos son visibles para el usuario de sincronización de Marketo.
 
 **Ocultar o filtrar registros innecesarios**: si un registro no se puede comercializar, es posible que esté desperdiciando recursos de sincronización. Si el usuario de sincronización no puede verlo, no desperdiciará recursos al intentar sincronizarlo. [El soporte técnico del Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} puede ayudar a configurar un filtro de sincronización para inhibir la sincronización de registros en función de criterios adicionales. Encontrará más información sobre la configuración de un filtro de sincronización personalizado [aquí](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Se recomienda encarecidamente utilizar campos de índice dentro de Salesforce (póngase en contacto con salesforce para obtener más información).
 
