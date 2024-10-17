@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 5%
+source-wordcount: '515'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,17 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    </td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Informe de rendimiento de correo electrónico</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Métricas de trabajo pendiente de sincronización de Salesforce</strong>: supervise el rendimiento de sincronización y las tendencias de trabajo pendiente para planificar y programar actualizaciones de CRM para una experiencia de sincronización óptima.
+   </td> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Métricas de registro de sincronización de Salesforce</a></td>
   </tr>
  </tbody> 
 </table>
