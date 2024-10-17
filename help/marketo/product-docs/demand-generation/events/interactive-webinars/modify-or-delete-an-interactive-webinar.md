@@ -3,9 +3,9 @@ description: 'Modificación o eliminación de un seminario web interactivo: docu
 title: Modificar o eliminar un seminario web interactivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,10 @@ Aprenda a realizar cambios en el seminario web interactivo.
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## Eliminar un seminario web interactivo {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>Si crea un seminario web de prueba, debe eliminarse antes de su hora de inicio para garantizar que la licencia de ese seminario web no se utilice.
 
 1. Seleccione el programa de eventos deseado.
 

@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Cree un seminario web interactivo en unos sencillos pasos.
    >* No puede reutilizar un título de seminario web. Cada uno debe ser único en la instancia de Marketo.
    >
    >* Si lo desea, puede cambiar el título del seminario web en una etapa posterior.
+   >
+   >* Si crea un seminario web de prueba, debe eliminarse antes de su hora de inicio para garantizar que la licencia de ese seminario web no se utilice.
 
 1. Programe la fecha/hora del seminario web y haga clic en **Crear**.
 
