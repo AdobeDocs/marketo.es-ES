@@ -4,7 +4,7 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 1%
@@ -93,9 +93,9 @@ Ahora puede personalizar el archivo importado según sea necesario con el editor
 
 Existen dos tipos de plantillas para elegir.
 
-* Plantillas de muestra: Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
+* **Plantillas de ejemplo**: El Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
 
-* Plantillas guardadas: son plantillas que ha creado desde cero mediante el menú Plantillas o un correo electrónico que ha creado y elegido guardar como plantilla.
+* **Plantillas guardadas**: son plantillas que creó desde cero mediante el menú Plantillas o un mensaje de correo electrónico que creó y eligió guardar como plantilla.
 
 >[!BEGINTABS]
 

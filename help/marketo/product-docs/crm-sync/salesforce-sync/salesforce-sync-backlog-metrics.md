@@ -1,10 +1,8 @@
 ---
 description: Métricas de registro de pendientes de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
 title: Métricas de registro de sincronización de Salesforce
-hide: true
-hidefromtoc: true
 feature: Reporting
-source-git-commit: 82ac7469c4210bad888ace76d3dc2fe206fd35e0
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1047'
 ht-degree: 0%
