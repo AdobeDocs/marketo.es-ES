@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: 'Sincronización de SFDC: sincronización de objetos personalizada - Documentos de Marketo: documentación del producto'
+description: 'Sincronización de SFDC: sincronización de objetos personalizada - Documentos de Marketo - Documentación del producto'
 title: 'Sincronización de SFDC: sincronización de objetos personalizada'
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 # Sincronización SFDC: sincronización de objetos personalizada {#sfdc-sync-custom-object-sync}
 
-Los objetos personalizados creados en su instancia de Salesforce también pueden formar parte de Marketo Engage. A continuación se muestra cómo configurarlo.
+Los objetos personalizados creados en la instancia de Salesforce también pueden formar parte de Marketo Engage. A continuación se muestra cómo configurarlo.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
    >[!NOTE]
    >
-   >Una sincronización inicial del esquema de objeto personalizado de Salesforce puede tardar unos minutos.
+   >Una sincronización inicial del esquema de objetos personalizados de Salesforce puede tardar unos minutos.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -75,13 +75,15 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para ver todos los objetos personalizados de Salesforce, haz clic en **[!UICONTROL Admin]** y en el vínculo **[!UICONTROL Sincronización de objetos de Salesforce]** (igual que el paso 1 anterior).
+1. Para ver todos los objetos personalizados de Salesforce, haz clic en **[!UICONTROL Administrador]** y en el vínculo **[!UICONTROL Sincronización de objetos de Salesforce]** (igual que el paso 1 anterior).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >Marketo solo admite entidades personalizadas vinculadas a entidades estándar de uno o dos niveles de profundidad.
+   >* Marketo solo admite entidades personalizadas vinculadas a entidades estándar de uno o dos niveles de profundidad.
+   >
+   >* El árbol de objetos personalizados puede mostrar el mismo objeto más de una vez, debido a sus conexiones directas con uno de los objetos principales (por ejemplo, posibles clientes, contactos o cuentas o conexiones indirectas a través de objetos intermediarios). En estos casos, elija el objeto más cercano al objeto principal y elija solo uno. Si elige el mismo objeto varias veces, puede que la sincronización de ese objeto personalizado se vea obstaculizada.
 
 ### ¿Qué sigue? {#whats-next}
 

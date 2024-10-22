@@ -3,7 +3,7 @@ description: Migración de soporte de Marketo Engage - Documentos de Marketo - D
 title: Migración de soporte de Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -48,4 +48,4 @@ La migración de asistencia se producirá una vez completada la migración de us
 
 ## ¿Todavía tiene preguntas? {#still-have-questions}
 
-Si todavía tiene preguntas con respecto a su suscripción o migración de soporte, comuníquese con nosotros en `marketocares@adobe.com`.
+Si todavía tiene preguntas con respecto a su suscripción o migración de soporte, comuníquese con nosotros en `customercare@marketo.com`.

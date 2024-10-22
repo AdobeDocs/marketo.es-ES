@@ -4,9 +4,9 @@ description: Habilitar la sincronización para una entidad personalizada - Docum
 title: Habilitar sincronización para una entidad personalizada
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 1. No olvide volver a activar la sincronización global.
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo solo admite entidades personalizadas vinculadas a entidades estándar de uno o dos niveles de profundidad.
+   >
+   >* El árbol de objetos personalizados puede mostrar el mismo objeto más de una vez, debido a sus conexiones directas con uno de los objetos principales (por ejemplo, posibles clientes, contactos o cuentas o conexiones indirectas a través de objetos intermediarios). En estos casos, elija el objeto más cercano al objeto principal y elija solo uno. Si elige el mismo objeto varias veces, puede que la sincronización de ese objeto personalizado se vea obstaculizada.
