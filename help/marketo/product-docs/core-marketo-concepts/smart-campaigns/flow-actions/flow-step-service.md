@@ -3,9 +3,9 @@ description: 'Servicio de pasos de flujo: documentos de Marketo: documentación 
 title: Servicio de paso de flujo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Haga clic en **[!UICONTROL Siguiente]** para ir a la sección Introducir credenc
 Para acceder al servicio que se está instalando, Marketo debe tener credenciales de API válidas. El proveedor de servicios debe proporcionarle estas credenciales. Los servicios tienen tres opciones de autenticación diferentes, por lo que puede que vea una de las tres solicitudes de credenciales diferentes: **Clave de API** que tiene un solo campo de entrada, **Autenticación básica** que requiere un nombre de usuario y una contraseña y que también puede requerir un campo llamado Dominio, y **OAuth2** que usa la concesión de _Credenciales del cliente_, que requiere un _ID del cliente_ y _Secreto del cliente_.
 
 Al guardar las credenciales, Marketo intentará llamar al extremo de estado del servicio para comprobar que son válidas. Si las credenciales proporcionadas no son válidas, aparecerá un error que lo indica.
+
+>[!CAUTION]
+>
+>Si se crea y elimina un proveedor de servicios, no podrá volver a utilizar su nombre de proveedor de servicios, API, Déclencheur o filtro a partir de ahora.
 
 ## Guía de incorporación (opcional) {#onboarding-guide}
 
