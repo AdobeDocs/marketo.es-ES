@@ -4,9 +4,9 @@ title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 1%
 
 ---
@@ -81,8 +81,6 @@ Puede importar contenido existente del HTML para diseñar sus plantillas de corr
 
 1. Para poder aprovechar los componentes de contenido de Designer de correo electrónico, haga clic en la pestaña **convertidor de HTML** y luego en **Convertir**.
 
-   CAPTURA DE PANTALLA
-
    >[!CAUTION]
    >
    >El uso de una etiqueta `<table>` como primera capa en un archivo de HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de capa superior.
@@ -151,38 +149,23 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 ### Añadir Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de la instancia de Marketo Engage.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>Sólo puede agregar imágenes en el nuevo diseñador, no en otros tipos de archivo en este momento.
 
 1. Para acceder a sus imágenes, haga clic en el icono Selector de recursos.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-assets-1.png)
 
 1. Arrastre y suelte la imagen deseada en un componente de estructura.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >Para reemplazar una imagen existente, selecciónela y haga clic en **Seleccionar un recurso** en la pestaña Configuración a la derecha.
-
-Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
-
-
-
-Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o de HTML personalizadas.
-
-PRECAUCIÓN
-No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.
-
-Una vez que el contenido esté listo, haga clic en el botón Simular contenido para comprobar la renderización. Puede elegir la vista de escritorio o la vista móvil.
-
-Cuando esté listo, haga clic en Guardar
 
 ### Capas, configuración y estilos {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Aproveche las opciones de vista y validación de contenido disponibles en el edi
 
 Desde las opciones **Más** del editor de contenido, puede realizar las siguientes acciones:
 
-CAPTURA DE PANTALLA
+![](assets/more-options-1.png)
 
 * **Restablecer plantilla**: seleccione esta opción para borrar el lienzo visual del diseñador de correo electrónico en una pizarra en blanco y reiniciar la creación de contenido.
 
@@ -307,7 +290,7 @@ CAPTURA DE PANTALLA
 
 En la página de lista _Plantillas de correo electrónico_, haga clic en el nombre de una plantilla de correo electrónico para ver sus detalles.
 
-CAPTURA DE PANTALLA
+(assets/view-template-details-1.png
 
 Se pueden editar detalles básicos como el nombre y la descripción. Haga clic fuera del campo que ha editado para guardar los cambios.
 
@@ -323,7 +306,7 @@ Si hay alertas activas (errores/advertencias para la plantilla de correo electr�
 
 En el resumen de la plantilla de correo electrónico, haga clic en la ficha **Utilizada por** para ver los detalles de dónde se ha utilizado esta plantilla de correo electrónico en Marketo Engage.
 
-CAPTURA DE PANTALLA
+![](assets/email-template-used-by-references-1.png)
 
 ## Editar plantillas de correo electrónico {#edit-email-templates}
 
@@ -339,7 +322,7 @@ Existen dos formas de duplicar una plantilla de correo electrónico:
 
 * En los detalles de la plantilla de correo electrónico de la derecha, haga clic en **Más** y seleccione **Duplicar**.
 
-CAPTURA DE PANTALLA
+  ![](assets/duplicate-email-templates-1.png)
 
 * En la página de listado de _Plantillas de correo electrónico_, haga clic en el icono Más acciones (tres puntos) de la plantilla de correo electrónico deseada y elija **Duplicado**.
 
@@ -357,7 +340,7 @@ Existen dos formas de eliminar una plantilla de correo electrónico.
 
 * En los detalles de la plantilla de correo electrónico de la derecha, haga clic en **Más** y seleccione **Eliminar**.
 
-CAPTURA DE PANTALLA
+  ![](assets/delete-email-templates-1.png)
 
 * En la página de listado de _Plantillas de correo electrónico_, haga clic en el icono Más acciones (tres puntos) de la plantilla de correo electrónico que quiera y elija **Eliminar**.
 
