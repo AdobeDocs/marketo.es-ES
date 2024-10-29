@@ -4,7 +4,7 @@ title: Creación de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 
 >[!IMPORTANT]
 >
->Este artículo es solo para miembros de la versión beta de New Marketo Engage Email Designer. Por favor, no disemine.
+>Este artículo es solo para miembros de la nueva versión beta de Marketo Engage Email Designer. Por favor, no disemine.
 
 ## Crear un correo electrónico {#create-an-email}
 
