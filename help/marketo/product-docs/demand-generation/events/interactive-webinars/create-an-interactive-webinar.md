@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[Los recursos de **notificación push móvil** no son compatibles con los seminarios web interactivos.](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
+
 1. Asigne un nombre al programa. En Tipo de programa, seleccione **Evento**.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ Cree un seminario web interactivo en unos sencillos pasos.
 1. Elija **seminarios web interactivos** y haga clic en **Siguiente**.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >Encontrará información sobre los seminarios web de socios aquí.
 
 1. Asigne un título al seminario web. Establezca el tamaño máximo de la audiencia y la duración.
 
