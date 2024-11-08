@@ -4,10 +4,10 @@ description: 'Edición de contenido predictivo para medios enriquecidos: documen
 title: Editar contenido predictivo para medios enriquecidos
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 1. Observará que puede tener imágenes independientes para el correo electrónico y los medios enriquecidos. Para agregar o cambiar la imagen, pegue la dirección URL de la imagen en su cuadro de texto.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >Las imágenes de JPEG con el modelo de color CMYK no son compatibles con los medios enriquecidos. Los JPEG deben convertirse a sRGB mediante un perfil de color. Asegúrese de elegir esta configuración al exportar desde el editor de imágenes.
 
 1. Escriba una **descripción**.
 

@@ -3,9 +3,9 @@ description: Reglas de validación de formularios globales - Documentos de Marke
 title: Reglas de formulario de validación global
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '281'
 ht-degree: 2%
 
 ---
@@ -70,7 +70,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
 >[!NOTE]
 >
->El Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Ver esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>El Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Vea esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para descargarla, asegúrese de que su explorador esté actualizado y de que puede aceptar descargas).
 
 ## Cómo deshabilitar el acceso por formulario{#how-to-disable-access-per-form}
 
