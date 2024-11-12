@@ -4,10 +4,10 @@ title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Se han realizado varias mejoras en el panel de Analytics, entre las que se inclu
 
 CAPTURA DE PANTALLA
 
-### Puntuación de conversación
+### Puntuación de conversación {#conversation-scoring}
 
 Cuantifique los posibles clientes en función de la calidad de su interacción de chat y utilice esa métrica como Déclencheur/filtro en campañas inteligentes de Marketo Engage. Use el nuevo atributo _puntuación de conversación_ en las siguientes actividades:
 
@@ -68,3 +68,21 @@ A partir de ese momento, `abc@test.com` será un posible cliente sin cookie. ANO
 Por lo tanto, cuando un visitante con cookie abc aterriza en una página y proporciona un ID de correo electrónico como `abc@p.com`:
 
 TABLA
+
+### Tiempo de carga de flujo de conversación optimizado {#optimized-conversation-flow-load-time}
+
+Para mejorar la experiencia del usuario, ahora se muestra un cargador de reflejos en lugar de un espacio en blanco mientras se carga el flujo de conversación. CONVERSACIÓN O CONVERSACIÓN???
+
+**Antes de**
+
+GIF
+
+**Después**
+
+GIF
+
+### Opción para heredar la fuente {#option-to-inherit-font}
+
+Como usuario, me gustaría permitir que mi bot de chat herede directamente la fuente de la página web donde se está cargando en lugar de administrar mi fuente de marca en Dynamic Chat
+
+Nota: Una vez que habilites esta opción, el Chatbot tomará la fuente que esté definida en la etiqueta del cuerpo de la página

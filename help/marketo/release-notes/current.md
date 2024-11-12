@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 4%
 
 ---
@@ -79,7 +79,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <li>Filtrar personas eliminadas y combinadas de las métricas de rendimiento de correo electrónico</li>
    <li>Correos electrónicos ahora clasificados como <i>anulados</i> después de esperar tres días para la actividad de respuesta</li>
    <li>Las aperturas de correo electrónico se cuentan como aperturas únicas por separado para cada campaña inteligente</li>
-   <li>Se ha mejorado el seguimiento de la actividad de correo electrónico mediante el refinamiento de la ubicación del píxel de seguimiento</li>
    </td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Informe de rendimiento de correo electrónico</a></td>
