@@ -4,9 +4,9 @@ title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Se han realizado varias mejoras en el panel de Analytics, entre las que se incluyen:
 
-* Recuento total solicitado de chat en vivo: número de visitantes solicitados para un &quot;chat con agente&quot;
+* Número total solicitado de chats en directo: número de visitantes solicitados para un &quot;chat con el agente&quot;
 
 * Total de chat en directo conectado: número de visitantes conectados frente al total solicitado para un &quot;chat con el agente&quot;
 
@@ -27,7 +27,7 @@ Se han realizado varias mejoras en el panel de Analytics, entre las que se inclu
 
 * Duración media del chat en minutos: Analice la &quot;duración media del chat&quot; entre los visitantes y sus agentes.
 
-* Tiempo medio de respuesta del agente en segundos: Analice el &quot;tiempo medio empleado&quot; por los agentes para responder a sus preguntas y respuestas en el chat en directo.
+* Tiempo medio de respuesta del agente en segundos: Analice el &quot;tiempo medio empleado&quot; por los agentes para responder a sus preguntas y respuestas en directo en el chat
 
 * Tablero diario: las solicitudes de chat en vivo se conectan correctamente, las solicitudes de chat en vivo se pierden, ordenan y filtran las actividades de chat en vivo recientes
 
@@ -45,7 +45,7 @@ Cuantifique los posibles clientes en función de la calidad de su interacción d
 
 * El valor de la puntuación estará entre 0, 1, 2 y 3 (el valor predeterminado es nulo)
 
-* Una vez finalizada o eliminada la conversación, en la actividad guarde el valor de la puntuación y publique que que no se pueda editar???????????????????????????????? (qué significa esto)
+* Una vez finalizada o eliminada la conversación, en la actividad guarde el valor de la puntuación y publique que que no se pueda editar????? (qué significa esta frase)
 
 * Configurar una puntuación:
 
@@ -63,7 +63,7 @@ CAPTURA DE PANTALLA
 
 Si un posible cliente rellena un formulario con el correo electrónico `abc@test.com` y está cookie como xyz, más adelante rellena el mismo formulario con el correo electrónico `def@test.com`, se crea un nuevo posible cliente, pero la cookie xyz se asocia al nuevo posible cliente y se elimina del mismo `abc@test.com`.
 
-A partir de ese momento, `abc@test.com` será un posible cliente sin cookie. ANON LEAD??
+A partir de ese momento, `abc@test.com` será un posible cliente sin cookie. POSIBLE CLIENTE ANÓNIMO??
 
 Por lo tanto, cuando un visitante con cookie abc aterriza en una página y proporciona un ID de correo electrónico como `abc@p.com`:
 
@@ -83,6 +83,12 @@ GIF
 
 ### Opción para heredar la fuente {#option-to-inherit-font}
 
-Como usuario, me gustaría permitir que mi bot de chat herede directamente la fuente de la página web donde se está cargando en lugar de administrar mi fuente de marca en Dynamic Chat
+Ahora puede permitir que el bot de chat herede directamente la fuente de la página web en la que se aloja en lugar de administrar la fuente de la marca en Dynamic Chat. Al habilitar esta opción, el bot de chat tomará la fuente definida en la etiqueta `<body>` de la página.
 
-Nota: Una vez que habilites esta opción, el Chatbot tomará la fuente que esté definida en la etiqueta del cuerpo de la página
+CAPTURA DE PANTALLA
+
+### Integración de Demandbase con Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Los usuarios de Demandbase pueden traer su propia licencia de Demandbase y activar la integración. Utilice los atributos de persona de Demandbase para la segmentación de diálogos, la promoción condicional de la marca y el enrutamiento personalizado.
+
+La resolución de estos valores de atributos con un posible cliente se realizaría en tiempo real y se almacenaría en el perfil del posible cliente correspondiente.
