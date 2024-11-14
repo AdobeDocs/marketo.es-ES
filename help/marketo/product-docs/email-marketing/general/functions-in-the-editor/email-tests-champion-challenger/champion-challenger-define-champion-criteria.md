@@ -4,7 +4,7 @@ description: 'Campeón/Challenger: Definir criterios de campeón, documentación
 title: 'Campeón/Challenger: Definir criterios de campeón'
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
    >
    >Vamos a rastrear esta métrica y le enviaremos un informe con los datos por correo electrónico.
 
-1. Si eligió uno de los **criterios de campeón** predeterminados, continúe y [configure las alertas de informe](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts).
+1. Si eligió uno de los **criterios de campeón** predeterminados, continúe y [configure las alertas de informe](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts).
 
 ## Criterios de campeón personalizados {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
    >[!MORELIKETHIS]
    >
-   >[Campeón/Challenger: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[Campeón/Challenger: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
