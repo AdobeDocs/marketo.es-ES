@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 4%
+source-wordcount: '507'
+ht-degree: 3%
 
 ---
 
@@ -32,19 +32,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Datos de registro mejorados en el panel de participación para seminarios web interactivos</strong>: ahora puede ver qué compañías han tenido la mayor asistencia y obtener información sobre la compañía, el título y el sector a nivel de posible cliente en los informes disponibles en el panel de participación.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenización para seminarios web interactivos</strong>: ahora puede usar tokens para promocionar seminarios web interactivos en correos electrónicos y páginas de destino sin tener que agregar manualmente los detalles del seminario web.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoción de un seminario web interactivo</a></td>
   </tr>
   <tr> 
    <td> </td> 

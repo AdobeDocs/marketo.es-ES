@@ -3,9 +3,9 @@ description: 'Promoción de un seminario web interactivo: documentos de Marketo,
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Una vez añadidos o importados los miembros en el programa, puede crear una camp
 >
 >Si desea agregar un copatrocinador o presentador como miembro de la audiencia al programa de eventos de seminario web interactivo, debe utilizar un ID de correo electrónico diferente para ellos; de lo contrario, recibirán el error &quot;este correo electrónico ya está registrado&quot;.
 
-El correo electrónico puede contener detalles específicos del programa, así como una dirección URL de la página de aterrizaje que redireccionaría al destinatario a una página específica donde encontrará más información sobre el seminario web (por ejemplo, contenido, información del presentador, etc.) se puede añadir. Esta página de aterrizaje se puede crear como un recurso local en el programa de eventos de seminarios web interactivos.
+El correo electrónico puede contener detalles específicos del programa, así como una dirección URL de la página de aterrizaje que redireccionaría al destinatario a una página específica donde se puede añadir más información sobre el seminario web (por ejemplo, contenido, información del presentador, etc.). Esta página de aterrizaje se puede crear como un recurso local en el programa de eventos de seminarios web interactivos.
 
 Para solicitar el registro en este seminario web, habilite un formulario en la página de aterrizaje y vincule los clics del formulario para habilitar el registro en el programa de eventos del seminario web interactivo. A continuación, se puede crear una campaña que utilice los envíos de formularios como déclencheur y cambie el estado del programa de &quot;invitado&quot; a &quot;registrado&quot;.
 
@@ -41,3 +41,22 @@ Los vínculos están disponibles en la parte derecha de la pestaña Información
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Los seminarios web interactivos le permiten solicitar el registro antes, durante o después de un seminario web. En todos los casos, simplemente tendría que compartir la URL del seminario web con el posible cliente. Al hacer clic en el vínculo antes de que comience el seminario web, se envían a una página de aterrizaje previa al seminario web. Al hacer clic en él durante el seminario web, se les redirige al seminario web en curso. Al hacer clic en él después de que el seminario web los lleve a una grabación del seminario web.
+
+## Tokens de seminarios web interactivos {#interactive-webinars-tokens}
+
+Utilice tokens para promocionar seminarios web interactivos en correos electrónicos y páginas de destino sin tener que añadir manualmente los detalles del seminario web. Esto mejora la eficacia general, ya que cualquier cambio realizado en los metadatos del seminario web (como el título, la fecha de inicio, etc.) se reflejará automáticamente en los recursos.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Lista de tokens**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
