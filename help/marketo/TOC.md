@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9377'
 ht-degree: 3%
 
 ---
@@ -1138,7 +1138,7 @@ ht-degree: 3%
             + Pruebas de correo electrónico - Champion-Challenger {#email-tests-champion-challenger}
                + [Añadir un campeón/aspirante de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Campeón/Challenger: Apruebe su prueba de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
-               + [Campeón/Challenger: Configurar alertas de informes](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+               + [Campeón/Challenger: Analytics](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
                + [Campeón/Challenger: Declarar un campeón](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Campeón/Challenger: Definir criterios de campeón](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [Campeón/Challenger: descartar una prueba de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
