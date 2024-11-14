@@ -4,7 +4,8 @@ title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 3%
@@ -65,7 +66,7 @@ Si un posible cliente rellena un formulario con el correo electrónico `abc@test
 
 A partir de ese momento, `abc@test.com` será un posible cliente sin cookie. POSIBLE CLIENTE ANÓNIMO??
 
-Por lo tanto, cuando un visitante con cookie abc aterriza en una página y proporciona un ID de correo electrónico como `abc@p.com`:
+Por lo tanto, cuando un visitante con cookie abc aterriza en una página y proporciona un ID de correo electrónico como `abc@test.com`:
 
 TABLA
 
