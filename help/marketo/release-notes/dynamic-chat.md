@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 3%
+source-wordcount: '2427'
+ht-degree: 2%
 
 ---
 
@@ -16,9 +16,137 @@ Las versiones de Adobe Dynamic Chat funcionan con un modelo de entrega continua 
 
 La página de notas de la versión estándar del Marketo Engage [ se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## Versión de septiembre/octubre de 2024 {#sep-oct-release}
+
+### Análisis de chat en vivo mejorado {#enhanced-live-chat-analytics}
+
+Se han realizado varias mejoras en el panel de Analytics, entre las que se incluyen:
+
+* Número total solicitado de chats en directo: número de visitantes solicitados para un &quot;chat con el agente&quot;
+
+* Total de chat en directo conectado: número de visitantes conectados frente al total solicitado para un &quot;chat con el agente&quot;
+
+* Total de solicitudes de chat en vivo perdidas: número de visitantes desatendidos frente al total solicitado para un &quot;chat con el agente&quot;
+
+* Duración media del chat en minutos: Analice la &quot;duración media del chat&quot; entre los visitantes y sus agentes.
+
+* Tiempo medio de respuesta del agente en segundos: Analice el &quot;tiempo medio empleado&quot; por los agentes para responder a sus preguntas y respuestas en directo en el chat
+
+* Tablero diario: las solicitudes de chat en vivo se conectan correctamente, las solicitudes de chat en vivo se pierden, ordenan y filtran las actividades de chat en vivo recientes
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Puntuación de conversación {#conversation-scoring}
+
+Cuantifique los posibles clientes en función de la calidad de su interacción de chat y utilice esa métrica como Déclencheur/filtro en campañas inteligentes de Marketo Engage. Use el nuevo atributo _puntuación de conversación_ en las siguientes actividades:
+
+* Participa en un diálogo
+* Interactúe con un flujo de conversación
+* Interacción con un agente
+
+**Aspectos a tener en cuenta:**
+
+* El valor de la puntuación estará entre 0, 1, 2 y 3 (el valor predeterminado es nulo)
+
+* Cuando finaliza o se suelta la conversación, el valor de puntuación no se puede editar
+
+* Configurar una puntuación:
+
+   * En la bandeja de entrada del agente: durante una conversación en directo, el agente puede actualizar o establecer una puntuación para la conversación, que se almacena en la actividad de conversación
+
+   * En el diseñador de secuencias: en la tarjeta de objetivos, el usuario puede actualizar o establecer una puntuación para la conversación
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Nueva lógica de creación de posibles clientes {#new-lead-creation-logic}
+
+Si un posible cliente rellena un formulario con el correo electrónico `abc@test.com` y está cookie como xyz, más adelante rellena el mismo formulario con el correo electrónico `def@test.com`, se crea un nuevo registro de persona, pero la cookie xyz se asocia con la nueva persona y se elimina de la persona `abc@test.com`.
+
+Por lo tanto, cuando un visitante con cookie abc aterriza en una página y proporciona un ID de correo electrónico como `abc@test.com`:
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>Correo electrónico proporcionado</th>
+    <th>Comportamiento esperado</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anónimo</td>
+    <td>abc</td>
+    <td>No existe en la base de datos</td>
+    <td>Crear una nueva persona</td>
+  </tr>
+  <tr>
+    <td>Anónimo</td>
+    <td>abc</td>
+    <td>Existe en base de datos</td>
+    <td>Combinar persona</td>
+  </tr>
+  <tr>
+    <td>Anónimo</td>
+    <td>xyz</td>
+    <td>Existe en base de datos</td>
+    <td>Combinar persona</td>
+  </tr>
+  <tr>
+    <td>Persona conocida</td>
+    <td>abc</td>
+    <td>Igual que la persona existente</td>
+    <td>Actualizar persona</td>
+  </tr>
+  <tr>
+    <td>Persona conocida</td>
+    <td>abc</td>
+    <td>Diferente a la persona existente</td>
+    <td>Si ya existe una persona conocida, transfiera la cookie y resuelva ese perfil. Si no existe ninguna persona con este correo electrónico, cree un nuevo registro de persona y transfiera la cookie</td>
+  </tr>
+  <tr>
+    <td>Persona conocida</td>
+    <td>xyz</td>
+    <td>Igual que la persona existente</td>
+    <td>Añadir nueva cookie a la misma persona</td>
+  </tr>
+  <tr>
+    <td>Persona conocida</td>
+    <td>xyz</td>
+    <td>Diferente a la persona existente</td>
+    <td>este escenario no es posible como si se tratara de una nueva cookie de   valor predeterminado considerado como nuevo perfil anónimo</td>
+  </tr>
+</tbody></table>
+
+### Tiempo de carga de flujo de conversación optimizado {#optimized-conversation-flow-load-time}
+
+Para mejorar la experiencia del usuario, ahora se muestra un cargador de reflejos en lugar de un espacio en blanco mientras se carga el flujo de conversación.
+
+**Antes de**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**Después**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Opción para heredar la fuente {#option-to-inherit-font}
+
+Ahora puede permitir que el bot de chat herede directamente la fuente de la página web en la que se aloja en lugar de administrar la fuente de la marca en Dynamic Chat. Al habilitar esta opción, el bot de chat tomará la fuente definida en la etiqueta `<body>` de la página.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Integración de Demandbase con Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Los usuarios de Demandbase pueden traer su propia licencia de Demandbase y activar la integración. Utilice los atributos de persona de Demandbase para la segmentación de diálogos, la promoción condicional de la marca y el enrutamiento personalizado.
+
+La resolución de estos valores de atributo con una persona se realizaría en tiempo real y se almacenaría en el perfil de persona correspondiente.
+
 ## Versión de agosto de 2024 {#august-release}
 
-**Fecha de la versión: 23 de agosto de 2024**
+**Fecha de lanzamiento: sábado, 23 de agosto de 2024**
 
 ### Personalizar el formato de los mensajes de conversación {#custom-format-conversation-messages}
 
