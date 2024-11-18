@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 3%
 
 ---
@@ -89,6 +89,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 <br/>
 
 ## Anuncios {#announcements}
+
+* **Actualización de API de extracción masiva**: se ha corregido un problema en la API de extracción masiva que incluía la opción columnHeaderNames, que le permite especificar nombres de encabezado de columna personalizados en el archivo exportado. Anteriormente, los nombres de encabezados de columna que contenían caracteres no ASCII podían dañarse.
 
 * **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
