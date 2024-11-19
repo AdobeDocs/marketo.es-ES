@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
@@ -120,29 +120,29 @@ Por lo tanto, cuando un visitante con cookie abc aterriza en una página y propo
   </tr>
 </tbody></table>
 
-### Tiempo de carga de flujo de conversación optimizado {#optimized-conversation-flow-load-time}
-
-Para mejorar la experiencia del usuario, ahora se muestra un cargador de reflejos en lugar de un espacio en blanco mientras se carga el flujo de conversación.
-
-**Antes de**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**Después**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Opción para heredar la fuente {#option-to-inherit-font}
 
 Ahora puede permitir que el bot de chat herede directamente la fuente de la página web en la que se aloja en lugar de administrar la fuente de la marca en Dynamic Chat. Al habilitar esta opción, el bot de chat tomará la fuente definida en la etiqueta `<body>` de la página.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Integración de Demandbase con Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 Los usuarios de Demandbase pueden traer su propia licencia de Demandbase y activar la integración. Utilice los atributos de persona de Demandbase para la segmentación de diálogos, la promoción condicional de la marca y el enrutamiento personalizado.
 
 La resolución de estos valores de atributo con una persona se realizaría en tiempo real y se almacenaría en el perfil de persona correspondiente.
+
+### Tiempo de carga de flujo de conversación optimizado {#optimized-conversation-flow-load-time}
+
+Para mejorar la experiencia del usuario, ahora se muestra un cargador de reflejos en lugar de un espacio en blanco mientras se carga el flujo de conversación.
+
+**Antes de**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**Después**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Versión de agosto de 2024 {#august-release}
 
