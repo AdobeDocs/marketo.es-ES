@@ -4,7 +4,7 @@ description: 'Ejecución de un solo paso de flujo desde una lista inteligente: d
 title: Ejecutar un solo paso de flujo desde una lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Si desea ejecutar un paso de flujo de solo una vez, puede utilizar un solo paso 
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
 1. Seleccione una lista o lista inteligente con personas y, a continuación, vaya a la ficha **[!UICONTROL Personas]**.
 
-   ![](assets/smartlistpeopletab-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-2.png)
 
    >[!TIP]
    >
@@ -33,7 +33,7 @@ Si desea ejecutar un paso de flujo de solo una vez, puede utilizar un solo paso 
 
 1. Haga clic en **[!UICONTROL Seleccionar todo]**. También puede usar **Ctrl/Cmd** y hacer clic para seleccionar algunos registros manualmente.
 
-   ![](assets/smartlist-selectallhand.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 
    >[!NOTE]
    >
@@ -41,22 +41,22 @@ Si desea ejecutar un paso de flujo de solo una vez, puede utilizar un solo paso 
 
 1. En **[!UICONTROL Acciones de persona]**, seleccione el paso de flujo que desee. En este ejemplo utilizaremos [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
-   ![](assets/personactions-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
 1. Busque y seleccione un **[!UICONTROL atributo]**. En este ejemplo, tomaremos todas las personas que tengan el estado &quot;California&quot; y lo cambiaremos a &quot;CA&quot;.
 
-   ![](assets/runaction-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-5.png)
 
 1. Introduzca un nuevo valor. Haga clic en **[!UICONTROL Ejecutar ahora]**.
 
-   ![](assets/runactionnewvalue-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
 1. Si va a cambiar los valores de los datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga Clic En **[!UICONTROL Ir A Por Él]**.
 
-   ![](assets/changedatavalue.jpg)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
 ¡Increíble trabajo! Verá el estado del paso de un solo flujo en la esquina superior derecha.
 
-![](assets/completesingleflowaction.jpg)
+![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
 Cuando haya terminado, actualice la lista y verá la información actualizada.

@@ -4,7 +4,7 @@ description: 'Actualizar una lista o lista inteligente: documentos de Marketo, d
 title: Actualizar una lista o lista inteligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Si ha ejecutado una lista inteligente y han transcurrido unos minutos, los resul
 
 1. Para actualizar datos en la ficha **[!UICONTROL Personas]** de una lista inteligente, haga clic en el icono de actualización.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. La Smart List se vuelve a ejecutar y muestra un conjunto de resultados más actualizado.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
