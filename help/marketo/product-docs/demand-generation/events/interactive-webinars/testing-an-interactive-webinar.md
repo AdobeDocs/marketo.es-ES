@@ -4,9 +4,10 @@ title: Prueba de un seminario web interactivo
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
+source-git-commit: fe58e0e0bf38ba4389398cd4f0dc3695cbc65407
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 # Prueba de un seminario web interactivo {#testing-an-interactive-webinar}
 
 Los seminarios web interactivos implican el uso de Adobe Connect como herramienta de proveedor de seminarios web. Se recomienda crear un seminario web de prueba antes de alojar el primer seminario en directo.
+
+## Flujo de trabajo {#workflow}
 
 Cualquier seminario web interactivo puede utilizarse como seminario web de prueba. La prueba se puede realizar agregando no más de 10 presentadores (participantes).
 
@@ -23,12 +26,10 @@ El flujo de trabajo para crear un seminario web de prueba sigue siendo el mismo 
 >
 >Si establece la fecha y la hora del seminario web de prueba demasiado cerca en el futuro y esa fecha y hora transcurren, Interactive Webinars considera que el seminario web se ha entregado y deduciría un crédito de su licencia.
 
-DETENIENDO AQUÍ
+Se bloqueará un crédito para el seminario web de prueba, pero se puede utilizar reprogramando el programa para utilizarlo con un seminario web real o simplemente eliminando el programa de seminario web de prueba.
 
-Para evitarlo, cree un seminario web interactivo en un futuro lejano y solo tenga 1 crédito bloqueado. Este crédito se puede utilizar reprogramando el programa para utilizarlo en un seminario web real moviéndolo a la fecha deseada o simplemente eliminando el programa del seminario web.
+Después de crear y diseñar el seminario web, el anfitrión, el coanfitrión o los presentadores pueden unirse para ensayar el envío. Los invitados externos también se pueden añadir como co-anfitriones para poder participar en las pruebas. Las pruebas se pueden realizar del mismo modo que se imparte el seminario web, por lo que los evaluadores tienen una idea de cómo irá el seminario web delante de una audiencia real. Todas las funcionalidades del seminario web en directo también estarían disponibles en el seminario web de prueba. Esto se puede realizar hasta 15 minutos antes de la hora de inicio del seminario web.
 
-Después de crear y diseñar el seminario web, el anfitrión, el coanfitrión o los presentadores pueden unirse al seminario web para ensayar el envío. También se puede añadir invitados externos como co-anfitriones al seminario web para poder participar en las pruebas. Las pruebas se pueden realizar del mismo modo que se imparte el seminario web, de modo que los evaluadores conozcan cómo se impartirá el seminario web ante la audiencia real. Todas las funcionalidades del seminario web en directo también estarían disponibles en el seminario web de prueba. Esto se puede realizar hasta 15 minutos antes del seminario web. Se recomienda que el host vuelva a programar o elimine el seminario web para no perder el crédito de seminario web interactivo de la licencia.
+## Funciones no disponibles al realizar pruebas {#features-not-available-when-testing}
 
-Como este es un seminario web de prueba, hay pocos elementos disponibles después del seminario web en directo que no estén disponibles para pruebas. Esto incluye grabar el seminario web y obtener las perspectivas de participación para el seminario web en forma de panel de participación o el panel agregado en la pestaña Panel. El seguimiento de seminarios web a petición para seminarios web interactivos, que está disponible para seminarios web grabados, tampoco estará disponible. Dado que no se rastrean datos de participación durante el seminario web de prueba, no se recibirán datos de Adobe Connect a Marketo y no se podrá llevar a cabo ninguna tarea de nutrición después del seminario web.
-
-La intención detrás de hacer que el proceso de tener el seminario web de prueba esté disponible es que los especialistas en marketing puedan probar el flujo de trabajo desde la creación hasta la entrega y luego utilizar uno de los créditos para ofrecer un seminario web en directo para explorar las funciones adicionales que se han enumerado anteriormente.
+Dado que este es un seminario web de prueba, hay algunas cosas que no están disponibles y que normalmente estarían después de un seminario web en directo. Esto incluye: grabar el seminario web, obtener las perspectivas de participación para el seminario web en forma de panel de participación o el panel agregado en la pestaña Panel. El seguimiento de seminarios web a petición para seminarios web interactivos, que está disponible para seminarios web grabados, tampoco estará disponible. Dado que no se rastrean datos de participación durante el seminario web de prueba, no se recibirán datos de Adobe Connect a Marketo Engage, por lo que no se puede llevar a cabo ninguna labor de cuidado posterior al seminario web.
