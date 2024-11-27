@@ -4,7 +4,7 @@ description: Uso de la lógica de regla de listas inteligentes avanzada - Docume
 title: Uso de la lógica de regla de listas inteligentes avanzadas
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ En este ejemplo, supongamos que desea buscar personas en California _y_ con una 
 
 1. Seleccione **[!UICONTROL Usar filtros avanzados]** en la lista desplegable.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ En este ejemplo, supongamos que desea buscar personas en California _y_ con una 
 
 1. El cuadro de texto **[!UICONTROL Filtros avanzados]** mostrará &quot;y&quot; como el valor predeterminado entre todos los filtros.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Escriba un par de paréntesis alrededor de &quot;2 y 3&quot;.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ En este ejemplo, supongamos que desea buscar personas en California _y_ con una 
 
 1. Cambie &quot;and&quot; entre &quot;2 y 3&quot; y &quot;or&quot;.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Utilice Paréntesis Al Combinar &quot;And&quot; Y &quot;Or {#use-parentheses-when-mixing-and-and-or}
 
 La combinación de las lógicas &quot;and&quot; y &quot;or&quot; requiere paréntesis para dejar clara su intención.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Utilice paréntesis anidados para cuatro o más filtros si es necesario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Según su intención, es posible que tenga que agregar paréntesis anidados al utilizar cuatro o más filtros.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
