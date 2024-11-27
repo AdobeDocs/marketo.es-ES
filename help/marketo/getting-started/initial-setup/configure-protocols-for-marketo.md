@@ -4,9 +4,9 @@ description: 'Configuración de protocolos para Marketo Engage: documentos de Ma
 title: Configuración de protocolos para el Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico e
 
 ## Paso 3: Configuración de SPF y DKIM {#step-set-up-spf-and-dkim}
 
-Su equipo de marketing también debería haberle enviado información de DKIM (Domain Keys Identified Mail) para que se añada a su registro de recursos DNS (también mostrado a continuación). Siga los pasos para configurar correctamente DKIM y SPF (Marco de políticas del remitente) y, a continuación, notifique a su equipo de marketing que se ha actualizado.
+Su equipo de marketing también debería haberle enviado información de DKIM (Domain Keys Identified Mail) para que se añada a su registro de recursos DNS (también mostrado a continuación). Siga los pasos para configurar correctamente DKIM y SPF (Entorno de políticas de remitentes) y, a continuación, notifique a su equipo de marketing que se ha actualizado.
 
 1. Para configurar SPF, agregue la línea siguiente a las entradas DNS:
 
@@ -106,7 +106,7 @@ Su equipo de marketing también debería haberle enviado información de DKIM (D
 
    `[DKIMDomain2]`: el registro de host es `[HostRecord2]` y el valor TXT es `[TXTValue2]`.
 
-   Copie HostRecord y TXTValue para cada DKIMDomain configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. No olvide verificar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
+   Copie HostRecord y TXTValue para cada DKIMDomain configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. No olvide comprobar cada dominio en Administración > Correo electrónico > DKIM después de que el personal de TI haya completado este paso.
 
 ## Paso 4: Configuración de DMARC {#set-up-dmarc}
 
@@ -115,11 +115,11 @@ DMARC (Autenticación de mensajes, creación de informes y conformidad basados e
 Para que DMARC funcione, debe tener al menos uno de los siguientes registros TXT DNS:
 
 * Un SPF válido
-* Un registro DKIM válido para su dominio FROM: (recomendado para el Marketo Engage)
+* Un registro de DKIM válido para su FROM: Domain (recomendado para Marketo Engage)
 
 Además, debe tener un registro TXT DNS específico de DMARC para su FROM: Domain. De forma opcional, se puede definir una dirección de correo electrónico de su elección para indicar a dónde deben ir los informes de DMARC dentro de su organización, de modo que pueda monitorizar los informes.
 
-Como práctica recomendada, se recomienda implementar lentamente la implementación de DMARC escalando la política de DMARC de p=none, p=quarantine, p=reject a medida que comprenda el impacto potencial de DMARC y establezca la política de DMARC para una alineación relajada en SPF y DKIM.
+Como práctica recomendada, se recomienda implementar lentamente la implementación de DMARC escalando la directiva de DMARC de p=none, a p=quarantine, a p=reject para comprender el impacto potencial de DMARC y establecer la directiva de DMARC en una alineación relajada en SPF y DKIM.
 
 ### Flujo de trabajo de ejemplo de DMARC {#dmarc-example-workflow}
 
@@ -145,7 +145,7 @@ Como práctica recomendada, se recomienda implementar lentamente la implementaci
 
 ### Informes de DMARC {#dmarc-reporting}
 
-DMARC ofrece la capacidad de recibir informes sobre correos electrónicos que fallan en SPF/DKIM. Los proveedores de servicios de Internet generan dos informes diferentes como parte del proceso de autenticación que los remitentes pueden recibir a través de las etiquetas RUA/RUF en su directiva de DMARC.
+DMARC ofrece la capacidad de recibir informes sobre los correos electrónicos que fallan en SPF/DKIM. Los proveedores de servicios de Internet generan dos informes diferentes como parte del proceso de autenticación que los remitentes pueden recibir a través de las etiquetas RUA/RUF en su directiva de DMARC.
 
 * Informes agregados (RUA): no contiene ninguna PII (información de identificación personal) que sea sensible al RGPD (Reglamento general de protección de datos).
 
@@ -229,7 +229,7 @@ Los registros de DMARC tienen varios componentes denominados etiquetas de DMARC.
   <tr>
     <td>adkim</td>
     <td>Opcional</td>
-    <td>Puede ser Estricto (s) o ® relajado. La alineación relajada significa que el dominio utilizado en la firma DKIM puede ser un subdominio de la dirección "Desde". Alineación estricta significa que el dominio utilizado en la firma DKIM debe coincidir exactamente con el dominio utilizado en la dirección De.</td>
+    <td>Puede ser Estricto (s) o ® relajado. La alineación relajada significa que el dominio utilizado en la firma de DKIM puede ser un subdominio de la dirección "De". Alineación estricta significa que el dominio utilizado en la firma de DKIM debe coincidir exactamente con el dominio utilizado en la dirección De.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -253,7 +253,7 @@ Existen dos tipos de alineación para DMARC: alineación DKIM y alineación SPF.
 >
 >Se recomienda realizar la alineación de DMARC en DKIM frente a SPF para Marketo Engage.
 
-* DMARC alineado con DKIM: para configurar DMARC alineado con DKIM debe:
+* DMARC alineado con DKIM: para configurar DMARC alineado con DKIM, debe:
 
    * Configure DKIM para el dominio FROM: del mensaje. Use las instrucciones [de este artículo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configure DMARC para el dominio FROM:/DKIM configurado anteriormente
@@ -369,13 +369,20 @@ Las siguientes tablas abarcan todos los servidores de Marketo Engage que realiza
    <tr>
    <td>54 237 141 197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
