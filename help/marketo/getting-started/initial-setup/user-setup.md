@@ -4,9 +4,9 @@ short-description: Después de completar los pasos de configuración iniciales, 
 title: Lista de comprobación de configuración de usuario
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 7%
 
 ---
@@ -48,6 +48,7 @@ Las nuevas suscripciones de Marketo Engage se han incorporado a [Adobe Identity 
   <tr>
     <td>Usuarios</td>
     <td><li>Crear una directiva sobre cuándo <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">crear un usuario</a>.</li> <li>Cree una directiva sobre cuándo quitar usuarios.</li>
+    <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Debe ser administrador del sistema para eliminar usuarios.
     <li>Determine quién debe tener <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">permisos de administrador de sistemas de Adobe y administrador de productos de Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Agregar usuarios</a> al perfil de producto deseado.</li>
     <li>Cree un usuario de API para cada caso de uso de API.</li></td>
   </tr>
