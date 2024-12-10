@@ -4,10 +4,10 @@ description: Sintaxis de plantillas de correo electrónico - Documentos de Marke
 title: Sintaxis de plantilla de correo electrónico
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,7 +32,7 @@ Los elementos son áreas de contenido que se definen como editables en la planti
 * Texto enriquecido
 * Imágenes
 * Fragmentos
-* Videos
+* Vídeos
 
 ## Texto enriquecido {#rich-text}
 
@@ -55,9 +55,9 @@ Valor predeterminado
 
 El contenido del elemento HTML (si se proporciona) con class=&quot;mktEditable&quot; se utilizará como valor predeterminado para el elemento de texto enriquecido.
 
-Ejemplo:
+Por ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Opción 2: mktoText {#option-mktotext}
 
@@ -73,9 +73,9 @@ Valor predeterminado
 
 El contenido del elemento HTML (si se proporciona) con class=&quot;mktoText&quot; se utilizará como valor predeterminado para el elemento de texto enriquecido.
 
-Ejemplo:
+Por ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Imágenes {#images}
 
@@ -104,9 +104,9 @@ Valor predeterminado (opcional)
 
 **`<img>`**: para usar como el elemento `<img>` en el que se colocará la imagen. Resulta útil si desea agregar estilos en línea a la imagen. Recuerde incluir las etiquetas `<a> </a>` que lo rodean, de modo que si el usuario agrega un vínculo, no se eliminará su estilo.
 
-Ejemplo:
+Por ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opción 2: usar un \&lt;img\> {#option-use-an-img}
 
@@ -124,7 +124,7 @@ Atributos requeridos
 * **mktoLockImgStyle:** se utilizó para bloquear la propiedad de estilo del elemento `<img>` (el valor predeterminado es false).
 
 Ejemplo:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Fragmentos {#snippets}
 
@@ -139,9 +139,9 @@ Valor predeterminado (opcional)
 
 **mktoDefaultSnippetId**: El identificador numérico del fragmento de Marketo que debería aparecer de forma predeterminada (solo funcionará si existe un fragmento con ese identificador y está aprobado en ese espacio de trabajo).
 
-Ejemplo:
+Por ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Vídeo {#video}
 
@@ -156,9 +156,9 @@ Atributos opcionales
 
 * **mktoImgClass:** String. El valor aquí se agregará al atributo class de la miniatura de vídeo `<img>` dentro del div.
 
-Ejemplo:
+Por ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variables {#variables}
 
@@ -181,11 +181,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## Lista {#list}
 
@@ -204,11 +204,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Número {#number}
 
@@ -224,17 +224,17 @@ Atributos opcionales
 
 * **min:** Valor mínimo aceptado.
 * **máximo:** valor máximo aceptado.
-* **unidades:** unidades que se agregarán al valor numérico (por ejemplo: px, pt, em, etc.) cuando se muestra en el Editor de correo electrónico, así como en el código resultante.
+* **unidades:** unidades que se agregarán al valor numérico (p. ej.: px, pt, em, etc.) cuando se muestren en el Editor de correo electrónico, así como en el código resultante.
 * **paso:** Cuántas unidades debe aumentar/disminuir la variable numérica en (0,1, 1, 10, etc.). Si se omite, el valor predeterminado es 1.
 * **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Color {#color}
 
@@ -252,11 +252,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Booleano {#boolean}
 
@@ -278,11 +278,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## Bloque de HTML {#html-block}
 
@@ -300,11 +300,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Variable de imagen {#image-variable}
 
@@ -322,11 +322,11 @@ Atributos opcionales
 
 Declaración de ejemplo:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Ejemplo de uso:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Módulos {#modules}
 

@@ -4,7 +4,7 @@ description: Editar el mensaje "Ver como página web" - Documentos de Marketo - 
 title: Editar el mensaje "Ver como página web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -56,11 +56,11 @@ Si alguna vez necesita volver al sistema predeterminado &quot;[!UICONTROL Ver co
 
 **[!UICONTROL Ver como HTML de página web]**:
 
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
+`<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
 **[!UICONTROL Ver como texto de página web]**:
 
 Para ver este correo electrónico como una página web, vaya a la siguiente dirección:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
 
 ¡Eso es todo!

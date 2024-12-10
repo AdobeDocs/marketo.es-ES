@@ -4,7 +4,7 @@ description: 'Reenviar a un amigo en correos electrónicos: documentos de Market
 title: Reenviar a un amigo Vínculo en correos electrónicos
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Reenviar a un amigo Vínculo en correos electrónicos {#forward-to-a-friend-link-in-emails}
 
-Añadir el enlace &quot;Reenviar a un amigo&quot; a sus correos electrónicos le permite rastrear a las personas que han recibido un correo electrónico reenviado a través de este enlace y añadirlas automáticamente como una persona nueva si no están ya en la base de datos.
+Añadir el vínculo &quot;Reenviar a un amigo&quot; a sus correos electrónicos le permite rastrear a las personas que han recibido un correo electrónico reenviado a través de este vínculo y añadirlas automáticamente como una persona nueva si aún no están en la base de datos.
 
-Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ para reenviar el correo electrónico a una persona desconocida, Mark. Mark se añade automáticamente como una persona nueva, se le asigna su propia cookie y cualquiera de sus actividades de correo electrónico y web se vincula a él. Sin embargo, si Keith utiliza el botón de reenvío en su cliente de correo electrónico, Mark recibe una cookie incorrecta como Keith y su actividad se registra como de Keith.
+Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Reenviar a un amigo&quot; para reenviar el correo electrónico a una persona desconocida, Mark. Mark se añade automáticamente como una persona nueva, se le asigna su propia cookie y cualquiera de sus actividades de correo electrónico y web se vincula a él. Sin embargo, si Keith utiliza el botón de reenvío en su cliente de correo electrónico, Mark recibe una cookie incorrecta como Keith y su actividad se registra como de Keith.
 
 ## Añadir el vínculo a una plantilla de correo electrónico {#add-the-link-to-an-email-template}
 
@@ -29,7 +29,7 @@ Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ 
 
 1. Pegue el siguiente código de HTML donde desee que aparezca el vínculo &#39;Reenviar a amigo&#39; (si necesita ayuda con esta parte, póngase en contacto con el desarrollador web):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -42,7 +42,7 @@ Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ 
 
    >[!CAUTION]
    >
-   >No se recomienda usar el estilo **position:relative** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización de la casilla ‘Forward to Friend’.
+   >No se recomienda usar el estilo **position:relative** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización del cuadro &quot;Reenviar a amigo&quot;.
 
 1. Haga clic en **Vista previa del borrador** para asegurarse de que la plantilla tiene el aspecto que desea.
 
@@ -52,7 +52,7 @@ Por ejemplo, supongamos que Keith utiliza el vínculo ‘Reenviar a un amigo’ 
    >
    >Recuerde aprobar el borrador de la plantilla para aplicar los cambios.
 
-   Ahora, todos los correos electrónicos que utilicen esa plantilla tendrán el vínculo &#39;Reenviar a amigo&#39;. Cuando el destinatario del correo electrónico hace clic en él, se le redirige a una versión web del correo electrónico con la casilla ‘Forward to a Friend’:
+   Ahora, todos los correos electrónicos que utilicen esa plantilla tendrán el vínculo &#39;Reenviar a amigo&#39;. Cuando el destinatario del correo electrónico hace clic en él, se le redirige a una versión web del correo electrónico con el cuadro &quot;Reenviar a un amigo&quot;:
 
    ![](assets/f2afbox.png)
 
@@ -94,7 +94,7 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
    >[!NOTE]
    >
-   >Las nuevas personas que se añaden al recibir un correo electrónico de &quot;Reenviar a un amigo&quot; se cancelan de forma predeterminada de la suscripción a los correos electrónicos de marketing.
+   >Las nuevas personas que se añaden al recibir un correo electrónico &quot;Reenviar a un amigo&quot; cancelan la suscripción a los correos electrónicos de marketing de forma predeterminada.
 
 ## Ver actividad de reenvío {#view-forwarding-activity}
 
@@ -122,9 +122,9 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    ![](assets/sixteen.png)
 
-1. Para ver una persona por identificador, copie y pegue el **identificador de persona** al final de la dirección URL (el principio de dicha dirección URL dependerá de la instancia de Marketo):
+1. Para ver una persona por identificador, copie y pegue el **ID de persona** al final de la dirección URL (el principio de la dirección URL dependerá de la instancia de Marketo):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -139,7 +139,7 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
 ## Déclencheur o filtro con actividad de reenvío {#trigger-or-filter-using-forwarding-activity}
 
-Existen seis déclencheur que puede utilizar para almacenar en déclencheur las acciones de flujo o filtrar a las personas mediante la actividad ‘Reenviar a amigo’ enviada y recibida.
+Hay seis déclencheur que puede utilizar para almacenar en déclencheur las acciones de flujo o filtrar a las personas por la actividad &quot;Reenviar a amigo&quot; enviada y recibida.
 
 En la lista inteligente de una campaña inteligente, si busca &quot;hacia adelante&quot;, encontrará los déclencheur y filtros disponibles.
 
@@ -147,4 +147,4 @@ En la lista inteligente de una campaña inteligente, si busca &quot;hacia adelan
 
 ## Probar reenvío a amigo {#test-forward-to-friend}
 
-Para probar ‘Reenviar a un amigo’, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través del paso de flujo **Enviar correo electrónico**, *no* a través de **Enviar correo electrónico de prueba**.
+Para probar &quot;Reenviar a un amigo&quot;, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través del paso de flujo **Enviar correo electrónico**, *no* a través de **Enviar correo electrónico de prueba**.

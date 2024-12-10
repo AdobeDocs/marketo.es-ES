@@ -4,9 +4,9 @@ description: 'Aprobación de varias páginas de aterrizaje a la vez: documentos 
 title: Aprobar varias páginas de aterrizaje a la vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. Vaya a **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Haga clic en **Páginas de aterrizaje**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Mantenga presionada la tecla Ctrl (Windows) o Comando (Mac) y haga clic para seleccionar varias páginas de aterrizaje.
+1. Seleccione las páginas de aterrizaje que desee.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
    >No haga clic en el nombre real de la página de aterrizaje, ya que son vínculos y le llevarán a la propia página.
 
-1. Con las páginas de aterrizaje seleccionadas, ve a **Acciones de página de aterrizaje** y haz clic en **Aprobar**.
+1. Con las páginas de aterrizaje seleccionadas, haga clic en el menú desplegable **Acciones de página de aterrizaje** y seleccione **Aprobar**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   ¡Ahí tienes! Ahora puede aprobar varias páginas de aterrizaje de forma rápida y sencilla.
+1. Haga clic en **Aprobar**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

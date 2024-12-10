@@ -3,7 +3,7 @@ description: Glosario de iconos clásicos - Documentos de Marketo - Documentaci�
 title: Glosario de iconos clásicos
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -331,7 +331,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a39-3a56.png"> 
     </td> 
-   <td>Formulario</td> 
+   <td>Form</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a40-3a19.png"> 
@@ -381,7 +381,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </td> 
-   <td>Código para insertar</td> 
+   <td>Código incrustado</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a40.png"> 
@@ -668,7 +668,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </td> 
-   <td>Informe</td> 
+   <td>Información general de la tienda de aplicaciones</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png"> 
@@ -885,3 +885,4 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   </tr> 
  </tbody> 
 </table>
+ 
