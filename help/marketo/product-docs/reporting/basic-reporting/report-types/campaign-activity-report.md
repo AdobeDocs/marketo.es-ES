@@ -4,48 +4,91 @@ description: Informe de actividad de campaña - Documentos de Marketo - Document
 title: Informe Actividad de la campaña
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 11%
 
 ---
 
 # Informe Actividad de la campaña {#campaign-activity-report}
 
-Mira el rendimiento de tus [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Mira el rendimiento de tus [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **Actividad de campaña** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **Actividad de campaña** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
-1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} y haga clic en la ficha **Informe**.
 
 1. ¡Excelente! Explore el informe para identificar las campañas más efectivas, agrupadas por tipo de campaña.
 
-   ![](assets/campaign-activity-report-1.png)
+>[!NOTE]
+>
+>Todas las [campañas ejecutables](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} aparecen como &quot;campañas activadas inactivas&quot; en los informes de actividad de campaña.
 
-   >[!TIP]
-   >
-   >Para encontrar las campañas que procesaron a la mayor cantidad de personas, por ejemplo, [ordena tu informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) por _Total de personas procesadas_ y elige **Orden descendente**.
+![](assets/campaign-activity-report-1.png)
 
-   Haga clic en el nombre de una campaña inteligente para abrirla.  [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de Actividad de campaña incluyen:
+>[!TIP]
+>
+>Para encontrar las campañas que procesaron a la mayor cantidad de personas, por ejemplo, [ordena tu informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} por _Total de personas procesadas_ y elige **Orden descendente**.
 
-   | Columna | Descripción |
-   |---|---|
-   | Conteo de ejecución por lotes | Número de veces que se ejecutó la campaña. |
-   | Total de personas procesadas | Número de personas que han pasado por el flujo de la campaña. |
-   | Personas en el paso de espera | Si una campaña todavía se está ejecutando, el número de personas que permanecen en el paso *Espera*. |
-   | Se ha quitado del flujo | Número de personas que se han eliminado de la campaña. |
-   | Última actividad | La última vez que la campaña procesó a una persona. |
+**[Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de actividad de campaña incluyen**:
 
-   Tipos de campaña en el informe:
+<table><thead>
+  <tr>
+    <th>Columna</th>
+    <th>Descripción</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Conteo de ejecución por lotes</td>
+    <td>Número de veces que se ejecutó la campaña.</td>
+  </tr>
+  <tr>
+    <td>Total de personas procesadas</td>
+    <td>Número de personas que han pasado por el flujo de la campaña.</td>
+  </tr>
+  <tr>
+    <td>Personas en el paso de espera</td>
+    <td>Si una campaña aún se está ejecutando, el número de personas que permanecen en el paso Espera.</td>
+  </tr>
+  <tr>
+    <td>Se ha quitado del flujo</td>
+    <td>Número de personas que se han eliminado de la campaña.</td>
+  </tr>
+  <tr>
+    <td>Última actividad</td>
+    <td>La última vez que la campaña procesó a una persona.</td>
+  </tr>
+</tbody>
+</table>
 
-   | Tipo | Descripción |
-   |---|---|
-   | Lote | Campañas por lotes en la ficha **Actividades de marketing**. |
-   | Ejecutar acción | Las acciones de persona se ejecutan desde **Base de datos**. |
-   | Desencadenador (activo) | Campañas activadas actualmente en la ficha **Actividades de marketing**. |
-   | Desencadenador (inactivo) | Campañas activadas inactivas en la ficha **Actividades de marketing**. |
+**Tipos de campaña en el informe**:
+
+<table><thead>
+  <tr>
+    <th>Tipo</th>
+    <th>Descripción</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Lote</td>
+    <td>Campañas por lotes en la pestaña Actividades de marketing.</td>
+  </tr>
+  <tr>
+    <td>Ejecutar acción</td>
+    <td>Las acciones de persona se ejecutan desde la base de datos.</td>
+  </tr>
+  <tr>
+    <td>Desencadenador (activo)</td>
+    <td>Campañas activadas actualmente en la pestaña Actividades de marketing.</td>
+  </tr>
+  <tr>
+    <td>Desencadenador (inactivo)</td>
+    <td>Campañas activadas inactivas en la pestaña Actividades de marketing.</td>
+  </tr>
+</tbody>
+</table>
 
 >[!MORELIKETHIS]
 >
->[Filtrar un informe de actividad de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
+>[Filtrar un informe de actividad de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}
