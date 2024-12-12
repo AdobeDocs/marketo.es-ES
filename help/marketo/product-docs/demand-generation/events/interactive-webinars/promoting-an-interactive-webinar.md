@@ -3,7 +3,7 @@ description: 'Promoción de un seminario web interactivo: documentos de Marketo,
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ La promoción de un seminario web interactivo es similar a la de un seminario we
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Una vez añadidos o importados los miembros, puede crear una campaña de correo electrónico dentro del programa de evento de seminario web interactivo para enviar una invitación a todos los miembros del programa y cambiar su estado a &quot;invitado&quot; una vez enviado el correo electrónico.
+Una vez añadidos o importados los miembros, puede crear una campaña de correo electrónico dentro del programa de evento del seminario web interactivo para enviar una invitación a todos los miembros del programa y cambiar su estado a &quot;invitado&quot; una vez enviado el correo electrónico.
 
 >[!NOTE]
 >
