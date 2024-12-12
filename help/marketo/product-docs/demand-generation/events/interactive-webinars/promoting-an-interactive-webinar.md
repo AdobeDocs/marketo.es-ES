@@ -3,9 +3,9 @@ description: 'Promoción de un seminario web interactivo: documentos de Marketo,
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Una vez que un miembro ha estado en el estado de programa &quot;registrado&quot;
 
 A los pocos minutos de registrarse, la dirección URL del seminario web del miembro se rellenará en la pestaña Miembros. Si no puede localizar la columna de la URL del seminario web, asegúrese de que esa columna se haya agregado a la vista. Se trata de una dirección URL personalizada para que cada miembro registrado pueda entrar en el seminario web a la hora programada sin requerir ninguna autenticación. Los tokens intercambiados internamente se encargan de la autenticación de los miembros.
 
-Puede utilizar tokens para incluir la URL del seminario web a los miembros individuales de una campaña de correo electrónico para comunicar que se han registrado en el evento y para utilizar la URL de unión para entrar en el seminario web a la hora programada. Los tokens de calendario se pueden usar en la misma campaña de correo electrónico para garantizar que la programación del seminario web se pueda agregar a los calendarios de los miembros.
+Puede usar el `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} para incluir la URL del seminario web a miembros individuales en una campaña de correo electrónico para comunicar que se han registrado en el evento y usar la URL de unión para entrar al seminario web a la hora programada. Los tokens de calendario se pueden usar en la misma campaña de correo electrónico para garantizar que la programación del seminario web se pueda agregar a los calendarios de los miembros.
 
 Los vínculos están disponibles en la parte derecha de la pestaña Información general del programa de evento para crear una página de destino y una campaña de correo electrónico. El resto de las promociones relacionadas con un evento siguen siendo las mismas que los seminarios web de los socios que utilizan la integración de LaunchPoint.
 
