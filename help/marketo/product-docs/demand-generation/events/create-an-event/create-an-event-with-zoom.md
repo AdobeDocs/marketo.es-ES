@@ -4,9 +4,9 @@ description: 'Creación de un evento con Zoom: Documentos de Marketo, documentac
 title: Creación de un evento con zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [Agregar zoom como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Establezca las [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)adecuadas para rastrear la participación
+>* Establezca las [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) apropiadas para rastrear la participación
 
 Primero cree su seminario web en Zoom. Marketo utiliza ciertos ajustes en la creación del Zoom y algunos solo los utiliza Zoom.
 
@@ -103,4 +103,4 @@ Ahora, ¡vamos a saltar a Marketo!
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **Actualizar del proveedor de seminarios web** en el menú Acciones de eventos en la pestaña **Resumen** de tu evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **Actualizar del proveedor de seminarios web** en el menú Acciones de eventos en la pestaña **Resumen** de tu evento y luego haz clic en el icono de actualización en la parte inferior derecha de la pantalla.

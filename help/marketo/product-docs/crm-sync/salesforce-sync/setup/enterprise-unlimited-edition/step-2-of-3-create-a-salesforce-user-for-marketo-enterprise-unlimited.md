@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360364
-description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Enterprise/Unlimited), documentos de Marketo: documentación del producto'
-title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Enterprise/Unlimited)'
+description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresarial/ilimitado): Documentos de Marketo: documentación del producto'
+title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresarial/ilimitado)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 6%
@@ -19,9 +19,9 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[Paso 1 de 3: Agregar campos de Marketo a Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Paso 1 de 3: agregar campos de Marketo a Salesforce (empresarial/ilimitado)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
-En este artículo, configurará los permisos de usuario en el perfil de Salesforce y creará una cuenta de integración de Marketo-Salesforce.
+En este artículo, configurará los permisos de usuario en el perfil de Salesforce y creará una cuenta de integración de Marketo y Salesforce.
 
 ## Crear un perfil {#create-a-profile}
 
@@ -124,37 +124,37 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Objeto</p></th> 
-   <th colspan="1" rowspan="1"><p>Campos</p></th> 
+   <th>Objeto</th> 
+   <th>Campos</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Cuenta</p></td> 
-   <td colspan="1" rowspan="1"><p>Campo Tipo</p></td> 
+   <td>Cuenta</td> 
+   <td>Campo Tipo</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Evento</p></td> 
-   <td colspan="1" rowspan="1"><p>Todos los campos</p></td> 
+   <td>Evento</td> 
+   <td>Todos los campos</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Tarea</p></td> 
-   <td colspan="1" rowspan="1"><p>Todos los campos</p></td> 
+   <td>Tarea</td> 
+   <td>Todos los campos</td> 
   </tr> 
  </tbody> 
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Crear cuenta de sincronización de Marketo-Salesforce {#create-marketo-salesforce-sync-account}
+## Crear cuenta de sincronización de Marketo y Salesforce {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
->Cree una cuenta de Salesforce dedicada (por ejemplo, `marketo@yourcompany.com`) para distinguir los cambios realizados por Marketo frente a otros usuarios de Salesforce.
+>Cree una cuenta de Salesforce específica (por ejemplo, `marketo@yourcompany.com`) para distinguir los cambios realizados por Marketo frente a otros usuarios de Salesforce.
 
 1. Escriba &quot;Administrar usuarios&quot; en la barra de búsqueda de navegación y luego haga clic en **[!UICONTROL Usuarios]**. Haga clic en **[!UICONTROL Nuevo usuario]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Rellene los campos obligatorios. A continuación, seleccione la **[!UICONTROL Licencia de usuario: Salesforce]** y el Perfil que creó anteriormente. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Rellene los campos obligatorios. A continuación, seleccione la **[!UICONTROL licencia de usuario: Salesforce]** y el perfil que creó anteriormente. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
