@@ -4,9 +4,9 @@ description: Tablero de base de datos - Documentos de Marketo - Documentación d
 title: Tablero de base de datos
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ El tablero de base de datos sirve como instantánea para ayudarle a determinar r
 
 >[!NOTE]
 >
->Cada espacio de trabajo tiene su propio panel de base de datos.
+>* El tablero de la base de datos se actualiza automáticamente cada 24 a 32 horas. Puede realizar una actualización manual en cualquier momento haciendo clic en el texto &quot;última actualización&quot; que aparece a la derecha de la pantalla.
+>
+>* Cada espacio de trabajo tiene su propio panel de base de datos.
 
 Para llegar allí, selecciona **[!UICONTROL Base de datos]** de tu My Marketo.
 
