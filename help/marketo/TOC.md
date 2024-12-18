@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9383'
 ht-degree: 3%
 
 ---
@@ -1018,7 +1018,7 @@ ht-degree: 3%
          + [Cancelación de suscripción duradera](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Paquete de funciones de entrega de correo electrónico: Cómo importar una lista de semillas](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Devoluciones graves y leves en correos electrónicos](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
-         + [Configurar una firma DKIM personalizada](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
+         + [Configurar una firma personalizada de DKIM](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [Configuración de SPF y DKIM para la entrega de correo electrónico](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [Direcciones IP compartidas y dedicadas](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Explicación de cancelación de suscripción](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
@@ -1982,6 +1982,7 @@ ht-degree: 3%
          + [Notas de la versión: Abril de 2024](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Notas de la versión: 24 de junio](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [Notas de la versión: julio de 2024](release-notes/previous-releases/2024/release-notes-july-24.md)
+         + [Notas de la versión: 24 de octubre](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
          + [Notas de la versión: Enero de 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notas de la versión: Marzo de 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)

@@ -3,16 +3,16 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 3%
+source-wordcount: '395'
+ht-degree: 6%
 
 ---
 
-# Notas de la versión: octubre de 2024 {#release-notes-oct-24}
+# Notas de la versión: enero de 2025 {#release-notes-jan-25}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de enero de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
 Las notas de la versión específicas del Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Las notas de la versión específicas del Adobe Dynamic Chat [ se encuentran aqu
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **4 de octubre de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **17 de enero de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,9 +32,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Tokenización para seminarios web interactivos</strong>: ahora puede usar tokens para promocionar seminarios web interactivos en correos electrónicos y páginas de destino sin tener que agregar manualmente los detalles del seminario web.</td> 
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promoción de un seminario web interactivo</a></td>
+   <td><strong>Nuevo Designer de correo electrónico</strong>: cree correos electrónicos modernos y eficientes con el nuevo Designer de correo electrónico nativo en Marketo Engage. Acceda a una de las plantillas de correo electrónico predeterminadas prediseñadas o cree las suyas propias fácilmente. Utilice contenido dinámico y acceda a imágenes desde los servicios en la nube de Adobe Experience Manager.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -42,63 +42,30 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Recuento de listas inteligentes configuradas para afectar a</strong>: vea cuántas personas se verán afectadas al editar las reglas de calificación de una campaña inteligente.</td> 
-   <td>Enviado</td>
-   <td>n/a</td>
+  <tr> 
+   <td><strong>Anular el registro de inscritos en un evento de seminarios web interactivos</strong>: Ahora, si no desea inscribir a un inscrito en el seminario web por algún motivo, puede anular el registro. El flujo de trabajo elimina al solicitante de registro tanto del programa de eventos de Marketo como de Adobe Connect.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
+  <tr> 
   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su huso horario y acceder a los detalles de la suscripción.</td> 
-   <td>Enviado</td>
-   <td>n/a</td>
+  <tr> 
+   <td><strong>Deshabilitar campañas en el archivo</strong>: deshabilite las campañas de déclencheur activas y cancele las ejecuciones por lotes programadas de campañas en una carpeta cuando se archive. Dado que hay una comprobación de permisos adicional para archivar carpetas que contienen campañas activas (Activar campaña de Déclencheur y Programar campaña por lotes), esta característica se deshabilita de forma predeterminada con esta versión y se puede habilitar si navega a <b>Administrador</b> &gt; <b>Cofre del tesoro</b> en la suscripción de Marketo Engage.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Mejoras en el informe de rendimiento del correo electrónico</strong>: se han realizado varias mejoras en las métricas de informes de correo electrónico y en el seguimiento de actividades, lo que ofrece perspectivas adicionales y mejora la precisión.
-   <ul>
-   <li>Filtrar personas eliminadas y combinadas de las métricas de rendimiento de correo electrónico</li>
-   <li>Correos electrónicos ahora clasificados como <i>anulados</i> después de esperar tres días para la actividad de respuesta</li>
-   <li>Las aperturas de correo electrónico se cuentan como aperturas únicas por separado para cada campaña inteligente</li>
-   </td> 
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Informe de rendimiento de correo electrónico</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Métricas de trabajo pendiente de sincronización de Salesforce</strong>: supervise el rendimiento de sincronización y las tendencias de trabajo pendiente para planificar y programar actualizaciones de CRM para una experiencia de sincronización óptima.
-   </td> 
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Métricas de registro de sincronización de Salesforce</a></td>
-  </tr>
  </tbody> 
 </table>
 <br/>
 
 ## Anuncios {#announcements}
 
-* **Actualización de API de extracción masiva**: se ha corregido un problema en la API de extracción masiva que incluía la opción columnHeaderNames, que le permite especificar nombres de encabezado de columna personalizados en el archivo exportado. Anteriormente, los nombres de encabezados de columna que contenían caracteres no ASCII podían dañarse.
+* **Obtener actualización de la API de los miembros del programa**: Hemos mejorado la API de [Obtener miembros del programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} para admitir la capacidad de recuperar el identificador de los miembros del programa. Esto se realiza añadiendo ID a la lista de campos especificados en el parámetro fields de la solicitud de API.
 
-* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST mediante el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-
-* **Desaprobación del código QR**: El 4 de octubre de 2024, la función de código QR utilizada en las notificaciones push y los recursos de mensajería en la aplicación dejará de usarse. Esto incluye el uso de códigos QR para un nuevo dispositivo de prueba y la creación de nuevos recursos con códigos QR. Las funciones en desuso con un menor uso nos permiten reasignar sus recursos al mantenimiento general de Marketo Engage.
-
-* **Cambios de Munchkin**
-
-   * **Nueva versión**: El 17 de septiembre de 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 empezará a implementarse en las instancias de Marketo Engage que tengan la configuración &quot;Munchkin Beta&quot; habilitada en **Administración** > **Cofre del tesoro**. Está programado para comenzar el despliegue en todas las demás instancias el 29 de octubre. Esta versión actualiza la creación de cookies de Munchkin. No hay cambios en la funcionalidad.
-
-   * **Se eliminaron caracteres de la URL**: Las actividades &#39;Visitas a la página web&#39; y &#39;Clics en el vínculo&#39; creadas por Munchkin JS ahora eliminarán los caracteres de control sin codificación de URL de todos los campos de URL. Este cambio está diseñado para evitar errores relacionados con la propagación de esos tipos de caracteres a sistemas que no los admiten y que no tienen un uso válido dentro de Marketo Engage.
+* SOAP **Desaprobación de API de**: La compatibilidad con la API de MarketoSOAP finalizará el 31 de octubre de 2025. SOAP Los servicios que usan capacidades de API de deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
