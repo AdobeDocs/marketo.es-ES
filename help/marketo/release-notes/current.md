@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 6%
@@ -41,23 +41,21 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Anular el registro de inscritos en un evento de seminarios web interactivos</strong>: Ahora, si no desea inscribir a un inscrito en el seminario web por algún motivo, puede anular el registro. El flujo de trabajo elimina al solicitante de registro tanto del programa de eventos de Marketo como de Adobe Connect.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Deshabilitar campañas en el archivo</strong>: deshabilite las campañas de déclencheur activas y cancele las ejecuciones por lotes programadas de campañas en una carpeta cuando se archive. Dado que hay una comprobación de permisos adicional para archivar carpetas que contienen campañas activas (Activar campaña de Déclencheur y Programar campaña por lotes), esta característica se deshabilita de forma predeterminada con esta versión y se puede habilitar si navega a <b>Administrador</b> &gt; <b>Cofre del tesoro</b> en la suscripción de Marketo Engage.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
