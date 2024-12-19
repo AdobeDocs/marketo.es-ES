@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360362
-description: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (Enterprise/Unlimited): documentos de Marketo: documentación del producto'
+description: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (Enterprise/Unlimited), documentación de Marketo: documentación del producto'
 title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ilimitado)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 9%
@@ -17,7 +17,7 @@ ht-degree: 9%
 >
 >Debe tener acceso a las API de Salesforce para sincronizar entre Marketo Engage y Salesforce.
 
-Marketo utiliza un conjunto de campos para capturar determinados tipos de información relacionada con el marketing. Si desea ver estos datos en Salesforce, siga las instrucciones a continuación.
+Marketo utiliza un conjunto de campos para capturar determinados tipos de información relacionada con el marketing. Si desea ver estos datos en Salesforce, siga las instrucciones que se indican a continuación.
 
 1. Cree tres campos personalizados en Salesforce en los objetos de contacto y posible cliente: Puntuación, Programa de adquisición y Fecha de adquisición.
 1. Asigne estos campos personalizados entre posibles clientes y contactos para que, al realizar la conversión en Salesforce, los valores se transfieran.
@@ -31,7 +31,7 @@ Agregue tres campos personalizados a los objetos de contacto y posible cliente d
 
 Siga estos pasos para cada uno de los tres campos personalizados para agregarlos. Comience con Puntuación.
 
-1. Inicie sesión en Salesforce y haga clic en **[!UICONTROL Configurar]**.
+1. Inicie sesión en Salesforce y haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -76,7 +76,7 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
  </thead> 
  <tbody> 
   <tr> 
-   <td>Puntaje</td> 
+   <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
    <td>Longitud 10<br>Lugares decimales 0 </td> 
@@ -238,11 +238,11 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
 >[!NOTE]
 >
->Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Salesforce cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Salesforce la próxima vez que se actualice el registro en cualquiera de los sistemas (es decir, cuando se actualice cualquiera de los campos sincronizados entre Marketo y Salesforce).
+>Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Salesforce cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Salesforce la próxima actualización del registro en cualquiera de los sistemas (es decir, una actualización de cualquiera de los campos sincronizados entre Marketo y Salesforce).
 
 ## Asignación de campos personalizados para conversiones {#map-custom-fields-for-conversions}
 
-Un campo personalizado en el objeto de posible cliente en Salesforce debe asignarse a un campo de contacto en el objeto de contacto para que los datos se transfieran cuando se produzca una conversión.
+Un campo personalizado en el objeto de posible cliente de Salesforce debe asignarse a un campo de contacto en el objeto de contacto para que los datos se transfieran cuando se produzca una conversión.
 
 1. En la esquina superior derecha, haga clic en **[!UICONTROL Configuración]**.
 

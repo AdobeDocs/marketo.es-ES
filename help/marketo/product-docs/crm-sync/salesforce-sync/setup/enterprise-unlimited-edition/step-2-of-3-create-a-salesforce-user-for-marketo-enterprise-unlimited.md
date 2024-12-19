@@ -4,7 +4,7 @@ description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (e
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresarial/ilimitado)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 6%
@@ -158,7 +158,7 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-Se ha completado el paso 2 de 2.
+Se ha completado el paso 2 de 3.
 
 >[!NOTE]
 >
