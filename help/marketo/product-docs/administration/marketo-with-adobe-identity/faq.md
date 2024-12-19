@@ -3,9 +3,9 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Sí. Aquellos que se hayan incorporado al IMS de Adobe no pueden utilizar todas 
 
 * Finalización de la migración posterior a la asistencia: los administradores de soporte técnico pueden archivar casos a través del Portal de soporte técnico para Experience League.
 
-Si tiene el éxito final, tiene acceso al servicio de guante blanco de migración de Admin Console. Póngase en contacto con el equipo de la cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
+Si dispone de Ultimate Success, puede acceder al servicio de guante blanco de migración de Admin Console. Póngase en contacto con el equipo de la cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
 
 **Si uso una identidad de Adobe para acceder a otras aplicaciones de Adobe, ¿puedo usarla para acceder a Marketo?**
 
@@ -130,9 +130,13 @@ Cuando las suscripciones se incorporan a la identidad de Adobe, el inicio de ses
 
 Cuando las suscripciones se incorporan a Adobe Identity, el inicio de sesión único (SSO) se configura en el nivel de organización de Adobe. Esto significa que el SSO se aplica a todas las instancias de producto de la organización de Adobe. Cuando se configura el SSO, se aplicará a todas las instancias de Marketo de esa organización de Adobe. Anteriormente, Marketo admitía esta configuración en el nivel de instancia. Esto no es compatible con el sistema Identity Management de Adobe.
 
-**¿Se necesitan cambios en los CNAME, SPF o DKIM que usamos actualmente para el Marketo Engage después de la migración de identidad de Adobe?**
+**¿Se necesitan cambios en los CNAME, SPF o DKIM que usamos actualmente para Marketo Engage después de la migración de identidad de Adobe?**
 
 No, estas configuraciones no se ven afectadas.
+
+**¿Cómo puedo evitar que las sesiones agoten el tiempo de espera?**
+
+En [Configuración avanzada](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), puede personalizar la duración máxima de sesión deseada (se requieren permisos de administración del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración del usuario.
 
 **Ahora tengo que navegar al Experience Cloud para acceder al Marketo Engage. ¿Hay alguna manera de optimizar este flujo?**
 
