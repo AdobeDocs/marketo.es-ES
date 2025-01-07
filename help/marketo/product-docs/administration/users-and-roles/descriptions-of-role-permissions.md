@@ -4,9 +4,9 @@ description: Descripciones de los permisos de funciones - Documentos de Marketo 
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 15%
 
 ---
@@ -44,6 +44,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceso [[!DNL Data.com]](https://data.com): otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso a la administración de correo electrónico: otorga a los usuarios acceso a la administración de correo electrónico para cambiar la configuración predeterminada, como cancelar la suscripción y personalizar la marca de los dominios
 * Acceso a socios de eventos: otorga a los usuarios acceso a LaunchPoint en administración
+* Acceder al uso compartido de audiencias del Experience Cloud: otorga a los usuarios acceso para sincronizar una audiencia de Adobe Experience Cloud a Marketo Engage
 * Acceso a Administración de campos: otorga a los usuarios acceso a Administración de campos en Administración
 * Carga de archivos de Access: permite a los usuarios cargar imágenes y archivos en Design Studio
 * Acceso a páginas de aterrizaje: otorga a los usuarios acceso a las páginas de aterrizaje en la administración
