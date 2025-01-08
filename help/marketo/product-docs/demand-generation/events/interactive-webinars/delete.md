@@ -2,16 +2,17 @@
 description: 'Promoción de un seminario web interactivo: documentos de Marketo, documentación del producto'
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Promoción de un seminario web interactivo {#promoting-an-interactive-webinar}
 
-La promoción de un seminario web interactivo es similar a la de un seminario web de socio a través de LaunchPoint. Al crear un programa de eventos de seminario web interactivo, puede agregar miembros ejecutando una campaña o importando miembros al programa. Para comprobar los miembros que se han agregado al programa de eventos de seminarios web interactivos, haga clic en la ficha **[!UICONTROL Miembros]**.
+La promoción de un seminario web interactivo es similar a la de un seminario web de socio a través de LaunchPoint. Al crear un programa de eventos de seminario web interactivo, puede agregar miembros ejecutando una campaña o importando miembros al programa. Para comprobar los miembros que se han agregado al programa de eventos de seminarios web interactivos, haga clic en la ficha **Miembros**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Utilice tokens para promocionar seminarios web interactivos en correos electrón
 
 **Lista de tokens**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definición</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Número máximo de asistentes que pueden participar en el seminario web interactivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>Duración programada para el seminario web interactivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>La fecha de finalización del seminario web interactivo programado.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>Hora de finalización programada del seminario web interactivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>La URL genérica de grabación que se puede compartir con la audiencia después del seminario web. Esta URL no es para asistir al seminario web en directo y no realiza un seguimiento de la actividad de la audiencia.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>Idioma en el que se va a llevar a cabo el seminario web.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>La fecha de inicio del seminario web interactivo programado.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>Hora de inicio programada del seminario web interactivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>Zona horaria en la que se ha programado el seminario web interactivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>El título del seminario web interactivo que es visible para la audiencia en la Screens de entrada al seminario web.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
