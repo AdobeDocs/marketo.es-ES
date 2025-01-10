@@ -4,7 +4,7 @@ description: 'Configuración de notificaciones push móviles: documentos de Mark
 title: Configuración de notificaciones push móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Existen tres tipos de acciones de toque:
    >
-   >**Iniciar aplicación** - **Esta aplicación** abre la página principal de la aplicación cuando se pulsa la notificación. **Personalizado** usa un vínculo profundo para abrir otras áreas de la aplicación o de cualquier otra aplicación a la que tengas el vínculo (consulta [URI de vínculo profundo](#Deeplink) más abajo para obtener detalles).
+   >**Iniciar aplicación** - **Esta aplicación** abre la página principal de la aplicación cuando se pulsa la notificación. **Personalizado** usa un vínculo profundo para abrir otras áreas de la aplicación o de cualquier otra aplicación a la que tengas el vínculo (consulta [URI de vínculo profundo](#deep-link-uris) más abajo para obtener detalles).
    >
    >**Página de aterrizaje**: le lleva a una página de aterrizaje de Marketo especificada.
    >
    >**Dirección URL externa**: lo lleva a una página de aterrizaje que no es de Marketo.
 
-1. Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el [URI de vínculo profundo](#Deeplink) en el campo.
+1. Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el [URI de vínculo profundo](#deep-link-uris) en el campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
