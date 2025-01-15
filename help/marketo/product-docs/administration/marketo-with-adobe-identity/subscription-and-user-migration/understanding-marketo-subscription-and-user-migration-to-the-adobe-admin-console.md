@@ -3,9 +3,9 @@ description: 'Explicación de la suscripción de Marketo y la migración de usua
 title: Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1511'
 ht-degree: 0%
 
 ---
@@ -86,10 +86,6 @@ Como administrador de productos de Marketo, se le recomienda asegurarse de que t
 
 * Prepare a todos los usuarios para la próxima migración a la identidad de Adobe.
 
->[!NOTE]
->
->A medida que los usuarios migren, recibirán un correo electrónico del Adobe de notificándoles el cambio en la forma en que inician sesión en Marketo. Se invitará a los usuarios a aceptar una invitación para iniciar sesión con ID de Adobe por primera vez, ya sea iniciando sesión con un Adobe ID existente o configurando uno nuevo con la misma dirección de correo electrónico.
-
 >[!IMPORTANT]
 >
 >Si un usuario Marketo Engage no comprueba su dirección de correo electrónico o está bloqueado en el momento de la migración de usuarios, no se migrará a una Adobe ID y perderá el acceso a la suscripción de Marketo una vez completada la migración de la suscripción. Para recuperar el acceso, un administrador de productos de Marketo tendría que agregarlos como un nuevo usuario.
@@ -108,7 +104,7 @@ Todas las suscripciones de Marketo con una zona horaria de EE. UU. se migrarán 
 >
 >No se perderá el acceso al producto durante la migración de usuarios. Si un usuario ha iniciado sesión durante el tiempo en el que se está migrando su usuario, se cerrará la sesión del usuario y se le pedirá que vuelva a iniciarla en cuestión de minutos mediante Identidad de Adobe una vez completada la migración. El usuario debe aceptar la invitación haciendo clic en el vínculo del correo electrónico de asignación de derechos enviado al final de una migración de usuarios correcta.
 
-A medida que los usuarios migren, recibirán un correo electrónico de Adobe notificándoles el cambio en la forma en que inician sesión en Marketo. Los usuarios **deben** aceptar una invitación para iniciar sesión con la identidad de Adobe por primera vez, ya sea iniciando sesión con un Adobe ID existente o configurando un nuevo Adobe ID con la misma dirección de correo electrónico
+A medida que los usuarios migren, recibirán un correo electrónico de Adobe notificándoles el cambio en la forma en que inician sesión en Marketo. Los usuarios **deben** aceptar una invitación para iniciar sesión con la identidad de Adobe por primera vez, ya sea iniciando sesión con un Adobe ID existente o configurando un nuevo Adobe ID con la misma dirección de correo electrónico.
 
 Encontrará más información en [Migración a la identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [Inicio de sesión de usuario con Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} y [Preguntas frecuentes sobre Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
