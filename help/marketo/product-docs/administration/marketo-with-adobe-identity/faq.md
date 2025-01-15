@@ -3,9 +3,9 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe El sistema Identity Management consta de tres componentes.
 
 **¿Cuándo se integrarán las suscripciones de Marketo Engage existentes con IMS?**
 
-Las suscripciones de Marketo Engage existentes se están migrando actualmente al IMS de Adobe en cualquier evento de ventas, que incluye renovaciones, eventos de recontratación o complementos. Las migraciones fuera de un evento de ventas ahora son compatibles desde octubre de 2024.
+Las suscripciones de Marketo Engage existentes se están migrando actualmente al IMS de Adobe en cualquier evento de ventas, que incluye renovaciones, eventos de recontratación o complementos. Las migraciones fuera de un evento de ventas son compatibles a partir de octubre de 2024.
 
 **Después de la migración, ¿seguirán siendo iguales las direcciones URL de los Marketo Engage?**
 
@@ -35,6 +35,10 @@ No. Las direcciones URL tendrán un aspecto diferente tras la migración.
 Sí. Después de la migración, Marketo Engage pasará de ser atendido desde experience.adobe.com a Adobe Experience Cloud. Deberá trabajar con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [ en la parte superior de este artículo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} a fin de evitar interrupciones en el acceso de los Marketo Engage.
 
 Los vínculos y marcadores anteriores a los recursos de Marketo Engage en el dominio engage-xx.marketo.com _seguirán funcionando_. Sin embargo, primero debe iniciar sesión en la instancia de Marketo Engage de la dirección URL a la que está navegando. Por ejemplo, para navegar hasta un marcador de una campaña inteligente en una instancia con Munchkin ID 123-ABC-456, primero debe iniciar sesión en la instancia de Marketo Engage con Munchkin ID 123-ABC-456.
+
+**¿Funciona esto con SSO?**
+
+Sí. La integración con Adobe IMS es compatible con usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. Sin embargo, existen diferencias entre la compatibilidad iniciada con el IdP del Marketo Engage y la compatibilidad iniciada con el SP de Adobe ([más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}). Si necesita ayuda con respecto a las diferencias de SSO después de migrar a Admin Console, póngase en contacto con el Servicio de atención al cliente de [Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador de Marketo Engage?**
 
@@ -56,7 +60,7 @@ Sí. Aquellos que se hayan incorporado al IMS de Adobe no pueden utilizar todas 
 
 * Finalización de la migración posterior a la asistencia: los administradores de soporte técnico pueden archivar casos a través del Portal de soporte técnico para Experience League.
 
-Si dispone de Ultimate Success, puede acceder al servicio de guante blanco de migración de Admin Console. Póngase en contacto con el equipo de la cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
+Si tiene el éxito final, tiene acceso al servicio de guante blanco de migración de Admin Console. Póngase en contacto con el equipo de la cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
 
 **Si uso una identidad de Adobe para acceder a otras aplicaciones de Adobe, ¿puedo usarla para acceder a Marketo?**
 

@@ -4,9 +4,9 @@ description: Agregar el inicio de sesión único a un portal - Documentos de Mar
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!IMPORTANT]
 >
->Esto no se aplica a las suscripciones incorporadas a la identidad de Adobe. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+>Esto no se aplica a las suscripciones incorporadas a la identidad de Adobe. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. Adobe Admin Console solo admite SP-iniciado en este momento. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!NOTE]
 >
->Marketo solo admite el inicio del proveedor de identidad (también conocido como inicio de IdP), en el que el usuario inicia primero la página de inicio de sesión de Idp, se autentica y, a continuación, navega a Mi Marketo.
+>Marketo solo admite el inicio del proveedor de identidad (también conocido como inicio de IdP), en el que el usuario inicia primero la página de inicio de sesión de IdP, se autentica y, a continuación, navega a Mi Marketo. Si la suscripción de Marketo se ha movido a Admin Console, Adobe Admin Console solo admite servicios iniciados por Service Provider (también conocidos como iniciados por SP) en este momento. Es posible que se hayan realizado cambios en su experiencia de SSO.
 
 ## Notas adicionales {#additional-notes}
 
