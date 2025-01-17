@@ -3,9 +3,9 @@ description: Criterios de audiencia - Documentos de Marketo - Documentación del
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -98,7 +98,7 @@ Utilice listas inteligentes de Marketo Engage para la audiencia de destino del c
 
 >[!AVAILABILITY]
 >
->El miembro de la lista inteligente o de los criterios de miembro de la lista requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>El miembro de la lista inteligente o de los criterios de miembro de la lista requiere el Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. En Suscripción, coja **[!UICONTROL Miembro de la lista inteligente]** y suéltelo en el lienzo.
 
@@ -129,7 +129,9 @@ Formatos admitidos:
 
 >[!NOTE]
 >
->El uso de un asterisco actúa como comodín global. Así que `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página de HTML en la carpeta siguiente (por ejemplo: en este caso supongamos que la carpeta es &quot;sports&quot;, por ejemplo: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* El uso de un asterisco actúa como comodín global. Así que `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página de HTML en la carpeta siguiente (por ejemplo: en este caso supongamos que la carpeta es &quot;sports&quot;, por ejemplo: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>
+>* Los parámetros de URL no son compatibles en este momento.
 
 **Exclusiones**
 
