@@ -4,7 +4,7 @@ description: 'Notas de la versión, enero de 2020: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Las siguientes características se lanzarán el **17 de enero de 2020**.
 
 ![(estrella)](assets/yellow-star.png)
 
-* **[Nueva detección de cuentas (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(estrella)](assets/yellow-star.png)**: Use la generación de perfiles de cuenta para descubrir nuevas cuentas de destino para su estrategia ABM en función de su modelo de perfil de cliente ideal con tecnología de IA. Ver, seleccionar e importar nuevas cuentas recomendadas, junto con sus indicadores de datos de ajuste e intención basados en IA, que no existen ya en la base de datos de clientes potenciales y cuentas de Marketo Engage para la segmentación ABM. Disponible inmediatamente para clientes cualificados de generación de perfiles de cuenta.
+* [Nueva detección de cuentas (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(estrella)](assets/yellow-star.png): Use la generación de perfiles de cuenta para descubrir nuevas cuentas de destino para su estrategia ABM en función de su modelo de perfil de cliente ideal con tecnología de IA. Ver, seleccionar e importar nuevas cuentas recomendadas, junto con sus indicadores de datos de ajuste e intención basados en IA, que no existen ya en la base de datos de clientes potenciales y cuentas de Marketo Engage para la segmentación ABM. Disponible inmediatamente para clientes cualificados de generación de perfiles de cuenta.
 
 <br> 
 
@@ -61,11 +61,11 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ## Sales Insight {#sales-insight}
 
-* **Acciones masivas de Salesforce Lightning**: mejora la eficacia de las ventas y permite que los compradores se involucren con la capacidad de agregar hasta 200 contactos/posibles clientes en las campañas y enviarles correos electrónicos de Marketo Engage por lotes con Salesforce Lightning.
-* **Soporte móvil para Salesforce1**: Ahora tiene acceso móvil directo a todas las funciones de Sales Insight, como Momentos interesantes y Actividades web y Correos electrónicos, directamente en la aplicación Salesforce1.
+* **Acciones masivas de Lightning de Salesforce**: mejora la eficacia de las ventas y permite que los compradores se involucren con la capacidad de agregar hasta 200 contactos/posibles clientes en campañas y enviarles correos electrónicos de Marketo Engage por lotes con Lightning de Salesforce.
+* **Soporte móvil para Salesforce1**: Ahora dispone de acceso móvil directo a todas las funciones de Sales Insight, como Momentos interesantes y Actividades web y Correos electrónicos, directamente en la aplicación Salesforce1.
 * **Mejoras en la interfaz de usuario**: Interfaz actualizada con mejoras en la legibilidad y un diseño coherente con nuestra experiencia de Marketo Sky.
 
-## Sales Connect {#sales-connect}
+## Conexión de ventas {#sales-connect}
 
 * **Componentes de cuadrícula**: optimice su instancia de Sales Connect con nuevas funcionalidades de personalización de cuadrícula. Elija qué columnas mostrar, busque columnas, seleccione o anule la selección de todas las columnas y determine cuántas filas de datos desea ver en cada página.
 * **[Bloqueo de contenido](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)**: Maximice la alineación de marca con una configuración de toda la suscripción que controla si los usuarios que no son administradores tienen la capacidad de crear y editar plantillas y campañas.
@@ -74,6 +74,6 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 >
 >* **Desuso de TLS 1.0 y 1.1**: En un esfuerzo continuo por integrarse con la estructura de versiones de Adobe, estamos cambiando el desuso de TLS 1.0 y TLS 1.1 al 13 de enero de 2020. Encontrará información más detallada [aquí](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
->* **Actualización de Munchkin de ITP 2.1+**: Debido a los cambios en la directiva de cookies de Safari, ITP limitará la capacidad de Munchkin para rastrear usuarios en varias sesiones del mismo dominio a 1 o 7 días, según la versión del explorador que use el visitante. Para tener en cuenta esto, estamos implementando un nuevo servicio web para permitir que las cookies de Munchkin se configuren con un encabezado Set-Cookie a través de una respuesta HTTP. Encontrará más información sobre cómo implementar este nuevo servicio [aquí](https://nation.marketo.com/docs/DOC-7351).
+>* **ITP 2.1+ Munchkin Update**: Debido a los cambios en la directiva de cookies de Safari, ITP limitará la capacidad de Munchkin para rastrear usuarios entre sesiones en el mismo dominio a 1 o 7 días según la versión del explorador y el visitante que utilice. Para tener en cuenta esto, estamos implementando un nuevo servicio web para permitir que las cookies de Munchkin se configuren con un encabezado Set-Cookie a través de una respuesta HTTP. Encontrará más información sobre cómo implementar este nuevo servicio [aquí](https://nation.marketo.com/docs/DOC-7351).
 
 **_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00 a.m. PT / 2:00 p.m. ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.

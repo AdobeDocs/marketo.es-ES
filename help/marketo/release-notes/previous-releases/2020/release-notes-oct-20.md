@@ -4,7 +4,7 @@ description: 'Notas de la versión, octubre de 2020: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 ## Marketing por correo electrónico {#email-marketing}
 
-* **Aumento del correo electrónico por lotes ![(estrella)](assets/yellow-star.png)**: envíe más correos electrónicos con un rendimiento aumentado de hasta 5 millones de correos electrónicos por lotes por hora. Las opciones expansivas de envío de correo electrónico eliminan la necesidad de esperar entre lotes de correo electrónico: envíe todos los correos electrónicos a tiempo y según lo programado.
+* **Aumento del correo electrónico por lotes** ![(estrella)](assets/yellow-star.png): envíe más correos electrónicos con un rendimiento aumentado de hasta 5 millones de correos electrónicos por lotes por hora. Las opciones expansivas de envío de correo electrónico eliminan la necesidad de esperar entre lotes de correo electrónico: envíe todos los correos electrónicos a tiempo y según lo programado.
 
 ## Marketing de sitios web {#website-marketing}
 
@@ -43,7 +43,7 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 * **Sincronización de Salesforce CRM**: identifique y corrija los errores y errores de sincronización con dos nuevos paneles de sincronización y errores de Salesforce. Supervisar las nuevas actualizaciones, eliminaciones, errores y finalización de registros del proceso de sincronización. Los informes pueden filtrarse por fecha, tipo de operación o tipo de objeto.
 
-* **Integración con Microsoft Dynamics 365**: Automatice la inscripción de posibles clientes y contactos en campañas de Microsoft Dynamics 365. Agregue o elimine fácilmente contactos y posibles clientes del Marketo Engage en campañas de MS Dynamics con nuevas acciones de flujo de campañas inteligentes. Pase sin problemas los posibles clientes de Marketing a Ventas y cierre las ofertas más rápido.
+* **Integración de Microsoft Dynamics 365**: Automatice la inscripción de posibles clientes y contactos en campañas de Microsoft Dynamics 365. Agregue o elimine fácilmente contactos y posibles clientes del Marketo Engage en campañas de MS Dynamics con nuevas acciones de flujo de campañas inteligentes. Pase sin problemas los posibles clientes de Marketing a Ventas y cierre las ofertas más rápido.
 
 ## Segmentación de medios de pago {#paid-media-targeting}
 
@@ -59,7 +59,7 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 * **Nuevas opciones de exportación de metadatos**: exporte metadatos de objetos personalizados para los objetos personalizados seleccionados en una hoja de cálculo para compartir fácilmente. Además, se pueden exportar todos o algunos de los metadatos de los objetos de suscripción, como cliente potencial, empresa, actividades estándar y personalizadas, etiquetas y canales. Los administradores pueden extraer los datos y compartirlos rápidamente con equipos de ingeniería para fines de análisis y diseño.
 
-* **Campo personalizado de oportunidad**: obtenga más información sobre los registros de oportunidad y los campos personalizados de oportunidad se mostrarán en el Marketo Engage. Vea los datos de los campos personalizados de oportunidad desde Salesforce CRM, Microsoft Dynamics 365 CRM, integraciones nativas de Sales o a través de otras integraciones de API. Tener una visibilidad completa de los detalles de la oportunidad y la canalización le permite organizar la participación en coordinación con Ventas, aumentar las conversiones y ayudar a cerrar acuerdos más rápido.
+* **Campo personalizado de oportunidad**: obtenga más información sobre los registros de oportunidad y los campos personalizados de oportunidad se mostrarán en el Marketo Engage. Vea los datos de los campos personalizados de la oportunidad desde Salesforce CRM, Microsoft Dynamics 365 CRM, integraciones nativas de ventas u otras integraciones de API. Tener una visibilidad completa de los detalles de la oportunidad y la canalización le permite organizar la participación en coordinación con Ventas, aumentar las conversiones y ayudar a cerrar acuerdos más rápido.
 
 ## Lanzamiento durante todo el trimestre {#releasing-throughout-the-quarter}
 

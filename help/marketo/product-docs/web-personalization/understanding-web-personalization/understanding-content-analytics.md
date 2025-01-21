@@ -4,7 +4,7 @@ description: 'Explicación de los análisis de contenido: documentos de Marketo,
 title: Explicación de análisis de contenido
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -48,7 +48,7 @@ La tabla de Analytics proporciona los siguientes detalles:
    <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Haga clic en <strong>Título</strong> para abrir la dirección URL de contenido en una ficha nueva.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Indica si el fragmento de contenido se ha agregado para <a href="#">Recommendations de contenido</a>.</td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ La tabla de Analytics proporciona los siguientes detalles:
    <td colspan="1" rowspan="1">Visitantes web que vieron el contenido y rellenaron un formulario en la misma visita</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Ver más análisis en el artículo de contenido</td> 
   </tr> 
   <tr> 
