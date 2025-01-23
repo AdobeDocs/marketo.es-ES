@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
+source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
 workflow-type: tm+mt
 source-wordcount: '9388'
 ht-degree: 3%
@@ -1486,7 +1486,7 @@ ht-degree: 3%
          + Marketo {#marketo}
             + [Conceder acceso a Marketo a los usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Momentos interesantes en acciones de información de ventas](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Hacer que una campaña esté visible para los usuarios de Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [Hacer que una campaña esté visible para los usuarios de Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Déclencheur y filtros de actividades de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glosario de actividades de acciones de perspectiva de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Configurar la conexión de Marketo](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
