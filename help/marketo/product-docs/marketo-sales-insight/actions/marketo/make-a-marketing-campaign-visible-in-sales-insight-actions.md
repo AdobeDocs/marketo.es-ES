@@ -3,9 +3,9 @@ description: Hacer visible una campaña de marketing en acciones de información
 title: Hacer que una campaña de marketing sea visible en las acciones de Sales Insight
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Con las acciones de información de ventas, los usuarios tendrán acceso a una n
 
    >[!NOTE]
    >
-   >Si desea mostrar la campaña de marketing a los usuarios que están utilizando _Agregar a la campaña de marketing_ desde la aplicación web toutapp.com (esto también incluye si tiene la aplicación web incrustada en el CRM mediante el objeto de bandeja de salida de ventas de Marketo), establézcala en &quot;API de servicio web&quot;. Si desea que la campaña de marketing se muestre cuando un usuario utilice las acciones del panel MSI de Salesforce en los botones de posible cliente, contacto, página de cuenta o acción masiva de las vistas de lista de contactos y posibles clientes, actualícela a &quot;Perspectiva de ventas&quot;
+   >Si desea mostrar la campaña de marketing a los usuarios que están usando _Agregar a la campaña de marketing_ desde la aplicación web toutapp.com (esto también incluye si tiene la aplicación web incrustada en el CRM a través del objeto de bandeja de salida de ventas de Marketo), establezca la fuente solicitada de la campaña en &quot;API de servicio web&quot;. Si desea que la campaña de marketing se muestre cuando un usuario utilice las acciones del panel MSI de Salesforce en los botones de posible cliente, contacto, página de cuenta o acción masiva de las vistas de lista de contactos y posibles clientes, actualice la fuente solicitada de la campaña a &quot;Perspectiva de ventas&quot;
 
 1. Haga clic en la ficha **Flujo**.
 
