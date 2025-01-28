@@ -3,9 +3,9 @@ title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 3%
 
 ---
@@ -236,7 +236,7 @@ CAPTURA DE PANTALLA
 
 1. Si desea actualizar el contenido, haga clic en **[!UICONTROL Crear versión de borrador]** en la parte superior derecha.
 
-   Haga clic en **[!UICONTROL Aceptar]** en el cuadro de diálogo para abrir la versión de borrador en el diseñador visual. Puede cambiar el [origen de la imagen](./assets-overview.md#choose-an-asset-source) si es necesario.
+   Haga clic en **[!UICONTROL Aceptar]** en el cuadro de diálogo para abrir la versión de borrador en el diseñador visual. Puede cambiar el `image source` KG - LINK HERE si es necesario.
 
 CAPTURA DE PANTALLA
 
