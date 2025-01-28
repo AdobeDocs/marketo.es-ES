@@ -3,27 +3,27 @@ title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '2558'
+source-wordcount: '2428'
 ht-degree: 3%
 
 ---
 
 # Fragmentos
 
-Un fragmento es un componente reutilizable al que se puede hacer referencia en uno o varios correos electrónicos y plantillas de correo electrónico. Normalmente es un bloque de contenido (texto, imagen o ambos) que se puede crear e insertar rápidamente en un correo electrónico o plantilla de correo electrónico. Con esta funcionalidad, puede generar varios bloques de contenido personalizados para que los utilicen los integrantes del equipo de marketing a fin de combinar el contenido del correo electrónico para mejorar el proceso de diseño. Los casos de uso comunes incluyen bloques de contenido de encabezado/pie de página para correo electrónico, titulares de invitaciones a eventos, mensajes de temporada y mucho más.
+Un fragmento es un componente reutilizable al que se puede hacer referencia en uno o varios correos electrónicos y plantillas de correo electrónico. Normalmente es un bloque de contenido (texto, imagen o ambos) que se puede crear e insertar rápidamente en el proyecto. Con esta funcionalidad, puede generar varios bloques de contenido personalizados para que los utilicen los integrantes del equipo de marketing a fin de combinar el contenido del correo electrónico para mejorar el proceso de diseño. Los casos de uso comunes incluyen bloques de contenido de encabezado/pie de página para correo electrónico, titulares de invitaciones a eventos, mensajes de temporada y mucho más.
 
 Para aprovechar al máximo los fragmentos de sus flujos de trabajo:
 
 * _Cree sus propios fragmentos_: cree fragmentos visuales desde cero o guarde contenido como un fragmento desde el editor de contenido visual.
 * _Reutilizar fragmentos_: utilícelos tantas veces como sea necesario en el contenido.
 
-## Fragmentos visuales
+## Fragmentos visuales {#visual-fragments}
 
 Los fragmentos visuales son bloques visuales predefinidos creados con el editor de contenido visual que se pueden reutilizar en varios correos electrónicos o plantillas de correo electrónico.
 
-## Acceso y administración de fragmentos
+## Acceso y administración de fragmentos {#access-and-manage-fragments}
 
 Para acceder a los fragmentos visuales, vaya a la navegación izquierda y haga clic en **[!UICONTROL Administración de contenido]** > **[!UICONTROL Fragmentos]**. Esta acción abre una página de lista con todos los fragmentos creados en la instancia enumerados en una tabla.
 
@@ -49,7 +49,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
   </td>
   <tr>
     <td><b>Publicadas</b></td>
-    <td>Al publicar un fragmento, pasa a estar disponible para su uso en un correo electrónico o plantilla de correo electrónico. El contenido de un fragmento publicado no se puede modificar en el diseñador visual.
+    <td>Al publicar un fragmento, pasa a estar disponible para su uso en un correo electrónico o plantilla de correo electrónico. El contenido de fragmento publicado no se puede modificar en el diseñador visual.
     <p>Acciones disponibles:
     <li>Editar descripción</li>
     <li>Añadir a un correo electrónico o plantilla</li>
@@ -74,38 +74,31 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 
 CAPTURA DE PANTALLA
 
->[!IMPORTANT]
->
->El estado del fragmento se introdujo en la versión de agosto de B2B edition para Journey Optimizer. Todos los fragmentos creados antes de esta versión tienen el estado _Borrador_, aunque se utilicen en un correo electrónico o una plantilla. Si realiza cualquier cambio en estos fragmentos, debe publicar el fragmento para propagar los cambios.
+### Filtrado de la lista de fragmentos {#filter-the-fragments-list}
 
-### Filtrado de la lista de fragmentos
-
-Para buscar un fragmento por nombre, introduzca una cadena de texto en la barra de búsqueda para una coincidencia. Haga clic en el icono _Filtro_ ( ![Mostrar u ocultar el icono de filtros](../assets/do-not-localize/icon-filter.svg) ) para mostrar las opciones de filtro disponibles y cambiar la configuración para filtrar los elementos mostrados según los criterios especificados.
+Utilice la barra de búsqueda para buscar un fragmento por nombre. Haga clic en el icono _Filtro_ ( ![Mostrar u ocultar filtros](../assets/do-not-localize/icon-filter.svg) ) para mostrar las opciones de filtro disponibles y elegir la configuración que desee.
 
 CAPTURA DE PANTALLA
 
-### Personalización de la visualización de columnas
+### Personalización de la visualización de columnas {#customize-the-column-display}
 
 Personalice las columnas que desee mostrar en la tabla haciendo clic en el icono _Personalizar tabla_ ( ![Personalizar icono de tabla](../assets/do-not-localize/icon-column-settings.svg) ) en la parte superior derecha.
 
-En el cuadro de diálogo, seleccione las columnas que desea mostrar y haga clic en **[!UICONTROL Aplicar]**.
+En el cuadro de diálogo, seleccione las columnas que desee y haga clic en **[!UICONTROL Aplicar]**.
 
 CAPTURA DE PANTALLA
 
-## Creación de fragmentos
+## Creación de fragmentos {#create-fragments}
 
-Puede crear nuevos fragmentos visuales en Journey Optimizer B2B edition haciendo clic en **[!UICONTROL Crear fragmento]** en la parte superior derecha.
+Cree un nuevo fragmento visual haciendo clic en **[!UICONTROL Crear fragmento]** en la parte superior derecha.
 
-1. En el cuadro de diálogo _[!UICONTROL Crear fragmento]_, escriba un **[!UICONTROL Nombre]** y una **[!UICONTROL Descripción]** útiles (opcional).
+1. En el cuadro de diálogo _[!UICONTROL Crear fragmento]_, escriba un **[!UICONTROL Nombre]** y una **[!UICONTROL Descripción]** opcional.
 
    Requisitos de fragmento:
 
    * Nombre: máximo de 100 caracteres, debe ser único, sin distinción de mayúsculas y minúsculas
-
    * Descripción: máximo de 300 caracteres
-
-   * Se permiten caracteres Alpha, numéricos y especiales
-
+   * Los caracteres Alpha, numéricos y especiales están bien
    * Los caracteres reservados **_no se permiten_**: `\ / : * ? " < > |`
 
 CAPTURA DE PANTALLA
@@ -126,7 +119,7 @@ CAPTURA DE PANTALLA
 
 1. Cuando esté listo para que el fragmento esté disponible para usarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publish]**.
 
-### Añadir estructura y contenido {#design-fragment}
+### Añadir estructura y contenido {#add-structure-and-content}
 
 >[!CONTEXTUALHELP]
 >id="ajo-b2b_structure_components_fragment"
@@ -156,13 +149,13 @@ CAPTURA DE PANTALLA
 
 {{$include /help/_includes/content-design-links.md}}
 
-## Ver detalles del fragmento
+## Ver detalles del fragmento {#view-fragment-details}
 
 Haga clic en el nombre de cualquier fragmento de la página de lista para abrir la página de detalles del fragmento. Puede editar el fragmento, cambiarle el nombre o actualizar su descripción. Realice actualizaciones y haga clic fuera del nombre o del campo de descripción para guardar automáticamente los cambios.
 
 >[!NOTE]
 >
->Si un fragmento publicado está siendo utilizado por una plantilla de correo electrónico o de correo electrónico, no puede cambiar el nombre ni editar el contenido. Puede crear una versión de borrador si desea realizar cambios en el fragmento.
+>Si un fragmento publicado está siendo utilizado por una plantilla de correo electrónico o de correo electrónico, no puede cambiar su nombre ni editar el contenido. Puede crear una versión de borrador si desea realizar cambios en el fragmento.
 
 CAPTURA DE PANTALLA
 
@@ -170,23 +163,23 @@ Haga clic en **[!UICONTROL Editar fragmento]** para abrir el fragmento en el edi
 
 Salga de la vista en cualquier momento haciendo clic en la flecha _Atrás_ en la parte superior izquierda, que le devuelve a la página de lista _Fragmentos_.
 
-## Ver fragmento utilizado por referencias
+## Ver fragmento utilizado por referencias {#view-fragment-used-by-references}
 
-En la página de detalles del fragmento, haga clic en la ficha **[!UICONTROL Utilizado por]** para ver los detalles de dónde se utiliza actualmente el fragmento en Journey Optimizer B2B edition, en correos electrónicos, plantillas de correo electrónico y fragmentos.
+En la página de detalles del fragmento, haga clic en la ficha **[!UICONTROL Utilizado por]** para ver los detalles de dónde se está utilizando el fragmento en el Marketo Engage.
 
 >[!IMPORTANT]
 >
->No se puede eliminar ningún fragmento que esté en uso actualmente en ningún correo electrónico o plantilla de correo electrónico.
+>Un fragmento que esté siendo utilizado actualmente por un correo electrónico o una plantilla de correo electrónico no se puede eliminar.
 
-Las referencias se muestran según la categoría: _Correo electrónico_ o _Plantilla de correo electrónico_. Los correos electrónicos de Journey Optimizer B2B edition están incrustados y creados en recorridos de cuenta, por lo que el recorrido principal del correo electrónico que utiliza el fragmento se muestra en las referencias.
+Las referencias se muestran según la categoría: _Correo electrónico_ o _Plantilla de correo electrónico_. Los correos electrónicos de Journey Optimizer B2B edition están incrustados y creados en recorridos de cuenta, por lo que el recorrido principal del correo electrónico que utiliza el fragmento se muestra en las referencias. &lt;— ¿QUÉ HAY DE ESTA PARTE, NILESH
 
 CAPTURA DE PANTALLA
 
 Haga clic en el vínculo para abrir el correo electrónico o la plantilla de correo electrónico correspondiente donde se utiliza el fragmento.
 
-## Eliminar fragmentos
+## Eliminar fragmentos {#delete-fragments}
 
-No se puede eliminar ningún fragmento que esté en uso actualmente en ninguna plantilla de correo electrónico o correo electrónico, por lo que asegúrese de comprobar las referencias de _usado por_ antes de iniciar la eliminación de un fragmento. Además, una eliminación no se puede deshacer, por lo que debe comprobarla antes de iniciar una acción de eliminación.
+Debido a que un fragmento que se encuentra actualmente en uso por una plantilla de correo electrónico o de correo electrónico no se puede eliminar, asegúrese de comprobar las referencias de _usado por_ antes de iniciar la eliminación de un fragmento. Además, una eliminación no se puede deshacer, por lo que debe comprobarla antes de iniciar una acción de eliminación.
 
 Puede eliminar un fragmento mediante cualquiera de los siguientes métodos:
 
@@ -194,10 +187,6 @@ Puede eliminar un fragmento mediante cualquiera de los siguientes métodos:
 * En la página de lista _[!UICONTROL Fragmentos]_, haga clic en los puntos suspensivos junto al fragmento y elija **[!UICONTROL Eliminar]**.
 
 Esta acción abre un cuadro de diálogo de confirmación. Puede anular el proceso haciendo clic en **[!UICONTROL Cancelar]** o en **[!UICONTROL Eliminar]** para confirmar la eliminación.
-
-CAPTURA DE PANTALLA
-
-Si el fragmento está en uso, la acción abre un cuadro de diálogo informativo que le advierte de que no se puede eliminar. Haga clic en **[!UICONTROL Aceptar]**, lo que anula la acción de eliminación.
 
 CAPTURA DE PANTALLA
 
@@ -217,7 +206,7 @@ Las ediciones en un fragmento dependen de su estado actual:
 
    Se muestra una previsualización del contenido visual, con los detalles del fragmento a la derecha.
 
-1. Modifique cualquiera de los detalles, como el nombre y la descripción.
+1. Realice las ediciones que desee.
 
 CAPTURA DE PANTALLA
 
@@ -295,7 +284,7 @@ Para actualizar el contenido:
 
 >[!ENDTABS]
 
-## Duplicar fragmentos
+## Duplicar fragmentos {#duplicate-fragments}
 
 Puede duplicar un fragmento mediante cualquiera de los siguientes métodos:
 
@@ -304,17 +293,17 @@ Puede duplicar un fragmento mediante cualquiera de los siguientes métodos:
 
 CAPTURA DE PANTALLA
 
-En el cuadro de diálogo, introduzca un nombre útil (único) y una descripción. Haga clic en **[!UICONTROL Duplicar]** para completar la acción.
+En el cuadro de diálogo, introduzca un nombre único y una descripción opcional. Haga clic en **[!UICONTROL Duplicar]** para completar la acción.
 
 CAPTURA DE PANTALLA
 
-El fragmento duplicado (nuevo) aparece en la lista _Fragmentos_.
+El fragmento duplicado aparecerá en la lista _Fragmentos_.
 
-## Guardar un nuevo fragmento del contenido del correo electrónico o de la plantilla
+## Guardar un nuevo fragmento del contenido del correo electrónico o de la plantilla {#save-a-new-fragment-from-email-or-template-content}
 
 Al crear o editar un correo electrónico o una plantilla de correo electrónico en el editor de contenido visual, puede elegir guardar todo o parte del contenido como un fragmento para que esté disponible para reutilizarlo.
 
-1. Cuando tenga contenido para guardar como fragmento, haga clic en **[!UICONTROL Más]** y elija **[!UICONTROL Guardar como fragmento]**.
+1. Para guardar contenido como un fragmento, haga clic en **[!UICONTROL Más]** y elija **[!UICONTROL Guardar como fragmento]**.
 
 1. Seleccione los diferentes elementos que desea incluir en el fragmento.
 
@@ -324,19 +313,21 @@ Al crear o editar un correo electrónico o una plantilla de correo electrónico 
 
 1. Con el contenido seleccionado, haz clic en **[!UICONTROL Crear]** en la parte superior derecha.
 
-1. En el cuadro de diálogo, introduzca un nombre y una descripción útiles para el fragmento. Luego haga clic en **[!UICONTROL Crear]**.
+1. En el cuadro de diálogo, escriba un nombre y una descripción opcional para el fragmento. Luego haga clic en **[!UICONTROL Crear]**.
 
-   A continuación, el nuevo fragmento se mostrará en la página de lista _Fragmentos_ y también estará disponible para su uso en correos electrónicos y plantillas de correo electrónico.
+   A continuación, el fragmento se mostrará en la página de lista _Fragmentos_ y también estará disponible para su uso en correos electrónicos y plantillas de correo electrónico.
 
-## Añadir fragmentos visuales al contenido del correo electrónico o de la plantilla
+## Añadir fragmentos visuales al contenido del correo electrónico o de la plantilla {#add-visual-fragments-to-your-email-or-template-content}
 
-Los fragmentos están diseñados para su reutilización y se pueden insertar para la creación de plantillas de correo electrónico y correo electrónico. Puede añadir hasta 30 fragmentos en un correo electrónico o plantilla. Los fragmentos se pueden anidar hasta un solo nivel.
+Los fragmentos están diseñados para su reutilización y puede añadir hasta 30 en un correo electrónico o plantilla de correo electrónico. Los fragmentos se pueden anidar hasta un solo nivel.
 
 >[!BEGINTABS]
 
 >[!TAB Agregar fragmentos a un correo electrónico]
 
-1. Vaya a **[!UICONTROL Recorridos de cuenta]** y abra un recorrido recorrido existente o cree uno nuevo.
+1. Vaya a **[!UICONTROL Recorridos de cuenta]** y abra un recorrido recorrido existente o cree uno nuevo. &lt;— COMPRUEBE ESTO DOS VECES
+
+----------DEJÓ DE EDITAR AQUÍ---------
 
 1. Crear un nodo [_[!UICONTROL Enviar correo electrónico ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
