@@ -3,10 +3,11 @@ title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ Los fragmentos visuales son bloques visuales predefinidos creados con el editor 
 
 ## Acceso y administración de fragmentos {#access-and-manage-fragments}
 
-Para acceder a los fragmentos visuales, vaya a la navegación izquierda y haga clic en **[!UICONTROL Administración de contenido]** > **[!UICONTROL Fragmentos]**. Esta acción abre una página de lista con todos los fragmentos creados en la instancia enumerados en una tabla.
+Para acceder a los fragmentos visuales, vaya a Design Studio. En el árbol de la izquierda, haga clic en **[!UICONTROL Fragmentos (nuevos)]**.
 
 CAPTURA DE PANTALLA
 
-La tabla está ordenada por la columna _[!UICONTROL Modificado]_, con los fragmentos actualizados más recientemente en la parte superior de forma predeterminada. Haga clic en el título de la columna para cambiar entre ascendente y descendente.
+De manera predeterminada, la tabla está ordenada por la columna _[!UICONTROL Modificado]_, con los fragmentos actualizados más recientemente en la parte superior. Haga clic en otros títulos de columna para cambiar el orden. Haga clic de nuevo para cambiar entre ascendente y descendente.
 
-### Estado del fragmento y ciclo vital
+### Estado del fragmento {#fragment-status}
 
 El estado del fragmento determina su disponibilidad para utilizarlo en un correo electrónico o plantilla de correo electrónico, y los cambios que puede realizar en él.
 
@@ -121,17 +122,7 @@ CAPTURA DE PANTALLA
 
 ### Añadir estructura y contenido {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Adición de componentes de estructura"
->abstract="Los componentes de estructura definen el diseño del fragmento. Arrastre y suelte un componente **Estructura** en el lienzo para empezar a diseñar el contenido del fragmento."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Acerca de los componentes de contenido"
->abstract="Los componentes de contenido son marcadores de posición de contenido vacíos que se pueden utilizar para crear el diseño de un fragmento."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Añadir recursos
 
@@ -327,7 +318,7 @@ Los fragmentos están diseñados para su reutilización y puede añadir hasta 30
 
 1. Vaya a **[!UICONTROL Recorridos de cuenta]** y abra un recorrido recorrido existente o cree uno nuevo. &lt;— COMPRUEBE ESTO DOS VECES
 
-----------DEJÓ DE EDITAR AQUÍ---------
+---------DEJÓ DE EDITAR AQUÍ---------
 
 1. Crear un nodo [_[!UICONTROL Enviar correo electrónico ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 

@@ -4,9 +4,10 @@ title: Creación de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 1%
 
 ---
@@ -20,6 +21,12 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 >Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Crear un correo electrónico {#create-an-email}
+
+Los correos electrónicos del Designer de correo electrónico solo se pueden crear en Design Studio y se hace referencia a ellos en Campañas/listas inteligentes, o bien se pueden crear/utilizar directamente en los programas de correo electrónico en este momento.
+
+>[!BEGINTABS]
+
+>[!TAB Estudio de diseño]
 
 1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -38,6 +45,28 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 1. Introduzca un nombre de correo electrónico y una línea de asunto. Haga clic en **Crear**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB Programa de correo electrónico]
+
+1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. Busque y seleccione (o cree) su programa de correo electrónico.
+
+   ![](assets/create-an-email-5.png)
+
+1. Tiene dos opciones para crear un nuevo correo electrónico. Haga clic con el botón derecho en el nombre de su programa de correo electrónico y seleccione **Nuevo recurso local** o haga clic en el botón **+Nuevo correo electrónico** en el cuadro Correo electrónico del panel. En este ejemplo, haremos lo primero.
+
+   ![](assets/create-an-email-6.png)
+
+1. Seleccione **Correo electrónico (nuevo editor)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Introduzca un nombre de correo electrónico y una línea de asunto. Haga clic en **Crear**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 
@@ -308,7 +337,7 @@ Para obtener una vista previa del contenido del correo electrónico, haga clic e
 
 ## Referencia a un correo electrónico {#reference-an-email}
 
-Después de crear un correo electrónico en el nuevo editor, puede hacer referencia a él en campañas inteligentes o listas inteligentes como lo haría con cualquier otro correo electrónico.
+Si ha creado el correo electrónico dentro de un programa de correo electrónico, solo se puede utilizar en ese programa. Si creó su correo electrónico en Design Studio, se puede hacer referencia a él desde campañas inteligentes o listas inteligentes como lo haría con cualquier otro correo electrónico.
 
 * Haga referencia a él en una lista inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -320,4 +349,4 @@ Después de crear un correo electrónico en el nuevo editor, puede hacer referen
 
 >[!MORELIKETHIS]
 >
->[Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y obtener acceso a una plantilla de correo electrónico en el nuevo diseñador.
+>[Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y obtener acceso a una plantilla de correo electrónico en el nuevo diseñador.
