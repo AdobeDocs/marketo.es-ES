@@ -3,7 +3,7 @@ description: Información general - Documentos de Marketo - Documentación del p
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Sí, el antiguo editor de correo electrónico (clásico) coexistirá con el nuev
 
 No, no se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar el HTML de plantillas en el nuevo diseñador y realizar los ajustes necesarios. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
 
-**¿Hay alguna forma de reforzar la marca (fuentes, logotipo y colores)?**
+**¿Hay alguna forma de reforzar la marca (fuentes, logotipos y colores)?**
 
 Bloquear secciones de contenido es parte del nuevo diseñador, y bloquear estilo, colores, etc., llegará más adelante este año.
 
