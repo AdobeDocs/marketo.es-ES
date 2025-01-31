@@ -1,106 +1,66 @@
 ---
-description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
-title: Creación de correo electrónico
+description: Plantillas de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Plantillas de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1842'
 ht-degree: 1%
 
 ---
 
-# Creación de correo electrónico {#email-authoring}
+# Plantillas de correo electrónico {#email-templates}
 
-Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Designer de correo electrónico del Marketo Engage.
+Para un proceso de diseño acelerado y mejorado, puede crear plantillas de correo electrónico independientes para reutilizar fácilmente el contenido personalizado.
 
 >[!PREREQUISITES]
 >
 >Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Crear un correo electrónico {#create-an-email}
+>[!NOTE]
+>
+>Las plantillas de correo electrónico del nuevo diseñador de correo electrónico solo se pueden utilizar para crear correos electrónicos en el nuevo diseñador. No se puede hacer referencia a ellos en el antiguo editor de correo electrónico.
 
-Los correos electrónicos del Designer de correo electrónico solo se pueden crear en Design Studio y se hace referencia a ellos en Campañas/listas inteligentes, o bien se pueden crear/utilizar directamente en los programas de correo electrónico en este momento.
-
->[!BEGINTABS]
-
->[!TAB Estudio de diseño]
+## Creación de una plantilla de correo electrónico {#create-an-email-template}
 
 1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. En Mi Marketo, seleccione **Design Studio**.
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. En el árbol, seleccione **Correos electrónicos (nuevo editor)**.
+1. En el árbol, seleccione **Plantillas de correo electrónico (nuevo editor)**.
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. Haga clic en el botón **Crear correo electrónico**.
+1. Haga clic en el botón **Crear plantilla**.
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. Introduzca un nombre de correo electrónico y una línea de asunto. Haga clic en **Crear**.
+1. Introduzca un nombre de plantilla y una descripción opcional. Haga clic en **Crear**.
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB Programa de correo electrónico]
+## Diseño de la plantilla {#design-your-template}
 
-1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+En la página _Diseña tu plantilla_, puedes elegir entre algunas opciones. [Diseñe desde cero](#design-from-scratch), [importe su propio HTML](#import-html) o [seleccione una plantilla existente](#choose-a-template) (una de nuestras muestras o una que ya haya guardado).
 
-1. Busque y seleccione (o cree) su programa de correo electrónico.
-
-   ![](assets/create-an-email-5.png)
-
-1. Tiene dos opciones para crear un nuevo correo electrónico. Haga clic con el botón derecho en el nombre de su programa de correo electrónico y seleccione **Nuevo recurso local** o haga clic en el botón **+Nuevo correo electrónico** en el cuadro Correo electrónico del panel. En este ejemplo, haremos lo primero.
-
-   ![](assets/create-an-email-6.png)
-
-1. Seleccione **Correo electrónico (nuevo editor)**.
-
-   ![](assets/create-an-email-7.png)
-
-1. Introduzca un nombre de correo electrónico y una línea de asunto. Haga clic en **Crear**.
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-Eso es todo. Ahora es el momento de diseñar su correo electrónico.
-
-## Elija su tipo de contenido {#choose-your-content-type}
-
-1. En el correo electrónico que acaba de crear, haga clic en **Agregar contenido de correo electrónico**.
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. Se carga la página _Crear tu correo electrónico_. Puede elegir entre algunas opciones:
-
-* [Diseñe desde cero](#design-from-scratch) con el editor de correo electrónico visual
-
-* [Importe su propio HTML](#import-html) a través de un HTML o archivo zip
-
-* [Seleccione una plantilla existente](#choose-a-template) (una de nuestras muestras o una que ya haya guardado)
+![](assets/design-your-template-1.png)
 
 ### Diseñe desde cero {#design-from-scratch}
 
-Cuando comience desde cero en el editor de correo electrónico, utilice las opciones siguientes para definir el contenido.
+Defina su contenido añadiendo y moviendo elementos estructurales con sencillas acciones de arrastrar y soltar.
 
-1. En la página _Crear tu correo electrónico_, selecciona **Diseñar desde cero**.
+1. En la página _Diseña tu plantilla_, selecciona **Diseñar desde cero**.
 
-1. Agregue [estructura y contenido](#add-structure-and-content) a su correo electrónico.
+1. Agregar [estructura y contenido](#add-structure-and-content).
 
-1. Agregar [imágenes](#add-assets).
+### Importe su HTML {#import-your-html}
 
-1. [Personaliza](#personalize-content) tu contenido.
-
-1. Revisar vínculos y [editar seguimiento](#edit-url-tracking).
-
-### Importar HTML {#import-html}
-
-Puede importar contenido existente del HTML para diseñar el correo electrónico. El contenido puede ser:
+Puede importar contenido existente del HTML para diseñar sus plantillas de correo electrónico. El contenido puede ser:
 
 * Archivo de HTML con una hoja de estilos incorporada
 
@@ -110,17 +70,23 @@ Puede importar contenido existente del HTML para diseñar el correo electrónico
 >
 >No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
 
-1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
+1. En la página _Diseña tu plantilla_, selecciona **HTML de importación**.
 
 1. Arrastre y suelte el HTML o archivo .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
+   >[!NOTE]
+   >
+   >Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
 
-Puede realizar los cambios que desee en el contenido importado con [las herramientas visuales del editor de correo electrónico](#add-structure-and-content).
+1. Para poder aprovechar los componentes de contenido de Designer de correo electrónico, haga clic en la pestaña **convertidor de HTML** y luego en **Convertir**.
+
+   >[!CAUTION]
+   >
+   >El uso de una etiqueta `<table>` como primera capa en un archivo de HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de capa superior.
+
+Ahora puede personalizar el archivo importado según sea necesario con el editor de correo electrónico visual.
 
 ### Elija una plantilla {#choose-a-template}
 
@@ -140,11 +106,11 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 1. Seleccione la plantilla que desee utilizar.
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. Haga clic en **Usar esta plantilla**.
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. Edite el contenido como desee con el diseñador de contenido visual.
 
@@ -152,11 +118,11 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 1. Haga clic en la ficha **Plantillas guardadas** y seleccione la plantilla que desee.
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. Haga clic en **Usar esta plantilla**.
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. Edite el contenido como desee con el diseñador de contenido visual.
 
@@ -170,7 +136,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
    >
    >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 1. En la sección Contenido, arrastre sobre los elementos deseados y suéltelos en uno o más componentes de estructura.
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. Cada componente se puede personalizar mediante las pestañas Settings o Style. Cambie la fuente, el estilo del texto, el margen, etc.
 
@@ -208,11 +174,11 @@ Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/
 
 1. Para acceder a sus imágenes, haga clic en el icono Selector de recursos.
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. Arrastre y suelte la imagen deseada en un componente de estructura.
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/
 
 Abra el árbol de navegación para acceder a estructuras específicas y a sus columnas/componentes para una edición más granular. Para acceder a, haga clic en el icono del árbol de navegación.
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alineación vertical dentro de un componente de estructura compuesto por columnas.
 
@@ -232,7 +198,7 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
    También puede seleccionarlo en el árbol de estructura. Los parámetros editables de esa columna se muestran en las fichas _[!UICONTROL Configuración]_ y _[!UICONTROL Estilos]_ de la derecha.
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. Para editar las propiedades de la columna, haga clic en la ficha _[!UICONTROL Estilos]_ de la derecha y cámbielas según sus necesidades:
 
@@ -247,7 +213,7 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
    * Expanda la sección **[!UICONTROL Avanzado]** para definir estilos en línea para la columna.
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. Repita estos pasos según sea necesario para ajustar la alineación y el relleno de las demás columnas del componente.
 
@@ -259,15 +225,15 @@ Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero e
 
 1. Seleccione el componente de texto. Coloque el cursor donde desee que aparezca el token y haga clic en el icono **Agregar personalización**.
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. Haga clic en el [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} deseado.
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. Busque el token deseado y haga clic en el icono **...** (al hacer clic en el icono + se agrega un token sin texto de reserva).
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero e
 
 1. Establece el texto de reserva y haz clic en **Agregar**.
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. Haga clic en **Guardar**.
 
@@ -285,13 +251,13 @@ A veces no se desea habilitar la URL de seguimiento de Marketo en un vínculo de
 
 1. Haga clic en el icono Links para mostrar todas las direcciones URL del correo electrónico.
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. Haga clic en el icono de lápiz para editar el seguimiento de cualquier vínculo deseado.
 
 1. Haga clic en el menú desplegable **Tipo de seguimiento** y realice la selección.
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ A veces no se desea habilitar la URL de seguimiento de Marketo en un vínculo de
 
 1. Haga clic en **Guardar** cuando termine.
 
-## Comprobar alertas {#check-alerts}
+### Ver opciones {#view-options}
 
-A medida que diseña el contenido, las alertas se muestran en la parte superior derecha de la pantalla cuando falta la configuración clave.
+Aproveche las opciones de vista y validación de contenido disponibles en el editor de correo electrónico visual.
 
-Existen dos tipos de alertas:
+* Acercar/alejar el contenido mediante las opciones de zoom preestablecidas.
 
-**Advertencias**
+* Vea el contenido en equipos de escritorio, dispositivos móviles o solo texto/texto sin formato.
 
-Las advertencias hacen referencia a recomendaciones y prácticas recomendadas, como:
+   * Haga clic en el icono de vista en directo (ojo) para previsualizar el contenido en todos los dispositivos.
 
-* **El vínculo de no participación no está presente en el cuerpo del correo electrónico**: aunque los vínculos de cancelación de suscripción son un requisito, se recomienda agregarlos al cuerpo del correo electrónico.
+   * Seleccione uno de los dispositivos predeterminados o introduzca dimensiones personalizadas para obtener una vista previa del contenido.
 
->[!NOTE]
->
->No es necesario agregar una opción de cancelación de suscripción para [Correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (que no sean de marketing).
+### Más opciones {#more-options}
 
-* **La versión de texto del HTML está vacía**: debe definir una versión de texto del cuerpo del correo electrónico para los casos en los que no se pueda mostrar el contenido del HTML.
+Desde las opciones **Más** del editor de contenido, puede realizar las siguientes acciones:
 
-* **El vínculo vacío está presente en el cuerpo del correo electrónico**: compruebe que todos los vínculos del correo electrónico sean correctos.
+![](assets/more-options-1.png)
 
-* **El tamaño del correo electrónico ha superado el límite de 100 KB**: para una entrega óptima, asegúrese de que el tamaño del correo electrónico no supere los 100 KB.
+* **Restablecer plantilla**: seleccione esta opción para borrar el lienzo visual del diseñador de correo electrónico en una pizarra en blanco y reiniciar la creación de contenido.
 
-**Errores**
+* **Cambia tu diseño**: vuelve a la página _Diseña tu plantilla_. Desde aquí, puede realizar cualquier acción como se describe en la sección [Diseñar su plantilla](#design-your-template).
 
-Los errores impiden enviar o probar el correo electrónico hasta que se resuelvan:
+* **HTML de exportación**: descargue el contenido del lienzo visual en su sistema local en formato de HTML empaquetado como archivo zip.
 
-* **Falta la línea de asunto**: se requiere una línea de asunto de correo electrónico.
+## Ver detalles de la plantilla {#view-template-details}
 
-* **La versión de correo electrónico del mensaje está vacía**: este error se produce cuando no se ha configurado el contenido del correo electrónico.
+En la página de lista _Plantillas de correo electrónico_, haga clic en el nombre de una plantilla de correo electrónico para ver sus detalles.
 
-## Prueba del correo electrónico {#test-your-email}
+(assets/view-template-details-1.png
 
-Cuando se define el contenido del mensaje, puede utilizar perfiles de prueba para previsualizarlo, enviar pruebas y controlar cómo se procesa en clientes populares de escritorio, móviles y basados en web. Si ha insertado contenido personalizado, puede comprobar cómo se muestra en el mensaje mediante los datos del perfil de prueba.
+Se pueden editar detalles básicos como el nombre y la descripción. Haga clic fuera del campo que ha editado para guardar los cambios.
 
-Para obtener una vista previa del contenido del correo electrónico, haga clic en **Simular contenido** y, a continuación, agregue un perfil de prueba para comprobar el mensaje mediante los datos del perfil de prueba.
+Haga clic en **Más** para eliminar o duplicar rápidamente su plantilla.
 
-![](assets/test-your-email-1.png)
-
-## Referencia a un correo electrónico {#reference-an-email}
-
-Si ha creado el correo electrónico dentro de un programa de correo electrónico, solo se puede utilizar en ese programa. Si creó su correo electrónico en Design Studio, se puede hacer referencia a él desde campañas inteligentes o listas inteligentes como lo haría con cualquier otro correo electrónico.
-
-* Haga referencia a él en una lista inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
-
-* Haga referencia a él en una campaña inteligente al [seguir los pasos habituales](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+Si hay alertas activas (errores/advertencias para la plantilla de correo electrónico), haga clic en Alertas para ver la información.
 
 >[!NOTE]
 >
->Solo se puede hacer referencia a los correos electrónicos guardados. No hay estado &quot;aprobado&quot; en el nuevo diseñador de correo electrónico.
+>Aunque estas alertas no prohíben el uso de la plantilla de correo electrónico para la creación de correos electrónicos, la información proporciona visibilidad sobre lo que podría no funcionar y las actualizaciones necesarias antes de que el correo electrónico se pueda utilizar para la entrega.
+
+## Ver plantilla de correo electrónico utilizada por referencias {#email-template-used-by-references}
+
+En el resumen de la plantilla de correo electrónico, haga clic en la ficha **Utilizada por** para ver los detalles de dónde se ha utilizado esta plantilla de correo electrónico en Marketo Engage.
+
+![](assets/email-template-used-by-references-1.png)
+
+## Editar plantillas de correo electrónico {#edit-email-templates}
+
+Esta acción se puede realizar desde:
+
+* Pestaña Detalles: haga clic en **Editar plantilla de correo electrónico**.
+
+Esta acción lo lleva a la página _Diseñar su plantilla_ o a la página del editor de contenido visual en función del último estado guardado de la plantilla de correo electrónico. Desde aquí puede editar el contenido de su plantilla de correo electrónico según sea necesario. Consulte Creación de plantillas de correo electrónico para obtener información sobre las opciones de edición.
+
+## Duplicar plantillas de correo electrónico {#duplicate-email-templates}
+
+Existen dos formas de duplicar una plantilla de correo electrónico:
+
+* En los detalles de la plantilla de correo electrónico de la derecha, haga clic en **Más** y seleccione **Duplicar**.
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* En la página de listado de _Plantillas de correo electrónico_, haga clic en el icono Más acciones (tres puntos) de la plantilla de correo electrónico deseada y elija **Duplicado**.
+
+En el cuadro de diálogo, introduzca un nombre único y una descripción opcional. Haga clic en **Duplicar** cuando haya terminado.
+
+La plantilla de correo electrónico duplicada aparecerá en la página del listado de _plantillas de correo electrónico_.
+
+## Eliminar plantillas de correo electrónico {#delete-email-templates}
+
+Existen dos formas de eliminar una plantilla de correo electrónico.
+
+>[!CAUTION]
+>
+>La eliminación de una plantilla de correo electrónico no se puede deshacer.
+
+* En los detalles de la plantilla de correo electrónico de la derecha, haga clic en **Más** y seleccione **Eliminar**.
+
+  ![](assets/delete-email-templates-1.png)
+
+* En la página de listado de _Plantillas de correo electrónico_, haga clic en el icono Más acciones (tres puntos) de la plantilla de correo electrónico que quiera y elija **Eliminar**.
+
+## Acciones masivas {#bulk-actions}
+
+En la página de lista _Plantillas de correo electrónico_, seleccione varias plantillas seleccionando las casillas de verificación de la izquierda. Aparece un titular en la parte inferior.
+
+**Eliminar**: puede eliminar un máximo de 20 plantillas al mismo tiempo. Un cuadro de diálogo de confirmación le permite anular la acción o confirmar la eliminación.
 
 >[!MORELIKETHIS]
 >
->[Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y obtener acceso a una plantilla de correo electrónico en el nuevo diseñador.
+>[Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo diseñador.

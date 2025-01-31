@@ -4,10 +4,11 @@ title: Información general
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +22,45 @@ Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 
 El nuevo Designer de correo electrónico es la última innovación en Marketo Engage y tiene como objetivo proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico mejorada para mejorar la productividad y la eficacia, al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
 
-Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en listas inteligentes y campañas inteligentes. Hay muchas más mejoras planificadas para el futuro con el fin de mejorar aún más el nuevo diseñador.
+Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en programas de correo electrónico, así como en listas inteligentes/campañas. Próximamente habrá nuevas y potentes mejoras en Designer.
 
-**Artículos disponibles**
+## Artículos disponibles {#available-articles}
 
 * [Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo editor.
 
 * [Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
 
-* AEM Assets
+## Preguntas frecuentes {#faq}
 
-* Fragmentos
+**¿Seguirá funcionando el antiguo editor de correo electrónico? Si es así, ¿por cuánto tiempo?**
+
+Sí, el antiguo editor de correo electrónico (clásico) coexistirá con el nuevo diseñador de correo electrónico. Los correos electrónicos creados en el editor clásico permanecerán. No hay fecha de cuándo el editor clásico quedará obsoleto en este momento, pero seguirá funcionando a lo largo de 2025.
+
+**¿Funcionarán las plantillas de correo electrónico existentes en el nuevo diseñador? Si no es así, ¿es necesario crear plantillas con el nuevo diseñador para que todas las secciones/módulos se correspondan con el aspecto que queremos que tenga el contenido?**
+
+No, no se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar el HTML de plantillas en el nuevo diseñador y realizar los ajustes necesarios. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+
+**¿Hay alguna forma de reforzar la marca (fuentes, logotipo y colores)?**
+
+Bloquear secciones de contenido es parte del nuevo diseñador, y bloquear estilo, colores, etc., llegará más adelante este año.
+
+**¿Hará que los módulos para plantillas sean más personalizables y escalables?**
+
+Sí, absolutamente, más personalizable con nuestro editor de WYSIWYG (lo que se ve es lo que se obtiene).
+
+**¿Cómo funciona el proceso de creación de plantillas de correo electrónico en el nuevo diseñador? ¿Es WYSIWYG o requiere conocimientos de HTML?**
+
+Es WYSIWYG; el conocimiento del HTML no es necesario. Puede crear fácilmente
+plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web externos. Sin embargo, aún tiene la opción de actualizar el CSS y editar secciones individuales mediante el HTML. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+
+**¿Admite el nuevo diseñador de correo electrónico el lenguaje AMP?**
+
+La versión base no es compatible con AMP en este momento.
+
+**El contenido dinámico por atributo es excelente, pero ¿sigue funcionando el contenido dinámico por segmento?**
+
+Actualmente, el nuevo diseñador solo admite atributos, pero estamos trabajando para que se añadan segmentos en una versión futura.
+
+**¿Cómo puedo saber si nuestra suscripción de Marketo Engage se ha migrado a IMS (Adobe Admin Console)?**
+
+Si inicia sesión en Marketo Engage a través de [experience.adobe.com](experience.adobe.com), se ha migrado su suscripción.
