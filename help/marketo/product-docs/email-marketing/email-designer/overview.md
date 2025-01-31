@@ -1,13 +1,11 @@
 ---
 description: Información general - Documentos de Marketo - Documentación del producto
 title: Información general
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 >
 >Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-El nuevo Designer de correo electrónico es la última innovación en Marketo Engage y tiene como objetivo proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico mejorada para mejorar la productividad y la eficacia, al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
+El nuevo diseñador de correo electrónico es la última innovación en Marketo Engage y está diseñado para proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico renovada que mejore la productividad y la eficacia al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
 
 Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en programas de correo electrónico, así como en listas inteligentes/campañas. Próximamente habrá nuevas y potentes mejoras en Designer.
 
@@ -55,7 +53,7 @@ plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web e
 
 **¿Admite el nuevo diseñador de correo electrónico el lenguaje AMP?**
 
-La versión base no es compatible con AMP en este momento.
+En este momento no admite AMP.
 
 **El contenido dinámico por atributo es excelente, pero ¿sigue funcionando el contenido dinámico por segmento?**
 

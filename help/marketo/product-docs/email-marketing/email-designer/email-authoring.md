@@ -1,11 +1,9 @@
 ---
 description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
 title: Creación de correo electrónico
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 
 ## Crear un correo electrónico {#create-an-email}
 
-Los correos electrónicos del Designer de correo electrónico solo se pueden crear en Design Studio y se hace referencia a ellos en Campañas/listas inteligentes, o bien se pueden crear/utilizar directamente en los programas de correo electrónico en este momento.
+Los correos electrónicos del diseñador de correo electrónico solo se pueden crear en Design Studio y se hace referencia a ellos en Campañas/listas inteligentes, o bien se pueden crear/utilizar directamente en los programas de correo electrónico en este momento.
 
 >[!BEGINTABS]
 
