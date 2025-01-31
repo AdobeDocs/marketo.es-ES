@@ -4,9 +4,9 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Los fragmentos visuales son bloques visuales predefinidos creados (mediante el e
 
 Para acceder a los fragmentos visuales, vaya a Design Studio. En el árbol de la izquierda, haga clic en **[!UICONTROL Fragmentos (nuevos)]**.
 
-CAPTURA DE PANTALLA
+![Fragmentos de acceso](assets/fragments-1.png){width="600" zoomable="yes"}
 
 De manera predeterminada, la tabla está ordenada por la columna _[!UICONTROL Modificada]_. Haga clic en otros títulos de columna para cambiar por qué se ordena la tabla. Haga clic de nuevo para cambiar entre ascendente y descendente.
 
