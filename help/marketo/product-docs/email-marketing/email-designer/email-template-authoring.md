@@ -3,14 +3,14 @@ description: Plantillas de correo electrónico - Documentos de Marketo - Documen
 title: Plantillas de correo electrónico
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1843'
 ht-degree: 1%
 
 ---
 
-# Plantillas de correo electrónico {#email-templates}
+# Creación de plantillas de correo electrónico {#email-template-authoring}
 
 Para un proceso de diseño acelerado y mejorado, puede crear plantillas de correo electrónico independientes para reutilizar fácilmente el contenido personalizado.
 
