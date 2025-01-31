@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en p
 
 * [Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo editor.
 
-* [Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
+* [Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
 
 ## Preguntas frecuentes {#faq}
 
@@ -63,4 +63,4 @@ Actualmente, el nuevo diseñador solo admite atributos, pero estamos trabajando 
 
 **¿Cómo puedo saber si nuestra suscripción de Marketo Engage se ha migrado a IMS (Adobe Admin Console)?**
 
-Si inicia sesión en Marketo Engage a través de [experience.adobe.com](experience.adobe.com), se ha migrado su suscripción.
+Si inicias sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, se ha migrado tu suscripción.
