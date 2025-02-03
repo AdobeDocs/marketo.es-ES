@@ -2,8 +2,10 @@
 description: Plantillas de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Plantillas de correo electrónico
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -162,7 +164,7 @@ El editor procesa el fragmento dentro de la sección o el elemento de la estruct
 
 Una vez guardado el correo electrónico, aparecerá en la ficha _[!UICONTROL Utilizado por]_ de la página de detalles del fragmento. Los fragmentos agregados a una plantilla de correo electrónico no se pueden editar dentro de la plantilla; el fragmento de origen define el contenido.
 
-### Añadir Assets {#add-assets}
+### Añadir recursos {#add-assets}
 
 Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de la instancia de Marketo Engage.
 
