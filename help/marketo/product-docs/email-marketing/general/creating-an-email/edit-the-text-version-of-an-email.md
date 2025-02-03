@@ -4,9 +4,9 @@ description: 'Editar la versión de texto de un correo electrónico: documentos 
 title: Editar la versión de texto de un correo electrónico
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Al crear un correo electrónico, es posible que desee que su versión de texto e
 
 >[!CAUTION]
 >
->Si se selecciona **Copiar del HTML** o se vuelve a seleccionar **Copiar automáticamente del HTML** en los correos electrónicos que contienen contenido dinámico, el indicador Revisado se establecerá en _verdadero_ para todos los segmentos tanto en la versión de HTML como en la versión de texto del correo electrónico.
+>Si se selecciona **Copiar del HTML** o se vuelve a seleccionar **Copiar automáticamente del HTML** en los correos electrónicos que contienen contenido dinámico, el indicador Revisado se establecerá en _verdadero_ para todos los segmentos (lo que produce la marca de verificación verde que indica que se ha revisado) tanto en el HTML como en las versiones de texto del correo electrónico. Si realiza cualquiera de las acciones anteriores, asegúrese de volver a comprobar el contenido antes de enviarlo.
