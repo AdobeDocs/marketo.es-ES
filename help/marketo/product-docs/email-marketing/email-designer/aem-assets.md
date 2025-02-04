@@ -3,48 +3,57 @@ title: Trabajar con Experience Manager Assets
 description: Aprenda a utilizar recursos de imagen de un repositorio de AEM Assets conectado al crear contenido en Adobe Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '617'
 ht-degree: 1%
 
 ---
 
 # Uso de recursos de Experience Manager {#work-with-experience-manager-assets}
 
-Cuando _Adobe Experience Manager Assets as a Cloud Service_ esté integrado con Adobe Marketo Engage, podrá acceder fácilmente a los recursos digitales para usarlos en el contenido de marketing. A medida que crea su contenido, se puede acceder a los recursos desde el elemento _[!UICONTROL Assets]_ en el panel de navegación izquierdo y durante la creación de contenido de correo electrónico. También puede cargar recursos al repositorio conectado de _AEM Assets as a Cloud Service_ directamente desde el Marketo Engage. &lt;------- NILESH COMPROBARÁ
+Cuando _Adobe Experience Manager Assets as a Cloud Service_ esté integrado con Adobe Marketo Engage, podrá acceder fácilmente a los recursos digitales para usarlos en el contenido de marketing. A medida que crea su contenido, se puede acceder a los recursos desde el elemento _[!UICONTROL Experience Manager Assets]_ en el panel de navegación izquierdo.
+
+>[!PREREQUISITES]
+>
+>AEM Conecte el documento MKTO/.
 
 >[!NOTE]
 >
->Actualmente, solo se admiten en Marketo Engage los recursos de imagen de _Adobe Experience Manager Assets_. &lt;---- NILESH COMPROBARÁ: los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Actualmente, solo se admiten en Marketo Engage los recursos de imagen de _Adobe Experience Manager Assets_. Los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 Cuando usa estos recursos digitales, los cambios más recientes en _Assets as a Cloud Service_ se propagan automáticamente a las campañas de correo electrónico activas a través de referencias vinculadas. Si las imágenes se eliminan en _Adobe Experience Manager Assets as a Cloud Service_, aparecerán con una referencia rota en los mensajes de correo electrónico. Cuando se modifican o eliminan recursos que se utilizan actualmente en Marketo Engage, se notifica a los autores de correo electrónico sobre los cambios de imagen. Todos los cambios en los recursos deben realizarse en el repositorio central de Adobe Experience Manager Assets.
 
 ## Usar AEM Assets como origen de imagen {#use-aem-assets-as-the-image-source}
 
-Si su entorno tiene una o más conexiones de repositorio de Assets, puede designar a los AEM Assets como el origen de los recursos al crear o ver los detalles de un correo electrónico, una plantilla de correo electrónico o un fragmento visual.
+Si su entorno tiene una o más conexiones de repositorio de recursos, puede designar AEM Assets como origen de los recursos al crear o ver los detalles de un correo electrónico, una plantilla de correo electrónico o un fragmento visual.
 
 * Al crear contenido nuevo, elija `AEM Assets` como el elemento **[!UICONTROL Image Source]** del cuadro de diálogo.
 
 ![Seleccionar AEM Assets como origen de imagen en el cuadro de diálogo de creación](assets/work-with-experience-manager-assets-1.png){width="400"}
 
-* Al abrir un recurso de contenido existente, elija `AEM Assets` en el panel _[!UICONTROL Cuerpo]_ de la derecha.
+* Al abrir un recurso de contenido existente, elija `AEM Assets` en la sección _[!UICONTROL Cuerpo]_ de la derecha.
 
 ![Seleccionar AEM Assets como origen de imagen en las propiedades](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Acceso a recursos para la creación
+## Acceso a recursos para la creación {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >Un administrador debe añadir usuarios que necesiten acceder a los recursos a los perfiles de producto de Usuarios consumidores de Assets o Usuarios de Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-En el editor de contenido visual, haga clic en el icono _Selector de recursos_ en la barra lateral izquierda. Esto cambia el panel Herramientas a una lista de recursos disponibles en el repositorio seleccionado.
+En el editor de contenido visual, haga clic en el icono _Selector de recursos del Experience Manager_ en la barra lateral izquierda. Esto cambia el panel Herramientas a una lista de recursos disponibles en el repositorio seleccionado.
 
 ![Haga clic en el icono del selector de Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-AEM Si tiene más de un repositorio conectado, haga clic en la flecha de menú de **[!UICONTROL Repositorio]** para elegir el repositorio que desea utilizar.
+AEM Si tiene más de un repositorio conectado, haga clic en el botón **[!UICONTROL Administrar como]** para seleccionar el repositorio que desea usar.
 
 ![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+
+Elija el repositorio que desee.
+
+![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-five.png)
 
 Existen varios métodos para agregar un recurso de imagen al lienzo visual:
 

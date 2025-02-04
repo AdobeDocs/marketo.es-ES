@@ -4,9 +4,9 @@ description: 'Importar una lista de personas: documentos de Marketo, documentaci
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -44,6 +44,8 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    >* Asegúrese de que las direcciones de correo electrónico solo contienen caracteres ASCII.
    >
    >* Marketo **no** admite direcciones de correo electrónico que contengan emojis.
+   >
+   >* La importación de `NULL` valores mediante CSV podría generar un &quot;cambio de valor de datos&quot; para los campos numéricos en el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} de una persona, _incluso si los campos ya están en blanco_. Si tiene [Campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} que usan el déclencheur &quot;Valor de datos cambiado&quot; o &quot;Cambios en el valor de datos&quot;, asegúrese de usar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para asegurarse de que no se activen innecesariamente al realizar importaciones.
 
 ## Paso 2: Crear un programa {#step-create-a-program}
 
