@@ -4,7 +4,7 @@ description: Aprenda a utilizar recursos de imagen de un repositorio de AEM Asse
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ AEM Si tiene más de un repositorio conectado, haga clic en el botón **[!UICONT
 
 Elija el repositorio que desee.
 
-![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-five.png)
+![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-5.png)
 
 Existen varios métodos para agregar un recurso de imagen al lienzo visual:
 
 * Arrastre y suelte una miniatura de imagen desde el panel de navegación izquierdo.
 
-![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Agregue un componente de imagen al lienzo y haga clic en **[!UICONTROL Examinar]** para abrir el cuadro de diálogo _[!UICONTROL Seleccionar Assets]_.
 
@@ -67,7 +67,7 @@ Existen varios métodos para agregar un recurso de imagen al lienzo visual:
 
   Hay varias herramientas disponibles para ayudarle a localizar el recurso que necesita.
 
-![use la herramienta en el cuadro de diálogo Seleccionar Assets para buscar y seleccionar un recurso de imagen](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![use la herramienta en el cuadro de diálogo Seleccionar Assets para buscar y seleccionar un recurso de imagen](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Cambie **[!UICONTROL Repositorio]** en la parte superior derecha.
 
@@ -83,4 +83,4 @@ Existen varios métodos para agregar un recurso de imagen al lienzo visual:
 
 * Introduzca texto en el campo Buscar para filtrar los elementos mostrados para buscar una coincidencia del nombre del recurso.
 
-![Use los filtros y el campo de búsqueda para localizar el recurso](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Use los filtros y el campo de búsqueda para localizar el recurso](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
