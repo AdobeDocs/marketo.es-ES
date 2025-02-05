@@ -4,16 +4,16 @@ description: Aprenda a utilizar recursos de imagen de un repositorio de AEM Asse
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # Uso de recursos de Experience Manager {#work-with-experience-manager-assets}
 
-Cuando _Adobe Experience Manager Assets as a Cloud Service_ esté integrado con Adobe Marketo Engage, podrá acceder fácilmente a los recursos digitales para usarlos en el contenido de marketing. A medida que crea su contenido, se puede acceder a los recursos desde el elemento _[!UICONTROL Experience Manager Assets]_ en el panel de navegación izquierdo.
+Cuando _Adobe Experience Manager Assets as a Cloud Service_ esté integrado con Adobe Marketo Engage, podrá acceder fácilmente a los recursos digitales para usarlos en el contenido de marketing.
 
 >[!PREREQUISITES]
 >

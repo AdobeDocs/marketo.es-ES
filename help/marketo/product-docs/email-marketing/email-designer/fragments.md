@@ -4,16 +4,16 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '2402'
-ht-degree: 1%
+source-wordcount: '2029'
+ht-degree: 2%
 
 ---
 
 # Fragmentos
 
-Un fragmento es un componente reutilizable al que se puede hacer referencia en uno o varios correos electrónicos y plantillas de correo electrónico. Normalmente es un bloque de contenido (texto, imagen o ambos) que se puede crear e insertar rápidamente en el proyecto. Con esta funcionalidad, puede crear previamente varios bloques de contenido personalizado para combinar el contenido del correo electrónico y mejorar el proceso de diseño. Los casos de uso comunes incluyen bloques de contenido de encabezado/pie de página para correo electrónico, titulares de invitaciones a eventos, mensajes de temporada y mucho más.
+Un fragmento es un componente reutilizable al que se puede hacer referencia en uno o varios correos electrónicos y plantillas de correo electrónico. Normalmente es un bloque de contenido (texto, imagen o ambos) que se puede insertar rápidamente en el proyecto. Con esta funcionalidad, puede crear previamente varios bloques de contenido personalizado para combinar el contenido del correo electrónico y mejorar el proceso de diseño. Los casos de uso comunes incluyen bloques de contenido de encabezado/pie de página para correo electrónico, titulares de invitaciones a eventos, mensajes de temporada y mucho más.
 
 Para aprovechar al máximo los fragmentos de sus flujos de trabajo:
 
@@ -26,11 +26,11 @@ Los fragmentos visuales son bloques visuales predefinidos creados (mediante el e
 
 ## Acceso y administración de fragmentos {#access-and-manage-fragments}
 
-Para acceder a los fragmentos visuales, vaya a Design Studio. En el árbol de la izquierda, haga clic en **[!UICONTROL Fragmentos (nuevos)]**.
+Para tener acceso a los fragmentos visuales, vaya a **Design Studio**. En el árbol de la izquierda, haga clic en **[!UICONTROL Fragmentos (nuevos)]**.
 
 ![Fragmentos de acceso](assets/fragments-1.png){width="600" zoomable="yes"}
 
-De manera predeterminada, la tabla está ordenada por la columna _[!UICONTROL Modificada]_. Haga clic en otros títulos de columna para cambiar por qué se ordena la tabla. Haga clic de nuevo para cambiar entre ascendente y descendente.
+De manera predeterminada, la tabla está ordenada por la columna _[!UICONTROL Modificada]_. Haga clic en otros títulos de columna para cambiar por qué se ordena la tabla. Vuelva a hacer clic en el mismo título para cambiar entre ascendente y descendente.
 
 ### Estado del fragmento {#fragment-status}
 
@@ -75,7 +75,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 
 ### Filtrado de la lista de fragmentos {#filter-the-fragments-list}
 
-Utilice la barra de búsqueda para buscar un fragmento por nombre. Haga clic en el icono _Filtro_ ( ![Mostrar u ocultar filtros](assets/icon-filter.svg) ) para mostrar las opciones de filtro disponibles y elegir la configuración que desee.
+Utilice la barra de búsqueda para buscar un fragmento por nombre. Haga clic en el icono _Filtro_ ( ![Icono de filtro](assets/icon-filter.svg) ) para mostrar las opciones de filtro disponibles y elegir la configuración que desee.
 
 ![Filtrar los fragmentos mostrados](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
@@ -140,13 +140,13 @@ CAPTURA DE PANTALLA
 
 ## Ver detalles del fragmento {#view-fragment-details}
 
-Haga clic en el nombre de cualquier fragmento de la página de lista para abrir la página de detalles del fragmento. Puede editar el fragmento, cambiarle el nombre o actualizar su descripción. Realice actualizaciones y haga clic fuera del nombre o del campo de descripción para guardar automáticamente los cambios.
+Haga clic en el nombre de cualquier fragmento de la página de lista para abrir la página de detalles del fragmento. Puede editar el fragmento, cambiarle el nombre o actualizar su descripción. Realice actualizaciones y haga clic fuera del nombre o del campo de descripción para guardar los cambios.
 
 >[!NOTE]
 >
 >Si un fragmento publicado está siendo utilizado por una plantilla de correo electrónico o de correo electrónico, no puede cambiar su nombre ni editar el contenido. Puede crear una versión de borrador si desea realizar cambios en el fragmento.
 
-![Ver detalles de un fragmento publicado](assets/fragment-details-published.png){width="600" zoomable="yes"}
+![Ver detalles de un fragmento publicado](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 Haga clic en **[!UICONTROL Editar fragmento]** para abrir el fragmento en el editor de contenido visual.
 
@@ -160,9 +160,7 @@ En la página de detalles del fragmento, haga clic en la ficha **[!UICONTROL Uti
 >
 >Un fragmento que esté siendo utilizado actualmente por un correo electrónico o una plantilla de correo electrónico no se puede eliminar.
 
-Las referencias se muestran según la categoría: _Correo electrónico_ o _Plantilla de correo electrónico_. Los correos electrónicos de Journey Optimizer B2B edition están incrustados y creados en recorridos de cuenta, por lo que el recorrido principal del correo electrónico que utiliza el fragmento se muestra en las referencias. &lt;— ¿QUÉ HAY DE ESTA PARTE, NILESH
-
-![Utilizado por referencias para el fragmento](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
+![Utilizado por referencias para el fragmento](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 Haga clic en el vínculo para abrir el correo electrónico o la plantilla de correo electrónico correspondiente donde se utiliza el fragmento.
 
@@ -290,7 +288,7 @@ El fragmento duplicado aparecerá en la lista _Fragmentos_.
 
 ## Guardar un nuevo fragmento del contenido del correo electrónico o de la plantilla {#save-a-new-fragment-from-email-or-template-content}
 
-Al crear o editar un correo electrónico o una plantilla de correo electrónico en el editor de contenido visual, puede elegir guardar todo o parte del contenido como un fragmento para que esté disponible para reutilizarlo.
+Al crear o editar un correo electrónico o una plantilla de correo electrónico en el editor de contenido visual, puede guardar todo o parte del contenido como un fragmento para que esté disponible para su reutilización.
 
 1. Para guardar contenido como un fragmento, haga clic en **[!UICONTROL Más]** y elija **[!UICONTROL Guardar como fragmento]**.
 
@@ -302,41 +300,17 @@ Al crear o editar un correo electrónico o una plantilla de correo electrónico 
 
 1. Con el contenido seleccionado, haz clic en **[!UICONTROL Crear]** en la parte superior derecha.
 
-1. En el cuadro de diálogo, escriba un nombre y una descripción opcional para el fragmento. Luego haga clic en **[!UICONTROL Crear]**.
+1. En el cuadro de diálogo, escriba un nombre y una descripción opcional para el fragmento y haga clic en **[!UICONTROL Crear]**.
 
    A continuación, el fragmento se mostrará en la página de lista _Fragmentos_ y también estará disponible para su uso en correos electrónicos y plantillas de correo electrónico.
 
 ## Añadir fragmentos visuales al contenido del correo electrónico o de la plantilla {#add-visual-fragments-to-your-email-or-template-content}
 
-Los fragmentos están diseñados para su reutilización y puede añadir hasta 30 en un correo electrónico o plantilla de correo electrónico. Los fragmentos se pueden anidar hasta un solo nivel.
+Los fragmentos están diseñados para su reutilización. Puede añadir hasta 30 en un correo electrónico o plantilla de correo electrónico, y solo se pueden anidar hasta un nivel.
 
->[!BEGINTABS]
+* [Añadir un fragmento a un correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-fragments)
 
->[!TAB Agregar fragmentos a un correo electrónico]
-
-1. Vaya a **[!UICONTROL Recorridos de cuenta]** y abra un recorrido recorrido existente o cree uno nuevo. &lt;— SOLO SI ESTÁ DENTRO DEL CORREO ELECTRÓNICO O DE LA PLANTILLA DE CORREO ELECTRÓNICO
-
----------DEJÓ DE EDITAR AQUÍ---------
-
-1. Crear un nodo [_[!UICONTROL Enviar correo electrónico ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
-
-1. Cree o edite el contenido de [correo electrónico para el nodo](./email-authoring.md#create-the-email-content).
-
-1. Arrastre y suelte un elemento del menú **[!UICONTROL Componentes]** para proporcionar una _estructura_ para el fragmento.
-
-1. Para abrir la lista de fragmentos publicados, haga clic en el icono _Fragmentos_.
-
-   Puede hacer lo siguiente:
-   * Ordenar el listado.
-   * Examine, busque y filtre la lista.
-   * Cambiar entre las vistas de tarjeta (miniatura) y de lista.
-   * Actualice la lista para reflejar cualquiera de los fragmentos creados recientemente.
-
-CAPTURA DE PANTALLA
-
-1. Arrastre y suelte cualquier fragmento en el marcador de posición del componente de estructura.
-
-   El editor procesa el fragmento dentro de la sección o el elemento de la estructura de correo electrónico.
+* [Añadir un fragmento a una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#add-fragments)
 
 El contenido del fragmento se actualiza dinámicamente dentro de la estructura para procesar una representación visual de cómo aparece el contenido en el correo electrónico.
 
@@ -344,51 +318,17 @@ El contenido del fragmento se actualiza dinámicamente dentro de la estructura p
 >
 >Si desea que el fragmento ocupe todo el diseño horizontal del correo electrónico, agregue una estructura de columna [!UICONTROL 1:1] y, a continuación, arrastre y suelte el fragmento en él.
 
-Una vez guardado el correo electrónico, aparecerá en la página de detalles del fragmento cuando la pestaña _[!UICONTROL Utilizado por]_ esté seleccionada. Los fragmentos agregados a un correo electrónico no se pueden editar dentro del correo electrónico o la plantilla: el fragmento de origen publicado define el contenido.
+Una vez guardada la plantilla de correo electrónico/correo electrónico, aparecerá en la página de detalles del fragmento cuando se seleccione la pestaña _[!UICONTROL Utilizado por]_. Los fragmentos añadidos no se pueden editar dentro del correo electrónico o la plantilla; el fragmento de origen publicado define el contenido.
 
->[!TAB Agregar fragmentos a una plantilla de correo electrónico]
+## Acciones de fragmento durante la creación de correos electrónicos y plantillas {#fragment-actions-during-email-and-template-authoring}
 
-1. En el panel de navegación izquierdo, haga clic en **[!UICONTROL Administración de contenido]** > **[!UICONTROL Plantillas]**.
+Cuando se añade un fragmento a un correo electrónico o a una plantilla de correo electrónico, su contenido no se puede editar dentro del correo electrónico o la plantilla. Sin embargo, puede aplicar las siguientes acciones:
 
-1. Cree una nueva plantilla o abra una plantilla de correo electrónico existente y haga clic en **[!UICONTROL Editar plantilla de correo electrónico]**.
-
-1. Arrastre y suelte un elemento del menú **[!UICONTROL Componentes]** para proporcionar una _estructura_ para el fragmento.
-
-1. Para abrir la lista de fragmentos, haga clic en el icono _Fragmentos_.
-
-   Puede hacer lo siguiente:
-   * Ordenar el listado.
-   * Examine, busque y filtre la lista.
-   * Cambiar entre las vistas de tarjeta (miniatura) y de lista.
-   * Actualice la lista para reflejar cualquiera de los fragmentos creados recientemente.
-
-CAPTURA DE PANTALLA
-
-1. Arrastre y suelte cualquier fragmento en el marcador de posición del componente de estructura.
-
-   El editor procesa el fragmento dentro de la sección o el elemento de la estructura de la plantilla de correo electrónico.
-
-1. Arrastre y suelte cualquier fragmento en el marcador de posición del componente de estructura.
-
-   El editor procesa el fragmento dentro de la sección o el elemento de la estructura de la plantilla de correo electrónico.
-
->[!TIP]
->
->Si desea que el fragmento ocupe todo el diseño horizontal de la plantilla de correo electrónico, agregue una estructura de columna _[!UICONTROL 1:1]_ y, a continuación, arrastre y suelte el fragmento en ella.
-
-Una vez guardada la plantilla de correo electrónico, aparece en la página de detalles del fragmento cuando se selecciona la pestaña _[!UICONTROL Utilizado por]_. Los fragmentos agregados a una plantilla de correo electrónico no se pueden editar dentro de la plantilla: el fragmento de origen publicado define el contenido.
-
->[!ENDTABS]
-
-## Acciones de fragmento durante la creación de correos electrónicos y plantillas
-
-Cuando se agrega un fragmento a un correo electrónico o a una plantilla de correo electrónico, el contenido del fragmento no se puede editar dentro del correo electrónico o la plantilla. Sin embargo, puede aplicar las siguientes acciones:
-
-* **[!UICONTROL Eliminar]**: esta acción elimina el fragmento del contenido actual del correo electrónico o de la plantilla de correo electrónico (el origen del fragmento no se ve afectado).
-* **[!UICONTROL Actualizar]**: esta acción actualiza el contenido del fragmento en el correo electrónico o la plantilla de correo electrónico actual. La actualización es útil cuando desea reflejar cualquier edición reciente en el fragmento después de la adición al correo electrónico o a la plantilla de correo electrónico.
-* **[!UICONTROL Duplicado]**: esta acción duplica el fragmento dentro del mismo correo electrónico o plantilla de correo electrónico dentro del editor, con las mismas dimensiones y se agrega justo debajo de él.
-* **[!UICONTROL Abrir fragmento]**: esta acción abre una nueva pestaña del explorador con la página del editor de fragmentos y los detalles.
-* **[!UICONTROL Romper herencia]**: esta acción interrumpe la herencia del fragmento (y sus cambios) del origen. Utilice esta acción para que el contenido del fragmento esté disponible como contenido independiente y editable dentro del correo electrónico o la plantilla de correo electrónico. Esta acción también quita el correo electrónico o la plantilla de correo electrónico de la referencia _Utilizada por_ para el fragmento original.
+* **[!UICONTROL Eliminar]**: elimina el fragmento del contenido actual del correo electrónico o de la plantilla de correo electrónico (el origen del fragmento no se ve afectado).
+* **[!UICONTROL Actualizar]**: esto actualiza el contenido del fragmento en el correo electrónico o la plantilla de correo electrónico actual. La actualización es útil cuando desea reflejar cualquier edición reciente en el fragmento después de la adición al correo electrónico o a la plantilla de correo electrónico.
+* **[!UICONTROL Duplicado]**: duplica el fragmento en el mismo correo electrónico o plantilla de correo electrónico dentro del editor. El fragmento duplicado se agrega justo debajo del original.
+* **[!UICONTROL Abrir fragmento]**: Se abrirá una nueva pestaña del explorador con la página del editor de fragmentos y los detalles.
+* **[!UICONTROL Romper herencia]**: esto rompe la herencia del fragmento (y sus cambios) del origen. Utilice esta acción para que el contenido del fragmento esté disponible como contenido independiente y editable dentro del correo electrónico o la plantilla de correo electrónico. Esta acción también quita el correo electrónico o la plantilla de correo electrónico de la referencia _Utilizada por_ para el fragmento original.
 
 Al seleccionar el fragmento en la página del editor, estas acciones están disponibles en la barra de herramientas contextual y en el panel de propiedades de la derecha.
 
