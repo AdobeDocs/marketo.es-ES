@@ -3,9 +3,9 @@ description: Información general - Documentos de Marketo - Documentación del p
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en p
 * [Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo editor.
 
 * [Creación de plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
+
+* [Trabajar con AEM Assets AEM](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales para su uso en Marketo Engage de la red de trabajo de la red de recursos digitales para su uso en la red de recursos digitales.
 
 ## Preguntas frecuentes {#faq}
 
