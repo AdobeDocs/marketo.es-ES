@@ -3,38 +3,38 @@ title: Documento de acelerador de contenido
 description: Aprenda a...
 hide: true
 hidefromtoc: true
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
 
-# Documento de acelerador de contenido {#connect-experience-manager-doc}
+# Uso del acelerador de contenido del asistente de IA {#use-the-ai-assistant-content-accelerator}
 
-Acelerador de contenido (con capacidades Gen-AI)
+El Acelerador de contenido asistente de IA es una funcionalidad dentro de Marketo Engage Email Designer que ayuda a crear correos electrónicos contemporáneos, eficientes e intuitivos de una manera productiva. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con el Firefly para la generación de imágenes que ayuda a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
 
-El acelerador de contenido o asistente de IA es una funcionalidad dentro de la nueva Designer de correo electrónico que ayuda a los especialistas en marketing a crear correos electrónicos contemporáneos, eficaces e intuitivos de una manera productiva. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca de mensajes junto con el Firefly para la generación de imágenes que ayuda a los especialistas en marketing a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. También se pueden utilizar recursos de marca específicos para crear contenido con entradas de estos recursos de marca.
+>[!PREREQUISITES]
+>
+>El acelerador de contenido del asistente de IA no está habilitado de forma predeterminada. En primer lugar, debe aceptar los términos principales de la generación de IA y los términos suplementarios para utilizar la funcionalidad de la generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-Esta funcionalidad solo está habilitada para los clientes que han firmado los términos de la generación principal de IA y se les han ofrecido los términos suplementarios para utilizar la funcionalidad de la generación de IA en la nueva Designer de correo electrónico. Póngase en contacto con el representante de su cuenta para obtener acceso a esta funcionalidad. Esto no está disponible de forma predeterminada con el nuevo Designer de correo electrónico.
+Existen tres casos de uso principales para el acelerador de contenido del asistente de IA:
 
-El acelerador de contenido se puede utilizar para 3 casos de uso principales:
+* [Crea una línea de asunto](#create-a-subject-line) para tu correo electrónico
+* [Crea contenido para una sección específica](#create-content-for-a-specific-section) de tu correo electrónico
+* [Crear un correo electrónico completo](#create-an-entire-email) a partir de una plantilla seleccionada
 
-* Creación de una línea de asunto para el correo electrónico
-* Creación de un correo electrónico completo a partir de una plantilla seleccionada
-* Creación de contenido para una sección específica del correo electrónico
+## Crear una línea de asunto {#create-a-subject-line}
 
-## Crear una línea de asunto {#creating-a-subject-line}
+Cuando se cree un correo electrónico con la Nueva Designer de correo electrónico, introduzca una línea de asunto temporal.
 
-Cuando se crea un correo electrónico con la Nueva Designer de correo electrónico, puede introducir una línea de asunto temporal.
+CAPTURA DE PANTALLA
+
+Una vez creado el correo electrónico, la línea de asunto se encuentra en la columna _Detalles_, a la derecha. Haga clic en el botón del asistente de IA ( ![Icono de filtro](assets/icon-ai-assistant.png) ) que se encuentra junto a él para obtener ayuda con la creación de una nueva línea de asunto mediante la funcionalidad de IA general.
 
 CAPTURA DE PANTALLA
 
-Una vez creado el correo electrónico, la línea de asunto se muestra en la pestaña Details del carril derecho. Junto a la línea de asunto hay un botón de asistente de IA que ayuda a los especialistas en marketing a generar la línea de asunto mediante la funcionalidad de IA general.
-
-Al hacer clic en el botón, se abre la siguiente pantalla para proporcionar opciones y personalizar la generación de la línea de asunto.
-
-CAPTURA DE PANTALLA
+—DEJÓ DE EDITAR AQUÍ—
 
 Si ya ha utilizado una línea de asunto y desea utilizarla como referencia para la generación, alterne el botón &quot;Usar contenido de referencia&quot;.
 
@@ -47,15 +47,15 @@ La configuración de texto incluye:
 <table><tbody>
   <tr>
     <td><b>Grupo de compras</b></td>
-    <td>Grupo de compra específico al que se dirige, como influencer, responsable de la toma de decisiones, etc.</td>
+    <td>Grupo de compra específico al que se dirige (por ejemplo, CEO, influenciador, tomador de decisiones).</td>
   </tr>
   <tr>
     <td><b>Fase de Recorrido de marketing</b></td>
-    <td>Destinatarios en una fase concreta del recorrido de marketing, como Discover, Evaluar, Confirmar, etc.</td>
+    <td>Destinatarios en una fase de recorrido de marketing determinada (por ejemplo, Discover, Evaluar, Comprometer).</td>
   </tr>
   <tr>
     <td><b>Estrategia de comunicación</b></td>
-    <td>El objetivo de la comunicación, como Urgente, Prueba social, Informativa, etc</td>
+    <td>El objetivo de la comunicación (por ejemplo, urgente, prueba social, informativa).</td>
   </tr>
   <tr>
     <td><b>Idioma</b></td>
@@ -63,11 +63,11 @@ La configuración de texto incluye:
   </tr>
   <tr>
     <td><b>Tono</b></td>
-    <td>Tono en el que desea que se genere el contenido, como Inspiracional, Emocionante, Humorístico, etc.</td>
+    <td>Tono en el que desea que se genere el contenido (por ejemplo, Inspiracional, Emocionante, Humorístico).</td>
   </tr>
   <tr>
     <td><b>Emojis</b></td>
-    <td>Marque esta opción si quiere que los emojis se incluyan en la generación.</td>
+    <td>Permite incluir emojis en el contenido generado.</td>
   </tr>
 </tbody>
 </table>
@@ -83,6 +83,28 @@ CAPTURA DE PANTALLA
 Una vez seleccionada una variación, puede utilizarla seleccionando la variación en la casilla de verificación y haciendo clic en Seleccionar. También puede refinarlo haciendo clic en Refine y modificar la configuración. Además, puede proporcionar comentarios mediante los pulgares hacia arriba o hacia abajo para que la tecnología Gen-AI entienda qué funciona según sus preferencias.
 
 Al seleccionar, puede ver que la línea de asunto se rellena en los detalles del correo electrónico
+
+CAPTURA DE PANTALLA
+
+## Creación de contenido para una sección específica del correo electrónico {#create-content-for-a-specific-section}
+
+Una vez creado el correo electrónico mediante el asistente de IA a partir de una plantilla de correo electrónico, es posible que aún desee modificar determinadas partes de la imagen, como el correo electrónico o el texto.
+
+CAPTURA DE PANTALLA
+
+A partir del correo electrónico anterior que se generó, la imagen del experto en atención médica no es correcta, por lo que es posible que desee indicar al asistente de IA que cree una imagen de un experto en atención médica solo como representación, si no tiene una imagen real.
+
+En tal caso, es posible que desee seleccionar una parte del correo electrónico y, a continuación, utilizar el asistente de IA para crear contenido específico para esa sección. Seleccione el contenido de la imagen y haga clic en el asistente de IA.
+
+CAPTURA DE PANTALLA
+
+Introduzca los detalles relevantes en el mensaje, como &quot;generar una imagen para un experto en atención médica&quot; y añada cualquier personalización, si es necesario. También puede utilizar la biblioteca de mensajes a la derecha del mensaje si no está seguro del mensaje que desea introducir.
+
+Al hacer clic en &quot;Generar&quot;, se crean varias variantes y puede elegir la que se adapte al contenido del correo electrónico.
+
+CAPTURA DE PANTALLA
+
+De forma similar a la imagen, cualquier otra parte del contenido, como el texto, también se puede modificar.
 
 CAPTURA DE PANTALLA
 
@@ -107,26 +129,3 @@ Seleccione la configuración adecuada, como Tipo de contenido, Color y tono, Ilu
 CAPTURA DE PANTALLA
 
 Seleccione una de las variaciones para previsualizarla haciendo clic en Vista previa o aplique la variación para reflejar el cambio en el lienzo.
-
-
-## Creación de contenido para una sección específica del correo electrónico {#create-content-for-a-specific-section}
-
-Una vez creado el correo electrónico mediante el asistente de IA a partir de una plantilla de correo electrónico, es posible que aún desee modificar determinadas partes de la imagen, como el correo electrónico o el texto.
-
-CAPTURA DE PANTALLA
-
-A partir del correo electrónico anterior que se generó, la imagen del experto en atención médica no es correcta, por lo que es posible que desee indicar al asistente de IA que cree una imagen de un experto en atención médica solo como representación, si no tiene una imagen real.
-
-En tal caso, es posible que desee seleccionar una parte del correo electrónico y, a continuación, utilizar el asistente de IA para crear contenido específico para esa sección. Seleccione el contenido de la imagen y haga clic en el asistente de IA.
-
-CAPTURA DE PANTALLA
-
-Introduzca los detalles relevantes en el mensaje, como &quot;generar una imagen para un experto en atención médica&quot; y añada cualquier personalización, si es necesario. También puede utilizar la biblioteca de mensajes a la derecha del mensaje si no está seguro del mensaje que desea introducir.
-
-Al hacer clic en &quot;Generar&quot;, se crean varias variantes y puede elegir la que se adapte al contenido del correo electrónico.
-
-CAPTURA DE PANTALLA
-
-De forma similar a la imagen, cualquier otra parte del contenido, como el texto, también se puede modificar.
-
-CAPTURA DE PANTALLA
