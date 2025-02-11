@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo engage
 title: Edición de imágenes con Adobe Express
-description: Obtenga información sobre cómo editar imágenes en el Editor de correo electrónico de Adobe Marketo Engage mediante el Adobe Express.
+description: Obtenga información sobre cómo editar imágenes en el Editor de correo electrónico de Adobe Marketo Engage mediante Adobe Express.
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 Adobe Marketo Engage se integra de forma nativa con Adobe Express, lo que le permite acceder a una variedad de herramientas de edición de imágenes. Puede utilizar estas herramientas para modificar las imágenes en Marketo Engage Design Studio. La integración ofrece las siguientes ventajas clave:
 
-* Se ha aumentado la reutilización del contenido editando y guardando nuevas imágenes en el Marketo Engage.
+* Se ha aumentado la reutilización del contenido editando y guardando nuevas imágenes en Marketo Engage.
 
 * Se ha reducido el tiempo y el esfuerzo necesarios para actualizar imágenes o crear nuevas versiones de imágenes existentes.
 
@@ -47,7 +48,7 @@ Existen dos formas de acceder al editor de Adobe Express.
    >
    >* Para ordenar la tabla por cualquiera de las columnas, haga clic en el título de la columna. La flecha de la fila de título indica la columna de ordenación y el orden actuales.
 
-1. En la ficha _Detalles_ de la imagen, haga clic en **Editar en el Adobe Express**.
+1. En la ficha _Detalles_ de la imagen, haga clic en **Editar en Adobe Express**.
 
    CAPTURA DE PANTALLA
 
@@ -71,7 +72,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
    CAPTURA DE PANTALLA
 
-1. En la lista desplegable **[!UICONTROL Acciones de imagen y archivo]**, seleccione **[!UICONTROL Editar en el Adobe Express]**.
+1. En la lista desplegable **[!UICONTROL Acciones de imagen y archivo]**, seleccione **[!UICONTROL Editar en Adobe Express]**.
 
    >[!CAUTION]
    >
@@ -81,7 +82,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 ## Usuarios con una licencia de empresa {#users-with-an-enterprise-license}
 
-Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express. Puede ajustar la configuración, como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más de una imagen. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de la imagen.
+Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express completo. Puede ajustar la configuración de la imagen como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de una imagen.
 
 >[!IMPORTANT]
 >
@@ -105,11 +106,11 @@ Para los que no tengan una licencia Enterprise, seguirá teniendo acceso a varia
 * Quitar fondo
 * Recortar imagen
 * Convertir a PNG
-* Convertir en JPEG
+* Convertir a JPEG
 
 Haga clic en Recortar imagen en la página.
 
-En el editor de Adobes Express, realice el recorte en la imagen y haga clic en Guardar.
+En el editor de Adobe Express, realice el recorte en la imagen y haga clic en Guardar.
 
 Nota: Esta acción no sobrescribirá la imagen, pero le presentará la imagen para editarla más adelante.
 
@@ -130,8 +131,8 @@ Aparecerá una opción para Editar con Adobe Express. Haga clic en el botón par
 
 Nota: Esta acción está disponible para imágenes obtenidas originalmente del repositorio de Marketo Design Studio.
 
-Si la imagen está en uso, aparecerá un cuadro de diálogo de alerta para informarle de que cualquier cambio que realice afectará a ese contenido. Haga clic en Continuar para continuar con el editor de Adobes Express.
+Si la imagen está en uso, aparecerá un cuadro de diálogo de alerta para informarle de que cualquier cambio que realice afectará a ese contenido. Haga clic en Continuar para continuar con el editor de Adobe Express.
 
-Finalice la edición en el Adobe Express
+Finalice la edición en Adobe Express
 
 Haga clic en Guardar para completar la acción.  La imagen editada se guardará en la misma carpeta que la imagen original y también se actualizará en el lienzo de edición de correo electrónico.

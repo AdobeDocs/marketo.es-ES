@@ -5,9 +5,9 @@ description: Información general - Documentos de Marketo - Documentación del p
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en p
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 
@@ -48,9 +48,9 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 
 * [Creación de plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
 
-* AEM AEM [Trabaje con recursos de la](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales para su uso en Marketo Engage.
+* [Trabaje con recursos de AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales de AEM para usarlos en Marketo Engage.
 
-* [Use el acelerador de contenido del asistente de IA](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: aproveche la tecnología de IA generativa de Adobe para agregar texto o imágenes útiles a sus correos electrónicos.
+* [Use el asistente de IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: aproveche la tecnología de IA generativa de Adobe para agregar texto o imágenes útiles a sus correos electrónicos.
 
 * [Bloquear contenido en plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: aprenda a bloquear contenido en plantillas de correo electrónico para evitar ediciones o eliminaciones no intencionales.
 
@@ -62,7 +62,7 @@ Sí, el antiguo editor de correo electrónico (clásico) coexistirá con el nuev
 
 **¿Funcionarán las plantillas de correo electrónico existentes en el nuevo diseñador? Si no es así, ¿es necesario crear plantillas con el nuevo diseñador para que todas las secciones/módulos se correspondan con el aspecto que queremos que tenga el contenido?**
 
-No, no se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar el HTML de plantillas en el nuevo diseñador y realizar los ajustes necesarios. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+No, no se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar HTML de plantilla en el nuevo diseñador y realizar los ajustes necesarios. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
 
 **¿Hay alguna forma de reforzar la marca (fuentes, logotipos y colores)?**
 
@@ -74,8 +74,8 @@ Sí, absolutamente, más personalizable con nuestro editor de WYSIWYG (lo que se
 
 **¿Cómo funciona el proceso de creación de plantillas de correo electrónico en el nuevo diseñador? ¿Es WYSIWYG o requiere conocimientos de HTML?**
 
-Es WYSIWYG; el conocimiento del HTML no es necesario. Puede crear fácilmente
-plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web externos. Sin embargo, aún tiene la opción de actualizar el CSS y editar secciones individuales mediante el HTML. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+Es WYSIWYG; no es necesario tener conocimientos de HTML. Puede crear fácilmente
+plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web externos. Sin embargo, aún tiene la opción de actualizar CSS y editar secciones individuales a través de HTML. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
 
 **¿Admite el nuevo diseñador de correo electrónico el lenguaje AMP?**
 
@@ -85,6 +85,6 @@ En este momento no admite AMP.
 
 Actualmente, el nuevo diseñador solo admite atributos, pero estamos trabajando para que se añadan segmentos en una versión futura.
 
-**¿Cómo puedo saber si nuestra suscripción de Marketo Engage se ha migrado a IMS (Adobe Admin Console)?**
+**¿Cómo puedo saber si nuestra suscripción a Marketo Engage se ha migrado a IMS (Adobe Admin Console)?**
 
-Si inicias sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, se ha migrado tu suscripción.
+Si inicias sesión en Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, se ha migrado tu suscripción.
