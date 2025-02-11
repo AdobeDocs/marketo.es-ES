@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -36,11 +36,11 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]** y seleccione **[!UICONTROL Imágenes y archivos]**.
 
-   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Seleccione la imagen que desea editar (o cree una nueva).
 
-   CAPTURA DE PANTALLA
+   CAPTURA 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 1. En la ficha _Detalles_ de la imagen, haga clic en **Editar en Adobe Express**.
 
-   CAPTURA DE PANTALLA
+   CAPTURA 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]** y seleccione **[!UICONTROL Imágenes y archivos]**.
 
-   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 1. Seleccione la casilla de verificación situada junto a la imagen que desea editar.
 
-   CAPTURA DE PANTALLA
+   CAPTURA 2b
 
 1. En la lista desplegable **[!UICONTROL Acciones de imagen y archivo]**, seleccione **[!UICONTROL Editar en Adobe Express]**.
 
@@ -80,7 +80,9 @@ Existen dos formas de acceder al editor de Adobe Express.
 
 >[!ENDTABS]
 
-## Usuarios con una licencia de empresa {#users-with-an-enterprise-license}
+## Licencia de Adobe Express Enterprise {#adobe-express-enterprise-license}
+
+### Usuarios con una licencia de empresa {#users-with-an-enterprise-license}
 
 Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express completo. Puede ajustar la configuración de la imagen como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de una imagen.
 
@@ -88,25 +90,56 @@ Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Expr
 >
 >La licencia adquirida debe estar en la misma organización de IMS que la suscripción de Marketo Engage para acceder a todas las funcionalidades de edición de Adobe Express. Además, cada usuario individual debe tener una licencia en Adobe Express. Los usuarios [sin licencia](#users-without-an-enterprise-license) solo pueden acceder a las acciones rápidas en Adobe Express.
 
-Haga clic en Editar con Adobe Express para abrir la imagen.
-
-CAPTURA DE PANTALLA
-
-Realice los cambios necesarios y guarde el archivo.
-
-CAPTURA DE PANTALLA
-
-Haga clic en Guardar para completar la acción.
-
 ## Usuarios sin licencia de empresa {#users-without-an-enterprise-license}
 
 Para los que no tengan una licencia Enterprise, seguirá teniendo acceso a varias funciones de edición de acciones rápidas. Estas son las características:
 
-* Redimensionar imagen
-* Quitar fondo
-* Recortar imagen
-* Convertir a PNG
-* Convertir a JPEG
+* [Redimensionar imagen](#resize-image)
+* [Quitar fondo](#remove-background)
+* [Recortar imagen](#crop-image)
+* [Convertir a PNG/JPEG](#convert-to-png-jpeg)
+
+Se puede acceder a las funciones de en la parte superior izquierda de la página de imagen.
+
+CAPTURA DE PANTALLA
+
+### Redimensionar imagen {#resize-image}
+
+Realice los cambios que desee y haga clic en **Aplicar** cuando haya terminado.
+
+CAPTURA DE PANTALLA
+
+<table><tbody>
+  <tr>
+    <td><b>Proporción de aspecto</b></td>
+    <td>En el menú desplegable <b>Proporción de aspecto</b>, elija <b>Estándar</b> en BLANCO o <b>Personalizado</b> para establecer su propia anchura y altura.</td>
+  </tr>
+  <tr>
+    <td><b>Anchura y altura</b></td>
+    <td>De forma predeterminada, la proporción de aspecto está bloqueada, manteniendo las mismas proporciones de imagen al ajustar su tamaño. Si lo desea, puede seleccionar el botón de bloqueo para desbloquear la relación de aspecto.</td>
+  </tr>
+  <tr>
+    <td><b>Restablecer</b></td>
+    <td>Haga clic en <b>Restablecer</b> para eliminar las ediciones realizadas en la imagen y devolverla a su estado original.</td>
+  </tr>
+  <tr>
+    <td><b>Zoom y recorte</b></td>
+    <td>Haga clic en Zoom y recorte para ampliar áreas específicas de la imagen.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Quitar fondo {#remove-background}
+
+texto
+
+### Recortar imagen {#crop-image}
+
+Texto
+
+### Convertir a PNG/JPEG {#convert-to-png-jpeg}
 
 Haga clic en Recortar imagen en la página.
 
