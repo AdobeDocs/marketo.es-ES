@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Existen dos formas de acceder al editor de Adobe Express.
 
    >[!NOTE]
    >
-   >* Para ver los recursos por área de trabajo y carpeta, abra la estructura haciendo clic en el icono **Mostrar carpetas** en la parte superior izquierda.
+   >* Para ver los recursos por área de trabajo y carpeta, abra la estructura haciendo clic en el icono **[!UICONTROL Mostrar carpetas]** en la parte superior izquierda.
    >
    >* Para ordenar la tabla por cualquiera de las columnas, haga clic en el título de la columna. La flecha de la fila de título indica la columna de ordenación y el orden actuales.
 
-1. En la ficha _Detalles_ de la imagen, haga clic en **Editar en Adobe Express**.
+1. En la ficha _Detalles_ de la imagen, haga clic en **[!UICONTROL Editar en Adobe Express]**.
 
    CAPTURA 3a
 
@@ -64,7 +64,7 @@ Existen dos formas de acceder al editor de Adobe Express.
 
    >[!NOTE]
    >
-   >* Para ver los recursos por área de trabajo y carpeta, abra la estructura haciendo clic en el icono **Mostrar carpetas** en la parte superior izquierda.
+   >* Para ver los recursos por área de trabajo y carpeta, abra la estructura haciendo clic en el icono **[!UICONTROL Mostrar carpetas]** en la parte superior izquierda.
    >
    >* Para ordenar la tabla por cualquiera de las columnas, haga clic en el título de la columna. La flecha de la fila de título indica la columna de ordenación y el orden actuales.
 
@@ -90,7 +90,7 @@ Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Expr
 >
 >La licencia adquirida debe estar en la misma organización de IMS que la suscripción de Marketo Engage para acceder a todas las funcionalidades de edición de Adobe Express. Además, cada usuario individual debe tener una licencia en Adobe Express. Los usuarios [sin licencia](#users-without-an-enterprise-license) solo pueden acceder a las acciones rápidas en Adobe Express.
 
-## Usuarios sin licencia de empresa {#users-without-an-enterprise-license}
+### Usuarios sin licencia de empresa {#users-without-an-enterprise-license}
 
 Para los que no tengan una licencia Enterprise, seguirá teniendo acceso a varias funciones de edición de acciones rápidas. Estas son las características:
 
@@ -103,9 +103,11 @@ Se puede acceder a las funciones de en la parte superior izquierda de la página
 
 CAPTURA DE PANTALLA
 
-### Redimensionar imagen {#resize-image}
+#### Redimensionar imagen {#resize-image}
 
-Realice los cambios que desee y haga clic en **Aplicar** cuando haya terminado.
+1. Haga clic en **Cambiar tamaño de imagen**.
+
+1. Realice los cambios que desee y haga clic en **Aplicar** cuando haya terminado.
 
 CAPTURA DE PANTALLA
 
@@ -124,22 +126,42 @@ CAPTURA DE PANTALLA
   </tr>
   <tr>
     <td><b>Zoom y recorte</b></td>
-    <td>Haga clic en Zoom y recorte para ampliar áreas específicas de la imagen.</td>
+    <td>Haga clic en <b>Zoom y recorte</b> para ampliar áreas específicas de la imagen.</td>
   </tr>
 </tbody>
 </table>
 
+#### Quitar fondo {#remove-background}
 
+1. Haga clic en **Quitar fondo**.
 
-### Quitar fondo {#remove-background}
+1. Adobe Express muestra la imagen sin fondo. Haga clic en **Aplicar**.
 
-texto
+PIC
 
-### Recortar imagen {#crop-image}
+>[!TIP]
+>
+>Para restaurar el fondo, selecciona la imagen y selecciona de nuevo **Quitar fondo**.
 
-Texto
+#### Recortar imagen {#crop-image}
 
-### Convertir a PNG/JPEG {#convert-to-png-jpeg}
+1. Haga clic en Recortar imagen.
+
+1. Arrastre las esquinas de la imagen para crear el recorte deseado.
+
+CAPTURA DE PANTALLA
+
+1. Haga clic en **Aplicar** cuando haya terminado.
+
+#### Convertir a PNG/JPEG {#convert-to-png-jpeg}
+
+Convierta un PNG en JPEG o un JPEG en PNG.
+
+1. Haga clic en **Convertir a PNG/JPEG**.
+
+1. Haga clic en **Aplicar**.
+
+RECORTAR MATERIAL A CONTINUACIÓN
 
 Haga clic en Recortar imagen en la página.
 
@@ -151,21 +173,10 @@ Puede realizar más actualizaciones con otra opción del panel izquierdo, hacer 
 
 Haga clic en Guardar para completar la acción.
 
-Acceso al editor desde la página de lista de imágenes y archivos
-En la página del listado, seleccione la imagen que desea editar y haga clic en las comillas angulares del botón de acción Imagen y archivos de la página.
+## Guarde el trabajo {#save-your-work}
 
-Haga clic en Editar con Adobe Express
+Cuando haya terminado con todas las ediciones, haga clic en Guardar para guardar el trabajo.
 
-Acceso al Editor desde el Designer de correo electrónico
+CAPTURA DE PANTALLA
 
-En el nuevo Designer de correo electrónico, seleccione la imagen que desee editar.
-
-Aparecerá una opción para Editar con Adobe Express. Haga clic en el botón para continuar.
-
-Nota: Esta acción está disponible para imágenes obtenidas originalmente del repositorio de Marketo Design Studio.
-
-Si la imagen está en uso, aparecerá un cuadro de diálogo de alerta para informarle de que cualquier cambio que realice afectará a ese contenido. Haga clic en Continuar para continuar con el editor de Adobe Express.
-
-Finalice la edición en Adobe Express
-
-Haga clic en Guardar para completar la acción.  La imagen editada se guardará en la misma carpeta que la imagen original y también se actualizará en el lienzo de edición de correo electrónico.
+La imagen editada se guarda en la misma carpeta que la imagen original.
