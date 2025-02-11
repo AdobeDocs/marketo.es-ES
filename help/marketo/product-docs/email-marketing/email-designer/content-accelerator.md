@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: Uso del acelerador de contenido del asistente de IA
-description: Aproveche la tecnología de IA generativa de Adobe para añadir texto útil o imágenes impresionantes a sus correos electrónicos.
+description: Aproveche la tecnología de IA generativa de Adobe para añadir texto o imágenes útiles a sus correos electrónicos.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -46,27 +46,27 @@ La configuración de texto incluye:
 
 <table><tbody>
   <tr>
-    <td><b>Grupo de compras</b></td>
+    <td style="width:25%"><b>Grupo de compras</b></td>
     <td>Grupo de compra específico al que se dirige (por ejemplo, Profesional, Influencer, Responsable de la toma de decisiones).</td>
   </tr>
   <tr>
-    <td><b>Fase de Recorrido de marketing</b></td>
+    <td style="width:25%"><b>Fase de Recorrido de marketing</b></td>
     <td>Destinatarios en una fase de recorrido de marketing determinada (por ejemplo, Discover, Evaluar, Comprometer).</td>
   </tr>
   <tr>
-    <td><b>Estrategia de comunicación</b></td>
+    <td style="width:25%"><b>Estrategia de comunicación</b></td>
     <td>El objetivo de la comunicación (por ejemplo, urgente, prueba social, informativa).</td>
   </tr>
   <tr>
-    <td><b>Idioma</b></td>
+    <td style="width:25%"><b>Idioma</b></td>
     <td>Idioma en el que desea que se genere la línea de asunto.</td>
   </tr>
   <tr>
-    <td><b>Tono</b></td>
+    <td style="width:25%"><b>Tono</b></td>
     <td>Tono en el que desea que se genere el contenido (por ejemplo, Inspiracional, Emocionante, Humorístico).</td>
   </tr>
   <tr>
-    <td><b>Emojis</b></td>
+    <td style="width:25%"><b>Emojis</b></td>
     <td>Permite incluir emojis en el contenido generado.</td>
   </tr>
 </tbody>

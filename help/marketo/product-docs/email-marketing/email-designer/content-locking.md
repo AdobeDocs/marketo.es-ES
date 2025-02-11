@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: Bloqueo del contenido en las plantillas de correo electrónico
 description: Aprenda a bloquear contenido en las plantillas de correo electrónico.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 11%
+source-wordcount: '891'
+ht-degree: 9%
 
 ---
 
@@ -41,11 +40,9 @@ El bloqueo de contenido se puede aplicar en el nivel **structure** o en el nivel
 
 Puede activar el bloqueo de contenido para una plantilla de correo electrónico directamente en la Designer de correo electrónico, tanto si está creando una plantilla nueva como si está editando una existente.
 
-—DEJÓ DE EDITAR AQUÍ—
-
 1. Abra o cree una plantilla de correo electrónico y acceda a la pantalla de edición de contenido en el Designer de correo electrónico.
 
-1. En el panel **[!UICONTROL Cuerpo]** de la derecha, active la opción **[!UICONTROL Gobernanza]**.
+1. En el panel **[!UICONTROL Cuerpo]** de la derecha, habilite la opción **[!UICONTROL Gobernanza]**.
 
 1. En la lista desplegable **[!UICONTROL Modo]**, seleccione el modo de bloqueo que desee para la plantilla:
 
@@ -54,7 +51,7 @@ Puede activar el bloqueo de contenido para una plantilla de correo electrónico 
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Si seleccionó el modo **[!UICONTROL Bloqueo de contenido]**, puede definir con más detalle cómo los usuarios pueden interactuar con la plantilla. Active la opción **[!UICONTROL Habilitar edición de contenido]** y elija una de las siguientes opciones:
+1. Si seleccionó el modo **[!UICONTROL Bloqueo de contenido]**, puede definir con más detalle cómo los usuarios pueden interactuar con la plantilla. Habilite la opción **[!UICONTROL Habilitar edición de contenido]** y elija una de las siguientes opciones:
 
    * **[!UICONTROL Permitir la adición de estructura y contenido]**: los usuarios pueden agregar estructuras entre las existentes y agregar componentes de contenido o fragmentos dentro de estructuras editables.
 
@@ -65,7 +62,7 @@ Puede activar el bloqueo de contenido para una plantilla de correo electrónico 
    * [Aprenda a bloquear estructuras](#lock-structures)
    * [Aprenda a bloquear componentes](#lock-components)
 
-   Si elige el modo **[!UICONTROL Solo lectura]**, puede finalizar y guardar la plantilla como de costumbre.
+   Si eligió el modo **[!UICONTROL Solo lectura]**, puede finalizar y guardar la plantilla.
 
 Puede ajustar la configuración de **[!UICONTROL Governance]** en cualquier momento al diseñar la plantilla seleccionando el cuerpo de la plantilla. Para ello, haga clic en el vínculo **[!UICONTROL Cuerpo]** en el carril de navegación ubicado en la parte superior del panel derecho.
 
@@ -89,7 +86,7 @@ Después de bloquear una estructura, no se pueden duplicar ni agregar más compo
 
 1. Seleccione el componente que desea desbloquear.
 
-1. Active la opción **[!UICONTROL Usar bloqueo específico]**.
+1. Habilitar la opción **[!UICONTROL Usar bloqueo específico]**.
 
 1. En la lista desplegable **[!UICONTROL Bloquear tipo]**, elija **[!UICONTROL Editable]**. Para permitir la edición de contenido al bloquear estilos, seleccione **[!UICONTROL Solo contenido editable]**. [Aprenda a bloquear componentes](#lock-components)
 
@@ -126,16 +123,11 @@ En el ejemplo siguiente, el control está habilitado para el cuerpo de la planti
 
 Cuando se usa una plantilla con contenido bloqueado, aparece el mensaje **[!UICONTROL Gobernanza habilitada]** en el panel derecho.
 
-Según el tipo de bloqueo aplicado a la plantilla, puede realizar diferentes acciones en las estructuras y componentes de la plantilla. Para identificar rápidamente todas las áreas editables dentro de la plantilla, active la opción **[!UICONTROL Resaltar áreas editables]**.
+Según el tipo de bloqueo aplicado a la plantilla, puede realizar diferentes acciones en las estructuras y componentes de la plantilla. Para identificar rápidamente todas las áreas editables dentro de la plantilla, habilite la opción **[!UICONTROL Resaltar áreas editables]**.
 
 Por ejemplo, en la plantilla siguiente, todas las áreas son editables, excepto la imagen superior que se ha bloqueado, lo que significa que no puede editarla ni quitarla.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
-
-Para obtener información detallada sobre los distintos tipos de bloqueo que se pueden aplicar, consulte estas secciones:
-
-* [Bloqueo de estructuras](#lock-structures)
-* [Bloqueo de componentes](#lock-components)
 
 Estos son algunos ejemplos de edición de correos electrónicos y de la configuración de bloqueo de contenido asociada que se ha configurado:
 
