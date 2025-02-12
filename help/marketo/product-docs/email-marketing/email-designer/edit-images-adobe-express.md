@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo engage
 title: Edición de imágenes con Adobe Express
-description: Aprenda a editar imágenes en Adobe Systems Marketo Engage Email Editor mediante Adobe Systems Express.
+description: Obtenga información sobre cómo editar imágenes en el Editor de correo electrónico de Adobe Marketo Engage mediante Adobe Express.
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -18,25 +18,28 @@ ht-degree: 1%
 
 Adobe Marketo Engage se integra de forma nativa con Adobe Express, lo que le permite acceder a una variedad de herramientas de edición de imágenes. Puede utilizar estas herramientas para modificar las imágenes en Marketo Engage Design Studio. La integración ofrece las siguientes ventajas clave:
 
-* Mayor contenido reutilización mediante la edición y el guardado de nuevas imágenes en Marketo Engage.
+* Se ha aumentado la reutilización del contenido editando y guardando nuevas imágenes en Marketo Engage.
 
-* Reducción del tiempo y el esfuerzo en la actualización de imágenes o en la creación de nuevas versiones de imágenes existentes.
+* Se ha reducido el tiempo y el esfuerzo necesarios para actualizar imágenes o crear nuevas versiones de imágenes existentes.
 
 >[!NOTE]
 >
->Adobe Systems Express solo admite los formatos archivo de imagen PNG y JPEG en este momento.
+>Adobe Express solo admite los formatos de archivo de imagen PNG y JPEG en este momento.
 
-## Acceda al editor Adobe Systems Express {#access-the-adobe-express-editor}
+## Acceso al editor de Adobe Express {#access-the-adobe-express-editor}
 
-Existen dos formas de acceder al editor Adobe Systems Express.
+Existen dos formas de acceder al editor de Adobe Express:
+
+* Haga clic en el nombre de la imagen
+* _Menú desplegable de acciones de imágenes y archivos_
 
 >[!BEGINTABS]
 
 >[!TAB Haga clic en el nombre de la imagen]
 
-1. En Marketo Engage, vaya a Design **[!UICONTROL Studio y seleccione**[!UICONTROL  Imágenes y Archivos ]**]**.
+1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]** y seleccione **[!UICONTROL Imágenes y archivos]**.
 
-   ![Seleccionar imágenes y Archivos en la barra de navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
+   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Seleccione la imagen que desee editar.
 
@@ -54,52 +57,52 @@ Existen dos formas de acceder al editor Adobe Systems Express.
 
    >[!CAUTION]
    >
-   >Si ya se hace referencia a la imagen en una correo electrónico o correo electrónico plantilla, cualquier edición realizada actualizará esa imagen en todos los lugares donde se esté utilizando actualmente.
+   >Si ya se hace referencia a la imagen en una plantilla de correo electrónico o de correo electrónico, las ediciones realizadas actualizarán la imagen en cualquier lugar donde se esté utilizando actualmente.
 
->[!TAB Imagen y acciones de archivo]
+>[!TAB Acciones de imagen y archivo]
 
-1. En Marketo Engage, vaya a Design **[!UICONTROL Studio y seleccione**[!UICONTROL  Imágenes y Archivos ]**]**.
+1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]** y seleccione **[!UICONTROL Imágenes y archivos]**.
 
-   ![Seleccionar imágenes y Archivos en la barra de navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
+   ![Seleccionar imágenes y archivos en la navegación izquierda de Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* Para vista la activos por espacio de trabajo y carpeta, abra la estructura haciendo clic en el **[!UICONTROL icono Carpetas]** de Mostrar en la parte superior izquierda.
+   >* Para ver los recursos por área de trabajo y carpeta, abra la estructura haciendo clic en el icono **[!UICONTROL Mostrar carpetas]** en la parte superior izquierda.
    >
    >* Para ordenar la tabla por cualquiera de las columnas, haga clic en el título de la columna. La flecha de la fila de título indica la columna de ordenación y el orden actuales.
 
-1. Seleccione la casilla de verificación situada junto a la imagen que desea editar. En el **[!UICONTROL menú desplegable Acciones]** de Imagen y archivo, seleccione **[!UICONTROL Editar en Adobe Systems Express]**.
+1. Seleccione la casilla de verificación situada junto a la imagen que desea editar. En la lista desplegable **[!UICONTROL Acciones de imagen y archivo]**, seleccione **[!UICONTROL Editar en Adobe Express]**.
 
-   ![Seleccione la casilla de verificación situada junto al nombre de la imagen y utilice la lista desplegable Imágenes y acciones de archivo](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![Al seleccionar la casilla de verificación situada junto al nombre de la imagen y utilizar la lista desplegable Acciones de imágenes y archivos](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
-   >Si ya se hace referencia a la imagen en una correo electrónico o correo electrónico plantilla, cualquier edición realizada actualizará esa imagen en todos los lugares donde se esté utilizando actualmente.
+   >Si ya se hace referencia a la imagen en una plantilla de correo electrónico o de correo electrónico, las ediciones realizadas actualizarán la imagen en cualquier lugar donde se esté utilizando actualmente.
 
 >[!ENDTABS]
 
-## Licencia Adobe Systems Express Enterprise {#adobe-express-enterprise-license}
+## Licencia de Adobe Express Enterprise {#adobe-express-enterprise-license}
 
-### Usuarios con licencia Enterprise {#users-with-an-enterprise-license}
+### Usuarios con una licencia Enterprise {#users-with-an-enterprise-license}
 
-Si tiene una licencia Enterprise para Adobe Systems Express, tiene acceso a la editor Express completa. Puede ajustar la configuración de la imagen gustar color, brillo, nitidez, contraste, tamaño y más. La opción AI Magic le permite eliminar fondos, insertar y eliminar objetos y borrar partes de una imagen.
+Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express completo. Puede ajustar la configuración de la imagen como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de una imagen. Visite la [Guía del usuario de Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} para obtener más información sobre cada configuración.
 
 >[!IMPORTANT]
 >
->La licencia adquirida debe estar bajo la misma organización de IMS que su suscripción Marketo Engage para acceder a todas las funciones de edición de Adobe Systems Express. Además, cada usuario individual debe tener una licencia en Adobe Express. Los usuarios [sin licencia](#users-without-an-enterprise-license) solo pueden acceder a las acciones rápidas en Adobe Express.
+>La licencia adquirida debe estar en la misma organización de IMS que la suscripción de Marketo Engage para acceder a todas las funcionalidades de edición de Adobe Express. Además, cada usuario individual debe tener una licencia en Adobe Express. Los usuarios [sin licencia](#users-without-an-enterprise-license) solo pueden acceder a las acciones rápidas en Adobe Express.
 
-### Usuarios sin licencia de empresa {#users-without-an-enterprise-license}
+### Usuarios sin licencia Enterprise {#users-without-an-enterprise-license}
 
 Para los que no tengan una licencia Enterprise, seguirá teniendo acceso a varias funciones de edición de acciones rápidas. Estas son las características:
 
 * [Redimensionar imagen](#resize-image)
-* [Quitar antecedentes](#remove-background)
-* [Recorte imagen](#crop-image)
-* [Convertir a PNG / JPEG](#convert-to-png-jpeg)
+* [Quitar fondo](#remove-background)
+* [Recortar imagen](#crop-image)
+* [Convertir a PNG/JPEG](#convert-to-png-jpeg)
 
-Se puede acceder a las funciones desde la parte izquierda del Página de imágenes.
+Se puede acceder a las funciones en la parte izquierda de la página de imagen.
 
-![Imagen Página mostrar las opciones de edición de Adobe Systems Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
+![Página de imagen que muestra las opciones de edición de Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Redimensionar imagen {#resize-image}
 
@@ -107,16 +110,16 @@ Se puede acceder a las funciones desde la parte izquierda del Página de imágen
 
 1. Realice los cambios que desee y haga clic en **Aplicar** cuando haya terminado.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Cambiar tamaño de ventana de imagen que muestra todas las opciones disponibles](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Proporción de aspecto</b></td>
-    <td>En el <b>menú desplegable Proporción</b> de aspecto, seleccione <b>Estándar</b> a BLANCO o <b>Personalizado</b> para establecer su propia anchura/altura.</td>
+    <td>En la lista desplegable <b>Proporción de aspecto</b>, elige <b>Estándar</b> para elegir entre tamaños de foto comunes precalculados o <b>Personalizado</b> para establecer tu propia anchura/altura. También puede elegir el tamaño estándar de una plataforma de medios sociales específica (Pinterest, Snapchat, etc.).</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Anchura y Altura</b></td>
-    <td>De forma predeterminada, la relación de aspecto está bloqueada, manteniendo las proporciones de la imagen iguales al ajustar su tamaño. Si lo desea, puede seleccionar la botón de bloqueo para desbloquear la relación de aspecto.</td>
+    <td style="width:25%"><b>Anchura y altura</b></td>
+    <td>De forma predeterminada, la proporción de aspecto está bloqueada, manteniendo las mismas proporciones de imagen al ajustar su tamaño. Si lo desea, puede seleccionar el botón de bloqueo para desbloquear la relación de aspecto.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Restablecer</b></td>
@@ -129,17 +132,17 @@ Se puede acceder a las funciones desde la parte izquierda del Página de imágen
 </tbody>
 </table>
 
-#### Quitar antecedentes {#remove-background}
+#### Quitar fondo {#remove-background}
 
-1. Haga clic en **Quitar Fondo**.
+1. Haga clic en **Quitar fondo**.
 
-1. Adobe Systems Express muestra la imagen sin fondo. Si se ajusta a sus necesidades, haga clic en **Aplicar**.
+1. Adobe Express muestra la imagen sin fondo. Si satisface sus necesidades, haga clic en **Aplicar**.
 
-![TEXTO DE TEXTO](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Imagen de un perro con el fondo eliminado](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Para restaurar el fondo, seleccione la imagen y seleccione **Quitar Fondo** de nuevo.
+>Si no estás satisfecho con el resultado, simplemente haz clic en **X** para cerrar la ventana.
 
 #### Recortar imagen {#crop-image}
 
@@ -147,36 +150,24 @@ Se puede acceder a las funciones desde la parte izquierda del Página de imágen
 
 1. Arrastre las esquinas de la imagen para crear el recorte deseado.
 
-![TEXTO DE TEXTO](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Arrastrando esquinas de fotos para recortar la imagen](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Haga clic en **[!UICONTROL Aplicar]** cuando haya terminado.
 
-#### Convertir a PNG / JPEG {#convert-to-png-jpeg}
+#### Convertir a PNG/JPEG {#convert-to-png-jpeg}
 
-Convierta un archivo PNG en un archivo JPEG o un archivo JPEG en un archivo PNG.
+Convertir un archivo PNG en un archivo JPEG o un archivo JPEG en un archivo PNG.
 
-1. Haga clic en **[!UICONTROL Convertir a PNG / JPEG.]**
+1. Haga clic en **[!UICONTROL Convertir a PNG/JPEG]**.
 
-![TEXTO DE TEXTO](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Convertir en ventana PNG/JPEG](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Haga clic en **[!UICONTROL Aplicar]**.
 
----COSAS DE RECORTE A CONTINUACIÓN---
-
-Haga clic en Recortar imagen en la página.
-
-En el editor de Adobe Express, realice el recorte en la imagen y haga clic en Guardar.
-
-Nota: Esta acción no sobrescribirá la imagen, pero le presentará la imagen para editarla más adelante.
-
-Puede realizar más actualizaciones con otra opción del panel izquierdo, hacer clic en Guardar para sobrescribir la imagen existente o Guardar como nuevo recurso para guardarlo como una imagen nueva.
-
-Haga clic en Guardar para completar la acción.
-
 ## Guarde el trabajo {#save-your-work}
 
-Cuando hayas terminado con todas tus ediciones, haz clic en Guardar para guardar tu trabajo.
+Cuando hayas terminado con todas las ediciones, haz clic en **Guardar** para guardar el trabajo.
 
-CAPTURA DE PANTALLA
+![Botón Guardar](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 La imagen editada se guarda en la misma carpeta que la imagen original.

@@ -4,7 +4,7 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
 source-wordcount: '2052'
 ht-degree: 2%
@@ -53,7 +53,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 <table>
 <tbody>
   <tr>
-    <td><b>Borrador</b></td>
+    <td style="width:25%"><b>Borrador</b></td>
     <td>Cuando crea un fragmento, está en estado de borrador. Permanece como borrador hasta que se publica para utilizarlo en un correo electrónico o en una plantilla de correo electrónico.
     <p>Acciones disponibles:
     <li>Editar todos los detalles</li>
@@ -63,7 +63,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
     <li>Eliminar</li>
   </td>
   <tr>
-    <td><b>Publicadas</b></td>
+    <td style="width:25%"><b>Publicadas</b></td>
     <td>Al publicar un fragmento, pasa a estar disponible para su uso en un correo electrónico o plantilla de correo electrónico. El contenido de fragmento publicado no se puede modificar en el diseñador visual.
     <p>Acciones disponibles:
     <li>Editar descripción</li>
@@ -74,13 +74,13 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
     </td>
   </tr>
   <tr>
-    <td><b>Publicado con borrador</b></td>
+    <td style="width:25%"><b>Publicado con borrador</b></td>
     <td>Cuando crea un borrador a partir de un fragmento publicado, la versión publicada permanece disponible para su uso en una plantilla de correo electrónico o correo electrónico, y el contenido del borrador se puede modificar en el diseñador visual. Si publica la versión de borrador, reemplazará la versión publicada actual y el contenido se actualizará en <i>todos</i> los correos electrónicos y las plantillas de correo electrónico en los que esté en uso. 
     <p>Acciones disponibles:
     <li>Editar descripción</li>
     <li>Añadir a un correo electrónico o plantilla</li>
     <li>Editar versión de borrador en el diseñador visual</li>
-    <li>Versión de borrador de Publish</li>
+    <li>Publicar versión de borrador</li>
     <li>Duplicado</li>
     <li>Eliminar (si no está en uso)</li>
     </td>
@@ -124,7 +124,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 
 1. Haga clic en **[!UICONTROL Guardar]** en cualquier momento para guardar el fragmento de borrador.
 
-1. Cuando esté listo para que el fragmento esté disponible para usarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publish]**.
+1. Cuando esté listo para que el fragmento esté disponible para usarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
 ### Añadir estructura y contenido {#add-structure-and-content}
 
@@ -162,7 +162,7 @@ Salga de la vista en cualquier momento haciendo clic en la flecha _Atrás_ en la
 
 ## Ver fragmento utilizado por referencias {#view-fragment-used-by-references}
 
-En la página de detalles del fragmento, haga clic en la ficha **[!UICONTROL Utilizado por]** para ver los detalles de dónde se está utilizando el fragmento en el Marketo Engage.
+En la página de detalles del fragmento, haga clic en la ficha **[!UICONTROL Utilizado por]** para ver los detalles de dónde se está utilizando el fragmento en Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -217,7 +217,7 @@ Las ediciones en un fragmento dependen de su estado actual:
 
    Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-1. Cuando el fragmento cumpla sus criterios y desee que esté disponible para utilizarlo en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publish]**.
+1. Cuando el fragmento cumpla sus criterios y desee que esté disponible para utilizarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
 >[!TAB Publicado]
 
@@ -245,7 +245,7 @@ Las ediciones en un fragmento dependen de su estado actual:
 
    Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publish]**.
+1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
    Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
 
@@ -273,7 +273,7 @@ Para actualizar el contenido:
 
    Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publish]**.
+1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
    Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
 
