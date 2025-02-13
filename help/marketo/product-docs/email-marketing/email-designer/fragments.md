@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: Fragmentos
-description: Aprenda a crear/utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
-hide: true
-hidefromtoc: true
+description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1909'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 <tbody>
   <tr>
     <td width="25%"><b>Borrador</b></td>
-    <td width="70%">Cuando crea un fragmento, está en estado de borrador. Permanece como borrador hasta que se publica para utilizarlo en un correo electrónico o en una plantilla de correo electrónico.
+    <td width="75%">Cuando crea un fragmento, está en estado de borrador. Permanece como borrador hasta que se publica para utilizarlo en un correo electrónico o en una plantilla de correo electrónico.
     <p>Acciones disponibles:
     <li>Editar todos los detalles</li>
     <li>Editar en el diseñador visual</li>
@@ -74,8 +75,8 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
     </td>
   </tr>
   <tr>
-    <td><b>Publicado con borrador</b></td>
-    <td>Cuando crea un borrador a partir de un fragmento publicado, la versión publicada permanece disponible para su uso en una plantilla de correo electrónico o correo electrónico, y el contenido del borrador se puede modificar en el diseñador visual. Si publica la versión de borrador, reemplazará la versión publicada actual y el contenido se actualizará en <i>todos</i> los correos electrónicos y las plantillas de correo electrónico en los que esté en uso. 
+    <td style="width:25%"><b>Publicado con borrador</b></td>
+    <td style="width:75%">Cuando crea un borrador a partir de un fragmento publicado, la versión publicada permanece disponible para su uso en una plantilla de correo electrónico o correo electrónico, y el contenido del borrador se puede modificar en el diseñador visual. Si publica la versión de borrador, reemplazará la versión publicada actual y el contenido se actualizará en <i>todos</i> los correos electrónicos y las plantillas de correo electrónico en los que esté en uso. 
     <p>Acciones disponibles:
     <li>Editar descripción</li>
     <li>Añadir a un correo electrónico o plantilla</li>
@@ -85,7 +86,8 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
     <li>Eliminar (si no está en uso)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Creación de fragmentos {#create-fragments}
 
