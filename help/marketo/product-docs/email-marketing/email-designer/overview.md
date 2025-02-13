@@ -1,13 +1,13 @@
 ---
 solution: Marketo Engage
 product: marketo engage
-description: Información general - Documentos de Marketo - Documentación del producto
+description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
+source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
