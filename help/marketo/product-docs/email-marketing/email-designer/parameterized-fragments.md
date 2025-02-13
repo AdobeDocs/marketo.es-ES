@@ -8,9 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
+source-git-commit: ec442823dde75f071220208a7e8edd24355d063f
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -22,10 +23,6 @@ Cuando los fragmentos se utilizan en una plantilla de correo electrónico o de c
 Al aprovechar los fragmentos parametrizados, puede administrar y personalizar de forma eficaz el contenido sin crear bloques de contenido completamente nuevos ni interrumpir la herencia del fragmento original. Esto garantiza que los cambios realizados en el nivel de fragmento se sigan propagando, al tiempo que permite la personalización necesaria en el nivel de plantilla de correo electrónico/correo electrónico.
 
 Los fragmentos visuales y de expresión se pueden marcar como personalizables. Para obtener instrucciones detalladas sobre cómo proceder con cada tipo de fragmento, consulte las secciones siguientes.
-
-CAPTURA DE PANTALLA: ¿GIF?
-
-—DEJÓ DE EDITAR AQUÍ—
 
 ## Agregar campos editables en fragmentos visuales {#visual}
 
@@ -39,7 +36,7 @@ Para poder editar partes de un fragmento visual, siga estos pasos:
 
 1. Seleccione el componente del fragmento en el que desea configurar los campos editables.
 
-1. El panel de propiedades del componente se abre en el lado derecho. Seleccione la pestaña **Campos editables** y luego cambie la opción **Habilitar edición**.
+1. El panel de propiedades del componente se abre en el lado derecho. Seleccione la pestaña **[!UICONTROL Campos editables]** y luego cambie la opción **[!UICONTROL Habilitar edición]**.
 
 1. Todos los campos que se pueden editar para el componente seleccionado se muestran en el panel. Los campos disponibles para editar dependen del tipo de componente seleccionado.
 
@@ -47,21 +44,21 @@ Para poder editar partes de un fragmento visual, siga estos pasos:
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Haga clic en **Información general** para comprobar todos los campos editables y sus valores predeterminados.
+1. Haga clic en **[!UICONTROL Información general]** para comprobar todos los campos editables y sus valores predeterminados.
 
    En este ejemplo, el campo URL del botón se muestra con el valor predeterminado definido en el componente. Los usuarios podrán personalizar este valor una vez que hayan agregado el fragmento a su contenido.
 
    ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
-1. Cuando esté listo, guarde los cambios para actualizar el fragmento.
+1. Guarde los cambios cuando haya terminado.
 
-1. Después de agregar el fragmento a un correo electrónico, los usuarios podrán personalizar todos los campos editables configurados en el fragmento.
+Después de agregar el fragmento a un correo electrónico, los usuarios podrán personalizar todos los campos editables configurados en el fragmento.
 
 ## Añadir campos editables en componentes de HTML y fragmentos de expresiones {#expression}
 
-Para poder editar partes de un componente de HTML o de un fragmento de expresión, debe utilizar una sintaxis específica en el editor de expresiones. Esto implica declarar una **variable** con un valor predeterminado que los usuarios pueden anular después de agregar el fragmento a su contenido.
+Para poder editar partes de un componente de HTML o de un fragmento de expresión, debe utilizar una sintaxis específica en el editor de expresiones. Esto implica declarar una _variable_ con un valor predeterminado que los usuarios pueden anular después de agregar el fragmento a su contenido.
 
-Por ejemplo, supongamos que desea crear un fragmento para agregarlo a los correos electrónicos y permitir a los usuarios personalizar un color específico utilizado en diferentes ubicaciones, como marcos o colores de fondo de botones. Al crear el fragmento, debe declarar una variable con un **ID único**, por ejemplo, &quot;color&quot;, y llamarla a las ubicaciones deseadas en el contenido del fragmento donde desee aplicar este color. Al añadir el fragmento a su contenido, los usuarios pueden personalizar el color utilizado siempre que se haga referencia a la variable.
+Por ejemplo, supongamos que desea crear un fragmento para agregarlo a los correos electrónicos y permitir a los usuarios personalizar un color específico utilizado en diferentes ubicaciones, como marcos o colores de fondo de botones. Al crear el fragmento, debe declarar una variable con un _ID único_ (por ejemplo, &quot;color&quot;) e invocarla en las ubicaciones deseadas del contenido del fragmento donde desee aplicar este color. Al añadir el fragmento a su contenido, los usuarios pueden personalizar el color utilizado siempre que se haga referencia a la variable.
 
 Para los componentes de HTML, solo los elementos específicos pueden convertirse en campos editables. Expanda la sección siguiente para obtener más información.
 
@@ -78,3 +75,7 @@ Por ejemplo, en el siguiente código, cada elemento resaltado en rojo puede conv
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
+
+>[!MORELIKETHIS]
+>
+>[Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
