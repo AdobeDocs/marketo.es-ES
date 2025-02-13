@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Bloqueo del contenido en las plantillas de correo electrónico
 description: Aprenda a bloquear contenido en las plantillas de correo electrónico.
 level: Beginner, Intermediate
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 9%
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 # Bloqueo del contenido en las plantillas de correo electrónico {#lock-content-email-templates}
 
-El Marketo Engage le permite bloquear el contenido en plantillas de correo electrónico, ya sea bloqueando toda la plantilla o estructuras/componentes específicos. Esto le permite evitar ediciones o eliminaciones no intencionadas, lo que le proporciona un mayor control sobre la personalización de las plantillas y mejora la eficacia y fiabilidad de sus campañas de correo electrónico.
+Marketo Engage le permite bloquear contenido en plantillas de correo electrónico, ya sea bloqueando toda la plantilla o estructuras/componentes específicos. Esto le permite evitar ediciones o eliminaciones no intencionadas, lo que le proporciona un mayor control sobre la personalización de las plantillas y mejora la eficacia y fiabilidad de sus campañas de correo electrónico.
 
 >[!AVAILABILITY]
 >
