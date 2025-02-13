@@ -5,9 +5,9 @@ description: Información general - Documentos de Marketo - Documentación del p
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 
 * [Creación de plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
 
+* [Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
+
 * [Trabaje con recursos de AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales de AEM para usarlos en Marketo Engage.
+
+* [Editar imágenes con Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Aprenda a editar imágenes en el editor de correo electrónico de Adobe Marketo Engage con Adobe Express.
 
 * [Use el asistente de IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: aproveche la tecnología de IA generativa de Adobe para agregar texto o imágenes útiles a sus correos electrónicos.
 
