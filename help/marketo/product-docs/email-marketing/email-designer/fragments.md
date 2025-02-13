@@ -4,10 +4,10 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 2%
+source-wordcount: '1909'
+ht-degree: 1%
 
 ---
 
@@ -114,37 +114,11 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 
    El diseñador visual se abre con un lienzo vacío.
 
-1. Utilice las herramientas de diseño de contenido para crear el contenido del fragmento visual:
-
-   * [Añadir estructura y contenido](#add-structure-and-content)
-   * [Añadir Assets](#add-assets)
-   * [Desplazamiento por las capas, la configuración y los estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar contenido](#personalize-content)
-   * [Editar seguimiento de URL vinculadas](#edit-linked-url-tracking)
+1. Use las [herramientas de diseño de contenido](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para crear el contenido del fragmento visual.
 
 1. Haga clic en **[!UICONTROL Guardar]** en cualquier momento para guardar el fragmento de borrador.
 
 1. Cuando esté listo para que el fragmento esté disponible para usarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
-
-### Añadir estructura y contenido {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Añadir recursos
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Desplazamiento por las capas, la configuración y los estilos
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Personalizar contenido
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Editar seguimiento de URL vinculadas
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## Ver detalles del fragmento {#view-fragment-details}
 
@@ -205,19 +179,11 @@ Las ediciones en un fragmento dependen de su estado actual:
 
    ![Detalles para fragmento con estado Borrador](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Para realizar cambios en el contenido en el diseñador visual, haga clic en **[!UICONTROL Editar fragmento]**.
+1. Para realizar cambios en el contenido en el diseñador visual, haga clic en **[!UICONTROL Editar fragmento]**. Haga clic en **Guardar** cuando termine.
 
-   Utilice las herramientas del diseñador visual según sea necesario:
+1. Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-   * [Añadir estructura y contenido](#add-structure-and-content)
-   * [Añadir Assets](#add-assets)
-   * [Desplazamiento por las capas, la configuración y los estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar contenido](#personalize-content)
-   * [Editar seguimiento de URL vinculadas](#edit-linked-url-tracking)
-
-   Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
-
-1. Cuando el fragmento cumpla sus criterios y desee que esté disponible para utilizarlo en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
+1. Si desea que el fragmento esté disponible para su uso en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
 >[!TAB Publicado]
 
@@ -235,19 +201,13 @@ Las ediciones en un fragmento dependen de su estado actual:
 
    ![Cuadro de diálogo Crear versión de borrador](assets/fragments-create-draft-version.png){width="300"}
 
-   Utilice las herramientas del diseñador visual según sea necesario:
+1. Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-   * [Añadir estructura y contenido](#add-structure-and-content)
-   * [Añadir Assets](#add-assets)
-   * [Desplazamiento por las capas, la configuración y los estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar contenido](#personalize-content)
-   * [Editar seguimiento de URL vinculadas](#edit-linked-url-tracking)
+1. Si desea que el fragmento esté disponible para su uso en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
-   Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
-
-1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
-
-   Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
+>[!NOTE]
+>
+>Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
 
 >[!TAB Publicado con borrador]
 
@@ -259,23 +219,19 @@ Hay dos formas de abrir la versión de borrador para editarla desde la página d
 
 * Haga clic en el nombre del fragmento para abrirlo. A continuación, haga clic en **[!UICONTROL Abrir versión de borrador]** en la parte superior derecha.
 
-  Se mostrará una vista previa del contenido visual de la versión de borrador, con los detalles del fragmento a la derecha.
+Se mostrará una vista previa del contenido visual de la versión de borrador, con los detalles del fragmento a la derecha.
 
 Para actualizar el contenido:
 
-1. Haga clic en **[!UICONTROL Editar fragmento]** en la parte superior derecha. Utilice las herramientas del diseñador visual según sea necesario:
+1. Haga clic en **[!UICONTROL Editar fragmento]** en la parte superior derecha. Haga clic en **Guardar** cuando termine.
 
-   * [Añadir estructura y contenido](#add-structure-and-content)
-   * [Añadir Assets](#add-assets)
-   * [Desplazamiento por las capas, la configuración y los estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar contenido](#personalize-content)
-   * [Editar seguimiento de URL vinculadas](#edit-linked-url-tracking)
+1. Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
 
-   Haga clic en **[!UICONTROL Guardar]** o **[!UICONTROL Guardar y cerrar]** para volver a los detalles del fragmento.
+1. Si desea que el fragmento esté disponible para su uso en un correo electrónico o plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
 
-1. Cuando el fragmento de borrador cumpla los criterios y desee que los cambios estén disponibles para usarlos en un correo electrónico o una plantilla de correo electrónico, haga clic en **[!UICONTROL Publicar]**.
-
-   Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
+>[!NOTE]
+>
+>Cuando publica la versión de borrador, reemplaza la versión publicada actual y el contenido se actualiza en los correos electrónicos y las plantillas de correo electrónico donde ya se utiliza.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Puede duplicar un fragmento mediante cualquiera de los siguientes métodos:
 
 ![Duplicar el fragmento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-En el cuadro de diálogo, introduzca un nombre único y una descripción opcional. Haga clic en **[!UICONTROL Duplicar]** para completar la acción.
+En el cuadro de diálogo, introduzca un nombre único y una descripción opcional. Haga clic en **[!UICONTROL Duplicar]**.
 
 ![Escriba un nombre y una descripción para el fragmento duplicado](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ El fragmento duplicado aparecerá en la lista _Fragmentos_.
 
 ## Guardar un nuevo fragmento del contenido del correo electrónico o de la plantilla {#save-a-new-fragment-from-email-or-template-content}
 
-Al crear o editar un correo electrónico o una plantilla de correo electrónico en el editor de contenido visual, puede guardar todo o parte del contenido como un fragmento para que esté disponible para su reutilización.
+Al crear o editar un correo electrónico o una plantilla de correo electrónico en el editor de contenido visual, puede guardar todo o parte del contenido como un fragmento para reutilizarlo.
 
 1. Para guardar contenido como un fragmento, haga clic en **[!UICONTROL Más]** y elija **[!UICONTROL Guardar como fragmento]**.
 
@@ -304,13 +260,13 @@ Al crear o editar un correo electrónico o una plantilla de correo electrónico 
 
    Para seleccionar varias estructuras, mantenga pulsado el botón Mayús o Control.
 
-   Solo se pueden seleccionar estructuras adyacentes entre sí y la interfaz no permite seleccionar elementos no adyacentes.
+   Solo puede seleccionar estructuras adyacentes entre sí.
 
 1. Con el contenido seleccionado, haz clic en **[!UICONTROL Crear]** en la parte superior derecha.
 
 1. En el cuadro de diálogo, escriba un nombre y una descripción opcional para el fragmento y haga clic en **[!UICONTROL Crear]**.
 
-   A continuación, el fragmento se mostrará en la página de lista _Fragmentos_ y también estará disponible para su uso en correos electrónicos y plantillas de correo electrónico.
+A continuación, el fragmento se mostrará en la página de lista _Fragmentos_ y estará disponible para su uso en correos electrónicos y plantillas de correo electrónico.
 
 ## Añadir fragmentos visuales al contenido del correo electrónico o de la plantilla {#add-visual-fragments-to-your-email-or-template-content}
 
