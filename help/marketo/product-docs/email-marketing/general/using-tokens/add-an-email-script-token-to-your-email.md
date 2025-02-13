@@ -4,10 +4,10 @@ description: 'Añadir un token de script de correo electrónico al correo electr
 title: Añadir un token de script de correo electrónico a su correo electrónico
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '164'
+ht-degree: 2%
 
 ---
 
@@ -43,10 +43,6 @@ Después de [crear el script de correo electrónico](/help/marketo/product-docs/
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >Agregue un valor predeterminado si lo desea.
-
 1. Haga clic en **Guardar**.
 
    ![](assets/six.png)
@@ -55,4 +51,4 @@ Después de [crear el script de correo electrónico](/help/marketo/product-docs/
 >
 >No olvides [aprobar el correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-¡Eso es todo! Cuando se envíe este correo electrónico, el script detrás del token se ejecutará y rellenará el contenido.
+¡Ya está! Cuando se envíe este correo electrónico, el script detrás del token se ejecutará y rellenará el contenido.
