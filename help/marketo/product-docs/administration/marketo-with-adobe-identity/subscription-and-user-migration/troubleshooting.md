@@ -4,7 +4,8 @@ title: Guía de resolución de problemas de Adobe IMS
 hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
-source-git-commit: eccebb8352c56770dea5af9395c8bc83a08525dd
+exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
+source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -23,8 +24,6 @@ Durante el proceso de migración de usuarios de IMS, se crea un usuario de Adobe
 * <a href="#not-in-domain">No está en el dominio</a>
 * <a href="#create-failure">Error al crear</a>
 * <a href="#type2e-user-failure">Error de usuario Type2e</a>
-
-
 
 <table>
 <thead>
