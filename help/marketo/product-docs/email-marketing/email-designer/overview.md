@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,8 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 * [Creación de plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.
 
 * [Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
+
+* [Fragmentos personalizables](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Aprenda a personalizar fragmentos haciendo que algunos de sus campos sean editables.
 
 * [Trabaje con recursos de AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales de AEM para usarlos en Marketo Engage.
 

@@ -5,9 +5,9 @@ title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1911'
 ht-degree: 1%
 
 ---
@@ -299,3 +299,7 @@ Cuando se añade un fragmento a un correo electrónico o a una plantilla de corr
 Al seleccionar el fragmento en la página del editor, estas acciones están disponibles en la barra de herramientas contextual y en el panel de propiedades de la derecha.
 
 ![Aplicar acciones al fragmento seleccionado](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[Fragmentos personalizables](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
