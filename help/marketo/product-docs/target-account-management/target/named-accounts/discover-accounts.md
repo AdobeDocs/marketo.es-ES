@@ -4,9 +4,9 @@ description: Descubrimiento de cuentas - Documentos de Marketo - Documentación 
 title: Detectar cuentas
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 1%
 
 ---
@@ -76,8 +76,6 @@ Identifique las empresas adecuadas para la segmentación.
    >* Filtra la mayoría de los proveedores de servicios de Internet y dominios públicos (como yahoo.com, gmail.com) como nombres de empresa
    >
    >* Desduplica cuentas de CRM. Si tiene &quot;Acme&quot; en un registro y &quot;Acme Inc&quot; (o cualquiera de los siguientes sufijos: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), los fusionaremos en TAM como solo &quot;Acme&quot;
-   >
-   >Si desea que Marketo anule la duplicación de cuentas por ID de CRM o propietario de cuenta en lugar de por nombre de empresa, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Haga clic en la flecha hacia abajo debajo de la columna Cuenta con nombre para mostrar la lista desplegable.
 
