@@ -3,26 +3,26 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
+source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 5%
+source-wordcount: '406'
+ht-degree: 8%
 
 ---
 
-# Notas de la versión: enero de 2025 {#release-notes-jan-25}
+# Notas de la versión: marzo de 2025 {#release-notes-mar-25}
 
-A continuación encontrará todas las funciones incluidas en la versión de enero de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de marzo de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
-Las notas de la versión específicas del Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **17 de enero de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **28 de marzo de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,18 +32,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Nuevo Designer de correo electrónico</strong>: cree correos electrónicos modernos y eficientes con el nuevo Designer de correo electrónico nativo en Marketo Engage. Acceda a una de las plantillas de correo electrónico predeterminadas prediseñadas o cree las suyas propias fácilmente. Utilice contenido dinámico y acceda a imágenes desde los servicios en la nube de Adobe Experience Manager. Utilice la funcionalidad del acelerador de contenido Gen-AI para crear correos electrónicos innovadores y de rendimiento a escala.
-   <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Sistema Identity Management de Adobe (IMS)</a>. Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con <a href="https://nation.marketo.com/t5/support/ct-p/Support">Soporte técnico de Marketo</a>. Para obtener acceso a la funcionalidad de la generación AI del acelerador de contenido, póngase en contacto con el equipo de cuenta de Adobe.</td>
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Resumen de Designer de correo electrónico</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Anular el registro de inscritos en un evento de seminarios web interactivos</strong>: Ahora, si no desea inscribir a un inscrito en el seminario web por algún motivo, puede anular el registro. El flujo de trabajo elimina al solicitante de registro tanto del programa de eventos de Marketo como de Adobe Connect.</td> 
+   <td><strong>Designer de correo electrónico disponible en todos los programas</strong>: ahora se puede acceder a los nuevos correos electrónicos de Designer de correo electrónico en los programas de participación, predeterminados y de eventos (excepto en los programas de seminarios web interactivos). Anteriormente, solo estaban disponibles en Programas de correo electrónico.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -53,7 +42,17 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Deshabilitar campañas en el archivo</strong>: deshabilite las campañas de déclencheur activas y cancele las ejecuciones por lotes programadas de campañas en una carpeta cuando se archive. Dado que hay una comprobación de permisos adicional para archivar carpetas que contienen campañas activas (Activar campaña de Déclencheur y Programar campaña por lotes), esta característica se deshabilita de forma predeterminada con esta versión y se puede habilitar si navega a <b>Administrador</b> &gt; <b>Cofre del tesoro</b> en la suscripción de Marketo Engage.</td> 
+   <td><strong>Mis tokens globales y de Workspace</strong>: configúrelos tanto a nivel global como de espacio de trabajo para permitir un mayor control y productividad sobre las garantías de marca y marketing en los espacios de trabajo de Marketo Engage e incluso en instancias completas.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Tokens para cualquier atributo de Déclencheur</strong>: Amplía la lista de tokens de déclencheur disponibles de solo la lista de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">este documento</a> para admitir el uso de datos de cualquier atributo de actividad desencadenante en los campos de flujo de campaña. Imprima los datos de un atributo de actividad en un momento interesante o establezca el ID de la transacción más reciente de un posible cliente de una actividad personalizada en un campo de posible cliente.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -63,7 +62,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Desaprobación de funciones sociales**: El miércoles 31 de julio de 2024, el Marketo Engage comenzó la desaprobación de las siguientes funciones sociales del producto:
+* **Desaprobación de funciones sociales**: El miércoles 31 de julio de 2024, Marketo Engage comenzó la desaprobación de las siguientes funciones sociales del producto:
 
    * Sondeos
    * Botón social
@@ -73,8 +72,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 A partir de ese momento, los usuarios no han podido crear, clonar ni incrustar ninguna de estas funciones de Social en Marketo Engage. Los recursos sociales existentes seguirán funcionando hasta el 31 de enero de 2025. El 1 de febrero de 2025, los activos sociales dejarán de funcionar. Las funciones sociales incrustadas en las páginas de destino deberán eliminarse. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Obtener actualización de la API de los miembros del programa**: Hemos mejorado la API de [Obtener miembros del programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} para admitir la capacidad de recuperar el identificador de los miembros del programa. Esto se realiza añadiendo ID a la lista de campos especificados en el parámetro fields de la solicitud de API.
-
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST mediante el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* SOAP **Desaprobación de API de**: La compatibilidad con la API de MarketoSOAP finalizará el 31 de octubre de 2025. SOAP Los servicios que usan capacidades de API de deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
