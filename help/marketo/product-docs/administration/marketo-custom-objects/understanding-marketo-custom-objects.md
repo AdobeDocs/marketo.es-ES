@@ -4,9 +4,9 @@ description: 'Explicación de los objetos personalizados de Marketo: documentos 
 title: Explicación de los objetos personalizados de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,10 @@ Después de crear la estructura de objetos personalizada, al cargar los datos de
 1. Ahora puede ver una lista de todos los objetos personalizados de ese tipo asociados a esa persona.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >En un registro de persona, la pestaña Objeto personalizado puede mostrar un máximo de 100 registros, ordenados por ID en orden descendente.
 
 ## Uso de objetos personalizados con compañías {#using-custom-objects-with-companies}
 
