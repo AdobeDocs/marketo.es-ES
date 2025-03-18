@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
 workflow-type: tm+mt
-source-wordcount: '9425'
+source-wordcount: '9427'
 ht-degree: 3%
 
 ---
@@ -739,6 +739,7 @@ ht-degree: 3%
             + [Promoción de un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Modificar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Seminarios web bajo demanda](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
+            + [Funciones de GenAI](product-docs/demand-generation/events/interactive-webinars/gen-ai.md)
             + [Flujos de trabajo de eventos](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Panel de participación](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Seminarios web interactivos en Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
@@ -1699,7 +1700,7 @@ ht-degree: 3%
    + Contenido predictivo {#predictive-content}
       + [El resumen de contenido predictivo](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definir una lista inteligente para actividades de contenido predictivo](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [Información general de análisis de contenido predictivo](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [Información general sobre Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + Primeros pasos {#getting-started}
          + [Configuración de objetivo de algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Crear patrones de contenido](product-docs/predictive-content/getting-started/create-content-patterns.md)
@@ -1942,7 +1943,7 @@ ht-degree: 3%
             + [Integración de RTP con Universal Analytics de Google](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integración con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Explicación de Web Personalization {#understanding-web-personalization}
-         + [Explicación de análisis de contenido](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [Explicación de Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Glosario de Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Información general de Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Usando plantillas {#using-templates}
