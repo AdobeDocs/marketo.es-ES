@@ -4,9 +4,10 @@ title: Funciones de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >Si lo desea, puede clasificar la calidad de los capítulos o del resumen generados con los iconos _miniaturas arriba_ ![Icono de miniaturas arriba](assets/icon-thumbs-up.png) o _miniaturas abajo_ ![Icono de miniaturas abajo](assets/icon-thumbs-down.png). También puede marcar cualquier contenido problemático si hace clic en el icono de marca ![Icono de marca](assets/icon-flag.png).
+   >* Si lo desea, puede clasificar la calidad de los capítulos o del resumen generados con los iconos _miniaturas arriba_ ![Icono de miniaturas arriba](assets/icon-thumbs-up.png) o _miniaturas abajo_ ![Icono de miniaturas abajo](assets/icon-thumbs-down.png). También puede marcar cualquier contenido problemático si hace clic en el icono de marca ![Icono de marca](assets/icon-flag.png).
+   >
+   >* Si no está satisfecho con el resumen inicial, puede hacer clic en el botón **Volver a generar resumen** y se generará otra versión.
 
 1. Guarde los cambios haciendo clic en el botón **Guardar** en la parte superior derecha de la pantalla.
 
@@ -88,4 +90,4 @@ Después de copiar el contenido que desea utilizar, péguelo en el editor que pr
 
 * Al eliminar el seminario web, también se elimina el contenido de GenAI.
 
-* Para obtener más aclaraciones o una solicitud de eliminación de datos, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a: `marketo-webinar-genai-alerts@adobe.com`.
+* Si desea eliminar el contenido de GenAI sin eliminar el seminario web, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe una solicitud de eliminación de datos a: `marketo-webinar-genai-alerts@adobe.com`.
