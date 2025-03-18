@@ -4,7 +4,7 @@ title: Funciones de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 1. Haga clic en **Generar**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Se abre una nueva pestaña que muestra capítulos generados por IA y un resumen de texto.
 
@@ -41,7 +41,7 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 1. Si es necesario realizar cambios, haga clic en el botón **Editar**.
 
-   Para realizar modificaciones:
+   Realizar modificaciones:
 
    * Edite el texto del resumen o de los títulos de los capítulos.
 
@@ -55,14 +55,14 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
       * Para combinar varios capítulos, debe hacer dos a la vez
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Si lo desea, puede clasificar la calidad de los capítulos o del resumen generados con los iconos _miniaturas arriba_ ![Icono de miniaturas arriba](assets/icon-thumbs-up.png) o _miniaturas abajo_ ![Icono de miniaturas abajo](assets/icon-thumbs-down.png). También puede marcar cualquier contenido problemático si hace clic en el icono de marca ![Icono de marca](assets/icon-flag.png).
 
-1. Guarde los cambios haciendo clic en el botón **Guardar** en la parte superior izquierda de la pantalla.
+1. Guarde los cambios haciendo clic en el botón **Guardar** en la parte superior derecha de la pantalla.
 
 ## Usar contenido generado {#use-generated-content}
 
@@ -88,4 +88,4 @@ Después de copiar el contenido que desea utilizar, péguelo en el editor que pr
 
 * Al eliminar el seminario web, también se elimina el contenido de GenAI.
 
-* Para obtener más aclaraciones o una solicitud de eliminación de datos, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíenos un correo electrónico aquí: `marketo-webinar-genai-alerts@adobe.com`.
+* Para obtener más aclaraciones o una solicitud de eliminación de datos, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o envíe un correo electrónico a: `marketo-webinar-genai-alerts@adobe.com`.
