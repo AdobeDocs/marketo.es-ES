@@ -4,7 +4,7 @@ title: Funciones de GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 1. Revise los capítulos y el resumen generados.
 
-2. Si es necesario realizar cambios, haga clic en el botón **Editar**.
+1. Si es necesario realizar cambios, haga clic en el botón **Editar**.
 
    Para realizar modificaciones:
 
