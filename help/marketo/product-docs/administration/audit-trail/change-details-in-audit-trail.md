@@ -4,7 +4,7 @@ description: Cambiar detalles en pista de auditoría - Documentos de Marketo - D
 title: Cambiar detalles en pista de auditoría
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 14%
@@ -137,7 +137,7 @@ La pista de auditoría ofrece una gran cantidad de información sobre quién hac
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <module name><attribute> a "valor"</td> 
+   <td>Editar módulo <code>"&lt;module name&gt;" &lt;attribute&gt;</code> a "valor"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
