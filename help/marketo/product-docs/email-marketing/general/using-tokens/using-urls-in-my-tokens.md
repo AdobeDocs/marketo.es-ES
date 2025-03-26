@@ -4,9 +4,9 @@ description: 'Uso de URL en Mis tokens: documentos de Marketo, documentación de
 title: Uso de URL en Mis tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    >[!CAUTION]
    >
-   >Para asegurarse de que se hace un seguimiento de los clics en el correo electrónico, haga **not** escribir https:// dentro del valor del token.
+   >**Usando http/https...**
+   >
+   >* Para asegurarse de que se hace un seguimiento de los clics en el correo electrónico, haga que **no** escriba https:// _en_ el valor del token. Utilícelo fuera del token, como se muestra en el paso 7.
+   >
+   >* Recomendamos encarecidamente no dejar fuera el http/https. Si lo hace, la [versión web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} de su correo electrónico podría procesarse incorrectamente.
 
 1. Seleccione el correo electrónico en el programa.
 
@@ -43,13 +47,13 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    ![](assets/six-1.png)
 
-1. En cualquier lugar del correo electrónico, escriba &quot;https://&quot; (sin dejar espacio después) y haga clic en el icono Insertar token.
+1. En cualquier parte del correo electrónico, escriba `https://` (sin dejar espacio después) y haga clic en el icono Insertar token.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Por supuesto, también tiene la opción de introducir &quot;https&quot; si su sitio lo utiliza.
+   >Por supuesto, también tiene la opción de ingresar `http://` si su sitio no utiliza https.
 
 1. Busque mi token, selecciónelo y haga clic en **Insertar**.
 
