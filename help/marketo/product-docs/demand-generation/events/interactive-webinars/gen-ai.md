@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # Funciones de GenAI {#gen-ai-features}
 
 Genere automáticamente capítulos y resúmenes para sus seminarios web grabados, lo que los hace más accesibles y fáciles de navegar para su audiencia.
+
+>[!PREREQUISITES]
+>
+>Antes de utilizar estas funciones, primero debe aceptar los términos y condiciones de Adobe GenAI. Si todavía no lo ha hecho, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 * **Generación automática de capítulos**: La tecnología con tecnología de IA crea capítulos para el contenido del seminario web.
 

@@ -4,9 +4,9 @@ description: 'Cancelación de suscripción duradera: documentación de Marketo: 
 title: Cancelación de suscripción duradera
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Ejecute un paso de flujo de **Cambiar valor de datos** como se muestra a continu
 
 ![](assets/three.png)
 
-SOAP Actualizar una persona existente mediante la API de.
+Actualizar una persona existente mediante la API de SOAP.
 
 ## Creación de una nueva persona {#creating-a-new-person}
 
@@ -46,8 +46,6 @@ Cuando se crea una persona nueva, Marketo la compara con la tabla de estado del 
 ## Cambio de una dirección de correo electrónico {#changing-an-email-address}
 
 Si cambia la dirección de correo electrónico de una persona a una dirección de correo electrónico sin suscribirse, se cancela la suscripción de esa persona. Este cambio se puede producir en Marketo o en Salesforce.
-
-Si cambia una dirección de correo electrónico sin suscribir a una que está suscrita, esa persona se suscribirá.
 
 ## Volver a suscribirse {#re-subscribing}
 
