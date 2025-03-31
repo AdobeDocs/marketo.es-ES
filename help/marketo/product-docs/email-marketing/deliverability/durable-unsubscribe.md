@@ -4,9 +4,9 @@ description: 'Cancelación de suscripción duradera: documentación de Marketo: 
 title: Cancelación de suscripción duradera
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
+source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,6 @@ En Marketo, desactive la casilla &quot;Cancelación de la suscripción&quot; en 
 Ejecute un paso de flujo de _Cambiar valor de datos_ como se muestra a continuación en una o varias personas.
 
 ![Cambiar paso de flujo de valor de datos](assets/durable-unsubscribe-3.png)
-
-Actualizar una persona existente mediante la API de SOAP.
 
 ## Creación de una nueva persona {#creating-a-new-person}
 
