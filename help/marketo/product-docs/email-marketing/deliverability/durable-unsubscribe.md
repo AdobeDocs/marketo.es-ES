@@ -4,9 +4,9 @@ description: 'Cancelación de suscripción duradera: documentación de Marketo: 
 title: Cancelación de suscripción duradera
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Existen varias formas de volver a suscribir a una persona.
 
 En Salesforce, **borre** el campo Exclusión de correo electrónico en el registro del posible cliente/contacto. Se sincronizará con Marketo.
 
-![](assets/one.png)
+![Pantalla de Salesforce](assets/durable-unsubscribe-1.png)
 
 En Marketo, **borre** la casilla de cancelación de la suscripción en la ficha Información del registro de la persona.
 
-![](assets/two.png)
+![Borrando la casilla de cancelación de suscripción en el registro de una persona](assets/durable-unsubscribe-2.png)
 
 Ejecute un paso de flujo de **Cambiar valor de datos** como se muestra a continuación en una o varias personas.
 
-![](assets/three.png)
+![Cambiar paso de flujo de valor de datos](assets/durable-unsubscribe-3.png)
 
 Actualizar una persona existente mediante la API de SOAP.
 
