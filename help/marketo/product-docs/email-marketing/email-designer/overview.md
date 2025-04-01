@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 
 El diseñador de correo electrónico es la última innovación en Marketo Engage diseñada para proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico renovada para mejorar la productividad y la eficacia al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
-
-Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en programas de correo electrónico, así como en listas inteligentes/campañas. Próximamente habrá nuevas y potentes mejoras en Designer.
 
 ## Cómo acceder a {#how-to-access}
 
@@ -65,6 +63,10 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 **¿Seguirá funcionando el antiguo editor de correo electrónico? Si es así, ¿por cuánto tiempo?**
 
 Sí, el antiguo editor de correo electrónico (clásico) coexistirá con el nuevo diseñador de correo electrónico. Los correos electrónicos creados en el editor clásico permanecerán. No hay fecha de cuándo el editor clásico quedará obsoleto en este momento, pero seguirá funcionando a lo largo de 2025.
+
+**¿En qué programas puedo usar los nuevos correos electrónicos de Designer de correo electrónico?**
+
+Los nuevos correos electrónicos de Designer de correo electrónico son accesibles en todos los programas (con la única excepción de los programas de seminarios web interactivos). La clonación también está disponible.
 
 **¿Funcionarán las plantillas de correo electrónico existentes en el nuevo diseñador? Si no es así, ¿es necesario crear plantillas con el nuevo diseñador para que todas las secciones/módulos se correspondan con el aspecto que queremos que tenga el contenido?**
 

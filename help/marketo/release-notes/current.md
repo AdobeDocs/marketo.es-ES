@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 8%
 
 ---
@@ -33,8 +33,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
     <tr> 
    <td><strong>Designer de correo electrónico disponible en todos los programas</strong>: ahora se puede acceder a los nuevos correos electrónicos de Designer de correo electrónico en los programas de participación, predeterminados y de eventos (excepto en los programas de seminarios web interactivos). Anteriormente, solo estaban disponibles en Programas de correo electrónico. Con esta actualización, la clonación también está disponible.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 

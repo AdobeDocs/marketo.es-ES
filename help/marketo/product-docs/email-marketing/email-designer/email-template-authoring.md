@@ -3,9 +3,9 @@ description: Plantillas de correo electrónico - Documentos de Marketo - Documen
 title: Plantillas de correo electrónico
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1840'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Para un proceso de diseño acelerado y mejorado, puede crear plantillas de corre
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Para un proceso de diseño acelerado y mejorado, puede crear plantillas de corre
 
 ## Creación de una plantilla de correo electrónico {#create-an-email-template}
 
-1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Inicie sesión en Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. En Mi Marketo, seleccione **Design Studio**.
 
@@ -58,31 +58,31 @@ Defina su contenido añadiendo y moviendo elementos estructurales con sencillas 
 
 ### Importe su HTML {#import-your-html}
 
-Puede importar contenido existente del HTML para diseñar sus plantillas de correo electrónico. El contenido puede ser:
+Puede importar contenido existente de HTML para diseñar sus plantillas de correo electrónico. El contenido puede ser:
 
-* Archivo de HTML con una hoja de estilos incorporada
+* Archivo HTML con una hoja de estilos incorporada
 
-* Archivo .zip que incluye un archivo de HTML, la hoja de estilos (.css) y las imágenes
+* Archivo .zip que incluye un archivo HTML, la hoja de estilos (.css) y las imágenes
 
 >[!NOTE]
 >
 >No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
 
-1. En la página _Diseña tu plantilla_, selecciona **HTML de importación**.
+1. En la página _Diseña tu plantilla_, selecciona **Importar HTML**.
 
-1. Arrastre y suelte el HTML o archivo .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
+1. Arrastre y suelte el archivo HTML o .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
 
    ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
-   >Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
+   >Cuando se carga el contenido de HTML, este se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
 
-1. Para poder aprovechar los componentes de contenido de Designer de correo electrónico, haga clic en la pestaña **convertidor de HTML** y luego en **Convertir**.
+1. Para poder aprovechar los componentes de contenido de Email Designer, haz clic en la pestaña **HTML converter** y luego en **Convert**.
 
    >[!CAUTION]
    >
-   >El uso de una etiqueta `<table>` como primera capa en un archivo de HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de capa superior.
+   >El uso de una etiqueta `<table>` como primera capa de un archivo HTML puede causar la pérdida de estilo, incluida la configuración del fondo y el ancho en la etiqueta de la capa superior.
 
 Ahora puede personalizar el archivo importado según sea necesario con el editor de correo electrónico visual.
 
@@ -90,7 +90,7 @@ Ahora puede personalizar el archivo importado según sea necesario con el editor
 
 Existen dos tipos de plantillas para elegir.
 
-* **Plantillas de ejemplo**: El Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
+* **Plantillas de ejemplo**: Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
 
 * **Plantillas guardadas**: son plantillas que creó desde cero mediante el menú Plantillas o un mensaje de correo electrónico que creó y eligió guardar como plantilla.
 
@@ -164,7 +164,7 @@ Una vez guardado el correo electrónico, aparecerá en la ficha _[!UICONTROL Uti
 
 ### Añadir recursos {#add-assets}
 
-Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de la instancia de Marketo Engage.
+Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de su instancia de Marketo Engage.
 
 >[!NOTE]
 >
@@ -299,13 +299,13 @@ Desde las opciones **Más** del editor de contenido, puede realizar las siguient
 
 * **Cambia tu diseño**: vuelve a la página _Diseña tu plantilla_. Desde aquí, puede realizar cualquier acción como se describe en la sección [Diseñar su plantilla](#design-your-template).
 
-* **HTML de exportación**: descargue el contenido del lienzo visual en su sistema local en formato de HTML empaquetado como archivo zip.
+* **Exportar HTML**: descargue el contenido del lienzo visual en su sistema local en formato HTML empaquetado como archivo zip.
 
 ## Ver detalles de la plantilla {#view-template-details}
 
 En la página de lista _Plantillas de correo electrónico_, haga clic en el nombre de una plantilla de correo electrónico para ver sus detalles.
 
-(assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 Se pueden editar detalles básicos como el nombre y la descripción. Haga clic fuera del campo que ha editado para guardar los cambios.
 
