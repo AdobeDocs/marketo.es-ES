@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # Funciones de GenAI {#gen-ai-features}
 
 Genere automáticamente capítulos y resúmenes para sus seminarios web grabados, lo que los hace más accesibles y fáciles de navegar para su audiencia.
-
->[!PREREQUISITES]
->
->Antes de utilizar estas funciones, primero debe aceptar los términos y condiciones de Adobe GenAI. Si todavía no lo ha hecho, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 * **Generación automática de capítulos**: La tecnología con tecnología de IA crea capítulos para el contenido del seminario web.
 
@@ -28,15 +24,25 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 * **Fácil integración**: Agregue fácilmente capítulos y resúmenes a sus páginas de aterrizaje copiando el código HTML en el editor de páginas web que elija.
 
+## Habilitar GenAI {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Antes de utilizar estas funciones, primero debe aceptar los términos y condiciones de Adobe GenAI. Si todavía no lo ha hecho, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
+Después de aceptar los términos y condiciones de Adobe GenAI, el siguiente paso es habilitarlo para usuarios individuales. Para ello, vaya a **[!UICONTROL Administración]** > **[!UICONTROL Seminarios web interactivos]** y seleccione qué usuarios deben tener acceso a GenAI.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Cómo acceder a {#how-to-access}
 
 1. Vaya a la página de información general del seminario web en los seminarios web interactivos de Marketo Engage.
 
 1. Después de llevar a cabo el seminario web bajo demanda, espere de 30 a 60 minutos para que la IA procese la grabación. Se puede hacer clic en el botón Generar cuando esté disponible.
 
-1. Haga clic en **Generar**.
+1. Haga clic en **[!UICONTROL Generar]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. Se abre una nueva pestaña que muestra capítulos generados por IA y un resumen de texto.
 
@@ -44,7 +50,7 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 1. Revise los capítulos y el resumen generados.
 
-1. Si es necesario realizar cambios, haga clic en el botón **Editar**.
+1. Si es necesario realizar cambios, haga clic en el botón **[!UICONTROL Editar]**.
 
    Realizar modificaciones:
 
@@ -52,23 +58,23 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
    * Ajuste las marcas de tiempo si es necesario editando los valores de los campos con marcas de tiempo.
 
-   * Elimine los capítulos no deseados seleccionándolos y haciendo clic en **Eliminar**.
+   * Elimine los capítulos no deseados seleccionándolos y haciendo clic en **[!UICONTROL Eliminar]**.
 
-   * Combine dos capítulos consecutivos seleccionándolos y haciendo clic en **Combinar**.
+   * Combine dos capítulos consecutivos seleccionándolos y haciendo clic en **[!UICONTROL Combinar]**.
 
       * AI genera un capítulo compuesto formado por los dos capítulos seleccionados
 
       * Para combinar varios capítulos, debe hacer dos a la vez
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Si lo desea, puede clasificar la calidad de los capítulos o del resumen generados con los iconos _miniaturas arriba_ ![Icono de miniaturas arriba](assets/icon-thumbs-up.png) o _miniaturas abajo_ ![Icono de miniaturas abajo](assets/icon-thumbs-down.png). También puede marcar cualquier contenido problemático si hace clic en el icono de marca ![Icono de marca](assets/icon-flag.png).
    >
-   >* Si no está satisfecho con el resumen inicial, puede hacer clic en el botón **Volver a generar resumen** y se generará otra versión.
+   >* Si no está satisfecho con el resumen inicial, puede hacer clic en el botón **[!UICONTROL Volver a generar resumen]** y se generará otra versión.
 
-1. Guarde los cambios haciendo clic en el botón **Guardar** en la parte superior derecha de la pantalla.
+1. Guarde los cambios haciendo clic en el botón **[!UICONTROL Guardar]** en la parte superior derecha de la pantalla.
 
 ## Usar contenido generado {#use-generated-content}
 
@@ -76,13 +82,13 @@ Después de copiar el contenido que desea utilizar, péguelo en el editor que pr
 
 ### Resumen {#summary}
 
-**Copiar HTML**: haga clic en el botón **Copiar HTML** para obtener todo el texto, y aplique formato a todo el código HTML dentro de una tabla.
+**Copiar HTML**: haga clic en el botón **[!UICONTROL Copiar HTML]** para obtener todo el texto, y aplique formato a todo el código HTML dentro de una tabla.
 
 **Solo texto**: si desea solo texto, resáltelo y seleccione Ctrl/Cmd+C (o haga clic con el botón secundario) para copiar.
 
 ### Capítulos {#chapters}
 
-**Copiar HTML**: haz clic en el botón **Copiar HTML** para obtener toda la grabación y sus capítulos formateados dentro de un reproductor de vídeo.
+**Copiar HTML**: haz clic en el botón **[!UICONTROL Copiar HTML]** para obtener toda la grabación y sus capítulos formateados dentro de un reproductor de vídeo.
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
