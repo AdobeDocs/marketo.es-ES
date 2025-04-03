@@ -4,9 +4,9 @@ description: Páginas Web Vistas, Informe De Actividad De La Página Web - Docum
 title: Páginas Web Vistas, Informe De Actividad De Páginas Web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Desde un [informe de actividad de página web](/help/marketo/product-docs/report
 >
 >Para capturar actividad de tu sitio web en Marketo, primero debes [configurar Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. En su [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), haga clic en el número de la columna Vistas de páginas.
+1. En su [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), haga clic en el nombre de la persona.
 
-   ![](assets/image2014-9-16-14-3a54-3a8.png)
+   ![](assets/web-pages-viewed-web-page-activity-report-1.png)
 
-1. ¡Tú estás ahí! Se abre una nueva ventana que muestra la lista de páginas del sitio que visitó la persona y cuándo.
+1. Se abre una nueva pestaña que muestra la lista de páginas del sitio que visitó la persona y cuándo lo hizo.
 
-   ![](assets/image2014-9-16-14-3a54-3a12.png)
+   ![](assets/web-pages-viewed-web-page-activity-report-2.png)
 
    >[!MORELIKETHIS]
    >

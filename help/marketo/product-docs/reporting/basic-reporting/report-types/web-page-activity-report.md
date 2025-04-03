@@ -4,9 +4,9 @@ description: Informe de actividad de página web - Documentos de Marketo - Docum
 title: Informe de actividad de página web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '322'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
 
 >[!PREREQUISITES]
 >
->* [Agregar el código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
+>* [Agregar código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
 1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el **informe de actividad de página web** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} en el informe.
@@ -28,7 +28,7 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
 
 1. ¡Ya lo tienes! Revise el informe para ver quién está visitando el sitio.
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,15 +51,15 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
  <tbody> 
   <tr> 
    <td>Persona</td> 
-   <td>Nombre, título y compañía del visitante.<br><strong>Haga clic</strong> para ver los detalles de la persona y el historial de actividades.</td> 
+   <td>Nombre, título y compañía del visitante.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Haga clic</a></strong> para ver las páginas visitadas.</td>
   </tr> 
   <tr> 
    <td>Primera/última visita (zona horaria)</td> 
    <td>Fecha y hora de la primera/última visita de cualquier persona de esta compañía.</td> 
   </tr> 
   <tr> 
-   <td>Vistas de páginas</td> 
-   <td>Número de páginas cargadas por este visitante.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Haga clic</a></strong> para ver qué páginas se visitaron.</td> 
+   <td>Page Views</td> 
+   <td>Número de páginas cargadas por este visitante.</td>
   </tr> 
   <tr> 
    <td>Persona que recomienda el HTTP</td> 
