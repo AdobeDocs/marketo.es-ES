@@ -6,10 +6,8 @@ description: Utilice esta tabla para comparar la disponibilidad de las funciones
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -32,13 +30,13 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
 <tbody>
   <tr>
     <td>Plantillas de correo electrónico de inicio OOTB</td>
-    <td>Capacidad para utilizar plantillas OOTB proporcionadas por el Designer de correo electrónico.</td>
+    <td>Capacidad para utilizar plantillas listas para usar proporcionadas por el Designer de correo electrónico.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
   <tr>
     <td>Plantillas guardadas/Mis plantillas</td>
-    <td>Ability to save templates and use them to create emails.</td>
+    <td>Capacidad para guardar plantillas y utilizarlas para crear correos electrónicos.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -98,7 +96,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Asistente de IA</td>
-    <td>Capacidad para generar la línea de asunto, la parte de contenido o el correo electrónico completo mediante modelos de IA generativos.</td>
+    <td>Capacidad para generar la línea de asunto, parte del contenido o correo electrónico completo mediante <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">IA generativa</a> modelos.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -110,7 +108,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Bloqueo de contenido</td>
-    <td>Capacidad para bloquear contenido en una plantilla de correo electrónico para que no se pueda modificar al crear correos electrónicos.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">bloquear contenido</a> en una plantilla de correo electrónico para que no se pueda modificar al crear correos electrónicos.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -128,7 +126,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Enviar muestra/prueba</td>
-    <td>Ability to send email as a proof to validate before final send.</td>
+    <td>Capacidad para enviar correos electrónicos como prueba para validarlos antes del envío final.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -164,7 +162,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Integración con Adobe Express</td>
-    <td>Capacidad para crear/modificar imágenes con Adobe Express.</td>
+    <td>Capacidad para crear o modificar imágenes con <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -178,7 +176,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Módulos</td>
     <td>Capacidad para crear previamente ajustes preestablecidos de contenido y estructura específicos para reutilizarlos en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>Disponible como fragmento personalizable</td>
+    <td>Disponible como <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">fragmento personalizable</a></td>
   </tr>
   <tr>
     <td>Integración de AEM Assets con Cloud Service</td>
@@ -218,7 +216,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Integración con Gen Studio</td>
-    <td>Ability to integrate with Gen Studio.</td>
+    <td>Posibilidad de integración con Gen Studio.</td>
     <td>No disponible</td>
     <td>Próximamente</td>
   </tr>
@@ -241,13 +239,25 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Próximamente</td>
   </tr>
   <tr>
+    <td>Secuencias de comandos Velocity</td>
+    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
+    <td>Disponible</td>
+    <td>No necesario</td>
+  </tr>
+   <tr>
+    <td>Scripts de manillar</td>
+    <td>Capacidad para utilizar scripts de Handlebar en correos electrónicos.</td>
+    <td>No disponible</td>
+    <td>Planificado para el tercer trimestre de 2025</td>
+  </tr>
+  <tr>
     <td>Integración de Litmus</td>
     <td>Capacidad de integración con Litmus para ver cómo se procesarán los correos electrónicos en distintos clientes de correo electrónico.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>
   <tr>
-    <td>Brand Kit</td>
+    <td>Kit de marca</td>
     <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
@@ -255,12 +265,6 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   <tr>
     <td>Integración de Spam Assassin</td>
     <td>Capacidad para detectar el potencial de que los correos electrónicos se marquen como correo no deseado antes del envío.</td>
-    <td>No disponible</td>
-    <td>Planificado para el tercer trimestre de 2025</td>
-  </tr>
-  <tr>
-    <td>Scripts de manillar</td>
-    <td>Capacidad para utilizar scripts de Handlebar en correos electrónicos.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>
@@ -300,10 +304,5 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
     <td>No disponible</td>
   </tr>
-  <tr>
-    <td>Secuencias de comandos Velocity</td>
-    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
-    <td>Disponible</td>
-    <td>No necesario</td>
-  </tr>
 </tbody></table>
+
