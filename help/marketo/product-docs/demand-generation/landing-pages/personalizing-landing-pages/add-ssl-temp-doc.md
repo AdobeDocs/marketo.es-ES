@@ -4,9 +4,9 @@ title: Añadir SSL a las páginas de aterrizaje
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ CAPTURA DE PANTALLA
 
 CAPTURA DE PANTALLA
 
-Nota:
-
-La columna Certificado SSL de la lista mostrará el estado del certificado SSL para todos los alias de dominio creados después de liberar esta función. Si tiene SSL habilitado para un dominio mediante soporte, el certificado SSL respectivo seguirá existiendo, pero esta tabla solo refleja los certificados SSL para el dominio agregado con esta función
-
-SSL puede tardar hasta 3 minutos en estar en estado READY y es necesario actualizar la página para que los cambios se propaguen en la interfaz de usuario.
+>[!NOTE]
+>
+>* La columna Certificado SSL de la lista muestra el estado del certificado para todos los alias de dominio creados después de liberar esta función (FECHA). Si ha habilitado SSL para un dominio mediante el Soporte técnico de Marketo, el certificado seguirá existiendo, pero no se mostrará en la tabla. Esta tabla solo refleja los certificados SSL para los dominios agregados mediante los pasos de este artículo.
+>
+>* SSL puede tardar hasta tres minutos en estar en estado READY. Debe actualizar la página para que aparezcan los cambios.
