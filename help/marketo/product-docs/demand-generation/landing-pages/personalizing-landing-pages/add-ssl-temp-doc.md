@@ -4,16 +4,21 @@ title: Añadir SSL a las páginas de aterrizaje
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Añadir SSL a las páginas de aterrizaje {#add-ssl-to-your-landing-pages}
 
-Aprenda a agregar el alias de su dominio de marca (por ejemplo, `http://business.adobe.com`) a las páginas de aterrizaje creadas en Marketo Engage para que se pueda acceder a ellas desde sus dominios de marca.
+El cifrado SSL (Secure Socket Layer) permite que todas las páginas de destino de una instancia de Marketo Engage sean seguras.
+
+Cuando rellena un formulario web o visita una página de aterrizaje alojada en Marketo Engage, la información se envía de forma predeterminada a través de un protocolo no seguro (HTTP). Según la política de su empresa, es posible que desee proteger la información enviada a Marketo a través de (HTTPS). Por ejemplo, cuando visite `http://info.mydomain.com/`, ahora será `https://info.mydomain.com/`.
+
+Marketo Engage realiza un seguimiento predeterminado de &quot;Página web visitada&quot; y &quot;Haga clic en el vínculo de la página web&quot; a través del protocolo HTTP no seguro. Si desea que los vínculos de seguimiento estén protegidos con su propio certificado, debe hacer que Marketo cree un servidor no compartido independiente para habilitarlo. Proteger todos los aspectos de la interacción de un contacto con usted suele significar proteger tanto las páginas de aterrizaje como los vínculos de seguimiento.
 
 CAPTURA DE PANTALLA
 
@@ -37,7 +42,7 @@ Esto agrega automáticamente un certificado SSL para este dominio.
 
 CAPTURA DE PANTALLA
 
-## Habilite SSL para su dominio predeterminado
+## Habilite SSL para su dominio predeterminado {#enable-ssl-default-domain}
 
 CAPTURA DE PANTALLA
 
