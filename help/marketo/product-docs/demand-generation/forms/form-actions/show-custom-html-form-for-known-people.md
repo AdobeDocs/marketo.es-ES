@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359644
-description: Mostrar formulario de HTML personalizado para personas conocidas - Documentos de Marketo - Documentación del producto
-title: Mostrar formulario de HTML personalizado para personas conocidas
+description: Mostrar formulario HTML personalizado para personas conocidas - Documentos de Marketo - Documentación del producto
+title: Mostrar formulario HTML personalizado para personas conocidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
-# Mostrar formulario de HTML personalizado para personas conocidas {#show-custom-html-form-for-known-people}
+# Mostrar formulario HTML personalizado para personas conocidas {#show-custom-html-form-for-known-people}
 
-Si un visitante está cookie (persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Solo dale el botón de descarga. Así es como.
+Si un visitante ha proporcionado su nombre completo y dirección de correo electrónico en el pasado y no desea que obtenga todo el formulario, aprenda a mostrarle un HTML personalizado (por ejemplo, solo un botón de descarga).
 
 1. Vaya a **Actividades de marketing**.
 
@@ -31,7 +31,7 @@ Si un visitante está cookie (persona conocida que proporcionó una dirección d
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML personalizado** que se mostrará a las personas conocidas.
+1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar **HTML personalizado** que se mostrará a las personas conocidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
