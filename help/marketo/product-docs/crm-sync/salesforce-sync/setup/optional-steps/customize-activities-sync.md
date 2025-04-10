@@ -4,20 +4,24 @@ description: Personalizar sincronización de actividades - Documentos de Marketo
 title: Personalizar sincronización de actividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 12%
+source-wordcount: '294'
+ht-degree: 11%
 
 ---
 
 # Personalizar sincronización de actividades {#customize-activities-sync}
 
-Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de historial de actividades de Salesforce para determinados eventos. A continuación se indica cómo habilitarlos.
+Si no utiliza Marketo Sales Insight, Marketo Engage puede crear registros del historial de actividades de Salesforce para determinados eventos. A continuación se indica cómo habilitarlos.
+
+>[!NOTE]
+>
+>La sincronización de Salesforce/Marketo Engage no insertará ninguna actividad en Salesforce que se haya producido antes de que la persona se insertara en Salesforce.
 
 1. Ir a **[!UICONTROL Administrador]**.
 
-   ![](assets/admin.png)
+   ![](assets/customize-activities-sync-1.png)
 
 1. Haga clic en **[!DNL Salesforce]** y luego en **[!UICONTROL Editar opciones de sincronización]**.
 
@@ -44,7 +48,7 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
  </thead> 
  <tbody> 
   <tr> 
-   <td>Completó el formulario</td> 
+   <td>Formulario completo</td> 
    <td>Rellenó cualquier formulario de Marketo</td> 
   </tr> 
   <tr> 
@@ -81,7 +85,7 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
   </tr> 
   <tr> 
    <td>Se abrió el email de ventas</td> 
-   <td>Se ha abierto un correo electrónico enviado a través de Marketo Sales Insight</td> 
+   <td>Se ha abierto un correo electrónico enviado mediante Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>Haga clic en el vínculo del correo electrónico de ventas</td> 
@@ -100,4 +104,4 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de his
 
 >[!TIP]
 >
->Si está interesado en obtener más información de Marketo en Salesforce, vea nuestro producto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>Si estás interesado en obtener más información sobre Marketo en Salesforce, echa un vistazo a nuestro producto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

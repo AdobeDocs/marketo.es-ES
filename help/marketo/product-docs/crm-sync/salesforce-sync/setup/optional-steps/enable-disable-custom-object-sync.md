@@ -4,9 +4,9 @@ description: Habilitar/Deshabilitar sincronización de objetos personalizada - D
 title: Habilitar/Deshabilitar sincronización de objetos personalizada
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 >
 >**Se requieren permisos de administración**
 
-1. Haga clic en **[!UICONTROL Administrador]**.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. En el menú Administración de bases de datos, haga clic en **[!UICONTROL Sincronización de objetos de Salesforce]**.
+1. En el menú Administración de bases de datos, haga clic en **[!UICONTROL Sincronizar objetos de Salesforce]**.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
 1. Si este es su primer objeto personalizado, haga clic en **[!UICONTROL Sincronizar esquema]**. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]** para asegurarse de que dispone de la última versión.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
 1. Si la sincronización global se está ejecutando, tendrá que deshabilitarla haciendo clic en **[!UICONTROL Deshabilitar sincronización global]**.
 
