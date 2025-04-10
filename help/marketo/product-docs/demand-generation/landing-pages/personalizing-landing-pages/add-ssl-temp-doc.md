@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
+source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -20,31 +20,39 @@ Cuando rellena un formulario web o visita una página de aterrizaje alojada en M
 
 Marketo Engage realiza un seguimiento predeterminado de &quot;Página web visitada&quot; y &quot;Haga clic en el vínculo de la página web&quot; a través del protocolo HTTP no seguro. Si desea que los vínculos de seguimiento estén protegidos con su propio certificado, debe hacer que Marketo cree un servidor no compartido independiente para habilitarlo. Proteger todos los aspectos de la interacción de un contacto con usted suele significar proteger tanto las páginas de aterrizaje como los vínculos de seguimiento.
 
-CAPTURA DE PANTALLA
-
 ## Habilitar la certificación SSL {#enable-ssl-certification}
 
 Agregue automáticamente SSL para todos los alias de dominio que cree como parte de las reglas de la página de aterrizaje.
 
 1. Vaya al área de **Admin**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
 1. Seleccione **Páginas de aterrizaje** del árbol. En la ficha **Reglas**, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo alias de dominio**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Seleccione la casilla de verificación **Generar certificado SSL**.
+1. Escriba su _alias de dominio_ y _página predeterminada_. Seleccione la casilla de verificación **Generar certificado SSL**. Haga clic en **Crear** cuando haya terminado.
 
-   CAPTURA DE PANTALLA
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
 Esto agrega automáticamente un certificado SSL para este dominio.
 
-CAPTURA DE PANTALLA
-
 ## Habilite SSL para su dominio predeterminado {#enable-ssl-default-domain}
 
-CAPTURA DE PANTALLA
+Siga los pasos a continuación para habilitar SSL para su dominio predeterminado.
+
+1. En la sección **Admin**, seleccione **Páginas de aterrizaje**. Haga clic en el botón **Editar** naranja que está junto a _Configuración_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Si lo desea, también puede modificar el nombre de dominio aquí (se requiere un dominio válido).
+
+1. Seleccione la casilla de verificación &quot;Generar certificado SSL&quot; y haga clic en Guardar.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
