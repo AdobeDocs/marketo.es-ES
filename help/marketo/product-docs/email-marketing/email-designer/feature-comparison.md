@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -30,7 +30,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
 <tbody>
   <tr>
     <td>Plantillas de correo electrónico de inicio OOTB</td>
-    <td>Capacidad para utilizar plantillas listas para usar proporcionadas por el Designer de correo electrónico.</td>
+    <td>Capacidad para usar <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">plantillas listas para usar</a> proporcionadas por el Designer de correo electrónico.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -72,7 +72,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Cargar imagen/archivo</td>
-    <td>Capacidad para cargar una imagen desde el sistema local.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">cargar una imagen</a> desde el sistema local.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -96,7 +96,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Asistente de IA</td>
-    <td>Capacidad para generar la línea de asunto, parte del contenido o correo electrónico completo mediante <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">IA generativa</a> modelos.</td>
+    <td>Capacidad para generar la línea de asunto, parte del contenido o correo electrónico completo mediante <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">IA generativa</a> modelos.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -108,7 +108,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Bloqueo de contenido</td>
-    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">bloquear contenido</a> en una plantilla de correo electrónico para que no se pueda modificar al crear correos electrónicos.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">bloquear contenido</a> en una plantilla de correo electrónico para que no se pueda modificar al crear correos electrónicos.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -138,7 +138,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Guardar contenido como fragmento</td>
-    <td>Capacidad para guardar una parte del contenido como un fragmento.</td>
+    <td>Capacidad para guardar una parte del <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">contenido como un fragmento</a>.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -162,7 +162,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Integración con Adobe Express</td>
-    <td>Capacidad para crear o modificar imágenes con <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
+    <td>Capacidad para crear o modificar imágenes con <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>
@@ -176,7 +176,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Módulos</td>
     <td>Capacidad para crear previamente ajustes preestablecidos de contenido y estructura específicos para reutilizarlos en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>Disponible como <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">fragmento personalizable</a></td>
+    <td>Disponible como <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">fragmento personalizable</a></td>
   </tr>
   <tr>
     <td>Integración de AEM Assets con Cloud Service</td>

@@ -5,9 +5,9 @@ title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
-source-wordcount: '1911'
+source-wordcount: '1922'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 # Fragmentos
 
 Un fragmento es un componente reutilizable al que se puede hacer referencia en uno o varios correos electrónicos y plantillas de correo electrónico. Normalmente es un bloque de contenido (texto, imagen o ambos) que se puede insertar rápidamente en el proyecto. Con esta funcionalidad, puede crear previamente varios bloques de contenido personalizado para combinar el contenido del correo electrónico y mejorar el proceso de diseño. Los casos de uso comunes incluyen bloques de contenido de encabezado/pie de página para correo electrónico, titulares de invitaciones a eventos, mensajes de temporada y mucho más.
+
+>[!NOTE]
+>
+>Los fragmentos equivalen a [fragmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} en el antiguo editor de correo electrónico.
 
 Para aprovechar al máximo los fragmentos de sus flujos de trabajo:
 
@@ -59,7 +63,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
     <p>Acciones disponibles:
     <li>Editar todos los detalles</li>
     <li>Editar en el diseñador visual</li>
-    <li>Publicar</li>
+    <li>Publicación</li>
     <li>Duplicado</li>
     <li>Eliminar</li>
   </td>
