@@ -3,26 +3,26 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 7%
 
 ---
 
 # Notas de la versión: marzo de 2025 {#release-notes-mar-25}
 
-A continuación encontrará todas las características incluidas en la versión de marzo del 25. Consulte la disponibilidad de funciones en su edición de Adobe Systems Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de marzo de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
-Las notas de la versión específicas para Adobe Systems Dynamic Chat [se pueden encontrar aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las características señaladas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Comuníquese con su representante Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y inicio se lanzarán el **28 de marzo de 2025**, con una despliegue gradual de las características restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Verifique el estado junto a cada característica.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **28 de marzo de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
     <tr> 
-   <td><strong>Email Designer disponible en todos los programas</strong>: Los correos electrónicos de Nuevo Email Designer ahora son accesibles a través de los programas de participación, predeterminados y eventos (con la única excepción de interactivo programas de seminarios web). Anteriormente, solo estaban disponibles en programas de correo electrónico. Con esta actualización, la clonación también está disponible.</td>
+   <td><strong>Designer de correo electrónico disponible en todos los programas</strong>: ahora se puede acceder a los nuevos correos electrónicos de Designer de correo electrónico en los programas de participación, predeterminados y de eventos (excepto en los programas de seminarios web interactivos). Anteriormente, solo estaban disponibles en Programas de correo electrónico. Con esta actualización, la clonación también está disponible.</td>
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
@@ -42,7 +42,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Características de GenAI en interactivo seminarios web</strong>: Ahora puede generar capítulos, así como un resumen para seminarios web bajo demanda. Editar y exporte un archivo HTML de sus datos.</td>
+   <td>Características de <strong>GenAI en seminarios web interactivos</strong>: ahora puede generar capítulos y un resumen de los seminarios web a petición. Edite y exporte un archivo HTML de sus datos.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -52,27 +52,17 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Mis tokens</strong> globales y Espacio de trabajo: configurar mis tokens tanto a nivel espacio de trabajo como global para permitir una productividad y un control mejorados sobre marca y marketing colateral en Marketo Engage espacios de trabajo y igualado instancias completas.</td> 
+   <td><strong>Mis tokens globales y de Workspace</strong>: configúrelos tanto a nivel global como de espacio de trabajo para permitir un mayor control y productividad sobre las garantías de marca y marketing en los espacios de trabajo de Marketo Engage e incluso en instancias completas.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Tokens para cualquier atributo</strong> de activación: amplía el lista de tokens de activación disponibles desde la lista de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">este documento</a> para admitir el uso de datos de cualquier atributo de actividad desencadenante en campos de flujo de campaña. Impresión datos de un atributo de actividad a un momento interesante o establezca el último ID de transacción de un posible cliente desde un actividad personalizado en un campo posible cliente.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
 ## Anuncios {#announcements}
 
-* **Desuso** de funciones de Social: El miércoles 31 de julio de 2024, Marketo Engage comenzó la obsolescencia de las siguientes funciones de Social dentro del producto:
+* **Desaprobación de funciones sociales**: El miércoles 31 de julio de 2024, Marketo Engage comenzó la desaprobación de las siguientes funciones sociales del producto:
 
    * Sondeos
    * Botón social
@@ -80,12 +70,12 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    * Compartir video
    * Sorteos
 
-Desde entonces, los usuarios no han podido crear, clonar o incrustar ninguna de esas características Social en Marketo Engage. Los Social existentes activos seguirán funcionando hasta el 31 de enero de 2025. El 1 de febrero de 2025, Social activos dejó de funcionar. Será necesario eliminar todas las funciones sociales incrustadas en las páginas de aterrizaje. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+A partir de ese momento, los usuarios no han podido crear, clonar ni incrustar ninguna de estas funciones de Social en Marketo Engage. Los recursos sociales existentes seguirán funcionando hasta el 31 de enero de 2025. El 1 de febrero de 2025, los activos sociales dejaron de funcionar. Deberá eliminar cualquier función social incrustada en las páginas de destino. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Obsolescencia** del parámetro &quot;access_token&quot; de la API de REST: El `access_token` parámetro consulta utilizado para autenticar las llamadas a la API REST de Marketo quedará obsoleto y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST mediante el encabezado [&quot;Autorización&quot;, tal y como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Desuso de** la API SOAP: El soporte para la API SOAP de Marketo finalizará el 31 de octubre de 2025. Los servicios que usan capacidades de API SOAP deben migrarse a la [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} de REST.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Nuevo Analytics Feature - Public Beta**: [Avanzadas BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conocida como Revenue Explorer y Avanzadas Report Builder) comienza a implementarse para todos los usuarios actuales de Revenue Cycle Explorer a mediados de abril. Este nuevo herramienta ofrece una interfaz flexible de sistema de informes y visualización en Marketo Engage datos, proporcionando detalles granulares sobre progresión, rendimiento y más. Cuenta con interactividad y visualización más ricas, un rendimiento más rápido y un experiencia del usuario más fluido e intuitivo.
+* **Nueva característica de Analytics - Beta público**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conocido como Revenue Explorer y Advanced Report Builder) comienza a implementarse para todos los usuarios actuales del Revenue Cycle Explorer a mediados de abril. Esta nueva herramienta ofrece una interfaz flexible de creación de informes y visualización en datos de Marketo Engage, que proporciona detalles granulares sobre progresión, rendimiento, etc. Ofrece una mejor interactividad y visualización, un rendimiento más rápido y una experiencia de usuario más fluida e intuitiva.
 
-Para acceder a esta función, debe haber adquirido el complemento Avanzadas BI Analytics. Póngase en contacto con el equipo de Adobe Systems cuentas (su administrador de cuenta) para obtener más información.
+Para acceder a esta función, debe haber adquirido el complemento de Analytics de BI avanzado. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
