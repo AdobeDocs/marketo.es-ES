@@ -4,9 +4,9 @@ description: Deshabilitar el seguimiento de un vínculo de correo electrónico -
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ Además, si un correo electrónico se envió hace más de 365 días **y** nadie 
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >¿Desea deshabilitar el rastreo de clics para un vínculo en un mensaje de correo electrónico **template**? Utilice este formato:
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Si necesita ayuda para implementar esto, consúltelo con su desarrollador web.
-
-¡Bonito! Ahora ha desactivado el seguimiento de un vínculo.
+   >Si desea deshabilitar el rastreo de clics para un vínculo en una plantilla de correo electrónico o la [versión de texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} de un correo electrónico, agregue `mktNoTrack` al *principio* de la cadena, no al final, como en este ejemplo: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. De lo contrario, podría hacer que el vínculo desapareciera. Si necesita ayuda para implementar el código anterior, consúltelo con su desarrollador web.
