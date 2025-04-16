@@ -4,7 +4,7 @@ description: 'Adición de un botón social a una página de aterrizaje de forma 
 title: Adición de un botón social a una página de aterrizaje de forma libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Una vez que la página de aterrizaje esté activa, consulta la actividad generada por el botón social (con Analytics) en [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Una vez que tu página de aterrizaje esté activa, consulta la actividad generada por tu _botón social (con Analytics) en el panel social_.
 
    Si agrega un botón Me gusta/Recomendar (Lite) en su lugar, vea el número de difusiones en el [informe de rendimiento de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -49,10 +49,10 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
    >
    >Para ahorrar tiempo, puede usar la opción **Clonar desde** para copiar toda la configuración de un botón social existente.
 
-   [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [poner el botón social en el sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _poner el botón social en el sitio web_
 
 ¡Felicidades! Ha añadido un botón social a la página de aterrizaje. Asegúrese de aprobar la página de aterrizaje.
 
 >[!MORELIKETHIS]
 >
->Ha terminado, pero puede cambiar la configuración del botón social si es necesario. Comience por [personalizar el estilo del botón](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) o [editar los mensajes compartidos](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) que presenta.
+>Ha terminado, pero puede cambiar la configuración del botón social si es necesario. Comience por _personalizar el estilo del botón_ o _editar los mensajes compartidos_ que presenta.

@@ -4,9 +4,9 @@ short-description: Conozca los términos de Marketo Engage y sus definiciones pa
 title: Glosario de Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
+source-wordcount: '4065'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Prueba A/B</a></strong></td>
-   <td colspan="1">Permite modificar los componentes del correo electrónico (por ejemplo, la línea de asunto, la dirección de origen, etc.) y establezca criterios de prueba para determinar qué conjunto de contenido sale mejor.</td> 
+   <td colspan="1">Permite modificar los componentes del correo electrónico (por ejemplo, la línea de asunto, la dirección de origen, etc.) y definir criterios de prueba para determinar qué conjunto de contenido sale mejor.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cuenta</strong></td> 
@@ -184,7 +184,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">(consulte <strong><a href="#predictivecontent">Contenido predictivo</a></strong>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Análisis de contenido</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td> 
    <td colspan="1">Área de <strong>Web Personalization</strong> que muestra el contenido detectado desde su sitio web, así como el rendimiento del contenido.</td> 
   </tr> 
   <tr> 
@@ -197,7 +197,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Audiencia personalizada</a></strong></td> 
-   <td colspan="1">En Facebook, cree una lista compuesta por personas específicas y existentes (de la base de datos de Marketo) con el fin de establecer como objetivo directo.</td> 
+   <td colspan="1">En Facebook, cree una lista compuesta por personas específicas y existentes (desde la base de datos de Marketo) con el fin de establecer como objetivo directo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">Campo personalizado</a></strong></td> 
@@ -264,11 +264,11 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Abreviatura de documentos: los documentos son artículos de ayuda para que los clientes comprendan mejor el producto. Marketo tiene varios tipos diferentes de documentos: documentos de productos (el sitio en el que se encuentra actualmente), documentos de <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">desarrolladores</a> y documentos de <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">asistencia</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Autenticación de mensajes, creación de informes y conformidad basados en dominio (DMARC)</strong></td> 
+   <td colspan="1"><strong>Autenticación de mensajes, informes y conformidad basados en el dominio (DMARC)</strong></td> 
    <td colspan="1">Una directiva de seguridad de correo electrónico basada en DNS que estandariza el funcionamiento y la interpretación de <strong>SPF</strong> y <strong>DKIM</strong>, lo que permite a los proveedores de buzones validar que el correo que afirma ser de un dominio se origina a partir de fuentes válidas para ese dominio. Además, permite a los remitentes especificar cómo se debe tratar el correo que falla en la validación.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Correo identificado por claves de dominio</a> (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a> (DKIM)</strong></td> 
    <td colspan="1">Mecanismo de autenticación que protege el dominio de envío, lo que permite a los remitentes asociar el nombre de dominio de la dirección de origen con un mensaje de correo electrónico específico. Esto permite al destinatario saber que el propietario del dominio envió legítimamente el correo electrónico. Un remitente firmará el correo electrónico con una firma digital en el encabezado del mensaje. El destinatario puede descifrar esa firma con una clave pública publicada en DNS por el propietario del dominio para asegurarse de que el propietario del dominio envió el correo de forma legítima.</td> 
   </tr> 
   <tr> 
@@ -300,7 +300,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Correo electrónico</strong></td> 
-   <td colspan="1">En Marketo, uno de los <strong>recursos</strong> está disponible para usarse y comunicarse con sus clientes. Los correos electrónicos pueden ser de HTML (gráficos, fuentes personalizadas, etc.) o de solo texto (mensajes de texto sin formato especial). Solo los correos electrónicos del HTML pueden registrar "aperturas".</td> 
+   <td colspan="1">En Marketo, uno de los <strong>recursos</strong> está disponible para usarse y comunicarse con sus clientes. Los correos electrónicos pueden ser de HTML (gráficos, fuentes personalizadas, etc.) o de solo texto (mensajes de texto sin formato especial). Solo los correos electrónicos de HTML pueden registrar "aperturas".</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Email no válido</strong></td> 
@@ -309,7 +309,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> Programa de email</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> Programa de correo electrónico</strong></a></p> 
     </div></td> 
    <td colspan="1">Un tipo de programa en Marketo. Los programas de correo electrónico se utilizan para envíos de correo electrónico únicos. Puede utilizar <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">pruebas A/B</a></strong> y realizar un seguimiento de los resultados de sus correos electrónicos.<br></td> 
   </tr> 
@@ -339,7 +339,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Programa de evento</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Programa del evento</a></strong></p> 
     </div></td> 
    <td colspan="1">Un tipo de programa en Marketo. Los programas de eventos se usan para automatizar tus <strong>eventos</strong>, tanto en línea como sin conexión (por ejemplo, seminarios web, reuniones, ferias comerciales, etc.).  </td> 
   </tr> 
@@ -350,7 +350,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </tbody> 
 </table>
 
-## F {#f}
+## V {#f}
 
 <table> 
  <colgroup> 
@@ -429,7 +429,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Momento interesante</strong></a></td> 
-   <td><p>En <strong>Marketo Sales Insight</strong>, un suceso que usted considera de particular relevancia (por ejemplo, cuando alguien visita una página específica de su sitio, hace clic en un vínculo en particular de un correo electrónico, etc.) que desea que el equipo de ventas tenga en cuenta.</p></td> 
+   <td><p>En <strong>Marketo Sales Insight</strong>, un suceso que usted considera de particular relevancia (por ejemplo, cuando alguien visita una página específica de su sitio, hace clic en un vínculo determinado de un correo electrónico, etc.) y que desea que el equipo de ventas tenga en cuenta.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -444,7 +444,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona conocida</strong></a></td> 
-   <td><p>Cualquier dato de persona de la base de datos <strong>Marketo</strong> se considera dato de persona conocido. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web inicialmente tienen <strong>cookies</strong> (y son anónimos) a través del seguimiento web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o se asignan manualmente a través de las API de posibles clientes de Marketo en <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> y <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">API de REST</a></p></td> 
+   <td><p>Cualquier dato de persona de la base de datos <strong>Marketo</strong> se considera dato de persona conocido. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web inicialmente están <strong>cookies</strong> (y son anónimos) a través del seguimiento web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o asignarse manualmente a través de las API de posibles clientes asociadas de Marketo en <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> y <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">API de REST</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -490,7 +490,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </tbody> 
 </table>
 
-## M {#m}
+## L {#m}
 
 <table> 
  <colgroup> 
@@ -543,7 +543,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Una de las secciones estándar de Adobe Marketo Engage. Actúa como "página principal" de Marketo y muestra mosaicos para todas las secciones de Marketo a las que tiene acceso.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mis tokens</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mis tókenes</strong></a></td> 
    <td colspan="1">Variables personalizadas que cualquiera puede crear. Se han <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">creado</a> en <strong>carpetas de campaña</strong> o en <strong>programas</strong>.</td> 
   </tr> 
  </tbody> 
@@ -578,7 +578,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><strong>Aperturas</strong></td> 
-   <td><p>Una apertura se registra cuando las imágenes se descargan en un <strong>correo electrónico</strong>. Aunque no incluya una imagen, Marketo inserta de forma predeterminada un solo píxel de seguimiento en todos los correos electrónicos del HTML. Los correos electrónicos de solo texto no pueden registrar un abierto.</p></td> 
+   <td><p>Una apertura se registra cuando las imágenes se descargan en un <strong>correo electrónico</strong>. Incluso si no incluye una imagen, Marketo inserta de forma predeterminada un solo píxel de seguimiento en todos los correos electrónicos de HTML. Los correos electrónicos de solo texto no pueden registrar un abierto.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Email operativo</a></strong></td> 
@@ -633,11 +633,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Grupo de usuarios</strong></a></td> 
    <td colspan="1">En la <strong>administración de cuentas de Target</strong> de Marketo, las personas son un subconjunto de una audiencia, lo que permite un direccionamiento más específico.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Sondeo</strong></a></td> 
-   <td colspan="1">Una encuesta en Marketo es como una encuesta normal. Cree un tema para que las personas voten y lo compartan en sus <strong>páginas de aterrizaje</strong> de Marketo, su sitio web o medios sociales.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
@@ -660,7 +656,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </tbody> 
 </table>
 
-## T {#q}
+## Q {#q}
 
 <table> 
  <colgroup> 
@@ -810,7 +806,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Columna de la izquierda de Marketo que muestra los elementos en una estructura jerárquica. Muestra todo lo que hay en su instancia de Marketo (por ejemplo, <strong>espacios de trabajo</strong>, <strong>programas</strong>, <strong>recursos locales</strong>, etc.).</td> 
   </tr> 
   <tr> 
-   <td><strong>Desencadenante</strong></td> 
+   <td><strong>Activador</strong></td> 
    <td>Actividad o evento que activa los <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">pasos de flujo de una campaña de déclencheur</a> cuando se produce dicho evento (por ejemplo, alguien visita una página web, hace clic en un vínculo de un correo electrónico, etc.). </td> 
   </tr> 
   <tr> 
@@ -849,7 +845,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </tbody> 
 </table>
 
-## S {#w}
+## M {#w}
 
 <table> 
  <colgroup> 
@@ -878,15 +874,15 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Redireccionamiento de sitios web</a></strong></td> 
-   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (mediante Facebook y Google) con anuncios relevantes basados en el sector, cuentas con nombre y datos conocidos.</td> 
+   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (a través de Facebook y Google) con anuncios relevantes basados en el sector, cuentas con nombre y datos conocidos.</td> 
   </tr> 
   <tr> 
-   <td><strong>Lo Que Se Ve Es Lo Que Se Obtiene (WYSIWYG)</strong></td> 
-   <td>Término común que hace referencia a una aplicación o editor y que le permite ver el resultado final de su <strong>contenido</strong> a medida que lo crea. Marketo tiene un editor WYSIWYG.</td> 
+   <td><strong>What You See Is What You Get (WYSIWYG)</strong></td> 
+   <td>Término común que hace referencia a una aplicación o editor y que le permite ver el resultado final de su <strong>contenido</strong> a medida que lo crea. Marketo tiene un editor de WYSIWYG.</td> 
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
-   <td>Elemento gráfico pequeño de una aplicación que permite una interacción específica. Los widgets solo están disponibles en el Marketo Sky (es diferente a una <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">campaña web de widgets)</a></td> 
+   <td>Elemento gráfico pequeño de una aplicación que permite una interacción específica. Los widgets solo están disponibles en Marketo Sky (diferentes de <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">campaña web de widgets)</a></td> 
   </tr> 
   <tr> 
    <td><strong>Comodín</strong></td> 

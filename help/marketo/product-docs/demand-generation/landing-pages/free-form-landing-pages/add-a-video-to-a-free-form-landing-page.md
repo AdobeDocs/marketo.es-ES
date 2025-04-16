@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: 'Añadir un vídeo a una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
 title: Adición de un vídeo a una página de aterrizaje de forma libre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -43,8 +45,8 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
 >
 >Para ahorrar tiempo, puede usar la opción **Clonar a partir de** para copiar toda la configuración de un recurso compartido de vídeo existente.
 
-¡Felicidades! Ha agregado un recurso compartido de vídeo a su página de aterrizaje de forma libre. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puedes [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar el recurso compartido de vídeo en tu sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+¡Felicidades! Ha agregado un recurso compartido de vídeo a su página de aterrizaje de forma libre. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puedes [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o _colocar el recurso compartido de vídeo en tu sitio web_.
 
 >[!MORELIKETHIS]
 >
->Ha terminado, pero puede cambiar la configuración del recurso compartido de vídeo si es necesario. Comience por [personalizar el flujo de recursos compartidos](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (cuándo y dónde se abre la solicitud de recursos compartidos).
+>Ha terminado, pero puede cambiar la configuración del recurso compartido de vídeo si es necesario. Comience por _personalizar el flujo de recursos compartidos_ (cuándo y dónde se abre la solicitud de recursos compartidos).
