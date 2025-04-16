@@ -3,9 +3,9 @@ description: Funciones de GenAI - Documentos de Marketo - Documentación del pro
 title: Funciones de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Después de copiar el contenido que desea utilizar, péguelo en el editor que pr
 ### Capítulos {#chapters}
 
 **Copiar HTML**: haz clic en el botón **[!UICONTROL Copiar HTML]** para obtener toda la grabación y sus capítulos formateados dentro de un reproductor de vídeo.
+
+## Dirigirse a su audiencia
+
+Aproveche los déclencheur o los filtros de campañas o listas inteligentes para ver qué vio cada espectador, cuántas veces, etc., lo que permite realizar seguimientos personalizados.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Déclencheur**: _Hace clic en el vínculo de la página web_, _Visita la página web_
+
+* **Filtros**: _Se hizo clic en el vínculo de la página web_, _Se visitó la página web_
+
+El &quot;vínculo&quot; es el nombre del capítulo y la &quot;página web&quot; es la página que aloja el seminario web bajo demanda.
+
+>[!TIP]
+>
+>Use [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para restringir aún más la audiencia de destino.
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
