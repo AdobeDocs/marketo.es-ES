@@ -3,7 +3,7 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 1%
@@ -74,7 +74,7 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
 
 >[!IMPORTANT]
 >
->Para recibir notificaciones del navegador para el chat en vivo, todos los agentes de chat en vivo deben activar notificaciones del navegador para el Dynamic Chat cuando se le solicite.
+>Para recibir notificaciones del navegador para chat en vivo, todos los agentes de chat en vivo deben activar notificaciones del navegador para Dynamic Chat cuando se le solicite.
 
 ### Activación de notificaciones {#enabling-notifications}
 
@@ -113,7 +113,7 @@ Cuando falla una acción, como una reserva de reunión o un chat en vivo, los us
 
 ### Cosas que hay que tener en cuenta {#things-to-note}
 
-* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para los suscriptores de Dynamic Chat Prime que tienen la opción de enrutamiento establecida en **Equipo**, se intentará usar un agente más antes de que aparezca el mensaje de reserva.
+* Los agentes tienen 100 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para los suscriptores de Dynamic Chat Prime que tengan la opción de enrutamiento establecida en **Equipo**, se intentará usar un agente más antes de que aparezca el mensaje de reserva.
 * Hay un límite de 10 chats en vivo por agente en este momento.
 
 >[!MORELIKETHIS]
