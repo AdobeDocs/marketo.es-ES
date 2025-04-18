@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9265'
 ht-degree: 5%
 
 ---
@@ -1081,7 +1081,7 @@ ht-degree: 5%
             + [Uso del editor de texto enriquecido](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta Nuevo correo electrónico Designer {#beta-new-email-designer}
             + [Nueva descripción general del diseñador de correo electrónico (beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
-            + [Creación de correo electrónico](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + [Creación del correo electrónico](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
             + [Plantillas de correo electrónico](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + Creación de un correo electrónico {#creating-an-email}
             + [Aprobar un correo electrónico](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
@@ -1958,6 +1958,7 @@ ht-degree: 5%
    + Versiones anteriores {#previous-releases}
       + 2025 {#2025}
          + [Notas de la versión: Enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
+         + [Notas de la versión: Marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
       + 2024 {#2024}
          + [Notas de la versión: Enero de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de la versión: Marzo de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)

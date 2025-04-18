@@ -4,10 +4,10 @@ title: Notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '429'
+ht-degree: 7%
 
 ---
 
@@ -43,17 +43,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: Texto.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>TÍTULO</strong>: Texto.</td> 
+   <td><strong>Autoservicio de capa de sockets seguros (SSL)</strong>: el cifrado SSL le permite hacer que las páginas de aterrizaje de una instancia de Marketo Engage sean seguras. Para habilitar esta función se necesitaba la asistencia del equipo de asistencia de Adobe. Los usuarios de Marketo ahora pueden habilitarlo por su cuenta, lo que ahorra un tiempo valioso.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
