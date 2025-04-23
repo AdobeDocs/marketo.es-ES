@@ -3,9 +3,9 @@ description: Funciones de GenAI - Documentos de Marketo - Documentación del pro
 title: Funciones de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Después de aceptar los términos y condiciones de Adobe GenAI, el siguiente pas
 
 1. Después de llevar a cabo el seminario web bajo demanda, espere de 30 a 60 minutos para que la IA procese la grabación. Se puede hacer clic en el botón Generar cuando esté disponible.
 
-1. Haga clic en **[!UICONTROL Generar]**.
+1. Haga clic en **[!UICONTROL Ver contenido de GenAI]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 

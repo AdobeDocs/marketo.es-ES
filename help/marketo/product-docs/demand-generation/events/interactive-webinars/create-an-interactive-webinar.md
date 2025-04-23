@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Asigne un título al seminario web. Establezca el tamaño máximo de la audiencia y la duración.
+1. Asigne un título al seminario web y decida cuánto durará.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* El título del seminario web es visible para los participantes cuando se unen. Es importante que el título sea diferente del nombre del programa de eventos de seminarios web interactivos de la instancia de Marketo Engage, así como del nombre de la sala de seminarios web.
+   >* El título del seminario web **es** visible para los participantes cuando se unen. Es importante que el título sea diferente del nombre del programa de eventos de seminarios web interactivos de la instancia de Marketo Engage, así como del nombre de la sala de seminarios web.
    >
    >* No puede reutilizar un título de seminario web. Cada uno debe ser único en la instancia de Marketo.
    >
@@ -56,7 +56,7 @@ Cree un seminario web interactivo en unos sencillos pasos.
    >
    >* Si crea un seminario web de prueba, debe eliminarse antes de su hora de inicio para garantizar que la licencia de ese seminario web no se utilice.
 
-1. Programe la fecha/hora del seminario web y haga clic en **Crear**.
+1. Programe la fecha y la hora del seminario web, cambie la zona horaria (si lo desea) y establezca el tamaño máximo de audiencia. Haga clic en **Crear** cuando haya terminado.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
