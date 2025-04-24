@@ -4,9 +4,10 @@ title: Demandbase
 feature: Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
+source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '161'
 ht-degree: 2%
 
 ---
@@ -15,7 +16,29 @@ ht-degree: 2%
 
 Los usuarios de Demandbase pueden utilizar los atributos de persona de Demandbase para la segmentación de diálogos, la promoción condicional de la marca y el enrutamiento personalizado en Dynamic Chat.
 
-**Características de integración**
+## Acceso a la clave de API para Dynamic Chat {#access-the-api-key-for-dynamic-chat}
+
+Los pasos siguientes se deben seguir _en su cuenta de Demandbase_.
+
+1. En Demandbase, haga clic en el icono _Configuración_.
+
+1. En _Integraciones_, seleccione **Conector de cuenta**.
+
+1. Haga clic en el botón **+ Crear nuevo**.
+
+1. En el menú desplegable _Nombre de integración_, seleccione **Adobe Dynamic Chat**.
+
+1. Seleccione el botón de opción **Servidor**.
+
+1. Haga clic en **Crear**.
+
+1. Con el icono _copiar_, copie la cadena de token de API en la parte inferior de la página.
+
+>[!NOTE]
+>
+>Para obtener más información, consulte [Configuración de Demandbase para enviar datos a una integración (conector de cuenta)](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} en el sitio de ayuda de Demandbase.
+
+## Funciones de integración {#integration-features}
 
 Dirija la audiencia a según los atributos de Demandbase, además de los atributos nativos y personalizados, al crear un cuadro de diálogo o un flujo conversacional.
 
