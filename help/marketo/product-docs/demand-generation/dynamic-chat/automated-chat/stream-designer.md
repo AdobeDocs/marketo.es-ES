@@ -3,7 +3,7 @@ description: Stream Designer - Documentos de Marketo - Documentación del produc
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Diseñador de flujo {#stream-designer}
 
-Hay _muchas_ combinaciones de secuencias posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratis. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
+Hay _muchas_ combinaciones de secuencias posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratuito. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
 <table>
  <tr>
   <td style="width:25%"><strong>Mensaje</strong></td>
-  <td>Utilícelo cuando desee realizar una declaración sin necesidad de respuesta (por ejemplo: "¡Hola! Todos los artículos tienen un 25% de descuento hoy con el código SAVE25").
+  <td style="width:75%">Utilícelo cuando desee realizar una declaración sin necesidad de respuesta (por ejemplo: "¡Hola! Todos los artículos tienen un 25% de descuento hoy con el código SAVE25").
 </td>
  </tr>
  <tr>
@@ -34,7 +34,7 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
  </tr>
  <tr>
   <td style="width:25%"><strong>Documento</strong></td>
-  <td>Permite incrustar documentos del PDF en los cuadros de diálogo y realizar un seguimiento de la actividad de participación de los visitantes en los documentos (cuántas páginas se vieron, si se descargó el documento o los términos de búsqueda utilizados).</td>
+  <td>Permite incrustar documentos de PDF en cuadros de diálogo y realizar un seguimiento de la actividad de participación de los visitantes en los documentos (cuántas páginas se vieron, si se descargó el documento y/o los términos de búsqueda utilizados).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Captura de información</strong></td>
@@ -66,10 +66,10 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
  </tr>
  <tr>
   <td style="width:25%"><strong>Rama condicional</strong></td>
-  <td>Cree ramas en los flujos de diálogo en función de diferentes condiciones. Presente contenido diferente a diferentes personas en el mismo cuadro de diálogo en función de los atributos del posible cliente y de la compañía en Marketo Engage.</td>
+  <td>Cree ramas en los flujos de diálogo en función de diferentes condiciones. Presente contenido diferente a diferentes personas en el mismo cuadro de diálogo en función de los atributos del cliente potencial y de la compañía en Marketo Engage.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Flujo de conversación</strong></td>
+  <td style="width:25%"><strong>Flujo conversacional</strong></td>
   <td>Optimice varios pasos en un flujo dentro de sus cuadros de diálogo utilizando la tarjeta Flujo de conversación.</td>
  </tr>
 </table>
@@ -109,7 +109,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-6.png)
 
-1. Arrastre y suelte la tarjeta [!UICONTROL Question].
+1. Arrastre y suelte la tarjeta _[!UICONTROL Question]_.
 
    ![](assets/stream-designer-7.png)
 
@@ -121,7 +121,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
    >
    >¡Puede personalizar la experiencia para los visitantes de chat!
    >
-   >* Haga clic en el icono &quot;insertar HTML&quot; `</>` para insertar su propio HTML y obtener el aspecto deseado de la conversación.
+   >* Haga clic en el icono &quot;Insertar HTML&quot; `</>` para insertar su propio HTML y obtener el aspecto deseado de la conversación.
    >
    >* Utilice tokens para que los visitantes conocidos del chat personalicen su experiencia (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Haga clic en el icono de llaves `{}` y realice la selección. Agregue un valor predeterminado entre comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
@@ -137,7 +137,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
    >
    >**[!UICONTROL Editar valores almacenados]** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta Pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, usted almacena ese valor como &quot;SEO&quot;).
 
-1. Para &quot;Sí&quot; queremos programar una cita, así que debajo de esa opción arrastre sobre la tarjeta Programador de citas.
+1. Para &quot;Sí&quot; queremos reservar una reunión, así que debajo de esa opción, arrastra la tarjeta _Reserva de reunión_.
 
    ![](assets/stream-designer-10.png)
 
@@ -192,7 +192,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
     </tr>
     <tr>
      <td style="width:30%"><strong>Asignar respuesta al atributo</strong></td>
-     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro Persona en la suscripción del Marketo Engage.</td>
+     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro de persona en su suscripción a Marketo Engage.</td>
     </tr>
    </table>
 
@@ -208,7 +208,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-21.png)
 
-1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha hospedado y haga clic en **[!UICONTROL Guardar]**.
+1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -216,13 +216,13 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-23.png)
 
-1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publish]**.
+1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publicar]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de hacer clic en [!UICONTROL Publish], recuerde que debe [ingresar sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic en [!UICONTROL Publicar], recuerde que debe [escribir las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
