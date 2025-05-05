@@ -66,7 +66,7 @@ Estas mejoras le ayudan a ahorrar tiempo, descubrir información más valiosa, d
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
