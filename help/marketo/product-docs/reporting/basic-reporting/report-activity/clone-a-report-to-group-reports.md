@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Clonar un informe para agrupar informes {#clone-a-report-to-group-reports}
 
-Cualquier informe de **Mis informes **solo es visible para usted. ¿Qué sucede si desea que el informe sea accesible para todos los demás? A continuación se indica cómo hacerlo:
+Cualquier informe de **Mis informes &#x200B;** solo es visible para usted. ¿Qué sucede si desea que el informe sea accesible para todos los demás? A continuación se indica cómo hacerlo:
 
 1. En el área **Analytics**, haga clic en el [informe guardado](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) que desee.
 

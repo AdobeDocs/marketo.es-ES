@@ -52,9 +52,9 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
    >* La URL para mostrar debe ser la ruta del dominio
    >* No incluya https:// ni https://
    >* Usar &#42; para caracteres comodín
-   * Utilice un punto y coma como separador
-   * Ejemplo: /contact_us&#42;; &#42;action=logout&#42;
-   * Este campo distingue entre mayúsculas y minúsculas
+   >* Utilice un punto y coma como separador
+   >* Ejemplo: /contact_us&#42;; &#42;action=logout&#42;
+   >* Este campo distingue entre mayúsculas y minúsculas
 
 ## Consideraciones de barra de recomendaciones {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
 >[!MORELIKETHIS]
 >
-[Habilitar contenido predictivo para medios enriquecidos en web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Habilitar contenido predictivo para medios enriquecidos en web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

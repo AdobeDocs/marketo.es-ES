@@ -12,4 +12,4 @@ ht-degree: 10%
 
 # Aplicaciones móviles {#mobile-apps}
 
-** ![Registro de eventos](assets/mobile-checkin-icon.png)Registro de eventos** [Incorporación de eventos permite a los clientes registrar sus eventos desde una tableta.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Momentos de Marketo](assets/moments-icon.png)Momentos de Marketo** [Momentos de Marketo Mira lo que es importante, cuando es importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Registro de eventos](assets/mobile-checkin-icon.png)Registro de eventos** [Incorporación de eventos permite a los clientes registrar sus eventos desde una tableta.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Momentos de Marketo](assets/moments-icon.png)Momentos de Marketo** [Momentos de Marketo Mira lo que es importante, cuando es importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)

@@ -314,13 +314,13 @@ Puede eliminar los segmentos que ha creado.
 
 >[!NOTE]
 >
-No puede eliminar un segmento asociado a una campaña. Primero debe eliminar la campaña y luego el segmento.
+>No puede eliminar un segmento asociado a una campaña. Primero debe eliminar la campaña y luego el segmento.
 
 ¡Excelente! Ahora que comprende la sección Segmentos, vamos a obtener más información sobre las campañas.
 
 >[!MORELIKETHIS]
 >
-* [Crear un segmento web básico](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Crear una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Crear una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Crear una nueva campaña web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Crear un segmento web básico](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Crear una nueva campaña web de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crear una nueva campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una nueva campaña web de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

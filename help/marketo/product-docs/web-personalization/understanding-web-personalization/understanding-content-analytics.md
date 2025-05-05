@@ -86,7 +86,7 @@ Los análisis de contenido adicionales incluyen:
 
 * **Vistas**: vistas de ese fragmento de contenido para el intervalo de tiempo seleccionado
 * **Conversiones directas**: visitantes web que vieron el contenido y rellenaron un formulario en la misma visita.
-* **Tasa de conversión****:** Una tasa de conversión porcentual calculada por conversiones directas divididas por clics
+* **Tasa de conversión**&#x200B;**:** Una tasa de conversión porcentual calculada por conversiones directas divididas por clics
 
 **Tendencias**
 

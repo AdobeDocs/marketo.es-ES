@@ -21,7 +21,7 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
 >
 >Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo de informe de actividad web de la empresa [3}.](report-type-overview.md)
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo de informe de actividad web de la empresa [3&rbrace;.](report-type-overview.md)
 
 1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
 

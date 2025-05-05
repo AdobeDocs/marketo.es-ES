@@ -21,7 +21,7 @@ Puede enviar mensajes SMS a las personas incluidas en sus campañas de SMS de Vi
 
 >[!AVAILABILITY]
 >
->Debe tener una cuenta de Vibes activa y una licencia de Adobe para Vibes SMS. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, se puede utilizar una conexión a través de Webhooks de Marketo poniéndose en contacto directamente con Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.[
+>Debe tener una cuenta de Vibes activa y una licencia de Adobe para Vibes SMS. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, se puede utilizar una conexión a través de Webhooks de Marketo poniéndose en contacto directamente con Vibes[&#128279;](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. En Mi Marketo, vaya al área **[!UICONTROL Administrador]**.
 

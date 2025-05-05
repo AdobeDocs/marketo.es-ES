@@ -27,7 +27,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
    ![](assets/programseelct.png)
 
-1. En **Nuevo**, haga clic en **Nuevo** **Recurso local** **7}.**
+1. En **Nuevo**, haga clic en **Nuevo** **Recurso local** **7&rbrace;.**
 
    ![](assets/newlocalasset.png)
 

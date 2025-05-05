@@ -83,13 +83,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Estado: enviado**_
+_&#x200B;**Estado: enviado**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtra por la actividad de correo electrónico enviado. Puede elegir vistas/sin vistas, clics/sin clics y/o respuestas/sin respuestas.
 
-_**Estado: pendiente**_
+_&#x200B;**Estado: pendiente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos los correos electrónicos pendientes.
  </tr>
 </table>
 
-_**Estado: sin entregar**_
+_&#x200B;**Estado: sin entregar**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

@@ -65,7 +65,7 @@ Ahora, ¡vamos a saltar a Marketo!
    >
    >El tipo de canal del evento seleccionado debe ser **seminario web**.
 
-1. Elija **Zoom** de la lista de **Socios** del evento **5}.**
+1. Elija **Zoom** de la lista de **Socios** del evento **5&rbrace;.**
 
    ![](assets/eventsettings1.png)
 

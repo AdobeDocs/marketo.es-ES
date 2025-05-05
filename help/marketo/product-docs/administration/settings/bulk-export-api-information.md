@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1}{target="_blank"} ha usado su instancia de Marketo Engage durante los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)
+Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace; ha usado su instancia de Marketo Engage durante los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
 
 >[!NOTE]
 >

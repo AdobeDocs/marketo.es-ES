@@ -22,7 +22,7 @@ Existen tres tipos de campos dinámicos en las acciones de información de venta
 
 Campos de Salesforce: p. ej. `{{sfdc_account_name}}`
 
-* Asegúrese de que está correctamente conectado con las acciones de información de ventas. Vaya a la página [Configuración](https://toutapp.com/login{target="_blank"} y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que está correctamente conectado con las acciones de información de ventas. Vaya a la página [Configuración] (https://toutapp.com/login{target="_blank"} y haga clic en **Administrar** junto a su CRM.
 
 **Solucionar problemas de campos básicos y personalizados**
 

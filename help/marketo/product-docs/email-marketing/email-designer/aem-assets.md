@@ -21,7 +21,7 @@ Conecte su cuenta de _Adobe Experience Manager Assets as a Cloud Service_ a su i
 
 AEM Antes de poder utilizar esta capacidad, primero debe vincular Cloud Service de con Adobe Marketo Engage.
 
-AEM +++Vínculo Cloud Service y Marketo Engage de la
++++AEM Vínculo Cloud Service y Marketo Engage de la
 
 >[!NOTE]
 >

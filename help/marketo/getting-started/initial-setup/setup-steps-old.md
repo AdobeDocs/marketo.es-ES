@@ -227,6 +227,7 @@ Nuestro equipo de marketing ahora utiliza la plataforma Marketo para comunicarse
 `3)` Lista de permitidos Marketo.
 
     * Si usamos direcciones IP en nuestra Lista de permitidos de correo electrónico, agregue las direcciones IP que se enumeran a continuación:
+
     199.15.212.0/22
     
     192.28.144.0/20

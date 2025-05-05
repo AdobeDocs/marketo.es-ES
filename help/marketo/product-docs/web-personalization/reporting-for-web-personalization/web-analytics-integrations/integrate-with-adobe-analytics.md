@@ -122,7 +122,7 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
 1. En **Configuración de la cuenta**, haga clic en **Dominio**.
 1. En **Analytics, haga clic** en **Adobe Analytics**.
-1. Activa **1} las opciones de Conversión, Personalizado y Tráfico.**
+1. Activa **1&rbrace; las opciones de Conversión, Personalizado y Tráfico.**
 1. Asigne las variables de conversión, evento y tráfico **números de ranura** para que coincidan con los números de ranura creados en AA
 1. Haga clic en **Guardar**.
 

@@ -17,9 +17,9 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Inicie sesión en su cuenta de Google Tag Manager.
 
-1. Añada una nueva etiqueta > Configuraciones de etiqueta > Etiqueta de HTML personalizada**.** Llámelo **RTP**.
+1. Añada una nueva etiqueta > Configuraciones de etiqueta > Etiqueta de HTML personalizada&#x200B;**.** Llámelo **RTP**.
 
-1. Inicie sesión en su cuenta de RTP**.**
+1. Inicie sesión en su cuenta de RTP&#x200B;**.**
 
 1. Vaya a **Configuración de la cuenta**.
 
