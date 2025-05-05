@@ -83,7 +83,7 @@ Existen dos formas de acceder al editor de Adobe Express:
 
 ### Usuarios con una licencia Enterprise {#users-with-an-enterprise-license}
 
-Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express completo. Puede ajustar la configuración de la imagen como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de una imagen. Visite la [Guía del usuario de Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} para obtener más información sobre cada configuración.
+Si tiene una licencia Enterprise para Adobe Express, tiene acceso al editor Express completo. Puede ajustar la configuración de la imagen como el color, el brillo, la nitidez, el contraste, el tamaño y mucho más. La opción AI Magic permite eliminar fondos, insertar y quitar objetos y borrar partes de una imagen. Visite la [Guía del usuario de Adobe Express](https://helpx.adobe.com/es/express/user-guide.html){target="_blank"} para obtener más información sobre cada configuración.
 
 >[!IMPORTANT]
 >

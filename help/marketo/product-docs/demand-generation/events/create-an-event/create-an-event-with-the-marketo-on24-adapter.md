@@ -22,7 +22,7 @@ Debe estar familiarizado con los componentes básicos y la secuencia recomendada
 
 >[!NOTE]
 >
->Consulte la [documentación de la API de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obtener más información sobre las API de Marketo.
+>Consulte la [documentación de la API de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obtener más información sobre las API de Marketo.
 
 ## Prerrequisitos {#prerequisites}
 

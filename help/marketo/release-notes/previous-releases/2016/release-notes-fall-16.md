@@ -53,7 +53,7 @@ Ahora puede asignar equipos de cuentas a cuentas con nombre en Marketing basado 
 
 **API DE REST**
 
-Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite el [sitio web de desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite el [sitio web de desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Mejoras en la pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Aporte mayor riqueza a las notificaciones push de iOS habilitando el sonido. Est
 
 Market Sales Insight ahora es compatible con Salesforce Shield Encryption. Todos los clientes de Sales Insight deben actualizar a este último paquete administrado (versión 1.4359.2), que está [disponible en Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API de cuentas con nombre](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [API de cuentas con nombre](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Con esta versión, los usuarios de Marketo ABM pueden administrar cuentas con nombre a través de la API de Cuentas con nombre. Los usuarios pueden crear, actualizar y eliminar cuentas con nombre, así como leer y actualizar las puntuaciones de cuentas con nombre de ABM.
 
-## [Compatibilidad con la API del Editor de correo electrónico v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Compatibilidad con la API del Editor de correo electrónico v2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Administre variables y módulos para correos electrónicos en formato v2.0 mediante la API de REST de Marketo.
 

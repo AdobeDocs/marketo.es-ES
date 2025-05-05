@@ -81,7 +81,7 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantizará que las URI que introduzca en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantizará que las URI que introduzca en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

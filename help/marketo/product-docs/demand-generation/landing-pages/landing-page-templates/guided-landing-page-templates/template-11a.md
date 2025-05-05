@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 11A {#template-11a}
 
-Haga clic con el botón derecho para [descargar la plantilla 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+Haga clic con el botón derecho para [descargar la plantilla 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=es)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+[Plantilla 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=es)

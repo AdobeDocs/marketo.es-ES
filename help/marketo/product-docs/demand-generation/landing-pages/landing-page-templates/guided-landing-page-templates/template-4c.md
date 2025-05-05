@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 4C {#template-4c}
 
-Haga clic con el botón derecho para [descargar la plantilla 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Haga clic con el botón derecho para [descargar la plantilla 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=es)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+[Plantilla 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=es)

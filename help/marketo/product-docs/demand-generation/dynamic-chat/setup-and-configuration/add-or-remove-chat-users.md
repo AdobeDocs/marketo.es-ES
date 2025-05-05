@@ -109,4 +109,4 @@ Si la función de Marketo del usuario de chat recién agregado no tiene permiso 
 >[!MORELIKETHIS]
 >
 >* [Usuarios de Adobe Admin Console](https://helpx.adobe.com/es/enterprise/using/users.html){target="_blank"}
->* [Administrar Usuarios Individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Administrar Usuarios Individualmente](https://helpx.adobe.com/es/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 5B {#template-5b}
 
-Haga clic con el botón derecho para [descargar la plantilla 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Haga clic con el botón derecho para [descargar la plantilla 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=es)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Plantilla 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=es)

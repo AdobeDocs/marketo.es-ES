@@ -25,7 +25,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr> 
    <td>Páginas de destino globales</td> 
    <td><li>¿Cuántas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">páginas de aterrizaje</a> globales hay? ¿Los utilizan los programas?</li>
-   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro de suscripciones</a>?
+   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=es" target="_blank">centro de suscripciones</a>?
    <br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
   <tr> 

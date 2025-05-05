@@ -47,7 +47,7 @@ Además del calendario de marketing con el que administra los eventos y los prog
 
 ## Operaciones de lista en la API de ReST {#list-operations-in-the-rest-api}
 
-Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obtener toda la documentación.
+Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api) para obtener toda la documentación.
 
 * Obtener lista por identificador
 * Obtener varias listas
@@ -78,7 +78,7 @@ La página RTP Set Campaign ahora [incluye plantillas listas para usar](/help/ma
 
 ## RTP: Mejoras en la API de JavaScript {#rtp-javascript-api-enhancements}
 
-Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestro [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener documentación completa.
+Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestro [sitio para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener documentación completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

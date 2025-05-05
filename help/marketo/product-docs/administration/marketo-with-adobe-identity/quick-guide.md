@@ -39,7 +39,7 @@ API de Marketo Engage Solo los usuarios deben crearse y administrarse en Marketo
 
 ## Añadir usuarios mediante CSV {#add-users-via-csv}
 
-[Importar un CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importar un CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Inicio de sesión de usuario {#user-sign-in}
 

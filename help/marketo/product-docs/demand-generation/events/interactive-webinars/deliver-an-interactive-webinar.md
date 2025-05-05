@@ -103,7 +103,7 @@ Las discusiones en el Panel de chat no se registran. El panel de chat también l
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Más información sobre [el panel de chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Más información sobre [el panel de chat](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modo de preparación {#prepare-mode}
 
@@ -126,16 +126,16 @@ Obtenga más información acerca del modo de preparación [en este vídeo](https
 >[!NOTE]
 >
 >* Cualquier cambio realizado en los pods en directo se refleja instantáneamente en los participantes.
->* El [panel de chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} no forma parte del modo de preparación y cualquier cambio que se realice en él se reflejará instantáneamente en los participantes.
+>* El [panel de chat](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} no forma parte del modo de preparación y cualquier cambio que se realice en él se reflejará instantáneamente en los participantes.
 
 ### Accesibilidad {#accessibility}
 
 El Adobe se esfuerza por incluir a presentadores y participantes con discapacidades mejorando la accesibilidad de los seminarios web interactivos. El software se mejora continuamente para satisfacer las necesidades de todos los tipos de usuarios y adherirse a los estándares mundiales que incluyen personas con deficiencias visuales, auditivas, de movilidad u otras.
 
-Obtenga información sobre cómo Adobe Connect proporciona asistencia para [necesidades visuales, auditivas y de movilidad](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Obtenga información sobre cómo Adobe Connect proporciona asistencia para [necesidades visuales, auditivas y de movilidad](https://helpx.adobe.com/es/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Subtítulos opcionales {#closed-captions}
 
 Los subtítulos opcionales son una representación textual del audio dentro de una sala de Adobe Connect y ayuda a los participantes sordos o con dificultades auditivas a participar en eventos. Puede integrar subtítulos en tiempo real del contenido de audio en eventos y presentarlos en la pantalla Subtítulos.
 
-Aprenda a [habilitar subtítulos](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Aprenda a [habilitar subtítulos](https://helpx.adobe.com/es/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.

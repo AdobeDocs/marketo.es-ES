@@ -85,7 +85,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del presentador/anfitrión que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información acerca del uso del Panel de chat.
+* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información acerca del uso del Panel de chat.
 
 * **Chat privado**: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 

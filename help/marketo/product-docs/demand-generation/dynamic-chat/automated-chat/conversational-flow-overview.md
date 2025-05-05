@@ -82,7 +82,7 @@ En la mitad inferior de la pestaña Configuración, personalice el déclencheur 
 
 >[!TIP]
 >
->¡Vea el [SDK de conversaciones](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en acción!
+>¡Vea el [SDK de conversaciones](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=es){target="_blank"} en acción!
 
 >[!MORELIKETHIS]
 >

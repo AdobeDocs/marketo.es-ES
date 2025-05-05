@@ -37,7 +37,7 @@ El Explorador de ingresos tiene un aspecto completamente nuevo, así como el nue
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuevas API de REST de recursos](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/assets)
 
 Ahora tenemos compatibilidad para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [a través de la API](https://developer.adobe.com/marketo-apis/api/asset/).
 

@@ -104,7 +104,7 @@ Ver datos de análisis de contenido y recomendaciones sin conexión.
 
 Las API de recursos preexistentes, que anteriormente solo eran compatibles con las plantillas y los correos electrónicos de la versión 1.0, ahora están habilitadas para los recursos de correo electrónico de la versión 2.0.
 
-## [Sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nuevo y mejorado
 

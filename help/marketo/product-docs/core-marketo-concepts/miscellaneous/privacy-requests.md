@@ -28,7 +28,7 @@ Puede enviar solicitudes individuales para acceder a los datos de consumo y elim
 * A través de la [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [aquí](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=es){target="_blank"}.
 * A través de la API de Privacy Service. Consulte la documentación [aquí](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} y la información de la API [aquí](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-El [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} admite dos tipos de solicitudes: acceso a datos y eliminación de datos.
+El [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=es){target="_blank"} admite dos tipos de solicitudes: acceso a datos y eliminación de datos.
 
 Veamos cómo se pueden crear solicitudes de acceso y eliminación.
 

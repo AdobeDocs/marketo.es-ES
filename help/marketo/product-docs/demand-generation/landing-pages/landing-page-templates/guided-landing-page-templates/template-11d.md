@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 11D {#template-11d}
 
-Haga clic con el botón derecho para [descargar plantilla 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+Haga clic con el botón derecho para [descargar plantilla 11D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=es)
 
 ![](assets/template-11d.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+[Plantilla 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=es)

@@ -87,7 +87,7 @@ El contenido recomendado mediante los algoritmos de inteligencia artificial apli
 
 ## Integración {#integration}
 
-**[Activar/Desactivar API de Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Activar/Desactivar API de Campaign](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Esta nueva API le permite activar y desactivar de forma remota campañas de déclencheur, de modo que ahora puede crear plantillas de programa completamente automatizadas. Cree una plantilla de programa una vez y, a continuación, automatice la clonación, las actualizaciones de material promocional y ahora la activación o programación de campañas inteligentes.
 

@@ -18,7 +18,7 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 >
 >Marketo Sales Insight Actions es una aplicación basada en web que se integra exclusivamente con Salesforce CRM mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
-Para ver un vídeo introductorio de las acciones de información sobre ventas, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Para ver un vídeo introductorio de las acciones de información sobre ventas, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=es){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

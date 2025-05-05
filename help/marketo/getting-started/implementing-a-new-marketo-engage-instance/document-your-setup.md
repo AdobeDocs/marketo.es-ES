@@ -26,8 +26,8 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
 <tbody>
   <tr>
     <td>Lista de importación</td>
-    <td><li>Recopile una lista de orígenes de datos de los que se extraerán registros para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importarlos al Marketo Engage</a>.</li>
-    <li>Si está importando desde varios orígenes de datos, considere la posibilidad de usar Listas maestras o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">crear un campo personalizado</a> en el registro de persona para denotar el origen de datos.</li></td>
+    <td><li>Recopile una lista de orígenes de datos de los que se extraerán registros para <a href="https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importarlos al Marketo Engage</a>.</li>
+    <li>Si está importando desde varios orígenes de datos, considere la posibilidad de usar Listas maestras o <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">crear un campo personalizado</a> en el registro de persona para denotar el origen de datos.</li></td>
   </tr>
   <tr>
     <td>Integración de base de datos</td>
@@ -48,7 +48,7 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
 <tbody>
   <tr>
     <td>Usuarios</td>
-    <td><li>Documente a los <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuarios actuales</a> en su instancia por motivos de seguridad. Los siguientes detalles deben incluirse como mínimo (y todos son visibles en Administración &gt; Usuarios y funciones):</li>
+    <td><li>Documente a los <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuarios actuales</a> en su instancia por motivos de seguridad. Los siguientes detalles deben incluirse como mínimo (y todos son visibles en Administración &gt; Usuarios y funciones):</li>
     <ul>
     <li>Nombre</li>
     <li>Correo electrónico</li>
@@ -63,11 +63,11 @@ Ahora que ha aprendido las áreas de producto clave para configurar para una nue
   </tr>
   <tr>
     <td>Organización</td>
-    <td><li>Documente la estructura de carpetas acordada, las convenciones de nomenclatura estándar para programas, recursos, etc. y el por qué detrás de las decisiones tomadas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
+    <td><li>Documente la estructura de carpetas acordada, las convenciones de nomenclatura estándar para programas, recursos, etc. y el por qué detrás de las decisiones tomadas. <a href="https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Cree un registro de cambios donde pueda documentar qué está cambiando en su instancia y el por qué de las modificaciones. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
+    <td><li>Cree un registro de cambios donde pueda documentar qué está cambiando en su instancia y el por qué de las modificaciones. <a href="https://experienceleague.adobe.com/es/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Obtenga más información acerca de las prácticas recomendadas aquí.</a></li></td>
   </tr>
   <tr>
     <td>Manuales</td>

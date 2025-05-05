@@ -35,7 +35,7 @@ Se acabaron los días en que se limpiaban las plantillas obsoletas en Sales Insi
 
 ![](assets/four-281-29.png)
 
-## [API de extracción masiva para personas y actividades](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [API de extracción masiva para personas y actividades](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Transfiera fácilmente grandes cantidades de datos de persona y actividad de Marketo a sus sistemas externos.
 
@@ -49,7 +49,7 @@ Marketo ABM ahora le permite crear hasta 10 campos personalizados en sus cuentas
 
 Las puntuaciones de las cuentas con nombre pueden variar considerablemente. Marketo ABM ahora calcula automáticamente un percentil para cada una de sus puntuaciones, para que pueda ver de un vistazo dónde se clasifica cada cuenta con nombre entre sus otras cuentas con nombre.
 
-**[API de lista de cuenta ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API de lista de cuenta ABM](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Aproveche las integraciones de socios de ABM enriquecidas y sólidas con compatibilidad de API mejorada para Listas de cuentas con nombre.
 

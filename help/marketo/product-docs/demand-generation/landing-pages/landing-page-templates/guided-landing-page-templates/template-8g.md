@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 8G {#template-8g}
 
-Haga clic con el botón derecho para [descargar la plantilla 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+Haga clic con el botón derecho para [descargar la plantilla 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=es)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+[Plantilla 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=es)

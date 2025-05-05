@@ -63,7 +63,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
    >[!NOTE]
    >
-   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Creación de un objeto personalizado para una estructura &quot;varios a varios&quot; {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
 
    >[!NOTE]
    >
-   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api).
 
 El siguiente paso es crear el objeto intermedio (consulte a continuación). Pero antes de eso, debe crear un campo al que vincularse.
 

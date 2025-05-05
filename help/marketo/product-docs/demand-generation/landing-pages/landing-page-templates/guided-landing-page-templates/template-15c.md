@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 15C {#template-15c}
 
-Haga clic con el botón derecho para [descargar la plantilla 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+Haga clic con el botón derecho para [descargar la plantilla 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=es)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+[Plantilla 15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=es)

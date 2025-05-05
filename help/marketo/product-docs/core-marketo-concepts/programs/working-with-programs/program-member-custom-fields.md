@@ -68,7 +68,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 * El objeto Miembro de programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando se quita un miembro de un programa, si tiene datos en el campo personalizado Miembro del programa, los datos se eliminan de ese campo.
 * Para ver los datos, haga clic en la pestaña Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Se admiten la importación y exportación mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} y [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}. Las exportaciones solo funcionan en listas de miembros de programa, no en listas estáticas.
+* Se admiten la importación y exportación mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} y [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home){target="_blank"}. Las exportaciones solo funcionan en listas de miembros de programa, no en listas estáticas.
 * Cuando combina dos personas, se utilizan los datos del campo personalizado Miembro del programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
 * No se permite cambiar el tipo en los campos Información de miembro del programa.
 * La restricción &quot;contiene&quot; de la lista inteligente no es compatible con los campos personalizados de miembro de programa.

@@ -97,9 +97,9 @@ Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un va
 
 **Campos actualizados con frecuencia**: Algunos campos son propensos a actualizaciones frecuentes. Por ejemplo, los campos de moneda que están sujetos a cambios de moneda. Revise si es necesario sincronizarlos o si los campos deben diseñarse de forma diferente. Si tiene otros campos que se actualizan con frecuencia y no son necesarios, ocúltelos del usuario de sincronización. Asegúrese de hablar con los administradores de SFDC sobre las integraciones que pueden estar actualizando campos.
 
-**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
+**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
 
-**Actividades**: [Revise si alguna de las actividades](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización que se pueda quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
+**Actividades**: [Revise si alguna de las actividades](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización que se pueda quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
 
 **Revisar errores de sincronización**: La administración de excepciones puede ralentizar la sincronización. Revisar las notificaciones de los usuarios y resolver los errores puede mejorar el estado de la sincronización.
 

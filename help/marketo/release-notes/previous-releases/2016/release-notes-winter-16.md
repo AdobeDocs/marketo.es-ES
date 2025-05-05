@@ -49,13 +49,13 @@ Para utilizar esta función, el programa de correo electrónico debe programarse
 
 ## [Mejoras en el marketing móvil](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Compatibilidad con PhoneGap:** Ahora ofrecemos compatibilidad con PhoneGap para tu aplicación móvil. [Más información](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**Compatibilidad con PhoneGap:** Ahora ofrecemos compatibilidad con PhoneGap para tu aplicación móvil. [Más información](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Compatibilidad con aplicaciones de espacio aislado**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API del programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [API del programa](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Cree, actualice y clone programas mediante la API de REST. Esto no incluye la creación o actualización de listas inteligentes y campañas inteligentes dentro de un programa.
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 14A {#template-14a}
 
-Haga clic con el botón derecho para [descargar la plantilla 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+Haga clic con el botón derecho para [descargar la plantilla 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=es)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+[Plantilla 14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=es)

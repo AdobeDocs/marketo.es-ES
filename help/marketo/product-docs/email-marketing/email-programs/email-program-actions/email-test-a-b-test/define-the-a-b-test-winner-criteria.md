@@ -40,7 +40,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>Puntaje de participación</b></td>
-   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
+   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=es" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
    </tr>
    </table>
 

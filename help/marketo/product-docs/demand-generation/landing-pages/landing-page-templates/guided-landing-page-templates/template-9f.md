@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 9F {#template-9f}
 
-Haga clic con el botón derecho para [descargar la plantilla 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+Haga clic con el botón derecho para [descargar la plantilla 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=es)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+[Plantilla 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=es)

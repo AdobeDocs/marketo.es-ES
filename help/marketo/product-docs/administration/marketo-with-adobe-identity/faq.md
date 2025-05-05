@@ -38,7 +38,7 @@ Los vínculos y marcadores anteriores a los recursos de Marketo Engage en el dom
 
 **¿Funciona esto con SSO?**
 
-Sí. La integración con Adobe IMS es compatible con usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. Sin embargo, existen diferencias entre la compatibilidad iniciada con Marketo Engage IdP y la compatibilidad iniciada con SP de Adobe ([más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}). Si necesita ayuda con respecto a las diferencias de SSO después de migrar a Admin Console, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
+Sí. La integración con Adobe IMS es compatible con usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. Sin embargo, existen diferencias entre la compatibilidad iniciada con Marketo Engage IdP y la compatibilidad iniciada con SP de Adobe ([más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}). Si necesita ayuda con respecto a las diferencias de SSO después de migrar a Admin Console, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/contact.html){target="_blank"}.
 
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador de Marketo Engage?**
 
@@ -73,7 +73,7 @@ No. La administración de funciones de usuario (en espacios de trabajo) se compl
 
 **Soy administrador de Marketo con una suscripción integrada a IMS y no tengo acceso a Admin Console. ¿Cómo puedo obtener acceso?**
 
-Cualquier administrador de sistemas o productos de Adobe que tenga acceso al Admin Console de su organización podrá proporcionarle acceso. Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
+Cualquier administrador de sistemas o productos de Adobe que tenga acceso al Admin Console de su organización podrá proporcionarle acceso. Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/contact.html){target="_blank"}.
 
 **¿Cómo agregaría un administrador usuarios a Marketo [!DNL Sales Connect]?**
 
@@ -81,7 +81,7 @@ Aunque habrá una tarjeta de producto en Admin Console para [!DNL Sales Connect]
 
 **¿Dónde puedo obtener más información acerca de Adobe Admin Console?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/es/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
 
 **¿Debo ir a la sección Administración de Marketo para realizar cambios en la cuenta de usuario de mi cuenta?**
 
@@ -141,7 +141,7 @@ No, estas configuraciones no se ven afectadas.
 
 **¿Cómo puedo evitar que las sesiones agoten el tiempo de espera?**
 
-En [Configuración avanzada](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión deseada (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración del usuario.
+En [Configuración avanzada](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión deseada (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración del usuario.
 
 **Ahora tengo que navegar a Experience Cloud para acceder a Marketo Engage. ¿Hay alguna manera de optimizar este flujo?**
 

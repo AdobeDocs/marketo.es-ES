@@ -88,7 +88,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=es">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

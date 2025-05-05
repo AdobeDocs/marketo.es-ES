@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 6B {#template-6b}
 
-Haga clic con el botón derecho para [descargar la plantilla 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+Haga clic con el botón derecho para [descargar la plantilla 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=es)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+[Plantilla 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=es)

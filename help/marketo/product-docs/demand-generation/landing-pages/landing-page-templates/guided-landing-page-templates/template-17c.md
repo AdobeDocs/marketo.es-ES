@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 17C {#template-17c}
 
-Haga clic con el botón derecho para [descargar la plantilla 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+Haga clic con el botón derecho para [descargar la plantilla 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=es)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
+[Plantilla 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=es)
