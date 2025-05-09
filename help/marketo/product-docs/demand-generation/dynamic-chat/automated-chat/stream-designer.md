@@ -3,9 +3,9 @@ description: Stream Designer - Documentos de Marketo - Documentación del produc
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -141,15 +141,15 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-10.png)
 
-1. En la columna de la derecha, haga clic en **[!UICONTROL Guardar]**.
+1. Elija su opción de enrutamiento y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Como ese es un objetivo, arrastra la tarjeta [!UICONTROL Goal] debajo del Programador de citas.
+1. Como ese es un objetivo, arrastre la tarjeta _[!UICONTROL Goal]_ debajo de la reserva de la reunión.
 
    ![](assets/stream-designer-12.png)
 
-1. Asigne un nombre a la meta (o elija una existente) y haga clic en **[!UICONTROL Guardar]**.
+1. Asigne un nombre a la meta (o elija una existente) y haga clic en **[!UICONTROL Guardar]**. Asignar una puntuación de conversación es opcional.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
    >
    >Para agregar más respuestas, haga clic en **[!UICONTROL Agregar respuesta]**.
 
-1. Debajo de la respuesta &quot;Sí&quot;, arrastre sobre la tarjeta de captura de información para poder recopilar el correo electrónico del visitante.
+1. Debajo de la respuesta &quot;Sí&quot;, arrastre sobre la tarjeta _Captura de información_ para que pueda recopilar el correo electrónico del visitante.
 
    ![](assets/stream-designer-16.png)
 
-1. Haga clic en el menú desplegable **[!UICONTROL Tipo]** y seleccione **[!UICONTROL Correo electrónico]**.
+1. Haga clic en la lista desplegable y seleccione **[!UICONTROL Dirección de correo electrónico]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Introduzca un mensaje de bot de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo apropiado en Marketo Engage y haga clic en **[!UICONTROL Guardar]**.
+1. Introduzca un mensaje de bot de chat y un marcador de posición. Si ya existe un valor para este atributo en la base de datos, elija si desea omitirlo o hacer que los datos lo sobrescriban. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Tipo</strong></td>
-     <td>El tipo de información que desea capturar: teléfono, texto, correo electrónico.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mensaje de chatbot</strong></td>
-     <td>El mensaje que ve el visitante pidiéndole que proporcione la información.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Marcador de posición</strong></td>
-     <td>Texto de muestra que ayuda al visitante a ver qué debe introducir.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Asignar respuesta al atributo</strong></td>
-     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro de persona en su suscripción a Marketo Engage.</td>
-    </tr>
-   </table>
-
-1. Como recopilar su correo electrónico es una meta, arrastre la tarjeta [!UICONTROL Goal] debajo de la captura de información.
+1. Como recopilar su correo electrónico es una meta, arrastre la tarjeta _[!UICONTROL Goal]_ debajo de la captura de información.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-22.png)
 
-1. Seleccione la opción **[!UICONTROL Vista previa]** para obtener una vista previa del cuadro de diálogo.
-
-   ![](assets/stream-designer-23.png)
-
 1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publicar]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
