@@ -1,18 +1,18 @@
 ---
 description: 'Información general sobre la IA generativa: documentos de Marketo, documentación del producto'
-title: Información general sobre Generative AI
+title: IA generativa en Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
 
-# Información general sobre Generative AI {#generative-ai-overview}
+# IA generativa en Dynamic Chat {#generative-ai-overview}
 
-Las funciones generativas impulsadas por IA en Adobe Dynamic Chat le permiten optimizar la productividad de sus agentes de ventas, obtener información sobre la intención de los visitantes de su sitio web y responder a las preguntas de los visitantes de forma segura.
+Las funciones generativas impulsadas por IA de Adobe Dynamic Chat le permiten optimizar la productividad de sus agentes de ventas, obtener información sobre las intenciones de los visitantes de su sitio web y responder a las preguntas de los visitantes de forma segura.
 
 ## Permisos {#permissions}
 
@@ -64,7 +64,7 @@ Normalmente, para obtener el contexto completo de una conversación con un visit
 
 ## Temas tratados {#discussed-topics}
 
-Los temas abordados están disponibles en los déclencheur y filtros de listas inteligentes como restricción, lo que le permite explorar en profundidad las perspectivas del Dynamic Chat.
+Los temas abordados están disponibles en los déclencheur y filtros de listas inteligentes como restricción, lo que le permite explorar en profundidad las perspectivas de Dynamic Chat.
 
 ![](assets/generative-ai-overview-9.png)
 
@@ -76,7 +76,7 @@ Los temas abordados están disponibles en los déclencheur y filtros de listas i
 
 **¿Está disponible la IA generativa para todos los usuarios de Dynamic Chat?**
 
-La IA generativa solo está disponible para suscriptores de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+La IA generativa solo está disponible para suscriptores de Prime de Dynamic Chat. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 **¿Hay un límite en la cantidad de preguntas y respuestas que puedo haber generado?**
 
