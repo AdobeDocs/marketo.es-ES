@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953338
-description: Enviar un correo electrónico de ventas de Marketo desde Microsoft Dynamics - Documentos de Marketo - Documentación del producto
-title: Enviar un correo electrónico de ventas de Marketo desde Microsoft Dynamics
+description: 'Envío de un correo electrónico de ventas de Marketo desde Microsoft Dynamics: documentos de Marketo, documentación del producto'
+title: Envío de un correo electrónico de ventas de Marketo desde Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Enviar un correo electrónico de ventas de Marketo desde Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Envío de un correo electrónico de ventas de Marketo desde Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Su equipo de ventas puede enviar correos electrónicos y hacer que se rastree la apertura y los clics directamente desde Microsoft Dynamics. Así es como.
+Su equipo de ventas puede enviar correos electrónicos y hacer que se rastreen en busca de aperturas y clics directamente desde Microsoft Dynamics. Así es como.
 
 1. En Dynamics, vaya al área **Ventas**.
 
@@ -41,11 +41,11 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastree la
 
    >[!TIP]
    >
-   >Primero puede hacer clic en **Enviar correo electrónico de prueba** y se le enviará el correo electrónico (la dirección de correo electrónico principal en Microsoft Dynamics) antes de enviar el correo electrónico real.
+   >Primero puede hacer clic en **Enviar correo electrónico de prueba** y se le enviará el correo electrónico (la dirección de correo electrónico principal de Microsoft Dynamics) antes de enviar el correo electrónico real.
 
    >[!NOTE]
    >
-   >Puede enviar hasta 2000 correos electrónicos de Marketo a la vez.
+   >Puede enviar hasta 300 correos electrónicos de Marketo a la vez.
 
 ¡Bien hecho! Ahora sabe cómo enviar correos electrónicos rastreados de Marketo directamente desde Microsoft Dynamics.
 
