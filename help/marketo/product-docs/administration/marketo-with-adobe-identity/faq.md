@@ -3,9 +3,9 @@ description: 'Preguntas frecuentes sobre Adobe Identity Management: documentos d
 title: Preguntas frecuentes sobre Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: a68c843e5f454cc782ee5f7647adb57f56b04548
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1645'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Las suscripciones de Marketo Engage existentes se están migrando actualmente al
 
 **Después de la migración, ¿las direcciones URL de Marketo Engage seguirán siendo las mismas?**
 
-No. Las direcciones URL tendrán un aspecto diferente tras la migración.
+No. Las direcciones URL aparecerán en el siguiente formato después de la migración: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (los XXX representan el Munchkin ID y @tenantID es de su organización de Adobe).
 
 **¿Hay algo que necesitemos hacer para prepararnos para el cambio de dirección URL?**
 
@@ -36,9 +36,11 @@ Sí. Después de la migración, Marketo Engage pasará de estar disponible en ex
 
 Los vínculos y marcadores anteriores a los recursos de Marketo Engage en el dominio engage-xx.marketo.com _seguirán funcionando_. Sin embargo, primero debe iniciar sesión en la instancia de Marketo Engage para la URL a la que está navegando. Por ejemplo, para ir a un marcador de una campaña inteligente en una instancia con Munchkin ID 123-ABC-456, primero debe iniciar sesión en la instancia de Marketo Engage con Munchkin ID 123-ABC-456.
 
+Si bien no se ha planificado, el trabajo de desarrollo futuro puede interrumpir esta función de redirección. Para evitar interrupciones inesperadas, se recomienda actualizar los marcadores lo antes posible.
+
 **¿Funciona esto con SSO?**
 
-Sí. La integración con Adobe IMS es compatible con usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. Sin embargo, existen diferencias entre la compatibilidad iniciada con Marketo Engage IdP y la compatibilidad iniciada con SP de Adobe ([más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}). Si necesita ayuda con respecto a las diferencias de SSO después de migrar a Admin Console, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/contact.html){target="_blank"}.
+Sí. La integración con Adobe IMS es compatible con usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. Sin embargo, existen diferencias entre la compatibilidad iniciada con Marketo Engage IdP y la compatibilidad iniciada con SP de Adobe ([más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}). Si necesita ayuda con respecto a las diferencias de SSO después de migrar a Admin Console, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador de Marketo Engage?**
 
@@ -73,15 +75,15 @@ No. La administración de funciones de usuario (en espacios de trabajo) se compl
 
 **Soy administrador de Marketo con una suscripción integrada a IMS y no tengo acceso a Admin Console. ¿Cómo puedo obtener acceso?**
 
-Cualquier administrador de sistemas o productos de Adobe que tenga acceso al Admin Console de su organización podrá proporcionarle acceso. Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/contact.html){target="_blank"}.
+Cualquier administrador de sistemas o productos de Adobe que tenga acceso al Admin Console de su organización podrá proporcionarle acceso. Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **¿Cómo agregaría un administrador usuarios a Marketo [!DNL Sales Connect]?**
 
-Aunque habrá una tarjeta de producto en Admin Console para [!DNL Sales Connect], Admin Console no debe usarse para agregar o administrar usuarios. El siguiente vínculo permitirá a los administradores administrar usuarios mediante Marketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
+Aunque habrá una tarjeta de producto en Admin Console para [!DNL Sales Connect], Admin Console no debe usarse para agregar o administrar usuarios. El siguiente vínculo permitirá a los administradores administrar usuarios a través de Marketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
 
 **¿Dónde puedo obtener más información acerca de Adobe Admin Console?**
 
-[https://helpx.adobe.com/es/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
 
 **¿Debo ir a la sección Administración de Marketo para realizar cambios en la cuenta de usuario de mi cuenta?**
 
@@ -113,7 +115,7 @@ Sí, usted determina el tipo de identidad para que su organización la apoye. En
 
 **¿Qué tarjetas de producto se admiten en Adobe Admin Console?**
 
-Las tarjetas de producto compatibles son: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect y Acciones de perspectiva de ventas de Marketo.
+Las tarjetas de producto compatibles son: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect y Marketo Sales Insight Actions.
 
 **¿Qué sucede si mi inicio de sesión de usuario no coincide con mi correo electrónico cuando migre a una identidad de Adobe?**
 
@@ -123,13 +125,13 @@ Los usuarios actuales de Marketo Engage con inicios de sesión distintos de su d
 
 Cuando se incorporan suscripciones a Adobe Identity, la configuración de restricción de IP no se migra a Adobe Admin Console. La configuración de restricción de IP de Marketo incluye permitir solo acceso desde direcciones IP específicas y bloquear el acceso a direcciones IP específicas. En este momento, Adobe Identity Management System no admite funciones de restricción de IP.
 
-A principios de 2025, Adobe Identity Management System lanzará una función para admitir que solo se permitan direcciones IP específicas, lo que admitirá una transición para los usuarios de Marketo que actualmente utilizan esta función. Los usuarios que actualmente utilicen esta función no se someterán a la migración de usuarios hasta que se publique la función. Una vez implementada la función, se notificará a los usuarios de la programación de su migración. Se proporcionará más información sobre la función cuando esté disponible.
+A mediados de 2025, Adobe Identity Management System lanzará una función que solo permite direcciones IP específicas, lo que permite una transición para los usuarios de Marketo que actualmente utilizan esta función. Los usuarios que actualmente utilicen esta función no se someterán a la migración de usuarios hasta que se publique la función. Una vez implementada la función, se notificará a los usuarios de la programación de su migración. Se proporcionará más información sobre la función cuando esté disponible.
 
 Los usuarios que actualmente utilizan la restricción de IP, que bloquea el acceso a direcciones específicas, ya no podrán utilizar esta función después de migrarla a Adobe Identity, ya que no es compatible con el sistema Identity Management de Adobe.
 
 **¿Qué sucede después de la migración de identidad de Adobe si tengo usuarios con un rol que tiene la opción de &#39;Omitir el inicio de sesión único&#39;?**
 
-Cuando se incorporan suscripciones a Adobe Identity, el inicio de sesión único (SSO) se configura en el nivel de organización de Adobe para todos los usuarios. Cuando se configura el SSO, se aplicará a todos los usuarios de Marketo o a todas las instancias de Marketo de esa organización de Adobe. Anteriormente, Marketo admitía permitir que una función de usuario se configurara para tener la opción de &#39;Omitir el inicio de sesión único&#39;. Esto no es compatible con el sistema Adobe Identity Management.
+Adobe Admin Console viene con un directorio de ID empresarial predeterminado. Los usuarios fuera de los dominios reclamados en los directorios de Federated ID en una organización de Adobe se asignarán a este directorio con un tipo de identidad de Adobe ID. Estos usuarios podrán acceder a Marketo Engage sin pasar por el inicio de sesión único (SSO), y la propiedad de la licencia corresponderá a la empresa, no a las personas.
 
 **Tengo más de una suscripción, pero no todas tienen habilitado el inicio de sesión único. ¿Qué sucede después de la migración de identidad de Adobe?**
 
@@ -141,7 +143,7 @@ No, estas configuraciones no se ven afectadas.
 
 **¿Cómo puedo evitar que las sesiones agoten el tiempo de espera?**
 
-En [Configuración avanzada](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión deseada (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración del usuario.
+En [Configuración avanzada](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión deseada (se requieren permisos de administración del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración del usuario.
 
 **Ahora tengo que navegar a Experience Cloud para acceder a Marketo Engage. ¿Hay alguna manera de optimizar este flujo?**
 
