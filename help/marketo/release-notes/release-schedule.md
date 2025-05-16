@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 
@@ -39,13 +39,13 @@ _Las fechas/características del lanzamiento están sujetas a cambios_
   </tr>
    <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Marzo del 25</a></td>
-   <td>28 de marzo de 2025</td>
+   <td>sábado, 28 de marzo de 2025</td>
    <td>Enviado</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Abril del 25</a></td>
    <td>Abril del 25</td>
-   <td>Dentro del horario</td>
+   <td>En curso</td>
   </tr>
   <tr> 
    <td>Mayo del 25</td>
@@ -60,6 +60,21 @@ _Las fechas/características del lanzamiento están sujetas a cambios_
   <tr> 
    <td>Julio de 2025</td>
    <td>sábado, 25 de julio de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Agosto del 25</td>
+   <td>22 de agosto de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Septiembre de 2025</td>
+   <td>19 de septiembre de 2025</td>
+   <td>Dentro del horario</td>
+  </tr>
+  <tr> 
+   <td>Octubre de 2025</td>
+   <td>17 de octubre de 2025</td>
    <td>Dentro del horario</td>
   </tr>
  </tbody>
