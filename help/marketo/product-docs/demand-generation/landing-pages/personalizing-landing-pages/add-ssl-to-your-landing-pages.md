@@ -4,10 +4,10 @@ description: 'Añadir SSL a las páginas de aterrizaje: documentación de Market
 title: Añadir SSL a las páginas de aterrizaje
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 0%
+source-wordcount: '794'
+ht-degree: 1%
 
 ---
 
@@ -55,6 +55,58 @@ Siga los pasos a continuación para habilitar SSL para su dominio predeterminado
 
 >[!NOTE]
 >
->* La columna Certificado SSL de la lista muestra el estado del certificado para todos los alias de dominio creados después de liberar esta función (FECHA). Si ha habilitado SSL para un dominio mediante el Soporte técnico de Marketo, el certificado seguirá existiendo, pero no se mostrará en la tabla. Esta tabla solo refleja los certificados SSL para los dominios agregados mediante los pasos de este artículo.
+>* La columna Certificado SSL de la lista muestra el estado del certificado para todos los alias de dominio creados después de que se lanzara esta función (25 de abril de 2025). Si ha habilitado SSL para un dominio mediante el Soporte técnico de Marketo, el certificado seguirá existiendo, pero no se mostrará en la tabla. Esta tabla solo refleja los certificados SSL para los dominios agregados mediante los pasos de este artículo.
 >
 >* SSL puede tardar hasta tres minutos en estar en estado READY. Debe actualizar la página para que aparezcan los cambios.
+
+## Mensajes de error {#error-messages}
+
+A continuación, encontrará mensajes de error que puede recibir junto con sus definiciones.
+
+<table><thead>
+  <tr>
+    <th>Error</th>
+    <th>Detalles</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><i>Error inesperado al crear un dominio. Póngase en contacto con Soporte para obtener ayuda.</i></td>
+    <td>Se ha producido un error inesperado. Recopile registros y detalles del error y remita el problema al equipo de asistencia.</td>
+  </tr>
+  <tr>
+    <td><i>No se ha encontrado el dominio predeterminado. Póngase en contacto con Soporte para obtener ayuda.</i></td>
+    <td>Se ha producido un problema al intentar localizar el dominio predeterminado. Póngase en contacto con Asistencia para que puedan investigar.</td>
+  </tr>
+  <tr>
+    <td><i>Ya se ha emitido el certificado SSL.</i></td>
+    <td>Ya existe un certificado SSL para este dominio personalizado. No es necesario realizar ninguna otra acción a menos que el certificado haya caducado o sea necesario volver a emitirlo.</td>
+  </tr>
+  <tr>
+    <td><i>El dominio no está asignado al dominio predeterminado.</i></td>
+    <td>El dominio personalizado no está asignado correctamente al dominio predeterminado. Compruebe la configuración de asignación de dominios y asegúrese de que la configuración de DNS apunta al dominio predeterminado correcto.</td>
+  </tr>
+  <tr>
+    <td><i>El dominio ya existe.</i></td>
+    <td>Ya existe un dominio con el mismo nombre.</td>
+  </tr>
+  <tr>
+    <td><i>Se requiere una configuración IP única antes de agregar más dominios. Póngase en contacto con el soporte técnico para completar la configuración y vuelva a intentar agregar otro dominio.</i></td>
+    <td>El primer dominio personalizado después del dominio predeterminado necesita que inicie una configuración única. Cree un ticket de asistencia para completar la configuración y añada el dominio una vez finalizado.</td>
+  </tr>
+</tbody></table>
+
+## Cosas que hay que tener en cuenta {#things-to-note}
+
+* **Asignación de DNS para el dominio en Marketo Engage**: antes de agregar dominios en la interfaz de usuario, debe [asignar CNAME a un dominio proporcionado por Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+
+* **SSL personalizados**: Si necesita un SSL personalizado, envíe un [ticket de asistencia](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. No utilice la casilla de verificación de autoservicio para la creación SSL.
+
+* **SSL preexistentes**: Al agregar un dominio, el sistema comprueba los SSL preexistentes, que pueden haberse creado manualmente anteriormente. Si encuentra esta validación, cree su dominio sin seleccionar la creación de SSL y los conectaremos por usted. [Póngase en contacto con el soporte técnico](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obtener más detalles u opciones.
+
+* **Dominio de seguimiento por primera vez**: La primera vez que se creen dominios de vínculo de seguimiento de correo electrónico necesitará la intervención manual del [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. En la interfaz de usuario se permite la creación posterior de subdominios en el mismo dominio.
+
+* **Solo local de Marketo**: Actualmente, esta característica solo está disponible para local. Marketo Engage en Cloud Services tendrá que configurar SSL poniéndose en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* **Agregar certificados a dominios existentes**: no se admite agregar certificados a dominios existentes en este momento. Para los dominios preexistentes o en los casos en los que no hayas marcado el cuadro de certificado SSL, debes ponerte en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para que se agregue el certificado.
+
+* **Eliminación de dominios**: al eliminar un dominio, no se elimina automáticamente el certificado SSL en este momento. Esto se solucionará en una versión futura.

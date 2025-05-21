@@ -2,36 +2,36 @@
 title: Trabajar con Experience Manager Assets
 description: Aprenda a utilizar recursos de imagen de un repositorio de AEM Assets conectado al crear contenido en Adobe Marketo Engage.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
 source-wordcount: '791'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Uso de recursos de Experience Manager {#work-with-experience-manager-assets}
 
-Conecte su cuenta de _Adobe Experience Manager Assets as a Cloud Service_ a su instancia de Adobe Marketo Engage AEM para poder aprovechar su repositorio de recursos de la cuenta de la cuenta de Marketo Engage de Designer de correo electrónico.
+Conecte su cuenta de _Adobe Experience Manager Assets as a Cloud Service_ a su instancia de Adobe Marketo Engage para poder aprovechar su repositorio de recursos de AEM en Marketo Engage Email Designer.
 
 >[!NOTE]
 >
->Actualmente, solo se admiten en Marketo Engage los recursos de imagen de _Adobe Experience Manager Assets_. Los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Actualmente, solo se admiten recursos de imagen de _Adobe Experience Manager Assets_ en Marketo Engage. Los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-## Acceso al acelerador de contenido del Asistente de IA {#access-the-ai-assistant-content-accelerator}
+## Vínculo a los servicios de nube de AEM {#link-to-your-aem-cloud-services}
 
-AEM Antes de poder utilizar esta capacidad, primero debe vincular Cloud Service de con Adobe Marketo Engage.
+Para poder utilizar esta capacidad, primero debe vincular AEM Cloud Services con Adobe Marketo Engage.
 
-+++AEM Vínculo Cloud Service y Marketo Engage de la
++++Vincular AEM Cloud Services y Marketo Engage
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. En Marketo Engage, vaya al área de **Admin** y seleccione **Adobe Experience Manager** en el árbol de navegación izquierdo.
+1. En Marketo Engage, vaya al área **Admin** y seleccione **Adobe Experience Manager** en el árbol de navegación izquierdo.
 
    ![Seleccione Adobe Experience Manager en la sección de administración](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
-1. Haga clic en **Editar** junto a _Cloud Service de Adobe Experience Manager_.
+1. Haga clic en **Editar** junto a _Adobe Experience Manager Cloud Services_.
 
    ![Haga clic en Editar](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
@@ -41,7 +41,7 @@ AEM Antes de poder utilizar esta capacidad, primero debe vincular Cloud Service 
 
    >[!NOTE]
    >
-   >Solo se muestran los repositorios que se han asociado en la misma organización de IMS que su suscripción de Marketo Engage.
+   >Solo se muestran los repositorios que se han asociado en la misma organización de IMS que su suscripción a Marketo Engage.
 
 1. Debe agregar un [certificado de credencial de servicio](https://experienceleague.adobe.com/es/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) para configurar el repositorio. Haga clic en el botón **+ Agregar certificado**.
 
@@ -55,11 +55,11 @@ AEM Antes de poder utilizar esta capacidad, primero debe vincular Cloud Service 
 
    ![Se ha agregado el certificado](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
-Ahora se puede acceder a todas las imágenes de la biblioteca de administración de recursos digitales de ese repositorio desde el correo electrónico del Marketo Engage Designer.
+Ahora se puede acceder a todas las imágenes de la biblioteca de administración de recursos digitales de ese repositorio desde Marketo Engage Email Designer.
 
 +++
 
-## AEM Uso de recursos de la {#working-with-aem-assets}
+## Uso de recursos de AEM {#working-with-aem-assets}
 
 Cuando usa estos recursos digitales, los cambios más recientes en _Assets as a Cloud Service_ se propagan automáticamente a las campañas de correo electrónico activas a través de referencias vinculadas. Si las imágenes se eliminan en _Adobe Experience Manager Assets as a Cloud Service_, aparecerán con una referencia rota en los correos electrónicos. Cuando se modifican o eliminan recursos que se utilizan actualmente en Marketo Engage, se notifica a los autores de correo electrónico sobre los cambios de imagen. Todos los cambios en los recursos deben realizarse en el repositorio central de Adobe Experience Manager Assets.
 
@@ -79,13 +79,13 @@ Si su entorno tiene una o más conexiones de repositorio de recursos, puede desi
 
 >[!IMPORTANT]
 >
->Un administrador debe añadir usuarios que necesiten acceder a los recursos a los perfiles de producto de Usuarios consumidores de Assets o Usuarios de Assets. [Más información](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un administrador debe añadir usuarios que necesiten acceder a los recursos a los perfiles de producto de Usuarios consumidores de Assets o Usuarios de Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-En el editor de contenido visual, haga clic en el icono _Selector de recursos del Experience Manager_ en la barra lateral izquierda. Esto cambia el panel Herramientas a una lista de recursos disponibles en el repositorio seleccionado.
+En el editor de contenido visual, haga clic en el icono _Selector de recursos de Experience Manager_ en la barra lateral izquierda. Esto cambia el panel Herramientas a una lista de recursos disponibles en el repositorio seleccionado.
 
 ![Haga clic en el icono del selector de Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-AEM Si tiene más de un repositorio conectado, haga clic en el botón **[!UICONTROL Administrar como]** para seleccionar el repositorio que desea usar.
+Si tiene más de un repositorio de AEM conectado, haga clic en el botón **[!UICONTROL Administrar como]** para elegir el repositorio que desee usar.
 
 ![Elija un repositorio de AEM Assets para acceder a los recursos de imagen](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
 

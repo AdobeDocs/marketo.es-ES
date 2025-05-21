@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,25 @@ ht-degree: 2%
 
 Las versiones de Adobe Dynamic Chat funcionan con un modelo de entrega continua que permite un enfoque más escalable de la implementación de funcionalidades. A veces hay varias versiones en un mes, por lo que vuelva a consultar regularmente la información más actualizada.
 
-La página de notas de la versión estándar del Marketo Engage [ se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
+La página de notas de la versión estándar de Marketo Engage [ se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Lanzamiento de abril/mayo de 2025 {#apr-may-25-release}
+
+### Sonido de notificación de mensaje {#message-notification-sound}
+
+Ahora tiene la opción de habilitar un sonido para el visitante cada vez que se activa el bot de chat en una sesión. Hay varios sonidos para elegir.
+
+### Habilitar los mensajes de Poke en dispositivos móviles {#enable-poke-messages-on-mobile}
+
+&quot;Poke&quot;, que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic para verla, ahora es una opción que se puede habilitar para visitantes que usen un dispositivo móvil.
+
+### Actualización de reserva predeterminada {#default-fallback-update}
+
+Para cualquier regla/equipo personalizado como una tarjeta de chat en vivo: si no hay agentes disponibles (o el chat no se puede conectar), volverá a Round Robin para los agentes disponibles (todos los que están disponibles en ese momento, independientemente de la lógica o regla de enrutamiento que se puso en el flujo).
+
+### Integración con Demandbase {#demandbase-integration}
+
+Los usuarios de Demandbase pueden utilizar los atributos de persona de Demandbase para la segmentación de diálogos, la promoción condicional de la marca y el enrutamiento personalizado en Dynamic Chat.
 
 ## Versión de septiembre/octubre de 2024 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Se han realizado varias mejoras en el panel de Analytics, entre las que se inclu
 
 ### Puntuación de conversación {#conversation-scoring}
 
-Cuantifique los posibles clientes en función de la calidad de su interacción de chat y utilice esa métrica como Déclencheur/filtro en campañas inteligentes de Marketo Engage. Use el nuevo atributo _puntuación de conversación_ en las siguientes actividades:
+Cuantifique los posibles clientes en función de la calidad de su interacción con el chat y utilice esa métrica como Déclencheur/filtro en campañas inteligentes de Marketo Engage. Use el nuevo atributo _puntuación de conversación_ en las siguientes actividades:
 
 * Participa en un diálogo
 * Interactúe con un flujo de conversación
@@ -150,7 +168,7 @@ Para mejorar la experiencia del usuario, ahora se muestra un cargador de reflejo
 
 ### Personalizar el formato de los mensajes de conversación {#custom-format-conversation-messages}
 
-Los diseñadores de transmisiones ahora admiten [insertar HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} para personalizar el aspecto de tus conversaciones.
+Los diseñadores de streaming ahora admiten [insertar HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} para personalizar el aspecto de tus conversaciones.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
@@ -180,13 +198,13 @@ De forma predeterminada, los registros de conversaciones, las preguntas sin resp
 
 Durante una conversación con un posible cliente anónimo y se proporciona un ID de correo electrónico, resolvemos si existe un registro de posible cliente conocido con ese ID de correo electrónico y utilizamos ese registro para la personalización en tiempo real. Si encontramos varios registros, los combinamos en tiempo real. Este comportamiento se implementa tanto para los cuadros de diálogo como para los flujos de conversación.
 
-### Sincronización de posibles clientes sin cookies del Marketo Engage {#syncing-leads-without-cookies}
+### Sincronización de posibles clientes sin cookies de Marketo Engage {#syncing-leads-without-cookies}
 
-Anteriormente, cuando se activaba la sincronización del Marketo Engage, el Dynamic Chat solo sincronizaba los posibles clientes conocidos con uno o más ID de cookie del Marketo Engage. Ahora, todos los posibles clientes conocidos (ID de cookie presente o no) se sincronizarán con el Dynamic Chat y se pueden utilizar para la personalización de conversaciones.
+Anteriormente, cuando se activaba la sincronización de Marketo Engage, Dynamic Chat solo sincronizaba los posibles clientes conocidos con uno o más ID de cookie de Marketo Engage. Ahora, todos los posibles clientes conocidos (con ID de cookie presente o no) se sincronizarán con Dynamic Chat y se pueden utilizar para personalizar las conversaciones.
 
 ### Pasar datos de visitante adicionales a Flujos de conversación {#pass-additional-visitor-data}
 
-Si está capturando información del visitante a través de otros canales, como formularios o inicios de sesión, ahora puede pasar esta información directamente al Dynamic Chat.
+Si está capturando información del visitante a través de otros canales, como formularios o inicios de sesión, ahora puede pasar esta información directamente a Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -260,7 +278,7 @@ Ayude a los agentes de ventas a responder con precisión durante las conversacio
 
 ### Empujones de conversación {#conversation-nudges}
 
-Empuje a los visitantes web con una llamada a la acción para llevar las conversaciones a su conclusión.
+Empuje a los visitantes web con un call-to-action para llevar las conversaciones a su fin.
 
 <p>
 
@@ -270,17 +288,17 @@ Empuje a los visitantes web con una llamada a la acción para llevar las convers
 
 ### Flujos de conversación ahora disponibles para todos los usuarios {#conversational-flows-available-to-all-users}
 
-Haga que sus formularios y páginas de aterrizaje sean más conversacionales y acorte el canal de ventas al permitir que los posibles clientes cualificados reserven una reunión o conversen con Ventas inmediatamente después de enviar un formulario con Conversational Forms, ahora totalmente disponible&#42; para todos los usuarios Dynamic Chat.
+Haga que sus formularios y páginas de aterrizaje sean más conversacionales y acorte el canal de ventas al permitir que los posibles clientes cualificados reserven una reunión o conversen con Ventas inmediatamente después del envío del formulario con Conversational Forms, ahora totalmente disponible&#42; para todos los usuarios de Dynamic Chat.
 
 _&#42;Anteriormente disponible como característica de prueba con 100 participaciones de por vida. Las participaciones en el flujo de conversación ahora se contarán para el límite mensual de 250 conversaciones comprometidas para los usuarios del paquete Select._
 
 ### Funciones de devolución de llamada {#callback-functions}
 
-Las [funciones de devolución de llamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} le permiten recopilar eventos de análisis de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes se relacionan con conversaciones de Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de la participación del Dynamic Chat en relación con otros datos clave, como el tráfico web.
+Las [funciones de devolución de llamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} le permiten recopilar eventos de análisis de Dynamic Chat en sistemas externos, como Adobe Analytics o Google Analytics, a medida que los visitantes interactúan con las conversaciones de Dynamic Chat. Para habilitar los eventos de Dynamic Chat Analytics, registre una llamada de retorno con la API para escucharlos. Esto le permite tener una vista más integral de su participación en Dynamic Chat en relación con otros datos clave, como el tráfico web.
 
 ### Condiciones de disponibilidad del agente activas añadidas a la ramificación condicional {#live-agent-availability-conditional-branching}
 
-Además de los campos de Marketo Engage nativo y personalizado, ahora puede utilizar la ramificación condicional para crear ramas en función de la disponibilidad del agente. Esto resulta útil si solo desea ofrecer a los visitantes la opción de hablar con un agente activo cuando hay agentes activos disponibles.
+Además de los campos nativos y personalizados de Marketo Engage, ahora puede utilizar la ramificación condicional para crear ramas en función de la disponibilidad del agente. Esto resulta útil si solo desea ofrecer a los visitantes la opción de hablar con un agente activo cuando hay agentes activos disponibles.
 
 ![](assets/dynamic-chat-release-1.png)
 
@@ -298,20 +316,20 @@ Hemos lanzado la ramificación condicional para los cuadros de diálogo a princi
 
 Hemos lanzado la funcionalidad de chat en vivo para Diálogos en 2023, y ahora también puede agregar compromisos de chat en vivo a sus Flujos de conversación. Si utiliza flujos de conversación con sus formularios de Marketo Engage, ahora puede permitir que visitantes cualificados chateen con un agente en directo inmediatamente después del envío del formulario.
 
-### Actividades recientes del Marketo Engage en la bandeja de entrada del agente {#recent-marketo-engage-activities-in-agent-inbox}
+### Actividades recientes de Marketo Engage en la bandeja de entrada del agente {#recent-marketo-engage-activities-in-agent-inbox}
 
-Hemos añadido actividades de Marketo Engage recientes a la sección Actividades recientes de la bandeja de entrada del agente, de modo que cuando un visitante del sitio solicita hablar con un agente, este puede ver rápidamente si el visitante ha participado recientemente en alguna de las siguientes actividades de Marketo Engage (últimas 25 actividades):
+Hemos añadido actividades recientes de Marketo Engage a la sección Actividades recientes de la bandeja de entrada del agente, de modo que cuando un visitante del sitio solicita hablar con un agente, este puede ver rápidamente si el visitante ha participado recientemente en alguna de las siguientes actividades de Marketo Engage (últimas 25 actividades):
 
 * Abrió el email
 * Página web visitada
-* Completó el formulario
+* Formulario completo
 * Tuvo un momento interesante
 
 ![](assets/dynamic-chat-release-3.png)
 
 ### Estado de conexión del calendario en la administración de agentes {#calendar-connection-status-in-agent-management}
 
-Los administradores ahora pueden ver fácilmente qué agentes con permisos de reservas de reuniones han conectado sus calendarios en Dynamic Chat. Esto le permite asegurarse de que todo su equipo de ventas está conectado y listo para aceptar convocatorias de reunión de Dynamic Chat.
+Los administradores ahora pueden ver fácilmente qué agentes con permisos de reserva de reuniones han conectado sus calendarios en Dynamic Chat. Esto le permite asegurarse de que todo su equipo de ventas está conectado y listo para aceptar convocatorias de reunión de Dynamic Chat.
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -325,9 +343,9 @@ Los usuarios informaron de que los visitantes web reservaban reuniones en su cal
 
 Algunos usuarios indicaron que tenían problemas para agregar y eliminar agentes en Dynamic Chat, por lo que realizamos algunos cambios para resolver estos problemas.
 
-Cuando se agrega un usuario al Admin Console con permiso de citas en directo o de citas, se muestra inmediatamente en la lista de administración del agente y está disponible para agregarlo a los cuadros de diálogo, los flujos de conversación, las reglas de enrutamiento y los equipos.
+Cuando se agrega un usuario a Admin Console con permiso de citas en vivo o de citas, se muestra inmediatamente en la lista de administración del agente y está disponible para agregarlo a los cuadros de diálogo, los flujos de conversación, las reglas de enrutamiento y los equipos.
 
-Cuando un usuario con permisos de reserva de reuniones o chat en vivo se elimina del Admin Console, se elimina inmediatamente del Dynamic Chat, ya no estará disponible para el chat en vivo o el enrutamiento de reuniones, y ya no contará con los límites de licencia.
+Cuando un usuario con permisos de reserva de reuniones o chat en vivo se elimina de Admin Console, se elimina inmediatamente de Dynamic Chat, ya no estará disponible para el chat en vivo o el enrutamiento de reuniones y ya no contará con los límites de licencia.
 
 ### Rendimiento de informe de nivel de conversación mejorado {#improved-conversation-level-report-performance}
 
@@ -377,7 +395,7 @@ La nueva página Conversaciones le ofrece una ventanilla única para ver las tra
 
 ### El intervalo de fechas en el panel global aumentó de 90 días a 24 meses {#date-range-in-global-dashboard}
 
-Tú preguntaste y nosotros lo hicimos. Ahora puede ver datos de participación del Dynamic Chat de hasta dos años en todos los paneles de análisis.
+Tú preguntaste y nosotros lo hicimos. Ahora puede ver datos de participación de Dynamic Chat de hasta dos años en todos los paneles de análisis.
 
 ### Ramificación condicional en cuadros de diálogo {#conditional-branching-in-dialogues}
 
