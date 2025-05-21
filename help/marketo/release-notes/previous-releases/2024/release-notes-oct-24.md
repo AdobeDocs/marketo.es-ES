@@ -2,7 +2,8 @@
 description: 'Notas de la versión, octubre de 2024: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, octubre de 2024
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -13,11 +14,11 @@ ht-degree: 2%
 
 A continuación encontrará todas las funciones incluidas en la versión de octubre de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
-Las notas de la versión específicas del Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -53,7 +54,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   </tr>
    <tr> 
-   <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su huso horario y acceder a los detalles de la suscripción.</td> 
+   <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su zona horaria y acceder a los detalles de suscripción.</td> 
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
@@ -91,13 +92,13 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Actualización de API de extracción masiva**: se ha corregido un problema en la API de extracción masiva que incluía la opción columnHeaderNames, que le permite especificar nombres de encabezado de columna personalizados en el archivo exportado. Anteriormente, los nombres de encabezados de columna que contenían caracteres no ASCII podían dañarse.
 
-* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
 * **Desaprobación del código QR**: El 4 de octubre de 2024, la función de código QR utilizada en las notificaciones push y los recursos de mensajería en la aplicación dejará de usarse. Esto incluye el uso de códigos QR para un nuevo dispositivo de prueba y la creación de nuevos recursos con códigos QR. Las funciones en desuso con un menor uso nos permiten reasignar sus recursos al mantenimiento general de Marketo Engage.
 
 * **Cambios de Munchkin**
 
-   * **Nueva versión**: El 17 de septiembre de 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 empezará a implementarse en las instancias de Marketo Engage que tengan la configuración &quot;Munchkin Beta&quot; habilitada en **Administración** > **Cofre del tesoro**. Está programado para comenzar el despliegue en todas las demás instancias el 29 de octubre. Esta versión actualiza la creación de cookies de Munchkin. No hay cambios en la funcionalidad.
+   * **Nueva versión**: El 17 de septiembre de 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 empezará a implementarse en las instancias de Marketo Engage que tengan la configuración &quot;Munchkin Beta&quot; habilitada en **Administración** > **Tesoro**. Está programado para comenzar el despliegue en todas las demás instancias el 29 de octubre. Esta versión actualiza la creación de cookies de Munchkin. No hay cambios en la funcionalidad.
 
-   * **Se eliminaron caracteres de la URL**: Las actividades &#39;Visitas a la página web&#39; y &#39;Clics en el vínculo&#39; creadas por Munchkin JS ahora eliminarán los caracteres de control sin codificación de URL de todos los campos de URL. Este cambio está diseñado para evitar errores relacionados con la propagación de esos tipos de caracteres a sistemas que no los admiten y que no tienen un uso válido dentro de Marketo Engage.
+   * **Se eliminaron caracteres de la URL**: Las actividades &#39;Visitas a la página web&#39; y &#39;Clics en el vínculo&#39; creadas por Munchkin JS ahora eliminarán los caracteres de control sin codificación de URL de todos los campos de URL. Este cambio está diseñado para evitar errores relacionados con la propagación de esos tipos de caracteres a sistemas que no los admiten y que no tienen un uso válido en Marketo Engage.
