@@ -3,24 +3,24 @@ description: Administración de agentes - Documentos de Marketo - Documentación
 title: Administración de agentes
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
 
 # Administración de agentes {#agent-management}
 
-En la administración de agentes, consulte la lista de agentes de la instancia de Dynamic Chat, administre los equipos y establezca las reglas de reserva.
+En la administración de agentes, vea una lista de agentes en la instancia de Dynamic Chat, administre equipos y establezca reglas de reserva.
 
 ![](assets/agent-management-1.png)
 
 ## Agentes {#agents}
 
-Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye información como su nombre, dirección de correo electrónico, estado de chat en vivo y más.
+Esta pestaña enumera todos los agentes de la instancia de Dynamic Chat e incluye información como el nombre, la dirección de correo electrónico, el estado del chat en vivo y más.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
@@ -70,7 +70,9 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 
 >[!NOTE]
 >
->Si selecciona la casilla de verificación **Incluir opción de reserva de reunión**, el visitante del chat tendrá la opción de reservar una reunión cuando no haya agentes disponibles para el chat en vivo.
+>* Si selecciona la casilla de verificación _Incluir opción de reserva de reunión_, el visitante del chat tendrá la opción de reservar una reunión cuando no haya agentes disponibles para el chat en vivo.
+>
+>* **Para cualquier regla o equipo personalizado como una tarjeta de Live Chat**: Al comprobar si hay agentes, si no están disponibles o no se pudieron conectar, volverá a Round Robin para intentar encontrar &quot;agentes disponibles&quot; (todos los que están disponibles en ese momento, independientemente de la lógica o regla de enrutamiento que se haya colocado en el flujo).
 
 >[!TIP]
 >
