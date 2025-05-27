@@ -3,7 +3,7 @@ description: 'Demandbase: Documentos de Marketo: documentación del producto'
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -19,6 +19,8 @@ Los usuarios de Demandbase pueden utilizar los atributos de persona de Demandbas
 Los pasos siguientes se deben seguir _en su cuenta de Demandbase_.
 
 1. En Demandbase, haga clic en el icono _Configuración_.
+
+   ![](assets/demandbase-1.png)
 
 1. En _Integraciones_, seleccione **Conector de cuenta**.
 
@@ -42,12 +44,12 @@ Los pasos siguientes se deben seguir _en su cuenta de Demandbase_.
 
 Dirija la audiencia a según los atributos de Demandbase, además de los atributos nativos y personalizados, al crear un cuadro de diálogo o un flujo conversacional.
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 Utilice los atributos de Demandbase como una condición en la ramificación condicional, un cuadro de diálogo o un flujo conversacional.
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 Utilice los Atributos de Demandbase al definir cualquier lógica de enrutamiento personalizada.
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
