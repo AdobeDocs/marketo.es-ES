@@ -4,16 +4,20 @@ description: Descubrimiento de nuevas cuentas - Documentos de Marketo - Document
 title: Descubrimiento de nuevas cuentas
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
 # Descubrimiento de nuevas cuentas {#new-account-discovery}
 
 La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las que dirigirse mediante recomendaciones con tecnología de IA a partir de su perfil de cliente ideal.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, la generación de perfiles de cuenta ya no estará disponible para los nuevos usuarios. Seguirá funcionando para los usuarios existentes.
 
 >[!PREREQUISITES]
 >

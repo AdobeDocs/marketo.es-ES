@@ -4,9 +4,9 @@ description: Clasificación y ajuste de perfiles de cuenta - Documentos de Marke
 title: Clasificación y ajuste de perfiles de cuenta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # Clasificación y ajuste de perfiles de cuenta {#account-profiling-ranking-and-tuning}
 
 La generación de perfiles de cuenta identifica su perfil de cliente ideal (ICP), clasifica las compañías de su base de datos según ICP y agrega datos del indicador ICP a las cuentas promocionadas como cuentas con nombre.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, la generación de perfiles de cuenta ya no estará disponible para los nuevos usuarios. Seguirá funcionando para los usuarios existentes.
 
 ## Resultados del modelo {#model-results}
 
@@ -127,14 +131,14 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización e
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>marketing</strong></td> 
+   <td><strong>Marketing</strong></td> 
    <td> 
     <div>
       Tecnologías de marketing y software, puestos/contratación relacionados con el marketing. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Negocio</strong></td> 
+   <td><strong>Business</strong></td> 
    <td> 
     <div>
       Forbes o Inc listados o asociaciones de negocios. 

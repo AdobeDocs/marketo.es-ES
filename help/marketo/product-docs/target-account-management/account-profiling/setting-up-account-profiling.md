@@ -4,9 +4,9 @@ description: Configuración del perfil de cuenta - Documentos de Marketo - Docum
 title: Configurar la generación de perfiles de cuenta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # Configurar la generación de perfiles de cuenta {#setting-up-account-profiling}
 
 Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, la generación de perfiles de cuenta ya no estará disponible para los nuevos usuarios. Seguirá funcionando para los usuarios existentes.
 
 >[!CAUTION]
 >
