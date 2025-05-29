@@ -4,18 +4,17 @@ product: marketo
 title: Tokens de Personalization
 description: Aprenda a utilizar tokens de personalización en el nuevo Marketo Engage Email Designer
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Tokens de Personalization {#personalization-tokens}
 
-Email Designer tiene un formato diferente al del editor de correo electrónico clásico en cuanto a los tokens de personalización de correo electrónico. El cambio se implementó para mejorar la compatibilidad con los scripts del Handlebar y optimizar el proceso de creación de correos electrónicos.
+El diseñador de correo electrónico tiene un formato diferente al editor de correo electrónico clásico en cuanto a los tokens de personalización de correo electrónico. El cambio se implementó para mejorar la compatibilidad con los scripts del Handlebar y optimizar el proceso de creación de correos electrónicos.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ Email Designer tiene un formato diferente al del editor de correo electrónico c
 
 ## Caso de uso principal {#primary-use-case}
 
-Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo Designer de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
+Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
 
 ## Experiencia del token {#token-experience}
 
@@ -37,7 +36,7 @@ En el editor de correo electrónico clásico, puede agregar tokens con espacios,
 
 ### Nuevo formato {#new-format}
 
-En el diseñador de correo electrónico, debe adaptarse a [camel case](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) o guiones bajos para los tokens (por ejemplo, `lead.anonymousIP` o `member.registration_code`). El formato del texto predeterminado también cambia a `{%=lead.city ?: "fallback" %}`.
+En el diseñador de correo electrónico, debe usar [minúscula](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) o guiones bajos para los tokens (por ejemplo, `lead.anonymousIP` o `member.registration_code`). El formato del texto predeterminado también cambia a `{%=lead.city ?: "fallback" %}`.
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
