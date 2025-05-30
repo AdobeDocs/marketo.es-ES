@@ -3,10 +3,10 @@ description: 'Enrutamiento: documentos de Marketo: documentación del producto'
 title: Enrutando
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 2%
 
 ---
 
@@ -64,13 +64,47 @@ Identifique y cargue su cuenta de Target y sus respectivos propietarios de venta
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>Antes de que _Enrutamiento de cuenta_ sea visible en Dynamic Chat, los permisos deben habilitarse en Admin Console. Consulte [Habilitar permisos](#enable-permissions) a continuación.
+
+### Habilitar permisos {#enable-permissions}
+
++++ Habilitar permisos de enrutamiento de cuentas
+
+1. Inicie sesión en [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. En _Productos_, seleccione **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. En _Perfiles de producto_, seleccione el perfil que desee.
+
+   ![](assets/routing-11.png)
+
+1. Haga clic en la ficha **Permisos**.
+
+   ![](assets/routing-12.png)
+
+1. Haga clic en el icono de edición (![Editar icono](assets/icon-routing-edit.png)) junto a _Configuración_.
+
+   ![](assets/routing-13.png)
+
+1. Haga clic en el signo **+** junto a _Ver enrutamiento de cuenta_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Haga clic en **Guardar** cuando termine.
+
++++
+
 ### Agregar una cuenta {#add-an-account}
 
 En este ejemplo, enrutaremos a todos los empleados desde Lego directamente al agente Steven.
 
 1. En la pestaña Enrutamiento de cuenta, haga clic en **+ Agregar cuenta**.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ En este ejemplo, enrutaremos a todos los empleados desde Lego directamente al ag
 
 1. Introduzca el nombre de la empresa, el dominio y seleccione el agente deseado.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

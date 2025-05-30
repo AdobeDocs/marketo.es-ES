@@ -3,9 +3,9 @@ description: Configuración del agente - Documentos de Marketo - Documentación 
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ En la pestaña de configuración del Calendario, conecte el calendario de Outloo
 
 ![](assets/agent-settings-2.png)
 
-Una vez que el calendario de un usuario está conectado al Dynamic Chat, se agregará a la cola y estará disponible para que los visitantes del sitio web programen citas en.
+Una vez que el calendario de un usuario está conectado a Dynamic Chat, se agrega a la cola y el calendario estará disponible para que los visitantes del sitio web programen citas en.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Los usuarios también pueden personalizar el cuerpo de la invitación que se env
 
 ### Permisos {#permissions}
 
-La configuración con Outlook concede los siguientes permisos al Dynamic Chat:
+La configuración con Outlook concede los siguientes permisos a Dynamic Chat:
 
 * Acceso completo a sus calendarios
 * Inicie sesión y lea su perfil
@@ -95,3 +95,11 @@ Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de 
 >[!TIP]
 >
 >Puede seleccionar varios bloques de tiempo en el mismo día (por ejemplo, viernes de 8 a 12 p _y_ de 1 p. a 5 p.) haciendo clic en el signo **+** que aparece a la derecha.
+
+## Fotografía del perfil del agente
+
+Aunque un agente tiene la capacidad de cargar su propia fotografía de perfil, esa acción no se realiza en Dynamic Chat. Tendrían que navegar a `account.adobe.com/profile`. Obtenga más información aquí: [Actualice el perfil de su cuenta](https://helpx.adobe.com/es/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>La imagen de perfil que se muestra en `experience.adobe.com` es **no** compatible.
