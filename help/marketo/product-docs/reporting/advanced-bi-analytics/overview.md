@@ -3,30 +3,26 @@ description: 'Información general avanzada de BI Analytics: Documentos de Marke
 title: Información general avanzada de BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '994'
 ht-degree: 1%
 
 ---
 
 # Información general avanzada de BI Analytics {#advanced-bi-analytics-overview}
 
-Advanced BI Analytics (anteriormente conocido como Revenue Explorer y Advanced Report Builder) ofrece una interfaz de informes y visualización flexible sobre los datos de Marketo Engage, que proporciona detalles granulares sobre la progresión, el rendimiento y mucho más. Cuenta con interactividad y visualización más ricas, un rendimiento más rápido y un experiencia del usuario más fluido e intuitivo.
+Advanced BI Analytics (anteriormente conocido como Revenue Explorer y Advanced Report Builder) ofrece una interfaz de informes y visualización flexible sobre los datos de Marketo Engage, que proporciona detalles granulares sobre la progresión, el rendimiento y mucho más. Ofrece una mejor interactividad y visualización, un rendimiento más rápido y una experiencia de usuario más fluida e intuitiva.
 
-Estas mejoras le ayudan a ahorrar tiempo, descubrir información más valiosa, dirigir optimización y compartir historias de datos más convincentes con colegas y partes interesadas.
+Estas mejoras le permiten ahorrar tiempo, descubrir perspectivas más valiosas, impulsar la optimización y compartir historias de datos más atractivas con compañeros de trabajo e interesados.
 
 >[!PREREQUISITES]
 >
->Para acceder a esta función, debe haber adquirido el complemento Avanzadas BI Analytics. Póngase en contacto con el equipo de Adobe Systems cuentas (su administrador de cuenta) para obtener más información.
-
->[!NOTE]
->
->Si tienes alguna pregunta sobre esta función mientras esté en versión beta (hasta el 1 de junio de 2025), envía un correo electrónico a: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
+>Para acceder a esta función, debe haber adquirido el complemento de Analytics de BI avanzado. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Características y ventajas principales {#key-features-and-benefits}
 
-* **Motor** de consultas de alto rendimiento: ofrece un rendimiento 5 veces más rápido en conjuntos de datos grandes, lo que permite una procesamiento de datos más rápida, una carga de informes más rápida y una experiencia analítica más fluida.
+* **Motor de consulta de alto rendimiento**: Ofrece un rendimiento 5 veces más rápido en conjuntos de datos grandes, lo que permite un procesamiento de datos más rápido, una carga de informes más rápida y una experiencia de análisis más fluida.
 
 * **Visualización enriquecida y atractiva**: Amplia colección de opciones de visualización integradas, incluidos gráficos, mapas e indicadores KPI, que hacen que los paneles sean más reveladores e impactantes y mejoran significativamente la narración de datos.
 
@@ -34,15 +30,15 @@ Estas mejoras le ayudan a ahorrar tiempo, descubrir información más valiosa, d
 
 * **Interfaz intuitiva de creación de informes**: la experiencia de apuntar y hacer clic simplifica la creación de informes, incluidos los informes de obtención de detalles de varias páginas. La interfaz permite a los usuarios diseñar informes complejos e interactivos sin requerir una profunda experiencia técnica.
 
-* **Uso compartido fácil, incluida la exportación de PowerPoint**: La funcionalidad de uso compartido integrada facilita el uso compartido de perspectivas. Entre otros destinos, los usuarios pueden generar fácilmente diapositivas de PowerPoint listas para la presentación.
+* **Uso compartido fácil, incluida la exportación de PowerPoint**: La funcionalidad de uso compartido integrada facilita el uso compartido de perspectivas. Entre otros destinos, los usuarios pueden generar fácilmente diapositivas de PowerPoint preparadas para la presentación.
 
-## Crear un informe {#create-a-report}
+## Creación de un informe {#create-a-report}
 
-1. En My Marketo, haga clic en el mosaico Avanzadas **[!UICONTROL BI Analytics (Beta).]**
+1. En Mi Marketo, haga clic en el mosaico **[!UICONTROL Análisis de BI avanzados]**.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. En el **[!UICONTROL pestaña Informes]** , haga clic en **[!UICONTROL Crear informe]**.
+1. En la ficha **[!UICONTROL Informes]**, haga clic en **[!UICONTROL Crear informe]**.
 
    ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Estas mejoras le ayudan a ahorrar tiempo, descubrir información más valiosa, d
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
@@ -82,13 +78,13 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
   <tbody>
     <tr>
       <td rowspan="8">Análisis de correo electrónico</td>
-      <td>Actividad de correo electrónico - enviado (en CST)</td>
+      <td>Correo electrónico: actividad enviada (en CST)</td>
     </tr>
     <tr>
-      <td>Correo electrónico: actividad de clics (en CST)</td>
+      <td>Correo electrónico: actividad de clic (en CST)</td>
     </tr>
     <tr>
-      <td>Correo electrónico: abrir actividad (en CST)</td>
+      <td>Correo electrónico: actividad abierta (en CST)</td>
     </tr>
     <tr>
       <td>Correo electrónico: distribución del tiempo en el que se hizo clic (en CST)</td>
@@ -103,23 +99,23 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
       <td>Correo electrónico: detalles de rendimiento</td>
     </tr>
     <tr>
-      <td>Correo electrónico: declive de la tasa de clics</td>
+      <td>Correo electrónico: caída de tasa de clics</td>
     </tr>
     <tr>
       <td rowspan="8">Análisis de leads</td>
-      <td>Las 10 principales fuentes de posibles clientes por clientes potenciales convertidos</td>
+      <td>Principales 10 fuentes de posibles clientes por posibles clientes convertidos</td>
     </tr>
     <tr>
-      <td>Las 10 principales fuentes de clientes potenciales</td>
+      <td>Principales 10 fuentes de posibles clientes</td>
     </tr>
     <tr>
       <td>Informe de infracciones de SLA</td>
     </tr>
     <tr>
-      <td>Informe Envejecimiento de posibles clientes</td>
+      <td>Informe de vencimiento del posible cliente</td>
     </tr>
     <tr>
-      <td>Informe Balance de posibles clientes</td>
+      <td>Informe Balance de Clientes Potenciales</td>
     </tr>
     <tr>
       <td>Informe de conversión de posibles clientes</td>
@@ -132,7 +128,7 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
     </tr>
     <tr>
       <td rowspan="5">Análisis del programa</td>
-      <td>Los 10 mejores programas por éxito</td>
+      <td>Principales 10 programas por éxito</td>
     </tr>
     <tr>
       <td>Los 10 programas principales por canalización total</td>
@@ -151,7 +147,7 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
       <td>Impacto del marketing en oportunidades cerradas</td>
     </tr>
     <tr>
-      <td>Influencia del marketing en las oportunidades cerradas Ganado</td>
+      <td>Influencia del marketing en oportunidades ganadas cerradas</td>
     </tr>
     <tr>
       <td>Influencia del marketing en las oportunidades creadas</td>
@@ -160,7 +156,7 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
       <td>(FT) Influencia del marketing en las oportunidades creadas</td>
     </tr>
     <tr>
-      <td>(MT) Influencia del marketing en las oportunidades cerradas Ganado</td>
+      <td>(MT) Influencia de marketing en oportunidades cerradas ganadas</td>
     </tr>
     <tr>
       <td>(MT) Influencia de marketing en las oportunidades creadas</td>
@@ -177,36 +173,37 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
 
 ## Cosas que debe tener en cuenta {#note}
 
-La versión beta pública estará disponible hasta el 1 de junio de 2025, momento en el que la experiencia clásica a través de &quot;Revenue Explorer&quot; quedará obsoleta de forma permanente.
+* La experiencia clásica del &quot;Explorador de ingresos&quot; quedará obsoleta permanentemente el 10 de junio de 2025. Mientras tanto, puede acceder, crear, actualizar y eliminar informes en ambas experiencias.
 
-_Durante la beta pública:_
-
-* Puede acceder, crear, actualizar y eliminar informes en ambas experiencias.
-* Sus informes personalizados se replicarán desde el experiencia clásico hasta el nuevo experiencia con los cambios de comportamiento notables mencionados en la [sección Aprender la experiencia](#learning-the-new-experience) de Nuevo a continuación.
+* Sus informes personalizados se replicarán de la experiencia clásica a la nueva experiencia con los cambios de comportamiento notables mencionados en la sección [Aprender la nueva experiencia](#learning-the-new-experience) a continuación.
 
   >[!IMPORTANT]
   >
-  >La duplicación de los informes personalizados se llevará a cabo en grupos. Una vez que los informes personalizados se hayan replicado en el nuevo experiencia, para garantizar la coherencia entre las dos experiencias, cualquier cambio realizado en el experiencia clásico también deberá aplicarse manualmente a los informes correspondientes en el nuevo experiencia. Una nota informativa sobre lo anterior se iluminará en la experiencia clásica al replicar sus informes de clientes.
+  >La replicación de los informes personalizados se realizará en grupos. Una vez que los informes personalizados se hayan duplicado en la nueva experiencia, para garantizar la coherencia entre las dos experiencias, cualquier cambio realizado en la experiencia clásica también deberá aplicarse manualmente a los informes correspondientes de la nueva experiencia. Una nota informativa sobre lo anterior se iluminará en la experiencia clásica al replicar los informes de los clientes.
 
-   * Los tableros de la experiencia clásica no son transferibles y requerirán recreación en el nuevo experiencia. Deben recrearse como informes en el nuevo experiencia y el filtros en el nuevo experiencia extrae automáticamente los valores posibles en lugar de requerir que introduzca manualmente todos los valores posibles individualmente en el experiencia clásico.
+   * Los paneles de la experiencia clásica no se pueden transferir y es necesario volver a crearlos en la nueva experiencia. Se deben volver a crear como informes en la nueva experiencia y los filtros de la nueva experiencia extraen automáticamente los valores posibles en lugar de requerir que introduzca manualmente todos los valores posibles de forma individual en la experiencia clásica.
 
      >[!NOTE]
      >
      >El tablero de la nueva experiencia es simplemente una recopilación de informes en una sola página. El valor principal del tablero en la nueva experiencia es permitirle presentar perspectivas analíticas en diferentes áreas de la creación de informes.
 
-* Sus suscripciones por correo electrónico en la experiencia clásica se replicarán en la nueva experiencia. Las suscripciones por correo electrónico en la experiencia clásica seguirán funcionando hasta que la experiencia clásica quede obsoleta el 1 de junio de 2025.
+* Sus suscripciones por correo electrónico en la experiencia clásica se replicarán en la nueva experiencia. Las suscripciones por correo electrónico en la experiencia clásica seguirán funcionando hasta que la experiencia clásica quede obsoleta el 10 de junio de 2025.
 
-* Los usuarios existentes del Explorador de ingresos tienen acceso automáticamente a la nueva experiencia de Análisis de BI avanzado (Beta).
+* Los usuarios existentes del Explorador de ingresos tienen acceso automáticamente a la nueva experiencia avanzada de BI Analytics.
 
-## Aprender el nuevo experiencia {#learning-the-new-experience}
+* Puede crear hasta 700 informes en Advanced BI Analytics.
 
-El nuevo experiencia de visualización se entrega mediante el servicio Power BI integrado.
+* Hay una limitación de 1 millón de filas por consulta en una visualización determinada. Si la consulta supera ese límite, recibirá el siguiente error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Para solucionarlo, reduzca el intervalo de fechas o ajuste los filtros del informe para reducir el número de filas en el resultado de la consulta.
 
-Para obtener una tutorial rápida sobre el experiencia de visualización, visita documentación Usar [objetos visuales en Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} de Microsoft. Tenga en cuenta que es posible que no vea todas esas funciones en Marketo Engage.
+## Aprender la nueva experiencia {#learning-the-new-experience}
 
-### Cambios notables experiencia {#notable-experience-changes}
+La nueva experiencia de visualización se ofrece mediante el servicio de Power BI integrado.
 
-A continuación se indican los cambios realizados en la nueva experiencia (Avanzadas BI Analytics) respecto a la experiencia clásica (Revenue Explorer/Avanzadas Report Builder).
+Para ver un tutorial rápido sobre la experiencia de visualización, visite la documentación de [Uso de elementos visuales en Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} de Microsoft. Tenga en cuenta que es posible que no vea todas estas funciones en Marketo Engage.
+
+### Cambios importantes en la experiencia {#notable-experience-changes}
+
+Los siguientes son cambios en la nueva experiencia (Advanced BI Analytics) de la experiencia clásica (Revenue Explorer/Advanced Report Builder).
 
 * El filtro de tipo de fecha funciona de forma equivalente; sin embargo, la sintaxis para especificar valores ha cambiado. En los informes personalizados existentes, todos los valores de filtro de tipo de fecha (excepto &quot;Día de la semana&quot;) se convierten automáticamente a sus equivalentes en la nueva experiencia. Se ha interrumpido la compatibilidad con los valores de &quot;Día de la semana&quot;.
 
@@ -216,15 +213,13 @@ A continuación se indican los cambios realizados en la nueva experiencia (Avanz
 
 * La suscripción de correo electrónico incluye la exportación de PDF en lugar de la HTML del informe. La nueva suscripción de correo electrónico no incluirá la definición del informe.
 
-* No se admite el vincular profundo del informe en este momento.
+* En este momento no se admite el vínculo profundo del informe.
 
-* La carpeta de informes experiencia no está disponible en este momento y se sustituyó temporalmente por una lista plana con búsqueda de escritura anticipada. El nombre del informe replicado llevará la ruta de la carpeta, por ejemplo, `/folder1/folder2/report`.
-
-* La exportación de PDF es sincrónica en la nueva experiencia, en comparación con la de asíncrona en la experiencia clásica.
+* La exportación de PDF es sincrónica en la nueva experiencia, en comparación con ser asíncrona en la experiencia clásica.
 
 >[!NOTE]
 >
->No se puede incluir más de un campo de Grupo de campos personalizado en un área visual para Análisis de rendimiento del modelo (Leads sistema de informes).
+>No se puede incluir más de un campo de grupo de campos personalizados en un campo visual para el área de informes de Análisis de rendimiento del modelo (posibles clientes).
 
 >[!MORELIKETHIS]
 >
