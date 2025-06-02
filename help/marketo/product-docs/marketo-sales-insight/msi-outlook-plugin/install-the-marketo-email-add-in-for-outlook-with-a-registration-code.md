@@ -4,10 +4,10 @@ description: 'Instalación del complemento de correo electrónico de Marketo par
 title: Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 1%
+source-wordcount: '551'
+ht-degree: 3%
 
 ---
 
@@ -27,36 +27,84 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 >[!NOTE]
 >
->Las funciones de acciones de perspectiva de ventas, como Enviar correo electrónico de ventas, Agregar a la campaña de ventas y Tareas, no están disponibles en los complementos de correo electrónico de perspectiva de ventas para Gmail y Outlook. En este momento, los usuarios solo tienen la capacidad de enviar un correo electrónico rastreable con o sin una plantilla de correo electrónico de Marketo desde su cliente de correo electrónico al utilizar los complementos de correo electrónico de Sales Insight.
+>Las funciones de acciones de Sales Insight, como Enviar correo electrónico de ventas, Agregar a la campaña de ventas y Tareas, no están disponibles en los complementos de correo electrónico de Sales Insight para Gmail y Outlook. En este momento, los usuarios solo pueden enviar un correo electrónico rastreable con o sin una plantilla de correo electrónico de Marketo desde su cliente de correo electrónico al utilizar los complementos de correo electrónico de Sales Insight.
 
 ## Descargar instalador {#download-installer}
 
-1. Identifique su [versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifique su [versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
 
-1. Haga clic en el vínculo para descargar el programa de instalación adecuado para su versión de Microsoft Outlook.
+1. En la tabla siguiente, haga clic en el vínculo para descargar el archivo .ZIP correspondiente a su versión de Microsoft Outlook.
+
+1. Descomprima el archivo para acceder al archivo .MSI necesario y continúe con la instalación.
 
    >[!NOTE]
    >
    >En este momento, los vínculos siguientes solo funcionan en Microsoft Edge o haciendo clic con el botón derecho en Chrome. Sentimos cualquier inconveniente.
 
-   | Versión de Outlook | Outlook de 32 bits | Outlook de 64 bits |
-   |---|---|---|
-   | Outlook 2000 | No compatible | N/A |
-   | Outlook 2003 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2007 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/A |
-   | Outlook 2010 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook para Mac | No compatible | No compatible |
-   | Outlook Web App | No compatible | No compatible |
-   | Office 365* | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Versión de Outlook</th>
+    <th>Outlook de 32 bits</th>
+    <th>Outlook de 64 bits</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>No compatible</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Descargar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook para Mac</td>
+    <td>No compatible</td>
+    <td>No compatible</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>No compatible</td>
+    <td>No compatible</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Descargar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Descargar</a></td>
+  </tr>
+</tbody></table>
 
-   *Versión de Office 365: solo cliente de Windows (en Windows 10, Enterprise o Pro).
+*Versión de Office 365: solo cliente de Windows (en Windows 10, Enterprise o Pro).
 
-   >[!IMPORTANT]
-   >
-   >Microsoft ha lanzado [una nueva versión de Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nueva versión no admite el complemento MSI Outlook existente. El complemento MSI Outlook seguirá funcionando para escritorios de Windows que ejecuten la versión clásica de Outlook. Para obtener más información acerca del nuevo Outlook para Windows para organizaciones, [haga clic aquí](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>[!IMPORTANT]
+>
+>Microsoft ha lanzado [una nueva versión de Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nueva versión no admite el complemento MSI Outlook existente. El complemento MSI Outlook seguirá funcionando para escritorios de Windows que ejecuten la versión clásica de Outlook. Para obtener más información acerca del nuevo Outlook para Windows para organizaciones, [haga clic aquí](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copiar el código de registro {#copy-your-registration-code}
 
