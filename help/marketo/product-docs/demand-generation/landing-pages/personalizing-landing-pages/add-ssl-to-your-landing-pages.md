@@ -4,9 +4,9 @@ description: 'Añadir SSL a las páginas de aterrizaje: documentación de Market
 title: Añadir SSL a las páginas de aterrizaje
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '765'
 ht-degree: 1%
 
 ---
@@ -97,15 +97,13 @@ A continuación, encontrará mensajes de error que puede recibir junto con sus d
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
-* **Asignación de DNS para el dominio en Marketo Engage**: antes de agregar dominios en la interfaz de usuario, debe [asignar CNAME a un dominio proporcionado por Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Asignación de DNS para el dominio en Marketo Engage**: antes de agregar dominios en la interfaz de usuario, debe [asignar CNAME a un dominio proporcionado por Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizados**: Si necesita un SSL personalizado, envíe un [ticket de asistencia](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. No utilice la casilla de verificación de autoservicio para la creación SSL.
 
 * **SSL preexistentes**: Al agregar un dominio, el sistema comprueba los SSL preexistentes, que pueden haberse creado manualmente anteriormente. Si encuentra esta validación, cree su dominio sin seleccionar la creación de SSL y los conectaremos por usted. [Póngase en contacto con el soporte técnico](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obtener más detalles u opciones.
 
 * **Dominio de seguimiento por primera vez**: La primera vez que se creen dominios de vínculo de seguimiento de correo electrónico necesitará la intervención manual del [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. En la interfaz de usuario se permite la creación posterior de subdominios en el mismo dominio.
-
-* **Solo local de Marketo**: Actualmente, esta característica solo está disponible para local. Marketo Engage en Cloud Services tendrá que configurar SSL poniéndose en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Agregar certificados a dominios existentes**: no se admite agregar certificados a dominios existentes en este momento. Para los dominios preexistentes o en los casos en los que no hayas marcado el cuadro de certificado SSL, debes ponerte en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para que se agregue el certificado.
 
