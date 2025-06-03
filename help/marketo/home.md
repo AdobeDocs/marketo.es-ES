@@ -1,26 +1,32 @@
 ---
 title: Documentos del producto de Marketo
-description: Documentos del producto de Marketo Engage
+description: Aprenda a llevar el marketing al siguiente nivel con estos documentos de producto de Marketo. Empiece con un tutorial de Marketo y lea otros artículos populares.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 76880d7a2d37cf82ac6a677b08eb8880dc15c24e
+source-git-commit: cfd0eed1c71c7331d089f3e0c19703521082703f
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 9%
 
 ---
 
-# Documentos del producto de Marketo Engage
+# Documentos de productos de Marketo Engage
 
 ![](assets/marketo-docs-banner.jpg)
+
+Las estrategias modernas de marketing bajo demanda requieren una participación integral para ofrecer las mejores experiencias de cliente posibles. Aprenda a conseguirlo con Marketo Engage (parte de Adobe Experience Cloud) leyendo nuestra gama de documentos, guías y asistencia de Marketo.
+
+Tanto si acaba de empezar como si desea ver un tutorial introductorio de Marketo, o si es un usuario experimentado que busca sacar más partido de Marketo, encontrará todas las respuestas que necesita en los vínculos siguientes.
+
+Explore la gama de documentos de productos de Marketo que pueden ayudarle a ofrecer experiencias atractivas para los clientes.
 
 ## Introducción
 
 * [Pasos de configuración](/help/marketo/getting-started/initial-setup/setup-steps.md)
-* [Configuración de protocolos para el Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+* [Configuración de protocolos para Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 * [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Glosario del Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
+* [Glosario de Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
-## Artículos populares
+## Artículos populares de Marketo
 
 * [Explicación de la  [!DNL Salesforce] sincronización](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
