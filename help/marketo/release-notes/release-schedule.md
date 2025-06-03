@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 11%
+source-wordcount: '138'
+ht-degree: 12%
 
 ---
 
@@ -49,17 +49,12 @@ _Las fechas/características del lanzamiento están sujetas a cambios_
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Mayo del 25</a></td>
-   <td>23 de mayo de 2025</td>
+   <td>sábado, 23 de mayo de 2025</td>
    <td>En curso</td>
   </tr>
   <tr> 
-   <td>Junio del 25</td>
-   <td>sábado, 27 de junio de 2025</td>
-   <td>Dentro del horario</td>
-  </tr>
-  <tr> 
    <td>Julio de 2025</td>
-   <td>sábado, 25 de julio de 2025</td>
+   <td>sábado, 11 de julio de 2025</td>
    <td>Dentro del horario</td>
   </tr>
   <tr> 
