@@ -4,9 +4,9 @@ description: 'Uso de las direcciones IP dedicadas para enviar correos electróni
 title: Utilice sus direcciones IP dedicadas para enviar correos electrónicos
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ El envío desde una o más IP dedicadas le proporciona un control completo sobre
 
 >[!AVAILABILITY]
 >
->Una IP dedicada es un producto complementario. No todos podrán añadir una IP dedicada a su programa. Debe enviar más de 100 000 correos electrónicos al mes y tener una cadencia de campaña estable para mantener una IP dedicada. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información sobre cómo agregar una IP dedicada a su programa de Marketo.
+>Una IP dedicada es un producto complementario. No todos podrán añadir una IP dedicada a su programa. Debe enviar más de 100 000 correos electrónicos al mes y tener una cadencia de campaña estable para mantener una IP dedicada. Póngase en contacto con el equipo de su cuenta para obtener más información sobre cómo agregar una IP dedicada a su programa de Marketo.
 >
->Si envía menos de 100 000 correos electrónicos al mes, tiene volúmenes de campaña variables o es un remitente estacional, no podrá mantener una IP dedicada. Marketo mantiene un grupo compartido de IP fiables independiente para los clientes que siguen prácticas recomendadas estrictas. Si está interesado, por favor llene [este cuestionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para aplicar al programa Trusted IP de Marketo.
+>Si envía menos de 100 000 correos electrónicos al mes, tiene volúmenes de campaña variables o es un remitente estacional, no podrá mantener una IP dedicada. Marketo mantiene un grupo compartido de IP fiables independiente para los clientes que siguen prácticas recomendadas estrictas. Si está interesado, por favor llene [este cuestionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es) para aplicar al programa Trusted IP de Marketo.
 
 Todas las cuentas de Marketo comienzan con una IP compartida, lo que le permite empezar a enviar correos inmediatamente. Si agrega una IP dedicada, trabajará con los consultores de capacidad de entrega para programar el aprovisionamiento de la IP.
 
@@ -38,7 +38,7 @@ Para maximizar la capacidad de entrega a largo plazo, los consultores de capacid
 
 >[!TIP]
 >
->Mantenga la base de datos limpia para mantener la capacidad de envío alta. [El Adobe requiere](https://www.adobe.com/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido recibir correo electrónico o hayan solicitado recibirlo. No envies spam.
+>Mantenga la base de datos limpia para mantener la capacidad de envío alta. [Adobe requiere](https://www.adobe.com/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido o solicitado recibir correo electrónico. No envies spam.
 
 >[!CAUTION]
 >
