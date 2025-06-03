@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '9264'
+source-wordcount: '9269'
 ht-degree: 5%
 
 ---
@@ -1034,6 +1034,7 @@ ht-degree: 5%
          + [Edición de imágenes con Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragmentos](product-docs/email-marketing/email-designer/fragments.md)
          + [Fragmentos personalizables](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [Integración de GenStudio para Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Bloqueo de contenido](product-docs/email-marketing/email-designer/content-locking.md)
          + [Asistente de IA](product-docs/email-marketing/email-designer/ai-assistant.md)
       + Programas de correo electrónico {#email-programs}
