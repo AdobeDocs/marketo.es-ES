@@ -3,9 +3,9 @@ description: 'Paso 4 de 4: Conexión de la solución Marketo con la conexión de
 title: 'Paso 4 de 4: Conexión de la solución Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '432'
 ht-degree: 3%
 
 ---
@@ -106,11 +106,9 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. La primera sincronización puede tardar unas horas. Una vez hecho esto, recibirás una notificación por correo electrónico.
+1. Según el número de registros, la sincronización inicial puede tardar entre unas horas y unos días. Recibirá una notificación por correo electrónico una vez completada.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-¡Excelente trabajo!
 
 >[!MORELIKETHIS]
 >

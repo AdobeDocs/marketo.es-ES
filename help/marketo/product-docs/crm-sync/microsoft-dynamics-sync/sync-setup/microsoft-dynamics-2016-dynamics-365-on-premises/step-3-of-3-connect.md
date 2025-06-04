@@ -3,9 +3,9 @@ description: 'Instalación de Marketo para Microsoft Dynamics 2016/Dynamics 365 
 title: Instale Marketo para Microsoft Dynamics 2016/Dynamics 365 local, paso 3 de 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '414'
 ht-degree: 3%
 
 ---
@@ -43,13 +43,13 @@ ht-degree: 3%
    >
    >Asegúrese de que sus credenciales sean correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de Marketo.
 
-1. Escriba **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]**, una **[!UICONTROL URL]** de Microsoft Dynamics y un **Secreto/Id de cliente**. Haga clic en **[!UICONTROL Guardar]** cuando termine.
+1. Escriba **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]**, **[!UICONTROL URL]** de Microsoft Dynamics y **Secreto/Id. de cliente**. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >* Si el Marketo se aprovisionó antes de octubre de 2020, el ID de cliente y el secreto son campos opcionales. De lo contrario, son obligatorios. La obtención de esta información dependerá de la versión de MSD que esté utilizando.
+   >* Si el Marketo se aprovisionó antes de octubre de 2020, el ID de cliente y el secreto son campos opcionales. De lo contrario, son obligatorios. La obtención de esta información dependerá de la versión de MSD que utilice.
    >* El Nombre de usuario en Marketo debe coincidir con el Nombre de usuario para el usuario de sincronización en CRM. El formato puede ser `user@domain.com` o DOMAIN\user.
    >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
@@ -95,14 +95,12 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    >[!CAUTION]
    >
-   >Marketo no desduplicará automáticamente una sincronización de Microsoft Dynamics ni cuando introduzca personas manualmente.
+   >Marketo no desduplicará automáticamente una sincronización de Microsoft Dynamics o cuando introduzca personas manualmente.
 
 1. Lee todo en la ventana emergente, escribe tu correo electrónico y haz clic en **[!UICONTROL Iniciar sincronización]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. La primera sincronización puede tardar unas horas. Una vez hecho esto, recibirá una notificación por correo electrónico.
+1. Según el número de registros, la sincronización inicial puede tardar entre unas horas y unos días. Recibirá una notificación por correo electrónico una vez completada.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-¡Excelente trabajo!

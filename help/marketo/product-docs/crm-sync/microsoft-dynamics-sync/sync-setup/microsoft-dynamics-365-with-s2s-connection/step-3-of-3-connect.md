@@ -4,9 +4,9 @@ description: 'Paso 3 de 3: Conexión de la solución Marketo con la conexión se
 title: 'Paso 3 de 3: Conexión de la solución Marketo con la conexión servidor a servidor'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
@@ -106,8 +106,6 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. La primera sincronización puede tardar unas horas. Una vez hecho esto, recibirás una notificación por correo electrónico.
+1. Según el número de registros, la sincronización inicial puede tardar entre unas horas y unos días. Recibirá una notificación por correo electrónico una vez completada.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-¡Excelente trabajo!

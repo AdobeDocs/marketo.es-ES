@@ -4,9 +4,9 @@ description: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (2011 loc
 title: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (2011 local)'
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '383'
 ht-degree: 2%
 
 ---
@@ -101,8 +101,6 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. La primera sincronización puede tardar unas horas. Una vez hecho esto, recibirá una notificación por correo electrónico.
+1. Según el número de registros, la sincronización inicial puede tardar entre unas horas y unos días. Recibirá una notificación por correo electrónico una vez completada.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
-
-   ¡Excelente trabajo!
