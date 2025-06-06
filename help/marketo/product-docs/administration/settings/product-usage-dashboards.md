@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _Cambiar valor de datos_ es el tipo de actividad más común. Indica cuándo se 
 Grupo por el que las campañas producen la mayoría de las actividades. Esto le permite ver si tiene campañas particularmente &quot;ruidosas&quot; que crean más actividad de la necesaria. Obtenga información rápidamente sobre las campañas que deben retirarse del mercado o sobre las campañas que están haciendo más trabajo del previsto.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Por Source (PRÓXIMAMENTE) {#by-source}
-
-Agrupar por el origen de las actividades (_Sincronización de CRM_, _Acción de flujo de campaña_, _Carga de API_, _Relleno del formulario de la página de aterrizaje_, etc.). Esto le ayuda a comprender si la mayoría de las actividades las producen acciones de marketing, sincronizaciones de CRM o las propias personas/posibles clientes.
