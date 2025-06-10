@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Los tipos de actividad incluyen recuentos de actividades capturadas cuando las p
 >
 >Para ver el recuento de tipos de actividades de una semana en particular, pase el ratón sobre la semana deseada y aparecerá el recuento.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### Preguntas frecuentes {#faq}
 
 **¿Qué tipos de actividades se cuentan?**
@@ -70,17 +68,10 @@ El uso de la actividad muestra cuánto marketing se está llevando a cabo y ayud
 
 Agrupe actividades por los tipos de actividades más comunes vistos en los últimos siete días. Esto puede incluir categorías como _Cambiar valor de datos_, _Agregar a lista_ o _Enviar correo electrónico_. Esto le permite ver qué tipos de actividades se producen con mayor frecuencia en su cuenta de Marketo Engage.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### Por atributo de valor de datos de cambio {#by-change-data-value-attribute}
 
 _Cambiar valor de datos_ es el tipo de actividad más común. Indica cuándo se actualiza un fragmento de información de un registro de persona/posible cliente. Aquí, agrupamos por los campos que se cambian con mayor frecuencia para que pueda determinar qué información resulta útil para sus operaciones de marketing, si hay oportunidades para optimizar el uso de la plataforma, etc.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### Por campaña {#by-campaign}
 
 Grupo por el que las campañas producen la mayoría de las actividades. Esto le permite ver si tiene campañas particularmente &quot;ruidosas&quot; que crean más actividad de la necesaria. Obtenga información rápidamente sobre las campañas que deben retirarse del mercado o sobre las campañas que están haciendo más trabajo del previsto.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
