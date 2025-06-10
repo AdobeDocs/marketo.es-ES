@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ El diseñador de correo electrónico es la última innovación en Marketo Engage
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 
@@ -76,11 +76,19 @@ Los nuevos correos electrónicos de Designer de correo electrónico son accesibl
 
 **¿Funcionarán las plantillas de correo electrónico existentes en el nuevo diseñador? Si no es así, ¿es necesario crear plantillas con el nuevo diseñador para que todas las secciones/módulos se correspondan con el aspecto que queremos que tenga el contenido?**
 
-No, no se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar HTML de plantilla en el nuevo diseñador y realizar los ajustes necesarios. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+No se puede hacer referencia a las plantillas de correo electrónico del editor clásico en el nuevo diseñador. Tendrá que crear nuevas plantillas en el nuevo diseñador. Sin embargo, _puede_ importar HTML de plantilla en el nuevo diseñador y realizar los ajustes necesarios. **Nota**: La compatibilidad de plantillas de editor clásico con el nuevo diseñador estará disponible pronto.
+
+**¿Puedo mover fácilmente nuevos recursos de diseñador a un programa diferente?**
+
+En este momento no. Pero esa funcionalidad estará disponible pronto.
+
+**¿Se pueden editar los recursos mediante API en el nuevo diseñador de correo electrónico?**
+
+Assets que se está editando mediante API no es compatible con el nuevo diseñador de correo electrónico en este momento.
 
 **¿Hay alguna forma de reforzar la marca (fuentes, logotipos y colores)?**
 
-Bloquear secciones de contenido es parte del nuevo diseñador, y bloquear estilo, colores, etc., llegará más adelante este año.
+Bloquear secciones de contenido es parte del nuevo diseñador y bloquear estilos, colores, etc. estará disponible próximamente.
 
 **¿Hará que los módulos para plantillas sean más personalizables y escalables?**
 
@@ -88,16 +96,11 @@ Sí, absolutamente, más personalizable con nuestro editor de WYSIWYG (lo que se
 
 **¿Cómo funciona el proceso de creación de plantillas de correo electrónico en el nuevo diseñador? ¿Es WYSIWYG o requiere conocimientos de HTML?**
 
-Es WYSIWYG; no es necesario tener conocimientos de HTML. Puede crear fácilmente
-plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web externos. Sin embargo, aún tiene la opción de actualizar CSS y editar secciones individuales a través de HTML. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
+Es WYSIWYG; no es necesario tener conocimientos de HTML. Puede crear fácilmente plantillas en el diseñador, lo que reduce la necesidad de desarrolladores web externos. Sin embargo, aún tiene la opción de actualizar CSS y editar secciones individuales a través de HTML. También estamos trabajando en una forma de migrar fácilmente las plantillas del editor clásico al nuevo diseñador.
 
 **¿Admite el nuevo diseñador de correo electrónico el lenguaje AMP?**
 
 En este momento no admite AMP.
-
-**¿Se pueden editar los recursos mediante API en el nuevo diseñador de correo electrónico?**
-
-Assets que se está editando mediante API no es compatible con el nuevo diseñador de correo electrónico en este momento.
 
 **El contenido dinámico por atributo es excelente, pero ¿sigue funcionando el contenido dinámico por segmento?**
 
