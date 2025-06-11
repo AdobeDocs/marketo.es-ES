@@ -4,20 +4,20 @@ description: Poner en funcionamiento un correo electrónico - Documentos de Mark
 title: Hacer que un correo electrónico sea operativo
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Hacer que un correo electrónico sea operativo {#make-an-email-operational}
 
-Los correos electrónicos operativos ignoran los estados de cancelación de suscripción y marketing suspendido. Envían sin importar qué.
+Los correos electrónicos operativos ignoran los estados de cancelación de suscripción y marketing suspendido. Tampoco están sujetos a límites de comunicación. Envían sin importar qué.
 
 >[!NOTE]
 >
->Los correos electrónicos operativos no están sujetos a límites de comunicación.
+>Los correos electrónicos operativos no se contabilizan en los límites de comunicación. Por ejemplo, si alguien solo puede recibir un correo electrónico por semana y usted ya le ha enviado un correo electrónico de marketing, puede enviarle un correo electrónico operativo si es necesario.
 
 1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
