@@ -113,7 +113,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
    >[!NOTE]
    >
    >* _Los datos con diseño actual_ solo están disponibles para los elementos visuales de tabla y matriz.
-   * _Los datos subyacentes_ no están disponibles en Marketo Engage.
+   >* _Los datos subyacentes_ no están disponibles en Marketo Engage.
 
 1. Elija el formato de archivo deseado (.XLS, .CSV).
 
