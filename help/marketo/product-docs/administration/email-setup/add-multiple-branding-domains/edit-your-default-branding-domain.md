@@ -4,9 +4,9 @@ description: Editar el dominio de marca predeterminado - Documentos de Marketo -
 title: Editar el dominio de marca predeterminado
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Ahora puede [agregar los dominios de promoción de la marca adicionales](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} que necesite.
+
+>[!NOTE]
+>
+>Si necesita actualizar o quitar un SSL existente, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
