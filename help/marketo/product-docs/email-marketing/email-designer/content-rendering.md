@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engage para ver al instante cómo se procesa su correo electrónico en los clientes de correo electrónico más populares.
 
-## Cómo usar {how-to-use}
+## Cómo usar &lbrace;how-to-use&rbrace;
 
 1. En la pantalla de edición de contenido del mensaje o en el Designer de correo electrónico, haga clic en el botón Simular contenido.
 
