@@ -5,9 +5,10 @@ title: Prueba del procesamiento de correo electrónico con Litmus
 description: Los usuarios de Marketo Engage pueden integrar su cuenta de Litmus para probar sin problemas la renderización de contenido en varios clientes de correo electrónico.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -54,10 +55,10 @@ Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engag
    >
    >Aprenda a [personalizar la lista de clientes de correo electrónico predeterminada](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. Cuando termine de probar, haga clic en la flecha hacia atrás situada en la parte superior izquierda de la pantalla para volver a la pantalla _Simular contenido_.
+1. Cuando termine de probar, haga clic en la flecha hacia atrás de la esquina superior izquierda para volver a la pantalla _Simular contenido_.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**PASO OPCIONAL**: Si decides hacer cambios en tu correo electrónico, después de hacer clic en **Procesar correo electrónico** para verlos, asegúrate de hacer clic también en el botón **Reintentar** en la parte superior derecha de la pantalla de Litmus.
+**PASO OPCIONAL**: si decide realizar cambios en su correo electrónico, después de hacer clic en **Procesar correo electrónico** para verlos, asegúrese de hacer clic también en el botón **Reintentar** en la parte superior derecha de la pantalla de Litmus _Vistas previas de correo electrónico_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)

@@ -5,14 +5,14 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
 
-# Información general {#overview}
+# Resumen de Designer de correo electrónico {#overview}
 
 Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 
@@ -26,7 +26,7 @@ El diseñador de correo electrónico es la última innovación en Marketo Engage
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 
@@ -54,6 +54,8 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 
 * [Fragmentos personalizables](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Aprenda a personalizar fragmentos haciendo que algunos de sus campos sean editables.
 
+* [Tokens de Personalization](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Obtenga información acerca del nuevo formato para los tokens de personalización en el nuevo diseñador de correo electrónico.
+
 * [Trabaje con recursos de AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales de AEM para usarlos en Marketo Engage.
 
 * [Editar imágenes con Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Aprenda a editar imágenes en el editor de correo electrónico de Adobe Marketo Engage con Adobe Express.
@@ -61,6 +63,8 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 * [Use el asistente de IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: aproveche la tecnología de IA generativa de Adobe para agregar texto o imágenes útiles a sus correos electrónicos.
 
 * [Bloquear contenido en plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: aprenda a bloquear contenido en plantillas de correo electrónico para evitar ediciones o eliminaciones no intencionales.
+
+* [Probar el procesamiento de correo electrónico con Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: aproveche su cuenta de Litmus en Marketo Engage para ver al instante cómo se procesa su correo electrónico en clientes de correo electrónico populares.
 
 * [Comparación de características](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: compare la disponibilidad de características del editor de correo electrónico anterior (Editor de correo electrónico 2.0) y del nuevo Designer de correo electrónico.
 
@@ -112,4 +116,4 @@ Si inicias sesión en Marketo Engage a través de [Adobe Experience Cloud](https
 
 **¿Qué exploradores puedo usar con el nuevo Designer de correo electrónico?**
 
-Se recomienda utilizar Google Chrome, Apple Safari o Microsoft Edge. La compatibilidad total con Mozilla Firefox estará disponible más adelante.
+Se recomienda utilizar Google Chrome, Apple Safari o Microsoft Edge. La compatibilidad total con Mozilla Firefox estará disponible próximamente.

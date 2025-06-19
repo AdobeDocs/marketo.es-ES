@@ -3,9 +3,9 @@ description: 'Promoción de un seminario web interactivo: documentos de Marketo,
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Los seminarios web interactivos le permiten solicitar el registro antes, durante
 
 ## Tokens de seminarios web interactivos {#interactive-webinars-tokens}
 
-Utilice tokens para promocionar seminarios web interactivos en correos electrónicos y páginas de destino sin tener que añadir manualmente los detalles del seminario web. Esto mejora la eficacia general, ya que cualquier cambio realizado en los metadatos del seminario web (como el título, la fecha de inicio, etc.) se reflejará automáticamente en los recursos.
+Utilice tokens para promocionar los seminarios web interactivos en correos electrónicos sin tener que añadir manualmente los detalles del seminario web. Esto mejora la eficacia general, ya que cualquier cambio realizado en los metadatos del seminario web (como el título, la fecha de inicio, etc.) se reflejará automáticamente en los recursos.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>Los tokens de seminario web interactivo no son compatibles con las páginas de aterrizaje en este momento.
 
 **Lista de tokens**
 
