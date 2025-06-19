@@ -1,28 +1,30 @@
 ---
-title: Documento de Experience Manager de Connect
-description: Obtenga información sobre cómo conectar Cloud Service de Adobe Experience Manager a Adobe Marketo Engage AEM para poder aprovechar sus recursos de.
+title: Conectar documento de Experience Manager
+description: Obtenga información sobre cómo conectar Adobe Experience Manager Cloud Services a Adobe Marketo Engage para poder aprovechar los recursos de AEM.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Conexión de Cloud Service de Adobe Experience Manager {#connect-adobe-experience-manager-cloud-services}
+# Conectar Adobe Experience Manager Cloud Services {#connect-adobe-experience-manager-cloud-services}
 
-Obtenga información sobre cómo conectar su cuenta de Cloud Service de AEM Assets a la de Adobe Marketo Engage para poder aprovechar el repositorio de recursos de la instancia de AEM en el Designer de correo electrónico del Marketo Engage.
+Obtenga información sobre cómo conectar su cuenta de AEM Assets Cloud Services a su instancia de Adobe Marketo Engage para poder aprovechar el repositorio de recursos de AEM en Marketo Engage Email Designer.
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. En Marketo Engage, vaya al área de **Admin** y seleccione **Adobe Experience Manager** en el árbol de navegación izquierdo.
+1. En Marketo Engage, vaya al área **Admin** y seleccione **Adobe Experience Manager** en el árbol de navegación izquierdo.
 
 CAPTURA DE PANTALLA
 
-1. Haga clic en **Editar** junto a _Cloud Service de Adobe Experience Manager_.
+1. Haga clic en **Editar** junto a _Adobe Experience Manager Cloud Services_.
 
 CAPTURA DE PANTALLA
 
@@ -32,7 +34,7 @@ CAPTURA DE PANTALLA
 
 >[!NOTE]
 >
->Solo se muestran los repositorios que se han asociado en la misma organización de IMS que su suscripción de Marketo Engage.
+>Solo se muestran los repositorios que se han asociado en la misma organización de IMS que su suscripción a Marketo Engage.
 
 1. Debe agregar un [certificado de credencial de servicio](https://experienceleague.adobe.com/es/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) para configurar el repositorio. Haga clic en el botón **+ Agregar certificado**.
 
@@ -46,7 +48,7 @@ CAPTURA DE PANTALLA
 
 CAPTURA DE PANTALLA
 
-Ahora se puede acceder a todas las imágenes de la biblioteca de administración de recursos digitales de ese repositorio desde el correo electrónico del Marketo Engage Designer.
+Ahora se puede acceder a todas las imágenes de la biblioteca de administración de recursos digitales de ese repositorio desde Marketo Engage Email Designer.
 
 >[!MORELIKETHIS]
 >

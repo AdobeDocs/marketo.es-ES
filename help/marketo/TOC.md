@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
+source-wordcount: '9279'
 ht-degree: 5%
 
 ---
@@ -1029,6 +1029,7 @@ ht-degree: 5%
          + [Comparación de funciones](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Creación de correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Creación de plantillas de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Prueba del procesamiento de correo electrónico con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tokens de Personalization](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Trabajo con AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Edición de imágenes con Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 5%
          + [Integración de GenStudio para Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Bloqueo de contenido](product-docs/email-marketing/email-designer/content-locking.md)
          + [Asistente de IA](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [Informe de correo no deseado con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + Programas de correo electrónico {#email-programs}
          + Creación de un programa de correo electrónico {#creating-an-email-program}
             + [Crear un programa de correo electrónico](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

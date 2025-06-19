@@ -3,9 +3,9 @@ solution: Marketo Engage
 product: marketo
 description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
-feature: Email Editor
+feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 0%
@@ -26,7 +26,7 @@ El diseñador de correo electrónico es la última innovación en Marketo Engage
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 

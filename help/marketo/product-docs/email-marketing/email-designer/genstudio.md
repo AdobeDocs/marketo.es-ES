@@ -3,10 +3,12 @@ title: Integración de GenStudio para Marketo Engage
 description: Aprenda a utilizar GenStudio en Marketo Engage.
 hide: true
 hidefromtoc: true
-feature: Email Editor
 solution: Marketo Engage
 product: marketo
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+level: Beginner, Intermediate
+feature: Email Designer
+exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -35,9 +37,9 @@ Exporte fácilmente una plantilla que incluya las directrices de su marca a GenS
 
    ![Exportando su HTML](assets/genstudio-integration-1.png)
 
-1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
+1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
 
-1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
+1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
 
 ## Aprovechamiento de las experiencias de GenStudio en Marketo Engage {#leverage-genstudio-experiences}
 

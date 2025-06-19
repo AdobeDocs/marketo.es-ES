@@ -1,22 +1,23 @@
 ---
 description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
-title: Creación de correo electrónico
-feature: Email Editor
+title: Creación del correo electrónico
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1742'
 ht-degree: 1%
 
 ---
 
-# Creación de correo electrónico {#email-authoring}
+# Creación del correo electrónico {#email-authoring}
 
 Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Crear un correo electrónico {#create-an-email}
 
@@ -26,7 +27,7 @@ Los correos electrónicos del diseñador de correo electrónico solo se pueden c
 
 >[!TAB Estudio de diseño]
 
-1. Inicie sesión en Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Inicie sesión en Marketo Engage mediante [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. En Mi Marketo, seleccione **Design Studio**.
 
@@ -46,7 +47,7 @@ Los correos electrónicos del diseñador de correo electrónico solo se pueden c
 
 >[!TAB Programa de correo electrónico]
 
-1. Inicie sesión en Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Inicie sesión en Marketo Engage mediante [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Busque y seleccione (o cree) su programa de correo electrónico.
 
@@ -251,7 +252,7 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
 1. Guarde los cambios.
 
-### Personalizar contenido {#personalize-content}
+### Personalización del contenido {#personalize-content}
 
 Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
 

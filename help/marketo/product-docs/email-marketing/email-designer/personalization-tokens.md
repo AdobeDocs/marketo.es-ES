@@ -4,8 +4,9 @@ product: marketo
 title: Tokens de Personalization
 description: Aprenda a utilizar tokens de personalización en el nuevo Marketo Engage Email Designer
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +23,7 @@ El diseñador de correo electrónico tiene un formato diferente al editor de cor
 
 ## Caso de uso principal {#primary-use-case}
 
-Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
+Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
 
 ## Experiencia del token {#token-experience}
 

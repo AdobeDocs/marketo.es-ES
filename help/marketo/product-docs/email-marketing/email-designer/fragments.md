@@ -4,8 +4,9 @@ product: marketo
 title: Fragmentos
 description: Aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1922'
 ht-degree: 1%

@@ -3,22 +3,22 @@ solution: Marketo Engage
 product: marketo
 title: Comparación de funciones del editor de correo electrónico y Designer de correo electrónico
 description: Utilice esta tabla para comparar la disponibilidad de las funciones de nuestro editor de correo electrónico anterior (Editor de correo electrónico 2.0) y de nuestro nuevo Designer de correo electrónico.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
 
 ---
 
-# Comparación de funciones entre el diseñador de correo electrónico y el editor de correo electrónico {#feature-comparison}
+# Comparación de funciones del editor de correo electrónico/Designer de correo electrónico {#feature-comparison}
 
-Utilice la siguiente tabla para comparar la disponibilidad de las funciones de nuestro editor de correo electrónico anterior (Editor de correo electrónico 2.0) y nuestro nuevo Diseñador de correo electrónico.
+Utilice la siguiente tabla para comparar la disponibilidad de las funciones de nuestro editor de correo electrónico anterior (Editor de correo electrónico 2.0) y nuestro nuevo Designer de correo electrónico.
 
-Consulte este Página (así como el [Notas de la versión](/help/marketo/release-notes/current.md){target="_blank"} actual) para obtener actualizaciones.
+Compruebe si hay actualizaciones en esta página (así como en las [notas de la versión actuales](/help/marketo/release-notes/current.md){target="_blank"}).
 
 <table><thead>
   <tr>
@@ -30,7 +30,7 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
 <tbody>
   <tr>
     <td>Plantillas de correo electrónico de inicio OOTB</td>
-    <td>Posibilidad de usar <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">plantillas</a> listas para usar proporcionadas por el diseñador de correo electrónico.</td>
+    <td>Capacidad para usar <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">plantillas listas para usar</a> proporcionadas por el Designer de correo electrónico.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -41,8 +41,8 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Vista previa plantillas de correo electrónico</td>
-    <td>Capacidad de previsualización plantillas de correo electrónico antes de usarlas en una correo electrónico.</td>
+    <td>Previsualizar plantillas de correo electrónico</td>
+    <td>Capacidad de previsualización de plantillas de correo electrónico antes de utilizarlas en un correo electrónico.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -83,8 +83,8 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Estudio de diseño Assets</td>
-    <td>Posibilidad de acceder a las imágenes y Archivos de Design Studio dentro del editor/diseñador.</td>
+    <td>Design Studio Assets</td>
+    <td>Capacidad para acceder a las imágenes y archivos de Design Studio dentro del editor/diseñador.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -132,7 +132,7 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
   </tr>
   <tr>
     <td>Guardar correo electrónico como plantilla</td>
-    <td>Posibilidad de guardar un correo electrónico como plantilla correo electrónico.</td>
+    <td>Capacidad para guardar un correo electrónico como plantilla de correo electrónico.</td>
     <td>Disponible</td>
     <td>Disponible</td>
   </tr>
@@ -222,12 +222,12 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
   </tr>
   <tr>
     <td>Integración con Gen Studio</td>
-    <td>Capacidad para integrar con Gen Studio.</td>
+    <td>Posibilidad de integración con Gen Studio.</td>
     <td>No disponible</td>
     <td>Próximamente</td>
   </tr>
   <tr>
-    <td>Compatibilidad con Move, Eliminar y Importar de programas con correo electrónico activos</td>
+    <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
     <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
     <td>Disponible</td>
     <td>Próximamente</td>
@@ -240,19 +240,19 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
   </tr>
   <tr>
     <td>Roles y permisos</td>
-    <td>Capacidad para agregar roles y permisos para correo electrónico, correo electrónico plantillas y fragmentos.</td>
+    <td>Capacidad para agregar funciones y permisos para correo electrónico, plantillas de correo electrónico y fragmentos.</td>
     <td>Disponible</td>
     <td>Próximamente</td>
   </tr>
   <tr>
     <td>Secuencias de comandos Velocity</td>
-    <td>Capacidad para utilizar Velocity script en correos electrónicos.</td>
+    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>No se necesita</td>
+    <td>No necesario</td>
   </tr>
    <tr>
-    <td>Scripts manillar</td>
-    <td>Capacidad de usar script de manillar en correos electrónicos.</td>
+    <td>Scripts de manillar</td>
+    <td>Capacidad para utilizar scripts de Handlebar en correos electrónicos.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>
@@ -288,7 +288,7 @@ Consulte este Página (así como el [Notas de la versión](/help/marketo/release
   </tr>
   <tr>
     <td>Correos electrónicos en CRM</td>
-    <td>Posibilidad de enviar información relacionada con correos electrónicos a su CRM.</td>
+    <td>Capacidad para enviar información relacionada con correos electrónicos a su CRM.</td>
     <td>Disponible</td>
     <td>Por determinar</td>
   </tr>
