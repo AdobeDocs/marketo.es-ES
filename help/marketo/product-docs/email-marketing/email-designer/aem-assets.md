@@ -17,7 +17,7 @@ Conecte su cuenta de _Adobe Experience Manager Assets as a Cloud Service_ a su i
 
 >[!NOTE]
 >
->Actualmente, solo se admiten recursos de imagen de _Adobe Experience Manager Assets_ en Marketo Engage. Los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Actualmente, solo se admiten recursos de imagen de _Adobe Experience Manager Assets_ en Marketo Engage. Los cambios en los recursos deben realizarse desde el repositorio central de Adobe Experience Manager Assets. [Más información](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Vínculo a los servicios de nube de AEM {#link-to-your-aem-cloud-services}
 
@@ -81,7 +81,7 @@ Si su entorno tiene una o más conexiones de repositorio de recursos, puede desi
 
 >[!IMPORTANT]
 >
->Un administrador debe añadir usuarios que necesiten acceder a los recursos a los perfiles de producto de Usuarios consumidores de Assets o Usuarios de Assets. [Más información](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un administrador debe añadir usuarios que necesiten acceder a los recursos a los perfiles de producto de Usuarios consumidores de Assets o Usuarios de Assets. [Más información](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 En el editor de contenido visual, haga clic en el icono _Selector de recursos de Experience Manager_ en la barra lateral izquierda. Esto cambia el panel Herramientas a una lista de recursos disponibles en el repositorio seleccionado.
 
