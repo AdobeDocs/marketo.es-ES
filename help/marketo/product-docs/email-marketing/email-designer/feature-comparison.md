@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 13%
 
 ---
@@ -173,6 +173,12 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
   </tr>
   <tr>
+    <td>Integración de Litmus</td>
+    <td>Posibilidad de <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrar con Litmus</a> para ver cómo se procesarán los correos electrónicos en distintos clientes de correo electrónico.</td>
+    <td>No disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
     <td>Editor de Personalization</td>
     <td>Capacidad para personalizar contenido en correos electrónicos mediante tokens.</td>
     <td>Disponible</td>
@@ -253,12 +259,6 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
    <tr>
     <td>Scripts de manillar</td>
     <td>Capacidad para utilizar scripts de Handlebar en correos electrónicos.</td>
-    <td>No disponible</td>
-    <td>Planificado para el tercer trimestre de 2025</td>
-  </tr>
-  <tr>
-    <td>Integración de Litmus</td>
-    <td>Capacidad de integración con Litmus para ver cómo se procesarán los correos electrónicos en distintos clientes de correo electrónico.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>
