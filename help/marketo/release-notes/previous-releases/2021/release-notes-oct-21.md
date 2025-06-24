@@ -58,7 +58,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 **[!DNL Sales Insight]para[!DNL Salesforce]**
 
-* **Lo más probable]** en el nivel de cuenta y oportunidad: [!UICONTROL Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
+* **Lo más probable** en el nivel de cuenta y oportunidad: Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
