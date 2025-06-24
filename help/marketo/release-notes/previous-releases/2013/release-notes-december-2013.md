@@ -4,9 +4,9 @@ description: 'Notas de la versión, diciembre de 2013: Documentos de Marketo: do
 title: Notas de la versión, diciembre de 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ En la versión de diciembre se incluyen las siguientes funciones.
 
 Después del lanzamiento, asegúrese de consultar la pestaña Nueva versión en la comunidad para ver los artículos detallados de la Base de conocimiento de cada función.
 
-## Programa de email {#email-program}
+## Programa de correo electrónico {#email-program}
 
 Enviar un correo electrónico nunca ha sido tan fácil. Use el nuevo [programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) para enviar un correo electrónico por lotes, en lugar del programa predeterminado. Defina la lista inteligente, envíe un correo electrónico, programe y ya no estará.
 
@@ -35,14 +35,14 @@ En el nuevo programa de correo electrónico, ejecute una prueba [A/B](/help/mark
 
 [Las pruebas de campeón/aspirante](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) son similares a las pruebas A/B, pero la diferencia es que se usan para correos electrónicos activados y no se envía un ganador automáticamente. Esta prueba le permite desafiar una forma establecida de hacer algo, llamado el Campeón, y probar si sigue siendo el mejor presentando un Challenger. Además, las pruebas de correo electrónico de campeón/aspirante se pueden utilizar dentro de los flujos del programa de participación.
 
-## Detalles del posible cliente en análisis de correo electrónico {#lead-details-in-email-analysis}
+## Detalles del posible cliente de [!UICONTROL Análisis del correo electrónico] {#lead-details-in-email-analysis}
 
-Hemos introducido atributos adicionales de posible cliente y compañía en el análisis de correo electrónico. Ahora puede ver las estadísticas de correo electrónico agrupadas por nuevos atributos como Industria y Source de posibles clientes.
+Hemos introducido atributos adicionales de posible cliente y compañía en [!UICONTROL Análisis de correo electrónico]. Ahora puede ver las estadísticas de correo electrónico agrupadas por nuevos atributos como [!UICONTROL Sector] y [!UICONTROL Source de posibles clientes].
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## Adaptador de eventos BrightTALK mejorado {#enhanced-brighttalk-event-adapter}
+## Adaptador de evento [!DNL BrightTALK] mejorado {#enhanced-brighttalk-event-adapter}
 
-Ahora puede atraer a los inscritos a Marketo desde su canal y evento BrightTALK. Puede utilizar esta información para informar a otras campañas de marketing.
+Ahora puede extraer inscritos en Marketo desde su canal y evento de [!DNL BrightTALK]. Puede utilizar esta información para informar a otras campañas de marketing.

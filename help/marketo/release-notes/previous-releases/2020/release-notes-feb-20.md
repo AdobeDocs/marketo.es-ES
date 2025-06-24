@@ -4,9 +4,9 @@ description: 'Notas De La Versión, Febrero De 2020: Documentos De Marketo: Docu
 title: Notas de la versión, febrero de 2020
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '639'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ En la versión de febrero de 2020 se incluyen las siguientes funciones. Comprueb
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![(estrella)](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![(estrella)](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_** Las siguientes características se lanzaron el **21 de febrero de 2020**.
 
-## Marketo Engage principal {#core-marketo-engage}
+## Core Marketo Engage {#core-marketo-engage}
 
-* **Acción de flujo de Microsoft Dynamics &quot;Cambiar propietario en Microsoft&quot;**: mantenga el control de los datos de Microsoft Dynamics CRM con la capacidad de cambiar un propietario de contacto o posible cliente directamente del Marketo Engage. Esto supone una mejora de nuestra capacidad nativa de integración de CRM.
+* **[!DNL Microsoft Dynamics]&quot;Cambiar propietario en Microsoft&quot; Acción de flujo**: mantenga el control de los datos de CRM [!DNL Microsoft Dynamics] con la capacidad de cambiar un propietario de contacto o posible cliente directamente desde Marketo Engage. Esto supone una mejora de nuestra capacidad nativa de integración de CRM.
 * **API de administración de usuarios**: Automatice la administración de usuarios y funciones a través de sistemas de administración de identidades y organizaciones externos. Esto supone una mejora de nuestra capacidad de llamadas de API.
-* **API de esquema de objeto personalizado**: administre y aprovisione automáticamente esquemas de objeto personalizados en varias instancias en Marketo Engage para mantener la coherencia de los modelos de datos en las herramientas de ventas y marketing. Con esta API, puede definir y probar objetos personalizados en una zona protegida o centro de excelencia y aprovisionarlos en tantas instancias como sea necesario. Esto supone una mejora de la capacidad de llamadas de API. Póngase en contacto con el representante del Marketo Engage para obtener información sobre cómo obtener acceso a esta mejora.
+* **API de esquema de objeto personalizado**: administre y aprovisione automáticamente esquemas de objeto personalizados en todas las instancias de Marketo Engage para mantener la coherencia de los modelos de datos en las herramientas de ventas y marketing. Con esta API, puede definir y probar objetos personalizados en una zona protegida o centro de excelencia y aprovisionarlos en tantas instancias como sea necesario. Esto supone una mejora de la capacidad de llamadas de API. Póngase en contacto con su representante de Marketo Engage para obtener información sobre cómo obtener acceso a esta mejora.
 * **API de reglas de redirección de páginas de aterrizaje**: Automatice la administración de las reglas de redirección de páginas de aterrizaje. Esto supone una mejora de nuestra capacidad de llamadas de API.
 * **Almacenamiento en caché del descriptor de formulario**: estamos reduciendo el tiempo de carga de los formularios incrustados y mejorando la estabilidad general de la aplicación al almacenar en caché los formularios como recursos. Tenga en cuenta que las aprobaciones realizadas en los formularios incrustados pueden tardar hasta cuatro minutos en reflejarse en la web. Esto supone una mejora de nuestra capacidad de páginas de destino y Forms.
 
@@ -35,24 +35,24 @@ En la versión de febrero de 2020 se incluyen las siguientes funciones. Comprueb
 
 Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(estrella)](assets/yellow-star.png)
 
 * **Segmentación basada en cuentas**: Analice la atribución en el nivel de cuenta con la capacidad de crear segmentos y filtros para los paneles de detección en función de los atributos de la cuenta. Utilice estos segmentos para explorar en profundidad el rendimiento de marketing basado en cuentas.
 * **Filtros de almacenamiento**: guarde filtros específicos de tableros exclusivos de cada usuario para analizar los tableros de forma rápida y coherente.
-* **Exportar a PDF**: Comparta perspectivas valiosas en toda la organización mediante la exportación de paneles de Bizible como PDF.
+* **Exportar a PDF**: Comparta información valiosa en toda la organización mediante la exportación de paneles de Bizible en formato PDF.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-* **Actualizaciones de la ventana de composición**: hemos optimizado el proceso de selección de plantillas y envío de correos electrónicos a través de Sales Connect. Utilice la ventana de redacción de nuestro cliente web y Salesforce como punto de venta único para vendedores, con la capacidad de guardar categorías de plantillas, programar correos electrónicos, enviar correos electrónicos por lotes y enviar correos electrónicos con seguimiento de visualizaciones y clics.
-* **Actualizaciones del Centro de Comandos**: Estamos reconstruyendo el Centro de Comandos de Sales Connect para ofrecer a los vendedores información sobre todos sus correos electrónicos, llamadas y tareas que se han iniciado desde Sales Connect. También pueden ver información como la participación en el correo electrónico y la capacidad de envío, todo desde el Centro de comandos.
+* **Actualizaciones de la ventana de composición**: hemos optimizado el proceso de selección de plantillas y envío de correos electrónicos a través de [!DNL Sales Connect]. Utilice la ventana de redacción de nuestro cliente web y Salesforce como punto de venta único para vendedores, con la capacidad de guardar categorías de plantillas, programar correos electrónicos, enviar correos electrónicos por lotes y enviar correos electrónicos con seguimiento de visualizaciones y clics.
+* **Actualizaciones del centro de comandos**: Estamos reconstruyendo el centro de comandos [!DNL Sales Connect] para proporcionar a los vendedores insight en todos sus correos electrónicos, llamadas y tareas que se han iniciado desde [!DNL Sales Connect]. También pueden ver información como la participación en el correo electrónico y la capacidad de envío, todo desde el Centro de comandos.
 
 <br> 
 
 ## Anuncios {#announcements}
 
-* **Centro de éxito de Marketo Engage**: vamos a lanzar el Centro de éxito de Marketo en febrero de 2020. El Centro de éxito es un centro de ayuda integrado en el producto que le permite buscar en la Documentación del producto, la Comunidad, las guías de inicio prácticas, el acceso al contenido de adopción, como la Universidad de Marketo y los vídeos de prácticas recomendadas de los compañeros, etc., directamente desde la instancia de Marketo Engage. **Nota**: esta característica se lanzará como una versión beta en ANZ y se implementará en Norteamérica más adelante en el trimestre.
+* **Centro de éxito de Marketo Engage**: vamos a lanzar el Centro de éxito de Marketo en febrero de 2020. El Centro de éxito es un centro de ayuda integrado en el producto que le permite buscar en la Documentación del producto, la Comunidad, las guías de inicio prácticas, el acceso al contenido de adopción, como la Universidad de Marketo y los vídeos de prácticas recomendadas de los compañeros, etc., directamente desde su instancia de Marketo Engage. **Nota**: esta característica se lanzará como una versión beta en ANZ y se implementará en Norteamérica más adelante en el trimestre.
 
 ## En desuso {#deprecations}
 

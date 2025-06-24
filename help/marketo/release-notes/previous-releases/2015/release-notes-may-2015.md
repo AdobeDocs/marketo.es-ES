@@ -4,10 +4,10 @@ description: 'Notas de la versión, mayo de 2015: Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,11 +31,11 @@ Estamos lanzando un nuevo modo de edición de la página de aterrizaje y una sin
 
 ## Entrega de correo electrónico  {#email-deliverability}
 
-Marketo ahora ejecutará comprobaciones automáticas SPF y DKIM semanales en los dominios agregados. Manténgase al tanto de esto comprobando sus notificaciones.
+Marketo ahora ejecutará comprobaciones automáticas [!DNL SPF] y [!DNL DKIM] semanales en los dominios agregados. Manténgase al tanto de esto comprobando sus notificaciones.
 
 ## Cambio de comportamiento de plantilla de correo electrónico {#email-template-behavior-change}
 
-A partir de esta versión, ahora se permiten los comentarios válidos del HTML y no se eliminan al crear nuevos correos electrónicos.
+A partir de esta versión, ahora se permiten los comentarios válidos de HTML y no se eliminan al crear nuevos correos electrónicos.
 
 ## RTP: Arrastrar y soltar el editor de segmentos {#rtp-drag-and-drop-segment-editor}
 
@@ -43,8 +43,8 @@ RTP: [Arrastrar y soltar el editor de segmentos](/help/marketo/product-docs/web-
 
 Arrastre y suelte sus criterios en el generador de segmentos, defina el valor y ya estará en camino de crear un segmento en tiempo real.
 
-## RTP: Recommendations de contenido predictivo {#rtp-predictive-content-recommendations}
+## RTP: Recomendaciones de contenido predictivo {#rtp-predictive-content-recommendations}
 
-[Recommendations de contenido predictivo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Recomendaciones de contenido predictivo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Utilice los algoritmos de aprendizaje automático y análisis predictivo de RTP para recomendar el contenido adecuado al cliente potencial correcto. Mejore visualmente sus recursos de contenido con imágenes y descripciones de texto y recomiende más de un recurso de contenido.

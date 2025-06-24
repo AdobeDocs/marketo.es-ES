@@ -4,9 +4,9 @@ description: 'Notas de la versión, septiembre de 2013, Documentos de Marketo: d
 title: Notas de la versión, septiembre de 2013
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Utilice datos de objetos personalizados de Marketo o agregue lógica condicional
 
 Se ha cambiado el nombre de la acción Enviar prueba a Enviar muestra
 
-## Correo electrónico de muestra de envío personalizado {#personalized-send-sample-email}
+## [!UICONTROL Enviar correo electrónico de muestra personalizado] {#personalized-send-sample-email}
 
 Al enviar un ejemplo de correo electrónico, puede seleccionar el nombre de un posible cliente para personalizar el correo electrónico de ejemplo.
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Sincronización de campos adicional para el seminario web de GoTo {#additional-field-sync-for-gotowebinar}
+## Sincronización de campos adicional para [!DNL GoToWebinar] {#additional-field-sync-for-gotowebinar}
 
-Puede sincronizar Nombre de empresa y Puesto desde el formulario de Marketo al seminario web de GoTo. Para habilitar estos campos adicionales, vaya a Socios de eventos y marque &quot;Habilitar campos adicionales&quot;.
+Puede sincronizar Nombre de empresa y Puesto desde su formulario de Marketo a [!DNL GoToWebinar]. Para habilitar estos campos adicionales, vaya a Socios de eventos y marque &quot;Habilitar campos adicionales&quot;.
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ Los archivos cargados en Design Studio ahora se analizan automáticamente y se b
 
 ## Exportar analizador de influencia de oportunidades {#export-opportunity-influence-analyzer}
 
-Ahora puede exportar los datos en el Analizador de influencia de oportunidades a Excel. Cada archivo de Excel exportado contiene todas las interacciones de marketing de todos los posibles clientes (incluidos los que no tienen una función en la oportunidad), así como todas las oportunidades de la cuenta seleccionada en el analizador. Las filas de oportunidad se resaltan en verde. Puede utilizar las funcionalidades nativas de filtrado de datos de Excel si necesita centrarse en posibles clientes o actividades de marketing específicas.
+Ahora puede exportar los datos en el Analizador de influencia de oportunidades a [!DNL Excel]. Cada archivo [!DNL Excel] exportado contiene todas las interacciones de marketing de todos los posibles clientes (incluidos los que no tienen una función en la oportunidad), así como todas las oportunidades de la cuenta seleccionada en el analizador. Las filas de oportunidad se resaltan en verde. Puede usar las capacidades nativas de filtrado de datos de [!DNL Excel] si necesita centrarse en posibles clientes o actividades de marketing específicas.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## Configuración de atribución de programas {#program-attribution-settings}
 
-Puede cambiar la forma en que Marketo vincula contactos y oportunidades para métricas de atribución de primer contacto y de varios contactos, incluida la capacidad de realizar atribuciones basadas en cuentas. Esta configuración afecta a las métricas de atribución en los informes del Explorador de ingresos en el área de Análisis de oportunidad de programa y en el área de Análisis de oportunidad. Esto también afectará a las métricas de atribución en el Analizador de programas.
+Puede cambiar la forma en que Marketo vincula contactos y oportunidades para métricas de atribución de primer contacto y de varios contactos, incluida la capacidad de realizar atribuciones basadas en cuentas. Esta configuración afectará las métricas de atribución en los informes [!UICONTROL Explorador de ingresos] del área Análisis de oportunidad de programa y del área Análisis de oportunidad. Esto también afectará a las métricas de atribución en el Analizador de programas.
 
 Puede cambiar la configuración de atribución del programa a una de las tres opciones. Cambiar esta configuración no modifica ningún dato de Marketo o CRM; simplemente cambia la forma en que se ejecutan los informes y se puede revertir en cualquier momento.
 
@@ -67,9 +67,9 @@ La opción Explicit sólo examina los contactos con funciones (comportamiento ac
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Perspectiva de ventas disponible en francés y alemán (solo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Insight de ventas] disponible en francés y alemán ([!DNL Salesforce] solamente) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Descargue la última versión de Marketo Lead Management y Marketo Sales Insight de AppExchange para que sus vendedores franceses y alemanes puedan ver el contenido de Sales Insight en su idioma preferido.
+Descargue la última versión de Marketo Lead Management y Marketo [!UICONTROL Sales Insight] de [!DNL AppExchange] para que sus vendedores franceses y alemanes puedan ver el contenido de [!UICONTROL Sales Insight] en su idioma preferido.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

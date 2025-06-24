@@ -4,9 +4,9 @@ description: Respuesta automática de correo electrónico - Documentos de Market
 title: Respuesta automática de correo electrónico
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área de [!UICONTROL Actividades de mercadotecnia].
 
    ![](assets/email-auto-response-1.png)
 
@@ -128,9 +128,7 @@ ht-degree: 0%
 
 ## Misión finalizada {#mission-complete}
 
-En solo unos minutos, debería ver el correo electrónico de respuesta automática en su bandeja de entrada. ¡Buen trabajo!
-
-<br> 
+En solo unos minutos, debería ver el correo electrónico de respuesta automática en su bandeja de entrada.
 
 [◄ Misión 3: Puntuación simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 

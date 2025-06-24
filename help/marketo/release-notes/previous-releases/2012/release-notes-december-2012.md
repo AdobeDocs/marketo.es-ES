@@ -4,9 +4,9 @@ description: 'Notas de la versión, diciembre de 2012: Documentos de Marketo: do
 title: Notas de la versión, diciembre de 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '390'
 ht-degree: 1%
 
 ---
@@ -29,31 +29,31 @@ Use los déclencheur y filtros correspondientes para identificar a los usuarios 
 
 ## Permisos granulares de administración {#granular-admin-permissions}
 
-Nuestra versión más reciente le ofrece un mayor acceso y control sobre las funciones de administrador, al controlar el acceso a diferentes funciones en el área de administración de Marketo para cada función. Al crear una función nueva, puede asignar funciones de administrador específicas a las que dicha función puede acceder.
+Nuestra versión más reciente te brinda mayor acceso y control sobre los roles de [!UICONTROL Admin], al controlar el acceso a diferentes funciones en el área de [!UICONTROL Admin] de Marketo para cada rol. Cuando crea una función nueva, puede asignar funciones [!UICONTROL Admin] específicas a las que la función puede tener acceso.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->De forma predeterminada, las funciones existentes con permiso de &quot;Acceso a la administración&quot; tienen acceso a todas las funciones de administración hasta que se modifiquen y a menos que se modifiquen.
+>De manera predeterminada, los roles existentes con permiso de ‘[!UICONTROL Administración de acceso]’ tienen acceso a todas las funciones de [!UICONTROL Administración] hasta que se modifiquen y a menos que se modifiquen.
 
-## Adaptador BrightTALK {#brighttalk-adapter}
+## Adaptador [!UICONTROL BrightTALK] {#brighttalk-adapter}
 
-El adaptador BrightTALK de Marketo le permite capturar información de asistencia de un webcast en directo o bajo demanda, directamente en un evento de Marketo.
+El adaptador [!UICONTROL BrightTALK] de Marketo le permite capturar información de asistencia de una transmisión web en vivo o bajo demanda, directamente en un evento de Marketo.
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo [!DNL Sales Insight] para [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-La perspectiva de ventas ya está disponible para los clientes de Microsoft Dynamics.
+[!DNL Sales Insight] ya está disponible para [!DNL Microsoft Dynamics] clientes.
 
-## Sincronización de oportunidades de Dynamics {#dynamics-opportunity-sync}
+## Sincronización de oportunidad de [!DNL Dynamics] {#dynamics-opportunity-sync}
 
-Sincronizar datos de oportunidad entre Marketo y Microsoft Dynamics.
+Sincronizar datos de oportunidad entre Marketo y [!DNL Microsoft Dynamics].
 
 ## Informe de oportunidades influenciadas por el marketing&#42; {#marketing-influenced-opportunities-report}
 
-Vea qué porcentaje de la canalización y de los ingresos de su compañía se vio influido por sus programas de marketing. En **Explorador de ingresos**, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada por el marketing&quot; en Análisis de oportunidad. También puede utilizar los dos informes siguientes en la carpeta Estándar:
+Vea qué porcentaje de la canalización y de los ingresos de su compañía se vio influido por sus programas de marketing. En **[!UICONTROL Explorador de ingresos]**, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada por el marketing&quot; en Análisis de oportunidad. También puede utilizar los dos informes siguientes en la carpeta Estándar:
 
 * Influencia del marketing en las oportunidades creadas
 * Influencia del marketing en oportunidades ganadas cerradas
@@ -62,14 +62,14 @@ Vea qué porcentaje de la canalización y de los ingresos de su compañía se vi
 
 ## Campos de oportunidad personalizados en Análisis de oportunidad de programa&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Agregue campos de oportunidad personalizados para enriquecer los informes de Análisis de oportunidad de programa en el Explorador de ingresos.
+Agregue campos de oportunidad personalizados para enriquecer los informes de Análisis de oportunidad de programa en [!UICONTROL Explorador de ingresos].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Inspector de campañas {#campaign-inspector}
 
-¿Alguna vez se ha preguntado qué campañas están utilizando una acción de flujo específica, como Cambiar puntuación o Solicitar campaña? ¿O dónde se está utilizando un filtro determinado? El nuevo Inspector de campañas (disponible en el Tesoro) le permite identificar estas campañas, así como las campañas activas y las campañas con errores.
+¿Alguna vez se ha preguntado qué campañas están usando una acción de flujo específica, como [!UICONTROL Cambiar puntuación] o [!UICONTROL Solicitar campaña]? ¿O dónde se está utilizando un filtro determinado? El nuevo [!UICONTROL Inspector de campañas] (disponible en el cofre del tesoro) le permite identificar estas campañas, así como las campañas activas y las campañas con errores.
 
-Vaya a **Administrador** > **Cofre del tesoro** para habilitar el **Inspector de campaña**.
+Vaya a **[!UICONTROL Administrador]** > **[!UICONTROL Cofre del tesoro]** para habilitar el **[!UICONTROL Inspector de campaña]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

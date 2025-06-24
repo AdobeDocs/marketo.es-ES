@@ -4,9 +4,9 @@ description: 'Notas de la versión, junio de 2014, Documentos de Marketo: docume
 title: Notas de la versión, junio de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Las siguientes funciones se incluyen en la versión de junio de 2014. Compruebe 
 
 ## Interfaz de usuario actualizada: ¡próximamente! {#updated-ui-coming-soon}
 
-Una nueva apariencia, incluida la navegación para la administración de posibles clientes de Marketo, se publicará próximamente en una versión posterior.
+Una nueva apariencia, incluyendo la navegación para [!DNL Marketo Lead Management], estará disponible pronto en una versión posterior.
 
-## Complemento de información de ventas para Outlook 2013 {#sales-insight-plugin-for-outlook}
+## Complemento de [!DNL Sales Insight] para [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
 Esto requerirá una descarga del nuevo complemento. Puede descargarlo desde [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Resolución de token {#token-resolution}
 
-Cuando envía un correo electrónico de prueba desde Sales Insight, los tokens del correo electrónico no se resuelven y se envía el valor predeterminado. Esta mejora garantizará que los tokens se resuelvan en los correos electrónicos de prueba.
+Cuando envía un correo electrónico de prueba desde [!DNL Sales Insight], los tokens actuales del correo electrónico no se resuelven y se envía el valor predeterminado. Esta mejora garantizará que los tokens se resuelvan en los correos electrónicos de prueba.
 
 ## Personalizar porcentajes para estrellas y llamas {#customize-percentages-for-stars-and-flames}
 
@@ -33,7 +33,7 @@ Cuando envía un correo electrónico de prueba desde Sales Insight, los tokens d
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## API de ReST de posibles clientes {#lead-rest-api}
+## API de REST de posible cliente {#lead-rest-api}
 
 Cree, lea y actualice posibles clientes mediante programación a través de nuestra nueva API ReST. Para comenzar con ReST, debe [crear un servicio personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketo. A continuación, vaya al [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) para obtener más información sobre el uso de esta API.
 

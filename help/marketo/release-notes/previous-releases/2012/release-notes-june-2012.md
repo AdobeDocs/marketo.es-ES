@@ -4,7 +4,7 @@ description: Notas de la versión, junio de 2012 - Documentos de Marketo - Docum
 title: Notas de la versión, junio de 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Además, hemos mejorado la introducción y visualización del texto de descripci
 
 ## Importar asignaciones de campos {#import-field-mapping}
 
-¡Hemos hecho que importar una lista en Marketo sea mucho más fácil! Durante el proceso de importación, se puede asignar el nombre del campo Marketo al nombre del encabezado de columna del archivo de importación. Además, en Administración puede configurar nombres de alias asignados al nombre del campo en Marketo, asegurándose de que los usuarios seleccionen el campo correcto cada vez.
+¡Hemos hecho que importar una lista en Marketo sea mucho más fácil! Durante el proceso de importación, se puede asignar el nombre del campo Marketo al nombre del encabezado de columna del archivo de importación. Además, en [!UICONTROL Admin] puede configurar nombres de alias asignados al nombre del campo en Marketo, asegurándose de que los usuarios seleccionen el campo correcto cada vez.
 
 A medida que siga importando y asignando campos, Marketo recordará y mostrará las asignaciones durante la importación para facilitar su uso. Y para facilitar aún más la vida, puede hacer clic en el encabezado Valor de muestra para ver los diferentes valores que se rellenarían en el campo. Esto ayuda a garantizar que asigne el campo correcto cada vez.
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Página de resumen para listas inteligentes y listas estáticas {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL Página de resumen] para listas inteligentes y listas estáticas {#summary-page-for-smart-lists-and-static-lists}
 
 ¿Alguna vez se ha preguntado dónde se están utilizando sus listas? ¿O quién creó la lista o quién la modificó por última vez? La nueva página de resumen disponible en listas inteligentes y listas estáticas le proporcionará estos detalles importantes.
 
@@ -41,13 +41,13 @@ En las páginas de resumen de Programa y Campaña existentes, también hemos añ
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Utilizado por para Assets {#used-by-for-assets}
+## [!UICONTROL Utilizado por] para Assets {#used-by-for-assets}
 
-Hemos añadido una nueva pestaña a nuestras páginas de resumen de recursos, llamada Utilizada por.
+Hemos agregado una nueva pestaña a nuestras páginas de recurso [!UICONTROL Resumen], que se llama [!UICONTROL Usado por].
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Ejemplo: Utilizado por para listas estáticas
+Ejemplo: [!UICONTROL Utilizado por] para listas estáticas
 
 ## Cuadrícula de página de aterrizaje {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ Al programar una campaña, puede hacer clic en el enlace para ver la lista de po
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Paso de espera: token de posible cliente y mi token {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Esperar] paso: token de posible cliente y mi token {#wait-step-lead-token-and-my-token}
 
-En nuestra versión de mayo, añadimos opciones avanzadas al paso Flujo de espera. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de utilizar un token en el paso de espera. Por ejemplo, es posible que quiera usar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños, o usar `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
+En nuestra versión de mayo, agregamos opciones avanzadas al paso de flujo [!UICONTROL Wait]. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de utilizar un token en el paso de espera. Por ejemplo, es posible que quiera usar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños, o usar `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Ver como miniaturas en Design Studio {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL Ver] como [!UICONTROL miniaturas] en Design Studio {#view-as-thumbnails-in-design-studio}
 
 Cambie la vista de una lista de imágenes a una vista de miniaturas.
 

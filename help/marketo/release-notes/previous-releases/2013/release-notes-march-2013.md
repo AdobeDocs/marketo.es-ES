@@ -4,10 +4,10 @@ description: 'Notas de la versión, marzo de 2013: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Un sorteo le da a tus clientes la oportunidad de ganar un premio y contarles a s
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Idiomas adicionales de mensaje de error de formulario {#additional-form-error-message-languages}
+## Idiomas del formulario adicional [!UICONTROL Mensaje de error] {#additional-form-error-message-languages}
 
 Se han agregado más de una docena de idiomas a los mensajes de error del formulario.
 

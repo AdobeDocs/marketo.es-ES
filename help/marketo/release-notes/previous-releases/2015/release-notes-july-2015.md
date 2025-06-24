@@ -4,25 +4,25 @@ description: 'Notas de la versión, julio de 2015: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # Notas de la versión: julio de 2015 {#release-notes-july}
 
-## Momentos de Marketo {#marketo-moments}
+## [!DNL Marketo Moments] {#marketo-moments}
 
-¿Salió en el almuerzo pero necesita reprogramar un correo electrónico? La aplicación Momentos de Marketo, disponible en App Store o Google Play, le permite ver el rendimiento de sus campañas de correo electrónico y eventos en tiempo real, así como lo que vendrá en el futuro, desde su teléfono iPhone, iPad o Android.
+¿Salió en el almuerzo pero necesita reprogramar un correo electrónico? La aplicación [!DNL Marketo Moments], disponible en App Store o [!DNL Google Play], te permite ver el rendimiento de tus campañas de correo electrónico y eventos en tiempo real, así como lo que vendrá en el futuro, desde tu teléfono iPhone, iPad o Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
-Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición con HTML. El editor de HTML ahora cuenta con una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **Administración > Correo electrónico > Editar configuración del editor**.
+Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -48,7 +48,7 @@ Al hacer clic en el mosaico de capacidad de entrega de correo electrónico, ya n
 
 ## API de empresa {#company-api}
 
-**Acceso al objeto Company a través de la API REST**: La API REST ahora proporciona acceso al objeto Company de Marketo (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
+**Acceso al objeto Company a través de la API REST**: La API REST ahora proporciona acceso al objeto Company de Marketo (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que haya creado en Marketo y asociar posibles clientes con dichas empresas mediante la API [!DNL Lead] actualizada.
 
 Obtenga [más información]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) en nuestra guía de referencia para la API de la compañía.
 

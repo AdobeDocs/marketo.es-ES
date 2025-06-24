@@ -4,9 +4,9 @@ description: 'Notas de la versión, febrero de 2014, Documentos de Marketo: docu
 title: Notas de la versión, febrero de 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de febrero de 2014. Compruebe la disponibilidad de las funciones en Marketo Edition. Después del lanzamiento, asegúrese de volver para encontrar vínculos a artículos detallados de la Base de conocimiento para cada función.
 
-## Puntuación de participación como criterio ganador {#engagement-score-as-winning-criteria}
+## [!UICONTROL Puntuación de participación] como criterio ganador {#engagement-score-as-winning-criteria}
 
 [Use la puntuación de participación](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) para determinar la variante ganadora en su prueba A/B dividida o en la prueba Campeón/Challenger. La prueba debe ejecutarse durante un mínimo de 24 horas, para proporcionar una puntuación de participación adecuada.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## Pestaña Resultados del programa de correo electrónico {#email-program-results-tab}
+## Ficha [!UICONTROL Resultados] del programa de correo electrónico {#email-program-results-tab}
 
 [Ver los resultados](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) y las actividades registradas para el programa de correo electrónico.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## Personas/posibles clientes bloqueados del correo {#people-leads-blocked-from-mailing}
+## Personas/[!UICONTROL posibles clientes] bloqueados en el envío de correos {#people-leads-blocked-from-mailing}
 
 [Haga clic en el número de personas/posibles clientes a los que se ha bloqueado el envío de correo](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) para ver quién no recibirá el correo electrónico debido a que se ha dado de baja, está en la lista de bloqueados, tiene una dirección de correo electrónico no válida o en blanco o está suspendido el marketing.
 
@@ -35,7 +35,7 @@ Las siguientes funciones se incluyen en la versión de febrero de 2014. Comprueb
 
 ## Exportar datos de programas de correo electrónico {#export-email-program-data}
 
-[Exportar métricas de correo electrónico a Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), incluidos los datos de variante de prueba AB.
+[Exportar métricas de correo electrónico a [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), incluidos los datos de variante de la prueba AB.
 
 ## [!UICONTROL Puntuación de participación] en el informe [!UICONTROL Rendimiento del flujo de participación] {#engagement-score-in-engagement-stream-performance-report}
 
@@ -53,9 +53,9 @@ Hemos agregado la puntuación de participación al [[!UICONTROL informe de rendi
 
 Se han actualizado los siguientes nombres de déclencheur y filtro:
 
-* Clicks Link to Clicks Link on Web Page
-* Vínculo al vínculo en el que se hizo clic en la página web
-* Vínculo No hecho clic a Vínculo no hecho clic en la página web
+* Hace clic en el vínculo de [!UICONTROL Clics en el vínculo de la página web]
+* Se hizo clic en el vínculo a [!UICONTROL Se hizo clic en el vínculo de la página web]
+* Vínculo sin hacer clic a [!UICONTROL Vínculo sin hacer clic en la página web]
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

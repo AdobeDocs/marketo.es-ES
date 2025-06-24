@@ -3,10 +3,9 @@ unique-page-id: 11384018
 description: 'Notas De La Versión, Otoño De 2016: Documentos De Marketo: Documentación Del Producto'
 title: Notas de la versión, otoño de 2016
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de otoño de 1616. Compruebe la disponibilidad de las funciones en Marketo Edition. Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 
-## Contenido predictivo en el correo electrónico {#predictive-content-in-email}
+## [!UICONTROL Contenido predictivo] en el correo electrónico {#predictive-content-in-email}
 
-Hay una nueva experiencia de usuario para nuestra aplicación de contenido predictivo para rastrear, administrar y recomendar su contenido a través de nuestro aprendizaje automático y algoritmos predictivos en los canales web y de correo electrónico.
+Hay una nueva experiencia de usuario para nuestra aplicación [!UICONTROL Contenido predictivo] que permite rastrear, administrar y recomendar su contenido a través de nuestro aprendizaje automático y algoritmos predictivos en los canales web y de correo electrónico.
 
 >[!NOTE]
 >
@@ -29,9 +28,9 @@ Ahora puede añadir contenido predictivo al correo electrónico. Cuando se abre 
 
 ![](assets/predictive.png)
 
-## [Conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Conversiones de Facebook sin conexión](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Con la integración de conversiones sin conexión de Facebook, los datos de conversión de Marketo (para posibles clientes de anuncios) se envían automáticamente de vuelta a Facebook para que su equipo de publicidad pueda optimizar mejor su gasto en publicidad. En este informe de Facebook Ad Manager, se resaltan las conversiones sin conexión.
+Con la integración de [!DNL Facebook] conversiones sin conexión, los datos de conversión en Marketo (para posibles clientes con publicidad) se envían automáticamente de vuelta a [!DNL Facebook] para que su equipo de publicidad pueda optimizar mejor su gasto en publicidad. En este informe de administrador de anuncios [!DNL Facebook], se resaltan las conversiones sin conexión.
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,19 @@ Un ID universal le permite acceder a varias suscripciones de Marketo con un solo
 
 ## Mejoras de marketing basado en cuentas de Marketo {#marketo-account-based-marketing-enhancements}
 
-Ahora puede asignar equipos de cuentas a cuentas con nombre en Marketing basado en cuentas (ABM), por ejemplo, propietario de cuenta, representante de desarrollo de ventas, representante de desarrollo empresarial y administrador de cuentas. También puede crear listas de cuentas específicas del propietario de la cuenta y enviar informes personalizados de ABM semanales al equipo de la cuenta.
+Ahora puede asignar equipos de cuentas a cuentas con nombre en Marketing basado en cuentas (ABM), por ejemplo, propietario de cuenta, representante de desarrollo de ventas, representante de desarrollo empresarial y administrador de éxito de clientes. También puede crear listas de cuentas específicas del propietario de la cuenta y enviar informes personalizados de ABM semanales al equipo de la cuenta.
 
 ![](assets/account-team-11-15-16.png)
 
 **API DE REST**
 
-Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite el [sitio web de desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketo. Para obtener más información sobre las operaciones de la API, visite el [sitio web de desarrolladores de Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Mejoras en la pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 La pista de auditoría proporciona un historial completo de los cambios realizados en la suscripción de Marketo. Hemos agregado funcionalidades de seguimiento adicionales para programas, así como detalles importantes sobre cambios para campañas inteligentes, listas inteligentes y cambios realizados en usuarios y funciones.
 
-## [Nuevos permisos](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## Nuevos permisos
 
 **Poner el correo electrónico en funcionamiento**
 
@@ -80,18 +79,18 @@ Aporte mayor riqueza a las notificaciones push de iOS habilitando el sonido. Est
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Información de ventas compatible con cifrado de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Insight de ventas compatible con Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight ahora es compatible con Salesforce Shield Encryption. Todos los clientes de Sales Insight deben actualizar a este último paquete administrado (versión 1.4359.2), que está [disponible en Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market [!DNL Sales Insight] ahora es compatible con cifrado de escudo [!DNL Salesforce]. Todos los clientes de [!DNL Sales Insight] deben actualizar a este último paquete administrado (versión 1.4359.2), que está [disponible en el [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API de cuentas con nombre](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [API de cuentas con nombre](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Con esta versión, los usuarios de Marketo ABM pueden administrar cuentas con nombre a través de la API de Cuentas con nombre. Los usuarios pueden crear, actualizar y eliminar cuentas con nombre, así como leer y actualizar las puntuaciones de cuentas con nombre de ABM.
 
-## [Compatibilidad con la API del Editor de correo electrónico v2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Compatibilidad con la API del Editor de correo electrónico v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Administre variables y módulos para correos electrónicos en formato v2.0 mediante la API de REST de Marketo.
 
 ## [Cambios en la sincronización de Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-La integración de Salesforce de Marketo está evolucionando para mejorar la forma en que los campos de Marketo se sincronizan con Salesforce. Ahora, en lugar de tener que sincronizar un grupo grande de campos que puede que necesite o no, puede elegir qué campos desea incluir. Consulte nuestra documentación aquí para obtener más información: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+La integración de [!DNL Salesforce] de Marketo está evolucionando para mejorar la forma en que los campos de Marketo se sincronizan con [!DNL Salesforce]. Ahora, en lugar de tener que sincronizar un grupo grande de campos que puede que necesite o no, puede elegir qué campos desea incluir. Consulte nuestra documentación aquí para obtener más información: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

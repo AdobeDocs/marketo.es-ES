@@ -4,9 +4,9 @@ description: 'Notas de la versión, diciembre de 2014, Documentos de Marketo: do
 title: Notas de la versión, diciembre de 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Las siguientes funciones están incluidas en la versión de diciembre de 2014. Compruebe la disponibilidad de las funciones en Marketo Edition. Después del lanzamiento, asegúrese de volver para encontrar vínculos a artículos detallados para cada función.
 
-## Informes de perspectiva de ventas {#sales-insight-reports}
+## [!DNL Sales Insight] informes {#sales-insight-reports}
 
-El [Informe de rendimiento del correo electrónico de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) le permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite correos electrónicos enviados a través de Salesforce, Microsoft Dynamics, el complemento de Outlook y el complemento de Gmail.
+El [[!DNL Sales Insight] informe de rendimiento del correo electrónico](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) le permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite mensajes de correo electrónico enviados mediante [!DNL Salesforce], [!DNL Microsoft Dynamics], el complemento [!DNL Outlook] y el complemento [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Audiencias personalizadas de Facebook {#facebook-custom-audiences}
+## [!DNL Facebook] audiencias personalizadas {#facebook-custom-audiences}
 
-Una vez que el administrador de Marketo haya agregado [Facebook mediante Administración > Punto de inicio](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), podrá crear, actualizar o [reemplazar fácilmente una audiencia personalizada de Facebook con posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
+Una vez que el administrador de Marketo haya agregado [[!DNL Facebook] a través de [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar fácilmente una  [!DNL Facebook] audiencia personalizada con posibles clientes de una lista estática o inteligente de Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono [!DNL Facebook] en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -55,7 +55,7 @@ Los vínculos de los scripts de correo electrónico ahora se rastrearán y estar
 
 Hemos implementado una nueva función de seguridad para codificar tokens automáticamente en HTML, que se habilitará de forma predeterminada en marzo de 2015. Hasta entonces, alterne esta funcionalidad en Administración de campos para probar el comportamiento con antelación. Todos los tokens de cliente potencial y compañía se codificarán cuando se inserten en correos electrónicos o páginas de aterrizaje. Las opciones también están disponibles para campos individuales.
 
-## Nuevas llamadas a la API de ReST {#new-rest-api-calls}
+## Nuevas llamadas a la API REST {#new-rest-api-calls}
 
 Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 
@@ -65,15 +65,15 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 
 · Combinar posible cliente
 
-Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
-## Mejoras de compatibilidad de Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] mejoras de compatibilidad {#munchkin-javascript-compatibility-enhancements}
 
-Hemos realizado varias mejoras menores en Munchkin para garantizar que se siga cargando rápidamente y funcionando como se desea en casos con otros JavaScript en la página.
+Hemos realizado algunas mejoras de poca envergadura en [!DNL Munchkin] para asegurarnos de que continúa cargándose rápidamente y funcionando como se desea en los casos en que existen otros JavaScript en la página.
 
 El despliegue se llevará a cabo a partir de mediados de diciembre y continuará durante los próximos meses.
 
-## Aspecto y presentación actualizados del Explorador de ingresos {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Explorador de ingresos]: aspecto y presentación actualizados {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ El despliegue se llevará a cabo a partir de mediados de diciembre y continuará
 
 ## RTP: Módulo de lista de cuentas con nombre {#rtp-named-account-list-module}
 
-Administre y supervise sus cuentas clave de alto rendimiento en la nueva página Cuentas con nombre. Cargue nuevas listas de cuentas con nombre para identificar y segmentar estas organizaciones. Hemos automatizado el proceso para que tenga un mayor control y flexibilidad a la hora de implementar sus planes de marketing basados en cuentas y segmentar sus cuentas clave en diferentes canales (web y publicidad).
+Administre y supervise sus cuentas clave de alto rendimiento en la nueva página [!UICONTROL Cuentas con nombre]. Cargue nuevas listas de cuentas con nombre para identificar y segmentar estas organizaciones. Hemos automatizado el proceso para que tenga un mayor control y flexibilidad a la hora de implementar sus planes de marketing basados en cuentas y segmentar sus cuentas clave en diferentes canales (web y publicidad).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

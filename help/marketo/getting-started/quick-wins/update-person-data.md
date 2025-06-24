@@ -4,9 +4,9 @@ description: 'Actualización de datos de persona: documentos de Marketo, documen
 title: Actualizar datos de persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Imaginemos que en su reciente feria comercial, una persona le dio información d
 
 ## Buscar a la persona que necesita actualizar {#find-the-person-you-need-to-update}
 
-1. Vaya a su **[!UICONTROL base de datos]**.
+1. Vaya a su [!UICONTROL base de datos].
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ Imaginemos que en su reciente feria comercial, una persona le dio información d
 
 <br> 
 
-[◄ Misión 8: Alerta al representante de ventas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Misión 8: Alertar al representante de ventas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Misión 10: redireccionar un ► de página de aterrizaje](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Misión 10: redireccionar una página de aterrizaje ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

@@ -4,9 +4,9 @@ description: 'Notas de la versión, agosto de 2014, Documentos de Marketo: docum
 title: Notas de la versión, agosto de 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ Se agregaron los siguientes permisos de usuario nuevos:
 | Activar campaña desencadenadora | Controle quién puede activar y no puede activar campañas de déclencheur. |
 | Programar campaña por lotes | Controle quién puede y no puede programar ejecuciones de campañas por lotes. |
 
-## Exportar usuarios y funciones desde el administrador {#export-users-and-roles-from-admin}
+## Exportar usuarios y roles de [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
 Ahora puede [Exportar una lista de usuarios y roles](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketo. También puede incluir una marca de tiempo &quot;Último inicio de sesión&quot; para que se incluya en la exportación.
 
@@ -47,15 +47,15 @@ Ahora puede eliminar los canales y estados que no se utilicen. Como siempre, sol
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## DKIM automatizado {#automated-dkim}
+## Automatizado [!DNL DKIM] {#automated-dkim}
 
-Para mejorar la capacidad de entrega, todos los correos electrónicos salientes se firmarán con DKIM (DomainKeys Identified Mail). De forma predeterminada, los correos electrónicos utilizarán la firma DKIM compartida de Marketo. Tendrá la opción de personalizar esta firma.
+Para mejorar la capacidad de entrega, todos los correos electrónicos salientes se firmarán [!DNL DKIM] (DomainKeys Identified Mail). De forma predeterminada, los correos electrónicos usarán la firma compartida [!DNL DKIM] de Marketo. Tendrá la opción de personalizar esta firma.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM se desplegará lentamente; es posible que no lo vea durante unas semanas.
+>[!DNL DKIM] se desplegará lentamente; es posible que no lo vea durante unas semanas.
 
 ## Actualizaciones de Real-Time Personalization {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ Hemos añadido etiquetas a la página de la campaña para que pueda etiquetar el
 
 ## Segmentación móvil {#mobile-targeting}
 
-¡Le preguntaste a la comunidad y lo hicimos! Ahora puede incluir, excluir o establecer una llamada a la acción específica para usuarios de móviles y tabletas.
+¡Le preguntaste a la comunidad y lo hicimos! Ahora puede incluir, excluir o establecer una call to action específica para usuarios de móviles y tabletas.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

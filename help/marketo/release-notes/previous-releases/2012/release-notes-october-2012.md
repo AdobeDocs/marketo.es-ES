@@ -4,10 +4,10 @@ description: 'Notas de la versión, octubre de 2012, Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '352'
+ht-degree: 1%
 
 ---
 
@@ -47,14 +47,14 @@ Descubra quién ha estado compartiendo su contenido y votando en sus encuestas c
 
 ## Perfiles sociales {#social-profiles}
 
-Ahora puede recopilar información sobre los posibles clientes cuando compartan contenido o rellenen formularios con sus perfiles sociales. Esto incluye identificadores de Facebook, LinkedIn y Twitter, el número de amigos que tienen y más.
+Ahora puede recopilar información sobre los posibles clientes cuando compartan contenido o rellenen formularios con sus perfiles sociales. Esto incluye los identificadores de [!DNL Facebook], [!DNL LinkedIn] y [!DNL Twitter], el número de amigos que tienen y más.
 
-## Suscripciones del informe del Explorador de ingresos {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Explorador de ingresos] Suscripciones de informes {#revenue-explorer-report-subscriptions}
 
-Cree suscripciones a informes y envíe informes del Explorador de ingresos periódicamente a las partes interesadas clave, incluidos los usuarios que no son de Marketo. El correo electrónico contiene una vista previa de la tabla o gráficos de datos del informe y una hoja de cálculo de Excel con todos los datos del informe.
+Cree suscripciones a informes y envíe informes de [!UICONTROL Revenue Explorer] periódicamente a las partes interesadas clave, incluidos los usuarios que no son de Marketo. El mensaje de correo electrónico contiene una vista previa de la tabla o gráficos de datos del informe y una hoja de cálculo [!DNL Excel] con todos los datos del informe.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Solo está disponible para los usuarios que tienen el Explorador de ingresos al comprar Revenue Cycle Analytics con Enterprise o Select Edition.
+>Solo está disponible para los usuarios que tienen [!UICONTROL Explorador de ingresos] al comprar Revenue Cycle Analytics con Enterprise o Select Edition.

@@ -4,10 +4,10 @@ description: 'Notas de la versión, mayo de 2014, Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,7 @@ De forma predeterminada, no se realiza un seguimiento de los vínculos en la ver
 
 Para añadir vínculos sin rastrear a los correos electrónicos:
 
-* **Versión del HTML:** Inserte el vínculo y agregue la clase &quot;mktNoTrack&quot; al vínculo.
+* **Versión de HTML:** Inserte el vínculo y agregue la clase &quot;mktNoTrack&quot; al vínculo.
 * **Versión de texto:** Solamente ingrese la dirección URL. Se desrastreará de forma predeterminada.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -57,13 +57,13 @@ Para añadir vínculos sin rastrear a los correos electrónicos:
 
 Vea cómo se comportarán los vínculos en los correos electrónicos con antelación. Los correos electrónicos de muestra ahora muestran vínculos exactamente como aparecerían a los posibles clientes. Obtenga una vista previa de los vínculos que se han convertido en vínculos de seguimiento, lo que le permite tener una mejor idea de cómo aparecerá realmente el mensaje para los destinatarios.
 
-## Anular campaña {#abort-campaign}
+## [!UICONTROL Anular campaña] {#abort-campaign}
 
 ¡No se preocupe! Si encuentra un error, use el nuevo botón [cancelar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para detener inmediatamente las campañas en su seguimiento. Recibirá una notificación que indica cuántos posibles clientes estaban pendientes en cada paso del flujo cuando se detuvo la campaña.
 
-## Perspectiva de ventas en japonés, portugués y español {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Insight de ventas] en japonés, portugués y español {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Descargue la última versión de Sales Insight de AppExchange para que sus agentes de ventas que hablan japonés, portugués y español vean el contenido de Sales Insight en su idioma preferido.
+Descargue la última versión de [!UICONTROL Sales Insight] de AppExchange para que sus agentes de ventas que hablan japonés, portugués y español vean el contenido de [!UICONTROL Sales Insight] en su idioma preferido.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ Descargue la última versión de Sales Insight de AppExchange para que sus agent
 
 Vea cuántos [miembros hay en cada estado de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) y cuándo cambiaron a cada estado, incluida la fecha en que lograron el éxito del programa.
 
-## Correos electrónicos de prueba A/B en análisis de correo electrónico {#a-b-test-emails-in-email-analysis}
+## Correos electrónicos de prueba A/B en [!UICONTROL análisis de correo electrónico] {#a-b-test-emails-in-email-analysis}
 
-Informar sobre cada una de las [variantes de correo electrónico de prueba A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) en el análisis de correo electrónico.
+Informe sobre cada una de sus [variantes de correo electrónico de prueba A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) en [!UICONTROL Análisis de correo electrónico].
 
 ## Cambios en paquetes de Analytics {#analytics-packaging-changes}
 

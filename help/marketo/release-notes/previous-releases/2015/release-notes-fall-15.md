@@ -4,9 +4,9 @@ description: 'Notas de la versión, otoño de 2015, Documentos de Marketo: docum
 title: Notas de la versión, otoño de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '967'
 ht-degree: 1%
 
 ---
@@ -41,17 +41,17 @@ Cree fácilmente objetos personalizados desde la IU de administración. Actualme
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights para Google Chrome {#marketo-insights-for-google-chrome}
+## Datos de Marketo para [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Información de Marketo para  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nos complace anunciar el lanzamiento de una actualización de nuestra extensión Google Mail Sales Insight. Visualizarlo en [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+¡Nos complace anunciar el lanzamiento de una actualización de nuestra extensión [!DNL Google Mail] [!DNL Sales Insight]! Visualizarlo en el [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Esta actualización incluye muchas nuevas funciones y funcionalidades:
 
-* Antes de participar, los vendedores pueden ver información relevante sobre sus clientes potenciales directamente en Google Mail, incluidos títulos de trabajos, perfiles de twitter, información de la empresa, fotos y mucho más.
+* Antes de participar, los vendedores pueden ver información relevante sobre sus clientes potenciales directamente en [!DNL Google Mail], incluidos títulos de trabajos, perfiles de Twitter, información de la compañía, fotos y más.
 * Los vendedores pueden ver en tiempo real con qué contenido se relacionan los posibles clientes en distintos canales, como correos electrónicos abiertos o en los que se hace clic, eventos en línea o presenciales, páginas web visitadas, libros electrónicos descargados y mucho más.
-* Los correos electrónicos enviados a través de Google Mail se registran en Marketo y se rastrean en tiempo real. Esto permite a los vendedores ver cuándo los posibles clientes ven sus correos electrónicos para que puedan realizar el seguimiento en el momento adecuado. Marketo Sales Insight for Google Mail también facilita a los vendedores el aprovechamiento de las plantillas creadas por el marketing para enviar invitaciones, ofertas y otros tipos de contenido atractivos.
+* Los correos electrónicos enviados a través de [!DNL Google Mail] se registran en Marketo y se rastrean en tiempo real. Esto permite a los vendedores ver cuándo los posibles clientes ven sus correos electrónicos para que puedan realizar el seguimiento en el momento adecuado. Marketo [!DNL Sales Insight] para [!DNL Google Mail] también facilita a los vendedores el uso de las plantillas creadas por marketing con el fin de enviar invitaciones, ofertas y otros tipos de contenido atractivos.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,20 +84,20 @@ Las estadísticas de los correos electrónicos enviados a través de campañas i
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP: análisis de contenido y Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP: Content Analytics y Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análisis de contenido](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) y Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) y Recommendations
 
-El análisis de contenido de RTP le muestra el rendimiento de sus activos de contenido web desde visitas web regulares, así como las visitas generadas desde el motor de recomendación de contenido de RTP.
+RTP Content Analytics muestra el rendimiento de sus activos de contenido web a partir de las visitas web regulares y también las visitas generadas desde el motor de recomendación de contenido de RTP.
 
 * Vea qué contenido tiene el mejor rendimiento y qué trae la mayoría de los posibles clientes
 * Aumente su consumo de contenido habilitando contenido en el motor de contenido predictivo de RTP para recomendar automáticamente el mejor contenido a los visitantes adecuados
 * Desglóselo en cada recurso de contenido para ver métricas, gráficos y rendimiento más detallados
 
-La página de Assets de RTP ahora se divide en Análisis de contenido y Recommendations de contenido.
+La página de Assets de RTP ahora se divide en Content Analytics y Recomendaciones de contenido.
 
-* **Análisis de contenido:** Muestra las vistas y los posibles clientes de todo el contenido web detectado y definido, lo que le ayuda a analizar su contenido con mejor rendimiento
-* **Recommendations de contenido**: muestra impresiones y clics del contenido recomendado por RTP y la atribución de posibles clientes asociada. También puede editar y habilitar recomendaciones de contenido desde esta página para las recomendaciones [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) y [medios enriquecidos](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Content Analytics:** muestra las vistas y los posibles clientes de todo el contenido web detectado y definido, lo que le ayuda a analizar su contenido con mejor rendimiento
+* **Recomendaciones de contenido**: Muestra impresiones y clics a partir del contenido recomendado por RTP y la atribución de posibles clientes asociada. También puede editar y habilitar recomendaciones de contenido desde esta página para las recomendaciones [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) y [medios enriquecidos](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Todos los datos de posibles clientes directos en estas dos páginas se han actualizado de forma retrospectiva desde el inicio del año (1 de enero de 2015).
 
@@ -113,7 +113,7 @@ La clonación de una campaña RTP hace que la creación de campañas web más pe
 
 Se están realizando varias mejoras en el editor de texto enriquecido. Después de publicar el editor actualizado en julio, recibimos buenos comentarios y pudimos trabajar estos cambios en esta actualización. Hay mucho más por venir en los próximos meses. Esta es una lista de las novedades del cuarto trimestre:
 
-* VML ahora se admite en el código de HTML:
+* Ahora, VML es compatible con su código HTML:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -121,13 +121,13 @@ Se están realizando varias mejoras en el editor de texto enriquecido. Después 
 </v:background>
 ```
 
-* Ahora, todo se puede insertar en un comentario válido del HTML (anteriormente se han eliminado ciertas sintaxis, como las que se ven a continuación):
+* Ahora, todo se puede insertar en un comentario válido de HTML (anteriormente se han eliminado ciertas sintaxis, como las que se ven a continuación):
 
 `<!--[if gte mso 9]> <![endif]-->`
 
 * No rellenar celdas de tabla vacías con `&nbsp;`
 
-* Botón Maximizar/minimizar añadido al editor de origen del HTML
+* Botón Maximizar/minimizar añadido al editor de origen de HTML
 * Las propiedades de tabla preexistentes ahora se identifican y se muestran en el cuadro de diálogo Propiedades de tabla
 * Ambas filas de botones se muestran ahora de forma predeterminada.
 * El editor aceptará ahora cualquier elemento (incluso elementos obsoletos o no estándar):
@@ -141,9 +141,9 @@ Se están realizando varias mejoras en el editor de texto enriquecido. Después 
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics: Validar sincronización {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Validar sincronización {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics: Validar sincronización](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Validar sincronización](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Esta nueva herramienta de administración ejecuta una serie de comprobaciones para ver si las configuraciones de sincronización se han configurado correctamente.
 
@@ -151,7 +151,7 @@ Esta nueva herramienta de administración ejecuta una serie de comprobaciones pa
 
 ## Agregar campos a la sincronización de objetos personalizada de CRM {#add-fields-to-crm-custom-object-sync}
 
-Agregue fácilmente nuevos campos a los objetos personalizados sincronizados desde Salesforce y Dynamics. Ahora puede agregar nuevos campos a la sincronización de objetos personalizada sin deshabilitar y habilitar todo el objeto personalizado.
+Agregue fácilmente nuevos campos a los objetos personalizados sincronizados desde [!DNL Salesforce] y [!DNL Dynamics]. Ahora puede agregar nuevos campos a la sincronización de objetos personalizada sin deshabilitar y habilitar todo el objeto personalizado.
 
 ## Cambios en las funciones de seguridad {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Agregue fácilmente nuevos campos a los objetos personalizados sincronizados des
 
 ## Compatibilidad con IE 11 (y compatibilidad obsoleta con IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Ahora admitimos oficialmente el explorador Microsoft Internet Explorer 11 y estamos eliminando la compatibilidad con el explorador Microsoft Internet Explorer 9.
+Ahora admitimos oficialmente el explorador [!DNL Microsoft Internet Explorer] 11 y eliminamos la compatibilidad con el explorador [!DNL Microsoft Internet Explorer] 9.
 
 ## Compatibilidad con la IU de Lightning para MSI {#lightning-ui-support-for-msi}
 
-El último paquete MSI en intercambio de aplicaciones funciona tanto con las versiones Lightning como con las versiones heredadas de la interfaz de usuario de Salesforce.
+El último paquete MSI en intercambio de aplicaciones funciona tanto con las versiones Lightning como con las versiones heredadas de la interfaz de usuario de [!DNL Salesforce].
 
-## Nuevo complemento de Dynamics {#new-dynamics-plug-in}
+## Nuevo complemento [!DNL Dynamics] {#new-dynamics-plug-in}
 
 Este nuevo complemento ejecuta varias acciones en modo asincrónico para ayudar a aumentar el rendimiento.
 

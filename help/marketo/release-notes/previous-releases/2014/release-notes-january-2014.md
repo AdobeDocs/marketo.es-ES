@@ -4,9 +4,9 @@ description: 'Notas de la versión, enero de 2014, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Los diseños de temas, la personalización de botones y los diseños flexibles l
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-¿Quiere que &quot;Estado&quot; aparezca únicamente si un usuario selecciona Estados Unidos como su &quot;País&quot;? ¿Qué le parece presentar distintos documentos a los clientes en función de cómo respondan a las preguntas del formulario? Cree una lógica condicional en los formularios directamente desde el editor. No se requiere JavaScript.
+¿Quiere que &quot;Estado&quot; aparezca únicamente si un usuario selecciona Estados Unidos como su &quot;País&quot;? ¿Qué le parece presentar distintos documentos a los clientes en función de cómo respondan a las preguntas del formulario? Cree una lógica condicional en los formularios directamente desde el editor. No se requiere [!DNL javascript].
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Incruste fácilmente Forms en sus propias páginas de aterrizaje:**
 
-Atrás quedaron los días en que se quitaba el código HTML de los formularios colocados en las páginas de aterrizaje de Marketo y se soltaban en un iFrame. Simplemente, obtenga el código incrustado y colóquelo en la página de aterrizaje donde desee que se represente el formulario. Dos modos (normal y lightbox) le proporcionan aún más flexibilidad con los formularios Marketo en su sitio.
+Atrás quedaron los días en que se quitaba el código HTML de los formularios colocados en las páginas de aterrizaje de Marketo y se soltaban en un [!DNL iFrame]. Simplemente, obtenga el código incrustado y colóquelo en la página de aterrizaje donde desee que se represente el formulario. Dos modos (normal y lightbox) le proporcionan aún más flexibilidad con los formularios Marketo en su sitio.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

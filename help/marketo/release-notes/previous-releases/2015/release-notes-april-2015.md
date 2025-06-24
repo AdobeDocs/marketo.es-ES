@@ -4,9 +4,9 @@ description: 'Notas de la versión, abril de 2015: Documentos de Marketo: docume
 title: Notas de la versión, abril de 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ En la versión de abril de 2015 se incluyen las siguientes funciones. Compruebe 
 >
 >Esta función se lanzará el martes 28 de abril.
 
-La nueva [página de inicio de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes específicos en los tipos de informes disponibles.
+La nueva página de inicio [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes específicos en los tipos de informes disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Además, ahora está disponible la organización de informes privados frente a compartidos. Cree o arrastre informes a la carpeta Mis informes para impedir que otros usuarios los vean, editen o eliminen. Los informes de grupo se comparten entre todos los usuarios.
+Además, ahora está disponible la organización de informes privados frente a compartidos. Cree o arrastre informes a la carpeta [!UICONTROL Mis informes] para impedir que otros usuarios los vean, editen o eliminen. [!UICONTROL Informes de grupo] se comparten entre todos los usuarios.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ Con Marketo Mobile Engagement, ofrecer experiencias móviles atractivas es fáci
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integración de linkedIn Lead Accelerator
+## Integración del acelerador de clientes potenciales [!DNL LinkedIn]
 
-[Integración de linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integración del acelerador de clientes potenciales [!DNL LinkedIn]](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Amplíe su estrategia de nutrición de clientes potenciales a anuncios sociales y de exhibición de pago. La integración de [red de anuncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator te permite crear de forma segura un segmento de audiencia dentro de LinkedIn basado en los miembros de cualquier lista inteligente o estática. Los miembros dentro de un segmento de audiencia de LinkedIn se pueden nutrir con una secuencia de anuncios relevantes.
+Amplíe su estrategia de nutrición de clientes potenciales a anuncios sociales y de exhibición de pago. La integración de red de anuncios [ad](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con el acelerador de clientes potenciales [!DNL LinkedIn] le permite crear de forma segura un segmento de audiencia dentro de [!DNL LinkedIn] basado en los miembros de cualquier lista inteligente o estática. Los miembros dentro de un segmento de audiencia [!DNL LinkedIn] se pueden nutrir con una secuencia de anuncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Perspectiva de ventas de Marketo para Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Marketo [!DNL Sales Insight] para [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
-Sus funciones favoritas de Sales Insight (fuente de posibles clientes, mejores apuestas, momentos interesantes y agregar a Marketo Campaign) están disponibles en la aplicación Salesforce1.
+Sus características favoritas de [!DNL Sales Insight] (fuente de posibles clientes, mejores apuestas, momentos interesantes y agregar a Marketo Campaign) están disponibles en la aplicación [!DNL Salesforce1].
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

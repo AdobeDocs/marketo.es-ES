@@ -4,9 +4,9 @@ description: 'Puntuación simple: Documentos de Marketo: documentación del prod
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-9.png)
 
-1. Arrastre la acción de flujo **Cambiar puntuación** al lienzo izquierdo.
+1. Arrastre la acción de flujo **[!UICONTROL Cambiar puntuación]** al lienzo izquierdo.
 
    ![](assets/simple-scoring-10.png)
 
@@ -130,6 +130,6 @@ Los detalles de su persona se abrirán en una nueva pestaña o ventana. ¿Ve có
 
 <br> 
 
-[◄ Misión 2: Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄ misión 2: página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Misión 4: ► de respuesta automática de correo electrónico](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Misión 4: Respuesta automática de correo electrónico ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

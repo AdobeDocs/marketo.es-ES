@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: 'Notas de la versión, verano de 2016, documentación de Marketo: documentación del producto'
 title: Notas de la versión, verano de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
@@ -39,13 +38,13 @@ La pista de auditoría proporciona un historial completo de los cambios realizad
 
 ![](assets/audit-trail.png)
 
-## [Integración de LaunchPoint con SMS de Marketo-Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Integración de LaunchPoint de SMS de Marketo-Vibes
 
 Cree fácilmente mensajes SMS dentro de Marketo. Personalice y segmente su mensaje con los datos de Marketo enriquecidos y supervise fácilmente su rendimiento con el panel de mensajes SMS.
 
 >[!NOTE]
 >
->Esta función requiere que tenga una cuenta de SMS de Vibes.
+>Esta característica requiere que tenga una cuenta de [!DNL Vibes SMS].
 
 ![](assets/vibes-sms2.png)
 
@@ -60,7 +59,7 @@ Anteriormente, todas las variables especificadas en las plantillas de correo ele
 **Actualizaciones de sintaxis**
 
 * Ahora puede utilizar &quot;mktoAddByDefault&quot; en los módulos especificados en las plantillas de correo electrónico 2.0 para indicar qué módulos deben mostrarse en los nuevos correos electrónicos de forma predeterminada. Esto resulta mucho más práctico si crea una plantilla de correo electrónico con una gran cantidad de módulos.
-* En elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML `<img>` subyacente deben estar bloqueadas o ser editables para el usuario final. mktoLockImgSize=&quot;true&quot; hará que el alto/ancho se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
+* En los elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML `<img>` subyacente deben bloquearse o editarse para el usuario final. mktoLockImgSize=&quot;true&quot; hará que el alto/ancho se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
 
 **Buscando código**
 
@@ -86,7 +85,7 @@ Hemos creado un nuevo tipo de token para los programas. Ahora puede procesar Nom
 
 ## [Clave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Requerir que cada persona de su equipo de ventas instale nuestro complemento de perspectiva de ventas para Outlook puede ser tedioso. Hemos introducido una nueva forma de instalar el complemento para Outlook de forma remota mediante una clave empresarial. Envíe a su equipo de TI la clave única que se encuentra en la sección de Perspectivas de ventas de Marketo de Admin y déjeles hacer el resto.
+Requerir que cada persona del equipo de ventas instale nuestro complemento [!DNL Sales Insight] para [!DNL Outlook] puede ser tedioso. Hemos introducido una nueva forma de instalar el complemento para [!DNL Outlook] de forma remota mediante una clave empresarial. Envíe a su equipo de TI la clave única que encontró en la sección de Marketo [!DNL Sales Insight] de [!UICONTROL Admin] y déjeles hacer el resto.
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ Especifique un retraso para que las campañas web reaccionen en el sitio web.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Exportación de Recommendations y análisis de contenido](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Exportación de Content Analytics y Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Ver datos de análisis de contenido y recomendaciones sin conexión.
 
-## [Compatibilidad con API para el editor de correo electrónico 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [Compatibilidad con API para el editor de correo electrónico 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Las API de recursos preexistentes, que anteriormente solo eran compatibles con las plantillas y los correos electrónicos de la versión 1.0, ahora están habilitadas para los recursos de correo electrónico de la versión 2.0.
 
-## [Sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Sitio para desarrolladores de Marketo](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nuevo y mejorado
 
 ## [Configuración de privacidad](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Los especialistas en marketing pueden utilizar la configuración de privacidad para decidir si desean rastrear o no a los visitantes mediante las funciones de Munchkin y Web Personalization. El nivel de seguimiento se controla mediante la configuración No rastrear del explorador, una cookie de exclusión o una IP no específica. Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas, pero si el experto en marketing no cambia nada, la funcionalidad de Marketo permanece igual.
+Los especialistas en marketing pueden usar la configuración de privacidad para decidir si desean realizar el seguimiento de los visitantes mediante las características de [!DNL Munchkin] y Web Personalization. El nivel de seguimiento se controla mediante la configuración No rastrear del explorador, una cookie de exclusión o una IP no específica. Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas, pero si el experto en marketing no cambia nada, la funcionalidad de Marketo permanece igual.
 
 Esta función se lanzará gradualmente a los clientes durante un periodo de seis semanas. Si lo necesita de inmediato, póngase en contacto con el Soporte técnico de Marketo.

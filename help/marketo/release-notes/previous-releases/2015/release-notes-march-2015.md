@@ -4,9 +4,9 @@ description: 'Notas de la versión, marzo de 2015: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ Muestra las actividades de marketing de su equipo con el nuevo modo de presentac
 
 >[!NOTE]
 >
->Esta característica no está disponible para las ediciones Spark y Standard.
+>Esta característica no está disponible para las ediciones Spark y [!DNL Standard].
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Integración de Google AdWords {#google-adwords-integration}
+## Integración de [!DNL Google Adwords] {#google-adwords-integration}
 
-Vincula tu cuenta de [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics resultaron en posibles clientes cualificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear).
+Vincula tu cuenta de [[!DNL Google AdWords] a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], podrá ver fácilmente qué clics dieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Rediseño del Explorador de ingresos {#revenue-explorer-redesign}
+## Rediseño de [!UICONTROL Explorador de ingresos] {#revenue-explorer-redesign}
 
-El Explorador de ingresos tiene un aspecto completamente nuevo, así como el nuevo tipo de gráfico radial. Esto se va a llevar a cabo durante las dos primeras semanas de abril.
+[!UICONTROL Explorador de ingresos] tiene un aspecto completamente nuevo, así como el nuevo tipo de gráfico Sunburst. Esto se va a llevar a cabo durante las dos primeras semanas de abril.
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Ahora tenemos compatibilidad para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [a través de la API](https://developer.adobe.com/marketo-apis/api/asset/).
 
-## Microsoft Dynamics 2015 local {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 local {#microsoft-dynamics-on-premise}
 
 Ahora se admite con el instalador más reciente [accesible a través de la aplicación](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 

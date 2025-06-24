@@ -4,9 +4,9 @@ description: Notas de la versión, mejoras de ABM en agosto de 2017, documentaci
 title: Notas de la versión, mejoras de ABM en agosto de 2017
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Las siguientes funciones están incluidas en la versión de mejora de ABM de ago
 
 Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 
-## Información de cuenta {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** es un complemento de Google Chrome que muestra información de cuentas y ABM procesables a sus equipos de ventas, lo que les permite trabajar en estrecha colaboración con el marketing para atraer cuentas de manera eficaz. Los equipos de ventas obtendrán visibilidad de los datos y las perspectivas generados para cada una de las cuentas con nombre que poseen. Esto incluirá percentiles de puntuación de la cuenta, una lista priorizada de sus cuentas con nombre, personas comprometidas dentro de esas cuentas y un flujo de actividad en vivo de actividades recientes desde la cuenta.
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** es un complemento de [!DNL Google Chrome] que muestra a sus equipos de ventas información sobre cuentas y ABM procesables, lo que les permite trabajar en estrecha colaboración con el departamento de marketing para atraer cuentas de forma eficaz. Los equipos de ventas obtendrán visibilidad de los datos y las perspectivas generados para cada una de las cuentas con nombre que poseen. Esto incluirá percentiles de puntuación de la cuenta, una lista priorizada de sus cuentas con nombre, personas comprometidas dentro de esas cuentas y un flujo de actividad en vivo de actividades recientes desde la cuenta.
 
 ![](assets/image001.png) ![](assets/image002.png)
 

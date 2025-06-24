@@ -4,10 +4,10 @@ description: 'Notas de la versión, octubre de 2020: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '957'
-ht-degree: 1%
+source-wordcount: '936'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_** Las siguientes características se lanzarán el **16 de octubre de 2020**.
 
@@ -37,17 +37,17 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 ## Integración de Experience Cloud {#experience-cloud-integration}
 
-* **Sincronización continua de audiencias de Adobe Experience Cloud a Marketo Engage**: el destinatario lleva al Marketo Engage según los datos de intención de origen de Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Actualice automáticamente las listas estáticas de los Marketo Engage mediante una sincronización continua, añada posibles clientes a los programas de participación o de correo electrónico y avise a Ventas cuando los posibles clientes estén listos.
+* **Sincronización continua de audiencias de Adobe Experience Cloud a Marketo Engage**: el destinatario lleva a Marketo Engage según los datos de intención de origen de Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Actualice automáticamente las listas estáticas de Marketo Engage mediante una sincronización continua, añada posibles clientes a programas de participación o de correo electrónico y avise a Ventas cuando los posibles clientes estén listos.
 
 ## Integración con CRM {#crm-integration}
 
-* **Sincronización de Salesforce CRM**: identifique y corrija los errores y errores de sincronización con dos nuevos paneles de sincronización y errores de Salesforce. Supervisar las nuevas actualizaciones, eliminaciones, errores y finalización de registros del proceso de sincronización. Los informes pueden filtrarse por fecha, tipo de operación o tipo de objeto.
+* **[!DNL Salesforce]CRM Sync**: Identifique y corrija los errores y errores de sincronización con dos nuevos paneles de sincronización y errores de [!DNL Salesforce]. Supervisar las nuevas actualizaciones, eliminaciones, errores y finalización de registros del proceso de sincronización. Los informes pueden filtrarse por fecha, tipo de operación o tipo de objeto.
 
-* **Integración de Microsoft Dynamics 365**: Automatice la inscripción de posibles clientes y contactos en campañas de Microsoft Dynamics 365. Agregue o elimine fácilmente contactos y posibles clientes del Marketo Engage en campañas de MS Dynamics con nuevas acciones de flujo de campañas inteligentes. Pase sin problemas los posibles clientes de Marketing a Ventas y cierre las ofertas más rápido.
+* Integración de **[!DNL Microsoft Dynamics 365]**: Automatice la inscripción de posibles clientes y contactos en [!DNL Microsoft Dynamics 365] campañas. Agregue o quite fácilmente posibles clientes y contactos de Marketo Engage en [!DNL MS Dynamics] campañas con nuevas acciones de flujo de campañas inteligentes. Pase sin problemas los posibles clientes de Marketing a Ventas y cierre las ofertas más rápido.
 
 ## Segmentación de medios de pago {#paid-media-targeting}
 
-* **Integraciones de Facebook Lead Ads**: los parámetros de seguimiento de formularios de Facebook ahora se pueden capturar a través del servicio LaunchPoint para anuncios de posibles clientes de Facebook. Estos campos ocultos ahora se pueden asignar a campos de Marketo, lo que permite a los especialistas en marketing almacenar datos de seguimiento de campañas de valor y actuar en ellos.
+* **[!DNL Facebook]integraciones de anuncios de posibles clientes**: [!DNL Facebook] parámetros de seguimiento de formulario ahora se pueden capturar mediante el servicio LaunchPoint para [!DNL Facebook] anuncios de posibles clientes. Estos campos ocultos ahora se pueden asignar a campos de Marketo, lo que permite a los especialistas en marketing almacenar datos de seguimiento de campañas de valor y actuar en ellos.
 
 ## Administración {#administration}
 
@@ -59,25 +59,25 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 * **Nuevas opciones de exportación de metadatos**: exporte metadatos de objetos personalizados para los objetos personalizados seleccionados en una hoja de cálculo para compartir fácilmente. Además, se pueden exportar todos o algunos de los metadatos de los objetos de suscripción, como cliente potencial, empresa, actividades estándar y personalizadas, etiquetas y canales. Los administradores pueden extraer los datos y compartirlos rápidamente con equipos de ingeniería para fines de análisis y diseño.
 
-* **Campo personalizado de oportunidad**: obtenga más información sobre los registros de oportunidad y los campos personalizados de oportunidad se mostrarán en el Marketo Engage. Vea los datos de los campos personalizados de la oportunidad desde Salesforce CRM, Microsoft Dynamics 365 CRM, integraciones nativas de ventas u otras integraciones de API. Tener una visibilidad completa de los detalles de la oportunidad y la canalización le permite organizar la participación en coordinación con Ventas, aumentar las conversiones y ayudar a cerrar acuerdos más rápido.
+* **Campo personalizado de oportunidad**: Obtenga más insight en los registros de oportunidad y los campos personalizados de oportunidad se muestran en Marketo Engage. Vea los datos de los campos personalizados de la oportunidad desde [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, integraciones nativas de ventas o a través de otras integraciones de API. Tener una visibilidad completa de los detalles de la oportunidad y la canalización le permite organizar la participación en coordinación con Ventas, aumentar las conversiones y ayudar a cerrar acuerdos más rápido.
 
 ## Lanzamiento durante todo el trimestre {#releasing-throughout-the-quarter}
 
 Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Opciones de configuración de optimización de API y nuevo control**: mejore la experiencia del usuario de perspectivas de ventas mediante la optimización de API mejorada y características de control agregadas. La configuración permite a los administradores definir cómo se cargan las campañas y los eventos en el panel de información de ventas. Las opciones de visualización de actividades de calendario flexibles reducen el uso de API y mejoran la experiencia general.
+* **Opciones de configuración de optimización de API y nuevo control**: mejore la experiencia del usuario [!DNL Sales Insight] mediante la optimización de API mejorada y las características de control agregadas. Las opciones de configuración permiten a los administradores definir cómo se cargan las campañas y los eventos en el tablero de Sales Insight. Las opciones de visualización de actividades de calendario flexibles reducen el uso de API y mejoran la experiencia general.
 
 ## Anuncios y desaprobaciones {#announcements-deprecations}
 
-* **Nueva apariencia de Marketo Engage**: Las nuevas versiones de los gráficos de líneas, barras, columnas y circulares proporcionan visualizaciones actualizadas en todo el Marketo Engage, incluidas las actividades de marketing y todas las características de los informes, así como la visualización de datos que aparece en las actividades de marketing. Esta actualización es en respuesta a que el Flash de Adobe llegó a su fin de vida útil el 31 de diciembre de 2020.
+* **Nuevo aspecto de Marketo Engage**: las nuevas versiones de los gráficos de líneas, barras, columnas y circulares proporcionan visualizaciones actualizadas en Marketo Engage, incluidas las actividades de marketing y todas las características de los informes, así como la visualización de datos que aparece en las actividades de marketing. Esta actualización es en respuesta a que Adobe Flash llegó a su fin de vida útil el 31 de diciembre de 2020.
 
 * **Actualizaciones de roles de usuario y permisos**: el permiso de importación de listas avanzadas quedará obsoleto en la próxima versión para simplificar la administración de roles y permisos. Los permisos de importación de listas existentes en las actividades de marketing y la base de datos de posibles clientes habilitan las opciones de importación de listas necesarias en sus respectivas áreas de aplicación.
 
-* **Administración de campos**: se ha introducido una restricción a los cambios sincrónicos en el tipo de campo personalizado en el Marketo Engage para aumentar la seguridad de la infraestructura. Cuando se realizan cambios en varios tipos de campo, los primeros deben completarse antes de pasar al siguiente campo. Este nuevo proceso garantiza un entorno más estable y minimiza los riesgos de fallo de funcionamiento de tipo de cambio.
+* **Administración de campos**: se ha introducido una restricción a los cambios sincrónicos en el tipo de campo personalizado en Marketo Engage para aumentar la seguridad de nuestra infraestructura. Cuando se realizan cambios en varios tipos de campo, los primeros deben completarse antes de pasar al siguiente campo. Este nuevo proceso garantiza un entorno más estable y minimiza los riesgos de fallo de funcionamiento de tipo de cambio.
 
 * **Límite de tamaño de URI de Asset API aumentado**: El límite de tamaño de identificador uniforme de recursos (URI) se está aumentando de 8 KB a 65 KB antes de que se elimine el parámetro &quot;_method&quot;. El aumento del límite de tamaño permite a los clientes que utilizan cadenas de consulta largas pasar datos con mayor facilidad. La eliminación del parámetro &quot;_method&quot; forma parte de una próxima actualización de seguridad.
 

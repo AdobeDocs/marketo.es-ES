@@ -4,9 +4,9 @@ description: 'Notas de la versión, marzo de 2012, Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Visualizador en el editor:
 
 ## Previsor de fragmentos {#snippet-previewer}
 
-Si selecciona &quot;Previsualizar fragmento&quot; en el menú, podrá ver un fragmento sin convertirlo en borrador. Además, si tiene acceso de solo lectura a un fragmento compartido (a través de espacios de trabajo), podrá verlo con esta acción
+Seleccionar &quot;Vista previa de fragmento&quot; en el menú le permite ver un fragmento, sin convertirlo en borrador. Además, si tiene acceso de solo lectura a un fragmento compartido (a través de espacios de trabajo), puede ver el fragmento con esta acción.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

@@ -4,9 +4,9 @@ description: 'Notas De La Versión, Otoño De 2018: Documentos De Marketo: Docum
 title: Notas de la versión, otoño de 2018
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,22 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 La personalización web ahora admite varios espacios de trabajo.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo [!DNL Sales Engage] {#marketo-sales-engage}
 
-* **Soporte Lightning para SFDC**: Los usuarios que migran a o que actualmente usan Lightning pueden aprovechar MSE para lograr una participación más inteligente en todo el recorrido de compradores.
+* Soporte de **[!DNL SFDC Lightning]**: Los usuarios que migran a o que actualmente usan [!DNL Lightning] pueden aprovechar MSE para lograr una participación más inteligente en el recorrido del comprador.
 
-* **Compatibilidad ampliada: Microsoft Office**
+* **Compatibilidad ampliada:[!DNL Microsoft Office]**
 
-   * Outlook como canal de entrega: los especialistas en marketing ahora pueden aprovechar Outlook para participaciones por correo electrónico, lo que mejora las tasas de entrega y el seguimiento de respuestas.
-   * Mejoras en la compatibilidad con el correo electrónico de Office 365: Marketo Sales Engage está disponible directamente en los clientes de correo electrónico de Outlook para Mac, Outlook para Windows y Outlook Web Application para Office 365, lo que hace que Marketo Sales Engage esté más fácilmente disponible para todos los usuarios de Office.
+   * [!DNL Outlook] como canal de entrega: los especialistas en marketing ahora pueden aprovechar [!DNL Outlook] para las participaciones por correo electrónico, lo que mejora las tasas de entrega y el seguimiento de respuestas.
+   * [!DNL Office] 365 Mejoras en la compatibilidad con el correo electrónico: Marketo [!DNL Sales Engage] está disponible directamente en [!DNL Outlook] para Mac, [!DNL Outlook] para [!DNL Windows] y la aplicación web [!DNL Outlook] para [!DNL Office] 365 clientes de correo electrónico, lo que hace que Marketo [!DNL Sales Engage] esté más disponible para todos los usuarios de [!DNL Office].
 
 * **Se mejoró la experiencia de inicio de sesión de administradores y usuarios**
 
    * Flujos de trabajo de administración mejorados: los administradores encontrarán un flujo de trabajo más eficiente al habilitar las funciones de equipo a través de la Configuración general de administración.
 
-## Marketo Sky {#marketo-sky}
+## Marketo [!DNL Sky] {#marketo-sky}
 
-Para obtener más información y actualizaciones, consulta nuestras [Notas de la versión de Sky](https://help.marketo.com).
+Para obtener más detalles y actualizaciones, consulte nuestras [[!DNL Sky] notas de la versión](https://help.marketo.com).
 
 * **Actualizaciones del sistema de diseño**
 
@@ -55,26 +55,26 @@ Para obtener más información y actualizaciones, consulta nuestras [Notas de la
 * Página principal de Design Studio: cree nuevos recursos, arrastre y suelte imágenes y archivos y administre todos los recursos existentes.
 * Vistas de lista de Design Studio: ahora los usuarios pueden ver plantillas de página de aterrizaje y plantillas de correo electrónico en formato de vista de lista, lo que permite una navegación rápida y acciones masivas en un solo tipo de recurso.
 * Páginas de detalles de recursos de Design Studio: ahorre tiempo y dolores de cabeza al ver, organizar y realizar acciones masivas en todos los recursos en un solo lugar.
-* **Programas predeterminados ahora disponibles en Marketo Sky**: Marketo Sky ahora admite programas predeterminados, el versátil estilo de programa que le permite crear cualquier campaña que se pueda imaginar.
-* **Programas de correo electrónico - Fase 1**: Ahora puede ver los programas de correo electrónico en Sky. Eche un vistazo al nuevo diseño y [díganos lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas predeterminados ahora disponibles en Marketo[!DNL Sky]**: Marketo [!DNL Sky] ahora admite programas predeterminados, el versátil estilo de programa que le permite crear cualquier campaña que se pueda imaginar.
+* **Programas de correo electrónico - Fase 1**: Ahora puede ver los programas de correo electrónico en [!DNL Sky]. Eche un vistazo al nuevo diseño y [díganos lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
 * **Reducir la dependencia necesaria en CRM**
 
-   * Con la nueva opción de definir reglas de Campaign dentro de la configuración de Bizible, los clientes ya no necesitan saltar por los aros de la instalación de un paquete o solución dentro de su CRM para empezar a usar Bizible. Ahora es tan fácil como configurar una cuenta, configurar las conexiones de publicidad y CRM y luego pasar por la configuración estándar. Esperamos que esto mejore significativamente los tiempos de incorporación para nuestro equipo de ingeniería de ventas.
+   * Con la nueva opción de definir reglas de Campaign dentro de la configuración de [!DNL Bizible], los clientes ya no necesitan saltar por los aros de la instalación de un paquete o solución dentro de su CRM para comenzar con [!DNL Bizible]. Ahora es tan fácil como configurar una cuenta, configurar las conexiones de publicidad y CRM y luego pasar por la configuración estándar. Esperamos que esto mejore significativamente los tiempos de incorporación para nuestro equipo de ingeniería de ventas.
 
 * **Descubrir GA**
 
-   * Discover ya no está en versión beta y ha comenzado a llegar a nuevos clientes. También estamos migrando nuestra base de clientes actual de Bizible Measure a Bizible Discover. Con el cambio de beta a GA, hemos realizado actualizaciones en el esquema de la base de datos para permitir consultas más eficientes y complejas.
+   * Discover ya no está en versión beta y ha comenzado a llegar a nuevos clientes. También estamos migrando nuestra base de clientes actual de [!DNL Bizible] medida a [!DNL Bizible] Discover. Con el cambio de beta a GA, hemos realizado actualizaciones en el esquema de la base de datos para permitir consultas más eficientes y complejas.
 
 * **Inicio de sesión único**
 
-   * Los clientes ahora pueden iniciar sesión en la aplicación web de Bizible usando el proveedor de identidad y las credenciales de su compañía, que cumple con los requisitos de seguridad empresarial.
+   * Los clientes ahora pueden iniciar sesión en la aplicación web [!DNL Bizible] usando el proveedor de identidad y las credenciales de su compañía, que cumple con los requisitos de seguridad empresarial.
 
-**[Mejoras en Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Mejoras en las [!UICONTROL Perspectivas de rendimiento] de Marketo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Mejoras de uso**
 
@@ -90,7 +90,7 @@ Para obtener más información y actualizaciones, consulta nuestras [Notas de la
 
 **[Actualizar token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-Hemos implementado un token de actualización dentro de nuestras soluciones de formulario de retargeting y generación de posibles clientes de LinkedIn que amplía el tiempo de acceso a un año antes de que se requiera la reautenticación.
+Hemos implementado un token de actualización en nuestras soluciones de formularios de [!UICONTROL LinkedIn Lead Gen] y retargeting que amplía el tiempo de acceso a un año antes de que se requiera la reautenticación.
 
 ## API {#api}
 
@@ -100,7 +100,7 @@ Marketo ahora admite el uso de campos de disposición de correo electrónico sob
 
 >[!NOTE]
 >
->Como parte de la versión del tercer trimestre, actualizaremos la versión de OAuth para GoToWebinar de la 1.0 a la 2.0. Este cambio se realiza antes de que GoToWebinar deje de ofrecer soporte para OAuth 1.0 en enero de 2019. Si es cliente de GoToWebinar, deberá volver a autenticarse a través de LaunchPoint (en el área de Administración) antes de enero de 2019 para garantizar que la integración siga funcionando.
+>Como parte de la versión del tercer trimestre, actualizaremos la versión de [!DNL OAuth] para [!DNL GoToWebinar] de la versión 1.0 a la versión 2.0. Este cambio se está realizando antes de que [!DNL GoToWebinar] deje de admitir [!DNL OAuth] 1.0 en enero de 2019. Si es cliente de [!DNL GoToWebinar], deberá volver a autenticarse a través de [!DNL LaunchPoint] (en el área de [!UICONTROL Admin]) antes de enero de 2019 para garantizar que su integración siga funcionando.
 
 >[!NOTE]
 >

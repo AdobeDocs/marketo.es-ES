@@ -4,9 +4,9 @@ description: Notas de la versión, enero/febrero de 2012, Documentos de Marketo,
 title: Notas de la versión, enero/febrero de 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -61,7 +61,7 @@ Las organizaciones ahora tienen la capacidad de admitir un inicio de sesión sin
 
 Los editores de correo electrónico y páginas de aterrizaje se han rediseñado con una interfaz más atractiva, una navegación intuitiva y una experiencia de usuario considerablemente mejorada. Esto incluye lo siguiente:
 
-Un HTML y una vista de texto en paralelo
+Una vista de texto y HTML en paralelo
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ El nombre del formulario, el correo electrónico de origen, la respuesta a (NUEV
 
 ## Compatibilidad con navegadores {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 y 9
-* **Nota**: ya no se admite Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 Y 9
+* **Nota**: ya no se admite [!DNL Internet Explorer] 7
 
 ## Administración de programas {#program-management}
 
@@ -96,6 +96,6 @@ Comprender la contribución de marketing a los ingresos de oportunidades individ
 
 ## Análisis de fase de ingresos del programa {#program-revenue-stage-analysis}
 
-Obtenga información sobre la velocidad de plomo del programa al comprender qué programas adquirieron los impulsores rápidos
+Consiga insight en velocidad de avance del programa al comprender qué programas adquirieron los impulsores rápidos
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
