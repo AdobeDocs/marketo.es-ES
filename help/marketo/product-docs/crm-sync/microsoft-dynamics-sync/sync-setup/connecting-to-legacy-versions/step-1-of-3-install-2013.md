@@ -4,7 +4,7 @@ description: 'Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (
 title: 'Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (2013 local)'
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Paso 1 de 3: Instalar la solución de Marketo en Dynamics (2013 local) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsoft Dynamics, primero debe instalar la solución Marketo en Dynamics.
+Para poder sincronizar Microsoft Dynamics local y Marketo Engage, primero debe instalar la solución Marketo en Dynamics.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsof
 
 >[!PREREQUISITES]
 >
->Debe tener [Implementación con conexión a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 o 3.0 (ADFS) configurados. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
+>Debe tener [Implementación con conexión a Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 o 3.0 (ADFS) configurados. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
 >[Descargue la solución Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de comenzar.
 
@@ -83,13 +83,13 @@ Para poder sincronizar el Marketo Engage y las instalaciones locales de Microsof
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Seleccione la solución Marketo y haga clic en **[!UICONTROL Publish all Customization]**.
+1. Seleccione la solución Marketo y haga clic en **[!UICONTROL Publicar todas las personalizaciones]**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
 >[!CAUTION]
 >
->Si deshabilita cualquiera de los procesos de mensajería del SDK de Marketo, se producirá un error en la instalación.
+>Si deshabilita cualquiera de los procesos de mensajería de Marketo SDK, se producirá un error en la instalación.
 
 >[!MORELIKETHIS]
 >

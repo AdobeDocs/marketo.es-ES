@@ -3,9 +3,9 @@ description: 'Paso 2 de 4: Configuración de la solución Marketo con la conexi�
 title: 'Paso 2 de 4: Configuración de la solución Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -70,11 +70,11 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!NOTE]
 >
->Esto se aplica a la versión 4.0.0.14 y posteriores de Marketo. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Esto se aplica a la versión de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Vuelva a la ficha **[!UICONTROL Usuarios habilitados]** y actualice la lista de usuarios.
 
@@ -128,7 +128,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
    ![](assets/eighteen.png)
 
-1. Haga clic en el botón **[!UICONTROL Publish All Customization]**.
+1. Haga clic en el botón **[!UICONTROL Publicar todas las personalizaciones]**.
 
    ![](assets/nineteen.png)
 

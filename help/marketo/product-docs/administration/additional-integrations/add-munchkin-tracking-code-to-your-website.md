@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360354
-description: "Agregar  [!DNL Munchkin] código de seguimiento al sitio web - Documentos de Marketo - Documentación del producto"
-title: "Agregar  [!DNL Munchkin] código de seguimiento a tu sitio web"
+description: Agregar  [!DNL Munchkin] código de seguimiento al sitio web - Documentos de Marketo - Documentación del producto
+title: Agregar  [!DNL Munchkin] código de seguimiento a tu sitio web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -29,7 +29,7 @@ El código de seguimiento personalizado de JavaScript de Marketo, denominado [!D
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Haz clic en **[!UICONTROL Munchkin]**.
+1. Haga clic en **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
@@ -59,7 +59,7 @@ El código de seguimiento personalizado de JavaScript de Marketo, denominado [!D
 
    >[!TIP]
    >
-   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
+   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Añadir código de seguimiento al usar varios espacios de trabajo {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -69,7 +69,7 @@ Si utiliza espacios de trabajo en su cuenta de Marketo, es probable que también
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Haz clic en **[!UICONTROL Munchkin]**.
+1. Haga clic en **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 

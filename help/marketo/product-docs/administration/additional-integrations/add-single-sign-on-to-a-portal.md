@@ -4,7 +4,7 @@ description: Agregar el inicio de sesión único a un portal - Documentos de Mar
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!IMPORTANT]
 >
->Esto no se aplica a las suscripciones incorporadas a la identidad de Adobe. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. Adobe Admin Console solo admite SP-iniciado en este momento. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+>Esto no se aplica a las suscripciones incorporadas a Adobe Identity. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. Adobe Admin Console solo admite SP-iniciado en este momento. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->¿Es un usuario de [!DNL Microsoft Azure]? Consulte su [tutorial de integración](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Para su información, hay un error tipográfico en el paso 5c de su tutorial. Establezca el estado de retransmisión en `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
+>¿Es un usuario de [!DNL Microsoft Azure]? Consulte su [tutorial de integración](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Para su información, hay un error tipográfico en el paso 5c de su tutorial. Establezca el estado de retransmisión en `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
@@ -69,7 +69,7 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    >[!NOTE]
    >
-   >Si no ve **[!UICONTROL Inicio de sesión único]** en **[!UICONTROL Administración]**, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Si no ve **[!UICONTROL Inicio de sesión único]** en **[!UICONTROL Administración]**, comuníquese con la [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. En la sección **[!UICONTROL Configuración de SAML]**, haga clic en **[!UICONTROL Editar]**.
 

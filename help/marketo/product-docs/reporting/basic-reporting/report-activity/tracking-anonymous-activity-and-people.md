@@ -4,7 +4,7 @@ description: Seguimiento de actividades y personas anónimas - Documentos de Mar
 title: Seguimiento de actividades y personas anónimas
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -29,7 +29,7 @@ La primera vez que alguien visite una [página de aterrizaje](/help/marketo/prod
 
    * Hace clic en un vínculo [de un correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Rellena un [formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) de Marketo.
-   * Utiliza la API [REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/leads) o [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) de Marketo (para desarrolladores) para asociar una actividad anónima con un registro conocido.
+   * Utiliza la API [REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) de Marketo (para desarrolladores) para asociar una actividad anónima con un registro conocido.
 
    Un nombre de la base de datos puede estar vinculado a muchas cookies porque los usuarios suelen utilizar distintos dispositivos y exploradores para visitar el sitio.
 

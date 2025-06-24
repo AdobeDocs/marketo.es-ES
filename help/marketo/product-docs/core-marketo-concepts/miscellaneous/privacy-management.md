@@ -2,7 +2,7 @@
 description: 'Administración de privacidad: documentos de Marketo, documentación del producto'
 title: Administración de privacidad
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -15,9 +15,9 @@ Marketo Engage ofrece un conjunto de herramientas para ayudarle a cumplir con la
 
 >[!NOTE]
 >
->Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para Marketo Engage solo se aplican a lo siguiente:
+>Las solicitudes de privacidad enviadas a través de la interfaz de usuario de Privacy Service o la API para Marketo Engage solo se aplican a lo siguiente:
 >
->* Usuarios de Marketo Engage que han incorporado Adobe Identity Management System
+>* Usuarios de Marketo Engage que han incorporado el sistema Identity Management de Adobe
 >
 >**-o-**
 >
@@ -25,15 +25,15 @@ Marketo Engage ofrece un conjunto de herramientas para ayudarle a cumplir con la
 
 ## Regulaciones sobre administración de la privacidad {#regulations-on-privacy-management}
 
-Las capacidades de Marketo Engage le ayudan a cumplir con las siguientes regulaciones:
+Las funciones de Marketo Engage le ayudan a cumplir con las siguientes regulaciones:
 
 * **[!DNL GDPR]** [Reglamento General de Protección de Datos](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) es la ley de privacidad de la Unión Europea (UE) que armoniza y moderniza los requisitos de protección de datos para los países de la UE.
-* **[!DNL CCPA]** [La Ley de Privacidad del Consumidor de California](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=) proporciona a los residentes de California derechos respecto a su información personal e impone responsabilidades de protección de datos para ciertas entidades que hacen negocios en California.
+* **[!DNL CCPA]** [La Ley de Privacidad del Consumidor de California](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) proporciona a los residentes de California derechos respecto a su información personal e impone responsabilidades de protección de datos para ciertas entidades que hacen negocios en California.
 * **[!DNL PDPA]** [La Ley de Protección de Datos Personales](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) es la ley de privacidad que armoniza y moderniza los requisitos de protección de datos para Tailandia.
 * **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) con efecto a principios de 2021 para todas las compañías que recopilen o procesen datos personales en Brasil.
-* **[!DNL NZPA]** [La Ley de Privacidad de 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) es la ley de privacidad que armoniza y moderniza los requisitos de protección de datos para Nueva Zelanda.
+* **[!DNL NZPA]** [La Ley de Privacidad de 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) es la ley de privacidad que armoniza y moderniza los requisitos de protección de datos para Nueva Zelanda.
 
-Todas las regulaciones anteriores se aplican a los clientes Marketo Engage que poseen datos de sujetos de datos que residen en las regiones o países respectivos antes mencionados (UE, California, Tailandia, Brasil, Nueva Zelanda).
+Todas las regulaciones anteriores se aplican a los clientes de Marketo Engage que poseen datos de sujetos de datos residentes en las regiones o países respectivos antes mencionados (UE, California, Tailandia, Brasil, Nueva Zelanda).
 
 ## Derecho de acceso y derecho a ser olvidado {#right-to-access-and-right-to-be-forgotten}
 

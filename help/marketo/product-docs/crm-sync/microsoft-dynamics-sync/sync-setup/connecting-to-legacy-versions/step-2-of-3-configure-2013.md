@@ -4,9 +4,9 @@ description: 'Paso 2 de 3: Configuración del usuario de sincronización para Ma
 title: 'Paso 2 de 3: Configuración de la sincronización del usuario para Marketo (2013 local)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!NOTE]
 >
->Esto se aplica al complemento de Marketo versión 4.0.0.14 y posteriores. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución de Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Esto se aplica a la versión del complemento de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. En **Configuración**, haga clic en **Administración**.
 
@@ -39,7 +39,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Aquí verá una lista de usuarios. Seleccione el usuario de sincronización de Marketo o póngase en contacto con el administrador de [Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} para crear un nuevo usuario [dedicado a Marketo](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}.
+1. Aquí verá una lista de usuarios. Seleccione al usuario de sincronización de Marketo o póngase en contacto con el administrador de [Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} para crear un nuevo usuario [dedicado a Marketo](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -83,7 +83,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
    ![](assets/image2014-12-11-11-3a15-3a32.png)
 
-1. Haga clic en **[!UICONTROL Publish All Customization]**.
+1. Haga clic en **[!UICONTROL Publicar todas las personalizaciones]**.
 
    ![](assets/publish-all-customizations1.png)
 

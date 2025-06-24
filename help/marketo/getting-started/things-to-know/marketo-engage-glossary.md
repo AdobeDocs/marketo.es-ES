@@ -4,7 +4,7 @@ short-description: Conozca los términos de Marketo Engage y sus definiciones pa
 title: Glosario de Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 4%
@@ -244,7 +244,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Un tipo de programa en Marketo. Un programa genérico que utilizará cuando un programa de correo electrónico, evento o participación no sea relevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Estrategia y definición</strong></td> 
+   <td colspan="1"><strong>Entregabilidad</strong></td> 
    <td colspan="1">La capacidad de un mensaje de correo electrónico para llegar a la bandeja de entrada del destinatario deseado, que puede verse afectada por <strong>correo no deseado</strong> y los filtros del lado del cliente. Diferente a "Entregado", que solo indica que el correo electrónico se entregó al servidor de destinatario.</td> 
   </tr> 
   <tr> 
@@ -444,7 +444,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona conocida</strong></a></td> 
-   <td><p>Cualquier dato de persona de la base de datos <strong>Marketo</strong> se considera dato de persona conocido. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web inicialmente están <strong>cookies</strong> (y son anónimos) a través del seguimiento web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o asignarse manualmente a través de las API de posibles clientes asociadas de Marketo en <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> y <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">API de REST</a></p></td> 
+   <td><p>Cualquier dato de persona de la base de datos <strong>Marketo</strong> se considera dato de persona conocido. Existen varias formas para que alguien introduzca su base de datos, incluidas: sincronización CRM, rellenado de un formulario, importación de lista/entrada manual, integraciones programáticas (API de REST/socios) y más. Los visitantes web inicialmente están <strong>cookies</strong> (y son anónimos) a través del seguimiento web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, hacer clic en un vínculo rastreado en un correo electrónico de Marketo, rellenar un formulario con su dirección de correo electrónico o asignarse manualmente a través de las API de posibles clientes asociadas de Marketo en <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> y <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">API de REST</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -460,7 +460,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr> 
    <td> 
     <div> 
-     <p><strong>Página de aterrizaje</strong></p> 
+     <p><strong>Página de destino</strong></p> 
     </div></td> 
    <td>Una página alojada en Marketo que te permite mostrar <strong>contenido</strong> y rastrear visitantes. Existen dos tipos diferentes: Forma libre y Guiada. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Las páginas de aterrizaje de forma libre</a> le permiten arrastrar y soltar el contenido que desee, donde desee. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Las páginas de aterrizaje guiadas</a> son más estrictas, con un diseño/estructura predefinidos determinados por la <strong>plantilla</strong>.</td> 
   </tr> 
@@ -535,7 +535,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>También conocido como MSD. Uno de los dos CRM con los que Marketo tiene una integración nativa (consulte <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Código de seguimiento personalizado de JavaScript de Marketo. Rastrea a todas las personas que visitan el sitio web. Esto incluye a los visitantes anónimos (junto con sus direcciones IP y otra información). </td> 
   </tr> 
   <tr> 

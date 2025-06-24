@@ -3,7 +3,7 @@ description: 'Instalar Marketo para Microsoft Dynamics 2016/Dynamics 365 local 1
 title: Instale Marketo para Microsoft Dynamics 2016/Dynamics 365 local, paso 1 de 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Para poder sincronizar Microsoft Dynamics 2016 On-Prem/Dynamics 365 con Marketo 
 
 >[!PREREQUISITES]
 >
->Si usa Microsoft Dynamics local, debe tener [Implementación con conexión a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
+>Si usa Microsoft Dynamics On-Premise, debe tener [Implementación con conexión a Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
 >[Descargue Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de comenzar.
 
@@ -82,7 +82,7 @@ Para poder sincronizar Microsoft Dynamics 2016 On-Prem/Dynamics 365 con Marketo 
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Seleccione la solución Marketo y haga clic en **[!UICONTROL Publish All Customization]**.
+1. Seleccione la solución Marketo y haga clic en **[!UICONTROL Publicar todas las personalizaciones]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
@@ -90,7 +90,7 @@ Para poder sincronizar Microsoft Dynamics 2016 On-Prem/Dynamics 365 con Marketo 
 
    >[!CAUTION]
    >
-   >Si deshabilita cualquiera de los procesos de mensajería del SDK de Marketo, se producirá un error en la instalación.
+   >Si deshabilita cualquiera de los procesos de mensajería de Marketo SDK, se producirá un error en la instalación.
 
    >[!MORELIKETHIS]
    >

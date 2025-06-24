@@ -1,26 +1,26 @@
 ---
 unique-page-id: 4720275
 description: 'Creación de una audiencia personalizada en Facebook: documentos de Marketo, documentación del producto'
-title: Crear una audiencia personalizada en Facebook
+title: Creación de una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Crear una audiencia personalizada en Facebook {#create-a-custom-audience-in-facebook}
+# Creación de una audiencia personalizada en Facebook {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
 >* [Agregar audiencias personalizadas de Facebook como servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} en la sección de administración.
->* [Acepte los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en su cuenta de Facebook.
+>* [Acepta los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en tu cuenta de Facebook.
 
 >[!TIP]
 >
->Más información sobre [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Más información acerca de [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Busque y seleccione la lista inteligente o estática que contiene los posibles clientes desde los que desea crear la audiencia.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >La API de Facebook permite hasta 500 audiencias personalizadas por cuenta de publicidad de Facebook.
+   >La API de Facebook permite hasta 500 audiencias personalizadas por cuenta de anuncio de Facebook.
 
 1. Escriba un **Nombre de audiencia**. Haga clic en **Actualizar**.
 
@@ -64,11 +64,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Todas las listas que inserte en Facebook se volverán estáticas. Las listas inteligentes de Marketo no actualizarán automáticamente la lista de audiencias en Facebook para reflejar los cambios realizados después de la transferencia.
-
-   >[!TIP]
-   >
-   >Consulte la [ruta de aprendizaje de Facebook para clientes de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Abarca todo lo que necesita saber, desde crear una página de Facebook hasta segmentar los anuncios de Facebook mediante las integraciones de red de anuncios de Marketo.
+   >Todas las listas que inserta en Facebook se quedan estáticas. Las listas inteligentes de Marketo no actualizarán automáticamente la lista de audiencias de Facebook para reflejar los cambios realizados después de la transferencia.
 
    >[!MORELIKETHIS]
    >

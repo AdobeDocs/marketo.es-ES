@@ -4,9 +4,9 @@ description: Descripciones de los permisos de funciones - Documentos de Marketo 
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 15%
 
 ---
@@ -33,7 +33,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 
 * Acceso a Adobe Connect: otorga a los usuarios acceso a la pantalla de Adobe Connect
 * Acceso a Adobe Experience Manager&#42;: otorga a los usuarios acceso a la pantalla de Adobe Experience Manager
-* Acceso a asignación de organización de Adobe &#42;: otorga a los usuarios acceso a la pantalla de asignación de organización de Adobe
+* Acceso a la asignación de organizaciones de Adobe&#42;: otorga a los usuarios acceso a la pantalla de asignación de organizaciones de Adobe
 * Acceso a la pista de auditoría de administración &#42;: otorga a los usuarios acceso a la pantalla Pista de auditoría de administración
 * Pista de auditoría de acceso &#42;: otorga a los usuarios acceso a la pista de auditoría de acceso
 * Pista de auditoría de acceso: otorga a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración
@@ -41,10 +41,10 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceso a canales: otorga a los usuarios acceso solo para modificar la etiqueta Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso: otorga a los usuarios acceso para habilitar un límite de comunicación en la administración
 * Acceso a CRM: otorga a los usuarios acceso a CRM, como [!DNL Salesforce] o [!DNL Microsoft Dynamics], en administración
-* Acceso [[!DNL Data.com]](https://data.com): otorga a los usuarios acceso a la acción de flujo Data.com
+* Acceso `Data.com`: otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso a la administración de correo electrónico: otorga a los usuarios acceso a la administración de correo electrónico para cambiar la configuración predeterminada, como cancelar la suscripción y personalizar la marca de los dominios
 * Acceso a socios de eventos: otorga a los usuarios acceso a LaunchPoint en administración
-* Acceder al uso compartido de audiencias del Experience Cloud: otorga a los usuarios acceso para sincronizar una audiencia de Adobe Experience Cloud a Marketo Engage
+* Acceso al uso compartido de audiencias de Experience Cloud: otorga a los usuarios acceso para sincronizar una audiencia de Adobe Experience Cloud a Marketo Engage
 * Acceso a Administración de campos: otorga a los usuarios acceso a Administración de campos en Administración
 * Carga de archivos de Access: permite a los usuarios cargar imágenes y archivos en Design Studio
 * Acceso a páginas de aterrizaje: otorga a los usuarios acceso a las páginas de aterrizaje en la administración
@@ -58,10 +58,10 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceso a Predictive Audiences&#42;: otorga a los usuarios acceso a la pantalla Predictive Audiences
 * Acceso a Revenue Cycle Analytics: otorga a los usuarios acceso a Revenue Cycle Analytics en Administración para configurar la sincronización de resumen y atribución
 * Acceder a funciones: otorga a los usuarios acceso para administrar y editar funciones, pero no para los usuarios
-* Acceder a la perspectiva de ventas: otorga a los usuarios acceso para administrar la perspectiva de ventas en Administración, para establecer el estado, la configuración de la API, la puntuación de persona y otras configuraciones
+* Acceso a Sales Insight: otorga a los usuarios acceso para administrar Sales Insight en Administración, para configurar el estado, la configuración de API, la puntuación de persona y otras configuraciones
 * Acceso al inicio de sesión único: otorga a los usuarios acceso para administrar el inicio de sesión único en la administración, para habilitar SAML y trabajar con la configuración de SAML y redirigir las direcciones URL de la página
 * Acceso a campaña inteligente: otorga a los usuarios acceso a la campaña inteligente en administración, para restringir los límites de personas calificadas
-* SOAP SOAP API de acceso: otorga a los usuarios acceso para administrar las API de los servicios web en la administración de los usuarios de
+* Acceso a la API de SOAP: otorga a los usuarios acceso para administrar las API de SOAP en los servicios web de administración
 * Etiquetas de acceso: otorga a los usuarios acceso a todas las etiquetas personalizadas excepto a la etiqueta de canal
 * Acceder al cofre del tesoro: otorga a los usuarios acceso a las características experimentales del cofre del tesoro en Administración
 * Acceder a usuarios: otorga a los usuarios acceso para editar y administrar usuarios (pero no funciones) en Administración
@@ -110,9 +110,9 @@ _&#42;Para evitar interrupciones a los usuarios existentes, este permiso se est�
 
 ## Acceder a presentaciones del calendario {#access-calendar-presentations}
 
-Proporciona a los usuarios acceso a las presentaciones del calendario; habilita la visualización del botón Presentations en la parte inferior.
+Proporciona a los usuarios acceso a las presentaciones del calendario; habilita la visualización del botón Presentaciones en la parte inferior.
 
-* Editar calendario Presentations: permite a los usuarios editar presentaciones en el calendario
+* Editar presentaciones de calendario: permite a los usuarios editar presentaciones en el calendario
 
 ## Acceder a Estudio de diseño {#access-design-studio}
 
@@ -146,7 +146,7 @@ Proporciona a los usuarios acceso a la ficha Design Studio y a la vista del árb
 * Acceder a Página de destino
 
    * Aprobar página de destino
-   * Eliminar página de destino
+   * Eliminar página de aterrizaje
    * Editar página de aterrizaje: edite, cree y clone páginas de aterrizaje
 
 * Acceder a Plantilla de página de destino
