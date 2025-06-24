@@ -86,10 +86,10 @@ Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dent
 
 ## Integración  {#integration}
 
-**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
 
 Ahora puede previsualizar de forma remota el correo electrónico fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-**[Reemplazar la API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Reemplazar la API de HTML](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
 
 Los desarrolladores pueden actualizar el contenido de HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar dentro de un solo sistema para mantener los recursos.
