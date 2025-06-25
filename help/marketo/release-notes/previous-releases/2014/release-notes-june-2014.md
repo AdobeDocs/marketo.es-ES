@@ -35,7 +35,7 @@ Cuando envía un correo electrónico de prueba desde [!DNL Sales Insight], los t
 
 ## API de REST de posible cliente {#lead-rest-api}
 
-Cree, lea y actualice posibles clientes mediante programación a través de nuestra nueva API ReST. Para comenzar con ReST, debe [crear un servicio personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketo. A continuación, vaya al [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obtener más información sobre el uso de esta API.
+Cree, lea y actualice posibles clientes mediante programación a través de nuestra nueva API ReST. Para comenzar con ReST, debe [crear un servicio personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketo. A continuación, vaya al [sitio para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api) para obtener más información sobre el uso de esta API.
 
 ## Actualización de página de campañas de Marketo Real-Time Personalization (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
