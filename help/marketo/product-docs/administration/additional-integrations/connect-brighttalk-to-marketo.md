@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695874
-description: "Conectar [!DNL BrightTALK] a Marketo - Documentos de Marketo - Documentación del producto"
-title: "Conectar [!DNL BrightTALK] a Marketo"
+description: Conectar  [!DNL BrightTALK] a Marketo - Documentos de Marketo - Documentación del producto
+title: Conectar [!DNL BrightTALK] a Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 1%
 
 ---
 
@@ -79,4 +79,4 @@ Aprenda a conectar el canal [!DNL BrightTALK] a la instancia de Marketo. Para el
 
 1. Vuelva a la pantalla de configuración del conector [!DNL BrightTALK] desde el paso 3 e introduzca las credenciales que guardó desde los pasos 12 y 14.
 
-Una vez autenticadas las credenciales, ha conectado oficialmente [!DNL BrightTALK] a Marketo. El siguiente paso es determinar [qué campos de datos desea sincronizar](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.
+Una vez autenticadas las credenciales, ha conectado oficialmente [!DNL BrightTALK] a Marketo. El siguiente paso es determinar qué campos de datos desea sincronizar. Si necesita ayuda, comuníquese con la atención al cliente en [BrightTALK](https://www.brighttalk.com/){target="_blank"}.
