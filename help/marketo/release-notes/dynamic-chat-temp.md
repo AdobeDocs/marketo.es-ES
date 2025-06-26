@@ -35,7 +35,7 @@ Hemos rediseñado la lógica de enrutamiento de chat en vivo en Dynamic Chat par
 
 * **Comportamiento específico de regla de enrutamiento**
 
-_**Enrutamiento de cuenta**_
+_&#x200B;**Enrutamiento de cuenta**&#x200B;_
 
 Si el dominio de correo electrónico de un visitante se asigna a una cuenta conocida, siempre se da prioridad al agente asignado.
 
@@ -53,7 +53,7 @@ Vuelve a un mensaje predeterminado (el peor caso).
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, Equipo o Personalizado) solo se tiene en cuenta si el enrutamiento de cuentas no es elegible (no hay dominio o agente coincidente).
 
-_**Enrutamiento personalizado/de equipo**_
+_&#x200B;**Enrutamiento personalizado/de equipo**&#x200B;_
 
 Estas reglas pueden devolver varios agentes aptos.
 
@@ -67,7 +67,7 @@ El sistema muestra el calendario del primer agente probado (si está activado), 
 
 Muestra el mensaje de reserva predeterminado.
 
-_**Enrutamiento Round Robin**_
+_&#x200B;**Enrutamiento Round Robin**&#x200B;_
 
 Cuando se utiliza como regla de enrutamiento principal, el sistema:
 
