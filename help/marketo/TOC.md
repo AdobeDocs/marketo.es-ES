@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 5%
 
 ---
@@ -311,7 +311,7 @@ ht-degree: 5%
             + [Reordenar &quot;Agregar opción&quot; en un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [Solicitar campaña](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Enviar alerta](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
-            + [Enviar email](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Enviar correo electrónico](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
             + [Acciones de flujo único desde la página de detalles de persona](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [Déclencheur y filtros para campañas inteligentes móviles](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Uso de un webhook en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
@@ -1958,6 +1958,7 @@ ht-degree: 5%
    + [Programación de versiones](release-notes/release-schedule.md)
    + [Versión actual](release-notes/current.md)
    + [Versión de Dynamic Chat](release-notes/dynamic-chat.md)
+   + [Versión TEMP. DE Dynamic Chat](release-notes/dynamic-chat-temp.md)
    + Versiones anteriores {#previous-releases}
       + 2025 {#2025}
          + [Notas de la versión: Enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
