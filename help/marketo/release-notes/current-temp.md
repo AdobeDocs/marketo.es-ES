@@ -4,16 +4,16 @@ title: Notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 4%
+source-wordcount: '450'
+ht-degree: 13%
 
 ---
 
-# Notas de la versión: mayo de 2025 {#release-notes-may-25}
+# Notas de la versión: julio de 2025 {#release-notes-july-25}
 
-A continuación encontrará todas las funciones incluidas en la versión de mayo de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de julio de 2025. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -23,12 +23,127 @@ Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aqu�
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **23 de mayo de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **11 de julio de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody>
+ <tr> 
+   <th style="width:65%">Función</th> 
+   <th style="width:10%">Estado</th>
+   <th style="width:25%">Documentación</th>
+  </tr>
   <tr> 
-   <td><strong>tokens de Déclencheur para cualquier atributo</strong>: Se ha ampliado la lista de tokens de déclencheur para admitir el uso de datos de cualquier atributo de actividad en los campos de Smart Campaign.</td> 
+   <td><strong>Correo electrónico de Designer - Kit de marca con el asistente de IA</strong>: mantenga la coherencia de la marca en todos los recursos de correo electrónico almacenando y administrando recursos de marca como colores, fuentes, logotipos, temas, contenido visual, directrices de conformidad, etc., todo en un solo lugar.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Designer de correo electrónico - Compatibilidad con CSS personalizado</strong>: al diseñar correos electrónicos, ahora puede agregar su propio CSS personalizado directamente en el Designer de correo electrónico.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Correo electrónico de Designer - Compatibilidad con el traslado de Assets y la eliminación de programas</strong>: cambie rápidamente la ubicación de un recurso de correo electrónico entre programas. Ahora también puede eliminar programas que contengan nuevos recursos de correo electrónico del diseñador.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Enviar correo electrónico a Designer - Compatibilidad con Firefox</strong>: El Designer de correo electrónico ahora es totalmente compatible con Mozilla Firefox. Para una mejor experiencia, mantenga siempre su navegador actualizado.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Simular contenido de la página de propiedades</strong>: simule contenido para recursos de correo electrónico de <i>Propiedades de correo electrónico</i> sin tener que volver a la pantalla de edición.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Control de acceso basado en roles para Assets</strong>: En la versión de mayo se implementó el Control de acceso basado en roles (RBAC) para los permisos de Edición, Aprobación y Eliminación. Los permisos de lectura ya están disponibles con esta versión.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Editar propiedades de correo electrónico para correos electrónicos publicados</strong>: realice ediciones en <i>Propiedades de correo electrónico</i> incluso después de que se publique el correo electrónico.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Email Designer - Seleccionar dominio de marca y configuración de IP del dominio</strong>: ahora puede seleccionar un "dominio de marca" y una "configuración de IP del dominio" para cada recurso de correo electrónico.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -38,10 +153,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Nueva característica de Analytics - Beta público**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conocido como Revenue Explorer y Advanced Report Builder) comenzó a implementarse para todos los usuarios actuales del Revenue Cycle Explorer a mediados de abril. Esta nueva herramienta ofrece una interfaz flexible de creación de informes y visualización en datos de Marketo Engage, que proporciona detalles granulares sobre progresión, rendimiento, etc. Ofrece una mejor interactividad y visualización, un rendimiento más rápido y una experiencia de usuario más fluida e intuitiva.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-Para acceder a esta función, debe haber adquirido el complemento de Analytics de BI avanzado. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
-
-* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 30 de junio de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
