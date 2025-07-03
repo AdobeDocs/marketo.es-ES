@@ -4,10 +4,11 @@ title: Notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 13%
+source-wordcount: '562'
+ht-degree: 11%
 
 ---
 
@@ -113,7 +114,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><strong>Designer de correo electrónico - Integración de GenStudio</strong>: integre GenStudio para el marketing de rendimiento desde los correos electrónicos para mejorar la eficacia del marketing y mantener la coherencia de la marca.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -123,7 +124,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><strong>Actualizaciones de notificación de código de error de API de REST</strong>: se han agregado dos clases adicionales de error de API de REST en las notificaciones en la aplicación: 606 - Límite de tasa máxima superado y 607 - Cuota diaria alcanzada.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -133,7 +134,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><strong>Mostrar campos estándar de miembros de programa en Administración de campos</strong>: ahora están visibles los campos de miembros de programa estándar y personalizados en <i>Administración de campos</i>.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -143,7 +144,17 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITLE</strong>: DESCRIPCIÓN.</td> 
+   <td><strong>Nombres de API de REST en Administración de campos</strong>: esta actualización permite a los administradores ver los nombres de los campos de API de REST sin tener que exportar la lista.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Mis tokens usados por la lista</strong>: vea la lista de recursos que usan un My token (hasta 50 recursos a la vez).</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -153,6 +164,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
