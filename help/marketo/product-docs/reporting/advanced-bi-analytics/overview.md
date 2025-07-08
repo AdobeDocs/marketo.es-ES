@@ -3,9 +3,9 @@ description: 'Información general avanzada de BI Analytics: Documentos de Marke
 title: Información general avanzada de BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
@@ -254,7 +254,17 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
 
 * Los usuarios existentes del Explorador de ingresos tienen acceso automáticamente a la nueva experiencia avanzada de BI Analytics.
 
-* Puede crear hasta 700 informes en Advanced BI Analytics.
+* Puede crear **hasta 700 informes** en Advanced BI Analytics.
+
+  >[!NOTE]
+  >
+  >Si tenía más de 700 informes en el Explorador de ingresos, algunos se han combinado con otros y se han consolidado a través de páginas dentro del informe.
+  >
+  >* Si un informe tenía una suscripción por correo electrónico, no se combinaba.
+  >
+  >* El resto de los informes de la _misma carpeta_ se combinaron en uno o más informes, por área de informe. Si había más de cinco informes para la esfera de presentación de informes, se consolidaron en más de un informe combinado.
+  >
+  >* Cada informe combinado no tiene más de cinco páginas.
 
 * Hay una limitación de 1 millón de filas por consulta en una visualización determinada. Si la consulta supera ese límite, recibirá el siguiente error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Para solucionarlo, reduzca el intervalo de fechas o ajuste los filtros del informe para reducir el número de filas en el resultado de la consulta.
 
