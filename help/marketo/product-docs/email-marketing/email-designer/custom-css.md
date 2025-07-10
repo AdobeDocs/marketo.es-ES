@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '620'
 ht-degree: 2%
 
 ---
 
 # Añadir CSS personalizadas al contenido del correo electrónico {#email-metadata}
 
-Al diseñar los correos electrónicos, puede agregar su propio CSS personalizado directamente en Marketo Engage Email Designer. Esta capacidad le permite aplicar estilos avanzados y específicos para obtener una mayor flexibilidad y control sobre el aspecto del contenido.
+Añada su propio CSS personalizado directamente en el Designer de correo electrónico de Marketo Engage para un estilo avanzado y específico.
 
 ## Definir CSS personalizado {#define-custom-css}
 
-Para añadir CSS personalizado al contenido del correo electrónico, siga los pasos a continuación.
+1. Asegúrese de que haya algún contenido definido en el Designer de correo electrónico añadiendo al menos un componente.
 
-1. Asegúrese de que haya algún contenido definido en el Designer de correo electrónico añadiendo al menos un componente. VÍNCULO: ¿CONSERVAR ESTO?
-
-1. Seleccione **[!UICONTROL Cuerpo]**, ya sea en el **[!UICONTROL árbol de navegación]** a la izquierda o en la parte superior del panel derecho. La sección **[!UICONTROL estilos CSS]** se muestra a la derecha.
+1. Seleccione **[!UICONTROL Cuerpo]**, ya sea en el **[!UICONTROL árbol de navegación]** de la izquierda o en el panel derecho. **[!UICONTROL Estilos CSS]** se muestra a la derecha.
 
    CAPTURA DE PANTALLA
 
    >[!NOTE]
    >
-   >La sección **[!UICONTROL estilos CSS]** solo está disponible cuando el contenido ya está presente en el editor.
+   >La sección **[!UICONTROL estilos CSS]** solo está disponible cuando el contenido está presente en el editor.
 
-1. Haga clic en el botón **[!UICONTROL Agregar CSS personalizado]**.
+1. Haga clic en el botón **[!UICONTROL + Agregar CSS]** personalizado.
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ Para añadir CSS personalizado al contenido del correo electrónico, siga los pa
 
    >[!NOTE]
    >
-   >Al usar una [plantilla con contenido bloqueado](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md), no se puede agregar CSS personalizado al contenido. La etiqueta del botón cambia a **[!UICONTROL Ver CSS personalizado]** y cualquier CSS personalizado que ya esté presente en el contenido es de solo lectura.
+   >No se puede agregar CSS personalizado al contenido al usar una [plantilla con contenido bloqueado](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). La etiqueta del botón cambia a **[!UICONTROL Ver CSS personalizado]** y cualquier CSS personalizado que se muestre será de solo lectura.
 
-1. Guarde el CSS personalizado y compruebe que el CSS personalizado se aplica correctamente al contenido. Si no es así, consulte la sección [Solución de problemas](#troubleshooting).
+1. Guarde el CSS personalizado y asegúrese de que se aplica al contenido. Si no es así, consulte la sección [Solución de problemas](#troubleshooting).
 
    CAPTURA DE PANTALLA
 
-1. Si elimina todo el contenido, la sección desaparece y ya no se aplica el CSS personalizado definido anteriormente.
+   >[!NOTE]
+   >
+   >Si elimina todo el contenido, la sección desaparece y ya no se aplica el CSS personalizado definido anteriormente. Vuelva a agregar contenido para que vuelva a aparecer la sección **[!UICONTROL estilos CSS]**. Se vuelve a aplicar el CSS personalizado.
 
-1. Vuelva a agregar contenido al editor para que vuelva a aparecer la sección **[!UICONTROL estilos CSS]**. Se vuelve a aplicar el CSS personalizado.
-
-## Asegúrese de utilizar CSS válido {#use-valid-css}
+## Uso de CSS válido {#using-valid-css}
 
 Puede introducir cualquier cadena CSS válida en el área de texto **[!UICONTROL Agregar CSS]** personalizado. El CSS con el formato correcto se aplica inmediatamente al contenido.
 
 >[!CAUTION]
 >
->Los usuarios son responsables de la seguridad de su CSS personalizado. Asegúrese de que CSS no introduzca vulnerabilidades ni conflictos con el contenido existente.
+>Usted es responsable de la seguridad de su CSS personalizado. Asegúrese de que CSS no introduzca vulnerabilidades ni conflictos con el contenido existente.
 >
 >Evite utilizar CSS que pudiera romper involuntariamente el diseño o la funcionalidad del contenido.
 
-+++ Ejemplos de CSS
++++ Ejemplos de CSS válido
 
 A continuación se muestran ejemplos de CSS válido.
 
@@ -207,23 +206,23 @@ Su CSS personalizado se agrega al final de la sección `<head>` como parte de un
 
 El panel **[!UICONTROL Configuración]** de Designer de correo electrónico no interpreta ni valida la CSS personalizada. Es totalmente independiente y solo se puede modificar mediante la opción **[!UICONTROL Agregar CSS personalizado]**.
 
-### Protecciones: contenido importado
+### Protecciones: contenido importado {#guardrails}
 
 Si desea utilizar CSS personalizado con contenido importado en el Designer de correo electrónico, tenga en cuenta lo siguiente:
 
 * Si [importa contenido externo de HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html), incluido CSS, a menos que convierta ese contenido, estará en **[!UICONTROL modo de compatibilidad]**, donde la sección **[!UICONTROL estilos CSS]** no está disponible.
 
-* Si se importa contenido creado con el Designer de correo electrónico, incluido CSS aplicado a través de la opción **[!UICONTROL Agregar CSS personalizado]**, el CSS aplicado anteriormente se podrá ver y editar desde la misma opción.
+* Si al importar contenido creado con Email Designer se incluye CSS aplicado a través de la opción **[!UICONTROL Agregar CSS personalizado]**, el CSS aplicado anteriormente será visible y editable desde la misma opción.
 
 ## Resolución de problemas {#troubleshooting}
 
-Si no se aplica el CSS personalizado, tenga en cuenta las siguientes opciones.
+Si no se aplica el CSS personalizado, pruebe las sugerencias siguientes.
 
 * Asegúrese de que el CSS sea válido y esté libre de errores de sintaxis (como llaves que faltan, nombres de propiedad incorrectos). [Descubra cómo](#use-valid-css)
 
-* Asegúrese de que su CSS se agrega a la etiqueta `<style>` con el atributo `data-name="global-custom"`.
+* Asegúrese de que su CSS se esté agregando a la etiqueta `<style>` con el atributo `data-name="global-custom"`.
 
-* Compruebe si la etiqueta de estilo `global-custom` tiene el atributo `data-disabled` establecido en `true`. En este caso, no se aplica el CSS personalizado.
+* Compruebe si la etiqueta de estilo `global-custom` tiene el atributo `data-disabled` establecido en `true`. Si es así, no se aplica el CSS personalizado.
 
 +++ Por ejemplo:
 
@@ -233,9 +232,9 @@ Si no se aplica el CSS personalizado, tenga en cuenta las siguientes opciones.
 
 +++
 
-* Asegúrese de que otras reglas CSS no anulen el CSS.
+* Asegúrese de que otras reglas CSS no anulen su CSS.
 
-   * Utilice las herramientas para desarrolladores del navegador para inspeccionar el contenido y comprobar que el CSS está dirigido a los selectores correctos.
+   * Utilice las herramientas para desarrolladores del navegador para inspeccionar el contenido y verificar que el CSS está dirigido a los selectores correctos.
 
    * Considere agregar `!important` a sus declaraciones para asegurarse de que tengan prioridad.
 
@@ -248,3 +247,7 @@ Si no se aplica el CSS personalizado, tenga en cuenta las siguientes opciones.
      ```
 
 +++
+
+>[!NOTE]
+>
+>La compatibilidad con Marketo Engage no está configurada para ayudar a solucionar problemas con CSS personalizado. Para obtener ayuda sobre CSS, consulte con un desarrollador web.
