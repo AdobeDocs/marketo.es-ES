@@ -4,9 +4,9 @@ description: 'Creación de un campo personalizado en Marketo: documentos de Mark
 title: Creación de un campo personalizado en Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -31,24 +31,32 @@ Si necesita un nuevo campo personalizado en Marketo Engage para almacenar o capt
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Elija el campo Type. Esto cambiará la forma en que se procesa en las listas inteligentes y en los formularios de Marketo.
-
-   >[!TIP]
-   >
-   >Consulte el [Glosario de tipos de campos personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Elija _[!UICONTROL Objeto]_.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Escriba [!UICONTROL Name] tal como desea que aparezca en Marketo. El [!UICONTROL nombre de API] se genera automáticamente. Puede modificarlo, pero no se puede cambiar el nombre una vez configurado. Haga clic en **[!UICONTROL Crear]** cuando haya terminado.
+   >[!NOTE]
+   >
+   >Aunque no puede seleccionar el objeto _Company_ usted mismo, puede solicitarlo poniéndose en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+1. Elija el campo _[!UICONTROL Type]_. Esto cambiará la forma en que se procesa en las listas inteligentes y en los formularios de Marketo.
+
+   >[!TIP]
+   >
+   >Consulte el [Glosario de tipos de campos personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+   ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Escriba _[!UICONTROL Name]_ tal como desea que aparezca en Marketo (el _[!UICONTROL Nombre de API]_ se genera automáticamente). Elija con cuidado, ya que no se puede cambiar el nombre después de guardar. Haga clic en **[!UICONTROL Crear]** cuando haya terminado.
 
 >[!CAUTION]
 >
 >Los nombres de campo no pueden comenzar con los siguientes caracteres: **. &amp; +[]**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
->SOAP El nombre de la API lo utilizan la API de y otros procesos backend.
+>El nombre de la API lo utilizan la API de SOAP y otros procesos backend.
 
 Ahora puede utilizar este campo personalizado en formularios, pasos de flujo y listas inteligentes.
