@@ -6,9 +6,9 @@ description: Los usuarios de Marketo Engage pueden integrar su cuenta de Litmus 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
+source-git-commit: e5bb92d007db05fc6d0ee1319cb989ad60063e48
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engag
 
 >[!AVAILABILITY]
 >
->Esta función está disponible para todos los usuarios de Marketo Engage que tengan una cuenta activa de Litmus.
+>Esta característica está disponible para todos los usuarios de Marketo Engage que tengan una cuenta activa de [Litmus Enterprise](https://www.litmus.com/enterprise){target="_blank"}.
 
 ## Cómo usar {#how-to-use}
 
