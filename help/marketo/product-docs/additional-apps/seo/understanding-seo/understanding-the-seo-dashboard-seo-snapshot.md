@@ -4,7 +4,7 @@ description: Explicación del tablero de SEO - Instantánea de SEO - Documentos 
 title: 'Explicación del tablero de SEO: instantánea de SEO'
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Esta sección muestra la clasificación del sitio para las [palabras clave de de
 
 ## [!UICONTROL Puntuación media de optimización de la página] {#average-page-optimization-score}
 
-La puntuación de optimización promedio de la página es una puntuación Marketo propietaria que mide todas las páginas del sitio en una escala de 1 a 100.
+[!UICONTROL Puntuación promedio de optimización de la página] es una puntuación de Marketo registrada que mide todas las páginas del sitio en una escala del 1 al 100.
 
 Se basa en una compilación de docenas de prácticas recomendadas. Una puntuación de 70 o superior indica un sitio bien optimizado.
 
@@ -65,4 +65,4 @@ Ahora echemos un vistazo a la sección [!UICONTROL Recommendations] de este pane
 
 >[!MORELIKETHIS]
 >
->[Explicación del panel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Explicación del panel: Recomendaciones de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

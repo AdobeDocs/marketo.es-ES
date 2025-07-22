@@ -3,7 +3,7 @@ description: Conmutador de alternancia - Documentos de Marketo - Documentación 
 title: Conmutador de conmutación
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -22,11 +22,11 @@ El conmutador de alternancia le permite alternar entre la interfaz clásica de M
 
 Habilite el conmutador de alternancia para roles individuales o todos los roles. Así es como.
 
-1. En Marketo Engage, haga clic en **Administrador**.
+1. En Marketo Engage, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Haga clic en **Nueva experiencia**.
+1. Haga clic en **[!UICONTROL Nueva experiencia]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -50,7 +50,7 @@ Para habilitarlo para _todas las_ características, haga clic en el icono de eng
 
 ![](assets/toggle-switch-6.png)
 
-Seleccione **Habilitar para todas las características disponibles** y haga clic en **Aceptar**.
+Seleccione **[!UICONTROL Habilitar para todas las características disponibles]** y haga clic en **[!UICONTROL Aceptar]**.
 
 ![](assets/toggle-switch-7.png)
 

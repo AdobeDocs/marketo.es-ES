@@ -3,7 +3,7 @@ description: 'Añadir identidad: Documentos de Marketo: documentación del produ
 title: Agregar identidad
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -22,19 +22,19 @@ Añada una identidad cuando tenga varias direcciones de correo electrónico desd
 
    ![](assets/add-identity-1.png)
 
-1. Haga clic en **Configuración de correo electrónico**.
+1. Haga clic en **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/add-identity-2.png)
 
-1. Haga clic en **Agregar identidad**.
+1. Haga clic en **[!UICONTROL Agregar identidad]**.
 
    ![](assets/add-identity-3.png)
 
-1. Introduzca la información (los campos de correo electrónico y nombre son obligatorios) y haga clic en **Crear**.
+1. Introduzca la información (los campos de correo electrónico y nombre son obligatorios) y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/add-identity-4.png)
 
-1. A continuación, recibirá un mensaje de correo electrónico llamado &quot;Verifique la dirección de correo electrónico&quot;. Para verificarla, haga clic en **Verificar dirección de correo electrónico**.
+1. A continuación, recibirá un mensaje de correo electrónico llamado &quot;Verifique la dirección de correo electrónico&quot;. Para verificarla, haga clic en **[!UICONTROL Verificar dirección de correo electrónico]**.
 
    ![](assets/add-identity-5.png)
 

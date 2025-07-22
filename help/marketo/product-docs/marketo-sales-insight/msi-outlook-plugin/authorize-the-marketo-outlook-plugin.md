@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Autorizar el complemento de Marketo Outlook - Documentos de Marketo - Documentación del producto
-title: Autorizar el complemento de Marketo Outlook
+description: Autorizar el complemento Marketo [!DNL Outlook] Plugin - Documentos de Marketo - Documentación del producto
+title: Autorizar el complemento Marketo [!DNL Outlook] Plugin
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Autorizar el complemento de Marketo Outlook {#authorize-the-marketo-outlook-plugin}
+# Autorizar el complemento de Marketo [!DNL Outlook] {#authorize-the-marketo-outlook-plugin}
 
-Para utilizar el complemento MSI de Marketo en Outlook, debe autorizarlo.
+Para usar el complemento MSI de Marketo en [!DNL Outlook], debe autorizarlo.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Para utilizar el complemento MSI de Marketo en Outlook, debe autorizarlo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Cuando aparezca el cuadro de diálogo Autorizar complemento de Marketo, haga clic en **Solicitar código**.
+1. Cuando aparezca el cuadro de diálogo [!UICONTROL Autorizar complemento de Marketo], haga clic en **[!UICONTROL Código de solicitud]**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. El código se envía a la dirección de correo electrónico predeterminada de la cuenta de Outlook.
+1. El código se enviará a la dirección de correo electrónico predeterminada de la cuenta [!DNL Outlook].
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Si la dirección de correo electrónico predeterminada de la cuenta de Outlook desprotege, recibirá una clave de registro. Ingrésalo en la ventana emergente y haz clic en **Enviar**.
+1. Si se retira la dirección de correo electrónico predeterminada de la cuenta [!DNL Outlook], recibirá una clave de registro. Ingrésalo en la ventana emergente y haz clic en **[!UICONTROL Enviar]**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

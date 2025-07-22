@@ -4,7 +4,7 @@ description: Uso de transiciones del modelo de ingresos - Documentos de Marketo 
 title: Uso de transiciones del modelo de ingresos
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -21,19 +21,19 @@ Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora
 
 ![](assets/one-2.png)
 
-1. Haga clic con el botón derecho (también puede hacer doble clic) en una de las flechas para comenzar y seleccione **Editar transición**.
+1. Haga clic con el botón derecho (también puede hacer doble clic) en una de las flechas para comenzar y seleccione **[!UICONTROL Editar transición]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Las reglas de transición &quot;Anónimo ⇒ conocido&quot; no se pueden editar.
+   >No se pueden editar las reglas de transición &#39;[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]&#39;.
 
 1. Se abrirá una nueva pestaña para la transición seleccionada.
 
    ![](assets/three-1.png)
 
-1. Las transiciones controlan cómo se mueven los posibles clientes entre etapas. Arrastre el déclencheur (o filtro) que desee desde la derecha y suéltelo en cualquier lugar del lienzo. En este ejemplo, se selecciona el déclencheur Rellenar formulario.
+1. Las transiciones controlan cómo se mueven los posibles clientes entre etapas. Arrastre el déclencheur (o filtro) que desee desde la derecha y suéltelo en cualquier lugar del lienzo. En este ejemplo, seleccionaremos el déclencheur **[!UICONTROL Rellena formulario]**.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora
 
    ![](assets/five-2.png)
 
-1. Para volver al modelo, haz clic en **Modeler**.
+1. Para volver al modelo, haz clic en **[!UICONTROL Modeler]**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora
 
    ![](assets/seven.png)
 
-1. Una vez que haya configurado las reglas para todas las transiciones, haga clic en **Validar** para verificarlas.
+1. Una vez que haya configurado las reglas para todas las transiciones, haga clic en **[!UICONTROL Validar]** para verificarlas.
 
    ![](assets/eight.png)
 

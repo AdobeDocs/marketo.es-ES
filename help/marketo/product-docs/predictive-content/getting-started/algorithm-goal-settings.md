@@ -4,10 +4,10 @@ description: Configuración de objetivo de algoritmo - Documentos de Marketo - D
 title: Configuración de objetivo de algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 3%
 
 Configuración de objetivo de algoritmo le permite establecer el objetivo final del algoritmo de inteligencia artificial de contenido predictivo para alinearlo con los objetivos de su empresa.
 
-1. En Contenido predictivo, haga clic en el nombre de inicio de sesión y seleccione **Configuración de contenido**.
+1. En Contenido predictivo, haga clic en el nombre de inicio de sesión y seleccione **[!UICONTROL Configuración de contenido]**.
 
    ![](assets/1.png)
 
-1. En Configuración de contenido, seleccione **Algoritmo**.
+1. En Configuración de contenido, seleccione **[!UICONTROL Algoritmo]**.
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ Configuración de objetivo de algoritmo le permite establecer el objetivo final 
 
    ![](assets/three-new.png)
 
-   | **Clics** | Mostrar el contenido que tiene más probabilidades de hacer que la persona que lo visualiza haga clic en él |
+   | **[!UICONTROL Clics]** | Mostrar el contenido que tiene más probabilidades de hacer que la persona que lo visualiza haga clic en él |
    |---|---|
-   | **Conversiones** | Mostrar el contenido que tiene más probabilidades de hacer que la persona que ve el contenido envíe un formulario |
+   | **[!UICONTROL Conversiones]** | Mostrar el contenido que tiene más probabilidades de hacer que la persona que ve el contenido envíe un formulario |
 
-1. Haga clic en **Guardar** cuando termine.
+1. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/four.png)

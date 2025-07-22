@@ -3,9 +3,9 @@ description: 'Conectar nuevos administradores a Marketo: documentos de Marketo: 
 title: Conectar el nuevo administrador a Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Si el otro administrador ya está conectado a Marketo, solo necesita realizar el
 
 Si el segundo administrador no está conectado a Marketo como administrador...
 
-1. El administrador principal debe desconectar al segundo administrador de Marketo de Configuración > Marketo > Acceso de usuario.
+1. El administrador principal debe desconectar al segundo administrador de Marketo de [!UICONTROL Configuración] > Marketo > [!UICONTROL Acceso de usuario].
 
-1. El administrador secundario inicia sesión en su cuenta MSC, va a Configuración > Marketo y hace clic en **Conectar**.
+1. El administrador secundario inicia sesión en su cuenta MSC, va a [!UICONTROL Configuración] > Marketo y hace clic en **[!UICONTROL Conectar]**.
 
 1. Ahora el usuario secundario está conectado a Marketo como administrador.
 
@@ -32,7 +32,7 @@ Si el segundo administrador no está conectado a Marketo como administrador...
 
 Si decide eliminar el administrador que configuró la integración de Marketo, consulte este artículo para obtener más información.
 
-La integración de Marketo estará vinculada a un usuario administrador de acciones/conexión de ventas. Normalmente, es el administrador que primero hace clic en el botón &quot;Conectar&quot; en la página de conexión de Marketo y establece la conexión.
+La integración de Marketo se vinculará a un usuario administrador de [!DNL Sales Connect]/acciones. Normalmente, es el administrador que primero hizo clic en el botón **[!UICONTROL Conectar]** de la página de conexión de Marketo y estableció la conexión.
 
 Para eliminar el administrador que estableció la conexión de Marketo, otro usuario administrador debe establecer primero una nueva conexión. Hemos enumerado las tareas siguientes que deben completarse para poder realizar esta acción.
 
@@ -52,11 +52,11 @@ Con el fin de simplificar las instrucciones, nos referiremos al administrador co
 
 El administrador A (administrador originalmente responsable de la conexión) debe seguir estos pasos.
 
-1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 
 1. Haga clic en **Marketo**.
 
-1. Haga clic en **Acceso de usuario**.
+1. Haga clic en **[!UICONTROL Acceso de usuario]**.
 
 1. Busque el administrador para el que desee establecer la nueva conexión de Marketo.
 
@@ -66,20 +66,20 @@ El administrador A (administrador originalmente responsable de la conexión) deb
 
 Estos pasos deben ir seguidos por el administrador B (nuevo administrador)
 
-1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 
 1. Haga clic en **Marketo**.
 
-1. Haga clic en **Desconectar**.
+1. Haga clic en **[!UICONTROL Desconectar]**.
 
 **Desconectar la integración de Marketo para el administrador A**
 
 Estos pasos deben ir seguidos por el administrador A (administrador conectado originalmente).
 
-1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 
 1. Haga clic en **Marketo**.
 
-1. Haga clic en **Desconectar**.
+1. Haga clic en **[!UICONTROL Desconectar]**.
 
-Ahora que un nuevo administrador ha establecido una conexión con Marketo y se ha desconectado el administrador original, el administrador conectado originalmente se puede eliminar de forma segura de la instancia de Sales Connect/Actions.
+Ahora que un nuevo administrador ha establecido una conexión con Marketo y se ha desconectado el administrador original, el administrador conectado originalmente se puede eliminar de forma segura de la instancia [!DNL Sales Connect]/Actions.

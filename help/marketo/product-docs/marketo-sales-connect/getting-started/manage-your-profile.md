@@ -3,7 +3,7 @@ description: 'Administrar el perfil: documentos de Marketo, documentación del p
 title: Administrar su perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -12,17 +12,17 @@ ht-degree: 4%
 
 # Administrar su perfil {#manage-your-profile}
 
-En la página Mi perfil puede actualizar su nombre, el idioma, la configuración regional y la zona horaria de su cuenta, así como cambiar la contraseña.
+En tu página [!UICONTROL Mi perfil] puedes actualizar tu nombre, el idioma, la configuración regional y la zona horaria de tu cuenta, y también cambiar tu contraseña.
 
 ## Detalles de la cuenta {#account-details}
 
 Aquí es donde puede actualizar su nombre y/o contraseña.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. La página Mi perfil se abrirá de forma predeterminada. Para actualizar tu nombre, simplemente escribe los cambios y haz clic en **Guardar**.
+1. La página Mi perfil se abrirá de forma predeterminada. Para actualizar tu nombre, simplemente escribe los cambios y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/manage-your-profile-2.png)
 
@@ -34,7 +34,7 @@ También puede cambiar la contraseña en esta sección. Los pasos se describen e
 
 ## Sus integraciones {#your-integrations}
 
-En el lado derecho de la página, la sección Sus integraciones proporciona el estado de todas las conexiones de la cuenta.
+En el lado derecho de la página, la sección [!UICONTROL Sus integraciones] proporciona el estado de todas las conexiones de su cuenta.
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ A continuación se indica cómo cambiar el idioma, la configuración regional o 
 >
 >Idiomas admitidos: inglés, francés, alemán, japonés, portugués y español.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para cambiar el idioma, haga clic en la lista desplegable **Idioma** y elija.
+1. Para cambiar el idioma, haga clic en la lista desplegable **[!UICONTROL Idioma]** y elija.
 
    ![](assets/manage-your-profile-5.png)
 
-1. La configuración regional hace referencia a la región en la que se habla ese idioma. Haga clic en el menú desplegable **Configuración regional** y elija.
+1. La configuración regional hace referencia a la región en la que se habla ese idioma. Haga clic en el menú desplegable **[!UICONTROL Configuración regional]** y elija.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Haga clic en el menú desplegable **Su zona horaria** y elija una.
+1. Haga clic en el menú desplegable **[!UICONTROL Su zona horaria]** y elija una.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Haga clic en **Guardar** cuando termine.
+1. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/manage-your-profile-8.png)
 

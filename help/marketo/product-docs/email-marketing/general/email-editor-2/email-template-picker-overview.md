@@ -4,7 +4,7 @@ description: Información general del selector de plantillas de correo electrón
 title: Resumen del selector de plantillas de correo electrónico
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -17,27 +17,27 @@ Cuando [crea un correo electrónico](/help/marketo/product-docs/email-marketing/
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Name** será el nombre del correo electrónico que cree a partir de la plantilla, no la propia plantilla. **Descripción** también se aplica al correo electrónico y es opcional.
+**[!UICONTROL Name]** será el nombre del correo electrónico que cree a partir de la plantilla, no la propia plantilla. **[!UICONTROL Descripción]** también se aplica al correo electrónico y es opcional.
 
 ![](assets/two-2.png)
 
-Si el correo electrónico es esencial y desea que eluda los límites de comunicación, [haga que sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **Abrir en el editor** está seleccionado de forma predeterminada y simplemente significa que deseas empezar a editar el nuevo correo electrónico de inmediato. **Crear** significa, ¡crear!
+Si el correo electrónico es esencial y desea que eluda los límites de comunicación, [haga que sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **[!UICONTROL Abrir en el editor]** está seleccionado de forma predeterminada y simplemente significa que deseas empezar a editar el nuevo correo electrónico de inmediato. **[!UICONTROL Crear]** significa, ¡crear!
 
 ![](assets/three-2.png)
 
-**Plantillas iniciales** incluye una colección de plantillas de correo electrónico adaptables listas para usar. Puede usarlos tal cual, o personalizarlos a su gusto.
+**[!UICONTROL Plantillas iniciales]** incluye una colección de plantillas de correo electrónico adaptables listas para usar. Puede usarlos tal cual, o personalizarlos a su gusto.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Mis plantillas** se compone de todas las plantillas que ha creado. También puede tener carpetas.
+**[!UICONTROL Mis plantillas]** se compone de todas las plantillas que ha creado. También puede tener carpetas.
 
 ![](assets/five-2.png)
 
-Todas las carpetas que aparezcan en Correos electrónicos > Plantillas en el árbol de Design Studio estarán disponibles en **Mis plantillas**.
+Todas las carpetas que aparezcan bajo **[!UICONTROL Correos electrónicos]** > **[!UICONTROL Plantillas]** en el árbol de [!UICONTROL Design Studio] estarán disponibles en **[!UICONTROL Mis plantillas]**.
 
 ![](assets/six-1.png)
 
-Para obtener una vista previa de una plantilla, pasa el ratón sobre su miniatura y haz clic en **Vista previa**. También puede hacer doble clic en él.
+Para obtener una vista previa de una plantilla, pasa el ratón sobre su miniatura y haz clic en **[!UICONTROL Vista previa]**. También puede hacer doble clic en él.
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ El visor muestra cómo se representará la plantilla en un equipo de escritorio.
 
 ![](assets/nine-1.png)
 
-Si te gusta esta plantilla, selecciónela haciendo clic en **Seleccionar** en la parte inferior derecha. ¿Quieres seguir buscando? Haz clic en **X** en la esquina superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
+Si te gusta esta plantilla, selecciónela haciendo clic en **[!UICONTROL Seleccionar]** en la parte inferior derecha. ¿Quieres seguir buscando? Haz clic en **X** en la esquina superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
 
 ![](assets/ten-1.png)
 

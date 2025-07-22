@@ -4,7 +4,7 @@ description: 'Actualización de un informe: documentos de Marketo, documentació
 title: Actualizar un informe
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Después de ver un informe, Marketo lo almacena en la base de datos para que se 
 
    ![](assets/two.png)
 
-1. También puede actualizar el informe haciendo clic en el menú **Acciones de informe** y seleccionando **Actualizar informe**.
+1. También puede actualizar el informe haciendo clic en el menú **[!UICONTROL Acciones de informe]** y seleccionando **[!UICONTROL Actualizar informe]**.
 
    ![](assets/three.png)
 

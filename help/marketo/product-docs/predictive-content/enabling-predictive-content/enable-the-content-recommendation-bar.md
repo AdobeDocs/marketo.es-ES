@@ -4,7 +4,7 @@ description: 'Habilitar la barra de recomendaciones de contenido: documentos de 
 title: Habilitar la barra de recomendaciones de contenido
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Habilitar la barra de recomendaciones de contenido {#enable-the-content-recommendation-bar}
 
-El motor de recomendación de contenido utiliza análisis predictivos y algoritmos de aprendizaje automático para ofrecer contenido relevante a cada visitante web. El motor de recomendaciones predice qué contenido funcionaría mejor por visitante. El contenido del motor se supervisa y controla en la página de Recommendations, lo que le ayuda a optimizar el retorno de la inversión del contenido.
+El motor de recomendación de contenido utiliza análisis predictivos y algoritmos de aprendizaje automático para ofrecer contenido relevante a cada visitante web. El motor de recomendaciones predice qué contenido funcionaría mejor por visitante. El contenido del motor se supervisa y controla en la página Recommendations, lo que le ayuda a optimizar el ROI del contenido.
 
 >[!PREREQUISITES]
 >
@@ -29,19 +29,19 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
 ## Habilitar y personalizar la barra de recomendaciones de contenido {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vaya a **Configuración de contenido**.
+1. Vaya a **[!UICONTROL Configuración de contenido]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Haga clic en **Barra**.
+1. Haga clic en **[!UICONTROL Barra]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Para habilitar la barra de recomendaciones para una dirección URL, simplemente haz clic en **Activado** y **Guardar**.
+1. Para habilitar la barra de recomendaciones para una dirección URL, simplemente haz clic en **[!UICONTROL Activado]** y **[!UICONTROL Guardar]**.
 
    ![](assets/bar-enable.png)
 
-1. Para personalizar una dirección URL, seleccione colores, estilo, formato, flechas para la barra de recomendaciones y páginas para incluir o excluir la barra. Personalice para adaptarlo a la marca de su sitio web. Haga clic en **Guardar**.
+1. Para personalizar una dirección URL, seleccione colores, estilo, formato, flechas para la barra de recomendaciones y páginas para incluir o excluir la barra. Personalice para adaptarlo a la marca de su sitio web. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,7 +58,7 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
 ## Consideraciones de barra de recomendaciones {#recommendation-bar-considerations}
 
-* Necesita al menos un fragmento de contenido para que la barra de recomendaciones se establezca en **Activado** en la página de Recommendations para que funcione el motor de recomendaciones. Si no hay contenido habilitado y la barra está establecida en **Activado**, el efecto de flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
+* Se necesita al menos un fragmento de contenido para que la barra de recomendaciones se establezca en **[!UICONTROL Activado]** en la página Recomendaciones para que funcione el motor de recomendaciones. Si no hay contenido habilitado y la barra está establecida en **[!UICONTROL Activado]**, el efecto de flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
 
 * Cuanto más contenido se ejecute en el motor de recomendación, mejor para el algoritmo para probar y aprender qué contenido funciona mejor. Recomendamos empezar con 10 a 20 piezas de contenido activas y en ejecución, y seguir añadiendo nuevas.
 * El fragmento de contenido que habilite para la recomendación debe incluir la etiqueta Javascript RTP. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.

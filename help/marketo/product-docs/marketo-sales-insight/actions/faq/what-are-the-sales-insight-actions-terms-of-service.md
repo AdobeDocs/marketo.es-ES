@@ -1,19 +1,19 @@
 ---
-description: ¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas? - Documentos de Marketo - Documentación del producto
-title: ¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas?
+description: ¿Cuáles son los términos de servicio de las acciones de Insight de ventas? - Documentos de Marketo - Documentación del producto
+title: ¿Cuáles son los términos de servicio de las acciones de Insight de ventas?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# ¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas? {#what-are-the-sales-insight-actions-terms-of-service}
+# ¿Cuáles son los términos de servicio de [!DNL Sales Insight Actions]? {#what-are-the-sales-insight-actions-terms-of-service}
 
-Los Términos de servicio de las acciones de conocimiento de ventas se encuentran [aquí](https://documents.marketo.com/toutapp/terms).
+Los términos de servicio de [!DNL Sales Insight Actions] se pueden encontrar [aquí](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->&quot;ToutApp&quot; es el nombre original de Acciones de perspectiva de ventas.
+>&quot;ToutApp&quot; es el nombre original de [!DNL Sales Insight Actions].

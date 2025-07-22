@@ -4,7 +4,7 @@ description: 'Aprobación o desaprobación de un programa de correo electrónico
 title: Aprobar o desaprobar un programa de correo electrónico
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A continuación se muestra cómo:
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A
    >
    >Si no aprueba su programa de correo electrónico, el correo electrónico no se enviará.
 
-1. En el mosaico **Aprobación**, continúe y haga clic en **Aprobar programa**.
+1. En el mosaico **[!UICONTROL Aprobación]**, continúe y haga clic en **[!UICONTROL Aprobar programa]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A
 
 Si cambia de opinión y decide que no desea que se publique, puede desaprobar el programa de correo electrónico.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Si cambia de opinión y decide que no desea que se publique, puede desaprobar el
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. En el mosaico **Aprobación**, simplemente haga clic en **Desaprobar programa**.
+1. En el mosaico **[!UICONTROL Aprobación]**, simplemente haga clic en **[!UICONTROL Desaprobar programa]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

@@ -4,7 +4,7 @@ description: 'Creación de una plantilla de correo electrónico: documentos de M
 title: Crear una plantilla de correo electrónico
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Siga estos pasos para crear una nueva plantilla de correo electrónico.
 
 >[!NOTE]
 >
->El Soporte de Marketo no está configurado para ayudar a solucionar problemas con el HTML personalizado. Para obtener ayuda del HTML, consulte con un desarrollador web.
+>La asistencia de Marketo no está configurada para ayudar a solucionar problemas de HTML personalizado. Para obtener ayuda de HTML, consulte con un desarrollador web.
 
 >[!CAUTION]
 >
@@ -25,19 +25,19 @@ Siga estos pasos para crear una nueva plantilla de correo electrónico.
 
 ## Crear nueva plantilla de correo electrónico {#create-a-new-email-template}
 
-1. Haga clic en **Design Studio**.
+1. Haga clic en **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nuevo** y luego seleccione **Nueva plantilla de correo electrónico**.
+1. Haga clic en **[!UICONTROL Nuevo]** y luego seleccione **[!UICONTROL Nueva plantilla de correo electrónico]**.
 
    ![](assets/ds-two.png)
 
-1. Asigne un nombre a la nueva plantilla y haga clic en **Crear**.
+1. Asigne un nombre a la nueva plantilla y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/three-1.png)
 
-1. Para empezar a editar la nueva plantilla, haga clic en **Editar borrador**.
+1. Para empezar a editar la nueva plantilla, haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ Siga estos pasos para crear una nueva plantilla de correo electrónico.
 
 Si ha creado un correo electrónico que desea guardar como plantilla para uso futuro, siga estos sencillos pasos.
 
-1. Haga clic en **Actividades de marketing**.
+1. Haga clic en **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Busque y seleccione su correo electrónico, luego haga clic en **Editar borrador**.
+1. Busque y seleccione su correo electrónico, luego haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en el menú desplegable **Acciones de correo electrónico** y seleccione **Guardar como plantilla**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Guardar como plantilla]**.
 
    ![](assets/four-1.png)
 
-1. Haga clic en la lista desplegable **Carpeta**, seleccione dónde desea que se encuentre la plantilla y haga clic en **Guardar**.
+1. Haga clic en la lista desplegable **[!UICONTROL Carpeta]**, seleccione dónde desea que se encuentre la plantilla y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/five-1.png)
 

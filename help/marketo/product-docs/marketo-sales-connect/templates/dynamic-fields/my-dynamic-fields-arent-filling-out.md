@@ -4,9 +4,9 @@ description: 'Mis campos dinámicos no se rellenan. Documentos de Marketo: docum
 title: Mis campos dinámicos no se están rellenando
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Los campos dinámicos solo funcionarán cuando se utilice una plantilla. Los cor
 
 ## Qué comprobar {#what-to-check}
 
-Existen tres tipos de campos dinámicos en Sales Connect: Básico, Personalizado y Salesforce. Tanto básica como personalizada buscan extraer información de la [aplicación web](https://toutapp.com/login). Si la información no existe en la aplicación web, los campos están en blanco. Los campos de Salesforce extraen información de [Salesforce.com](https://salesforce.com).
+Existen tres tipos de campos dinámicos en [!DNL Sales Connect]: Básico, Personalizado y [!DNL Salesforce]. Tanto básica como personalizada buscan extraer información de la [aplicación web](https://toutapp.com/login). Si la información no existe en la aplicación web, los campos están en blanco. [!DNL Salesforce] campos obtienen información de [Salesforce.com](https://salesforce.com).
 
-**Solucionar problemas de campos de Salesforce**
+**Solucionar problemas de [!DNL Salesforce] campos**
 
-Campos de Salesforce: p. ej. `{{sfdc_account_name}}`
+[!DNL Salesforce] campos: p. ej. `{{sfdc_account_name}}`
 
-* Asegúrese de que está correctamente conectado con Sales Connect. Vaya a la página [Configuración](https://toutapp.com/login) y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que esté correctamente conectado con [!DNL Sales Connect]. Vaya a la página [Configuración](https://toutapp.com/login) y haga clic en **[!UICONTROL Administrar]** junto a su CRM.
 
 **Solucionar problemas de campos básicos y personalizados**
 
@@ -35,7 +35,7 @@ Campos personalizados de información: p. ej. `{{custom_field_favorite_movie}}`
 
 ## ¿Por Qué Se Envió El Correo Electrónico Sin Rellenar Todos Los Campos Dinámicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Connect evitará que se envíen mensajes de correo electrónico si no podemos rellenar todos los campos dinámicos en el mensaje. **Sin embargo**, existen algunas excepciones a esta regla. Algunos campos enviarán en blanco o rellenarán automáticamente un valor si podemos encontrar uno. A continuación, se enumeran estos campos y cómo reaccionarán si no pueden rellenarlos.
+[!DNL Sales Connect] evitará que se envíen sus correos electrónicos si no podemos rellenar todos los campos dinámicos en el correo electrónico. **Sin embargo**, existen algunas excepciones a esta regla. Algunos campos enviarán en blanco o rellenarán automáticamente un valor si podemos encontrar uno. A continuación, se enumeran estos campos y cómo reaccionarán si no pueden rellenarlos.
 
 `{{first_name}}` = EN BLANCO
 
@@ -49,4 +49,4 @@ Sales Connect evitará que se envíen mensajes de correo electrónico si no pode
 
 >[!NOTE]
 >
->El campo `{{first_name}}` buscará tanto en Sales Connect como en Salesforce para intentar extraer información. Todos los demás campos de esta lista solo buscan en Sales Connect para rellenar el campo.
+>El campo `{{first_name}}` buscará tanto en [!DNL Sales Connect] como en [!DNL Salesforce] para intentar extraer información. Todos los demás campos de esta lista solo buscan [!DNL Sales Connect] para rellenar el campo.

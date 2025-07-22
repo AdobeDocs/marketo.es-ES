@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: Instalación del complemento de Marketo Outlook por TI - Documentos de Marketo - Documentación del producto
-title: Instalación del complemento de Marketo Outlook por TI
+description: Marketo [!DNL Outlook] Instalación de complementos por TI - Documentos de Marketo - Documentación del producto
+title: Instalación de complementos de Marketo [!DNL Outlook] por TI
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
-# Instalación del complemento de Marketo Outlook por TI {#marketo-outlook-plugin-installation-by-it}
+# Instalación del complemento Marketo [!DNL Outlook] por TI {#marketo-outlook-plugin-installation-by-it}
 
 A veces, las políticas corporativas requieren que su equipo de TI instale todo el software en los equipos de sus empleados. En estos casos, el departamento de TI suele hacerlo de forma remota utilizando su propio software de implementación. Este documento proporciona las líneas de comandos que utilizaría como entradas durante el proceso de implementación para instalar de forma remota el complemento de Outlook.
 
@@ -57,4 +57,4 @@ Consulte la [lista completa de conmutadores de Microsoft](https://support.micros
 
 >[!MORELIKETHIS]
 >
->[Desinstalación del complemento de Marketo Outlook por TI](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Desinstalación del complemento de Marketo [!DNL Outlook] por parte del equipo de TI](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

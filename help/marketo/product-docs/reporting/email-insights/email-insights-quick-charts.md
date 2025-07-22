@@ -4,7 +4,7 @@ description: Gráficos rápidos de perspectivas de correo electrónico - Documen
 title: Gráficos rápidos de perspectivas de correo electrónico
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Los gráficos rápidos son miniaturas que puede personalizar y guardar, lo que p
 
 En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas de febrero de 2016 en los estados de California y Florida.
 
-1. Haga clic en el filtro de fecha que aparece a la derecha de la pantalla de Analytics.
+1. Haga clic en el filtro de fecha que aparece a la derecha de la pantalla de [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/two-2.png)
 
-1. Cuando haya seleccionado el intervalo de fechas, haga clic en **Aplicar**.
+1. Cuando haya seleccionado el intervalo de fechas, haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/5.png)
 
-1. En el lado derecho del gráfico, haga clic en el icono de exportación y seleccione **Guardar como gráfico rápido**.
+1. En el lado derecho del gráfico, haga clic en el icono de exportación y seleccione **[!UICONTROL Guardar como gráfico rápido]**.
 
    ![](assets/six.png)
 
-1. Asigne un nombre al gráfico rápido y haga clic en **Guardar**.
+1. Asigne un nombre al gráfico rápido y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
 ¿Desea eliminar uno de sus gráficos rápidos? ¡Es fácil!
 
-1. Haga clic en el icono **Gráficos rápidos**.
+1. Haga clic en el icono **[!UICONTROL Gráficos rápidos]**.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/ten.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/eleven.png)
 

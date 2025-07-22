@@ -4,7 +4,7 @@ description: 'Explicación de las etiquetas: documentos de Marketo, documentaci�
 title: Explicación de las etiquetas
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Explicación de las etiquetas {#understanding-tags}
 
-Probablemente ya saben que los programas son como bloques de construcción en Marketo Engage. El uso de etiquetas y canales le ayudará a filtrar los datos con fines de creación de informes.
+Probablemente ya sepa que los programas son como componentes básicos en Marketo Engage. El uso de etiquetas y canales le ayudará a filtrar los datos con fines de creación de informes.
 
 Las etiquetas se utilizan para describir programas. Puede crear tantas como necesite, cada una con valores únicos. Los canales identifican el mecanismo de envío de un programa, como un seminario web, un patrocinio o un anuncio en línea.
 
@@ -29,7 +29,7 @@ Los tipos de etiquetas identifican el tipo de información por la que desea orde
 >
 >**Ejemplo**
 >
->* Tipo de etiqueta = Propietario del programa
+>* [!UICONTROL Tipo de etiqueta] = Propietario del programa
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

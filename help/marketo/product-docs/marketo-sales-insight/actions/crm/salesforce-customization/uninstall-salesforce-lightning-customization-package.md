@@ -3,44 +3,44 @@ description: Desinstalar el paquete de personalización de Salesforce Lightning 
 title: Desinstalar el paquete de personalización de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 688120d2529339274c1650c7478480156810b0b4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1184'
+source-wordcount: '1157'
 ht-degree: 9%
 
 ---
 
-# Desinstalar el paquete de personalización de Salesforce Lightning {#uninstall-salesforce-lightning-customization-package}
+# Desinstalar paquete de personalización de [!DNL Salesforce Lightning] {#uninstall-salesforce-lightning-customization-package}
 
-Desinstale el paquete de Marketo Sales Connect de su cuenta de Salesforce una vez que comience a utilizar el paquete de acciones MSI.
+Desinstale el paquete de Marketo [!DNL Sales Connect] de su cuenta de [!DNL Salesforce] una vez que comience a utilizar el paquete de acciones MSI.
 
-## Eliminar campos de Conexión de ventas del diseño de página {#remove-sales-connect-fields-from-page-layout}
+## Quitar [!DNL Sales Connect] campos del diseño de página {#remove-sales-connect-fields-from-page-layout}
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-1. Haga clic en **Administrador de objetos**.
+1. Haga clic en **[!UICONTROL Administrador de objetos]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-1. Desplácese hacia abajo hasta **Posible cliente** y selecciónelo.
+1. Desplácese hacia abajo hasta **[!UICONTROL Posible cliente]** y selecciónelo.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-1. Haga clic en **Diseños de página**.
+1. Haga clic en **[!UICONTROL Diseños de página]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
 
-1. Haga clic en **Diseño de posible cliente**.
+1. Haga clic en **[!UICONTROL Diseño de posible cliente]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
 
    >[!NOTE]
    >
-   >La vista Editar diseño de página aún no se ha actualizado en Salesforce Lightning.
+   >La vista Editar diseño de página aún no se ha actualizado en [!DNL Salesforce Lightning].
 
-1. En la consola, seleccione **Campos**. En Búsqueda rápida, busque &quot;MSC&quot;. Todos los campos atenuados se han agregado al diseño de página. Tendrá que eliminarlos. - ¿Por qué?
+1. En la consola, seleccione **[!UICONTROL Campos]**. En Búsqueda rápida, busque &quot;MSC&quot;. Todos los campos atenuados se han agregado al diseño de página. Tendrá que eliminarlos. - ¿Por qué?
 
    ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
@@ -48,19 +48,19 @@ Desinstale el paquete de Marketo Sales Connect de su cuenta de Salesforce una ve
    >
    >Si ninguno de los campos está deshabilitado, significa que no los ha agregado al diseño de página. Puede omitir esta sección.
 
-1. Desplácese hasta la sección que tenga los campos personalizados de Sales Connect.
+1. Desplácese hasta la sección que tenga sus [!DNL Sales Connect] campos personalizados.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-7.png)
 
 1. Existen 10 tipos de campos MSC que se pueden agregar a esta sección. Elimine todos los campos que ha añadido o simplemente elimine toda la sección.
 
-1. Haga clic en **Guardar rápidamente** cuando haya terminado.
+1. Haga clic en **[!UICONTROL Guardar rápidamente]** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
-## Eliminar botones de conexión de ventas de los diseños de página {#remove-sales-connect-buttons-from-page-layouts}
+## Quitar botones [!DNL Sales Connect] de los diseños de página {#remove-sales-connect-buttons-from-page-layouts}
 
-1. En la consola (paso 4 anterior), seleccione **Botones**. Buscar &quot;MSC&quot;. Todos los botones atenuados se han agregado a la sección de botones personalizados. Tendrá que eliminarlos. - ¿Por qué?
+1. En la consola (paso 4 anterior), seleccione **[!UICONTROL Botones]**. Buscar &quot;MSC&quot;. Todos los botones atenuados se han agregado a la sección de botones personalizados. Tendrá que eliminarlos. - ¿Por qué?
 
    ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
@@ -68,53 +68,53 @@ Desinstale el paquete de Marketo Sales Connect de su cuenta de Salesforce una ve
    >
    >Si ninguno de los botones está deshabilitado, significa que no los ha agregado. Puede omitir esta sección.
 
-1. Arrastre y suelte los botones MSC de la sección Botones personalizados a la consola.
+1. Arrastre y suelte los botones MSC de la sección [!UICONTROL Botones personalizados] en la consola.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. Haga clic en **Guardar rápidamente** cuando haya terminado.
+1. Haga clic en **[!UICONTROL Guardar rápidamente]** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
-## Eliminar campos de conexión de ventas de la sección Historial de actividades {#remove-sales-connect-fields-from-activity-history-section}
+## Quitar [!DNL Sales Connect] campos de la sección [!UICONTROL Historial de actividades] {#remove-sales-connect-fields-from-activity-history-section}
 
-1. Desplácese hasta la parte inferior de la página a la sección de la lista relacionada con el Historial de actividades y haga clic en el icono de la llave inglesa.
+1. Desplácese hasta la parte inferior de la página a la sección de lista relacionada con el [!UICONTROL Historial de actividades] y haga clic en el icono de la llave inglesa.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Seleccione los campos de conexión de ventas del área Campos seleccionados y haga clic en la flecha Eliminar. Haga clic en **Aceptar** cuando haya terminado.
+1. Seleccione los [!DNL Sales Connect] campos del área [!UICONTROL Campos seleccionados] y haga clic en la flecha [!UICONTROL Quitar]. Haga clic en **[!UICONTROL Aceptar]** cuando haya terminado.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
    >[!NOTE]
    >
-   >La abreviatura MSE _es_ Sales Connect. Es solo el nombre anterior, &quot;Marketo Sales Engage&quot;.
+   >La abreviatura MSE _es_ [!DNL Sales Connect]. Es solo el nombre anterior, &quot;Marketo Sales Engage&quot;.
 
-1. Haz clic en **Guardar** cuando hayas terminado con la página de posibles clientes.
+1. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado con la página de posibles clientes.
 
-## Eliminar botones de acción masiva de conexión de ventas de la vista de lista de posibles clientes {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
+## Eliminar [!DNL Sales Connect] botones de acción masiva de la vista de lista de posibles clientes {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. Haga clic en **Administrador de objetos**.
+1. Haga clic en **[!UICONTROL Administrador de objetos]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Desplácese hacia abajo hasta **Posible cliente** y selecciónelo.
+1. Desplácese hacia abajo hasta **[!UICONTROL Posible cliente]** y selecciónelo.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. Haga clic en **Buscar diseños**.
+1. Haga clic en **[!UICONTROL Buscar diseños]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
-1. Haga clic en la flecha situada junto a Vista de lista y seleccione **Editar**.
+1. Haga clic en la flecha situada junto a [!UICONTROL Vista de lista] y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. Seleccione **Agregar a la campaña de MSC**, **Enviar correo electrónico con MSC** y **Insertar en MSC**, y haga clic en la flecha Eliminar. Luego haz clic en **Guardar**.
+1. Seleccione **[!UICONTROL Agregar a MSC Campaign]**, **[!UICONTROL Enviar correo electrónico con MSC]** y **[!UICONTROL Insertar en MSC]**, y haga clic en la flecha [!UICONTROL Quitar]. Luego haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -122,29 +122,29 @@ Ya no debería ver los botones en la vista de lista de posibles clientes.
 
 ## Quitar la configuración de MSC para contactos {#remove-msc-configuration-for-contacts}
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
-1. Haga clic en **Administrador de objetos**.
+1. Haga clic en **[!UICONTROL Administrador de objetos]**.
 
-1. Desplácese hacia abajo hasta **Contacto** y selecciónelo.
+1. Desplácese hacia abajo hasta **[!UICONTROL Contacto]** y selecciónelo.
 
-1. Haga clic en **Diseños de página**.
+1. Haga clic en **[!UICONTROL Diseños de página]**.
 
-1. Haga clic en **Diseño de contacto**.
+1. Haga clic en **[!UICONTROL Diseño de contacto]**.
 
 1. Repita los pasos de las tres secciones.
 
 ## Quitar la configuración de MSC para la oportunidad {#remove-msc-configuration-for-opportunity}
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
-1. Haga clic en **Administrador de objetos**.
+1. Haga clic en **[!UICONTROL Administrador de objetos]**.
 
-1. Desplácese hacia abajo y seleccione **Oportunidad**.
+1. Desplácese hacia abajo y seleccione **[!UICONTROL Oportunidad]**.
 
-1. Haga clic en **Diseños de página**.
+1. Haga clic en **[!UICONTROL Diseños de página]**.
 
-1. Haga clic en **Diseño de oportunidad**.
+1. Haga clic en **[!UICONTROL Diseño de oportunidad]**.
 
 La vista de oportunidad solo tiene un botón: &quot;Enviar correo electrónico MSE&quot; y los siguientes campos:
 
@@ -152,15 +152,15 @@ La vista de oportunidad solo tiene un botón: &quot;Enviar correo electrónico M
 
 ## Quitar la configuración MSC de la cuenta {#remove-msc-configuration-for-account}
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
-1. Haga clic en **Administrador de objetos**.
+1. Haga clic en **[!UICONTROL Administrador de objetos]**.
 
-1. Desplácese hacia abajo y seleccione **Cuenta**.
+1. Desplácese hacia abajo y seleccione **[!UICONTROL Cuenta]**.
 
-1. Haga clic en **Diseños de página**.
+1. Haga clic en **[!UICONTROL Diseños de página]**.
 
-1. Haga clic en **Diseño de cuenta**.
+1. Haga clic en **[!UICONTROL Diseño de cuenta]**.
 
 La vista de cuenta solo tiene un botón: &quot;Enviar correo electrónico MSE&quot; y los siguientes campos:
 
@@ -168,27 +168,27 @@ La vista de cuenta solo tiene un botón: &quot;Enviar correo electrónico MSE&qu
 
 ## Quitar bandeja de salida de ventas Marketo {#remove-marketo-sales-outbox}
 
-1. En Salesforce, haga clic en la ficha **+** en la parte superior de la pantalla.
+1. En [!DNL Salesforce], haga clic en la ficha **+** de la parte superior de la pantalla.
 
-1. Haga clic en **Personalizar mis fichas**.
+1. Haga clic en **[!UICONTROL Personalizar mis fichas]**.
 
-1. Seleccione la opción Marketo Sales Outbox de la derecha. Haga clic en la flecha Quitar y luego en **Guardar**.
+1. Seleccione la opción Marketo Sales Outbox de la derecha. Haga clic en la flecha [!UICONTROL Quitar] y luego haga clic en **[!UICONTROL Guardar]**.
 
-## Eliminar paquete de Sales Connect {#delete-sales-connect-package}
+## Eliminar paquete [!DNL Sales Connect] {#delete-sales-connect-package}
 
-Una vez que haya eliminado todos los objetos de su cuenta de Salesforce, siga los pasos a continuación.
+Una vez que haya eliminado todos los objetos de su cuenta de [!DNL Salesforce], siga los pasos a continuación.
 
-1. En Salesforce Lightning, haz clic en el icono de engranaje y selecciona **Configuración**.
+1. En [!DNL Salesforce Lightning], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
 1. En el cuadro Búsqueda rápida, escriba &quot;Clases Apex&quot;.
 
-1. Haga clic en **Eliminar** junto a todas las entradas &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; de la lista.
+1. Haga clic en **[!UICONTROL Eliminar]** junto a todas las entradas &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; de la lista.
 
 ¡Ya está todo listo!
 
-Esta es una lista de todos los objetos que deben eliminarse de la instancia de Salesforce:
+Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL Salesforce]:
 
-## Detalles de personalización de Sales Connect {#sales-connect-customization-details}
+## Detalles de personalización de [!DNL Sales Connect] {#sales-connect-customization-details}
 
 <table>
  <tr>
@@ -198,79 +198,79 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <th>Tipo de datos</th>
  </tr>
  <tr>
-  <td>ID de presencia local de llamada MSC</td>
+  <td>[!UICONTROL MSC Llamada ID de presencia local]</td>
   <td>Como usuario, puedo elegir la presencia local como opción cuando hago llamadas desde el teléfono MSC. Las llamadas entrantes mostrarán un número local para el receptor</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>URL de grabación de llamadas MSC</td>
+  <td>[!UICONTROL MSC URL de grabación de llamadas]</td>
   <td>Las llamadas se pueden grabar y aquí se registrará un vínculo para la grabación </td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>Campaña MSC</td>
+  <td>[!UICONTROL MSC Campaign]</td>
   <td>Registra el nombre de la campaña de MSC en la que se encuentra el contacto/posible cliente</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>URL de campaña MSC</td>
+  <td>[!UICONTROL MSC Campaign URL]</td>
   <td>Registra la URL de la campaña creada en MSC. Al hacer clic en esta opción, se abre la campaña en la aplicación web de MSC</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>Etapa actual de campaña de MSC</td>
+  <td>[!UICONTROL MSC Campaign Paso actual]</td>
   <td>Si un contacto/posible cliente está en una campaña, este campo registrará el nombre del paso en el que se encuentra actualmente</td>
   <td>Actividad</td>
   <td>Casilla de verificación</td>
  </tr>
  <tr>
-  <td>Archivos adjuntos de correo electrónico MSC vistos</td>
+  <td>[!UICONTROL MSC Email Attachment Visto]</td>
   <td>Registra datos cuando se envía un correo electrónico con un archivo adjunto que ve el destinatario</td>
   <td>Actividad</td>
   <td>Casilla de verificación</td>
  </tr>
  <tr>
-  <td>Correo electrónico MSC pulsado</td>
+  <td>[!UICONTROL MSC Correo electrónico en el que se hizo clic]</td>
   <td>Registra una marca de verificación cuando el destinatario hace clic en un vínculo del correo electrónico</td>
   <td>Actividad</td>
   <td>Casilla de verificación</td>
  </tr>
  <tr>
-  <td>Correo electrónico MSC respondido</td>
+  <td>[!UICONTROL MSC Correo electrónico respondido]</td>
   <td>Registra una marca de verificación cuando el destinatario responde al correo electrónico</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>Estado de correo electrónico MSC</td>
+  <td>[!UICONTROL Estado de correo electrónico MSC]</td>
   <td>Muestra si un correo electrónico se envía/está en curso/se rechaza (el seguimiento de los correos electrónicos rechazados depende del canal de envío utilizado)</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>Plantilla de correo electrónico MSC</td>
+  <td>[!UICONTROL Plantilla de correo electrónico MSC]</td>
   <td>Registra el nombre de la plantilla de MSC que se utilizó en el correo electrónico enviado al posible cliente/contacto</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>URL de plantilla de correo electrónico MSC</td>
+  <td>[!UICONTROL MSC Email Template URL]</td>
   <td>Registra la URL de la plantilla creada en MSC. Al hacer clic en esta opción, se abrirá la plantilla en la aplicación web de MSC</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>URL de correo electrónico MSC</td>
+  <td>[!UICONTROL MSC Email URL]</td>
   <td>Al hacer clic en esta URL, se abrirá el centro de comandos en MSC y se abrirá la pestaña Historial de vista de detalles de personas, donde el usuario puede ver el correo electrónico enviado</td>
   <td>Actividad</td>
   <td>Texto</td>
  </tr>
  <tr>
-  <td>Correo electrónico MSC visto</td>
+  <td>[!UICONTROL MSC Correo electrónico visto]</td>
   <td>Registra una marca de verificación cuando el destinatario ve un correo electrónico</td>
   <td>Actividad</td>
   <td>Casilla de verificación</td>
@@ -393,8 +393,8 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <th>Tipo</th>
  </tr>
  <tr>
-  <td>Enviar correo electrónico MSC</td>
-  <td>Envío de correos electrónicos de ventas desde Salesforce</td>
+  <td>[!UICONTROL Enviar correo electrónico MSC]</td>
+  <td>Envío de correos electrónicos de ventas desde [!DNL Salesforce]</td>
   <td>
   <p>Cuenta 
   <p>Contacto 
@@ -402,22 +402,22 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <p>Oportunidad</td>
  </tr>
  <tr>
-  <td>Añadir a la campaña de MSC</td>
-  <td>Agregar a campañas MSC desde Salesforce</td>
+  <td>[!UICONTROL Agregar a MSC Campaign]</td>
+  <td>Añadir a campañas de MSC desde [!DNL Salesforce]</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
  </tr>
  <tr>
-  <td>Insertar en MSC</td>
-  <td>Contacto push de Salesforce a MSC</td>
+  <td>[!UICONTROL Push to MSC]</td>
+  <td>Contacto push de [!DNL Salesforce] a MSC</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
  </tr>
  <tr>
-  <td>Llamar con MSC</td>
-  <td>Realizar llamadas de ventas desde Salesforce</td>
+  <td>Llamada de [!UICONTROL con MSC]</td>
+  <td>Realizar llamadas de ventas desde [!DNL Salesforce]</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
@@ -431,22 +431,22 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <th>Tipo</th>
  </tr>
  <tr>
-  <td>Añadir a la campaña de MSC</td>
-  <td>Agregar a campañas MSC desde Salesforce</td>
+  <td>[!UICONTROL Agregar a MSC Campaign]</td>
+  <td>Añadir a campañas de MSC desde [!DNL Salesforce]</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
  </tr>
  <tr>
-  <td>Insertar en MSC</td>
-  <td>Contacto push de Salesforce a MSC</td>
+  <td>[!UICONTROL Push to MSC]</td>
+  <td>Contacto push de [!DNL Salesforce] a MSC</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
  </tr>
  <tr>
-  <td>Correo electrónico con MSC</td>
-  <td>Correo electrónico con MSC de Salesforce</td>
+  <td>[!UICONTROL Correo electrónico con MSC]</td>
+  <td>Correo electrónico con MSC desde [!DNL Salesforce]</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>

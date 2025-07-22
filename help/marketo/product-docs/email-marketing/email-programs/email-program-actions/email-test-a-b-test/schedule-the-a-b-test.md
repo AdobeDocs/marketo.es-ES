@@ -4,7 +4,7 @@ description: Programar la prueba A/B - Documentos de Marketo - Documentación de
 title: Programe la prueba A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 >
 >Para las pruebas de fecha y hora, solo debe configurar cuando reciba el resumen de los resultados de la prueba.
 
-1. Seleccione la fecha **Enviar prueba**.
+1. Seleccione la fecha **[!UICONTROL Enviar prueba]**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleccione la hora **Enviar prueba**.
+1. Seleccione la hora **[!UICONTROL Enviar prueba]**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
    >
    >Enviar prueba y Enviar ganador deben estar separados por lo menos 4 horas. Sin embargo, para envíos más grandes, es posible que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
 
-1. Haz lo mismo con **Enviar ganador**. Escriba los destinatarios de la notificación (opcional) y haga clic en **Siguiente**.
+1. Haz lo mismo con **[!UICONTROL Enviar ganador]**. Escriba los destinatarios de la notificación (opcional) y haga clic en **[!UICONTROL Siguiente]**.
 
    >[!NOTE]
    >
@@ -47,11 +47,11 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
    >
    >Si decide declarar un ganador manualmente, definirá la fecha y hora del **envío del informe** en lugar del **envío por correo de fin**.
 
-   ¡Súper! Ha terminado, revise el resumen y haga clic en Cerrar.
+   ¡Súper! Terminaste, revisa el resumen y haz clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Observará que el mosaico **Programar** se ha actualizado.
+   Observará que el mosaico **[!UICONTROL Programar]** se ha actualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

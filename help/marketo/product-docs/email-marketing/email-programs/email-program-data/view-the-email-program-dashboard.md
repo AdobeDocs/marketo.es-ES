@@ -4,7 +4,7 @@ description: Ver el tablero del programa de correo electrónico - Documentos de 
 title: Ver el panel del programa de correo electrónico
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Consulte el rendimiento de su programa de correo electrónico (con o sin prueba 
 
 ## Seleccione su programa de correo electrónico {#select-your-email-program}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -4,7 +4,7 @@ description: 'Programación de un correo electrónico: documentos de Marketo, do
 title: Programando un correo electrónico
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Siga estos sencillos pasos para programar un correo electrónico.
 >
 >Para actualizar la zona horaria predeterminada, vaya a la página Configuración.
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/one-1.png)
 
-1. Cuando termine de redactar el correo electrónico, haga clic en **Programar** en la parte inferior derecha
+1. Cuando termine de redactar el correo electrónico, haga clic en **[!UICONTROL Programar]** en la parte inferior derecha
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ Siga estos sencillos pasos para programar un correo electrónico.
 
    ![](assets/three-1.png)
 
-1. Introduzca la hora a la que desea que se envíe el correo electrónico. Seleccione la zona horaria que desee y haga clic en **Guardar**. Cierre el planificador cuando haya terminado.
+1. Introduzca la hora a la que desea que se envíe el correo electrónico. Seleccione la zona horaria que desee y haga clic en **[!UICONTROL Guardar]**. Cierre el planificador cuando haya terminado.
 
    ![](assets/four-1.png)
 
-1. Ahora que la fecha y hora programadas están seleccionadas, haga clic en **Enviar** para programar el correo electrónico.
+1. Ahora que la fecha y hora programadas están seleccionadas, haga clic en **[!UICONTROL Enviar]** para programar el correo electrónico.
 
    ![](assets/five-1.png)
 

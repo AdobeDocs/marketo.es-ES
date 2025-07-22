@@ -4,7 +4,7 @@ description: 'Creación de un formulario: documentos de Marketo, documentación 
 title: Crear un formulario
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 >
 >Aprenda lo que Marketo está haciendo para [mantener sus formularios a salvo](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
    ![](assets/programseelct.png)
 
-1. En **Nuevo**, haga clic en **Nuevo** **Recurso local** **7&rbrace;.**
+1. En **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/newlocalasset.png)
 
-1. Seleccionar **Formulario**.
+1. Seleccionar **[!UICONTROL Formulario]**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Escriba un formulario **Nombre** y haga clic en **Crear**.
+1. Escriba un formulario **[!UICONTROL Nombre]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/newformwithhands.png)
 

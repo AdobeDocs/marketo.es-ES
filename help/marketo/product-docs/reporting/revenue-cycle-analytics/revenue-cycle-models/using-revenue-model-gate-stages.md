@@ -4,7 +4,7 @@ description: Uso de etapas de puerta del modelo de ingresos - Documentos de Mark
 title: Uso de etapas de puerta del modelo de ingresos
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Una etapa de puerta sirve como una comprobación de calificación.
 
 ## Agregar Una Fase De Puerta {#add-a-gate-stage}
 
-1. Vaya al área de **Analytics**.
+1. Vaya al área de **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,19 +29,19 @@ Una etapa de puerta sirve como una comprobación de calificación.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Haga clic en **Editar borrador**.
+1. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Haga clic en el botón **Puerta** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
+1. Haga clic en el botón **[!UICONTROL Puerta]** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edite **Name** y seleccione un **Type**.
+1. Edite **[!UICONTROL Name]** y seleccione un **[!UICONTROL Type]**.
 
    >[!NOTE]
    >
-   >Seleccione [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener información sobre el rendimiento de sus cuentas a medida que avanzan en su modelo.
+   >Seleccione [[!UICONTROL Iniciar el seguimiento por cuenta]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener insight en el rendimiento de sus cuentas a medida que progresan en su modelo.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,31 +51,31 @@ Una etapa de puerta sirve como una comprobación de calificación.
 
 ## Editar una fase de puerta {#edit-a-gate-stage}
 
-Edite el Nombre, la Descripción y ajuste el Tipo de fase de la Puerta. También puede optar por [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Edite [!UICONTROL Name], [!UICONTROL Description] y ajuste [!UICONTROL Type] de la fase de Gate. También puede optar por [[!UICONTROL Iniciar el seguimiento por cuenta]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Haga clic en el icono de escenario **Puerta**.
+1. Haga clic en el icono de escenario **[!UICONTROL Puerta]**.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Haga clic dentro de los campos **Nombre** y **Descripción** para editar su contenido.
+1. Haga clic dentro de los campos **[!UICONTROL Nombre]** y **[!UICONTROL Descripción]** para editar su contenido.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Seleccione la lista desplegable **Tipo** para editarla.
+1. Seleccione la lista desplegable **[!UICONTROL Tipo]** para editarla.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Eliminar Una Fase De Puerta {#delete-a-gate-stage}
 
-1. Para eliminar una fase de puerta, haga clic con el botón derecho en el icono de fase de puerta y seleccione **Eliminar**.
+1. Para eliminar una fase de puerta, haga clic con el botón derecho en el icono de fase de puerta y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. También puede eliminar una fase de Puerta si hace clic en ella y, a continuación, en la lista desplegable **Acciones de fase**, selecciona **Eliminar**.
+1. También puede eliminar una fase de Puerta si hace clic en ella y, a continuación, en la lista desplegable **[!UICONTROL Acciones de fase]**, selecciona **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **Eliminar**.
+1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 

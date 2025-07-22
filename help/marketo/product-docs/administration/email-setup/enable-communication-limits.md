@@ -4,9 +4,9 @@ description: Habilitar límites de comunicación - Documentos de Marketo - Docum
 title: Habilitar límites de comunicación
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
    >
    >**Ejemplo**
    >
-   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico al día** o más de **5 en un período de siete días**.
+   >La configuración anterior significa que las personas no recibirán más de **correo electrónico al día** o más de **5 en un período de siete días**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
 
 >[!MORELIKETHIS]
 >
->[Aplicar límites de comunicación a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Aplicar límites de comunicación a [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

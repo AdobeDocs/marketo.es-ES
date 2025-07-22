@@ -1,39 +1,39 @@
 ---
 unique-page-id: 11370892
-description: 'Prueba de los anuncios de Facebook para la integración de equipos de sobremesa con Marketo: Documentos de Marketo: documentación del producto'
-title: Probar la integración de Facebook Lead Ads para equipos de sobremesa con Marketo
+description: 'Prueba de anuncios de clientes potenciales de Facebook para la integración de equipos de escritorio con Marketo: documentos de Marketo, documentación del producto'
+title: Prueba de Lead Ads de Facebook para la integración de escritorio con Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Probar la integración de Facebook Lead Ads para equipos de sobremesa con Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Probar [!DNL Facebook] anuncios de posibles clientes para la integración de escritorio con Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Después de crear su anuncio de cliente potencial, debe probarlo! A continuación se indica cómo hacerlo en el escritorio.
 
 >[!PREREQUISITES]
 >
->Debe [configurar la integración de Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Debe [configurar la integración de [!UICONTROL Anuncios destacados de Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. En Facebook Power Editor, selecciona una campaña y un anuncio y haz clic en **Editar**.
+1. En el Editor de energía de Facebook, selecciona una campaña y un anuncio y haz clic en **[!UICONTROL Editar]**.
 
-1. En **Vínculos**, haga clic en el vínculo **Ver en el suministro de noticias**.
+1. En **[!UICONTROL Vínculos]**, haga clic en el vínculo **[!UICONTROL Ver en el suministro de noticias]**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. Se le dirigirá a Facebook en una nueva pestaña del explorador. Haga clic en la llamada a la acción en la unidad de Facebook Lead Ad.
+1. Se le dirigirá a [!DNL Facebook] en una nueva pestaña del explorador. Haga clic en [!UICONTROL Call to action] en la unidad de anuncios potenciales de [!DNL Facebook].
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >Este es solo un ejemplo, que utiliza una llamada a acción para obtener más información. La llamada a acción de la unidad de anuncios de posibles clientes puede ser diferente.
+   >Este es solo un ejemplo, que utiliza una Call to action Más información. El Call to action de la unidad de anuncios de posibles clientes puede ser diferente.
 
-1. Envíe su unidad de prueba de anuncio de posibles clientes rellenando el formulario en su equipo de escritorio. Haga clic en **Enviar**.
+1. Envíe su unidad de prueba de anuncio de posibles clientes rellenando el formulario en su equipo de escritorio. Haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. ¡Aquí es donde ocurre la magia! Una vez que hayas enviado el formulario, [crea una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que usa el filtro Formulario de anuncios potenciales de Facebook rellenado. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
+1. ¡Aquí es donde ocurre la magia! Una vez enviado el formulario, [cree una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que usa el filtro Rellenado del formulario de [!DNL Facebook] anuncios potenciales. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Ahora haga clic en la ficha **Personas** para comprobar que la sincronización funciona correctamente.
+1. Ahora haga clic en la ficha **[!UICONTROL Personas]** para comprobar que la sincronización funciona correctamente.
 
    ![](assets/people.png)
 
@@ -53,4 +53,4 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
 >[!MORELIKETHIS]
 >
->[Configurar anuncios de clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configurar [!UICONTROL Anuncios Principales De Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

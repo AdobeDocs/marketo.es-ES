@@ -4,7 +4,7 @@ description: 'Ver el tablero de notificaciones push: documentos de Marketo: docu
 title: Ver el panel de notificaciones push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es fácil ver cómo van sus notificaciones push.
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ Es fácil ver cómo van sus notificaciones push.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Haga clic en **Ver: Resumen** y seleccione **Panel**.
+1. Haga clic en **[!UICONTROL Ver: Resumen]** y seleccione **[!UICONTROL Panel]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Puede ver el Total de toques enviados y el Total de toques para iOS y Android en gráficos circulares. Desplácese hacia abajo para ver Tocar decadencia en gráficos de barras.
+1. Puedes ver [!UICONTROL Total de mensajes enviados] y [!UICONTROL Total de toques] para iOS y Android en gráficos circulares. Desplácese hacia abajo para ver [!UICONTROL Tocar decadencia] en los gráficos de barras.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

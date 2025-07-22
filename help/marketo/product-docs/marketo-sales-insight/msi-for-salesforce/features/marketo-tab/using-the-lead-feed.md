@@ -4,16 +4,16 @@ description: Uso de la fuente de posibles clientes, documentos de Marketo, docum
 title: Uso de la fuente de posibles clientes
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---
 
 # Uso de la fuente de posibles clientes {#using-the-lead-feed}
 
-La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como un RSS o fuente de Twitter - las actualizaciones más recientes están en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
+La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como una fuente RSS o [!DNL Twitter]; las actualizaciones más recientes se encuentran en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ La Fuente de posibles clientes es una lista actualizada de eventos interesantes 
 
 Cada elemento de la fuente de posibles clientes es un momento interesante: una actividad o evento destacable en el historial de marketing de este posible cliente.
 
-Al visualizarlo en Salesforce, cada elemento tiene:
+Al visualizarlo en [!DNL Salesforce], cada elemento tiene:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -36,7 +36,7 @@ Al visualizarlo en Salesforce, cada elemento tiene:
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><p>Artículo</p></td> 
+   <td><p>Elemento</p></td> 
    <td><p>Descripción</p></td> 
   </tr> 
   <tr> 
@@ -72,7 +72,7 @@ Al visualizarlo en Salesforce, cada elemento tiene:
 
 ## Obteniendo actualizaciones de RSS {#getting-rss-updates}
 
-También puede obtener actualizaciones de fuentes de posibles clientes por fuente RSS.  Una fuente RSS le permite recibir actualizaciones de sus posibles clientes aunque no esté conectado a Salesforce. La fuente contiene la misma información que la Fuente de posibles clientes de Salesforce, así como lo siguiente (cuando está disponible):
+También puede obtener actualizaciones de fuentes de posibles clientes por fuente RSS.  Una fuente RSS le permite recibir actualizaciones de sus posibles clientes aunque no esté conectado a [!DNL Salesforce]. La fuente tiene la misma información que la Fuente de posibles clientes de [!DNL Salesforce], así como lo siguiente (cuando está disponible):
 
 * dirección de email
 * Número de teléfono

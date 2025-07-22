@@ -4,7 +4,7 @@ description: Informe de rendimiento del flujo de participación - Documentos de 
 title: Informe Rendimiento del flujo de participación
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 2%
@@ -17,11 +17,11 @@ ht-degree: 2%
 
 ## Creación del informe {#create-the-report}
 
-1. Busque y seleccione su programa de participación y, a continuación, en **Nuevo**, haga clic en **Nuevo recurso local**.
+1. Busque y seleccione su programa de participación y, a continuación, en **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Seleccionar **informe**.
+1. Seleccionar **[!UICONTROL informe]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ ht-degree: 2%
    >
    >La creación del informe en el programa se limitará automáticamente al contenido del programa.
 
-   Seleccione Rendimiento del flujo de participación como tipo de informe.
+   Seleccione **[!UICONTROL Rendimiento de flujo de participación]** como informe **[!UICONTROL Tipo]**.
    ![](assets/engagementreportchoose.png)
 
-1. Asigne un nombre al informe y haga clic en **Crear**.
+1. Asigne un nombre al informe y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ ht-degree: 2%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. En la ficha **Configuración**, haga doble clic en el filtro **Correo electrónico del programa de participación**.
+1. En la ficha **[!UICONTROL Configuración]**, haga doble clic en el filtro **[!UICONTROL Correos electrónicos del programa de participación]**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Seleccione los correos electrónicos sobre los que quiere informar y haga clic en **Aplicar**.
+1. Seleccione los correos electrónicos sobre los que quiere informar y haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Ejecutar informe {#run-report}
 
-1. Para ejecutar el informe, simplemente haga clic en la ficha **Informe**.
+1. Para ejecutar el informe, simplemente haga clic en la ficha **[!UICONTROL Informe]**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

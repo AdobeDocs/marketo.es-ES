@@ -4,9 +4,9 @@ description: 'Tipos de pasos de campaña: documentos de Marketo, documentación 
 title: Tipos de pasos de campaña
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Componga un correo electrónico nuevo o utilice una plantilla preexistente.
 >
 >Conozca los detalles sobre sus [opciones de envío](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## Llamar a un {#call}
+## Llamar {#call}
 
 Configure un recordatorio para realizar el seguimiento con un contacto a través del teléfono. También puede guardar notas para usarlas como un tema de conversación durante la llamada.
 
@@ -41,7 +41,7 @@ Configure un recordatorio para realizar el seguimiento con un contacto a través
 
 ## InMail {#inmail}
 
-El seguimiento de varios canales es una buena manera de conectarse con posibles clientes. Con las tareas de InMail, puede configurar un recordatorio para ponerse en contacto con mediante LinkedIn.
+El seguimiento de varios canales es una buena manera de conectarse con posibles clientes. Con las tareas de InMail, puede configurar un recordatorio para que se ponga en contacto con usted a través de [!DNL LinkedIn].
 
 ![](assets/inmail.png)
 

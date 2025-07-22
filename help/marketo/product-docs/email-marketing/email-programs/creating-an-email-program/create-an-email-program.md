@@ -4,7 +4,7 @@ description: Creación de un programa de correo electrónico - Documentos de Mar
 title: Crear un programa de correo electrónico
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Utilice programas de correo electrónico para enviar un correo electrónico rápida y fácilmente a un grupo de personas.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Seleccione la carpeta en la que desea crear el programa, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo programa**.
+1. Seleccione la carpeta en la que desea crear el programa, haga clic en la lista desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo programa]**.
 
    ![](assets/two.png)
 
-1. Escriba un nombre, seleccione **Correo electrónico** como tipo de programa y haga clic en **Crear**.
+1. Escriba un nombre, seleccione **[!UICONTROL Correo electrónico]** como [!UICONTROL Tipo de programa] y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Al seleccionar **Correo electrónico** como Tipo de programa, el canal se establecerá automáticamente en **Envío de correo electrónico**. Puede cambiarlo si lo desea.
+   >Al seleccionar **[!UICONTROL Correo electrónico]** como Tipo de programa, el canal se establecerá automáticamente en **[!UICONTROL Envío de correo electrónico]**. Puede cambiarlo si lo desea.
 
    ![](assets/four.png)
 

@@ -4,10 +4,10 @@ description: 'Editar y eliminar campos de objetos personalizados de Marketo: doc
 title: Editar y eliminar campos de objetos personalizados de Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ A veces, es necesario editar un campo que aún no está aprobado.
    >
    >No puede editar el nombre de la API.
 
-1. Los cambios aparecen en la lista Campos.
+1. Los cambios aparecerán en el listado de **[!UICONTROL Campos]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 

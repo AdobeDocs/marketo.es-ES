@@ -4,32 +4,32 @@ description: 'Filtrado De Campañas Web: Documentos De Marketo: Documentación D
 title: Filtrado de campañas web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Filtrado de campañas web {#filter-web-campaigns}
 
-Después de crear cientos de campañas de Web Personalization, es muy útil poder usar filtros para ver solo las que le interesan.
+Después de crear cientos de [!DNL Web Personalization] campañas, es muy útil poder usar filtros para ver solamente las campañas que le interesan.
 
-1. Vaya a **Campañas web**.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. En la página Campañas web, haz clic en **Filtro**.
+1. En la página [!UICONTROL Campañas web], haga clic en **[!UICONTROL Filtro]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Marque la casilla de verificación del estado o el tipo de campaña que desee filtrar, por ejemplo **En pausa** o **Diálogo**. Haga clic en **Aplicar**.
+1. Marque la casilla de verificación del estado o el tipo de campaña que desee filtrar, por ejemplo **[!UICONTROL En pausa]** o **[!UICONTROL Diálogo]**. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Use la casilla de verificación **Seleccionar todo** para elegir todos o el vínculo **Borrar** para borrar todas las casillas de verificación.
+   >Use la casilla de verificación **[!UICONTROL Seleccionar todo]** para elegir todos o el vínculo **[!UICONTROL Borrar]** para borrar todas las casillas de verificación.
 
 1. Ahora solo se muestran las campañas que coinciden con el filtro.
 

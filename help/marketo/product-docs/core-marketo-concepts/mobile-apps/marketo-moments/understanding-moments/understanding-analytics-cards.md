@@ -4,20 +4,20 @@ description: 'Explicación de las tarjetas de Analytics: documentos de Marketo, 
 title: Explicación de las tarjetas de Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Explicación de las tarjetas de Analytics {#understanding-analytics-cards}
 
-Al principio de cada mes, Momentos de Marketo proporciona tres tarjetas de informes diferentes: Posibles Clientes Adquiridos, Nuevos Posibles Clientes y Cancelaciones de Suscripción. Cada uno muestra el rendimiento mensual y la tendencia en un periodo de seis meses.
+Al comienzo de cada mes, Momentos de Marketo proporciona tres tarjetas de informe diferentes: [!UICONTROL Posibles clientes adquiridos], [!UICONTROL Nuevos clientes] y [!UICONTROL Cancelaciones de la suscripción]. Cada uno muestra el rendimiento mensual y la tendencia en un periodo de seis meses.
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Tarjetas de Analytics {#analytics-cards}
 
@@ -33,15 +33,15 @@ Pulse una tarjeta de Analytics para mostrar:
 * Una comparación mes tras mes
 * Gráfico de barras de los tres más visitados o los tres más visitados (según la tarjeta)
 
-Por ejemplo, veamos los detalles de la tarjeta Análisis de posibles clientes adquiridos:
+Por ejemplo, veamos los detalles de la tarjeta de análisis [!UICONTROL Posibles clientes adquiridos]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 En este ejemplo, el rojo indica que el valor ha disminuido en el intervalo de fechas seleccionado (oh oh!). El verde indica que el valor ha aumentado (¡ay!).
 
-## Posibles clientes adquiridos {#acquired-leads}
+## [!UICONTROL Posibles clientes adquiridos] {#acquired-leads}
 
-La tarjeta **Posibles clientes adquiridos** le muestra un informe de tendencias mes tras mes del número de nuevos posibles clientes.
+La tarjeta **[!UICONTROL Posibles clientes adquiridos]** le muestra un informe de tendencias mes tras mes del número de nuevos posibles clientes.
 
 >[!NOTE]
 >
@@ -49,13 +49,13 @@ La tarjeta **Posibles clientes adquiridos** le muestra un informe de tendencias 
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## Nuevos leads {#new-leads}
+## [!UICONTROL Nuevos posibles clientes] {#new-leads}
 
 La tarjeta **[!UICONTROL Nuevos posibles clientes]** le muestra un informe de tendencias mes tras mes del número total de nuevos posibles clientes en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Cancela suscripción {#unsubscribes}
+## [!UICONTROL Cancela la suscripción] {#unsubscribes}
 
 La tarjeta **[!UICONTROL Cancelaciones de suscripción]** le muestra un informe de tendencias mes tras mes de su tasa de cancelación de suscripción durante los últimos seis meses.
 

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2949158
-description: Integración de RTP con Google Analytics - Documentos de Marketo - Documentación del producto
+description: 'Integración de RTP con Google Analytics: Documentos de Marketo: documentación del producto'
 title: Integración de RTP con Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 Analice el análisis web desde un nuevo ángulo con el flujo de datos directo de Marketo Real-Time Personalization (RTP) a su cuenta de Google Analytics (GA). Mida sus visitas web en GA según organizaciones, industrias y campañas de RTP. Vea métricas como los tipos de industrias o segmentos de RTP en GA y cómo funcionan y generan posibles clientes según diferentes fuentes de tráfico (social, de pago, orgánico), analizando las tasas de clics en las campañas y midiendo el impacto que las campañas de personalización tienen en su sitio web. Aproveche esta capacidad para obtener el máximo beneficio de su cuenta de RTP
 
-**Audience Analytics RTP**
+**RTP Audience Analytics**
 
 Con la integración, tiene una nueva dimensión en su cuenta de GA. RTP mejora automáticamente sus paneles con:
 
@@ -66,30 +66,30 @@ Mida sus campañas RTP y correlácelas con el promedio general del sitio. Descub
 
 1. Agregue el correo electrónico rtp.ga2@gmail.com como usuario de lectura y análisis a su cuenta de GA. Para obtener más información, vea [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. En su cuenta de RTP. Vaya a **Configuración de la cuenta**.
+1. En su cuenta de RTP. Vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. En **Configuración de la cuenta**, **Dominio** y **Analytics**.
+1. En **[!UICONTROL Configuración de la cuenta]**, **[!UICONTROL Dominio]** y **[!UICONTROL Analytics]**.
 
 1. Haz clic en **Google Analytics**.
 
-1. Active las **Variables personalizadas** y **Eventos** relevantes para anexar estos datos de RTP a los Google Analytics.
+1. Active las **Variables personalizadas** y **Eventos** relevantes para anexar estos datos de RTP a Google Analytics.
 
 1. Escriba el número **Slot** para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
 >[!NOTE]
 >
->Para enviar datos de segmentos a GA, en la [página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plataforma RTP, marque la casilla de verificación **Enviar evento a los Google Analytics en Coincidencia de segmento**.
+>Para enviar datos de segmentos a GA, en la página [[!UICONTROL Editar segmento]](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plataforma RTP, seleccione la casilla de verificación **[!UICONTROL Enviar evento a Google Analytics al coincidir el segmento]**.
 
 ## Configuración de informes de Google Analytics con datos RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
-En los Google Analytics puede utilizar paneles, segmentación de GA e informes para ver los datos de RTP:
+En Google Analytics puede utilizar paneles, segmentación de GA e informes para ver los datos de RTP:
 
 * [Paneles](https://support.google.com/analytics/answer/1068216?hl=en) proporcionan información general sobre el rendimiento del sitio web.
 * Un segmento de GA está diseñado para filtrar visitantes en la interfaz de GA y ver el tráfico por segmento. Consulte cómo generar un segmento [aquí](https://support.google.com/analytics/answer/3124493?hl=en).
-* Creando [informes personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para ver o configurar correos electrónicos programados. Consulte en Personalización > Nuevo informe personalizado.
+* Creando [informes personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para ver o configurar correos electrónicos programados. Ver en **[!UICONTROL Personalización]** > **[!UICONTROL Nuevo informe personalizado]**.

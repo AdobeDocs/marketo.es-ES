@@ -4,7 +4,7 @@ description: Ordenar informes en columnas - Documentos de Marketo - Documentaci�
 title: Ordenar informes en columnas
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de las cifras más importantes.
 
-1. Vaya a **Analytics** (o a **Actividades de marketing**).
+1. Vaya a **[!UICONTROL Analytics]** (o a **[!UICONTROL Actividades de marketing]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **[!UICONTROL Informe]**.
 
    ![](assets/reports2.jpg)
 

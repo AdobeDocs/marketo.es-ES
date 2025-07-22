@@ -4,7 +4,7 @@ description: 'Explicación de las tarjetas de campaña inteligentes: Documentos 
 title: Explicación de las tarjetas Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Utilice Momentos de Marketo para ver cada ejecución de sus campañas inteligent
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Para futuras campañas inteligentes programadas pero que aún no se han ejecutado, la tarjeta Momentos de Marketo aún no muestra estadísticas de campaña. Aparecerán en una versión futura.
 
@@ -29,9 +29,9 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. La tarjeta de detalles le permite acceder a la información sobre los filtros de lista inteligente, flujo y resumen de correo electrónico.
+1. La tarjeta de detalles le da acceso a información sobre los filtros de [!UICONTROL Smart List], [!UICONTROL Flujo] y [!UICONTROL Resumen de correo electrónico].
 
-1. Pulse **Lista inteligente**.
+1. Pulse **[!UICONTROL Lista inteligente]**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Pulse **Flujo**.
+1. Pulse **[!UICONTROL Flujo]**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Haga clic en **Resumen de correo electrónico**.
+1. Haga clic en **[!UICONTROL Resumen de correo electrónico]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Es una buena idea echar un vistazo a un correo electrónico antes de que se publ
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Pulse [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Previsualizar correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener detalles).
+1. Pulse [[!UICONTROL Enviar muestra]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [[!UICONTROL Previsualizar correo electrónico]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener detalles).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Las tarjetas de las campañas inteligentes sin confirmar aparecerán en gris has
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Pulse **Confirmar**.
+1. Pulse **[!UICONTROL Confirmar]**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Pulse **Confirmar** para finalizar el trabajo o **No importa** si tiene dudas.
+1. Pulse **[!UICONTROL Confirmar]** para finalizar el trabajo o **[!UICONTROL No importa]** si tiene dudas.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Pulse **Cancelar ejecución**.
+1. Pulse **[!UICONTROL Cancelar ejecución]**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ Puede reprogramar una campaña inteligente confirmada que aún no se haya ejecut
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Pulse **Volver a programar**.
+1. Pulse **[!UICONTROL Volver a programar]**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Seleccione una fecha en el calendario y pulse **Reprogramar**.
+1. Seleccione una fecha en el calendario y pulse **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Al igual que con otras tarjetas de Momentos de Marketo, puede pulsar los tres pu
 
 >[!NOTE]
 >
->También puede tocar el icono **Compartir** en una tarjeta de Smart Campaign para compartirlo, y los iconos **Listo** y **Favorito** de la tarjeta de detalles.
+>También puede tocar el icono **[!UICONTROL Compartir]** en una tarjeta de Smart Campaign para compartirlo, y los iconos **[!UICONTROL Listo]** y **[!UICONTROL Favorito]** de la tarjeta de detalles.
 
 ## Eliminar rápidamente una tarjeta de campaña inteligente {#quickly-delete-a-smart-campaign-card}
 

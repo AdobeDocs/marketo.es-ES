@@ -4,7 +4,7 @@ description: 'Clonar un flujo: documentos de Marketo, documentación del product
 title: Clonar una secuencia
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Clonar un flujo por varios motivos, incluida la prueba de diferentes pedidos y cadencias.
 
-1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
+1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Haga clic en el icono de engranaje de flujo y luego en **Clonar**.
+1. Haga clic en el icono de engranaje de flujo y luego en **[!UICONTROL Clonar]**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

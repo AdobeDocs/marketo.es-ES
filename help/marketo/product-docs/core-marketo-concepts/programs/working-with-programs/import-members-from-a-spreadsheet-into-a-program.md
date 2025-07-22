@@ -4,9 +4,9 @@ description: Importación de miembros de una hoja de cálculo a un programa - Do
 title: Importar miembros de una hoja de cálculo a un programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
 ## Preparación del archivo CSV {#prepare-your-csv-file}
 
-1. Cree un archivo CSV estándar en Excel, como en el ejemplo siguiente.
+1. Cree un archivo CSV estándar en [!DNL Excel], como en el ejemplo siguiente.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 

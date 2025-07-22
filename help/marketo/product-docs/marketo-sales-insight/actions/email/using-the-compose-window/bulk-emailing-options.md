@@ -3,7 +3,7 @@ description: Opciones de correo electrónico masivo - Documentos de Marketo - Do
 title: Opciones de correo electrónico masivo
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Opciones de correo electrónico masivo {#bulk-emailing-options}
 
-Enviar correos electrónicos por lotes es una buena manera de acelerar la participación de sus posibles clientes. Marketo Sales ofrece dos formas de enviar correos electrónicos de forma masiva: **Correos electrónicos de grupo** y **Seleccionar y enviar**. Los correos electrónicos de grupo son una buena manera de enviar rápidamente cientos de correos electrónicos a un grupo objetivo. Usar Seleccionar y Enviar significa reducir los límites de correo electrónico, pero ofrece más oportunidades de personalización al usuario.
+Enviar correos electrónicos por lotes es una buena manera de acelerar la participación de sus posibles clientes. [!DNL Marketo Sales] ofrece dos formas de enviar correos electrónicos de forma masiva: **Correos electrónicos de grupo** y **Seleccionar y enviar**. Los correos electrónicos de grupo son una buena manera de enviar rápidamente cientos de correos electrónicos a un grupo objetivo. Usar Seleccionar y Enviar significa reducir los límites de correo electrónico, pero ofrece más oportunidades de personalización al usuario.
 
 **Correo electrónico de grupo vs. Seleccionar y enviar**
 
@@ -37,7 +37,7 @@ Enviar correos electrónicos por lotes es una buena manera de acelerar la partic
   <tr> 
    <td>Email grupal</td> 
    <td>1,000</td> 
-   <td>Seleccione un grupo y haga clic en el botón "Acciones de grupo", o escriba el nombre del grupo en el campo Para.</td> 
+   <td>Seleccione un grupo y haga clic en el botón "[!UICONTROL Group Actions]", o escriba el nombre del grupo en el campo Para.</td> 
    <td>Sí</td> 
    <td>No</td> 
    <td>Sí</td> 
@@ -45,7 +45,7 @@ Enviar correos electrónicos por lotes es una buena manera de acelerar la partic
   <tr> 
    <td>Seleccionar y enviar</td> 
    <td>200</td> 
-   <td>Seleccione personas en la cuadrícula y haga clic en el botón "Enviar correo electrónico seleccionado" en la barra de acciones, o escriba destinatarios en la barra lateral de correo electrónico en bloque.</td> 
+   <td>Seleccione personas en la cuadrícula y haga clic en el botón "[!UICONTROL Email Selected]" de la barra de acciones o escriba destinatarios en la barra lateral de correo electrónico en bloque.</td> 
    <td>Sí</td> 
    <td>Sí</td> 
    <td>Sí</td> 

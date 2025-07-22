@@ -4,10 +4,10 @@ description: Conexión de correo electrónico para usuarios de Gmail - Documento
 title: Conexión de correo electrónico para usuarios de Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
@@ -19,39 +19,39 @@ Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al 
 >
 >Si estás [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} o reglas en tu cuenta de Gmail para marcar automáticamente los correos electrónicos como leídos, esto puede causar problemas con el seguimiento de respuestas. Se recomienda desactivar cualquier regla que marque automáticamente los correos electrónicos como leídos al utilizar el seguimiento de respuestas con Gmail.
 
-1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En [!DNL Sales Connect], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
+1. En Mi cuenta, seleccione **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Conexión de correo electrónico**.
+1. Haga clic en la ficha **[!UICONTROL Conexión de correo electrónico]**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **[!UICONTROL Comenzar]**.
 
    ![](assets/four.png)
 
-1. Seleccione **Uso Gmail para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **[!UICONTROL Uso Gmail para enviar correos electrónicos]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/five.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/six.png)
 
-1. Si ya ha iniciado sesión en Gmail, elija la cuenta a la que desea conectarse. Si no, escribe tu dirección de Gmail y haz clic en **Siguiente**. En este ejemplo, todavía no hemos iniciado sesión.
+1. Si ya ha iniciado sesión en Gmail, elija la cuenta a la que desea conectarse. Si no, escribe tu dirección de Gmail y haz clic en **[!UICONTROL Siguiente]**. En este ejemplo, todavía no hemos iniciado sesión.
 
    ![](assets/seven.png)
 
-1. Escriba su contraseña y haga clic en **Siguiente**.
+1. Escriba su contraseña y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/eight.png)
 
-1. Haga clic en **Permitir**.
+1. Haga clic en **[!UICONTROL Permitir]**.
 
    ![](assets/nine.png)
 

@@ -4,7 +4,7 @@ description: 'Deshabilitar y habilitar notificaciones de contenido agotado: docu
 title: Deshabilitar y habilitar notificaciones de contenido agotado
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Cuando las personas agotan todo el contenido en un flujo, Marketo puede enviarle una notificación. Puede deshabilitar o habilitar las notificaciones según sus necesidades. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione un programa de participación y haga clic en la ficha **Configuración**.
+1. Seleccione un programa de participación y haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/setuptab.jpg)
 
-1. Haga doble clic en **Notificaciones de contenido agotado**.
+1. Haga doble clic en **[!UICONTROL Notificaciones de contenido agotado]**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Seleccione **Desactivado** (o **Activado**) y haga clic en **Guardar**.
+1. Seleccione **[!UICONTROL Desactivado]** (o **[!UICONTROL Activado]**) y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

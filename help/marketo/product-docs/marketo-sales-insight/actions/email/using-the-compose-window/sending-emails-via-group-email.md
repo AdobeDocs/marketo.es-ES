@@ -3,7 +3,7 @@ description: 'Envío de correos electrónicos por correo electrónico de grupo: 
 title: Envío de correos electrónicos mediante correo electrónico de grupo
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -16,7 +16,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Envío de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Haga clic en el botón Acciones de grupo y seleccione **Grupo de correo electrónico**.
+1. Haga clic en el botón [!UICONTROL Acciones de grupo] y seleccione **[!UICONTROL Grupo de correo electrónico]**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -44,7 +44,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Seleccione el destinatario deseado y haga clic en **Vista previa de campos dinámicos**. Vea la vista previa a la derecha.
+1. Seleccione el destinatario deseado y haga clic en **[!UICONTROL Vista previa de campos dinámicos]**. Vea la vista previa a la derecha.
 
    ![](assets/sending-emails-via-group-email-7.png)
 

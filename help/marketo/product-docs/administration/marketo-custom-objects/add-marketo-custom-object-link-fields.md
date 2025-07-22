@@ -4,7 +4,7 @@ description: 'Agregar campos de vínculo de objeto personalizado de Marketo: doc
 title: Agregar campos de vínculo de objeto personalizado de Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Al crear objetos personalizados, debe proporcionar campos de vínculo para conec
 
 >[!IMPORTANT]
 >
->El Marketo Engage solo admite un objeto edge único para cada objeto bridge en la relación Varios a varios. En el ejemplo que se muestra a continuación, cada inscripción solo puede vincularse a un único curso. Sin embargo, puede haber muchos objetos puente para cada objeto edge, al igual que hay muchas inscripciones de alumnos en cada curso (relación Varios a uno). Si los datos de objeto personalizados están estructurados de modo que haya más de un registro de objeto de Edge para cada registro de objeto de Bridge (uno a varios o varios a varios), puede crear varios registros de objeto de Bridge, cada uno de los cuales hace referencia a un único registro de objeto de Edge para representar esos datos en Marketo.
+>Marketo Engage solo admite un objeto Edge único para cada objeto Bridge en la relación de varios a varios. En el ejemplo que se muestra a continuación, cada inscripción solo puede vincularse a un único curso. Sin embargo, puede haber muchos objetos puente para cada objeto edge, al igual que hay muchas inscripciones de alumnos en cada curso (relación Varios a uno). Si los datos de objeto personalizados están estructurados de modo que haya más de un registro de objeto de Edge para cada registro de objeto de Bridge (uno a varios o varios a varios), puede crear varios registros de objeto de Bridge, cada uno de los cuales hace referencia a un único registro de objeto de Edge para representar esos datos en Marketo.
 
 ## Creación de un campo de vínculo para una estructura &quot;uno a varios&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
@@ -66,7 +66,7 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
 
    >[!NOTE]
    >
-   >En el campo de vínculo solo se admiten tipos de campos de cadena.
+   >Solo se admiten tipos de campos de cadena en [!UICONTROL Campo de vínculo].
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 

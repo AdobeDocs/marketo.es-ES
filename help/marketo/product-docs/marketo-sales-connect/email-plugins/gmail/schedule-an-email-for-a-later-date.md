@@ -4,7 +4,7 @@ description: Programar un correo electrónico para una fecha posterior - Documen
 title: Programar un correo electrónico para una fecha posterior
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 Para programar un correo electrónico desde Gmail, siga estos pasos.
 
-1. Al redactar un correo electrónico, haga clic en el botón **Programar**.
+1. Al redactar un correo electrónico, haga clic en el botón **[!UICONTROL Programar]**.
 
 1. Una ventana emergente le permitirá elegir el momento para enviar su correo electrónico.
 
 1. Si decide enviarlo más adelante, el botón se actualizará a la hora seleccionada.
 
-1. Después de programar el correo electrónico, este aparecerá en la carpeta **Borradores** de Gmail con la etiqueta **Correos electrónicos programados Tout**.
+1. Después de programar el correo electrónico, este aparecerá en la carpeta **[!UICONTROL Borradores]** de Gmail con la etiqueta **[!UICONTROL Correos electrónicos programados Tout]**.
 
-1. Si abre el borrador, puede editar el contenido del correo electrónico, pero asegúrese de hacer clic de nuevo en **Programar**, vuelva a seleccionar la Hora programada y haga clic en **Probarlo**.
+1. Si abre el borrador, puede editar el contenido del correo electrónico, pero asegúrese de hacer clic de nuevo en **[!UICONTROL Programar]**, vuelva a seleccionar la Hora programada y haga clic en **[!UICONTROL Probarlo]**.
 
    >[!NOTE]
    >
-   >Siempre puedes consultar el correo electrónico programado en tu carpeta **Programado** en la [aplicación web](https://toutapp.com/login)
+   >Siempre puedes consultar el correo electrónico programado en tu carpeta **[!UICONTROL Programado]** en la [aplicación web](https://toutapp.com/login)

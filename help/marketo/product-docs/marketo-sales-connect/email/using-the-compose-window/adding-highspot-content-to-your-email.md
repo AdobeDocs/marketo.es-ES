@@ -4,34 +4,34 @@ description: 'Adición de contenido de Highspot al correo electrónico: document
 title: Añadir contenido de Highspot al correo electrónico
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Añadir contenido de Highspot al correo electrónico {#adding-highspot-content-to-your-email}
+# Agregando contenido de [!DNL Highspot] al correo electrónico {#adding-highspot-content-to-your-email}
 
-Si eres cliente de Highspot, puedes insertar fácilmente contenido de Highspot en tus correos electrónicos de Sales Connect.
+Si eres cliente de [!DNL Highspot], puedes insertar fácilmente contenido de [!DNL Highspot] en tus correos electrónicos de [!DNL Sales Connect].
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/one-5.png)
 
-1. Rellene el campo Para e introduzca un Asunto.
+1. Rellene el campo [!UICONTROL Para] e introduzca un [!UICONTROL Asunto].
 
    ![](assets/two-5.png)
 
-1. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **Punto alto**.
+1. Haga clic en el lugar del correo electrónico donde desee insertar el contenido de [!DNL Highspot]. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **[!UICONTROL Punto alto]**.
 
    ![](assets/three-5.png)
 
-1. Inicie sesión en su cuenta de Highspot.
+1. Inicie sesión en su cuenta de [!DNL Highspot].
 
    ![](assets/four-5.png)
 
-1. Seleccione el contenido que desee y haga clic en el botón **Agregar contenido**.
+1. Seleccione el contenido que desee y haga clic en el botón **[!UICONTROL Agregar contenido]**.
 
    ![](assets/five-3.png)
 

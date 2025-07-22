@@ -4,7 +4,7 @@ description: 'Creación de una jerarquía: documentos de Marketo, documentación
 title: Crear una jerarquía
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las jerarquías están pensadas para crearse en CRM. Sin embargo, si no tiene un CRM, siga estos pasos para crear una jerarquía manualmente.
 
-1. En Cuentas con nombre, haga clic en la casilla **Agrupar por jerarquía**.
+1. En [!UICONTROL Cuentas con nombre], haga clic en la casilla **[!UICONTROL Agrupar por jerarquía]**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Las jerarquías están pensadas para crearse en CRM. Sin embargo, si no tiene un
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Haga clic en el menú desplegable **Acciones de cuenta con nombre** y seleccione **Vincular a cuenta con nombre**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de cuenta con nombre]** y seleccione **[!UICONTROL Vincular a cuenta con nombre]**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Si desea desvincular cuentas, siga los pasos anteriores pero elija **Desvincular de la cuenta con nombre**.
+   >Si desea desvincular cuentas, siga los pasos anteriores pero elija **[!UICONTROL Desvincular de la cuenta con nombre]**.
 
-1. Seleccione una cuenta principal con nombre en la lista desplegable y haga clic en **Vínculo**.
+1. Seleccione una cuenta principal con nombre en la lista desplegable y haga clic en **[!UICONTROL Vínculo]**.
 
    ![](assets/create-a-hierarchy-4.png)
 

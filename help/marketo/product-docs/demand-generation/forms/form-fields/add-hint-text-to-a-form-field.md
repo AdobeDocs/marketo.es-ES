@@ -4,10 +4,10 @@ description: Agregar texto de sugerencia a un campo de formulario - Documentos d
 title: Agregar texto de sugerencia a un campo de formulario
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ Sugerencias e [instrucciones](/help/marketo/product-docs/demand-generation/forms
 >
 >Las **instrucciones** del formulario son pequeñas descripciones emergentes que se muestran cuando el visitante pasa el ratón sobre el campo.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Seleccione el campo e introduzca su **Texto de sugerencia**.
+1. Seleccione el campo e introduzca su **[!UICONTROL Texto de sugerencia]**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

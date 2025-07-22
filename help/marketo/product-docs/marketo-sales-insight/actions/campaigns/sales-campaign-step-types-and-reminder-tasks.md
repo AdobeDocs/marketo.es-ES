@@ -3,7 +3,7 @@ description: Tipos de pasos de campañas de ventas y tareas de recordatorio - Do
 title: Tipos de pasos de campañas de ventas y tareas de recordatorio
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
@@ -24,9 +24,9 @@ Componga un correo electrónico nuevo o utilice una plantilla preexistente.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Usar una plantilla** | Seleccione una de las plantillas preexistentes |
+| **[!UICONTROL Usar una plantilla]** | Seleccione una de las plantillas preexistentes |
 |---|---|
-| **Guardar como plantilla** | Guarde el correo electrónico que acaba de crear como una plantilla nueva |
+| **[!UICONTROL Guardar como plantilla]** | Guarde el correo electrónico que acaba de crear como una plantilla nueva |
 | **Agregar contenido** | Cargue un archivo en nuestro servidor y reciba una URL (que apunte al contenido) de la que se pueda realizar un seguimiento en su correo electrónico |
 | **Adjuntar archivos** | Adjuntar un archivo del equipo al correo electrónico (límite de tamaño de 23 MB) |
 
@@ -34,7 +34,7 @@ Componga un correo electrónico nuevo o utilice una plantilla preexistente.
 >
 >Conozca los detalles sobre sus [opciones de envío](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
-### Llamar a un {#call}
+### Llamar {#call}
 
 Configure un recordatorio para realizar el seguimiento con un contacto a través del teléfono. También puede guardar notas para usarlas como un tema de conversación durante la llamada.
 
@@ -42,7 +42,7 @@ Configure un recordatorio para realizar el seguimiento con un contacto a través
 
 ### InMail {#inmail}
 
-El seguimiento de varios canales es una buena manera de conectarse con posibles clientes. Con las tareas de InMail, puede configurar un recordatorio para ponerse en contacto con mediante LinkedIn.
+El seguimiento de varios canales es una buena manera de conectarse con posibles clientes. Con las tareas de InMail, puede configurar un recordatorio para ponerse en contacto con a través de LinkedIn.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 
@@ -58,7 +58,7 @@ Las tareas son una herramienta potente al enviar una campaña de ventas a un con
 
 La tarea para enviar un correo electrónico y la tarea para llamar a un contacto son los usos más comunes de las tareas en las campañas de ventas.
 
-También puede hacer que una &quot;Tarea para enviar por correo electrónico&quot; sea un contacto en LinkedIn si eso es parte del flujo de trabajo. También puede hacer una tarea personalizada para recordarle que los invite a una hora feliz, pregunte sobre su evento de caridad o haga el check-in después del juego 5, etc.
+También puede hacer que una &quot;Tarea a Inmail&quot; sea un contacto en LinkedIn si eso es parte de su flujo de trabajo. También puede hacer una tarea personalizada para recordarle que los invite a una hora feliz, pregunte sobre su evento de caridad o haga el check-in después del juego 5, etc.
 
 >[!NOTE]
 >

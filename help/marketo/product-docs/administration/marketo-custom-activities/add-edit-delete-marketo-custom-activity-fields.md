@@ -4,7 +4,7 @@ description: Agregar/Editar/Eliminar campos de actividad personalizados de Marke
 title: Agregar/Editar/Eliminar campos de actividad personalizados de Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Es posible que tenga que agregar, cambiar o incluso eliminar un campo de activid
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   ¡Eso es todo! Se ha añadido su nuevo campo.
+   ¡Ya está! Se ha añadido su nuevo campo.
 
 ## Editar un campo de actividad personalizado {#edit-a-custom-activity-field}
 
@@ -73,7 +73,7 @@ Es posible que tenga que agregar, cambiar o incluso eliminar un campo de activid
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Aparecerá la ventana emergente Editar campo. En este ejemplo, vamos a cambiar el nombre del campo.
+   Aparecerá la ventana emergente **[!UICONTROL Editar campo]**. En este ejemplo, vamos a cambiar el nombre del campo.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
@@ -83,7 +83,7 @@ Es posible que tenga que agregar, cambiar o incluso eliminar un campo de activid
 
    >[!NOTE]
    >
-   >El nombre de la API no se rellenará automáticamente al editar un campo. Aunque no es obligatorio que el nombre de campo y el nombre de la API coincidan, recomendamos que lo hagan.
+   >[!UICONTROL Nombre de API] no se rellenará automáticamente al editar un campo. Aunque no es obligatorio que el campo [!UICONTROL Name] y [!UICONTROL Api Name] coincidan, recomendamos que lo hagan.
 
    >[!CAUTION]
    >

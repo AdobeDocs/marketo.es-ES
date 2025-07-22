@@ -4,7 +4,7 @@ description: Programar su programa de correo electrónico - Documentos de Market
 title: Programe su programa de correo electrónico
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Con el programa de correo electrónico creado, la audiencia definida y el correo electrónico seleccionado, querrás decirle a tu programa *cuándo* enviar el correo electrónico. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Con el programa de correo electrónico creado, la audiencia definida y el correo
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. En el mosaico **Programar**, establezca la fecha.
+1. En el mosaico **[!UICONTROL Programar]**, establezca la fecha.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ Con el programa de correo electrónico creado, la audiencia definida y el correo
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. También puede elegir usar las características de [Zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) y/o [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
+1. También puede elegir usar las características de [[!UICONTROL Zona horaria del destinatario]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) y/o [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

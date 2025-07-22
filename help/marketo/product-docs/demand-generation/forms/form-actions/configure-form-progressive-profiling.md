@@ -4,7 +4,7 @@ description: Configuración del perfil progresivo de formularios - Documentos de
 title: Configurar perfil progresivo de formulario
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >Para que esta función funcione correctamente, asegúrese de que Rellenar previamente formulario esté habilitado para los campos visibles y [deshabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para los campos ocultos.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. En **Configuración de formulario**, haga clic en **Configuración**.
+1. En **[!UICONTROL Configuración de formulario]**, haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Establezca **Perfil progresivo** en **Habilitado**.
+1. Establezca **[!UICONTROL Perfil progresivo]** en **[!UICONTROL Habilitado]**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Bien, ahora vamos a configurarlo. Vaya a **Detalles del campo**.
+1. Bien, ahora vamos a configurarlo. Vaya a **[!UICONTROL Detalles del campo]**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Los campos que están fuera del cuadro **Perfiles progresivos** siempre se mostrarán en el formulario, aunque estén rellenados.
+   >Los campos que están fuera del cuadro **[!UICONTROL Perfiles progresivos]** siempre se mostrarán en el formulario, aunque estén rellenados.
 
-1. Seleccione la casilla **Perfiles progresivos**.
+1. Seleccione la casilla **[!UICONTROL Perfiles progresivos]**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Tenga cuidado al utilizar los campos obligatorios en la generación progresiva de perfiles. Estos campos podrían permanecer en blanco si el visitante introduce una nueva dirección de correo electrónico (que crearía una nueva persona) después de enviar anteriormente los datos de los demás campos, ya que se suprimirían en el formulario más reciente.
+   >Tenga cuidado al usar los campos obligatorios en [!UICONTROL Perfiles progresivos]. Estos campos podrían permanecer en blanco si el visitante introduce una nueva dirección de correo electrónico (que crearía una nueva persona) después de enviar anteriormente los datos de los demás campos, ya que se suprimirían en el formulario más reciente.
 
 1. Ahora elija cuántos campos en blanco desea que vean los usuarios en el cuadro **Perfiles progresivos** en un momento dado.
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Si elige **Número** **de** **Campos** **en blanco** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
+   >Si elige **[!UICONTROL Cantidad de campos en blanco]** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
    >
    >* Nombre (vacío)
    >* Apellidos (vacío)
@@ -86,11 +86,11 @@ ht-degree: 0%
    >* Dirección de correo electrónico (rellenada previamente)
    >* País (vacío)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

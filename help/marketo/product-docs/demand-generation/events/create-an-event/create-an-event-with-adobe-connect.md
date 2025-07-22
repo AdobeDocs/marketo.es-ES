@@ -4,9 +4,9 @@ description: 'Creación de un evento con Adobe Connect: documentos de Marketo, d
 title: Creación de un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -32,23 +32,23 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
 >
 >En este momento no se admite Adobe Connect en el sitio.
 
-1. En la página principal de un nuevo evento, selecciona **Acciones de evento** y, a continuación, **Configuración de evento**.
+1. En la página principal de un nuevo evento, selecciona **[!UICONTROL Acciones de evento]** y, a continuación, **[!UICONTROL Configuración de evento]**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Si no ves **Configuración de eventos** en la lista desplegable, asegúrate de que el canal del evento tenga **Evento con seminario web** seleccionado en &quot;Se aplica a&quot;.
+   >Si no ves **[!UICONTROL Configuración de eventos]** en la lista desplegable, asegúrate de que el canal del evento tenga **[!UICONTROL Evento con seminario web]** seleccionado en &quot;[!UICONTROL Se aplica a]&quot;.
 
-1. En **Socio de evento**, seleccione **Adobe Connect**.
+1. En **[!UICONTROL Socio de evento]**, seleccione **[!UICONTROL Adobe Connect]**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Seleccione su ID de **inicio de sesión** y luego seleccione su **evento**.
+1. Seleccione su ID de **[!UICONTROL inicio de sesión]** y luego seleccione su **[!UICONTROL evento]**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
    >
    >Establece tu correo electrónico de confirmación en **Operativo** para asegurarte de que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
 
-   Las personas que se suscriban a su seminario web se transferirán al proveedor del seminario web a través del paso de flujo Cambiar estado del programa cuando el nuevo estado se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de realizar los pasos de flujo Cambiar estado del programa #1 y Enviar correo electrónico #2.
+   Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo [!UICONTROL Cambiar estado del programa] cuando el [!UICONTROL Nuevo estado] se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de hacer que el paso de flujo [!UICONTROL Cambiar estado del programa] #1 y el paso de flujo [!UICONTROL Enviar correo electrónico] #2.
 
    ![](assets/adobe.png)
 
@@ -74,9 +74,9 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **Actualizar del proveedor de seminarios web** en el menú Acciones de eventos de la pestaña Resumen del evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **[!UICONTROL Actualizar del proveedor de seminarios web]** en el menú Acciones de eventos de la pestaña Resumen del evento.
 
    >[!MORELIKETHIS]
    >
-   >* [Agregar Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Agregar Adobe Connect as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Editar un canal de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

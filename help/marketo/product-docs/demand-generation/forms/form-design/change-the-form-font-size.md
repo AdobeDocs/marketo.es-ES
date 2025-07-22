@@ -4,10 +4,10 @@ description: Cambio del tamaño de la fuente del formulario - Documentos de Mark
 title: Cambiar el tamaño de la fuente del formulario
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
 >
 >Esta configuración afecta a la etiqueta del formulario, el texto de entrada y el texto del botón de envío.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. En **Configuración De Formulario**, Seleccione **Configuración**.
+1. En **[!UICONTROL Configuración De Formulario]**, Seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Seleccione el **tamaño de fuente** que desee.
+1. Seleccione el **[!UICONTROL tamaño de fuente]** que desee.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    >[!NOTE]
    >

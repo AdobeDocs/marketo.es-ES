@@ -4,7 +4,7 @@ description: Uso de etapas de inventario del modelo de ingresos - Documentos de 
 title: Uso de Etapas de Inventario del Modelo de Ingresos
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -21,39 +21,39 @@ Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase 
 
 ## Agregar Una Fase De Inventario {#add-an-inventory-stage}
 
-1. Para agregar una nueva etapa de inventario del modelo del ciclo de ingresos, haga clic en el botón **Analytics** en la pantalla de inicio de **Mi Marketo**.
+1. Para agregar una nueva etapa de inventario del modelo del ciclo de ingresos, haga clic en el botón **[!UICONTROL Analytics]** en la pantalla de inicio de **[!UICONTROL Mi Marketo]**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la sección **Analytics**, seleccione el modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. En la sección **[!UICONTROL Analytics]**, seleccione el modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Haga clic en **Editar borrador**.
+1. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para agregar una nueva etapa de inventario, haga clic en el botón **Inventario**, luego arrástrelo y suéltelo en cualquier lugar dentro del lienzo.
+1. Para agregar una nueva etapa de inventario, haga clic en el botón **[!UICONTROL Inventario]**, luego arrástrelo y suéltelo en cualquier lugar dentro del lienzo.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Puede editar el nombre, añadir una descripción y ajustar el tipo después de añadir una fase. También puede seleccionar **[Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar **[!UICONTROL Name]**, agregar **[!UICONTROL Description]** y ajustar **[!UICONTROL Type]** después de agregar una fase. También puede seleccionar **[[!UICONTROL Iniciar el seguimiento por cuenta]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Editar una fase de inventario {#edit-an-inventory-stage}
 
-Al seleccionar un icono de inventario, puede editar **Nombre**, agregar una **Descripción** o ajustar el **Tipo**. También puede seleccionar [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Al seleccionar un icono de inventario, puede editar **[!UICONTROL Nombre]**, agregar una **[!UICONTROL Descripción]** o ajustar el **[!UICONTROL Tipo]**. También puede seleccionar [[!UICONTROL Iniciar el seguimiento por cuenta]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Haga clic en un icono de inventario.
+1. Haga clic en un icono **[!UICONTROL Inventario]**.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Haga clic dentro de los campos **Nombre** y **Descripción** para editar su contenido.
+1. Haga clic dentro de los campos **[!UICONTROL Nombre]** y **[!UICONTROL Descripción]** para editar su contenido.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Seleccione el menú desplegable **Tipo** que desea editar.
+1. Seleccione el menú desplegable **[!UICONTROL Tipo]** que desea editar.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,11 +63,11 @@ Al seleccionar un icono de inventario, puede editar **Nombre**, agregar una **De
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. También puede eliminar una fase haciendo clic en ella y luego, en el menú desplegable **Acciones de fase**, seleccione **Eliminar**.
+1. También puede eliminar una fase haciendo clic en ella y luego, en el menú desplegable **[!UICONTROL Acciones de fase]**, seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **Eliminar**.
+1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

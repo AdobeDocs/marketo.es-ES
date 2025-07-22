@@ -4,9 +4,9 @@ description: Importación de una lista de caracteres no latinos - Documentos de 
 title: Importar una lista de caracteres no latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Sin embargo, al importarlo a Marketo, es posible que vea que los caracteres que 
 
 Esto se debe a que el archivo no se ha guardado correctamente para que Marketo reconozca todos los caracteres no latinos. La buena noticia es que hay algunos pasos simples que puede seguir para solucionarlo.
 
-1. Seleccione **Guardar como...** en el menú **Archivo** de Excel.
+1. Seleccione **[!UICONTROL Guardar como]...** en el menú **[!UICONTROL Archivo]** de Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Elija **Texto Unicode UTF-16 (.txt)** como opción **Formato**. Esto codificará el archivo de la manera en que Marketo puede mostrarlo.
+1. Elija **[!UICONTROL Texto Unicode UTF-16 (.txt)]** como opción **[!UICONTROL Formato]**. Esto codificará el archivo de la manera en que Marketo puede mostrarlo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Esto se debe a que el archivo no se ha guardado correctamente para que Marketo r
 
    >[!TIP]
    >
-   >Puede abrir el archivo de texto con **Notepad** si usa Windows o **TextEdit** si usa un Mac.
+   >Puede abrir el archivo de texto con **[!DNL Notepad]** si utiliza Windows o **[!DNL TextEdit]** si utiliza un Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Esto se debe a que el archivo no se ha guardado correctamente para que Marketo r
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Seleccione **Buscar y reemplazar...** en el menú **Editar**.
+1. Seleccione **[!UICONTROL Buscar y reemplazar]...** en el menú **[!UICONTROL Editar]**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >La acción equivalente para los usuarios de Windows es: **Editar > Reemplazar...**
+   >La acción equivalente para los usuarios de Windows es: **[!UICONTROL Editar] > [!UICONTROL Reemplazar]...**
 
-1. Pegue la ficha copiada en el paso 4 en el primer cuadro (que se reemplazará) y escriba una coma en el segundo cuadro (reemplazar con). Y haga clic en **Todos**.
+1. Pegue la ficha copiada en el paso 4 en el primer cuadro (que se reemplazará) y escriba una coma en el segundo cuadro (reemplazar con). Y haga clic en **[!UICONTROL Todos]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

@@ -4,7 +4,7 @@ description: 'Creación de un analizador de rutas de éxito: documentos de Marke
 title: Creación de un analizador de rutas de éxito
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -19,35 +19,35 @@ Obtenga una representación visual de la velocidad y el flujo a través del mode
 >
 >[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Haga clic en el mosaico **Analytics**.
+1. Haga clic en el mosaico **[!UICONTROL Analytics]**.
 
    ![](assets/one.png)
 
-1. Haga clic en el icono **Analizador de rutas de éxito**.
+1. Haga clic en el icono **[!UICONTROL Analizador de rutas de éxito]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Si recibe la advertencia de que no se encontraron datos en el lapso de tiempo especificado, simplemente haga clic en **Cerrar** para cambiar el lapso de tiempo. Si no se le solicita, pero desea cambiar el lapso de tiempo, vaya a **Configuración** y haga doble clic en **Periodo de tiempo**.
+   >Si recibe la advertencia de que no se encontraron datos en el lapso de tiempo especificado, simplemente haga clic en **[!UICONTROL Cerrar]** para cambiar el lapso de tiempo. Si no se le solicita, pero desea cambiar el lapso de tiempo, vaya a **[!UICONTROL Configuración]** y haga doble clic en **[!UICONTROL Periodo de tiempo]**.
 
-1. Si no tenía datos o está cambiando el lapso de tiempo, seleccione uno en la lista desplegable y haga clic en Guardar.
+1. Si no tenías datos o estás cambiando tu lapso de tiempo, selecciona uno de la lista desplegable y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Para seleccionar un rango específico, seleccione **Personalizado** y use los campos **De** y **A**.
+   >Para seleccionar un rango específico, seleccione **[!UICONTROL Personalizado]** y use los campos **[!UICONTROL De]** y **[!UICONTROL A]**.
 
-1. Si tiene más de un modelo de ciclo de ingresos, seleccione el que desee en la ficha **Configuración**.
+1. Si tiene más de un modelo de ciclo de ingresos, seleccione el que desee en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/four.png)
 
-1. Elija el modelo apropiado y haga clic en **Aplicar**.
+1. Elija el modelo apropiado y haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/five.png)
 
-1. Haga clic en la ficha **Analizador de rutas de éxito**.
+1. Haga clic en la ficha **[!UICONTROL Analizador de rutas de éxito]**.
 
    ![](assets/success-tab.png)
 
@@ -55,7 +55,7 @@ Ahora puede explorar el movimiento de cada etapa a la siguiente!
 
 >[!TIP]
 >
->¿Desea guardar el informe? Haga clic en el menú desplegable **Acciones del analizador** y seleccione **Guardar como**.
+>¿Desea guardar el informe? Haga clic en el menú desplegable **[!UICONTROL Acciones del analizador]** y seleccione **[!UICONTROL Guardar como]**.
 
 >[!MORELIKETHIS]
 >

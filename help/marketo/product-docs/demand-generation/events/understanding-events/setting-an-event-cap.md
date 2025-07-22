@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Limite la cantidad de personas que se pueden registrar para su evento con un lí
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Haga clic en el menú desplegable [!UICONTROL Página de registro] y seleccione la página de aterrizaje que actuará como su página de registro.
+1. Haga clic en el menú desplegable [!UICONTROL Páginas de registro] y seleccione la página de aterrizaje que actuará como página de registro.
 
    ![](assets/setting-an-event-cap-4.png)
 

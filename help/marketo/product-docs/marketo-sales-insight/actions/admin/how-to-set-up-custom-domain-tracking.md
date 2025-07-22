@@ -3,7 +3,7 @@ description: 'Configuración del seguimiento de dominio personalizado: documento
 title: Cómo configurar el seguimiento de dominios personalizados
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -16,7 +16,7 @@ El seguimiento personalizado de dominios permite a su equipo utilizar su propio 
 
 Necesitará ayuda de su equipo de TI para configurar un registro CNAME para su dominio que apunte a go.toutapp.com. Este CNAME es lo que aparece en todos los vínculos de seguimiento (por ejemplo, go.yourcompany.com).
 
-Una vez que haya confirmado con su equipo de TI que el CNAME está configurado correctamente, puede añadirlo a la página Seguimiento de dominios personalizados en Acciones.
+Una vez que haya confirmado con su equipo de TI que el CNAME está configurado correctamente, puede agregarlo a la página [!UICONTROL Seguimiento de dominios personalizados] en Acciones.
 
 >[!NOTE]
 >
@@ -28,14 +28,14 @@ Una vez que haya confirmado con su equipo de TI que el CNAME está configurado c
 >
 >Se requieren **privilegios de administrador.**
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. En Configuración de administración, seleccione **Seguimiento**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Seguimiento]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. En la pestaña Seguimiento de dominio personalizado, escriba su CNAME y haga clic en **Conectar**.
+1. En la ficha [!UICONTROL Seguimiento personalizado de dominios], escriba su CNAME y haga clic en **[!UICONTROL Conectar]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

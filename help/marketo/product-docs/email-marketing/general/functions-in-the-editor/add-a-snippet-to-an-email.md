@@ -4,7 +4,7 @@ description: 'Añadir un fragmento a un correo electrónico: documentos de Marke
 title: Añadir un fragmento de código a un correo electrónico
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -21,17 +21,17 @@ Los fragmentos de código son bloques reutilizables de texto enriquecido y gráf
 
 >[!NOTE]
 >
->No puede incrustar ninguna [sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos de código; **no** funcionará en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna [sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos de código; **no** funcionará en un correo electrónico. Los fragmentos de código deben ser solo contenido principal (HTML + TEXT).
 
-1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-2.png)
 
-1. Seleccione el área editable que desea convertir en un fragmento, haga clic en el icono de engranaje y seleccione **Reemplazar con fragmento**.
+1. Seleccione el área editable que desea convertir en un fragmento, haga clic en el icono de engranaje y seleccione **[!UICONTROL Reemplazar con fragmento]**.
 
    ![](assets/two-2.png)
 
-1. Seleccione el fragmento que desee y haga clic en **Guardar**.
+1. Seleccione el fragmento que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/three-1.png)
 

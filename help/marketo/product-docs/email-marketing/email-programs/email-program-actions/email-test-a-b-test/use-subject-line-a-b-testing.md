@@ -4,7 +4,7 @@ description: Usar la prueba A/B "Subject Line" - Documentos de Marketo - Documen
 title: Usar prueba A/B de "Línea de asunto"
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Usar prueba A/B de &quot;Línea de asunto&quot; {#use-subject-line-a-b-testing}
 
-Puede probar fácilmente sus correos electrónicos A/B. Una de las pruebas más comunes es la prueba **Línea de asunto**.
+Puede probar fácilmente sus correos electrónicos A/B. Una de las pruebas más comunes es la prueba **[!UICONTROL Línea de asunto]**.
 
 >[!PREREQUISITES]
 >
 >[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. En el mosaico Correo electrónico, con el correo electrónico seleccionado, haga clic en Agregar prueba A/B.
+1. En el **[!UICONTROL mosaico del correo electrónico]**, con el correo electrónico seleccionado, haga clic en **[!UICONTROL Agregar prueba A/B]**.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ Puede probar fácilmente sus correos electrónicos A/B. Una de las pruebas más 
    >
    >Puede hacer clic en **+** para agregar más líneas de asunto.
 
-1. Utilice el control deslizante para elegir el porcentaje de audiencia que quiere que reciba la prueba A/B y haga clic en **Siguiente**.
+1. Utilice el control deslizante para elegir el porcentaje de audiencia que quiere que reciba la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

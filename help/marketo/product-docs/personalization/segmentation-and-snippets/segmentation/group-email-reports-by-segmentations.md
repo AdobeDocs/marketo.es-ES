@@ -4,10 +4,10 @@ description: Agrupar informes de correo electrónico por segmentación - Documen
 title: Agrupar informes de correo electrónico por segmentos
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,23 +19,23 @@ Las segmentaciones no son solo para contenido dinámico. También puede agrupar 
 >
 >[Aprobar una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Vaya al área de **Actividades de marketing** (o **Analytics**).
+1. Vaya al área de **[!UICONTROL Actividades de marketing]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Seleccione su informe **Rendimiento del correo electrónico**.
+1. Seleccione su informe **[!UICONTROL Rendimiento del correo electrónico]**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el cursor sobre **Agrupar por segmentación**.
+1. Haga clic en la ficha **[!UICONTROL Configuración]** y arrastre el cursor sobre **[!UICONTROL Agrupar por segmentación]**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Elija una o dos segmentaciones para agrupar el informe. Haga clic en **Aplicar**.
+1. Elija una o dos segmentaciones para agrupar el informe. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. ¡Eso es todo! Haga clic en la ficha **Informe**. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
+1. ¡Ya está! Haga clic en la ficha **[!UICONTROL Informe]**. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

@@ -4,7 +4,7 @@ description: Personalice la vista móvil para la página de aterrizaje de forma 
 title: Personalizar la vista móvil para la página de aterrizaje de forma libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -23,11 +23,11 @@ La vista móvil de la página de aterrizaje de forma libre es generalmente autom
 
    ![](assets/selectlandingapge.jpg)
 
-1. Haga clic en **Editar borrador**.
+1. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Haga clic en la ficha **Móvil**.
+1. Haga clic en la ficha **[!UICONTROL Móvil]**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -83,15 +83,15 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!TIP]
 >
->La vista móvil también puede tener una organización diferente de los elementos de página. Mueva elementos en la página de aterrizaje de forma libre o reordene los objetos enumerados en **Elementos de página** arrastrando y soltando.
+>La vista móvil también puede tener una organización diferente de los elementos de página. Mueva elementos en la página de aterrizaje de forma libre o reordene los objetos enumerados en **[!UICONTROL Elementos de página]** arrastrando y soltando.
 
 ## Vista previa para móviles {#preview-mobile-view}
 
-1. Haga clic en **Vista previa del borrador**.
+1. Haga clic en **[!UICONTROL Vista previa del borrador]**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. ¿Quieres ver algo genial? Seleccione **Lado A Lado**.
+1. ¿Quieres ver algo genial? Seleccione **[!UICONTROL Lado A Lado]**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Si te encanta, haz clic en **Aprobar y cerrar**.
+1. Si te encanta, haz clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

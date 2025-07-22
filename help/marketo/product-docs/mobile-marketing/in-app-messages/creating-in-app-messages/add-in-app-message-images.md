@@ -4,7 +4,7 @@ description: 'Añadir imágenes de mensajes en la aplicación: documentos de Mar
 title: Añadir imágenes de mensajes en la aplicación
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la aplicación.
 
-1. Seleccione el mensaje en la aplicación y haga clic en **Editar borrador**.
+1. Seleccione el mensaje en la aplicación y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Haga clic en la ficha **Estilo** y luego en el área de la imagen de la plantilla.
+1. Haga clic en la ficha **[!UICONTROL Estilo]** y luego en el área de la imagen de la plantilla.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Haga clic en **Seleccionar imagen**.
+1. Haga clic en **[!UICONTROL Seleccionar imagen]**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Seleccione la imagen de Design Studio y haga clic en **Seleccionar**.
+1. Seleccione la imagen de Design Studio y haga clic en **[!UICONTROL Seleccionar]**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,11 +47,11 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Haga clic en **Quitar**. Ahora, puedes elegir otro.
+1. Haga clic en **[!UICONTROL Quitar]**. Ahora, puedes elegir otro.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Con la imagen deseada en su lugar, en Propiedades de imagen, seleccione un botón para ajustar la imagen por Altura, Anchura o Ambos.
+1. Con la imagen deseada en su lugar, en [!UICONTROL Propiedades de la imagen], seleccione un botón para ajustar la imagen por Altura, Anchura o Ambos.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
@@ -85,7 +85,7 @@ Aquí es donde puede elegir y personalizar las imágenes de los mensajes en la a
 
    >[!NOTE]
    >
-   >Para las acciones de toque para imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va únicamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguna**.
+   >Para las acciones de toque para imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va únicamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **[!UICONTROL Ninguna]**.
 
 ¡Gran trabajo! Ahora es el momento de [crear el texto para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 

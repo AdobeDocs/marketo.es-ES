@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Crear una categoría {#create-a-category}
 
-1. Haga clic en la ficha **Plantillas**.
+1. Haga clic en la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Haga clic en el icono **+** junto a **Categorías**.
+1. Haga clic en el icono **+** junto a **[!UICONTROL Categorías]**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Escriba un nombre para la nueva categoría y haga clic en **Crear**.
+1. Escriba un nombre para la nueva categoría y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Cambiar nombre de categoría de plantilla {#rename-a-template-category}
 
-1. Haga clic en la ficha **Plantillas**.
+1. Haga clic en la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **Cambiar nombre**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **[!UICONTROL Cambiar nombre]**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Eliminar una categoría de plantilla {#delete-a-template-category}
 
-1. Haga clic en la ficha **Plantillas**.
+1. Haga clic en la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **Eliminar**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/manage-template-categories-9.png)
 

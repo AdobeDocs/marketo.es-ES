@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378809
-description: Información general de la cuenta con nombre - Documentos de Marketo - Documentación del producto
-title: Resumen de cuenta con nombre
+description: '[!UICONTROL Información general sobre la cuenta con nombre] - Documentos de Marketo - Documentación del producto'
+title: Información general sobre [!UICONTROL Cuenta con nombre]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
 
 ---
 
-# Resumen de cuenta con nombre {#named-account-overview}
+# Información general sobre [!UICONTROL Cuenta con nombre] {#named-account-overview}
 
-Las cuentas con nombre contienen a las personas de las empresas a las que está dirigiendo. El tablero proporciona datos actuales de cada atributo para todas las cuentas con nombre.
+[!UICONTROL Cuentas con nombre] tienen a las personas de las empresas a las que estás dirigiendo. El tablero proporciona datos actuales de cada atributo para todas las cuentas con nombre.
 
-## Tablero de cuentas con nombre {#named-accounts-dashboard}
+## [!UICONTROL Tablero de cuentas con nombre] {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -27,76 +27,76 @@ Las cuentas con nombre contienen a las personas de las empresas a las que está 
 >
 >Marketo muestra todos los usuarios de CRM sincronizados con Marketo como valores de filtro de &quot;Propietario de cuenta&quot; o &quot;Miembro del equipo de cuenta&quot;.
 
-## Atributos de cuenta con nombre {#named-account-attributes}
+## [!UICONTROL Atributos de cuenta con nombre] {#named-account-attributes}
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>ID</strong></td> 
+   <td><strong><span class="uicontrol">Identificación</span></strong></td> 
    <td>Número de identificación de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>Cuenta nombrada</strong></td> 
+   <td><strong><span class="uicontrol">Cuenta nombrada</span></strong></td> 
    <td>Nombre de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>Personas</strong></td> 
+   <td><strong><span class="uicontrol">Personas</span></strong></td> 
    <td>Cantidad de personas atribuidas a una cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>En preparación</strong></td> 
+   <td><strong><span class="uicontrol">En preparación</span></strong></td> 
    <td>Suma de la cantidad de todas las oportunidades en su sistema CRM que no están Cerradas Ganadas o Cerradas Perdidas</td> 
   </tr> 
   <tr> 
-   <td><strong>Abrir oportunidades</strong></td> 
+   <td><strong><span class="uicontrol">Abrir oportunidades</span></strong></td> 
    <td>Todas las oportunidades en su CRM que no son Cerrado Ganado o Cerrado Perdido.</td> 
   </tr> 
   <tr> 
-   <td><strong>Dominio</strong></td> 
+   <td><strong><span class="uicontrol">Dominio</span></strong></td> 
    <td>Dominio de la cuenta con nombre (p. ej. marketo.com)</td> 
   </tr> 
   <tr> 
-   <td><strong>Industria</strong></td> 
+   <td><strong><span class="uicontrol">Industria</span></strong></td> 
    <td>Tipo de sector atribuido a la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>Código SIC</strong></td> 
+   <td><strong><span class="uicontrol">Código SIC</span></strong></td> 
    <td><span>Clasificación <strong>S</strong>estándar <strong>I</strong>industrial <strong>C</strong>código de cuatro dígitos para clasificar industrias<br></span></td> 
   </tr> 
   <tr> 
-   <td><strong>Ingresos</strong></td> 
+   <td><strong><span class="uicontrol">Ingresos</span></strong></td> 
    <td>Ingresos anuales de la empresa</td> 
   </tr> 
   <tr> 
-   <td><strong>Empleados</strong></td> 
+   <td><strong><span class="uicontrol">Empleados</span></strong></td> 
    <td>Número de empleados atribuidos a una cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Calificación de la cuenta</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Calificación de la cuenta</span></strong></td> 
    <td colspan="1">Acumulado de puntuaciones de posibles clientes de varios posibles clientes para proporcionar puntuación a nivel de cuenta</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Ciudad</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Ciudad</span></strong></td> 
    <td colspan="1">Ciudad de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Estado/región</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Estado/región</span></strong></td> 
    <td colspan="1">Estado o región de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>País</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">País</span></strong></td> 
    <td colspan="1">País de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Fecha de creación</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Fecha de creación</span></strong></td> 
    <td colspan="1">Fecha en la que se creó la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Propietario de la cuenta</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Propietario de la cuenta</span></strong></td> 
    <td colspan="1">Propietario de la cuenta especificada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Miembro del equipo de cuenta</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Miembros del equipo de cuenta</span></strong></td> 
    <td colspan="1">Miembro del grupo de partes interesadas que trabajan juntas en cuentas específicas</td> 
   </tr> 
  </tbody> 

@@ -4,7 +4,7 @@ description: 'Creación de campañas secundarias y Assets local: documentos de M
 title: Creación de campañas secundarias y Assets local
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -73,25 +73,25 @@ Algunos ejemplos de campañas secundarias son una campaña de invitación, una c
 
 >[!NOTE]
 >
->Si usas un formulario de Marketo en una página de aterrizaje que no sea de Marketo, el déclencheur será **Rellena el formulario** con el nombre del formulario.
+>Si usas un formulario de Marketo en una página de aterrizaje que no sea de Marketo, el déclencheur será **[!UICONTROL Rellena el formulario]** con el [!UICONTROL Nombre del formulario].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flujo**
 
-* **Cambiar estado del programa** - Definir en seminario web -> Registrado.
+* **[!UICONTROL Cambiar estado del programa]** - Definir en seminario web -> Registrado.
 
 Este paso de flujo es necesario como el PRIMER PASO DE FLUJO al configurar la campaña secundaria. Cuando el estado del programa de una persona cambia a Registrado, Marketo envía la información de registro a ON24. Ningún otro estado empujará a la persona.
 
-* **Enviar correo electrónico** - Correo electrónico de confirmación. Establece este correo electrónico en **Operativo** para que las personas que cancelaron su suscripción y se hayan registrado lo sigan recibiendo.
+* **[!UICONTROL Enviar correo electrónico]** - Correo electrónico de confirmación. Establece este correo electrónico en **Operativo** para que las personas que cancelaron su suscripción y se hayan registrado lo sigan recibiendo.
 
-El paso de flujo **Enviar correo electrónico** DEBE ser el segundo paso. El correo electrónico de confirmación contiene `{{member.webinar url}}`, que se rellena con información devuelta a Marketo desde el ON24.
+El paso de flujo **[!UICONTROL Enviar correo electrónico]** DEBE ser el segundo paso. El correo electrónico de confirmación contiene `{{member.webinar url}}`, que se rellena con información devuelta a Marketo desde el ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->El orden de estos pasos de flujo es importante debido al orden en que se realizan las acciones en Marketo. El paso **Cambiar estado del programa** envía a la persona a ON24 para que se registre y se genere una dirección URL única. Una vez hecho esto, puede enviar el correo electrónico de confirmación que incluye esta dirección URL única usando el token `{{member.webinar URL}}`.
+>El orden de estos pasos de flujo es importante debido al orden en que se realizan las acciones en Marketo. El paso **[!UICONTROL Cambiar estado del programa]** envía a la persona a ON24 para que se registre y se genere una dirección URL única. Una vez hecho esto, puede enviar el correo electrónico de confirmación que incluye esta dirección URL única usando el token `{{member.webinar URL}}`.
 >
 >Si la persona es devuelta con un error de registro, no recibirá la confirmación por correo electrónico.
 

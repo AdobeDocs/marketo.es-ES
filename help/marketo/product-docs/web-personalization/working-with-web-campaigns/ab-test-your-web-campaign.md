@@ -4,9 +4,9 @@ description: Prueba AB de la campaña web - Documentos de Marketo - Documentaci�
 title: Prueba AB de la campaña web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Las pruebas son una excelente manera de optimizar las campañas web para lograr una mejor participación. A continuación se muestra cómo empezar.
 
-Para probar sus campañas personalizadas, puede seleccionar dos o más campañas, asociarlas al mismo grupo de **Prueba dividida** y seleccionar **Ajuste automático** para continuar automáticamente con la campaña con mejor rendimiento.
+Para probar sus campañas personalizadas, puede seleccionar dos o más campañas, asociarlas al mismo grupo de **[!UICONTROL Prueba dividida]** y seleccionar **[!UICONTROL Ajuste automático]** para continuar automáticamente con la campaña con mejor rendimiento.
 
 >[!TIP]
 >
->Si prefiere calcular manualmente y ver qué campaña está teniendo un mejor rendimiento, no habilite Ajuste automático.
+>Si prefiere calcular manualmente y ver qué campaña está teniendo un mejor rendimiento, no habilite [!UICONTROL Ajuste automático].
 
 ## Configuración de una prueba A/B dividida {#how-to-set-up-a-split-a-b-test}
 
-1. Vaya a Campañas web.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/web-campaigns-hand-2.jpg)
 
@@ -31,39 +31,39 @@ Para probar sus campañas personalizadas, puede seleccionar dos o más campañas
    >
    >Para facilitar la búsqueda de la campaña que desea, use la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Seleccione la primera campaña para la que desee realizar una prueba A/B. Haga clic en **Editar**.
+1. Seleccione la primera campaña para la que desee realizar una prueba A/B. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. En la página de la campaña, seleccione **Split Testing** y haga clic en **Crear nuevo**.
+1. En la página de la campaña, seleccione **[!UICONTROL Split Testing]** y haga clic en **[!UICONTROL Crear nuevo]**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Escriba el nombre del grupo de prueba **Split Testing**, haga clic en **Crear**. Seleccione **Ajuste automático**.
+1. Escriba el nombre del grupo de prueba **Split Testing**, haga clic en **[!UICONTROL Crear]**. Seleccione **[!UICONTROL Ajuste automático]**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Guardar** o **Iniciar** la campaña.
+1. **[!UICONTROL Guardar]** o **[!UICONTROL Iniciar]** la campaña.
 
    >[!TIP]
    >
-   >La selección de **Ajuste automático** permite que la plataforma Web Personalization reconozca automáticamente la campaña de prueba dividida con mejor rendimiento, y continúa con la campaña de conversión más alta mientras pausa las demás.
+   >Si selecciona **[!UICONTROL Ajuste automático]**, la plataforma [!DNL Web Personalization] reconocerá automáticamente la campaña de prueba dividida que tenga mejor rendimiento, y continuará con la campaña de conversión más alta mientras pausa las demás.
 
 1. Repita el proceso anterior con la segunda campaña.
 
-1. Seleccione la segunda campaña para la que desea realizar una prueba A/B. Haga clic en **Editar**.
+1. Seleccione la segunda campaña para la que desea realizar una prueba A/B. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. En la página **Establecer campaña**, seleccione **Prueba dividida** y elija el **Grupo** en la lista desplegable. Seleccione **Ajuste automático**.
+1. En la página **[!UICONTROL Establecer campaña]**, seleccione **Prueba dividida** y elija el **Grupo** en la lista desplegable. Seleccione **[!UICONTROL Ajuste automático]**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Guardar** o **Iniciar** la campaña.
+1. **[!UICONTROL Guardar]** o **[!UICONTROL Iniciar]** la campaña.
 
 1. Repita este proceso para una tercera o cuarta campaña que quiera probar.
 
-1. En **Campañas web** puede ver las campañas de prueba divididas indicadas por el icono A/B.
+1. En **[!UICONTROL Campañas web]** puede ver las campañas de prueba divididas indicadas por el icono A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 

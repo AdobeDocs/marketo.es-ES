@@ -4,7 +4,7 @@ description: Obtener las imágenes de una página web - Documentos de Marketo - 
 title: Obtener las imágenes de una página web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Para agregar imágenes desde una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos sencillos pasos.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Haz clic en **Nuevo** y **Capturar imágenes de la web**.
+1. Haz clic en **[!UICONTROL Nuevo]** y **[!UICONTROL Capturar imágenes de la web]**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Seleccione la carpeta **Imágenes y archivos**, pegue la dirección web (URL) en el cuadro de texto URL y haga clic en **Siguiente**.
+1. Seleccione la carpeta **[!UICONTROL Imágenes y archivos]**, pegue la dirección web (URL) en el cuadro de texto URL y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Para agregar imágenes desde una página web, copie la dirección web (URL) de l
    >
    >Esta función no funciona con direcciones URL que apuntan directamente a una imagen. Utilice la dirección URL de la página web que contiene las imágenes.
 
-1. Seleccione las imágenes que desee agregar y haga clic en **Importar**.
+1. Seleccione las imágenes que desee agregar y haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Para agregar imágenes desde una página web, copie la dirección web (URL) de l
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Puede ver todas las imágenes disponibles en **Imágenes y archivos**.
+1. Puede ver todas las imágenes disponibles en **[!UICONTROL Imágenes y archivos]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

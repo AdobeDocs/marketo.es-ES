@@ -4,16 +4,16 @@ description: 'Sincronización de SFDC: sincronización de cuentas, documentos de
 title: 'Sincronización de SFDC: sincronización de cuenta'
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # Sincronización de SFDC: sincronización de cuenta {#sfdc-sync-account-sync}
 
-Marketo Engage también sincroniza la información de su cuenta con Salesforce. ¡Aquí hay algunas cosas específicas que debe saber!
+Marketo también sincroniza la información de su cuenta con [!DNL Salesforce]. ¡Aquí hay algunas cosas específicas que debe saber!
 
 ## ¿En qué sentido se sincroniza la información? {#which-way-does-the-information-sync}
 
@@ -21,7 +21,7 @@ Solo una forma: de SFDC a Marketo.
 
 ## ¿Cómo funcionan las actualizaciones? {#how-do-the-updates-work}
 
-Si actualiza un campo Cuenta para un contacto en Marketo, cambia los valores de todos los contactos que pertenecen a esa cuenta en Marketo. No se sincroniza con SFDC. Sin embargo, la próxima vez que la cuenta se actualice en SFDC, los cambios anularán toda la información de la cuenta en Marketo.
+Si actualiza un campo Cuenta para un contacto en Marketo, cambia los valores de todos los contactos que pertenecen a esa cuenta en Marketo. No se sincroniza con SFDC. Sin embargo, la próxima vez que esa cuenta se actualice en SFDC, los cambios anularán toda la información de la cuenta en Marketo.
 
 ## ¿Puede un contacto pertenecer a varias cuentas?  {#can-a-contact-belong-to-multiple-accounts}
 
@@ -35,6 +35,6 @@ En su mayoría, no. Sin embargo, si usa el paso de flujo [Convertir persona](/he
 >
 >Este paso de flujo tiene un caso de uso muy limitado. Si no estás seguro, probablemente no deberías usarlo.
 
-## ¿Un cambio en un campo de cuenta en Salesforce resulta en un registro de actividad Cambiar valor de datos para cada contacto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## ¿Un cambio en un campo de cuenta de [!DNL Salesforce] genera un registro de actividad Cambiar valor de datos para cada contacto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-Sobre todo, sí. Sin embargo, si una cuenta tiene más de 5000 contactos y un campo en esa cuenta cambia en SFDC, sincronizamos el cambio, pero no registramos la actividad de los más de 5000 contactos.
+Sobre todo, sí. Sin embargo, si una cuenta tiene más de 5000 contactos y un campo en esa cuenta cambia en SFDC, sincronizamos el cambio, pero no registramos la actividad de más de 5000 contactos.

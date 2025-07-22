@@ -4,7 +4,7 @@ description: Poner en funcionamiento un correo electrónico - Documentos de Mark
 title: Hacer que un correo electrónico sea operativo
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Los correos electrónicos operativos ignoran los estados de cancelación de susc
 >
 >Los correos electrónicos operativos no se contabilizan en los límites de comunicación. Por ejemplo, si alguien solo puede recibir un correo electrónico por semana y usted ya le ha enviado un correo electrónico de marketing, puede enviarle un correo electrónico operativo si es necesario.
 
-1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en **[!UICONTROL Editar borrador]**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Los correos electrónicos operativos ignoran los estados de cancelación de susc
 >
 >Solo debe utilizar correos electrónicos operativos para correos electrónicos críticos y respuesta automática. No están pensados para correos electrónicos de marketing.
 
-1. Una vez que se abra el editor, haga clic en **Configuración de correo electrónico**.
+1. Una vez que se abra el editor, haga clic en **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/two-1.png)
 
-1. Compruebe **Correo electrónico operativo** y haga clic en **Guardar**.
+1. Compruebe **[!UICONTROL Correo electrónico operativo]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/three.png)
 

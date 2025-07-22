@@ -4,9 +4,9 @@ description: Programar programas de correo electrónico con la zona horaria del 
 title: Programar programas de correo electrónico con zona horaria del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '839'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Existen dos situaciones potenciales al programar un programa de correo electrón
 
 Supongamos que aprueba un programa de correo electrónico con la zona horaria del destinatario habilitada y una hora de envío programada en las próximas 25 horas. Es posible que tenga personas en la lista inteligente que vivan en zonas horarias en las que la hora programada ya haya pasado.
 
-En este escenario, le permitimos decidir qué hacer con este subconjunto de personas calificadas. Haga clic en el icono de engranaje situado junto a **Zona horaria del destinatario** en el mosaico **Programar** del programa de correo electrónico.
+En este escenario, le permitimos decidir qué hacer con este subconjunto de personas calificadas. Haga clic en el icono de engranaje situado junto a **[!UICONTROL Zona horaria del destinatario]** en el mosaico **[!UICONTROL Programar]** del programa de correo electrónico.
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
@@ -34,15 +34,15 @@ Esto le ofrece dos opciones:
 >
 >**Definición**
 >
->* **Enviar al día siguiente en el huso horario del destinatario**: si el correo electrónico está programado para salir el martes a las 9:00 a. m., las personas calificadas que vivan en zonas horarias en las que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00 a. m.
+>* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias en las que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00am.
 >
->* **Enviar usando la hora predeterminada del programa**: si el correo electrónico está programado para salir el martes a las 9:00 a.m., las personas calificadas que vivan en zonas horarias donde ya haya pasado la hora programada recibirán el correo electrónico _según la configuración de la zona horaria de la suscripción_. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el mensaje de correo electrónico el martes a las 9:00 (la hora que corresponda en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico _según la configuración de la zona horaria de la suscripción_. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
 
 >[!NOTE]
 >
 >[Más información](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) sobre cómo calcula Marketo las zonas horarias para los destinatarios.
 
-Consideremos este escenario con más detalle. Supongamos que estás en San Francisco, programando un correo electrónico a las 7:00 a.m. para un envío a las **9:00 a.m.**. En la lista inteligente hay personas de las siguientes regiones:
+Consideremos este escenario con más detalle. Supongamos que está en San Francisco, programando un correo electrónico a las 7:00am para un envío de **9:00am**. En la lista inteligente hay personas de las siguientes regiones:
 
 * San Francisco
 * Texas
@@ -51,11 +51,11 @@ Consideremos este escenario con más detalle. Supongamos que estás en San Franc
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-Ya han pasado las 9:00 de la mañana en Nueva York e Italia, por lo que las personas cualificadas en estas dos zonas horarias recibirán el correo electrónico en función de la **Configuración de zona horaria**:
+9:00am ya ha pasado en Nueva York e Italia, por lo que las personas calificadas en estas dos zonas horarias recibirán el correo electrónico según la **Configuración de zona horaria**:
 
-* **Enviar al día siguiente en el huso horario del destinatario:** Miércoles a las 9:00 a.m. en sus respectivos husos horarios, **OR**
+* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]:** Miércoles a las 9:00am en sus respectivos husos horarios, **OR**
 
-* **Envío con la hora predeterminada del programa**: martes a las 9:00 (PDT) de Nueva York a las 12:00 (EDT) e Italia a las 18:00 (CET).
+* **[!UICONTROL Envío con la hora establecida predeterminada del programa]**: martes a las 9:00am PDT (Nueva York - 12:00pm EDT e Italia - 6:00pm CET).
 
 Una vez aprobado el programa, comienza a ejecutarse en 15 minutos.
 
@@ -63,15 +63,15 @@ Una vez aprobado el programa, comienza a ejecutarse en 15 minutos.
 
 >[!NOTE]
 >
->Aunque el programa iniciará el _proceso_ de envío de correos electrónicos en 15 minutos, no se enviarán _correos electrónicos_ en ese momento. Los destinatarios seguirán recibiendo correos electrónicos según la **configuración de huso horario** que elija.
+>Aunque el programa iniciará el _proceso_ de envío de correos electrónicos en 15 minutos, no se enviarán _correos electrónicos_ en ese momento. Los destinatarios seguirán recibiendo correos electrónicos según la **[!UICONTROL configuración de huso horario]** que elija.
 
 ## Escenario 2: más de 25 horas {#scenario-more-than-hours}
 
-En este segundo escenario, usted aprueba un programa de correo electrónico con **Zona horaria del destinatario** habilitada y una hora de entrega programada de más de 25 horas en el futuro. En este caso, el programa comenzará a ejecutarse a la hora programada en la zona horaria **más temprana** del mundo (UTC + 14:00). Puede haber personas que cumplan los requisitos para su lista inteligente en cada zona horaria del mundo, por lo que empezar en la zona horaria más temprana nos permite enviar el correo electrónico en la fecha u hora programadas a todos los destinatarios en sus respectivas zonas horarias.
+En este segundo escenario, usted aprueba un programa de correo electrónico con **[!UICONTROL Zona horaria del destinatario]** habilitada y una hora de entrega programada de más de 25 horas en el futuro. En este caso, el programa comenzará a ejecutarse a la hora programada en la zona horaria **más temprana** del mundo (UTC + 14:00). Puede haber personas que cumplan los requisitos para su lista inteligente en cada zona horaria del mundo, por lo que empezar en la zona horaria más temprana nos permite enviar el correo electrónico en la fecha u hora programadas a todos los destinatarios en sus respectivas zonas horarias.
 
 **Head Start**
 
-Ahora hablemos de cómo funciona [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) con la **zona horaria del destinatario**. Nuestra función actual de Head Start requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para la zona horaria del destinatario? Recuerde que cuando la zona horaria del destinatario está activada, el programa de correo electrónico se inicia a la hora programada en la zona horaria más temprana (UTC +14:00). Por lo tanto, para habilitar **tanto la zona horaria de Head Start como la de destinatario de**, los programas de correo electrónico deben programarse **al menos 12 horas antes de la hora programada en UTC +14:00.**
+Ahora hablemos de cómo funciona [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) con la **[!UICONTROL zona horaria del destinatario]**. Nuestra función actual de Head Start requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para la zona horaria del destinatario? Recuerde que cuando la zona horaria del destinatario está habilitada, se inicia la ejecución del programa de correo electrónico a la hora programada en la zona horaria más temprana (UTC +14:00). Por lo tanto, para habilitar **tanto** como la zona horaria de Head Start y Destinatario, los programas de correo electrónico deben programarse **al menos 12 horas antes de la hora programada en UTC +14:00.**
 
 Esto significa que si se encuentra en América/Los Ángeles y desea habilitar Head Start y la zona horaria del destinatario, debe programar el programa con **34 horas** de anticipación. ¿Cómo llegamos a este número?
 
@@ -82,7 +82,7 @@ Esto significa que si se encuentra en América/Los Ángeles y desea habilitar He
 En resumen, los programas de correo electrónico programados con Zona horaria de destinatario deben comenzar a ejecutarse a la hora programada en la zona horaria más temprana (es decir, donde llega primero a la medianoche) para adaptarse a cada zona horaria. Así que, si programas un programa de correo electrónico...
 
 * **con un tiempo de entrega de _en_ 25 horas**, el programa comenzará a ejecutarse en un plazo de 15 minutos. Los destinatarios que ya hayan superado la hora programada recibirán el correo electrónico en función de la configuración de zona horaria que haya elegido.
-* **con una hora de entrega de _más de_ 25 horas en el futuro**, el programa se empezará a ejecutar a la hora programada en el huso horario más temprano (UTC +14:00).
+* **con un tiempo de entrega de _más de_ 25 horas en el futuro**, el programa se empezará a ejecutar a la hora programada en la zona horaria más temprana (UTC +14:00).
 * **con Head Start**, el programa comienza a procesarse 12 horas antes de la hora programada en la zona horaria más temprana (UTC +14:00).
 
 >[!CAUTION]

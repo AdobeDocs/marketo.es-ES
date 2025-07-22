@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Explicación de las carpetas, documentos de Marketo, documentación del producto
 title: Explicación de carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -54,7 +54,7 @@ Está bien que cambies de opinión.
 
 ## Archivar una carpeta {#archive-a-folder}
 
-En Marketo, puede convertir las carpetas existentes en carpetas de archivo. Existen carpetas de archivo en Marketing Activities, Database y Design Studio.
+En Marketo, puede convertir las carpetas existentes en carpetas de archivo. Existen carpetas de archivo en [!UICONTROL Actividades de marketing], [!UICONTROL Base de datos] y [!UICONTROL Design Studio].
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

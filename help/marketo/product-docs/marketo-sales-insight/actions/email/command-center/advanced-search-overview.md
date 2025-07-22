@@ -3,10 +3,10 @@ description: 'Información general de búsqueda avanzada: documentos de Marketo,
 title: Información general de búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 4%
+source-wordcount: '427'
+ht-degree: 2%
 
 ---
 
@@ -16,11 +16,11 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
 ## Cómo acceder a la búsqueda avanzada {#how-to-access-advanced-search}
 
-1. En la aplicación web, haga clic en **Centro de comandos**.
+1. En la aplicación web, haga clic en **[!UICONTROL Centro de comandos]**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Haga clic en **Correos electrónicos**.
+1. Haga clic en **[!UICONTROL Correos electrónicos]**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Haga clic en Búsqueda avanzada.
+1. Haga clic en [!UICONTROL Búsqueda avanzada].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
 **Fecha**
 
-Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado de correo electrónico que elija (Enviado, No enviado, Pendiente).
+Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 
 ![](assets/advanced-search-overview-5.png)
 
 **Quién**
 
-Filtre por destinatario/remitente de correo electrónico en la sección Quién.
+Filtre por destinatario/remitente de correo electrónico en la sección [!UICONTROL Who].
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,22 +52,22 @@ Filtre por destinatario/remitente de correo electrónico en la sección Quién.
   <td><strong>Descripción</strong></td>
  </tr>
  <tr>
-  <td><strong>Ver como</strong></td>
+  <td><strong>[!UICONTROL Ver como]</strong></td>
   <td>Filtre por un remitente específico en la instancia de Sales Connect (esta opción solo está disponible para administradores).</td>
  </tr>
  <tr>
-  <td><strong>Por grupo</strong></td>
+  <td><strong>[!UICONTROL Por grupo]</strong></td>
   <td>Filtrado de correos electrónicos por un grupo específico de destinatarios.</td>
  </tr>
  <tr>
-  <td><strong>Por persona</strong></td>
+  <td><strong>[!UICONTROL Por Persona]</strong></td>
   <td>Filtre por un destinatario específico.</td>
  </tr>
 </table>
 
 **Cuándo**
 
-Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado del correo electrónico que elija (Enviado, No entregado, Pendiente).
+Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Estado: enviado**&#x200B;_
+_**Estado: enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filtra por la actividad de correo electrónico enviado. Puede elegir vistas/sin vistas, clics/sin clics y/o respuestas/sin respuestas.
+Filtra por la actividad de correo electrónico enviado. Puede elegir [!UICONTROL vistas]/[!UICONTROL sin vistas], [!UICONTROL clics]/[!UICONTROL sin clics] o [!UICONTROL respuestas]/[!UICONTROL sin respuestas].
 
-_&#x200B;**Estado: pendiente**&#x200B;_
+_**Estado: pendiente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ Filtra por todos los correos electrónicos pendientes.
   <td><strong>Descripción</strong></td>
  </tr>
  <tr>
-  <td><strong>Programado</strong></td>
+  <td><strong>[!UICONTROL Programado]</strong></td>
   <td>Correos electrónicos programados desde la ventana de redacción (Salesforce o la aplicación web), complementos de correo electrónico o una campaña.</td>
  </tr>
  <tr>
-  <td><strong>Borradores</strong></td>
+  <td><strong>[!UICONTROL Borradores]</strong></td>
   <td>Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para poder guardarse como borrador.</td>
  </tr>
  <tr>
-  <td><strong>En curso</strong></td>
+  <td><strong>[!UICONTROL En Curso]</strong></td>
   <td>Correos electrónicos en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos.</td>
  </tr>
 </table>
 
-_&#x200B;**Estado: sin entregar**&#x200B;_
+_**Estado: sin entregar**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ Filtra por correos electrónicos que nunca se entregaron.
   <td><strong>Descripción</strong></td>
  </tr>
  <tr>
-  <td><strong>Error</strong></td>
+  <td><strong>[!UICONTROL Error]</strong></td>
   <td>Cuando un correo electrónico no se envía desde Sales Connect (los motivos más comunes son: mensajes de correo electrónico enviados a contactos que han cancelado la suscripción o que están bloqueados, o si se ha producido un problema al rellenar los campos dinámicos).</td>
  </tr>
  <tr>
-  <td><strong>Rechazados</strong></td>
+  <td><strong>[!UICONTROL Devuelto]</strong></td>
   <td>Un correo electrónico se marca como rechazado cuando el servidor del destinatario lo rechaza. Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Conexión de ventas.</td>
  </tr>
  <tr>
-  <td><strong>Correo no deseado</strong></td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
   <td>Cuando el destinatario marcó el correo electrónico como correo no deseado (término común para el correo electrónico no solicitado). Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Conexión de ventas.</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ Filtra por correos electrónicos que nunca se entregaron.
 
 A continuación se indica cómo crear una búsqueda guardada.
 
-1. Una vez que todos los filtros estén establecidos, haga clic en **Guardar filtros como**.
+1. Una vez que todos los filtros estén establecidos, haga clic en **[!UICONTROL Guardar filtros como]**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Asigne un nombre a la búsqueda y haga clic en **Guardar**.
+1. Asigne un nombre a la búsqueda y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/advanced-search-overview-14.png)
 

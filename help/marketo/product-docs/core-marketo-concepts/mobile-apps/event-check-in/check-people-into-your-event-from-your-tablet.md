@@ -4,7 +4,7 @@ description: 'Registrar a las personas en su evento desde su tableta: documentos
 title: Incorporar personas a su evento desde su tableta
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Cuando las personas se presenten en su evento, puede encontrar su información e
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación de eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 La aplicación funciona igual en [!DNL iPad] y [!DNL Android], excepto por diferencias de diseño menores.
 
@@ -113,7 +113,7 @@ La nueva persona se registrará como registrada en el evento y se agregará a la
 
 ## Invertir un registro de entrada {#reverse-a-check-in}
 
-Si protegió a una persona por error, _antes de sincronizar con Marketo_, puede invertir el estado Asistió.
+Si protegió a una persona por error, _antes de sincronizar con Marketo_, puede invertir el estado [!UICONTROL Asistió].
 
 1. Pulse el nombre en la lista y, en el registro de persona, pulse **[!UICONTROL Deshacer]**.
 

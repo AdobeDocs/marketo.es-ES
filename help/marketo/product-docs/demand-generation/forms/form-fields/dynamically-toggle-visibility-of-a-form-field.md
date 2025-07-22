@@ -4,10 +4,10 @@ description: 'Alternar dinámicamente la visibilidad de un campo de formulario: 
 title: Alternar dinámicamente la visibilidad de un campo de formulario
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -25,15 +25,15 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 >
 >En este ejemplo, ocultemos el campo **State** a menos que **Country** esté seleccionado como &quot;Estados Unidos&quot;.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/editform-1.png)
 
-1. Seleccione el campo que desea ocultar o mostrar dinámicamente y haga clic en el vínculo para **Reglas de visibilidad**.
+1. Seleccione el campo que desea ocultar o mostrar dinámicamente y haga clic en el vínculo para **[!UICONTROL Reglas de visibilidad]**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 
    >[!TIP]
    >
-   >Esto es genial porque puede elegir coincidencias aproximadas como &quot;comienza con&quot;.
+   >Esto es genial porque puede elegir coincidencias aproximadas como &quot;[!UICONTROL empieza por]&quot;.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
    >
    >Anteriormente convertimos País a un tipo de campo de lista de selección y [agregamos todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 
 >[!IMPORTANT]
 >
->El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
 >
 >Es posible que los campos condicionales no funcionen según lo esperado si los valores de los campos los modifican scripts externos que no sean la API de JavaScript de Forms 2.0.

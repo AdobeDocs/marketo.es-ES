@@ -4,7 +4,7 @@ description: 'Añadir contenido a un flujo: documentos de Marketo, documentació
 title: Añadir contenido a un flujo
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Una vez que haya creado su programa de participación, debe añadir contenido a los flujos. Puede agregar correos electrónicos o programas a un flujo.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
+1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,11 +27,11 @@ Una vez que haya creado su programa de participación, debe añadir contenido a 
 
 **Botón Agregar contenido**
 
-1. Haga clic en el botón **Agregar contenido**.
+1. Haga clic en el botón **[!UICONTROL Agregar contenido]**.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
+1. Elija **[!UICONTROL Correo electrónico]** _o_ **[!UICONTROL Programa]** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,13 +41,13 @@ Una vez que haya creado su programa de participación, debe añadir contenido a 
 
 **+ Icono**
 
-1. Haga clic en el icono **+**, elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
+1. Haga clic en el icono **+**, elija **[!UICONTROL Correo electrónico]** _o_ **[!UICONTROL Programa]** y, a continuación, seleccione el correo electrónico, el programa o la campaña inteligente que desee agregar.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Una campaña inteligente debe contener el filtro **Miembro del programa de participación** para que funcione correctamente.
+   >Una campaña inteligente debe contener el filtro **[!UICONTROL Miembro del programa de participación]** para que funcione correctamente.
 
 ¡Buen trabajo! Ahora sabe cómo agregar contenido a las secuencias de programas. Añada todo lo que necesite para su nutrición. Consulte el artículo relacionado siguiente para obtener más información.
 

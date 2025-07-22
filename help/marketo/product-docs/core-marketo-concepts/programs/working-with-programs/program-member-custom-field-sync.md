@@ -3,10 +3,10 @@ description: Sincronización de campos personalizados de miembros del programa -
 title: Sincronización de campo personalizado para miembros del programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 10%
+source-wordcount: '350'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 >[!PREREQUISITES]
 >
 >* Creación de [campos personalizados de miembros del programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Sincronizar una campaña de Salesforce con un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Sincronizar una [!DNL Salesforce] campaña con un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Utilice el cuadro de búsqueda para localizar los campos de Salesforce que desea asignar. En este ejemplo, se utiliza No llamar.
+1. Utilice el cuadro de búsqueda para localizar los [!DNL Salesforce] campos que desea asignar. En este ejemplo, se utiliza No llamar.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 10%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Elija el campo personalizado del miembro del programa de Marketo que desee asignar.
+1. Elija el campo personalizado [!UICONTROL Miembro del programa] de Marketo que desee asignar.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >La lista desplegable solo mostrará campos personalizados de miembro de programa que coincidan con el tipo de datos del campo de Salesforce.
+   >La lista desplegable solo mostrará [!UICONTROL Campos personalizados de miembro del programa] que coincidan con el tipo de datos del campo [!DNL Salesforce].
 
 1. Para asignaciones de campos adicionales, borre el cuadro de búsqueda y repita los pasos del 3 al 5.
 
@@ -55,13 +55,13 @@ ht-degree: 10%
 
    >[!IMPORTANT]
    >
-   >Los cambios en los datos de los miembros del programa en los campos asignados se sincronizarán entre Marketo y Salesforce a partir de ahora.
+   >Los cambios en los datos de miembros del programa en los campos asignados se sincronizarán entre Marketo y [!DNL Salesforce] a partir de ahora.
 
    >[!NOTE]
    >
-   >Si cambia el nombre o el tipo de datos de un campo en Salesforce, se eliminará cualquier asignación de ese campo con el campo personalizado del miembro del programa. Pero puede reasignarlo con el nuevo campo después de la revisión.
+   >Si cambia el nombre o el tipo de datos de un campo de [!DNL Salesforce], se quitará cualquier asignación de ese campo con el [!UICONTROL Campo personalizado de miembro del programa]. Pero puede reasignarlo con el nuevo campo después de la revisión.
 
-## Desasignar campos de Salesforce de los campos personalizados de los miembros del programa {#unmap-salesforce-fields-from-program-member-custom-fields}
+## Desasignar campos Salesforce de campos personalizados de miembros del programa {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un cambio general, primero debe realizar una desasignación. Así es como.
 
@@ -160,4 +160,4 @@ Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un
 >
 >* [Cambiar datos de miembros del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Ver datos en la cuadrícula de miembros del programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [Sincronización de SFDC: sincronización de campaña](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Sincronización de SFDC: sincronización de Campaign](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

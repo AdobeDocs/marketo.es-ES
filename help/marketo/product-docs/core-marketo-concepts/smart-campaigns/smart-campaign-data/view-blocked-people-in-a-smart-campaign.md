@@ -4,7 +4,7 @@ description: 'Visualización de personas bloqueadas en una campaña inteligente:
 title: Ver personas bloqueadas en una campaña inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Las personas bloqueadas en la base de datos de Marketo Engage se marcan como inc
    >
    >A las personas que han alcanzado sus límites de comunicación también se les puede bloquear la recepción de correos electrónicos. Aprenda a [editar los límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} en la sección Administración.
 
-   La pestaña Personas bloqueadas muestra las personas que podrían no recibir correos.
+   La ficha **[!UICONTROL Posibles clientes bloqueados]** muestra a las personas que podrían no recibir correos.
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

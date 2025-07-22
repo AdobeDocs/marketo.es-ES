@@ -4,18 +4,18 @@ description: 'Sincronización de SFDC: sincronización de cliente potencial/prop
 title: 'Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta'
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 13%
 
 ---
 
-# Sincronización de SFDC: sincronización de cliente potencial/propietario de cuenta {#sfdc-sync-lead-account-owner-sync}
+# Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta {#sfdc-sync-lead-account-owner-sync}
 
-Técnicamente, se está sincronizando la tabla &quot;usuario&quot; en Salesforce, pero nos referiremos a ella como campos de Posible cliente/Propietario de cuenta.
+Técnicamente están sincronizando la tabla &quot;usuario&quot; en [!DNL Salesforce], sin embargo, nos referiremos a ella como campos Propietario de cliente potencial/Cuenta.
 
-## ¿Qué campos se sincronizarán con el Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
+## ¿Qué campos se sincronizarán con Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
 Para cada persona sincronizada con Marketo, también sincronizamos los siguientes campos de propietario:
 
@@ -48,4 +48,4 @@ Existen muchas razones para utilizar estos datos, como
 * Reglas de asignación (y reasignación) en Marketo
 * Úsalos en las acciones de flujo [Cambiar propietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} y [Crear tarea](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo tiene una sincronización de Salesforce increíble. ¡Nadie más lo hace tan bien!
+Marketo tiene una sincronización de [!DNL Salesforce] impresionante. ¡Nadie más lo hace tan bien!

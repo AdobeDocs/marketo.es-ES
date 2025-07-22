@@ -4,7 +4,7 @@ description: 'Edición de contenido predictivo para correos electrónicos: docum
 title: Editar contenido predictivo para correos electrónicos
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -17,13 +17,13 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
 
 >[!PREREQUISITES]
 >
->El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página [!UICONTROL Todo el contenido].
 
-1. En la página Contenido predictivo, haga clic en un título para abrir el editor.
+1. En la página [!UICONTROL Contenido predictivo], haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Se abre la página de edición. **Correo electrónico** se muestra de forma predeterminada.
+1. Se abre la página de edición. **[!UICONTROL Correo electrónico]** se muestra de forma predeterminada.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    >
    >Si ha cambiado la etiqueta del botón, se actualizará cuando guarde los cambios o previsualice la imagen.
 
-1. Para agregar o editar la URL de la imagen, haz clic en **Editar imagen**.
+1. Para agregar o editar la URL de la imagen, haz clic en **[!UICONTROL Editar imagen]**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    >
    >Para garantizar la mejor calidad, la imagen debe tener 400 x 400 píxeles o menos.
 
-1. Inserte la URL de la imagen y haga clic en **Agregar**.
+1. Inserte la URL de la imagen y haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/five.png)
 
-1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic en el cuadro de recorte y arrástrelo para aislar el área de imagen que desee utilizar. Haga clic en **Vista previa** cuando haya terminado.
+1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic en el cuadro de recorte y arrástrelo para aislar el área de imagen que desee utilizar. Haga clic en **[!UICONTROL Vista previa]** cuando haya terminado.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Si lo desea, haga clic en el campo **Categorías** y agregue categorías al contenido. Las opciones proceden de [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Si lo desea, haga clic en el campo **[!UICONTROL Categorías]** y agregue categorías al contenido. Las opciones proceden de [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
 
    ![](assets/nine.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/save.png)
 

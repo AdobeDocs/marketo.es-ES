@@ -4,9 +4,9 @@ description: 'Ver información y actividades de personas y cuentas en Google Mai
 title: Ver información y actividades de persona y cuenta en Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La pestaña Actividad de la persona muestra información relevante sobre la pers
 
 ![](assets/1.png)
 
-La pestaña Actividad de la cuenta muestra información relevante de la cuenta, como el nombre de la empresa, la dirección URL del sitio web y la ubicación. La pestaña también muestra las actividades de cuenta más recientes. El dominio de persona identifica la cuenta. Las actividades aparecen en la lista si algún usuario de Perspectiva de ventas de su suscripción se ha correspondido con ellas.
+La pestaña Actividad de la cuenta muestra información relevante de la cuenta, como el nombre de la empresa, la dirección URL del sitio web y la ubicación. La pestaña también muestra las actividades de cuenta más recientes. El dominio de persona identifica la cuenta. Las actividades aparecen en la lista si algún usuario de Sales Insight de su suscripción ha establecido correspondencia con ellas.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Haga clic en el icono de Marketo para expandir el panel.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Ver actividades en Google Chrome {#view-activities-in-google-chrome}
+## Ver actividades en [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-También puede usar el Panel de actividad global en Google Chrome para ver una lista completa de las actividades más recientes que se han producido para todas las personas con las que ha mantenido correspondencia recientemente. Se trata de una fuente actualizada en tiempo real que muestra continuamente el número de actividades no leídas en el icono.
+También puede usar el Panel de actividad global de [!DNL Google Chrome] para ver una lista completa de las actividades más recientes que se han producido para todas las personas con las que ha mantenido correspondencia recientemente. Se trata de una fuente actualizada en tiempo real que muestra continuamente el número de actividades no leídas en el icono.
 
 Haga clic en el icono de Marketo para abrir el panel.
 
@@ -49,4 +49,4 @@ Haga clic en el icono de Marketo para abrir el panel.
 
 >[!MORELIKETHIS]
 >
->[Uso de Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Uso de Marketo Insights para [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

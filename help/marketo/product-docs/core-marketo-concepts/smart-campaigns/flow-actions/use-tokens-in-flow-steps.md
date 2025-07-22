@@ -4,9 +4,9 @@ description: 'Uso de tokens en pasos de flujo: documentos de Marketo, documentac
 title: Uso de tokens en pasos de flujo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterr
 * Cambiar valor de datos
 * Cambiar datos del miembro del programa
 * Momento interesante
-* Pasos de la campaña de Salesforce (añadir, eliminar, cambiar el estado)
+* [!DNL Salesforce] pasos de campaña (agregar, quitar, cambiar estado)
 * Crear tarea
 * Enviar alerta (solo en campañas de Déclencheur)
 

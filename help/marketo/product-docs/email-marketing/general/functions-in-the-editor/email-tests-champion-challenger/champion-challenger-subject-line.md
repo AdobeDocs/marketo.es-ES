@@ -4,7 +4,7 @@ description: Champion/Challenger - Línea de asunto - Documentos de Marketo - Do
 title: Champion/Challenger - Línea de asunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
 >
 >[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en la lista desplegable **Tipo de prueba**.
+1. En el editor de pruebas de correo electrónico, seleccione **[!UICONTROL Línea de asunto]** en la lista desplegable **[!UICONTROL Tipo de prueba]**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >En una prueba de asunto, la primera línea de asunto que se introduzca se designará como **Campeón**. Las líneas de asunto subsiguientes se denominan **Challenger**.
+   >En una prueba de asunto, la primera línea de asunto que se introduzca se designará como **[!UICONTROL Campeón]**. Las líneas de asunto subsiguientes se denominan **[!UICONTROL Challenger]**.
 
-1. Escriba la(s) línea(s) de asunto de **Challenger**.
+1. Escriba la(s) línea(s) de asunto de **[!UICONTROL Challenger]**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
 
    Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

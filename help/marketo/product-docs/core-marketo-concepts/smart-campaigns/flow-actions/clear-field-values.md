@@ -4,7 +4,7 @@ description: Borrar valores de campo - Documentos de Marketo - Documentación de
 title: Borrar valores de campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) es genial, pero ¿cómo _quitas_ el valor por completo? ¡Buena pregunta!
 
-1. En el paso de flujo, elija el campo que desea borrar y escriba **NULL** (mayúsculas) como **Nuevo valor**.
+1. En el paso de flujo, elija el campo que desea borrar y escriba **[!UICONTROL NULL]** (mayúsculas) como **[!UICONTROL Nuevo valor]**.
 
    ![](assets/clear-field-values-1.png)
 

@@ -4,30 +4,30 @@ description: Activación de la sincronización de campos personalizados para el 
 title: Habilitar la sincronización de campos personalizados para el ciclo de ingresos de Analytics
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Habilitar la sincronización de campos personalizados para el ciclo de ingresos de Analytics {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Habilitando sincronización de campos personalizados para [!UICONTROL Revenue Cycle Analytics] {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 Los siguientes pasos le permitirán utilizar campos personalizados en informes RCA.
 
-1. Haga clic en **Administrador**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Análisis del ciclo de ingresos** y luego en **Sincronización de campos personalizados**.
+1. Haga clic en **[!UICONTROL Análisis del ciclo de ingresos]** y luego en **[!UICONTROL Sincronización de campos personalizados]**.
 
    ![](assets/two.png)
 
-1. Seleccione su **Nombre de campo** y haga clic en **Editar opción de sincronización**.
+1. Seleccione su **[!UICONTROL Nombre de campo]** y haga clic en **[!UICONTROL Editar opción de sincronización]**.
 
    ![](assets/three.png)
 
-1. En Estado de sincronización, seleccione **Habilitado** y, a continuación, haga clic en **Guardar**.
+1. En **[!UICONTROL Estado de sincronización]**, seleccione **[!UICONTROL Habilitado]** y, a continuación, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ Los siguientes pasos le permitirán utilizar campos personalizados en informes R
 
    >[!NOTE]
    >
-   >Una vez habilitado el campo, los datos estarán disponibles en Revenue Cycle Analytics al día siguiente.
+   >Una vez habilitado el campo, los datos estarán disponibles en [!UICONTROL Revenue Cycle Analytics] al día siguiente.

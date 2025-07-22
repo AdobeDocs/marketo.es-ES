@@ -4,10 +4,10 @@ description: 'Creación de un segmento con una lista de cuentas: documentos de M
 title: Creación de segmentos mediante una lista de cuentas
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ A continuación se indica cómo crear un segmento mediante una lista de cuentas.
 >
 >[Crear una nueva lista de cuentas](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Vaya a **Segmentos**.
+1. Vaya a **[!UICONTROL Segmentos]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Haga clic en **Crear nuevo**.
+1. Haga clic en **[!UICONTROL Crear nuevo]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Introduzca un nombre para el segmento. Arrastre y suelte **Listas de cuentas** desde la sección **Firmographics**.
+1. Introduzca un nombre para el segmento. Arrastre y suelte **[!UICONTROL Listas de cuentas]** desde la sección **[!UICONTROL Firmographics]**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +39,7 @@ A continuación se indica cómo crear un segmento mediante una lista de cuentas.
    >
    >Las listas de cuentas se sincronizan de ABM a Web Personalization para su uso en la segmentación. Selecciónelos en la lista desplegable. La sincronización puede tardar hasta cinco minutos. Solo se sincronizará si hay una o más cuentas con nombre en la lista de cuentas.
 
-1. Haga clic en **Guardar** o haga clic en **Guardar y definir la campaña** para ir a la página Campañas.
+1. Haga clic en **[!UICONTROL Guardar]** o haga clic en **[!UICONTROL Guardar y definir la campaña]** para ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

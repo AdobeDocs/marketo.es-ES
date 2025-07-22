@@ -4,7 +4,7 @@ description: 'Programar una campaña: documentos de Marketo, documentación del 
 title: Programar una campaña
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -17,10 +17,10 @@ Puede programar cada paso individual del correo electrónico de la campaña para
 
 Todo lo que debe hacer es elegir cuándo desea que se envíen los correos electrónicos al crear la campaña.
 
-Si no programó su primer paso o necesita elegir un &quot;Enviar a las&quot;, se le pedirá que elija cuándo debe enviarse la campaña cada vez que añada a una persona o a un grupo.
+Si no programó su primer paso o necesita elegir un &quot;[!UICONTROL Enviar a las]&quot;, se le pedirá que elija cuándo se debe enviar la campaña, cada vez que agregue una persona o un grupo.
 
-Abra el modal Agregar a campaña, ya sea agregando personas, un grupo o personas seleccionadas y haga clic en **Siguiente**.
+Abra el modal [!UICONTROL Agregar a Campaign], ya sea agregando personas, un grupo o personas seleccionadas y haga clic en **[!UICONTROL Siguiente]**.
 
-Después de hacer clic en **Siguiente**, puede obtener una vista previa del primer correo electrónico.
+Después de hacer clic en **[!UICONTROL Siguiente]**, puede obtener una vista previa del primer correo electrónico.
 
-Después de volver a hacer clic en **Siguiente**, se te dirigirá a una opción para cuando quieras que se publique la campaña. Puede hacer que comience ahora o programar una hora para que comience la campaña más tarde.
+Después de volver a hacer clic en **[!UICONTROL Siguiente]**, se te dirigirá a una opción para cuando quieras que se publique la campaña. Puede hacer que comience ahora o programar una hora para que comience la campaña más tarde.

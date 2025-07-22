@@ -4,7 +4,7 @@ description: Definición de una lista inteligente para actividades de contenido 
 title: Definir una lista inteligente para actividades de contenido predictivo
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede utilizar actividades de contenido predictivo en déclencheur y filtros al definir una lista inteligente en una campaña inteligente. Puede almacenar en déclencheur una acción para cualquiera que haga clic en contenido predictivo a través de [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [Content Recommendations Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un [correo electrónico](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. En su campaña inteligente, vaya a la ficha **Lista inteligente**.
+1. En su campaña inteligente, vaya a la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros al 
    >
    >Una campaña inteligente con déclencheur se ejecuta en modo de Déclencheur. Se ejecuta en una persona a la vez en función de los eventos activados y los filtros añadidos.
 
-1. Haga clic en el menú desplegable **Nombre** y seleccione un operador.
+1. Haga clic en el menú desplegable **[!UICONTROL Nombre]** y seleccione un operador.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros al 
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Agregar la restricción **Type**.
+1. Agregar la restricción **[!UICONTROL Type]**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros al 
 
    ![](assets/pc-add-constraint.png)
 
-1. Si usas el origen del correo electrónico para el contenido predictivo, agrega el déclencheur **Clicks Link in Email**. Seleccione su correo electrónico y agregue la restricción **Is Predictive**, definida como **true**.
+1. Si usas el origen del correo electrónico para el contenido predictivo, agrega el déclencheur **[!UICONTROL Clicks Link in Email]**. Seleccione su correo electrónico y agregue la restricción **[!UICONTROL Is Predictive]**, definida como **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

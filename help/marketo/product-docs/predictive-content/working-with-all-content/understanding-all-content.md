@@ -4,7 +4,7 @@ description: 'Explicación de todo el contenido: documentos de Marketo, document
 title: Explicación de todo el contenido
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -19,12 +19,12 @@ La página Todo el contenido muestra todo el contenido que se ha detectado o añ
 
 Los campos de página incluyen:
 
-* **Título**: El nombre del fragmento de contenido
-* **Categorías**: creadas por usted y utilizadas para agrupar sus resultados predictivos para la web o el correo electrónico
-* **Vistas**: Clics totales en contenido web detectado (incluidos todos los orígenes)
-* **Conversiones**: El número de visitantes que vieron un fragmento de contenido y completaron un formulario en la misma visita
-* **Tasa de conversión**: Un porcentaje calculado por conversiones directas dividido por clics
-* **Aprobar para Predictive**: El icono se muestra si el contenido está aprobado
+* **[!UICONTROL Título]**: El nombre del fragmento de contenido
+* **[!UICONTROL Categorías]**: creadas por usted y utilizadas para agrupar sus resultados predictivos para la web o el correo electrónico
+* **[!UICONTROL Vistas]**: Clics totales en contenido web detectado (incluidos todos los orígenes)
+* **[!UICONTROL Conversiones]**: El número de visitantes que vieron un fragmento de contenido y completaron un formulario en la misma visita
+* **[!UICONTROL Tasa de conversión]**: Un porcentaje calculado por conversiones directas dividido por clics
+* **[!UICONTROL Aprobar para Predictive]**: El icono se muestra si el contenido está aprobado
 
 Puede añadir un nuevo fragmento de contenido y rastrearlo, eliminarlo o aprobar un fragmento de contenido. Después de aprobar el contenido, puede editarlo en la página Contenido predictivo.
 
@@ -32,7 +32,7 @@ Puede añadir un nuevo fragmento de contenido y rastrearlo, eliminarlo o aprobar
 
 Filtre el contenido seleccionando una o más categorías. A continuación, configure la fecha o el intervalo de fechas para el análisis de contenido mediante la configuración estándar o personalizada.
 
-1. En la página **Todo el contenido**, haga clic en el icono de filtro y, en **Categoría**, seleccione una o varias categorías de contenido.
+1. En la página **[!UICONTROL Todo el contenido]**, haga clic en el icono de filtro y, en **[!UICONTROL Categoría]**, seleccione una o varias categorías de contenido.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtre el contenido seleccionando una o más categorías. A continuación, confi
 
 ## Mostrar Analytics para una fecha o un intervalo de fechas {#display-analytics-for-a-date-or-date-range}
 
-1. Para mostrar los datos de una fecha o un intervalo de fechas específico, haga clic en el icono de calendario y, a continuación, seleccione en el panel izquierdo. Para un intervalo de fechas personalizado, haga clic en el primer y último día del intervalo de fechas en el calendario (como se muestra). Haga clic en **Aplicar**.
+1. Para mostrar los datos de una fecha o un intervalo de fechas específico, haga clic en el icono de calendario y, a continuación, seleccione en el panel izquierdo. Para un intervalo de fechas personalizado, haga clic en el primer y último día del intervalo de fechas en el calendario (como se muestra). Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

@@ -4,10 +4,10 @@ description: 'Agregar instrucciones de información de objeto a un campo de form
 title: Agregar instrucciones de información sobre herramientas a un campo de formulario
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >Las **instrucciones** del formulario son pequeñas descripciones emergentes cuando el visitante pasa el ratón sobre el campo.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Seleccione su **formulario** y haga clic en **Editar formulario**.
+1. Seleccione su **formulario** y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Seleccione su campo e ingrese **Instrucciones**.
+1. Seleccione su campo e ingrese **[!UICONTROL Instrucciones]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

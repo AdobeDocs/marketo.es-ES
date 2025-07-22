@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095389
-description: Creación de un contacto en Microsoft Dynamics - Documentos de Marketo - Documentación del producto
+description: 'Creación de un contacto en Microsoft Dynamics: documentos de Marketo, documentación del producto'
 title: Crear un contacto en Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Crear un contacto en Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
+# Crear un contacto en [!DNL Microsoft Dynamics] {#create-a-contact-in-microsoft-dynamics}
 
 1. Seleccione la persona solo de Marketo Engage (el tipo de Microsoft está vacío) que desee crear como contacto en Dynamics.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Al usar la acción de flujo &quot;[!UICONTROL Sincronizar persona con Microsoft]&quot; (solo en una campaña de Déclencheur), el posible cliente/contacto se creará en tiempo real en Dynamics.
 
-1. Marketo clasifica ese registro de posible cliente en Dynamics como un contacto que no está asociado a ninguna cuenta en Dynamics.
+1. Marketo convierte ese registro de posible cliente de [!DNL Dynamics] en un contacto que no está asociado a ninguna cuenta de [!DNL Dynamics].
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 

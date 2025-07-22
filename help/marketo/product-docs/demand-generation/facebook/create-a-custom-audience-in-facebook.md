@@ -4,37 +4,37 @@ description: 'Creación de una audiencia personalizada en Facebook: documentos d
 title: Creación de una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Creación de una audiencia personalizada en Facebook {#create-a-custom-audience-in-facebook}
+# Crear una audiencia personalizada en [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Agregar audiencias personalizadas de Facebook como servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} en la sección de administración.
->* [Acepta los términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en tu cuenta de Facebook.
+>* [Agregar [!DNL Facebook] audiencias personalizadas como servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} en la sección de administración.
+>* [Acepta los términos personalizados de audiencias de  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} en tu cuenta de [!DNL Facebook].
 
 >[!TIP]
 >
->Más información acerca de [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Más información acerca de [audiencias personalizadas en [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Busque y seleccione la lista inteligente o estática que contiene los posibles clientes desde los que desea crear la audiencia.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Seleccione la ficha **Posibles clientes** y luego haga clic en el icono **Enviar a través de Ad Bridge** de la parte inferior.
+1. Seleccione la ficha **[!UICONTROL Posibles clientes]** y luego haga clic en el icono **Enviar a través de Ad Bridge** de la parte inferior.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Seleccione **Facebook** y haga clic en **Siguiente**.
+1. Seleccione **[!UICONTROL Facebook]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Haga clic en el menú desplegable **Audiencia** y seleccione **+ Nueva audiencia**.
+1. Haga clic en el menú desplegable **[!UICONTROL Audiencia]** y seleccione **[!UICONTROL + Nueva audiencia]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >La API de Facebook permite hasta 500 audiencias personalizadas por cuenta de anuncio de Facebook.
 
-1. Escriba un **Nombre de audiencia**. Haga clic en **Actualizar**.
+1. Escriba un **[!UICONTROL Nombre de audiencia]**. Haga clic en **[!UICONTROL Actualizar]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Si tiene varias cuentas de publicidad de Facebook, verá una lista desplegable adicional que le permite elegir en qué cuenta de publicidad se crea esta audiencia.
+   >Si tiene varias cuentas de publicidad de [!DNL Facebook], verá una lista desplegable adicional que le permite elegir en qué cuenta de publicidad se crea esta audiencia.
 
    >[!TIP]
    >
-   >¿Desea intercambiar una audiencia nueva por una existente que esté asociada actualmente a un conjunto o grupo de anuncios? Active la casilla de verificación **Reemplazar una audiencia existente**. Al hacerlo, **no** eliminará la audiencia que se está reemplazando.
+   >¿Desea intercambiar una audiencia nueva por una existente que esté asociada actualmente a un conjunto o grupo de anuncios? Active la casilla de verificación **[!UICONTROL Reemplazar una audiencia existente]**. Al hacerlo, **no** eliminará la audiencia que se está reemplazando.
 
 1. Cuando termine, el cuadro de diálogo de estado se actualizará.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Todas las listas que inserta en Facebook se quedan estáticas. Las listas inteligentes de Marketo no actualizarán automáticamente la lista de audiencias de Facebook para reflejar los cambios realizados después de la transferencia.
+   >Todas las listas que inserta en [!DNL Facebook] se vuelven estáticas. Las listas inteligentes de Marketo no actualizarán automáticamente la lista de audiencias de [!DNL Facebook] para reflejar los cambios realizados después de la transferencia.
 
    >[!MORELIKETHIS]
    >
-   >[Agregar posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Agregar posibles clientes a una audiencia personalizada en [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

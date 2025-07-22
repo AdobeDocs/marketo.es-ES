@@ -4,20 +4,20 @@ description: 'Uso de momentos interesantes: documentos de Marketo, documentació
 title: Uso de momentos interesantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
 
 # Uso de momentos interesantes {#using-interesting-moments}
 
-Los momentos interesantes son la clave para comunicarse con su equipo de ventas a través de la aplicación Marketo Sales Insight.
+Momentos interesantes son la clave para comunicarse con su equipo de ventas a través de la aplicación [!DNL Marketo Sales Insight].
 
 >[!AVAILABILITY]
 >
->Están disponibles solo para los clientes de Marketo Sales Insight y [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
+>Solo están disponibles para [!DNL Marketo Sales Insight] y [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) clientes.
 
 ## ¿Qué es un momento interesante? {#what-is-an-interesting-moment}
 
@@ -33,21 +33,21 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Arrastre sobre el paso de flujo **Momentos interesantes**.
+1. Arrastre sobre el paso de flujo **[!UICONTROL Momentos interesantes]**.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Seleccione un **tipo** (correo electrónico, hito o web).
+1. Seleccione un **tipo** ([!UICONTROL Correo electrónico], [!UICONTROL Hito] o [!UICONTROL Web]).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Escriba un mensaje a su equipo de ventas en el campo **Descripción** que explique por qué es importante esta acción.
+1. Escriba un mensaje a su equipo de ventas en el campo **[!UICONTROL Descripción]** que explique por qué es importante esta acción.
 
    ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
-   >Marketo SOAP también añadirá la fecha en la que se produjo y cómo se añadió el momento interesante (es decir, acción de posible cliente > paso de flujo, API de).
+   >Marketo también añadirá la fecha en la que se produjo y cómo se añadió el momento interesante (es decir, acción de posible cliente > paso de flujo, API de SOAP).
 
 ## ¿Cómo puede esto ponerse aún más interesante?  {#how-can-this-get-even-more-interesting}
 
@@ -63,29 +63,29 @@ Se mostrarán momentos interesantes en el [registro de actividades del posible c
 
 ![](assets/using-interesting-moments-5.png)
 
-## ¿Qué aspecto tiene un momento interesante en Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## ¿Qué aspecto tiene un momento interesante en [!DNL Salesforce]?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Una vez que [hayas instalado la aplicación Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), aparecerán momentos interesantes en las páginas de posible cliente, contacto, cuenta u oportunidad. También aparecen en el panel de información de ventas en la fuente de posibles clientes, las opciones más probables y la lista de observación.
+Una vez que hayas [instalado la [!DNL Marketo Sales Insight] aplicación](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), se mostrarán momentos interesantes en las páginas de posible cliente, contacto, cuenta u oportunidad. También aparecen en el panel [!DNL Sales Insight] en la fuente de posibles clientes, [!DNL Best Bets] y la lista de observación.
 
 ![](assets/using-interesting-moments-6.png)
 
-## ¿Qué aspecto tiene un momento interesante en Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## ¿Qué aspecto tiene un momento interesante en [!DNL Salesforce1]? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-Después de instalar o actualizar Marketo Sales Insight para Salesforce1, se mostrarán momentos interesantes en los vínculos relacionados con el posible cliente.
+Una vez que haya instalado o actualizado [!DNL Marketo Sales Insight] para [!DNL Salesforce1], los momentos interesantes se mostrarán en los vínculos relacionados con el posible cliente.
 
 ![](assets/using-interesting-moments-7.png)
 
 ## Suscribirse a momentos interesantes {#subscribe-to-interesting-moments}
 
-Para suscribirse a un momento interesante, haga clic en el botón Suscribirse en la pestaña Momento interesante o en la fuente de posibles clientes. Los pasos siguientes son los mismos para ambos.
+Para suscribirse a un momento interesante, haga clic en el botón [!UICONTROL Suscribirse] en la pestaña Momento interesante o en la fuente de posibles clientes. Los pasos siguientes son los mismos para ambos.
 
 1. Haga clic en el icono Subscribe. A continuación, se le dirigirá a la pestaña Suscribirse por correo electrónico.
 
-1. Puede elegir el tipo de alerta por correo electrónico que desea recibir en función del nombre, la cuenta, el tipo o la descripción.
+1. Puede elegir el tipo de alerta por correo electrónico que desea recibir en función de [!UICONTROL Nombre], [!UICONTROL Cuenta], [!UICONTROL Tipo] o [!UICONTROL Descripción].
 
 1. Elija a qué dirección de correo electrónico desea enviar las alertas (usted/los integrantes del equipo)
 
-1. Haga clic en **Suscribirse**.
+1. Haga clic en **[!UICONTROL Suscribirse]**.
 
 >[!NOTE]
 >

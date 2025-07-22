@@ -4,20 +4,20 @@ description: Añadir personas a una cuenta con nombre - Documentos de Marketo - 
 title: Agregar personas a una cuenta con nombre
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Agregar personas a una cuenta con nombre {#add-people-to-a-named-account}
+# Agregar personas a una [!UICONTROL cuenta con nombre] {#add-people-to-a-named-account}
 
 Existen tres formas diferentes de agregar manualmente personas a una cuenta con nombre en TAM.
 
 ## Acción de flujo individual {#single-flow-action}
 
-1. Haga clic en **Base de datos**.
+1. Haga clic en **[!UICONTROL Base de datos]**.
 
    ![](assets/one-2.png)
 
@@ -25,21 +25,21 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/two.png)
 
-1. Haga clic en la persona para seleccionarla. Haga clic en el menú desplegable **Acciones de persona**, haga clic en **Marketing** y seleccione **Agregar a cuenta con nombre**.
+1. Haga clic en la persona para seleccionarla. Haga clic en el menú desplegable **[!UICONTROL Acciones de persona]**, haga clic en **[!UICONTROL Marketing]** y seleccione **[!UICONTROL Agregar a cuenta con nombre...]**.
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable **Cuenta con nombre**, seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
+1. Haga clic en la lista desplegable **[!UICONTROL Cuenta con nombre]**, seleccione la [!UICONTROL Cuenta con nombre] que desee y haga clic en **[!UICONTROL Ejecutar ahora]**.
 
    ![](assets/four.png)
 
 ## Etapa de flujo de campaña inteligente {#smart-campaign-flow-step}
 
-1. Seleccione su campaña inteligente y haga clic en **Flujo**.
+1. Seleccione su campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
 
    ![](assets/five.png)
 
-1. En el cuadro de búsqueda, escriba &quot;Agregar a cuenta con nombre&quot;.
+1. En el cuadro de búsqueda, escriba &quot;[!UICONTROL Agregar a la cuenta con nombre]&quot;.
 
    ![](assets/six.png)
 
@@ -47,27 +47,27 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/seven.png)
 
-1. Haga clic en la lista desplegable **Cuenta con nombre** y seleccione la Cuenta con nombre que desee.
+1. Haga clic en la lista desplegable **[!UICONTROL Cuenta con nombre]** y seleccione la [!UICONTROL Cuenta con nombre] que desee.
 
    ![](assets/eight.png)
 
-   ¡Eso es todo! A continuación, simplemente programe (o active) su campaña inteligente y el paso de flujo empezará a agregar personas calificadas a la cuenta con nombre designada.
+   ¡Ya está! A continuación, simplemente programe (o active) su campaña inteligente y el paso de flujo empezará a agregar personas calificadas a la cuenta con nombre designada.
 
 ## Lista de importación {#list-import}
 
-1. Seleccione su lista, haga clic en la lista desplegable **Acciones de lista** y seleccione **Importar lista**.
+1. Seleccione su lista, haga clic en la lista desplegable **[!UICONTROL Acciones de lista]** y seleccione **[!UICONTROL Importar lista]**.
 
    ![](assets/nine.png)
 
-1. Después de elegir el archivo y la configuración, haga clic en **Siguiente**.
+1. Después de elegir el archivo y la configuración, haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/ten.png)
 
-1. Asigne los campos deseados. Asegúrese de que el campo **Cuenta con nombre** esté asignado.
+1. Asigne los campos deseados. Asegúrese de que el campo **[!UICONTROL Cuenta con nombre]** esté asignado.
 
    ![](assets/eleven.png)
 
-1. Elija la configuración que desee y haga clic en **Importar**.
+1. Elija la configuración que desee y haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/twelve.png)
 

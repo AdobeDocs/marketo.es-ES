@@ -4,7 +4,7 @@ description: 'Creación de patrones de contenido: documentos de Marketo, documen
 title: Crear patrones de contenido
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Crear patrones de contenido {#create-content-patterns}
 
-Cuando se establecen patrones de contenido, este se detecta automáticamente cuando un visitante web hace clic en la página web del HTML correspondiente al patrón de contenido. Se utiliza para añadir páginas de HTML (publicaciones de blog, comunicados de prensa, artículos de noticias) como piezas de contenido a la página Todo el contenido. Cuando la detección automática se basa en patrones de contenido, detecta y rastrea páginas de HTML relacionadas con el patrón de URL definido cuando un visitante web ve o hace clic en un vínculo a la página. Este fragmento de contenido (la URL, el nombre de página y los metadatos, incluida la URL y la descripción de la imagen) se añade a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como PDF y vídeo incrustado, debe [habilitar la detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Cuando se establecen patrones de contenido, este se detecta automáticamente cuando un visitante web hace clic en la página web de HTML correspondiente al patrón de contenido. Se utiliza para añadir páginas de HTML (publicaciones de blog, comunicados de prensa, artículos de noticias) como piezas de contenido a la página Todo el contenido. Cuando la detección automática se basa en patrones de contenido, detecta y rastrea páginas de HTML relacionadas con el patrón de URL definido cuando un visitante web ve o hace clic en un vínculo a la página. Este fragmento de contenido (la URL, el nombre de página y los metadatos, incluida la URL y la descripción de la imagen) se añade a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como PDF y vídeo incrustado, debe [habilitar la detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Vaya a **Configuración de contenido**.
+1. Vaya a **[!UICONTROL Configuración de contenido]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Haga clic en **Patrones de URL**.
+1. Haga clic en **[!UICONTROL Patrones de URL]**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ Cuando se establecen patrones de contenido, este se detecta automáticamente cua
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Añada la extensión URL del dominio donde existe la página web. Seleccione la categoría (por ejemplo, Blog, Artículo, Hoja de datos, Nota de prensa).
+1. Añada la extensión URL del dominio donde existe la página web. Seleccione la categoría (por ejemplo, [!UICONTROL Blog], [!UICONTROL Artículo], [!UICONTROL Hoja de datos], [!UICONTROL Comunicado de prensa]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ Cuando se establecen patrones de contenido, este se detecta automáticamente cua
 
    ![](assets/url-patterns-add2.png)
 
-1. Agregue la extensión y la categoría para la ruta adicional y haga clic en **Guardar**.
+1. Agregue la extensión y la categoría para la ruta adicional y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/url-patterns-save.png)
 
@@ -71,12 +71,12 @@ Para _domain.com_:
    <td><p>Detecta todo el contenido que coincide con el patrón domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Detecta cualquier dirección URL que contenga la palabra "hojas de datos":</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
    <td>comunicado de prensa</td> 
-   <td><p>Solo se detecta una página del HTML de coincidencias exacta:</p><p>domain.com/press-release</p></td> 
+   <td><p>Solo se detecta una página de HTML que coincida exactamente:</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

@@ -1,28 +1,28 @@
 ---
-description: 'Configuración de la personalización de detalles de actividad de Salesforce: documentos de Marketo, documentación del producto'
-title: Configurar la personalización de detalles de actividad de Salesforce
+description: Configuración de la personalización de los detalles de actividad de Salesforce - Documentos de Marketo - Documentación del producto
+title: Configuración de la personalización de detalles de actividad de Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '679'
 ht-degree: 1%
 
 ---
 
-# Configurar la personalización de detalles de actividad de Salesforce {#configure-salesforce-activity-detail-customization}
+# Configurar la personalización de detalles de actividad [!DNL Salesforce] {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
 >* Las acciones de Salesforce y Sales Insight [deben estar conectadas](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* El registro de la actividad de correo electrónico mediante la API [debe estar habilitado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-La personalización de los detalles de actividad permite a los administradores configurar la información que se registra en el campo Tarea de Salesforce - Asunto, cuando se sincroniza una actividad de Acciones de perspectiva de ventas/tarea de recordatorio con Salesforce.
+La personalización de los detalles de actividad permite a los administradores configurar la información que se registrará en el campo [!DNL Salesforce] Tarea - Asunto, cuando se sincronice una tarea de actividad/recordatorio [!DNL Sales Insight Actions] con [!DNL Salesforce].
 
 >[!NOTE]
 >
->* Las actualizaciones realizadas en el campo Asunto en las acciones de perspectiva de ventas de una tarea de recordatorio se reflejarán en el campo Asunto de la tarea de Salesforce correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de actividad.
->* Los saltos de línea no son compatibles al registrar información en el campo de asunto de Salesforce. Los saltos de línea del editor de personalización de detalles de actividad se eliminarán cuando se actualice el asunto de una tarea de ventas.
+>* Las actualizaciones realizadas en el campo de asunto de [!DNL Sales Insight Actions] de una tarea de recordatorio se reflejarán en el campo de asunto de la tarea [!DNL Salesforce] correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de actividad.
+>* No se admiten saltos de línea al registrar información en el campo de asunto [!DNL Salesforce]. Los saltos de línea del editor de personalización de detalles de actividad se eliminarán cuando se actualice el asunto de una tarea de ventas.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,21 +46,21 @@ La personalización de los detalles de actividad permite a los administradores c
 La función se puede utilizar para desbloquear las siguientes ventajas:
 
 * Al personalizar qué información está visible en el campo de asunto, los detalles de la actividad se pueden analizar fácilmente para buscar ventas en Salesforce.
-* Los administradores pueden etiquetar el campo de asunto con un identificador único como &quot;Mkto_sales&quot; para que las actividades de las acciones de Sales Insight se puedan identificar y diferenciar fácilmente de otras actividades de correo electrónico, actividades de llamada y tareas.
-* Reduzca la necesidad de campos de actividad personalizados. Salesforce impone límites al número de campos de actividad personalizados, lo cual puede restringir qué datos están disponibles para utilizarse en los informes. Si utiliza campos dinámicos de actividad para agregar datos clave a la línea de asunto, puede reducir el número de campos de actividad personalizados que necesita crear en la instancia de Salesforce.
+* Los administradores pueden etiquetar el campo de asunto con un identificador único como &quot;Mkto_sales&quot; para que las actividades de Sales Insight Actions se puedan identificar y diferenciar fácilmente de otras actividades de correo electrónico, actividades de llamada y tareas.
+* Reduzca la necesidad de campos de actividad personalizados. Salesforce aplica límites en el número de campos de actividad personalizados, lo que puede restringir qué datos están disponibles para utilizarse en los informes. Si utiliza campos dinámicos de actividad para agregar datos clave a la línea de asunto, puede reducir el número de campos de actividad personalizados que necesita crear en la instancia de Salesforce.
 * El campo de asunto de las actividades y tareas seguirá un patrón coherente definido por el administrador de acciones de Sales Insight.
 
 >[!NOTE]
 >
->Si está registrando las respuestas de correo electrónico como actividades de Salesforce, no se usará la configuración de personalización de detalles de actividad de Salesforce. En su lugar, registrarán como &quot;Respuesta: Asunto del correo electrónico&quot;.
+>Si está registrando las respuestas de correo electrónico como actividades de [!DNL Salesforce], no se usará la configuración de personalización de detalles de actividad de [!DNL Salesforce]. En su lugar, registrarán como &quot;Respuesta: Asunto del correo electrónico&quot;.
 
 ## Campos dinámicos de actividad admitidos {#activity-dynamic-fields-supported}
 
-Actividad Los campos dinámicos hacen referencia a información sobre sus actividades de ventas para rellenar datos. Actualmente, se pueden utilizar con la Personalización de detalles de actividad de Salesforce.
+Actividad Los campos dinámicos hacen referencia a información sobre sus actividades de ventas para rellenar datos. Hoy en día, se pueden usar con la personalización de los detalles de actividad de [!DNL Salesforce].
 
 >[!NOTE]
 >
->Si no hay ningún valor para rellenar el campo dinámico para una actividad o tarea específica, no rellenará ningún dato para ese campo dinámico cuando se actualice el campo Tarea de Salesforce - Asunto.
+>Si no hay ningún valor para rellenar el campo dinámico para una actividad o tarea específica, no rellenará ningún dato para ese campo dinámico cuando se actualice el campo Tarea - Asunto de Salesforce.
 
 <table>
  <tr>
@@ -99,35 +99,35 @@ Actividad Los campos dinámicos hacen referencia a información sobre sus activi
  </tr>
 </table>
 
-## Configurar la personalización de detalles de actividad de Salesforce {#configuring-salesforce-activity-detail-customization}
+## Configurando la personalización de detalles de actividad [!DNL Salesforce] {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
 >Se requieren **permisos de administración.**
 
-Al configurar los detalles de la actividad, tenga en cuenta qué datos serían más relevantes para las ventas al revisar el historial de tareas en Salesforce.
+Al configurar los detalles de la actividad, tenga en cuenta qué datos serían los más relevantes para las ventas al revisar el historial de tareas en [!DNL Salesforce].
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Haga clic en **Salesforce**.
+1. Haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Haga clic en **Configuración de sincronización**.
+1. Haga clic en **[!UICONTROL Configuración de sincronización]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. En el editor de personalización de detalles de actividad, añada el texto libre que desee. El texto que agregue no es dinámico y permanecerá sin cambios para el campo de asunto de todas las tareas sincronizadas con Salesforce.
+1. En el editor de personalización de detalles de actividad, añada el texto libre que desee. El texto que agregue no es dinámico y permanecerá sin cambios para el campo de asunto de todas las tareas sincronizadas con [!DNL Salesforce].
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
    >[!TIP]
    >
-   >Aunque no es obligatorio, ajustar el texto agregado entre corchetes puede facilitar a algunas personas la discernición entre los datos cuando se rellenan en un campo de asunto en Salesforce. Ejemplo: `[Sales Insight Actions] - {{Activity_type}}`
+   >Aunque no es obligatorio, ajustar el texto agregado entre corchetes puede facilitar a algunas personas la distinción entre los datos cuando se rellenan en un campo de asunto de [!DNL Salesforce]. Ejemplo: `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Agregue cualquier campo dinámico adicional que desee haciendo clic en el botón **Agregar campo dinámico**.
+1. Agregue cualquier campo dinámico adicional que desee haciendo clic en el botón **[!UICONTROL Agregar campo dinámico]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,13 +135,13 @@ Al configurar los detalles de la actividad, tenga en cuenta qué datos serían m
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->Salesforce impone un límite de 255 caracteres. Si los detalles de la actividad superan ese límite, se truncará para garantizar que la información se almacene en el campo de asunto de Salesforce.
+>[!DNL Salesforce] impone un límite de 255 caracteres. Si los detalles de la actividad superan ese límite, se truncará para garantizar que la información se almacene en el campo de asunto [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: 'Información general de Analytics de perspectivas de correo electr
 title: Resumen de Analytics de Email Insights
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Resumen de Analytics de Email Insights {#email-insights-analytics-overview}
 
-En Analytics, explore los datos agregados para la entrega y la participación por correo electrónico. Utilice el gráfico de la izquierda para explorar los datos y las perspectivas de la derecha para disfrutar de una experiencia más guiada.
+En [!UICONTROL Analytics], explore los datos agregados para la entrega y la participación por correo electrónico. Utilice el gráfico de la izquierda para explorar los datos y las perspectivas de la derecha para disfrutar de una experiencia más guiada.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ En el lado derecho de la página, las métricas guiadas le ayudan a descubrir co
 
 >[!NOTE]
 >
->¿Ves ese Refresh en la esquina superior derecha? Cuando lo vea, tendrá que hacer clic manualmente para actualizar el módulo de Insights. Solo se muestra cuando se ha realizado un cambio en los filtros que invalida los valores actuales.
+>¿Ves esa [!UICONTROL actualización] en la esquina superior derecha? Cuando lo vea, tendrá que hacer clic manualmente para actualizar el módulo de Insights. Solo se muestra cuando se ha realizado un cambio en los filtros que invalida los valores actuales.
 
 También puede especificar lo que ve (de izquierda a derecha): Todos, Audiencia, Contenido y Plataforma.
 

@@ -4,7 +4,7 @@ description: Información general sobre envíos de perspectivas de correo electr
 title: Resumen de envíos de Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Resumen de envíos de Email Insights {#email-insights-sends-overview}
 
-En la página Envíos, examine las características de las comunicaciones por correo electrónico recientes.
+En la página [!UICONTROL Envíos], examine las características de las comunicaciones por correo electrónico recientes.
 
 ![](assets/one.png)
 
@@ -25,11 +25,11 @@ A la derecha de la página hay varios datos sobre los correos electrónicos envi
 
 ![](assets/two-1.png)
 
-**Tipo** indica el tipo de recurso usado.
-El número **Destinatario** es la cantidad de personas a las que se envió el correo electrónico.
-**Métricas de envío** le ofrece una vista rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.\
-**Métricas de participación** le ofrece una vista rápida de cuántos destinatarios han abierto, hecho clic en un mensaje de correo electrónico y cancelado su suscripción.
-**Puntuación** es la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de tu correo electrónico.
+**[!UICONTROL Tipo]** indica el tipo de recurso usado.
+El número **[!UICONTROL Destinatario]** es la cantidad de personas a las que se envió el correo electrónico.
+**[!UICONTROL Métricas de envío]** le ofrece una vista rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.\
+**[!UICONTROL Métricas de participación]** le ofrece una vista rápida de cuántos destinatarios han abierto, hecho clic en un mensaje de correo electrónico y cancelado su suscripción.
+**[!UICONTROL Puntuación]** es la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de tu correo electrónico.
 
 De forma predeterminada, los correos electrónicos se ordenan por los más recientes, pero puede ordenarlos por cualquier métrica disponible.
 

@@ -4,10 +4,10 @@ description: 'Sincronización de SFDC: sincronización de oportunidades, documen
 title: 'Sincronización de SFDC: sincronización de oportunidad'
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 6%
+source-wordcount: '281'
+ht-degree: 7%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 6%
 
 ## ¿Cómo se sincronizan los detalles de las oportunidades entre los dos sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-La sincronización es de una manera: de Salesforce a Marketo Engage. Las actualizaciones de oportunidades en Salesforce se sincronizarán con Marketo.
+La sincronización es de una manera: de [!DNL Salesforce] a Marketo. Las actualizaciones de oportunidades en [!DNL Salesforce] se sincronizarán con Marketo.
 
 >[!NOTE]
 >
->Las [credenciales que ingresaste en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} se usan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
+>Las [credenciales que ingresaste en Marketo para [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se usan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
 
 ## ¿Puedo iniciar una sincronización de oportunidad? {#can-i-initiate-an-opportunity-sync}
 
-No, no puedes. Los cambios que se realicen en cualquier oportunidad de Salesforce se sincronizarán automáticamente con Marketo.
+No, no puedes. Los cambios realizados en cualquier oportunidad de [!DNL Salesforce] se sincronizarán automáticamente con Marketo.
 
 ## ¿Admite Marketo más de una divisa en el importe de la oportunidad? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo solo admite una divisa. La cantidad de la oportunidad se sincronizará con Salesforce, pero la divisa será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} de su suscripción a Marketo.
+No, Marketo solo admite una divisa. La cantidad de la oportunidad se sincronizará desde [!DNL Salesforce], pero la moneda será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) de su suscripción a Marketo.
 
 ## ¿Cómo asocia Marketo las oportunidades y los contactos? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketo asocia oportunidades y contactos mediante [roles de contacto de oportuni
 
 ## ¿Cómo puedo ver todas las oportunidades de una persona? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Puede ver una lista de oportunidades en la ficha **Información de la oportunidad** de la página [Detalle de la persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+Puede ver una lista de oportunidades en la ficha **[!UICONTROL Información de la oportunidad]** de la página [Detalle de la persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## ¿Cuáles son los déclencheur relacionados con la oportunidad? {#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -59,4 +59,4 @@ Filtros:
 >
 >Consulte las restricciones de filtros y déclencheur. Hay muchos detalles geniales ahí dentro.
 >
->Simplemente cree un nuevo campo en el objeto de oportunidad en Salesforce y se convertirá automáticamente en una restricción.
+>Simplemente cree un nuevo campo en el objeto de oportunidad en [!DNL Salesforce] y se convertirá automáticamente en una restricción.

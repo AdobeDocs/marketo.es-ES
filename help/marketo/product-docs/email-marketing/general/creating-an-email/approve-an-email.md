@@ -4,7 +4,7 @@ description: 'Aprobar un correo electrónico: documentos de Marketo, documentaci
 title: Aprobar un correo electrónico
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Los correos electrónicos comienzan en estado de borrador. Por lo general, no están disponibles en el sistema hasta que se aprueban. Existen varias formas de aprobar un correo electrónico.
 
-## Aprobar mediante el menú Acciones de correo electrónico {#approve-it-using-the-email-actions-menu}
+## Aprobar mediante el menú [!UICONTROL Acciones de correo electrónico] {#approve-it-using-the-email-actions-menu}
 
-1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar**.
+1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Aprobar]**.
 
    ![](assets/one.png)
 
 ## Aprobar directamente en el árbol {#approve-it-directly-in-the-tree}
 
-1. Busque y seleccione su correo electrónico, haga clic con el botón derecho en él y seleccione **Aprobar**.
+1. Busque y seleccione su correo electrónico, haga clic con el botón derecho en él y seleccione **[!UICONTROL Aprobar]**.
 
    ![](assets/approveemail.png)
 
 ## Aprobar el correo electrónico en el editor de correo electrónico {#approve-your-email-in-the-email-editor}
 
-1. En el correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar y cerrar**.
+1. En el correo electrónico, haga clic en la lista desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/three.png)
 

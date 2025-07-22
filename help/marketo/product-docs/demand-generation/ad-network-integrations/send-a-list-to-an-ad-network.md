@@ -3,24 +3,24 @@ description: Envío de una lista a una red de publicidad - Documentos de Marketo
 title: Enviar una lista a una red de publicidad
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 # Enviar una lista a una red de publicidad {#send-a-list-to-an-ad-network}
 
-Obtenga información sobre cómo enviar una lista estática a LinkedIn, Facebook o Google.
+Obtenga información sobre cómo enviar una lista estática a [!DNL LinkedIn], [!DNL Facebook] o Google.
 
 ## Cómo enviar una lista {#how-to-send-a-list}
 
-1. En Marketo Engage, seleccione su lista, haga clic en la lista desplegable **[!UICONTROL Acciones de lista]** y seleccione **[!UICONTROL Enviar a la red de publicidad]**.
+1. En Marketo, selecciona tu lista, haz clic en la lista desplegable **[!UICONTROL Acciones de lista]** y selecciona **[!UICONTROL Enviar a la red de publicidad]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Elija entre LinkedIn, Facebook o Google (el resto de opciones no están disponibles en este momento). En este ejemplo, elegimos **[!UICONTROL LinkedIn]**. Haga clic en **[!UICONTROL Siguiente]**.
+1. Elija entre [!DNL LinkedIn], [!DNL Facebook] o Google (las demás opciones no están disponibles en este momento). En este ejemplo, elegimos **[!DNL LinkedIn]**. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -32,13 +32,13 @@ Obtenga información sobre cómo enviar una lista estática a LinkedIn, Facebook
    >
    >Si alguna vez necesita comprobarlo, puede ver la audiencia de destino a la que se sincroniza una lista a través de la pestaña Estado.
 
-1. Elija el tipo push que desee y haga clic en **[!UICONTROL Actualizar]**.
+1. Elija su [!UICONTROL tipo push] deseado y haga clic en **[!UICONTROL Actualizar]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Si selecciona &quot;Habilitar sincronización continua de audiencia&quot;, Marketo mantiene la lista actualizada en la red de publicidad elegida a medida que cambia la lista en la instancia de Marketo. Agregamos _y_ quitamos personas de la audiencia si se agregan o eliminan de la lista estática.
+   >Si selecciona &quot;[!UICONTROL Habilitar la sincronización continua de audiencias]&quot;, Marketo mantiene la lista actualizada en la red de anuncios elegida a medida que cambia la lista en la instancia de Marketo. Ambos agregamos **y** quitamos personas de la audiencia si se agregan o eliminan de la lista estática.
 
 1. ¡Y eso es todo! Haga clic en **[!UICONTROL Aceptar]** para salir.
 

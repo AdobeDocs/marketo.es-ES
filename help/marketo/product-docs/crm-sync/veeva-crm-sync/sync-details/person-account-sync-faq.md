@@ -3,18 +3,18 @@ description: Preguntas frecuentes sobre la sincronización de cuentas de persona
 title: Preguntas frecuentes sobre sincronización de cuenta de persona
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
 # Preguntas frecuentes sobre sincronización de cuenta de persona {#person-account-sync-faq}
 
-Marketo Engage sincroniza toda su base de datos con Veeva para el tipo de registros de cuenta de persona. Después de la sincronización, espera 5 minutos y, a continuación, se vuelve a sincronizar, todo el día, todos los días.
+Marketo Engage sincroniza toda la base de datos con [!DNL Veeva] para el tipo de registros de cuenta de persona. Después de la sincronización, espera 5 minutos y, a continuación, se vuelve a sincronizar, todo el día, todos los días.
 
-Las cuentas de persona se pueden configurar en Veeva para adaptarse a las necesidades de su organización.
+Las cuentas de persona se pueden configurar en [!DNL Veeva] para que se ajusten a las necesidades de su organización.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Las cuentas de persona se pueden configurar en Veeva para adaptarse a las necesi
 
 **¿Qué es una cuenta de persona?**
 
-Una cuenta de persona es muy similar al objeto de cuenta en Veeva CRM. Sin embargo, una cuenta de persona tiene acceso tanto a los campos de cuenta como a los de contacto.
+Una cuenta de persona es muy similar al objeto de cuenta en [!DNL Veeva] CRM. Sin embargo, una cuenta de persona tiene acceso tanto a los campos de cuenta como a los de contacto.
 
 **¿Qué sucede cuando se sincroniza una cuenta de persona con Marketo?**
 
@@ -42,23 +42,23 @@ Hay dos campos de correo electrónico para una cuenta de persona. Utilice el cam
 
 ## Dirección de sincronización {#sync-direction}
 
-La sincronización de los campos relacionados con el contacto de la cuenta de persona es bidireccional. Si realiza cambios en un contacto en Veeva CRM o Marketo, las actualizaciones se reflejarán en ambos sistemas. Los campos de la cuenta solo se sincronizan en una dirección, de Veeva CRM a Marketo.
+La sincronización de los campos relacionados con el contacto de la cuenta de persona es bidireccional. Si realiza cambios en un contacto en [!DNL Veeva] CRM o Marketo, las actualizaciones se reflejarán en ambos sistemas. Los campos de la cuenta solo se sincronizan en una dirección, de [!DNL Veeva] CRM a Marketo.
 
 **¿Qué sucede si se realizan cambios en ambos sistemas a los campos Contacto en la Cuenta de persona al mismo tiempo?**
 
-Estaríamos bien y dejaríamos que Veeva CRM ganara. Sin embargo, es raro que se produzca este tipo de colisión de datos.
+Estaríamos encantados de dejar que [!DNL Veeva] CRM gane. Sin embargo, es raro que se produzca este tipo de colisión de datos.
 
-**¿El tipo de registros de contacto o posible cliente está sincronizado con Veeva CRM?**
+**¿El tipo de registros de contacto o posible cliente está sincronizado con [!DNL Veeva] CRM?**
 
-Veeva CRM solo trata los objetos de cuenta de persona y también tiene cuentas de negocio. Los tipos tradicionales de CRM de Posible Cliente, Contactos y Oportunidades no están realmente en uso en los sistemas tradicionales de CRM de Veeva. Pueden crearse en Veeva CRM, pero no son compatibles oficialmente con este conector.
+[!DNL Veeva] CRM solo trata los objetos de cuenta de persona y también tiene cuentas empresariales. Los tipos tradicionales de CRM de Posible Cliente, Contactos y Oportunidades no se utilizan en realidad en los sistemas CRM tradicionales de [!DNL Veeva]. Pueden crearse en [!DNL Veeva] CRM, pero no son compatibles oficialmente con este conector.
 
 **¿Puedo convertir a una persona en un contacto en Marketo?**
 
-No, ya que los tipos de posible cliente y contacto no son compatibles con la sincronización con Veeva CRM. Como resultado, no se admite la conversión.
+No, ya que los tipos de posible cliente y contacto no son compatibles con la sincronización con [!DNL Veeva] CRM. Como resultado, no se admite la conversión.
 
 **¿Puedo forzar manualmente una sincronización de un contacto?**
 
-No, como el Contacto no es un tipo de registro independiente, no se admite la sincronización de una persona con Veeva.
+No, como el contacto no es un tipo de registro independiente, no se admite la sincronización de una persona con [!DNL Veeva].
 
 **¿Todos los campos estándar se sincronizan con Marketo?**
 
@@ -68,11 +68,11 @@ No, no todos los campos estándar son útiles. Todos los campos personalizados p
 >
 >Marketo solo sincronizará los campos a los que el usuario de sincronización de Marketo tenga acceso.
 
-**¿Marketo respetará las reglas de validación de Veeva?**
+**¿Marketo respetará las reglas de validación de [!DNL Veeva]?**
 
 Sí, si hay un conflicto, registraremos el resultado en el registro de actividad del posible cliente.
 
 >[!MORELIKETHIS]
 >
->* [Asignación de campos Veeva predeterminada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Asignación de campos [!DNL Veeva] predeterminada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
 >* [Sincronizando mensajes de clave de llamada y llamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

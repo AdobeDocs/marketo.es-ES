@@ -4,7 +4,7 @@ description: 'Adición de un token de sistema como vínculo en un correo electr�
 title: Añadir un token de sistema como vínculo en un correo electrónico
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Los siguientes tokens se pueden utilizar como vínculos en un correo electrónic
 
 A continuación se indica cómo añadirlos a un correo electrónico:
 
-1. Busque y seleccione su correo electrónico, luego haga clic en **Editar borrador**.
+1. Busque y seleccione su correo electrónico, luego haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ A continuación se indica cómo añadirlos a un correo electrónico:
 
    ![](assets/two-1.png)
 
-1. Resalte el texto que desee convertir en un vínculo que tendrá el token y haga clic en el botón **Insertar/Editar vínculo**.
+1. Resalte el texto que desee convertir en un vínculo que tendrá el token y haga clic en el botón **[!UICONTROL Insertar/Editar vínculo]**.
 
    ![](assets/three-1.png)
 
-1. Escriba el token en la URL del vínculo y haga clic en **Insertar**.
+1. Escriba el token en la URL del vínculo y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ A continuación se indica cómo añadirlos a un correo electrónico:
    >
    >Copie o pegue el token que desee: **`{{system.forwardToFriendLink}}`**, **`{{system.unsubscribeLink}}`** o **`{{system.viewAsWebpageLink}}`**
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

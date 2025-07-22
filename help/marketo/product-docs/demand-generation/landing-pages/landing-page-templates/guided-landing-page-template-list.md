@@ -4,7 +4,7 @@ description: Lista de plantillas de página de aterrizaje guiada - Documentos de
 title: Lista de plantillas de página de aterrizaje guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Lista de plantillas de página de aterrizaje guiada {#guided-landing-page-template-list}
 
-Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y se basa en el marco de trabajo del Bootstrap.
+Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y se basa en el marco de trabajo de Bootstrap.
 
 >[!NOTE]
 >
->El Soporte de Marketo no está configurado para ayudar con el HTML de solución de problemas. Si necesita ayuda para modificar cualquiera de estas plantillas, consúltelo con un desarrollador web.
+>La asistencia de Marketo no está configurada para ayudar a solucionar problemas de HTML. Si necesita ayuda para modificar cualquiera de estas plantillas, consúltelo con un desarrollador web.
 
 Para importar una plantilla en Marketo:
 
 1. Haga clic en el nombre de la plantilla para verla más grande.
 1. Descargue la plantilla elegida.
-1. En Marketo, vaya a **Design Studio.**
-1. Haga clic en **Páginas de destino** en el árbol izquierdo y, a continuación, seleccione **Plantillas.**
+1. En Marketo, vaya a **[!UICONTROL Design Studio].**
+1. Haga clic en **[!UICONTROL Páginas de destino]** en el árbol izquierdo y, a continuación, seleccione **[!UICONTROL Plantillas].**
 
-1. En la barra de menús, haga clic en **Importar plantilla.**
-1. Elija el archivo descargado, escriba un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guided**).
+1. En la barra de menús, haga clic en **[!UICONTROL Importar plantilla].**
+1. Elija el archivo descargado, escriba un nombre de plantilla y haga clic en **[!UICONTROL Importar]** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **[!UICONTROL Guided]**).
 
 <table>
 <tr>

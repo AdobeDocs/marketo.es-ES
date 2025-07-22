@@ -3,7 +3,7 @@ description: 'Inserción de un segmento de Adobe Experience Platform en una list
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Busque el mosaico del Marketo Engage y haga clic en **[!UICONTROL Activar]**.
+1. Busque el mosaico de Marketo Engage y haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -52,7 +52,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Si estás eligiendo Nueva cuenta, puedes encontrar tu Munchkin ID en **[!UICONTROL Administrador]** > **[!UICONTROL Munchkin]** (también forma parte de tu URL de Marketo una vez que iniciaste sesión). ID/secreto de cliente que debe tener de seguir los requisitos previos de la parte superior de este artículo.
+   >Si estás eligiendo Nueva cuenta, puedes encontrar tu Munchkin ID en **[!UICONTROL Administración]** > **[!UICONTROL Munchkin]** (también forma parte de tu URL de Marketo una vez que iniciaste sesión). ID/secreto de cliente que debe tener de seguir los requisitos previos de la parte superior de este artículo.
 
 1. Elija la cuenta de destino y haga clic en **[!UICONTROL Seleccionar]**.
 
@@ -64,7 +64,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Si elige &quot;Asignar solo personas de Marketo existentes&quot;, solo necesita asignar el correo electrónico o el ECID, para poder omitir los pasos 13-16.
+   >Si elige &quot;[!UICONTROL Coincidir solo con personas de Marketo existentes]&quot;, solo necesita asignar el correo electrónico o el ECID, para poder omitir los pasos 13-16.
 
 1. Esta sección es opcional. Haga clic en **[!UICONTROL Crear]** para omitirlo.
 
@@ -80,7 +80,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Si elige varios segmentos, tendrá que asignar cada segmento a una lista estática especificada en la pestaña Programación de segmentos.
+   >Si elige varios segmentos, tendrá que asignar cada segmento a una lista estática especificada en la ficha [!UICONTROL Programación de segmentos].
 
    >[!IMPORTANT]
    >
@@ -100,7 +100,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
+   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
 
 1. Asigne los apellidos y el nombre de la compañía haciendo clic en **[!UICONTROL Agregar nueva asignación]** de nuevo y repitiendo el paso 15 dos veces, eligiendo **[!UICONTROL lastName]** y luego **[!UICONTROL companyName]**.
 

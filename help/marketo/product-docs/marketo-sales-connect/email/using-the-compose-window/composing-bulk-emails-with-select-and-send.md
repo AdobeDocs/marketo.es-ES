@@ -4,7 +4,7 @@ description: 'Composición de correos electrónicos masivos con selección y env
 title: Redacción de correos electrónicos masivos con selección y envío
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Enviando emails {#sending-emails}
 
-1. Vaya a la página Personas.
+1. Vaya a la página **[!UICONTROL Personas]**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
    >
    >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y enviar.
 
-1. Haga clic en el botón **Correo electrónico seleccionado**.
+1. Haga clic en el botón **[!UICONTROL Correo electrónico seleccionado]**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    >[!NOTE]
    >
-   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Vista previa de los campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral por lotes estén seleccionados para previsualizar todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Vista previa de campos dinámicos**, solo se previsualizará ese correo electrónico.
+   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **[!UICONTROL Vista previa de los campos dinámicos]**. Asegúrese de que todos los destinatarios de la barra lateral por lotes estén seleccionados para previsualizar todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **[!UICONTROL Vista previa de campos dinámicos]**, solo se previsualizará ese correo electrónico.
 
 ## Edición de correos electrónicos {#editing-emails}
 
@@ -59,7 +59,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
+1. Haga clic en **[!UICONTROL Enviar]** (o [[!UICONTROL Programar]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Complete las Actualizaciones masivas antes de personalizar cada correo electrón
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
+1. Haga clic en **[!UICONTROL Enviar]** (o [[!UICONTROL Programar]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico que haya realizado.
 
    ![](assets/each-four.png)
 

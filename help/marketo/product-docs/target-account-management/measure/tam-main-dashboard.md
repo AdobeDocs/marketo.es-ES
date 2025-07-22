@@ -4,7 +4,7 @@ description: 'Panel principal de TAM: Documentos de Marketo: documentación del 
 title: Panel principal de TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Panel principal de TAM {#tam-main-dashboard}
 
-El panel principal proporciona un resumen de los esfuerzos de administración de cuentas de Target. Puede ver las cuentas de destino o las listas de cuentas que se muestran correctas y las que requieren más atención.
+El panel principal proporciona un resumen de sus esfuerzos de [!UICONTROL Administración de cuentas de Target]. Puede ver las cuentas de destino o las listas de cuentas que se muestran correctas y las que requieren más atención.
 
 ![](assets/one.png)
 
-Para filtrar por lista de cuentas, haga clic en la lista desplegable Ver...
+Para filtrar por lista de cuentas, haga clic en la lista desplegable **[!UICONTROL Ver]**...
 
 ![](assets/two.png)
 
-...y haga una selección. En este ejemplo, elegimos nuestra lista de cuentas de &quot;Alta tecnología&quot;.
+...y haga una selección. En este ejemplo, elegimos nuestra lista de cuentas de &quot;**[!UICONTROL alta tecnología]**&quot;.
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ Para ver el [Panel de lista de cuentas](/help/marketo/product-docs/target-accoun
 
 ![](assets/five.png)
 
-Si en lugar de ver el panel Lista de cuentas desea explorar en profundidad una cuenta con nombre, haga clic en **Más detalles** bajo su nombre...
+Si en lugar de ver el panel Lista de cuentas desea explorar en profundidad una cuenta con nombre, haga clic en **[!UICONTROL Más detalles]** bajo su nombre...
 
 ![](assets/six.png)
 

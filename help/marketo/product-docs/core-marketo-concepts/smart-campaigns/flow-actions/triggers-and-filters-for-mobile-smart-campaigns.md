@@ -4,9 +4,9 @@ description: 'Déclencheur y filtros para campañas móviles inteligentes: Docum
 title: Déclencheur y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Utilice restricciones con déclencheur y filtros para ordenar aún más los dato
 
 Todos los déclencheur, excepto la notificación push de tipo Se envió, contienen estas dos restricciones estándar:
 
-* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, desconocido (esta es una lista preestablecida)
+* Tipo de dispositivo: [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, smartphone Android, tablet Android, desconocido (esta es una lista preestablecida)
 
 * Platform: iPhone o Android
 
@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 

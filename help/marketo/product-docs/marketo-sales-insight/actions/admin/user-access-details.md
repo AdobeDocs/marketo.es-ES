@@ -3,7 +3,7 @@ description: Detalles de acceso del usuario - Documentos de Marketo - Documentac
 title: Detalles de acceso del usuario
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Los administradores pueden ver a todas las personas de una campaña en curso.
 
 ![](assets/user-access-details-4.png)
 
-Los administradores pueden ver los usuarios, las campañas y las categorías de campaña con la lista desplegable Ver como.
+Los administradores pueden ver campañas de usuarios y categorías de campañas con la lista desplegable [!UICONTROL Ver como].
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ Los administradores pueden detener campañas en nombre de los usuarios.
    * Los usuarios pueden explorar en profundidad únicamente los equipos a los que pertenecen
    * Los usuarios pueden ver sus propios análisis
 
-* Página Personas:
+* [!UICONTROL Personas] Página:
 
    * Los usuarios pueden compartir grupos con todos
    * Los usuarios pueden compartir grupos únicamente con los equipos a los que pertenecen
    * Los usuarios tendrán visibilidad de todas las personas de la base de datos de acciones
    * Cuando se elimina un usuario, sus contactos compartidos transfieren la propiedad al administrador maestro que eliminó el usuario
 
-* Página Administración del equipo:
+* Página de administración de [!UICONTROL Equipo]:
 
    * No se puede ver
 
-* Página Plantillas:
+* [!UICONTROL Plantillas] Página:
 
    * Los usuarios pueden compartir plantillas con todos
    * Los usuarios pueden compartir plantillas en categorías que los administradores les permiten

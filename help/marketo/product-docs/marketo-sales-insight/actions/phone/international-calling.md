@@ -3,10 +3,10 @@ description: Llamadas internacionales - Documentos de Marketo - Documentación d
 title: Llamadas internacionales
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 11%
+source-wordcount: '392'
+ht-degree: 12%
 
 ---
 
@@ -143,7 +143,7 @@ Sales Dialer facilita la comunicación internacional. Para los clientes que llam
 
 ## Preguntas frecuentes sobre llamadas internacionales {#international-calling-faq}
 
-**¿Por qué las Acciones de perspectiva de ventas no admiten llamadas internacionales para todos los países?**
+**¿Por qué [!DNL Sales Insight Actions] no admite llamadas internacionales para todos los países?**
 
 Hoy en día, ofrecemos llamadas internacionales con Sales Dialer sin costo adicional. Queremos facilitarle la comunicación con sus propios clientes y clientes potenciales, por lo que hemos lanzado la compatibilidad con llamadas internacionales de tarifa estándar. Ofrecemos cobertura a 34 países fuera de los Estados Unidos y Canadá para regiones en Europa, Asia y otros destinos clave. Seguiremos ampliando en función de los comentarios de los clientes.
 

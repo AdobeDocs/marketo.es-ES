@@ -4,7 +4,7 @@ description: 'Creación de objetos personalizados de Marketo: documentos de Mark
 title: Crear objetos personalizados de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado de Borrador.
+1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado **[!UICONTROL Borrador]**.
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -63,7 +63,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
    >[!NOTE]
    >
-   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api).
+   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Creación de un objeto personalizado para una estructura &quot;varios a varios&quot; {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -97,13 +97,13 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado de Borrador.
+1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado **[!UICONTROL Borrador]**.
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api).
+   >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 El siguiente paso es crear el objeto intermedio (consulte a continuación). Pero antes de eso, debe crear un campo al que vincularse.
 
@@ -139,7 +139,7 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado de Borrador.
+1. La información de objeto personalizada muestra el contenido que ha introducido. Observe que está en estado **[!UICONTROL Borrador]**.
 
    El siguiente paso es [agregar campos de vínculo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar el objeto intermedio a una persona o compañía y a un objeto personalizado.
 

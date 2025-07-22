@@ -4,7 +4,7 @@ description: Uso de una plantilla en la ventana de composición - Documentos de 
 title: Uso de una plantilla en la ventana de composición
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Búsqueda y uso de plantillas {#finding-and-using-templates}
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/one-6.png)
 
-1. Rellene el campo Para.
+1. Rellene el campo [!UICONTROL Para].
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 **favorita hasta cinco** categorías de plantilla específicas para obtener acceso rápido a las plantillas más utilizadas.
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/one-6.png)
 
-1. Haga clic en el icono **+** junto a Favoritos.
+1. Haga clic en el icono **+** junto a [!UICONTROL Favoritos].
 
    ![](assets/pinning-two.png)
 
-1. Haga clic en el menú desplegable **Anclar una categoría** y seleccione la categoría que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Anclar una categoría]** y seleccione la categoría que desee.
 
    ![](assets/pinning-three.png)
 
-1. Haga clic en **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
+1. Haga clic en **[!UICONTROL Guardar cambios]** cuando haya terminado (opcional: repita el paso 3 para agregar más).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Favoritos** está ahí de manera predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
+   >**[!UICONTROL Favoritos]** está ahí de manera predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
 
    La categoría seleccionada está anclada.

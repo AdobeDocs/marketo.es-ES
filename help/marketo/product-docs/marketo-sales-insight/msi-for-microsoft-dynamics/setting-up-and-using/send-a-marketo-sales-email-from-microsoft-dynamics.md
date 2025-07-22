@@ -4,22 +4,22 @@ description: 'Envío de un correo electrónico de ventas de Marketo desde Micros
 title: Envío de un correo electrónico de ventas de Marketo desde Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Envío de un correo electrónico de ventas de Marketo desde Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Enviar un mensaje de correo electrónico de [!DNL Marketo Sales] desde [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Su equipo de ventas puede enviar correos electrónicos y hacer que se rastreen en busca de aperturas y clics directamente desde Microsoft Dynamics. Así es como.
+Su equipo de ventas puede enviar correos electrónicos y hacer que los rastreen en busca de aperturas y clics directamente desde dentro de [!DNL Microsoft Dynamics]. Así es como.
 
-1. En Dynamics, vaya al área **Ventas**.
+1. En [!DNL Dynamics], vaya al área de **[!UICONTROL Ventas]**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Seleccione una **vista de sistema**.
+1. Seleccione una **[!UICONTROL vista de sistema]**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastreen e
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Haga clic en la ficha **...** y, a continuación, haga clic en **Enviar correo electrónico de Marketo**.
+1. Haga clic en la ficha **...** y, a continuación, haga clic en **[!UICONTROL Enviar correo electrónico de Marketo]**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastreen e
    >
    >Puede [publicar correos electrónicos como plantillas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que los use su equipo de ventas.
 
-1. Agrega un asunto, redacta tu correo electrónico y haz clic en **Enviar correo electrónico**. (Elija una plantilla si la necesita).
+1. Agrega un asunto, redacta tu correo electrónico y haz clic en **[!UICONTROL Enviar correo electrónico]**. (Elija una plantilla si la necesita).
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ Su equipo de ventas puede enviar correos electrónicos y hacer que se rastreen e
    >
    >Puede enviar hasta 300 correos electrónicos de Marketo a la vez.
 
-¡Bien hecho! Ahora sabe cómo enviar correos electrónicos rastreados de Marketo directamente desde Microsoft Dynamics.
+¡Bien hecho! Ahora sabe cómo enviar correos electrónicos rastreados de Marketo directamente desde [!DNL Microsoft Dynamics].
 
 >[!MORELIKETHIS]
 >
->[Agregar un posible cliente/contacto a Marketo Campaign desde Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Agregar un posible cliente/contacto a una campaña de Marketo desde [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

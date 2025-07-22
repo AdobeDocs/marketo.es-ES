@@ -4,26 +4,26 @@ description: Definir un campo de formulario como oculto - Documentos de Marketo 
 title: Definir un campo de formulario como oculto
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Definir un campo de formulario como oculto {#set-a-form-field-as-hidden}
 
-Los campos de formulario ocultos pueden capturar datos de forma silenciosa sin la entrada del visitante. Así es como funciona.
+Los campos de formulario ocultos pueden capturar datos de forma silenciosa sin la entrada del visitante. Aquí se detalla cómo funciona.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Seleccione el campo y establezca el **Tipo de campo** en **Oculto.**
+1. Seleccione el campo y establezca el **[!UICONTROL Tipo de campo]** en **[!UICONTROL Oculto].**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 

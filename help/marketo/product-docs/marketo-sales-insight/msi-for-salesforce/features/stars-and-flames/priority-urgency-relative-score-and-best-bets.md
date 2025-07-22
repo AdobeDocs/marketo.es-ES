@@ -4,16 +4,16 @@ description: Prioridad, urgencia, puntuación relativa y recomendaciones - Docum
 title: Prioridad, urgencia, puntuación relativa y resultados más probables
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
-# Prioridad, urgencia, puntuación relativa y resultados más probables {#priority-urgency-relative-score-and-best-bets}
+# Prioridad, urgencia, puntuación relativa y [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight elige a los mejores posibles clientes y contactos según su prioridad. La prioridad de un posible cliente o contacto tiene dos componentes: urgencia y puntuación relativa.
+[!DNL Marketo Sales Insight] elige a los mejores posibles clientes y contactos según su prioridad. La prioridad de un posible cliente o contacto tiene dos componentes: urgencia y puntuación relativa.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -37,9 +37,9 @@ Las estrellas representan una puntuación relativa; una medida de cómo se compa
 
 Si dos posibles clientes tienen la misma urgencia, puede usar una puntuación relativa para saber cuál merece una llamada telefónica primero. El que tenga la puntuación relativa más alta puede reaccionar más favorablemente a su oferta en comparación con la más baja.
 
-## Recomendaciones {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Sus mejores resultados son sus posibles clientes y contactos con la mayor urgencia y puntuación relativa. Solo los posibles clientes que posea serán visibles en esa lista y esta se actualizará a medida que cambien las puntuaciones de los posibles clientes.
+Sus [!DNL Best Bets] son sus posibles clientes y contactos con la mayor urgencia y puntuación relativa. Solo los posibles clientes que posea serán visibles en esa lista y esta se actualizará a medida que cambien las puntuaciones de los posibles clientes.
 
 >[!NOTE]
 >

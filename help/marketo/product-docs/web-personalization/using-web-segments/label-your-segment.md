@@ -4,9 +4,9 @@ description: 'Etiquetado Del Segmento: Documentos De Marketo: Documentación Del
 title: Etiquetar El Segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Etiquetado de segmentos {#tag-a-segment}
 
-1. Inicie sesión en Web Personalization y vaya a **Segmentos**.
+1. Inicie sesión en [!DNL Web Personalization] y vaya a **[!UICONTROL Segmentos]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Para usar una etiqueta existente, haz clic en **Establecer etiqueta**, marca una casilla y haz clic en **Aplicar**.
+1. Para usar una etiqueta existente, haz clic en **[!UICONTROL Establecer etiqueta]**, marca una casilla y haz clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. O bien, para crear una etiqueta nueva, haga clic en **Establecer etiqueta**, escriba el nombre de la etiqueta nueva y haga clic en **Crear nueva**.
+1. O bien, para crear una etiqueta nueva, haga clic en **[!UICONTROL Establecer etiqueta]**, escriba el nombre de la etiqueta nueva y haga clic en **Crear nueva**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

@@ -4,9 +4,9 @@ description: Cambiar la configuración de seguridad de contraseña - Documentos 
 title: Cambiar la configuración de seguridad de contraseña
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Controle la política de contraseñas de su suscripción. Así es como.
 
    >[!NOTE]
    >
-   >Una plantilla es solo una configuración prediseñada. Estándar es bueno. Alta seguridad es la más fuerte. Personalizado le permite crear su propio.
+   >Una plantilla es solo una configuración prediseñada. **[!UICONTROL Seguridad estándar]** es correcta. **[!UICONTROL Alta seguridad]** es la más fuerte. **[!UICONTROL Personalizado]** le permite crear el suyo propio.
 
    >[!TIP]
    >

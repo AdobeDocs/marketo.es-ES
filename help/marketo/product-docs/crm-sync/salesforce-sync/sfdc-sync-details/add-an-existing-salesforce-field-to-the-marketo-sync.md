@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719308
-description: Añadir un campo de Salesforce existente a la sincronización de Marketo - Documentos de Marketo - Documentación del producto
+description: 'Añadir un campo de Salesforce existente a la sincronización de Marketo: documentos de Marketo, documentación del producto'
 title: Añadir un campo de Salesforce existente a la sincronización de Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Añadir un campo de Salesforce existente a la sincronización de Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Agregar un campo [!DNL Salesforce] existente a la sincronización de Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -47,4 +47,4 @@ Normalmente, los nuevos campos personalizados de Salesforce se sincronizan autom
 
    >[!NOTE]
    >
-   > Si el campo ya tiene valores en Salesforce, esos valores no se sincronizan con Marketo hasta la siguiente actualización del registro.
+   > Si el campo ya tiene valores en [!DNL Salesforce], esos valores no se sincronizan con Marketo hasta la siguiente actualización del registro.

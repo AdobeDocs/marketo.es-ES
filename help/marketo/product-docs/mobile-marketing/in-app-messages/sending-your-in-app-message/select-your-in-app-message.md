@@ -4,7 +4,7 @@ description: 'Seleccionar el mensaje en la aplicación: documentos de Marketo, d
 title: Seleccione El Mensaje En La Aplicación
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -29,6 +29,6 @@ Aquí es donde selecciona el mensaje que creó para utilizarlo en el programa.
 
    >[!TIP]
    >
-   >Para seleccionar un mensaje diferente, elimínelo en el campo Mensaje en la aplicación. A continuación, vuelve el vínculo Nuevo mensaje en la aplicación. Haga clic en él y seleccione un mensaje diferente.
+   >Para seleccionar un mensaje diferente, elimínelo en el campo [!UICONTROL Mensaje en la aplicación]. A continuación, vuelve el vínculo [!UICONTROL Nuevo mensaje en la aplicación]. Haga clic en él y seleccione un mensaje diferente.
 
 Estás en el buen camino. Tiempo para [programar el envío](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

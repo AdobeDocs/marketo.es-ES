@@ -4,9 +4,9 @@ description: 'Inserción de campos dinámicos: documentos de Marketo, documentac
 title: Cómo insertar campos dinámicos
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Le permitimos personalizar sus plantillas de correo electrónico con atributos p
 
 >[!TIP]
 >
->El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que se buscarán en Sales Connect y Salesforce. Esto significa que si un contacto no existe en la [aplicación web](https://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico que coincida. A continuación, se utiliza la información de ese registro para rellenar el campo.
+>El campo &quot;first_name&quot; y &quot;company&quot; son los únicos campos que se verán tanto en [!DNL Sales Connect] como en [!DNL Salesforce]. Eso significa que si un contacto no existe en la [aplicación web](https://toutapp.com/login), buscamos en [!DNL Salesforce] para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico que coincida. A continuación, se utiliza la información de ese registro para rellenar el campo.
 
 ## Insertar un campo dinámico en una plantilla {#insert-a-dynamic-field-into-a-template}
 
-1. En **Plantillas y campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
+1. En **[!UICONTROL Plantillas y campañas]**, busque la plantilla que desee editar y haga clic en **[!UICONTROL Editar plantilla]**.
 
-1. Haga clic en **Campos dinámicos de salida**.
+1. Haga clic en **[!UICONTROL Campos dinámicos de salida]**.
 
    >[!NOTE]
    >
-   >Al enviar por correo electrónico a los contactos que existen en Sales Connect, puede utilizar los campos dinámicos básicos. Estos extraerán directamente del contacto.
+   >Al enviar por correo electrónico contactos que existen en [!DNL Sales Connect], puede utilizar los campos dinámicos básicos. Estos extraerán directamente del contacto.
 
-Si va a enviar por correo electrónico a contactos que existen en Salesforce, puede aprovechar los campos dinámicos de Salesforce. Todas comienzan con &quot;sfdc&quot;. Siempre que tenga una conexión con Salesforce, estos campos llamarán directamente al posible cliente o contacto de Salesforce para rellenar la información en la plantilla.
+Si va a enviar por correo electrónico contactos que existen en [!DNL Salesforce], puede aprovechar los campos dinámicos de [!DNL Salesforce]. Todas comienzan con &quot;sfdc&quot;. Siempre que tenga una conexión con [!DNL Salesforce], estos campos llamarán directamente al posible cliente/contacto de [!DNL Salesforce] para rellenar la información en la plantilla.
 
 ## Insertar campos dinámicos en una línea de asunto {#insert-dynamic-fields-in-a-subject-line}
 

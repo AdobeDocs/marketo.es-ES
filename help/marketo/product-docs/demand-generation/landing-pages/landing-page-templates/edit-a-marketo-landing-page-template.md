@@ -4,7 +4,7 @@ description: 'Editar una plantilla de página de aterrizaje de Marketo: document
 title: Editar una plantilla de página de aterrizaje de Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede editar cualquier plantilla de página de aterrizaje en Marketo.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Expanda **Páginas de destino** para mostrar las plantillas.
+1. Expanda **[!UICONTROL Páginas de destino]** para mostrar las plantillas.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleccione la **plantilla** que desee editar. Haga clic en **Editar borrador**.
+1. Seleccione la **[!UICONTROL plantilla]** que desee editar. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

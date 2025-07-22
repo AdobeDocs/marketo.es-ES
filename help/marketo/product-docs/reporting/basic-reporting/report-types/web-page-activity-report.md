@@ -4,7 +4,7 @@ description: Informe de actividad de página web - Documentos de Marketo - Docum
 title: Informe de actividad de página web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
 
    >[!NOTE]
    >
-   >Los datos pueden tardar hasta 24 horas en reflejarse en un informe de actividad de página web.
+   >Los datos pueden tardar hasta 24 horas en reflejarse en un informe de [!UICONTROL actividad de página web].
 
    >[!TIP]
    >

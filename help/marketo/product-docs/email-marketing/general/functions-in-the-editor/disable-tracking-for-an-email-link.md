@@ -4,7 +4,7 @@ description: Deshabilitar el seguimiento de un vínculo de correo electrónico -
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A veces no se desea habilitar la **URL de seguimiento de Marketo** en un víncul
 
 Además, si un correo electrónico se envió hace más de 365 días **y** nadie ha hecho clic en ninguno de sus vínculos en los últimos 180 días, Marketo Engage elimina la ruta a la dirección URL de nuestra base de datos, lo que provocará que se rompa el vínculo. Por lo tanto, si necesita que el vínculo sea permanente, debe deshabilitar el seguimiento.
 
-1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ Además, si un correo electrónico se envió hace más de 365 días **y** nadie 
 
    ![](assets/three-6.png)
 
-1. En la ventana emergente Editar vínculo, desmarque la casilla de verificación **Rastrear vínculo**.
+1. En la ventana emergente Editar vínculo, desmarque la casilla de verificación **[!UICONTROL Rastrear vínculo]**.
 
    ![](assets/four-4.png)
 
-1. Observará que la **caja Include mkt_tok** desaparece. Haga clic en **Aplicar**.
+1. Observará que la casilla **[!UICONTROL Incluir mkt_tok]** desaparece. Haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ Además, si un correo electrónico se envió hace más de 365 días **y** nadie 
    >
    >Si desmarca solo **Incluir mkt_tok** se seguirá permitiendo el seguimiento del vínculo, pero después del redireccionamiento, la dirección URL de destino no incluirá el parámetro de cadena de consulta mkt_tok. Este parámetro lo utilizan las páginas de aterrizaje de Marketo y Munchkin para garantizar un seguimiento adecuado de las actividades de la persona (como cuando una persona cancela la suscripción de un correo electrónico). Debe evitar utilizar esta función a menos que vea un comportamiento extraño en el sitio web debido a que el parámetro está presente.
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

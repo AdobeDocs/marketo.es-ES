@@ -3,9 +3,9 @@ description: Información general sobre la cancelación de la suscripción - Doc
 title: Información general de cancelación de suscripción
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 Cada vez es más importante que las organizaciones cumplan con las leyes de privacidad de correo electrónico. Para ayudarle con esto, hemos realizado algunas mejoras en nuestra experiencia de cancelación de suscripción.
 
-* Los vínculos de cancelación de suscripción se colocan en todos los correos electrónicos enviados desde Marketo Sales and Salesforce (esto no se aplica a los correos electrónicos personalizados enviados desde Outlook o Gmail)
+* Los vínculos de cancelación de suscripción se colocan en todos los correos electrónicos enviados desde [!DNL Marketo Sales] y [!DNL Salesforce] (esto no se aplica a los correos electrónicos personalizados enviados desde [!DNL Outlook] o Gmail)
 * Los administradores pueden editar los mensajes de cancelación de suscripción para todo su equipo
 * La información de cancelación de suscripción se almacena en PDV
-* Las cancelaciones de suscripción se pueden realizar manualmente: vínculos en los que se hizo clic, sincronización de Salesforce y devoluciones
+* Las cancelaciones de suscripción se pueden realizar manualmente: clic en vínculo, sincronización de [!DNL Salesforce] y rechazos
 * Nueva página de aterrizaje de vínculo de cancelación de suscripción
 
 ## Cancelar suscripción a página de aterrizaje de vínculo {#unsubscribe-link-landing-page}
@@ -38,17 +38,17 @@ Utilice la barra de búsqueda para buscar cualquier persona que no esté suscrit
 
 ![](assets/unsubscribe-overview-3.png)
 
-Si es administrador, puede ir al grupo Cancelar suscripción para filtrar por Cancelaciones de suscripción de cuenta y ver todas las cancelaciones de suscripción que se han recopilado en su base de datos de personas.
+Si eres administrador, puedes ir al grupo de cancelación de suscripción para filtrar por [!UICONTROL Cancelaciones de suscripción de cuenta] y ver todas las cancelaciones de suscripción que se han recopilado en tu base de datos de personas.
 
 ![](assets/unsubscribe-overview-4.png)
 
 ## Tarjeta Historial de cancelación {#unsubscribe-history-card}
 
-La tarjeta Historial de cancelación de suscripción ayuda a los administradores y usuarios a obtener información contextual sobre el historial de cancelación de suscripción de sus contactos. Vaya a la pestaña Personas y seleccione una persona. Se encuentra en la parte inferior de la pestaña Acerca de, en la vista de detalles de la persona.
+La tarjeta [!UICONTROL Cancelar la suscripción al historial] ayuda a los administradores y usuarios a obtener información contextual sobre el historial de cancelación de suscripción de sus contactos. Vaya hasta allí. Para ello, vaya a la ficha [!UICONTROL Personas] y seleccione una persona. Se encuentra en la parte inferior de la ficha [!UICONTROL Acerca de] en la vista Detalles de la persona.
 
 >[!NOTE]
 >
->Solo habrá una tarjeta Historial de cancelación de suscripción si la persona ha _vuelto a suscribir_ en algún momento.
+>Solo habrá una tarjeta [!UICONTROL Cancelar la suscripción al historial] si la persona ha _vuelto a suscribirse_ en algún momento.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -59,16 +59,16 @@ La tarjeta Historial de cancelación de suscripción ayuda a los administradores
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Fecha</strong></td> 
+   <td><strong>[!UICONTROL Fecha]</strong></td> 
    <td><p>Muestra la fecha en la que se canceló la suscripción o se volvió a suscribir.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Detalles</strong></td> 
-   <td><p>Volver a suscribir: un administrador de Sales Connect ha eliminado manualmente la cancelación de la suscripción del registro de contactos. También puede mostrar algunos detalles relacionados con el motivo por el que se canceló la suscripción al contacto.</p><p>Cancelar suscripción: se canceló la suscripción del contacto.</p></td> 
+   <td><strong>[!UICONTROL Detalles]</strong></td> 
+   <td><p>Volver a suscribir: un administrador de [!DNL Sales Connect] quitó manualmente la cancelación de la suscripción del registro de contacto. También puede mostrar algunos detalles relacionados con el motivo por el que se canceló la suscripción al contacto.</p><p>Cancelar suscripción: se canceló la suscripción del contacto.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Origen</strong></td> 
-   <td><p>Sincronización de Salesforce: Una sincronización de Salesforce capturó la cancelación de la suscripción.</p><p>Manual: el usuario ha hecho clic en el botón Cancelar la suscripción para darse de baja.</p><p>Vínculo en el que se hizo clic: el destinatario de un correo electrónico hizo clic en el vínculo para cancelar la suscripción.</p><p>"Nombre del administrador": Se mostrará un nombre de administrador cuando la acción fue volver a suscribir contactos. Esto permite a los usuarios saber quién eliminó la cancelación de la suscripción.</p></td> 
+   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td><p>[!DNL Salesforce] Sincronizar: una sincronización de [!DNL Salesforce] capturó la cancelación de la suscripción.</p><p>Manual: el usuario ha hecho clic en el botón Cancelar la suscripción para darse de baja.</p><p>Vínculo en el que se hizo clic: el destinatario de un correo electrónico hizo clic en el vínculo para cancelar la suscripción.</p><p>"Nombre del administrador": Se mostrará un nombre de administrador cuando la acción fue volver a suscribir contactos. Esto permite a los usuarios saber quién eliminó la cancelación de la suscripción.</p></td> 
   </tr> 
  </tbody> 
 </table>

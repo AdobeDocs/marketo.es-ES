@@ -4,10 +4,10 @@ description: Creación de un nuevo programa de eventos - Documentos de Marketo -
 title: Crear un nuevo programa de eventos
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Los eventos le permiten automatizar eventos en línea y sin conexión. Capture el estado de sus recursos a medida que progresan en diferentes etapas y obtenga mediciones precisas del ROI de sus iniciativas de marketing.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Seleccione la carpeta para el nuevo programa. Seleccione **Nuevo** y haga clic en **Nuevo programa**.
+1. Seleccione la carpeta para el nuevo programa. Seleccione **[!UICONTROL Nuevo]** y haga clic en **[!UICONTROL Nuevo programa]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Elija un nombre para el evento. A continuación, en **Tipo de programa**, seleccione **Evento**.
+1. Elija un nombre para el evento. A continuación, en **[!UICONTROL Tipo de programa]**, seleccione **[!UICONTROL Evento]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Seleccione un **canal**.
+1. Seleccione un **[!UICONTROL canal]**.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Los eventos le permiten automatizar eventos en línea y sin conexión. Capture e
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ Los eventos le permiten automatizar eventos en línea y sin conexión. Capture e
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Para programar tu evento, selecciona **Vista de programación** y haz clic en él en el calendario para abrir la ventana emergente. Introduzca fechas y horas.
+1. Para programar tu evento, selecciona **[!UICONTROL Vista de programación]** y haz clic en él en el calendario para abrir la ventana emergente. Introduzca fechas y horas.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Desliza la barra a **Confirmado** cuando hayas terminado.
+1. Desliza la barra a **[!UICONTROL Confirmado]** cuando hayas terminado.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

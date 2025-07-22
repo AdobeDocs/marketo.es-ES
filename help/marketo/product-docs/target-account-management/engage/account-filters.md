@@ -4,24 +4,24 @@ description: Filtros de cuenta - Documentos de Marketo - Documentación del prod
 title: Filtros de cuenta
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 6%
+ht-degree: 1%
 
 ---
 
-# Filtros de cuenta {#account-filters}
+# [!UICONTROL Filtros de cuenta] {#account-filters}
 
 Identifique y comprometa las cuentas con nombre y las personas que las componen mediante nuevos filtros centrados en las cuentas.
 
 ## Filtros TAM {#tam-filters}
 
-1. Seleccione su campaña inteligente y haga clic en **Smart List**.
+1. Seleccione su campaña inteligente y haga clic en **[!UICONTROL Smart List]**.
 
    ![](assets/one.png)
 
-1. Haga clic en **+** para expandir la carpeta **Filtros de cuenta**.
+1. Haga clic en **+** para expandir la carpeta **[!UICONTROL Filtros de cuenta]**.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ Identifique y comprometa las cuentas con nombre y las personas que las componen 
 
    ![](assets/three.png)
 
-## Miembro de la lista de cuentas {#member-of-account-list}
+## [!UICONTROL Lista de miembros de la cuenta] {#member-of-account-list}
 
-Para utilizar este filtro, haga clic en la lista desplegable de la cuenta...
+Para usar este filtro, haga clic en la lista desplegable **[!UICONTROL Lista de cuentas]**...
 
 ![](assets/four.png)
 
@@ -41,11 +41,11 @@ Para utilizar este filtro, haga clic en la lista desplegable de la cuenta...
 
 >[!NOTE]
 >
->Para el filtro de lista de miembros de cuenta, solo hay un calificador: &quot;es&quot;: los calificadores adicionales (como &quot;no es&quot; y &quot;es cualquiera&quot;) no están disponibles.
+>Para el filtro [!UICONTROL Lista de miembros de la cuenta], solo hay un calificador: &quot;[!UICONTROL is]&quot; - Los calificadores adicionales (como &quot;no es&quot; y &quot;es cualquiera&quot;) no están disponibles.
 
-## Miembro de cuenta nombrada {#member-of-named-account}
+## [!UICONTROL Miembro de cuenta con nombre] {#member-of-named-account}
 
-Primero, elija un calificador. **Is** para una(s) cuenta(s) con nombre específico(s) o **is any** para cualquier cuenta con nombre.
+Primero, elija un calificador. **[!UICONTROL is]** para una(s) cuenta(s) con nombre específico(s) o **[!UICONTROL is any]** para cualquier cuenta con nombre.
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ Haga clic en la lista desplegable Cuenta con nombre...
 
 ![](assets/eight.png)
 
-Si usa el calificador &quot;es cualquier&quot;, quizá quiera usar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para reducir los resultados de búsqueda. ¡Añada tantos como desee!
+Si usa el calificador &quot;[!UICONTROL es cualquier]&quot;, quizá quiera usar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para reducir los resultados de búsqueda. ¡Añada tantos como desee!
 
 ![](assets/nine.png)
 
-Establezca &quot;Incluir elementos secundarios&quot; en False si sólo desea miembros de la cuenta única de nivel superior. Seleccione verdadero si desea miembros de todas las cuentas secundarias.
+Establezca &quot;[!UICONTROL Incluir elementos secundarios]&quot; en **[!UICONTROL false]** si solo desea miembros de la cuenta única de nivel superior. Seleccione **[!UICONTROL true]** si desea miembros de todas las cuentas secundarias.
 
 ![](assets/ten.png)
 

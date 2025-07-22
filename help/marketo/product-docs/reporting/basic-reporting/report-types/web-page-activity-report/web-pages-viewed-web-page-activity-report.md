@@ -4,20 +4,20 @@ description: Páginas Web Vistas, Informe De Actividad De La Página Web - Docum
 title: Páginas Web Vistas, Informe De Actividad De Páginas Web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Páginas Web Vistas, Informe De Actividad De Páginas Web {#web-pages-viewed-web-page-activity-report}
 
-Desde un [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puede ver las páginas específicas que vieron las personas en el informe.
+Desde un informe de [[!UICONTROL Actividad de la página web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puede ver las páginas específicas que vieron las personas en el informe.
 
 >[!PREREQUISITES]
 >
->Para capturar actividad de tu sitio web en Marketo, primero debes [configurar Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar la actividad de tu sitio web en Marketo, primero debes [configurar [!DNL Munchkin] en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. En su [informe de actividad de página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), haga clic en el nombre de la persona.
 

@@ -4,7 +4,7 @@ description: 'Añadir un token de script de correo electrónico al correo electr
 title: Añadir un token de script de correo electrónico a su correo electrónico
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -19,11 +19,11 @@ Después de [crear el script de correo electrónico](/help/marketo/product-docs/
 >
 >El tamaño total de todos los tokens de script insertados en un único correo electrónico no puede superar los 100 KB.
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/one-2.png)
 
-1. Busque y seleccione el correo electrónico al que desee agregar el token y haga clic en **Editar borrador**.
+1. Busque y seleccione el correo electrónico al que desee agregar el token y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ Después de [crear el script de correo electrónico](/help/marketo/product-docs/
 
    ![](assets/four-2.png)
 
-1. Busque y seleccione el token de script de correo electrónico que creó anteriormente y haga clic en **Insertar**.
+1. Busque y seleccione el token de script de correo electrónico que creó anteriormente y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/five-1.png)
 

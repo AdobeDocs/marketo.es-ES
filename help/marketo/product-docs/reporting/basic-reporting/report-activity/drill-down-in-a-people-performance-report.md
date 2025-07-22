@@ -4,7 +4,7 @@ description: 'Profundizar en un informe de rendimiento de personas: documentos d
 title: Profundizar en un informe de rendimiento de personas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Desglose en un informe de rendimiento de personas para ver información adicional sobre las personas.
 
-1. Haga clic en la ficha **Informe** para ver cualquier informe existente.
+1. Haga clic en la ficha **[!UICONTROL Informe]** para ver cualquier informe existente.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Desglose en un informe de rendimiento de personas para ver información adiciona
 
    ![](assets/two.png)
 
-1. Haz clic en **explorar en profundidad**.
+1. Haz clic en **[!UICONTROL explorar en profundidad]**.
 
    ![](assets/three.png)
 
-1. En la ventana emergente **Explorar en profundidad**, seleccione el atributo al que desea explorar en profundidad. Luego haga clic en **explorar en profundidad**.
+1. En la ventana emergente **[!UICONTROL Explorar en profundidad]**, seleccione el atributo al que desea explorar en profundidad. Luego haga clic en **[!UICONTROL explorar en profundidad]**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Desglose en un informe de rendimiento de personas para ver información adiciona
 
    ![](assets/five.png)
 
-1. Para guardar los resultados (opcional), haga clic en el icono **Exportar** en la parte inferior izquierda.
+1. Para guardar los resultados (opcional), haga clic en el icono **[!UICONTROL Exportar]** en la parte inferior izquierda.
 
    ![](assets/six.png)

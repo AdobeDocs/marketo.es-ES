@@ -4,7 +4,7 @@ description: Clonar un analizador de programas - Documentos de Marketo - Documen
 title: Clonar un analizador de programas
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Después de guardar un analizador, es fácil clonarlo para crear uno nuevo. A continuación, vaya a y edite el nuevo si necesita realizar algún cambio.
 
-1. Haga clic en el mosaico **Analytics**.
+1. Haga clic en el mosaico **[!UICONTROL Analytics]**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Haga clic en el mosaico **Analizador de programas**.
+1. Haga clic en el mosaico **[!UICONTROL Analizador de programas]**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Mientras el analizador guardado esté abierto, abra la lista desplegable Acciones del analizador y seleccione **Analizador de clones**.
+1. Mientras el analizador guardado esté abierto, abra la lista desplegable Acciones del analizador y seleccione **[!UICONTROL Analizador de clones]**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Seleccione la ubicación del analizador clonado en los menús desplegables **Clonar a** y **Carpeta**.
+1. Seleccione la ubicación del analizador clonado en los menús desplegables **[!UICONTROL Clonar a]** y **[!UICONTROL Carpeta]**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Asigne un nombre al analizador clonado y haga clic en **Clonar**.
+1. Asigne un nombre al analizador clonado y haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
@@ -41,4 +41,4 @@ Después de guardar un analizador, es fácil clonarlo para crear uno nuevo. A co
 
    >[!MORELIKETHIS]
    >
-   >[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Crear un [!UICONTROL Analizador de programas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

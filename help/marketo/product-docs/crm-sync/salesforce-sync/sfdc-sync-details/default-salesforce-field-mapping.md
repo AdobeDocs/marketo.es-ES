@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719314
-description: Asignación de campos de Salesforce predeterminada - Documentos de Marketo - Documentación del producto
+description: 'Asignación de campos de Salesforce predeterminada: documentos de Marketo, documentación del producto'
 title: Asignación de campos de Salesforce predeterminada
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 58%
+source-wordcount: '361'
+ht-degree: 6%
 
 ---
 
-# Asignación de campos de Salesforce predeterminada {#default-salesforce-field-mapping}
+# Asignación de campo [!DNL Salesforce] predeterminada {#default-salesforce-field-mapping}
 
 Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
 
@@ -19,88 +19,88 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo 
 
 | Campo de SFDC | Campo de Marketo |
 |---|---|
-| Ingresos anuales | Ingresos anuales |
-| Ciudad | Ciudad |
-| Compañía | Nombre de la empresa |
-| Fecha convertida | Fecha de conversión de SFDC |
-| País | País |
-| Fecha de creación | Fecha de creación de SFDC |
-| Descripción | Notas de la persona |
-| Correo electrónico | Correo electrónico |
-| Fax | Número de fax |
-| Nombre | Nombre |
-| No participar en el correo electrónico | Suscripción cancelada |
-| Industria | Industria |
-| Convertido | SFDC convertido |
-| eliminado | SFDC está eliminado |
-| Apellido | Apellido |
-| Origen del lead | Origen |
-| Puntaje del lead | Puntaje |
-| Teléfono móvil | Número de teléfono móvil |
-| Empleados | Cantidad de empleados |
-| Teléfono | Número de teléfono |
-| Código postal | Código postal |
-| Calificación | Calificación |
-| Saludo | Saludo |
-| Estado/Provincia | Estado |
-| Estado | Estado |
-| Calle | Dirección |
-| Título | Cargo |
-| Sitio web | Sitio web |
+| [!UICONTROL Ingresos anuales] | [!UICONTROL Ingresos anuales] |
+| [!UICONTROL Ciudad] | [!UICONTROL Ciudad] |
+| [!UICONTROL Empresa] | [!UICONTROL Nombre de la compañía] |
+| [!UICONTROL Fecha convertida] | [!UICONTROL Fecha de conversión de SFDC] |
+| [!UICONTROL País] | [!UICONTROL País] |
+| [!UICONTROL Fecha de creación] | [!UICONTROL Fecha de creación de SFDC] |
+| [!UICONTROL Descripción] | [!UICONTROL Notas de persona] |
+| [!UICONTROL Correo electrónico] | [!UICONTROL Dirección de correo electrónico] |
+| [!UICONTROL Fax] | [!UICONTROL Número de fax] |
+| [!UICONTROL Nombre] | [!UICONTROL Nombre] |
+| [!UICONTROL Exclusión por correo electrónico] | [!UICONTROL Canceló la suscripción] |
+| [!UICONTROL Sector] | [!UICONTROL Sector] |
+| [!UICONTROL Convertido] | [!UICONTROL SFDC Se Ha Convertido] |
+| [!UICONTROL Eliminado] | [!UICONTROL SFDC Se Ha Eliminado] |
+| [!UICONTROL Apellidos] | [!UICONTROL Apellidos] |
+| [!UICONTROL Source de cliente potencial] | [!UICONTROL Source] |
+| [!UICONTROL Puntuación de posible cliente] | [!UICONTROL Puntuación] |
+| [!UICONTROL Teléfono móvil] | [!UICONTROL Número de teléfono móvil] |
+| [!UICONTROL Empleados] | [!UICONTROL Empleados Núm.] |
+| [!UICONTROL Teléfono] | [!UICONTROL Número de teléfono] |
+| [!UICONTROL Código postal] | [!UICONTROL Código postal] |
+| [!UICONTROL Clasificación] | [!UICONTROL Clasificación] |
+| [!UICONTROL Saludo] | [!UICONTROL Saludo] |
+| [!UICONTROL Estado/Provincia] | [!UICONTROL Estado] |
+| [!UICONTROL Estado] | [!UICONTROL Estado] |
+| [!UICONTROL Calle] | [!UICONTROL Dirección] |
+| [!UICONTROL Título] | [!UICONTROL Cargo] |
+| [!UICONTROL Sitio web] | [!UICONTROL Sitio web] |
 
 ## Campos de contactos {#contact-fields}
 
 | Campo de SFDC | Campo de Marketo |
 |---|---|
-| Fecha de nacimiento | Fecha de nacimiento |
-| Fecha de creación | Fecha de creación de SFDC |
-| Descripción de contacto | Notas de la persona |
-| Correo electrónico | Correo electrónico |
-| Fax del trabajo | Número de fax |
-| Nombre | Nombre |
-| No participar en el correo electrónico | Suscripción cancelada |
-| eliminado | SFDC está eliminado |
-| Apellido | Apellido |
-| Origen del lead | Origen |
-| Puntaje del lead | Puntaje |
-| MailingCity | Ciudad |
-| MailingCountry | País |
-| MailingPostalCode | Código postal |
-| MailingState | Estado |
-| MailingStreet | Dirección |
-| Teléfono móvil | Número de teléfono móvil |
-| Teléfono comercial | Número de teléfono |
-| Saludo | Saludo |
-| Título | Cargo |
+| [!UICONTROL Fecha de nacimiento] | [!UICONTROL Fecha de nacimiento] |
+| [!UICONTROL Fecha de creación] | [!UICONTROL Fecha de creación de SFDC] |
+| [!UICONTROL Descripción de contacto] | [!UICONTROL Notas de persona] |
+| [!UICONTROL Correo electrónico] | [!UICONTROL Dirección de correo electrónico] |
+| [!UICONTROL Fax del trabajo] | [!UICONTROL Número de fax] |
+| [!UICONTROL Nombre] | [!UICONTROL Nombre] |
+| [!UICONTROL Exclusión por correo electrónico] | [!UICONTROL Canceló la suscripción] |
+| [!UICONTROL Eliminado] | [!UICONTROL SFDC Se Ha Eliminado] |
+| [!UICONTROL Apellidos] | [!UICONTROL Apellidos] |
+| [!UICONTROL Source de cliente potencial] | [!UICONTROL Source] |
+| [!UICONTROL Puntuación de posible cliente] | [!UICONTROL Puntuación] |
+| [!UICONTROL MailingCity] | [!UICONTROL Ciudad] |
+| [!UICONTROL PaísCorreo] | [!UICONTROL País] |
+| [!UICONTROL Código postal de envío] | [!UICONTROL Código postal] |
+| [!UICONTROL EstadoCorreo] | [!UICONTROL Estado] |
+| [!UICONTROL CalleCorreo] | [!UICONTROL Dirección] |
+| [!UICONTROL Teléfono móvil] | [!UICONTROL Número de teléfono móvil] |
+| [!UICONTROL Teléfono del trabajo] | [!UICONTROL Número de teléfono] |
+| [!UICONTROL Saludo] | [!UICONTROL Saludo] |
+| [!UICONTROL Título] | [!UICONTROL Cargo] |
 
 ## Campos de cuentas {#account-fields}
 
-| Campo de SFDC | Campo de Marketo |
+| [!UICONTROL Campo de SFDC] | [!UICONTROL Campo de Marketo] |
 |---|---|
-| Ingresos anuales | Ingresos anuales |
-| Ciudad de facturación | Ciudad de facturación |
-| País de facturación | País de facturación |
-| Código postal de facturación | Código postal de facturación |
-| Estado o provincia de facturación | Estado de facturación |
-| Calle de facturación | Dirección de facturación |
-| Descripción de cuenta | Notas de la compañía |
-| Industria | Industria |
-| eliminado | SFDC está eliminado |
-| Nombre de la cuenta | Nombre de la empresa |
-| Empleados | Cantidad de empleados |
-| Teléfono de cuenta | Teléfono principal: |
-| Código SIC | Código SIC |
-| Sitio de cuenta | Sitio |
-| Tipo de cuenta | Tipo de SFDC |
-| Sitio web | Sitio web |
+| [!UICONTROL Ingresos anuales] | [!UICONTROL Ingresos anuales] |
+| [!UICONTROL Ciudad de facturación] | [!UICONTROL Ciudad de facturación] |
+| [!UICONTROL País de facturación] | [!UICONTROL País de facturación] |
+| [!UICONTROL Código postal de facturación] | [!UICONTROL Código postal de facturación] |
+| [!UICONTROL Estado o provincia de facturación] | [!UICONTROL Estado de facturación] |
+| [!UICONTROL Calle de facturación] | [!UICONTROL Dirección de facturación] |
+| [!UICONTROL Descripción de la cuenta] | [!UICONTROL Notas de la compañía] |
+| [!UICONTROL Sector] | [!UICONTROL Sector] |
+| [!UICONTROL Eliminado] | [!UICONTROL SFDC Se Ha Eliminado] |
+| [!UICONTROL Nombre de cuenta] | [!UICONTROL Nombre de la compañía] |
+| [!UICONTROL Empleados] | [!UICONTROL Empleados Núm.] |
+| [!UICONTROL Teléfono de cuenta] | [!UICONTROL Teléfono principal] |
+| [!UICONTROL Código SIC] | [!UICONTROL Código SIC] |
+| [!UICONTROL Sitio de cuenta] | [!UICONTROL Sitio] |
+| [!UICONTROL Tipo de cuenta] | [!UICONTROL Tipo de SFDC] |
+| [!UICONTROL Sitio web] | [!UICONTROL Sitio web] |
 
-## Campos de sistema relacionados con Salesforce en Marketo (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
+## Campos del sistema relacionados con [!DNL Salesforce] en Marketo (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
 
 | Campo | Descripción |
 |---|---|
-| Identificación de SFDC | El ID de Salesforce de 18 caracteres |
+| Identificación de SFDC | El id. [!DNL Salesforce] de 18 caracteres |
 | Tipo de SFDC | Posible cliente o contacto. Si está vacío, el posible cliente solo existe como persona en Marketo |
 | Fecha de creación de SFDC | Fecha de creación en SFDC (puede ser diferente de Creación en Marketo) |
-| Se ha eliminado el SFDC | La persona solía estar en SFDC, pero se ha eliminado y ahora solo vive en Marketo |
+| Se ha eliminado SFDC | La persona estaba en SFDC, pero se eliminó y ahora solo vive en Marketo |

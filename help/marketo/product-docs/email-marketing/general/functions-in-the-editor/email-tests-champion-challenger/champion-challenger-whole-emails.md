@@ -4,7 +4,7 @@ description: Champion/Challenger - Correos electrónicos completos - Documentos 
 title: Campeón/Challenger - Correos electrónicos completos
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
 >
 >[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Correos electrónicos completos** en la lista desplegable **Tipo de prueba**.
+1. En el editor de pruebas de correo electrónico, seleccione **[!UICONTROL Correos electrónicos completos]** en la lista desplegable **[!UICONTROL Tipo de prueba]**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
    >
    >Recuerde: El correo electrónico original es el campeón. Los rivales compiten contra él.
 
-1. Busque y seleccione los correos electrónicos de **Challenger** y luego haga clic en **Clonar**.
+1. Busque y seleccione los correos electrónicos de **[!UICONTROL Challenger]** y luego haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

@@ -4,32 +4,32 @@ description: Configuración de perspectivas de rendimiento - Documentos de Marke
 title: Configuración de perspectivas de rendimiento
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Configuración de perspectivas de rendimiento {#setting-up-performance-insights}
+# Configurando [!UICONTROL Perspectivas de rendimiento] {#setting-up-performance-insights}
 
 Siga los pasos a continuación para configurar MPI.
 
 ## Configuración de oportunidad {#opportunity-setup}
 
-1. Haga clic en **Administrador**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Análisis del ciclo de ingresos**.
+1. Haga clic en **[!UICONTROL Análisis del ciclo de ingresos]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si no tiene RCA, tendrá que seleccionar **Análisis de programa** para el paso 2.
+   >Si no tiene RCA, tendrá que seleccionar **[!UICONTROL Análisis de programa]** para el paso 2.
 
-1. En Atribución, haga clic en **Editar**.
+1. En Atribución, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ Siga los pasos a continuación para configurar MPI.
    >
    >Asegúrese de que todas las oportunidades tengan los campos adecuados rellenados:
    >
-   >* Monto de la oportunidad
-   >* Es cerrado
-   >* Está ganado
-   >* Fecha de creación (puede que no se establezca en su caso)
-   >* Fecha de cierre (puede que no se establezca en su caso)
-   >* Tipo de oportunidad
+   >* [!UICONTROL Importe de oportunidad]
+   >* [!UICONTROL Está Cerrado]
+   >* [!UICONTROL Ha Ganado]
+   >* [!UICONTROL Fecha de creación] (no se puede establecer en su caso)
+   >* [!UICONTROL Fecha de cierre] (puede que no se haya establecido en su caso)
+   >* [!UICONTROL Tipo de oportunidad]
 
 ## Configuración del programa {#program-setup}
 
 Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manualmente o mediante la API del programa. En este ejemplo lo hacemos manualmente.
 
-1. Haga clic en **Actividades de marketing**.
+1. Haga clic en **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manua
 
    ![](assets/select-program.png)
 
-1. Haga clic en la ficha **Configuración**.
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/setup-tab.png)
 
-1. Arrastre **Costo de período** al lienzo.
+1. Arrastre **[!UICONTROL Costo de período]** al lienzo.
 
    ![](assets/period-cost.png)
 
-1. Establezca el mes del programa como mínimo hace 12 meses y haga clic en **Aceptar**.
+1. Establezca el mes del programa como mínimo hace 12 meses y haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/set-period.png)
 
-1. Establezca el costo del período y haga clic en **Guardar**.
+1. Establezca el costo del período y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/set-cost.png)
 
 A continuación, revise el comportamiento de Analytics para indicar si algún canal en particular debe incluirse en Analytics. Establezca el Comportamiento de Analytics (Normal, Inclusivo, Operativo).
 
-1. Haga clic en **Administrador**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Etiquetas**.
+1. Haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ A continuación, revise el comportamiento de Analytics para indicar si algún ca
 
    ![](assets/channel-click.png)
 
-1. Haga clic en el menú desplegable **Comportamiento de Analytics** y seleccione el comportamiento que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Comportamiento de Analytics]** y seleccione el comportamiento que desee.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ A continuación, revise el comportamiento de Analytics para indicar si algún ca
 
    ![](assets/success.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/save.png)
 

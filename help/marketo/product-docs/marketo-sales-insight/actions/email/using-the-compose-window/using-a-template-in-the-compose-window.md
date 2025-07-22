@@ -3,7 +3,7 @@ description: Uso de una plantilla en la ventana de composición - Documentos de 
 title: Uso de una plantilla en la ventana de composición
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Búsqueda y uso de plantillas {#finding-and-using-templates}
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Rellene el campo Para.
+1. Rellene el campo [!UICONTROL Para].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Seleccione una categoría para buscar (o seleccione Todo para buscar en todas las categorías).
+1. Seleccione una categoría para buscar (o seleccione [!UICONTROL Todos] para buscar en todas las categorías).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 **favorita hasta cinco** categorías de plantilla específicas para obtener acceso rápido a las plantillas más utilizadas.
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Haga clic en el icono **+** junto a Favoritos.
+1. Haga clic en el icono **+** junto a [!UICONTROL Favoritos].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Haga clic en el menú desplegable **Anclar una categoría** y seleccione la categoría que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Anclar una categoría]** y seleccione la categoría que desee.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Favoritos** está ahí de manera predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
+   >**[!UICONTROL Favoritos]** está ahí de manera predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
 
    La categoría seleccionada está anclada.

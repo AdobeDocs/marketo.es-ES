@@ -4,7 +4,7 @@ description: 'Envío de una notificación push de ejemplo: documentos de Marketo
 title: Ejemplo Send a Push Notification
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Puede enviar un ejemplo para comprobar que la notificación push funciona correc
 
 1. Puede enviar un ejemplo de tres formas:
 
-   En el árbol de la izquierda, haga clic con el botón derecho en el recurso de notificación push y haga clic en **Enviar muestra**.
+   En el árbol de la izquierda, haga clic con el botón derecho en el recurso de notificación push y haga clic en **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   O bien, en el menú de acciones de notificaciones push, haga clic en **Enviar muestra**.
+   O bien, en el menú de acciones de notificaciones push, haga clic en **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   O bien, en el Editor de notificaciones push, haga clic en **Enviar muestra**.
+   O bien, en el Editor de notificaciones push, haga clic en **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ Puede enviar un ejemplo para comprobar que la notificación push funciona correc
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   O bien, haga clic en **Agregar dispositivo** para [agregar un nuevo dispositivo de prueba](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) al que enviar la muestra.
+   O bien, haga clic en **[!UICONTROL Agregar dispositivo]** para [agregar un nuevo dispositivo de prueba](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) al que enviar la muestra.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Tiene dos formas de conectar su dispositivo a la aplicación.
 
-   Con la primera opción, haz clic en el botón **Visitar URL con el dispositivo**, copia la URL del campo y envíala en un correo electrónico o mensaje de texto a tu dispositivo. En el dispositivo, pulse la dirección URL. Cuando el estado muestre la conexión, haga clic en **Enviar**.
+   Con la primera opción, haz clic en el botón **[!UICONTROL Visitar URL con el dispositivo]**, copia la URL del campo y envíala en un correo electrónico o mensaje de texto a tu dispositivo. En el dispositivo, pulse la dirección URL. Cuando el estado muestre la conexión, haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   O, con la segunda opción, haz clic en el botón **Escanear código QR con el dispositivo** y escanea el código QR con tu dispositivo. Cuando el estado muestre la conexión, haga clic en **Enviar**.
+   O, con la segunda opción, haz clic en el botón **[!UICONTROL Escanear código QR con el dispositivo]** y escanea el código QR con tu dispositivo. Cuando el estado muestre la conexión, haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve enumerado en el campo **Enviar a**? Marque estas opciones para solucionar problemas:
+   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve enumerado en el campo **[!UICONTROL Enviar a]**? Marque estas opciones para solucionar problemas:
    >
    >* Las notificaciones push se activan en la aplicación asociada a la notificación push.
    >

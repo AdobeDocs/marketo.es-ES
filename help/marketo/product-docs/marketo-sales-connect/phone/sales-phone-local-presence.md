@@ -4,7 +4,7 @@ description: Presencia local del teléfono de ventas - Documentos de Marketo - D
 title: Presencia local del teléfono de ventas
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Presencia local del teléfono de ventas {#sales-phone-local-presence}
 
-Si desea que parezca que está llamando desde el mismo código de área de otra persona, simplemente marque la casilla **Presencia local** antes de realizar la llamada.
+Si desea que parezca que está llamando desde el mismo código de área de otra persona, simplemente marque la casilla **[!UICONTROL Presencia local]** antes de realizar la llamada.
 
 ## Preguntas frecuentes sobre presencia local {#local-presence-faq}
 

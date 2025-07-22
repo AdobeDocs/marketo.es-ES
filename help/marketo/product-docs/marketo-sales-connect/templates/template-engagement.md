@@ -4,7 +4,7 @@ description: 'Participación en plantillas: Documentos de Marketo: documentació
 title: Compromiso de plantilla
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Siga los pasos a continuación para ver su participación en la plantilla.
 
-1. Vaya a la página **Analytics**.
+1. Vaya a la página **[!UICONTROL Analytics]**.
 
-1. Haga clic en el botón **Contenido** y filtre según el intervalo de fechas deseado.
+1. Haga clic en el botón **[!UICONTROL Contenido]** y filtre según el intervalo de fechas deseado.
 
 1. En función del intervalo de fechas seleccionado, en la parte superior de la página puede ver el número total de correos electrónicos y plantillas utilizadas en su equipo.
 

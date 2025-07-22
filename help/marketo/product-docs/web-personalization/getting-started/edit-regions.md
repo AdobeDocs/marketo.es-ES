@@ -4,22 +4,22 @@ description: Editar regiones - Documentos de Marketo - Documentación del produc
 title: Editar regiones
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Editar regiones {#edit-regions}
+# [!UICONTROL Editar regiones] {#edit-regions}
 
 ¿Desea cambiar la configuración regional del usuario para ver solo los datos de su región específica?
 
-1. Vaya a **Configuración de usuario**.
+1. Vaya a **[!UICONTROL Configuración de usuario]**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Haga clic en **Editar regiones**.
+1. Haga clic en **[!UICONTROL Editar regiones]**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

@@ -4,7 +4,7 @@ description: 'Creación de una página de aterrizaje guiada: documentos de Marke
 title: Creación de una página de aterrizaje guiada
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## Creación de una página de aterrizaje guiada en un programa {#create-a-guided-landing-page-in-a-program}
 
-Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un programa o en Design Studio para su uso global.
+Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un programa o en [!UICONTROL Design Studio] para su uso global.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -33,15 +33,15 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Nuevo recurso local**.
+1. Haga clic en la lista desplegable **[!UICONTROL Nuevo]**. Seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Seleccione **Página de aterrizaje**.
+1. Seleccione **[!UICONTROL Página de aterrizaje]**.
 
    ![](assets/four.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **Plantilla** y seleccione **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **[!UICONTROL Plantilla]** y seleccione **[!UICONTROL Plantilla guiada]**.
 
    >[!NOTE]
    >
@@ -51,24 +51,24 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
 ## Creación de una página de aterrizaje en Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/six.png)
 
-1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Nueva página de aterrizaje**.
+1. Haga clic en la lista desplegable **[!UICONTROL Nuevo]**. Seleccione **[!UICONTROL Nueva página de aterrizaje]**.
 
    ![](assets/seven.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **Plantilla** y seleccione **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en la lista desplegable **[!UICONTROL Plantilla]** y seleccione **[!UICONTROL Plantilla guiada]**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la URL, edite el campo **URL de la página**.
+>La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la URL, edite el campo **[!UICONTROL URL de la página]**.
 >
->Desactive la casilla de verificación **Abrir en el editor** si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.
+>Desactive la casilla de verificación **[!UICONTROL Abrir en el editor]** si no desea que el editor se abra inmediatamente después de hacer clic en **[!UICONTROL Crear]**.

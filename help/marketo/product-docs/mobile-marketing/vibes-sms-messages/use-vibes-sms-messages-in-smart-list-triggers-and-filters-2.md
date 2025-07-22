@@ -4,7 +4,7 @@ title: Usar mensajes SMS de Vibes en Déclencheur y filtros de listas inteligent
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Después de [crear un mensaje SMS de Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, querrás usar déclencheur y filtros de listas inteligentes dentro de una campaña inteligente para obtener los beneficios. Así es como.
 
-1. En Mi Marketo, haga clic en **Actividades de marketing**.
+1. En Mi Marketo, haga clic en **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ El déclencheur **Devoluciones de mensajes SMS** inicia un flujo, como enviar un
 
 ![](assets/sms-message-bounces-real.jpg)
 
-El déclencheur **Suscribirse a la lista de vibraciones** inicia un flujo cuando una persona se suscribe.
+El déclencheur **[!UICONTROL Suscribirse a la lista de vibraciones]** inicia un flujo cuando una persona se suscribe.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-El déclencheur **Clicks Link in SMS Message** inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
+El déclencheur **[!UICONTROL Clicks Link in SMS Message]** inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtros SMS {#sms-filters}
 
-También puede utilizar los filtros de Vibes en las listas inteligentes. El filtro **Suscrito a la lista de vibraciones** encuentra a cualquiera que se haya suscrito a vibraciones *alguna vez*. Esto incluye tanto a las personas sin suscribir como a las eliminadas, aunque estas se omitan del flujo. Este filtro es el más adecuado para los informes.
+También puede utilizar los filtros de Vibes en las listas inteligentes. El filtro **[!UICONTROL Suscrito a la lista de vibraciones]** encuentra a cualquiera que se haya suscrito a vibraciones *alguna vez*. Esto incluye tanto a las personas sin suscribir como a las eliminadas, aunque estas se omitan del flujo. Este filtro es el más adecuado para los informes.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a _cu
 
 >[!NOTE]
 >
->Todos los filtros de SMS incluyen la restricción **Fecha de actividad** de forma predeterminada.
+>Todos los filtros de SMS incluyen la restricción **[!UICONTROL Fecha de actividad]** de forma predeterminada.
 
 Después de configurar los déclencheur y filtros de Vibes en tu lista inteligente, puedes [definir el flujo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 

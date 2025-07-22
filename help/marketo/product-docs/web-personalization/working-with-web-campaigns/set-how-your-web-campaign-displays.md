@@ -4,9 +4,9 @@ description: 'Cómo se muestra la campaña web: Documentos de Marketo: documenta
 title: Definición Del Modo En Que Se Muestra La Campaña Web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -25,36 +25,36 @@ Seleccionada de forma predeterminada, esta opción simplemente muestra la campa�
 
 Especifique un retraso (en segundos totales) para que las campañas web reaccionen en el sitio web.
 
-1. Haga clic en el menú desplegable **Mostrar en** y seleccione **Demora**.
+1. Haga clic en el menú desplegable **[!UICONTROL Mostrar en]** y seleccione **[!UICONTROL Demora]**.
 
    ![](assets/d1.png)
 
-1. Haga clic en el menú desplegable **Esperar** y seleccione la cantidad de tiempo que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Esperar]** y seleccione la cantidad de tiempo que desee.
 
    ![](assets/d2.png)
 
 ## Desplazamiento {#scroll}
 
-1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Desplazamiento**.
+1. Haga clic en la lista desplegable **[!UICONTROL Mostrar en]** y seleccione **[!UICONTROL Desplazamiento]**.
 
    ![](assets/s1.png)
 
-1. Haga clic en el menú desplegable **Cuándo** y seleccione cuándo desea que se muestre la campaña web.
+1. Haga clic en el menú desplegable **[!UICONTROL Cuándo]** y seleccione cuándo desea que se muestre la campaña web.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Pliegue inferior</strong></td> 
+   <td><strong>[!UICONTROL Bajo el pliegue]</strong></td> 
    <td>Muestra la campaña cuando el visitante se desplaza por debajo del pliegue. Campaign desaparece cuando el visitante se desplaza hacia atrás por encima del pliegue.</td> 
   </tr> 
   <tr> 
-   <td><strong>Porcentaje</strong></td> 
+   <td><strong>[!UICONTROL Porcentaje]</strong></td> 
    <td>Muestra la campaña cuando el visitante se desplaza a un porcentaje predeterminado de la página.</td> 
   </tr> 
   <tr> 
-   <td><strong>Píxel</strong></td> 
+   <td><strong>[!UICONTROL Píxel]</strong></td> 
    <td><p>Muestra la campaña cuando el visitante se desplaza al píxel superior predesignado de la página.</p></td> 
   </tr> 
  </tbody> 
@@ -64,11 +64,11 @@ Especifique un retraso (en segundos totales) para que las campañas web reaccion
 
 La intención de salida muestra la campaña web al salir el cursor del ratón del explorador.
 
-1. Haga clic en el menú desplegable **Mostrar en** y seleccione **Salir de la intención**.
+1. Haga clic en el menú desplegable **[!UICONTROL Mostrar en]** y seleccione **[!UICONTROL Salir de la intención]**.
 
    ![](assets/ei1.png)
 
-1. Aparece un mensaje recordándole que la intención de salida no es compatible con dispositivos móviles.
+1. Aparece un mensaje recordándole que [!UICONTROL La intención de salida] no es compatible con dispositivos móviles.
 
    ![](assets/ei2.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: 'Explicación de la pestaña Equipo: Documentos de Marketo: documentación del producto'
-title: Explicación de la pestaña Equipo
+description: Descripción de la ficha [!UICONTROL Equipo] - Documentos de Marketo - Documentación del producto
+title: Explicación de la ficha [!UICONTROL Equipo]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Explicación de la pestaña Equipo {#understanding-the-team-tab}
+# Explicación de la ficha [!UICONTROL Equipo] {#understanding-the-team-tab}
 
-En la pestaña Equipo resaltamos tres métricas importantes.
+En la ficha [!UICONTROL Equipo] se resaltan tres métricas importantes.
 
 ## Correos electrónicos enviados con plantilla {#emails-sent-with-template}
 

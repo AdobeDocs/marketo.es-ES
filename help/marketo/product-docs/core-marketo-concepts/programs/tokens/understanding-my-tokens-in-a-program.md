@@ -4,9 +4,9 @@ description: 'Explicación de mis tokens en un programa: documentos de Marketo, 
 title: Explicación de mis tokens en un programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 3%
 
 ---
@@ -46,7 +46,7 @@ Ejemplos:
   </tr> 
   <tr> 
    <td>Script de email <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
+   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
   </tr> 
   <tr> 
    <td>Número <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ Ejemplos:
 
 >[!CAUTION]
 >
->Mis tokens no se resolverán al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, empresa, etc.). Sin embargo, los valores predeterminados para los tokens _funcionarán_.
+>Mis tokens no se resolverán al enviar un correo electrónico desde Sales Insight en [!DNL Microsoft Dynamics] o [!DNL Salesforce]; solo se rellenarán los tokens estándar (posible cliente, compañía, etc.). Sin embargo, los valores predeterminados para los tokens _funcionarán_.
 
 ## Anidado de tokens {#nesting-tokens}
 

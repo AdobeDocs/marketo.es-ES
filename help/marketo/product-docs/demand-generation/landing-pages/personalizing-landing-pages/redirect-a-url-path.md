@@ -4,7 +4,7 @@ description: 'Redireccionar una ruta de URL: documentos de Marketo, documentaci�
 title: Redireccionar una ruta de URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Marketo facilita el redireccionamiento de una ruta de URL a cualquier página qu
 >
 >**Se requieren permisos de administración**
 
-1. En **Administrador**, haga clic en **Páginas de aterrizaje**.
+1. En **[!UICONTROL Administrador]**, haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Haga clic en la ficha **Reglas**, luego haga clic en **Nueva** y **Nueva regla de redireccionamiento**.
+1. Haga clic en la ficha **[!UICONTROL Reglas]**, luego haga clic en **[!UICONTROL Nueva]** y **[!UICONTROL Nueva regla de redireccionamiento]**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Haga clic en la primera lista desplegable **URL original** y seleccione su CNAME de Marketo.
+1. Haga clic en la primera lista desplegable **[!UICONTROL URL original]** y seleccione su CNAME de Marketo.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -35,11 +35,11 @@ Marketo facilita el redireccionamiento de una ruta de URL a cualquier página qu
    >
    >Recuerde, solo puede redirigir direcciones URL que comiencen con su Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Escriba la ruta URL (o página específica) que quiera redirigir en el segundo campo **URL original** de la derecha.
+1. Escriba la ruta URL (o página específica) que quiera redirigir en el segundo campo **[!UICONTROL URL original]** de la derecha.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Haga clic en **Usar página de aterrizaje que no sea de Marketo**, escriba la página a la que desea redirigir a los visitantes en el campo **Redirigir URL** y haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Usar página de aterrizaje que no sea de Marketo]**, escriba la página a la que desea redirigir a los visitantes en el campo **[!UICONTROL Redirigir URL]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 

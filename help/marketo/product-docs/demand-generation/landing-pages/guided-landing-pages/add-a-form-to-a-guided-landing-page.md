@@ -4,7 +4,7 @@ description: 'Adición de un formulario a una página de aterrizaje guiada: docu
 title: Agregar un formulario a una página de aterrizaje guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 >
 >[Crear una página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/one.png)
 
-1. Busque y seleccione su página de aterrizaje y haga clic en **Editar borrador**.
+1. Busque y seleccione su página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 
 1. Tiene tres opciones al elegir la página de seguimiento:
 
-   * Página de aterrizaje: elija una página de aterrizaje de Marketo
-   * Dirección URL externa: elija la dirección URL que desee
-   * Formulario definido: utilice la configuración definida a nivel de formulario
+   * **[!UICONTROL Página de aterrizaje]**: elija una página de aterrizaje de Marketo
+   * **[!UICONTROL Dirección URL externa]**: elija la dirección URL que desee
+   * **[!UICONTROL Formulario definido]**: use la configuración definida a nivel de formulario
 
    >[!NOTE]
    >
    >La página de seguimiento es la página que verán los usuarios después de enviar el formulario.
 
-1. En este ejemplo utilizaremos Definido por formulario. Haga clic en **Insertar**.
+1. En este ejemplo utilizaremos [!UICONTROL Formulario definido]. Haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

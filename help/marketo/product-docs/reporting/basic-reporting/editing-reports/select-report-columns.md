@@ -4,7 +4,7 @@ description: Seleccionar columnas del informe - Documentos de Marketo - Document
 title: Seleccionar columnas del informe
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
-1. Vaya al área de **Analytics** (o **Actividades de marketing**).
+1. Vaya al área de **[!UICONTROL Analytics]** (o **[!UICONTROL Actividades de marketing]**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Haga clic en la ficha **Informe**, luego haga clic en cualquier encabezado de columna y seleccione **Columnas** y, a continuación, elija las columnas que desea incluir.
+1. Haga clic en la ficha **[!UICONTROL Informe]**, luego haga clic en cualquier encabezado de columna y seleccione **[!UICONTROL Columnas]** y, a continuación, elija las columnas que desea incluir.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

@@ -4,20 +4,20 @@ description: 'Configuración del acceso push de Android de aplicaciones móviles
 title: Configuración del acceso push de Android de aplicaciones móviles
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 # Configuración del acceso push de Android de aplicaciones móviles {#configure-mobile-app-android-push-access}
 
-1. Haga clic en **Administrador**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Seleccione **Aplicaciones móviles**.
+1. Seleccione **[!UICONTROL Aplicaciones móviles]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,19 +25,19 @@ ht-degree: 1%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. En **Tipo de acceso push**, seleccione **Android** y haga clic en **Configurar.**
+1. En **[!UICONTROL Tipo de acceso push]**, seleccione **[!UICONTROL Android]** y haga clic en **[!UICONTROL Configurar]**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Necesitará una **clave de API de servidor** y un **número de proyecto** de su desarrollador de aplicaciones móviles. El desarrollador los recibe iniciando sesión en Google Play Developer Console para registrar la aplicación y habilitar la mensajería en la nube.
+   >Necesitará una **[!UICONTROL clave de API de servidor]** y un **[!UICONTROL número de proyecto]** de su desarrollador de aplicaciones móviles. El desarrollador los recibe iniciando sesión en [!DNL Google Play Developer Console] para registrar la aplicación y habilitar la mensajería en la nube.
 
-1. Introduzca la clave API de servidor y el número de proyecto. Haga clic en **Guardar**.
+1. Escriba su [!UICONTROL clave de API de servidor] y [!UICONTROL número de proyecto]. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Dulce. Asegúrese de configurar la aplicación con iOS.
+   Dulce. Asegúrese de configurar la aplicación con [!UICONTROL iOS].
 
 >[!MORELIKETHIS]
 >

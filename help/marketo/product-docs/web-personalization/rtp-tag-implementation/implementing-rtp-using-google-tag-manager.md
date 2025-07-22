@@ -4,39 +4,39 @@ description: 'Implementación de RTP con Google Tag Manager: Documentos de Marke
 title: Implementación de RTP con Google Tag Manager
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-# Implementación de RTP con Google Tag Manager {#implementing-rtp-using-google-tag-manager}
+# Implementando RTP con [!DNL Google Tag Manager] {#implementing-rtp-using-google-tag-manager}
 
 Para implementar su etiqueta RTP, siga las instrucciones de instalación a continuación.
 
-1. Inicie sesión en su cuenta de Google Tag Manager.
+1. Inicie sesión en su cuenta de [!DNL Google Tag Manager].
 
-1. Añada una nueva etiqueta > Configuraciones de etiqueta > Etiqueta de HTML personalizada&#x200B;**.** Llámelo **RTP**.
+1. Agregue una nueva **[!UICONTROL Etiqueta]** > **[!UICONTROL Configuraciones de etiquetas]** > **[!UICONTROL Etiqueta personalizada de HTML].** Llámelo **RTP**.
 
-1. Inicie sesión en su cuenta de RTP&#x200B;**.**
+1. Inicie sesión en su **cuenta RTP**.
 
-1. Vaya a **Configuración de la cuenta**.
+1. Vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    a. Si ya ha recibido la etiqueta JavaScript del equipo de asistencia, continúe con el paso 6.
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
+1. En [!UICONTROL Dominio], busque el dominio correspondiente y haga clic en **[!UICONTROL Generar etiqueta]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Copie la etiqueta RTP JavaScript y péguela en la nueva **etiqueta de HTML personalizada** que creó (paso 1).
+1. Copie la etiqueta RTP JavaScript y péguela en la nueva **etiqueta HTML personalizada** que creó (paso 1).
 
-1. Haga clic en **+Agregar regla para activar la etiqueta**. Seleccione **Todas las páginas**.
+1. Haga clic en **[!UICONTROL Agregar regla a la etiqueta Fire]**. Seleccione **[!UICONTROL Todas las páginas]**.
 
-1. Haga clic en **Guardar** y [publicar la nueva versión](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Haga clic en **[!UICONTROL Guardar]** y [publicar la nueva versión](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Compruebe que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
 
-   a. Puede hacerlo haciendo clic con el botón derecho en la página del sitio web. Vaya a **Inspect Element**, busque **RTP** para encontrar la etiqueta.
+   a. Puede hacerlo haciendo clic con el botón derecho en la página del sitio web. Vaya a **[!UICONTROL Inspeccionar elemento]**, busque **RTP** para localizar la etiqueta.

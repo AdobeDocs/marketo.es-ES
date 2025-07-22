@@ -4,9 +4,9 @@ description: Head Start para programas de correo electrónico - Documentos de Ma
 title: Head Start para programas de correo electrónico
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
 
 ## Head Start estándar {#standard-head-start}
 
-1. Haga clic en **Actividades de marketing**.
+1. Haga clic en **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -33,30 +33,30 @@ Al elegir una fecha y hora para un programa de correo electrónico, determina cu
    >
    >Head Start no se puede usar con las pruebas A/B.
 
-1. En el mosaico Programar, programe su correo electrónico y luego seleccione la casilla **Head Start**.
+1. En el mosaico [!UICONTROL Programar], programe su correo electrónico y luego seleccione la casilla **[!UICONTROL Head Start]**.
 
    ![](assets/three-1.png)
 
-   Con Head Start seleccionado, el programa comenzará a procesarse aproximadamente 12 horas antes de la hora programada. Una vez iniciado el procesamiento, el programa se bloquea.
+   Con [!UICONTROL Head Start] seleccionado, el programa comenzará a procesarse aproximadamente 12 horas antes de la hora programada. Una vez iniciado el procesamiento, el programa se bloquea.
 
    >[!CAUTION]
    >
    >Cualquier persona de la audiencia que cancele la suscripción después del bloqueo del programa seguirá recibiendo el correo electrónico. Recomendamos ajustar la notificación de cancelación de suscripción para reflejar que las cancelaciones de suscripción pueden tardar entre 1 y 2 días hábiles en procesarse.
 
-1. Haga clic en **Aprobar programa**.
+1. Haga clic en **[!UICONTROL Aprobar programa]**.
 
    ![](assets/four-1.png)
 
    Después de la aprobación del programa, hay cuatro estados diferentes que puede ver en el mosaico Aprobación.
 
-   * **Esperando a ejecutarse:** Después de que se apruebe el programa.
-   * **Procesamiento iniciado, esperando para ejecutarse:** El procesamiento está en curso.
-   * **Procesamiento finalizado, a la espera de ejecutarse:** Procesamiento completado; ahora el correo electrónico espera la hora programada para el inicio.
-   * **Finalizado:** Programa completado.
+   * **[!UICONTROL Esperando a ejecutarse]:** Después de que se apruebe el programa.
+   * **[!UICONTROL Procesamiento iniciado, esperando para ejecutarse]:** El procesamiento está en curso.
+   * **[!UICONTROL Procesamiento finalizado, a la espera de ejecutarse]:** Procesamiento completado; correo electrónico en espera de tiempo programado para iniciarse.
+   * **[!UICONTROL Finalizado]:** Programa completado.
 
    >[!TIP]
    >
-   >¿Desea cancelar después de que el programa se bloquee pero antes de que se envíe el correo electrónico? ¡No hay problema! Simplemente haga clic en **Anular programa** en la parte inferior derecha del mosaico Aprobación.
+   >¿Desea cancelar después de que el programa se bloquee pero antes de que se envíe el correo electrónico? ¡No hay problema! Simplemente haga clic en **[!UICONTROL Anular programa]** en la parte inferior derecha del mosaico Aprobación.
 
    >[!NOTE]
    >

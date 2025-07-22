@@ -4,7 +4,7 @@ description: Resumen del contenido predictivo - Documentos de Marketo - Document
 title: El resumen de contenido predictivo
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -27,19 +27,19 @@ Aquí es donde puede ver los 10 fragmentos principales de contenido descubierto,
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Participación predictiva {#predictive-engagement}
+## [!UICONTROL Participación predictiva] {#predictive-engagement}
 
 Consulte la tasa de conversión comparando el total de clics y los posibles clientes, y compare el rendimiento de las diferentes fuentes.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Tendencia del contenido por vistas  {#content-trend-by-views}
+## [!UICONTROL Tendencia del contenido por vistas]  {#content-trend-by-views}
 
 Compare cómo coinciden las vistas de todo el contenido con el contenido predictivo.
 
 ![](assets/4.png)
 
-## Categorías principales por participación {#top-categories-by-engagement}
+## [!UICONTROL Categorías principales por participación] {#top-categories-by-engagement}
 
 ¿Qué categorías de contenido son más atractivas? Véalo en este gráfico.
 
@@ -47,4 +47,4 @@ Compare cómo coinciden las vistas de todo el contenido con el contenido predict
 
 >[!NOTE]
 >
->Si hace clic en un vínculo de categoría (ejemplos en la imagen anterior: leadGen, correo electrónico, etc.), se abre la página Todo el contenido con la categoría en la que ha hecho clic añadida al filtro y se muestra el análisis de contenido en esa categoría.
+>Si hace clic en un vínculo de categoría (ejemplos en la imagen anterior: leadGen, correo electrónico, etc.), se abre la página Todo el contenido con la categoría en la que ha hecho clic añadida al filtro, mostrando el análisis de contenido en esa categoría.

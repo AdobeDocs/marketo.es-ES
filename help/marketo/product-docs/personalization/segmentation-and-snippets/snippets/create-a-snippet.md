@@ -4,7 +4,7 @@ description: 'Creación de un fragmento: documentos de Marketo, documentación d
 title: Crear un fragmento
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Los fragmentos se pueden usar como bloques de contenido dinámico en **correos electrónicos** y **páginas de aterrizaje**.
 
-1. Vaya a **Design Studio.**
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nuevo** y luego en **Nuevo fragmento**.
+1. Haga clic en **[!UICONTROL Nuevo]** y luego en **[!UICONTROL Nuevo fragmento]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Introduce los detalles necesarios y haz clic en **Crear**.
+1. Introduce los detalles necesarios y haz clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

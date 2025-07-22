@@ -4,7 +4,7 @@ description: Prioridad de orden de segmentación - Documentos de Marketo - Docum
 title: Prioridad de orden de segmentación
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 >[!PREREQUISITES]
 >
 >[Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Definir reglas de segmentos ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[Definir reglas de segmentos ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Seleccione su **segmentación**. En **Acciones de segmentación**, haga clic en **Editar segmentos**.
+1. Seleccione su **segmentación**. En **[!UICONTROL Acciones de segmentación]**, haga clic en **[!UICONTROL Editar segmentos]**.
 
    ![](assets/segmentation-order-priority-2.png)
 

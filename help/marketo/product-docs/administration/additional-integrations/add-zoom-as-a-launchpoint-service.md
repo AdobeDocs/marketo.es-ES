@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728028
-description: "Agregar  [!DNL Zoom] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto"
-title: "Agregar [!DNL Zoom] como [!DNL LaunchPoint] servicio"
+description: Agregar  [!DNL Zoom] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto
+title: Agregar  [!DNL Zoom] como [!DNL LaunchPoint] servicio
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Su cuenta de [!DNL Zoom] ahora está sincronizada con Marketo y se encuentra en 
 
 >[!CAUTION]
 >
->Al actualizar la contraseña en Zoom, también debe actualizarla en Marketo.
+>Cuando actualice la contraseña en [!DNL Zoom], también deberá actualizarla en Marketo.
 
 >[!MORELIKETHIS]
 >

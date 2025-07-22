@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: 'Exportación de un informe a Excel: documentos de Marketo, documentación del producto'
-title: Exportación de un informe a Excel
+description: 'Exportar un informe a  [!DNL Excel] : documentos de Marketo, documentación del producto'
+title: Exportar un informe a  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Exportación de un informe a Excel {#export-a-report-to-excel}
+# Exportar un informe a [!DNL Excel] {#export-a-report-to-excel}
 
-Puede exportar cualquier informe a un archivo de Excel para trabajar con los datos de otro software.
+Puede exportar cualquier informe a un archivo de [!DNL Excel] para trabajar con los datos de otro software.
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **[!UICONTROL Informe]**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Haga clic en el botón **Exportar**.
+1. Haga clic en el botón **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   ¡Eso es todo! El explorador le pedirá que guarde el archivo de Excel en el sistema.
+   ¡Eso es todo! El explorador le pedirá que guarde el archivo [!DNL Excel] en el sistema.
 
    >[!MORELIKETHIS]
    >

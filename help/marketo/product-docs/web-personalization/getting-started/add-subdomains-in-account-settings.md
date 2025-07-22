@@ -4,30 +4,30 @@ description: 'Adición de subdominios en la configuración de la cuenta: documen
 title: Agregar subdominios en la configuración de la cuenta
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 1%
 
 ---
 
-# Agregar subdominios en la configuración de la cuenta {#add-subdomains-in-account-settings}
+# Agregar subdominios en [!UICONTROL Configuración de la cuenta] {#add-subdomains-in-account-settings}
 
-Así se agregan subdominios a los dominios principales en Configuración de cuenta. Esto le permitirá administrar subdominios relacionados con el JavaScript de RTP específico de su dominio principal. Se recomienda implementar la etiqueta Javascript en cualquier subdominio añadido.
+Así se agregan subdominios a los dominios principales en [!UICONTROL Configuración de la cuenta]. Esto le permitirá administrar subdominios relacionados con el JavaScript de RTP específico de su dominio principal. Se recomienda implementar la etiqueta [!DNL Javascript] en cualquier subdominio agregado.
 
-1. En Web Personalization, vaya a **Configuración de la cuenta**.
+1. En Web Personalization, vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. En la página Configuración de dominio, verá una lista de todos los dominios principales asociados a su cuenta. Cada sección enumera primero el dominio principal (resaltado a continuación), seguido de los subdominios. Haga clic en **Agregar subdominio**.
+1. En la página Configuración de dominio, verá una lista de todos los dominios principales asociados a su cuenta. Cada sección enumera primero el dominio principal (resaltado a continuación), seguido de los subdominios. Haga clic en **[!UICONTROL Agregar subdominio]**.
 
    ![](assets/highlightprimary2.png)
 
-1. Haga clic en **Agregar**.
+1. Haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/add.png)
 
-1. Introduzca la dirección URL del subdominio. Haz clic en **Agregar** o **Eliminar** para administrar tu lista de subdominios y luego haz clic en **Aceptar** cuando termines.
+1. Introduzca la dirección URL del subdominio. Haz clic en **[!UICONTROL Agregar]** o **[!UICONTROL Eliminar]** para administrar tu lista de subdominios y luego haz clic en **[!UICONTROL Aceptar]** cuando termines.
 
    ![](assets/newsubdomain.png)
 

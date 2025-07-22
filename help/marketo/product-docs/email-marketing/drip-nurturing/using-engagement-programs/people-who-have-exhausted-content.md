@@ -4,7 +4,7 @@ description: 'Personas Que Han Agotado El Contenido: Documentos De Marketo, Docu
 title: Personas Que Tienen Contenido Agotado
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Filtro Miembro del programa de participación {#member-of-engagement-program-filter}
 
-1. Cree una nueva lista inteligente y luego busque y arrastre el filtro **Miembro del programa de participación**.
+1. Cree una nueva lista inteligente y luego busque y arrastre el filtro **[!UICONTROL Miembro del programa de participación]**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. En **Agregar restricción**, seleccione **Contenido agotado**.
+1. En **[!UICONTROL Agregar restricción]**, seleccione **[!UICONTROL Contenido agotado]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Establezca **Contenido agotado** en **true**.
+1. Establezca **[!UICONTROL Contenido agotado]** en **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Pestaña Miembros {#members-tab}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Seleccione su programa de participación y vaya a la ficha **Miembros**.
+1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Miembros]**.
 
    ![](assets/memberstab.jpg)
 
-1. Observe la columna llamada **Contenido agotado**.
+1. Observe la columna llamada **[!UICONTROL Contenido agotado]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Secuencia {#stream}
 
-1. También puede ver el total de personas que han agotado el contenido en la pestaña Transmisiones en el propio flujo.
+1. También puede ver el total de personas que han agotado el contenido en la ficha [!UICONTROL Transmisiones] de la propia emisión.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

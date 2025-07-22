@@ -3,9 +3,9 @@ description: Personalizar mensaje de vínculo de cancelación de suscripción - 
 title: Personalizar mensaje de vínculo de cancelación de suscripción
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
 
 >[!NOTE]
 >
->No puede utilizar un vínculo de cancelación de suscripción de terceros con Marketo Sales, ya que esta información no se vuelve a capturar en nuestra base de datos.
+>No puede usar un vínculo de cancelación de suscripción de terceros con [!DNL Marketo Sales], ya que esta información no se volverá a capturar en nuestra base de datos.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. En Configuración de administración, haga clic en **Cancelar suscripciones**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL Cancelar suscripciones]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
    >
    >No importa la dirección URL que escriba. Cuando se envía el correo electrónico, el primer hipervínculo (o el único) se vincula automáticamente a la página de cancelación de suscripción predeterminada.
 
-1. Escriba una dirección URL, determine si desea que el vínculo se abra en la ventana actual o en una nueva y haga clic en **Guardar**.
+1. Escriba una dirección URL, determine si desea que el vínculo se abra en la ventana actual o en una nueva y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Haga clic en **Guardar** en la parte inferior para guardar los cambios.
+1. Haga clic en **[!UICONTROL Guardar]** en la parte inferior para guardar los cambios.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

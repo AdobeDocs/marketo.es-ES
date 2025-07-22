@@ -4,7 +4,7 @@ description: Adición de miembros a un programa de eventos - Documentos de Marke
 title: Adición de miembros a un programa de eventos
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
 1. [Crear una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. En la lista inteligente de la campaña inteligente que creó en el paso 2, busque y agregue el filtro **Miembro de la lista**.
+1. En la lista inteligente de la campaña inteligente que creó en el paso 2, busque y agregue el filtro **[!UICONTROL Miembro de la lista]**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
    ![](assets/four.png)
 
-1. En el flujo, busque y agregue el paso de flujo **Cambiar estado del programa**.
+1. En el flujo, busque y agregue el paso de flujo **[!UICONTROL Cambiar estado del programa]**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Este artículo solo se aplica a los usuarios que utilizan el Límite de eventos 
 
    ![](assets/seven.png)
 
-1. En la ficha Programación, haga clic en **Ejecutar una vez**.
+1. En la ficha [!UICONTROL Programar], haga clic en **[!UICONTROL Ejecutar una vez]**.
 
    ![](assets/eight.png)
 
-1. Seleccione **Ejecutar ahora** y haga clic en **Ejecutar**.
+1. Seleccione **[!UICONTROL Ejecutar ahora]** y haga clic en **[!UICONTROL Ejecutar]**.
 
    ![](assets/nine.png)
 

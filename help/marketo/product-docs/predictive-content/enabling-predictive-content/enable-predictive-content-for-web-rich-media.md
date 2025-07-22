@@ -4,7 +4,7 @@ description: 'Habilitar contenido predictivo para medios enriquecidos en web: do
 title: Habilitar contenido predictivo para medios enriquecidos en web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -33,21 +33,21 @@ El contenido predictivo atrae a los visitantes web con el contenido más relevan
 
 Una vez que haya preparado el título, la descripción y la imagen del contenido para Rich Media, puede habilitar fragmentos de contenido individuales o múltiples.
 
-1. Para habilitar un título individual, haga clic en un título para abrir el editor. Haga clic en Medios enriquecidos, luego marque la casilla **Habilitado para contenido predictivo en medios enriquecidos** y haga clic en **Guardar**.
+1. Para habilitar un título individual, haga clic en un título para abrir el editor. Haga clic en **[!UICONTROL Medios enriquecidos]**, luego marque la casilla **[!UICONTROL Habilitado para contenido predictivo en medios enriquecidos]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Para contenido múltiple, en la página **Contenido predictivo**, marque las casillas junto a los títulos.
+1. Para contenido múltiple, en la página **[!UICONTROL Contenido predictivo]**, marque las casillas junto a los títulos.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Haga clic en el menú desplegable **Acciones de contenido** y seleccione **Habilitar para medios enriquecidos en web**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de contenido]** y seleccione **[!UICONTROL Habilitar para medios enriquecidos en web]**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personalice el código JavaScript e incrústelo en su sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web, en la ubicación donde desee que aparezca la plantilla.
 

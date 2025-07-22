@@ -4,16 +4,16 @@ description: Glosario de Web Personalization - Documentos de Marketo - Documenta
 title: Glosario de Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# Glosario de Web Personalization {#web-personalization-glossary}
+# Glosario de [!DNL Web Personalization] {#web-personalization-glossary}
 
-Información sobre el mundo y el idioma de Marketo Web Personalization.
+Información sobre el mundo y el idioma de [!DNL Marketo Web Personalization].
 
 | Término | Definición |
 |---|---|
@@ -29,7 +29,7 @@ Información sobre el mundo y el idioma de Marketo Web Personalization.
 
 ## Ejemplos de comodines {#wildcard-examples}
 
-Estas son tres formas de utilizar un comodín en Web Personalization.
+Estas son tres formas de usar un comodín en [!DNL Web Personalization].
 
 Igualar todos los visitantes en las direcciones URL de la página que terminen con los precios (por ejemplo, `www.marketo.com/pricing`
 

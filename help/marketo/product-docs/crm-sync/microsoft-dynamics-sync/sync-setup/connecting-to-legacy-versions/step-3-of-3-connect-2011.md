@@ -1,44 +1,44 @@
 ---
 unique-page-id: 3571809
-description: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (2011 local): Documentos de Marketo: documentación del producto'
-title: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (2011 local)'
+description: 'Paso 3 de 3: Conexión  [!DNL Microsoft Dynamics] con Marketo (local de 2011): Documentos de Marketo: documentación del producto'
+title: 'Paso 3 de 3: Conexión [!DNL Microsoft Dynamics] con Marketo (local de 2011)'
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (2011 local) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# Paso 3 de 3: Conexión de [!DNL Microsoft Dynamics] con Marketo (2011 local) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-¡Bien! Instalamos la solución y configuramos el usuario de sincronización. A continuación, debemos conectar Marketo y Dynamics.
+¡Bien! Instalamos la solución y configuramos el usuario de sincronización. A continuación, debemos conectar Marketo y [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Instalar la solución de Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
->* [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (2011 local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>* [Paso 1 de 3: Instalar la solución de Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [Paso 2 de 3: Configurar el usuario de sincronización de Marketo en [!DNL Dynamics] (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-## Introducir información de usuario de sincronización de Dynamics {#enter-dynamics-sync-user-information}
+## Escriba la información de usuario de sincronización [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 
 1. Inicie sesión en Marketo y haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/login-admin.png)
 
-1. Haga clic en **[!UICONTROL CRM]**.
+1. Haz clic en **[!UICONTROL CRM]**.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Haga clic en **[!DNL Microsoft]**.
+1. Haga clic en **[!UICONTROL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Introducir credenciales]**.
+1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Paso 1: Escriba las credenciales]**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -46,20 +46,20 @@ ht-degree: 2%
    >
    >Asegúrese de que sus credenciales sean correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de Marketo.
 
-1. Escriba **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]** y la **[!UICONTROL URL]** de CRM, y después haga clic en **[!UICONTROL Guardar]**.
+1. Escriba **[!UICONTROL Nombre de usuario]**, **[!UICONTROL Contraseña]** y **[!UICONTROL URL]** de CRM y, a continuación, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
-   >* El Nombre de usuario en Marketo debe coincidir con el Nombre de usuario para el usuario de sincronización en CRM. El formato puede ser `user@domain.com` o DOMAIN\user.
-   >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* El [!UICONTROL nombre de usuario] de Marketo debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser `user@domain.com` o DOMAIN\user.
+   >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Seleccionar campos para sincronización {#select-fields-to-sync}
 
 Ahora necesitamos seleccionar los campos sobre los que queremos sincronizar.
 
-1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Seleccionar campos para sincronizar]**.
+1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Paso 2: Seleccionar campos para sincronizar]**.
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -69,7 +69,7 @@ Ahora necesitamos seleccionar los campos sobre los que queremos sincronizar.
 
    >[!NOTE]
    >
-   >Marketo almacena una referencia a los campos que se van a sincronizar. Si elimina un campo en Dynamics, se recomienda hacerlo con la [sincronización deshabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. A continuación, actualice el esquema en Marketo editando y guardando [Seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+   >Marketo almacena una referencia a los campos que se van a sincronizar. Si elimina un campo de [!DNL Dynamics], se recomienda hacerlo con la [sincronización deshabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). A continuación, actualice el esquema en Marketo editando y guardando [Seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sincronizar campos para un filtro personalizado {#sync-fields-for-a-custom-filter}
 
@@ -79,7 +79,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Haz clic en **[!UICONTROL Editar]** en Detalles de sincronización de campos.
+1. Haz clic en **[!UICONTROL Editar]** en [!UICONTROL Detalles de sincronización de campos].
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,13 +89,13 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ## Habilitar sincronización {#enable-sync}
 
-1. Haz clic en **[!UICONTROL Editar]** en **[!UICONTROL Habilitar sincronización]**.
+1. Haga clic en **[!UICONTROL Editar]** en **[!UICONTROL Paso 3: Habilitar sincronización]**.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
    >[!CAUTION]
    >
-   >Marketo no desduplicará automáticamente una sincronización de Microsoft Dynamics o cuando introduzca manualmente personas o posibles clientes.
+   >Marketo no desduplicará automáticamente una sincronización de [!DNL Microsoft Dynamics] ni cuando se introduzcan manualmente personas o posibles clientes.
 
 1. Lee todo en la ventana emergente, escribe tu correo electrónico y haz clic en **[!UICONTROL Iniciar sincronización]**.
 

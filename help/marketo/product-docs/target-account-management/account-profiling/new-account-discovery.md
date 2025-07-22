@@ -4,9 +4,9 @@ description: Descubrimiento de nuevas cuentas - Documentos de Marketo - Document
 title: Descubrimiento de nuevas cuentas
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -27,27 +27,27 @@ La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las 
 >
 >Se recomienda presionar el botón **Actualizar cuentas existentes** antes de realizar una búsqueda de cuentas nuevas para asegurarse de que está viendo los datos más recientes. Esta actualización puede tardar hasta 24 horas.
 
-1. En Mi Marketo, haga clic en **Administración de cuentas de Target**.
+1. En Mi Marketo, haga clic en **[!UICONTROL Administración de cuentas de Target]**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Haga clic en la ficha **Perfil de cuenta**.
+1. Haga clic en la ficha **[!UICONTROL Perfil de cuenta]**.
 
    ![](assets/two-2.png)
 
-1. Haga clic en la ficha **Nuevas cuentas**.
+1. Haga clic en la ficha **[!UICONTROL Nuevas cuentas]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Nuevas cuentas muestra una lista de cuentas que aún no son suyas en TAM. Son cuentas que pueden ser nuevas para usted en función de los filtros que seleccione.
+   >[!UICONTROL Nuevas cuentas] muestra una lista de cuentas que aún no son suyas en TAM. Son cuentas que pueden ser nuevas para usted en función de los filtros que seleccione.
 
 1. Seleccione todos los filtros aplicables (esta parte es altamente personalizable, el siguiente es solo un ejemplo para demostrar el filtrado).
 
    ![](assets/four-1.png)
 
-1. Haga clic en **Guardar todo y crear lista** en la parte inferior derecha de la página.
+1. Haga clic en **[!UICONTROL Guardar todo y crear lista]** en la parte inferior derecha de la página.
 
    ![](assets/five-1.png)
 
@@ -61,9 +61,9 @@ La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las 
 
    >[!NOTE]
    >
-   >Para guardarlo en una lista de cuentas existente, seleccione esa opción, haga clic en la lista desplegable, seleccione la lista de cuentas que desee y haga clic en **Siguiente**.
+   >Para guardarlo en una lista de cuentas existente, seleccione esa opción, haga clic en la lista desplegable, seleccione la lista de cuentas que desee y haga clic en **[!UICONTROL Siguiente]**.
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/seven-1.png)
 
@@ -71,10 +71,10 @@ La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las 
    >
    >Solo puede guardar hasta 5000 cuentas a la vez. Si la búsqueda arroja 10 000 resultados, debe guardar los primeros 5000 (principales), restablecer los filtros y guardar los 5000 siguientes. El límite de la cuenta **total** es de un millón.
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Una vez guardadas las cuentas, puede usar una audiencia [coincidente en LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para segmentarlas.
+   >Una vez guardadas las cuentas, puede usar una audiencia [coincidente en [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para segmentarlas.

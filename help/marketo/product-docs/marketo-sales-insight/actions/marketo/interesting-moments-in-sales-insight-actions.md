@@ -1,18 +1,18 @@
 ---
-description: Momentos interesantes en las acciones de información de ventas - Documentos de Marketo - Documentación del producto
-title: Momentos interesantes en acciones de información de ventas
+description: Momentos interesantes en las acciones de ventas de Insight - Documentos de Marketo - Documentación del producto
+title: Momentos interesantes en las acciones de Insight de ventas
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Momentos interesantes en acciones de información de ventas {#interesting-moments-in-sales-insight-actions}
+# Momentos interesantes en [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
-Los momentos interesantes son la clave para comunicarse con su equipo de ventas a través de las acciones de información de ventas de Marketo.
+Momentos interesantes son la clave para comunicarse con su equipo de ventas a través de [!DNL Marketo Sales Insight Actions].
 
 ## ¿Qué es un momento interesante? {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Arrastre sobre el paso de flujo **Momentos interesantes**.
+1. Arrastre sobre el paso de flujo **[!UICONTROL Momentos interesantes]**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,13 +36,13 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Escriba un mensaje a su equipo de ventas en el campo **Descripción** que explique por qué es importante esta acción.
+1. Escriba un mensaje a su equipo de ventas en el campo **[!UICONTROL Descripción]** que explique por qué es importante esta acción.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >Marketo SOAP también añadirá la fecha en la que se produjo y cómo se añadió el momento interesante (es decir, acción de posible cliente > paso de flujo, API de).
+   >Marketo también añadirá la fecha en la que se produjo y cómo se añadió el momento interesante (es decir, acción de posible cliente > paso de flujo, API de SOAP).
 
 ## ¿Qué aspecto tiene un momento interesante en Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
@@ -50,8 +50,8 @@ Se mostrarán momentos interesantes en el [registro de actividades del posible c
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## ¿Qué aspecto tiene un momento interesante en las acciones de información de ventas? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## ¿Qué aspecto tiene un momento interesante en [!DNL Sales Insight Actions]? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-Los momentos interesantes se mostrarán en tiempo real en el Live Feed de un usuario. Utilizamos el ID del propietario del posible cliente en Salesforce para mostrar los momentos interesantes de los usuarios de posibles clientes relevantes de los que son propietarios. Los usuarios pueden realizar un seguimiento rápido con los posibles clientes a través del correo electrónico, el teléfono o la campaña de ventas haciendo clic en la lista desplegable situada junto al nombre del posible cliente.
+Los momentos interesantes se mostrarán en tiempo real en el Live Feed de un usuario. Utilizamos el identificador de propietario del posible cliente de [!DNL Salesforce] para mostrar los momentos interesantes de los usuarios de posibles clientes relevantes de los que son propietarios. Los usuarios pueden realizar un seguimiento rápido con los posibles clientes a través del correo electrónico, el teléfono o la campaña de ventas haciendo clic en la lista desplegable situada junto al nombre del posible cliente.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

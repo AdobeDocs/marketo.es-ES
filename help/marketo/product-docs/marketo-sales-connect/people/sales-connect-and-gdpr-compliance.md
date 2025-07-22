@@ -4,14 +4,14 @@ description: Conformidad con Sales Connect y el RGPD - Documentos de Marketo - D
 title: Conexión de ventas y cumplimiento del RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1386'
-ht-degree: 10%
+source-wordcount: '1355'
+ht-degree: 8%
 
 ---
 
-# Conexión de ventas y cumplimiento del RGPD {#sales-connect-and-gdpr-compliance}
+# [!DNL Sales Connect] y el cumplimiento del RGPD {#sales-connect-and-gdpr-compliance}
 
 El Reglamento General de Protección de Datos (RGPD) es la legislación de la Unión Europea que entró en vigor el 25 de mayo de 2018.
 
@@ -42,21 +42,21 @@ La forma en que los especialistas en marketing afrontan estas mayores expectativ
 
 Existen dos aspectos clave del RGPD en los que los especialistas en marketing deben revisar las prácticas pasadas, actuales y futuras. El primero es el consentimiento de la persona para procesar sus datos personales, y el segundo es la responsabilidad, a saber, poder demostrar cómo se siguen los principios del RGPD.
 
-Proporcionamos amplia información sobre el consentimiento y la responsabilidad dentro de la plataforma Marketo en nuestro libro electrónico, [RGPD y The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Sin embargo, en este artículo nos centraremos específicamente en las nuevas funciones de Marketo Sales Connect que ayudarán a su organización a adherirse a las reglas del RGPD.
+Proporcionamos amplia información sobre el consentimiento y la responsabilidad dentro de la plataforma Marketo en nuestro libro electrónico, [RGPD y The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Sin embargo, en este artículo nos centraremos específicamente en las nuevas características de [!DNL Marketo Sales Connect] que ayudarán a su organización a adherirse a las reglas del RGPD.
 
-## Cumplimiento del RGPD en Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
+## Cumplimiento del RGPD en [!DNL Marketo Sales Connect] {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect es una potente aplicación, parte de Marketo Engagement Platform, que proporciona un flujo de trabajo y una vista únicos para que las ventas y el marketing impulsen colectivamente la canalización más rápido mediante la participación colaborativa. La nueva funcionalidad de Marketo Sales Connect se ha creado específicamente teniendo en cuenta el cumplimiento del RGPD. Describiremos las tres funciones y explicaremos cómo, cuando se utilicen correctamente, ayudarán a los esfuerzos de cumplimiento del RGPD de su organización.
+[!DNL Marketo Sales Connect] es una potente aplicación, parte de [!DNL Marketo Engagement Platform], que proporciona un único flujo de trabajo y vista para que las ventas y el marketing impulsen colectivamente una canalización más rápida mediante la participación colaborativa. Se ha creado nueva funcionalidad en [!DNL Marketo Sales Connect] específicamente con el cumplimiento del RGPD en mente. Describiremos las tres funciones y explicaremos cómo, cuando se utilicen correctamente, ayudarán a los esfuerzos de cumplimiento del RGPD de su organización.
 
 ## Tarjeta de cumplimiento {#compliance-card}
 
-Marketo Sales Connect incluye una tarjeta de conformidad en la vista de detalles de la persona para proporcionar información clave sobre el tipo de autorización de un contacto, así como su tipo de Source. Esto permite a los usuarios añadir y rastrear fácilmente la información crítica para la privacidad de los datos y les ayuda a tomar decisiones más informadas sobre la estrategia de campaña/alcance.
+[!DNL Marketo Sales Connect] incluye una tarjeta de cumplimiento en la vista de detalles de la persona para proporcionar información clave sobre el tipo de autorización de un contacto, así como su tipo de Source. Esto permite a los usuarios añadir y rastrear fácilmente la información crítica para la privacidad de los datos y les ayuda a tomar decisiones más informadas sobre la estrategia de campaña/alcance.
 
 ![](assets/1.png)
 
 Tipo de autorización de contacto
 
-Dentro de la tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento de la base legal para procesar los datos personales de un contacto a través de la lista desplegable Autorización. Comprender el tipo de autorización de un contacto ayuda a los usuarios de Marketo Sales Connect a tomar decisiones más informadas sobre las prácticas de divulgación, lo que garantiza que cada campaña o participación sea legal y adecuada.
+Dentro de la tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento de la base legal para procesar los datos personales de un contacto a través de la lista desplegable Autorización. Entender el tipo de autorización de un contacto ayuda a [!DNL Marketo Sales Connect] usuarios a tomar decisiones más informadas con respecto a las prácticas de divulgación, lo que garantiza que cada campaña o participación sea legal y apropiada.
 
 Los usuarios tienen numerosas opciones para elegir, entre las que se incluyen:
 
@@ -70,37 +70,37 @@ Los usuarios tienen numerosas opciones para elegir, entre las que se incluyen:
 
 Tipo de Source de contacto
 
-En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento del origen de un contacto. El tipo de Source define la procedencia de la información de un contacto cuando se cargó inicialmente en Marketo Sales Connect. Comprender el tipo de fuente de un contacto también ayuda a tomar decisiones sobre las prácticas de divulgación, así como a determinar qué otros sistemas o ubicaciones se almacenan los datos personales, lo que garantiza que cada participación esté en línea con la legislación del RGPD.
+En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento del origen de un contacto. El tipo de Source define la procedencia de la información de un contacto cuando se cargó inicialmente en [!DNL Marketo Sales Connect]. Comprender el tipo de fuente de un contacto también ayuda a tomar decisiones sobre las prácticas de divulgación, así como a determinar qué otros sistemas o ubicaciones se almacenan los datos personales, lo que garantiza que cada participación esté en línea con la legislación del RGPD.
 
 De nuevo, los usuarios tienen varias opciones desplegables para elegir, entre ellas:
 
 * Sincronización de CRM
 * Importar
 * Carga manual
-* Extensión de Chrome
+* Extensión de [!DNL Chrome]
 * Otro
 
 Edición de la tarjeta de cumplimiento
 
-Cuando se abra la Vista de detalles de la persona, haga clic en **Editar** en la tarjeta de cumplimiento.
+Cuando se abra la Vista de detalles de la persona, haga clic en **[!UICONTROL Editar]** en la tarjeta de cumplimiento.
 
 ![](assets/four.png)
 
-Verá dos menús desplegables: Tipo de autorización y Tipo de Source.
+Verá dos menús desplegables: [!UICONTROL Tipo de autorización] y [!UICONTROL Tipo de Source].
 
 ![](assets/5.png)
 
-Si elige &quot;Consentimiento&quot; como tipo de autorización, aparecen dos campos obligatorios: &quot;Fecha de consentimiento&quot; y &quot;Propósito del procesamiento&quot;. Estos dos campos no son aplicables a otras opciones.
+Si elige &quot;[!UICONTROL Consentimiento]&quot; como [!UICONTROL Tipo de autorización], aparecerán dos campos obligatorios: &quot;[!UICONTROL Fecha de consentimiento]&quot; y &quot;[!UICONTROL Propósito del procesamiento]&quot;. Estos dos campos no son aplicables a otras opciones.
 
 ![](assets/6.png)
 
-Si se elige &quot;Otro&quot; para el tipo de autorización o el tipo de Source, se puede introducir texto para describir el tipo de Source.
+Si se elige &quot;[!UICONTROL Other]&quot; para [!UICONTROL Authorization Type] o [!UICONTROL Source Type], puede escribir texto para describir el Source Type.
 
 ![](assets/7.png)
 
-Acciones masivas** Marketo Sales Connect también permite actualizar de forma masiva los tipos Autorización y Source de un contacto, lo que ahorra un tiempo valioso en el proceso de conformidad.
+Acciones masivas** [!DNL Marketo Sales Connect] también permite actualizar los tipos de autorización y Source de un contacto de forma masiva, lo que ahorra un tiempo valioso en el proceso de conformidad.
 
-Al seleccionar uno o varios contactos de la página Personas, los botones Autorización y Source aparecen en el contenedor superior. Con estos botones, puede establecer la Autorización o el Source de varios contactos simultáneamente.
+Cuando selecciona uno o más contactos de la página [!UICONTROL Personas], los botones Autorización y Source aparecen en el contenedor superior. Con estos botones, puede establecer la Autorización o el Source de varios contactos simultáneamente.
 
 ![](assets/eight.jpg)
 
@@ -120,7 +120,7 @@ Después de seleccionar el Tipo de Source correcto para los contactos selecciona
 
 ![](assets/12.png)
 
-## Exportación De Datos De Contacto Desde Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exportando datos de contacto de [!DNL Marketo Sales Connect] {#exporting-contact-data-from-marketo-sales-connect}
 
 Puede exportar la información de contacto desde la Vista de detalles de la persona. La exportación descargará un archivo .CSV con las siguientes columnas:
 
@@ -132,33 +132,33 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Nombre</td> 
-   <td>Sitio web</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL Nombre]</td> 
+   <td>[!UICONTROL Sitio web]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Apellido</td> 
-   <td>Otro</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Apellidos]</td> 
+   <td>[!UICONTROL Other]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Compañía</td> 
-   <td>Actualizado en</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Company]</td> 
+   <td>[!UICONTROL Actualizado En]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Título</td> 
-   <td>Creado en</td> 
-   <td>Exportado en</td> 
+   <td>[!UICONTROL Título]</td> 
+   <td>[!UICONTROL Creado En]</td> 
+   <td>[!UICONTROL Exportado En]</td> 
   </tr> 
   <tr> 
-   <td>Identificación de email</td> 
-   <td>Identificación de Salesforce</td> 
+   <td>[!UICONTROL ID de correo electrónico]</td> 
+   <td>[!UICONTROL Salesforce ID]</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Número de teléfono</td> 
-   <td>Identificación de la persona</td> 
+   <td>[!UICONTROL Número de teléfono]</td> 
+   <td>[!UICONTROL ID de persona]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -168,20 +168,20 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
 >
 >Esto solo se puede hacer con un contacto a la vez. Actualmente no hay ninguna funcionalidad que permita exportaciones masivas de contactos.
 
-Para exportar la información de contacto, haz clic en los tres puntos verticales del encabezado de la vista de detalles de la persona y selecciona **Exportar**. El archivo .CSV se descargará automáticamente.
+Para exportar la información de contacto, haz clic en los tres puntos verticales del encabezado de la vista de detalles de la persona y selecciona **[!UICONTROL Exportar]**. El archivo .CSV se descargará automáticamente.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->El RGPD también requiere la posibilidad de eliminar contactos de la interfaz de usuario, pero Marketo Sales Connect ya posee esta funcionalidad.
+>El RGPD también requiere la capacidad de eliminar contactos de la interfaz de usuario, pero [!DNL Marketo Sales Connect] ya posee esta funcionalidad.
 
 ## Cancela suscripción {#unsubscribes}
 
-Un área del RGPD comúnmente malentendida incluye contactos que cancelan la suscripción a la base de datos de la organización. Para cumplir con las nuevas reglas de protección de los datos de aquellos que deciden cancelar la suscripción, se ha incluido la siguiente funcionalidad en Marketo Sales Connect:
+Un área del RGPD comúnmente malentendida incluye contactos que cancelan la suscripción a la base de datos de la organización. Para adherirse a las nuevas reglas de protección de los datos de los que deciden cancelar la suscripción, se ha incluido la siguiente funcionalidad en [!DNL Marketo Sales Connect]:
 
-**Vínculos de cancelación de suscripción:** Los vínculos de cancelación de suscripción se adjuntarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web de Sales Connect para garantizar que los contactos disponen de un método accesible de exclusión.\
-**Anular la suscripción a la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM (Salesforce) para asegurarse de que las exclusiones estén actualizadas.\
+**Vínculos de cancelación de suscripción:** Los vínculos de cancelación de suscripción se adjuntarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web [!DNL Sales Connect] para garantizar que los contactos tengan acceso a la opción de exclusión.\
+**Cancelar la suscripción a la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM ([!DNL Salesforce]) para asegurarse de que las exclusiones estén actualizadas.\
 **Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las inclusiones históricas en la vista de detalles de la persona.\
 **Quitar la suscripción:** Si se vuelve a suscribir un contacto, se requiere que el usuario tenga privilegios de administrador y que demuestre que el contacto ha dado un nuevo consentimiento para ponerse en contacto con él.
 

@@ -3,7 +3,7 @@ description: Razones de llamada - Documentos de Marketo - Documentación del pro
 title: Razones de llamada
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
 ## Habilitar motivos de llamada {#enable-call-reasons}
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/call-reasons-1.png)
 
-1. En Configuración de administración, seleccione **Marcador**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Marcador]**.
 
    ![](assets/call-reasons-2.png)
 
-1. Seleccione **Habilitar motivos de llamada**.
+1. Seleccione **[!UICONTROL Habilitar motivos de llamada]**.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 >
 >Puede crear un máximo de 15 motivos de llamada.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/call-reasons-5.png)
 
-1. En Configuración de administración, seleccione **Marcador**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Marcador]**.
 
    ![](assets/call-reasons-6.png)
 
-1. Haga clic en **Administrar motivos de llamada**.
+1. Haga clic en **[!UICONTROL Administrar motivos de llamada]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Escriba el nombre del motivo de la llamada deseado en el campo de texto y haga clic en **Agregar**.
+1. Escriba el nombre del motivo de la llamada deseado en el campo de texto y haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Una vez habilitados los motivos de llamada. Los usuarios pueden seleccionar una 
 
    ![](assets/call-reasons-9.png)
 
-1. Escriba la información de la llamada en el marcador y haga clic en **Llamar**.
+1. Escriba la información de la llamada en el marcador y haga clic en **[!UICONTROL Llamar]**.
 
    ![](assets/call-reasons-10.png)
 

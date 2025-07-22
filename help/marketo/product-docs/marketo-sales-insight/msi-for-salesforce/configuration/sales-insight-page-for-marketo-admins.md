@@ -1,44 +1,44 @@
 ---
 unique-page-id: 42762409
-description: Página de perspectiva de ventas para administradores de Marketo - Documentos de Marketo - Documentación del producto
-title: Página de perspectiva de ventas para administradores de Marketo
+description: Página de Insight de ventas para administradores de Marketo - Documentos de Marketo - Documentación del producto
+title: Página de Insight de ventas para administradores de Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 1%
+source-wordcount: '404'
+ht-degree: 0%
 
 ---
 
-# Página de perspectiva de ventas para administradores de Marketo {#sales-insight-page-for-marketo-admins}
+# [!DNL Sales Insight] página para administradores de Marketo {#sales-insight-page-for-marketo-admins}
 
-Los administradores de Marketo tienen ciertos privilegios en Sales Insight. Descubra cuáles son a continuación.
+Los administradores de Marketo tienen ciertos privilegios en [!DNL Sales Insight]. Descubra cuáles son a continuación.
 
 ## Configuración de API de SOAP {#soap-api-configuration}
 
-Estas credenciales se utilizan para conectar su cuenta de Salesforce a la instancia de Marketo para utilizar MSI en Salesforce.
+Estas credenciales se usan para conectar su cuenta de [!DNL Salesforce] a su instancia de Marketo para usar MSI en [!DNL Salesforce].
 
 ![](assets/one-1.png)
 
 ## Configuración de API de REST {#rest-api-configuration}
 
-Estas credenciales se utilizan para conectar su cuenta de Salesforce a la instancia de Marketo, para utilizar el panel de información de MSI en Salesforce.
+Estas credenciales se usan para conectar su cuenta de [!DNL Salesforce] a su instancia de Marketo, con el fin de usar el panel de información de MSI en [!DNL Salesforce].
 
 ![](assets/two-1.png)
 
 ## Configuración de puntuación de persona {#person-score-settings}
 
-* **Estrellas**: Las estrellas representan la puntuación total del posible cliente en comparación con otros posibles clientes.
-* **Llamas**: Las llamas representan urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
+* **[!UICONTROL Estrellas]**: Las estrellas representan la puntuación total del posible cliente en comparación con otros posibles clientes.
+* **[!UICONTROL Llamas]**: Las llamas representan urgencia, cuánto ha cambiado recientemente la puntuación de un posible cliente.
 
-De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de posibles clientes para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
+De manera predeterminada, [!DNL Marketo Sales Insight] usa el campo Puntuación de posibles clientes para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
 
-1. En el área de **Administrador** de Marketo, haga clic en **Información de ventas**.
+1. En el área **[!UICONTROL Administrador]** de Marketo, haga clic en **[!UICONTROL Insight de ventas]**.
 
    ![](assets/four.png)
 
-1. En Configuración de puntuación de posibles clientes, haga clic en **Editar**.
+1. En [!UICONTROL Configuración de puntuación de posibles clientes], haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
    ![](assets/seven.png)
 
-1. Haga clic en **Guardar**. La perspectiva de ventas tardará un tiempo en volver a calcularse. Puede comprobar su CRM más tarde para ver las estrellas y las llamas.
+1. Haga clic en **[!UICONTROL Guardar]**. Sales insight tardará algún tiempo en volver a calcular. Puede comprobar su CRM más tarde para ver las estrellas y las llamas.
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
 **Configuración de cancelación de suscripción:**
 
-Puede elegir entre las siguientes configuraciones para cancelar la suscripción a Sin plantilla, Correos electrónicos estándar y Correos electrónicos operativos
+Puede elegir la siguiente configuración para cancelar la suscripción a [!UICONTROL Sin plantilla], [!UICONTROL correos electrónicos estándar] y [!UICONTROL correos electrónicos operativos]
 
-* Respetar configuración de cancelación de suscripción
-* Respetar la configuración de cancelación de suscripción cuando más de un destinatario
-* Respetar la configuración de cancelación de suscripción cuando más de 5 destinatarios
-* Ignorar la configuración de la cancelación de suscripción
+* [!UICONTROL Respetar configuración de cancelación de suscripción]
+* [!UICONTROL Respetar configuración de cancelación de suscripción cuando más de 1 destinatario]
+* [!UICONTROL Respetar la configuración de cancelación de suscripción cuando más de 5 destinatarios]
+* [!UICONTROL Omitir configuración de cancelación de suscripción]
 
 **Habilitar la capacidad para bloquear plantillas:**
 
-Cuando se habilita, los usuarios de MSI no podrán editar las plantillas al enviar correos electrónicos desde Salesforce
+Cuando se habilita, los usuarios de MSI no podrán editar las plantillas al enviar correos electrónicos desde [!DNL Salesforce]
 
 **Habilitar fuente RSS:**
 
-Cuando se habilita, los usuarios de MSI pueden ver su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes de Salesforce). La fuente RSS solo puede funcionar si la función &quot;Caducidad del token&quot; está desactivada.
+Cuando está habilitada, los usuarios de MSI pueden ver su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes de [!DNL Salesforce]). La fuente RSS solo puede funcionar si la característica &quot;[!UICONTROL Caducidad del token]&quot; está deshabilitada.
 
 **Caducidad del token:**
 

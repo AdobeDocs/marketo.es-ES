@@ -4,9 +4,9 @@ description: Cargar imágenes y archivos desde Box - Documentos de Marketo - Doc
 title: Cargar imágenes y archivos desde Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y correos electrónicos.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Ir a **Imágenes y archivos**. Haga clic en **Acciones de archivo** y seleccione **Capturar imágenes de la web**.
+1. Ir a **[!UICONTROL Imágenes y archivos]**. Haga clic en **[!UICONTROL Acciones de archivo]** y seleccione **[!UICONTROL Capturar imágenes de la web]**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Haga clic en **Cuadro**.
+1. Haga clic en **[!UICONTROL Cuadro]**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
-1. Introduzca su inicio de sesión en Box.
+1. Escriba su inicio de sesión de [!DNL Box].
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. Permitir que Marketo acceda a su cuenta de Box.
+1. Permitir que Marketo acceda a su cuenta de [!DNL Box].
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **Box** desde la que desee realizar la carga. Haga clic en **Siguiente**.
+1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **[!DNL Box]** desde la cual desee realizar la carga. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Seleccione los archivos que desee cargar. Haga clic en **Importar**.
+1. Seleccione los archivos que desee cargar. Haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

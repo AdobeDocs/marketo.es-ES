@@ -4,16 +4,16 @@ description: Establecer apellidos y nombre de empresa de la persona predetermina
 title: Establecer apellidos de persona y nombre de compañía predeterminados
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Establecer apellidos de persona y nombre de compañía predeterminados {#set-default-person-last-name-and-company-name}
 
-Salesforce requiere (como mínimo) apellidos y nombre de compañía para sus posibles clientes y contactos. Los registros incompletos no se sincronizarán con Salesforce. Si desea sincronizar registros parciales, debe establecer los valores predeterminados que Marketo utilizará con Salesforce.
+[!DNL Salesforce] requiere (como mínimo) apellidos y nombre de compañía para sus posibles clientes y contactos. Los registros incompletos no se sincronizarán con [!DNL Salesforce]. Si desea sincronizar registros parciales, debe establecer los valores predeterminados que Marketo usará con [!DNL Salesforce].
 
 1. Vaya a **[!UICONTROL Admin]** y haga clic en **[!DNL Salesforce]**.
 

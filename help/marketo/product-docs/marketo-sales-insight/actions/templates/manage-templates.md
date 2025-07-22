@@ -3,7 +3,7 @@ description: 'Administrar plantillas: documentos de Marketo, documentación del 
 title: Administrar plantillas
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 1%
@@ -14,25 +14,25 @@ ht-degree: 1%
 
 ## Crear una plantilla {#create-a-new-template}
 
-1. Vaya a la ficha **Plantillas**.
+1. Vaya a la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-templates-1.png)
 
-1. Haga clic en **Crear plantilla**.
+1. Haga clic en **[!UICONTROL Crear plantilla]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Elige un **Nombre** y una **Categoría** para tu plantilla de correo electrónico y luego haz clic en **Crear**.
+1. Elige un **[!UICONTROL Nombre]** y una **[!UICONTROL Categoría]** para tu plantilla de correo electrónico y luego haz clic en **[!UICONTROL Crear]**.
 
    ![](assets/manage-templates-3.png)
 
-1. En el editor de plantillas, cree una línea de asunto para el correo electrónico y escriba el mensaje deseado. Utilice las herramientas de edición (fuente, tamaño de texto, etc.) para personalizar el aspecto. Haga clic en **Guardar** para finalizar los cambios.
+1. En el editor de plantillas, cree una línea de asunto para el correo electrónico y escriba el mensaje deseado. Utilice las herramientas de edición (fuente, tamaño del texto, etc.) para personalizar el aspecto. Haga clic en **[!UICONTROL Guardar]** para finalizar los cambios.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Escriba siempre texto directamente en la plantilla o cópielo desde un editor de texto sin formato (por ejemplo, Bloc de notas o TextEdit). Copiar y pegar desde un editor de texto enriquecido (por ejemplo, MS Word) puede causar irregularidades en el formato.
+>Escriba siempre texto directamente en la plantilla o cópielo desde un editor de texto sin formato (por ejemplo, [!DNL Notepad] o [!DNL TextEdit]). Copiar y pegar desde un editor de texto enriquecido (por ejemplo, MS [!DNL Word]) puede causar irregularidades en el formato.
 
 ## Ver detalles de la plantilla {#view-template-details}
 
@@ -42,7 +42,7 @@ El área Detalles de plantilla contiene varias pestañas.
 
 <table>
  <tr>
-  <td><strong>Plantilla</strong></td>
+  <td><strong>[!UICONTROL Template]</strong></td>
   <td>Revise y realice ediciones, configure criterios para que la plantilla sea una plantilla recomendada y añada notas</td>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ El área Detalles de plantilla contiene varias pestañas.
   <td>Revise los análisis de participación para la plantilla. Realice una búsqueda filtrada.</td>
  </tr>
  <tr>
-  <td><strong>Emails</strong></td>
+  <td><strong>[!UICONTROL Correos electrónicos]</strong></td>
   <td>Ver todos los correos electrónicos enviados con esta plantilla. Realice una búsqueda filtrada.</td>
  </tr>
  <tr>
-  <td><strong>Campañas</strong></td>
+  <td><strong>[!UICONTROL Campañas]</strong></td>
   <td>Ver en qué campañas se utiliza la plantilla.</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ El área Detalles de plantilla contiene varias pestañas.
 
 Si utiliza una de las cuentas de equipo, todas las plantillas seguirán siendo privadas de forma predeterminada.
 
-1. Vaya a la ficha **Plantillas**.
+1. Vaya a la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Si utiliza una de las cuentas de equipo, todas las plantillas seguirán siendo p
 
    ![](assets/manage-templates-6.png)
 
-1. Haga clic en el botón **Compartir**.
+1. Haga clic en el botón **[!UICONTROL Compartir]**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Las plantillas que se compartieron con usted se mostrarán en el encabezado **Plantillas de equipo** que se encuentra en la parte izquierda de la página Plantillas. Los equipos solo están disponibles para usuarios de Premium.
+   >Las plantillas que se hayan compartido con usted se mostrarán en el encabezado **[!UICONTROL Plantillas de equipo]**, en la parte izquierda de la página [!UICONTROL Plantillas]. Los equipos solo están disponibles para usuarios de Premium.
 
-1. Haga clic en el menú desplegable Compartir con y seleccione los equipos con los que desea compartir.
+1. Haga clic en el menú desplegable [!UICONTROL Compartir con] y seleccione los equipos con los que desea compartir.
 
    ![](assets/manage-templates-8.png)
 
-1. Tiene la opción de mantener la plantilla en la categoría actual o moverla a otra diferente. En este ejemplo lo mantenemos en el actual. Haga clic en **Compartir** cuando haya terminado.
+1. Tiene la opción de mantener la plantilla en la categoría actual o moverla a otra diferente. En este ejemplo lo mantenemos en el actual. Haga clic en **[!UICONTROL Compartir]** cuando haya terminado.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Si utiliza una de las cuentas de equipo, todas las plantillas seguirán siendo p
 
 Puede agregar plantillas de cualquier categoría a la lista Favoritos. Esto genera automáticamente una nueva categoría en la parte superior de la lista para que pueda acceder rápidamente a las plantillas que más utiliza.
 
-1. Vaya a la ficha **Plantillas**.
+1. Vaya a la ficha **[!UICONTROL Plantillas]**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Puede agregar plantillas de cualquier categoría a la lista Favoritos. Esto gene
 
 ## Personalizar vista de plantilla {#customize-template-view}
 
-En el menú desplegable **Ver**, puedes elegir ver: todas las plantillas, tus plantillas, tus plantillas favoritas, las plantillas compartidas, las no compartidas o las no utilizadas (las plantillas que no se han usado en los últimos 90 días).
+En el menú desplegable **[!UICONTROL Ver]**, puedes elegir ver: todas las plantillas, tus plantillas, tus plantillas favoritas, las plantillas compartidas, las no compartidas o las no utilizadas (las plantillas que no se han usado en los últimos 90 días).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Archive las plantillas para mantener el contenido de ventas organizado y centrad
 
    ![](assets/manage-templates-14.png)
 
-1. Haga clic en **Archivo**.
+1. Haga clic en **[!UICONTROL Archivo]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Haga clic en **Archivo** para confirmar.
+1. Haga clic en **[!UICONTROL Archivo]** para confirmar.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Siga los pasos a continuación para eliminar una plantilla.
 
    ![](assets/manage-templates-17.png)
 
-1. Haga clic en **Eliminar**.
+1. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/manage-templates-19.png)

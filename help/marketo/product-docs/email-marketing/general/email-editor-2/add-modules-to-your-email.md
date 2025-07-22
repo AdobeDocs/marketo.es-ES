@@ -4,16 +4,16 @@ description: 'Añadir módulos al correo electrónico: documentos de Marketo, do
 title: Añadir módulos al correo electrónico
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Añadir módulos al correo electrónico {#add-modules-to-your-email}
 
-En el Editor de correo electrónico 2.0, un módulo es una sección del correo electrónico que se define en la plantilla. Los módulos pueden contener cualquier combinación de elementos, variables y otro contenido de HTML. Añadirlos al correo electrónico es fácil.
+En [!DNL Email Editor 2.0], un módulo es una sección del correo electrónico que se define en la plantilla. Los módulos pueden contener cualquier combinación de elementos, variables y otro contenido de HTML. Añadirlos al correo electrónico es fácil.
 
 1. Cree un correo electrónico. Asegúrese de elegir (o crear) una plantilla que contenga módulos.
 
@@ -21,9 +21,9 @@ En el Editor de correo electrónico 2.0, un módulo es una sección del correo e
 
    >[!NOTE]
    >
-   >La mayoría de las plantillas iniciales de Marketo contienen módulos. También puede [crear su propio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La mayoría de las [!UICONTROL plantillas iniciales] de Marketo contienen [!UICONTROL módulos]. También puede [crear su propio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. En el extremo derecho del correo electrónico, haga clic en **Módulos**.
+1. En el extremo derecho del correo electrónico, haga clic en **[!UICONTROL Módulos]**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Existen dos formas de mover un módulo.
 
    ![](assets/nine-2.png)
 
-1. Haga clic en el icono del engranaje y seleccione **Subir** o **Bajar**, dependiendo de adónde desee que vaya el módulo.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Subir]** o **[!UICONTROL Bajar]**, dependiendo de adónde desee que vaya el módulo.
 
    ![](assets/ten-2.png)
 

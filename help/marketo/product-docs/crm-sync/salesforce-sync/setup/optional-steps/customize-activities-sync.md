@@ -4,10 +4,10 @@ description: Personalizar sincronización de actividades - Documentos de Marketo
 title: Personalizar sincronización de actividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 11%
+source-wordcount: '306'
+ht-degree: 0%
 
 ---
 
@@ -48,51 +48,51 @@ Si no utiliza Marketo Sales Insight, Marketo Engage puede crear registros del hi
  </thead> 
  <tbody> 
   <tr> 
-   <td>Formulario completo</td> 
+   <td>[!UICONTROL Formulario rellenado]</td> 
    <td>Rellenó cualquier formulario de Marketo</td> 
   </tr> 
   <tr> 
-   <td>Se agregó a la lista</td> 
+   <td>[!UICONTROL agregado a la lista]</td> 
    <td><p>Paso de flujo: Se ha añadido a una lista estática</p></td> 
   </tr> 
   <tr> 
-   <td>Se envió el email</td> 
+   <td>[!UICONTROL Correo electrónico enviado]</td> 
    <td>Paso de flujo: se envió un correo electrónico</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico entregado</td> 
+   <td>[!UICONTROL Correo electrónico enviado]</td> 
    <td>Se ha recibido un correo electrónico (no devuelto)</td> 
   </tr> 
   <tr> 
-   <td>Se abrió el email</td> 
+   <td>[!UICONTROL Correo electrónico abierto]</td> 
    <td>Apertura de un correo electrónico (sin bloquear imágenes)</td> 
   </tr> 
   <tr> 
-   <td>Hizo clic en el vínculo del email</td> 
+   <td>[!UICONTROL Ha hecho clic en el vínculo del correo electrónico]</td> 
    <td>Se ha hecho clic en un vínculo de un correo electrónico enviado por Marketo</td> 
   </tr> 
   <tr> 
-   <td>Se quitó de Lista</td> 
+   <td>[!UICONTROL Eliminado de la lista]</td> 
    <td>Paso de flujo: se ha eliminado de una lista estática</td> 
   </tr> 
   <tr> 
-   <td>Quitar de Flujo</td> 
+   <td>[!UICONTROL Quitar del flujo]</td> 
    <td>Paso de flujo: Eliminar del flujo</td> 
   </tr> 
   <tr> 
-   <td>Se envió el email de ventas</td> 
+   <td>[!UICONTROL Correo electrónico de ventas enviado]</td> 
    <td>Se ha enviado un correo electrónico a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Se abrió el email de ventas</td> 
+   <td>[!UICONTROL Correo electrónico de ventas abierto]</td> 
    <td>Se ha abierto un correo electrónico enviado mediante Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Haga clic en el vínculo del correo electrónico de ventas</td> 
+   <td>[!UICONTROL Haga clic en el vínculo del correo electrónico de ventas]</td> 
    <td>Se ha hecho clic en un vínculo de un correo electrónico enviado a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Se recibió el email de ventas</td> 
+   <td>[!UICONTROL Correo electrónico de ventas recibido]</td> 
    <td>El representante de ventas recibió y registró un correo electrónico en el complemento MSI Outlook</td> 
   </tr> 
  </tbody> 

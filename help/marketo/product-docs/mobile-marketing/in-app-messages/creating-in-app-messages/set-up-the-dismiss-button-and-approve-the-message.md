@@ -4,7 +4,7 @@ description: 'Configuración del botón Descartar y aprobación del mensaje: doc
 title: Configuración del botón Descartar y aprobación del mensaje
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -49,7 +49,7 @@ El botón Descartar tiene muchas opciones para permitirle configurarlo como dese
 
 Todas las selecciones para los gráficos, el texto y los botones se han guardado automáticamente. Ahora, estás listo para terminar el trabajo.
 
-1. Para obtener una vista previa del mensaje en la aplicación, haga clic en la lista desplegable **Acciones de mensaje** y seleccione **Vista previa**.
+1. Para obtener una vista previa del mensaje en la aplicación, haga clic en la lista desplegable **[!UICONTROL Acciones de mensaje]** y seleccione **[!UICONTROL Vista previa]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Todas las selecciones para los gráficos, el texto y los botones se han guardado
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Si está satisfecho con el mensaje en la aplicación, haga clic en **Aprobar y cerrar**.
+1. Si está satisfecho con el mensaje en la aplicación, haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >También puede seleccionar **Aprobar y cerrar** directamente en la lista desplegable Acciones de mensajes (consulte el paso 1), pero, ¿por qué no obtener una vista previa del mensaje primero para estar seguros?
+   >También puede seleccionar **[!UICONTROL Aprobar y cerrar]** directamente en la lista desplegable de [!UICONTROL Acciones de mensajes] (consulte el paso 1), pero ¿por qué no obtener una vista previa del mensaje primero, solo para estar seguro?
 
 1. Para cerrar el editor sin aprobarlo, simplemente cierre la pestaña. Se guarda automáticamente, por lo que puede volver y aprobarlo más tarde.
 

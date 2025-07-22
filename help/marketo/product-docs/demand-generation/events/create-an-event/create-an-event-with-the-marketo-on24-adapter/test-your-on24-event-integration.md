@@ -4,7 +4,7 @@ description: Prueba de la integración de eventos ON24 - Documentos de Marketo -
 title: Prueba de la integración de eventos ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Asegúrese de probar exhaustivamente la integración de eventos.
 Así se actualizan los datos después de que tenga lugar el evento:
 
 * Marketo recupera los datos de los asistentes de ON24 todas las noches.
-* Una vez que los datos de los asistentes se sincronizan entre Marketo y ON24, Marketo actualiza el estado de pertenencia a Asistencia, Asistencia bajo demanda o Sin presentación. En la ficha **Resumen** del evento, el estado del evento se actualiza a **Evento completado**.
+* Una vez que los datos de los asistentes se sincronizan entre Marketo y ON24, Marketo actualiza el estado de pertenencia a [!UICONTROL Asistido], [!UICONTROL Asistido a petición] o [!UICONTROL Sin presentación]. En la ficha **[!UICONTROL Resumen]** del evento, el estado del evento se actualiza a **[!UICONTROL Evento completado]**.
 
 >[!MORELIKETHIS]
 >

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11377552
-description: Especificar administradores de complementos de perspectivas de ventas de Marketo - Documentos de Marketo - Documentación del producto
-title: Especificar administradores del complemento de Marketo Sales Insight
+description: Especificar administradores de complementos de Marketo [!UICONTROL Sales Insight] - Documentos de Marketo - Documentación del producto
+title: Especificar administradores de complementos de Marketo [!UICONTROL Sales Insight]
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '91'
 ht-degree: 2%
 
 ---
 
-# Especificar administradores del complemento de Marketo Sales Insight {#specify-marketo-sales-insight-plugin-admins}
+# Especificar administradores de complementos de Marketo [!UICONTROL Sales Insight] {#specify-marketo-sales-insight-plugin-admins}
 
-Puede especificar qué contactos desea que aparezcan en el aviso de correo electrónico que envía a los usuarios cuando los invita a configurar MSI en Outlook.
+Puede especificar qué contactos desea que aparezcan en el aviso de correo electrónico que envía a los usuarios cuando los invita a configurar MSI en [!DNL Outlook].
 
-1. En Mi Marketo, haga clic en **Administrador** y, a continuación, en **Perspectiva de ventas**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]** y luego en **[!UICONTROL Insight de ventas]**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Haga clic en la ficha **Complemento de correo electrónico**.
+1. Haga clic en la ficha **[!UICONTROL Complemento de correo electrónico]**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Haga clic en **Especificar contacto del complemento**.
+1. Haga clic en **[!UICONTROL Especificar contacto del complemento]**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Puede especificar qué contactos desea que aparezcan en el aviso de correo elect
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

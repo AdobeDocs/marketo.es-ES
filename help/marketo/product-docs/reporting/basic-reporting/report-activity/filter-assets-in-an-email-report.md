@@ -4,7 +4,7 @@ description: 'Filtrado de Assets en un informe por correo electrónico: document
 title: Filtrado de Assets en un informe por correo electrónico
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Centra tu informe de [Rendimiento del correo electrónico](/help/marketo/product
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el cursor sobre un filtro.
+1. Haga clic en la ficha **[!UICONTROL Configuración]** y arrastre el cursor sobre un filtro.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Correos electrónicos de Design Studio**: Recursos globales, administrados en Design Studio.
-   * **Correos electrónicos de actividades de marketing**: recursos locales en programas en la ficha Actividades de marketing.
+   * **[!UICONTROL Correos electrónicos de Design Studio]**: Recursos globales, administrados en Design Studio.
+   * **[!UICONTROL Correos electrónicos de actividades de marketing]**: recursos locales en programas en la ficha Actividades de marketing.
    * **Correos electrónicos archivados**: Correos electrónicos retirados e inactivos.
 
 1. Elija las carpetas y los correos electrónicos específicos que desea incluir en el informe.
@@ -43,7 +43,7 @@ Centra tu informe de [Rendimiento del correo electrónico](/help/marketo/product
    >
    >Si selecciona una carpeta, el informe incluirá todo lo que la carpeta contenga en el momento en que se ejecute el informe.
 
-1. ¡Ya terminaste! Haga clic en la ficha **Informe** para ver el informe filtrado.
+1. ¡Ya terminaste! Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe filtrado.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

@@ -3,7 +3,7 @@ description: Criterios de audiencia - Documentos de Marketo - Documentación del
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -28,11 +28,11 @@ Los eventos le permiten segmentar visitantes en función de su desplazamiento o 
 
    ![](assets/audience-criteria-3.png)
 
-1. Establezca el tiempo &quot;Mayor que&quot; en 20 segundos.
+1. Establezca el tiempo &quot;[!UICONTROL Mayor que]&quot; en 20 segundos.
 
    ![](assets/audience-criteria-4.png)
 
-1. Agregue la dirección URL de la página deseada en la sección [Target](#target).
+1. Agregue la dirección URL de la página deseada en la sección [[!UICONTROL Target]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Hay _muchas_ combinaciones de atributos para elegir. En el siguiente ejemplo, no
 
    ![](assets/audience-criteria-7.png)
 
-1. _Is_ está establecido de manera predeterminada. En el campo Seleccionar valores, escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. _[!UICONTROL Is]_ está establecido de manera predeterminada. En el campo Seleccionar valores, escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,17 +88,17 @@ Hay una manera fácil de dirigirse específicamente a personas que aún no está
    >
    >Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
 
-1. _Is_ está establecido de manera predeterminada. En el campo Seleccionar valores, escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. _[!UICONTROL Is]_ está establecido de manera predeterminada. En el campo Seleccionar valores, escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
    ![](assets/audience-criteria-15.png)
 
 ## Membresía {#membership}
 
-Utilice listas inteligentes de Marketo Engage para la audiencia de destino del cuadro de diálogo.
+Utilice las listas inteligentes de Marketo Engage para la audiencia de destino del cuadro de diálogo.
 
 >[!AVAILABILITY]
 >
->El miembro de la lista inteligente o de los criterios de miembro de la lista requiere el Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>El miembro de los criterios Smart List o Member of List requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. En Suscripción, coja **[!UICONTROL Miembro de la lista inteligente]** y suéltelo en el lienzo.
 
@@ -129,7 +129,7 @@ Formatos admitidos:
 
 >[!NOTE]
 >
->* El uso de un asterisco actúa como comodín global. Así que `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página de HTML en la carpeta siguiente (por ejemplo: en este caso supongamos que la carpeta es &quot;sports&quot;, por ejemplo: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>* El uso de un asterisco actúa como comodín global. Así que `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página de HTML en la carpeta siguiente (por ejemplo: en este caso supongamos que la carpeta es &quot;sport&quot;, por ejemplo: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 >
 >* Los parámetros de URL no son compatibles en este momento.
 

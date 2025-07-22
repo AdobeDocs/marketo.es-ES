@@ -4,7 +4,7 @@ description: 'Definición de una audiencia mediante la importación de una lista
 title: Definir una audiencia mediante la importación de una lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -25,15 +25,15 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el programa de correo electrónico y, a continuación, haga clic en Importar lista en el mosaico Audiencia.
+1. Seleccione su programa de correo electrónico y haga clic en **[!UICONTROL Importar lista]** en el icono de **[!UICONTROL Audiencia]**.
 
    ![](assets/importlist.png)
 
-1. Se abrirá la ventana de importación de la lista, haz clic en **Examinar** y selecciona el archivo que deseas importar. Una vez seleccionada la lista de personas, haga clic en **Siguiente**.
+1. Se abrirá la ventana de importación de la lista, haz clic en **[!UICONTROL Examinar]** y selecciona el archivo que deseas importar. Una vez seleccionada la lista de personas, haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
    >
    >Asegúrese de que la lista tenga la codificación UTF-8, UTF-16, Shift-JIS o EUC-JP y de que no supere los 50 MB de tamaño de archivo.
 
-1. Compruebe que los campos del archivo estén asignados correctamente y haga clic en **Siguiente**.
+1. Compruebe que los campos del archivo estén asignados correctamente y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
    >
    >Marketo recordará las asignaciones para futuras importaciones.
 
-1. Escriba un **Nombre** para la lista y haga clic en **Importar**.
+1. Escriba un **[!UICONTROL Nombre]** para la lista y haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo.
 >
->Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36-1.png) del mosaico **Audiencia** para ver cuántas personas cumplen los requisitos para recibir el correo electrónico según los criterios de la lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
+>Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36-1.png) del mosaico **[!UICONTROL Audiencia]** para ver cuántas personas cumplen los requisitos para recibir el correo electrónico según los criterios de la lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
 
 >[!TIP]
 >

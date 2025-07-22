@@ -4,7 +4,7 @@ description: 'Cancelar una ejecución de campaña de lotes recurrentes programad
 title: Cancelar una ejecución programada de campaña por lotes recurrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Haga clic en **Programar periodicidad**.
+1. Haga clic en **[!UICONTROL Programar periodicidad]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 

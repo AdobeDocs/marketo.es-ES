@@ -4,7 +4,7 @@ description: Añadir una prueba A/B - Documentos de Marketo - Documentación del
 title: Añadir una prueba A/B
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Las pruebas son una buena manera de optimizar los correos electrónicos para mejorar la participación. A continuación se muestra cómo empezar.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Las pruebas son una buena manera de optimizar los correos electrónicos para mej
 
    ![](assets/selectemailprogram.jpg)
 
-1. En el mosaico **Correo electrónico**, haga clic en **Agregar prueba A/B**.
+1. En el mosaico **[!UICONTROL Correo electrónico]**, haga clic en **[!UICONTROL Agregar prueba A/B]**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

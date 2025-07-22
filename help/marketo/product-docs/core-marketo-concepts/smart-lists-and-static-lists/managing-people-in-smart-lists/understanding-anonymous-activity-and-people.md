@@ -4,20 +4,20 @@ description: Explicación de la actividad anónima y las personas - Documentos d
 title: Explicación de la actividad anónima y las personas
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # Explicación de la actividad anónima y las personas {#understanding-anonymous-activity-and-people}
 
-La primera vez que alguien visite una página de aterrizaje de Marketo (o una página de su sitio web que tenga el [Código de seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo creará una *actividad anónima* y usará una cookie de explorador para rastrearla. Una vez identificada, se convierte en una persona y el historial asociado con la cookie de su explorador se combina con.
+La primera vez que alguien visite una página de aterrizaje de Marketo (o una página de su sitio web que tenga el [Código de seguimiento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo creará una *actividad anónima* y usará una cookie de explorador para realizar el seguimiento. Una vez identificada, se convierte en una persona y el historial asociado con la cookie de su explorador se combina con.
 
 >[!IMPORTANT]
 >
->Al habilitar la función de Beta **Munchkin V2 Anonymous Replay Activity on Known**, se garantiza que las campañas activadas por la promoción anónima de posibles clientes se reproducirán siempre después de que el posible cliente anónimo se combine correctamente en el registro conocido. Como resultado, los campos personalizados modificados por los pasos Cambiar valor de datos en cualquier campaña reproducida se conservarán en el registro conocido.
+>Al habilitar la característica de Beta **[!DNL Munchkin]V2 Actividad de reproducción anónima en Conocido**, se garantiza que las campañas activadas por la promoción anónima de posibles clientes se reproducirán siempre después de que el posible cliente anónimo se combine correctamente en el registro conocido. Como resultado, los campos personalizados modificados por los pasos Cambiar valor de datos en cualquier campaña reproducida se conservarán en el registro conocido.
 
 **Se crea una actividad Anonymous** cuando alguien:
 
@@ -33,7 +33,7 @@ Una actividad anónima se combina con una persona nueva o existente cuando algui
 
 * Hace clic en un vínculo [de un correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
 * Rellena un [formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} de Marketo.
-* Utiliza la API [&#128279;](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} de Marketo SOAP (para desarrolladores) para asociar a una persona anónima con un registro conocido.
+* Utiliza la API [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} de Marketo (para desarrolladores) para asociar a una persona anónima con un registro conocido.
 
 Un nombre de la base de datos puede estar vinculado a muchas cookies porque los usuarios suelen utilizar distintos dispositivos y exploradores para visitar el sitio.
 

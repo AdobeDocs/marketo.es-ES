@@ -4,25 +4,25 @@ title: Comportamiento esperado
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Comportamiento esperado {#expected-behavior}
 
-En este artículo, encontrará información sobre el comportamiento esperado asociado con Predictive Audiences (PA).
+En este artículo, encontrarás información sobre el comportamiento esperado asociado con [!UICONTROL Predictive Audiences] (PA).
 
 ## Consideraciones sobre datos y privacidad
 
 * Todo el procesamiento de datos requerido para los modelos AI/ML tiene lugar en Norteamérica.
 * Los modelos de IA/ML no utilizan información de posible cliente específica, como nombre o apellidos, sexo, correos electrónicos, números de contacto, etc. Los modelos solo utilizan atributos generales derivados de los firmográficos y los registros de actividad.
 
-**Para Predictive Audiences, se espera el siguiente comportamiento**
+**Para [!UICONTROL Audiencias predictivas], se espera el siguiente comportamiento**
 
-* Se puede acceder a PA tanto en Marketo Sky como en la experiencia de Marketo Classic. La disponibilidad de funciones específicas es la siguiente:
+* Se puede acceder a la PA tanto en [!DNL Marketo Sky] como en la experiencia [!DNL Marketo Classic]. La disponibilidad de funciones específicas es la siguiente:
    * Filtros predictivos: [!DNL Sky/Classic]
    * Registros proyectados - [!DNL Sky/Classic]
    * Predicciones de probabilidad de nivel de posible cliente - [!DNL Sky/Classic]

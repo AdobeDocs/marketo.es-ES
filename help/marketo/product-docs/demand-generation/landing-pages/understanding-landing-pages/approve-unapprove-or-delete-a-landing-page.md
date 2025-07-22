@@ -4,7 +4,7 @@ description: 'Aprobación, desaprobación o eliminación de una página de aterr
 title: Aprobar, desaprobar o eliminar una página de aterrizaje
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ## Aprobar una página de aterrizaje {#approve-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a **Acciones de página de aterrizaje** y haga clic en **Aprobar**.
+1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Aprobar]**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Aprobar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Aprobar]**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ## Desaprobar una página de aterrizaje {#unapprove-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a **Acciones de página de aterrizaje** y haga clic en **Desaprobar**.
+1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Desaprobar]**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Desaprobar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Desaprobar]**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ## Eliminar una página de aterrizaje {#delete-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a **Acciones de página de aterrizaje** y haga clic en **Eliminar**.
+1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
    >
    >No puede eliminar una página de aterrizaje aprobada. Desapruébelo primero.
 
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **Eliminar**.
+1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ¿Quiere eliminar más de una página de aterrizaje a la vez? Así es como.
 
-1. En Design Studio, haga clic en **Páginas de destino**.
+1. En [!UICONTROL Design Studio], haga clic en **[!UICONTROL Páginas de destino]**.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
    >
    >También puede utilizar Ctrl+clic para eliminar varias páginas de aterrizaje que no sean secuenciales.
 
-1. Haga clic en el menú desplegable **Acciones de página de aterrizaje** y seleccione **Eliminar**.
+1. Haga clic en el menú desplegable **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Eliminar**.
+1. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/four.png)
 

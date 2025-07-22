@@ -4,26 +4,26 @@ description: Explorar los detalles del programa y el canal con el analizador de 
 title: Exploración de los detalles de programas y canales con el analizador de programas
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Exploración de los detalles de programas y canales con el analizador de programas {#explore-program-channel-details-with-the-program-analyzer}
+# Explorar los detalles del programa y el canal con [!UICONTROL Analizador de programas] {#explore-program-channel-details-with-the-program-analyzer}
 
-Puede ver las estadísticas detalladas de programas y canales en el Analizador de programas. También puede abrirlos en el Explorador del ciclo de ingresos.
+Puede ver estadísticas detalladas de programas y canales en [!UICONTROL Analizador de programas]. También puede abrirlos en el Explorador del ciclo de ingresos.
 
 >[!PREREQUISITES]
 >
->[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Crear un [!UICONTROL Analizador de programas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >No todas las ediciones de Marketo incluyen esta funcionalidad. Póngase en contacto con su administrador de cuentas para obtener más información.
 
-1. Haga clic en **Analytics**.
+1. Haga clic en **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,7 +31,7 @@ Puede ver las estadísticas detalladas de programas y canales en el Analizador d
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Para ver las estadísticas específicas de un canal o programa (según la **vista** que seleccione), haga clic en la burbuja correspondiente.
+1. Para ver las estadísticas específicas de un canal o programa (según la **[!UICONTROL vista]** que seleccione), haga clic en la burbuja correspondiente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
@@ -49,7 +49,7 @@ Puede ver las estadísticas detalladas de programas y canales en el Analizador d
 
    >[!NOTE]
    >
-   >Al hacer clic en un solo canal, la vista cambia a Por programa, filtrada únicamente a ese canal. Para volver a todos los canales, selecciona **Ver** > **Por canal**.
+   >Al hacer clic en un solo canal, la vista cambia a Por programa, filtrada únicamente a ese canal. Para volver a todos los canales, selecciona **[!UICONTROL Ver]** > **[!UICONTROL Por canal]**.
 
 1. Para abrir el Explorador del ciclo de ingresos y profundizar aún más en una estadística, haga clic en ese número en el cuadro de diálogo emergente.
 

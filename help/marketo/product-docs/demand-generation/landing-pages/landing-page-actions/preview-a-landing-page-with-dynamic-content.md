@@ -4,7 +4,7 @@ description: 'Previsualización de una página de aterrizaje con contenido diná
 title: Previsualización de una página de aterrizaje con contenido dinámico
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Obtenga una vista previa de la página de aterrizaje después de agregar conteni
 >* [Usar contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Vista previa de una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. Seleccione una página de aterrizaje y haga clic en **Previsualizar página**.
+1. Seleccione una página de aterrizaje y haga clic en **[!UICONTROL Previsualizar página]**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 

@@ -6,7 +6,7 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 11%
@@ -22,7 +22,7 @@ Al ejecutar una _oferta de referencia_ o un _sorteo_, puede dar crédito al refe
 * **Déclencheur de listas inteligentes**
 * Evento de JavaScript personalizado
 
-Si eligió usar la opción **Déclencheur de listas inteligentes** para especificar un objetivo, deberá usar el paso de flujo **Dar crédito al referente**.
+Si eligió usar la opción **Déclencheur de listas inteligentes** para especificar un objetivo, deberá usar el paso de flujo **[!UICONTROL Dar crédito al referente]**.
 
 ![](assets/give-credit-to-referrer-1.png)
 

@@ -4,7 +4,7 @@ description: Pruebas A/B de "correo electrónico completo" - Documentos de Marke
 title: Usar prueba A/B de "correo electrónico completo"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la p
 >
 >[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. En el mosaico Correo electrónico, con el correo electrónico seleccionado, haga clic en **Agregar prueba A/B**.
+1. En el mosaico Correo electrónico, con el correo electrónico seleccionado, haga clic en **[!UICONTROL Agregar prueba A/B]**.
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Se abre una nueva ventana. Haga clic en el menú desplegable **Tipo de prueba** y seleccione **Correos electrónicos completos**.
+1. Se abre una nueva ventana. Haga clic en el menú desplegable **[!UICONTROL Tipo de prueba]** y seleccione **[!UICONTROL Correos electrónicos completos]**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **Restablecer prueba**.
+1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **[!UICONTROL Restablecer prueba]**.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la p
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Haga clic en **Agregar** para aplicar el correo electrónico.
+1. Haga clic en **[!UICONTROL Agregar]** para aplicar el correo electrónico.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -45,11 +45,11 @@ Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la p
 
 1. Seleccione su segundo correo electrónico.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Haga clic en **Agregar** para aplicar el segundo correo electrónico. Arrastre el control deslizante para elegir el porcentaje de audiencia que desea que reciba la prueba A/B y haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Agregar]** para aplicar el segundo correo electrónico. Arrastre el control deslizante para elegir el porcentaje de audiencia que desea que reciba la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

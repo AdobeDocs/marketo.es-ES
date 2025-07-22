@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849070
-description: 'Descargue la solución Marketo Sales Insight para Microsoft Dynamics: Documentos de Marketo: Documentación del producto'
+description: Descargue la solución Marketo Sales Insight para Microsoft Dynamics - Documentos de Marketo - Documentación del producto
 title: Descargue la solución Marketo Sales Insight para Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# Descargue la solución Marketo Sales Insight para Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Descargar la solución [!DNL Marketo Sales Insight] para [!DNL Microsoft Dynamics] {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->El complemento de esta página es para aquellos que se sincronizan con Marketo Engage mediante la solución nativa de sincronización CRM de Marketo con Dynamics 365. Para aquellos que tienen: una sincronización personalizada, MS Dynamics 365 Online (9.x y superior) y han adquirido Marketo Sales Insight, el paquete [está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>El complemento de esta página es para los que se sincronizan con Marketo Engage mediante la solución nativa de sincronización de CRM de Marketo para [!DNL Dynamics 365]. Para aquellos que tienen: una sincronización personalizada, [!DNL MS Dynamics 365 Online] (9.x y superior), y han comprado [!DNL Marketo Sales Insight], el paquete [está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Vaya al área de **Admin**.
+1. Vaya al área de **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3.png)
 
-1. Seleccione **Descargar solución de Marketo**.
+1. Seleccione **[!UICONTROL Descargar solución de Marketo]**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. Seleccione la solución adecuada para su versión de Microsoft Dynamics.
+1. Seleccione la solución adecuada para su versión de [!DNL Microsoft Dynamics].
 
    ![](assets/msd-online.png)
 

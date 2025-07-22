@@ -4,7 +4,7 @@ description: 'Añadir un nuevo formulario a una página de aterrizaje de forma l
 title: Agregar un nuevo formulario a una página de aterrizaje de forma libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 >* [Crear un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Crear una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Busque su página de aterrizaje y haga clic en **Editar borrador**.
+1. Busque su página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Arrastre y suelte el elemento **Form** en la página.
+1. Arrastre y suelte el elemento **[!UICONTROL Form]** en la página.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 
 1. Tiene tres opciones al elegir la página de seguimiento:
 
-   * **Página de aterrizaje**: para elegir una página de aterrizaje de Marketo
-   * **Dirección URL externa**: para elegir la dirección URL que desee
-   * **Formulario definido** - para usar la configuración definida a nivel de formulario
+   * **[!UICONTROL Página de aterrizaje]**: para elegir una página de aterrizaje de Marketo
+   * **[!UICONTROL Dirección URL externa]**: para elegir la dirección URL que desee
+   * **[!UICONTROL Formulario definido]** - para usar la configuración definida a nivel de formulario
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
    >
    >La página de seguimiento es la página que verán los usuarios después de enviar el formulario.
 
-1. Haga clic en **Insertar**.
+1. Haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

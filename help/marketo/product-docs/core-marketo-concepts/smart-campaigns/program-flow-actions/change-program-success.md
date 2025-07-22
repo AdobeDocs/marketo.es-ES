@@ -4,7 +4,7 @@ description: Cambiar el éxito del programa - Documentos de Marketo - Documentac
 title: Cambiar el éxito del programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 4%
@@ -31,7 +31,7 @@ Si alguna vez tiene un grupo de personas marcado incorrectamente con Éxito del 
 
    >[!NOTE]
    >
-   >Si establece la Fecha de éxito en cualquier valor, establece automáticamente el Éxito en verdadero. Si se establece Success en true, la fecha de éxito se establece automáticamente en la fecha actual.
+   >Si establece [!UICONTROL Fecha de éxito] en cualquier valor, el éxito se establece automáticamente en verdadero. Si se establece [!UICONTROL Success] en true, la fecha de éxito se establece automáticamente en la fecha actual.
 
 1. Establezca **[!UICONTROL Nuevo valor]** en **[!UICONTROL Verdadero]** o **[!UICONTROL Falso]**.
 

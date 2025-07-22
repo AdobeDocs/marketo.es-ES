@@ -4,26 +4,26 @@ description: Información general sobre la contribución de las perspectivas de 
 title: Información general de contribución de Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Información general de contribución de Performance Insights {#performance-insights-contribution-overview}
+# Información general sobre la contribución de [!UICONTROL Performance Insights] {#performance-insights-contribution-overview}
 
-En Marketo Performance Insights, la vista Contribución se muestra de forma predeterminada.
+En Marketo [!UICONTROL Performance Insights], la vista Contribution se muestra de manera predeterminada.
 
 ![](assets/one-1.png)
 
-Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo, veremos las oportunidades ganadas a través de Multi-Touch en el panel Ingresos.
+Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo, veremos las oportunidades ganadas a través de **[!UICONTROL Multi-Touch]** en el panel de _[!UICONTROL Ingresos]_.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Obtenga información sobre [primer toque y multitoque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Obtenga información sobre [[!UICONTROL primer contacto] y [!UICONTROL multicontacto]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Elija para qué período desea ver las métricas. En este ejemplo, se busca el año actual (acumulado anual).
 
@@ -31,7 +31,7 @@ Elija para qué período desea ver las métricas. En este ejemplo, se busca el a
 
 >[!NOTE]
 >
->Hemos eliminado temporalmente la selección &quot;Año anterior&quot;. Todavía tiene la opción de ver todos los datos de rendimiento del año anterior utilizando la selección Rango personalizado.
+>Hemos eliminado temporalmente la selección &quot;Año anterior&quot;. Todavía tiene la opción de ver todos los datos de rendimiento del año anterior usando la selección **[!UICONTROL Intervalo personalizado]**.
 
 Las métricas se presentan mediante dos gráficos: de anillos y de barras.
 
@@ -47,7 +47,7 @@ El gráfico de barras muestra el rendimiento del programa en todos los canales (
 
 >[!TIP]
 >
->Si desea que las barras del gráfico se amplíen a medida que se desplaza por los grupos, active la casilla de verificación **Escalar eje Y para ajustar**.
+>Si desea que las barras del gráfico se amplíen a medida que se desplaza por los grupos, active la casilla de verificación **[!UICONTROL Escalar eje Y para ajustar]**.
 
 Pase el ratón sobre una barra para ver detalles adicionales.
 
@@ -57,16 +57,16 @@ Seleccione uno o más canales en el gráfico de anillos y todos los programas as
 
 ![](assets/eight.png)
 
-La cuadrícula de datos siguiente funciona como una hoja de cálculo, y muestra todas las métricas disponibles en el modelo de atribución elegido (primer contacto/multicontacto). Se resaltará la columna que contiene la métrica que ha elegido.
+La cuadrícula de datos siguiente funciona como una hoja de cálculo y muestra todas las métricas disponibles en el modelo de atribución elegido ([!UICONTROL Primer contacto]/[!UICONTROL Múltiple contacto]). Se resaltará la columna que contiene la métrica que ha elegido.
 
 ![](assets/9.png)
 
-| **Oportunidades ganadas** | La parte de crédito (en valor numérico) que recibió el programa por influir en la oportunidad ganada |
+| **[!UICONTROL Oportunidades ganadas]** | La parte de crédito (en valor numérico) que recibió el programa por influir en la oportunidad ganada |
 |---|---|
-| **Ingresos obtenidos** | La porción de crédito (en valor monetario) que recibió el programa por influir en la oportunidad ganada |
-| **Costo** | Coste total del programa |
-| **Costo por oportunidad ganado** | La relación entre el costo del programa y la porción de crédito (en valor numérico) que el programa recibió por influir en la creación de nuevas oportunidades |
-| **Porcentaje De Ingresos Ganados A Costo** | Proporción de la parte del crédito (en valor monetario) que recibió el programa por influir en las oportunidades ganadas y el coste del programa |
+| **[!UICONTROL Ingresos obtenidos]** | La porción de crédito (en valor monetario) que recibió el programa por influir en la oportunidad ganada |
+| **[!UICONTROL Costo]** | Coste total del programa |
+| **[!UICONTROL Costo por oportunidad ganado]** | La relación entre el costo del programa y la porción de crédito (en valor numérico) que el programa recibió por influir en la creación de nuevas oportunidades |
+| **[!UICONTROL Porcentaje De Ingresos Ganados A Costo]** | Proporción de la parte del crédito (en valor monetario) que recibió el programa por influir en las oportunidades ganadas y el coste del programa |
 
 Expanda un canal para ver sus diez programas principales, con los programas restantes combinados.
 

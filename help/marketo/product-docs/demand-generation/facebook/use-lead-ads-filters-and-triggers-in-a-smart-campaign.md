@@ -4,7 +4,7 @@ description: 'Uso de filtros y Déclencheur de anuncios de posibles clientes en 
 title: Uso de filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Uso de filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-Cuando haya habilitado Facebook Lead Ads, puede usarlos en sus campañas inteligentes para ver el éxito del programa. Cuando las personas envían su información en una unidad de anuncios de posibles clientes de Facebook, la información se envía a Marketo inmediatamente.
+Una vez que hayas habilitado [!UICONTROL anuncios de clientes potenciales de Facebook], puedes usarlos en tus campañas inteligentes para ver si el programa se ha realizado correctamente. Cuando las personas envían su información en una unidad de anuncios de posibles clientes de [!DNL Facebook], la información se envía a Marketo inmediatamente.
 
-1. Use el déclencheur **Rellena el formulario de anuncios de posibles clientes**.
+1. Use el déclencheur **[!UICONTROL Rellena el formulario de anuncios de posibles clientes de Facebook]**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

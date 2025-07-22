@@ -3,9 +3,9 @@ description: Creación de una campaña de ventas - Documentos de Marketo - Docum
 title: Creación de una campaña de ventas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -18,27 +18,27 @@ Con Campañas de ventas puede:
 
 * **Organizar**: Optimice todas sus actividades de divulgación en un solo lugar para una ejecución eficiente.
 * **Escalar**: programa todos tus esfuerzos de alcance para escalar tus esfuerzos, minimizar el trabajo manual y personalizar tanto como necesites.
-* **Medida**: realiza un seguimiento del éxito de todos tus correos electrónicos y tareas en un solo lugar mientras los inicias sesión automáticamente en Salesforce. Sabiendo lo que está resonando y conduciendo a resultados, usted puede probar y mejorar consistentemente sus resultados.
+* **Medida**: realiza un seguimiento del éxito de todos tus correos electrónicos y tareas en un solo lugar mientras los inicias sesión automáticamente en [!DNL Salesforce]. Sabiendo lo que está resonando y conduciendo a resultados, usted puede probar y mejorar consistentemente sus resultados.
 
 Entonces, ¿cómo se configura una campaña de ventas?
 
-1. Haga clic en la ficha **Campañas**.
+1. Haga clic en la ficha **[!UICONTROL Campañas]**.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Seleccione una categoría y haga clic en el botón **Crear nueva campaña**.
+1. Seleccione una categoría y haga clic en el botón **[!UICONTROL Crear nueva campaña]**.
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >Para crear una categoría nueva, haz clic en **+** junto a **Categorías**.
+   >Para crear una categoría nueva, haz clic en **+** junto a **[!UICONTROL Categorías]**.
 
-1. Se seleccionará la categoría que haya elegido. Si cambia de opinión, haga clic en la lista desplegable y seleccione otra diferente. Cuando haya terminado, haga clic en **Continuar**.
+1. Se seleccionará la categoría que haya elegido. Si cambia de opinión, haga clic en la lista desplegable y seleccione otra diferente. Cuando haya terminado, haga clic en **[!UICONTROL Continuar]**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. Haga clic en **Agregar paso**.
+1. Haga clic en **[!UICONTROL Agregar paso]**.
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,11 +46,11 @@ Entonces, ¿cómo se configura una campaña de ventas?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Cuando hayas [terminado tu correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, haz clic en **Agregar**.
+1. Cuando hayas [terminado tu correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, haz clic en **[!UICONTROL Agregar]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
-1. Después de crear su primer día y paso, el botón &quot;Añadir un día&quot; se activa y puede añadir tantos días y pasos como requiera su proceso de ventas.
+1. Después de crear el primer día y el primer paso, se activa el botón &quot;[!UICONTROL Agregar un día]&quot; y puede agregar tantos días y pasos como requiera el proceso de ventas.
 
    ![](assets/create-a-sales-campaign-7.png)
 
@@ -58,7 +58,7 @@ Entonces, ¿cómo se configura una campaña de ventas?
    >
    >&quot;Días&quot; no es el número de días entre acciones, sino el día dentro de la secuencia. Por ejemplo, si la campaña de ventas va a durar 7 días, si se introduce &quot;3&quot;, la acción se cerrará el día 3 de 7, **no** 3 días después.
 
-1. Asegúrate de personalizar las opciones de programación y respuesta, como omitir los fines de semana (lo que es genial). Para ello, visita la **pestaña Configuración** de tu campaña de ventas.
+1. Asegúrate de personalizar las opciones de programación y respuesta, como omitir los fines de semana (lo que es genial). Para ello, visita la pestaña **[!UICONTROL Configuración]** de tu campaña de ventas.
 
    ![](assets/create-a-sales-campaign-8.png)
 

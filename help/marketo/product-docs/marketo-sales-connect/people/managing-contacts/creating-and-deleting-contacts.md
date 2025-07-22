@@ -4,7 +4,7 @@ description: 'Creación y eliminación de contactos: documentos de Marketo, docu
 title: Creación y eliminación de contactos
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Creación de contactos {#creating-contacts}
 
-1. En la página Personas, haga clic en el botón **Acciones de grupo** y seleccione **Crear contacto**.
+1. En la página [!UICONTROL Personas], haga clic en el botón **[!UICONTROL Acciones de grupo]** y seleccione **[!UICONTROL Crear contacto]**.
 
    ![](assets/one-2.png)
 
-1. Introduzca el nombre/apellido y la dirección de correo electrónico, junto con cualquier otra información que desee. Haz clic en **Crear** cuando termines, o en **Crear y agregar nuevo** para agregar más contactos.
+1. Introduzca el nombre/apellido y la dirección de correo electrónico, junto con cualquier otra información que desee. Haz clic en **[!UICONTROL Crear]** cuando termines, o en **[!UICONTROL Crear y agregar nuevo]** para agregar más contactos.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Eliminando contactos {#deleting-contacts}
 
-1. En la página Personas, marque la casilla del contacto que desea eliminar.
+1. En la página [!UICONTROL Personas], marque la casilla del contacto que desee eliminar.
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Para eliminar varios contactos, simplemente seleccione varias personas. Los pasos restantes serían los mismos.
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Eliminar**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/four-2.png)
 
-1. Haga clic en **Eliminar contacto** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar contacto]** para confirmar.
 
    ![](assets/five-2.png)

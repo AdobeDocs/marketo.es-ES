@@ -4,7 +4,7 @@ description: 'Adición de HTML personalizado a una página de aterrizaje de form
 title: Adición de HTML personalizado a una página de aterrizaje de forma libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Puede agregar scripts personalizados, CSS u otros HTML a las páginas de aterriz
 >
 >La asistencia de Marketo Engage no está configurada para ayudar a solucionar problemas de HTML personalizado. Para obtener ayuda de HTML, consulte con un desarrollador web.
 
-1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
+1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Puede agregar scripts personalizados, CSS u otros HTML a las páginas de aterriz
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Escriba su código personalizado de HTML y haga clic en **Guardar**.
+1. Escriba su código personalizado de HTML y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

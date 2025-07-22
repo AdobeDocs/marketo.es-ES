@@ -4,7 +4,7 @@ description: 'El tablero de participación: documentos de Marketo: documentació
 title: El panel de participación
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -21,7 +21,7 @@ El panel de participación es la forma más sencilla de ver el rendimiento del c
 
 ## Ver el panel de participación {#view-the-engagement-dashboard}
 
-Seleccione su programa de participación y haga clic en **Ver** > **Tablero**.
+Seleccione su programa de participación y haga clic en **Ver** > **[!UICONTROL Tablero]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Este widget le ayuda a anticipar cuándo los posibles clientes habrán agotado t
 
 >[!NOTE]
 >
->Debe ir a la pestaña Configuración y asegurarse de que las notificaciones de contenido agotado sean **Activadas** para ver el gráfico de arriba. Si están desactivados, el gráfico tendrá un aspecto diferente.
+>Debe ir a la ficha [!UICONTROL Configuración] y asegurarse de que las [!UICONTROL notificaciones de contenido agotado] están **[!UICONTROL activadas]** para ver el gráfico de arriba. Si están desactivados, el gráfico tendrá un aspecto diferente.
 
 >[!CAUTION]
 >

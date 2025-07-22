@@ -4,7 +4,7 @@ description: 'Informes RTP personalizados en Google Universal Analytics: documen
 title: Informes RTP personalizados en Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -22,13 +22,13 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
 * RTP B2B
 * Compromiso RTP
 
-## Configuración de un informe personalizado {#setting-up-a-custom-report}
+## Configurando un [!UICONTROL informe personalizado] {#setting-up-a-custom-report}
 
 1. Inicie sesión en Google Analytics.
 
-1. Haz clic en **Personalización** en el menú superior.
+1. Haz clic en **[!UICONTROL Personalización]** en el menú superior.
 
-1. Haga clic en **+Nuevo informe personalizado**.
+1. Haga clic en **[!UICONTROL Nuevo informe personalizado]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
 
 1. Asigne un nombre al informe **RTP Informe B2B**.
 
-1. Asigne un nombre a la primera ficha **Sector**.
+1. Asigne un nombre a la primera ficha **[!UICONTROL Sector]**.
 
 >[!NOTE]
 >
 >**Duplicará esta ficha** y creará otras similares adicionales - paso 5)
 
-1. Seleccione el tipo de informe **Explorer**.
+1. Seleccione el tipo de informe **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. En la sección **Grupos de métricas**, seleccione las métricas que sean relevantes para su negocio.
+1. En la sección **[!UICONTROL Grupos de métricas]**, seleccione las métricas que sean relevantes para su negocio.
 
    a. Recomendamos lo siguiente:
 
@@ -62,7 +62,7 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. En la sección **Exploraciones en profundidad del Dimension**, establezca las dimensiones relevantes para cada pestaña como se muestra a continuación.
+1. En la sección **Profundizar en Dimension**, establezca las dimensiones relevantes para cada pestaña como se muestra a continuación.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
     </div></th> 
    <th> 
     <div>
-      Profundizar en Dimension
+      Desgloses detallados de Dimension
     </div></th> 
   </tr> 
  </thead> 
@@ -101,9 +101,9 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
  </tbody> 
 </table>
 
-1. No establezca ningún filtro y este informe estará disponible para **Todos los datos del sitio web** (o cámbielo si corresponde a una cuenta específica de Analytics).
+1. No establezca ningún filtro y este informe estará disponible para **[!UICONTROL Todos los datos del sitio web]** (o cámbielo si corresponde a una cuenta específica de Analytics).
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
 
 1. Asigne un nombre al informe **Informe de participación de RTP**.
 
-1. Establezca el nombre de la primera ficha en **All Engagement**.
+1. Establezca el nombre de la primera ficha en **[!UICONTROL All Engagement]**.
 
 >[!NOTE]
 >
 >Duplicará esta pestaña y creará otras similares adicionales (paso 5)
 
-1. Seleccione el tipo de informe **Explorer**.
+1. Seleccione el tipo de informe **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. En la sección Grupos de métricas, seleccione las métricas que sean relevantes para su negocio. Esta es una recomendación:
+1. En la sección [!UICONTROL Grupos de métricas], seleccione las métricas que sean relevantes para su negocio. Esta es una recomendación:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. En la sección **Exploraciones en profundidad del Dimension**, establezca las dimensiones relevantes para cada pestaña como se muestra a continuación:
+1. En la sección **Profundizar en Dimension**, establezca las dimensiones relevantes para cada pestaña como se muestra a continuación:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
     </div></th> 
    <th> 
     <div>
-      Profundizar en Dimension 
+      Desgloses detallados de Dimension 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,26 +204,26 @@ Este artículo explica cómo configurar informes personalizados de RTP para Goog
  <tbody> 
   <tr> 
    <td><p>Incluir</p></td> 
-   <td><p>Categoría de eventos</p></td> 
-   <td>Expresiones regulares (Regex)</td> 
+   <td><p><span class="uicontrol">Categoría de eventos</span></p></td> 
+   <td>Regex</td> 
    <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
    <td colspan="1">Filtrará todos los demás eventos personalizados que no estén relacionados con RTP</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td>Etiqueta de evento</td> 
-   <td>Expresiones regulares (Regex)</td> 
+   <td><span class="uicontrol">Etiqueta de evento</span></td> 
+   <td>Regex</td> 
    <td>#</td> 
    <td colspan="1">Permite filtrar desde la campaña de informes usando # en el nombre de la campaña</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Establezca este informe para que esté disponible para **Todos los datos del sitio web** (o cámbielo si es necesario).
+1. Establezca este informe para que esté disponible para **[!UICONTROL Todos los datos del sitio web]** (o cámbielo si es necesario).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

@@ -4,7 +4,7 @@ description: 'Clonar un fragmento de código: Documentos de Marketo, documentaci
 title: Clonar un fragmento
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Clone un fragmento para crear una copia del mismo que pueda modificar según sus necesidades.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vaya al fragmento y, a continuación, en **Acciones de fragmento**, haga clic en **Clonar**.
+1. Vaya al fragmento y, a continuación, en **[!UICONTROL Acciones de fragmento]**, haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Escriba los detalles del fragmento y haga clic en **Clonar**.
+1. Escriba los detalles del fragmento y haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 

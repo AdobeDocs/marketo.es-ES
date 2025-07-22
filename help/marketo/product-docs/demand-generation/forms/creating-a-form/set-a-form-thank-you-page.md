@@ -4,10 +4,10 @@ description: Página de agradecimiento de Set a Form - Documentos de Marketo - D
 title: Establecer una página de agradecimiento para un formulario
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 1%
 
 ## Editar formulario {#edit-form}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. En **Configuración de formulario**, haga clic en **Configuración**.
+1. En **[!UICONTROL Configuración de formulario]**, haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Desplácese hacia abajo hasta la sección **Página de agradecimiento**.
+1. Desplácese hacia abajo hasta la sección **[!UICONTROL Página de agradecimiento]**.
 
 ## Permanecer en la página {#stay-on-page}
 
 La opción Permanecer en la página mantiene al visitante en la misma página cuando se envía el formulario.
 
-1. Seleccione **Permanecer en la página** para **Realizar seguimiento con**.
+1. Seleccione **[!UICONTROL Permanecer en la página]** para **[!UICONTROL Realizar seguimiento con]**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ La opción Permanecer en la página mantiene al visitante en la misma página cu
 
 La configuración URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
 
-1. Seleccione **URL externa** para **realizar seguimiento con**.
+1. Seleccione **[!UICONTROL URL externa]** para **[!UICONTROL realizar seguimiento con]**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,13 +53,13 @@ La configuración URL externa permite definir cualquier dirección URL como pág
 
 >[!TIP]
 >
->La URL puede ser la de un archivo alojado en alguna parte: si lo hace, el botón &quot;Enviar&quot; se comportará como un botón &quot;Descargar&quot;.
+>La dirección URL puede ser la de un archivo alojado en alguna parte: si lo hace, el botón &quot;[!UICONTROL Enviar]&quot; se comportará como un botón &quot;[!UICONTROL Descargar]&quot;.
 
-## Página de aterrizaje {#landing-page}
+## Página de destino {#landing-page}
 
 Puede seleccionar cualquier página de aterrizaje de Marketo aprobada como seguimiento.
 
-1. Definir **Seguimiento con** en **Página de aterrizaje**.
+1. Definir **[!UICONTROL Seguimiento con]** en **[!UICONTROL Página de aterrizaje]**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Puede seleccionar cualquier página de aterrizaje de Marketo aprobada como segui
 
 Puede agregar varias opciones y crear opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
 
-1. Haga clic en **Agregar opción**.
+1. Haga clic en **[!UICONTROL Agregar opción]**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Elija la página adecuada para el tipo **Seguimiento con**.
+1. Elija la página adecuada para el tipo **[!UICONTROL Seguimiento con]**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -111,7 +111,7 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
    >
    >Puede agregar varias opciones. Sin embargo, si agrega demasiados, puede afectar a la velocidad de carga del formulario, por lo que solo tiene que agregar lo que necesite.
 
-1. Vaya y configure **Choice 2**.
+1. Vaya y configure **[!UICONTROL Choice 2]**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -123,7 +123,7 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. Seleccione la página y haga clic en **Guardar**.
+1. Seleccione la página y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -131,11 +131,11 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

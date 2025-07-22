@@ -4,7 +4,7 @@ description: 'Creación de un mensaje de correo electrónico para un programa de
 title: Creación de un correo electrónico para un programa de correo electrónico
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 Una vez que haya creado su programa de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico está enviando. Puedes [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o crear uno desde cero. A continuación se indica cómo crear un nuevo correo electrónico.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Seleccione su programa de correo electrónico. En el mosaico **Correo electrónico**, haga clic en **Nuevo correo electrónico**.
+1. Seleccione su programa de correo electrónico. En el mosaico **[!UICONTROL Correo electrónico]**, haga clic en **[!UICONTROL Nuevo correo electrónico]**.
 
    ![](assets/newemaildashboard.png)
 
-1. Escriba un **Nombre**, seleccione la plantilla que desee y haga clic en **Crear**.
+1. Escriba un **[!UICONTROL Nombre]**, seleccione la plantilla que desee y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/three.png)
 

@@ -4,9 +4,9 @@ description: Configuración de anuncios de clientes potenciales de Facebook - Do
 title: Configurar anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Escriba un **Nombre para mostrar** para su servicio, seleccione el servicio **Anuncios de posibles clientes de Facebook** en la lista desplegable y haga clic en **Crear**.
+1. Escriba un **[!UICONTROL Nombre para mostrar]** para su servicio, seleccione el servicio **[!UICONTROL Anuncios de posibles clientes de Facebook]** en la lista desplegable y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    >[!NOTE]
    >
-   >La cuenta de Facebook necesitará acceso a todas las páginas comerciales de Facebook de las que quiera extraer anuncios de posibles clientes.
+   >La cuenta de [!DNL Facebook] necesitará acceso a todas las páginas comerciales de [!DNL Facebook] de las que quiera extraer anuncios de posibles clientes.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Cuando hayas iniciado sesión en Facebook, vuelve a Marketo y haz clic en **Autorizar**.
+1. Una vez que haya iniciado sesión en [!DNL Facebook], vuelva a Marketo y haga clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Si se le solicita, haga clic en **Aceptar** para aceptar la instalación de la aplicación Marketo en Facebook.
+1. Si se le solicita, haga clic en **[!UICONTROL Aceptar]** para aceptar la instalación de la aplicación Marketo en [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Verá que ahora está autorizado. Haga clic en **Siguiente**.
+1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Seleccione las páginas de las que quiera que Marketo extraiga anuncios de posibles clientes de Facebook y haga clic en **Siguiente**.
+1. Seleccione las páginas de las que quiere que Marketo extraiga [!UICONTROL anuncios de posibles clientes de Facebook] y haga clic en **[!UICONTROL Siguiente]**.
 
    >[!TIP]
    >
-   >Si no ve una página que esté esperando, asegúrese de que la cuenta de Facebook utilizada para autenticarse se agregue a la página en Facebook e inténtelo de nuevo.
+   >Si no ve una página que esté esperando, asegúrese de que la cuenta de [!DNL Facebook] utilizada para autenticarse se agrega a la página de [!DNL Facebook] e inténtelo de nuevo.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Para aceptar las asignaciones predeterminadas de campos de Facebook a Marketo, simplemente haga clic en **Crear**.
+1. Para aceptar las asignaciones predeterminadas de [!DNL Facebook] a los campos de Marketo, simplemente haga clic en **[!UICONTROL Crear]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    >[!CAUTION]
    >
-   >Marketo no admite la asignación de dos campos de Facebook a un único campo de Marketo, solo de 1 a 1. Si asigna 2 a 1, es posible que los posibles clientes no entren en el sistema Marketo.
+   >Marketo no admite la asignación de dos campos [!DNL Facebook] a un único campo de Marketo, solo de 1 a 1. Si asigna 2 a 1, es posible que los posibles clientes no entren en el sistema Marketo.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   ¡Bien hecho! Los posibles clientes comenzarán a entrar en Marketo a medida que ejecute campañas de anuncios de posibles clientes exitosas.
+   ¡Bien hecho! Los posibles clientes comenzarán a fluir a Marketo conforme se ejecuten [!DNL Facebook] campañas de anuncios de posibles clientes.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

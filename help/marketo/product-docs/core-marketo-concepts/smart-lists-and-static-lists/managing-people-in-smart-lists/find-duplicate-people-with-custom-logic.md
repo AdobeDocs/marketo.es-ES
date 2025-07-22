@@ -4,16 +4,16 @@ description: Encontrar personas duplicadas con lógica personalizada - Documento
 title: Buscar personas duplicadas con lógica personalizada
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
 # Buscar personas duplicadas con lógica personalizada {#find-duplicate-people-with-custom-logic}
 
-El Marketo Engage tiene una lista inteligente del sistema que busca personas duplicadas haciendo coincidir sus direcciones de correo electrónico. Si desea utilizar otro campo para buscar duplicados con, así es.
+Marketo Engage tiene una lista inteligente del sistema que busca personas duplicadas haciendo coincidir sus direcciones de correo electrónico. Si desea utilizar otro campo para buscar duplicados con, así es.
 
 >[!PREREQUISITES]
 >
@@ -33,10 +33,10 @@ El Marketo Engage tiene una lista inteligente del sistema que busca personas dup
 
 1. Elija una de las cuatro opciones disponibles:
 
-   * Correo electrónico
-   * Nombre completo
-   * Apellido
-   * Actualizado en
+   * [!UICONTROL Dirección de correo electrónico]
+   * [!UICONTROL Nombre completo]
+   * [!UICONTROL Apellidos]
+   * [!UICONTROL Actualizado A Las]
 
    >[!NOTE]
    >

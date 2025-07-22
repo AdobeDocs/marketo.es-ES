@@ -4,10 +4,10 @@ description: 'Uso de acciones rápidas para acelerar el flujo de trabajo: docume
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 5%
+source-wordcount: '330'
+ht-degree: 3%
 
 ---
 
@@ -23,8 +23,8 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
 
 | Estado | Descripción |
 |---|---|
-| Archivar | Añadirá el correo electrónico a la carpeta archivada y detendrá todas las visualizaciones de deshabilitación y el rastreo de clics para ese correo electrónico. |
-| Sin errores | Marcará el correo electrónico como correcto para su inclusión en el análisis de plantillas. |
+| [!UICONTROL Archivar] | Añadirá el correo electrónico a la carpeta archivada y detendrá todas las visualizaciones de deshabilitación y el rastreo de clics para ese correo electrónico. |
+| [!UICONTROL Correcto] | Marcará el correo electrónico como correcto para su inclusión en el análisis de plantillas. |
 
 **Archivado**
 
@@ -35,11 +35,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Desarchivar</td> 
+   <td>[!UICONTROL Desarchivar]</td> 
    <td>Devolverá el correo electrónico a la carpeta entregada y reactivará el seguimiento de visualizaciones/clics.</td> 
   </tr> 
   <tr> 
-   <td>Eliminar</td> 
+   <td>[!UICONTROL Eliminar]</td> 
    <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Editar</td> 
+   <td>[!UICONTROL Editar]</td> 
    <td>Abrirá el correo electrónico en la ventana de composición que se va a editar.</td> 
   </tr> 
   <tr> 
-   <td>Eliminar</td> 
+   <td>[!UICONTROL Eliminar]</td> 
    <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Reintentar envío</td> 
+   <td>[!UICONTROL Reintentar Enviar]</td> 
    <td>Intentará reenviar el correo electrónico inmediatamente.</td> 
   </tr> 
   <tr> 
-   <td>Eliminar</td> 
+   <td>[!UICONTROL Eliminar]</td> 
    <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 

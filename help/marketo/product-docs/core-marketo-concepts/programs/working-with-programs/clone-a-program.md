@@ -4,7 +4,7 @@ description: 'Clonar un programa: Documentos de Marketo: documentación del prod
 title: Clonar un programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -23,15 +23,15 @@ Clonar rápida y fácilmente todo un programa y todos sus recursos en lugar de r
 
    >[!NOTE]
    >
-   >Los programas se pueden clonar en [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos de código, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de clonar.
+   >Los programas se pueden clonar en [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos de código, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de clonarlos.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >¿Ves esa NOTA en la captura de pantalla de arriba? Significa que si clona un programa con 1000 o más personas en una lista, la propia lista se clonará, pero estará vacía. Si clona un programa con una lista que contiene 999 personas o menos, esa lista, junto con todos sus miembros, se mostrará en el programa clonado.
+   >¿Ves esa [!UICONTROL NOTA] en la captura de pantalla de arriba? Significa que si clona un programa con 1000 o más personas en una lista, la propia lista se clonará, pero estará vacía. Si clona un programa con una lista que contiene 999 personas o menos, esa lista, junto con todos sus miembros, se mostrará en el programa clonado.
 
-1. Escriba un [!UICONTROL Nombre].
+1. Escriba un **[!UICONTROL Nombre]**.
 
    ![](assets/cloneprogramname.png)
 

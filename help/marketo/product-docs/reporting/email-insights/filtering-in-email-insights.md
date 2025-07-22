@@ -4,18 +4,18 @@ description: Filtrado en perspectivas de correo electrónico - Documentos de Mar
 title: Filtrado en Email Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# Filtrado en Email Insights {#filtering-in-email-insights}
+# Filtrado en [!UICONTROL Insights de correo electrónico] {#filtering-in-email-insights}
 
-En las perspectivas de correo electrónico, hay diferentes formas de filtrar los datos.
+En [!UICONTROL Email Insights], hay diferentes maneras de filtrar tus datos.
 
-## Información del email {#email-insights}
+## [!UICONTROL Perspectivas de correo electrónico] {#email-insights}
 
 Haga clic en + para empezar a añadir filtros. Añada tantos como desee.
 
@@ -59,10 +59,10 @@ Elija entre intervalos de fechas preestablecidos comunes, seleccione fechas espe
 
 >[!NOTE]
 >
->Los intervalos de fechas se aplican tanto a la página de Analytics como a la de Envíos. Sin embargo, la opción **Comparar** solo se aplica a la página de Analytics.
+>Los intervalos de fechas se aplican tanto a la página [!UICONTROL Analytics] como a la página [!UICONTROL Envía]. Sin embargo, la opción **Comparar** solo se aplica a la página [!UICONTROL Analytics].
 
 ## Marketing basado en la cuenta {#account-based-marketing}
 
-Si usa [Administración de cuentas de Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), hay filtros específicos para usted.
+Si usa [[!UICONTROL Administración de cuentas de Target]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), hay filtros específicos para usted.
 
 ![](assets/abm.png)

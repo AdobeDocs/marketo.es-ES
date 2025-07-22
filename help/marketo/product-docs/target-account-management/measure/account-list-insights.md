@@ -4,7 +4,7 @@ description: Información de la lista de cuentas - Documentos de Marketo - Docum
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -32,11 +32,11 @@ Para ver el tablero de una lista de cuentas, simplemente haga clic en su nombre.
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>En preparación</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">En preparación</span></strong></td> 
    <td colspan="1">Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td> 
   </tr> 
   <tr> 
-   <td><strong>Ingresos</strong></td> 
+   <td><strong><span class="uicontrol">Ingresos</span></strong></td> 
    <td><p>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</p></td> 
   </tr> 
  </tbody> 
@@ -44,16 +44,16 @@ Para ver el tablero de una lista de cuentas, simplemente haga clic en su nombre.
 
 ## Pestaña Cuentas con nombre {#named-accounts-tab}
 
-Haga clic en la ficha **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
+Haga clic en la ficha **[!UICONTROL Cuentas con nombre]** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Puede quitar una cuenta con nombre en esta ficha seleccionándola y haciendo clic en **Quitar cuentas con nombre**.
+>Puede quitar una cuenta con nombre en esta ficha seleccionándola y haciendo clic en **[!UICONTROL Quitar cuentas con nombre]**.
 
-## Utilizado por ficha {#used-by-tab}
+## [!UICONTROL Utilizado Por] Ficha {#used-by-tab}
 
-Haga clic en la ficha **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
+Haga clic en la ficha **[!UICONTROL Utilizado por]** para ver qué recursos hacen referencia a esa lista de cuentas.
 
 ![](assets/four-2.png)

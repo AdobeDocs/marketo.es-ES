@@ -4,14 +4,14 @@ description: Filtrado en cuentas con nombre - Documentos de Marketo - Documentac
 title: Filtrado en cuentas con nombre
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Filtrado en cuentas con nombre {#filtering-in-named-accounts}
+# Filtrado en [!UICONTROL cuentas con nombre] {#filtering-in-named-accounts}
 
 El filtrado es una buena manera de reducir los datos rápidamente.
 
@@ -25,17 +25,17 @@ El filtrado es una buena manera de reducir los datos rápidamente.
 
    >[!NOTE]
    >
-   >Existen varias combinaciones de parámetros de búsqueda. En este ejemplo ubicamos: _Industria = Bancaria, País = Estados Unidos, Empleados máximos = 10000_.
+   >Existen varias combinaciones de parámetros de búsqueda. En este ejemplo ubicamos: _[!UICONTROL Industria] = Bancaria, [!UICONTROL País] = Estados Unidos, Máximo de [!UICONTROL Empleados] = 10000_.
 
-1. Haga clic en el menú desplegable **Sector** y seleccione **Bancos**.
+1. Haga clic en el menú desplegable **[!UICONTROL Sector]** y seleccione **[!UICONTROL Bancos]**.
 
    ![](assets/filter-2.png)
 
-1. Haga clic en el menú desplegable **País** y seleccione **Estados Unidos**.
+1. Haga clic en el menú desplegable **[!UICONTROL País]** y seleccione **[!UICONTROL Estados Unidos]**.
 
    ![](assets/filter-3.png)
 
-1. En **Empleados**, escriba &quot;0&quot; en el campo **Mín.**, &quot;10000&quot; en el campo **Máx.** y, a continuación, haga clic en **Aplicar**.
+1. En **[!UICONTROL Empleados]**, escriba &quot;0&quot; en el campo **Mín.**, &quot;10000&quot; en el campo **Máx.** y, a continuación, haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ El filtrado es una buena manera de reducir los datos rápidamente.
 
    >[!NOTE]
    >
-   >Para agregar más filtros para elegir, haga clic en **Agregar filtro** en la parte inferior izquierda del formulario.
+   >Para agregar más filtros para elegir, haga clic en **[!UICONTROL Agregar filtro]** en la parte inferior izquierda del formulario.

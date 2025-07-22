@@ -4,14 +4,14 @@ description: 'Hacer que una campaña esté visible para los usuarios de Sales Co
 title: Hacer que una campaña esté visible para los usuarios de Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Hacer que una campaña esté visible para los usuarios de Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Hacer una campaña visible para [!DNL Sales Connect] usuarios {#make-a-campaign-visible-to-sales-connect-users}
 
 Las campañas solo se pueden compartir si se hacen visibles. Así es como se hace.
 
@@ -19,34 +19,34 @@ Las campañas solo se pueden compartir si se hacen visibles. Así es como se hac
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. Haga clic en la ficha **Lista inteligente**.
+1. Haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. Añada el déclencheur La campaña es solicitada.
+1. Agregar el déclencheur [!UICONTROL Se ha solicitado la campaña].
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. Para el origen, elija &quot;es&quot; **API de servicio web**.
+1. Para el origen, elija &quot;[!UICONTROL is]&quot; **[!UICONTROL API de servicio web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. Haga clic en la ficha **Flujo**.
+1. Haga clic en la ficha **[!UICONTROL Flujo]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. Añada la acción de flujo Momento interesante.
+1. Agregar la acción de flujo [!UICONTROL Momento interesante].
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Para Tipo, seleccione **Web**.
+1. Para [!UICONTROL Type], seleccione **[!UICONTROL Web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. En el cuadro Descripción, escriba un mensaje al equipo de ventas. En este ejemplo utilizamos tokens para especificar el formulario que se rellenó.
+1. En el cuadro [!UICONTROL Descripción], escriba un mensaje a su equipo de ventas. En este ejemplo utilizamos tokens para especificar el formulario que se rellenó.
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. Haga clic en la ficha **Programar** y **Activar** la campaña.
+1. Haga clic en la ficha **[!UICONTROL Programar]** y **[!UICONTROL Activar]** la campaña.
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

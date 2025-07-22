@@ -4,10 +4,10 @@ description: Añadir una lista de selección de país al formulario - Documentos
 title: Agregar una lista de selección de país a su formulario
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Siga estas instrucciones para convertir el campo de país en una lista desplegable con una lista de todos los países.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Busque y seleccione **País**.
+1. Busque y seleccione **[!UICONTROL País]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con el campo **País** seleccionado, cambie **Tipo de campo** a **Seleccionar**.
+1. Con el campo **[!UICONTROL País]** seleccionado, cambie **[!UICONTROL Tipo de campo]** a **[!UICONTROL Seleccionar]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Editar** los **Valores** para agregar la lista de países entre los que los usuarios pueden elegir.
+1. **[!UICONTROL Editar]** los **[!UICONTROL Valores]** para agregar la lista de países entre los que los usuarios pueden elegir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Haga clic en **Avanzado** **Editor**.
+1. Haga clic en **[!UICONTROL Editor avanzado]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
    >
    >No dude en editar la lista o utilizar cualquier otra lista.
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

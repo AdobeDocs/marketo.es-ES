@@ -1,24 +1,24 @@
 ---
-description: Uso del HTML - Documentos de Marketo - Documentación del producto
-title: Uso del HTML
+description: 'Uso de HTML: documentos de Marketo: documentación del producto'
+title: Uso de HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-# Uso del HTML {#using-html}
+# Uso de HTML {#using-html}
 
 1. Copie el código fuente de los correos electrónicos en la herramienta que utiliza para crear correos electrónicos en HTML (por ejemplo, el Editor de correo electrónico de Marketo).
 
-1. Seleccione la plantilla a la que desee añadir el HTML.
+1. Seleccione la plantilla a la que desee agregar HTML.
 
    ![](assets/using-html-1.png)
 
-1. En la tarjeta Editor de plantillas, haga clic en **Editar**.
+1. En la tarjeta Editor de plantillas, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/using-html-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-html-3.png)
 
-1. Pegue el código fuente y haga clic en **Guardar**.
+1. Pegue el código fuente y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/using-html-4.png)
 

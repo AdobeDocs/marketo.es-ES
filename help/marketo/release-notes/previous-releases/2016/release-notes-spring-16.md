@@ -4,9 +4,9 @@ description: Notas de la versión, primavera de 2016, documentación de Marketo,
 title: Notas de la versión, primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -59,15 +59,15 @@ Las API de REST de Marketo ahora admiten el control sobre páginas de aterrizaje
 
 ## [Inclusión en la lista de permitidos IP para acceso a API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Al igual que la función de inclusión en la lista de permitidos de IP para los inicios de sesión de los usuarios de Marketo, los administradores de Marketo ahora pueden configurar una lista de permitidos de direcciones IP que pueden acceder a las API de Marketo SOAP de REST y, por lo tanto, bloquear el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel adicional de seguridad a la instancia de Marketo y garantiza que el acceso a la API solo pueda producirse desde la red de la organización. Encontrará detalles sobre cómo configurarlo en el [sitio de documentación de Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Al igual que la función de inclusión en la lista de permitidos de IP para los inicios de sesión de usuarios de Marketo, los administradores de Marketo ahora pueden configurar una lista de permitidos de direcciones IP que pueden acceder a las API de Marketo SOAP y REST, bloqueando así el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel adicional de seguridad a la instancia de Marketo y garantiza que el acceso a la API solo pueda producirse desde la red de la organización. Encontrará detalles sobre cómo configurarlo en el [sitio de documentación de Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nuevo conector de sincronización de Microsoft Dynamics de alta velocidad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 El nuevo conector de alta velocidad de Dynamics ofrece velocidades de hasta 20 veces más rápidas para la sincronización inicial y hasta 5 veces más rápidas para la sincronización incremental. Todos los clientes nuevos incorporarán este conector en la fecha de lanzamiento y lo implementaremos gradualmente para los clientes existentes durante el periodo de lanzamiento de verano.
 
-**Actualizar datos para nuevos campos**: Ahora puede habilitar nuevos campos de sincronización en cualquier momento y todos los valores de datos de ese campo se actualizarán de Dynamics CRM a Marketo. Ya no hay que preocuparse por seleccionar todos los campos durante la configuración inicial. Si deshabilita un campo de sincronización existente y lo vuelve a habilitar más adelante, todos los valores de datos de ese campo se actualizarán de Dynamics CRM a Marketo.
+**Actualizar datos para nuevos campos**: Ahora puede habilitar nuevos campos de sincronización en cualquier momento y todos los valores de datos de ese campo se actualizarán de [!DNL Dynamics] CRM a Marketo. Ya no hay que preocuparse por seleccionar todos los campos durante la configuración inicial. Si deshabilita un campo de sincronización existente y lo vuelve a habilitar más adelante, todos los valores de datos de ese campo se actualizarán de [!DNL Dynamics] CRM a Marketo.
 
-**Sincronizar posible cliente como contacto**: la acción de flujo Sincronizar posible cliente con Microsoft tiene una nueva opción para sincronizarse como posible cliente o contacto.
+**Sincronizar posible cliente como contacto**: La acción de flujo de [!UICONTROL Sincronizar posible cliente con Microsoft] tiene una nueva opción para sincronizarse como posible cliente o contacto.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ El nuevo conector de alta velocidad de Dynamics ofrece velocidades de hasta 20 v
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: el conector está totalmente certificado para las versiones en línea y locales de Dynamics 2016.
+**[!DNL Microsoft Dynamics]2016**: El conector está completamente certificado para [!DNL Dynamics] versiones de [!DNL Online] y [!DNL On-premise] de 2016.
 
 **Ya se han documentado las actualizaciones de complementos:** Consulte el [artículo de documentos sobre actualizaciones de complementos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

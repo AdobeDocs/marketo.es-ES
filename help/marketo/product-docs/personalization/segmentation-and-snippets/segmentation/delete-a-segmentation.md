@@ -4,7 +4,7 @@ description: 'Eliminación de una segmentación: documentos de Marketo, document
 title: Eliminar una segmentación
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Una segmentación se puede eliminar siguiendo los pasos a continuación.
 
-1. Ir a **Base de datos**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Vaya a la segmentación y haga clic en **Utilizado por** para comprobar las asociaciones.
+1. Vaya a la segmentación y haga clic en **[!UICONTROL Utilizado por]** para comprobar las asociaciones.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Si otros recursos utilizan su segmentación, elimine todas esas asociaciones antes de continuar.
 
-1. Elimine todas las asociaciones y, a continuación, en **Acciones de segmentación**, haga clic en **Desaprobar**.
+1. Elimine todas las asociaciones y, a continuación, en **[!UICONTROL Acciones de segmentación]**, haga clic en **[!UICONTROL Desaprobar]**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +33,7 @@ Una segmentación se puede eliminar siguiendo los pasos a continuación.
    >
    >Puede eliminar asociaciones eliminando o creando alternativas para los recursos que utilizan la segmentación.
 
-1. Una vez desaprobada, haga clic en **Acciones de segmentación** y elimine la segmentación.
+1. Una vez desaprobada, haga clic en **[!UICONTROL Acciones de segmentación]** y [!UICONTROL Elimine] la segmentación.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

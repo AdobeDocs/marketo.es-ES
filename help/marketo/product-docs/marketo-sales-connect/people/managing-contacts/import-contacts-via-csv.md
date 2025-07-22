@@ -4,26 +4,26 @@ description: 'Importar contactos mediante CSV: documentos de Marketo: documentac
 title: Importar contactos mediante CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # Importar contactos mediante CSV {#import-contacts-via-csv}
 
-Tener contactos en la página Personas es importante porque es de donde extraemos para rellenar automáticamente la información personalizada en los campos dinámicos de las plantillas. Asegúrese de que tiene al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de que asigna a esos campos.
+Tener contactos en la página [!UICONTROL Personas] es importante porque es de donde extraemos para rellenar automáticamente la información personalizada en los campos dinámicos de las plantillas. Asegúrese de que tiene al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de que asigna a esos campos.
 
-1. Seleccione el grupo (o cree uno nuevo) en la pestaña Personas.
+1. Seleccione su grupo (o cree uno nuevo) en la ficha [!UICONTROL Personas].
 
    ![](assets/one.png)
 
-1. Haga clic en **Acciones de grupo** y seleccione **Importar CSV**.
+1. Haga clic en **[!UICONTROL Acciones de grupo]** y seleccione **[!UICONTROL Importar desde CSV]**.
 
    ![](assets/two.png)
 
-1. Haga clic en **Examinar**.
+1. Haga clic en **[!UICONTROL Examinar]**.
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ Tener contactos en la página Personas es importante porque es de donde extraemo
    >
    >Los grupos están limitados a 1000 contactos.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/four.png)
 
-1. Asigne las columnas de su CSV a sus respectivos campos en Sales Connect. Haga clic en **Siguiente** cuando haya terminado.
+1. Asigne las columnas de su CSV a sus respectivos campos en [!DNL Sales Connect]. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/five.png)

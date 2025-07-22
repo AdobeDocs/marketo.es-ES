@@ -4,7 +4,7 @@ description: Eliminación de un miembro de un programa de participación - Docum
 title: Eliminación de un miembro de un programa de participación
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Eliminación de un miembro de un programa de participación {#remove-a-member-from-an-engagement-program}
 
-¡Uy! ¿Cómo entró esa gente ahí? Puede quitar miembros de un programa de participación con el paso de flujo **Cambiar estado del programa**.
+¡Uy! ¿Cómo entró esa gente ahí? Puede quitar miembros de un programa de participación con el paso de flujo **[!UICONTROL Cambiar estado del programa]**.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ ht-degree: 1%
 
 ## Paso de flujo {#flow-step}
 
-1. Arrastre en el paso de flujo **Cambiar estado del programa**.
+1. Arrastre en el paso de flujo **[!UICONTROL Cambiar estado del programa]**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Elija el estado **No está en el programa**.
+   Elija el estado **[!UICONTROL No está en el programa]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## Pausar personas  {#pause-people}
 
-A veces solo se desea pausar a las personas en un programa de participación y no eliminarlas. Esto se hace con la **cadencia del programa de participación de cambios**.
+A veces solo se desea pausar a las personas en un programa de participación y no eliminarlas. Esto se hace con la **[!UICONTROL cadencia del programa de participación de cambios]**.
 
 >[!MORELIKETHIS]
 >

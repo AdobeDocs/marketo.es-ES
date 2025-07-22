@@ -4,20 +4,20 @@ description: 'Instalación de Marketo para Microsoft Dynamics 2015 local, paso 2
 title: Instale Marketo para Microsoft Dynamics 2015 local, paso 2 de 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
-# Paso 2 de 3: Configuración de Marketo para Dynamics (local de 2015){#step-of-set-up-for-marketo-on-premises-2015}
+# Paso 2 de 3: Configuración de Marketo para [!DNL Dynamics] (local de 2015){#step-of-set-up-for-marketo-on-premises-2015}
 
 Buen trabajo completando los pasos anteriores. Vamos a seguir avanzando a través de esto.
 
 >[!PREREQUISITES]
 >
->[Instalar Marketo para Microsoft Dynamics 2015 local, paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[Instalar Marketo para [!DNL Microsoft Dynamics] 2015: paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md) local
 
 ## Asignar función de usuario de sincronización {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!NOTE]
 >
->Esto se aplica a la versión de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar tu Marketo, consulta [Actualizar la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Esto se aplica a la versión de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar tu Marketo, consulta [Actualizar la solución Marketo para [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
    ![](assets/assign4.png)
 
-1. Compruebe el usuario de sincronización de Marketo y haga clic en **[!UICONTROL Aceptar]**.
+1. Comprueba [!UICONTROL el usuario de sincronización de Marketo] y haz clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/assign5.png)
 
@@ -97,10 +97,10 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 ## Antes de continuar con el paso 3 {#before-proceeding-to-step}
 
-* Si desea restringir el número de registros que sincroniza, [configure ahora un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}.
-* Ejecute el proceso [Validar sincronización de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Comprueba que las configuraciones iniciales se hayan realizado correctamente.
-* Inicie sesión en el usuario de sincronización de Marketo en Microsoft Dynamics CRM.
+* Si desea restringir el número de registros que sincroniza, [configure ahora un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Ejecute el proceso [Validar [!DNL Microsoft Dynamics] Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Comprueba que las configuraciones iniciales se hayan realizado correctamente.
+* Inicie sesión en el usuario de sincronización de Marketo en [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >
->[Instalar Marketo para Microsoft Dynamics 2015 local, paso 3 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}
+>[Instalar Marketo para [!DNL Microsoft Dynamics] 2015 local, paso 3 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

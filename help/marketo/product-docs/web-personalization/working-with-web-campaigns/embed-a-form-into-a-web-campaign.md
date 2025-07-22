@@ -4,10 +4,10 @@ description: 'Incrustar un formulario en una campaña web: documentos de Marketo
 title: Incrustar un formulario en una campaña web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 0%
+source-wordcount: '331'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de diálogo, zona interna o widget).
 
-1. Haga clic con el botón derecho en un formulario aprobado. Seleccionar **código incrustado**.
+1. Haga clic con el botón derecho en un formulario aprobado. Seleccionar **[!UICONTROL código incrustado]**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +23,11 @@ Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. En Web Personalization, vaya a **Campañas web**.
+1. En [!DNL Web Personalization], vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Haga clic en **Crear nueva campaña**.
+1. Haga clic en **[!UICONTROL Crear nueva campaña]**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de
 
    ![](assets/five-1.png)
 
-1. Pegue el código incrustado del formulario en el Editor de Source de HTML. Haga clic en **Actualizar**.
+1. Pegue el código incrustado del formulario en [!UICONTROL HTML Source Editor]. Haga clic en **[!UICONTROL Actualizar]**.
 
    ![](assets/six-1.png)
 
 1. El formulario no se mostrará en la vista del editor, pero puede previsualizarlo para ver cómo se procesará en una campaña.
 
-1. Haga clic en **Iniciar** para iniciar la campaña.
+1. Haga clic en **[!UICONTROL Iniciar]** para iniciar la campaña.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Para editar el CSS de una temática de formulario, consulte [este artículo](/he
 
 Para cambiar los colores de los cuadros de diálogo o los widgets en Definir campaña:
 
-1. En el Editor de texto enriquecido, seleccione un tipo de campaña de cuadro de diálogo y un estilo de cuadro de diálogo, color de encabezado y color de fondo para personalizar los colores de fondo del formulario. Haga clic en **Guardar**.
+1. En el Editor de texto enriquecido, seleccione un tipo de campaña de cuadro de diálogo y un estilo de cuadro de diálogo, color de encabezado y color de fondo para personalizar los colores de fondo del formulario. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,11 +73,11 @@ Para agregar código CSS al script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Pegue el código incrustado del formulario con el código de estilo de fondo en el Editor de Source de HTML. Haga clic en **Actualizar**.
+1. Pegue el código incrustado del formulario con el código de estilo de fondo en [!UICONTROL HTML Source Editor]. Haga clic en **[!UICONTROL Actualizar]**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Haga clic en **Vista previa** para ver cómo se procesará en una campaña (el formulario no se mostrará en la vista del editor). Este es un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
+1. Haga clic en **[!UICONTROL Vista previa]** para ver cómo se procesará en una campaña (el formulario no se mostrará en la vista del editor). Este es un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
@@ -85,4 +85,4 @@ Para agregar código CSS al script:
 >
 >* [Editar el CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensaje de agradecimiento sin una página de aterrizaje de seguimiento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

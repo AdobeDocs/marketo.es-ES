@@ -4,7 +4,7 @@ description: Anular el comportamiento de Analytics en el nivel de programa - Doc
 title: Anular el comportamiento de Analytics en el nivel de programa
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puede establecer el comportamiento de [analytics en el nivel de administrador en los canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), pero también puede anularlo en el nivel de programa. A continuación se muestra cómo:
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ Puede establecer el comportamiento de [analytics en el nivel de administrador en
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. En la ficha **Configuración**, arrastre Comportamiento de Analytics al lienzo.
+1. En la ficha **[!UICONTROL Configuración]**, arrastre [!UICONTROL Comportamiento de Analytics] al lienzo.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Seleccione el Comportamiento de Analytics que desee.
+1. Seleccione el [!UICONTROL comportamiento de Analytics] que desee.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Puede establecer el comportamiento de [analytics en el nivel de administrador en
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

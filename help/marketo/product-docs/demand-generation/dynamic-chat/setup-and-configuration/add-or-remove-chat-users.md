@@ -3,10 +3,10 @@ description: 'Adición o eliminación de usuarios de chat: documentos de Marketo
 title: Agregar o quitar usuarios de chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 1%
+source-wordcount: '262'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +40,7 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Escriba el nombre, el grupo de usuarios o la dirección de correo electrónico del usuario que desea agregar. El nombre y los apellidos son opcionales.
+1. Escriba el [!UICONTROL nombre, grupo de usuarios o dirección de correo electrónico] del usuario que desea agregar. El nombre y los apellidos son opcionales.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -56,9 +56,9 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
    >
    >Después de agregar un usuario en la Admin Console de Adobe, puede tardar hasta dos horas en aparecer en la página Administración del agente de Dynamic Chat.
 
-## Añadir acceso de Dynamic Chat a la función de Marketo {#add-dynamic-chat-access-to-marketo-role}
+## Agregar acceso de Dynamic Chat a la función de Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Si la función de Marketo del usuario de chat recién agregado no tiene permiso de Dynamic Chat, así es como se agrega.
+Si la función de Marketo del usuario de Chat que acaba de agregarse aún no tiene el permiso [!DNL Dynamic Chat], así es como se agrega.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]** y seleccione **[!UICONTROL Usuarios y roles]**.
 
@@ -72,7 +72,7 @@ Si la función de Marketo del usuario de chat recién agregado no tiene permiso 
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Seleccione **[!UICONTROL Dynamic Chat de acceso]** y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione **[!UICONTROL Acceder a Dynamic Chat]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 

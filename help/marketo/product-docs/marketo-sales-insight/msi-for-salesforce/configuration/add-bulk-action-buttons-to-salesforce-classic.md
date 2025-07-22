@@ -1,30 +1,30 @@
 ---
-description: 'Adición de botones de acción masiva a Salesforce Classic: Documentos de Marketo: documentación del producto'
-title: Agregar botones de acción masiva a Salesforce Classic
+description: 'Adición de botones de acción masiva a Salesforce Classic: documentos de Marketo, documentación del producto'
+title: Añadir botones de acción masiva a Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# Agregar botones de acción masiva a Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Agregar botones de acción en lotes a [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Puede añadir botones de Marketo a los diseños de Salesforce. A continuación se muestra un ejemplo:
+Puede agregar botones de Marketo a los diseños de [!DNL Salesforce]. A continuación se muestra un ejemplo:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Haga clic en **Configuración**. Busque &quot;diseño de búsqueda&quot; y haga clic en **Diseños de búsqueda** en **Posibles clientes**.
+1. Haga clic en **[!UICONTROL Configuración]**. Busque &quot;[!UICONTROL diseño de búsqueda]&quot; y haga clic en **[!UICONTROL Diseños de búsqueda]** en **[!UICONTROL Posibles clientes]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Haga clic en **Editar** en la fila **Vista de lista de posibles clientes**.
+1. Haga clic en **[!UICONTROL Editar]** en la fila **[!UICONTROL Vista de lista de posibles clientes]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Agregue los botones **Agregar a Marketo Campaign**, **Enviar correo electrónico de Marketo** y **Agregar a la lista de observación** a los **botones seleccionados** y **Guardar**.
+1. Agregue los botones **[!UICONTROL Agregar a Marketo Campaign]**, **[!UICONTROL Enviar correo electrónico de Marketo]** y **[!UICONTROL Agregar a la lista de observación]** a los **[!UICONTROL botones seleccionados]** y **[!UICONTROL Guardar]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

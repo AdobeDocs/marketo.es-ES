@@ -4,7 +4,7 @@ description: 'Creación de una plantilla de página de aterrizaje de forma libre
 title: Creación de una plantilla de página de aterrizaje de forma libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Las páginas de aterrizaje de forma libre requieren menos conocimientos técnicos que sus homólogas guiadas. Para crear una plantilla para futuras páginas de aterrizaje, siga los pasos a continuación.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Nueva** y, a continuación, seleccione **Nueva plantilla de página de aterrizaje**.
+1. Haga clic en **[!UICONTROL Nueva]** y, a continuación, seleccione **[!UICONTROL Nueva plantilla de página de aterrizaje]**.
 
    ![](assets/two.png)
 
-1. Elija la carpeta y, a continuación, asigne un nombre a la plantilla. La forma libre es el modo de edición predeterminado, así que después de asignar un nombre a la plantilla, haga clic en **Crear**.
+1. Elija la carpeta y, a continuación, asigne un nombre a la plantilla. La forma libre es el modo de edición predeterminado, así que después de asignar un nombre a la plantilla, haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    >[!NOTE]
    >
-   >El Soporte de Marketo no está configurado para ayudar a solucionar problemas con el HTML personalizado. Para obtener ayuda del HTML, consulte con un desarrollador web.
+   >La asistencia de Marketo no está configurada para ayudar a solucionar problemas de HTML personalizado. Para obtener ayuda de HTML, consulte con un desarrollador web.
 
-1. Cuando haya terminado de hacer cambios, haga clic en **Acciones de plantilla** y, a continuación, seleccione **Aprobar y cerrar**.
+1. Cuando haya terminado de hacer cambios, haga clic en **[!UICONTROL Acciones de plantilla]** y, a continuación, seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    >[!NOTE]
    >
-   >Seleccione **Deshabilitar el seguimiento de Munchkin** si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento web en una página específica.\
-   >Seleccione **Validar compatibilidad móvil** para asegurarse de que su código sea compatible con dispositivos móviles.
+   >Seleccione **[!UICONTROL Deshabilitar el seguimiento de Munchkin]** si desea evitar que los formularios se rellenen previamente o simplemente no desea realizar el seguimiento del comportamiento web en una página específica.\
+   >Seleccione **[!UICONTROL Validar compatibilidad móvil]** para asegurarse de que su código sea compatible con dispositivos móviles.
 
    >[!MORELIKETHIS]
    >

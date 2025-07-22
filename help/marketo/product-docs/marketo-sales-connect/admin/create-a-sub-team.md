@@ -4,7 +4,7 @@ description: 'Creación de un subequipo: documentos de Marketo, documentación d
 title: Crear un subequipo
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Crear un subequipo {#create-a-sub-team-1}
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one-1.png)
 
-1. En Configuración de administración, seleccione **Administración de equipo**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Administración de equipo]**.
 
    ![](assets/two-1.png)
 
-1. Junto a Todos los equipos, haga clic en **+**.
+1. Junto a [!UICONTROL Todos los equipos], haga clic en **+**.
 
    ![](assets/three-1.png)
 
-1. Escriba un nombre de equipo (y una descripción opcional) y haga clic en **Crear**.
+1. Escriba un nombre de equipo (y una descripción opcional) y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Agregar personas a su subequipo {#add-people-to-your-sub-team}
 
-1. En Administración del equipo, seleccione el grupo **Todos**.
+1. Aún en [!UICONTROL Team Management], seleccione el grupo **[!UICONTROL Todos]**.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Haga clic en **Agregar seleccionados a equipos**.
+1. Haga clic en **[!UICONTROL Agregar seleccionados a equipos]**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Haga clic en **Agregar a equipos** cuando haya terminado.
+1. Haga clic en **[!UICONTROL Agregar a equipos]** cuando haya terminado.
 
    ![](assets/nine.png)

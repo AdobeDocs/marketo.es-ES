@@ -3,26 +3,26 @@ description: 'Inicio de sesión automático desde Salesforce: documentos de Mark
 title: Inicio de sesión automático desde Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Inicio de sesión automático desde Salesforce {#auto-login-from-salesforce}
+# Inicio de sesión automático desde [!DNL Salesforce] {#auto-login-from-salesforce}
 
-El inicio de sesión automático permite a los usuarios de Acciones de perspectiva de ventas autenticarse automáticamente en Acciones de perspectiva de ventas al trabajar desde Salesforce.
+El inicio de sesión automático permite a los usuarios de [!DNL Sales Insight Actions] autenticarse automáticamente en [!DNL Sales Insight Actions] al trabajar desde [!DNL Salesforce].
 
 Para utilizar el inicio de sesión automático:
 
-* [La configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) debe establecerse en &quot;Solo Salesforce&quot;
+* [La configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) debe establecerse en &quot;[!UICONTROL Solo Salesforce]&quot;
 
-* Se debe haber invitado al usuario a utilizar las acciones de información de ventas
+* Se debe haber invitado al usuario a usar [!DNL Sales Insight Actions]
 
-* El usuario debe haber activado la cuenta conectando su cuenta de Salesforce a su instancia de acciones de perspectiva de ventas
+* El usuario debe haber activado la cuenta conectando su cuenta [!DNL Salesforce] a su instancia [!DNL Sales Insight Actions]
 
-* El nombre de usuario de Acciones de perspectiva de ventas del usuario debe coincidir con el nombre de usuario de Salesforce (o el nombre de usuario y el correo electrónico de Salesforce coinciden)
+* El nombre de usuario [!DNL Sales Insight Actions] del usuario debe coincidir con su nombre de usuario [!DNL Salesforce] (o su nombre de usuario y correo electrónico [!DNL Salesforce] coinciden)
 
 >[!MORELIKETHIS]
 >

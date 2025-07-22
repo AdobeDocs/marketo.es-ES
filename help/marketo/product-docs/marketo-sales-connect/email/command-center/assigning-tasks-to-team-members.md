@@ -4,7 +4,7 @@ description: Asignación de tareas a integrantes del equipo - Documentos de Mark
 title: Asignar tareas a integrantes del equipo
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser un
 >
 >Solo puede asignar tareas para contactos compartidos.
 
-1. Haga clic en **Centro de comandos**.
+1. Haga clic en **[!UICONTROL Centro de comandos]**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en **Agregar tarea**.
+1. Haga clic en **[!UICONTROL Agregar tarea]**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser un
 
    ![](assets/four-1.png)
 
-1. Seleccione a la persona de su equipo a la que desee asignar la tarea en el campo Asignar tarea.
+1. Seleccione a la persona de su equipo a la que desee asignar la tarea en el campo **[!UICONTROL Asignar tarea]**.
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser un
 
    ![](assets/six.png)
 
-1. Seleccione la Fecha de vencimiento.
+1. Seleccione la **[!UICONTROL fecha de vencimiento]**.
 
    ![](assets/seven.png)
 
-1. Establezca la Prioridad.
+1. Establezca la **[!UICONTROL Prioridad]**.
 
    ![](assets/eight.png)
 
-1. Agregue los detalles importantes que sean relevantes para su compañero de equipo (opcional) y haga clic en **Crear**.
+1. Agregue los detalles importantes que sean relevantes para su compañero de equipo (opcional) y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/nine.png)

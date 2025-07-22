@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720314
-description: Informe de rendimiento del correo electrónico de perspectivas de ventas - Documentos de Marketo - Documentación del producto
+description: Informe de rendimiento del correo electrónico de Insight de ventas - Documentos de Marketo - Documentación del producto
 title: Informe de desempeño de correo electrónico de Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 7%
 
 ---
 
 # Informe de desempeño de correo electrónico de Sales Insight {#sales-insight-email-performance-report}
 
-Vea el rendimiento de los correos electrónicos enviados a través de Salesforce, Microsoft Dynamics o un complemento de Gmail o Outlook.
+Ver el rendimiento de los mensajes de correo electrónico enviados a través de [!DNL Salesforce], [!DNL Microsoft Dynamics] o un complemento de Gmail o [!DNL Outlook].
 
 ## Generar un informe {#generate-a-report}
 
-1. Haga clic en **Analytics**.
+1. Haga clic en **[!UICONTROL Analytics]**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Haga clic en **Rendimiento de correo electrónico de Sales Insight**.
+1. Haga clic en **[!UICONTROL Rendimiento de correo electrónico de Sales Insight]**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Haga clic en la ficha **Configuración** y elija los valores que desee.
+1. Haga clic en la ficha **[!UICONTROL Configuración]** y elija los valores que desee.
 
    ![](assets/three.png)
 
-1. Haga clic en la ficha **Informe**.
+1. Haga clic en la ficha **[!UICONTROL Informe]**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -37,29 +37,29 @@ Vea el rendimiento de los correos electrónicos enviados a través de Salesforce
 
    >[!NOTE]
    >
-   >El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight y no se incluirá en este informe o registros de actividad.
+   >El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight y no se incluye en este informe ni en los registros de actividad.
 
 >[!TIP]
 >
 >Haga clic en el nombre de un correo electrónico para abrirlo en el previsualizador de correo electrónico.
 
-## Agrupar por representante de ventas {#group-by-sales-rep}
+## Agrupar por [!UICONTROL representante de ventas] {#group-by-sales-rep}
 
 Puede ver este informe agrupado por representante de ventas cambiando la configuración.
 
-1. Haga clic en **Configuración**. Haga doble clic en **Correo electrónico**.
+1. Haga clic en **[!UICONTROL Configuración]**. Haga doble clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Seleccionar correos electrónicos de grupo por **representante de ventas**.
+1. Seleccionar correos electrónicos de grupo por **[!UICONTROL representante de ventas]**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Haga clic en la ficha **Informe**.
+1. Haga clic en la ficha **[!UICONTROL Informe]**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

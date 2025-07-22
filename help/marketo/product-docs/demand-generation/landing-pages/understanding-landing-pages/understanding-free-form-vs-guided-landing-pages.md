@@ -4,9 +4,9 @@ description: 'Explicación de las páginas de aterrizaje improvisadas y guiadas:
 title: Explicación de las páginas de aterrizaje improvisadas y guiadas
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ La plantilla que elija determina en qué modo de edición de la página de aterr
 ## Páginas de forma libre {#free-form-pages}
 
 * Arrastre y suelte el contenido que desee, dondequiera que desee colocarlo.
-* La plantilla es como un patrón de diapositivas en PowerPoint, sólo un fondo.
+* La plantilla es como un(a) [!DNL SlideMaster] en [!DNL PowerPoint], solo un fondo.
 * Cree una versión móvil simple de su página con solo hacer clic en un botón.
 * Se recomienda utilizarlo cuando no tenga mucho tiempo o recursos técnicos a su disposición.
 

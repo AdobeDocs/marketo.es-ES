@@ -4,7 +4,7 @@ description: 'Añadir texto y tokens a una página de aterrizaje: documentación
 title: Añadir texto y tokens a una página de aterrizaje
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## Añadir texto enriquecido a la página de aterrizaje {#add-rich-text-to-your-landing-page}
 
-1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
+1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
    >
    >El diseñador de la página de aterrizaje se abre en una nueva ventana.
 
-1. Arrastre sobre el elemento **Texto enriquecido**.
+1. Arrastre sobre el elemento **[!UICONTROL Texto enriquecido]**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Escriba el texto que desee y haga clic en **Guardar**.
+1. Escriba el texto que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Los tokens son fragmentos de texto dinámicos que pueden personalizar la página
 >
 >Cosas como el Nombre provienen del registro de la persona. Otros tokens provienen de la pestaña Mis tokens del programa.
 
-1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
+1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Los tokens son fragmentos de texto dinámicos que pueden personalizar la página
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Escriba un **Valor predeterminado** y haga clic en **Insertar**.
+1. Escriba un **[!UICONTROL Valor predeterminado]** y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

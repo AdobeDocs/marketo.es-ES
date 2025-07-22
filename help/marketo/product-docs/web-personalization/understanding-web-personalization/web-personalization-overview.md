@@ -4,10 +4,10 @@ description: 'Información general de Web Personalization: documentos de Marketo
 title: Información general de Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '836'
-ht-degree: 1%
+source-wordcount: '849'
+ht-degree: 0%
 
 ---
 
@@ -15,38 +15,38 @@ ht-degree: 1%
 
 ## Introducción {#introduction}
 
-Para los nuevos clientes de Marketo, Real-Time Personalization se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Web Personalization y ContentAI.
+Para los nuevos clientes de Marketo, [!UICONTROL Real-Time Personalization] se divide en cuatro aplicaciones a las que se accede mediante estos dos mosaicos: [!UICONTROL Web Personalization] y [!UICONTROL ContentAI].
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Personalization web y ContentAI están disponibles en todos los idiomas compatibles con Marketo (inglés, francés, alemán, japonés, portugués y español).
+>[!UICONTROL Web Personalization] y [!UICONTROL ContentAI] están disponibles en todos los idiomas compatibles con Marketo (inglés, francés, alemán, japonés, portugués y español).
 
 Los clientes existentes siguen accediendo a las aplicaciones a través del mosaico de Real-Time Personalization hasta la renovación, momento en el que utilizarán el inicio de sesión anterior.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Al hacer clic en el mosaico de Web Personalization, aparece la página Panel. Haga clic en el mosaico Inteligencia artificial aplicada al contenido y vaya directamente a la página Recommendations de contenido.
+Al hacer clic en el mosaico [!UICONTROL Web Personalization], aparecerá la página Panel. Haga clic en el mosaico [!UICONTROL ContentAI] y accederá directamente a la página Recomendaciones de contenido.
 
 Las cuatro aplicaciones son:
 
-* Personalización web
-* Marketing web basado en cuentas
-* Redireccionamiento de sitios web
-* ContentAI
+* [!UICONTROL Web Personalization]
+* [!UICONTROL Marketing web basado en cuentas]
+* [!UICONTROL Redireccionamiento de sitio web]
+* [!UICONTROL Inteligencia artificial aplicada al contenido]
 
-El mosaico **Web Personalization** es el punto de acceso para crear campañas web personalizadas. Marketing web basado en cuentas y redireccionamiento web. Puede agregar contenido en la página Análisis de contenido.
+El mosaico **[!UICONTROL Web Personalization]** es el punto de acceso para crear campañas web personalizadas. Marketing web basado en cuentas y redireccionamiento web. Puede añadir contenido en la página de Content Analytics.
 
-**Marketing web basado en cuentas** funciona con Web Personalization y ofrece cuentas con nombre. La página Cuentas con nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
+**[!UICONTROL Marketing web basado en cuentas]** funciona con Web Personalization y ofrece cuentas con nombre. La página Cuentas con nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
 
-**Redireccionamiento de sitios web** le ofrece la posibilidad de volver a enviar marketing a audiencias segmentadas. Puede establecer segmentos, pero no puede usar cuentas con nombre en el filtro.
+**[!UICONTROL Redireccionamiento de sitios web]** le ofrece la posibilidad de volver a enviar marketing a audiencias segmentadas. Puede establecer segmentos, pero no puede usar cuentas con nombre en el filtro.
 
-**ContentAI** es el lugar donde dar recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
+**[!UICONTROL ContentAI]** es el lugar donde dar recomendaciones de contenido. Puede añadir contenido fácilmente a la página Recomendaciones de contenido.
 
 >[!NOTE]
 >
->Para acceder a marketing web basado en cuentas o a redireccionamiento de sitios web, debe hacer clic en el mosaico Personalization web, aunque no tenga la aplicación Personalization web.
+>Para obtener acceso a [!UICONTROL Marketing web basado en cuentas] o a [!UICONTROL Redireccionamiento de sitios web], debe hacer clic en el mosaico de [!UICONTROL Personalization web], aunque no tenga la aplicación de [!UICONTROL Personalization web].
 
 ## Organizaciones {#organizations}
 
@@ -69,7 +69,7 @@ El panel derecho de la página Organizaciones ofrece las siguientes funciones y 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icono de hoja de cálculo</strong>: situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para su uso sin conexión</p><p><strong>Establecer alerta de correo electrónico</strong>: envía un correo electrónico al usuario que ha iniciado sesión cada vez que la organización seleccionada visita el sitio web</p><p><strong>Posibles clientes</strong>: abre la tabla de posibles clientes de la organización seleccionada</p><p><strong>Compartir</strong>: abre una ventana emergente para enviar un correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono de ubicación</strong>: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web correspondiente y ofrece una perspectiva adicional de la organización seleccionada</p><p><strong>Búsqueda</strong>: Muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>Referentes</strong>: muestra el vínculo URL de la página que refirió el tráfico a su sitio</p><p><strong>Visitantes</strong>: Muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completaron un formulario de envío) y la hora y fecha de la última visita</p><p><strong>Flujo de navegación</strong>: muestra una tabla de la actividad del usuario y la ruta de la URL en el sitio, así como el tiempo que ha visitado cada página</p></td> 
+   <td><p><strong>Icono de hoja de cálculo</strong>: situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para su uso sin conexión</p><p><strong>[!UICONTROL Establecer alerta por correo electrónico]</strong>: envía un correo electrónico al usuario que ha iniciado sesión cada vez que la organización seleccionada visita el sitio web</p><p><strong>[!UICONTROL Leads]</strong>: abre la tabla de posibles clientes de la organización seleccionada</p><p><strong>[!UICONTROL Compartir]</strong>: abre una ventana emergente para enviar un correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono de ubicación</strong>: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web correspondiente que ofrece insight adicional a la organización seleccionada</p><p><strong>[!UICONTROL Search]</strong>: muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>[!UICONTROL Referrers]</strong>: muestra el vínculo URL de la página que refirió el tráfico a su sitio</p><p><strong>[!UICONTROL Visitors]</strong>: muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completaron un formulario de envío) y la hora y fecha de la última visita</p><p><strong>[!UICONTROL Clickstream]</strong>: muestra una tabla de la actividad del usuario y la ruta de acceso a la URL en el sitio, así como el tiempo durante el cual visitó cada página</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -79,7 +79,7 @@ El panel derecho de la página Organizaciones ofrece las siguientes funciones y 
 
 ¿Desea compartir la información del visitante del sitio web con un compañero? Haga clic en una organización y, a continuación, en el vínculo Compartir del panel lateral derecho.
 
-Esto activa la superposición Compartir esta organización, donde puede enviar un correo electrónico compartiendo el nombre y los detalles de la organización que visitó el sitio web.
+Esto activa la superposición [!UICONTROL Compartir esta organización], donde puede enviar un correo electrónico compartiendo el nombre y los detalles de la organización que visitó el sitio web.
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
@@ -87,11 +87,11 @@ Esto activa la superposición Compartir esta organización, donde puede enviar u
 
 ![](assets/wp-vis.jpg)
 
-La página Visitantes muestra todos los detalles y el comportamiento en línea de cada visitante que llegó a su sitio en un período de tiempo determinado. La página ofrece una perspectiva detallada de las actividades y el comportamiento en línea de cada visitante individual. Los datos de visitante de la tabla se actualizan en un plazo de 24 a 48 horas.
+La página Visitantes muestra todos los detalles y el comportamiento en línea de cada visitante que llegó a su sitio en un período de tiempo determinado. La página ofrece una insight detallada de las actividades y el comportamiento en línea de cada visitante individual. Los datos de visitante de la tabla se actualizan en un plazo de 24 a 48 horas.
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-El panel derecho de la página Visitantes proporciona las siguientes perspectivas:
+El panel derecho de la página [!UICONTROL Visitantes] proporciona la siguiente información:
 
 <table> 
  <thead> 
@@ -143,27 +143,27 @@ La página Tiempo real se divide en 6 tablas informativas con detalles de visita
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Visitantes</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitantes]</strong></td> 
    <td colspan="1" rowspan="1"> Representa el número de visitantes que hay actualmente en el sitio web</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Clics por minuto</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clics por minuto]</strong></p></td> 
    <td colspan="1" rowspan="1"> Gráfico de líneas en directo que muestra la cantidad de clics en el sitio por minuto</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Organizaciones principales</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Organizaciones principales]</strong></td> 
    <td colspan="1" rowspan="1">Una versión breve de la tabla Organizaciones</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Segmento en tiempo real</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Segmento en tiempo real]</strong></td> 
    <td colspan="1">Cantidad de visitantes que están en el sitio actualmente y que coinciden con los segmentos designados</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Explorando actualmente</strong></td> 
+   <td colspan="1"><strong>[!UICONTROL Está explorando actualmente]</strong></td> 
    <td colspan="1">La URL de las páginas que están viendo los visitantes en el sitio</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Principales referencias</strong></td> 
+   <td colspan="1" rowspan="1"><strong>Referencias principales de [!UICONTROL]</strong></td> 
    <td colspan="1" rowspan="1">Dirección URL de referencia que trajo al visitante a su sitio</td> 
   </tr> 
  </tbody> 

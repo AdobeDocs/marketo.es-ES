@@ -4,16 +4,16 @@ description: 'Sincronización de SFDC: sincronización de objetos personalizada 
 title: 'Sincronización de SFDC: sincronización de objetos personalizada'
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Sincronización SFDC: sincronización de objetos personalizada {#sfdc-sync-custom-object-sync}
+# Sincronización de SFDC: sincronización de objetos personalizada {#sfdc-sync-custom-object-sync}
 
-Los objetos personalizados creados en la instancia de Salesforce también pueden formar parte de Marketo Engage. A continuación se muestra cómo configurarlo.
+Los objetos personalizados creados en su instancia de [!DNL Salesforce] también pueden formar parte de Marketo.  A continuación se muestra cómo configurarlo.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
 >[!PREREQUISITES]
 >
->Para usar un objeto personalizado, debe estar asociado a un objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} en Salesforce.
+>Para usar un objeto personalizado, debe estar asociado a un objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) en [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    >[!NOTE]
    >
-   >Una sincronización inicial del esquema de objetos personalizados de Salesforce puede tardar unos minutos.
+   >Una sincronización inicial del esquema de objeto personalizado [!DNL Salesforce] puede tardar unos minutos.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -67,7 +67,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
    >
    >No olvide volver a activar la sincronización global.
 
-1. Vuelva a la ficha **Salesforce**.
+1. Vuelva a la ficha **[!UICONTROL Salesforce]**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para ver todos los objetos personalizados de Salesforce, haz clic en **[!UICONTROL Administrador]** y en el vínculo **[!UICONTROL Sincronización de objetos de Salesforce]** (igual que el paso 1 anterior).
+1. Para ver todos los objetos personalizados de [!DNL Salesforce], haz clic en **[!UICONTROL Administrador]** y en el vínculo **[!UICONTROL Sincronización de objetos de Salesforce]** (igual que el paso 1 anterior).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

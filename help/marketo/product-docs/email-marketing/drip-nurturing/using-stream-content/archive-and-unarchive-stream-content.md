@@ -4,10 +4,10 @@ description: 'Archivar y desarchivar contenido de la emisión: documentos de Mar
 title: Archivar y desarchivar contenido de la emisión
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,27 +21,27 @@ Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/
 
 ## Archivar contenido de la emisión {#archive-stream-content}
 
-1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
+1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Pase el ratón sobre el correo electrónico que quiera archivar y luego, debajo del icono de engranaje, haga clic en **Archivar**.
+1. Pase el ratón sobre el correo electrónico que quiera archivar y luego, debajo del icono de engranaje, haga clic en **[!UICONTROL Archivar]**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   ¡Eso es todo! Recuerde, archivar si desea conservar el historial.
+   ¡Ya está! Recuerde, archivar si desea conservar el historial.
 
 ## Desarchivar contenido de la emisión {#unarchive-stream-content}
 
-1. Seleccione su programa de participación y vaya a la ficha **Transmisiones**.
+1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Haz clic en el icono de engranaje de tu flujo y luego haz clic en **Mostrar contenido archivado**.
+1. Haz clic en el icono de engranaje de tu flujo y luego haz clic en **[!UICONTROL Mostrar contenido archivado]**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Ahora que puedes ver el contenido archivado, haz clic en el icono de engranaje del contenido que deseas desarchivar y luego haz clic en **Desarchivar**.
+1. Ahora que puedes ver el contenido archivado, haz clic en el icono de engranaje del contenido que deseas desarchivar y luego haz clic en **[!UICONTROL Desarchivar]**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

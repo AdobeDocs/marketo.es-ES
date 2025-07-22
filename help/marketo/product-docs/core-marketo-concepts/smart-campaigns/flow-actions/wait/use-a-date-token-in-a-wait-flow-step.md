@@ -4,7 +4,7 @@ description: 'Uso de un token de fecha en un paso de flujo de espera: documentos
 title: Uso de un token de fecha en un paso de flujo de espera
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Elija un token de fecha para especificar cuándo debe finalizar el paso de espera:
+1. Elija un [!UICONTROL Token de fecha] para especificar cuándo debe finalizar el paso de espera:
 
    * `{{my._____}}`
    * `{{lead.______}}`

@@ -4,7 +4,7 @@ description: Agregar o quitar campos de objetos personalizados como restriccione
 title: Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 >
 >**Se requieren permisos de administración**
 
-1. Llegó al área de **[!UICONTROL Admin]**.
+1. Haga clic en **[!UICONTROL Administrador].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. Haga clic en **[!UICONTROL Sincronizar objetos de Salesforce]**.
+1. Haga clic en **[!UICONTROL Administrador]** y, a continuación, en **[!UICONTROL Sincronizar objetos de Salesforce].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

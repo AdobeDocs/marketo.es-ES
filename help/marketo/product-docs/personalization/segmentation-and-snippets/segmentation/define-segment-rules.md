@@ -4,7 +4,7 @@ description: Definición de reglas de segmentos - Documentos de Marketo - Docume
 title: Definir reglas de segmentos
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -19,15 +19,15 @@ La definición de reglas de segmentos le permite clasificar a sus recursos en di
 >
 >[Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Ir a la **base de datos.**
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Seleccione **Segmentación** del árbol y luego haga clic en un **Segmento** en particular.
+1. Seleccione **[!UICONTROL Segmentaciones]** del árbol y luego haga clic en un **Segmento** en particular.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Haga clic en **Lista inteligente** y agregue filtros.
+1. Haga clic en **[!UICONTROL Lista inteligente]** y agregue filtros.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -37,7 +37,7 @@ La definición de reglas de segmentos le permite clasificar a sus recursos en di
 
    >[!NOTE]
    >
-   >Los filtros &quot;Tipo SFDC&quot; y &quot;Tipo Microsoft&quot; actualmente no son compatibles con las listas inteligentes de segmentación.
+   >Los filtros &quot;Tipo de SFDC&quot; y &quot;Tipo de Microsoft&quot; actualmente no son compatibles con las listas inteligentes de segmentación.
 
 1. Rellene los valores adecuados para los filtros.
 
@@ -47,11 +47,11 @@ La definición de reglas de segmentos le permite clasificar a sus recursos en di
    >
    >El comportamiento del registro de actividades para los campos de cuenta puede afectar a la calificación. Por lo tanto, se recomienda evitar el uso de campos de Cuenta al definir reglas de segmento.
 
-1. Haga clic en la ficha **Personas (borrador)** para ver las personas que pueden cumplir los requisitos para ser miembros de este segmento.
+1. Haga clic en la ficha **[!UICONTROL Personas (borrador)]** para ver las personas que pueden cumplir los requisitos para ser miembros de este segmento.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Vaya a **Acciones de segmentación**. Haga clic en **Aprobar**.
+1. Vaya a **[!UICONTROL Acciones de segmentación]**. Haga clic en **[!UICONTROL Aprobar]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -73,7 +73,7 @@ La definición de reglas de segmentos le permite clasificar a sus recursos en di
 
 >[!NOTE]
 >
->La pantalla Personas (Borrador) muestra todas las personas que cumplen los requisitos para ser miembros y no siempre es la lista final de personas. Apruebe el segmento para ver la lista final.
+>La pantalla [!UICONTROL Personas (Borrador)] muestra todas las personas que cumplen los requisitos para ser miembro y no siempre es la lista final de personas. Apruebe el segmento para ver la lista final.
 
 >[!MORELIKETHIS]
 >

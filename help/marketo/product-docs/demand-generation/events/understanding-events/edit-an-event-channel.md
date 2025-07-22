@@ -4,7 +4,7 @@ description: 'Edición de un canal de eventos: documentos de Marketo, documentac
 title: Editar un canal de eventos
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 2%
@@ -25,43 +25,43 @@ Puede editar el tipo de canal desde la pestaña **Resumen** del evento o desde s
 
 ## Desde la pestaña Resumen {#from-the-summary-tab}
 
-1. En **Actividades de mercadotecnia**, seleccione el evento en el árbol.
+1. En **[!UICONTROL Actividades de mercadotecnia]**, seleccione el evento en el árbol.
 
    ![](assets/eventprogramseelct.png)
 
-1. Vaya a la vista **Resumen**.
+1. Vaya a la vista **[!UICONTROL Resumen]**.
 
    ![](assets/eventprogramsummary.png)
 
-1. En la categoría **Configuración**, seleccione el **canal** actual que se muestra como un hipervínculo.
+1. En la categoría **[!UICONTROL Configuración]**, seleccione el **[!UICONTROL canal]** actual que se muestra como un hipervínculo.
 
    ![](assets/channeltypeevent.png)
 
-1. En la lista desplegable, seleccione un canal nuevo.
+1. En la lista desplegable, selecciona un nuevo **[!UICONTROL canal]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Desde la pestaña Configuración {#from-the-setup-tab}
 
-También se puede asignar un nuevo tipo de canal desde la ficha **Configuración** del evento.
+También se puede asignar un nuevo tipo de canal desde la ficha **[!UICONTROL Configuración]** del evento.
 
 1. Seleccione el evento en el árbol.
 
    ![](assets/eventprogramseelct.png)
 
-1. Vaya a la ficha **Configuración**. Haga doble clic en el **canal** actual.
+1. Vaya a la ficha **[!UICONTROL Configuración]**. Haga doble clic en el **canal** actual.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Seleccione un nuevo **canal**.
+1. Seleccione un nuevo **[!UICONTROL canal]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

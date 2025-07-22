@@ -4,7 +4,7 @@ description: 'Priorización de campañas web: documentos de Marketo, documentaci
 title: Priorización de campañas web
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Priorice las campañas web cuando dos o más campañas web se superpongan median
 >
 >Una campaña In Zone y una campaña (Widget o Diálogo) pueden reaccionar en la misma página.
 
-1. Vaya a Campañas web.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/web-campaigns-hand-6.jpg)
 
@@ -34,16 +34,16 @@ Priorice las campañas web cuando dos o más campañas web se superpongan median
    >
    >Para facilitar la búsqueda de la campaña web que deseas, usa la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. En la página Editar campaña, establezca la puntuación de prioridad (9999 = Prioridad más alta 1 = Prioridad más baja).
+1. En la página Editar campaña, establezca [!UICONTROL Puntuación de prioridad] (9999 = Prioridad más alta 1 = Prioridad más baja).
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >Le recomendamos que utilice la puntuación de prioridad de campaña solo si existe una posible superposición de campañas, con una importancia mayor de una de ellas. No es necesario que establezca una prioridad para cada campaña.
+   >Le recomendamos que utilice la campaña [!UICONTROL Puntuación de prioridad] solo si existe una posible superposición de campañas, con una importancia mayor de una de ellas. No es necesario que establezca una prioridad para cada campaña.
 
 1. Guarde o inicie la campaña.
 
-1. Consulte la puntuación de prioridad mostrada en la página Campañas web.
+1. Ver la [!UICONTROL puntuación de prioridad] mostrada en la página [!UICONTROL Campañas web].
 
 ![](assets/web-campaign-priority-score.jpg)

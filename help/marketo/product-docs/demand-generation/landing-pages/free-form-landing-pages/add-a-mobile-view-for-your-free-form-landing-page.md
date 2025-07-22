@@ -4,7 +4,7 @@ description: 'Añadir una vista móvil para la página de aterrizaje de forma li
 title: Agregar una vista móvil para la página de aterrizaje de forma libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un
 >
 >La vista móvil funciona en pantallas de 480 píxeles de ancho (o menos). En otras palabras, smartphones. Aquí tienes más [información sobre las resoluciones del dispositivo](https://www.mydevice.io/).
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,15 +27,15 @@ Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un
 
    ![](assets/choose-landing-page.jpg)
 
-1. Haga clic en **Editar borrador**.
+1. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Haga clic en la ficha **Móvil**.
+1. Haga clic en la ficha **[!UICONTROL Móvil]**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Haga clic en **Activar**.
+1. Haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
@@ -43,7 +43,7 @@ Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un
    >
    >Puede que sea necesario actualizar la plantilla de forma libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) una plantilla de página de aterrizaje de forma libre existente para dispositivos móviles.
 
-1. ¡Excelente! Ya ha activado la versión móvil de la página de aterrizaje. Haga clic en **Cerrar**.
+1. ¡Excelente! Ya ha activado la versión móvil de la página de aterrizaje. Haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

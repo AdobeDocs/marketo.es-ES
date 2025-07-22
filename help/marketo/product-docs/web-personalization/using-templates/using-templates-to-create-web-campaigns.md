@@ -4,7 +4,7 @@ description: 'Uso de plantillas para crear campañas web: documentos de Marketo,
 title: Uso de plantillas para crear campañas web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Acelere y simplifique su proceso de creación de campañas web usando nuestras p
 >
 >Las plantillas están optimizadas para todos los dispositivos y experiencias de navegación, tanto para escritorio como para móviles.
 
-1. Vaya a **Campañas web**.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Haga clic en **Crear nueva campaña web**.
+1. Haga clic en **[!UICONTROL Crear nueva campaña web]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ Acelere y simplifique su proceso de creación de campañas web usando nuestras p
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Seleccione un Segmento de destino.
+1. Seleccione un [!UICONTROL Segmento de destino].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Haga clic en **Plantillas**.
+1. Haga clic en **[!UICONTROL Plantillas]**.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Acelere y simplifique su proceso de creación de campañas web usando nuestras p
 
    ![](assets/customize-template.jpg)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/click-save-hand.jpg)
 

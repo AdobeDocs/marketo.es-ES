@@ -4,26 +4,26 @@ description: 'Registrar correo entrante de sus posibles clientes en Marketo: doc
 title: Registrar correo entrante de sus posibles clientes en Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Registrar correo entrante de sus posibles clientes en Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
-Puede registrar las respuestas de sus posibles clientes directamente en Outlook con el complemento de correo electrónico de Marketo.
+Puede registrar las respuestas de sus posibles clientes en [!DNL Outlook] con el complemento de correo electrónico de Marketo.
 
-## Desde la aplicación principal de Outlook {#from-the-main-outlook-application}
+## Desde la aplicación principal [!DNL Outlook] {#from-the-main-outlook-application}
 
-1. Seleccione el correo electrónico que desea registrar y haga clic en Log with Marketo.
+1. Seleccione el correo electrónico que desea registrar y haga clic en **[!UICONTROL Registrar con Marketo]**.
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
 >[!TIP]
 >
->También puedes hacer clic con el botón derecho en un mensaje y hacer clic en **Iniciar sesión con Marketo**.
+>También puedes hacer clic con el botón derecho en un mensaje y hacer clic en **[!UICONTROL Iniciar sesión con Marketo]**.
 
 Debería ver una confirmación.
 
@@ -31,7 +31,7 @@ Debería ver una confirmación.
 
 ## Desde el propio correo electrónico {#from-the-email-itself}
 
-Si ha abierto el correo electrónico, simplemente puede hacer clic en el botón Log with Marketo desde allí.
+Si has abierto el correo electrónico, solo tienes que hacer clic en el botón **[!UICONTROL Iniciar sesión con Marketo]** desde allí.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -43,5 +43,5 @@ Registre las respuestas del posible cliente para agregarlas a su historial en Ma
 
 >[!MORELIKETHIS]
 >
->* [Enviar y rastrear un correo electrónico con el complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar y rastrear desde Outlook usando una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar y rastrear un correo electrónico con el complemento de correo electrónico de Marketo para [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar y rastrear desde [!DNL Outlook] usando una plantilla de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

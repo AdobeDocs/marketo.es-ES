@@ -4,7 +4,7 @@ description: 'Editar la versión de texto de un correo electrónico: documentos 
 title: Editar la versión de texto de un correo electrónico
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Editar la versión de texto de un correo electrónico {#edit-the-text-version-of-an-email}
 
-Al crear un correo electrónico, es posible que desee que su versión de texto esté redactada de forma diferente a la versión del HTML. De forma predeterminada, Marketo copia automáticamente el contenido de texto de cualquier elemento de texto enriquecido del correo electrónico en la versión de texto. A continuación se muestra cómo editarlo.
+Al crear un mensaje de correo electrónico, es posible que desee que su versión de texto esté redactada de forma diferente a la versión de HTML. De forma predeterminada, Marketo copia automáticamente el contenido de texto de cualquier elemento de texto enriquecido del correo electrónico en la versión de texto. A continuación se muestra cómo editarlo.
 
 >[!NOTE]
 >
 >Este no es un artículo sobre la creación de un correo electrónico de solo texto. Para obtener información al respecto, consulte [Crear un mensaje de correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. En el editor de correo electrónico, haga clic en la ficha **Texto** en la parte inferior del correo electrónico.
+1. En el editor de correo electrónico, haga clic en la ficha **[!UICONTROL Texto]** en la parte inferior del correo electrónico.
 
    ![](assets/one-5.png)
 
-1. Desmarque **Copiar automáticamente del HTML** para realizar cambios.
+1. Desmarque **[!UICONTROL Copiar automáticamente desde HTML]** para realizar cambios.
 
    ![](assets/two-5.png)
 
@@ -41,4 +41,4 @@ Al crear un correo electrónico, es posible que desee que su versión de texto e
 
 >[!CAUTION]
 >
->Si se selecciona **Copiar del HTML** o se vuelve a seleccionar **Copiar automáticamente del HTML** en los correos electrónicos que contienen contenido dinámico, el indicador Revisado se establecerá en _verdadero_ para todos los segmentos (lo que produce la marca de verificación verde que indica que se ha revisado) tanto en el HTML como en las versiones de texto del correo electrónico. Si realiza cualquiera de las acciones anteriores, asegúrese de volver a comprobar el contenido antes de enviarlo.
+>Si se selecciona **Copiar de HTML** o se vuelve a seleccionar **Copiar automáticamente desde HTML** en los correos electrónicos que contienen contenido dinámico, el indicador Revisado se establecerá en _verdadero_ para todos los segmentos (lo que produce la marca de verificación verde que indica que se ha revisado) tanto en las versiones de HTML como en las de texto del correo electrónico. Si realiza cualquiera de las acciones anteriores, asegúrese de volver a comprobar el contenido antes de enviarlo.

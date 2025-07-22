@@ -3,20 +3,20 @@ description: 'Información general sobre la sincronización de Campaign: Documen
 title: Información general de sincronización de Campaign
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
 # Información general de sincronización de Campaign {#campaign-sync-overview}
 
-Como parte de la sincronización de campañas, los usuarios pueden configurar la automatización para que funcione al suscribirse a una campaña de Dynamics. Los posibles clientes cualificados para comportamientos específicos o datos demográficos pueden formar parte de campañas de Microsoft.
+Como parte de la sincronización de campañas, los usuarios pueden configurar la automatización para que funcione cuando se suscriba a una campaña de [!DNL Dynamics]. Los posibles clientes cualificados para comportamientos específicos o datos demográficos pueden formar parte de campañas de Microsoft.
 
 >[!PREREQUISITES]
 >
->Actualice a la última versión del complemento de Dynamics para Marketo Engage.
+>Actualice a la última versión del complemento [!DNL Dynamics] para Marketo.
 
 Están disponibles las siguientes acciones de flujo:
 
@@ -36,9 +36,9 @@ Los déclencheur se ejecutarán según las acciones de la acción de flujo de Ma
 
 >[!NOTE]
 >
->Asegúrese de que la sincronización de campañas funcione y de que la campaña no esté inactiva en Microsoft Dynamics.
+>Asegúrese de que la sincronización de campañas funcione y de que la campaña no esté inactiva en Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
->* [Habilitar sincronización de campaña](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Agregar o quitar personas de su campaña de Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Habilitar sincronización de campaña](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [Agregar o quitar personas de tu [!DNL Dynamics] campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

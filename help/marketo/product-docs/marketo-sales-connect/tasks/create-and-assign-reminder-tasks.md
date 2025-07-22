@@ -3,7 +3,7 @@ description: Creación y asignación de tareas de recordatorio - Documentos de M
 title: Crear y asignar tareas de recordatorio
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Las tareas de recordatorio son una buena manera de mantenerse al tanto de la participación del cliente y del cliente potencial. Para crear una tarea, siga estos pasos.
 
-1. Haga clic en **Centro de comandos**.
+1. Haga clic en **[!UICONTROL Centro de comandos]**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Tareas se abre de forma predeterminada. Haga clic en **Agregar tarea**.
+1. Tareas se abre de forma predeterminada. Haga clic en **[!UICONTROL Agregar tarea]**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Seleccione el tipo de tarea de Correo electrónico, Llamada, InMail o Tarea personalizada.
+1. Seleccione el tipo de tarea entre [!UICONTROL Correo electrónico], [!UICONTROL Llamada], [!UICONTROL EnCorreo] o Tarea [!UICONTROL Personalizada].
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ Las tareas de recordatorio son una buena manera de mantenerse al tanto de la par
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de llamada, una plantilla de mensaje InMail o incluso notas sobre la persona. Haga clic en **Crear** cuando haya terminado.
+1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de llamada, una plantilla de mensaje InMail o incluso notas sobre la persona. Haga clic en **[!UICONTROL Crear]** cuando haya terminado.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

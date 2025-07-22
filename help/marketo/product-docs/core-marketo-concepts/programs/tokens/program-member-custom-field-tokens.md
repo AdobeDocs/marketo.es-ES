@@ -4,7 +4,7 @@ description: Tokens de campo personalizado de miembro del programa - Documentos 
 title: Tokens de campo personalizado de miembro de programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
@@ -93,7 +93,7 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en Insert.
+1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Escriba un [!UICONTROL valor predeterminado] y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

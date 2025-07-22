@@ -4,22 +4,22 @@ description: Establecer un prefijo de campo personalizado predeterminado - Docum
 title: Establecer un prefijo de campo personalizado predeterminado
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Establecer un prefijo de campo personalizado predeterminado {#set-a-default-custom-field-prefix}
 
-El prefijo predeterminado de Microsoft Dynamics para los campos personalizados debe ser _new_ para que los campos propietarios de Marketo se sincronicen correctamente. A continuación se indica cómo cambiar el prefijo predeterminado.
+El prefijo predeterminado [!DNL Microsoft Dynamics] de los campos personalizados debe ser **new** para que los campos propietarios de Marketo se sincronicen correctamente. A continuación se indica cómo cambiar el prefijo predeterminado.
 
-1. Vaya a Configuración y seleccione **Personalizaciones**.
+1. Vaya a [!UICONTROL Configuración] y seleccione **[!UICONTROL Personalizaciones].**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Haga clic en **Publicadores**.
+1. Haga clic en **[!UICONTROL Publicadores]**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,15 +27,15 @@ El prefijo predeterminado de Microsoft Dynamics para los campos personalizados d
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Cambie el prefijo a **new**. Haga clic en **Guardar y cerrar**.
+1. Cambie el prefijo a **new**. Haga clic en **[!UICONTROL Guardar y cerrar]**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. Vaya a Configuración > Soluciones para publicar las personalizaciones.
+1. Vaya a [!UICONTROL Configuración] > [!UICONTROL Soluciones] para publicar las personalizaciones.
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Haga clic en **Publish All Customization**.
+1. Haga clic en **[!UICONTROL Publicar todas las personalizaciones]**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

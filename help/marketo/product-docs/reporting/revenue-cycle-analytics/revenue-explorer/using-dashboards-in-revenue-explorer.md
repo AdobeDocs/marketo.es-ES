@@ -4,24 +4,24 @@ description: Uso de paneles en el Explorador de ingresos - Documentos de Marketo
 title: Uso de paneles en el Explorador de ingresos
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Uso de paneles en el Explorador de ingresos {#using-dashboards-in-revenue-explorer}
+# Usando paneles en [!UICONTROL Explorador de ingresos] {#using-dashboards-in-revenue-explorer}
 
-Un tablero es una combinación de informes del Explorador de ingresos para obtener una visión general rápida de los posibles clientes, las campañas, las oportunidades o los modelos.
+Un tablero es una combinación de informes de [!UICONTROL Explorador de ingresos] para obtener una descripción general rápida de los posibles clientes, las campañas, las oportunidades o los modelos.
 
 ## Creación de un nuevo tablero {#creating-a-new-dashboard}
 
-1. Haga clic en **Explorador de ingresos**.
+1. Haga clic en **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Crear nuevo** y luego en **Tablero**.
+1. Haga clic en **[!UICONTROL Crear nuevo]** y luego en **[!UICONTROL Tablero]**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    >[!NOTE]
    >
-   >Puede personalizar aún más el aspecto de su tablero si hace clic en **Temas** y elige su favorito.
+   >Puede personalizar aún más el aspecto de su tablero si hace clic en **[!UICONTROL Temas]** y elige su favorito.
 
-1. En la primera sección del panel, haga clic en el icono **Insertar** y seleccione **Archivo**.
+1. En la primera sección del panel, haga clic en el icono **Insertar** y seleccione **[!UICONTROL Archivo]**.
 
    ![](assets/four.png)
 
-1. Haga doble clic en **Explorador de ingresos**.
+1. Haga doble clic en **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/five.png)
 
-1. Haga doble clic en **Todos los informes y paneles**.
+1. Haga doble clic en **[!UICONTROL Todos los informes y paneles]**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    ![](assets/seven.png)
 
-1. Elija su informe y haga clic en **Seleccionar**.
+1. Elija su informe y haga clic en **[!UICONTROL Seleccionar]**.
 
    ![](assets/eight.png)
 
@@ -57,38 +57,38 @@ Un tablero es una combinación de informes del Explorador de ingresos para obten
 
    ![](assets/nine.png)
 
-1. Para cambiar el nombre de una sección, haga clic en ella para seleccionarla, escriba el nombre deseado en Título y haga clic en **Aplicar**. Repita el proceso para cada sección.
+1. Para cambiar el nombre de una sección, haga clic en ella para seleccionarla, escriba el nombre deseado en **[!UICONTROL Título]** y haga clic en **[!UICONTROL Aplicar]**. Repita el proceso para cada sección.
 
    ![](assets/ten.png)
 
-1. Para guardar, haz clic en el icono Guardar, escribe un nombre de archivo, haz doble clic en la carpeta del Explorador de ingresos hasta que llegues a la carpeta deseada para tu panel y haz clic en **Guardar**.
+1. Para guardar, haz clic en el icono [!UICONTROL Guardar], escribe un [!UICONTROL Nombre de archivo], haz doble clic en la carpeta [!UICONTROL Explorador de ingresos] hasta que llegues a la carpeta deseada para tu panel y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/eleven.png)
 
 ## Edición de un tablero {#editing-a-dashboard}
 
-1. Haga clic en **Explorador de ingresos**.
+1. Haga clic en **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/one.png)
 
-1. Haga doble clic en la carpeta **Explorador de ingresos**. Desplácese hasta donde se encuentre el tablero.
+1. Haga doble clic en la carpeta **[!UICONTROL Explorador de ingresos]**. Desplácese hasta donde se encuentre el tablero.
 
    ![](assets/thirteen.png)
 
-1. Seleccione el tablero que desee editar y luego haga clic en **Editar**.
+1. Seleccione el tablero que desee editar y luego haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/fourteen.png)
 
 ## Eliminación de un panel {#deleting-a-dashboard}
 
-1. Haga clic en **Explorador de ingresos**.
+1. Haga clic en **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/one.png)
 
-1. Haga doble clic en la carpeta **Explorador de ingresos**. Desplácese hasta donde se encuentre el tablero.
+1. Haga doble clic en la carpeta **[!UICONTROL Explorador de ingresos]**. Desplácese hasta donde se encuentre el tablero.
 
    ![](assets/thirteen.png)
 
-1. Seleccione el tablero que desee eliminar y haga clic en **Mover a la papelera**.
+1. Seleccione el tablero que desee eliminar y haga clic en **[!UICONTROL Mover a la papelera]**.
 
    ![](assets/fifteen.png)

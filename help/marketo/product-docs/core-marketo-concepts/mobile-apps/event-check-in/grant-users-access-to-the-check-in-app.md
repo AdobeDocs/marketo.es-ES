@@ -4,7 +4,7 @@ description: Conceder acceso a los usuarios a la aplicación de registro - Docum
 title: Conceder a los usuarios acceso a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Conceder a los usuarios acceso a la aplicación de registro {#grant-users-access-to-the-check-in-app}
 
-El Marketo Engage tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
+Marketo Engage tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación de eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Crear una nueva función de usuario para móvil {#create-a-new-user-role-for-mobile}
 
@@ -59,6 +59,6 @@ El Marketo Engage tiene una función de usuario especial para la aplicación de 
 
    >[!TIP]
    >
-   >Para los usuarios existentes, puede crear una función nueva o agregar el permiso Acceder a aplicación móvil a la función actual.
+   >Para los usuarios existentes, puede crear una función nueva o agregar el permiso [!UICONTROL Acceder a la aplicación móvil] a la función actual.
 
 El usuario recibe un correo electrónico que le informa de que tiene acceso a la aplicación de facturación.

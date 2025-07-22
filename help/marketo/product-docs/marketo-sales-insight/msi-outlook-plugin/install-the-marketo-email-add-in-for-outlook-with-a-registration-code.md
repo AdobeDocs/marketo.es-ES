@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: 'Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro: documentos de Marketo, documentación del producto'
-title: Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro
+description: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook] con un código de registro - Documentos de Marketo - Documentación del producto
+title: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook]  con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
 
-# Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instale el complemento de correo electrónico de Marketo para [!DNL Outlook] con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si los usuarios pueden acceder a la configuración de administración de sus portátiles, puede enviarles directamente un código de registro.
 
@@ -39,7 +39,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    >[!NOTE]
    >
-   >En este momento, los vínculos siguientes solo funcionan en Microsoft Edge o haciendo clic con el botón derecho en Chrome. Sentimos cualquier inconveniente.
+   >En este momento, los vínculos siguientes solamente funcionan en [!DNL Microsoft Edge], o haciendo clic con el botón secundario en [!DNL Chrome]. Sentimos cualquier inconveniente.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
   </tr>
 </tbody></table>
 
-*Versión de Office 365: solo cliente de Windows (en Windows 10, Enterprise o Pro).
+*[!DNL Office] versión 365: [!DNL Windows] solo cliente (en [!DNL Windows] 10, [!DNL Enterprise] o [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Cierre Microsoft Outlook.
+1. Cerrar [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si recibe una advertencia de seguridad, no se preocupe. Simplemente haga clic en **Ejecutar**.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Rellene **Nombre**, **Apellido**, **Dirección de correo electrónico**, luego copie y pegue el **código de registro** del correo electrónico en el formulario y haga clic en **Siguiente**.
+1. Rellene **[!UICONTROL Nombre]**, **[!UICONTROL Apellido]**, **[!UICONTROL Dirección de correo electrónico]**, luego copie y pegue el **[!UICONTROL código de registro]** del correo electrónico en el formulario y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si la instalación falla, consulte con su departamento de TI para asegurarse de que el tráfico HTTPS no esté bloqueado. El instalador requiere que el tráfico HTTPS esté abierto.
 
-1. Haga clic en **Siguiente** para instalarlo en la ubicación predeterminada.
+1. Haga clic en **[!UICONTROL Siguiente]** para instalarlo en la ubicación predeterminada.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Si recibe una solicitud de seguridad acerca de un editor desconocido, haga clic en **Sí**.
+   >Si recibe una solicitud de seguridad acerca de un editor desconocido, haga clic en **[!UICONTROL Sí]**.
 
-1. La instalación ha finalizado, haga clic en **Cerrar**.
+1. La instalación ha finalizado, haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Ahora abra Microsoft Outlook y vea los botones de Marketo.
+1. Ahora abra [!DNL Microsoft Outlook] y vea los botones de Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

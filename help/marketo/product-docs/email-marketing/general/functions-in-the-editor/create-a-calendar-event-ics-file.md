@@ -4,9 +4,9 @@ description: Crear un archivo de evento de calendario (.ics) - Documentos de Mar
 title: Crear un archivo de eventos de calendario (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Un token de archivo de calendario le permite agregar un vínculo de evento de calendario (.ics) a los correos electrónicos y las páginas de aterrizaje de Marketo.
 
-1. Dentro de tu programa, ve a la ficha **Mis tokens**.
+1. Dentro de tu programa, ve a la ficha **[!UICONTROL Mis tokens]**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Arrastre un **archivo de calendario** token al lienzo.
+1. Arrastre un **[!UICONTROL archivo de calendario]** token al lienzo.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Escriba un **Nombre de token** y **Editar**.
+1. Escriba un **Nombre de token** y haga clic en **[!UICONTROL Haga clic para editar]**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Escriba los detalles y haga clic en **Guardar**.
+1. Escriba los detalles y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 

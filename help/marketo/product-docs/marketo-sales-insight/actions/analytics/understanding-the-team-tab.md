@@ -3,16 +3,16 @@ description: 'Explicación de la pestaña Equipo: Documentos de Marketo: documen
 title: Explicación de la pestaña Equipo
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Explicación de la pestaña Equipo {#understanding-the-team-tab}
+# Explicación de la ficha [!UICONTROL Equipo] {#understanding-the-team-tab}
 
-En la pestaña Equipo resaltamos tres métricas importantes.
+En la ficha [!UICONTROL Equipo] se resaltan tres métricas importantes.
 
 ## Correos electrónicos enviados con plantilla {#emails-sent-with-template}
 

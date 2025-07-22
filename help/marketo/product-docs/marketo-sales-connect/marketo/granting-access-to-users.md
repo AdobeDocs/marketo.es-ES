@@ -3,24 +3,24 @@ description: Concesión de acceso a usuarios - Documentos de Marketo - Documenta
 title: Concesión de acceso a los usuarios
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Concesión de acceso a los usuarios {#granting-access-to-users}
 
-Siga los pasos de este artículo para otorgar a los usuarios de Sales Connect acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en el canal en directo y acceso a Campañas de marketing.
+Siga los pasos de este artículo para otorgar a sus usuarios de [!DNL Sales Connect] acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en el canal en directo y acceso a Campañas de marketing.
 
-Deberá invitar a usuarios a Sales Connect [aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de que sean visibles en la página Marketo > Acceso al equipo (en Sales Connect), donde se concede acceso a la conexión de Marketo.
+Tendrá que invitar a usuarios a [!DNL Sales Connect] [aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de que sean visibles en la página de Marketo > [!UICONTROL Acceso del equipo] (en [!DNL Sales Connect]), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
->Antes de realizar estos pasos, espere 10 minutos después de conectar Sales Connect con Marketo.
+>Espere diez minutos después de conectar [!DNL Sales Connect] con Marketo antes de realizar estos pasos.
 
-1. Seleccione uno o más usuarios y luego haga clic en **Conectar**.
+1. Seleccione uno o más usuarios y luego haga clic en **[!UICONTROL Conectar]**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Deberá invitar a usuarios a Sales Connect [aquí](/help/marketo/product-docs/ma
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Haga clic en el menú desplegable Workspace, seleccione los espacios de trabajo que desee y haga clic en **Conectar**.
+1. Haga clic en el menú desplegable Workspace, seleccione los espacios de trabajo que desee y haga clic en **[!UICONTROL Conectar]**.
 
    ![](assets/granting-access-to-users-3.png)
 

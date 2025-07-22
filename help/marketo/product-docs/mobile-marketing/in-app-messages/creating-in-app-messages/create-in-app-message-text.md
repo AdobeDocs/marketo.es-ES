@@ -4,7 +4,7 @@ description: 'Creación de texto de mensaje en la aplicación: documentos de Mar
 title: Crear texto de mensaje en la aplicación
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Haga clic en el área de texto para trabajar en el estilo y el contenido del tex
    >
    >La fuente de texto que se muestra en el anuncio es la estándar para cada plataforma: Helvetica para Apple y Roboto para Android
 
-1. Marque la casilla para seleccionar la acción Tocar texto.
+1. Marque la casilla para seleccionar **[!UICONTROL Acción de toque de texto]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Haga clic en el área de texto para trabajar en el estilo y el contenido del tex
 
    >[!NOTE]
    >
-   >Para las acciones de toque, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje solo va a una plataforma o a la otra, puede dejar la otra en la configuración predeterminada o seleccionar Ninguno.
+   >Para las acciones de toque, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va únicamente a una plataforma o a otra, puede dejar la otra en la configuración predeterminada o seleccionar [!UICONTROL Ninguna].
 
 1. Haga clic en Texto de apoyo para editarlo en línea. Funciona del mismo modo que editar el texto principal, pero el tamaño de texto predeterminado es más pequeño.
 
@@ -67,13 +67,13 @@ Haga clic en el área de texto para trabajar en el estilo y el contenido del tex
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Seleccione un My Token de la lista desplegable, agregue un valor predeterminado y haga clic en **Insertar**.
+1. Seleccione un My Token de la lista desplegable, agregue un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Solo mis tokens están disponibles como opciones. Si no se han configurado mis tokens en el programa, la lista desplegable de tokens estará vacía.
+   >Solo mis tokens están disponibles como opciones. Si no se han configurado mis tokens en el programa, la lista desplegable [!UICONTROL Token] estará vacía.
 
    >[!TIP]
    >

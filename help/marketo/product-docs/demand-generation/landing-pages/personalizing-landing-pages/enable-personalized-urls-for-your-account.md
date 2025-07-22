@@ -4,10 +4,10 @@ description: 'Habilitar direcciones URL personalizadas para su cuenta: documento
 title: Habilite direcciones URL personalizadas para su cuenta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a la sección **Admin** y haga clic en **Páginas de aterrizaje**.
+1. Vaya a la sección **[!UICONTROL Admin]** y haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Haga clic en **Editar**.
+1. Haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Marque la casilla **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
+1. Marque la casilla **[!UICONTROL Habilitar direcciones URL personalizadas]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
@@ -37,7 +37,7 @@ Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 >
 >Si dos personas tienen el mismo nombre o apellido, el sistema añadirá automáticamente un número al final de su nombre PURL.
 >
->Ejemplo:
+>Por ejemplo:
 >
 >1. AnnaJones
 >1. AnnaJones2

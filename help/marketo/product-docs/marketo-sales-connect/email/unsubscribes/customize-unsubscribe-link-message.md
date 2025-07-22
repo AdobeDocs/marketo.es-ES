@@ -4,9 +4,9 @@ description: Personalizar mensaje de vínculo de cancelación de suscripción - 
 title: Personalizar mensaje de vínculo de cancelación de suscripción
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
 
 >[!NOTE]
 >
->No puede utilizar un vínculo de cancelación de suscripción de terceros con Sales Connect, ya que esta información no se vuelve a capturar en nuestra base de datos.
+>No puede usar un vínculo de cancelación de suscripción de terceros con [!DNL Sales Connect], ya que esta información no se volverá a capturar en nuestra base de datos.
 
 ## Personalice la mensajería para usted {#customize-messaging-for-yourself}
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Cancelar suscripciones**.
+1. En [!UICONTROL Mi cuenta], seleccione **[!UICONTROL Cancelar suscripciones]**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Siempre hemos permitido a los equipos personalizar su mensajería de vínculo de
    >
    >No importa cuál sea la dirección URL que se está hipervinculando. Cuando se envía el correo electrónico, ese hipervínculo se convierte en el vínculo de cancelación de suscripción.
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/five.png)
 
 ## Establecer la mensajería de cancelación de suscripción para su equipo {#set-unsubscribe-messaging-for-your-team}
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **[!UICONTROL Configuración]**.
 
    ![](assets/six.png)
 
-1. En Configuración de administración, seleccione **Cancelaciones de suscripción**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Anular la suscripción]**.
 
    ![](assets/eight.png)
 
-1. Personaliza tu mensaje y haz clic en **Guardar** cuando termines.
+1. Personaliza tu mensaje y haz clic en **[!UICONTROL Guardar]** cuando termines.
 
    ![](assets/seven.png)
 
-1. Seleccione **Estoy configurando la mensajería predeterminada para mi equipo** para que la mensajería se aplique a todos los usuarios.
+1. Seleccione **[!UICONTROL Estoy configurando la mensajería predeterminada para mi equipo]** para que la mensajería se aplique a todos los usuarios.
 
    ![](assets/eleven.png)

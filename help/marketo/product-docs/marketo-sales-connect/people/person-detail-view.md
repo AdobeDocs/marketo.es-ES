@@ -4,9 +4,9 @@ description: Vista de detalles de persona - Documentos de Marketo - Documentaci�
 title: Vista de detalles de persona
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La vista de detalles de persona proporciona un perfil detallado de cada persona 
 
 ## Cómo acceder a {#how-to-access}
 
-1. Para obtener acceso a la vista de detalles de la persona, haga clic en la ficha **Personas**.
+1. Para obtener acceso a la vista de detalles de la persona, haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ Incluye toda la información de contacto de la persona.
 
 **Información de la cuenta**
 
-* Puede agregar una persona a Salesforce
-* Extracción de información de cuenta y posible cliente/contacto de Salesforce
+* Puede agregar una persona a [!DNL Salesforce]
+* Extraer información de cuenta y de contacto/posible cliente de [!DNL Salesforce]
 
 **Campos personalizados**
 
@@ -76,19 +76,19 @@ Muestra su historial de divulgación. Incluye correos electrónicos, campañas y
 
 ![](assets/person-detail-view-5.png)
 
-**Campañas de ventas**
+**[!UICONTROL Campañas de ventas]**
 
 * Ver todas las campañas activas o completadas a las que pertenece esta persona
 
-**Campañas de marketing**
+**[!UICONTROL Campañas de marketing]**
 
 * Ver cualquier campaña de marketing a la que esté abonada esta persona
 
-**Correos electrónicos de ventas**
+**[!UICONTROL Correos electrónicos de ventas]**
 
 * Ver los correos electrónicos que ha enviado a esta persona y las métricas de participación
 
-**Llamadas de ventas**
+**[!UICONTROL Llamadas de ventas]**
 
 * Ver las llamadas que ha realizado a esta persona
 

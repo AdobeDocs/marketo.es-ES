@@ -4,7 +4,7 @@ description: 'Envío de correos electrónicos por correo electrónico de grupo: 
 title: Envío de correos electrónicos mediante correo electrónico de grupo
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Envío de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/two-3.png)
 
-1. Haga clic en el botón Acciones de grupo y seleccione **Grupo de correo electrónico**.
+1. Haga clic en el botón [!UICONTROL Acciones de grupo] y seleccione **[!UICONTROL Grupo de correo electrónico]**.
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
    ![](assets/edit-four.png)
 
-1. Haga clic en **Vista previa de campos dinámicos** y vea la vista previa a la derecha.
+1. Haga clic en **[!UICONTROL Vista previa de campos dinámicos]** y vea la vista previa a la derecha.
 
    ![](assets/edit-five.png)
 

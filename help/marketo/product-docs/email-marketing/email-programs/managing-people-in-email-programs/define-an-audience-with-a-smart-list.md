@@ -4,7 +4,7 @@ description: 'Definición de una audiencia con una lista inteligente: documentos
 title: Definición de una audiencia con una lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 2%
@@ -23,17 +23,17 @@ Una vez que [cree un programa de correo electrónico](/help/marketo/product-docs
 >
 >La definición de la audiencia solo funciona cuando el programa de correo electrónico no está aprobado.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione su programa de correo electrónico y haga clic en **Editar lista inteligente** en el icono **Audiencia**.
+1. Seleccione su programa de correo electrónico y haga clic en **[!UICONTROL Editar lista inteligente]** en el icono **[!UICONTROL Audiencia]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Asegúrese de que la Vista está configurada en **Panel de control de Campaign** para encontrar esta configuración.
+   >Asegúrese de que la Vista está configurada en **[!UICONTROL Panel de control de Campaign]** para encontrar esta configuración.
 
 1. Busque los filtros que desee utilizar y arrástrelos al lienzo.
 
@@ -63,7 +63,7 @@ Una vez que [cree un programa de correo electrónico](/help/marketo/product-docs
 >
 >Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo. **Tenga en cuenta lo siguiente:** Se enviarán mensajes de correo electrónico operativos a las personas que se hayan marcado como no suscritas y se haya suspendido el marketing.
 >
->Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36.png) del mosaico Audiencia para ver cuántas personas recibirán el correo electrónico.
+>Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36.png) del mosaico **[!UICONTROL Audiencia]** para ver cuántas personas recibirán el correo electrónico.
 
 >[!MORELIKETHIS]
 >

@@ -3,14 +3,14 @@ description: 'Errores de sincronización de Salesforce: Documentos de Marketo: d
 title: Errores de sincronización de Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---
 
-# Errores de sincronización de Salesforce {#salesforce-sync-errors}
+# [!DNL Salesforce] errores de sincronización {#salesforce-sync-errors}
 
 Ver un resumen de los errores enfrentados durante el proceso de sincronización. Esto incluye errores causados por errores en la sincronización de datos incompatibles.
 
@@ -36,11 +36,11 @@ Ver un resumen de los errores enfrentados durante el proceso de sincronización.
 |---|---|
 | Error en | Nivel de registro _o_ nivel de trabajo |
 | Fecha y hora del error | Detalles del error |
-| Tipo de error | Mensaje devuelto de SFDC |
+| Tipo de error | Mensaje de retorno de SFDC |
 
 >[!TIP]
 >
->Al hacer clic en el registro de nivel de registro, se muestran los ID de Marketo y Salesforce del objeto relacionado. En algunos casos, el mensaje de los errores de nivel de registro y trabajo procede directamente de Salesforce. La búsqueda de ellos en línea puede proporcionar detalles adicionales.
+>Al hacer clic en el registro de nivel de registro, se muestran el Marketo y [!DNL Salesforce] ID del objeto relacionado. En algunos casos, el mensaje de los errores de nivel de registro y trabajo procede directamente de [!DNL Salesforce]. La búsqueda de ellos en línea puede proporcionar detalles adicionales.
 
 ## Filtrar errores de sincronización {#filter-sync-errors}
 

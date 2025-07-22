@@ -3,7 +3,7 @@ description: Configuración de consentimiento bipartito - Documentos de Marketo 
 title: Configuración de consentimiento de dos partes
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,19 +18,19 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 >
 >Antes de seguir los pasos siguientes, primero debe [habilitar la grabación de llamadas](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
-1. Haga clic en el icono Configuración y seleccione **Configuración**.
+1. Haga clic en el icono Configuración y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. En Configuración de administración, haga clic en **General**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL General]**.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. En la tarjeta Grabación de llamadas, haz clic en **Administrar aviso de grabación**.
+1. En la tarjeta [!UICONTROL Grabación de llamadas], haga clic en **[!UICONTROL Administrar aviso de grabación]**.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Haga clic en **Importar grabación**.
+1. Haga clic en **[!UICONTROL Importar grabación]**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Haga clic en **Aceptar** cuando haya terminado.
+1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **[!UICONTROL Seleccionar como aviso de consentimiento]**. Haga clic en **[!UICONTROL Aceptar]** cuando haya terminado.
 
    ![](assets/two-party-consent-settings-6.png)
 

@@ -3,9 +3,9 @@ description: Configuración de campañas de ventas - Documentos de Marketo - Doc
 title: Configuración de campañas de ventas
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
@@ -20,9 +20,9 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 
 >[!NOTE]
 >
->Con la opción Omitir fines de semana habilitada, los correos electrónicos se programarán en función de una semana de 5 días. Es decir, cuando se programa un paso, los fines de semana se ignorarán como días.
+>Con [!UICONTROL Omitir fines de semana] habilitado, los correos electrónicos se programarán en función de una semana de 5 días. Es decir, cuando se programa un paso, los fines de semana se ignorarán como días.
 
-1. Haga clic en **Campañas**.
+1. Haga clic en **[!UICONTROL Campañas]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Haga clic en la ficha **Configuración**.
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Seleccione la casilla de verificación **Omitir fines de semana**.
+1. Seleccione la casilla de verificación **[!UICONTROL Omitir fines de semana]**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Habilite la opción para omitir fines de semana, de modo que cualquier paso que 
 
 Si utiliza una conexión de correo electrónico, detectaremos las devoluciones en función del mensaje de rechazo enviado a la bandeja de entrada de los usuarios. Además, podemos eliminar personas de las campañas de ventas cuando se detecta una devolución.
 
-1. Haga clic en **Campañas**.
+1. Haga clic en **[!UICONTROL Campañas]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Si utiliza una conexión de correo electrónico, detectaremos las devoluciones e
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Haga clic en la ficha **Configuración**.
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Seleccione la casilla de verificación **Eliminar al recibir un rechazo**.
+1. Seleccione la casilla de verificación **[!UICONTROL Eliminar al recibir un rechazo]**.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Si se produce una respuesta {#if-a-reply-occurs}
 
-Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos enviar automáticamente su campaña de ventas si un destinatario responde a su correo electrónico.
+Si tiene habilitado el seguimiento de respuestas para Gmail o [!DNL Exchange], podemos enviar automáticamente su campaña de ventas si un destinatario responde a su correo electrónico.
 
-1. Haga clic en **Campañas**.
+1. Haga clic en **[!UICONTROL Campañas]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos 
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Haga clic en la ficha **Configuración**.
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. En **Si se produce una respuesta**, realice las selecciones que desee.
+1. En **[!UICONTROL Si se produce una respuesta]**, realice las selecciones que desee.
 
    ![](assets/sales-campaign-settings-12.png)
 

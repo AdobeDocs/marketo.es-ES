@@ -4,10 +4,10 @@ description: Informe de rendimiento de vínculos de correo electrónico - Docume
 title: Informe de rendimiento del vínculo de correo electrónico
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 3%
 
 Cree un informe de rendimiento de vínculos de correo electrónico para ver el rendimiento de los vínculos de los correos electrónicos.
 
-1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **Rendimiento de vínculo de correo electrónico** como tipo de informe.
+1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **[!UICONTROL Rendimiento de vínculo de correo electrónico]** como tipo de informe.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Haga clic en **Configuración**.
+1. Haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Haz doble clic en **Fecha de la actividad** en **Configuración**.
+1. Haz doble clic en **[!UICONTROL Fecha de la actividad]** en **[!UICONTROL Configuración]**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Establezca un lapso de tiempo apropiado para el informe. Haga clic en **Guardar**.
+1. Establezca un lapso de tiempo apropiado para el informe. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Haga clic en **Informe**.
+1. Haga clic en **[!UICONTROL Informe]**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ Cree un informe de rendimiento de vínculos de correo electrónico para ver el r
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Columna</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Columna]</th> 
    <th colspan="1" rowspan="1">Descripción</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Vínculo</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Vínculo]</td> 
    <td colspan="1" rowspan="1">Agrupado por nombre de correo electrónico.<br>Haga clic en el signo más (+) para ver todos los vínculos incluidos en ese correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Clics</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Clics]</td> 
    <td colspan="1" rowspan="1">El número de veces que se hizo clic en ese vínculo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% de clics</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Del total de clics en todos los vínculos de ese correo electrónico, el porcentaje corresponde a este vínculo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Personas</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Personas]</td> 
    <td colspan="1" rowspan="1">El número de personas únicas que hicieron clic en el vínculo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% Personas</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Personas]</td> 
    <td colspan="1" rowspan="1">Del total de personas únicas que hicieron clic en vínculos en ese correo electrónico, el porcentaje corresponde a este vínculo.</td> 
   </tr> 
  </tbody> 
@@ -74,7 +74,7 @@ Cree un informe de rendimiento de vínculos de correo electrónico para ver el r
 
 >[!NOTE]
 >
->Este informe mostrará &quot;vínculo mal formado&quot; cuando se añadan vínculos no válidos o vacíos a un correo electrónico. Si ve este mensaje, [compruebe en el origen del HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) en el editor de correo electrónico si hay vínculos vacíos o tokens que no rellenen un vínculo completo.
+>Este informe mostrará &quot;vínculo mal formado&quot; cuando se añadan vínculos no válidos o vacíos a un correo electrónico. Si ve este mensaje, [compruebe el origen de HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) en el editor de correo electrónico para ver si hay vínculos vacíos o tokens que no rellenen un vínculo completo.
 
 >[!TIP]
 >

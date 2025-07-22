@@ -4,7 +4,7 @@ description: 'Adición de un rectángulo a una página de aterrizaje de forma li
 title: Adición de un rectángulo a una página de aterrizaje de forma libre
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Los rectángulos en las páginas de aterrizaje son ideales para resaltar un área del texto.
 
-1. Seleccione una página de aterrizaje de forma libre y haga clic en **Editar borrador**.
+1. Seleccione una página de aterrizaje de forma libre y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ Los rectángulos en las páginas de aterrizaje son ideales para resaltar un áre
    >
    >El diseñador de páginas de aterrizaje de forma libre se abre en una nueva ventana.
 
-1. Arrastre el cursor sobre el elemento **Rectangle**.
+1. Arrastre el cursor sobre el elemento **[!UICONTROL Rectangle]**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Seleccione el rectángulo y use la **Hoja de propiedades** para realizar los cambios necesarios.
+1. Seleccione el rectángulo y use la **[!UICONTROL Hoja de propiedades]** para realizar los cambios necesarios.
 
    >[!TIP]
    >

@@ -4,18 +4,18 @@ description: 'Uso del editor de texto enriquecido de Personalization web: docume
 title: Uso del Editor de texto enriquecido de Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Uso del Editor de texto enriquecido de Web Personalization {#using-the-web-personalization-rich-text-editor}
+# Uso del editor de texto enriquecido [!DNL Web Personalization] {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-El editor de texto enriquecido de Web Personalization que se encuentra en la página Definir campañas permite dar formato al texto, vincular e insertar imágenes. Incluye opciones de formato similares a los procesadores de texto estándar.
+El editor de texto enriquecido [!DNL Web Personalization] que se encuentra en la página [!UICONTROL Definir campañas] permite dar formato al texto, vincular e insertar imágenes. Incluye opciones de formato similares a los procesadores de texto estándar.
 
 Los iconos importantes del editor de texto enriquecido incluyen:
 
@@ -23,8 +23,8 @@ Los iconos importantes del editor de texto enriquecido incluyen:
  <tbody> 
   <tr> 
    <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Editar Source de HTML</strong></td> 
-   <td colspan="1">Permite ver el código fuente del HTML</td> 
+   <td colspan="1"><strong>Editar HTML Source</strong></td> 
+   <td colspan="1">Permite ver el código fuente de HTML.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
@@ -51,7 +51,7 @@ Los iconos importantes del editor de texto enriquecido incluyen:
 
 >[!NOTE]
 >
->Los tokens web usan [datos de personas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) de la base de datos de Marketo que se administra en Web Personalization en Configuración de cuenta > Base de datos. Si el token web es un nuevo campo de base de datos que aún no está en Configuración de cuenta > Base de datos, se añadirá automáticamente y puede tardar hasta 24 horas en activarse.
+>Los tokens web usan [datos de personas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) de su [!DNL Marketo Database] que se administran en [!DNL Web Personalization] en [!UICONTROL Configuración de la cuenta] > [!UICONTROL Base de datos]. Si el token web es un nuevo campo de base de datos que aún no está en [!UICONTROL Configuración de cuenta] > [!UICONTROL Base de datos], se agregará automáticamente y puede tardar hasta 24 horas en activarse.
 
 >[!MORELIKETHIS]
 >

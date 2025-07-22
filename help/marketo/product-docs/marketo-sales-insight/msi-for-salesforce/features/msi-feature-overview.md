@@ -4,16 +4,16 @@ description: 'Información general de las funciones MSI: documentos de Marketo, 
 title: Información general de funciones MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 6%
+source-wordcount: '931'
+ht-degree: 7%
 
 ---
 
 # Información general de funciones MSI {#msi-feature-overview}
 
-MSI tiene las siguientes funciones disponibles en Salesforce Lightning y Classic.
+MSI tiene las siguientes características disponibles en [!DNL Salesforce] Lightning y Classic.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ MSI Visualforce Panel incluye las siguientes funcionalidades:
    * Momentos interesantes
    * Actividad en la web
    * Correo electrónico
-   * Puntaje
+   * Puntuación
 
 * Acciones
 
@@ -43,7 +43,7 @@ MSI Visualforce Panel incluye las siguientes funcionalidades:
 
 Páginas de Visualforce:
 
-* Posible cliente: incluye la opción de hacer clic en &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI será visible en un diseño de página completa
+* Posible cliente: incluye la opción de hacer clic en Hyper &quot;Ir a lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI será visible en un diseño de página completa
 * Lista completa de posibles clientes: no incluye la opción &quot;Ir a la lista completa&quot;
 * Móvil principal: visible en la aplicación móvil de Salesforce
 * Bridge de contactos de clientes potenciales: muestra el panel MSI del contacto que ha agregado en el campo ID de contacto MSI
@@ -62,13 +62,13 @@ Campos:
 * Urgencia
 * Valor de urgencia
 * Ver en Marketo: haga clic en este campo para abrir una vista no editable del posible cliente en Marketo. Incluye: información del posible cliente, información de la empresa, información del posible cliente de SFDC, campos personalizados de SFDC, registro de actividad
-* ID de contacto MSI: agregue un contacto de Salesforce a este campo e incluya el panel &quot;Bridge de contacto del posible cliente&quot; en la presentación del posible cliente para ver el panel MSI del contacto
+* ID de contacto MSI: agregue un contacto de Salesforce a este campo e incluya el panel &quot;Contacto de posible cliente Bridge&quot; en la presentación del posible cliente para ver el panel MSI del contacto
 
 ## Diseño de contacto {#contact-layout}
 
 Páginas de Visualforce:
 
-* Contacto: incluye la opción de hacer clic en &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña de Salesforce en la que el panel MSI estará visible en un diseño de página completa
+* Contacto: incluye la opción de hacer clic en hiper &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI estará visible en un diseño de página completa
 * Lista completa de contactos: no incluye la opción &quot;Ir a la lista completa&quot;
 * Contacto Móvil: visible en la aplicación móvil de Salesforce
 * Agregar a la página de contacto de Marketo Campaign: la función Agregar a Marketo Campaign está disponible en este panel
@@ -87,19 +87,19 @@ Campos:
 * Valor de urgencia
 * Ver en Marketo: haga clic en este campo para abrir una vista no editable del posible cliente en Marketo. Incluye: información del posible cliente, información de la empresa, información del posible cliente de SFDC, campos personalizados de SFDC, registro de actividad
 * Puntuación de cliente potencial Mkto
-* Perspectiva de ventas - Abre la página de lista completa de contactos
+* [!DNL Sales Insight] - Abre la página de lista completa de contactos
 
 ## Diseño de cuenta {#account-layout}
 
 Páginas de Visualforce:
 
-* Cuenta: incluye la opción de hacer clic en hiper &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI será visible en un diseño de página completa
+* Cuenta: incluye la opción de hacer clic en hiper &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI estará visible en un diseño de página completa
 * Lista completa de cuentas: no incluye la opción &quot;Ir a la lista completa&quot;
-* Cuenta móvil: visible en la aplicación móvil de Salesforce
+* Móvil de cuenta: visible en la aplicación móvil de Salesforce
 
 Campos:
 
-* Perspectiva de ventas - Abre la página de lista completa de contactos
+* [!DNL Sales Insight] - Abre la página de lista completa de contactos
 
 Acciones:
 
@@ -115,13 +115,13 @@ Las siguientes características **no están disponibles** en la página Diseño 
 
 Páginas de Visualforce:
 
-* Oportunidad: incluye la opción de hacer clic en Hyper &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI estará visible en un diseño de página completa
+* Oportunidad: incluye la opción de hacer clic en hiper &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI estará visible en un diseño de página completa
 * Lista completa de oportunidades: no incluye la opción &quot;Ir a la lista completa&quot;
 * Oportunidad móvil: visible en la aplicación móvil de Salesforce
 
 Campos:
 
-* Perspectiva de ventas - Abre la página de lista completa de contactos
+* [!DNL Sales Insight] - Abre la página de lista completa de contactos
 * Análisis de oportunidades de Marketo: abre el Analizador de influencia de oportunidades en Marketo
 
 Acciones:
@@ -136,13 +136,13 @@ Las siguientes características **no están disponibles** en la página Diseño 
 
 ## Vista de lista de contactos y posibles clientes (acciones masivas) {#lead-and-contact-list-view-bulk-actions}
 
-Lightning de Salesforce: botones de acción masiva Añadir a la lista de observación, Añadir a Marketo Campaign y Enviar correo electrónico de Marketo en la vista de lista de posibles clientes y contactos.
+[!DNL Salesforce Lightning]: botones de acción masiva Agregar a la lista de observación, Agregar a Marketo Campaign y Enviar correo electrónico de Marketo en la vista de lista de posibles clientes y contactos.
 
-Salesforce Classic: los botones de acción Añadir a la lista de observación, Añadir a Marketo Campaign y Enviar correo electrónico de Marketo por lotes están en la vista de lista de posibles clientes y contactos.
+[!DNL Salesforce Classic]: los botones de acción masiva Agregar a la lista de observación, Agregar a Marketo Campaign y Enviar correo electrónico de Marketo en la vista de lista de posibles clientes y contactos.
 
 ## Pestaña Marketo {#marketo-tab}
 
-* Recomendaciones
+* [!DNL Best Bets]
 
    * Incluye la capacidad de crear y editar vistas. Posibilidad de ocultar los resultados más probables en función de la configuración de la opción &quot;Ocultar predeterminados&quot; en la página Configuración de Marketo
    * Columnas: Nombre, Cuenta, Último momento interesante, Encabezado de estado, Participación (estrellas y llamas), Ocultar
@@ -176,30 +176,30 @@ Salesforce Classic: los botones de acción Añadir a la lista de observación, A
    * Opción Suscribirse para recibir notificaciones por correo electrónico para este tipo de evento
    * Icono de alta prioridad para mostrar que esta persona es lo más probable
 
-## Pestaña Configuración de Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] ficha de configuración {#marketo-sales-insight-configuration-tab}
 
 * Configuración operativa: incluye las credenciales de la API de SOAP y REST necesarias para configurar MSI en SFDC
 * Configuración de MSI: incluye la configuración de la pestaña de Marketo y el panel MSI visual force
-* Restablecer perspectiva de ventas de Marketo: incluye la capacidad de borrar todas las configuraciones
+* Restablecer [!DNL Marketo Sales Insight]: incluye la capacidad de borrar todas las configuraciones
 
 >[!MORELIKETHIS]
 >
->[Pestaña Configuración de Marketo Sales Insight en Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] Ficha de configuración en [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Informes de rendimiento de Sales Insight {#sales-insight-performance-reports}
+## [!DNL Sales Insight] informes de rendimiento {#sales-insight-performance-reports}
 
-Vea el rendimiento de los correos electrónicos enviados a través de Salesforce, Microsoft Dynamics o un complemento de Gmail o Outlook
+Ver el rendimiento de los mensajes de correo electrónico enviados a través de [!DNL Salesforce], [!DNL Microsoft Dynamics] o un complemento de Gmail o [!DNL Outlook]
 
 ## MSI para dispositivos móviles {#msi-for-mobile}
 
-Las funciones MSI son compatibles con la aplicación móvil de Salesforce
+Las características de MSI son compatibles con la aplicación móvil [!DNL Salesforce]
 
 ## Compatibilidad de idiomas {#language-support}
 
-El conocimiento de ventas de Marketo se almacena por idioma. Por lo tanto, si desea que funcione para más de un idioma, debe introducir las credenciales por separado para cada idioma.
+[!DNL Marketo Sales Insight] se almacena por idioma. Por lo tanto, si desea que funcione para más de un idioma, debe introducir las credenciales por separado para cada idioma.
 
 >[!NOTE]
 >
 >* Un contacto/posible cliente debe estar en la partición predeterminada para poder agregarse a la lista de observación.
 >
->* El paquete de MSI Salesforce no admite la vista personalizada con campos dependientes.
+>* El paquete MSI [!DNL Salesforce] no admite la vista personalizada con campos dependientes.

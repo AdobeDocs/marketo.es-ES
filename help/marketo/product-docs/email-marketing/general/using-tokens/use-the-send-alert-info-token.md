@@ -4,9 +4,9 @@ description: Usar el token para enviar información de alerta {{SP_Send_Alert_In
 title: Usar el token Enviar información de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ La siguiente información se incluye como parte de `{{SP_Send_Alert_Info}}`:
 
 ## Agregar el token SP_Send_Alert_Info a un correo electrónico {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione el correo electrónico y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ La siguiente información se incluye como parte de `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Coloque el cursor donde desee que esté el token y, a continuación, haga clic en el botón **Insertar token**.
+1. Coloque el cursor donde desee que esté el token y, a continuación, haga clic en el botón **[!UICONTROL Insertar token]**.
 
    ![](assets/three-3.png)
 
-1. Busque y seleccione el token **`{{SP_Send_Alert_Info}}`**, y haga clic en **Insertar**.
+1. Busque y seleccione el token **[!UICONTROL {{SP_Send_Alert_Info}}]**, y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

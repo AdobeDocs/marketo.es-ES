@@ -4,20 +4,20 @@ description: Definir una lista inteligente para actividades de Web Personalizati
 title: Definir una lista inteligente para actividades de Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Definir una lista inteligente para actividades de Web Personalization {#define-a-smart-list-for-web-personalization-activities}
+# Definir una lista inteligente para [!DNL Web Personalization] actividades {#define-a-smart-list-for-web-personalization-activities}
 
-Puede utilizar actividades de Web Personalization en filtros y déclencheur al definir una lista inteligente en una campaña inteligente. En este caso, desea capturar a cualquier persona que haya hecho clic en una llamada a la acción de Web Personalization (campaña).
+Puede utilizar [!DNL Web Personalization] actividades en filtros y déclencheur al definir una lista inteligente en una campaña inteligente. En este caso, desea capturar a cualquier persona que hizo clic en un call to action (campaña) de [!DNL Web Personalization].
 
-Utilice un déclencheur para enviar un correo electrónico o una alerta, o cambie un valor o una puntuación según los visitantes que hicieron clic y participaron en una llamada a la acción de Web Personalization. También puede filtrar y ver los posibles clientes que hicieron clic en una llamada a la acción de Web Personalization.
+Use un déclencheur para enviar un correo electrónico o una alerta, o cambie un valor o una puntuación según los visitantes que hicieron clic y participaron con un call to action de [!DNL Web Personalization]. También puede filtrar y ver los posibles clientes que hicieron clic en un call to action [!DNL Web Personalization].
 
-1. En su campaña inteligente, haga clic en la ficha **Lista inteligente**.
+1. En su campaña inteligente, haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

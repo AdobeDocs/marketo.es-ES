@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10099102
-description: 'Versiones de complementos para Microsoft Dynamics MSI: documentos de Marketo, documentación del producto'
-title: Versiones de complementos para Microsoft Dynamics MSI
+description: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI - Documentos de Marketo - Documentación del producto
+title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# Versiones de complementos para Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Versiones de complemento para [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-La primera vez que se sincroniza con Microsoft Dynamics, descarga e instala la versión más reciente de los complementos para Marketo Sales Insight (MSI). Marketo Engage actualiza periódicamente estos complementos para que pueda volver al mismo lugar donde desea descargar la nueva versión.
+La primera vez que se sincroniza con [!DNL Microsoft Dynamics], descarga e instala la versión más reciente de los complementos para Marketo Sales Insight (MSI). Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar donde desea descargar la nueva versión.
 
-Si está usando la solución nativa de sincronización CRM de Marketo para Dynamics, [descargue el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondiente a su versión de Dynamics. Para aquellos que tienen una sincronización personalizada y han comprado Marketo Sales Insight, el paquete [está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL Dynamics], [descargue el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondiente a su versión de [!DNL Dynamics]. Para aquellos que tienen una sincronización personalizada y han comprado Marketo Sales Insight, el paquete [está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->Estas versiones funcionan tanto para las versiones locales como en línea de Dynamics.
+>Estas versiones funcionan tanto para las versiones locales como en línea de [!DNL Dynamics].
 
 ## Actualizar la solución MSI {#upgrading-your-msi-solution}
 
-1. Importe la última versión de la solución _sobre la versión existente_ de su Dynamics CRM presionando el botón **[!UICONTROL Importar]** en Dynamics.
+1. Importe la última versión de la solución _sobre la versión existente_ de su CRM [!DNL Dynamics] presionando el botón **[!UICONTROL Importar]** en [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Ejemplo: si su Dynamics CRM tiene la versión 2.0.0.20 y la última versión es 2.0.0.21, importaría _más de_ versión 2.0.0.20.
+>Ejemplo: si su CRM [!DNL Dynamics] tiene la versión 2.0.0.20 y la última versión es 2.0.0.21, importaría _más de_ la versión 2.0.0.20.
 
 1. Haga clic en **[!UICONTROL Siguiente]**.
 
@@ -103,7 +103,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para Dynam
   <tr> 
    <td>10/01/20</td> 
    <td>2.0.0.21</td> 
-   <td>Corrección de errores: Asignar acceso a los campos de configuración de la API de MSI para los usuarios con la función de perspectiva de ventas.</td> 
+   <td>Corrección de errores: Asignar acceso a los campos de configuración de la API MSI a los usuarios con el rol de Insight de ventas.</td> 
   </tr> 
   <tr> 
    <td>20/07/20</td> 
@@ -113,7 +113,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para Dynam
   <tr> 
    <td>06/12/20</td> 
    <td>2.0.0.19</td> 
-   <td>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API MSD.</td> 
+   <td>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API de MSD.</td> 
   </tr> 
   <tr> 
    <td>26/05/20</td> 
@@ -128,7 +128,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para Dynam
   <tr> 
    <td>28/04/20</td> 
    <td>2.0.0.16</td> 
-   <td>Corrección de errores: Eliminando la dependencia de vínculo de la configuración del mapa del sitio MSD CRM.</td> 
+   <td>Corrección de errores: Eliminando la dependencia de vínculo de la configuración del mapa del sitio de MSD CRM.</td> 
   </tr> 
  </tbody> 
 </table>

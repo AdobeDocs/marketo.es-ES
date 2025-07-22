@@ -4,7 +4,7 @@ description: Explicación de los programas de correo electrónico - Documentos d
 title: Explicación de programas de correo electrónico
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los r
 
 ## Panel de control {#control-panel}
 
-Cuatro cajas te mantienen concentrado. **Audience** define el &quot;quién&quot;, **Email** proporciona el &quot;qué&quot;, **Schedule** define &quot;cuándo&quot; y **Approval** lo prepara para funcionar.
+Cuatro cajas te mantienen concentrado. **[!UICONTROL Audience]** define el &quot;quién&quot;, **[!UICONTROL Email]** proporciona el &quot;qué&quot;, **[!UICONTROL Schedule]** define &quot;cuándo&quot; y **[!UICONTROL Approval]** lo prepara para funcionar.
 
 ![](assets/emailprogram.png)
 
@@ -34,7 +34,7 @@ Obtenga información acerca de las siguientes pruebas A/B:
 
 ![](assets/abtesthighlight.png)
 
-## Paneles de control {#dashboards}
+## Paneles {#dashboards}
 
 >[!CAUTION]
 >

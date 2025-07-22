@@ -3,10 +3,10 @@ description: 'Invitar usuarios y administradores: documentos de Marketo, documen
 title: Invitar usuarios y administradores
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -16,21 +16,21 @@ Añadir usuarios o administradores es rápido y sencillo.
 
 ## Invitar a usuarios {#invite-users}
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. En Configuración de administración, seleccione **Administración de usuarios**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Administración de usuarios]**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Haga clic en el botón **Acciones** y seleccione **Invitar usuarios**.
+1. Haga clic en el botón **[!UICONTROL Acciones]** y seleccione **[!UICONTROL Invitar usuarios]**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >También puede seleccionar **Invitar usuarios a través del CSV** si los tiene todos en una hoja de cálculo.
+   >También puede seleccionar **[!UICONTROL Invitar usuarios a través del CSV]** si los tiene todos en una hoja de cálculo.
 
 1. Introduzca las direcciones de correo electrónico de las personas que desea agregar.
 
@@ -48,7 +48,7 @@ Añadir usuarios o administradores es rápido y sencillo.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ Añadir usuarios o administradores es rápido y sencillo.
 
 Siga estos pasos para convertir un usuario existente en administrador.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. En Configuración de administración, seleccione **Administración de usuarios**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Administración de usuarios]**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Busque el usuario que quiere convertir en administrador, haga clic en la lista desplegable Función y seleccione **Administrador**.
+1. Busque el usuario que quiere convertir en administrador, haga clic en la lista desplegable Función y seleccione **[!UICONTROL Administrador]**.
 
    ![](assets/invite-users-and-admins-10.png)
 

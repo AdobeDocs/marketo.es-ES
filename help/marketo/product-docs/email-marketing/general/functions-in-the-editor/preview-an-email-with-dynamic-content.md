@@ -4,7 +4,7 @@ description: 'Vista previa de un correo electrónico con contenido dinámico: do
 title: Vista previa de un correo electrónico con contenido dinámico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Previsualice el correo electrónico después de añadir contenido dinámico para verificarlo.
 
-1. Seleccione su correo electrónico y haga clic en **Previsualizar correo electrónico**.
+1. Seleccione su correo electrónico y haga clic en **[!UICONTROL Previsualizar correo electrónico]**.
 
    ![](assets/one-3.png)
 
-1. Haga clic en la lista desplegable Ver por y seleccione el tipo de contenido dinámico que desea previsualizar.
+1. Haga clic en el menú desplegable **[!UICONTROL Ver por]** y seleccione el tipo de contenido dinámico que desea previsualizar.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Previsualice el correo electrónico después de añadir contenido dinámico para
 
 También puede previsualizar el contenido dinámico directamente en el editor de correo electrónico.
 
-1. En **Contenido**, haga clic en la ficha **Dinámico**.
+1. En **[!UICONTROL Contenido]**, haga clic en la ficha **[!UICONTROL Dinámico]**.
 
    ![](assets/five-1.png)
 

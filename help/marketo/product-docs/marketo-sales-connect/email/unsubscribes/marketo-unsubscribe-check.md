@@ -4,16 +4,16 @@ description: Comprobación de cancelación de suscripción de Marketo - Document
 title: Verificación de cancelación de suscripción de Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 3%
 
 ---
 
 # Verificación de cancelación de suscripción de Marketo {#marketo-unsubscribe-check}
 
-La comprobación de cancelación de suscripción de Marketo utiliza la conexión de su equipo a Marketo para evitar que los correos electrónicos vayan a parar a personas que han cancelado su suscripción en el sistema de administración de posibles clientes de Marketo. Cuando un usuario de ventas envía un correo electrónico con Sales Connect, se realiza una llamada de API a Marketo para comprobar si se ha cancelado la suscripción del ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
+La [!UICONTROL comprobación de cancelación de suscripción de Marketo] usa la conexión de su equipo con Marketo para evitar que los mensajes de correo electrónico se envíen a personas que cancelaron su suscripción en el sistema de administración de posibles clientes de Marketo. Cuando un usuario de ventas envía un correo electrónico con [!DNL Sales Connect], se realiza una llamada de API a Marketo para comprobar si se cancela la suscripción del ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ La comprobación de cancelación de suscripción de Marketo utiliza la conexión
 
 ## Encendiéndola... {#turning-it-on}
 
-1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one-2.png)
 
-1. En Configuración de administración, haga clic en **Cancelar suscripciones**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL Cancelar suscripciones]**.
 
    ![](assets/two-3.png)
 
-1. Haga clic en **Integraciones**.
+1. Haga clic en **[!UICONTROL Integraciones]**.
 
    ![](assets/three-3.png)
 
-1. En la sección Cancelar la suscripción a Marketo, haga clic en el control deslizante para activar la comprobación.
+1. En la sección [!UICONTROL Comprobación de cancelación de suscripción de Marketo], haga clic en el control deslizante para activar la comprobación.
 
    ![](assets/four-2.png)
 

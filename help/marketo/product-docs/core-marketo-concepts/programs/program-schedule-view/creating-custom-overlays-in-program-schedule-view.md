@@ -4,7 +4,7 @@ description: 'Creación de superposiciones personalizadas en la vista de program
 title: Creación de superposiciones personalizadas en la vista de programación del programa
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Puede crear superposiciones personalizadas para ver las entradas que se adapten 
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. Seleccione los tipos de entrada que desea que sean visibles en la superposición.
+1. Seleccione los [!UICONTROL tipos de entrada] que desee que estén visibles en la superposición.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 

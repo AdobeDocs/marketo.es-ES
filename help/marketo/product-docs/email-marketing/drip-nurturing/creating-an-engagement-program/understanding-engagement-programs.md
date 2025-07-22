@@ -4,7 +4,7 @@ description: Explicación de los programas de participación - Documentos de Mar
 title: Explicación de los programas de participación
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 2%
@@ -74,7 +74,7 @@ Usted decide cuándo se produce una conversión estableciendo **cadencia de fluj
 
 ## Cadencia de persona {#person-cadence}
 
-Una cadencia de **persona** es un estado que define su capacidad para recibir contenido de un programa de participación. Puede usar el paso de flujo **Cambiar cadencia del programa de participación** para cambiar esto a En pausa o Normal.
+Una cadencia de **persona** es un estado que define su capacidad para recibir contenido de un programa de participación. Puede usar el paso de flujo **[!UICONTROL Cambiar cadencia del programa de participación]** para cambiar esto a [!UICONTROL En pausa] o [!UICONTROL Normal].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

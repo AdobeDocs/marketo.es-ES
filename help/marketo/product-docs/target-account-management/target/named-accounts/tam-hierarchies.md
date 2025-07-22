@@ -4,7 +4,7 @@ description: Jerarquías TAM - Documentos de Marketo - Documentación del produc
 title: Jerarquías TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Jerarquías TAM {#tam-hierarchies}
 
-Las jerarquías permiten a los usuarios de TAM heredar las relaciones principal/secundario entre cuentas con nombre en su CRM.
+Las jerarquías permiten a los usuarios de TAM heredar las relaciones principal/secundario entre [!UICONTROL cuentas con nombre] en su CRM.
 
 ## ¿Qué son las jerarquías TAM? {#what-are-tam-hierarchies}
 
-Las empresas pueden tener varias divisiones y filiales. Estas empresas a menudo se organizan a través de relaciones padre-hijo llamadas jerarquías. TAM puede heredar estas jerarquías de su integración SFDC o MSD y le permite trabajar con las diferentes divisiones como una sola familia.
+Las empresas pueden tener varias divisiones y filiales. Estas empresas a menudo se organizan a través de relaciones padre-hijo llamadas jerarquías. TAM puede heredar estas jerarquías de su integración de SFDC o MSD y le permite trabajar con las diferentes divisiones como una sola familia.
 
 ## Trabajar con jerarquías TAM {#working-with-tam-hierarchies}
 
-Con Jerarquías TAM, puede obtener rápidamente información sobre una jerarquía completa o cuentas individuales en el Tablero de cuentas con nombre.
+Con Jerarquías TAM, puede obtener rápidamente información sobre una jerarquía completa o cuentas individuales en el panel [!UICONTROL Cuenta con nombre].
 
 **No se está usando la jerarquía**
 

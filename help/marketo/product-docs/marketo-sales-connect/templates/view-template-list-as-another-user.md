@@ -4,7 +4,7 @@ description: Ver lista de plantillas como otro usuario - Documentos de Marketo -
 title: Ver lista de plantillas como otro usuario
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 >
 >**Se requieren permisos de administración**
 
-1. Haga clic en **Plantillas**.
+1. Haga clic en **[!UICONTROL Plantillas]**.
 
    ![](assets/one.png)
 
-1. Haga clic en el menú desplegable **Ver como** y seleccione el usuario que desee.
+1. Haga clic en el menú desplegable **[!UICONTROL Ver como]** y seleccione el usuario que desee.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
    >[!NOTE]
    >
-   >También puede utilizar filtros o la función de búsqueda junto con Ver como para ver qué es lo más relevante para usted.
+   >También puede usar filtros o la función de búsqueda junto con [!UICONTROL Ver como] para ver qué es lo más relevante para usted.

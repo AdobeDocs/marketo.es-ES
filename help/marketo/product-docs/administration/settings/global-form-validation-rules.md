@@ -3,7 +3,7 @@ description: Reglas de validación de formularios globales - Documentos de Marke
 title: Reglas de formulario de validación global
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Reglas de formulario de validación global {#global-form-validation-rules}
 
-Esta función le permite bloquear dominios específicos para que no se envíen a formularios de Marketo Engage.
+Esta función le permite bloquear dominios específicos para que no se envíen a formularios Marketo Engage.
 
 ## Cómo activar el acceso {#how-to-enable-access}
 
@@ -34,7 +34,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Haga clic en el signo **+** junto a Administración de acceso.
+1. Haga clic en el signo **+** junto a **Administrador de acceso**.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -46,7 +46,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
 >[!IMPORTANT]
 >
->Estas reglas se aplicarán a todos los formularios de las suscripciones de Marketo Engage.
+>Estas reglas se aplicarán a todos los formularios de sus suscripciones a Marketo Engage.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
@@ -62,7 +62,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
    >[!NOTE]
    >
-   >La lista desplegable Acciones de regla de validación de formulario permite eliminar o editar las reglas existentes.
+   >La lista desplegable [!UICONTROL Acciones de regla de validación de formulario] le permite eliminar o editar las reglas existentes.
 
 1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Escriba los dominios que quiera bloquear en el cuadro de reglas, seleccione **[!UICONTROL Activar regla]** y haga clic en **[!UICONTROL Crear]**.
 
@@ -70,7 +70,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
 >[!NOTE]
 >
->El Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Vea esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para descargarla, asegúrese de que su explorador esté actualizado y de que puede aceptar descargas).
+>Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor libre que se bloquean al utilizar nuestra regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Vea esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para descargarla, asegúrese de que su explorador esté actualizado y de que puede aceptar descargas).
 
 ## Cómo deshabilitar el acceso por formulario{#how-to-disable-access-per-form}
 

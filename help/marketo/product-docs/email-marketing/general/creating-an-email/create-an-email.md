@@ -4,7 +4,7 @@ description: 'Creación de un correo electrónico: documentos de Marketo, docume
 title: Crear un correo electrónico
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -17,31 +17,31 @@ Existen dos formas principales de crear un correo electrónico en Marketo. Vamos
 
 ## Creación de un mensaje de correo electrónico en Design Studio {#create-an-email-in-the-design-studio}
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/create-an-email-1.png)
 
-1. Haga clic en el menú desplegable **Nuevo** y seleccione **Nuevo correo electrónico**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo correo electrónico]**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Cuando crea un correo electrónico en Design Studio, se puede encontrar en el árbol en &quot;Correos electrónicos&quot;.
+   >Cuando crea un correo electrónico en [!UICONTROL Design Studio], se puede encontrar en el árbol debajo de &quot;[!UICONTROL Correos electrónicos]&quot;.
 
 ¡Sencillo! Ahora, para el otro lado...
 
 ## Crear un correo electrónico en las actividades de marketing {#create-an-email-in-marketing-activities}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/create-an-email-3.png)
 
-1. Seleccione el programa al que desea agregar el correo electrónico, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso local**.
+1. Seleccione el programa al que desea agregar el correo electrónico, haga clic en la lista desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/create-an-email-4.png)
 
-1. Haga clic en **Correo electrónico**.
+1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/create-an-email-5.png)
 
@@ -49,13 +49,13 @@ Existen dos formas principales de crear un correo electrónico en Marketo. Vamos
 
 El método que elija le lleva al selector de plantillas.
 
-1. Asigne un nombre a su correo electrónico, haga clic en la plantilla que desee usar y luego haga clic en **Crear**.
+1. Asigne un nombre a su correo electrónico, haga clic en la plantilla que desee usar y luego haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Puede elegir entre una colección de plantillas de correo electrónico adaptables listas para usar o una plantilla que guardó seleccionando primero **Mis plantillas** y siguiendo los mismos pasos.
+   >Puede elegir entre una colección de plantillas de correo electrónico adaptables listas para usar o una plantilla que guardó seleccionando primero **[!UICONTROL Mis plantillas]** y siguiendo los mismos pasos.
 
 1. Introduzca una línea de asunto. El límite de caracteres recomendado es 50.
 

@@ -4,7 +4,7 @@ description: Información general de tokens - Documentos de Marketo - Documentac
 title: Información general sobre tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -27,7 +27,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 
 >[!CAUTION]
 >
->Los tokens no funcionan en el encabezado previo al utilizar el editor de correo electrónico de Marketo. Para utilizar un token en el encabezado previo, debe hacerlo a través de su propio HTML en una plantilla de correo electrónico.
+>Los tokens no funcionan en el encabezado previo al utilizar el editor de correo electrónico de Marketo. Para utilizar un token en el encabezado previo, debe ser a través de su propia HTML en una plantilla de correo electrónico.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Mis tokens {#my-tokens}
+## [!UICONTROL Mis tokens] {#my-tokens}
 
-Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Mis tokens] se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de miembro {#member-token}
 

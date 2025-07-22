@@ -4,10 +4,10 @@ description: Informe de actividad web de la empresa - Documentos de Marketo - Do
 title: Informe Actividad web de la empresa
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '256'
+ht-degree: 4%
 
 ---
 
@@ -19,21 +19,21 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
 
 >[!PREREQUISITES]
 >
->Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [Munchkin en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [up [!DNL Munchkin] en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo de informe de actividad web de la empresa [3&rbrace;.](report-type-overview.md)
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL tipo de informe de actividad web de la empresa] [5}.](report-type-overview.md)
 
 1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
 
-1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **[!UICONTROL Informe]**.
 
-1. ¡Eso es todo! Revise el informe para ver qué empresas visitan el sitio.
+1. ¡Ya está! Revise el informe para ver qué empresas visitan el sitio.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Para encontrar las empresas que más visitan el sitio, [ordena tu informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en la columna _Vistas de la página_ y elige **Orden descendente**.
+   >Para encontrar las empresas que más visitan el sitio, [ordena tu informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en la columna _[!UICONTROL Vistas de la página]_ y elige **[!UICONTROL Orden descendente]**.
 
    [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de actividad web de la compañía incluyen:
 
@@ -54,7 +54,7 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
    <td>La compañía, tal como se deduce de la dirección IP de los visitantes. <br> <strong>Los nombres en negrita</strong> indican que se trata de la empresa, no del ISP. </td> 
   </tr> 
   <tr> 
-   <td>Vistas de páginas</td> 
+   <td>Page Views</td> 
    <td>Número de páginas cargadas por los visitantes.</td> 
   </tr> 
   <tr> 

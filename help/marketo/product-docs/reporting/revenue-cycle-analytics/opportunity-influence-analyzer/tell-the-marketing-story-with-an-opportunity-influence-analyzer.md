@@ -4,26 +4,26 @@ description: 'Contar la historia de marketing con un Analizador de influencia de
 title: Contar la historia de marketing con un analizador de influencia de oportunidades
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
-# Contar la historia de marketing con un analizador de influencia de oportunidades {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Contar la historia de marketing con un [!UICONTROL Analizador de influencia de oportunidades] {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Utilice un Analizador de influencia de oportunidades para ilustrar el papel del marketing en las oportunidades importantes. Muestre cómo el marketing influyó en una oportunidad, desde el primer contacto hasta la creación y la victoria de oportunidades, y más allá.
+Use un [!UICONTROL Analizador de influencia de oportunidad] para ilustrar el papel del marketing en oportunidades importantes. Muestre cómo el marketing influyó en una oportunidad, desde el primer contacto hasta la creación y la victoria de oportunidades, y más allá.
 
 >[!PREREQUISITES]
 >
->[Crear un Analizador de influencia de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Crear un [!UICONTROL Analizador de influencia de oportunidad]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Vaya a **Analytics** y seleccione **Opportunity Influence Analyzer**.
+1. Vaya a **[!UICONTROL Analytics]** y seleccione **[!UICONTROL Opportunity Influence Analyzer]**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   El Analizador de influencia de oportunidades es una representación visual de las interacciones y los éxitos de programas y eventos que intervienen en esa oportunidad. Vamos a explorar el gráfico:
+   [!UICONTROL Opportunity Influence Analyzer] es una representación visual de las interacciones y los éxitos de programa y evento involucrados en esa oportunidad. Vamos a explorar el gráfico:
 
    * ![—](assets/image2014-10-3-13-3a43-3a21.png) **puntos naranjas** representan momentos interesantes en la oportunidad (correos electrónicos abiertos, visitas a puestos en ferias comerciales, descargas de documentos técnicos, etc.). Los puntos más grandes indican más interacciones.
 
@@ -35,7 +35,7 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel del 
 
    * **Ciclo de vida de la oportunidad**. Las áreas grises antes y después del período de oportunidad verde muestran las interacciones que llevaron a la oportunidad y la siguieron.
 
-   El panel **Configuración** enumera las personas de la cuenta:
+   El panel **[!UICONTROL Configuración]** enumera las personas de la cuenta:
 
    * El **número entre paréntesis** es el número de interacciones con ese contacto.
 
@@ -61,4 +61,4 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel del 
 
    >[!MORELIKETHIS]
    >
-   >[Configurar un Analizador de influencia de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Configurar un [!UICONTROL Analizador de influencia de oportunidad]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

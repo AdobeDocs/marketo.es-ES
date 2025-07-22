@@ -4,7 +4,7 @@ description: Cambiar la familia de fuentes de formulario - Documentos de Marketo
 title: Cambio de la familia de fuentes del formulario
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -19,19 +19,19 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
 >
 >Esta configuración afecta a la etiqueta del formulario, el texto de entrada y cualquier texto enriquecido.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. En **Configuración de formulario**, seleccione **Configuración**.
+1. En **[!UICONTROL Configuración de formulario]**, seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleccione la **familia de fuentes** que desee.
+1. Seleccione la **[!UICONTROL familia de fuentes]** que desee.
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    >[!NOTE]
    >

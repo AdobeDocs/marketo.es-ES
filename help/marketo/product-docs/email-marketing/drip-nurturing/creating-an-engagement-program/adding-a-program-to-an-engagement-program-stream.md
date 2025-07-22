@@ -4,7 +4,7 @@ description: 'Adición de un programa a un flujo de programa de participación: 
 title: Adición de un programa a un flujo de programa de participación
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Puede resultar difícil mezclar correos electrónicos y programas en un programa
 
 >[!TIP]
 >
->Asegúrese de usar un filtro de **Miembro del programa de participación** en la lista inteligente.
+>Asegúrese de usar un filtro de **[!UICONTROL Miembro del programa de participación]** en la lista inteligente.
 
 ## ¿Qué les sucede a las personas que no cumplen los criterios de las listas inteligentes? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -47,9 +47,9 @@ En caso de que alguien se filtre de la lista inteligente de la campaña intelige
 
 Un programa anidado bien diseñado contiene correos electrónicos, informes y campañas inteligentes. Tiene sentido mantener estas cosas juntas.
 
-El correo electrónico que utiliza puede residir en el programa, en un programa diferente o incluso en Design Studio. El lugar donde se encuentre dependerá de cómo desee usarlo.
+El correo electrónico que uses puede estar en el programa, en un programa diferente o incluso en [!UICONTROL Design Studio]. El lugar donde se encuentre dependerá de cómo desee usarlo.
 
-Informes de cambios con la ubicación del correo electrónico. Por lo tanto, si el correo electrónico se encuentra en Design Studio, en el informe de rendimiento del correo electrónico, todas las métricas se muestran en una línea: se combinan las diferentes conversiones. Sin embargo, en el informe Rendimiento del flujo de participación, los diferentes envíos se muestran por separado.
+Informes de cambios con la ubicación del correo electrónico. Por ejemplo, si el correo electrónico se encuentra en [!UICONTROL Design Studio], en el informe de rendimiento del correo electrónico, todas las métricas se mostrarán en una línea: se combinarán las diferentes conversiones. Sin embargo, en el informe Rendimiento del flujo de participación, los diferentes envíos se muestran por separado.
 
 >[!CAUTION]
 >

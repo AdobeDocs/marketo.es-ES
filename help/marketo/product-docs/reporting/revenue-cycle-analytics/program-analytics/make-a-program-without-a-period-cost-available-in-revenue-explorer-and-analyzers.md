@@ -4,7 +4,7 @@ description: Disponibilidad de un programa sin coste de período en el Explorado
 title: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y en los analizadores
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Es posible que algunos programas deban incluirse incluso si no tienen un coste d
 >
 >El analizador de programas agrupa el éxito del programa por coste de periodo. Si no hay ningún costo de período disponible, no se mostrará Éxito del programa, independientemente del comportamiento de análisis del programa. Si se configura el comportamiento del análisis, los datos se mostrarán para las métricas de oportunidad (oportunidades de canalización, ingresos obtenidos, etc.).
 
-1. En la sección Administración, haga clic en **Etiquetas**.
+1. En la sección [!UICONTROL Administrador], haga clic en **[!UICONTROL Etiquetas]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ Es posible que algunos programas deban incluirse incluso si no tienen un coste d
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Cambie el comportamiento de Analytics a Inclusivo y haga clic en **Guardar**.
+1. Cambie [!UICONTROL Comportamiento de Analytics] a **Incluido** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

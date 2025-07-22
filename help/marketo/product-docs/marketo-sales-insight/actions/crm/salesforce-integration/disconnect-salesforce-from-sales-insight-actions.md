@@ -1,45 +1,45 @@
 ---
-description: Desconectar Salesforce De Las Acciones De Perspectiva De Ventas - Documentos De Marketo - Documentación Del Producto
-title: Desconectar Salesforce De Las Acciones De Perspectiva De Ventas
+description: Desconectar Salesforce de las acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
+title: Desconexión De Salesforce De Las Acciones De Insight De Ventas
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Desconectar Salesforce De Las Acciones De Perspectiva De Ventas {#disconnect-salesforce-from-sales-insight-actions}
+# Desconectar [!DNL Salesforce] De [!DNL Sales Insight Actions] {#disconnect-salesforce-from-sales-insight-actions}
 
-A veces, es posible que tenga que desconectar su cuenta de Salesforce de su cuenta de acciones de perspectiva de ventas. Así es como.
+En ocasiones, es posible que deba desconectar su cuenta de [!DNL Salesforce] de su cuenta de [!DNL Sales Insight Actions]. Así es como.
 
-## Cómo desconectarse de Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
+## Cómo desconectarse de [!UICONTROL Salesforce] como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. En Acciones de información de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En [!DNL Sales Insight Actions], haga clic en el icono de engranaje en la esquina superior derecha y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. En Configuración de administración, haga clic en **Salesforce**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. En la pestaña Conexiones y personalizaciones, haga clic en **Desconectar**.
+1. En la ficha [!UICONTROL Conexiones y personalizaciones], haga clic en **[!UICONTROL Desconectar]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## Cómo desconectarse de Salesforce sin ser administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Cómo desconectarse de [!DNL Salesforce] si no es el administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. En Acciones de información de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En [!DNL Sales Insight Actions], haga clic en el icono de engranaje en la esquina superior derecha y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. En Mi cuenta, seleccione **Salesforce**.
+1. En [!UICONTROL Mi cuenta], seleccione **[!UICONTROL Salesforce]**.
 
 PICC
 
-1. En la pestaña Conexiones y personalizaciones, haga clic en **Desconectar**.
+1. En la ficha [!UICONTROL Conexiones y personalizaciones], haga clic en **[!UICONTROL Desconectar]**.
 
 PICC

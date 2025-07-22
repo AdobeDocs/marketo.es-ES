@@ -4,7 +4,7 @@ description: 'Dominios bloqueados: documentos de Marketo, documentación del pro
 title: Dominios bloqueados
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
@@ -19,15 +19,15 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 >
 >**Se requieren permisos de administración**
 
-1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one-3.png)
 
-1. En Configuración de administración, haga clic en **General**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL General]**.
 
    ![](assets/two-3.png)
 
-1. Escriba el dominio que desea bloquear y haga clic en **Bloquear dominio**.
+1. Escriba el dominio que desea bloquear y haga clic en **[!UICONTROL Bloquear dominio]**.
 
    ![](assets/three-3.png)
 

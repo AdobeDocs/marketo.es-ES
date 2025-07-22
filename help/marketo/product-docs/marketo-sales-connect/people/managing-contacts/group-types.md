@@ -4,16 +4,16 @@ description: Tipos de grupos - Documentos de Marketo - Documentación del produc
 title: Tipos de grupos
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 # Tipos de grupos {#group-types}
 
-Obtenga información sobre los distintos tipos de grupos en Sales Connect.
+Obtenga información acerca de los distintos tipos de grupos en [!UICONTROL Conexión de ventas].
 
 ![](assets/one-7.png)
 
@@ -28,19 +28,19 @@ Obtenga información sobre los distintos tipos de grupos en Sales Connect.
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td><p>Todas las personas</p></td> 
+   <td><p>[!UICONTROL Todas las personas]</p></td> 
    <td>Todos los contactos de todos los usuarios visibles para usted.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Grupos dinámicos</p></td> 
+   <td colspan="1"><p>[!UICONTROL Grupos dinámicos]</p></td> 
    <td colspan="1">Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td> 
   </tr> 
   <tr> 
-   <td><p>Mis grupos</p></td> 
+   <td><p>[!UICONTROL Mis grupos]</p></td> 
    <td>Grupos que ha creado. Pueden contener sus contactos o los contactos que se han compartido con usted.</td> 
   </tr> 
   <tr> 
-   <td><p>Grupos de equipos</p></td> 
+   <td><p>[!UICONTROL Grupos de equipo]</p></td> 
    <td>Grupos que se han compartido con usted o que han compartido con usted. Pueden contener contactos de sus compañeros o contactos que haya compartido con ellos.</td> 
   </tr> 
  </tbody> 

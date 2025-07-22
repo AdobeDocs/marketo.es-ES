@@ -4,18 +4,18 @@ description: 'Glosario de campos dinámicos: documentos de Marketo, documentaci�
 title: Glosario de campos dinámicos
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 1%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
 # Glosario de campos dinámicos {#dynamic-fields-glossary}
 
-Al crear una plantilla en Sales Connect, siempre se recomienda integrar campos dinámicos con el botón **Campos dinámicos MSE**.
+Al crear una plantilla en [!DNL Sales Connect], siempre se recomienda integrar campos dinámicos con el botón **[!UICONTROL Campos dinámicos MSE]**.
 
-Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará mucho tiempo a `pulling information from the People page`.
+Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará mucho tiempo a `pulling information from the [!UICONTROL People] page`.
 
 | Campo dinámico | Ejemplo de lo que aparece en el correo electrónico |
 |---|---|
@@ -25,7 +25,7 @@ Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará m
 | `{{team_unsubscribe}}` | Si ya no desea recibir correos electrónicos de nuestra parte, haga clic aquí |
 | `{{friendly_unsubscribe}}` | ¿Cansado de todos los correos electrónicos? Por favor, hágamelo saber aquí |
 | `{{my_name}}` | Keith Flynn |
-| `{{my_signature}}` | Keith Flynn, escritor técnico sénior - Adobe |
+| `{{my_signature}}` | Keith Flynn, redactor técnico sénior - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Escritor técnico sénior |
 | `{{work_website}}` | https://www.adobe.com |

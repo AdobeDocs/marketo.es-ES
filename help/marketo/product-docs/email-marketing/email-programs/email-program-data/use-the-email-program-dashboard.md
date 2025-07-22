@@ -4,7 +4,7 @@ description: Uso del tablero del programa de correo electrónico - Documentos de
 title: Uso del panel del programa de correo electrónico
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -69,9 +69,9 @@ El resto de los datos se muestran como Aperturas, Clics, Proporción de clics/ap
 >
 >**Definición**
 >
->**Las aperturas** se cuentan cuando el destinatario del correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado por Marketo. Si el destinatario ve el correo electrónico pero decide no descargar sus imágenes, no se contará como una apertura. Si las imágenes se cargan en el panel de vista previa del destinatario, generalmente se contará como una apertura, pero variará según el cliente de correo electrónico.
+>**[!UICONTROL Las aperturas]** se cuentan cuando el destinatario del correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado por Marketo. Si el destinatario ve el correo electrónico pero decide no descargar sus imágenes, no se contará como una apertura. Si las imágenes se cargan en el panel de vista previa del destinatario, generalmente se contará como una apertura, pero variará según el cliente de correo electrónico.
 >
->**Clic para abrir** mide el porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo. Tomamos el número de clics únicos dividido por el número de aperturas únicas y luego lo multiplicamos por 100 para mostrarlo como un porcentaje.
+>**[!UICONTROL Clic para abrir]** mide el porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo. Tomamos el número de clics únicos dividido por el número de aperturas únicas y luego lo multiplicamos por 100 para mostrarlo como un porcentaje.
 
 ## Actualizar panel {#refresh-dashboard}
 

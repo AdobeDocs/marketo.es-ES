@@ -4,7 +4,7 @@ description: 'Editar el dominio de marca predeterminado con espacios de trabajo:
 title: Editar el dominio de marca predeterminado con espacios de trabajo
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. En la tabla Dominios de marca, seleccione el dominio genérico actual y haga clic en Editar para cambiarlo al dominio de marca de su empresa.
+1. En la tabla [!UICONTROL Dominios de marca], seleccione el dominio genérico actual y haga clic en **[!UICONTROL Editar]** para cambiarlo al dominio de marca de su compañía.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

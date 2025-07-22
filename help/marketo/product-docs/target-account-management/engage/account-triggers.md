@@ -4,10 +4,10 @@ description: Déclencheur de cuenta - Documentos de Marketo - Documentación del
 title: Déclencheur de cuenta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Seleccione su campaña inteligente y haga clic en **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
-Introduzca &quot;Cuenta con Nombre&quot; en el cuadro de búsqueda para encontrar ambos déclencheur de Cuenta con Nombre.
+Escriba &quot;[!UICONTROL Cuenta con nombre]&quot; en el cuadro de búsqueda para encontrar las dos déclencheur de [!UICONTROL Cuenta con nombre].
 
 ![](assets/two-1.png)
 
-Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos _Se agregó a la cuenta con nombre_.
+Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos _[!UICONTROL Se agregó a la cuenta con nombre]_.
 
 ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ Haga clic en la lista desplegable Cuenta con nombre...
 
 ![](assets/six-1.png)
 
-¡Eso es todo! Después de finalizar el resto de la campaña inteligente, recuerde activarla.
+¡Ya está! Después de finalizar el resto de la campaña inteligente, recuerde activarla.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: 'Enviar un correo electrónico de muestra: documentos de Marketo, d
 title: Enviar correo electrónico de muestra
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -21,14 +21,14 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
 ## Enviar correo electrónico de muestra {#send-a-sample-email-1}
 
-1. Busque y seleccione su correo electrónico. Haga clic en el menú desplegable **Acciones de correo electrónico** y seleccione **Enviar muestra**.\
+1. Busque y seleccione su correo electrónico. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Enviar muestra]**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >Mis tokens resuelven el valor apropiado para el programa del correo electrónico.
 
-1. Introduzca una o varias direcciones de correo electrónico para la entrega. Para varias direcciones de correo electrónico, utilice comas para separarlas. Haga clic en **Enviar** cuando haya terminado.
+1. Introduzca una o varias direcciones de correo electrónico para la entrega. Para varias direcciones de correo electrónico, utilice comas para separarlas. Haga clic en **[!UICONTROL Enviar]** cuando haya terminado.
 
    ![](assets/two.png)
 
@@ -42,21 +42,21 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
 ## Enviar un correo electrónico de muestra durante la edición {#send-a-sample-email-while-editing}
 
-1. Busque el correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en la ficha **[!UICONTROL Editar borrador]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Haga clic en **Acciones de correo electrónico**, seleccione **Enviar muestra**.
+1. Haga clic en **[!UICONTROL Acciones de correo electrónico]**, seleccione **[!UICONTROL Enviar muestra]**.
 
    ![](assets/four.png)
 
-1. Escriba una dirección de correo electrónico para la entrega y haga clic en **Enviar**.
+1. Escriba una dirección de correo electrónico para la entrega y haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting).
+   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 
@@ -64,15 +64,15 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 >
 >[Aplicar segmentación a su correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Busque el correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en la ficha **[!UICONTROL Editar borrador]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Haga clic en **Vista previa**.
+1. Haga clic en **[!UICONTROL Vista previa]**.
 
    ![](assets/1.png)
 
-1. Haga clic en el menú desplegable **Ver por** y seleccione **Segmentación**.
+1. Haga clic en el menú desplegable **[!UICONTROL Ver por]** y seleccione **[!UICONTROL Segmentación]**.
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
    ![](assets/4.png)
 
-1. Haga clic en **Enviar muestra** para recibir un correo electrónico de prueba del segmento en acción.
+1. Haga clic en **[!UICONTROL Enviar muestra]** para recibir un correo electrónico de prueba del segmento en acción.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >También puede enviar un correo electrónico de ejemplo basado en un segmento en el modo de edición del correo electrónico. Haga clic en el menú desplegable **Acciones de correo electrónico**, seleccione **Enviar muestra** y, a continuación, elija el segmento.
+   >También puede enviar un correo electrónico de ejemplo basado en un segmento en el modo de edición del correo electrónico. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]**, seleccione **[!UICONTROL Enviar muestra]** y, a continuación, elija el segmento.
 
 Es muy importante muestrear el contenido antes de lanzar una campaña. Medir dos veces, cortar una vez!

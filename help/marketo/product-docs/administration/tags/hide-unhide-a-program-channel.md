@@ -4,7 +4,7 @@ description: 'Ocultar/mostrar un canal de programa: documentos de Marketo, docum
 title: Ocultar/mostrar un canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -41,6 +41,6 @@ Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/
 
 ## Mostrar un canal de programa {#unhide-a-program-channel}
 
-1. Muestre un canal de programa marcando la casilla de verificación Mostrar ocultos.
+1. Muestre un canal de programa marcando la casilla de verificación **[!UICONTROL Mostrar ocultos]**.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

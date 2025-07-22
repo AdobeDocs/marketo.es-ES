@@ -4,9 +4,9 @@ description: Implementación de RTP con Adobe Tag Manager - Documentos de Market
 title: Implementación de RTP con Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,35 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Inicie sesión en su cuenta de RTP.
 
-1. Vaya a **Configuración de la cuenta**.
+1. Vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    a. Si ya ha recibido la etiqueta JavaScript del equipo de asistencia, siga con el paso 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
+1. En [!UICONTROL Dominio], busque el dominio correspondiente y haga clic en **[!UICONTROL Generar etiqueta]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Inicie sesión en su cuenta de Dynamic Tag Manager ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Inicie sesión en su cuenta de [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Ir a **Tablero.** Haga clic en la propiedad web correspondiente.
+1. Ir a **[!UICONTROL Tablero].** Haga clic en la propiedad web correspondiente.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Vaya a **Reglas** y haga clic en **Crear nueva regla**.
+1. Vaya a **[!UICONTROL Reglas]** y haga clic en **[!UICONTROL Crear nueva regla]**.
 
 1. Complete lo siguiente
 
-   1. Nombre: **Marketo RTP**
-   1. Condiciones (contraer) : regla de Déclencheur en - **Parte superior de la página**
-   1. Javascript (contraer): haga clic en **Agregar nuevo script**
+   1. [!UICONTROL Nombre]: **Marketo RTP**
+   1. [!UICONTROL Condiciones] (contraer) : regla de Déclencheur en - **[!UICONTROL Parte superior de la página]**
+   1. [!UICONTROL Javascript] (contraer): haga clic en **[!UICONTROL Agregar nuevo script]**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. Llame a la nueva etiqueta: **Marketo RTP Tag**
 
-1. Elimine el siguiente código de la etiqueta RTP
+1. Quite el siguiente código de la [!UICONTROL etiqueta RTP]
 
    * `<script type='text/javascript'>`
    * `</script>`
@@ -58,12 +58,12 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
    >
    >Asegúrese de quitar todas las etiquetas y dejar solamente el script en sí (no `<script type='text/javascript'>` , `</script>` )
 
-1. Haga clic en **Guardar código** en el editor de scripts y en **Guardar regla** en el editor de reglas.
+1. Haga clic en **[!UICONTROL Guardar código]** en el editor de scripts y en **[!UICONTROL Guardar regla]** en el editor de reglas.
 
-1. En el panel Reglas, busque la regla de carga de página Marketo RTP y, en el menú desplegable **Acciones**, seleccione **Activar reglas**.
+1. En el panel Reglas, busque la regla de carga de página Marketo RTP y, en el menú desplegable **[!UICONTROL Acciones]**, seleccione **[!UICONTROL Activar reglas]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Compruebe** que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
+1. **[!UICONTROL Compruebe]** que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
 
-   Puede hacerlo haciendo clic con el botón derecho en las páginas del sitio web. Vaya a **Inspect Element**, haga clic en **Red**, Buscar: **RTP**.
+   Puede hacerlo haciendo clic con el botón derecho en las páginas del sitio web. Vaya a **[!UICONTROL Inspeccionar elemento]**, haga clic en **[!UICONTROL Red]**, Buscar: **RTP**.

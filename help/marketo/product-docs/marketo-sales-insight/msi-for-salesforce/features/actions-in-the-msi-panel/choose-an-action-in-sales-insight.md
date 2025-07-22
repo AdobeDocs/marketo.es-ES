@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099167
-description: Elegir una acción en la perspectiva de ventas - Documentos de Marketo - Documentación del producto
-title: Elija una acción en la perspectiva de ventas
+description: Elija una acción en Sales Insight - Documentos de Marketo - Documentación del producto
+title: Elija una acción en Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Elija una acción en la perspectiva de ventas {#choose-an-action-in-sales-insight}
+# Elegir una acción en [!DNL Sales Insight] {#choose-an-action-in-sales-insight}
 
-Las siguientes acciones están disponibles en la lista desplegable Perspectiva de ventas de Salesforce Classic y Lightning:
+Las siguientes acciones están disponibles en la lista desplegable [!DNL Sales Insight] de [!DNL Salesforce] Classic y Lightning:
 
 * Enviar correo electrónico a Marketo
 * Añadir a Marketo Campaign
@@ -37,13 +37,13 @@ Se puede acceder a cada una de estas funciones desde:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Ficha Resultados más probables**
+**[!DNL Best Bets]ficha**
 
-* Pestaña Acciones masivas recomendadas: Acción de grupo y que puede controlar el perfil de usuario
+* [!DNL Best Bets] pestaña Acciones masivas: Acción de grupo y puede ser controlado por el perfil de usuario
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Pestaña Acciones en línea recomendadas: una acción y puede controlarse mediante un perfil de usuario
+* [!DNL Best Bets] Pestaña Acciones en línea: una acción y puede controlarse mediante un perfil de usuario
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

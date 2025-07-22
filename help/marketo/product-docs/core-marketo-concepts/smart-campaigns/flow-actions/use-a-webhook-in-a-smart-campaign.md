@@ -4,7 +4,7 @@ description: 'Uso de un webhook en una campaña inteligente: documentos de Marke
 title: Uso de un webhook en una campaña inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Uso de un webhook en una campaña inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para usar un [gancho web](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, agréguelo a una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como una acción de flujo.
+Para usar un [gancho web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, agréguelo a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como una acción de flujo.
 
 >[!AVAILABILITY]
 >
@@ -29,7 +29,7 @@ Para usar un [gancho web](https://experienceleague.adobe.com/es/docs/marketo-dev
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Seleccione el webhook.
+1. Seleccione el **[!UICONTROL webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

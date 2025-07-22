@@ -3,16 +3,16 @@ description: Aceleración de la conexión de correo electrónico - Documentos de
 title: Restricción de conexión de correo electrónico
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
 # Restricción de conexión de correo electrónico {#email-connection-throttling}
 
-Al integrar su cuenta de Sales Connect para enviarla a través de los proveedores de correo electrónico de Exchange o Gmail, se ofrece una configuración optimizada y se optimiza la capacidad de entrega de correo electrónico para la comunicación de ventas 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y Exchange aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
+La integración de su cuenta de [!DNL Sales Connect] para enviar a través de [!DNL Exchange] o proveedores de correo electrónico de Gmail ofrece una configuración optimizada y optimiza la capacidad de envío de correo electrónico para la comunicación de ventas de 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y [!DNL Exchange] aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
 
 ## Limitación de la conexión de correo electrónico (Beta) {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ Cuando se exceden los límites de forma constante, esto a veces se puede ver com
 
 **Notas/Aspectos destacados**
 
-* Se activa automáticamente una vez que un usuario se conecta a Gmail o Exchange
+* Se habilita automáticamente una vez que un usuario se conecta a Gmail o [!DNL Exchange]
 * Se puede personalizar si desea aumentar o reducir la configuración de Recommendations para satisfacer sus necesidades
-* Solo restringe los correos electrónicos enviados a través de Gmail o Exchange, no restringe el canal de envío personalizado
+* Solo restringe los correos electrónicos enviados a través de Gmail o [!DNL Exchange], no restringe el canal de envío personalizado
 * La restricción de conexión de correo electrónico pone en cola los correos electrónicos de cada usuario individual por separado, ya que cada usuario tiene su propia conexión con su proveedor de correo electrónico
 
 **Configuración de la limitación de la conexión de correo electrónico**
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. En Configuración de administración, haga clic en **General**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL General]**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. En la tarjeta Restricción de conexión de correo electrónico de la derecha, haga clic en el control deslizante **Habilitar limitación de correo electrónico**.
+1. En la tarjeta Restricción de conexión de correo electrónico de la derecha, haga clic en el control deslizante **[!UICONTROL Habilitar limitación de correo electrónico]**.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ Cuando se exceden los límites de forma constante, esto a veces se puede ver com
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/email-connection-throttling-6.png)
 
-Con los cambios guardados, todos los usuarios recibirán sus correos electrónicos en lotes en su cuenta conectada de Gmail o Exchange para que los envíen.
+Con los cambios guardados, todos los usuarios recibirán sus correos electrónicos en lotes en su cuenta de Gmail o [!DNL Exchange] conectada para su envío.
 
 ## Límites del proveedor de correo electrónico {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 Empresa/Empresa
 
@@ -75,7 +75,7 @@ Encontrará más información [aquí](https://docs.microsoft.com/en-us/office365
 
 Encontrará más información [aquí](https://support.google.com/a/answer/166852?hl=en).
 
-**Servidor de Microsoft Exchange (2010, 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 El departamento de TI de la organización establece los límites a medida que la organización aloja el servidor. Póngase en contacto con el administrador de red o del sistema según corresponda para obtener más información.
 

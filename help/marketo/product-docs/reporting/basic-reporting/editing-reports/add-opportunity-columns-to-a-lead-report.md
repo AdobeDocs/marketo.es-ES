@@ -4,10 +4,10 @@ description: Adición de columnas de oportunidad a un informe de posibles client
 title: Agregar columnas de oportunidad a un informe de posibles clientes
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 12%
 
 Para ver las estadísticas de oportunidades en los informes de personas, puede añadir columnas de oportunidades.
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/ma.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Configuración**.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/two.png)
 
-1. Haga doble clic en **Columnas de oportunidad**.
+1. Haga doble clic en **[!UICONTROL Columnas de oportunidad]**.
 
    ![](assets/three.png)
 
-1. Seleccione **Mostrado** del menú desplegable.
+1. Seleccione **[!UICONTROL Mostrado]** del menú desplegable.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Haga clic en la ficha **Informe** para ver el informe con las métricas de oportunidad.
+1. Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe con las métricas de oportunidad.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Para ver las estadísticas de oportunidades en los informes de personas, puede a
    >
    >Desplácese a la derecha para ver más columnas.
 
-1. Para [agregar o quitar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **Columnas**.
+1. Para [agregar o quitar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **[!UICONTROL Columnas]**.
 
    ![](assets/six.png)
 
@@ -51,20 +51,20 @@ Para ver las estadísticas de oportunidades en los informes de personas, puede a
 
    | Columna | Descripción |
    |---|---|
-   | Sin oportunidad | Cantidad de personas que *no* son un contacto de oportunidad principal. |
-   | Días sin oportunidad | Edad promedio, en días, de las personas que *no son* un contacto principal. |
-   | Tiene oportunidad | Número de personas que son un contacto de oportunidad principal. |
-   | Tiene oportunidad % | Porcentaje de personas que son un contacto de oportunidad principal. |
-   | Días hasta la oportunidad | Promedio de días para la conversión de persona a contacto de oportunidad principal. |
-   | Monto total de la oportunidad | Suma de todos los importes de oportunidad. |
-   | Monto promedio de oportunidades | Suma de las cantidades de oportunidad, divididas por el número de oportunidades. |
-   | Oportunidad total | Número de todas las oportunidades. |
-   | Cerrado | Número de oportunidades que se han cerrado, ganado o perdido. |
-   | Ganada | Número de oportunidades que se han ganado. |
-   | % ganadas | Porcentaje de oportunidades que se han ganado. |
-   | Monto total ganado | Suma de los importes de oportunidad ganados. |
-   | Días para cerrar | Promedio de días para cerrar oportunidades. |
-   | Días en Ventas | Longitud promedio del ciclo de ventas (días hasta la oportunidad + días para cerrar). |
+   | [!UICONTROL Sin oportunidad] | Cantidad de personas que *no* son un contacto de oportunidad principal. |
+   | [!UICONTROL Días sin oportunidad] | Edad promedio, en días, de las personas que *no son* un contacto principal. |
+   | [!UICONTROL Tiene una oportunidad] | Número de personas que son un contacto de oportunidad principal. |
+   | [!UICONTROL Tiene una oportunidad %] | Porcentaje de personas que son un contacto de oportunidad principal. |
+   | [!UICONTROL Días Hasta La Oportunidad] | Promedio de días para la conversión de persona a contacto de oportunidad principal. |
+   | [!UICONTROL Importe total de la oportunidad] | Suma de todos los importes de oportunidad. |
+   | [!UICONTROL Importe medio de oportunidad] | Suma de las cantidades de oportunidad, divididas por el número de oportunidades. |
+   | [!UICONTROL Oportunidad total] | Número de todas las oportunidades. |
+   | [!UICONTROL Cerrado] | Número de oportunidades que se han cerrado, ganado o perdido. |
+   | [!UICONTROL Ganó] | Número de oportunidades que se han ganado. |
+   | [!UICONTROL % ganó] | Porcentaje de oportunidades que se han ganado. |
+   | [!UICONTROL Importe total ganado] | Suma de los importes de oportunidad ganados. |
+   | [!UICONTROL días para cerrar] | Promedio de días para cerrar oportunidades. |
+   | [!UICONTROL Días en ventas] | Longitud promedio del ciclo de ventas (días hasta la oportunidad + días para cerrar). |
 
    >[!MORELIKETHIS]
    >

@@ -4,7 +4,7 @@ description: Adición de medidas personalizadas a un informe del Explorador de i
 title: Adición de medidas personalizadas a un informe del Explorador de ingresos
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -23,7 +23,7 @@ En el ejemplo siguiente, se crea una medida calculada para los rechazos leves, q
 
 1. Coloque sobre los campos que necesita para su informe. Consulte [Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
 
-1. Haga clic con el botón derecho en una métrica existente (celda azul), haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
+1. Haga clic con el botón derecho en una métrica existente (celda azul), haga clic en **[!UICONTROL Medida definida por el usuario]** y seleccione **[!UICONTROL Medida calculada]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ En el ejemplo siguiente, se crea una medida calculada para los rechazos leves, q
    >
    >Puede escribir los símbolos matemáticos usted mismo o utilizar el cuadro de selección.
 
-1. Cuando haya terminado, haga clic en **Aceptar**.
+1. Cuando haya terminado, haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

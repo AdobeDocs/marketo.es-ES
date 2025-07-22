@@ -4,7 +4,7 @@ description: 'Añadir CNAME de página de aterrizaje adicional: documentos de Ma
 title: Añadir CNAME de página de aterrizaje adicional
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Desplácese hacia abajo hasta &quot;Información de asistencia&quot; y copie su ID de Munchkin.
+1. Desplácese hacia abajo hasta &quot;Información de asistencia&quot; y copie su Munchkin ID.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
@@ -45,7 +45,7 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
 1. Pida al departamento de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] por el CNAME de su elección y [Munchkin ID] por el texto del paso anterior).
 
-   [CNAME].YourCompany.com > [ID de Munchkin].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Añadir un nuevo CNAME {#add-a-new-cname}
 
@@ -57,19 +57,19 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Haga clic en **Nuevo** y, a continuación, seleccione **Nuevo alias de dominio**.
+1. Haga clic en **[!UICONTROL Nuevo]** y, a continuación, seleccione **[!UICONTROL Nuevo alias de dominio]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Escriba su alias de dominio **.**: se muestra la **página predeterminada** si el visitante no escribe una dirección URL. Introduzca a dónde deben ir en ese caso.
+1. Escriba su **[!UICONTROL alias de dominio].**: se muestra la **[!UICONTROL página predeterminada]** si el visitante no escribe una dirección URL. Introduzca a dónde deben ir en ese caso.
 
    >[!NOTE]
    >
-   >Para la página predeterminada, puede seleccionar una página de aterrizaje o una URL externa, como un sitio web público.
+   >Para la [!UICONTROL página predeterminada], puede seleccionar una página de aterrizaje o una dirección URL externa, como un sitio web público.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Escriba su **página predeterminada** y haga clic en **Crear**.
+1. Escriba su **[!UICONTROL página predeterminada]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

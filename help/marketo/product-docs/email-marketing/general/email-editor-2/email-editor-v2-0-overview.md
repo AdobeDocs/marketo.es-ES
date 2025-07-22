@@ -4,16 +4,16 @@ description: 'Información general del editor de correo electrónico v2.0: docum
 title: Información general del Editor de correo electrónico v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
 # Información general del Editor de correo electrónico v2.0 {#email-editor-v2-overview}
 
-Cuando decida activar el Editor de correo electrónico v2.0, notará que hay varias funciones nuevas.
+Cuando decida activar [!DNL Email Editor v2.0], notará que hay varias características nuevas.
 
 **Selector de plantilla de correo electrónico**
 
@@ -35,7 +35,7 @@ Estas cosas en el lado derecho del editor se denominan módulos. Aprenda a [agre
 
 **Versión de texto**
 
-Ahora puede cambiar entre la versión del HTML y las versiones de texto de su correo electrónico en una práctica pestaña en la parte inferior. Aprenda a [editar la versión de texto de un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Ahora puede cambiar entre la versión de HTML y las versiones de texto de su correo electrónico en una práctica pestaña en la parte inferior. Aprenda a [editar la versión de texto de un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -59,7 +59,7 @@ De forma predeterminada, el correo electrónico muestra el aspecto que tendría 
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Para obtener una vista previa más grande, haz clic en **Vista previa** en la parte superior derecha del correo electrónico.
+Para obtener una vista previa más grande, haz clic en **[!UICONTROL Vista previa]** en la parte superior derecha del correo electrónico.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ La vista predeterminada es escritorio...
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...pero también puede ver el aspecto que tendrá en un dispositivo móvil. ¡También puede previsualizar la versión del texto! Simplemente haga clic en **Editar borrador** en la esquina superior derecha para reanudar la edición.
+...pero también puede ver el aspecto que tendrá en un dispositivo móvil. ¡También puede previsualizar la versión del texto! Simplemente haga clic en **[!UICONTROL Editar borrador]** en la esquina superior derecha para reanudar la edición.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**Acciones de correo electrónico**
+**[!UICONTROL Acciones de correo electrónico]**
 
-En **Acciones de correo electrónico**, verá algunas características nuevas. **Cargar una imagen o un archivo** y **Capturar imágenes de la web**. También puede guardar el propio correo electrónico como una nueva plantilla de correo electrónico. Todo lo que tienes que hacer es darle un nombre y un destino.
+En **[!UICONTROL Acciones de correo electrónico]**, verá algunas características nuevas. **[!UICONTROL Cargar una imagen o un archivo]** y **[!UICONTROL Capturar imágenes de la web]**. También puede guardar el propio correo electrónico como una nueva plantilla de correo electrónico. Todo lo que tienes que hacer es darle un nombre y un destino.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ En **Acciones de correo electrónico**, verá algunas características nuevas. *
 
 >[!NOTE]
 >
->**[Capturar imágenes de la web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona igual que en Design Studio.
+>**[[!UICONTROL Capturar imágenes de la web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona igual que en [!UICONTROL Design Studio].
 
-**Deshabilitar el seguimiento de aperturas** En **Configuración de correo electrónico**, puede deshabilitar el seguimiento de aperturas si es necesario.
+**[!UICONTROL Deshabilitar el seguimiento de aperturas]** En **[!UICONTROL Editar configuración]**, puede deshabilitar el seguimiento de aperturas si es necesario.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**Configuración de correo electrónico**
+**[!UICONTROL Editar configuración]**
 
-Tiene la opción de agregar un preencabezado. Un preencabezado es el texto corto de resumen que aparece después de la línea de asunto cuando se ven los correos electrónicos en la bandeja de entrada.
+Tiene la opción de agregar [!UICONTROL Preheader]. Un [!UICONTROL preencabezado] es el breve texto de resumen después de la línea de asunto cuando los correos electrónicos se ven en la bandeja de entrada.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->Los tokens no funcionan en el encabezado previo al utilizar el editor de correo electrónico. Para utilizar un token en el encabezado previo, debe hacerlo a través de su propio HTML en una plantilla de correo electrónico.
+>Los tokens no funcionan en el [!UICONTROL encabezado previo] al usar el editor de correo electrónico. Para usar un token en [!UICONTROL Preheader], debe ser a través de tu propio HTML en una plantilla de correo electrónico.
 
 Un montón de grandes nuevas características! ¡Diviértete!
 

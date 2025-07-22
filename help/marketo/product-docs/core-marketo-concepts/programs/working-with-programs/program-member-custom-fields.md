@@ -4,7 +4,7 @@ description: Campos personalizados de miembros del programa - Documentos de Mark
 title: Campos personalizados de miembro de programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -29,13 +29,13 @@ Los campos personalizados de miembro de programa permiten recopilar datos espec�
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable Objeto y seleccione el objeto deseado.
+1. Haga clic en el menú desplegable **[!UICONTROL Objeto]** y seleccione el objeto que desee.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Los campos personalizados de persona y miembro de programa no pueden compartir el mismo nombre.
+   >Los campos personalizados [!UICONTROL Persona] y [!UICONTROL Miembro del programa] no pueden compartir el mismo nombre.
 
 1. Rellene los campos restantes y haga clic en **[!UICONTROL Crear]**.
 
@@ -43,7 +43,7 @@ Los campos personalizados de miembro de programa permiten recopilar datos espec�
 
    >[!NOTE]
    >
-   >Los tipos admitidos para los campos personalizados de miembro de programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Más información sobre los tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Los tipos compatibles con los campos personalizados [!UICONTROL Miembro de programa] son: booleano, fecha, fecha y hora, flotante, entero, cadena y dirección URL. [Más información sobre los tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Descripciones de objetos {#object-descriptions}
 

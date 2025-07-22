@@ -4,14 +4,14 @@ description: 'Habilitar/deshabilitar la sincronización de Salesforce: documento
 title: Habilitar/deshabilitar la sincronización de Salesforce
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Habilitar/deshabilitar la sincronización de Salesforce {#enable-disable-the-salesforce-sync}
+# Habilitar/deshabilitar la sincronización de [!DNL Salesforce] {#enable-disable-the-salesforce-sync}
 
 Cuando realice cambios importantes en la configuración de la sincronización o del campo, debe deshabilitar la sincronización mientras configura. A continuación se muestra cómo:
 
@@ -23,7 +23,7 @@ Cuando realice cambios importantes en la configuración de la sincronización o 
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. La sincronización bidireccional ahora está desactivada e inactiva hasta que la vuelva a habilitar. Las acciones de flujo de Salesforce seguirán funcionando.
+1. La sincronización bidireccional ahora está desactivada e inactiva hasta que la vuelva a habilitar. [!DNL Salesforce] acciones de flujo seguirán funcionando.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 

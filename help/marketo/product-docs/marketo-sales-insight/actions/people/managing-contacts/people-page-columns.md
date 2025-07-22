@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 5%
 
 ---
 
@@ -18,11 +18,11 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
 
 ## Cómo seleccionar columnas {#how-to-select-columns}
 
-1. En la página Personas, haga clic en el icono Configuración de lista.
+1. En la página [!UICONTROL Personas], haga clic en el icono Configuración de lista.
 
    ![](assets/people-page-columns-1.png)
 
-1. Desplácese y seleccione las columnas que desee (también puede hacer clic en **Seleccionar todo** si desea todas las columnas). Haga clic en para salir de la lista cuando haya terminado.
+1. Desplácese y seleccione las columnas que desee (también puede hacer clic en **[!UICONTROL Seleccionar todo]** si desea todas las columnas). Haga clic en para salir de la lista cuando haya terminado.
 
    ![](assets/people-page-columns-2.png)
 
@@ -39,83 +39,83 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td>Nombre (predeterminado)</td> 
+   <td>[!UICONTROL Nombre (predeterminado)]</td> 
    <td>Nombre</td> 
   </tr> 
   <tr> 
-   <td>Apellidos (predeterminado)</td> 
+   <td>[!UICONTROL Apellidos (predeterminado)]</td> 
    <td>Apellido</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Correo electrónico (predeterminado)</td> 
+   <td colspan="1">[!UICONTROL Correo electrónico (predeterminado)]</td> 
    <td colspan="1">Correo electrónico</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Teléfono</td> 
+   <td colspan="1">[!UICONTROL Teléfono]</td> 
    <td colspan="1">Número de teléfono</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Título (predeterminado)</td> 
+   <td colspan="1">[!UICONTROL Título (predeterminado)]</td> 
    <td colspan="1">Cargo</td> 
   </tr> 
   <tr> 
-   <td>Compañía (predeterminado)</td> 
+   <td>[!UICONTROL Company (predeterminado)]</td> 
    <td>Nombre de la compañía</td> 
   </tr> 
   <tr> 
-   <td>Campaña (predeterminado)</td> 
+   <td>[!UICONTROL Campaign (predeterminado)]</td> 
    <td>Campaña de ventas en la que se encuentra la persona</td> 
   </tr> 
   <tr> 
-   <td>N.° de campañas</td> 
+   <td># [!UICONTROL Campañas]</td> 
    <td>Número total de campañas de ventas de las que la persona ha formado parte</td> 
   </tr> 
   <tr> 
-   <td>N.° de llamadas</td> 
+   <td># [!UICONTROL Llamadas]</td> 
    <td>Número total de llamadas realizadas a esta persona</td> 
   </tr> 
   <tr> 
-   <td>N.° de correos electrónicos</td> 
+   <td># [!UICONTROL Correos electrónicos]</td> 
    <td>Número total de correos electrónicos enviados a esta persona</td> 
   </tr> 
   <tr> 
-   <td>Fecha de vencimiento de la tarea</td> 
+   <td>[!UICONTROL Fecha de vencimiento de tarea]</td> 
    <td>Fecha de vencimiento de la tarea</td> 
   </tr> 
   <tr> 
-   <td># Eventos (predeterminado)</td> 
+   <td># [!UICONTROL Eventos (predeterminado)]</td> 
    <td>Número total de eventos de participación de la persona (vistas, clics y respuestas)</td> 
   </tr> 
   <tr> 
-   <td>Número de actividades (predeterminado)</td> 
+   <td># [!UICONTROL Actividades (predeterminado)]</td> 
    <td>Número total de actividades realizadas por el usuario para este posible cliente (correos electrónicos, llamadas y tareas)</td> 
   </tr> 
   <tr> 
-   <td>Consentimiento</td> 
+   <td>[!UICONTROL Consentimiento]</td> 
    <td><p>Interés legítimo, ejecución de un contrato, cumplimiento de la obligación legal, protección de los intereses vitales, interés público/autoridad oficial y otros</p></td> 
   </tr> 
   <tr> 
-   <td>Tareas abiertas</td> 
+   <td>[!UICONTROL Abrir tareas]</td> 
    <td>Número de tareas abiertas para esta persona</td> 
   </tr> 
   <tr> 
-   <td>N.° de respuestas</td> 
+   <td># [!UICONTROL Vistas]</td> 
    <td>Número total de vistas realizadas por esta persona</td> 
   </tr> 
   <tr> 
-   <td>N.° de clics</td> 
+   <td># [!UICONTROL Clics]</td> 
    <td>Número total de clics de esta persona</td> 
   </tr> 
   <tr> 
-   <td>N.° de respuestas</td> 
+   <td># [!UICONTROL Respuestas]</td> 
    <td>Número total de respuestas de esta persona</td> 
   </tr> 
   <tr> 
-   <td>Última actualización</td> 
+   <td>[!UICONTROL Última actualización]</td> 
    <td>Fecha en la que se actualizó por última vez el registro de persona</td> 
   </tr> 
   <tr> 
-   <td>Autor</td> 
+   <td>[!UICONTROL Creator]</td> 
    <td>Nombre del usuario que creó a la persona</td> 
   </tr> 
   <tr> 
@@ -123,11 +123,11 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo la
    <td>Source de dónde se creó la persona</td> 
   </tr> 
   <tr> 
-   <td>Grupos (predeterminado)</td> 
+   <td>[!UICONTROL Grupos] (predeterminado)</td> 
    <td>Grupos de los que forma parte la persona</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Suscripción cancelada</td> 
+   <td colspan="1">[!UICONTROL Cancelado la suscripción]</td> 
    <td colspan="1">Estado de cancelación de suscripción de ventas</td> 
   </tr> 
  </tbody> 

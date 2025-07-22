@@ -4,10 +4,10 @@ description: 'Envío de una muestra: documentos de Marketo, documentación del p
 title: Envío de una muestra
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## La forma regular {#the-regular-way}
 
@@ -35,6 +35,6 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 ## La vía rápida {#the-quick-way}
 
-1. Pulse el icono avión de papel en la pantalla Vista previa de correo electrónico para enviar una muestra directamente desde la vista previa.
+1. Pulse el icono del avión de papel en la pantalla [!UICONTROL Vista previa de correo electrónico] para enviar una muestra directamente desde la vista previa.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)

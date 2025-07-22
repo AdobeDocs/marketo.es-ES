@@ -4,24 +4,24 @@ description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (e
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresarial/ilimitado)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 6%
+source-wordcount: '425'
+ht-degree: 3%
 
 ---
 
-# Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Paso 2 de 3: Crear un usuario de [!DNL Salesforce] para Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->Estos pasos debe completarlos un administrador de Salesforce
+>Estos pasos debe completarlos un administrador de [!DNL Salesforce]
 
 >[!PREREQUISITES]
 >
->[Paso 1 de 3: agregar campos de Marketo a Salesforce (empresarial/ilimitado)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Paso 1 de 3: Agregar campos de Marketo a [!DNL Salesforce] (Empresa/ilimitado)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-En este artículo, configurará los permisos de usuario en el perfil de Salesforce y creará una cuenta de integración de Marketo y Salesforce.
+En este artículo, configurará los permisos de usuario en el perfil [!DNL Salesforce] y creará una cuenta de integración Marketo-[!DNL Salesforce].
 
 ## Crear un perfil {#create-a-profile}
 
@@ -49,10 +49,10 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
 1. En la sección **[!UICONTROL Permisos administrativos]**, asegúrese de marcar las siguientes casillas:
 
-   * API habilitada
-   * Editar plantillas de HTML
-   * Administrar documentos públicos
-   * Administrar plantillas públicas
+   * [!UICONTROL API habilitada]
+   * [!UICONTROL Editar plantillas de HTML]
+   * [!UICONTROL Administrar documentos públicos]
+   * [!UICONTROL Administrar plantillas públicas]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,25 +60,25 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
    >
    >Asegúrese de marcar la casilla **[!UICONTROL La contraseña nunca caduca]**.
 
-1. En la sección Permisos generales de usuario, asegúrese de que las siguientes casillas estén marcadas:
+1. En la sección [!UICONTROL Permisos generales de usuario], asegúrese de marcar las siguientes casillas:
 
-   * Convertir posibles clientes
-   * Editar eventos
-   * Editar tareas
+   * [!UICONTROL Convertir posibles clientes]
+   * [!UICONTROL Editar eventos]
+   * [!UICONTROL Editar tareas]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. En la sección Permisos de objeto estándar, asegúrese de que los permisos Leer, Crear, Editar y Eliminar están marcados para:
+1. En la sección [!UICONTROL Permisos de objeto estándar], asegúrese de comprobar los permisos de [!UICONTROL Leer, Crear, Editar y Eliminar] para:
 
-   * Cuentas
-   * Campañas
-   * Contactos
-   * Clientes potenciales
-   * Oportunidades
+   * [!UICONTROL Cuentas]
+   * [!UICONTROL Campañas]
+   * [!UICONTROL Contactos]
+   * [!UICONTROL Posibles clientes]
+   * [!UICONTROL Oportunidades]
 
    >[!NOTE]
    >
-   >Conceda permisos a las campañas si planea utilizar la sincronización de campañas.
+   >Conceda permisos a [!UICONTROL Campañas] si planea usar la sincronización de campañas.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -96,10 +96,10 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
 1. En la página de detalles del perfil, vaya a la sección **[!UICONTROL Seguridad de nivel de campo]**. Haga clic en **[!UICONTROL Ver]** para editar la accesibilidad de los objetos:
 
-   * Posible cliente
-   * Contacto
-   * Cuenta
-   * Oportunidad
+   * [!UICONTROL Posible cliente]
+   * [!UICONTROL Contacto]
+   * [!UICONTROL Cuenta]
+   * [!UICONTROL Oportunidad]
 
    >[!TIP]
    >
@@ -111,7 +111,7 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Busque los campos que no necesite, asegúrese de que las opciones **[!UICONTROL Acceso de lectura]** y **[!UICONTROL Editar acceso]** estén desactivadas. Haga clic en **[!UICONTROL Guardar]** cuando termine.
+1. Busque los campos que no necesite, asegúrese de que las opciones **[!UICONTROL Acceso de lectura]** y **[!UICONTROL Editar acceso]** estén desactivadas. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Una vez que termine de deshabilitar todos los campos innecesarios, debe comprobar **[!UICONTROL Acceso de lectura y acceso de edición]** para los siguientes campos de objeto. Haga clic en **[!UICONTROL Guardar]** cuando termine.
+1. Una vez que termine de deshabilitar todos los campos innecesarios, debe comprobar **[!UICONTROL Acceso de lectura y acceso de edición]** para los siguientes campos de objeto. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
 
 <table> 
  <tbody> 
@@ -148,9 +148,9 @@ En este artículo, configurará los permisos de usuario en el perfil de Salesfor
 
 >[!TIP]
 >
->Cree una cuenta de Salesforce específica (por ejemplo, `marketo@yourcompany.com`) para distinguir los cambios realizados por Marketo frente a otros usuarios de Salesforce.
+>Cree una cuenta [!DNL Salesforce] específica (por ejemplo, marketo@yourcompany.com) para distinguir los cambios realizados por Marketo en comparación con otros usuarios de [!DNL Salesforce].
 
-1. Escriba &quot;Administrar usuarios&quot; en la barra de búsqueda de navegación y luego haga clic en **[!UICONTROL Usuarios]**. Haga clic en **[!UICONTROL Nuevo usuario]**.
+1. Escriba &quot;Administrar usuarios&quot; en la barra de búsqueda de navegación y luego haga clic en **[!UICONTROL Usuarios]**. Haz clic en **[!UICONTROL Nuevo usuario]**.
 
    ![](assets/sfdc-new-users.png)
 
@@ -162,4 +162,4 @@ Se ha completado el paso 2 de 3.
 
 >[!NOTE]
 >
->[Paso 3 de 3: conectar Marketo y Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Paso 3 de 3: conectar Marketo y [!DNL Salesforce] (empresa/ilimitado)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

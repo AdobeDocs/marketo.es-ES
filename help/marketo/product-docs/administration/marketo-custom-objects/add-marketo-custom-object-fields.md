@@ -4,7 +4,7 @@ description: 'Agregar campos de objeto personalizados de Marketo: documentos de 
 title: Agregar campos de objeto personalizados de Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Los campos definen la información específica que utiliza un objeto personaliza
 
    >[!NOTE]
    >
-   >El nombre de la API solo se puede editar hasta que se apruebe.
+   >[!UICONTROL Nombre de API] solo se puede editar hasta que se apruebe.
 
 1. Ahora, elija un [!UICONTROL Tipo de datos] apropiado en la lista.
 

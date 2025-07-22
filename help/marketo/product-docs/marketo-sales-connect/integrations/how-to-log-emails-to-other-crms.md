@@ -4,9 +4,9 @@ description: 'Registro de correos electrónicos en otros CRM: documentos de Mark
 title: Registro de correos electrónicos a otros CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ Si su CRM le proporciona una dirección de CCO, puede utilizar la sección &quot
 
 **Casi todos los CRM**:
 
-* Nuestra función de CCO automático funciona con casi todos los CRM que registran los correos electrónicos que ha enviado con Sales Connect a sus posibles clientes. Solo asegúrese de que su CRM de elección le proporcione una dirección de CCO para aprovechar esto.
+* Nuestra función de CCO automático funciona con casi todos los CRM que registran los correos electrónicos que ha enviado con [!DNL Sales Connect] a sus posibles clientes. Solo asegúrese de que su CRM de elección le proporcione una dirección de CCO para aprovechar esto.
 
-**Salesforce**:
+**[!DNL Salesforce]**:
 
 * ¡Hacemos todo lo anterior y más!
 
 ## Cómo conectarse a otros CRM {#how-to-connect-to-other-crms}
 
-1. Haga clic en **Configuración**.
+1. Haga clic en **[!UICONTROL Configuración]**.
 1. Haga clic en **CRM**.
-1. Haga clic en **Conectar** en Otros CRM.
-1. Haz clic en **Configurar** y luego pega tu dirección de CCO debajo de Enviar correo electrónico a CCO.
-1. Haz clic en **Guardar** y tu dirección de CCO se guardará en Sales Connect.
+1. Haga clic en **[!UICONTROL Conectar]** en Otros CRM.
+1. Haz clic en **[!UICONTROL Configurar]** y luego pega tu dirección de CCO debajo de Enviar correo electrónico a CCO.
+1. Haz clic en **[!UICONTROL Guardar]** y tu dirección de CCO se guardará en [!DNL Sales Connect].
 
    Los correos electrónicos ahora se registrarán en su CRM a través de CCO.

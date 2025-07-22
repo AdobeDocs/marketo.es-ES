@@ -4,16 +4,16 @@ description: 'Creación de una página de aterrizaje de forma libre: documentos 
 title: Creación de una página de aterrizaje de forma libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Creación de una página de aterrizaje de forma libre {#create-a-free-form-landing-page}
 
-Las páginas de aterrizaje de forma libre se pueden crear como recursos locales de un programa o en Design Studio para su uso global.
+Las páginas de aterrizaje de forma libre se pueden crear como recursos locales de un programa o en [!UICONTROL Design Studio] para usarlas globalmente.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
 ## Creación de una página de aterrizaje de forma libre en un programa {#create-a-free-form-landing-page-in-a-program}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Haga clic en **Nuevo**. Seleccione **Nuevo recurso local**.
+1. Haga clic en **[!UICONTROL Nuevo]**. Seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Haga clic en **Página de aterrizaje**.
+1. Haga clic en **[!UICONTROL Página de aterrizaje]**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la URL, edite el campo **URL de la página**.
+>La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la URL, edite el campo **[!UICONTROL URL de la página]**.
 
 ## Creación de una página de aterrizaje de forma libre en Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nueva** y luego en **Nueva página de aterrizaje**.
+1. Haga clic en **[!UICONTROL Nueva]** y luego en **[!UICONTROL Nueva página de aterrizaje]**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->Desmarque &quot;Abrir editor de páginas de aterrizaje para una página nueva&quot; si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.
+>Desmarque &quot;[!UICONTROL Abrir editor de páginas de aterrizaje para página nueva]&quot; si no desea que el editor se abra inmediatamente después de hacer clic en **[!UICONTROL Crear]**.

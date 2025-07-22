@@ -4,7 +4,7 @@ description: 'Edición de fragmentos con contenido dinámico: documentos de Mark
 title: Edición de fragmentos con contenido dinámico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Utilice la segmentación en fragmentos de código para administrar fácilmente e
 
 ## Añadir segmentación {#add-segmentation}
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Haz clic en tu **fragmento** y luego en **Editar borrador**.
+1. Haz clic en tu **fragmento** y luego en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Haz clic en **Segmentar por**.
+1. Haz clic en **[!UICONTROL Segmentar por]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Ingresa **Segmentación** y haz clic en **Guardar**.
+1. Ingresa **[!UICONTROL Segmentación]** y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

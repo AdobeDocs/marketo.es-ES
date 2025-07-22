@@ -4,10 +4,10 @@ description: Agregar texto enriquecido a un formulario - Documentos de Marketo -
 title: Agregar texto enriquecido a un formulario
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Utilice texto enriquecido en un formulario para agregar instrucciones u otra información entre los campos. Eche un vistazo.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ Utilice texto enriquecido en un formulario para agregar instrucciones u otra inf
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Seleccionar **texto enriquecido**.
+1. Seleccionar **[!UICONTROL texto enriquecido]**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Utilice texto enriquecido en un formulario para agregar instrucciones u otra inf
    >
    >Si necesita un separador de líneas en el formulario, utilice el botón Línea horizontal.
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

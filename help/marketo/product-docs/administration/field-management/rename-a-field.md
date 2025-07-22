@@ -4,9 +4,9 @@ description: Cambiar el nombre de un campo - Documentos de Marketo - Documentaci
 title: Cambiar nombre de campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Si cambia el nombre de la API en Salesforce, Marketo creará un campo completamente nuevo y dejará atrás el anterior.
+>Si cambia el nombre de la API en [!DNL Salesforce], Marketo creará un campo completamente nuevo y dejará atrás el anterior.

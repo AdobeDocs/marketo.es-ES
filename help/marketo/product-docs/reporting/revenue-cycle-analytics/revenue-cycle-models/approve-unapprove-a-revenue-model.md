@@ -4,9 +4,9 @@ description: 'Aprobación o desaprobación de un modelo de ingresos: documentos 
 title: Aprobar o desaprobar un modelo de ingresos
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Solo puede tener un modelo aprobado en un momento dado.
 
 ## Aprobar {#approve}
 
-1. Vaya al área de **Analytics**.
+1. Vaya al área de **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Solo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. En el menú **Acciones de modelo**, elija **Aprobar modelo**.
+1. En el menú **[!UICONTROL Acciones de modelo]**, elija **[!UICONTROL Aprobar modelo]**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Aparecerá un cuadro de diálogo para confirmar su elección. Haga clic en **Aprobar**.
+1. Aparecerá un cuadro de diálogo para confirmar su elección. Haga clic en **[!UICONTROL Aprobar]**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Solo puede tener un modelo aprobado en un momento dado.
 >
 >Si desaprueba el modelo, se quitarán todas las personas y se eliminará su historial en el modelo.
 
-1. Vaya al área de **Analytics**.
+1. Vaya al área de **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Solo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Haga clic en el menú **Acciones de modelo** y elija **Desaprobar modelo**.
+1. Haga clic en el menú **[!UICONTROL Acciones de modelo]** y elija **[!UICONTROL Desaprobar modelo]**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. En el cuadro de diálogo que aparece, haga clic en **Desaprobar modelo**.
+1. En el diálogo [!UICONTROL Desaprobar modelo] que aparece, haga clic en **[!UICONTROL Desaprobar]**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

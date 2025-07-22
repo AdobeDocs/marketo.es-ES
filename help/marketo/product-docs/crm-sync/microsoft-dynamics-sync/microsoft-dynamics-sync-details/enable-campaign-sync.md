@@ -3,26 +3,26 @@ description: 'Habilitar la sincronización de Campaign: documentos de Marketo, d
 title: Habilitar sincronización de campaña
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
 
 # Habilitar sincronización de campaña {#enable-campaign-sync}
 
-Esta opción permite al Marketo Engage añadir y quitar miembros de MS Dynamics Campaign.
+Esta opción permite que Marketo agregue y elimine miembros de [!DNL MS Dynamics] Campaign.
 
 >[!PREREQUISITES]
 >
->Actualice a la última versión del complemento de Dynamics para Marketo.
+>Actualice a la última versión del complemento [!DNL Dynamics] para Marketo.
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
+1. En tu **[!UICONTROL Mi Marketo]**, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -30,16 +30,16 @@ Esta opción permite al Marketo Engage añadir y quitar miembros de MS Dynamics 
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. En Opciones de sincronización, haga clic en **[!UICONTROL Editar]**.
+1. En **[!UICONTROL Opciones de sincronización]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Seleccione la casilla de verificación **[!UICONTROL Habilitar sincronización de campaña de Microsoft Dynamics]** y haga clic en **[!UICONTROL Guardar]**.
+1. Seleccione la casilla de verificación **[!UICONTROL Habilitar sincronización de Microsoft Dynamics Campaign]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/enable-campaign-sync-4.png)
 
-Ahí lo tienes. Solo tiene que darle a la sincronización un poco de tiempo para extraer los datos de Microsoft Dynamics y ya está listo.
+Ahí lo tienes. Asigne un poco de tiempo a la sincronización para extraer los datos de [!DNL Microsoft Dynamics] y ya está listo.
 
 >[!NOTE]
 >
->Al restablecer la casilla de verificación Sincronización de Dynamics Campaign, se actualizarán todos los datos de Campaign sincronizados anteriormente y las asociaciones con las listas de marketing en Dynamics.
+>Al restablecer la casilla de verificación [!DNL Dynamics] Campaign Sync se actualizarán todos los datos de Campaign sincronizados anteriormente y las asociaciones con las listas de marketing de [!DNL Dynamics].

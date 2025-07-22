@@ -4,29 +4,29 @@ description: 'Deshabilitar la sincronización global de MS Dynamics: documentos 
 title: Deshabilitar sincronización global de MS Dynamics
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Deshabilitar sincronización global de MS Dynamics {#disable-global-ms-dynamics-sync}
+# Deshabilitar sincronización global [!DNL MS Dynamics] {#disable-global-ms-dynamics-sync}
 
-Siga estos sencillos pasos para deshabilitar la sincronización de MS Dynamics.
+Siga estos sencillos pasos para deshabilitar la sincronización de [!DNL MS Dynamics].
 
-1. En Marketo, haga clic en **Administrador**.
+1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
-1. En Integración, haga clic en **Microsoft Dynamics**.
+1. En [!UICONTROL Integración], haga clic en **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/two.png)
 
-1. Haga clic en **Deshabilitar sincronización**.
+1. Haga clic en **[!UICONTROL Deshabilitar sincronización]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Si no ves un botón Deshabilitar sincronización en tu instancia, comunícate con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si no ves un botón [!UICONTROL Deshabilitar sincronización] en tu instancia, ponte en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

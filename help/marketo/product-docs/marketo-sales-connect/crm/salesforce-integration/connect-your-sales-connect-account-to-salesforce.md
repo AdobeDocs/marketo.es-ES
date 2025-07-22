@@ -4,53 +4,53 @@ description: 'Conexión de la cuenta de Sales Connect a Salesforce: Documentos d
 title: Conectar su cuenta de Sales Connect a Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 3%
 
 ---
 
 # Conectar su cuenta de Sales Connect a Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Siga estos sencillos pasos para conectar Sales Connect a Salesforce.
+Siga estos sencillos pasos para conectar [!DNL Sales Connect] a [!DNL Salesforce].
 
 ## Cómo conectarse como administrador {#how-to-connect-as-an-admin}
 
-1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En [!DNL Sales Connect], haga clic en el icono de engranaje en la esquina superior derecha y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Configuración de administración, haga clic en **Salesforce**.
+1. En [!UICONTROL  Configuración de administración], haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
-1. En la pestaña Conexiones y personalizaciones, haz clic en **Conectar**.
+1. En la ficha [!UICONTROL Conexiones y personalizaciones], haga clic en **[!UICONTROL Conectar]**.
 
    ![](assets/seven.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/four.png)
 
-1. Si ya ha iniciado sesión en Salesforce, ya estará conectado. Si no es así, se le pedirá que inicie sesión.
+1. Si ya ha iniciado sesión en Salesforce, estará conectado. Si no es así, se le pedirá que inicie sesión.
 
 ## Cómo conectarse sin ser administrador {#how-to-connect-as-a-non-admin}
 
-1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En [!DNL Sales Connect], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Salesforce**.
+1. En [!UICONTROL Mi cuenta], seleccione **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. En la pestaña Conexiones y personalizaciones, haz clic en **Conectar**.
+1. En la ficha [!UICONTROL Conexiones y personalizaciones], haga clic en **[!UICONTROL Conectar]**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/four.png)
 
-1. Si ya ha iniciado sesión en Salesforce, ya estará conectado. Si no es así, se le pedirá que inicie sesión.
+1. Si ya ha iniciado sesión en Salesforce, estará conectado. Si no es así, se le pedirá que inicie sesión.

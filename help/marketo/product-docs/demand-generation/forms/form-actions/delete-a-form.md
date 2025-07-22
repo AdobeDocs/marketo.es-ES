@@ -4,7 +4,7 @@ description: 'Eliminar un formulario: documentos de Marketo, documentación del 
 title: Eliminar un formulario
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si tiene un formulario que no necesita y no se está utilizando, puede eliminarlo. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Si tiene un formulario que no necesita y no se está utilizando, puede eliminarl
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. En **Acciones de formulario**, haga clic en **Eliminar formulario**.
+1. En **[!UICONTROL Acciones de formulario]**, haga clic en **[!UICONTROL Eliminar formulario]**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Si tiene un formulario que no necesita y no se está utilizando, puede eliminarl
    >
    >Recuerde quitar el formulario de todas las páginas de aterrizaje que lo utilicen. Además, confirme que el formulario no se está utilizando en un sitio web público.
 
-1. Confirme haciendo clic en **Eliminar**.
+1. Confirme haciendo clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

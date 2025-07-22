@@ -4,9 +4,9 @@ description: 'Campeón/Challenger: Definir criterios de campeón, documentación
 title: 'Campeón/Challenger: Definir criterios de campeón'
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
 ## Criterios de campeón estándar {#standard-champion-criteria}
 
-1. Elija uno de los **criterios de campeón** disponibles.
+1. Elija uno de los **[!UICONTROL criterios de campeón]** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
 ## Criterios de campeón personalizados {#custom-champion-criteria}
 
-1. Si quieres ser más elegante, puedes personalizarlo seleccionando **Conversión personalizada** y haciendo clic en **Editar**.
+1. Si lo desea, puede personalizarlo seleccionando **[!UICONTROL Proporción de conversión personalizada]** y haciendo clic en **[!UICONTROL Editar]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo solo permite déclencheur para las personas que han recibido el correo electrónico desde este programa de correo electrónico. No es necesario añadir el filtro &quot;Se envió el correo electrónico&quot;.
+   Marketo solo permite déclencheur para las personas que han recibido el correo electrónico desde este programa de correo electrónico. No es necesario agregar el filtro &quot;[!UICONTROL Se envió el correo electrónico]&quot;.
 
-1. Haga clic en **Cerrar**.
+1. Haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

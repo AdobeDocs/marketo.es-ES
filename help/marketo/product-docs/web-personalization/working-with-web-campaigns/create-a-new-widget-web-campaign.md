@@ -4,9 +4,9 @@ description: 'Creación de una nueva campaña web de widgets: documentos de Mark
 title: Creación de una nueva campaña web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '629'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 ## Creación de una campaña web de widget {#create-a-widget-web-campaign}
 
-1. Vaya a **Campañas web**.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Seleccione **Crear nueva campaña web**.
+1. Seleccione **[!UICONTROL Crear nueva campaña web]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Seleccione el tipo de campaña **Widget**.
+1. Seleccione el tipo de campaña **[!UICONTROL Widget]**.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/4.png)
 
-1. Haga clic en **Vista previa** para ver cómo reaccionará la campaña web en el sitio.
+1. Haga clic en **[!UICONTROL Vista previa]** para ver cómo reaccionará la campaña web en el sitio.
 
    ![](assets/preview.png)
 
@@ -95,11 +95,11 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Quiere probar sus campañas web?** Una o más campañas web se pueden [probar A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la función Ajuste automático, la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
+>**¿Quiere probar sus campañas web?** Una o más campañas web se pueden [probar A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la característica [!UICONTROL Ajuste automático], la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 
-En la página Campañas web, haz clic en **Editar** en la campaña.
+En la página [!UICONTROL Campañas web], haga clic en **[!UICONTROL Editar]** en la campaña.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/wor
 
 ## Previsualización de una campaña web {#preview-a-web-campaign}
 
-En la página Campañas web, haz clic en **Vista previa** en la campaña web que desees previsualizar
+En la página [!UICONTROL Campañas web], haga clic en **[!UICONTROL Vista previa]** en la campaña web que desee previsualizar
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Eliminación de una campaña web {#delete-a-web-campaign}
 
-1. En la página Campañas web, haga clic en **Eliminar** en la campaña web que desee eliminar.
+1. En la página [!UICONTROL Campañas web], haga clic en **[!UICONTROL Eliminar]** en la campaña web que desee eliminar.
 
    ![](assets/widget-campaign-delete-hand.png)
 

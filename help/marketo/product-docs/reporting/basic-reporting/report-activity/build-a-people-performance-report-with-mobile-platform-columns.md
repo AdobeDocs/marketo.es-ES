@@ -4,7 +4,7 @@ description: 'Creación de un informe de rendimiento de personas con columnas de
 title: Creación de un informe de rendimiento de personas con columnas de plataforma móvil
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Crear listas inteligentes móviles {#create-mobile-smart-lists}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/two-1.png)
 
-1. En **Nuevo**, seleccione **Nuevo recurso local**.
+1. En **[!UICONTROL Nuevo]**, seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en **Lista inteligente**.
+1. Haga clic en **[!UICONTROL Lista inteligente]**.
 
    ![](assets/four-1.png)
 
-1. Escriba un nombre y haga clic en **Crear**.
+1. Escriba un nombre y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/five-1.png)
 
-1. Busque y arrastre el filtro Correo electrónico abierto al lienzo.
+1. Busque y arrastre el filtro [!UICONTROL Correo electrónico abierto] al lienzo.
 
    ![](assets/six-1.png)
 
-1. Establecer correo electrónico en **es cualquiera**.
+1. Establecer correo electrónico en **[!UICONTROL es cualquiera]**.
 
    ![](assets/seven.png)
 
-1. Haga clic en **Agregar restricción** y seleccione **Plataforma**.
+1. Haga clic en **[!UICONTROL Agregar restricción]** y seleccione **[!UICONTROL Plataforma]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >En este ejemplo se ha utilizado el filtro Correo electrónico abierto. También puede utilizar el filtro Correo electrónico en el que se hizo clic, ya que tiene la restricción Plataforma.
+   >En este ejemplo usamos el filtro [!UICONTROL Correo electrónico abierto]. También puede usar el filtro [!UICONTROL Correo electrónico en el que se hizo clic] porque tiene la restricción de plataforma.
 
-1. Establezca Platform en **iOS**.
+1. Establezca [!UICONTROL Platform] en **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Creación de un informe de rendimiento de personas {#create-a-people-performance-report}
 
-1. En Actividades de marketing, seleccione el programa que hospeda sus listas inteligentes **iOS** y **Android**.
+1. En Actividades de marketing, seleccione el programa que hospeda sus listas inteligentes **[!UICONTROL iOS]** y **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 
-1. En **Nuevo**, seleccione **Nuevo recurso local**.
+1. En **[!UICONTROL Nuevo]**, seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Informe**.
+1. Haga clic en **[!UICONTROL Informe]**.
 
    ![](assets/twelve.png)
 
-1. Establezca el tipo en **Rendimiento de personas**.
+1. Establezca el tipo en **[!UICONTROL Rendimiento de personas]**.
 
    ![](assets/thirteen.png)
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Agregar listas inteligentes móviles como columnas {#add-mobile-smart-lists-as-columns}
 
-1. En el informe que acaba de crear, haga clic en **Configuración** y, a continuación, arrastre **Columnas personalizadas** al lienzo.
+1. En el informe que acaba de crear, haga clic en **[!UICONTROL Configuración]** y, a continuación, arrastre **[!UICONTROL Columnas personalizadas]** al lienzo.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
    >
    >De forma predeterminada, el informe Rendimiento de las personas examina los últimos 7 días. Puede cambiar el periodo de tiempo haciendo doble clic en él.
 
-1. Busque y seleccione las listas inteligentes que creó anteriormente y haga clic en **Aplicar**.
+1. Busque y seleccione las listas inteligentes que creó anteriormente y haga clic en **[!UICONTROL Aplicar]**.
 
    ![](assets/sixteen.png)
 
-1. Haga clic en **Informe** para ejecutar el informe y ver los datos.
+1. Haga clic en **[!UICONTROL Informe]** para ejecutar el informe y ver los datos.
 
    ![](assets/seventeen.png)
 

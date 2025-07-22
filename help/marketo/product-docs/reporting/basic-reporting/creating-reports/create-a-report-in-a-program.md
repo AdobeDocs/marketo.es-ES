@@ -4,7 +4,7 @@ description: 'Creación de un informe en un programa: documentos de Marketo, doc
 title: Creación de un informe en un programa
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ejecute un informe para analizar las personas, los programas, las páginas de aterrizaje, los correos electrónicos y los activos sociales.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ Ejecute un informe para analizar las personas, los programas, las páginas de at
 
    >[!NOTE]
    >
-   >También puede crear informes desde la ficha **Analytics**.
+   >También puede crear informes desde la ficha **[!UICONTROL Analytics]**.
 
-1. Haga clic con el botón derecho en el programa y seleccione **Nuevo recurso local**.
+1. Haga clic con el botón derecho en el programa y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Haga clic en **Informe**.
+1. Haga clic en **[!UICONTROL Informe]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Seleccione el informe **Type**.
+1. Seleccione el informe **[!UICONTROL Type]**.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ Ejecute un informe para analizar las personas, los programas, las páginas de at
 
 1. Establezca el lapso de tiempo del informe. Consulte [Cambiar el lapso de tiempo de un informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más información.
 
-1. Haga clic en la ficha **Informe** para ver las estadísticas.
+1. Haga clic en la ficha **[!UICONTROL Informe]** para ver las estadísticas.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

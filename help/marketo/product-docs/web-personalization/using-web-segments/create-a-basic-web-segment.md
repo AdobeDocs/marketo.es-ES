@@ -4,10 +4,10 @@ description: 'Creación de un segmento web básico: documentos de Marketo, docum
 title: Creación de un segmento web básico
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU. y del sector de los servicios financieros.
 
-1. Vaya a **Segmentos**.
+1. Vaya a **[!UICONTROL Segmentos]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Haga clic en **Crear nuevo**.
+1. Haga clic en **[!UICONTROL Crear nuevo]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,7 +27,7 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU.
 
    ![](assets/segment-name.png)
 
-1. Arrastre **Location** desde el menú de la derecha y suéltelo en el editor de segmentos.
+1. Arrastre **[!UICONTROL Location]** desde el menú de la derecha y suéltelo en el editor de segmentos.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE. UU.
    >
    >El número de ciudades está limitado a 300 por segmento.
 
-1. Arrastre **Industrias** desde el menú de la derecha y suéltelo en el editor de segmentos.
+1. Arrastre **[!UICONTROL Industrias]** desde el menú de la derecha y suéltelo en el editor de segmentos.
 
    ![](assets/industries-hand.jpg)
 
-1. Seleccione Industrias que desee añadir en la lista desplegable. Seleccione **Sector de servicios financieros**.
+1. Seleccione [!UICONTROL Industrias] que agregar en la lista desplegable. Seleccione el sector **[!UICONTROL Servicios financieros]**.
 
    ![](assets/segment-industries.png)
 
    Ahora ha configurado un segmento básico para todos los clientes potenciales que visitan su sitio web desde EE. UU. y el sector financiero.
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir la campaña** para ir a la página Campañas.
+1. Haga clic en **[!UICONTROL Guardar]** para guardar el segmento o en **[!UICONTROL Guardar y definir la campaña]** para ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

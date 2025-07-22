@@ -4,7 +4,7 @@ description: Campaña web Crear un nuevo cuadro de diálogo - Documentos de Mark
 title: Creación de una nueva campaña web de diálogo
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '749'
 ht-degree: 1%
@@ -19,15 +19,15 @@ Cree una campaña web para personalizar el contenido web en tiempo real y propor
 
 Una campaña web es una reacción personalizada asociada a un segmento específico. La reacción puede ser un cuadro de diálogo en tu sitio web, un [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una [característica de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o una alerta por correo electrónico.
 
-1. Vaya a **Campañas web**.
+1. Vaya a **[!UICONTROL Campañas web]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Seleccione **Crear nueva campaña web**.
+1. Seleccione **[!UICONTROL Crear nueva campaña web]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Seleccione el tipo de campaña web **Dialog**. Diseñe y añada su creatividad en el editor. Haga clic en **Vista previa** para ver cómo reaccionará la campaña web en el sitio.
+1. Seleccione el tipo de campaña web **[!UICONTROL Dialog]**. Diseñe y añada su creatividad en el editor. Haga clic en **[!UICONTROL Vista previa]** para ver cómo reaccionará la campaña web en el sitio.
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 
-1. En la página **Campañas web**, haga clic en **Editar** en la campaña web.
+1. En la página **[!UICONTROL Campañas web]**, haga clic en **[!UICONTROL Editar]** en la campaña web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 ## Previsualización de una campaña web {#preview-a-web-campaign}
 
-1. En la página **Campañas web**, haga clic en **Vista previa** en la campaña web que desee ver.
+1. En la página **[!UICONTROL Campañas web]**, haga clic en **[!UICONTROL Vista previa]** en la campaña web que desee ver.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/wor
 
 ## Eliminación de una campaña web {#delete-a-web-campaign}
 
-1. En la página **Campañas web**, haga clic en **Eliminar** en la campaña web que desee eliminar.
+1. En la página **[!UICONTROL Campañas web]**, haga clic en **[!UICONTROL Eliminar]** en la campaña web que desee eliminar.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

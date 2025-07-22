@@ -4,7 +4,7 @@ description: 'Reprogramación de un programa completo desde la vista de programa
 title: Reprogramación de un Programa Completo desde la Vista de Programa
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Seleccione una entrada de anclaje. En función de este movimiento, todas las demás entradas se moverán con él.
+1. Seleccionar una [!UICONTROL entrada de anclaje]. En función de este movimiento, todas las demás entradas se moverán con él.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Elija la nueva fecha de inicio.
+1. Elija la [!UICONTROL nueva fecha de inicio].
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

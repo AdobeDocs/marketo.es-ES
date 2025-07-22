@@ -4,7 +4,7 @@ description: 'Uso de URL en Mis tokens: documentos de Marketo, documentación de
 title: Uso de URL en Mis tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Uso de URL en Mis tokens {#using-urls-in-my-tokens}
 
-Siga los pasos a continuación para utilizar Mis tokens para insertar direcciones URL en sus correos electrónicos.
+Siga los pasos a continuación para usar [!UICONTROL Mis tokens] para insertar direcciones URL en sus correos electrónicos.
 
-1. Seleccione su programa y haga clic en **Mis tokens**.
+1. Seleccione su programa y haga clic en **[!UICONTROL Mis tokens]**.
 
    ![](assets/one-4.png)
 
-1. Seleccione el **Texto** Mi token, arrástrelo y suéltelo en el lienzo.
+1. Seleccione el **[!UICONTROL Texto]** Mi token, arrástrelo y suéltelo en el lienzo.
 
    ![](assets/two-4.png)
 
-1. Asigne un nombre único al token, escriba una dirección URL (sin el https://) y haga clic en **Guardar**.
+1. Asigne un nombre único al token, escriba una dirección URL (sin el https://) y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    ![](assets/four-3.png)
 
-1. Haga clic en **Editar borrador**.
+1. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
    >
    >Por supuesto, también tiene la opción de ingresar `http://` si su sitio no utiliza https.
 
-1. Busque mi token, selecciónelo y haga clic en **Insertar**.
+1. Busque mi token, selecciónelo y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Siga los pasos a continuación para utilizar Mis tokens para insertar direccione
 
    ![](assets/nine.png)
 
-1. Resalte el texto que desee que muestre el vínculo y haga clic en el icono Insertar/Editar vínculo.
+1. Resalte el texto que desee que muestre el vínculo y haga clic en el icono [!UICONTROL Insertar/Editar vínculo].
 
    ![](assets/ten.png)
 
-1. Presione Ctrl/Cmd+V para pegar el contenido en el cuadro **URL** y haga clic en **Insertar**.
+1. Presione Ctrl/Cmd+V para pegar el contenido en el cuadro **[!UICONTROL URL]** y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/twelve.png)
 

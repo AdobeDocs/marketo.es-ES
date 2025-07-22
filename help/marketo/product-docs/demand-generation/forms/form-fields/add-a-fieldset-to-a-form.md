@@ -4,7 +4,7 @@ description: Agregar un conjunto de campos a un formulario - Documentos de Marke
 title: Agregar un conjunto de campos a un formulario
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También puedes controlar un bloque entero a la vez!
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Haga clic en el signo **+** y seleccione **Conjunto de campos**.
+1. Haga clic en el signo **+** y seleccione **[!UICONTROL Conjunto de campos]**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Seleccione el **conjunto de campos** e introduzca una **etiqueta**.
+1. Seleccione el **conjunto de campos** e introduzca una **[!UICONTROL etiqueta]**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 

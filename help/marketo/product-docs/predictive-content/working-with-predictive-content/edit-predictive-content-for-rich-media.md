@@ -4,7 +4,7 @@ description: 'Edición de contenido predictivo para medios enriquecidos: documen
 title: Editar contenido predictivo para medios enriquecidos
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -17,13 +17,13 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
 >[!PREREQUISITES]
 >
->El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobarse para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página [!UICONTROL Todo el contenido].
 
-1. En la página **Contenido predictivo**, haga clic en un título para abrir el editor.
+1. En la página **[!UICONTROL Contenido predictivo]**, haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Haga clic en **medios enriquecidos**.
+1. Haga clic en **[!UICONTROL medios enriquecidos]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -33,13 +33,13 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
    >[!NOTE]
    >
-   >Las imágenes de JPEG con el modelo de color CMYK no son compatibles con los medios enriquecidos. Los JPEG deben convertirse a sRGB mediante un perfil de color. Asegúrese de elegir esta configuración al exportar desde el editor de imágenes.
+   >Las imágenes de JPEG con el modelo de color CMYK no son compatibles con los medios enriquecidos. Los archivos JPEG se deben convertir a sRGB mediante un perfil de color. Asegúrese de elegir esta configuración al exportar desde el editor de imágenes.
 
 1. Escriba una **descripción**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Haz clic en el cuadro **Categorías** para seleccionar o agregar [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
+1. Haz clic en el cuadro **[!UICONTROL Categorías]** para seleccionar o agregar [categorías que ya configuraste](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ A continuación se indica cómo configurar el contenido predictivo para medios e
 
    ![](assets/six-1.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/save.png)

@@ -4,9 +4,9 @@ description: 'Adición de un vínculo a una imagen de página de aterrizaje de f
 title: Adición de un vínculo a una imagen de página de aterrizaje de forma libre
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Esto solo se aplica a las páginas de aterrizaje de forma libre.
 
-1. Seleccione la imagen que agregó a su página de aterrizaje y expanda la **Hoja de propiedades.**
+1. Seleccione la imagen que agregó a su página de aterrizaje y expanda la **[!UICONTROL Hoja de propiedades].**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Escriba el vínculo mailto en la **URL del vínculo.**
+1. Escriba el vínculo mailto en **[!UICONTROL linkUrl].**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

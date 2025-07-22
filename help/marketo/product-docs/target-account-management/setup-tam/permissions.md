@@ -4,7 +4,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Tendrá que configurar permisos para que los usuarios puedan utilizar TAM. Así es como.
 
-1. Haga clic en **Administrador**.
+1. Haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/one-2.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ Tendrá que configurar permisos para que los usuarios puedan utilizar TAM. Así 
    >
    >Puede agregar permisos de TAM para una función existente o crear una nueva. Este ejemplo utiliza una función nueva.
 
-1. Haga clic en **Roles** y luego en **Nuevo rol**.
+1. Haga clic en **[!UICONTROL Roles]** y luego en **[!UICONTROL Nuevo rol]**.
 
    ![](assets/three-2.png)
 
-1. Introduzca un nombre de rol y haga clic en el icono **+** junto a la casilla de verificación Acceder a administración de cuentas de destino.
+1. Escriba un [!UICONTROL Nombre de rol] y haga clic en el icono **+** que se encuentra junto a la casilla de verificación **[!UICONTROL Acceder a la administración de cuentas de Target]**.
 
    ![](assets/permissions-4.png)
 
-1. Para seleccionar _todos los_ permisos, simplemente marque la casilla de verificación **Acceder a la administración de cuentas de Target**.
+1. Para seleccionar _todos los_ permisos, simplemente marque la casilla de verificación **[!UICONTROL Acceder a la administración de cuentas de Target]**.
 
    ![](assets/permissions-5.png)
 
@@ -43,7 +43,7 @@ Tendrá que configurar permisos para que los usuarios puedan utilizar TAM. Así 
    >
    >También tiene la opción de seleccionar solo algunas de las opciones. Para ello, marque cada casilla de verificación individualmente.
 
-1. Haga clic en **+** para abrir el menú Acceso a administración. Marque la casilla de verificación **Acceder a ABM Admin** (ABM es el nombre anterior de TAM) y haga clic en **Crear**.
+1. Haga clic en **+** para abrir el menú **[!UICONTROL Acceder a administrador]**. Marque la casilla de verificación **[!UICONTROL Acceder a ABM Admin]** (ABM es el nombre anterior de TAM) y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/permissions-6.png)
 

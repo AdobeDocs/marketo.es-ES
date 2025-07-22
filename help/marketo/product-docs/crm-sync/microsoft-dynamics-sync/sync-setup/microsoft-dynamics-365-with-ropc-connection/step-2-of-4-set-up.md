@@ -3,9 +3,9 @@ description: 'Paso 2 de 4: Configuración de la solución Marketo con la conexi�
 title: 'Paso 2 de 4: Configuración de la solución Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Empecemos por crear una cuenta de usuario.
 
 ## Crear un nuevo usuario {#create-a-new-user}
 
-1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione **[!UICONTROL Configuración avanzada]**.
+1. Iniciar sesión en [!DNL Dynamics]. Haga clic en el icono [!UICONTROL Configuración] y seleccione **[!UICONTROL Configuración avanzada]**.
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!NOTE]
 >
->Esto se aplica a la versión de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Esto se aplica a la versión de Marketo 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de usuario de sincronización. Para actualizar Marketo, consulte [Actualizar la solución Marketo para [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Vuelva a la ficha **[!UICONTROL Usuarios habilitados]** y actualice la lista de usuarios.
+1. Vuelva a la ficha [!UICONTROL Usuarios habilitados] y actualice la lista de usuarios.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 ¡Ya casi está! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
 
-1. Vuelva a la sección Configuración avanzada, haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) junto a Configuración y seleccione **[!UICONTROL Configuración de Marketo]**.
+1. Vuelva a la sección [!UICONTROL Configuración avanzada], haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) junto a [!UICONTROL Configuración] y seleccione **[!UICONTROL Configuración de Marketo]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Si no ve **[!UICONTROL Configuración de Marketo]** en el menú Configuración, actualice la página. Si eso no funciona, intente [publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} de nuevo o cierre la sesión y vuelva a iniciarla.
+   >Si no ve **[!UICONTROL Configuración de Marketo]** en el menú [!UICONTROL Configuración], actualice la página. Si eso no funciona, intente [publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) de nuevo o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **[!UICONTROL Predeterminado]**.
 
@@ -124,7 +124,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
    ![](assets/seventeen.png)
 
-1. Haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19-1.png) junto a Configuración y seleccione **[!UICONTROL Soluciones]**.
+1. Haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19-1.png) junto a [!UICONTROL Configuración] y seleccione **[!UICONTROL Soluciones]**.
 
    ![](assets/eighteen.png)
 

@@ -4,7 +4,7 @@ description: 'Creación de un correo electrónico de solo texto: documentos de M
 title: Crear un correo electrónico de solo texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -19,27 +19,27 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 >
 >Dado que el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible) rastrea las aperturas, **no** pueden rastrearse para correos electrónicos de solo texto.
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/one-1.png)
 
-1. Seleccione su programa, haga clic en el menú desplegable **Nuevo** y seleccione **Nuevo recurso local**.
+1. Seleccione su programa, haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/two-1.png)
 
-1. Seleccione **Correo electrónico**.
+1. Seleccione **[!UICONTROL Correo electrónico]**.
 
    ![](assets/three-1.png)
 
-1. Escriba un **Nombre**, seleccione una plantilla y haga clic en **Crear**.
+1. Escriba un **[!UICONTROL Nombre]**, seleccione una plantilla y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/four-1.png)
 
-1. En el editor de correo electrónico, haga clic en **Configuración de correo electrónico**.
+1. En el editor de correo electrónico, haga clic en **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/five.png)
 
-1. Comprueba **Solo texto** y haz clic en **Guardar**.
+1. Comprueba **[!UICONTROL Solo texto]** y haz clic en **[!UICONTROL Guardar]**.
 
    ![](assets/six.png)
 
@@ -51,19 +51,19 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
    >
    >También puede editar un correo electrónico existente y cambiar esta configuración. No te olvides de aprobar el borrador.
 
-1. Desmarque la casilla de verificación **Copiar automáticamente del HTML**.
+1. Desmarque la casilla de verificación **[!UICONTROL Copiar automáticamente desde HTML]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >El contenido añadido a la sección de HTML del correo electrónico se ignora cuando se envía.
+   >El contenido añadido a la sección HTML del correo electrónico se ignora cuando se envía.
 
 1. Haga doble clic en el área de texto.
 
    ![](assets/eight.png)
 
-1. Edite el texto y haga clic en **Guardar**.
+1. Edite el texto y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/nine.png)
 

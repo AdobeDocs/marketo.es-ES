@@ -4,7 +4,7 @@ description: Mostrar formulario HTML personalizado para personas conocidas - Doc
 title: Mostrar formulario HTML personalizado para personas conocidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Si un visitante ha proporcionado su nombre completo y dirección de correo electrónico en el pasado y no desea que obtenga todo el formulario, aprenda a mostrarle un HTML personalizado (por ejemplo, solo un botón de descarga).
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. En **Actividades de marketing**, seleccione el formulario y haga clic en **Editar formulario**.
+1. En **[!UICONTROL Actividades de marketing]**, seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. En **Configuración de formulario**, haga clic en **Configuración**.
+1. En **[!UICONTROL Configuración de formulario]**, haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Definir Si **Visitante conocido, Mostrar**: como **HTML personalizado**.
+1. Definir Si **[!UICONTROL Visitante conocido, Mostrar]**: como **[!UICONTROL HTML personalizado]**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar **HTML personalizado** que se mostrará a las personas conocidas.
+1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar **[!UICONTROL HTML personalizado]** que se mostrará a las personas conocidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Si un visitante ha proporcionado su nombre completo y dirección de correo elect
    >
    >Solo se pueden utilizar los cuatro tokens anteriores. Aquí no funcionará ningún otro token.
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    >[!NOTE]
    >

@@ -3,16 +3,16 @@ description: 'Añadir un archivo adjunto o contenido rastreable al correo electr
 title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
 # Añadir un archivo adjunto o contenido rastreable a su correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
 
-Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de añadir un archivo como archivo adjunto o de convertir un archivo en un vínculo descargable (y rastreable).
+Al enviar un correo electrónico a través de [!DNL Marketo Sales], tiene la opción de agregar un archivo como archivo adjunto o de hacer que un archivo sea un vínculo descargable (y rastreable).
 
 >[!NOTE]
 >
@@ -20,11 +20,11 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. Rellene el campo Para e introduzca un Asunto.
+1. Rellene el campo [!UICONTROL Para] e introduzca un [!UICONTROL Asunto].
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -32,13 +32,13 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. Seleccione el archivo que desea adjuntar y haga clic en **Insertar**.
+1. Seleccione el archivo que desea adjuntar y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **[!UICONTROL Cargar contenido]** en la parte superior derecha de la ventana.
 
    El archivo adjunto aparece en la parte inferior del correo electrónico.
 
@@ -46,11 +46,11 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
 ## Añadir contenido rastreable {#add-trackable-content}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos la ventana Componer).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo elegimos la ventana **[!UICONTROL Componer]**).
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. Rellene el campo Para e introduzca un Asunto.
+1. Rellene el campo [!UICONTROL Para] e introduzca un [!UICONTROL Asunto].
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,13 +58,13 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **Se ha hecho un seguimiento del contenido** y luego haga clic en **Insertar**.
+1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **[!UICONTROL Se hace un seguimiento del contenido]** y, a continuación, haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el botón **[!UICONTROL Cargar contenido]** en la parte superior derecha de la ventana.
 
    El contenido aparece como un vínculo en el correo electrónico. El destinatario puede hacer clic en el vínculo para descargar el contenido.
 

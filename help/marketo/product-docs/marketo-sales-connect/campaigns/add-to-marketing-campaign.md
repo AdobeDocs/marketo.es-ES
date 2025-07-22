@@ -4,9 +4,9 @@ description: 'Añadir a la campaña de marketing Documentos de Marketo: document
 title: Añadir a la campaña de marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Para añadir una persona a una Marketo Campaign desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
+>Para agregar una persona a una campaña de Marketo desde [!DNL Sales Connect], [!DNL Sales Connect] debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/one-3.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Haga clic en **Agregar selección a campaña**.
+1. Haga clic en **[!UICONTROL Agregar selección a campaña]**.
 
    ![](assets/four-3.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/five-2.png)
 
-1. Haga clic en **Campaña de marketing**.
+1. Haga clic en **[!UICONTROL Campaña de marketing]**.
 
    ![](assets/six-1.png)
 
-1. Haga clic en el menú desplegable Workspaces y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
+1. Haga clic en el menú desplegable [!UICONTROL Espacios de trabajo] y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
 
    ![](assets/seven-1.png)
 
@@ -55,41 +55,41 @@ ht-degree: 0%
    >
    >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo aprovisione a través de la página de Marketo Team Access.
 
-1. Seleccione la campaña que desee y haga clic en **Siguiente**.
+1. Seleccione la campaña que desee y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/eight.png)
 
-1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **[!UICONTROL Iniciar]** para que se agreguen.
 
    ![](assets/nine.png)
 
 ## Añadir un grupo a una campaña {#add-a-group-to-a-campaign}
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la ficha **[!UICONTROL Personas]**.
 
    ![](assets/one-3.png)
 
-1. En Mis grupos, seleccione el grupo que desee agregar a una campaña.
+1. En [!UICONTROL Mis grupos], seleccione el grupo que desee agregar a una campaña.
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Agregar grupo a Campaign**.
+1. Haga clic en **[!UICONTROL Agregar grupo a Campaign]**.
 
    ![](assets/twelve.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en Particulares y escríbalos. Haga clic en **Siguiente** cuando haya terminado.
+1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/thirteen.png)
 
-1. Seleccione **Campaña de marketing**.
+1. Seleccione **[!UICONTROL Campaña de marketing]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Para añadir una persona a una Marketo Campaign desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
+   >Para agregar a una persona a Marketo Campaign desde [!UICONTROL Sales Connect], [!UICONTROL Sales Connect] debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en el menú desplegable Workspaces y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
+1. Haga clic en el menú desplegable **[!UICONTROL Espacios de trabajo]** y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
 
    ![](assets/seven-1.png)
 
@@ -97,10 +97,10 @@ ht-degree: 0%
    >
    >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo aprovisione a través de la página de Marketo Team Access.
 
-1. Seleccione la campaña que desee y haga clic en **Siguiente**.
+1. Seleccione la campaña que desee y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/eight.png)
 
-1. Se muestran los contactos que cumplen los requisitos. Haga clic en **Iniciar** para que se agreguen.
+1. Se muestran los contactos que cumplen los requisitos. Haga clic en **[!UICONTROL Iniciar]** para que se agreguen.
 
    ![](assets/nine.png)

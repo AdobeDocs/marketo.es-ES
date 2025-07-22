@@ -4,7 +4,7 @@ description: Informes de correo electrónico - Documentos de Marketo - Documenta
 title: Informes de correo electrónico
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informes de correo electrónico {#email-reports}
 
-Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la [sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la sección [[!UICONTROL Configuración de usuario]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Informes de correo electrónico de Web Personalization {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ El informe diario/semanal envía al usuario un correo electrónico con las 50 or
 
 El informe de personas diario/semanal envía al usuario un correo electrónico con las últimas 100 personas del sitio web según la dirección de correo electrónico de la persona, el nombre de la organización, la ubicación, el estado, la fecha de captura de la persona y los segmentos a los que pertenece la persona.
 
-## Campañas en tiempo real de mayor rendimiento {#top-performing-real-time-campaigns}
+## [!UICONTROL Campañas de mayor rendimiento en tiempo real] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ El informe Assets recomendado envía al usuario un correo electrónico con todo 
 
 ![](assets/six.png)
 
-El informe Resumen envía al usuario un correo electrónico (mensual o trimestral) con todas las campañas y el rendimiento del contenido recomendado en función del número de clics y la cantidad de personas (directas o asistidas) que participaron en la campaña personalizada o el contenido recomendado y que luego se convirtieron en personas conocidas. El informe compara los resultados con los del mes o trimestre anterior.
+El informe Resumen envía al usuario un correo electrónico (mensual o trimestral) con el rendimiento de todas las campañas y el contenido recomendado en función del número de clics y el número de personas (directas o asistidas) que participaron en la campaña personalizada o el contenido recomendado y que luego se convirtieron en personas conocidas. El informe compara los resultados con los del mes o trimestre anterior.
 
 >[!NOTE]
 >
 >**Definiciones**
 >
->**Conversión directa**: Un visitante web que hace clic en una campaña personalizada o en un recurso de contenido recomendado y en la misma sesión de visita completa cualquier formulario del sitio web con su dirección de correo electrónico.
+>**[!UICONTROL Conversiones directas]**: Un visitante web que hace clic en un recurso de Campaña personalizada o Contenido recomendado y en la misma sesión de visita procede a rellenar cualquier formulario del sitio web con su dirección de correo electrónico.
 >
->**Conversión asistida**: Visitante web que rellena cualquier formulario del sitio web y deja su dirección de correo electrónico, mientras que en una visita anterior (en los últimos 6 meses) hizo clic en una campaña personalizada o en un recurso de contenido recomendado.
+>**[!UICONTROL Conversiones asistidas]**: Un visitante web que rellena cualquier formulario del sitio web y deja su dirección de correo electrónico, mientras que en una visita anterior (en los últimos 6 meses) hizo clic en una campaña personalizada o en un recurso de contenido recomendado.
 
 >[!NOTE]
 >
->Marketo Web Personalization registra la dirección de correo electrónico del visitante de la web para cualquier formulario rellenado en el sitio web. Se visualiza en la página Personas de Web Personalization y es la persona que se utiliza en el informe Resumen.
+>Marketo Web Personalization registra la dirección de correo electrónico del visitante de la web para cualquier formulario rellenado en el sitio web. Esto se ve en la página [!UICONTROL Web Personalization] [!UICONTROL Personas] y es la persona que se usa en el informe Resumen.
 
 Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la [sección Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

@@ -4,9 +4,9 @@ description: 'Edición de elementos en un correo electrónico: documentos de Mar
 title: Editar elementos en un correo electrónico
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
 ## Cómo editar el elemento de texto enriquecido {#how-to-edit-the-rich-text-element}
 
-1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-edited.png)
 
-1. Se abrirá el editor de correo electrónico. Seleccione el texto enriquecido, haga clic en el icono de engranaje y seleccione **Editar**.
+1. Se abrirá el editor de correo electrónico. Seleccione el texto enriquecido, haga clic en el icono de engranaje y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/three.png)
 
-1. Agrega o edita tu texto y pulsa **Guardar**.
+1. Agrega o edita tu texto y pulsa **[!UICONTROL Guardar]**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    >[!CAUTION]
    >
-   >Evite copiar y pegar texto desde un origen de texto enriquecido, como un sitio Web o un documento de Word. En su lugar, pegue primero el texto enriquecido en un editor de texto sin formato, como Bloc de notas (Windows) o TextEdit (Mac). Una vez &quot;limpio&quot;, puede copiarlo desde el editor de texto sin formato y pegarlo en su correo electrónico.
+   >Evite copiar y pegar texto desde un origen de texto enriquecido, como un sitio Web o un documento de Word. Primero pegue el texto enriquecido en un editor de texto sin formato, como [!DNL Notepad] (Windows) o [!DNL TextEdit] (Mac). Una vez &quot;limpio&quot;, puede copiarlo desde el editor de texto sin formato y pegarlo en su correo electrónico.
 
 ## Cómo editar el elemento de imagen {#how-to-edit-the-image-element}
 
@@ -47,7 +47,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/five.png)
 
-1. Haga clic en el elemento de imagen que desee editar, luego haga clic en el icono de engranaje y seleccione **Editar**.
+1. Haga clic en el elemento de imagen que desee editar, luego haga clic en el icono de engranaje y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
    >
    >Si desea utilizar un token de Marketo, utilice esta opción. Tenga en cuenta que cuando utilice un token, la imagen aparecerá dañada en el editor, pero se procesará en el modo de vista previa y en el correo electrónico de envío de muestra.
 
-   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). Luego presione **Intercambiar**.
+   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y agregue [!UICONTROL Texto alternativo] (opcional). Luego presione **[!UICONTROL Intercambiar]**.
 
    ![](assets/eight.png)
 
    **Mi equipo**
 
-   Para cargar una imagen desde el equipo, haz clic en **Examinar**.
+   Para cargar una imagen desde el equipo, haz clic en **[!UICONTROL Examinar]**.
 
    ![](assets/nine.png)
 
@@ -81,21 +81,21 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/ten.png)
 
-   Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y luego presione **Intercambiar**.
+   Modifique las dimensiones para adaptarlas a sus necesidades, cambie el [!UICONTROL Texto alternativo] (opcional) y luego presione **[!UICONTROL Intercambiar]**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si reemplazas una imagen, deberás marcar la casilla **Sobrescribir imagen existente** que aparece debajo de la URL/nombre de la imagen.
+   >Si reemplazas una imagen, deberás marcar la casilla **[!UICONTROL Sobrescribir imagen existente]** que aparece debajo de la URL/nombre de la imagen.
 
    **Estudio de diseño**
 
-   Para insertar una imagen desde Design Studio, simplemente localícela...
+   Para insertar una imagen desde [!UICONTROL Design Studio], simplemente localícela...
 
    ![](assets/twelve.png)
 
-   ...e insertarlo. Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y luego presione **Intercambiar**.
+   ...e insertarlo. Modifique las dimensiones para adaptarlas a sus necesidades, cambie el [!UICONTROL Texto alternativo] (opcional) y luego presione **[!UICONTROL Intercambiar]**.
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/fourteen.png)
 
-1. Haga clic en el elemento Snippet, luego en el icono de engranaje y seleccione **Edit**.
+1. Haga clic en el elemento Snippet, luego en el icono de engranaje y seleccione **[!UICONTROL Edit]**.
 
    ![](assets/fifteen.png)
 
-1. Busque el fragmento, selecciónelo y haga clic en **Guardar**.
+1. Busque el fragmento, selecciónelo y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    ![](assets/nineteen.png)
 
-1. Haga clic en el elemento de vídeo, luego en el icono de engranaje y seleccione **Editar**.
+1. Haga clic en el elemento de vídeo, luego en el icono de engranaje y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/twenty.png)
 
-1. Pegue en la dirección URL del vídeo desde Vimeo o YouTube. A continuación, haga clic en en el cuadro URL para que se cargue la previsualización. Modifique las dimensiones para adaptarlas a sus necesidades, agregue Texto alternativo (opcional) y, a continuación, presione **Insertar**.
+1. Pegue en la dirección URL del vídeo desde [!DNL Vimeo] o YouTube. A continuación, haga clic en en el cuadro URL para que se cargue la previsualización. Modifique las dimensiones para adaptarlas a sus necesidades, agregue [!UICONTROL Texto alternativo] (opcional) y luego presione **[!UICONTROL Insertar]**.
 
    ![](assets/twentyone.png)
 

@@ -4,7 +4,7 @@ description: 'Estado de sincronización: Documentos de Marketo, documentación d
 title: Estado de sincronización
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # Estado de sincronización {#sync-status}
 
-Puede mantener bajo control el rendimiento actual y el registro de pendientes del proceso de sincronización en las pestañas Estado de sincronización y Errores de sincronización.
+Puede controlar el rendimiento actual y el registro de pendientes del proceso de sincronización en las fichas [!UICONTROL Estado de sincronización] y [!UICONTROL Errores de sincronización].
 
-## Ficha Estado de sincronización {#sync-status-tab}
+## [!UICONTROL Ficha Estado de sincronización] {#sync-status-tab}
 
-1. Haga clic en **[!UICONTROL Administrador]** y luego en **[!UICONTROL Microsoft Dynamics]**.
+1. Haga clic en **[!UICONTROL Admin]** y **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -45,9 +45,9 @@ Puede mantener bajo control el rendimiento actual y el registro de pendientes de
 
    >[!NOTE]
    >
-   >Cuando se mira la vista Última hora, las columnas Inserciones y actualizaciones muestran N/D. Este es el comportamiento esperado.
+   >Si miras la vista [!UICONTROL Última hora], las columnas [!UICONTROL Inserciones] y [!UICONTROL Actualizaciones] muestran N/D. Este es el comportamiento esperado.
 
-## Pestaña Errores de sincronización {#sync-errors-tab}
+## Ficha [!UICONTROL Errores de sincronización] {#sync-errors-tab}
 
 Examinar, buscar o exportar posibles clientes (y otros objetos) que no se pudieron sincronizar con detalles como la operación, la dirección, el código de error y el mensaje de error.
 

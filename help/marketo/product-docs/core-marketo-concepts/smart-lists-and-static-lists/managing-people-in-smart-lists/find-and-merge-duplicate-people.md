@@ -4,16 +4,16 @@ description: 'Buscar y combinar personas duplicadas: documentos de Marketo, docu
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
 # Buscar y combinar personas duplicadas {#find-and-merge-duplicate-people}
 
-El Marketo Engage anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados. A continuación se indica cómo combinarlos.
+Marketo Engage anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados. A continuación se indica cómo combinarlos.
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ El Marketo Engage anula la duplicación automáticamente cuando nuevas personas 
 
 >[!NOTE]
 >
->Marketo no desduplicará automáticamente una sincronización de Salesforce o Microsoft Dynamics, ni cuando introduzca personas manualmente.
+>Marketo no desduplicará automáticamente una sincronización de [!DNL Salesforce] o [!DNL Microsoft Dynamics], ni cuando se introduzcan personas manualmente.
 
 ## Buscar duplicados {#find-duplicates}
 
@@ -35,7 +35,7 @@ El Marketo Engage anula la duplicación automáticamente cuando nuevas personas 
 
    >[!CAUTION]
    >
-   >La combinación de personas en Marketo puede no funcionar si utiliza una cuenta de persona de Salesforce. Combine los registros en Salesforce si es posible.
+   >La combinación de personas en Marketo puede no funcionar si usa una cuenta de persona de [!DNL Salesforce]. Combine los registros de [!DNL Salesforce], si es posible.
 
 1. Seleccione la lista inteligente del sistema **[!UICONTROL Posibles duplicados]** y haga clic en la ficha **[!UICONTROL Personas]**.
 
@@ -75,13 +75,13 @@ El Marketo Engage anula la duplicación automáticamente cuando nuevas personas 
 
 Si tiene integración con Salesforce, hay algunas notas sobre el efecto de la combinación de posibles clientes en Salesforce.
 
-* Al combinar solo posibles clientes o solo contactos, se combinan según las reglas normales de Salesforce.
-* Al combinar posibles clientes y contactos, todos los posibles clientes se convierten en contactos antes de la combinación según las reglas normales de Salesforce.
+* Al combinar solo posibles clientes o solo contactos, se combinan según las reglas normales de [!DNL Salesforce].
+* Al combinar los posibles clientes y los contactos, todos los posibles clientes se convierten en contactos antes de la combinación según las reglas normales de [!DNL Salesforce].
 
-Para obtener información específica sobre el comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes documentos de Salesforce:
+Para obtener información específica sobre el comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes [!DNL Salesforce] documentos:
 
-* [Combinando posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Combinando contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Combinando posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Combinando contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Combinación masiva {#bulk-merging}
 

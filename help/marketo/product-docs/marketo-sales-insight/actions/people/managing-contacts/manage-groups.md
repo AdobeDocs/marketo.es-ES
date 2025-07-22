@@ -3,16 +3,16 @@ description: Administrar grupos - Documentos de Marketo - Documentación del pro
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 2%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
 # Administrar grupos {#manage-groups}
 
-Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
+Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight Actions].
 
 ## Tipos de grupos {#group-types}
 
@@ -27,19 +27,19 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td>Todas las personas</td> 
+   <td>[!UICONTROL Todas las personas]</td> 
    <td>Todos los contactos de todos los usuarios visibles para usted.</td> 
   </tr> 
   <tr> 
-   <td>Grupos dinámicos</td> 
+   <td>[!UICONTROL Grupos dinámicos]</td> 
    <td>Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td> 
   </tr> 
   <tr> 
-   <td>Mis grupos</td> 
+   <td>[!UICONTROL Mis grupos]</td> 
    <td>Grupos que ha creado. Pueden contener sus contactos o los contactos que se han compartido con usted.</td> 
   </tr> 
   <tr> 
-   <td>Grupos de equipos</td> 
+   <td>[!UICONTROL Grupos de equipo]</td> 
    <td>Grupos que se han compartido con usted o que han compartido con usted. Pueden contener contactos de sus compañeros o contactos que haya compartido con ellos.</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Crear un grupo {#create-a-group}
 
-1. En la página Personas, haga clic en **+** junto a Grupos.
+1. En la página [!UICONTROL Personas], haga clic en **+** junto a [!UICONTROL Grupos].
 
    ![](assets/manage-groups-1.png)
 
-1. Asigne un nombre al grupo y haga clic en **Crear**.
+1. Asigne un nombre al grupo y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Agregar contactos a un grupo {#add-contacts-to-a-group}
 
-1. En la página Personas, busque y seleccione el grupo al que desee agregar personas.
+1. En la página [!UICONTROL Personas], busque y seleccione el grupo al que desee agregar personas.
 
    ![](assets/manage-groups-3.png)
 
-1. Haga clic en **Acciones de grupo** y seleccione **Crear contacto y agregar al grupo**.
+1. Haga clic en **[!UICONTROL Acciones de grupo]** y seleccione **[!UICONTROL Crear contacto y agregar al grupo]**.
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Compartir un grupo {#share-a-group}
 
-1. En la página Personas, busque y seleccione el grupo que desea compartir.
+1. En la página [!UICONTROL Personas], busque y seleccione el grupo que desee compartir.
 
    ![](assets/manage-groups-6.png)
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Compartir**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **[!UICONTROL Compartir]**.
 
    ![](assets/manage-groups-7.png)
 
-1. Haga clic en el menú desplegable, elija el equipo con el que desea compartir el grupo y haga clic en **Compartir**.
+1. Haga clic en el menú desplegable, elija el equipo con el que desea compartir el grupo y haga clic en **[!UICONTROL Compartir]**.
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Dejar de compartir un grupo {#unshare-a-group}
 
-1. En la página Personas, busque y seleccione el grupo que desea dejar de compartir.
+1. En la página [!UICONTROL Personas], busque y seleccione el grupo que desea dejar de compartir.
 
    ![](assets/manage-groups-9.png)
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Compartir**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **[!UICONTROL Compartir]**.
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Cambiar nombre de grupo {#rename-a-group}
 
-1. En la página Personas, busque y seleccione el grupo cuyo nombre desea cambiar.
+1. En la página [!UICONTROL Personas], busque y seleccione el grupo cuyo nombre desea cambiar.
 
    ![](assets/manage-groups-12.png)
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Editar**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/manage-groups-13.png)
 
-1. Escriba el nuevo nombre y haga clic en **Guardar**.
+1. Escriba el nuevo nombre y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-15.png)
 
-1. Haga clic en los puntos (tres puntos verticales) y seleccione **Eliminar**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/manage-groups-16.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/manage-groups-17.png)

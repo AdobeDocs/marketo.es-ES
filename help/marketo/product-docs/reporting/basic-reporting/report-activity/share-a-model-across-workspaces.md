@@ -4,7 +4,7 @@ description: Uso compartido de un modelo entre espacios de trabajo - Documentos 
 title: Compartir un modelo en espacios de trabajo
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo permite compartir modelos entre espacios de trabajo. Así es como.
 
-1. Vaya a la sección **Analytics**.
+1. Vaya a la sección **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Haga clic con el botón derecho en la carpeta **Mis modelos** y luego haga clic en **Nueva carpeta**.
+1. Haga clic con el botón derecho en la carpeta **[!UICONTROL Mis modelos]** y luego haga clic en **[!UICONTROL Nueva carpeta]**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ Marketo permite compartir modelos entre espacios de trabajo. Así es como.
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Arrastre los modelos que desee compartir a la **carpeta para compartir**.
+1. Arrastre los modelos que desee compartir a la **[!UICONTROL carpeta para compartir]**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **Compartir carpeta**.
+1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Compartir carpeta]**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ Marketo permite compartir modelos entre espacios de trabajo. Así es como.
    >
    >Compartir un modelo con otro espacio de trabajo permite a esos usuarios ejecutar informes basados en el modelo.
 
-1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **Guardar**.
+1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

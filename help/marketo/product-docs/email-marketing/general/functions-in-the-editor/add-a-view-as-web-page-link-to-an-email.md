@@ -4,7 +4,7 @@ description: 'Adición de una vista como vínculo de página web a un correo ele
 title: Añadir un vínculo de Ver como página web a un correo electrónico
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Añadir un vínculo de Ver como página web a un correo electrónico {#add-a-view-as-web-page-link-to-an-email}
 
-Los correos electrónicos tienen capacidades limitadas (CSS limitado y sin JavaScript ni formularios). Utilice Ver como página web para proporcionar un vínculo que le permita mostrar el correo electrónico en un explorador. Esto hará que el destinatario utilice la cookie de Munchkin.
+Los correos electrónicos tienen capacidades limitadas (CSS limitado y sin JavaScript ni formularios). Utilice Ver como página web para proporcionar un vínculo que le permita mostrar el correo electrónico en un explorador. Se enviará una cookie al destinatario mediante [!DNL Munchkin].
 
 >[!NOTE]
 >
 >Al crear un correo electrónico nuevo, Ver como página web no está habilitado. Si lo activa y clona el correo electrónico, se copia esta configuración.
 
-1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/one-5.png)
 
-1. En el editor de correo electrónico, haga clic en **Configuración de correo electrónico**.
+1. En el editor de correo electrónico, haga clic en **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/two-5.png)
 
-1. Marque la casilla **Incluir vista como página web** y haga clic en **Guardar**.
+1. Marque la casilla **[!UICONTROL Incluir vista como vínculo de página web]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/three-4.png)
 

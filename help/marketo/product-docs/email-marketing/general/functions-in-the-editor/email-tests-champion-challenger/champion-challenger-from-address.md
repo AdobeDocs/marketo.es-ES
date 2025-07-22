@@ -4,7 +4,7 @@ description: Champion/Challenger - Dirección de origen - Documentos de Marketo 
 title: Campeón/Challenger - Dirección de origen
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >[Agregar un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Dirección de origen** en la lista desplegable **Tipo de prueba**.
+1. En el editor de pruebas de correo electrónico, seleccione **[!UICONTROL Dirección de origen]** en la lista desplegable **[!UICONTROL Tipo de prueba]**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La primera dirección remitente se designa como **Campeón**. Las direcciones de origen subsiguientes se denominan **Challenger**.
+   >La primera dirección remitente se designa como **[!UICONTROL Campeón]**. Las direcciones de origen subsiguientes se denominan **[!UICONTROL Challenger]**.
 
 1. Escriba **Nombre desde** (izquierda) y **Dirección desde** (derecha) para los aspirantes.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

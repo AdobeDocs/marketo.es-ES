@@ -4,7 +4,7 @@ description: Usar la prueba A/B "Fecha/hora" - Documentos de Marketo - Documenta
 title: Usar prueba A/B "Fecha/Hora"
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Usar prueba A/B &quot;Fecha/Hora&quot; {#use-date-time-a-b-testing}
 
-Puede probar fácilmente sus correos electrónicos A/B. Una prueba es la prueba **Fecha/Hora**. Esto prueba a qué hora del día o del día de la semana es mejor enviar correos electrónicos. A continuación se muestra cómo configurarlo.
+Puede probar fácilmente sus correos electrónicos A/B. Una prueba es la prueba **[!UICONTROL Fecha/Hora]**. Esto prueba a qué hora del día o del día de la semana es mejor enviar correos electrónicos. A continuación se muestra cómo configurarlo.
 
 >[!PREREQUISITES]
 >
 >[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. En el mosaico **Correo electrónico**, haga clic en **Agregar prueba A/B**.
+1. En el mosaico **[!UICONTROL Correo electrónico]**, haga clic en **[!UICONTROL Agregar prueba A/B]**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Se abre una nueva ventana. Seleccione **Fecha/hora** para **Tipo de prueba**.
+1. Se abre una nueva ventana. Seleccione **[!UICONTROL Fecha/hora]** para **[!UICONTROL Tipo de prueba]**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **Restablecer prueba**.
+1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **[!UICONTROL Restablecer prueba]**.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -44,7 +44,7 @@ Puede probar fácilmente sus correos electrónicos A/B. Una prueba es la prueba 
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Utilice el control deslizante para elegir el porcentaje de audiencia que desea en la prueba A/B y haga clic en **Siguiente**.
+1. Utilice el control deslizante para elegir el porcentaje de audiencia que desea en la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 

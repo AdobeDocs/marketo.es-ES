@@ -1,30 +1,30 @@
 ---
 unique-page-id: 14352541
-description: 'Sincronización de tareas de conexión de ventas con Salesforce por primera vez: documentos de Marketo, documentación del producto'
+description: Sincronización de tareas de conexión de ventas con Salesforce por primera vez - Documentos de Marketo - Documentación del producto
 title: Sincronización de tareas de conexión de ventas con Salesforce por primera vez
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-# Sincronización de tareas de conexión de ventas con Salesforce por primera vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+# Sincronizando [!DNL Sales Connect] tareas con [!DNL Salesforce] por primera vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Cuando active por primera vez la sincronización entre las tareas de Sales Connect y Salesforce, importaremos sus tareas de Salesforce. **no** sobrepasaremos las tareas actuales que tenga en Sales Connect para Salesforce. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan desde Sales Connect a Salesforce son las tareas creadas *después de* que sincronice Sales Connect con SFDC.
+La primera vez que active la sincronización entre [!DNL Sales Connect] y [!DNL Salesforce] tareas, importaremos sus [!DNL Salesforce] tareas. **no** insertaremos ninguna tarea actual que tenga en [!DNL Sales Connect] a [!DNL Salesforce]. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan de [!DNL Sales Connect] a [!DNL Salesforce] son las tareas creadas *después de* que sincronice [!DNL Sales Connect] con SFDC.
 
-Esto es lo que sucede cuando sincroniza las tareas de Sales Connect y SFDC:
+Esto es lo que sucede cuando sincroniza [!DNL Sales Connect] y tareas de SFDC:
 
 - Tan pronto como haga clic en guardar en las tareas que se sincronizan, comienzan a sincronizarse. Inicialmente, esto llevará algún tiempo.
 
-- Cualquier recordatorio que se haya actualizado o creado en las últimas 24 horas se recuperará de SFDC a Sales Connect. La sincronización se basa en la fecha de vencimiento y todas esas tareas se sincronizarán en el back-end, pero en el Centro de comandos, solo verá las tareas con vencimiento hoy y mañana.
+- Cualquier recordatorio que se haya actualizado o creado en las últimas 24 horas se recuperará de SFDC a [!DNL Sales Connect]. La sincronización se basa en la fecha de vencimiento y todas esas tareas se sincronizarán en el back-end, pero en el Centro de comandos, solo verá las tareas con vencimiento hoy y mañana.
 
 - Si la sincronización se ha activado anteriormente y elimina cualquier tarea de SFDC, cualquier elemento que se haya eliminado en los últimos 15 días se eliminará del Centro de comandos.
 
-- Siempre que la sincronización esté habilitada, sincronizaremos constantemente las tareas entre Sales Connect y SFDC.
+- Sincronizaremos constantemente las tareas entre [!DNL Sales Connect] y SFDC siempre y cuando la sincronización esté habilitada.
 
-Tras la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en Sales Connect se sincronizará con la lista de tareas de Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará su lista de tareas en Sales Connect.
+Después de la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en [!DNL Sales Connect] se sincronizará con su lista de tareas en [!DNL Salesforce]. Y todo lo que se cree, edite, complete o elimine en [!DNL Salesforce] actualizará su lista de tareas en [!DNL Sales Connect].
 
 Para activar esta sincronización, simplemente marca la casilla de sincronización en tu [página de configuración](https://toutapp.com/login) en la aplicación web.

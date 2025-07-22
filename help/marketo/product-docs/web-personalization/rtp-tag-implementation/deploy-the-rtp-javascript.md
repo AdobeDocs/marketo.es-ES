@@ -4,7 +4,7 @@ description: Implementación de RTP JavaScript, documentos de Marketo, documenta
 title: Implementación de RTP JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Para generar y configurar su etiqueta RTP, siga las instrucciones de instalación que se indican a continuación
 
-## Generar etiqueta {#generate-tag}
+## [!UICONTROL Generar etiqueta] {#generate-tag}
 
-1. Inicie sesión en su cuenta de RTP. Vaya a **Configuración de la cuenta**.
+1. Inicie sesión en su cuenta de RTP. Vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. En **Dominio** y **Configuración del dominio**, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
+1. En **[!UICONTROL Dominio]** y **[!UICONTROL Configuración del dominio]**, busque el dominio correspondiente y haga clic en **[!UICONTROL Generar etiqueta]**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -35,9 +35,9 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
 
    Asegúrese de que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Para comprobarlo, haga clic con el botón derecho en la página del sitio web. Vaya a Ver Source de página en un explorador web. Buscar: &quot;RTP&quot;.
 
-1. La opción de etiqueta se estableció en **ON**.
+1. [!UICONTROL Etiqueta] se cambió a **[!UICONTROL ON]**.
 
-   Confirme que la opción Etiqueta esté activada. Debería empezar a ver el flujo de datos en la pestaña de la organización.
+   Confirme que la opción [!UICONTROL Tag] está establecida en [!UICONTROL ON]. Debería empezar a ver el flujo de datos en la pestaña de la organización.
 
    Ya está configurado con la etiqueta RTP y listo para empezar a [crear segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) y campañas en tiempo real.
 

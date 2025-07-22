@@ -4,9 +4,9 @@ description: 'Adición de vínculos rastreados a un correo electrónico de texto
 title: Adición de vínculos rastreados a un correo electrónico de texto
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ Los vínculos de correo electrónico de texto se pueden rastrear en Marketo. Vam
 
 1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
-![](assets/one-9.png)
+1. Seleccione su correo electrónico y haga clic en **[!UICONTROL Editar borrador]**.
+
+   ![](assets/one-9.png)
 
 1. Haga doble clic en el área editable a la que desee agregar el vínculo.
 

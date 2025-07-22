@@ -4,18 +4,18 @@ description: Plantillas de archivo - Documentos de Marketo - Documentación del 
 title: Archivar plantillas
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
 
 # Archivar plantillas {#archive-templates}
 
-Archive el contenido para limpiar su cuenta de contenido de ventas sin perder datos de plantilla.
+Archivar contenido para limpiar la cuenta de [!DNL Sales Content] sin perder datos de plantilla.
 
-Marque la casilla junto a una plantilla y haga clic en **Archivar**.
+Marque la casilla junto a una plantilla y haga clic en **[!UICONTROL Archivar]**.
 
 >[!NOTE]
 >

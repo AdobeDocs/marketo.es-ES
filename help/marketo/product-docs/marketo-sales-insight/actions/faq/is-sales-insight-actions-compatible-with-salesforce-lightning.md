@@ -5,19 +5,19 @@ hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# ¿Las acciones de Sales Insight son compatibles con Salesforce Lightning? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
+# ¿Es compatible [!DNL Sales Insight Actions] con [!DNL Salesforce Lightning]? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 
-Sí, las acciones de información de ventas son compatibles con Salesforce Lightning.
+Sí, [!DNL Sales Insight Actions] es compatible con [!DNL Salesforce Lightning].
 
 Haga [clic aquí](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) para obtener la guía de instalación y éxito.
 
 >[!NOTE]
 >
->Los botones de Acciones de perspectiva de ventas para acciones masivas están disponibles en las vistas de lista de posibles clientes y contactos.
+>Los botones [!DNL Sales Insight Actions] para acciones masivas están disponibles en las vistas de lista de posibles clientes y contactos.

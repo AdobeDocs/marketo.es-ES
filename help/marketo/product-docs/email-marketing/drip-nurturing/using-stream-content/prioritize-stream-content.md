@@ -4,7 +4,7 @@ description: 'Priorización del contenido de la emisión: documentos de Marketo,
 title: Priorizar contenido de flujo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Una vez que haya agregado contenido al flujo, es posible que desee cambiar la prioridad. El contenido siempre se entrega de arriba a abajo en cada reparto y no se envía ningún contenido a la misma persona dos veces.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y haga clic en la ficha **Transmisiones**.
+1. Seleccione el programa de participación y haga clic en la ficha **[!UICONTROL Transmisiones]**.
 
    ![](assets/cloneasteam-1.jpg)
 

@@ -4,7 +4,7 @@ description: 'Adición de columnas personalizadas a un informe de persona: docum
 title: Adición de columnas personalizadas a un informe de persona
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede filtrar aún más las métricas de los informes de personas usando sus [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como columnas personalizadas.
 
-1. Vaya al área de **Actividades de marketing** (o **Analytics**).
+1. Vaya al área de **[!UICONTROL Actividades de marketing]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/ma-1.png)
 
-1. Seleccione el informe y haga clic en la ficha **Configuración**.
+1. Seleccione el informe y haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/two-1.png)
 
-1. Arrastre sobre **Columnas personalizadas**.
+1. Arrastre sobre **[!UICONTROL Columnas personalizadas]**.
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ Puede filtrar aún más las métricas de los informes de personas usando sus [li
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. ¡Lo has hecho! Haga clic en la ficha **Informe** para ver el informe con las columnas nuevas.
+1. ¡Lo has hecho! Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe con las columnas nuevas.
 
    ![](assets/five-1.png)
 

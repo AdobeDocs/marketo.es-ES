@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147031
-description: Eliminar persona de SFDC - Documentos de Marketo - Documentación del producto
+description: 'Eliminar persona de SFDC: documentos de Marketo: documentación del producto'
 title: Eliminar persona de SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 
 # Eliminar persona de SFDC {#delete-person-from-sfdc}
 
-Si necesita eliminar un conjunto específico de posibles clientes de Salesforce pero dejarlos como personas en Marketo Engage, puede utilizar la acción de flujo Eliminar persona del SFDC.
+Si necesita eliminar un conjunto específico de posibles clientes de Salesforce pero dejarlos como personas en Marketo Engage, puede utilizar la acción de flujo Eliminar persona de SFDC.
 
 >[!NOTE]
 >
->Solo está disponible cuando se integra con Salesforce.
+>Solo está disponible cuando se integra con [!DNL Salesforce].
 
 1. En la base de datos, haga clic en la persona que desee eliminar de Salesforce. Luego haga clic en **[!UICONTROL Acciones de persona]** y seleccione **[!DNL Salesforce]**.
 
    ![](assets/delete-person-from-sfdc-1.png)
 
-1. Seleccione **[!UICONTROL Eliminar persona del SFDC]**.
+1. Seleccionar **[!UICONTROL Eliminar persona de SFDC]**.
 
    ![](assets/delete-person-from-sfdc-2.png)
 
@@ -31,7 +31,7 @@ Si necesita eliminar un conjunto específico de posibles clientes de Salesforce 
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   Una vez que se ejecute el paso de flujo, su persona ya no será un posible cliente en Salesforce, pero permanecerá en Marketo.
+   Una vez que se ejecute el paso de flujo, su persona ya no será un posible cliente en [!DNL Salesforce], pero permanecerá en Marketo.
 
    >[!CAUTION]
    >

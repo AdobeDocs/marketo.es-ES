@@ -3,7 +3,7 @@ description: 'Ejecución De Campaign: Documentos De Marketo: Documentación Del 
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 1%
@@ -52,7 +52,7 @@ También puede clonar una campaña inteligente existente. Si clona una campaña 
 
 Cuando se establece en true, se envían los siguientes contextos de token a la campaña secundaria (la que se está ejecutando):
 
-* Mis tokens
+* Mis tókenes
 * Tokens de campaña
 * Tokens de programa
 * Tokens de miembros
@@ -60,7 +60,7 @@ Cuando se establece en true, se envían los siguientes contextos de token a la c
 
 **Interacción de API**
 
-Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
+Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
@@ -89,7 +89,7 @@ La campaña infantil es Mis tokens.
 
 ### Ejemplo 1: Verdadero {#example-one-true}
 
-En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **True**.
+En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;[!UICONTROL Usar contexto de token de campaña principal]&quot; se establece en **[!UICONTROL Verdadero]**.
 
 ![](assets/execute-campaign-5.png)
 

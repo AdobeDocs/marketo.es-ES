@@ -3,7 +3,7 @@ description: 'Acceso A La Nueva Instancia De Sales Connect: Documentos De Market
 title: Acceso a la nueva instancia de Sales Connect
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Una vez adquirido Sales Connect, aparecerá una nueva página de integración en la instancia de Marketo. Utilice esta página para invitar a su primer usuario y aprovisionar su instancia de Sales Connect.
 
-1. En Marketo, haga clic en **Administrador**.
+1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Haga clic en **Conexión de ventas**.
+1. Haga clic en **[!UICONTROL Conexión de ventas]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Seleccione de una lista de administradores de Marketo para invitar y haga clic en **Enviar invitación**.
+1. Seleccione de una lista de administradores de Marketo para invitar y haga clic en **[!UICONTROL Enviar invitación]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 

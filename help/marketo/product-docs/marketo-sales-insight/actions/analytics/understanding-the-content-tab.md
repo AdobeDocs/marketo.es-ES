@@ -3,16 +3,16 @@ description: 'Explicación de la pestaña Contenido: Documentos de Marketo, docu
 title: Explicación de la pestaña Contenido
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Explicación de la pestaña Contenido {#understanding-the-content-tab}
+# Explicación de la ficha [!UICONTROL Contenido] {#understanding-the-content-tab}
 
-La pestaña Contenido trata sobre la participación de su equipo por correo electrónico al utilizar una plantilla. Automáticamente propagamos tres métricas que creemos que son importantes.
+La ficha [!UICONTROL Contenido] tiene que ver con la participación de su equipo por correo electrónico al usar una plantilla. Automáticamente propagamos tres métricas que creemos que son importantes.
 
 ## Arma secreta {#secret-weapon}
 

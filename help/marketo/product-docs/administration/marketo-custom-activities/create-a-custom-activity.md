@@ -4,7 +4,7 @@ description: 'Creación de una actividad personalizada: documentos de Marketo, d
 title: Crear una actividad personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -37,13 +37,13 @@ Siga estos pasos para crear una nueva actividad personalizada.
 
    >[!CAUTION]
    >
-   >Si decide cambiar el nombre de la API, asegúrese de que el nombre no entre en conflicto con los campos de otras actividades personalizadas.
+   >Si decide cambiar el [!UICONTROL Nombre de API], asegúrese de que el nombre no entre en conflicto con los campos de otras actividades personalizadas.
 
 1. Defina su [!UICONTROL Déclencheur] y [!UICONTROL filtro] y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Asigne un nombre al campo principal que resuma para qué sirve la actividad personalizada.
+1. Asigne un **[!UICONTROL Nombre]** al campo principal que resuma el propósito de la actividad personalizada.
 
    ![](assets/create-a-custom-activity-6.png)
 

@@ -4,7 +4,7 @@ description: Ver resultados del programa de correo electrónico - Documentos de 
 title: Ver resultados del programa de correo electrónico
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ver resultados del programa de correo electrónico {#view-email-program-results}
 
-Al igual que la pestaña Resultados de las campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
+Al igual que la ficha [!UICONTROL Resultados] de las campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Al igual que la pestaña Resultados de las campañas inteligentes, puede ver la 
    >
    >Si el programa de correo electrónico ya se ha ejecutado, se le redirigirá directamente al panel del programa de correo electrónico.
 
-1. En **Ver**, seleccione **Panel de control de Campaign**.
+1. En **[!UICONTROL Ver]**, seleccione **[!UICONTROL Panel de control de Campaign]**.
 
    ![](assets/controlpanelview.jpg)
 
-1. En el mosaico **Audiencia**, haga clic en **Ver resultados**.
+1. En el mosaico **[!UICONTROL Audiencia]**, haga clic en **[!UICONTROL Ver resultados]**.
 
    ![](assets/audiencetile.jpg)
 

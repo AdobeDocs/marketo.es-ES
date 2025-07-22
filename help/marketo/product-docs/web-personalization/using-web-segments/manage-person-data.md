@@ -4,22 +4,22 @@ description: 'Administración de datos de persona: documentos de Marketo, docume
 title: Administrar datos de persona
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '196'
 ht-degree: 13%
 
 ---
 
 # Administrar datos de persona {#manage-person-data}
 
-Aproveche los datos de persona para Web Personalization seleccionando campos de persona para utilizarlos en la segmentación.
+Aproveche los datos de la persona de [!DNL Web Personalization] seleccionando campos de persona para usarlos en la segmentación.
 
-1. Vaya a **Configuración de la cuenta**.
+1. Vaya a **[!UICONTROL Configuración de la cuenta]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ir a **Base de datos**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ Aproveche los datos de persona para Web Personalization seleccionando campos de 
 
 ## Eliminación de un campo de persona {#deleting-a-person-field}
 
-1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para quitar un campo de la lista. Haga clic en **Sí** para confirmar que desea eliminar el campo.
+1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para quitar un campo de la lista. Haga clic en **[!UICONTROL Sí]** para confirmar que desea eliminar el campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -74,7 +74,7 @@ Aproveche los datos de persona para Web Personalization seleccionando campos de 
   <tr> 
    <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>Puntaje</p></td> 
+   <td><p>Puntuación</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
@@ -99,7 +99,7 @@ Aproveche los datos de persona para Web Personalization seleccionando campos de 
  </tbody> 
 </table>
 
-Los siguientes campos de posibles clientes se proporcionan de forma predeterminada para las nuevas cuentas de Web Personalization:
+Los siguientes campos de posibles clientes se proporcionan de forma predeterminada para las nuevas cuentas de [!DNL Web Personalization]:
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147029
-description: Cambiar estado en SFDC Campaign - Documentos de Marketo - Documentación del producto
+description: 'Cambiar estado en SFDC Campaign: documentos de Marketo, documentación del producto'
 title: Cambiar estado en campaña SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 10%
 
 ---
@@ -17,13 +17,13 @@ Este paso de flujo le permite cambiar el estado de miembro de la campaña de Sal
 
 >[!NOTE]
 >
->Solo está disponible cuando se integra con Salesforce.
+>Solo está disponible cuando se integra con [!DNL Salesforce].
 
-Si un posible cliente no existe en Salesforce o aún no es miembro de la campaña, se sincronizará automáticamente y se agregará a la campaña de Salesforce con el estado adecuado.
+Si un posible cliente no existe en Salesforce o aún no es miembro de la campaña, se sincroniza automáticamente y se agrega a la campaña de Salesforce con el estado adecuado.
 
 ![](assets/change-status-in-sfdc-campaign-1.png)
 
-1. Busque y seleccione primero la fuerza de ventas **[!UICONTROL Campaign]** en la que se encuentra el registro.
+1. Primero busque y seleccione la Salesforce **[!UICONTROL Campaign]** en la que se encuentra el registro.
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 

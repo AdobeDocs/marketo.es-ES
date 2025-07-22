@@ -2,24 +2,24 @@
 description: Registro de atributos de actividad de ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Registro de atributos de actividad de ventas en Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 29%
+source-wordcount: '304'
+ht-degree: 10%
 
 ---
 
-# Registro de atributos de actividad de ventas en Salesforce {#logging-sales-activity-attributes-to-salesforce}
+# Registrando atributos de actividad de ventas en [!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 
-El administrador de Salesforce puede agregar manualmente campos de actividad personalizados a Salesforce.
+El administrador de Salesforce puede agregar manualmente campos de actividad personalizados a [!DNL Salesforce].
 
-1. En su cuenta de Salesforce, haga clic en **Configurar**.
+1. En su cuenta de [!DNL Salesforce], haga clic en **[!UICONTROL Configurar]**.
 
 1. Busque &quot;Campos personalizados de actividad&quot; en el campo de búsqueda rápida y haga clic en él.
 
-1. Haga clic en **Nuevo**.
+1. Haga clic en **[!UICONTROL Nuevo]**.
 
-1. Seleccione el tipo de datos correspondiente al campo que desee agregar según la tabla siguiente y haga clic en **Siguiente**.
+1. Seleccione el tipo de datos correspondiente al campo que desee agregar según la tabla siguiente y haga clic en **[!UICONTROL Siguiente]**.
 
 1. Introduzca el Nombre de campo y la etiqueta correspondientes al campo que desea añadir.
 
@@ -40,105 +40,105 @@ Descripción de cada columna de la siguiente tabla:
   <th>Tamaño</th>
  </tr>
   <tr>
-  <td>Resultados de llamadas</td>
+  <td>[!UICONTROL Call Outcomes]</td>
   <td>mktosales_call_result</td>
   <td>mktosales_call_result__c</td>
   <td>Texto</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Razones de llamada</td>
+  <td>[!UICONTROL Razones de llamada]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>Texto</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Identificación de presencia local de la llamada de Marketo Sales</td>
+  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>Texto</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>URL de la grabación de la llamada de Marketo Sales</td>
+  <td>[!UICONTROL URL de grabación de llamada de ventas de Marketo]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Campaña de Marketo Sales</td>
+  <td>[!UICONTROL Marketo Sales Campaign]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>Texto</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Paso actual de la campaña de Marketo Sales</td>
+  <td>[!UICONTROL Marketo Sales Campaign Current Step]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>Texto</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>URL de la campaña de Marketo Sales</td>
+  <td>[!UICONTROL URL de campaña de ventas de Marketo]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Archivo adjunto visto del email de Marketo Sales</td>
+  <td>[!UICONTROL Marketo Sales Email Attachment Visto]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>Casilla de verificación</td>
   <td></td>
  </tr>
  <tr>
-  <td>Email de Marketo Sales en el que se hizo clic</td>
+  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
   <td>MSE_Clicked</td>
   <td>MSE_Clicked__c</td>
   <td>Casilla de verificación</td>
   <td></td>
  </tr>
  <tr>
-  <td>Email de Marketo Sales respondido</td>
+  <td>[!UICONTROL Correo electrónico de ventas de Marketo respondido]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>Casilla de verificación</td>
   <td></td>
  </tr>
  <tr>
-  <td>Estado del email de Marketo Sales</td>
+  <td>[!UICONTROL Estado de correo electrónico de ventas Marketo]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>Texto</td>
   <td></td>
  </tr>
  <tr>
-  <td>Plantilla de email de Marketo Sales</td>
+  <td>[!UICONTROL Plantilla de correo electrónico de ventas de Marketo]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>Texto</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>URL de la plantilla de email de Marketo Sales</td>
+  <td>[!UICONTROL URL de plantilla de correo electrónico de ventas de Marketo]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>URL del email de Marketo Sales</td>
+  <td>[!UICONTROL Marketo Sales Email URL]</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Email de Marketo Sales visto</td>
+  <td>[!UICONTROL Marketo Sales Email Visto]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>Casilla de verificación</td>

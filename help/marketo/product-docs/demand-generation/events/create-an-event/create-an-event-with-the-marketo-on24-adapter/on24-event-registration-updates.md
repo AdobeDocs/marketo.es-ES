@@ -4,7 +4,7 @@ description: Actualizaciones de registro de eventos ON24 - Documentos de Marketo
 title: Actualizaciones de registro de eventos ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -19,25 +19,25 @@ Puede aprobar manualmente a los registrantes antes de enviarles un correo electr
 
 1. Para la campaña de Déclencheur de registro:
 
-   * En la lista inteligente, establezca el déclencheur en **Rellena el formulario**.
-   * En el flujo, establezca el estado en progreso en **Aprobación pendiente**.
+   * En la [!UICONTROL lista inteligente], establezca el déclencheur en **[!UICONTROL Rellena el formulario]**.
+   * En el flujo, establezca el [!UICONTROL estado en progresión] en **[!UICONTROL Aprobación pendiente]**.
 
-1. Vaya al evento y haga clic en la ficha **Miembros**. Esta pestaña muestra todas las personas que han rellenado el formulario. Su estado debe establecerse en **Aprobación pendiente**.
-1. Utilice el filtro de la parte superior de la cuadrícula para ver solamente las personas con un estado de **Aprobación pendiente**.
+1. Vaya al evento y haga clic en la ficha **[!UICONTROL Miembros]**. Esta pestaña muestra todas las personas que han rellenado el formulario. Su estado debe establecerse en **[!UICONTROL Aprobación pendiente]**.
+1. Utilice el filtro de la parte superior de la cuadrícula para ver solamente las personas con un estado de **[!UICONTROL Aprobación pendiente]**.
 1. Seleccione las personas que desea registrar (Mayús + clic, Control + clic o Seleccionar todo).
-1. En el menú, haga clic en **Cambiar estado**. Seleccione **Registrado**, **Rechazado** o cualquier otro estado aplicable.
+1. En el menú, haga clic en **[!UICONTROL Cambiar estado]**. Seleccione **[!UICONTROL Registrado]**, **[!UICONTROL Rechazado]** o cualquier otro estado aplicable.
 
 ## Gestión de personas con un error de registro {#handling-people-with-a-registration-error}
 
-Si una persona termina no siendo registrada, sino que se establece en el estado Error de registro, no es demasiado tarde para recuperarse.
+Si una persona termina sin estar registrada, pero se establece en el estado [!UICONTROL Error de registro], no es demasiado tarde para recuperarse.
 
-1. En la ficha Miembros, filtre la lista de personas con el estado **Error de registro**.
-1. Antes de continuar, asegúrese de haber determinado y corregido el problema de integración (compruebe que no haya errores en **Socios de eventos** en el administrador).
-1. Una vez resuelto el problema, selecciona todas las personas con el estado Error de registro y cambia su estado a **Registradas**. Esto intentará registrarlos de nuevo con ON24.
+1. En la ficha [!UICONTROL Miembros], filtre la lista de personas con el estado **[!UICONTROL Error de registro]**.
+1. Antes de continuar, asegúrese de haber determinado y corregido el problema de integración (compruebe que no haya errores en **[!UICONTROL Socios de eventos]** en el administrador).
+1. Una vez resuelto el problema, seleccione todas las personas con el estado [!UICONTROL Error de registro] y cambie su estado a **[!UICONTROL Registradas]**. Esto intentará registrarlos de nuevo con ON24.
 
 ## Actualizando estado de miembro de ON24 {#updating-member-status-from-on}
 
-Marketo obtiene automáticamente la información de asistencia aproximadamente a las 23:00 (hora del Pacífico) cada noche. Para actualizar manualmente la información de asistencia, haga clic en **Actualizar del proveedor de seminarios web** en **Acciones de eventos**.
+Marketo obtiene automáticamente la información de asistencia aproximadamente a las 23:00 (hora del Pacífico) cada noche. Para actualizar manualmente la información de asistencia, haga clic en **[!UICONTROL Actualizar del proveedor de seminarios web]** en **[!UICONTROL Acciones de eventos]**.
 
 >[!MORELIKETHIS]
 >

@@ -4,22 +4,22 @@ description: Comparar la eficacia del programa con el analizador de programas - 
 title: Comparar la eficacia del programa con el analizador de programas
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-# Comparar la eficacia del programa con el analizador de programas {#compare-program-effectiveness-with-the-program-analyzer}
+# Comparar la eficacia del programa con [!UICONTROL Analizador de programas] {#compare-program-effectiveness-with-the-program-analyzer}
 
-Utilice el Analizador de programas para identificar los programas más eficaces y los menos eficaces, comparando los costes de los programas, las adquisiciones de miembros, la canalización y los ingresos.
+Use [!UICONTROL Analizador de programas] para identificar los programas más eficaces y menos eficaces, comparando los costos de los programas, la adquisición de miembros, la canalización y los ingresos.
 
 >[!PREREQUISITES]
 >
->[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Crear un [!UICONTROL Analizador de programas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Haga clic en **Analytics**.
+1. Haga clic en **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -27,23 +27,23 @@ Utilice el Analizador de programas para identificar los programas más eficaces 
 
    ![](assets/image2014-9-17-18-3a50-3a37.png)
 
-1. Cambie la vista a Por programa.
+1. Cambiar la vista a **[!UICONTROL Por programa]**.
 
    ![](assets/image2014-9-17-18-3a50-3a44.png)
 
-1. Utilice el filtro de canal para reducir la vista a uno o dos canales. Por ahora, veremos los programas en el canal de Ferias.
+1. Use el **[!UICONTROL Filtro de canal]** para reducir la vista a uno o dos canales. Por ahora, veremos los programas en el canal **[!UICONTROL Feria comercial]**.
 
    ![](assets/image2014-9-17-18-3a51-3a2.png)
 
    >[!TIP]
    >
-   >Una forma rápida de filtrar programas a un solo canal es seleccionar **Ver** > **Por canal**, hacer clic en la burbuja de ese canal y, a continuación, hacer clic en el nombre del canal en el cuadro de diálogo emergente.
+   >Una forma rápida de filtrar programas a un solo canal es seleccionar **[!UICONTROL Ver]** > **[!UICONTROL Por canal]**, hacer clic en la burbuja de ese canal y, a continuación, hacer clic en el nombre del canal en el cuadro de diálogo emergente.
 
-1. Utilice la lista desplegable Eje X para elegir una métrica para el eje horizontal. Empezaremos con Costo de programa.
+1. Utilice la lista desplegable **[!UICONTROL Eje X]** para elegir una métrica para el eje horizontal. Empezaremos con **[!UICONTROL Costo del programa]**.
 
    ![](assets/image2014-9-17-18-3a52-3a16.png)
 
-1. Utilice la lista desplegable Eje Y para elegir una métrica para el eje vertical. Vamos a elegir Nuevos nombres para encontrar programas que sean buenos para capturar nuevos posibles clientes.
+1. Utilice la lista desplegable **[!UICONTROL Eje Y]** para elegir una métrica para el eje vertical. Vamos a elegir **[!UICONTROL Nuevos nombres]** para encontrar programas que sean buenos para capturar nuevos posibles clientes.
 
    ![](assets/image2014-9-17-18-3a52-3a26.png)
 
@@ -53,15 +53,15 @@ Utilice el Analizador de programas para identificar los programas más eficaces 
 
    >[!TIP]
    >
-   >También puede intentar mejorar la vista cambiando de una escala lineal a una logarítmica o viceversa. Utilice el menú **Escala** de la parte superior.
+   >También puede intentar mejorar la vista cambiando de una escala lineal a una logarítmica o viceversa. Utilice el menú **[!UICONTROL Escala]** de la parte superior.
 
 1. Explore el gráfico resultante.
 
    ![](assets/image2014-9-17-18-3a53-3a49.png)
 
-   En nuestro ejemplo, nos enteramos de que la Origami Expo es mucho mejor que todos los demás programas de ese canal en la captura de nuevos nombres, y a un costo medio. Pero esa no es toda la historia. Agregaremos dos métricas más para llegar a una comprensión más profunda.
+   En nuestro ejemplo, descubrimos que [!DNL Origami Expo] es mucho mejor que todos los demás programas de ese canal al capturar nuevos nombres y a un coste medio. Pero esa no es toda la historia. Agregaremos dos métricas más para llegar a una comprensión más profunda.
 
-1. Utilice la lista desplegable Tamaño de burbuja para elegir una métrica que comparar según el tamaño de las burbujas. Elegiremos (FT) Ingresos ganados para nuestro ejemplo.
+1. Utilice la lista desplegable **[!UICONTROL Tamaño de burbuja]** para elegir una métrica que comparar según el tamaño de las burbujas. Elegiremos **[!UICONTROL (FT) Ingresos obtenidos]** para nuestro ejemplo.
 
    ![](assets/image2014-9-17-18-3a54-3a25.png)
 
@@ -73,9 +73,9 @@ Utilice el Analizador de programas para identificar los programas más eficaces 
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Al agregar **(FT) Ingresos Ganados**, vemos rápidamente que, si bien la Origami Expo adquirió muchos nombres nuevos, resulta en relativamente pocos ingresos. Además, vemos que el programa Paper Fest 12 está recibiendo menos pero mejores nombres, ya que influye en más ingresos ganados (burbuja más grande).
+   Al agregar **[!UICONTROL (FT) Ingresos obtenidos]**, vemos rápidamente que, si bien [!DNL Origami Expo] adquirió muchos nombres nuevos, genera relativamente pocos ingresos. Además, vemos que el programa [!DNL Paper Fest 12] recibe menos nombres pero mejores, ya que influye en que se ganen más ingresos (burbuja más grande).
 
-1. Utilice la lista desplegable Color para añadir una cuarta métrica. Vamos a ver (FT) Ingresos a la Inversión.
+1. Utilice la lista desplegable Color para añadir una cuarta métrica. Observaremos **[!UICONTROL (FT) ingresos por inversión]**.
 
    ![](assets/image2014-9-17-18-3a55-3a33.png)
 
@@ -83,7 +83,7 @@ Utilice el Analizador de programas para identificar los programas más eficaces 
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-Vemos que el programa Paper Fest 12 no solo influye en más ingresos (burbuja más grande), sino que a pesar de su costo de programa relativamente alto (en el lado más a la derecha), tiene el mejor retorno a la inversión (burbuja más verde) de todos los programas en el canal de Ferias.
+Vemos que el programa [!DNL Paper Fest 12] no solo influye en más ingresos (burbuja más grande), sino que a pesar de su costo de programa relativamente alto (en el extremo derecho), tiene el mejor retorno a la inversión (burbuja más verde) de todos los programas del canal [!UICONTROL Tradeshow].
 
 >[!TIP]
 >
@@ -91,5 +91,5 @@ Vemos que el programa Paper Fest 12 no solo influye en más ingresos (burbuja m�
 
 >[!MORELIKETHIS]
 >
->* [Explorar detalles de programas y canales con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Comparar la eficacia del canal con el analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Explorar detalles de programas y canales con el [!UICONTROL Analizador de programas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparar la eficacia del canal con el [!UICONTROL Analizador de programas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

@@ -4,7 +4,7 @@ description: Configuración de un analizador de influencia de oportunidades, doc
 title: Configuración de un analizador de influencia de oportunidades
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,29 +19,29 @@ Una vez que [haya creado un Analizador de influencia de oportunidad](/help/marke
 >
 >[Crear un Analizador de influencia de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Haga clic en **Analytics**.
+1. Haga clic en **[!UICONTROL Analytics]**.
 
    ![](assets/login-to-analytics.png)
 
-1. Vaya a Analytics y seleccione su Analizador de influencia de oportunidades.
+1. Vaya a **[!UICONTROL Analytics]** y seleccione su Analizador de influencia de oportunidades.
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Si hay demasiados momentos interesantes en el gráfico del analizador, puede reducirlos si anula la selección de personas en el panel **Configuración** o si reduce los tipos de momentos interesantes.
+   Si hay demasiados momentos interesantes en el gráfico del analizador, puede reducirlos si anula la selección de personas en el panel **[!UICONTROL Configuración]** o si reduce los tipos de momentos interesantes.
 
-1. Para configurar qué tipos de momentos interesantes incluir, vaya a la pestaña Configuración y arrastre el filtro Momentos interesantes.
+1. Para configurar qué tipos de momentos interesantes se deben incluir, ve a la pestaña **[!UICONTROL Configuración]** y arrastra el filtro **[!UICONTROL Momentos interesantes]**.
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. Elija si desea mostrar Todos, Ninguno o Algunos.
+1. Elija si desea mostrar **[!UICONTROL Todos]**, **[!UICONTROL Ninguno]** o **[!UICONTROL Algunos]**.
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. Si elige Algunos, puede elegir los tipos que desea incluir.
+1. Si elige **[!UICONTROL Algunos]**, puede elegir los tipos que desea incluir.
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Haga clic en cada tipo de momento interesante que desee. Luego haz clic en **Guardar**.
+1. Haga clic en cada tipo de momento interesante que desee. Luego haz clic en **[!UICONTROL Guardar]**.
 
 1. Haga clic en la pestaña principal para ver el historial de la oportunidad con solo los tipos seleccionados de momento interesante.
 

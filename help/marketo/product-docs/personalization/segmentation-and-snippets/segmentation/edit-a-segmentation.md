@@ -4,7 +4,7 @@ description: 'Edición de una segmentación: documentos de Marketo, documentaci�
 title: Editar una segmentación
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -17,29 +17,29 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
 ## Crear un borrador de segmentación {#create-a-segmentation-draft}
 
-1. Ir a **Base de datos**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/db.png)
 
-1. En la segmentación, haga clic en **Acciones de segmentación** y luego en **Crear borrador**.
+1. En la segmentación, haga clic en **[!UICONTROL Acciones de segmentación]** y luego en **[!UICONTROL Crear borrador]**.
 
    ![](assets/two.png)
 
-1. El **estado** cambia a Aprobado con borrador. Se crea una carpeta **Borrador** en la segmentación.
+1. El **[!UICONTROL estado]** cambia a [!UICONTROL Aprobado con borrador]. Se crea una carpeta **[!UICONTROL Borrador]** en la segmentación.
 
    ![](assets/three.png)
 
 ## Agregar, editar o eliminar segmentos {#add-edit-or-delete-segments}
 
-1. En la segmentación, haga clic en **Acciones de segmentación** y luego en **Editar segmentos**.
+1. En la segmentación, haga clic en **[!UICONTROL Acciones de segmentación]** y luego en **[!UICONTROL Editar segmentos]**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Solo puede editar segmentos de un borrador y no la segmentación aprobada.
+   >Solo puede editar segmentos de [!UICONTROL Borrador], y no la segmentación aprobada.
 
-1. **Agregar segmento**, **Editar** existente (cambiar el nombre o el orden) o **Eliminar** cualquier segmento.
+1. **[!UICONTROL Agregar segmento]**, **[!UICONTROL Editar]** existente (cambiar el nombre o el orden) o **[!UICONTROL Eliminar]** cualquier segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,17 +49,17 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    >[!CAUTION]
    >
-   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, páginas de aterrizaje y fragmentos de código. **No hay deshacer**. Compruebe la ficha **Utilizado por** para ver qué usa ese segmento.
+   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, páginas de aterrizaje y fragmentos de código. **No hay deshacer**. Compruebe la ficha **[!UICONTROL Utilizado por]** para ver qué usa ese segmento.
 
 ## Editar reglas de segmentos {#edit-segment-rules}
 
-1. En el borrador **Segmento**, ve a **Lista inteligente**. Aplicar reglas similares a [Definir reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. En tu [!UICONTROL Borrador] **Segmento**, ve a **[!UICONTROL Lista inteligente]**. Aplicar reglas similares a [Definir reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >No puede editar los segmentos aprobados. Haga clic en Segmentos en la carpeta Borrador para editarlos.
+   >No puede editar los segmentos aprobados. Haga clic en Segmentos en la carpeta [!UICONTROL Borrador] para editarlos.
 
    >[!NOTE]
    >

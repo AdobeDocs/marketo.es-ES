@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7511931
 description: 'Envío de correos electrónicos y acciones de campaña y lista de observación de Marketo en Salesforce1: documentos de Marketo: documentación del producto'
-title: Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1
+title: Envío de correos electrónicos de Marketo y acciones de campañas y listas de observación en Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Enviar correo electrónico y acciones de campaña y lista de observación de Marketo en [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Vaya al área de Detalles del posible cliente en Salesforce1 y haga clic en la ficha **Relacionado**.
+1. Vaya al área de Detalles del posible cliente de [!DNL Salesforce1] y haga clic en la ficha **[!UICONTROL Relacionado]**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en los puntos (tres puntos pequeños). En la parte inferior puede elegir entre: &quot;Agregar a Marketo Campaign&quot;, &quot;Enviar correo electrónico de Marketo&quot;, &quot;Ver en Marketo&quot;, &quot;Agregar o eliminar de la lista de observación&quot;.
+1. Haga clic en los puntos (tres puntos pequeños). En la parte inferior puede elegir entre: &quot;[!UICONTROL Agregar a Marketo Campaign]&quot;, &quot;[!UICONTROL Enviar correo electrónico de Marketo]&quot;, &quot;[!UICONTROL Ver en Marketo]&quot;, &quot;[!UICONTROL Agregar de la lista de observación]&quot;, &quot;[!UICONTROL Quitar de la lista de observación]&quot;.&quot;
 
    ![](assets/two-1.png)
 

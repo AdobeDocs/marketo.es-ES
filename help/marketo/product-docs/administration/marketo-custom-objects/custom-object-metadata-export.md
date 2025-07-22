@@ -3,16 +3,16 @@ description: 'Exportación de metadatos de objeto personalizado: documentos de M
 title: Exportación de metadatos de objeto personalizado
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Exportación de metadatos de objeto personalizado {#custom-object-metadata-export}
 
-SOAP Si utiliza nuestra API de o la API de Munchkin, se puede exportar el esquema de metadatos de objeto personalizado. Así es como se consigue.
+Si usa nuestra API de SOAP o la API [!DNL Munchkin], se puede exportar el esquema de metadatos de objeto personalizado. Así es como se consigue.
 
 >[!AVAILABILITY]
 >

@@ -4,7 +4,7 @@ description: 'Descripción de las listas inteligentes: Documentos de Marketo, do
 title: Explicación de las listas inteligentes
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Aquí es donde ve los resultados; es decir, todas las personas que cumplen los r
 
 ## Ficha de lista inteligente {#smart-list-tab}
 
-Puede agregar y definir los filtros para ver un grupo específico de personas en la pestaña Personas.
+Agregue y defina los filtros para ver un grupo específico de personas en la ficha [!UICONTROL Personas].
 
 ![](assets/understanding-smart-lists-3.png)
 

@@ -4,10 +4,10 @@ description: 'Cambiar la configuración regional de un formulario: documentos de
 title: Cambiar la configuración regional de un formulario
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Al tratar con formularios internacionales, querrá mostrar las fechas y horas en los formatos correctos. Marketo lo hará automáticamente, todo lo que tiene que hacer es establecer la configuración regional del formulario y nosotros nos encargamos del resto.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. En **Configuración de formulario**, haga clic en **Configuración**.
+1. En **[!UICONTROL Configuración de formulario]**, haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Seleccione la **configuración regional** que elija.
+1. Seleccione la **[!UICONTROL configuración regional del formulario]** que elija.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Haga clic en **Aprobar y cerrar** para aplicar y guardar los cambios.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]** para aplicar y guardar los cambios.
 
    >[!NOTE]
    >

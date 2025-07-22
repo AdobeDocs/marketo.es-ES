@@ -4,7 +4,7 @@ description: 'Uso de guías para el diseño de páginas de aterrizaje de forma l
 title: Uso de guías para el diseño de páginas de aterrizaje de forma libre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Al diseñar una página de aterrizaje de forma libre, puede utilizar guías para
 
 >[!NOTE]
 >
->Las guías solo están disponibles en el editor de páginas de aterrizaje **Free-form**.
+>Las guías solo están disponibles en el editor de páginas de aterrizaje **[!UICONTROL Free-form]**.
 
-1. Seleccione una **página de aterrizaje** y haga clic en **Editar borrador**.
+1. Seleccione una **[!UICONTROL página de aterrizaje]** y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Haga clic en **Acciones de página de aterrizaje** y seleccione **Mostrar guías**.
+1. Haga clic en **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Mostrar guías]**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

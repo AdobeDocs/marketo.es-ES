@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11377945
-description: Información general sobre la pista de auditoría - Documentos de Marketo - Documentación del producto
+description: Pista de auditoría] Información general - Documentos de Marketo - Documentación del producto
 title: Resumen de pista de auditoría
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Marketo auditará las acciones [crear, editar y eliminar](/help/marketo/product-
 
 >[!NOTE]
 >
->Marketo _no_ está auditando los cambios realizados en Web Personalization, Contenido predictivo o Perspectiva de ventas en este momento.
+>Marketo _no_ está auditando los cambios realizados en Web Personalization, Predictive Content o Sales Insight en este momento.
 
 ## Componentes de pista de auditoría {#audit-trail-components}
 

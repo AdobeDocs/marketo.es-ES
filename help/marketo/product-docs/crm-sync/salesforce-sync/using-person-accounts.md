@@ -4,24 +4,24 @@ description: Uso de cuentas de persona - Documentos de Marketo - Documentación 
 title: Uso de cuentas de persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Uso de cuentas de persona {#using-person-accounts}
 
-Las cuentas de persona se pueden configurar en Salesforce para adaptarse a las necesidades de su organización. Así trata el Marketo Engage las cuentas de las personas.
+Las cuentas de persona se pueden configurar en Salesforce para adaptarse a las necesidades de su organización. Así es como Marketo Engage trata las cuentas de personas.
 
 >[!NOTE]
 >
->Las cuentas predeterminadas de Salesforce son cuentas comerciales. El administrador de Salesforce debe configurar las cuentas de persona por separado.
+>Las cuentas predeterminadas [!DNL Salesforce] son cuentas empresariales. El administrador de [!DNL Salesforce] debe configurar las cuentas de persona por separado.
 
 ## ¿Qué es una cuenta de persona? {#what-is-a-person-account}
 
-Una cuenta de persona es muy similar al objeto de cuenta en Salesforce. Sin embargo, una cuenta de persona tiene acceso tanto a los campos de cuenta como a los de contacto.
+Una cuenta de persona es muy similar al objeto de cuenta de [!DNL Salesforce]. Sin embargo, una cuenta de persona tiene acceso tanto a los campos de cuenta como a los de contacto.
 
 ## ¿Qué sucede cuando se sincroniza una cuenta de persona con Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -49,4 +49,4 @@ Marketo depende de la función de contacto de la oportunidad para determinar a q
 
 ## ¿Qué campo de correo electrónico debo usar para las cuentas de persona? {#which-email-field-should-i-use-for-person-accounts}
 
-Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo **Dirección de correo electrónico** en sus formularios (no la **Dirección de correo electrónico de la persona**) para asegurarse de que la deduplicación de Marketo y otros procesos de correo electrónico funcionen correctamente.
+Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo **[!UICONTROL Dirección de correo electrónico]** en sus formularios (no la **[!UICONTROL Dirección de correo electrónico de la persona]**) para asegurarse de que la deduplicación de Marketo y otros procesos de correo electrónico funcionen correctamente.

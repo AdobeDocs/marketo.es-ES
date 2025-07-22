@@ -4,16 +4,16 @@ description: Creación de un informe del Explorador de ingresos - Documentos de 
 title: Creación de un informe de explorador de ingresos
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Creación de un informe de explorador de ingresos {#create-a-revenue-explorer-report}
+# Crear un informe de [!UICONTROL Explorador de ingresos] {#create-a-revenue-explorer-report}
 
-El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de marketing.
+El informe [!UICONTROL Explorador de ingresos] le permite rastrear el ROI de sus iniciativas de marketing.
 
 >[!AVAILABILITY]
 >
@@ -21,13 +21,13 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
 >[!IMPORTANT]
 >
->La carpeta Papelera del Explorador de ciclos de ingresos se ha ocultado temporalmente debido a un problema técnico. Estamos trabajando en una solución, y sus archivos están a salvo. Póngase en contacto con el [Soporte técnico del Adobe](https://nation.marketo.com/t5/support/ct-p/Support) si necesita restaurar algún archivo.
+>La carpeta Papelera del Explorador de ciclos de ingresos se ha ocultado temporalmente debido a un problema técnico. Estamos trabajando en una solución, y sus archivos están a salvo. Póngase en contacto con el [Soporte técnico de Adobe](https://nation.marketo.com/t5/support/ct-p/Support) si necesita restaurar algún archivo.
 
-1. Vaya al área de **Explorador de ingresos**.
+1. Vaya al área de **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Haz clic en **Crear nuevo** y luego selecciona **Informe**.
+1. Haz clic en **[!UICONTROL Crear nuevo]** y luego selecciona **[!UICONTROL Informe]**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -41,5 +41,5 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
 >[!MORELIKETHIS]
 >
->[Agregar campos a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Agregando medidas personalizadas a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [Agregando campos a un informe de [!UICONTROL Explorador de ingresos]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Agregando medidas personalizadas a un informe de [!UICONTROL Explorador de ingresos]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

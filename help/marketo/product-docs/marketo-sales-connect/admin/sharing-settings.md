@@ -4,7 +4,7 @@ description: Configuración de uso compartido - Documentos de Marketo - Document
 title: Configuración para compartir
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
@@ -17,21 +17,21 @@ Administre mejor sus plantillas restringiendo lo que los usuarios pueden compart
 
 ![](assets/main.png)
 
-Cuando se crea la cuenta de Sales Connect por primera vez, se activa la Configuración de uso compartido. Esto ofrece a los administradores de su cuenta la oportunidad de crear y organizar las categorías de plantilla antes de abrir las puertas y permitir a los usuarios compartir contenido en las categorías de equipo.
+La primera vez que se cree la cuenta de Sales Connect, se habilitarán [!UICONTROL Configuraciones de uso compartido]. Esto ofrece a los administradores de su cuenta la oportunidad de crear y organizar las categorías de plantilla antes de abrir las puertas y permitir a los usuarios compartir contenido en las categorías de equipo.
 
-Cuando la configuración de uso compartido está habilitada, solo los administradores podrán compartir en categorías a menos que se proporcionen privilegios de uso compartido a un equipo o a todos. Con Configuración de uso compartido deshabilitada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
+Cuando [!UICONTROL Configuración de uso compartido] está habilitada, solamente los administradores podrán compartir en categorías a menos que se proporcionen privilegios de uso compartido a un equipo o a todos. Con [!UICONTROL Configuración de uso compartido] deshabilitada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En la [aplicación web](https://toutapp.com/login), vaya a la página Configuración.
+1. En la [aplicación web](https://toutapp.com/login), vaya a la página [!UICONTROL Configuración].
 
    ![](assets/one-2.png)
 
-1. En Configuración de administración, seleccione **Acceso compartido**.
+1. En [!UICONTROL Configuración de administración], seleccione **[!UICONTROL Acceso compartido]**.
 
    ![](assets/two-2.png)
 
-1. Asegúrese de que **Configuración de uso compartido** esté habilitada. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
+1. Asegúrese de que **[!UICONTROL Configuración de uso compartido]** esté habilitada. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
 
    ![](assets/four-2.png)
 
-1. Haga clic en **Agregar equipos para obtener acceso**.
+1. Haga clic en **[!UICONTROL Agregar equipos para obtener acceso]**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Cuando la configuración de uso compartido está habilitada, solo los administra
    >
    >Si no ve ningún equipo, tendrá que ir a Administración de equipos y crear un equipo de usuarios.
 
-1. Haga clic en **Agregar equipos para obtener acceso** para guardar.
+1. Haga clic en **[!UICONTROL Agregar equipos para obtener acceso]** para guardar.
 
    ![](assets/seven-1.png)
 

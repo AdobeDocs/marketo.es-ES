@@ -4,7 +4,7 @@ description: 'Configuración de notificaciones push móviles: documentos de Mark
 title: Configuración de notificaciones push móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Configuración de notificaciones push móviles {#configure-mobile-push-notification}
 
-1. Vaya al área de **Actividades de mercadotecnia**.
+1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Seleccione su recurso push y haga clic en **Editar borrador**.
+1. Seleccione su recurso push y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Si el mensaje push solo se aplica a una plataforma (por ejemplo, iOS), puede excluir la otra plataforma deslizando manualmente su selector a **Deshabilitado**.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Existen tres tipos de acciones de toque:
+   >Existen tres tipos de [!UICONTROL acciones de punteo]:
    >
    >**Iniciar aplicación** - **Esta aplicación** abre la página principal de la aplicación cuando se pulsa la notificación. **Personalizado** usa un vínculo profundo para abrir otras áreas de la aplicación o de cualquier otra aplicación a la que tengas el vínculo (consulta [URI de vínculo profundo](#deep-link-uris) más abajo para obtener detalles).
    >
-   >**Página de aterrizaje**: le lleva a una página de aterrizaje de Marketo especificada.
+   >**[!UICONTROL Página de aterrizaje]**: le lleva a una página de aterrizaje de Marketo especificada.
    >
-   >**Dirección URL externa**: lo lleva a una página de aterrizaje que no es de Marketo.
+   >**[!UICONTROL Dirección URL externa]**: lo lleva a una página de aterrizaje que no es de Marketo.
 
 1. Para insertar un vínculo profundo para una acción de toque personalizada, selecciona **Personalizado** e introduce el [URI de vínculo profundo](#deep-link-uris) en el campo.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Previsualice la otra plataforma y haga clic en **Finalizar**.
+1. Previsualice la otra plataforma y haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantizará que las URI que introduzca en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantizará que las URI que introduzca en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

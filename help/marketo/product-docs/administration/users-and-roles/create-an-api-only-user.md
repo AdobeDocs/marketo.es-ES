@@ -4,7 +4,7 @@ description: 'Creación de un usuario solo de API: documentos de Marketo, docume
 title: Crear un usuario solo de API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Crear un usuario solo de API {#create-an-api-only-user}
 
-Si desea integrarse con Marketo a través de la [API de REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, deberá crear un usuario solo de API. Así es como.
+Si desea integrarse con Marketo a través de la [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, deberá crear un usuario solo de API. Así es como.
 
 >[!IMPORTANT]
 >
->Si estás creando usuarios de solo API en una suscripción que se ha incorporado a Adobe Identity, tus pasos son diferentes y [se pueden encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Si va a crear usuarios con solo API en una suscripción que se ha incorporado a Adobe Identity, los pasos son diferentes y [se pueden encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Si desea integrarse con Marketo a través de la [API de REST](https://experience
 
    >[!TIP]
    >
-   >Añada un motivo opcional o una fecha de caducidad para el acceso. Las fechas de caducidad del acceso son útiles para los empleados a corto plazo.
+   >Agregue un [!UICONTROL Motivo] opcional o una fecha de [!UICONTROL caducidad del acceso]. Las fechas de caducidad del acceso son útiles para los empleados a corto plazo.
 
 1. Seleccione el rol **[!UICONTROL Solo API]** y marque la casilla **[!UICONTROL Solo API]**. Haga clic en **[!UICONTROL Siguiente]**.
 

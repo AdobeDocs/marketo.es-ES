@@ -4,10 +4,10 @@ description: Administración de suscripciones a informes - Documentos de Marketo
 title: Administrar suscripciones a informes
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Configurar y eliminar suscripciones a informes.
 
-1. Vaya al área de **Analytics**.
+1. Vaya al área de **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Haga clic en la ficha **Suscripciones**.
+1. Haga clic en la ficha **[!UICONTROL Suscripciones]**.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
@@ -27,13 +27,13 @@ Configurar y eliminar suscripciones a informes.
 
    >[!TIP]
    >
-   >También puede administrar suscripciones a un informe individual en **Actividades de marketing**. Seleccione el informe y haga clic en la ficha **Suscripciones**.
+   >También puede administrar suscripciones a un informe individual en **[!UICONTROL Actividades de marketing]**. Seleccione el informe y haga clic en la ficha **[!UICONTROL Suscripciones]**.
 
    Para cambiar la frecuencia con la que se envía un informe por correo electrónico, haga clic en el campo Frequency y seleccione una nueva opción en el menú desplegable.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Para cambiar las direcciones de correo electrónico en una suscripción, haga clic en el campo **Destinatarios de correo electrónico** y edite las direcciones de correo electrónico.
+1. Para cambiar las direcciones de correo electrónico en una suscripción, haga clic en el campo **[!UICONTROL Destinatarios de correo electrónico]** y edite las direcciones de correo electrónico.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -44,13 +44,13 @@ Configurar y eliminar suscripciones a informes.
 
    También puede:
 
-   * Haga clic en el botón **Ver** para abrir un informe.
-   * Anule la selección de la casilla de verificación **Activo** para desactivar la suscripción.
-   * Haga clic en y edite el campo **Resumen** para cambiar el número de filas de vista previa que aparecen en el correo electrónico.
-   * Anule la selección de la casilla de verificación **Excel** para enviar resúmenes de informes sin el archivo adjunto de hoja de cálculo.
-   * Haga clic en el botón **Enviar** para enviar el correo electrónico del informe inmediatamente.
+   * Haga clic en el botón **[!UICONTROL Ver]** para abrir un informe.
+   * Anule la selección de la casilla de verificación **[!UICONTROL Activo]** para desactivar la suscripción.
+   * Haga clic en y edite el campo **[!UICONTROL Resumen]** para cambiar el número de filas de vista previa que aparecen en el correo electrónico.
+   * Anule la selección de la casilla de verificación **[!UICONTROL Excel]** para enviar resúmenes de informes sin el archivo adjunto de hoja de cálculo.
+   * Haga clic en el botón **[!UICONTROL Enviar]** para enviar el correo electrónico del informe inmediatamente.
 
-1. Para eliminar una suscripción, seleccione la fila y haga clic en **Eliminar suscripción**.
+1. Para eliminar una suscripción, seleccione la fila y haga clic en **[!UICONTROL Eliminar suscripción]**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 

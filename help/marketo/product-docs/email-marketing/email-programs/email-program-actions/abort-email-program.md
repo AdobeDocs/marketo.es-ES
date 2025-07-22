@@ -4,7 +4,7 @@ description: Anular el programa de correo electrónico - Documentos de Marketo -
 title: Anular programa de correo electrónico
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >Este artículo está diseñado para ayudarle a evitar que los correos electrónicos salgan antes de enviarse. No hay forma de recuperar los correos electrónicos enviados.
 
-1. En un programa de correo electrónico, haga clic en **Anular programa**.
+1. En un programa de correo electrónico, haga clic en **[!UICONTROL Anular programa]**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Haga clic en **Anular** para obtener una confirmación completa.
+1. Haga clic en **[!UICONTROL Anular]** para obtener una confirmación completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

@@ -4,7 +4,7 @@ description: 'Adición de un nuevo dispositivo de prueba: documentos de Marketo,
 title: Agregar un nuevo dispositivo de prueba
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 >
 >**Se requieren permisos de administración**
 
-1. Haga clic en **Administrador** y, a continuación, en el vínculo **Aplicaciones móviles**.
+1. Haga clic en **[!UICONTROL Administrador]** y, a continuación, en el vínculo **[!UICONTROL Aplicaciones móviles]**.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Haga clic en la ficha **Dispositivos de prueba** y en **Nuevo dispositivo de prueba**.
+1. Haga clic en la ficha **[!UICONTROL Dispositivos de prueba]** y en **[!UICONTROL Nuevo dispositivo de prueba]**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,7 +41,7 @@ Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. Se abre la aplicación. Asigne un nombre al dispositivo y pulse **Sí**.
+1. Se abre la aplicación. Asigne un nombre al dispositivo y pulse **[!UICONTROL Sí]**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 

@@ -4,18 +4,18 @@ description: 'El complemento de Sales Connect no aparece en Gmail: Documentos de
 title: El complemento de Sales Connect no aparece en Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# El complemento de Sales Connect no aparece en Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
+# El complemento [!DNL Sales Connect] no se muestra en Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
 
 Según nuestra experiencia, aquí hay algunas cosas que debe probar si la barra de herramientas no aparece.
 
-- Compruebe que la extensión de se ha descargado correctamente. Si está en Chrome, tire de la lista de extensiones. ¿Se indica Conexión de ventas (Tout)?
+- Compruebe que la extensión de se ha descargado correctamente. Si está en [!DNL Chrome], tire de la lista de extensiones. ¿Se encuentra [!DNL Sales Connect] (Tout)?
 
 - ¿Cuál es tu configuración de idioma en Gmail? Si es algo distinto al inglés, intente cambiarlo al inglés.
 
@@ -23,8 +23,8 @@ Según nuestra experiencia, aquí hay algunas cosas que debe probar si la barra 
 
 - Vaya a la [aplicación web](https://toutapp.com/login) y asegúrese de haber iniciado sesión allí.
 
-- Asegúrese de que las cookies estén habilitadas. Si utiliza Chrome, vaya a Configuración > Mostrar configuración avanzada > Configuración de contenido > Desmarque &quot;Bloquear cookies de terceros y datos de sitios&quot;.
+- Asegúrese de que las cookies estén habilitadas. Si usas [!DNL Chrome], ve a [!UICONTROL Configuración] > [!UICONTROL Mostrar configuración avanzada] > [!UICONTROL Configuración del contenido] > Desmarca &quot;[!UICONTROL Bloquear cookies de terceros y datos del sitio]&quot;.
 
-- Intente desconectarse y vuelva a conectar la extensión del explorador de Sales Connect.
+- Intente desconectarse y volver a conectar la extensión del explorador [!DNL Sales Connect].
 
 Si ninguna de las sugerencias anteriores ayudó, [envíe un caso](https://nation.marketo.com/community/support_solutions) al equipo de asistencia.

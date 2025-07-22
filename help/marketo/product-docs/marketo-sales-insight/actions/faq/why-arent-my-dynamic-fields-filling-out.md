@@ -3,9 +3,9 @@ description: ¿Por qué no se rellenan mis campos dinámicos? - Documentos de Ma
 title: ¿Por qué no se rellenan mis campos dinámicos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Los campos dinámicos solo funcionarán cuando se utilice una plantilla. Los cor
 
 ## Qué comprobar {#what-to-check}
 
-Existen tres tipos de campos dinámicos en las acciones de información de ventas: Básico, Personalizado y Salesforce. Tanto básica como personalizada buscan extraer información de la [aplicación web](https://toutapp.com/login){target="_blank"}. Si la información no existe en la aplicación web, los campos están en blanco. Los campos de Salesforce extraen información de [Salesforce.com](https://salesforce.com){target="_blank"}.
+Existen tres tipos de campos dinámicos en las acciones de Sales Insight: Básico, Personalizado y Salesforce. Tanto básica como personalizada buscan extraer información de la [aplicación web](https://toutapp.com/login){target="_blank"}. Si la información no existe en la aplicación web, los campos están en blanco. Los campos de Salesforce extraen información de [Salesforce.com](https://salesforce.com){target="_blank"}.
 
-**Solucionar problemas de campos de Salesforce**
+**Solucionar problemas de [!DNL Salesforce] campos**
 
-Campos de Salesforce: p. ej. `{{sfdc_account_name}}`
+[!DNL Salesforce] campos: p. ej. `{{sfdc_account_name}}`
 
-* Asegúrese de que está correctamente conectado con las acciones de información de ventas. Vaya a la página [Configuración] (https://toutapp.com/login{target="_blank"} y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que está correctamente conectado con Sales Insight Actions. Vaya a la página [Configuración]&#x200B;(https://toutapp.com/login{target="_blank"} y haga clic en **Administrar** junto a su CRM.
 
 **Solucionar problemas de campos básicos y personalizados**
 
-Campos básicos de acciones de información de ventas de Marketo: p. ej., `{{company}}`
+Campos básicos de acciones de Marketo Sales Insight: p. ej., `{{company}}`
 
 Campos personalizados de acciones de Marketo Sales Insight: p. ej., `{{custom_field_favorite_movie}}`
 
@@ -34,7 +34,7 @@ Campos personalizados de acciones de Marketo Sales Insight: p. ej., `{{custom_fi
 
 ## ¿Por Qué Se Envió El Correo Electrónico Sin Rellenar Todos Los Campos Dinámicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Las acciones de perspectiva de ventas evitarán que se envíen correos electrónicos si no podemos rellenar todos los campos dinámicos en el correo electrónico. **Sin embargo**, existen algunas excepciones a esta regla. Algunos campos enviarán en blanco o rellenarán automáticamente un valor si podemos encontrar uno. A continuación, se enumeran estos campos y cómo reaccionarán si no pueden rellenarlos.
+[!DNL Sales Insight Actions] evitará que se envíen sus correos electrónicos si no podemos rellenar todos los campos dinámicos en el correo electrónico. **Sin embargo**, existen algunas excepciones a esta regla. Algunos campos enviarán en blanco o rellenarán automáticamente un valor si podemos encontrar uno. A continuación, se enumeran estos campos y cómo reaccionarán si no pueden rellenarlos.
 
 `{{first_name}}` = EN BLANCO
 
@@ -48,4 +48,4 @@ Las acciones de perspectiva de ventas evitarán que se envíen correos electrón
 
 >[!NOTE]
 >
->El campo `{{first_name}}` buscará tanto en las acciones de perspectiva de ventas como en Salesforce para intentar extraer información. Todos los demás campos de esta lista solo buscan en las acciones de información de ventas para rellenar el campo.
+>El campo `{{first_name}}` buscará tanto en [!DNL Sales Insight Actions] como en [!DNL Salesforce] para intentar extraer información. Todos los demás campos de esta lista solo buscan [!DNL Sales Insight Actions] para rellenar el campo.

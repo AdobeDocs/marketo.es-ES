@@ -4,16 +4,16 @@ description: 'Añadir un archivo adjunto o contenido rastreable al correo electr
 title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
 # Añadir un archivo adjunto o contenido rastreable a su correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
 
-Al enviar un correo electrónico a través de Sales Connect, tiene la opción de añadir un archivo como archivo adjunto o de convertir un archivo en un vínculo descargable (y de seguimiento).
+Al enviar un correo electrónico a través de [!DNL Sales Connect], tiene la opción de agregar un archivo como archivo adjunto o de hacer que un archivo sea un vínculo descargable (y rastreable).
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Al enviar un correo electrónico a través de Sales Connect, tiene la opción de
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 
    ![](assets/one-4.png)
 
-1. Rellene el campo Para e introduzca un Asunto.
+1. Rellene el campo [!UICONTROL Para] e introduzca un [!UICONTROL Asunto].
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Al enviar un correo electrónico a través de Sales Connect, tiene la opción de
 
    ![](assets/attach-three.png)
 
-1. Seleccione el archivo que desea adjuntar y haga clic en **Insertar**.
+1. Seleccione el archivo que desea adjuntar y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
 ## Añadir contenido rastreable {#add-trackable-content}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos la ventana Componer).
+1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo elegimos la ventana [!UICONTROL Componer]).
 
    ![](assets/one-4.png)
 
-1. Rellene el campo Para e introduzca un Asunto.
+1. Rellene el campo [!UICONTROL Para] e introduzca un [!UICONTROL Asunto].
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
    ![](assets/three-4.png)
 
-1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **Se ha hecho un seguimiento del contenido** y luego haga clic en **Insertar**.
+1. Seleccione el contenido que desea agregar, haga clic en el control deslizante **[!UICONTROL Se hace un seguimiento del contenido]** y, a continuación, haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/four-4.png)
 

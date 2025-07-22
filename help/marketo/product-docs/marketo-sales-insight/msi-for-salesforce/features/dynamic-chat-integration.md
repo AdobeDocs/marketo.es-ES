@@ -1,11 +1,11 @@
 ---
-description: Integración de Dynamic Chat - Documentos de Marketo - Documentación del producto
+description: 'Integración de Dynamic Chat: documentos de Marketo, documentación del producto'
 title: Integración del Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '391'
 ht-degree: 6%
 
 ---
@@ -16,51 +16,51 @@ Obtenga más información sobre la integración de Dynamic Chat con Sales Insigh
 
 >[!PREREQUISITES]
 >
->* Su paquete SFDC de Sales Insight debe ser de la versión [2.4.0 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Su paquete de Sales Insight SFDC debe ser de la versión [2.4.0 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* Debe tener configurada la [integración de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}
 >
->* Compruebe que en su [Configuración operativa](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} de Sales Insight tenga rellenado el campo &quot;Clave secreta de API&quot;. Si no lo hace, aprenda a recuperarlo [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Compruebe que en su [Configuración operativa](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} de Sales Insight haya rellenado el campo &quot;Clave secreta de API&quot;. Si no lo hace, aprenda a recuperarlo [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
-## Pestaña Configuración de Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] ficha de configuración {#marketo-sales-insight-configuration-tab}
 
-Siga los pasos a continuación para habilitar la integración de Dynamic Chat.
+Siga los pasos a continuación para habilitar la integración de [!DNL Dynamic Chat].
 
-1. Inicie sesión en su cuenta de Salesforce, haga clic en el signo + al final de la barra de fichas y luego haga clic en **Configuración de Marketo Sales Insight**.
+1. Inicie sesión en su cuenta de [!DNL Salesforce], haga clic en + al final de la barra de fichas y luego en **[!DNL Marketo Sales Insight Config]**.
 
-1. Haga clic para desplegar el &quot;Panel de fuerza visual&quot;.
+1. Haga clic para desplegar el &quot;[!UICONTROL Panel Visualforce]&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Seleccione la casilla de verificación **Habilitar datos del Dynamic Chat**.
+1. Seleccione la casilla de verificación **[!UICONTROL Habilitar datos de Dynamic Chat]**.
 
    ![](assets/dynamic-chat-integration-2.png)
 
 ## Descripción general de funciones {#feature-overview}
 
-Los usuarios de Sales Insight pueden aprovechar las siguientes actividades de Dynamic Chat...
+[!DNL Dynamic Chat] usuarios pueden aprovechar las siguientes [!DNL Sales Insight] actividades...
 
-Diálogo comprometido: Ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante hace clic en un bot de chat e interactúa con el diálogo.
+Diálogo comprometido: Se ha iniciado sesión en Marketo y se ha completado en [!DNL Sales Insight] cuando un visitante hace clic en un bot de chat e interactúa con el cuadro de diálogo.
 
 * Nombre del diálogo
-* URL de la página
+* URL de página
 * Estado (Iniciado/Descartado/Completado)
 
-Cita programada: se ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante programa correctamente una cita a través del bot de chat.
+Cita programada: se inició sesión en Marketo y se completó en [!DNL Sales Insight] cuando un visitante programa correctamente una cita a través del bot de chat.
 
 * Nombre del diálogo
 * Agente
-* URL de la página
+* URL de página
 * Programado el (insertar marca de fecha y hora)
 * Estado (Programado, Reprogramado, Cancelado)
 
-Meta alcanzada: Se ha iniciado sesión en Marketo y se ha completado en Información de ventas cuando un visitante alcanza una meta en cualquier flujo de diálogo.
+Meta alcanzada: Se inició sesión en Marketo y se completó en [!DNL Sales Insight] cuando un visitante alcanza una meta en cualquier flujo de diálogo.
 
 * Nombre del diálogo
 * Nombre del objetivo
-* URL de la página
+* URL de página
 
-Interactuó con el documento: ha iniciado sesión en Marketo y se rellena en Sales Insight cuando un visitante interactúa con un documento compartido mediante el bot de chat.
+Se interactuó con el documento: se inició sesión en Marketo y se rellenó en [!DNL Sales Insight] cuando un visitante interactúa con un documento compartido a través del bot de chat.
 
 * Nombre del diálogo
 * Documento
@@ -70,7 +70,7 @@ Las actividades de chat están disponibles en el panel de perspectivas.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Hay una pestaña de chat disponible en los paneles Posible cliente y Contacto. Incluye las columnas Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+Hay una pestaña de chat disponible en los paneles Posible cliente y Contacto. Incluye las columnas [!UICONTROL Tipo de actividad], [!UICONTROL Nombre del cuadro de diálogo] y [!UICONTROL Fecha].
 
 ![](assets/dynamic-chat-integration-4.png)
 
@@ -78,17 +78,17 @@ Para obtener más información sobre un tipo de actividad, haga clic en él.
 
 ![](assets/dynamic-chat-integration-5.png)
 
-Del mismo modo, los paneles Cuenta y Oportunidad incluyen las columnas Nombre, Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+Del mismo modo, los paneles Cuenta y Oportunidad incluyen las columnas [!UICONTROL Nombre], [!UICONTROL Tipo de actividad], [!UICONTROL Nombre del cuadro de diálogo] y [!UICONTROL Fecha].
 
 ![](assets/dynamic-chat-integration-6.png)
 
-La pestaña Chat también se incluye en la pestaña Global Marketo. Incluye tres tipos de actividades (diálogo comprometido, cita programada, objetivo alcanzado), junto con las siguientes columnas:
+La pestaña Chat también se incluye en la pestaña Global Marketo. Incluye tres tipos de actividades ([!UICONTROL Diálogo comprometido], [!UICONTROL Cita programada], [!UICONTROL Objetivo alcanzado]), junto con las siguientes columnas:
 
-* Persona
-* Cuenta
-* Tipo de actividad (cuadro de diálogo con participación, cita programada, meta alcanzada)
-* Nombre del diálogo
-* Marca de fecha y hora
+* [!UICONTROL Persona]
+* [!UICONTROL Cuenta]
+* [!UICONTROL Tipo de actividad] ([!UICONTROL Diálogo con participación], [!UICONTROL Cita programada], [!UICONTROL Objetivo alcanzado])
+* [!UICONTROL Nombre del cuadro de diálogo]
+* [!UICONTROL Fecha]
 
 De nuevo, puede obtener más información sobre un tipo de actividad haciendo clic en él.
 
@@ -96,7 +96,7 @@ De nuevo, puede obtener más información sobre un tipo de actividad haciendo cl
 
 >[!NOTE]
 >
->Si la casilla &quot;Habilitar datos del Dynamic Chat&quot; está desactivada, se desactivarán las siguientes funciones:
+>Si la casilla de verificación &quot;[!UICONTROL Habilitar datos de Dynamic Chat]&quot; está deshabilitada, se deshabilitarán las siguientes características:
 >
 >* Fila con actividades de chat en el panel de perspectivas (cuadrícula inteligente y vista de lista semanal)
 >* Pestaña Chat en los paneles Posible cliente, Contacto, Cuenta y Oportunidad

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Administración de cuentas de Target - Documentos de Marketo - Documentación del producto
-title: Gestión de la cuenta objetivo
+description: '[!UICONTROL Administración de cuentas de Target] - Documentos de Marketo - Documentación del producto'
+title: '[!UICONTROL Administración de cuenta de destino]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Gestión de la cuenta objetivo {#target-account-management-overview}
+# [!UICONTROL Administración de cuenta de destino] {#target-account-management-overview}
 
-Experto en marketing, conoce a Administración de cuentas de Target. Administración de cuentas de Target, conozca al experto en marketing.
+Experto en marketing: conozca a [!UICONTROL Administración de cuentas de Target]. [!UICONTROL Administración de cuentas de Target], conozca al experto en marketing.
 
 ![](assets/photo-collage.png)
 
-¿Qué es la administración de cuentas de Marketo Target?
+¿Qué es la administración de cuentas de Marketo [!UICONTROL Target]?
 
-Marketo Target Account Management reúne a equipos de ventas y marketing para dirigirse a cuentas clave y comprometerlas de forma altamente coordinada, lo que reduce la brecha entre la estrategia, la ejecución y el éxito centrados en la cuenta, todo ello dentro de una sola plataforma.
+La [!UICONTROL administración de cuentas de Target] de Marketo reúne a equipos de ventas y marketing para dirigirse a cuentas clave y participar en ellas de una manera altamente coordinada, lo que reduce la brecha entre la estrategia, la ejecución y el éxito centrados en la cuenta, todo ello dentro de una sola plataforma.
 
-¿Por qué utilizar la administración de cuentas de Marketo Target?
+¿Por qué usar la administración de cuentas de Marketo [!UICONTROL Target]?
 
 Marketo unifica la administración de TAM y posibles clientes en una solución, lo que facilita a los especialistas en marketing la ejecución de campañas personalizadas tanto para cuentas como para posibles clientes en un solo movimiento. También se beneficia de contactar con los principales responsables de la toma de decisiones e influyentes de acuerdos.
 

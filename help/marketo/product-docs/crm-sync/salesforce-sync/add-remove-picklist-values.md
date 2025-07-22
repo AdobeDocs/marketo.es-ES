@@ -4,16 +4,16 @@ description: Agregar o quitar valores de la lista de selección - Documentos de 
 title: Agregar o quitar valores de la lista de selección
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # Agregar o quitar valores de la lista de selección {#add-remove-picklist-values}
 
-A continuación se indican algunas cosas que debe saber acerca de la adición y eliminación de valores de lista de selección en Salesforce.
+A continuación se indican algunas cosas que hay que saber acerca de cómo agregar y quitar valores de listas de selección en [!DNL Salesforce].
 
 ## Adición de Valores de Lista {#adding-picklist-values}
 
@@ -25,15 +25,15 @@ A continuación se indican algunas cosas que debe saber acerca de la adición y 
 
 ## Eliminar valores de la lista desplegable {#remove-picklist-values}
 
-Cuando se elimina un valor de la lista de selección de un campo en Salesforce, deberá eliminar manualmente este valor de todos los formularios que alojen este campo.
+Cuando se quita un valor de la lista de selección de un campo de [!DNL Salesforce], tendrá que quitar manualmente este valor de todos los formularios que alojen este campo.
 
 >[!NOTE]
 >
->Si un campo de posible cliente y un campo de contacto de Salesforce tienen valores diferentes, los valores en común estarán disponibles para su uso en Marketo Engage.
+>Si un campo de posible cliente y un campo de contacto en Salesforce tienen valores diferentes, los valores en común estarán disponibles para usarlos en Marketo Engage.
 
-Si un campo de posible cliente y un campo de contacto de Salesforce tienen valores diferentes:
+Si un campo de posible cliente y un campo de contacto de [!DNL Salesforce] tienen valores diferentes:
 
-1. Si se añade un valor adicional en SFDC a una lista de selección, se obtiene una notificación.
+1. Si se añade un valor adicional en SFDC a una lista de selección, se recibirá una notificación.
 1. La notificación le indicará dónde se utiliza. Ahora puede agregar este nuevo valor como opción en el formulario si lo desea.
 
 Si una lista de selección de un posible cliente de SFDC tiene valores diferentes a los de una lista de selección para un contacto de SFDC, los valores comunes se utilizarán como opciones de valor predeterminadas en el formulario.

@@ -3,7 +3,7 @@ description: Anulación de prioridad para campañas de Déclencheur - Documentos
 title: Anulación de prioridad para campañas de Déclencheur
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Anulación de prioridad para campañas de Déclencheur {#priority-override-for-trigger-campaigns}
 
-Los administradores pueden anular la prioridad determinada por el Marketo Engage para las campañas de Déclencheur a fin de establecer prioridades que se ajusten mejor a los objetivos empresariales.
+Los administradores pueden anular la prioridad definida por Marketo Engage para las campañas de Déclencheur a fin de establecer prioridades que se ajusten mejor a los objetivos empresariales.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 >
 >Solo los administradores o usuarios con responsabilidades de administrador deben tener acceso de anulación de prioridad de campaña.
 
-1. En el área [!UICONTROL Administrador], haga clic en **[!UICONTROL Usuarios y roles]**.
+1. En el área **[!UICONTROL Administrador]**, haga clic en **[!UICONTROL Usuarios y roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
@@ -36,7 +36,7 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. En [!UICONTROL Acceder a actividades de marketing], seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Haga clic en **[!UICONTROL Guardar]**.
+1. En **[!UICONTROL Acceder a actividades de marketing]**, seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -50,7 +50,7 @@ Los administradores pueden anular la prioridad determinada por el Marketo Engage
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   El nuevo nivel de prioridad se muestra en la pestaña Schedule.
+   El nuevo nivel de prioridad se mostrará en la ficha **[!UICONTROL Programar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 

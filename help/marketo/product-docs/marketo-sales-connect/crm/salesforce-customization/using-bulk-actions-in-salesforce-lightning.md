@@ -4,42 +4,42 @@ description: Uso de acciones masivas en Salesforce Lightning - Documentos de Mar
 title: Uso de acciones masivas en Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
-# Uso de acciones masivas en Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
+# Uso de acciones masivas en [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
-Aprenda a realizar acciones masivas, como añadir posibles clientes a una campaña, enviar un correo electrónico masivo o transferir posibles clientes de Salesforce a Sales Connect.
+Aprenda a realizar acciones masivas, como agregar posibles clientes a una campaña, enviar un correo electrónico masivo o transferir posibles clientes de [!DNL Salesforce] a [!DNL Sales Connect].
 
 >[!PREREQUISITES]
 >
->Actualice a la última versión del paquete de Sales Connect e instale los botones de acción por lotes en la vista de cliente potencial/contacto. [Haga clic aquí para obtener instrucciones](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Actualice a la última versión del paquete [!DNL Sales Connect] e instale los botones de acción masiva en la vista de posibles clientes o contactos. [Haga clic aquí para obtener instrucciones](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
->Antes de seguir estos pasos, asegúrese de haber iniciado sesión en su cuenta de Marketo Sales Connect.
+>Antes de seguir estos pasos, asegúrese de haber iniciado sesión en su cuenta de [!DNL Marketo Sales Connect].
 
 ## Correo electrónico masivo {#bulk-email}
 
-1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
+1. En [!DNL Salesforce], haga clic en la ficha **[!UICONTROL Posibles clientes]** y, a continuación, elija la lista de posibles clientes que desee.
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >Si ya está en la lista que va a utilizar, tendrá que volver a ejecutarla seleccionándola en la lista desplegable para asegurarse de que se muestran los botones de acción masiva de MSC. Este es un comportamiento de Salesforce que no se puede cambiar.
+   >Si ya está en la lista que va a utilizar, tendrá que volver a ejecutarla seleccionándola en la lista desplegable para asegurarse de que se muestran los botones de acción masiva de MSC. Este es el comportamiento de [!DNL Salesforce] que no se puede cambiar.
 
-1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Correo electrónico con MSC**.
+1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **[!UICONTROL Correo electrónico con MSC]**.
 
    ![](assets/two-6.png)
 
 1. Aparecerá un correo electrónico de MSC. Incluye las siguientes funciones:
 
-   a. El campo &quot;A&quot; muestra &quot;Todos los recibos&quot;; corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes\
+   a. El campo &quot;[!UICONTROL A]&quot; muestra &quot;Todos los recibos&quot;; corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes\
    b. Esta lista está visible en el panel izquierdo llamado &quot;Maquetación masiva&quot;. Puede añadir o quitar destinatarios aquí\
    c. Puede elegir una plantilla o crear su propio correo electrónico\
    d. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
@@ -48,33 +48,33 @@ Aprenda a realizar acciones masivas, como añadir posibles clientes a una campa�
 
 ## Agregar a la campaña {#add-to-campaign}
 
-1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
+1. En [!DNL Salesforce], haga clic en la ficha **[!UICONTROL Posibles clientes]** y, a continuación, elija la lista de posibles clientes que desee.
 
    ![](assets/four-4.png)
 
-1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Agregar a MSC Campaign**.
+1. Haga clic en la lista desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **[!UICONTROL Agregar a MSC Campaign]**.
 
    ![](assets/five-4.png)
 
-1. Aparecerá la ventana emergente &quot;Agregar personas a su campaña&quot;. Haga clic en **Siguiente** y siga el flujo de campaña habitual para almacenar en déclencheur una campaña de MSC.
+1. Aparecerá la ventana emergente &quot;[!UICONTROL Agregar personas a tu campaña]&quot;. Haga clic en **[!UICONTROL Siguiente]** y siga el flujo de campaña habitual para almacenar en déclencheur una campaña de MSC.
 
    ![](assets/six-1.png)
 
-## Insertar en Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Insertar en [!DNL Marketo Sales Connect] {#push-to-marketo-sales-connect}
 
-1. En Salesforce, haga clic en la pestaña **Posibles clientes** y luego elija la lista de posibles clientes que desee.
+1. En [!DNL Salesforce], haga clic en la ficha **[!UICONTROL Posibles clientes]** y, a continuación, elija la lista de posibles clientes que desee.
 
    ![](assets/seven-2.png)
 
-1. Haga clic en la flecha desplegable (en el extremo derecho de la pantalla) y seleccione **Insertar en MSC**.
+1. Haga clic en la flecha desplegable (en el extremo derecho de la pantalla) y seleccione **[!UICONTROL Insertar en MSC]**.
 
    ![](assets/eight-2.png)
 
-1. Se abrirá una nueva pestaña llamada &quot;Salesforce Bridge&quot;. Haga clic en el botón **Continuar al grupo →**.
+1. Se abrirá una nueva pestaña llamada &quot;[!DNL Salesforce] Bridge&quot;. Haga clic en el botón **[!UICONTROL Continuar al grupo] →**.
 
    ![](assets/nine-2.png)
 
-1. Se le enviará a su cuenta MSC, donde verá un grupo creado con una marca de fecha y hora. Recibirá una notificación una vez que se complete la sincronización y el grupo incluirá los posibles clientes sincronizados desde Salesforce.
+1. Se le enviará a su cuenta MSC, donde verá un grupo creado con una marca de fecha y hora. Recibirá una notificación cuando se complete la sincronización y el grupo incluirá los posibles clientes sincronizados de [!DNL Salesforce].
 
    ![](assets/ten-1.png)
 

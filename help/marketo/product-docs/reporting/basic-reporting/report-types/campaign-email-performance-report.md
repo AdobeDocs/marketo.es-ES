@@ -4,10 +4,10 @@ description: Informe de rendimiento del correo electrónico de Campaign - Docume
 title: Informe de rendimiento de correo electrónico de Campaign
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 4%
 
 Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), ejecute un informe de rendimiento del correo electrónico de Campaign.
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el **Rendimiento de correo electrónico de la campaña** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el **[!UICONTROL Rendimiento de correo electrónico de la campaña]** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
+1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **[!UICONTROL Informe]**.
 
 1. Ahora explore el informe para ver el rendimiento de cada correo electrónico en sus campañas.
 
@@ -27,15 +27,15 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    >
    >Haga clic en el nombre de un correo electrónico para abrirlo en el previsualizador de correo electrónico.
 
-   [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para un informe de rendimiento de correo electrónico de Campaign incluyen:
+   [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico de campaña incluyen:
 
    | Columna | Descripción |
    |---|---|
-   | Se rechazó permanentemente | El correo electrónico se rechazó debido a una condición permanente, como una dirección de correo electrónico inexistente. |
-   | Rechazado temporalmente | El correo electrónico se rechazó debido a una condición temporal, como que un servidor esté inactivo o que la bandeja de entrada esté llena. |
-   | Pendiente | El correo electrónico aún se está enviando. |
-   | Se hizo clic en el vínculo | Número de destinatarios de correo electrónico que hicieron clic en un vínculo del correo electrónico. |
-   | Suscripción cancelada | Número de destinatarios de correo electrónico que hicieron clic en el vínculo **Cancelar la suscripción** del correo electrónico y rellenaron el formulario. |
+   | [!UICONTROL Rechazado fuerte] | El correo electrónico se rechazó debido a una condición permanente, como una dirección de correo electrónico inexistente. |
+   | [!UICONTROL Rechazado suave] | El correo electrónico se rechazó debido a una condición temporal, como que un servidor esté inactivo o que la bandeja de entrada esté llena. |
+   | [!UICONTROL Pendiente] | El correo electrónico aún se está enviando. |
+   | [!UICONTROL Se Hizo Clic En El Vínculo] | Número de destinatarios de correo electrónico que hicieron clic en un vínculo del correo electrónico. |
+   | [!UICONTROL Canceló la suscripción] | Número de destinatarios de correo electrónico que hicieron clic en el vínculo **[!UICONTROL Cancelar la suscripción]** del correo electrónico y rellenaron el formulario. |
 
    >[!NOTE]
    >

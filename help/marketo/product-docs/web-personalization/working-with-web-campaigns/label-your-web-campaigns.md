@@ -4,9 +4,9 @@ description: 'Etiquetado De Campañas Web: Documentos De Marketo: Documentación
 title: Etiquetado de campañas web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Añadir una etiqueta a una campaña web {#add-a-label-to-a-web-campaign}
 
-1. Inicie sesión en Web Personalization y vaya al área de Campañas web.
+1. Inicie sesión en [!DNL Web Personalization] y vaya al área de [!UICONTROL Campañas web].
 
    ![](assets/web-campaigns-hand.jpg)
 

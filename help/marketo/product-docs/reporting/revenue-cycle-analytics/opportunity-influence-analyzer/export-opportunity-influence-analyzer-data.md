@@ -4,7 +4,7 @@ description: 'Exportar datos del Analizador de influencia de oportunidades: docu
 title: Exportar datos del analizador de influencia de oportunidades
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para recibir actualizaciones de sus informes del Explorador de ciclos de ingresos y compartirlos, puede suscribir cualquier dirección de correo electrónico a un informe existente.
 
-1. Vaya a **Analytics** y seleccione **Nuevo** > **Nueva suscripción a informe**.
+1. Vaya a **[!UICONTROL Analytics]** y seleccione **[!UICONTROL Nuevo]** > **[!UICONTROL Nueva suscripción a informe]**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Para recibir actualizaciones de sus informes del Explorador de ciclos de ingreso
    >
    >Para suscribirse a un informe básico que creó en un programa, vea [Suscribirse a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Para Report Source, seleccione **Explorador de ingresos**.
+1. Para **[!UICONTROL Report Source]**, seleccione **[!UICONTROL Explorador de ingresos]**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 

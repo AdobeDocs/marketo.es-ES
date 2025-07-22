@@ -4,10 +4,10 @@ description: 'Aprobar un fragmento: documentos de Marketo, documentación del pr
 title: Aprobar un fragmento
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Se debe aprobar un fragmento antes de utilizarlo.
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Haz clic en tu **fragmento**. En **Acciones de fragmento**, haga clic en **Aprobar**.
+1. Haz clic en tu **fragmento**. En **[!UICONTROL Acciones de fragmento]**, haga clic en **[!UICONTROL Aprobar]**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-¡Eso es todo! El estado del fragmento cambia de Borrador a Aprobado.
+¡Ya está! El estado del fragmento cambia de Borrador a Aprobado.
 
 >[!MORELIKETHIS]
 >

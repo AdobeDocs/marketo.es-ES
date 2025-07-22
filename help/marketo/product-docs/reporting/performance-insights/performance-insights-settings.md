@@ -4,14 +4,14 @@ description: Configuración de perspectivas de rendimiento - Documentos de Marke
 title: Configuración de Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
-# Configuración de Performance Insights {#performance-insights-settings}
+# Configuración de [!UICONTROL Perspectivas de rendimiento] {#performance-insights-settings}
 
 Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
@@ -23,7 +23,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Ver el éxito del programa por {#view-program-success-by}
 
-**Tablero de participación - Contribución y tendencia**
+**[!UICONTROL Participación]: panel - Contribución y tendencia**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Configuración del período anterior {#previous-period-configuration}
 
-**Participación, canalización, paneles de ingresos - Solo contribución**
+**[!UICONTROL Participación], [!UICONTROL Canalización], [!UICONTROL Ingresos] Paneles - Solo contribución**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Oportunidades influenciadas por el marketing {#marketing-influenced-opportunities}
 
-**Tablero de canalización - Contribución y tendencia**
+**[!UICONTROL Tablero de canalización] - Contribución y tendencia**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
  </tbody> 
 </table>
 
-**Panel de ingresos - Contribución y tendencia**
+**[!UICONTROL Ingresos] panel - Contribución y tendencia**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Obtenga información acerca de las distintas opciones de Configuración en MPI.
 
 ## Cálculo de costes {#cost-calculation}
 
-**Paneles de canalización e ingresos - Contribución y tendencia**
+**[!UICONTROL Canalización] e [!UICONTROL Ingresos] paneles - Contribución y tendencia**
 
 <table> 
  <tbody> 

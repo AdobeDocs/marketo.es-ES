@@ -4,7 +4,7 @@ description: Explicación de las fases del modelo de ingresos - Documentos de Ma
 title: Explicación de las fases del modelo de ingresos
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Las fases son una forma de agrupar una serie de etapas. A veces, varias fases de
 
 ## Definir las fases del modelo {#define-the-phases-of-the-model}
 
-1. Haga clic en **Fases**.
+1. Haga clic en **[!UICONTROL Fases]**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

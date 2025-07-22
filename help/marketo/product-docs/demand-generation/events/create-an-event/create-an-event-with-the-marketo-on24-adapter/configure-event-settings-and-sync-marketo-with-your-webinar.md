@@ -4,7 +4,7 @@ description: 'Configuración de eventos y sincronización de Marketo con el semi
 title: Configuración de eventos y sincronización de Marketo con el seminario web
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
@@ -17,19 +17,19 @@ Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON2
 
 ## Configurar el evento {#set-the-event}
 
-1. Elija el evento que desea asociar a un seminario web ON24, luego haga clic en la lista desplegable **Acciones de evento** y seleccione **Configuración de evento**.
+1. Elija el evento que desea asociar a un seminario web ON24, luego haga clic en la lista desplegable **[!UICONTROL Acciones de evento]** y seleccione **[!UICONTROL Configuración de evento]**.
 
    ![](assets/one.png)
 
-1. Seleccione ON24 como socio del evento.
+1. Seleccione ON24 como [!UICONTROL socio de evento].
 
    ![](assets/two.png)
 
-1. Seleccione la cuenta de inicio de sesión (por ejemplo, el nombre para mostrar).
+1. Seleccione la cuenta de [!UICONTROL Login] (por ejemplo, el nombre para mostrar).
 
    ![](assets/three.png)
 
-1. Introduzca el ID de evento (obténgalo de ON24). Haga clic en **Guardar**.
+1. Escriba el [!UICONTROL ID de evento] (obténgalo de ON24). Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/four.png)
 
@@ -39,19 +39,19 @@ Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON2
 
 ## Establecer el horario {#set-the-schedule}
 
-Al configurar un evento asociado a un seminario web ON24, la programación de eventos se rellena con datos de ON24. Para acceder al cuadro de diálogo Programación de eventos, siga estos pasos.
+Al configurar un evento asociado a un seminario web ON24, la programación de eventos se rellena con datos de ON24. Para acceder al cuadro de diálogo [!UICONTROL Programación de eventos], siga estos pasos.
 
-1. Seleccione el evento. Haga clic en el menú desplegable **Acciones de evento** y seleccione **Programar.**
+1. Seleccione el evento. Haga clic en el menú desplegable **[!UICONTROL Acciones de evento]** y seleccione **[!UICONTROL Programar].**
 
    ![](assets/five.png)
 
-1. Elija su **fecha de inicio, fecha de finalización** y **zona horaria**. Haga clic en **Guardar**.
+1. Elija su **[!UICONTROL fecha de inicio]**, **[!UICONTROL fecha de finalización]** y **[!UICONTROL zona horaria]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Si actualiza cualquier información de evento en ON24, debe hacer clic en **Actualizar del proveedor de seminarios web** en el menú Acciones de evento para ver cómo se rellenan los nuevos datos.
+   >Si actualiza cualquier información de evento en ON24, debe hacer clic en **[!UICONTROL Actualizar del proveedor de seminarios web]** en el menú [!UICONTROL Acciones de eventos] para ver cómo se rellenan los nuevos datos.
 
 Ahora puede pasar al siguiente paso: [crear campañas secundarias y recursos locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 

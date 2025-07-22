@@ -4,10 +4,10 @@ description: Informes de personas agrupadas por atributo - Documentos de Marketo
 title: Agrupar informes de personas por atributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede agrupar los informes de persona por cualquier persona o atributo de compañía.
 
-1. Vaya al área de **Actividades de marketing** (o **Analytics**).
+1. Vaya al área de **[!UICONTROL Actividades de marketing]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Seleccione el informe de personas del árbol de navegación y haga clic en la ficha **Configuración**.
+1. Seleccione el informe de personas del árbol de navegación y haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Haga doble clic en **Agrupar personas por**.
+1. Haga doble clic en **[!UICONTROL Agrupar personas por]**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -31,15 +31,15 @@ Puede agrupar los informes de persona por cualquier persona o atributo de compa�
    >
    >También puede [agrupar los informes de personas por segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   En el cuadro de diálogo Agrupar personas por, seleccione el atributo de persona o compañía que desea utilizar para la agrupación.
+   En el cuadro de diálogo [!UICONTROL Agrupar personas por], seleccione el atributo de persona o compañía que se utilizará para la agrupación.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 
    >[!TIP]
    >
-   >Si elige un atributo que tiene un valor numérico, como _Creado a las_ o _Ingresos anuales_, seleccione las métricas en la lista desplegable **Unidades** de la derecha.
+   >Si elige un atributo que tiene un valor numérico, como _[!UICONTROL Creado a las]_ o _[!UICONTROL Ingresos anuales]_, seleccione las métricas en la lista desplegable **[!UICONTROL Unidades]** de la derecha.
 
-   ¡Eso es todo! Haga clic en la pestaña Informe para ver el informe agrupado según corresponda.
+   ¡Ya está! Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe agrupado según corresponda.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

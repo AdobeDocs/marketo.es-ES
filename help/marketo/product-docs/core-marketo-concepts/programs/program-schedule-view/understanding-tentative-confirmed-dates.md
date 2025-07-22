@@ -4,7 +4,7 @@ description: Explicación de las fechas provisionales o confirmadas - Documentos
 title: Explicación de las fechas provisionales/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Las fechas provisionales transmiten la intención. Piense en esto como _escribir
 
 ## Confirmación de entradas {#confirming-entries}
 
-Esto es igual que aprobar un recurso, por lo que las entradas deben configurarse completamente antes de poder confirmarlas. Una vez que todos los patos están en una fila, puede confirmar las entradas deslizando la pestaña tentativa a la derecha.
+Esto es igual que aprobar un recurso, por lo que las entradas deben configurarse completamente antes de poder confirmarlas. Una vez que todos tus patos estén en una fila, puedes confirmar las entradas deslizando la pestaña [!UICONTROL Tentative] a la derecha.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 

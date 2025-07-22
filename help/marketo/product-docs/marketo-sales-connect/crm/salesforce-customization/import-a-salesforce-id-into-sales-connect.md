@@ -1,22 +1,27 @@
 ---
 unique-page-id: 14352469
-description: 'Importación de un ID de Salesforce a Sales Connect: documentos de Marketo: documentación del producto'
-title: Importación de un ID de Salesforce a Sales Connect
+description: 'Importación de un Salesforce ID en Sales Connect: documentos de Marketo: documentación del producto'
+title: Importación de un Salesforce ID en Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Importación de un ID de Salesforce a Sales Connect {#import-a-salesforce-id-into-sales-connect}
+# Importación de un Salesforce ID en Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
-Sales Connect utiliza el ID del contacto o del posible cliente (también conocido como ID de Salesforce) para registrar la información correctamente en Salesforce. Existen varias formas de adjuntar el ID de Salesforce a sus contactos en Sales Connect.
+[!DNL Sales Connect] usa el ID de contacto o de posible cliente (también conocido como ID de [!DNL Salesforce]) para ayudar a registrar correctamente la información en [!DNL Salesforce]. Hay varias maneras de adjuntar el identificador de [!DNL Salesforce] a los contactos de [!DNL Sales Connect].
 
-[Insertar en Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): al usar Push to Sales Connect, se creará un contacto en Sales Connect con toda la información de contacto clave, incluido el ID de Salesforce del posible cliente/contacto.
+[Insertar en Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Si se usa Insertar en Sales Connect, se creará un contacto en
+[!DNL Sales Connect] con toda la información de contacto clave, incluido el posible cliente/contacto
+[!DNL Salesforce] ID.
 
-[Enviar correo electrónico de ventas de Marketo, añadir a Campaign y hacer clic para llamar a los botones en SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Cuando use cualquiera de estos tres botones en Salesforce, insertaremos el contacto en Sales Connect con el ID de Salesforce.
+[Enviar correo electrónico de ventas de Marketo, añadir a Campaign y hacer clic para llamar a los botones en SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Cuando use cualquiera de estos tres botones en
+[!DNL Salesforce], insertaremos el contacto en
+[!DNL Sales Connect] con
+[!DNL Salesforce] ID.
 
-[Importar CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): si exporta una lista de posibles clientes/contactos de Salesforce y agrega una columna con el ID de Salesforce, puede asignar el campo a Sales Connect en la importación.
+[Importar CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): si exporta una lista de posibles clientes/contactos desde Salesforce y agrega una columna con el identificador [!DNL Salesforce], puede asignar el campo a [!DNL Sales Connect] al importarlo.

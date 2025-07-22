@@ -4,10 +4,10 @@ description: 'Uso de etiquetas en un programa: documentos de Marketo, documentac
 title: Uso de etiquetas en un programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Uso de una etiqueta en un programa {#use-a-tag-in-a-program}
 
-1. Seleccione el programa. Haga clic en **Configuración**.
+1. Seleccione el programa. Haga clic en **[!UICONTROL Configuración]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Editar una etiqueta {#edit-a-tag}
 
-1. Vaya a la ficha **Configuración**. Haga clic con el botón derecho en la etiqueta. Seleccione **Editar**.
+1. Vaya a la ficha **[!UICONTROL Configuración]**. Haga clic con el botón derecho en la etiqueta. Seleccione **[!UICONTROL Editar]**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Haga clic en **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Eliminar una etiqueta  {#delete-a-tag}
 
-1. Vaya a la ficha **Configuración**. Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
+1. Vaya a la ficha **[!UICONTROL Configuración]**. Haga clic con el botón derecho en la etiqueta y seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
    ![](assets/use-tags-in-a-program-11.png)
 

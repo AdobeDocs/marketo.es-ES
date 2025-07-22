@@ -4,10 +4,10 @@ description: 'Información general de búsqueda avanzada: documentos de Marketo,
 title: Información general de búsqueda avanzada
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
 ## Cómo acceder a la búsqueda avanzada {#how-to-access-advanced-search}
 
-1. Haga clic en **Centro de comandos**.
+1. Haga clic en **[!UICONTROL Centro de comandos]**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Correos electrónicos**.
+1. Haga clic en **[!UICONTROL Correos electrónicos]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
    ![](assets/three.png)
 
-1. Haga clic en **Búsqueda avanzada**.
+1. Haga clic en **[!UICONTROL Búsqueda avanzada]**.
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han
 
 **Fecha**
 
-Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado de correo electrónico que elija (Enviado, No enviado, Pendiente).
+Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 
 ![](assets/date.png)
 
 **Quién**
 
-Filtre por destinatario/remitente de correo electrónico en la sección Quién.
+Filtre por destinatario/remitente de correo electrónico en la sección [!UICONTROL Who].
 
 ![](assets/who.png)
 
 | Desplegable | Descripción |
 |---|---|
-| **Ver como** | Filtre por un remitente específico en la instancia de Sales Connect (esta opción solo está disponible para administradores). |
-| **Por grupo** | Filtrado de correos electrónicos por un grupo específico de destinatarios. |
-| **Por persona** | Filtre por un destinatario específico. |
+| **[!UICONTROL Ver como]** | Filtre por un remitente específico en su instancia de [!DNL Sales Connect] (esta opción solo está disponible para administradores). |
+| **[!UICONTROL Por grupo]** | Filtrado de correos electrónicos por un grupo específico de destinatarios. |
+| **[!UICONTROL Por persona]** | Filtre por un destinatario específico. |
 
 **Cuándo**
 
-Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado del correo electrónico que elija (Enviado, No entregado, Pendiente).
+Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 
 ![](assets/when.png)
 
@@ -85,9 +85,9 @@ Filtra por todos los correos electrónicos pendientes.
 
 | Estado | Descripción |
 |---|---|
-| **Programado** | Correos electrónicos programados desde la ventana de redacción (Salesforce o la aplicación web), complementos de correo electrónico o una campaña. |
-| **Borradores** | Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para poder guardarse como borrador. |
-| **En curso** | Correos electrónicos en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos. |
+| **[!UICONTROL Programado]** | Correos electrónicos programados desde la ventana de redacción ([!DNL Salesforce] o la aplicación web), complementos de correo electrónico o una campaña. |
+| **[!UICONTROL Borradores]** | Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para poder guardarse como borrador. |
+| **[!UICONTROL En curso]** | Correos electrónicos en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos. |
 
 ***Estado: sin entregar***
 
@@ -97,19 +97,19 @@ Filtra por correos electrónicos que nunca se entregaron.
 
 | Estado | Descripción |
 |---|---|
-| **Error** | Cuando un correo electrónico no se envía desde Sales Connect (los motivos más comunes son: mensajes de correo electrónico enviados a contactos que han cancelado la suscripción o que están bloqueados, o si se ha producido un problema al rellenar los campos dinámicos). |
-| **Devuelto** | Un correo electrónico se marca como rechazado cuando el servidor del destinatario lo rechaza. Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Conexión de ventas. |
-| **Correo no deseado** | Cuando el destinatario marcó el correo electrónico como correo no deseado (término común para el correo electrónico no solicitado). Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Conexión de ventas. |
+| **[!UICONTROL Fallido]** | Cuando un correo electrónico no se puede enviar desde [!DNL Sales Connect] (los motivos comunes incluyen: correos electrónicos enviados a contactos no suscritos/bloqueados o si hubo un problema al rellenar los campos dinámicos). |
+| **[!UICONTROL Devuelto]** | Un correo electrónico se marca como rechazado cuando el servidor del destinatario lo rechaza. Aquí solo se mostrarán los mensajes de correo electrónico que se enviaron a través de [!DNL Sales Connect] servidores. |
+| **[!UICONTROL Correo no deseado]** | Cuando el destinatario marcó el correo electrónico como correo no deseado (término común para el correo electrónico no solicitado). Aquí solo se mostrarán los mensajes de correo electrónico que se enviaron a través de [!DNL Sales Connect] servidores. |
 
 ## Búsquedas guardadas {#saved-searches}
 
 A continuación se indica cómo crear una búsqueda guardada.
 
-1. Una vez que todos los filtros estén establecidos, haga clic en **Guardar filtros como**.
+1. Una vez que todos los filtros estén establecidos, haga clic en **[!UICONTROL Guardar filtros como]**.
 
    ![](assets/save-search-1.png)
 
-1. Asigne un nombre a la búsqueda y haga clic en **Guardar**.
+1. Asigne un nombre a la búsqueda y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/save-search-2.png)
 

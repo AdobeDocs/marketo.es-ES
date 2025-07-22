@@ -4,7 +4,7 @@ description: Mostrar personas o visitantes anónimos en informes web - Documento
 title: Mostrar personas o visitantes anónimos en los informes web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Agregar el código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Agregar código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-En los [informes Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y [Actividad web de la compañía](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md), podrá ver [personas o visitantes anónimos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan su sitio. Los visitantes anónimos han deducido datos, como el área metropolitana.  A continuación, se indica cómo seleccionar si el informe muestra los posibles clientes conocidos o los visitantes anónimos.
+En los informes [[!UICONTROL Actividad de la página web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y [[!UICONTROL Actividad web de la compañía]](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puede ver [personas o visitantes anónimos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan el sitio. Los visitantes anónimos han deducido datos, como el área metropolitana.  A continuación, se indica cómo seleccionar si el informe muestra los posibles clientes conocidos o los visitantes anónimos.
 
-1. En el informe Actividad de la página web, haga clic en **Configurar**.
+1. En su informe de [!UICONTROL Actividad de la página web], haga clic en **[!UICONTROL Configurar]**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Haga doble clic en **Activity Source**.
+1. Haga doble clic en **[!UICONTROL Activity Source]**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. En la ventana emergente, seleccione **Posibles clientes conocidos** (personas) o **Visitantes anónimos** de la lista desplegable.
+1. En la ventana emergente, seleccione **[!UICONTROL Posibles clientes conocidos]** (personas) o **Visitantes anónimos** de la lista desplegable.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -35,7 +35,7 @@ En los [informes Actividad de la página web](/help/marketo/product-docs/reporti
    >
    >La inclusión de ISP para visitantes anónimos genera un informe más largo, pero su exclusión proporciona una visión más clara de la procedencia de los visitantes, además de las fuentes estándar, como Google.
 
-1. Eso es todo. Haz clic en la pestaña **Informe** para volver y ver el informe con personas conocidas o anónimas.
+1. Eso es todo. Haz clic en la pestaña **[!UICONTROL Informe]** para volver y ver el informe con personas conocidas o anónimas.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

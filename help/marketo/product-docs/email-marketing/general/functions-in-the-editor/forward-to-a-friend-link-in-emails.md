@@ -4,7 +4,7 @@ description: 'Reenviar a un amigo en correos electrónicos: documentos de Market
 title: Reenviar a un amigo Vínculo en correos electrónicos
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Reenviar a un amigo&
 
 ## Añadir el vínculo a una plantilla de correo electrónico {#add-the-link-to-an-email-template}
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Busque y seleccione la plantilla de correo electrónico a la que desee añadir el vínculo. Haga clic en **Editar borrador**.
+1. Busque y seleccione la plantilla de correo electrónico a la que desee añadir el vínculo. Haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/two-7.png)
 
-1. Pegue el siguiente código de HTML donde desee que aparezca el vínculo &#39;Reenviar a amigo&#39; (si necesita ayuda con esta parte, póngase en contacto con el desarrollador web):
+1. Pegue el siguiente código HTML donde desee que aparezca el vínculo &#39;Reenviar a amigo&#39; (si necesita ayuda con esta parte, póngase en contacto con el desarrollador web):
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -44,7 +44,7 @@ Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Reenviar a un amigo&
    >
    >No se recomienda usar el estilo **position:relative** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización del cuadro &quot;Reenviar a amigo&quot;.
 
-1. Haga clic en **Vista previa del borrador** para asegurarse de que la plantilla tiene el aspecto que desea.
+1. Haga clic en **[!UICONTROL Vista previa del borrador]** para asegurarse de que la plantilla tiene el aspecto que desea.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
    ![](assets/eight-1.png)
 
-1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y, a continuación, haga clic en **Insertar**.
+1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y, a continuación, haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ También puede añadir el vínculo &#39;Reenviar a un amigo&#39; directamente en
 
 Puede ver quién reenvió y recibió los correos electrónicos en el registro de actividad de la persona.
 
-1. Vaya a **`Database`**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    ![](assets/fourteen.png)
 
-1. Vaya a la ficha **Registro de actividades**. Haga doble clic en **Correo electrónico recibido reenviado a un amigo** o **Correo electrónico enviado a un amigo** para ver los detalles.
+1. Vaya a la ficha **[!UICONTROL Registro de actividades]**. Haga doble clic en **[!UICONTROL Correo electrónico recibido reenviado a un amigo]** o **[!UICONTROL Correo electrónico enviado a un amigo]** para ver los detalles.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    >[!NOTE]
    >
-   >Haremos que **ID de persona** se pueda hacer clic en y vincularemos directamente a la persona en un parche próximo.
+   >Haremos que **[!UICONTROL ID de persona]** se pueda hacer clic en y vincularemos directamente a la persona en un parche próximo.
 
    ![](assets/seventeen.png)
 

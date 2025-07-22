@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: 'Sincronización de SFDC: fusión de un posible cliente/contacto/persona - Documentos de Marketo: documentación del producto'
+description: 'Sincronización de SFDC: combinación de un posible cliente/contacto/persona - Documentos de Marketo - Documentación del producto'
 title: 'Sincronización de SFDC: combinación de un posible cliente/contacto/persona'
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 A veces es mejor simplemente enumerar las reglas. Aquí vamos:
 
-* Cuando combina dos posibles clientes en **Salesforce**, la sincronización normal indica al Marketo Engage y los posibles clientes se combinan automáticamente como personas en Marketo.
-* Al combinar dos personas en **Marketo**, se invoca el mismo proceso que al combinarlas como posibles clientes en Salesforce. Sigue funcionando automáticamente.
+* Cuando combina dos posibles clientes en **[!DNL Salesforce]**, la sincronización normal indica a Marketo y los posibles clientes se combinan automáticamente como personas en Marketo.
+* Al combinar dos personas en **Marketo**, se invoca el mismo proceso que al combinarlas como posibles clientes en [!DNL Salesforce]. Sigue funcionando automáticamente.
 * Combinar un **posible cliente (persona) en un contacto** funciona de la misma manera. Termina con un solo contacto en ambos lados.
 * Al combinar, se suma la puntuación predeterminada.
 

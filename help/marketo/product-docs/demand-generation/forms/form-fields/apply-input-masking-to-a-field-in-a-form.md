@@ -4,10 +4,10 @@ description: Aplicación de máscara de entrada a un campo en un formulario - Do
 title: Aplicar máscara de entrada a un campo de un formulario
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Puede restringir la entrada del visitante mediante una máscara de entrada. Por ejemplo, es posible que desee que los visitantes especifiquen números de teléfono únicamente en un formato específico.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleccione su campo y asegúrese de que **Tipo de campo** está establecido en **Texto**.
+1. Seleccione su campo y asegúrese de que **[!UICONTROL Tipo de campo]*** está establecido en **[!UICONTROL Texto]**.
 
    >[!NOTE]
    >
-   >El enmascaramiento de entrada solo funciona con **Tipos de campos de texto**.
+   >El enmascaramiento de entrada solo funciona con **[!UICONTROL Tipos de campos de texto]**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Haga clic en el vínculo **Entrada de máscara**.
+1. Haga clic en el vínculo **[!UICONTROL Entrada de máscara]**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Escriba la máscara de entrada y haga clic en **Guardar**.
+1. Escriba la máscara de entrada y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
    >
    >Preste atención a las reglas de enmascaramiento. Puede restringir la entrada a números, letras, ambos o incluso limitar el número de caracteres introducidos.
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

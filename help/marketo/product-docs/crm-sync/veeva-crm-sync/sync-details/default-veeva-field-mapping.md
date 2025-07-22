@@ -1,18 +1,18 @@
 ---
-description: Asignación de campos Veeva predeterminada - Documentos de Marketo - Documentación del producto
-title: Asignación de campos Veeva predeterminada
+description: Asignación de campos  [!DNL Veeva] predeterminada - Documentos de Marketo - Documentación del producto
+title: Asignación de campo  [!DNL Veeva] predeterminada
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 43%
+source-wordcount: '253'
+ht-degree: 46%
 
 ---
 
-# Asignación de campos Veeva predeterminada {#default-veeva-field-mapping}
+# Asignación de campo [!DNL Veeva] predeterminada {#default-veeva-field-mapping}
 
-Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Veeva y Marketo. Marketo también sincronizará los campos personalizados en sus cuentas y contactos.
+Cuando sincroniza inicialmente su cuenta de Marketo Engage con [!DNL Veeva], Marketo realiza automáticamente estas asociaciones entre los campos integrados de [!DNL Veeva] y Marketo. Marketo también sincronizará los campos personalizados en sus cuentas y contactos.
 
 ## Campos de contactos {#contact-fields}
 
@@ -70,7 +70,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
     </tr>
     <tr>
       <td>Puntaje del lead</td>
-      <td>Puntaje</td>
+      <td>Puntuación</td>
     </tr>
     <tr>
       <td>MailingCity</td>
@@ -192,7 +192,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo reali
   </tbody>
 </table>
 
-## Campos del sistema relacionados con Veeva en Marketo (solo lectura) {#veeva-related-system-fields-in-marketo}
+## Campos del sistema relacionados con [!DNL Veeva] en Marketo (solo lectura) {#veeva-related-system-fields-in-marketo}
 
 Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
 
@@ -209,20 +209,20 @@ Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>El ID de Salesforce de 18 caracteres</td>
+      <td>[!DNL Veeva] Identificación</td>
+      <td>El id. [!DNL Salesforce] de 18 caracteres</td>
     </tr>
     <tr>
-      <td>Tipo Veeva</td>
+      <td>[!DNL Veeva] Tipo</td>
       <td>Contacto. Si está vacío, el posible cliente solo existe como persona en Marketo</td>
     </tr>
     <tr>
-      <td>Fecha de creación de Veeva</td>
+      <td>[!DNL Veeva] Fecha de creación</td>
       <td>Fecha de creación en SFDC (puede ser diferente de Creación en Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva se ha eliminado</td>
-      <td>La persona solía estar en SFDC, pero se ha eliminado y ahora solo vive en Marketo</td>
+      <td>[!DNL Veeva] se ha eliminado</td>
+      <td>La persona estaba en SFDC, pero se eliminó y ahora solo vive en Marketo</td>
     </tr>
   </tbody>
 </table>

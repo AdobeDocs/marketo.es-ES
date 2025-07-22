@@ -6,16 +6,16 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
 
-# Transición al Editor de correo electrónico 2.0 {#transitioning-to-email-editor}
+# Pasando a [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-En la versión de junio de 2019, todas las suscripciones de Marketo se habían trasladado a Email Editor 2.0. [Más información](https://nation.marketo.com/docs/DOC-7038) sobre la obsolescencia de Email Editor 1.0.
+En la versión de junio de 2019, todas las suscripciones de Marketo se habían transferido a [!DNL Email Editor 2.0]. [Más información](https://nation.marketo.com/docs/DOC-7038) sobre la desaprobación de [!DNL Email Editor 1.0].
 
 Los correos electrónicos y las plantillas de correo electrónico de su suscripción deben tener un número de versión. La versión se encuentra en la página de resumen del recurso.
 
@@ -24,15 +24,15 @@ Los correos electrónicos y las plantillas de correo electrónico de su suscripc
 De forma predeterminada, todos los correos electrónicos y plantillas de correo electrónico existentes se marcarán como v1.0 si se crearon antes de la versión de primavera de 16 o después de la versión cuando el Editor de correo electrónico 2.0 esté deshabilitado. Con el Editor de correo electrónico 2.0 ahora habilitado automáticamente, verá el siguiente comportamiento:
 
 * Al crear un correo electrónico nuevo, se mostrará [Selector de plantilla de correo electrónico](email-template-picker-overview.md) y podrá elegir una plantilla de correo electrónico v2.0.
-* Cada vez que cree o edite un correo electrónico con el Editor de correo electrónico 2.0, el correo electrónico resultante **siempre** se marcará como v2.0 (incluso si ha utilizado una plantilla de correo electrónico v1.0).
+* Cada vez que cree o edite un correo electrónico con [!DNL Email Editor 2.0], el correo electrónico resultante **siempre** se marcará como v2.0 (incluso si ha utilizado una plantilla de correo electrónico v1.0).
 
-Si la suscripción tiene correos electrónicos de la versión 1.0 antes del paso al Editor de correo electrónico 2.0, experimentará el siguiente comportamiento en función del estado actual del recurso:
+Si su suscripción tiene correos electrónicos de la versión 1.0 antes del paso a [!DNL Email Editor 2.0], experimentará el siguiente comportamiento según el estado actual del recurso:
 
 **Aprobado**: al hacer clic en &quot;Editar borrador&quot;, se creará un borrador v2.0 del correo electrónico aprobado. Si aprueba el borrador de la versión 2.0, el estado aprobado del correo electrónico pasa a ser la versión 2.0 y no hay forma de volver a la versión 1.0.\
 **Borrador**: al hacer clic en &quot;Editar borrador&quot;, se marcará automáticamente como v2.0. En este punto, no será posible descartar y volver a la versión 1.0 porque no hay una versión aprobada del recurso.
 **Aprobado con borrador**: al hacer clic en &quot;Editar borrador&quot;, ese borrador se marcará automáticamente como v2.0. Debido a esto, tampoco hay forma de revertir el borrador a v1.0.
 
-Si la suscripción tiene plantillas de correo electrónico v1.0 antes del paso al Editor de correo electrónico 2.0, experimentará el siguiente comportamiento:
+Si su suscripción tiene plantillas de correo electrónico v1.0 antes de pasar a [!DNL Email Editor 2.0], experimentará el siguiente comportamiento:
 
 **Aprobado**: al hacer clic en &quot;Editar borrador&quot;, se creará un borrador v2.0 de la plantilla de correo electrónico existente.
 **Borrador**: al hacer clic en &quot;Editar borrador&quot;, se marcará automáticamente como v2.0. En este punto, no sería posible descartar y volver a la versión 1.0 porque no hay una versión aprobada del recurso.
@@ -60,9 +60,9 @@ Cosas que hay que tener en cuenta
 
 * Las plantillas de correo electrónico aprobadas **nunca** han cambiado.
 
-* En algunos **casos excepcionales**, no se puede abrir un mensaje de correo electrónico v1.0 en el Editor de correo electrónico 2.0. Si esto sucede, descarte el borrador y póngase en contacto con el Soporte técnico de Marketo.
+* En algunos **casos excepcionales**, no se puede abrir un mensaje de correo electrónico v1.0 en [!DNL Email Editor 2.0]. Si esto sucede, descarte el borrador y póngase en contacto con el Soporte técnico de Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Información general del editor de correo electrónico 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [[!DNL Email Editor 2.0] Información general](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [Sintaxis de plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

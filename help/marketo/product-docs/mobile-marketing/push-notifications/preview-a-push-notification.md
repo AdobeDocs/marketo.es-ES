@@ -4,7 +4,7 @@ description: 'Previsualización de una notificación push: documentos de Marketo
 title: Previsualización de una notificación push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es fácil obtener una vista previa del aspecto que tendrá la notificación push, tanto para Android como para iOS. Hay cuatro formas de hacerlo.
 
-En el árbol de navegación, haz clic con el botón derecho en el archivo de la notificación que deseas previsualizar y haz clic en **Previsualizar**.
+En el árbol de navegación, haz clic con el botón derecho en el archivo de la notificación que deseas previsualizar y haz clic en **[!UICONTROL Previsualizar]**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ En el árbol de navegación, haz clic con el botón derecho en el archivo de la 
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-O bien, en la página de vista de notificaciones push, haga clic en **Acciones de notificaciones push** y luego en **Vista previa**. O bien, haga clic en **Vista previa** en el extremo derecho.
+O bien, en la página de vista de notificaciones push, haga clic en **[!UICONTROL Acciones de notificaciones push]** y luego en **[!UICONTROL Vista previa]**. O bien, haga clic en **[!UICONTROL Vista previa]** en el extremo derecho.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Por último, en el editor, puedes hacer clic en la pestaña **Vista previa del borrador** en la esquina superior derecha mientras trabajas en la notificación.
+Por último, en el editor, puedes hacer clic en la pestaña **[!UICONTROL Vista previa del borrador]** en la esquina superior derecha mientras trabajas en la notificación.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

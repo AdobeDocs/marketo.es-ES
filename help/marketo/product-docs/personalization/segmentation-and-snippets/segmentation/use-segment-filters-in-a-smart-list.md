@@ -4,18 +4,18 @@ description: 'Uso de filtros de segmento en una lista inteligente: documentos de
 title: Uso de filtros de segmento en una lista inteligente
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Uso de filtros de segmento en una lista inteligente {#use-segment-filters-in-a-smart-list}
+# Usar filtros de segmento en [!UICONTROL lista inteligente] {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
->* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Crear una [!UICONTROL lista inteligente]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Optimice el rendimiento de sus listas inteligentes mediante filtros de segmento.

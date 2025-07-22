@@ -4,16 +4,16 @@ description: Información general sobre la función del panel de perspectivas - 
 title: Resumen de funciones del panel de perspectivas
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1522'
 ht-degree: 0%
 
 ---
 
 # Resumen de funciones del panel de perspectivas {#insights-dashboard-feature-overview}
 
-Obtenga más información acerca de las funciones disponibles en su panel de perspectivas de ventas.
+Obtenga más información acerca de las características disponibles en su panel de [!DNL Sales Insights].
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ Obtenga más información acerca de las funciones disponibles en su panel de per
 **Cuadrícula de velocidad de interacción**
 
 * Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días
-* El usuario puede elegir la actividad &quot;Mostrar cuenta&quot;, que clasificará en capas todos los momentos interesantes, el correo electrónico y la actividad web a nivel de cuenta en la vista de contacto
+* El usuario puede elegir la actividad &quot;[!UICONTROL Mostrar cuenta]&quot;, que clasificará en niveles todos los momentos interesantes, el correo electrónico y la actividad web de la cuenta en la vista de contacto
 * El usuario puede resaltar una semana específica para ver las actividades dentro de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
@@ -47,7 +47,7 @@ Pestaña Campañas de correo electrónico:
 * No específico del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posible cliente, contacto, cuenta y oportunidad será la misma
 * Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento determinado (similar al comportamiento en Marketo)
 * La tarjeta de detalles de actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos para enviar correo electrónico, todos los correos electrónicos estarán disponibles para su previsualización. Dentro del paso de flujo de envío de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
-* Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
+* Los filtros incluyen &quot;[!UICONTROL Buscar]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 ![](assets/insights-dashboard-feature-overview-2.png)
 
@@ -58,7 +58,7 @@ Pestaña Evento:
 * Al seleccionar eventos invitados, se mostrarán los eventos a los que se ha invitado a un contacto específico, junto con el estado de miembro
 * Al seleccionar todos los eventos, se mostrará una lista de los eventos programados en los próximos 90 días
 * La tarjeta Detalles de actividad de esta sección tiene una opción de vista previa
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* El filtro incluye &quot;[!UICONTROL Buscar]&quot;, &quot;[!UICONTROL Mostrar solo eventos invitados]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 ![](assets/insights-dashboard-feature-overview-3.png)
 
@@ -69,7 +69,7 @@ Pestaña Evento:
 * Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días
 * El usuario puede resaltar una semana específica para ver las actividades dentro de esa semana
 * Vista predeterminada: La semana actual está seleccionada
-* La función &quot;Mostrar actividad de cuenta&quot; no está disponible en los posibles clientes, ya que no forma parte de ninguna cuenta de Salesforce hasta que se convierte en contacto
+* La característica &quot;[!UICONTROL Mostrar actividad de cuenta]&quot; no está disponible en los posibles clientes, ya que no forma parte de ninguna cuenta de [!DNL Salesforce] hasta que se convierta en contacto
 
 **Desglose y resumen de la participación**
 
@@ -88,7 +88,7 @@ Pestaña Campañas de correo electrónico:
 * No específico del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posible cliente, contacto, cuenta y oportunidad será la misma
 * Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento determinado (similar al comportamiento en Marketo)
 * La tarjeta de detalles de actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos para enviar correo electrónico, todos los correos electrónicos estarán disponibles para su previsualización. Dentro del paso de flujo de envío de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
-* Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
+* Los filtros incluyen &quot;[!UICONTROL Buscar]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 ![](assets/insights-dashboard-feature-overview-4.png)
 
@@ -99,7 +99,7 @@ Pestaña Evento:
 * Al seleccionar eventos invitados, se mostrarán los eventos a los que se ha invitado a un contacto específico, junto con el estado de miembro
 * Al seleccionar todos los eventos, se mostrará una lista de los eventos programados en los próximos 90 días
 * La tarjeta Detalles de actividad de esta sección tiene una opción de vista previa
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* El filtro incluye &quot;[!UICONTROL Buscar]&quot;, &quot;[!UICONTROL Mostrar solo eventos invitados]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 ![](assets/insights-dashboard-feature-overview-5.png)
 
@@ -128,7 +128,7 @@ Pestaña Campañas de correo electrónico:
 * No específico del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posible cliente, contacto, cuenta y oportunidad será la misma
 * Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento determinado (similar al comportamiento en Marketo)
 * La tarjeta de detalles de actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos para enviar correo electrónico, todos los correos electrónicos estarán disponibles para su previsualización. Dentro del paso de flujo de envío de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
-* Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
+* Los filtros incluyen &quot;[!UICONTROL Buscar]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 Pestaña Evento:
 
@@ -137,7 +137,7 @@ Pestaña Evento:
 * Al seleccionar eventos invitados, se mostrarán los eventos a los que se ha invitado a un contacto específico, junto con el estado de miembro
 * Al seleccionar todos los eventos, se mostrará una lista de los eventos programados en los próximos 90 días
 * La tarjeta Detalles de actividad de esta sección tiene una opción de vista previa
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* El filtro incluye &quot;[!UICONTROL Buscar]&quot;, &quot;[!UICONTROL Mostrar solo eventos invitados]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 ## Diseño de oportunidad {#opportunity-layout}
 
@@ -162,7 +162,7 @@ Pestaña Evento:
 * No específico del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posible cliente, contacto, cuenta y oportunidad será la misma
 * Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento determinado (similar al comportamiento en Marketo)
 * La tarjeta de detalles de actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos para enviar correo electrónico, todos los correos electrónicos estarán disponibles para su previsualización. Dentro del paso de flujo de envío de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
-* Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
+* Los filtros incluyen &quot;[!UICONTROL Buscar]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 Pestaña Evento:
 
@@ -171,8 +171,8 @@ Pestaña Evento:
 * Al seleccionar eventos invitados, se mostrarán los eventos a los que se ha invitado a un contacto específico, junto con el estado de miembro
 * Al seleccionar todos los eventos, se mostrará una lista de los eventos programados en los próximos 90 días
 * La tarjeta Detalles de actividad de esta sección tiene una opción de vista previa
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* El filtro incluye &quot;[!UICONTROL Buscar]&quot;, &quot;[!UICONTROL Mostrar solo eventos invitados]&quot; y &quot;[!UICONTROL Intervalo de fechas]&quot;
 
 >[!NOTE]
 >
->Si su cuenta u oportunidad tiene más de 800 contactos, el panel no mostrará ningún dato. Sin embargo, puede ir a contactos individuales para ver sus perspectivas y participación. Si tu cuenta tiene más de 800 contactos, se desactivará &quot;Mostrar actividad de nivel de cuenta&quot;.
+>Si su cuenta u oportunidad tiene más de 800 contactos, el panel no mostrará ningún dato. Sin embargo, puede ir a contactos individuales para ver sus perspectivas y participación. Si tu cuenta tiene más de 800 contactos, se deshabilitará &quot;[!UICONTROL Mostrar actividad de nivel de cuenta]&quot;.

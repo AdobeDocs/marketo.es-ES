@@ -4,10 +4,10 @@ description: 'Creación de un segmento mediante una lista estática: documentos 
 title: Creación de segmentos mediante una lista estática
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Segmente a los visitantes web conocidos cuando visiten su sitio web en función de si están o no en una de sus [listas estáticas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) de Marketo.
 
-1. Vaya a **Segmentos**.
+1. Vaya a **[!UICONTROL Segmentos]**.
 
    ![](assets/1.jpg)
 
-1. Haga clic en **Crear nuevo**.
+1. Haga clic en **[!UICONTROL Crear nuevo]**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Segmente a los visitantes web conocidos cuando visiten su sitio web en función 
 
    ![](assets/three.png)
 
-1. En Posibles clientes conocidos, arrastre **Listas estáticas** al lienzo.
+1. En Posibles clientes conocidos, arrastre **[!UICONTROL Listas estáticas]** al lienzo.
 
    ![](assets/four-2.png)
 
-1. Haga clic en el menú desplegable para seleccionar **is** o **is not** (según lo que desee) y escriba el nombre de su lista estática.
+1. Haga clic en el menú desplegable para seleccionar **[!UICONTROL is]** o **[!UICONTROL is not]** (según lo que desee) y escriba el nombre de su lista estática.
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ Segmente a los visitantes web conocidos cuando visiten su sitio web en función 
 
    >[!NOTE]
    >
-   >La lista desplegable y/o es solo eso. Haga clic para seleccionar **y**, **o**, o **y/o**.
+   >La lista desplegable y/o es solo eso. Haga clic para seleccionar **[!UICONTROL y]**, **[!UICONTROL o]**, o **[!UICONTROL y/o]**.
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir la campaña** para guardar e ir a la página Campañas.
+1. Haga clic en **[!UICONTROL Guardar]** para guardar el segmento o en **[!UICONTROL Guardar y definir la campaña]** para guardar e ir a la página [!UICONTROL Campañas].
 
    ![](assets/eight-1.png)

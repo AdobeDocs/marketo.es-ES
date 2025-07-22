@@ -3,9 +3,9 @@ description: Déclencheur y filtros de actividades de ventas - Documentos de Mar
 title: Déclencheur y filtros de actividades de ventas
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Siga los pasos a continuación para aprender a utilizar los déclencheur y filtr
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. En la ficha **Lista inteligente**, busque &quot;Aplicaciones de ventas&quot;.
+1. En la ficha **[!UICONTROL Lista inteligente]**, busque &quot;[!UICONTROL Aplicaciones de ventas]&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Siga los pasos a continuación para aprender a utilizar los déclencheur y filtr
 
 >[!NOTE]
 >
->Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestro [Glosario de actividades de acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestro [[!DNL Sales Insight Actions] Glosario de actividades](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

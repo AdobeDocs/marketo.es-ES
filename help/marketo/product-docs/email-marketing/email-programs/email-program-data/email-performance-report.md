@@ -4,7 +4,7 @@ description: Informe de rendimiento de correo electrónico - Documentos de Marke
 title: Informe de rendimiento de correo electrónico
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 2%
@@ -15,8 +15,8 @@ ht-degree: 2%
 
 Para ver el rendimiento de los correos electrónicos con estadísticas como enviado, abierto, hecho clic, etc., cree un informe de rendimiento de correo electrónico.
 
-1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **Rendimiento de correo electrónico** [Tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Cambie el intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe**.
+1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **[!UICONTROL Rendimiento de correo electrónico]** [Tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Cambie el intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **[!UICONTROL Informe]**.
 1. ¡Tú estás ahí! Ahora explore el informe para ver el rendimiento de sus correos electrónicos.
 
    >[!NOTE]
@@ -31,7 +31,7 @@ Para ver el rendimiento de los correos electrónicos con estadísticas como envi
 
    >[!NOTE]
    >
-   >Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, desea ver actividades solo para personas activas. En ese caso, debe filtrar las personas eliminadas para que no estén en el informe. Use la ficha **Lista inteligente** para [crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para el informe. Si no está filtrando en ningún campo específico, establezca el filtro Dirección de correo electrónico en: **no está vacío**.
+   >Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, desea ver actividades solo para personas activas. En ese caso, debe filtrar las personas eliminadas para que no estén en el informe. Use la ficha **[!UICONTROL Lista inteligente]** para [crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para el informe. Si no está filtrando en ningún campo específico, establezca el filtro Dirección de correo electrónico en: **[!UICONTROL no está vacío]**.
 
    [Seleccionar columnas de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico incluye:
 
@@ -75,11 +75,11 @@ En general, tratamos de usar el sentido común para registrar estas estadística
 
 * **Regla 1**: Cada registro de actividad de correo electrónico se establece en uno y solo en uno de los siguientes: _Entregado_, _Rebote duro_, _Rebote suave_ o _Pendiente_.
 
-* **Regla 2**: Si el registro de correo electrónico muestra *Abierta*, se cuenta como *Entregada*.
+* **Regla 2**: Si el registro de correo electrónico muestra *[!UICONTROL Abierta]*, se cuenta como *Entregada*.
 
-* **Regla 3**: Si el registro de correo electrónico muestra _Correo electrónico en el que se hizo clic_ o _Se canceló la suscripción_, se cuenta como _Entregado_ y _Abierto_.
+* **Regla 3**: Si el registro de correo electrónico muestra _[!UICONTROL Correo electrónico en el que se hizo clic]_ o _[!UICONTROL Se canceló la suscripción]_, se cuenta como _Entregado_ y _Abierto_.
 
-* **Regla 4**: Si el correo electrónico es _Abierto_, se omiten las devoluciones. Si el correo electrónico no se ha abierto, _Devuelto fuerte_ tiene prioridad sobre _Devuelto leve_ y _Entregado_.
+* **Regla 4**: Si el correo electrónico es _[!UICONTROL Abierto]_, se omiten las devoluciones. Si el correo electrónico no se ha abierto, _Devuelto fuerte_ tiene prioridad sobre _Devuelto leve_ y _Entregado_.
 
 * **Regla 5**: Si no se recibe ninguna actividad de correo electrónico tres días después de su envío, se considera _Anulada_.
 

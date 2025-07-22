@@ -4,10 +4,10 @@ description: 'Añadir contenido a un fragmento de código: documentos de Marketo
 title: Añadir contenido a un fragmento
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
 
@@ -21,31 +21,31 @@ Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento de 
 
 >[!NOTE]
 >
->No puede incrustar ninguna [sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos de código; **no** funcionará en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna [sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos de código; **no** funcionará en un correo electrónico. Los fragmentos de código deben ser solo contenido principal (HTML + TEXT).
 
-1. Vaya a **Design Studio**.
+1. Vaya a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Seleccione su **fragmento** y haga clic en **Editar borrador**.
+1. Seleccione su **fragmento** y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 Puede agregar tres tipos de contenido a un fragmento de código.
 
-## Añadir token {#add-token}
+## Agregar [!UICONTROL token] {#add-token}
 
-1. Arrastre y suelte el elemento **Token**.
+1. Arrastre y suelte el elemento **[!UICONTROL Token]**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Escriba **Token** y haga clic en **Insertar**.
+1. Escriba **[!UICONTROL Token]** y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Añadir imagen/archivo {#add-image-file}
 
-1. Arrastre y suelte el elemento **Image/File**.
+1. Arrastre y suelte el elemento **[!UICONTROL Image/File]**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Puede agregar tres tipos de contenido a un fragmento de código.
    >
    >Puede agregar sus propias imágenes o archivos a Marketo. Más información sobre [imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Seleccione la **imagen** que desea usar y haga clic en **Insertar**.
+1. Seleccione la **imagen** que desea usar y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -63,7 +63,7 @@ Puede agregar tres tipos de contenido a un fragmento de código.
 
 ## Agregar texto {#add-text}
 
-1. Escriba en el área Versión de HTML para añadir texto.
+1. Escriba en el área Versión de HTML para agregar texto.
 
    ![](assets/image2014-9-16-9-3a35-3a43.png)
 
@@ -71,11 +71,11 @@ Puede agregar tres tipos de contenido a un fragmento de código.
    >
    >Utilice las herramientas de formato para personalizar el texto.
 
-1. Para correos electrónicos, haz clic en la ficha **Versión de texto**.
+1. Para correos electrónicos, haga clic en la ficha **[!UICONTROL Versión de texto (para correos electrónicos)]**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Haga clic en **Copiar del HTML**.
+1. Haga clic en **[!UICONTROL Copiar de HTML]**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

@@ -4,75 +4,75 @@ description: Conexión de correo electrónico para usuarios de Outlook - Documen
 title: Conexión de correo electrónico para usuarios de Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 1%
+source-wordcount: '305'
+ht-degree: 0%
 
 ---
 
-# Conexión de correo electrónico para usuarios de Outlook {#email-connection-for-outlook-users}
+# Conexión de correo electrónico para usuarios de [!DNL Outlook] {#email-connection-for-outlook-users}
 
-Obtenga información sobre cómo conectar su cuenta de Sales Connect con Outlook.
+Aprenda a conectar su cuenta de [!DNL Sales Connect] con [!DNL Outlook].
 
 >[!NOTE]
 >
->Cada usuario debe conectarse a Outlook desde su cuenta de Sales Connect.
+>Cada usuario debe conectarse a [!DNL Outlook] desde su cuenta de [!DNL Sales Connect].
 
-## Conectarse a Outlook Online {#connecting-to-outlook-online}
+## Conectando con [!DNL Outlook] en línea {#connecting-to-outlook-online}
 
-La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
+Conectarse a [!DNL Outlook] significa que recibirá seguimiento de respuestas, acceso al canal de entrega [!DNL Outlook], la capacidad de programar correos electrónicos en [!DNL Outlook] y enviar conformidad.
 
-1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En [!DNL Sales Connect], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
+1. En Mi cuenta, seleccione **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Conexión de correo electrónico**.
+1. Haga clic en la ficha **[!UICONTROL Conexión de correo electrónico]**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **[!UICONTROL Comenzar]**.
 
    ![](assets/four.png)
 
-1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
+1. Seleccione **[!UICONTROL Utilizo Outlook para enviar mensajes de correo electrónico]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/five-a.png)
 
-1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Outlook en línea.
+1. Seleccione la versión de [!DNL Outlook] que está usando y haga clic en **[!UICONTROL Siguiente]**. En este ejemplo elegimos [!DNL Outlook Online].
 
    ![](assets/six-a.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>También conocido como Exchange Online</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td> 
+      <td>También conocido como [!DNL Exchange Online]</td> 
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Incluye Exchange 2013 y 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td> 
+      <td>Incluye [!DNL Exchange] 2013 y 2016</td> 
      </tr>
     </tbody>
    </table>
 
    >[!NOTE]
    >
-   >Marketo no admite cuentas híbridas de Exchange en este momento.
+   >Marketo no admite cuentas de [!DNL Exchange Hybrid] en este momento.
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/seven-a.png)
 
-1. Si no ha iniciado sesión en Outlook, escriba su información de inicio de sesión y haga clic en **Siguiente**. Si es así, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no inició sesión en [!DNL Outlook], ingrese su información de inicio de sesión y haga clic en **[!UICONTROL Siguiente]**. Si es así, elija la cuenta a la que desea conectarse y haga clic en **[!UICONTROL Siguiente]**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/eight-a.png)
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/nine-a.png)
 
@@ -80,59 +80,59 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) aplica sus propios límites de envío. [Obtenga más información aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)] impone sus propios límites de envío. [Obtenga más información aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Conectarse a Exchange local {#connecting-to-exchange-on-premise}
+## Conectando con [!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 
-La conexión a Exchange local significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
+Conectarse a [!DNL Exchange On-Premise] significa que recibirá seguimiento de respuestas, acceso al canal de entrega [!DNL Outlook], la capacidad de programar correos electrónicos en [!DNL Outlook] y enviar conformidad.
 
-1. En Sales Connect, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En [!DNL Sales Connect], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
+1. En [!UICONTROL Mi cuenta], seleccione **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Conexión de correo electrónico**.
+1. Haga clic en la ficha **[!UICONTROL Conexión de correo electrónico]**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **[!UICONTROL Comenzar]**.
 
    ![](assets/four.png)
 
-1. Seleccione **Utilizo Outlook para enviar mensajes de correo electrónico** y haga clic en **Siguiente**.
+1. Seleccione **[!UICONTROL Utilizo Outlook para enviar mensajes de correo electrónico]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/five-a.png)
 
-1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Exchange On-Premise.
+1. Seleccione la versión de [!DNL Outlook] que está usando y haga clic en **[!UICONTROL Siguiente]**. En este ejemplo elegimos [!DNL Exchange On-premise].
 
    ![](assets/six-b.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>También conocido como Exchange Online</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td> 
+      <td>También conocido como [!DNL Exchange Online]</td> 
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Incluye Exchange 2013 y 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td> 
+      <td>Incluye [!DNL Exchange] 2013 y 2016</td> 
      </tr>
     </tbody>
    </table>
 
-1. Escriba sus credenciales y haga clic en **Conectar**.
+1. Escriba sus credenciales y haga clic en **[!UICONTROL Conectar]**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >Si desactiva Detección automática en la lista desplegable Versión de Exchange, tendrá que solicitar a su departamento de TI la URL de Exchange.
+   >Si desactiva Detección automática en la lista desplegable Versión de [!DNL Exchange], tendrá que pedirle a su departamento de TI la URL [!DNL Exchange].
 
    Puede utilizar esta conexión para rastrear correos electrónicos y también como canal de envío.
 
    >[!NOTE]
    >
-   >Al utilizar Exchange local, su equipo de TI establecerá el límite de envío de correo electrónico.
+   >Al usar [!DNL Exchange On-prem], su equipo de TI establecerá el límite de envíos de correo electrónico.

@@ -4,7 +4,7 @@ description: Cambio del tiempo de caducidad de las direcciones URL en los correo
 title: Cambio del tiempo de caducidad de las direcciones URL en los correos electrónicos del informe
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 1%
@@ -19,15 +19,15 @@ ht-degree: 1%
 
 Los vínculos de los correos electrónicos de suscripción al informe caducan al cabo de tres días. Para cambiar la hora de caducidad de estos vínculos, siga estos pasos.
 
-1. En **Administrador**, haga clic en **Configuración de inicio de sesión**.
+1. En **[!UICONTROL Administrador]**, haga clic en **[!UICONTROL Configuración de inicio de sesión]**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Haga clic en el botón **Editar caducidad de la URL**.
+1. Haga clic en el botón **[!UICONTROL Editar caducidad de la URL]**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. En el menú desplegable, seleccione cuántos días quedan para que caduque el vínculo. Haga clic en **Guardar**.
+1. En el menú desplegable, seleccione cuántos días quedan para que caduque el vínculo. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

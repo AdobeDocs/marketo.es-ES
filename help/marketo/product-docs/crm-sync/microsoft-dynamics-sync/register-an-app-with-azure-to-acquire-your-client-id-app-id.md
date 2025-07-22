@@ -4,16 +4,16 @@ description: 'Registre una aplicación con Azure para adquirir su ID de cliente 
 title: Registre una aplicación con Azure para adquirir su ID de cliente o ID de aplicación
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # Registre una aplicación con Azure para adquirir su ID de cliente o ID de aplicación {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory amplía los directorios locales en la nube y proporciona compatibilidad con MS Dynamics 365 CRM con autenticación ADFS local.
+Azure Active Directory extiende sus directorios locales a la nube, lo que proporciona compatibilidad con [!DNL MS Dynamics 365] CRM con autenticación ADFS local.
 
 ## Registro de una aplicación nueva {#registering-a-new-app}
 
@@ -21,20 +21,20 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    >[!CAUTION]
    >
-   >Debe utilizar una cuenta con la misma suscripción de Office 365 con la que desea registrar la aplicación.
+   >Debe utilizar una cuenta con la misma suscripción [!DNL Office 365] con la que desea registrar la aplicación.
 
    >[!NOTE]
    >
-   >Si no tienes una cuenta de Azure, puedes [registrarte](https://azure.microsoft.com/en-us/free/){target="_blank"} para una. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
+   >Si no tiene una cuenta de Azure, puede [registrarse](https://azure.microsoft.com/en-us/free/){target="_blank"} para obtener una. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
    >
    >
-   >Si tiene una cuenta de Azure pero su suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} para asociar las dos cuentas.
+   >Si tiene una cuenta de Azure pero su suscripción de [!DNL Office 365] con [!DNL Microsoft Dynamics 365] no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} para asociar las dos cuentas.
 
 1. Busque **[!UICONTROL Azure Active Directory]** y haga clic en él en el panel de navegación izquierdo.
 
    ![](assets/two.png)
 
-1. En Administrar, haga clic en **[!UICONTROL Registros de aplicaciones]**.
+1. En [!UICONTROL Administrar], haga clic en **[!UICONTROL Registros de aplicaciones]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    ![](assets/seven.png)
 
-1. En Administrar, haga clic en **[!UICONTROL Permisos de API]**.
+1. En [!UICONTROL Administrar], haga clic en **[!UICONTROL Permisos de API]**.
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory amplía los directorios locales en la nube y proporciona 
 
    ![](assets/ten.png)
 
-1. Marque la casilla **[!UICONTROL Acceder al servicio de datos comunes como usuarios de la organización]** y luego haga clic en **[!UICONTROL Agregar permisos]**.
+1. Marque la casilla **[!UICONTROL Acceder al servicio de datos comunes como usuarios de la organización]** y luego haga clic en **[!UICONTROL Agregar permisos].**
 
    ![](assets/eleven.png)
 

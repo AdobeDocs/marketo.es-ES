@@ -4,7 +4,7 @@ description: Buscar todos los posibles clientes en un modelo del ciclo de ingres
 title: Buscar todos los posibles clientes en un modelo del ciclo de ingresos
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -19,29 +19,29 @@ Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con la lista inteligente seleccionada, haga clic en la ficha **Lista inteligente**.
+1. Con la lista inteligente seleccionada, haga clic en la ficha **[!UICONTROL Lista inteligente]**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Busque el filtro **Miembro del modelo de ingresos** y arrástrelo al lienzo.
+1. Busque el filtro **[!UICONTROL Miembro del modelo de ingresos]** y arrástrelo al lienzo.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleccionar un **modelo**.
+1. Seleccionar un **[!UICONTROL modelo]**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Esto le daría todos los posibles clientes de ese modelo, independientemente del escenario. Por lo general, usted querrá una etapa específica. Utilice el siguiente filtro en su lugar.
 
-1. Busque el filtro **Ingreso Stage** y arrástrelo al lienzo.
+1. Busque el filtro **[!UICONTROL Ingreso Stage]** y arrástrelo al lienzo.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleccione un **escenario**.
+1. Seleccione un **[!UICONTROL escenario]**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vaya a la pestaña **Posibles clientes** para ver los resultados.
+1. Vaya a la pestaña **[!UICONTROL Posibles clientes]** para ver los resultados.
 
    ![](assets/2.png)
 

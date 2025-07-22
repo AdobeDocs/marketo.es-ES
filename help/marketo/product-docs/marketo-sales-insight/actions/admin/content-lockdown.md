@@ -3,7 +3,7 @@ description: 'Bloqueo de contenido: documentos de Marketo, documentación del pr
 title: Bloqueo del contenido
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 4%
@@ -18,14 +18,14 @@ Al habilitar el bloqueo de contenido, impida que los usuarios que no sean admini
 >
 >Los usuarios aún pueden editar el contenido de un correo electrónico en el momento de enviarlo o al iniciar una campaña.
 
-1. Haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/content-lockdown-1.png)
 
-1. En Configuración de administración, haga clic en **General**.
+1. En [!UICONTROL Configuración de administración], haga clic en **[!UICONTROL General]**.
 
    ![](assets/content-lockdown-2.png)
 
-1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los deslizadores deshabilitará la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
+1. Desplácese hacia abajo hasta [!UICONTROL Bloqueo de contenido]. Activar cualquiera de los deslizadores deshabilitará la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
 
    ![](assets/content-lockdown-3.png)

@@ -4,9 +4,9 @@ description: 'Administración y visualización de miembros: documentos de Market
 title: Administrar y ver miembros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ En la parte inferior de la sección Miembros, utilice el campo de búsqueda para
 
 ## Exportar la cuadrícula de miembros {#export-the-members-grid}
 
-Puede exportar la lista de miembros haciendo clic en el icono de Excel situado junto al campo de búsqueda.
+Puede exportar la lista de miembros haciendo clic en el icono [!DNL Excel] situado junto al campo de búsqueda.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 

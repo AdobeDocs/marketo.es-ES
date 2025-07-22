@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Editar configuración de publicaciones enriquecidas de Facebook {#edit-facebook-rich-post-settings}
+# Editar configuración de publicación enriquecida de [!DNL Facebook] {#edit-facebook-rich-post-settings}
 
-Personalice las publicaciones cuando las personas le compartan en Facebook.
+Personalizar publicaciones cuando las personas lo compartan en [!DNL Facebook].
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Las _aplicaciones sociales_ de Marketo permiten que tus clientes potenciales com
 
 ## Seleccionar opciones de publicación enriquecida {#select-rich-post-options}
 
-Puede especificar los tipos de información de página que se utilizarán en las publicaciones enriquecidas de Facebook generadas por las acciones realizadas desde la página de aterrizaje.
+Puede especificar los tipos de información de página que se usarán en las [!DNL Facebook] publicaciones enriquecidas generadas por los recursos compartidos desde la página de aterrizaje.
 
-1. Seleccione **Mensaje de Facebook** en el editor de su vídeo o botón social de **YouTube**.
+1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social **[!DNL YouTube*]*.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Seleccione entre las siguientes opciones para su mensaje de Facebook.
+1. Seleccione entre las siguientes opciones para su mensaje [!DNL Facebook].
 
    * Añadir contenido estático: seleccione esta opción para introducir el título, el pie de ilustración y la descripción manualmente.
 
@@ -43,23 +43,23 @@ Puede especificar los tipos de información de página que se utilizarán en las
 
    >[!NOTE]
    >
-   >Deberían existir ya en el origen de la página, pero para obtener más control, puede agregar etiquetas OSG de Facebook específicas a la página de aterrizaje.
+   >Deberían existir en el origen de la página, pero para tener más control, puede agregar etiquetas OG específicas de [!DNL Facebook] a la página de aterrizaje.
 
-   * No añadir contenido enriquecido: Limita las publicaciones de Facebook de la página de aterrizaje únicamente al mensaje principal y al vínculo.
+   * No agregar contenido enriquecido: Limita las [!DNL Facebook] publicaciones de la página de aterrizaje únicamente al mensaje principal y al vínculo.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Añadir etiquetas OG de Facebook a una página de aterrizaje {#add-facebook-og-tags-to-a-landing-page}
+## Agregar etiquetas OG [!DNL Facebook] a una página de aterrizaje {#add-facebook-og-tags-to-a-landing-page}
 
-Para controlar los elementos de página que se incluirán en los recursos compartidos de Facebook desde la página de aterrizaje, puede agregar etiquetas OG (Abrir gráfico) de Facebook para el título, el pie de ilustración y la descripción a la página de aterrizaje.
+Para controlar los elementos de página que se incluirán en los recursos compartidos de [!DNL Facebook] desde la página de aterrizaje, puede agregar etiquetas OG (Abrir gráfico) de [!DNL Facebook] para título, rótulo y descripción a la página de aterrizaje.
 
-1. Abra la página de aterrizaje que contiene su **vídeo de YouTube** o botón de red social.
+1. Abra la página de aterrizaje que contiene su **[!DNL YouTube]vídeo** o botón social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   La **página de aterrizaje Designer** se abre en una nueva ventana.
+   La **[!UICONTROL página de aterrizaje Designer]** se abre en una nueva ventana.
 
-1. Seleccione **Acciones de página de aterrizaje** > **Editar metaetiquetas de página**.
+1. Seleccione **[!UICONTROL Acciones de página de aterrizaje]** > **[!UICONTROL Editar metaetiquetas de página]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

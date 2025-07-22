@@ -4,9 +4,9 @@ description: Bloquear plantilla de ventas - Documentos de Marketo - Documentaci�
 title: Bloquear plantilla de ventas
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
 >[!CAUTION]
 >
->Esta función solo funciona para Salesforce y no es compatible con Microsoft Dynamics u otros CRM. Las plantillas a las que se accede desde los complementos de Outlook o Gmail no se bloquearán, ya que el editor no está controlado por Marketo.
+>Esta característica solo funciona para [!DNL Salesforce] y no es compatible con [!DNL Microsoft Dynamics] u otros CRM. Las plantillas a las que se accede desde los complementos de [!DNL Outlook] o Gmail no se bloquearán, ya que Marketo no controla el editor.
 
 ## Habilitar plantilla de bloqueo {#enable-lock-template}
 
@@ -25,15 +25,15 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administrador** y haga clic en **Información de ventas**.
+1. Vaya a **[!UICONTROL Administrador]** y, a continuación, haga clic en **[!UICONTROL Ventas Insight]**.
 
    ![](assets/1.png)
 
-1. En **Configuración**, haga clic en **Editar**.
+1. En **[!UICONTROL Configuración]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/2.png)
 
-1. Marque **Habilitar la capacidad para bloquear plantillas**. Haga clic en **Guardar**.
+1. Marque **[!UICONTROL Habilitar la capacidad para bloquear plantillas]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -47,15 +47,15 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
 ## Bloquear plantilla en el editor de correo electrónico {#lock-template-in-the-email-editor}
 
-1. Seleccione el correo electrónico que desee bloquear y, a continuación, haga clic en **Editar borrador**.
+1. Seleccione el correo electrónico que desee bloquear y, a continuación, haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/5.png)
 
-1. En el editor de correo electrónico, haga clic en **Configuración de correo electrónico**.
+1. En el editor de correo electrónico, haga clic en **[!UICONTROL Configuración de correo electrónico]**.
 
    ![](assets/6.png)
 
-1. Comprueba **Publish to Marketo Sales Insight** si aún no lo está. Ahora puede desmarcar **Permitir que el usuario de CRM edite el correo electrónico** para bloquear la plantilla. Haga clic en **Guardar**.
+1. Marque **[!UICONTROL Publicar en Marketo Sales Insight]** si aún no lo está. Ahora puede desmarcar **[!UICONTROL Permitir que el usuario de CRM edite el correo electrónico]** para bloquear la plantilla. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/7.png)
 

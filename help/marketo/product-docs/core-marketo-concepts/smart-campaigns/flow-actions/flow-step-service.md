@@ -3,16 +3,16 @@ description: 'Servicio de pasos de flujo: documentos de Marketo: documentación 
 title: Servicio de paso de flujo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
 
 # Servicio de paso de flujo {#flow-step-service}
 
-Pasos de flujo de autoservicio es un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en campañas inteligentes de Adobe Marketo Engage. Esta guía está destinada a los usuarios finales Marketo Engage que desean instalar y utilizar servicios que ya se han creado y publicado. Para obtener información sobre cómo crear y publicar su propio servicio, consulte el [repositorio de GitHub para la interfaz de Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [aquí](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Pasos de flujo de autoservicio es un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en campañas inteligentes de Adobe Marketo Engage. Esta guía está dirigida a los usuarios finales de Marketo Engage que deseen instalar y utilizar servicios que ya se han creado y publicado. Para obtener información sobre cómo crear y publicar su propio servicio, consulte el [[!DNL GitHub] repositorio de la interfaz de Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [aquí](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Incorporación y administración de servicios {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ La instalación de un paso de flujo personalizado requiere permisos de administr
 
 ## URL de instalación {#installation-url}
 
-Para comenzar la instalación, primero deberá obtener la URL del documento de OpenAPI que define su servicio. Su proveedor de servicios debe poder proporcionarle esto y normalmente tendrá una dirección URL que termina en `/openapi.json`. Las direcciones URL completas se parecerán a `https://www.example.com/OpenAPI.json`. Una vez que tenga esta URL, vaya al menú Service Providers en la sección Admin.
+Para comenzar la instalación, primero deberá obtener la URL del documento de OpenAPI que define su servicio. Su proveedor de servicios debe poder proporcionarle esto y normalmente tendrá una dirección URL que termina en `/openapi.json`. Las direcciones URL completas se parecerán a `https://www.example.com/OpenAPI.json`. Una vez que tengas esta URL, ve al menú [!UICONTROL Proveedores de servicios] en tu sección [!UICONTROL Administrador].
 
 Haga clic en **[!UICONTROL Siguiente]** para ir a la sección Introducir credenciales de servicio.
 
@@ -90,7 +90,7 @@ Los pasos de flujo instalados se pueden utilizar en gran medida del mismo modo q
 
 ## Actualización de listas de selección {#refreshing-picklists}
 
-Marketo actualizará las opciones de la lista de selección para los servicios todas las noches, pero hay ocasiones en que necesitará nuevas opciones disponibles, como la creación de campañas. Puede actualizarlas fácilmente desde cualquier instancia del paso de flujo con el botón Actualizar o accediendo al menú Administración > Proveedores de servicios y haciendo clic en Actualizar lista de selección una vez que haya seleccionado el servicio.
+Marketo actualizará las opciones de la lista de selección para los servicios todas las noches, pero hay ocasiones en que necesitará nuevas opciones disponibles, como la creación de campañas. Puede actualizarlas fácilmente desde cualquier instancia del paso de flujo con el botón Actualizar o en el menú [!UICONTROL Administración] > [!UICONTROL Proveedores de servicios] y haciendo clic en [!UICONTROL Actualizar lista de selección] una vez que haya seleccionado el servicio.
 
 ## Comprobación de campos entrantes {#checking-incoming-fields}
 

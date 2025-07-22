@@ -4,10 +4,10 @@ description: 'Edición de una etiqueta de campo en un formulario: documentos de 
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utilizar una imagen o borrarla por completo. Así es como se hace.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Seleccione su campo y luego edite la **Etiqueta**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
+1. Seleccione su campo y luego edite la **[!UICONTROL Etiqueta]**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
@@ -31,11 +31,11 @@ Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utili
    >
    >Si quieres ponerte elegante, puedes hacer clic en el ![lápiz](assets/image2014-9-15-17-3a27-3a7.png). Esto abrirá un editor de texto enriquecido y le permitirá ir a la ciudad con imágenes, enlaces y más!
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 

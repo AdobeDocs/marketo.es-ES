@@ -4,34 +4,34 @@ description: Pruebas A/B "Dirección De Origen" - Documentos de Marketo - Docume
 title: Usar la prueba A/B "Dirección de origen"
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Usar la prueba A/B &quot;Dirección de origen&quot; {#use-from-address-a-b-testing}
+# Usar Prueba A/B &quot;[!UICONTROL Dirección De Origen]&quot; {#use-from-address-a-b-testing}
 
-Puede probar fácilmente sus correos electrónicos A/B. Una prueba interesante es la prueba **Dirección de origen**. A continuación se muestra cómo configurarlo.
+Puede probar fácilmente sus correos electrónicos A/B. Una prueba interesante es la prueba **[!UICONTROL Dirección de origen]**. A continuación se muestra cómo configurarlo.
 
 >[!PREREQUISITES]
 >
 >[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. En el mosaico **Correo electrónico**, con el correo electrónico seleccionado, haga clic en **Agregar prueba A/B**.
+1. En el mosaico **[!UICONTROL Correo electrónico]**, con el correo electrónico seleccionado, haga clic en **[!UICONTROL Agregar prueba A/B]**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Se abre una nueva ventana, seleccione **Dirección desde** para **Tipo de prueba**.
+1. Se abre una nueva ventana, seleccione **[!UICONTROL Dirección desde]** para **[!UICONTROL Tipo de prueba]**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **Restablecer prueba**.
+1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic con seguridad en **[!UICONTROL Restablecer prueba]**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Escriba la segunda información **de la dirección** que desee probar.
+1. Escriba la segunda información **[!UICONTROL de la dirección]** que desee probar.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Puede probar fácilmente sus correos electrónicos A/B. Una prueba interesante e
    >
    >Puede hacer clic en **+** para agregar todas las direcciones remitente que desee.
 
-1. Utilice el control deslizante para elegir el porcentaje de audiencia que desea en la prueba A/B y haga clic en **Siguiente**.
+1. Utilice el control deslizante para elegir el porcentaje de audiencia que desea en la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 

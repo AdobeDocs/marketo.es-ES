@@ -4,7 +4,7 @@ description: Información general avanzada sobre informes de programas - Documen
 title: Información general sobre informes de programas avanzados
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Hay un montón de cosas aquí. ¡Vamos a echarles un vistazo!
 
 ## ¿Qué es un área de análisis? {#whats-an-analysis-area}
 
-Cada área de análisis contiene diferentes conjuntos de datos y métricas dentro del Explorador de ingresos. Cada área está relacionada con el tema del sistema de informes que ha elegido ver.
+Cada área de análisis contiene diferentes conjuntos de datos y métricas dentro de [!UICONTROL Explorador de ingresos]. Cada área está relacionada con el tema del sistema de informes que ha elegido ver.
 
 ## Áreas de análisis de programas {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ Cada área de análisis contiene diferentes conjuntos de datos y métricas dentr
 
 * **Analizador de influencia de oportunidad**: pruebe la contribución de marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
 
-## Opciones de informe {#report-options}
+## [!UICONTROL Opciones de informe] {#report-options}
 
 En cada informe hay varias opciones disponibles para ayudarle a personalizar la experiencia.
 
@@ -55,4 +55,4 @@ En cada informe hay varias opciones disponibles para ayudarle a personalizar la 
 >
 >Los datos del Explorador del ciclo de ingresos se actualizan todas las noches desde la instancia de Marketo. Por lo tanto, cualquier cambio en la actividad de persona y cuenta dentro de Marketo se reflejará al siguiente día hábil en el Explorador del ciclo de ingresos.
 
-Familiarizarse con Revenue Analytics le proporcionará una perspectiva completa de sus programas y su impacto.
+Familiarizarse con Revenue Analytics le proporcionará una insight completa sobre sus programas y su impacto.

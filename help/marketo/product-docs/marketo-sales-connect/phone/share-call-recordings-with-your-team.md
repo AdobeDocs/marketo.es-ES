@@ -4,9 +4,9 @@ description: Uso compartido de grabaciones de llamadas con su equipo - Documento
 title: Compartir grabaciones de llamadas con su equipo
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ El teléfono de ventas te permite grabar y guardar tus grabaciones de llamadas. 
 
 1. Abra los detalles de la persona.
 
-1. Busque la actividad Llamar en la lista de actividades.
+1. Busque la [!UICONTROL Actividad de llamada] en la lista de actividades.
 
 1. Haga clic con el botón derecho en la grabación de la llamada y copie la URL del vínculo.
 
-## Copiar vínculo de grabación de la tarea de Salesforce {#copy-recording-link-from-the-salesforce-task}
+## Copiar vínculo de grabación de la tarea [!DNL Salesforce] {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Para obtener este vínculo, debe tener las llamadas registrándose en Salesforce.
+>Necesitará que sus llamadas se registren en [!DNL Salesforce] para obtener este vínculo.
 
-1. Vaya a la tarea creada en Salesforce para la llamada.
+1. Vaya a la tarea creada en [!DNL Salesforce] para la llamada.
 
 1. Copie el vínculo que aparece en el campo Registro de llamadas de ventas.
 
