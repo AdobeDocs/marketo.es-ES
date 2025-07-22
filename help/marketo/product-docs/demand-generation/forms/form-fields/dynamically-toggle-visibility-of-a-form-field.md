@@ -69,6 +69,6 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 
 >[!IMPORTANT]
 >
->El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
 >
 >Es posible que los campos condicionales no funcionen según lo esperado si los valores de los campos los modifican scripts externos que no sean la API de JavaScript de Forms 2.0.

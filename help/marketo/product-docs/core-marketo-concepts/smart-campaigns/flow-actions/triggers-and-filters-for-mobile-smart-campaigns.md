@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 
