@@ -34,7 +34,7 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. En el Generador de audiencias, haga clic en **[!UICONTROL Secuencias]** y **[!UICONTROL Busque los datos RTP]** en [!UICONTROL Dimensiones personalizadas], [!UICONTROL [.]Variables personalizadas UICONTROL], [!UICONTROL Eventos].
+1. En el Generador de audiencias, haga clic en **[!UICONTROL Secuencias]** y **[!UICONTROL Busque los datos RTP]** en [!UICONTROL Dimensiones personalizadas], [!UICONTROL UICONTROL [.]Variables personalizadas &#x200B;], [!UICONTROL Eventos].
 
 >[!TIP]
 >

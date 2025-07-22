@@ -26,7 +26,7 @@ Hay dos escenarios principales cuando [se programa un correo electrónico](/help
 1. Programando el programa para que se ejecute en las próximas 25 horas.
 1. Programar el programa para que se ejecute durante más de 25 horas en el futuro (es decir, la semana que viene).
 
-Para adaptarse a cada zona horaria, los programas de correo electrónico programados con la zona horaria del destinatario [!UICONTROL 1} comienzan a ejecutarse a medianoche en la zona horaria ]primero/más temprano **del mundo (UTC +14**).:00
+Para adaptarse a cada zona horaria, los programas de correo electrónico programados con la zona horaria del destinatario [!UICONTROL 1&rbrace; comienzan a ejecutarse a medianoche en la zona horaria &#x200B;]primero/más temprano **del mundo (UTC +14**).:00
 
 ## Programas de participación {#engagement-programs}
 

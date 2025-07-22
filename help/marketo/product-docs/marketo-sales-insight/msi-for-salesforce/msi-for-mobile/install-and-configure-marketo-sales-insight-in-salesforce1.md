@@ -33,7 +33,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNLBmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
+>[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNL Bmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
 
 ## Habilitar la aplicación móvil [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 

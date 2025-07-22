@@ -43,6 +43,7 @@ En esta publicación se explica cómo configurar e integrar la plataforma [!DNL 
    1. Seleccione la **[!UICONTROL cuenta].**
    1. Seleccione la **[!UICONTROL propiedad].**
    1. Seleccione **[!UICONTROL definiciones personalizadas]** y **[!UICONTROL dimensiones personalizadas]**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Añada una nueva dimensión personalizada. Haga clic en **[!UICONTROL +Nuevo Dimension personalizado]**
@@ -103,7 +104,7 @@ Una vez que haya activado las dimensiones personalizadas en GUA, vaya a la plata
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **[!UICONTROL Google Universal Analytics]**.
-1. Active **[!UICONTROL 1} las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
+1. Active **[!UICONTROL 1&rbrace; las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
 1. Escriba el **[!UICONTROL número de índice]** de la dimensión alineado con el número de índice en GUA.
 1. Haga clic en **[!UICONTROL Guardar]**.
 

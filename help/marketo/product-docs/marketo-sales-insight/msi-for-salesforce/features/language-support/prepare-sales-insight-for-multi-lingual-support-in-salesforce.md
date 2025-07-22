@@ -55,7 +55,7 @@ Marketo Sales Insight se almacena por idioma. Por lo tanto, si desea que funcion
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API ]**detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API &#x200B;]**&#x200B;detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
