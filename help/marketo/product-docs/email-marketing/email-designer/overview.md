@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '856'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ El diseñador de correo electrónico es la última innovación en Marketo Engage
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 
@@ -53,8 +53,6 @@ Para acceder al nuevo diseñador de correo electrónico, la suscripción de Mark
 * [Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: aprenda a crear y utilizar fragmentos de contenido visual como componentes reutilizables para correos electrónicos y plantillas de correo electrónico.
 
 * [Fragmentos personalizables](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Aprenda a personalizar fragmentos haciendo que algunos de sus campos sean editables.
-
-* [Tokens de Personalization](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Obtenga información acerca del nuevo formato para los tokens de personalización en el nuevo diseñador de correo electrónico.
 
 * [Trabaje con recursos de AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Aprenda a acceder fácilmente a sus recursos digitales de AEM para usarlos en Marketo Engage.
 
