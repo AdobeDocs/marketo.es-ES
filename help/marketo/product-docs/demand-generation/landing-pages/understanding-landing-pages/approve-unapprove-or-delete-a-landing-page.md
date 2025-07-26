@@ -4,85 +4,73 @@ description: 'Aprobación, desaprobación o eliminación de una página de aterr
 title: Aprobar, desaprobar o eliminar una página de aterrizaje
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Aprobar, desaprobar o eliminar una página de aterrizaje {#approve-unapprove-or-delete-a-landing-page}
 
-Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La aprobación hace que las páginas estén disponibles en el resto del sistema. Cuando edita una página de aterrizaje aprobada, Marketo guarda el borrador, pero continúa utilizando la versión aprobada hasta que apruebe el borrador.
+Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La aprobación hace que las páginas estén disponibles en el resto del sistema. Cuando edita una página de aterrizaje aprobada, Marketo Engage guarda el borrador, pero continúa utilizando la versión aprobada hasta que apruebe el borrador.
 
 ## Aprobar una página de aterrizaje {#approve-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Aprobar]**.
+1. Seleccione la página de aterrizaje deseada, haga clic y luego haga clic en **[!UICONTROL Aprobar borrador]**.
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 
    >[!TIP]
    >
-   >Puedes [aprobar varias páginas a la vez](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar tu vida.
+   >Si lo desea, puede [aprobar varias páginas a la vez](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md).
 
-   ![](assets/image2014-9-16-15-3a28-3a22.png)
+También puedes hacer clic con el botón derecho en tu página de aterrizaje en la barra de navegación izquierda y seleccionar **[!UICONTROL Aprobar]**.
 
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Aprobar]**.
-
-   ![](assets/image2014-9-16-15-3a30-3a4.png)
-
-   >[!NOTE]
-   >
-   >Una vez aprobado, el icono de la página de aterrizaje tendrá una marca de verificación verde.
-
-## Desaprobar una página de aterrizaje {#unapprove-a-landing-page}
-
-1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Desaprobar]**.
-
-   ![](assets/image2014-9-16-15-3a31-3a8.png)
-
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Desaprobar]**.
-
-   ![](assets/image2014-9-16-15-3a31-3a34.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
 
 >[!NOTE]
 >
->La página de aterrizaje no aprobada ya no se publica en la web y no genera actividad adicional. Los visitantes de páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Una página de aterrizaje aprobada tiene una marca de verificación verde añadida.
+
+## Desaprobar una página de aterrizaje {#unapprove-a-landing-page}
+
+1. Seleccione la página de aterrizaje deseada y haga clic en **[!UICONTROL Desaprobar]**.
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-3.png)
+
+También puede hacer clic con el botón derecho en la página de aterrizaje en la barra de navegación izquierda y seleccionar **[!UICONTROL Desaprobar]**.
+
+![](assets/approve-unapprove-or-delete-a-landing-page-4.png)
+
+>[!NOTE]
+>
+>Su página de aterrizaje no aprobada ya no se publica en la web y no generará ninguna actividad adicional. Los visitantes de páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminar una página de aterrizaje {#delete-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a **[!UICONTROL Acciones de página de aterrizaje]** y haga clic en **[!UICONTROL Eliminar]**.
+1. Seleccione la página de aterrizaje que desee. Haga clic en el menú desplegable **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Eliminar]**.
 
-   ![](assets/image2014-9-16-15-3a49-3a59.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >No puede eliminar una página de aterrizaje aprobada. Desapruébelo primero.
+   >No puede eliminar una página de aterrizaje aprobada. Primero debe desaprobarla.
 
-1. También puedes hacer clic con el botón derecho en tu página de aterrizaje y hacer clic en **[!UICONTROL Eliminar]**.
+También puede hacer clic con el botón derecho en la página de aterrizaje en la barra de navegación izquierda y seleccionar **[!UICONTROL Eliminar]**.
 
-   ![](assets/image2014-9-16-15-3a50-3a40.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-6.png)
 
 ## Eliminar varias páginas de aterrizaje {#delete-multiple-landing-pages}
 
-¿Quiere eliminar más de una página de aterrizaje a la vez? Así es como.
+1. En la pantalla principal de [!UICONTROL Design Studio], haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 
-1. En [!UICONTROL Design Studio], haga clic en **[!UICONTROL Páginas de destino]**.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-   ![](assets/one.png)
+1. Seleccione las páginas de aterrizaje que desee. Haga clic en el menú desplegable **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Eliminar]**.
 
-1. Haga clic en la primera página de aterrizaje que desee eliminar y, a continuación, Mayús + clic en la última.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-   ![](assets/two.png)
+1. Haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
-   >[!TIP]
-   >
-   >También puede utilizar Ctrl+clic para eliminar varias páginas de aterrizaje que no sean secuenciales.
-
-1. Haga clic en el menú desplegable **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Eliminar]**.
-
-   ![](assets/three.png)
-
-1. Haga clic en **[!UICONTROL Eliminar]**.
-
-   ![](assets/four.png)
-
-¡Fantástico! Ahora sabe cómo aprobar, desaprobar y eliminar páginas de aterrizaje.
+   ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)
