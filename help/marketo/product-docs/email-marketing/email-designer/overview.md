@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '852'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ El diseñador de correo electrónico es la última innovación en Marketo Engage
 
 +++Obtenga información sobre cómo acceder al diseñador de correo electrónico
 
-Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adición de usuarios {#add-users}
 
@@ -114,4 +114,4 @@ Si inicias sesión en Marketo Engage a través de [Adobe Experience Cloud](https
 
 **¿Qué exploradores puedo usar con el nuevo Designer de correo electrónico?**
 
-Se recomienda utilizar Google Chrome, Apple Safari o Microsoft Edge. La compatibilidad total con Mozilla Firefox estará disponible próximamente.
+Se recomienda utilizar Google Chrome, Apple Safari, Microsoft Edge o Mozilla Firefox en este momento.

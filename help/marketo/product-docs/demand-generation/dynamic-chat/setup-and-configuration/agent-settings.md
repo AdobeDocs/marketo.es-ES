@@ -3,10 +3,10 @@ description: Configuración del agente - Documentos de Marketo - Documentación 
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 2%
+source-wordcount: '605'
+ht-degree: 1%
 
 ---
 
@@ -90,7 +90,9 @@ Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de 
 
 >[!IMPORTANT]
 >
->La opción de [disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que ingresaste en la pestaña Disponibilidad de Live Chat. Por lo tanto, si está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no necesita alterar la configuración de su agente. El estado de la opción Disponibilidad permanecerá hasta que la cambie manualmente o hasta que llegue el siguiente bloque de tiempo de disponibilidad.
+>* La opción de [disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que se ha introducido en la pestaña _Disponibilidad del chat en vivo_. Por lo tanto, si el agente está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no es necesario que modifique la configuración de su agente. El estado de cambio de disponibilidad permanecerá hasta que se cambie manualmente, hasta que se alcance el siguiente bloque de tiempo de disponibilidad del agente o hasta la medianoche del huso horario especificado por el agente (consulte la siguiente viñeta para obtener más información).
+>
+>* Cuando el agente utiliza el conmutador de disponibilidad para cambiar su estado a &quot;disponible&quot;, su estado se restablece automáticamente (cambia a no disponible) a medianoche del huso horario especificado en su programación de disponibilidad. Si no se especifica ninguna zona horaria, el valor predeterminado es UTC (hora universal coordinada).
 
 >[!TIP]
 >
