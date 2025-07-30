@@ -6,9 +6,9 @@ description: Aprenda a utilizar SpamAssassin para probar el contenido del correo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ SpamAssassin analiza el contenido y asigna una puntuación basada en distintos c
 
    >[!IMPORTANT]
    >
-   >Si la puntuación general es mayor de 5, el correo electrónico puede bloquearse o marcarse como correo no deseado durante la entrega.
+   >Si la puntuación general es mayor de 5, el destinatario puede bloquear el correo electrónico o marcarlo como correo no deseado tras la entrega.
 
 1. Si considera que la puntuación es demasiado alta, edite el contenido en el Designer de correo electrónico en función de los resultados del informe y, a continuación, vuelva a ejecutar el **informe de correo no deseado**.
 
@@ -53,4 +53,4 @@ Cuando la puntuación es de tu agrado, está lista para ser enviada.
 
 >[!NOTE]
 >
->La puntuación de spam se deriva mediante SpamAssassin y las reglas no son propiedad de Adobe. Encontrará más detalles sobre estas reglas en la [documentación de SpamAssassin](https://spamassassin.apache.org/#_blank){target="_blank"}. Se puede ver una lista completa de errores [aquí](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
+>La puntuación de spam se deriva a través de SpamAssassin, y las **reglas no son propiedad de Adobe**. Encontrará más detalles sobre estas reglas en la [documentación de SpamAssassin](https://spamassassin.apache.org/#_blank){target="_blank"}. Se puede ver una lista completa de errores [aquí](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
