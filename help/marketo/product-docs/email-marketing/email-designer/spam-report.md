@@ -6,7 +6,7 @@ description: Aprenda a utilizar SpamAssassin para probar el contenido del correo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
+source-git-commit: 67674c3e1ce7614d7f7c533b0074e2fbc8edfa28
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%
