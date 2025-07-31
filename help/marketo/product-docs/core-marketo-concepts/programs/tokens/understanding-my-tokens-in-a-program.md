@@ -4,9 +4,9 @@ description: 'Explicación de mis tokens en un programa: documentos de Marketo, 
 title: Explicación de mis tokens en un programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 3%
 
 ---
@@ -46,7 +46,7 @@ Ejemplos:
   </tr> 
   <tr> 
    <td>Script de email <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
+   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td> 
   </tr> 
   <tr> 
    <td>Número <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Al crear un nuevo token, otros objetos del árbol pueden hacer referencia a él.
 Puede crear variables globales y luego anularlas en niveles inferiores del árbol.
 
 Mover programas y carpetas también afecta a los tokens. Compruebe siempre que las referencias no estén rotas durante el movimiento.
+
+>[!IMPORTANT]
+>
+>No se admiten tokens anidados en [campañas por lotes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
