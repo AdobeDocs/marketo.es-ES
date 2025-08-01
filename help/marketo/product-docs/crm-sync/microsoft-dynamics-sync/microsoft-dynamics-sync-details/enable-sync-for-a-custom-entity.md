@@ -4,16 +4,16 @@ description: Habilitar la sincronización para una entidad personalizada - Docum
 title: Habilitar sincronización para una entidad personalizada
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Habilitar sincronización para una entidad personalizada {#enable-sync-for-a-custom-entity}
 
-Si necesita que los datos de entidad personalizados de [!DNL Dynamics] estén disponibles en Marketo, así es como se habilita la sincronización.
+Si necesita que los datos de entidad personalizados de [!DNL Dynamics] estén disponibles en Marketo Engage, así es como se habilita la sincronización.
 
 >[!PREREQUISITES]
 >
