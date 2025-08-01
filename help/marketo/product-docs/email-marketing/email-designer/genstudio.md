@@ -37,9 +37,9 @@ Exporte fácilmente una plantilla que incluya las directrices de su marca a GenS
 
    ![Exportando su HTML](assets/genstudio-integration-1.png)
 
-1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
+1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
 
-1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
+1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
 
 ## Aprovechamiento de las experiencias de GenStudio en Marketo Engage {#leverage-genstudio-experiences}
 

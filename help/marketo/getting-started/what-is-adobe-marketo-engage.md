@@ -55,7 +55,7 @@ Sí, hay algunos pasos que debes seguir (o te recomendamos encarecidamente), y [
 
 ## ¿Hay una lista de cosas que cubre límites, como cuántos correos electrónicos totales puedo enviar en una semana? {#list-of-limits}
 
-Sí la hay. Los límites estáticos (y otros parámetros) se describen [en este artículo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Sí la hay. Los límites estáticos (y otros parámetros) se describen [en este artículo](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## ¿Cuánto tiempo mantiene Marketo mis datos? {#data-retention-policy}
 

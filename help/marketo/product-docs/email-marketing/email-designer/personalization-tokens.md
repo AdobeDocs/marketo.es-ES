@@ -25,7 +25,7 @@ El diseñador de correo electrónico tiene un formato diferente al editor de cor
 
 ## Caso de uso principal {#primary-use-case}
 
-Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
+Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
 
 ## Experiencia del token {#token-experience}
 
