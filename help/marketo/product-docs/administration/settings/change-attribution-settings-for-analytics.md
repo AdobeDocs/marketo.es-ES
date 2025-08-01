@@ -4,7 +4,7 @@ description: 'Cambiar la configuración de atribución para Analytics: Documento
 title: Cambiar la configuración de atribución para Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%

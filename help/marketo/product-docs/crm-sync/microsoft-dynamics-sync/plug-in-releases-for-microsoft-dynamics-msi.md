@@ -4,7 +4,7 @@ description: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI - Doc
 title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
@@ -51,84 +51,84 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
 
 ## Actualizaciones de versión {#version-updates}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Fecha de lanzamiento</th> 
-   <th>Versión</th> 
-   <th>Notas</th> 
+<table>
+ <tbody>
+  <tr>
+   <th>Fecha de lanzamiento</th>
+   <th>Versión</th>
+   <th>Notas</th>
   </tr>
-  <tr> 
-   <td>02/14/24</td> 
-   <td>2.00.31</td> 
+  <tr>
+   <td>02/14/24</td>
+   <td>2.00.31</td>
    <td>Cambios en la paginación de la actividad web anónima.
    <p>
-   Cifrar información de clave secreta de la vista de usuario. La contraseña debe cambiarse después de importar el nuevo paquete para que se produzca el cifrado.</td> 
+   Cifrar información de clave secreta de la vista de usuario. La contraseña debe cambiarse después de importar el nuevo paquete para que se produzca el cifrado.</td>
   </tr>
-  <tr> 
-   <td>10/18/23</td> 
-   <td>2.00.30</td> 
-   <td>Consolidar el registro de errores de MSI y eliminar las notificaciones de información para que no se muestren en la entidad de error de Marketo.</td> 
+  <tr>
+   <td>10/18/23</td>
+   <td>2.00.30</td>
+   <td>Consolidar el registro de errores de MSI y eliminar las notificaciones de información para que no se muestren en la entidad de error de Marketo.</td>
   </tr>
-  <tr> 
-   <td>05/19/23</td> 
-   <td>2.00.29</td> 
-   <td>Se han corregido los problemas de paginación de Actividad web y Momentos interesantes en el panel global.</td> 
+  <tr>
+   <td>05/19/23</td>
+   <td>2.00.29</td>
+   <td>Se han corregido los problemas de paginación de Actividad web y Momentos interesantes en el panel global.</td>
   </tr>
-  <tr> 
-   <td>23/03/23</td> 
-   <td>2.00.28</td> 
-   <td>Se creó un <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">nuevo paquete</a> para MSI para conexiones no nativas con CRM.</td> 
+  <tr>
+   <td>23/03/23</td>
+   <td>2.00.28</td>
+   <td>Se creó un <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">nuevo paquete</a> para MSI para conexiones no nativas con CRM.</td>
   </tr>
-  <tr> 
-   <td>02/03/22</td> 
-   <td>2.0.0.27</td> 
-   <td>Diseño de cuenta para perspectivas: momentos interesantes, cambios de puntuación, actividades web, actividades de correo electrónico.</td> 
+  <tr>
+   <td>02/03/22</td>
+   <td>2.0.0.27</td>
+   <td>Diseño de cuenta para perspectivas: momentos interesantes, cambios de puntuación, actividades web, actividades de correo electrónico.</td>
   </tr>
-  <tr> 
-   <td>01/05/22</td> 
-   <td>2.0.0.26</td> 
-   <td>Puntuación de adopción del programa para enviar correo electrónico.</td> 
+  <tr>
+   <td>01/05/22</td>
+   <td>2.0.0.26</td>
+   <td>Puntuación de adopción del programa para enviar correo electrónico.</td>
   </tr>
-  <tr> 
-   <td>28/10/21</td> 
-   <td>2.0.0.25</td> 
-   <td>Métricas de puntuación de adopción de productos, nuevo panel global (actividad web, correo electrónico, resultados más probables).</td> 
+  <tr>
+   <td>28/10/21</td>
+   <td>2.0.0.25</td>
+   <td>Métricas de puntuación de adopción de productos, nuevo panel global (actividad web, correo electrónico, resultados más probables).</td>
   </tr>
-  <tr> 
-   <td>02/10/21</td> 
-   <td>2.0.0.22</td> 
-   <td>Quitar la auditoría automática habilitada y los cambios de documentación en la solución MSI.</td> 
+  <tr>
+   <td>02/10/21</td>
+   <td>2.0.0.22</td>
+   <td>Quitar la auditoría automática habilitada y los cambios de documentación en la solución MSI.</td>
   </tr>
-  <tr> 
-   <td>10/01/20</td> 
-   <td>2.0.0.21</td> 
-   <td>Corrección de errores: Asignar acceso a los campos de configuración de la API MSI a los usuarios con el rol de Insight de ventas.</td> 
-  </tr> 
-  <tr> 
-   <td>20/07/20</td> 
-   <td>2.0.0.20</td> 
-   <td>Corrección de errores: Agregue un mensaje de validación para los registros no sincronizados.</td> 
-  </tr> 
-  <tr> 
-   <td>06/12/20</td> 
-   <td>2.0.0.19</td> 
-   <td>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API de MSD.</td> 
-  </tr> 
-  <tr> 
-   <td>26/05/20</td> 
-   <td>2.0.0.18</td> 
-   <td>Corrección de errores: Para cambiar la validación del ID de rol MSI para mostrar los botones MSI.</td> 
-  </tr> 
-  <tr> 
-   <td>21/05/20</td> 
-   <td>2.0.0.17</td> 
-   <td>Corrección de errores: Mostrar el campo de propietario y hacer que los campos no sean obligatorios.</td> 
-  </tr> 
-  <tr> 
-   <td>28/04/20</td> 
-   <td>2.0.0.16</td> 
-   <td>Corrección de errores: Eliminando la dependencia de vínculo de la configuración del mapa del sitio de MSD CRM.</td> 
-  </tr> 
- </tbody> 
+  <tr>
+   <td>10/01/20</td>
+   <td>2.0.0.21</td>
+   <td>Corrección de errores: Asignar acceso a los campos de configuración de la API MSI a los usuarios con el rol de Insight de ventas.</td>
+  </tr>
+  <tr>
+   <td>20/07/20</td>
+   <td>2.0.0.20</td>
+   <td>Corrección de errores: Agregue un mensaje de validación para los registros no sincronizados.</td>
+  </tr>
+  <tr>
+   <td>06/12/20</td>
+   <td>2.0.0.19</td>
+   <td>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API de MSD.</td>
+  </tr>
+  <tr>
+   <td>26/05/20</td>
+   <td>2.0.0.18</td>
+   <td>Corrección de errores: Para cambiar la validación del ID de rol MSI para mostrar los botones MSI.</td>
+  </tr>
+  <tr>
+   <td>21/05/20</td>
+   <td>2.0.0.17</td>
+   <td>Corrección de errores: Mostrar el campo de propietario y hacer que los campos no sean obligatorios.</td>
+  </tr>
+  <tr>
+   <td>28/04/20</td>
+   <td>2.0.0.16</td>
+   <td>Corrección de errores: Eliminando la dependencia de vínculo de la configuración del mapa del sitio de MSD CRM.</td>
+  </tr>
+ </tbody>
 </table>

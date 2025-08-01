@@ -4,7 +4,7 @@ description: Editar el mensaje "Ver como página web" - Documentos de Marketo - 
 title: Editar el mensaje "Ver como página web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-d
    >
    >La segunda parte `##MKT_TOK##` es la cookie [!UICONTROL munchkin] de esa persona. Se asegura de que se les cookies correctamente cuando hacen clic en el vínculo.
 
-1. Edite las versiones de **[!UICONTROL Ver como HTML de página web]** y **[!UICONTROL Ver como texto de página web]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
+1. Edite las versiones de **[!UICONTROL Ver como página web HTML]** y **[!UICONTROL Ver como página web Text]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -46,7 +46,7 @@ Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-d
 >Asegúrese de evitar:
 >
 >* Añadir direcciones URL adicionales a cualquiera de los cuadros de HTML
->* Poner el HTML en la versión de texto
+>* Incluir HTML en la versión de texto
 
 Ahí lo tienes. Envíe correos electrónicos de prueba para garantizar el formato.
 

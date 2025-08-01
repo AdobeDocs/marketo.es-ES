@@ -4,7 +4,7 @@ description: Puntuación de la cuenta - Documentos de Marketo - Documentación d
 title: Calificación de la cuenta
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 1%
@@ -23,19 +23,19 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 
 ## Ejemplos comunes {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Puntuación de participación de cuenta</strong></td> 
+   <td><strong>Puntuación de participación de cuenta</strong></td>
    <td>Profundidad de participación basada en actividades de comportamiento rastreadas en varios canales (por ejemplo, correo electrónico, web y publicidad) de personas en cuentas de destinatario específicas.</td>
   </tr>
   <tr>
    <td><strong>Puntuación de interés del producto de cuenta</strong></td>
-   <td>Personas de cuentas de Target que muestran interés en el contenido de un producto específico (por ejemplo, descargar un documento técnico).</td> 
+   <td>Personas de cuentas de Target que muestran interés en el contenido de un producto específico (por ejemplo, descargar un documento técnico).</td>
   </tr>
   <tr>
    <td><strong>Puntuación de participación web de cuenta</strong></td>
-   <td>Usuarios de cuentas de Target que visitan el canal Web. Se puede crear la misma puntuación para medir la participación del canal desde el correo electrónico, la publicidad u otros canales.</td> 
+   <td>Usuarios de cuentas de Target que visitan el canal Web. Se puede crear la misma puntuación para medir la participación del canal desde el correo electrónico, la publicidad u otros canales.</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 >
 >Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés de producto de cuenta_ y _Puntuación de participación en la web de cuenta_).
 >
->En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.\
->A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:\
->Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)\
->Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
+>En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.
+>>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
+>>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
+>>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
 
 >[!NOTE]
 >

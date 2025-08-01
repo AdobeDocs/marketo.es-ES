@@ -4,7 +4,7 @@ description: Cambiar un intervalo de tiempo de informe - Documentos de Marketo -
 title: Cambiar un intervalo de tiempo del informe
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Cambie el período de tiempo abarcado por el informe para centrarse en un moment
    >
    >Para establecer fechas específicas, selecciona **[!UICONTROL Personalizado]** en el menú desplegable e ingresa las fechas en los campos de calendario **[!UICONTROL De]** y **[!UICONTROL A]**.
 
-   Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe correspondiente al lapso de tiempo seleccionado.\
+   Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe correspondiente al lapso de tiempo seleccionado.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

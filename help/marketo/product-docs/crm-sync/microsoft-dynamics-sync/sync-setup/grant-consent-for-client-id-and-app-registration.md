@@ -3,7 +3,7 @@ description: Conceder consentimiento para el ID de cliente y el registro de apli
 title: Conceder consentimiento para el ID de cliente y el registro de aplicaciones
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -30,25 +30,25 @@ Siga los pasos a continuación para obtener información sobre cómo conceder el
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>valor client_id</strong></td> 
-      <td>debe ser el client_id generado en el proceso de registro de la aplicación</td> 
-     </tr> 
-     <tr> 
-      <td><strong>valor redirect_uri</strong></td> 
-      <td>debe ser el mismo valor introducido al registrar la aplicación &gt; Redirigir URI</td> 
-     </tr> 
-     <tr> 
-      <td><strong>valor de estado</strong></td> 
-      <td>puede ser cualquier ID (por ejemplo, 12345)</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>valor client_id</strong></td>
+      <td>debe ser el client_id generado en el proceso de registro de la aplicación</td>
+     </tr>
+     <tr>
+      <td><strong>valor redirect_uri</strong></td>
+      <td>debe ser el mismo valor introducido al registrar la aplicación &gt; Redirigir URI</td>
+     </tr>
+     <tr>
+      <td><strong>valor de estado</strong></td>
+      <td>puede ser cualquier ID (por ejemplo, 12345)</td>
+     </tr>
+    </tbody>
    </table>
 
    La dirección URL final debe tener un aspecto similar al siguiente: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`

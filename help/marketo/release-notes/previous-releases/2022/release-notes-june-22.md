@@ -3,7 +3,7 @@ description: 'Notas de la versión, junio de 2022: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%

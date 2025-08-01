@@ -4,7 +4,7 @@ description: Informe de actividad de página web - Documentos de Marketo - Docum
 title: Informe de actividad de página web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -38,46 +38,46 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
    >
    >Para saber quién visita más el sitio, [ordena el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} en la columna _Vistas de página_ y elige Orden descendente.
 
-   [Marketo agrega visitantes anónimos](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} al sitio web a su base de datos y usted puede elegir mostrarlos en este informe. Proporciona una gran cantidad de información, aunque sea anónima.\
+   [Marketo agrega visitantes anónimos](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} al sitio web a su base de datos y usted puede elegir mostrarlos en este informe. Proporciona una gran cantidad de información, aunque sea anónima.
    [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} para un informe de actividad de página web incluyen:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Columna(s)</th> 
-   <th>Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Persona</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Columna(s)</th>
+   <th>Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Persona</td>
    <td>Nombre, título y compañía del visitante.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Haga clic</a></strong> para ver las páginas visitadas.</td>
-  </tr> 
-  <tr> 
-   <td>Primera/última visita (zona horaria)</td> 
-   <td>Fecha y hora de la primera/última visita de cualquier persona de esta compañía.</td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
+  </tr>
+  <tr>
+   <td>Primera/última visita (zona horaria)</td>
+   <td>Fecha y hora de la primera/última visita de cualquier persona de esta compañía.</td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
    <td>Número de páginas cargadas por este visitante.</td>
-  </tr> 
-  <tr> 
-   <td>Persona que recomienda el HTTP</td> 
-   <td>URL de la página que contiene el vínculo que el visitante siguió a su página.</td> 
-  </tr> 
-  <tr> 
-   <td>Página de entrada</td> 
-   <td>Primera página que visitó la persona </td> 
-  </tr> 
-  <tr> 
-   <td>Compañía o ISP inferidos</td> 
-   <td>La compañía, tal como se deduce de la dirección IP de los visitantes. <strong>Los nombres en negrita</strong> indican que se trata de la empresa, no del ISP. </td> 
-  </tr> 
-  <tr> 
-   <td>País, estado/región y ciudad deducidos</td> 
-   <td>Ubicación geográfica del visitante, tal como se deduce de su dirección IP.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>Persona que recomienda el HTTP</td>
+   <td>URL de la página que contiene el vínculo que el visitante siguió a su página.</td>
+  </tr>
+  <tr>
+   <td>Página de entrada</td>
+   <td>Primera página que visitó la persona </td>
+  </tr>
+  <tr>
+   <td>Compañía o ISP inferidos</td>
+   <td>La compañía, tal como se deduce de la dirección IP de los visitantes. <strong>Los nombres en negrita</strong> indican que se trata de la empresa, no del ISP. </td>
+  </tr>
+  <tr>
+   <td>País, estado/región y ciudad deducidos</td>
+   <td>Ubicación geográfica del visitante, tal como se deduce de su dirección IP.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

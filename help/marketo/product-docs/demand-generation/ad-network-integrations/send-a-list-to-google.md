@@ -3,10 +3,10 @@ description: 'Envío de una lista a Google: documentos de Marketo, documentació
 title: Enviar una lista a Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

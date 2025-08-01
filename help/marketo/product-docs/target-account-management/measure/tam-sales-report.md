@@ -4,7 +4,7 @@ description: Informe de ventas de TAM - Documentos de Marketo - Documentación d
 title: Informe de ventas de TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
@@ -30,35 +30,35 @@ El informe comparte:
 
 ## Clave de informe de ventas {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Calificación de la cuenta</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Calificación de la cuenta</span></strong></td>
+   <td>
     <div>
-      Tendencia semanal por puntuación de cuenta (seleccionada en la configuración), seguida de puntuación de cuenta actual 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Canalización de ventas</span></strong></td> 
-   <td> 
+      Tendencia semanal por puntuación de cuenta (seleccionada en la configuración), seguida de puntuación de cuenta actual
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Canalización de ventas</span></strong></td>
+   <td>
     <div>
-      Tendencia semanal por canalización, seguida de la canalización actual total y la cantidad de oportunidades abiertas 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Page Views</span></strong></td> 
-   <td> 
+      Tendencia semanal por canalización, seguida de la canalización actual total y la cantidad de oportunidades abiertas
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Page Views</span></strong></td>
+   <td>
     <div>
-      Tendencia semanal de las vistas de página, seguida de las vistas de página totales y la cantidad de visitantes únicos 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Momentos interesantes</span></strong></td> 
-   <td> 
+      Tendencia semanal de las vistas de página, seguida de las vistas de página totales y la cantidad de visitantes únicos
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Momentos interesantes</span></strong></td>
+   <td>
     <div>
-      Número total de momentos interesantes que se produjeron durante la semana 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Número total de momentos interesantes que se produjeron durante la semana
+    </div></td>
+  </tr>
+ </tbody>
 </table>

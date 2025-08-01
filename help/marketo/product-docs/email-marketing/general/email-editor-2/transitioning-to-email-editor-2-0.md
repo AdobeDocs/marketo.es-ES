@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ De forma predeterminada, todos los correos electrónicos y plantillas de correo 
 
 Si su suscripción tiene correos electrónicos de la versión 1.0 antes del paso a [!DNL Email Editor 2.0], experimentará el siguiente comportamiento según el estado actual del recurso:
 
-**Aprobado**: al hacer clic en &quot;Editar borrador&quot;, se creará un borrador v2.0 del correo electrónico aprobado. Si aprueba el borrador de la versión 2.0, el estado aprobado del correo electrónico pasa a ser la versión 2.0 y no hay forma de volver a la versión 1.0.\
+**Aprobado**: al hacer clic en &quot;Editar borrador&quot;, se creará un borrador v2.0 del correo electrónico aprobado. Si aprueba el borrador de la versión 2.0, el estado aprobado del correo electrónico pasa a ser la versión 2.0 y no hay forma de volver a la versión 1.0.
 **Borrador**: al hacer clic en &quot;Editar borrador&quot;, se marcará automáticamente como v2.0. En este punto, no será posible descartar y volver a la versión 1.0 porque no hay una versión aprobada del recurso.
 **Aprobado con borrador**: al hacer clic en &quot;Editar borrador&quot;, ese borrador se marcará automáticamente como v2.0. Debido a esto, tampoco hay forma de revertir el borrador a v1.0.
 
@@ -40,14 +40,14 @@ Si su suscripción tiene plantillas de correo electrónico v1.0 antes de pasar a
 
 Si aprueba una plantilla de correo electrónico anterior a la versión 1.0 (en cualquiera de los estados anteriores), verá el siguiente comportamiento:
 
-Para los correos electrónicos de la versión 1.0 existentes que utilizaban la plantilla (anteriormente la versión 1.0):\
-**Correo electrónico v1.0 aprobado**: se creará un borrador v2.0 para este correo electrónico, aún con la plantilla v2.0 recién aprobada. También recibirá cualquier cambio en la plantilla.\
-**Correo electrónico de borrador v1.0**: el borrador permanecerá en la versión 1.0 hasta que haga clic en &quot;Editar borrador&quot;. Después, se marcará automáticamente como v2.0 y recibirá cualquier cambio en la plantilla.\
+Para los correos electrónicos de la versión 1.0 existentes que utilizaban la plantilla (anteriormente la versión 1.0):
+**Correo electrónico v1.0 aprobado**: se creará un borrador v2.0 para este correo electrónico, aún con la plantilla v2.0 recién aprobada. También recibirá cualquier cambio en la plantilla.
+**Correo electrónico de borrador v1.0**: el borrador permanecerá en la versión 1.0 hasta que haga clic en &quot;Editar borrador&quot;. Después, se marcará automáticamente como v2.0 y recibirá cualquier cambio en la plantilla.
 **Aprobado con el borrador v1.0 por correo electrónico**: el borrador permanecerá en la versión 1.0 hasta que haga clic en &quot;Editar borrador&quot;. Después, se marcará automáticamente como v2.0 y recibirá cualquier cambio en la plantilla.
 
-Para los correos electrónicos de la versión 2.0 existentes que utilizaban la plantilla (anteriormente la versión 1.0):\
-**Correo electrónico de la versión 2.0 aprobado**: se creará un borrador de la versión 2.0 para este correo electrónico, que seguirá &quot;utilizando&quot; la plantilla recién aprobada y recibirá cualquier cambio en la plantilla.\
-**Correo electrónico de borrador v2.0**: el borrador permanecerá tal cual (v2.0) y recibirá cualquier cambio de plantilla.\
+Para los correos electrónicos de la versión 2.0 existentes que utilizaban la plantilla (anteriormente la versión 1.0):
+**Correo electrónico de la versión 2.0 aprobado**: se creará un borrador de la versión 2.0 para este correo electrónico, que seguirá &quot;utilizando&quot; la plantilla recién aprobada y recibirá cualquier cambio en la plantilla.
+**Correo electrónico de borrador v2.0**: el borrador permanecerá tal cual (v2.0) y recibirá cualquier cambio de plantilla.
 **Aprobado con el borrador v2.0 por correo electrónico**: el borrador permanecerá tal cual (v2.0) y recibirá cualquier cambio de plantilla.
 
 >[!CAUTION]

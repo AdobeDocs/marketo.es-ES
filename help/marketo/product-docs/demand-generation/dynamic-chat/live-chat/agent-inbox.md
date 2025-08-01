@@ -3,7 +3,7 @@ description: Bandeja de entrada del agente - Documentos de Marketo - Documentaci
 title: Bandeja de entrada del agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 1%
@@ -60,7 +60,7 @@ Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic e
 
 >[!NOTE]
 >
->Esta función forma parte de la IA generativa, disponible mediante la suscripción de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>Esta función forma parte de la IA generativa, disponible mediante la suscripción a Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 Los métodos abreviados, con la tecnología de IA generativa [biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), son una excelente manera de obtener ayuda sobre la marcha cuando se chatea con un visitante. Simplemente escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
 
@@ -120,7 +120,7 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
 >[!NOTE]
 >
->Esta función forma parte de la IA generativa, disponible mediante la suscripción de Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>Esta función forma parte de la IA generativa, disponible mediante la suscripción a Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 Resumen de la conversación genera un resumen rápido en tiempo real que incluye los temas por los que el visitante ha expresado interés. Está disponible en la parte inferior derecha de cada pantalla de chat.
 

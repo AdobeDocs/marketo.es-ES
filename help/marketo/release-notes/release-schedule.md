@@ -4,7 +4,7 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%
@@ -26,48 +26,48 @@ ht-degree: 11%
 _Las fechas/características del lanzamiento están sujetas a cambios_
 
 <table>
- <tbody> 
-  <tr> 
+ <tbody>
+  <tr>
    <th width="250px">Versión</th>
    <th width="250px">Fecha de lanzamiento</th>
    <th width="250px">Estado</th>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Enero del 25</a></td>
    <td>17 de enero de 2025</td>
    <td>Enviado</td>
   </tr>
-   <tr> 
+   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Marzo del 25</a></td>
    <td>sábado, 28 de marzo de 2025</td>
    <td>Enviado</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Abril del 25</a></td>
    <td>Abril del 25</td>
    <td>Enviado</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mayo del 25</a></td>
    <td>23 de mayo de 2025</td>
    <td>Enviado</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Julio de 2025</a></td>
    <td>sábado, 11 de julio de 2025</td>
    <td>En curso</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Agosto del 25</td>
    <td>22 de agosto de 2025</td>
    <td>Dentro del horario</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Septiembre de 2025</td>
    <td>19 de septiembre de 2025</td>
    <td>Dentro del horario</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Octubre de 2025</td>
    <td>17 de octubre de 2025</td>
    <td>Dentro del horario</td>

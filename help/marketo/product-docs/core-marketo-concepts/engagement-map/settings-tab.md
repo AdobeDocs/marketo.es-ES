@@ -2,7 +2,7 @@
 description: Pestaña Configuración - Documentos de Marketo - Documentación del producto
 title: Pestaña Configuración
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -46,7 +46,7 @@ El modo de periodicidad incluye la capacidad de configurar una programación rec
 La pestaña Configuración también incluye una breve descripción general de la campaña inteligente. Incluye lo siguiente:
 
 * Estado de la campaña
-* Creada el
+* Creado el
 * Última modificación
 * Modo de lista inteligente
 * Estado de la lista inteligente:

@@ -2,7 +2,8 @@
 description: 'Introducción a seminarios web interactivos: documentos de Marketo, documentación del producto'
 title: Introducción a los seminarios web interactivos
 feature: Interactive Webinars
-source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
+exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%

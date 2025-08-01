@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: "Agregar  [!DNL Webex] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto"
-title: "Agregar [!DNL Webex] como [!DNL LaunchPoint] servicio"
+description: Agregar  [!DNL Webex] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto
+title: Agregar  [!DNL Webex] como [!DNL LaunchPoint] servicio
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Agregar [!DNL Webex] como servicio [!DNL LaunchPoint] {#add-webex-as-a-launchpoint-service}
 
-El Marketo Engage administra el registro y la asistencia a [!DNL Webex] seminario web. Debe tener una suscripción existente a [[!UICONTROL Webex]](https://www.webex.com/).
+Marketo Engage administra el registro y la asistencia a [!DNL Webex] seminarios web. Debe tener una suscripción existente a [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ El Marketo Engage administra el registro y la asistencia a [!DNL Webex] seminari
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Una vez que el inicio de sesión se realice correctamente, la pestaña se cerrará y el modal _New Service_ del Marketo Engage indicará &quot;La cuenta de Webex Webinars está establecida&quot;. Haga clic en **[!UICONTROL Crear]**.
+1. Una vez que el inicio de sesión se realice correctamente, la pestaña se cerrará y el modal _New Service_ de Marketo Engage indicará &quot;La cuenta de Webex Webinars está establecida&quot;. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

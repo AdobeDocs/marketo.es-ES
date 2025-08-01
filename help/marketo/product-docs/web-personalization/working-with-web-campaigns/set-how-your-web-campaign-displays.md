@@ -4,7 +4,7 @@ description: 'Cómo se muestra la campaña web: Documentos de Marketo: documenta
 title: Definición Del Modo En Que Se Muestra La Campaña Web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,21 +43,21 @@ Especifique un retraso (en segundos totales) para que las campañas web reaccion
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Bajo el pliegue]</strong></td> 
-   <td>Muestra la campaña cuando el visitante se desplaza por debajo del pliegue. Campaign desaparece cuando el visitante se desplaza hacia atrás por encima del pliegue.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Porcentaje]</strong></td> 
-   <td>Muestra la campaña cuando el visitante se desplaza a un porcentaje predeterminado de la página.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Píxel]</strong></td> 
-   <td><p>Muestra la campaña cuando el visitante se desplaza al píxel superior predesignado de la página.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Bajo el pliegue]</strong></td>
+   <td>Muestra la campaña cuando el visitante se desplaza por debajo del pliegue. Campaign desaparece cuando el visitante se desplaza hacia atrás por encima del pliegue.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Porcentaje]</strong></td>
+   <td>Muestra la campaña cuando el visitante se desplaza a un porcentaje predeterminado de la página.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Píxel]</strong></td>
+   <td><p>Muestra la campaña cuando el visitante se desplaza al píxel superior predesignado de la página.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Intento de salida {#exit-intent}

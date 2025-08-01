@@ -4,7 +4,7 @@ description: 'Explicación de elementos y variables en plantillas guiadas: docum
 title: Explicación de elementos y variables en plantillas guiadas
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -41,21 +41,21 @@ Las variables son atributos de token que se pueden personalizar desde el editor 
 
 Existen tres tipos de variables: variables de cadena, variables de color y variables booleanas.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>Cadena</td> 
-   <td><p>Texto editable</p><p>Ejemplo: títulos, fechas, etiquetas de botones</p></td> 
-  </tr> 
-  <tr> 
-   <td>Color</td> 
-   <td><p>Código hexadecimal editable para el color</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplo: Color de fondo, color de fuente, color de borde</p></td> 
-  </tr> 
-  <tr> 
-   <td>Booleano</td> 
-   <td><p>Palanca que controla los estados de activación y desactivación de objetos o formatos en la página de aterrizaje</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplos: Mostrar pie de página (Sí/No), Recuento de columnas (1/2), Google Analytics incrustados (True/False)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>Cadena</td>
+   <td><p>Texto editable</p><p>Ejemplo: títulos, fechas, etiquetas de botones</p></td>
+  </tr>
+  <tr>
+   <td>Color</td>
+   <td><p>Código hexadecimal editable para el color</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplo: Color de fondo, color de fuente, color de borde</p></td>
+  </tr>
+  <tr>
+   <td>Booleano</td>
+   <td><p>Palanca que controla los estados de activación y desactivación de objetos o formatos en la página de aterrizaje</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplos: Show Footer (Yes/No), Column Count (1/2), Embed Google Analytics (True/False)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

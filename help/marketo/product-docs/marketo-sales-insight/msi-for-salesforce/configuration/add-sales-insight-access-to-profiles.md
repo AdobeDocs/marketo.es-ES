@@ -3,7 +3,7 @@ description: Añadir el acceso de Insight de ventas a los perfiles - Documentos 
 title: Añadir acceso de Insight de ventas a perfiles
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 4%

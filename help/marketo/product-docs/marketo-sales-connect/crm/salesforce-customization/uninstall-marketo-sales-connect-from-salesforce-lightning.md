@@ -1,15 +1,15 @@
 ---
 description: 'Desinstalación de Marketo Sales Connect desde Salesforce Lightning: Documentos de Marketo: documentación del producto'
-title: Desinstalar Marketo Sales Connect de Salesforce Lightning
+title: Desinstalación de Marketo Sales Connect desde Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 9%
 
 ---
 
-# Desinstalar Marketo Sales Connect de Salesforce Lightning {#uninstall-marketo-sales-connect-from-salesforce-lightning}
+# Desinstalación de Marketo Sales Connect desde Salesforce Lightning {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
 A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect de su cuenta de Salesforce una vez que comience a utilizar las acciones de Sales Insight.
 
@@ -167,7 +167,7 @@ La vista de cuenta solo tiene un botón: &quot;Enviar correo electrónico MSE&qu
 
 ## Quitar bandeja de salida de ventas Marketo {#remove-marketo-sales-outbox}
 
-1. En Salesforce, haga clic en la ficha **+** en la parte superior de la pantalla.
+1. En Salesforce, haga clic en la ficha **+** de la parte superior de la pantalla.
 
 1. Haga clic en **Personalizar mis fichas**.
 
@@ -297,9 +297,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: fecha del último compromiso de marketing</td>
   <td>Marca de tiempo de la participación del marketing</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -307,9 +307,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: Última descripción de participación de marketing</td>
   <td>Descripción de la participación</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -317,9 +317,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: Último Source de participación de marketing</td>
   <td>Participación de Source of Marketing</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -327,9 +327,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: último tipo de participación de marketing</td>
   <td>Tipo de participación (por ejemplo, actividad web)</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -337,9 +337,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC - Última actividad por ventas</td>
   <td>Última actividad saliente realizada por el equipo de ventas</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -347,9 +347,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: última respuesta</td>
   <td>Última respuesta de correo electrónico al correo electrónico de ventas</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -357,9 +357,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: campaña de ventas actual</td>
   <td>Registra el nombre de la campaña de MSC en la que se encuentra el contacto/posible cliente</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -377,9 +377,9 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>MSC: exclusión</td>
   <td>Campo de exclusión</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Casilla de verificación</td>
  </tr>
@@ -395,14 +395,14 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
   <td>Enviar correo electrónico MSC</td>
   <td>Envío de correos electrónicos de ventas desde Salesforce</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
  </tr>
  <tr>
   <td>Añadir a la campaña de MSC</td>
-  <td>Agregar a campañas MSC desde Salesforce</td>
+  <td>Añadir a campañas MSC desde Salesforce</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>
@@ -431,7 +431,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
  </tr>
  <tr>
   <td>Añadir a la campaña de MSC</td>
-  <td>Agregar a campañas MSC desde Salesforce</td>
+  <td>Añadir a campañas MSC desde Salesforce</td>
   <td>
   <p>Contacto
   <p>Posible cliente</td>

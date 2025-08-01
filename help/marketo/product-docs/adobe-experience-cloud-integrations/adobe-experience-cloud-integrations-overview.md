@@ -3,7 +3,7 @@ description: 'Información general sobre las integraciones de Adobe Experience C
 title: Información general sobre integraciones de Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Adobe ofrece una sólida solución de marketing a petición, empezando por la si
 
 * [Enviar una lista a Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Permite sincronizar listas estáticas de personas conocidas desde Marketo Engage a varias aplicaciones de AEC, lo que mejora los programas existentes, desbloquea nuevos casos de uso y organiza campañas multicanal. Esta integración incluye: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager y Adobe Advertising Cloud.
+Permite sincronizar listas estáticas de personas conocidas de Marketo Engage con varias aplicaciones de AEC, lo que mejora los programas existentes, desbloquea nuevos casos de uso y organiza campañas multicanal. Esta integración incluye: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager y Adobe Advertising Cloud.
 
 **Integración de Marketo con Adobe Experience Manager**
 

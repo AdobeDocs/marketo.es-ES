@@ -3,7 +3,7 @@ description: Administrar grupos - Documentos de Marketo - Documentación del pro
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight A
 
 ## Tipos de grupos {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Grupo</th> 
-   <th>Descripción</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Todas las personas]</td> 
-   <td>Todos los contactos de todos los usuarios visibles para usted.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Grupos dinámicos]</td> 
-   <td>Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Mis grupos]</td> 
-   <td>Grupos que ha creado. Pueden contener sus contactos o los contactos que se han compartido con usted.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Grupos de equipo]</td> 
-   <td>Grupos que se han compartido con usted o que han compartido con usted. Pueden contener contactos de sus compañeros o contactos que haya compartido con ellos.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Grupo</th>
+   <th>Descripción</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Todas las personas]</td>
+   <td>Todos los contactos de todos los usuarios visibles para usted.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Grupos dinámicos]</td>
+   <td>Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Mis grupos]</td>
+   <td>Grupos que ha creado. Pueden contener sus contactos o los contactos que se han compartido con usted.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Grupos de equipo]</td>
+   <td>Grupos que se han compartido con usted o que han compartido con usted. Pueden contener contactos de sus compañeros o contactos que haya compartido con ellos.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Crear un grupo {#create-a-group}

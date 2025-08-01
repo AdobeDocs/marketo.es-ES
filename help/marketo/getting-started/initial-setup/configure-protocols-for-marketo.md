@@ -4,7 +4,7 @@ description: 'Configuración de protocolos para Marketo Engage: documentos de Ma
 title: Configuración de protocolos para Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ Agregue el CNAME de la página de aterrizaje que le enviaron a su registro DNS p
 
 `2` **Agregar CNAME para los vínculos de seguimiento de correo electrónico**
 
-Agregue el correo electrónico que le envió el marketing CNAME, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado que Marketo Engage asignó, con el formato:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+Agregue el correo electrónico que le envió el marketing CNAME, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado que Marketo Engage asignó, con el formato:
+`[YourEmailCNAME].[YourDomain].com` EN CNAME `[MktoTrackingLink]`
 
 Por ejemplo:
 
@@ -92,11 +92,11 @@ Su equipo de marketing también debería haberle enviado información de DKIM (D
 
 1. Para configurar SPF, agregue la línea siguiente a las entradas DNS:
 
-   `[CompanyDomain]` EN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~all
+   `[CompanyDomain]` EN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~all
 
-   Si ya tenemos un registro SPF en nuestra entrada DNS, simplemente agréguele lo siguiente:\
-   incluir: mktomail.com
+   Si ya tenemos un registro SPF en nuestra entrada DNS, simplemente agréguele lo siguiente:
+incluir: mktomail.com
 
    Reemplace CompanyDomain por el dominio principal de su sitio web (por ejemplo: &quot;`(company.com/)`&quot;) y CorpIP por la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: &quot;255.255.255.255&quot;) Si va a enviar correos electrónicos desde varios dominios a través de Marketo Engage, debe pedir al personal informático que añada esta línea a cada dominio (en una línea).
 
@@ -192,9 +192,9 @@ Los registros de DMARC tienen varios componentes denominados etiquetas de DMARC.
     <td>fo</td>
     <td>Opcional</td>
     <td>Permite al propietario del dominio especificar las opciones del sistema de informes.</td>
-    <td>0: Generar informe si falla todo 
-    <br>1: Generar informe si algo falla 
-    <br>d: generar informe si falla DKIM 
+    <td>0: Generar informe si falla todo
+    <br>1: Generar informe si algo falla
+    <br>d: generar informe si falla DKIM
     <br>s: generar informe si falla el SPF</td>
     <td>1 (recomendado para informes de DMARC)</td>
   </tr>

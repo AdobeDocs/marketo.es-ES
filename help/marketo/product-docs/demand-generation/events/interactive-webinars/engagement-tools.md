@@ -4,7 +4,7 @@ title: Herramientas de participación en seminarios web interactivos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -21,7 +21,7 @@ CAPTURA DE PANTALLA
 
 ### Compartir {#share}
 
-Se utiliza un pod para compartir contenido en la sala. Se puede utilizar para compartir pantallas, documentos y pizarras. Los tipos de archivo compatibles que se pueden compartir y presentar en un pod de uso compartido son: presentación (PPT, PPTX), documentos (PDF), audio (MP3), vídeo (MP4), imágenes (JPG, PNG), pod personalizado (POD, ZIP). Cualquier contenido cargado persistirá dentro de la sala y estará disponible de inmediato. Para obtener más información sobre Share pod, consulte este artículo de ayuda de Adobe y este vídeo.
+Se utiliza un pod para compartir contenido en la sala. Se puede utilizar para compartir pantallas, documentos y pizarras. Los tipos de archivo compatibles que se pueden compartir y presentar en un pod de uso compartido son presentación (PPT, PPTX), documentos (PDF), audio (MP3), vídeo (MP4), imágenes (JPG, PNG), pod personalizado (POD, ZIP). Cualquier contenido cargado persistirá dentro de la sala y estará disponible de inmediato. Para obtener más información sobre Share pod, consulte este artículo de ayuda de Adobe y este vídeo.
 
 CAPTURA DE PANTALLA
 
@@ -39,7 +39,7 @@ CAPTURA DE PANTALLA
 
 Vídeo
 
-El pod de vídeo se utiliza para compartir fuentes de cámara web. Las cámaras web se pueden organizar en una cuadrícula, tira de película o una sola vista de altavoz. Para obtener más información sobre Video pod, consulte este artículo de ayuda de Adobe.
+El pod de vídeo se utiliza para compartir fuentes de cámara web. Las cámaras web se pueden organizar en una cuadrícula, tira de película o una sola vista de altavoz. Para obtener más información acerca del pod de vídeo, consulte este artículo de ayuda de Adobe.
 
 CAPTURA DE PANTALLA
 
@@ -65,7 +65,7 @@ La vista del presentador del pod de preguntas y respuestas también se puede mov
 
 CAPTURA DE PANTALLA
 
-Para obtener más información sobre el pod de preguntas y respuestas, consulte este artículo de ayuda de Adobe y este vídeo.
+Para obtener más información acerca del pod de preguntas y respuestas, consulte este artículo de ayuda de Adobe y este vídeo.
 
 CAPTURA DE PANTALLA
 

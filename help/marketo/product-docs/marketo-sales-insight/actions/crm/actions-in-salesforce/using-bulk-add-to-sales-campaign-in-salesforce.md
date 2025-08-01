@@ -2,7 +2,7 @@
 description: Uso de la campaña de adición masiva a ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso de la campaña de adición masiva a ventas en Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Uso de la campaña de adición masiva a ventas en Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Aprenda a añadir elementos de forma masiva a la campaña de ventas en Salesforce para escalar la comunicación saliente mediante acciones de ventas.
+Aprenda a añadir elementos por lotes a la campaña de ventas en Salesforce para escalar la comunicación saliente mediante las acciones de ventas.
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ Aprenda a añadir elementos de forma masiva a la campaña de ventas en Salesforc
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ha instalado el [último paquete de Perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} en su instancia de Salesforce y de que ha configurado los [botones de acción](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contacto y lista de posibles clientes de Salesforce.
+>Asegúrese de que ha instalado el [último paquete de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} en su instancia de Salesforce y de que ha configurado los [botones de acción](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contactos y listas de posibles clientes en Salesforce.
 
 ## Añadir masivamente a la campaña de ventas en Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. En Salesforce, vaya a la página de inicio de Posibles clientes/Contactos al hacer clic en la pestaña **Posibles clientes/Contactos**.
+1. En Salesforce, vaya a la página de inicio de los posibles clientes o contactos haciendo clic en la ficha **Posibles clientes o contactos**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 

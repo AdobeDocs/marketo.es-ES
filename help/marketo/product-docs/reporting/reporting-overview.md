@@ -3,7 +3,7 @@ description: Información general de informes - Documentos de Marketo - Document
 title: Información general de informes
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 1%

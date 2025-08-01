@@ -4,7 +4,7 @@ description: 'Adición de una URL de destino a una campaña web: documentos de M
 title: Adición de una URL de destino a una campaña web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
@@ -29,23 +29,23 @@ Se encuentra una dirección URL de destino en la página Definir campaña y defi
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Cualquier página]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Permitir que la campaña aparezca en cualquier página.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Incluir parámetro de URL al hacer coincidir]</strong></p></td> 
-   <td colspan="1" rowspan="1">Añada el parámetro de URL para que coincida y mostrar la campaña en las direcciones URL que incluyen este parámetro. P. ej. campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Cualquier página]</strong></td>
+   <td colspan="1" rowspan="1"><p>Permitir que la campaña aparezca en cualquier página.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Incluir parámetro de URL al hacer coincidir]</strong></p></td>
+   <td colspan="1" rowspan="1">Añada el parámetro de URL para que coincida y mostrar la campaña en las direcciones URL que incluyen este parámetro. P. ej. campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Adición de varias direcciones URL en la dirección URL de destino {#adding-multiple-urls-to-target-url}

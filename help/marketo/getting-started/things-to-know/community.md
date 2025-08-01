@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Comunidad de Adobe Marketo Engage {#marketo-engage-community}
 
-La [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/) (también conocida como el País de mercadotecnia) es el lugar donde puede obtener más información acerca de la instancia de Marketo Engage de otros usuarios, así como de los empleados de Marketo. Antes de saltar, tómese un momento para familiarizarse con las [Directrices de la comunidad](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/) (también conocida como el País de mercadotecnia) es el lugar donde puede obtener más información acerca de su instancia de Marketo Engage de parte de otros usuarios y empleados de Marketo. Antes de saltar, tómese un momento para familiarizarse con las [Directrices de la comunidad](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registre su nombre de usuario {#register-your-username}
 
@@ -46,7 +46,7 @@ CAPTURA DE PANTALLA
 
 >[!TIP]
 >
->Para obtener resultados más amplios, utilice una búsqueda de palabras clave enfocada en lugar de larga cola (por ejemplo, busque &quot;Dynamic Chat&quot; en lugar de &quot;Cómo añado un agente en Dynamic Chat&quot;)
+>Para obtener resultados más amplios, utilice una búsqueda de palabras clave centrada en lugar de una búsqueda larga (por ejemplo, busque &quot;Dynamic Chat&quot; en lugar de &quot;Cómo añado un agente en Dynamic Chat&quot;)
 
 ## Enviar una pregunta {#submit-a-question}
 
@@ -56,7 +56,7 @@ CAPTURA DE PANTALLA
 
 ## Leer entradas de blog {#read-blog-posts}
 
-Esta sección está llena de información útil tanto de los usuarios Marketo Engage (incluidos varios Campeones) como de los empleados de Marketo. Deje los comentarios en la parte inferior cuando necesite información adicional.
+Esta sección está llena de información útil tanto de los usuarios de Marketo Engage (incluidos varios Campeones) como de los empleados de Marketo. Deje los comentarios en la parte inferior cuando necesite información adicional.
 
 CAPTURA DE PANTALLA
 
@@ -78,11 +78,11 @@ Texto
 
 CAPTURA DE PANTALLA
 
-## Combinación de suscripciones de Marketo Engage {#merging-marketo-engage-subscriptions}
+## Combinación de suscripciones a Marketo Engage {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
->Esto solo es aplicable a aquellos que tienen varias suscripciones de Marketo Engage y han creado inadvertidamente varios perfiles al iniciar sesión en la Comunidad del país de marketing.
+>Esto solo es aplicable a aquellos que tienen varias suscripciones a Marketo Engage y han creado varios perfiles de forma involuntaria al iniciar sesión en la Comunidad del país de marketing.
 
 Siga los pasos a continuación para combinar el historial en varios perfiles de comunidad. Se recomienda sobrescribir el perfil de la comunidad que tenga menos actividad de la comunidad, ya que los datos de perfil sobrescritos no se pueden recuperar.
 
@@ -91,11 +91,11 @@ Envíe un correo electrónico a `ccare@marketo.com` para solicitar que los datos
 En su solicitud, especifique los siguientes detalles:
 
 * Su dirección de correo electrónico corporativa
-* La URL principal del perfil de la comunidad asociada a la suscripción de producción del Marketo Engage
+* La URL principal del perfil de comunidad asociado a la suscripción de producción de Marketo Engage.
 * La URL del perfil de la comunidad que desea sobrescribir y combinar.
 
 Nuestro equipo de la comunidad fusionará sus perfiles de la comunidad en 4-6 días hábiles. Una vez finalizado, verá su historial de participación en el perfil principal de la comunidad al iniciar sesión. Si no lo hace, cierre la sesión de su cuenta y vuelva a iniciarla para confirmar.
 
 <br>
 
-Bienvenidos a Marketo Engage, y divertirse explorando el país de marketing!
+Bienvenido a Marketo Engage y diviértase explorando el país de marketing.

@@ -4,7 +4,7 @@ description: Paneles de perspectivas de rendimiento - Documentos de Marketo - Do
 title: Paneles de Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 1%
@@ -51,33 +51,33 @@ El panel [!UICONTROL Canalización] muestra el rendimiento del canal mediante m�
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Nuevas oportunidades</span></strong></p></td> 
-   <td><p>La porción de crédito que recibió el programa por influir en la creación de nuevas oportunidades. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Canalización creada</span></strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Canalización abierta</span></strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades que aún están abiertas. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ingreso esperado</span></strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Ingresos esperados es la probabilidad de oportunidad multiplicada por el valor de oportunidad. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Costo por oportunidad creada</span></strong></p></td> 
-   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Canalización creada a relación de coste</span></strong></p></td> 
-   <td><p>La porción de crédito que recibió un programa por influir en la creación de nuevas oportunidades dividida por la porción del costo del programa que influyó en la creación de oportunidades.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Nuevas oportunidades</span></strong></p></td>
+   <td><p>La porción de crédito que recibió el programa por influir en la creación de nuevas oportunidades. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Canalización creada</span></strong></p></td>
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Canalización abierta</span></strong></p></td>
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades que aún están abiertas. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ingreso esperado</span></strong></p></td>
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Ingresos esperados es la probabilidad de oportunidad multiplicada por el valor de oportunidad. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Costo por oportunidad creada</span></strong></p></td>
+   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Canalización creada a relación de coste</span></strong></p></td>
+   <td><p>La porción de crédito que recibió un programa por influir en la creación de nuevas oportunidades dividida por la porción del costo del programa que influyó en la creación de oportunidades.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Ingresos] {#revenue}
@@ -86,23 +86,23 @@ El panel [!UICONTROL Ingresos] muestra el rendimiento del canal mediante métric
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Oportunidades ganadas</span></strong></p></td> 
-   <td><p>La porción de crédito que recibió un programa por influir en una oportunidad ganada.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ingresos obtenidos</span></strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Costo por oportunidad ganada</span></strong></p></td> 
-   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Relación de ingresos obtenidos y costos</span></strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada dividida por la porción del costo del programa que influyó en nuevas oportunidades.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Oportunidades ganadas</span></strong></p></td>
+   <td><p>La porción de crédito que recibió un programa por influir en una oportunidad ganada.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ingresos obtenidos</span></strong></p></td>
+   <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Costo por oportunidad ganada</span></strong></p></td>
+   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Relación de ingresos obtenidos y costos</span></strong></p></td>
+   <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada dividida por la porción del costo del programa que influyó en nuevas oportunidades.</p></td>
+  </tr>
+ </tbody>
 </table>

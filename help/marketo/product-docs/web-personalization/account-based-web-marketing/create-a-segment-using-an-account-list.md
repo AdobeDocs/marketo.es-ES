@@ -4,7 +4,7 @@ description: 'Creación de un segmento con una lista de cuentas: documentos de M
 title: Creación de segmentos mediante una lista de cuentas
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 4%

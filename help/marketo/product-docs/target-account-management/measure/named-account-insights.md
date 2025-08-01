@@ -4,7 +4,7 @@ description: Información de la cuenta con nombre - Documentos de Marketo - Docu
 title: Perspectivas de cuenta con nombre
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 1%
@@ -33,21 +33,21 @@ El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de 
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Calificación de la cuenta</span></strong></td> 
-   <td><p>Ver la participación de una semana a otra en función de todas las puntuaciones de la cuenta que hayas creado en <span class="uicontrol">Admin</span>. Puede comparar estas puntuaciones de cuenta en paralelo. Para determinar la participación semanal, tomamos la participación máxima de cualquier día de la semana.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">En preparación</span></strong></td> 
-   <td>Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Ingresos</span></strong></td> 
-   <td>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Calificación de la cuenta</span></strong></td>
+   <td><p>Ver la participación de una semana a otra en función de todas las puntuaciones de la cuenta que hayas creado en <span class="uicontrol">Admin</span>. Puede comparar estas puntuaciones de cuenta en paralelo. Para determinar la participación semanal, tomamos la participación máxima de cualquier día de la semana.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">En preparación</span></strong></td>
+   <td>Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Ingresos</span></strong></td>
+   <td>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Momentos interesantes]**

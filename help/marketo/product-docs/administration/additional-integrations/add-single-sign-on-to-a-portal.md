@@ -4,7 +4,7 @@ description: Agregar el inicio de sesión único a un portal - Documentos de Mar
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: 'Definición de una página de reserva: documentos de Marketo, docu
 title: Establecer una página de reserva
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Las páginas de reserva son la última línea de defensa si la página de aterri
 1. Escriba una **[!UICONTROL página de reserva]** en el cuadro de diálogo y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 5%
@@ -287,7 +287,7 @@ ht-degree: 5%
             + [Programar una campaña inteligente por lotes para que se ejecute más tarde](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Programar una campaña por lotes recurrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Configuración de una campaña inteligente de Déclencheur para ventas con &quot;Se solicita la campaña&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [Usando lógica de regla de lista inteligente estándar](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+            + [Uso de la lógica de regla de listas inteligentes estándar](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Acciones de flujo {#flow-actions}
             + [Adición de un paso de flujo a una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [Reordenación de los pasos de flujo en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
@@ -977,7 +977,7 @@ ht-degree: 5%
          + Funciones sociales {#social-functions}
             + [Configuración de LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Uso de una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [Usar filtros y Déclencheur de formulario de generación de clientes potenciales de LinkedIn en una campaña inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Uso de filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + Marketing por correo electrónico {#email-marketing}
       + Entregabilidad {#deliverability}
          + [Cancelación de suscripción duradera](product-docs/email-marketing/deliverability/durable-unsubscribe.md)

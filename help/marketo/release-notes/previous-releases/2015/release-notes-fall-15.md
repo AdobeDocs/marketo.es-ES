@@ -4,9 +4,9 @@ description: 'Notas de la versión, otoño de 2015, Documentos de Marketo: docum
 title: Notas de la versión, otoño de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Se pueden crear varias suscripciones en una lista inteligente. Hay una limitaci�
 
 [Objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Cree fácilmente objetos personalizados desde la IU de administración. Actualmente admitimos la capacidad de crear un objeto personalizado 1:N en Marketo y conectarlo a un posible cliente o compañía.
+Cree fácilmente objetos personalizados desde la IU de administración. Actualmente admitimos la capacidad de crear un objeto personalizado de 1:N en Marketo y conectarlo a un posible cliente o compañía.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Se están realizando varias mejoras en el editor de texto enriquecido. Después 
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Validar sincronización {#microsoft-dynamics-validate-sync}

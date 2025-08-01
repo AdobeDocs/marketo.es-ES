@@ -4,10 +4,10 @@ description: 'Práctica recomendada: Cómo organizar los programas - Documentos 
 title: 'Práctica recomendada: Cómo organizar los programas'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >**Ejemplo**
 >
 >* Programas de marketing activos
->   * Emails
+>   * Correos electrónicos
 >   * Eventos
 >      * Eventos en directo / Jornadas
 >      * Ferias
@@ -46,7 +46,7 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >   * Momentos interesantes
 >   * Emails de ventas
 >   * Campañas solicitadas de ventas
->* **Archivo**
+>* **Archivar**
 >   * Archivar eventos
 >      * Archivo 2012
 >      * Archivo 2013
@@ -121,4 +121,4 @@ Algunas personas incluso abstraen la mayoría del texto de los correos electrón
 
 ## Resumen {#summary}
 
-Como puede ver, hay mucho poder en Marketo. Cubrimos los conceptos básicos aquí, pero considera servicios adicionales de [Marketo Engage expertos](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararte para el éxito.
+Como puede ver, hay mucho poder en Marketo. Cubrimos los conceptos básicos aquí, pero considera servicios adicionales de [expertos de Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararte para el éxito.

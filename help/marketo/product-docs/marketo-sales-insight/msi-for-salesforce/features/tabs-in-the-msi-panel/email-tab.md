@@ -3,7 +3,7 @@ description: Pestaña Correo electrónico - Documentos de Marketo - Documentaci�
 title: Pestaña Correo electrónico
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Un correo electrónico con el icono de Marketo junto a la línea de asunto indic
 
 Puede hacer clic en el botón &quot;[!UICONTROL Comprobar estado de entrega]&quot; para abrir una nueva pestaña que muestre el estado de entrega de los correos electrónicos:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>Correos electrónicos enviados desde Marketo</strong></td>

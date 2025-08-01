@@ -3,7 +3,7 @@ description: Administración de usuarios y licencias - Documentos de Marketo - D
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 2%
@@ -66,34 +66,34 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>Fecha de inicio</b></td>
    <td width="80%">Fecha de inicio de la licencia.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Fecha de vencimiento</b></td>
    <td width="80%">Fecha de caducidad de la licencia.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Tipo</b></td>
    <td width="80%">El tipo de licencia adquirida. Hay tres tipos disponibles: licencia de eventos compartidos, licencia de salas compartidas, licencia de almacenamiento adicional.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacidad del evento</b></td>
    <td width="80%">Número máximo de participantes que pueden alojarse en un evento.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Eventos totales</b></td>
    <td width="80%">Número total de eventos que se han aprovisionado con esta licencia.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Eventos consumidos</b></td>
    <td width="80%">Número total de eventos completados.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacidad de almacenamiento</b></td>
-   <td width="80%">Cantidad de almacenamiento disponible para almacenar grabaciones, garantías, heros images, documentación y otros recursos.</td>
+   <td width="80%">Cantidad de almacenamiento disponible para almacenar grabaciones, material colateral, imágenes a pantalla completa, documentación y otros recursos.</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 
 ## Acceso del usuario {#user-access}
 
-Los seminarios web interactivos tienen la funcionalidad de regular el uso mediante la concesión de permisos a los usuarios de Marketo Engage para crear y publicar seminarios web interactivos. Sin embargo, un usuario (o no usuario) de un seminario web interactivo podría tener acceso de lectura y edición a los programas de eventos de seminarios web interactivos creados por otros usuarios.
+Los seminarios web interactivos tienen la funcionalidad de regular el uso mediante la concesión de permisos a los usuarios de Marketo Engage para crear y ofrecer seminarios web interactivos. Sin embargo, un usuario (o no usuario) de un seminario web interactivo podría tener acceso de lectura y edición a los programas de eventos de seminarios web interactivos creados por otros usuarios.
 
 Los usuarios de Marketo a los que se hayan concedido permisos para seminarios web interactivos y que sean propietarios de un programa de eventos de seminarios web interactivos concreto podrán realizar todas las funciones de seminarios web interactivos relacionadas con ese programa. Esto incluye: crear, acceder, modificar, clonar, mover y eliminar ese programa. Sin embargo, una vez que el usuario ya no es un usuario del seminario web interactivo, el propietario del programa podría acceder y mover el programa, pero no realizar ninguna otra función.
 

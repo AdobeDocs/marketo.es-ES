@@ -3,7 +3,7 @@ description: 'Plantilla de correo electrónico de inicio rápido: documentos de 
 title: Plantilla de correo electrónico de inicio rápido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Plantilla de correo electrónico de inicio rápido {#quick-start-email-template}
 
-Algunos de los programas iniciales de la Biblioteca de referencia del Marketo Engage contienen una plantilla de correo electrónico sencilla, fácil de usar y personalizable que permite crear correos electrónicos rápidamente en una serie de casos de uso de marketing.
+Algunos de los programas iniciales de la Biblioteca de referencia de Marketo Engage contienen una plantilla de correo electrónico sencilla, fácil de usar y personalizable que permite crear correos electrónicos rápidamente en una serie de casos de uso de marketing.
 
-El editor de correo electrónico del Marketo Engage incluye funciones que le ayudan a cambiar el diseño y editar el contenido de los correos electrónicos.
+El editor de correo electrónico de Marketo Engage incluye funciones que le ayudan a cambiar el diseño y editar el contenido de sus correos electrónicos.
 
 * **Módulos**: bloques de contenido arrastrables y desplegables codificados en la plantilla. Se pueden reorganizar y duplicar.
 
@@ -24,7 +24,7 @@ El editor de correo electrónico del Marketo Engage incluye funciones que le ayu
 
 * **Variables**: cuando se selecciona un módulo, las variables aparecen en el lado derecho del editor. Se pueden utilizar para ajustar atributos del módulo que no se pueden editar fácilmente mediante elementos de imagen o texto.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de módulos {#modules-summary}
 
@@ -89,13 +89,13 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pon
    * Relleno superior del módulo
    * Margen inferior del módulo
    * Color de fondo del módulo
-   * Color de texto CTA
-   * Color de fondo CTA
-   * Color de borde CTA
-   * Radio de borde CTA (para redondear los botones - **Nota**: esta característica no funciona en los clientes de correo electrónico de Microsoft Outlook)
-   * URL DE CTA
-   * Texto CTA
-   * Alineación CTA
+   * Color de texto de CTA
+   * Color de fondo de CTA
+   * Color de borde de CTA
+   * Radio de borde de CTA (para redondear los botones - **Nota**: esta característica no funciona en los clientes de correo electrónico de Microsoft Outlook)
+   * URL de CTA
+   * Texto de CTA
+   * Alineación de CTA
 * ![](assets/quick-start-email-template-6.png)
 
 ### Módulo divisor {#divider-module}

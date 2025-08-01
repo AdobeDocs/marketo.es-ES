@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 'Notas de la versión, invierno de 2019, documentación de Marketo: documentación del producto'
 title: Notas de la versión, invierno de 2019
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 >[!NOTE]
 >
->[!DNL Facebook] ahora requiere una cuenta de Business Manager para aprovechar su integración de Audiencia personalizada. El servicio *LaunchPoint [!DNL Facebook] debe* estar asociado con una cuenta de Business Manager o **su integración dejará de funcionar después del 14 de enero de 2019**. Para configurar una cuenta de Business Manager, consulta [[!DNL Facebook] Ayuda](https://www.facebook.com/business/help/1710077379203657).
+>[!DNL Facebook] ahora requiere una cuenta de Business Manager para aprovechar su integración de Audiencia personalizada. El servicio [!DNL Facebook]LaunchPoint *debe* estar asociado con una cuenta de Business Manager o **su integración dejará de funcionar después del 14 de enero de 2019**. Para configurar una cuenta de Business Manager, consulta [[!DNL Facebook] Ayuda](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >

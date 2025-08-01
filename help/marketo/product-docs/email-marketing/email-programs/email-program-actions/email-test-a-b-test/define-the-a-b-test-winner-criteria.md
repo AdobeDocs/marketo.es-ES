@@ -4,7 +4,7 @@ description: Definición de los criterios de ganador de la prueba A/B - Document
 title: Definir los criterios de ganador de la prueba A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>[!UICONTROL Puntuación de participación]</b></td>
-   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=es" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
+   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
    </tr>
    </table>
 

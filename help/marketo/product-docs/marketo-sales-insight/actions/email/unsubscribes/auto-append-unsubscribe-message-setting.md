@@ -3,7 +3,7 @@ description: Configuración del mensaje de cancelación de suscripción anexada 
 title: Anexar automáticamente la configuración del mensaje de cancelación de suscripción
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Anexar automáticamente la configuración del mensaje de cancelación de suscripción {#auto-append-unsubscribe-message-setting}
 
-Asegúrese de que cada correo electrónico de acciones de información de ventas enviado incluya un mensaje de cancelación de suscripción para que los destinatarios tengan una opción fácil de desactivar la comunicación. Cuando se habilita el mensaje de cancelación de suscripción de datos anexados, todas las comunicaciones que su equipo envía desde Marketo Sales incluyen un mensaje de cancelación de suscripción, incluidos los correos electrónicos enviados desde la aplicación web y Salesforce.
+Asegúrese de que cada correo electrónico de acciones de Sales Insight enviado incluya un mensaje de cancelación de suscripción para que los destinatarios tengan una opción sencilla de desactivar la comunicación. Cuando se activa el mensaje de cancelación de suscripción de datos anexados, todas las comunicaciones que su equipo envía desde Marketo Sales incluyen un mensaje de cancelación de suscripción, incluidos los correos electrónicos enviados desde la aplicación web y Salesforce.
 
 >[!NOTE]
 >

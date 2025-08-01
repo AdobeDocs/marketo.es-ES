@@ -4,16 +4,16 @@ description: 'Sincronización de una campaña de SFDC con un programa: documento
 title: Sincronización de una campaña de SFDC con un programa
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Sincronización de una campaña de SFDC con un programa {#sync-an-sfdc-campaign-with-a-program}
 
-El Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] campañas para mantener la misma lista de personas en ambos sistemas, incluidos sus estados. ¡Vamos a empezar!
+Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] campañas para mantener la misma lista de personas en ambos sistemas, incluidos sus estados. ¡Empecemos!
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ El Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] cam
 
 >[!CAUTION]
 >
->Al sincronizar una campaña de SFDC con un programa de Marketo Engage, las acciones de SFDC implícitas (por ejemplo, agregar a la campaña de SFDC o Sincronizar con SFDC) se desactivarán para las campañas secundarias del programa.
+>Al sincronizar una campaña de SFDC con un programa de Marketo Engage, las acciones de SFDC implícitas (por ejemplo, agregar a SFDC Campaign, Sincronizar con SFDC) se desactivan para las campañas secundarias del programa.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -31,7 +31,7 @@ El Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] cam
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Haga clic en **[!UICONTROL Acciones de programa]** y, a continuación, seleccione **[!UICONTROL Sincronización de campaña de Salesforce]**.
+1. Haga clic en **[!UICONTROL Acciones del programa]** y, a continuación, seleccione **[!UICONTROL Sincronización de Salesforce Campaign]**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 

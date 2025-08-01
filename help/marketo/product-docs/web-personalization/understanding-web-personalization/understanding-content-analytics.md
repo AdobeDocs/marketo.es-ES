@@ -4,7 +4,7 @@ description: 'Explicación de Content Analytics: documentos de Marketo: document
 title: Explicación de Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -35,39 +35,39 @@ También puede exportar un archivo en formato CSV haciendo clic en el icono.
 
 La tabla de Analytics proporciona los siguientes detalles:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Título]</strong></td> 
-   <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Haga clic en <strong>Título</strong> para abrir la dirección URL de contenido en una ficha nueva.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Indica si el fragmento de contenido se ha agregado para <a href="#">Recomendaciones de contenido</a>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Vistas]</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Número de vistas de visitantes web sobre el recurso de contenido. Cantidad de veces que se vio, abrió, vio o descargó. Haga clic en el número de páginas de la columna de vistas para explorar en profundidad y ver quién vio el contenido</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Conversiones directas]</strong></td> 
-   <td colspan="1" rowspan="1">Visitantes web que vieron el contenido y rellenaron un formulario en la misma visita</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Ver más análisis en el artículo de contenido</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>Icono Eliminar</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Elimina el contenido de Content Analytics</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Título]</strong></td>
+   <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Haga clic en <strong>Título</strong> para abrir la dirección URL de contenido en una ficha nueva.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Indica si el fragmento de contenido se ha agregado para <a href="#">Recomendaciones de contenido</a>.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Vistas]</strong></p></td>
+   <td colspan="1" rowspan="1"><p>Número de vistas de visitantes web sobre el recurso de contenido. Cantidad de veces que se vio, abrió, vio o descargó. Haga clic en el número de páginas de la columna de vistas para explorar en profundidad y ver quién vio el contenido</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Conversiones directas]</strong></td>
+   <td colspan="1" rowspan="1">Visitantes web que vieron el contenido y rellenaron un formulario en la misma visita</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Ver más análisis en el artículo de contenido</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>Icono Eliminar</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">Elimina el contenido de Content Analytics</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Ver Content Analytics adicional {#view-additional-content-analytics}
@@ -86,7 +86,7 @@ Los análisis de contenido adicionales incluyen:
 
 * **[!UICONTROL Vistas]**: vistas de ese fragmento de contenido para el intervalo de tiempo seleccionado
 * **[!UICONTROL Conversiones directas]**: visitantes web que vieron el contenido y rellenaron un formulario en la misma visita.
-* **[!UICONTROL Tasa de conversión]**&#x200B;**:** Una tasa de conversión porcentual calculada mediante conversiones directas divididas por clics
+* **[!UICONTROL Tasa de conversión]****:** Una tasa de conversión porcentual calculada mediante conversiones directas divididas por clics
 
 **[!UICONTROL Tendencias]**
 

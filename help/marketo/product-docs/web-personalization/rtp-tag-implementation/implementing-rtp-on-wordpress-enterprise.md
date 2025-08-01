@@ -4,7 +4,7 @@ description: Implementación de RTP en Wordpress Enterprise - Documentos de Mark
 title: Implementación de RTP en Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 1%

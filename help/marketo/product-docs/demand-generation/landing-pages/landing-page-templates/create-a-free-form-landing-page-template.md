@@ -4,7 +4,7 @@ description: 'Creación de una plantilla de página de aterrizaje de forma libre
 title: Creación de una plantilla de página de aterrizaje de forma libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    >[!NOTE]
    >
-   >Seleccione **[!UICONTROL Deshabilitar el seguimiento de Munchkin]** si desea evitar que los formularios se rellenen previamente o simplemente no desea realizar el seguimiento del comportamiento web en una página específica.\
+   >Seleccione **[!UICONTROL Deshabilitar el seguimiento de Munchkin]** si desea evitar que los formularios se rellenen previamente o simplemente no desea realizar el seguimiento del comportamiento web en una página específica.
    >Seleccione **[!UICONTROL Validar compatibilidad móvil]** para asegurarse de que su código sea compatible con dispositivos móviles.
 
    >[!MORELIKETHIS]

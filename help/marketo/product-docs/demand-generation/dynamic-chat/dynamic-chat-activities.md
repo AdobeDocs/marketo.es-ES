@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] actividades - Documentos de Marketo - Documentación del producto'
 title: '[!DNL Dynamic Chat] actividades'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 4%
@@ -27,7 +27,7 @@ ht-degree: 4%
   </tr>
   <tr>
     <td style="width:25%"><b>Participación con un flujo/diálogo de conversación</b></td>
-    <td>La primera vez que un visitante web hace clic en un mensaje en un flujo de diálogo o conversación (haciendo clic en una opción de opción múltiple, enviando información, reservando una reunión, abriendo un documento, etc.) se produce una participación. Si un visitante abre un diálogo o un flujo de conversación, pero no hace clic en un mensaje, se registra una participación de <b>no</b>. 
+    <td>La primera vez que un visitante web hace clic en un mensaje en un flujo de diálogo o conversación (haciendo clic en una opción de opción múltiple, enviando información, reservando una reunión, abriendo un documento, etc.) se produce una participación. Si un visitante abre un diálogo o un flujo de conversación, pero no hace clic en un mensaje, se registra una participación de <b>no</b>.
     <br>Un evento de participación por visitante y por sesión.</td>
   </tr>
    <tr>

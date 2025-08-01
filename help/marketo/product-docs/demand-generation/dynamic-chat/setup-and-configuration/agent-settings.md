@@ -3,7 +3,7 @@ description: Configuración del agente - Documentos de Marketo - Documentación 
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Establezca su zona horaria y la disponibilidad de hora/día de la semana para re
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Duración de la reunión</b></td>
    <td>Determina la cantidad de tiempo que los visitantes verán en las ranuras de reunión disponibles.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Tiempo de espera entre reuniones</b></td>
    <td>Cantidad de tiempo que se establece como búfer para después de la reunión. Si lo establece para 30 minutos, nadie podrá reservar una reunión con usted hasta 30 minutos después del final programado de una reunión en su calendario.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

@@ -3,7 +3,7 @@ description: Acciones de Insight de ventas y cumplimiento del RGPD - Documentos 
 title: Acciones de Insight de ventas y cumplimiento del RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1370'
 ht-degree: 8%
@@ -123,44 +123,44 @@ Después de seleccionar el Tipo de Source correcto para los contactos selecciona
 
 Puede exportar la información de contacto desde la Vista de detalles de la persona. La exportación descargará un archivo .CSV con las siguientes columnas:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Nombre]</td> 
-   <td>[!UICONTROL Sitio web]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Apellidos]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Actualizado En]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Título]</td> 
-   <td>[!UICONTROL Creado En]</td> 
-   <td>[!UICONTROL Exportado En]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL ID de correo electrónico]</td> 
-   <td>[!DNL Salesforce] ID</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Número de teléfono]</td> 
-   <td>[!UICONTROL ID de persona]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Nombre]</td>
+   <td>[!UICONTROL Sitio web]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Apellidos]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Actualizado En]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Título]</td>
+   <td>[!UICONTROL Creado En]</td>
+   <td>[!UICONTROL Exportado En]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL ID de correo electrónico]</td>
+   <td>[!DNL Salesforce] ID</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Número de teléfono]</td>
+   <td>[!UICONTROL ID de persona]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -179,9 +179,9 @@ Para exportar la información de contacto, haz clic en los tres puntos verticale
 
 Un área del RGPD comúnmente malentendida incluye contactos que cancelan la suscripción a la base de datos de la organización. Para adherirse a las nuevas reglas de protección de los datos de los que deciden cancelar la suscripción, se ha incluido la siguiente funcionalidad en [!DNL Sales Insight Actions]:
 
-**Vínculos de cancelación de suscripción:** Los vínculos de cancelación de suscripción se adjuntarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web de Sales Connect para garantizar que los contactos disponen de un método accesible de exclusión.\
-**Anular la suscripción a la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM (Salesforce) para asegurarse de que las exclusiones estén actualizadas.\
-**Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las inclusiones históricas en la vista de detalles de la persona.\
+**Vínculos de cancelación de suscripción:** Los vínculos de cancelación de suscripción se adjuntarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web de Sales Connect para garantizar que los contactos disponen de un método accesible de exclusión.
+**Anular la suscripción a la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción desde y hacia su CRM (Salesforce) para asegurarse de que las exclusiones estén actualizadas.
+**Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las inclusiones históricas en la vista de detalles de la persona.
 **Quitar la suscripción:** Si se vuelve a suscribir un contacto, se requiere que el usuario tenga privilegios de administrador y que demuestre que el contacto ha dado un nuevo consentimiento para ponerse en contacto con él.
 
 ## Actualizaciones futuras {#future-updates}

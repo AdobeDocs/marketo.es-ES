@@ -4,7 +4,7 @@ description: Adición de campos a un informe del Explorador de ingresos - Docume
 title: Adición de campos a un informe del Explorador de ingresos
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 Personalice los informes del explorador de ingresos arrastrando y soltando los campos de dimensión y métrica en el lienzo.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo de campo</th> 
-   <th>Descripción</th> 
-  </tr> 
-  <tr> 
-   <td>Campo o Dimension amarillo</td> 
-   <td><p>Los campos amarillos son las dimensiones (filas y columnas) del informe.</p><p>Por ejemplo, puede configurar un informe que muestre el estado del posible cliente o la fecha de creación en columnas.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Campo o medida azul</td> 
-   <td><p>Los campos azules son métricas que se analizan en los datos.</p><p>Por ejemplo: esta podría ser la puntuación de posible cliente promedio para sus posibles clientes o el número de días que un posible cliente tuvo una oportunidad.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo de campo</th>
+   <th>Descripción</th>
+  </tr>
+  <tr>
+   <td>Campo amarillo o Dimension</td>
+   <td><p>Los campos amarillos son las dimensiones (filas y columnas) del informe.</p><p>Por ejemplo, puede configurar un informe que muestre el estado del posible cliente o la fecha de creación en columnas.</p></td>
+  </tr>
+  <tr>
+   <td>Campo o medida azul</td>
+   <td><p>Los campos azules son métricas que se analizan en los datos.</p><p>Por ejemplo: esta podría ser la puntuación de posible cliente promedio para sus posibles clientes o el número de días que un posible cliente tuvo una oportunidad.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Busque los campos amarillos que desee utilizar y arrástrelos a Filas.

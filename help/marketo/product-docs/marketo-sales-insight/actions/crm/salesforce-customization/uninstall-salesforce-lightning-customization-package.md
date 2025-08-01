@@ -3,7 +3,7 @@ description: Desinstalar el paquete de personalización de Salesforce Lightning 
 title: Desinstalar el paquete de personalización de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 9%
@@ -298,9 +298,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: fecha del último compromiso de marketing</td>
   <td>Marca de tiempo de la participación del marketing</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -308,9 +308,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: Última descripción de participación de marketing</td>
   <td>Descripción de la participación</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -318,9 +318,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: Último Source de participación de marketing</td>
   <td>Participación de Source of Marketing</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -328,9 +328,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: último tipo de participación de marketing</td>
   <td>Tipo de participación (por ejemplo, actividad web)</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -338,9 +338,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC - Última actividad por ventas</td>
   <td>Última actividad saliente realizada por el equipo de ventas</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -348,9 +348,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: última respuesta</td>
   <td>Última respuesta de correo electrónico al correo electrónico de ventas</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Datos y tiempo</td>
  </tr>
@@ -358,9 +358,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: campaña de ventas actual</td>
   <td>Registra el nombre de la campaña de MSC en la que se encuentra el contacto/posible cliente</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Texto</td>
  </tr>
@@ -378,9 +378,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>MSC: exclusión</td>
   <td>Campo de exclusión</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
   <td>Casilla de verificación</td>
  </tr>
@@ -396,9 +396,9 @@ Esta es una lista de todos los objetos que deben quitarse de la instancia [!DNL 
   <td>[!UICONTROL Enviar correo electrónico MSC]</td>
   <td>Envío de correos electrónicos de ventas desde [!DNL Salesforce]</td>
   <td>
-  <p>Cuenta 
-  <p>Contacto 
-  <p>Posible cliente 
+  <p>Cuenta
+  <p>Contacto
+  <p>Posible cliente
   <p>Oportunidad</td>
  </tr>
  <tr>

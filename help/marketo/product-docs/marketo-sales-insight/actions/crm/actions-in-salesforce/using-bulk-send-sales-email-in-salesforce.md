@@ -2,7 +2,7 @@
 description: Uso del envío masivo de correo electrónico de ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso del envío masivo de correo electrónico de ventas en Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Aprenda a enviar correos electrónicos masivos en Salesforce para escalar la com
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ha instalado el [último paquete de Perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} en su instancia de Salesforce y de que ha configurado los [botones de acción](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contacto y lista de posibles clientes de Salesforce.
+>Asegúrese de que ha instalado el [último paquete de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} en su instancia de Salesforce y de que ha configurado los [botones de acción](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} en las vistas de contactos y listas de posibles clientes en Salesforce.
 
 ## Envío de correo electrónico masivo en Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
-1. En Salesforce, vaya a la página de inicio de Posibles clientes/Contactos al hacer clic en la pestaña **Posibles clientes/Contactos**.
+1. En Salesforce, vaya a la página de inicio de los posibles clientes o contactos haciendo clic en la ficha **Posibles clientes o contactos**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 

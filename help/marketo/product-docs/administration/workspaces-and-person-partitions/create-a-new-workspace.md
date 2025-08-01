@@ -4,7 +4,7 @@ description: Creación de una nueva documentación de Workspace - Documentos de 
 title: Crear un nuevo Workspace
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

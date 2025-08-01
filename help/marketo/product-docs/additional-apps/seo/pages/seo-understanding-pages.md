@@ -4,10 +4,10 @@ description: 'SEO: Explicación de páginas - Documentos de Marketo: documentaci
 title: 'SEO: Explicación de las páginas'
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-La puntuación de optimización de la página [!UICONTROL 1&rbrace; es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. &#x200B;] Se basa en docenas de prácticas recomendadas en SEO.
+La puntuación de optimización de la página [!UICONTROL 1} es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. ] Se basa en docenas de prácticas recomendadas en SEO.
 
 * 0 - 35 = No está bien optimizado
 * 35 - 70 = En el camino correcto

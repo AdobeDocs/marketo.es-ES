@@ -4,7 +4,7 @@ description: 'Administración de funciones y permisos de usuario: documentos de 
 title: Administración de roles y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Marketo proporciona varias funciones integradas, con diferentes niveles de acces
 
 No puede editar las funciones Administrador y Usuario estándar, pero puede editar las demás. También puede crear nuevas funciones personalizadas para que coincidan con las estructuras organizativas particulares de su compañía.
 
-## Marketo con identidad de Adobe {#marketo-with-adobe-identity}
+## Marketo con Adobe Identity {#marketo-with-adobe-identity}
 
-Si usa Marketo con identidad de Adobe, la lista de descripciones de perfiles [se puede encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Si usa Marketo con Adobe Identity, la lista de descripciones de perfiles [se encuentra aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Asignar funciones a un usuario {#assign-roles-to-a-user}
 

@@ -3,7 +3,7 @@ description: NL-AAAA-MM-Newsletter - Documentos de Marketo - Documentación del 
 title: NL-AAAA-MM-Newsletter
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 16%
@@ -14,104 +14,104 @@ ht-degree: 16%
 
 En este ejemplo se envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Estado de abono</th>
    <th>Comportamiento de análisis</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Boletín informativo</td> 
-   <td>Miembro 01 
+  </tr>
+  <tr>
+   <td>Boletín informativo</td>
+   <td>Miembro 01
 <br/>02-Participación-Éxito</td>
    <td>Incluido</td>
    <td>Correo electrónico</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nombre de plantilla</th>
    <th>Nombre del recurso</th>
-  </tr> 
-  <tr> 
-   <td>Correo electrónico</td> 
+  </tr>
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01 - Correo electrónico</td>
   </tr>
-  <tr> 
-   <td>Informe local</td> 
+  <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño de email</td>
   </tr>
-  <tr> 
-   <td>Informe local</td> 
+  <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño de vínculo de email</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>01 - Participación (éxito del programa)</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
-   <td>Assets: aloja todos los recursos creativos 
+   <td>Assets: aloja todos los recursos creativos
 <br/>(subcarpetas para correos electrónicos)  </td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Campañas: aloja todas las campañas inteligentes</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Informes</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nl-yyyy-mm-newsletter-1.png)
 
 ## Mis tokens incluidos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Reglas de conflicto {#conflict-rules}

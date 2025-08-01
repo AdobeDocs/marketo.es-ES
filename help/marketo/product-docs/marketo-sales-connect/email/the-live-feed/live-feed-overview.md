@@ -4,7 +4,7 @@ description: 'Información general de Live Feed: documentos de Marketo: document
 title: Información general de Live Feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -62,41 +62,41 @@ Ver las personas principales (ordenadas de mayor a menor) clasificadas por puntu
 
 ## Glosario de iconos {#icon-glossary}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Alguien ha visto su correo electrónico</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Alguien hizo clic en un vínculo de su correo electrónico</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Alguien ha respondido a su correo electrónico</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> 
-    <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td colspan="1">Cualquier notificación enumerada en Momentos interesantes, incluidos correo electrónico, web e hitos</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Alguien ha visto su correo electrónico</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Alguien hizo clic en un vínculo de su correo electrónico</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Alguien ha respondido a su correo electrónico</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">
+    <div>
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td colspan="1">Cualquier notificación enumerada en Momentos interesantes, incluidos correo electrónico, web e hitos</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

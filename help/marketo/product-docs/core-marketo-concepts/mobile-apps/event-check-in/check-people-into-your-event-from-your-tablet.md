@@ -4,7 +4,7 @@ description: 'Registrar a las personas en su evento desde su tableta: documentos
 title: Incorporar personas a su evento desde su tableta
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 0%

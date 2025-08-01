@@ -4,7 +4,7 @@ description: Agregar  [!DNL Munchkin] código de seguimiento al sitio web - Docu
 title: Agregar  [!DNL Munchkin] código de seguimiento a tu sitio web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -59,7 +59,7 @@ El código de seguimiento personalizado de JavaScript de Marketo, denominado [!D
 
    >[!TIP]
    >
-   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Añadir código de seguimiento al usar varios espacios de trabajo {#add-tracking-code-when-using-multiple-workspaces}
 

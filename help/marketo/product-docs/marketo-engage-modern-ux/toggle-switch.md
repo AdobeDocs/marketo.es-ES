@@ -3,7 +3,7 @@ description: Conmutador de alternancia - Documentos de Marketo - Documentación 
 title: Conmutador de conmutación
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -72,6 +72,3 @@ Las siguientes funciones están disponibles actualmente en el UX moderno (con nu
 * Lista de plantillas de página de aterrizaje
 * Vista de detalles del fragmento
 * Vista de lista de fragmentos
-
-
-

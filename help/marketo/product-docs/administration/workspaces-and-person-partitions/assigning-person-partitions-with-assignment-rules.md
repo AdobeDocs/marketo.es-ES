@@ -4,7 +4,7 @@ description: Asignación de particiones de persona con reglas de asignación - D
 title: Asignación de Particiones de Personas con Reglas de Asignación
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -25,7 +25,7 @@ Cuando utilice particiones de persona, configure reglas de asignación para enru
 
 >[!NOTE]
 >
->Solo las personas creadas en Marketo SOAP desde su CRM y a través de la API de tendrán reglas de asignación aplicadas.
+>Solo las personas creadas en Marketo desde su CRM y mediante la API de SOAP tendrán reglas de asignación aplicadas.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

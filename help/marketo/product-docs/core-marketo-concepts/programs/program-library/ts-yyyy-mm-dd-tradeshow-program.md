@@ -3,7 +3,7 @@ description: Programa de ferias comerciales TS-AAAA-MM-DD - Documentos de Market
 title: Programa de Ferias Comerciales TS-AAAA-MM-DD
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 15%
@@ -12,23 +12,23 @@ ht-degree: 15%
 
 # Programa de Ferias Comerciales TS-AAAA-MM-DD {#ts-yyyy-mm-dd-tradeshow-program}
 
-Este es un ejemplo de programa de feria comercial con invitaciones y correos electrónicos de seguimiento que utilizan un programa de eventos para Marketo Engage.
+Este es un ejemplo de programa de feria comercial con invitaciones y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Estado de abono</th>
    <th>Comportamiento de análisis</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Evento</td> 
-   <td>01-Invitado 
+  </tr>
+  <tr>
+   <td>Evento</td>
+   <td>01-Invitado
    <br/>02 - En lista de espera
    <br/>03-Registrados
    <br/>04-Visited Booth
@@ -37,145 +37,145 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pon
    <td>Incluido</td>
    <td>Evento</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nombre de plantilla</th>
    <th>Nombre del recurso</th>
-  </tr> 
-  <tr> 
-   <td>Correo electrónico</td> 
+  </tr>
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01-Correo electrónico-Gracias</td>
   </tr>
-   <tr> 
-   <td>Correo electrónico</td> 
+   <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02a- Correo electrónico - Invitación</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Informe local</td> 
+  <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño de email</td>
   </tr>
-  <tr> 
-   <td>Informe local</td> 
+  <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño del programa</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>00 - Programa de adquisición de capturas</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>01 - Enviar invitación</td>
   </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
+   <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>02 - Envío de correos electrónicos de seguimiento</td>
   </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
+   <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>03 - Participación por correo electrónico de seguimiento (éxito)</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
-   <td>Assets: aloja todos los recursos creativos 
+   <td>Assets: aloja todos los recursos creativos
 <br/>(subcarpetas para correo electrónico y páginas de aterrizaje)</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Campañas: aloja todas las campañas inteligentes</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Informes</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## Mis tokens incluidos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Archivo de calendario</td> 
+  <tr>
+   <td>Archivo de calendario</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Haga doble clic para obtener detalles</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>Texto enriquecido</td> 
+   <tr>
+   <td>Texto enriquecido</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>Texto</td> 
+   <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Exposición comercial</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Reglas de conflicto {#conflict-rules}

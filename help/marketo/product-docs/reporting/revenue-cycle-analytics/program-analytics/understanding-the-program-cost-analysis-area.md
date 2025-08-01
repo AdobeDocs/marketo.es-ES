@@ -4,7 +4,7 @@ description: Explicación del área de análisis de costes de programa - Documen
 title: Explicación del área de análisis de costes del programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 21%
@@ -33,7 +33,7 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension y medidas de análisis de costes de programas {#program-cost-analysis-dimensions-and-measures}
+## Dimensiones y medidas de análisis de costes de programas {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 ## Membresía {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Medida</th> 
-   <th>Descripción</th> 
-  </tr> 
-  <tr> 
-   <td>% de nombres nuevos</td> 
-   <td>Porcentaje de posibles clientes adquiridos por un programa</td> 
-  </tr> 
-  <tr> 
-   <td>Miembros</td> 
-   <td>Posibles clientes totales en un programa</td> 
-  </tr> 
-  <tr> 
-   <td>Nuevos nombres</td> 
-   <td>Total de nombres nuevos adquiridos por un programa</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Medida</th>
+   <th>Descripción</th>
+  </tr>
+  <tr>
+   <td>% de nombres nuevos</td>
+   <td>Porcentaje de posibles clientes adquiridos por un programa</td>
+  </tr>
+  <tr>
+   <td>Miembros</td>
+   <td>Posibles clientes totales en un programa</td>
+  </tr>
+  <tr>
+   <td>Nuevos nombres</td>
+   <td>Total de nombres nuevos adquiridos por un programa</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Atributos del programa {#program-attributes}
@@ -96,7 +96,7 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 | Propietario del programa | Etiqueta de programa |
 | Región | Etiqueta de programa |
 
-## Sin errores {#success}
+## Correcto {#success}
 
 | Medida | Descripción |
 |---|---|

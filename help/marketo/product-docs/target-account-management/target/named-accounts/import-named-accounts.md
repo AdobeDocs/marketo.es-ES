@@ -4,7 +4,7 @@ description: Importar [!UICONTROL Cuentas Con Nombre] - Documentos De Marketo - 
 title: Importar [!UICONTROL Cuentas con nombre]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -65,40 +65,40 @@ ht-degree: 0%
 
 Situaciones en las que se desduplica [!UICONTROL por nombre de cuenta]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importando registro con nombre de <span class="uicontrol">Cuenta con nombre</span> existente</strong></td> 
-   <td><p>Actualizaremos el registro existente</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importando registro con el nuevo nombre de <span class="uicontrol">Cuenta con nombre</span></strong></td> 
-   <td>Crearemos un nuevo registro</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importando registro con nombre de <span class="uicontrol">Cuenta con nombre</span> existente</strong></td>
+   <td><p>Actualizaremos el registro existente</p></td>
+  </tr>
+  <tr>
+   <td><strong>Importando registro con el nuevo nombre de <span class="uicontrol">Cuenta con nombre</span></strong></td>
+   <td>Crearemos un nuevo registro</td>
+  </tr>
+ </tbody>
 </table>
 
 Situaciones en las que se desduplica [!UICONTROL por nombre de dominio]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importación de un registro con un nuevo nombre de cuenta y un nuevo nombre de dominio</strong></td> 
-   <td>Crearemos una nueva <span class="uicontrol">cuenta con nombre</span> con la información proporcionada</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importación de un registro con un nombre de cuenta existente y un nombre de dominio existente</strong></td> 
-   <td>Actualizaremos la <span class="uicontrol">cuenta con nombre</span> existente</td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importación de un registro con un nombre de cuenta nuevo y un nombre de dominio existente</strong></td> 
-   <td>Anexaremos el nuevo nombre de cuenta a la <span class="uicontrol">cuenta con nombre</span> existente que coincida con el nombre de dominio y actualizaremos otra información (por ejemplo: sector, estado, etc.)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importando registro con nombre de <span class="uicontrol">Cuenta con nombre</span> existente y nombre de dominio nuevo</strong></td> 
-   <td>Anexaremos el nuevo nombre de dominio a la <span class="uicontrol">cuenta con nombre</span> existente que coincida con el nombre de la cuenta y actualizaremos otra información (por ejemplo: sector, estado, etc.)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importación de un registro con un nuevo nombre de cuenta y un nuevo nombre de dominio</strong></td>
+   <td>Crearemos una nueva <span class="uicontrol">cuenta con nombre</span> con la información proporcionada</td>
+  </tr>
+  <tr>
+   <td><strong>Importación de un registro con un nombre de cuenta existente y un nombre de dominio existente</strong></td>
+   <td>Actualizaremos la <span class="uicontrol">cuenta con nombre</span> existente</td>
+  </tr>
+   <tr>
+   <td><strong>Importación de un registro con un nombre de cuenta nuevo y un nombre de dominio existente</strong></td>
+   <td>Anexaremos el nuevo nombre de cuenta a la <span class="uicontrol">cuenta con nombre</span> existente que coincida con el nombre de dominio y actualizaremos otra información (por ejemplo: sector, estado, etc.)</td>
+  </tr>
+  <tr>
+   <td><strong>Importando registro con nombre de <span class="uicontrol">Cuenta con nombre</span> existente y nombre de dominio nuevo</strong></td>
+   <td>Anexaremos el nuevo nombre de dominio a la <span class="uicontrol">cuenta con nombre</span> existente que coincida con el nombre de la cuenta y actualizaremos otra información (por ejemplo: sector, estado, etc.)</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo configurar Marketo Sales Insight e
 title: Configuración de Marketo Sales Insight en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '867'
 ht-degree: 3%

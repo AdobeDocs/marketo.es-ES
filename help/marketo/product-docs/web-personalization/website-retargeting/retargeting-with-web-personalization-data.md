@@ -4,7 +4,7 @@ description: 'Redireccionamiento con datos de Personalization web: documentos de
 title: Redireccionamiento con datos de Web Personalization
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 2%
@@ -26,30 +26,30 @@ Web Personalization adjunta datos a las siguientes plataformas de remarketing:
 
 [!DNL Web Personalization] envía los siguientes datos a las plataformas de remarketing para crear audiencias y ejecutar campañas de remarketing y publicidad:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] Datos</th> 
-  </tr> 
-  <tr> 
-   <th><p>Industria</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Grupo (empresas, pymes)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Categoría (Fortune 500/1000, Global 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Lista ABM (listas de cuentas con nombre)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Audiencia segmentada (según segmentos)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>Campañas web en las que se hizo clic</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] Datos</th>
+  </tr>
+  <tr>
+   <th><p>Industria</p></th>
+  </tr>
+  <tr>
+   <th><p>Grupo (empresas, pymes)</p></th>
+  </tr>
+  <tr>
+   <th><p>Categoría (Fortune 500/1000, Global 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>Lista ABM (listas de cuentas con nombre)</p></th>
+  </tr>
+  <tr>
+   <th><p>Audiencia segmentada (según segmentos)</p></th>
+  </tr>
+  <tr>
+   <th><p>Campañas web en las que se hizo clic</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## Configuración de remarketing {#remarketing-configuration}

@@ -4,7 +4,7 @@ description: 'Eliminación de un paso de flujo: documentos de Marketo, documenta
 title: Eliminar un paso de flujo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -42,8 +42,8 @@ Primero vamos a cubrir los conceptos básicos. Así se elimina un paso de flujo 
    1. **Ya se ejecutó SIN pasos de espera**. Ninguna persona se verá afectada porque la campaña está inactiva después de ejecutarse.
    1. **Se está ejecutando**. Los cambios pueden provocar un comportamiento inesperado según el momento y los detalles de la eliminación. Se recomienda NO editar una campaña por lotes que se esté ejecutando de forma activa. Para casos de emergencia, aprenda a [cancelar una campaña inteligente en ejecución](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Ya se ejecutó CON pasos de espera.** Varios detalles sobre este.\
-      Cuando una persona introduce un paso de espera, esta reduce la duración y el PASO NUMÉRICO al que desea volver. Consulte el ejemplo siguiente.
+   1. **Ya se ejecutó CON pasos de espera.** Varios detalles sobre este.
+Cuando una persona introduce un paso de espera, esta reduce la duración y el PASO NUMÉRICO al que desea volver. Consulte el ejemplo siguiente.
 
    **Campañas inteligentes de Déclencheur**
 

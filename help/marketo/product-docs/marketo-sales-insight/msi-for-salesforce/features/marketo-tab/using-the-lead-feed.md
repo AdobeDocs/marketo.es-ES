@@ -4,7 +4,7 @@ description: Uso de la fuente de posibles clientes, documentos de Marketo, docum
 title: Uso de la fuente de posibles clientes
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -29,45 +29,45 @@ Al visualizarlo en [!DNL Salesforce], cada elemento tiene:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Elemento</p></td> 
-   <td><p>Descripción</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Posible cliente/Contacto</p></td> 
-   <td><p>Persona que tuvo este momento interesante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Tipo de evento</p></td> 
-   <td><p>Categoría para este momento: web, correo electrónico o hito</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Nombre de la cuenta</p></td> 
-   <td><p>Nombre de la compañía</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Hora</p></td> 
-   <td><p>Cuando ocurrió este momento interesante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Descripción del evento</p></td> 
-   <td><p>Razón de este momento interesante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Suscribirse</p></td> 
-   <td><p>Recibir notificación por correo electrónico de eventos como este</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Estrella</p></td> 
-   <td><p>Esta persona es una opción más probable (de alta prioridad)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Elemento</p></td>
+   <td><p>Descripción</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Posible cliente/Contacto</p></td>
+   <td><p>Persona que tuvo este momento interesante</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Tipo de evento</p></td>
+   <td><p>Categoría para este momento: web, correo electrónico o hito</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Nombre de la cuenta</p></td>
+   <td><p>Nombre de la compañía</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Hora</p></td>
+   <td><p>Cuando ocurrió este momento interesante</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Descripción del evento</p></td>
+   <td><p>Razón de este momento interesante</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Suscribirse</p></td>
+   <td><p>Recibir notificación por correo electrónico de eventos como este</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Estrella</p></td>
+   <td><p>Esta persona es una opción más probable (de alta prioridad)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Obteniendo actualizaciones de RSS {#getting-rss-updates}

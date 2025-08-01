@@ -4,7 +4,7 @@ description: Aprobación de etapas y asignación de posibles clientes a un model
 title: Aprobación de fases y asignación de posibles clientes a un modelo de ingresos
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: 'Integración con Adobe Analytics: Documentos de Marketo: documenta
 title: Integración con Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Esto mejora los datos B2B y le permite centrarse en los visitantes relevantes op
 
 1. Canales de salida
 1. Contenido
-1. Retargeting
+1. Resegmentación
 
 ## Informe de canal {#channel-report}
 
@@ -64,8 +64,8 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
 1. Vaya a **[!UICONTROL Herramientas de administración]** en su cuenta de AA.
 1. Seleccione el **[!UICONTROL grupo de informes]** que se usará con la integración.
-1. En **[!UICONTROL Editar configuración]**, vaya a **[!UICONTROL Conversión]** y seleccione **[[!UICONTROL Variables de conversión]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Seleccione el número [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (se recomienda):
+1. En **[!UICONTROL Editar configuración]**, vaya a **[!UICONTROL Conversión]** y seleccione **[[!UICONTROL Variables de conversión]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Seleccione el número [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (se recomienda):
 
    1. Evar n.º 20 para conversiones personalizadas del sector
    1. Evar n.º 21 para conversiones personalizadas de organización
@@ -122,7 +122,7 @@ Complete los siguientes pasos para configurar estas variables en AA:
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **Adobe Analytics**.
-1. Activa **[!UICONTROL 1&rbrace; las opciones de Conversión, Personalizado y Tráfico.]**
+1. Activa **[!UICONTROL 1} las opciones de Conversión, Personalizado y Tráfico.]**
 1. Asigne las variables de conversión, evento y tráfico **números de ranura** para que coincidan con los números de ranura creados en AA
 1. Haga clic en **[!UICONTROL Guardar]**.
 
@@ -220,7 +220,7 @@ Los informes breves se mostrarán en el tablero.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Busque Impresiones para ver los nombres de segmentos y campañas que representan el número de impresiones de la campaña.\
+1. Busque Impresiones para ver los nombres de segmentos y campañas que representan el número de impresiones de la campaña.
    ![](assets/sitecatalyst1.png)
 
 1. Busque Conversión para ver los nombres de segmentos y campañas que representan el número de clics de la campaña.

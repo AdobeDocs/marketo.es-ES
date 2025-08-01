@@ -4,9 +4,9 @@ title: Plantillas de correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1840'
+source-wordcount: '1838'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Para un proceso de diseño acelerado y mejorado, puede crear plantillas de corre
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -133,7 +133,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
    >[!TIP]
    >
-   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+   >Seleccione el componente de columna n:n para definir el número de columnas que desee (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -159,7 +159,7 @@ El editor procesa el fragmento dentro de la sección o el elemento de la estruct
 
 >[!TIP]
 >
->Si desea que el fragmento ocupe todo el diseño horizontal dentro del correo electrónico, agregue una estructura de columna 1:1 y, a continuación, arrastre y suelte el fragmento en él.
+>Si desea que el fragmento ocupe todo el diseño horizontal dentro del correo electrónico, agregue una estructura de columnas de 1:1 y, a continuación, arrastre y suelte el fragmento en ella.
 
 Una vez guardado el correo electrónico, aparecerá en la ficha _[!UICONTROL Utilizado por]_ de la página de detalles del fragmento. Los fragmentos agregados a una plantilla de correo electrónico no se pueden editar dentro de la plantilla; el fragmento de origen define el contenido.
 

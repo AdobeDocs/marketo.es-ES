@@ -3,7 +3,7 @@ description: 'Biblioteca de respuestas: Documentos de Marketo: documentación de
 title: Biblioteca de respuestas
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 2%

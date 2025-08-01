@@ -6,9 +6,9 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1922'
+source-wordcount: '1921'
 ht-degree: 1%
 
 ---
@@ -81,7 +81,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
   </tr>
   <tr>
     <td style="width:25%"><b>Publicado con borrador</b></td>
-    <td style="width:75%">Cuando crea un borrador a partir de un fragmento publicado, la versión publicada permanece disponible para su uso en una plantilla de correo electrónico o correo electrónico, y el contenido del borrador se puede modificar en el diseñador visual. Si publica la versión de borrador, reemplazará la versión publicada actual y el contenido se actualizará en <i>todos</i> los correos electrónicos y las plantillas de correo electrónico en los que esté en uso. 
+    <td style="width:75%">Cuando crea un borrador a partir de un fragmento publicado, la versión publicada permanece disponible para su uso en una plantilla de correo electrónico o correo electrónico, y el contenido del borrador se puede modificar en el diseñador visual. Si publica la versión de borrador, reemplazará la versión publicada actual y el contenido se actualizará en <i>todos</i> los correos electrónicos y las plantillas de correo electrónico en los que esté en uso.
     <p>Acciones disponibles:
     <li>Editar descripción</li>
     <li>Añadir a un correo electrónico o plantilla</li>
@@ -287,7 +287,7 @@ El contenido del fragmento se actualiza dinámicamente dentro de la estructura p
 
 >[!TIP]
 >
->Si desea que el fragmento ocupe todo el diseño horizontal del correo electrónico, agregue una estructura de columna [!UICONTROL 1:1] y, a continuación, arrastre y suelte el fragmento en él.
+>Si desea que el fragmento ocupe todo el diseño horizontal del correo electrónico, agregue una estructura de [!UICONTROL 1:1 columna] y, a continuación, arrastre y suelte el fragmento en ella.
 
 Una vez guardada la plantilla de correo electrónico/correo electrónico, aparecerá en la página de detalles del fragmento cuando se seleccione la pestaña _[!UICONTROL Utilizado por]_. Los fragmentos añadidos no se pueden editar dentro del correo electrónico o la plantilla; el fragmento de origen publicado define el contenido.
 

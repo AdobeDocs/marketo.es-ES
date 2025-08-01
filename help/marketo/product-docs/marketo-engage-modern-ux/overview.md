@@ -1,16 +1,16 @@
 ---
-description: 'Información general sobre la experiencia de usuario moderna de Marketo Engage: Documentos de Marketo: documentación del producto'
-title: Descripción general de UX moderno de Marketo Engage
+description: 'Información general sobre la experiencia de usuario moderna de Marketo Engage: documentos de Marketo: documentación del producto'
+title: Información general sobre Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-# Descripción general de UX moderno de Marketo Engage {#overview}
+# Información general sobre Marketo Engage Modern UX {#overview}
 
 Bienvenido al UX moderno de Adobe Marketo Engage (experiencia de usuario), una interfaz actualizada que proporciona una mayor facilidad de uso junto con una nueva apariencia en toda la plataforma de Marketo Engage.
 
@@ -34,7 +34,7 @@ La nueva interfaz presenta una iconografía mejorada y ampliada.
 
 **Navegación global**
 
-Adiós superbola. Ahora tiene acceso rápido a todas las secciones principales del Marketo Engage.
+Adiós superbola. Ahora tiene acceso rápido a todas las secciones principales de Marketo Engage.
 
 ![](assets/overview-5.png)
 
@@ -54,112 +54,112 @@ Hay un montón de nuevas características de árbol disponibles.
 
 **Marketo Classic frente al nuevo Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Función</th> 
-   <th>Classic</th> 
-   <th>De próxima generación</th> 
+   <th>Función</th>
+   <th>Classic</th>
+   <th>De próxima generación</th>
   </tr>
   <tr>
-   <td>Aplicar varios filtros al mismo tiempo</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Aplicar varios filtros al mismo tiempo</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Nodo de árbol de aprobación y borrador combinado</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Nodo de árbol de aprobación y borrador combinado</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Creación de recursos locales en carpetas de programa</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Creación de recursos locales en carpetas de programa</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Haga doble clic para expandir o contraer nodos de árbol</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Haga doble clic para expandir o contraer nodos de árbol</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Arrastrar y soltar del árbol al flujo de participación</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Arrastrar y soltar del árbol al flujo de participación</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Arrastrar y soltar dentro del árbol</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Arrastrar y soltar dentro del árbol</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filtrar por tipo y estados de recurso</td> 
-   <td><i>parcial</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filtrar por tipo y estados de recurso</td>
+   <td><i>parcial</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Resaltar fondo para mostrar la jerarquía en estado de enfoque</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Resaltar fondo para mostrar la jerarquía en estado de enfoque</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Resaltar palabras clave durante la búsqueda</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Resaltar palabras clave durante la búsqueda</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Desplazamiento horizontal</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Desplazamiento horizontal</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Estado de desplazamiento de los nodos de árbol</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Estado de desplazamiento de los nodos de árbol</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Contraer todo el árbol rápidamente</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Contraer todo el árbol rápidamente</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Contraer rápidamente al nodo raíz</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Contraer rápidamente al nodo raíz</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Actualización en tiempo real</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Actualización en tiempo real</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Árbol redimensionable</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Árbol redimensionable</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Buscar en carpetas archivadas</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Buscar en carpetas archivadas</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Cadena de búsqueda guardada al introducir la búsqueda global desde la búsqueda de árbol</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Cadena de búsqueda guardada al introducir la búsqueda global desde la búsqueda de árbol</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mostrar todos los espacios de trabajo en un solo árbol</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Mostrar todos los espacios de trabajo en un solo árbol</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Distintivo de estado y descripciones emergentes</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Distintivo de estado y descripciones emergentes</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Lógica de búsqueda 'Word empieza con'</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Lógica de búsqueda 'Word empieza con'</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Eche un vistazo a la nueva navegación global.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>No hay más superball desplegable</td> 
+   <td>1</td>
+   <td>No hay más superball desplegable</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Todos los elementos de superbola anteriores listados</td> 
+   <td>2</td>
+   <td>Todos los elementos de superbola anteriores listados</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>Si tienes varias suscripciones, haz clic en tu subnombre para cambiar fácilmente a otro</td> 
+   <td>3</td>
+   <td>Si tienes varias suscripciones, haz clic en tu subnombre para cambiar fácilmente a otro</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Búsqueda global: ahora puede buscar toda la instancia desde aquí</td> 
+   <td>4</td>
+   <td>Búsqueda global: ahora puede buscar toda la instancia desde aquí</td>
   </tr>
  </tbody>
 </table>
@@ -200,4 +200,4 @@ Eche un vistazo a la nueva navegación global.
 >
 >El uso de la búsqueda en el árbol solo arrojará resultados de la sección en la que se encuentra (por ejemplo, Actividades de marketing). Si desea buscar en toda la instancia, utilice la búsqueda global.
 
-¡Disfruta de la nueva experiencia de Marketo Engage!
+¡Disfrute de la nueva experiencia de Marketo Engage!

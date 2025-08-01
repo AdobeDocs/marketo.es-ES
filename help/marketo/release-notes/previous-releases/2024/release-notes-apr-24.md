@@ -3,10 +3,10 @@ description: 'Notas de la versión, abril de 2024: Documentos de Marketo: docume
 title: Notas de la versión, abril de 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -14,50 +14,50 @@ ht-degree: 7%
 
 A continuación encontrará todas las funciones incluidas en la versión de abril de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
-Las notas de la versión específicas del Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
+>Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
 Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **26 de abril de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Función</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Función</th>
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
   </tr>
-     <tr> 
-   <td><strong>Mejoras en los seminarios web interactivos</strong>: ahora puede proporcionar a los organizadores y moderadores la capacidad de agregar un título de seminario web, cambiar el nombre de una sala y sincronizar manualmente los datos de participación después de la entrega del evento.</td> 
+     <tr>
+   <td><strong>Mejoras en los seminarios web interactivos</strong>: ahora puede proporcionar a los organizadores y moderadores la capacidad de agregar un título de seminario web, cambiar el nombre de una sala y sincronizar manualmente los datos de participación después de la entrega del evento.</td>
    <td>Enviado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Crear un seminario web interactivo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronización manual</a></li></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Mejoras en la pista de auditoría</strong>: 
-   Ahora se pueden capturar nuevos tipos de acciones en la pista de auditoría para los cambios realizados en Administración de campos, los cambios realizados en Usuarios y funciones y el recuento de personas exportadas desde listas y listas inteligentes.</td> 
+    <tr>
+   <td><strong>Mejoras en la pista de auditoría</strong>:
+   Ahora se pueden capturar nuevos tipos de acciones en la pista de auditoría para los cambios realizados en Administración de campos, los cambios realizados en Usuarios y funciones y el recuento de personas exportadas desde listas y listas inteligentes.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Nuevos permisos de usuarios y funciones</strong>: Hay nuevos permisos disponibles que proporcionan a los usuarios un acceso más granular al Marketo Engage. Controle las partes del administrador que no estaban bloqueadas anteriormente, como Nueva experiencia y Audiencias predictivas, divida los permisos para conceder acceso a la pista de auditoría de recursos y a la pista de auditoría de administración por separado y utilice los nuevos permisos de creación y movimiento de recursos y carpetas para evitar que los usuarios de solo lectura realicen cambios. 
+    <tr>
+   <td><strong>Nuevos permisos de usuarios y funciones</strong>: Hay nuevos permisos disponibles que proporcionan a los usuarios un acceso más granular a Marketo Engage. Controle las partes del administrador que no estaban bloqueadas anteriormente, como Nueva experiencia y Audiencias predictivas, divida los permisos para conceder acceso a la pista de auditoría de recursos y a la pista de auditoría de administración por separado y utilice los nuevos permisos de creación y movimiento de recursos y carpetas para evitar que los usuarios de solo lectura realicen cambios.
    <p>Aunque los nuevos permisos aparecerán en la instancia de Marketo Engage a partir del 26 de abril, por ahora son pasivos y estarán accesibles a finales de este trimestre.
    <li>Acceso a Adobe Experience Manager</li>
-   <li>Asignación de organización de Adobe de acceso</li>
+   <li>Acceso a asignación de organización de Adobe</li>
    <li>Registro de auditoría de administración de acceso</li>
    <li>Acceder a pista de auditoría de activos</li>
    <li>Acceder a nueva experiencia</li>
@@ -65,77 +65,77 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <li>Crear informe</li>
    <li>Crear lista</li>
    <li>Exportar actividad de campaña</li>
-   </td> 
+   </td>
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descripciones de los permisos de funciones</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
 ## Anuncios {#announcements}
 
-* **Actualización de la API de actividades**: El 26 de abril agregaremos varios atributos nuevos a las actividades basadas en la web y en correo electrónico que se devuelven al recuperar actividades mediante la [API de REST de Marketo](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Las actividades enumeradas a continuación ahora incluyen atributos de explorador, plataforma, dispositivo y agente de usuario. Llame al extremo [Get Activity Types](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} para revisar los detalles de atributos de cada actividad.
+* **Actualización de la API de actividades**: El 26 de abril agregaremos varios atributos nuevos a las actividades basadas en la web y en correo electrónico que se devuelven al recuperar actividades mediante la [API de REST de Marketo](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Las actividades enumeradas a continuación ahora incluyen atributos de explorador, plataforma, dispositivo y agente de usuario. Llame al extremo [Obtener tipos de actividades](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} para revisar los detalles de atributos de cada actividad.
 
 **Actividades basadas en Web**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Actividad</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Actividad</th>
    <th style="width:70%">Atributos añadidos recientemente</th>
    </tr>
-  <tr> 
-   <td>Visit Webpage</td> 
+  <tr>
+   <td>Visit Webpage</td>
    <td>Explorador, plataforma y dispositivo</td>
   </tr>
-   <tr> 
-   <td>Completar formulario</td> 
+   <tr>
+   <td>Completar formulario</td>
    <td>Explorador, plataforma y dispositivo</td>
   </tr>
-  <tr> 
-   <td>Haga clic en Vínculo</td> 
+  <tr>
+   <td>Haga clic en Vínculo</td>
    <td>Explorador, plataforma y dispositivo</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 **Actividades basadas en correo electrónico**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Actividad</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Actividad</th>
    <th style="width:70%">Atributos añadidos recientemente</th>
   </tr>
-   <tr> 
-   <td>Enviar email</td> 
+   <tr>
+   <td>Enviar correo electrónico</td>
    <td>Explorador, plataforma, dispositivo, agente de usuario</td>
   </tr>
    </tr>
-  <tr> 
-   <td>Email entregado</td> 
+  <tr>
+   <td>Email entregado</td>
    <td>Explorador, plataforma, dispositivo, agente de usuario</td>
   </tr>
-   <tr> 
-   <td>Se rechazó el email</td> 
+   <tr>
+   <td>Se rechazó el email</td>
    <td>Explorador, plataforma, dispositivo, agente de usuario</td>
   </tr>
-  <tr> 
-   <td>Cancelar suscripción a los correos electrónicos</td> 
+  <tr>
+   <td>Cancelar suscripción a los correos electrónicos</td>
    <td>Explorador, plataforma y dispositivo</td>
   </tr>
-  <tr> 
-   <td>Abrir correo electrónico</td> 
-   <td>Navegador</td>
+  <tr>
+   <td>Abrir correo electrónico</td>
+   <td>Explorador</td>
   </tr>
-   <tr> 
-   <td>Hacer clic en el correo electrónico</td> 
-   <td>Navegador</td>
+   <tr>
+   <td>Hacer clic en el correo electrónico</td>
+   <td>Explorador</td>
   </tr>
-  <tr> 
-   <td>Se rechazó temporalmente el email</td> 
+  <tr>
+   <td>Se rechazó temporalmente el email</td>
    <td>Explorador, plataforma, dispositivo, agente de usuario</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

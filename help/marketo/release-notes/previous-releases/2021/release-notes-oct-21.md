@@ -3,7 +3,7 @@ description: 'Notas de la versión, octubre de 2021: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1090'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 **[!DNL Sales Insight]para[!DNL Salesforce]**
 
-* **Lo más probable** en el nivel de cuenta y oportunidad: Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
+* **Lo más probable[!UICONTROL  en el nivel de cuenta y oportunidad:]** Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
 
 ## [!DNL Sales Connect] {#sales-connect}
 

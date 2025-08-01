@@ -4,7 +4,7 @@ description: 'SEO: Explicación de palabras clave - Documentos de Marketo: docum
 title: 'SEO: Explicación de palabras clave'
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -21,35 +21,35 @@ La sección [!UICONTROL Palabras clave] le mostrará el éxito que ha tenido su 
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre de columna</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Frase de palabra clave</span></td> 
-   <td colspan="1" rowspan="1">La palabra clave en cuestión.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Clasificación y tendencia</span></td> 
-   <td colspan="1" rowspan="1"><p>La clasificación del sitio para esta palabra clave. Las flechas muestran las tendencias de la clasificación de palabras clave de la semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = aumentar clasificación</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rango inferior</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= clasificación igual</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Nivel de competencia</span></td> 
-   <td colspan="1" rowspan="1">La dificultad de obtener una clasificación para una palabra clave específica. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Búsquedas mensuales</span></td> 
-   <td colspan="1" rowspan="1">Cuántas búsquedas ocurren por mes en la palabra clave. Estos datos se basan en coincidencias exactas y solo están disponibles para Google-US durante un periodo de 12 meses. </td> 
-  </tr> 
-  <tr> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre de columna</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Frase de palabra clave</span></td>
+   <td colspan="1" rowspan="1">La palabra clave en cuestión.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Clasificación y tendencia</span></td>
+   <td colspan="1" rowspan="1"><p>La clasificación del sitio para esta palabra clave. Las flechas muestran las tendencias de la clasificación de palabras clave de la semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = aumentar clasificación</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rango inferior</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= clasificación igual</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Nivel de competencia</span></td>
+   <td colspan="1" rowspan="1">La dificultad de obtener una clasificación para una palabra clave específica. </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Búsquedas mensuales</span></td>
+   <td colspan="1" rowspan="1">Cuántas búsquedas ocurren por mes en la palabra clave. Estos datos se basan en coincidencias exactas y solo están disponibles para Google-US durante un periodo de 12 meses. </td>
+  </tr>
+  <tr>
    <td colspan="1" rowspan="1"><span class="uicontrol">URL de clasificación más alta para la frase clave</span></td>
-   <td colspan="1" rowspan="1">De sus direcciones URL, que es la de mayor clasificación para la palabra clave.</td> 
-  </tr> 
- </tbody> 
+   <td colspan="1" rowspan="1">De sus direcciones URL, que es la de mayor clasificación para la palabra clave.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

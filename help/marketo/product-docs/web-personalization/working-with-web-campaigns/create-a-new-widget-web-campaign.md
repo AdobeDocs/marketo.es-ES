@@ -4,7 +4,7 @@ description: 'Creación de una nueva campaña web de widgets: documentos de Mark
 title: Creación de una nueva campaña web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 0%
@@ -37,60 +37,60 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Plantillas</strong></td> 
-   <td colspan="1">Elija entre una de varias plantillas prefabricadas.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Mostrar activado</strong></td> 
-   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra su campaña web.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animar entrada/salida</strong></td> 
-   <td colspan="1">Se establece al entrar o salir del cuadro de diálogo. Seleccionar efecto (soltar, persiana, deslizarse, atenuar, sin efecto), duración (en segundos) y dirección (arriba, abajo, izquierda, derecha).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Posición</strong></td> 
-   <td colspan="1">Seleccione una de las cuatro opciones para la posición del widget en la página: Derecha, Izquierda, Superior, Inferior. % de posición es el porcentaje de la posición en cuanto a dónde aparecerá el widget en la página del navegador (por ejemplo, "50 % inferior" hará que el widget aparezca a mitad de camino hacia abajo en la parte inferior de la página, "10 % izquierdo" hará que el widget aparezca cerca de la parte superior izquierda de la página, etc.).<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Color de widget</strong></td> 
-   <td colspan="1" rowspan="1"><p>Seleccione el color del widget en una tabla de colores o introdúzcalo como código de color de RGB. También puede seleccionar el nivel de transparencia del fondo del widget moviendo la barra en la parte inferior en cualquier dirección.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Botón Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personalice el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Tipos de archivo aceptados: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: el widget puede ser texto; personalice su color, tamaño y fuente.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Adhesivo</strong></td> 
-   <td colspan="1">Si selecciona esta opción, se asegura de que el widget aparezca en todas las páginas web durante toda la sesión del visitante.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Minimizar el widget en la visualización de Campaign</strong></td> 
-   <td colspan="1">Inserta el widget pero lo mantiene minimizado, lo que requiere que el usuario haga clic en él para maximizarlo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Restaurar predeterminado </strong></td> 
-   <td colspan="1">Restaura la configuración predeterminada original del widget, estableciendo el color del widget en la opción gris transparente predeterminada.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Vista previa en el sitio </strong></td> 
-   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br> 
-    <ul> 
-     <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li> 
-     <li>Vista previa: haga clic en <strong>Vista previa </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña (añada la <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensión de Chrome</a> para disfrutar de la mejor experiencia de vista previa de campañas web). </li> 
-     <li>Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Plantillas</strong></td>
+   <td colspan="1">Elija entre una de varias plantillas prefabricadas.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Mostrar activado</strong></td>
+   <td colspan="1">Le permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra su campaña web.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animar entrada/salida</strong></td>
+   <td colspan="1">Se establece al entrar o salir del cuadro de diálogo. Seleccionar efecto (soltar, persiana, deslizarse, atenuar, sin efecto), duración (en segundos) y dirección (arriba, abajo, izquierda, derecha).</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Posición</strong></td>
+   <td colspan="1">Seleccione una de las cuatro opciones para la posición del widget en la página: Derecha, Izquierda, Superior, Inferior. % de posición es el porcentaje de la posición en cuanto a dónde aparecerá el widget en la página del navegador (por ejemplo, "50 % inferior" hará que el widget aparezca a mitad de camino hacia abajo en la parte inferior de la página, "10 % izquierdo" hará que el widget aparezca cerca de la parte superior izquierda de la página, etc.).<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Color de widget</strong></td>
+   <td colspan="1" rowspan="1"><p>Seleccione el color del widget en una tabla de colores o introdúzcalo como código de color de RGB. También puede seleccionar el nivel de transparencia del fondo del widget moviendo la barra en la parte inferior en cualquier dirección.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Botón Widget</strong><br></p></td>
+   <td colspan="1" rowspan="1">Personalice el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Tipos de archivo aceptados: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: el widget puede ser texto; personalice su color, tamaño y fuente.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Adhesivo</strong></td>
+   <td colspan="1">Si selecciona esta opción, se asegura de que el widget aparezca en todas las páginas web durante toda la sesión del visitante.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Minimizar el widget en la visualización de Campaign</strong></td>
+   <td colspan="1">Inserta el widget pero lo mantiene minimizado, lo que requiere que el usuario haga clic en él para maximizarlo.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Restaurar predeterminado </strong></td>
+   <td colspan="1">Restaura la configuración predeterminada original del widget, estableciendo el color del widget en la opción gris transparente predeterminada.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Vista previa en el sitio </strong></td>
+   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br>
+    <ul>
+     <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li>
+     <li>Vista previa: haga clic en <strong>Vista previa </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña (añada la <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensión de Chrome</a> para disfrutar de la mejor experiencia de vista previa de campañas web). </li>
+     <li>Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

@@ -3,10 +3,10 @@ description: Generación de preguntas - Documentos de Marketo - Documentación d
 title: Generación de preguntas
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
    >[!IMPORTANT]
    >
-   >Para garantizar que el Marketo Engage pueda crear secuencias de comandos de contenido desde las direcciones URL proporcionadas, primero debe realizar la lista de permitidos de varias direcciones IP. [Vea los detalles a continuación](#ip-addresses-to-allowlist).
+   >Para garantizar que Marketo Engage pueda crear secuencias de comandos de contenido desde las direcciones URL proporcionadas, primero debe realizar la lista de permitidos de varias direcciones IP. [Vea los detalles a continuación](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >

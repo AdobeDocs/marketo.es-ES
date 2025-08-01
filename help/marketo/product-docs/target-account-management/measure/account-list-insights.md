@@ -4,7 +4,7 @@ description: Información de la lista de cuentas - Documentos de Marketo - Docum
 title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -29,17 +29,17 @@ Para ver el tablero de una lista de cuentas, simplemente haga clic en su nombre.
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">En preparación</span></strong></td> 
-   <td colspan="1">Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Ingresos</span></strong></td> 
-   <td><p>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">En preparación</span></strong></td>
+   <td colspan="1">Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Ingresos</span></strong></td>
+   <td><p>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Pestaña Cuentas con nombre {#named-accounts-tab}

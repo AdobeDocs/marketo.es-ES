@@ -4,10 +4,10 @@ description: 'Añadir persona a la Lista de bloqueados: documentos de Marketo, d
 title: Añadir persona a la Lista de bloqueados
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

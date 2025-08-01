@@ -3,7 +3,7 @@ description: 'Notas de la versión, abril de 2025: Documentos de Marketo: docume
 title: Notas de la versión, abril de 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 4%
@@ -24,19 +24,19 @@ Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aqu�
 
 Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **25 de abril de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Función</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Función</th>
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
   </tr>
-  <tr> 
-   <td><strong>Autoservicio de capa de sockets seguros (SSL)</strong>: el cifrado SSL le permite hacer que las páginas de aterrizaje de una instancia de Marketo Engage sean seguras. Para habilitar esta función se necesitaba la asistencia del equipo de asistencia de Adobe. Los usuarios de Marketo ahora pueden habilitarlo por su cuenta, lo que ahorra un tiempo valioso.</td> 
+  <tr>
+   <td><strong>Autoservicio de capa de sockets seguros (SSL)</strong>: el cifrado SSL le permite hacer que las páginas de aterrizaje de una instancia de Marketo Engage sean seguras. Para habilitar esta función se necesitaba la asistencia del equipo de asistencia de Adobe. Los usuarios de Marketo ahora pueden habilitarlo por su cuenta, lo que ahorra un tiempo valioso.</td>
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">Añadir SSL a las páginas de aterrizaje</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -46,9 +46,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 Para acceder a esta función, debe haber adquirido el complemento de Analytics de BI avanzado. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Desaprobación de funciones sociales**: El miércoles 31 de julio de 2024, Marketo Engage comenzó la desaprobación de las siguientes funciones sociales del producto:
 

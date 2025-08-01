@@ -3,7 +3,7 @@ description: Programa de seminarios web WBN-AAAA-MM-DD - Documentos de Marketo -
 title: Programa de seminarios web sobre WBN-AAAA-MM-DD
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 15%
@@ -12,23 +12,23 @@ ht-degree: 15%
 
 # Programa de seminarios web sobre WBN-AAAA-MM-DD {#wbn-yyyy-mm-dd-webinar-program}
 
-Este es un ejemplo de programa de seminario web con administración de registro, tres correos electrónicos de invitación, recordatorio de asistencia y correos electrónicos de seguimiento que utilizan un programa de eventos para Marketo Engage.
+Este es un ejemplo de programa de seminario web con administración de registro, tres correos electrónicos de invitación, recordatorio de asistencia y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, ponte en contacto con el equipo de la cuenta de Adobe o visita la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Estado de abono</th>
    <th>Comportamiento de análisis</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Evento</td> 
-   <td>01 - Invitado 
+  </tr>
+  <tr>
+   <td>Evento</td>
+   <td>01 - Invitado
    <br/>02 - En lista de espera
    <br/>03 - Registrados
    <br/>04 - Sin presentación
@@ -38,256 +38,256 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pon
    <td>Evento
    <p>(Integrado: evento con seminario web)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nombre de plantilla</th>
    <th>Nombre del recurso</th>
-  </tr> 
-  <tr> 
-   <td>Correo electrónico</td> 
+  </tr>
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01 - Correo electrónico - Invitación</td>
   </tr>
-   <tr> 
-   <td>Correo electrónico</td> 
+   <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02 - Correo electrónico - Recordatorio de invitación</td>
   </tr>
-   <tr> 
-   <td>Correo electrónico</td> 
+   <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>03 - Correo electrónico - Recordatorio de invitación - Última oportunidad</td>
   </tr>
-  <tr> 
-   <td>Correo electrónico</td> 
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>04 - Correo electrónico: confirmación de registro</td>
   </tr>
-  <tr> 
-   <td>Correo electrónico</td> 
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>05 - Correo electrónico: recordatorio de asistencia</td>
   </tr>
-  <tr> 
-   <td>Correo electrónico</td> 
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>06 -Correo electrónico - Seguimiento - Asistió</td>
   </tr>
-  <tr> 
-   <td>Correo electrónico</td> 
+  <tr>
+   <td>Correo electrónico</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>07 - Correo electrónico - Seguimiento - Sin presentación </td>
   </tr>
   <tr>
-  <tr> 
-   <td>Formulario</td> 
+  <tr>
+   <td>Form</td>
    <td> </td>
    <td>Registro de eventos FM</td>
   </tr>
-  <tr> 
-   <td>Página de aterrizaje</td> 
+  <tr>
+   <td>Página de destino</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
-  <tr> 
-   <td>Página de aterrizaje</td> 
+  <tr>
+   <td>Página de destino</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>02 - LP - Gracias</td>
   </tr>
-  <tr> 
-   <td>Página de aterrizaje</td> 
+  <tr>
+   <td>Página de destino</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>03 - LP - Bajo demanda</td>
   </tr>
-  <tr> 
-   <td>Informe local</td> 
+  <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño de email</td>
   </tr>
-   <tr> 
-   <td>Informe local</td> 
+   <tr>
+   <td>Informe local</td>
    <td> </td>
    <td>Desempeño de página de destino</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>00 - Programa de adquisición de capturas</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>01 - Registros de procesos</td>
   </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
+   <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>02a - Enviar invitación</td>
   </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
+   <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>02b - Enviar recordatorio de invitación</td>
   </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
+   <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>02c - Enviar recordatorio de invitación Última oportunidad</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>03 - Enviar recordatorio de asistencia</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>04 - Envío de correos electrónicos de seguimiento</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>05 - Asistencia a petición (éxito del programa)</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
-   <td>Assets: aloja todos los recursos creativos 
+   <td>Assets: aloja todos los recursos creativos
 <br/>(subcarpetas para correo electrónico, páginas de aterrizaje y Forms)</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Campañas: aloja todas las campañas inteligentes</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Informes</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
 
 ## Mis tokens incluidos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nombre del token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Archivo de calendario</td> 
+  <tr>
+   <td>Archivo de calendario</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Haga doble clic para obtener detalles</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
    <td>my.DownloadURL?without=http:// </td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>Texto enriquecido</td> 
+   <tr>
+   <td>Texto enriquecido</td>
    <td><code>{{my.Event-Description}}</code></td>
-   <td>Haga doble clic para obtener detalles  
-<br/><code><--My Event Description Here--></code> 
-<br/>Edite esta descripción de evento en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá lo siguiente: 
+   <td>Haga doble clic para obtener detalles
+<br/><code><--My Event Description Here--></code>
+<br/>Edite esta descripción de evento en el nivel de programa, en la pestaña Mis tokens.
+<br/>Aprenderá lo siguiente:
 <li>Viñeta 1</li>
 <li>Viñeta 2</li>
 <li>Viñeta 3</li></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Seminario web</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.PageURL-Download}}</code></td>
    <td>my.DownloadURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-   <tr> 
-   <td>Texto</td> 
+   <tr>
+   <td>Texto</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker1-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker1-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker2-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker2-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker3-Name}}</code></td>
    <td><code><--Speaker Name Here--></code></td>
   </tr>
- <tr> 
-   <td>Texto</td> 
+ <tr>
+   <td>Texto</td>
    <td><code>{{my.Speaker3-Title}}</code></td>
    <td><code><--Speaker Title Here--></code></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Reglas de conflicto {#conflict-rules}

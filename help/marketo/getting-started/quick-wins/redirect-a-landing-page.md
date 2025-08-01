@@ -4,9 +4,9 @@ description: 'Redireccionar una página de aterrizaje: documentos de Marketo, do
 title: Redireccionar una página de aterrizaje
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -62,4 +62,4 @@ ht-degree: 0%
 
 <br> 
 
-[◄ Mission 9: Actualizar los datos de los posibles clientes](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ misión 9: actualizar datos de posibles clientes](/help/marketo/getting-started/quick-wins/update-person-data.md)

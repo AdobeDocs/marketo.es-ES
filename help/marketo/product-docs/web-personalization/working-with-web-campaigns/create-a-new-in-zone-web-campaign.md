@@ -4,7 +4,7 @@ description: Creación de una nueva campaña web en la zona - Documentos de Mark
 title: Creación de una nueva campaña web en la zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 0%
@@ -37,45 +37,45 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
    >
    >A continuación, desea encontrar el &quot;id&quot; asociado con esta sección del sitio web, que se resalta porque está inspeccionando ese elemento. Por ejemplo, si una vez que hace clic con el botón secundario en Chrome, el texto resaltado indica `<div id="featured-slider">`, entonces &quot;deslizador destacado&quot; es lo que debe escribir en la sección &quot;id de zona&quot;. Normalmente se utiliza &quot;div id&quot;, pero también se puede utilizar cualquier ID, como h1 id, p id, etc.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> ID de zona </strong></td> 
-   <td colspan="1" rowspan="1"><p>Introduzca el nombre del ID que se encuentra en el código HTML del elemento del sitio web al que sustituye la campaña.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Adhesivo </strong></p></td> 
-   <td colspan="1" rowspan="1">La casilla de verificación "Adhesivo" está seleccionada de forma predeterminada para la campaña "En zona" y mantiene la campaña "En zona" en su posición de ID de zona durante toda la sesión del visitante en el sitio web. Se recomienda tener siempre una zona de entrada configurada como fija.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> se desvanece</strong> </p></td> 
-   <td colspan="1" rowspan="1">Al seleccionar la casilla de verificación Usar efecto y Atenuación, se produce un efecto de atenuación en el área ID de zona del sitio web. Si la zona de entrada es un banner gráfico, la página primero se carga y luego la campaña se activa con un efecto de atenuación.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Deslizante</strong></td> 
-   <td colspan="1">Al seleccionar la casilla de verificación Usar efecto y la opción Deslizamiento, se produce un deslizamiento en el área ID de zona del sitio web. Si la zona de entrada es un banner gráfico, la página primero se carga y luego la campaña se activa con un efecto deslizante de izquierda a derecha.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Editor de texto enriquecido  </strong></td> 
-   <td colspan="1">El editor de texto enriquecido permite dar formato al texto, vincular e insertar imágenes. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Más información aquí</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Vista previa en el sitio   </strong></td> 
-   <td colspan="1">Previsualice las campañas antes de iniciarlas. <br> 
-    <ul> 
-     <li> URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li> 
-     <li>Dispositivo: obtenga una vista previa del aspecto de la campaña por dispositivo: Escritorio, Móvil vertical, Móvil horizontal, Tablet vertical, Vertical horizontal.</li> 
-     <li> Vista previa: haga clic en <strong>Vista previa</strong> para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña.</li> 
-     <li> Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> ID de zona </strong></td>
+   <td colspan="1" rowspan="1"><p>Introduzca el nombre del ID que se encuentra en el código HTML del elemento del sitio web al que sustituye la campaña.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Adhesivo </strong></p></td>
+   <td colspan="1" rowspan="1">La casilla de verificación "Adhesivo" está seleccionada de forma predeterminada para la campaña "En zona" y mantiene la campaña "En zona" en su posición de ID de zona durante toda la sesión del visitante en el sitio web. Se recomienda tener siempre una zona de entrada configurada como fija.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> se desvanece</strong> </p></td>
+   <td colspan="1" rowspan="1">Al seleccionar la casilla de verificación Usar efecto y Atenuación, se produce un efecto de atenuación en el área ID de zona del sitio web. Si la zona de entrada es un banner gráfico, la página primero se carga y luego la campaña se activa con un efecto de atenuación.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Deslizante</strong></td>
+   <td colspan="1">Al seleccionar la casilla de verificación Usar efecto y la opción Deslizamiento, se produce un deslizamiento en el área ID de zona del sitio web. Si la zona de entrada es un banner gráfico, la página primero se carga y luego la campaña se activa con un efecto deslizante de izquierda a derecha.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Editor de texto enriquecido  </strong></td>
+   <td colspan="1">El editor de texto enriquecido permite dar formato al texto, vincular e insertar imágenes. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Más información aquí</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Vista previa en el sitio   </strong></td>
+   <td colspan="1">Previsualice las campañas antes de iniciarlas. <br>
+    <ul>
+     <li> URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li>
+     <li>Dispositivo: obtenga una vista previa del aspecto de la campaña por dispositivo: Escritorio, Móvil vertical, Móvil horizontal, Tablet vertical, Vertical horizontal.</li>
+     <li> Vista previa: haga clic en <strong>Vista previa</strong> para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña.</li>
+     <li> Compartir: utilice el botón Compartir para enviar un correo electrónico a un compañero con un vínculo para ver la campaña de proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

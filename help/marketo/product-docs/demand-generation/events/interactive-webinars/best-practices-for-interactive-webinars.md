@@ -3,7 +3,7 @@ description: Prácticas recomendadas para seminarios web interactivos - Document
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -71,7 +71,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 * Active el recordatorio de grabación en las Preferencias de sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
 
 * Habilite el área Host y presentador y configúrela con los pods correspondientes. Esta área solo es visible para los anfitriones y presentadores y se puede usar para colaborar entre bastidores. Algunos pods para incluir aquí serían:
-   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo usar el panel de participación.
+   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo usar el tablero de participación.
    * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
    * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
 
@@ -85,7 +85,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del presentador/anfitrión que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información acerca del uso del Panel de chat.
+* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
 
 * **Chat privado**: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 
@@ -105,7 +105,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Utilice el área de host y presentador como área de backstage para coordinarse de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para ver un breve vídeo sobre el área de Host y Presenter.
 
-* Utilice el modo de preparación para realizar cualquier cambio de último minuto de forma privada. [Haz clic aquí](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para ver un breve vídeo sobre el modo de preparación.
+* Utilice el modo de preparación para realizar cualquier cambio de último minuto de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para ver un breve vídeo sobre el modo de preparación.
 
 * Utilice el panel de control de participación para mantener una pestaña en los niveles de interés de los participantes. Vaya a una encuesta, haga una pregunta de acuerdo o en desacuerdo, envíe una pregunta en el pod de chat o utilice el pod personalizado de Word Cloud para obtener respuestas de los participantes y aumentar los niveles de participación.
 
@@ -113,7 +113,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 ## Posterior a la entrega {#post-delivery}
 
-* Una vez entregado el seminario web, los datos de participación junto con la grabación se pondrán a disposición del Marketo Engage en general en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente, de modo que se pueda utilizar la misma para compartirla con la audiencia y rastrear los datos del seminario web bajo demanda.
+* Una vez entregado el seminario web, los datos de participación junto con la grabación estarán disponibles en Marketo Engage generalmente en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente, de modo que se pueda utilizar la misma para compartirla con la audiencia y rastrear los datos del seminario web bajo demanda.
 
 * Cree Campañas de Nutrición para calificar aún más a los posibles clientes asistentes en función de su participación mediante déclencheur/filtros interactivos de seminarios web y tenga campañas de agradecimiento/pérdida para proporcionar más información sobre el evento, el vínculo de grabación, las estadísticas del evento y los eventos futuros para instar a los no asistentes a volver a conectarse con la organización. Las actividades para no-shows que visitan la grabación pueden ser rastreadas como parte de los seminarios web bajo demanda y se pueden crear más campañas de nutrición para no-shows a través de filtros/déclencheur de seminarios web bajo demanda.
 

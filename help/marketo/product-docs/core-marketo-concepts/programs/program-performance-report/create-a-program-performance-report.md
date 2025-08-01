@@ -4,7 +4,7 @@ description: Creación de un informe de rendimiento del programa - Documentos de
 title: Crear un informe de rendimiento del programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
@@ -27,29 +27,29 @@ Vea excelentes estadísticas sobre sus programas con este informe.
 
 Las columnas de un informe Rendimiento de programa incluyen:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Columna</th> 
-   <th>Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Canal</td> 
-   <td>El tipo de canal del programa.</td> 
-  </tr> 
-  <tr> 
-   <td>Nuevos nombres</td> 
-   <td>Nuevas personas adquiridas por el programa.</td> 
-  </tr> 
-  <tr> 
-   <td>Sin errores</td> 
-   <td>Número de miembros que alcanzaron el éxito según se define en los estados del programa. </td> 
-  </tr> 
-  <tr> 
-   <td>Costo total</td> 
-   <td><p>Suma de todos los costos del período dentro del programa.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Columna</th>
+   <th>Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Canal</td>
+   <td>El tipo de canal del programa.</td>
+  </tr>
+  <tr>
+   <td>Nuevos nombres</td>
+   <td>Nuevas personas adquiridas por el programa.</td>
+  </tr>
+  <tr>
+   <td>Correcto</td>
+   <td>Número de miembros que alcanzaron el éxito según se define en los estados del programa. </td>
+  </tr>
+  <tr>
+   <td>Costo total</td>
+   <td><p>Suma de todos los costos del período dentro del programa.</p></td>
+  </tr>
+ </tbody>
 </table>

@@ -3,7 +3,7 @@ description: OP-Acquisition-API - Documentos de Marketo - Documentación del pro
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 19%
@@ -16,48 +16,48 @@ Este programa de ejemplo es para procesos operativos para rastrear la adquisici�
 
 ## Resumen del canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Estado de abono</th>
    <th>Comportamiento de análisis</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Operativo</td> 
+  </tr>
+  <tr>
+   <td>Operativo</td>
    <td>Miembro 01</td>
    <td>Operativo</td>
    <td>Predeterminado</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## El programa contiene el siguiente Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nombre de plantilla</th>
    <th>Nombre del recurso</th>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>Configurar adquisición - Lote</td>
   </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
+  <tr>
+   <td>Campaña inteligente</td>
    <td> </td>
    <td>Configurar adquisición - Déclencheur</td>
   </tr>
-  <tr> 
-   <td>Carpeta</td> 
+  <tr>
+   <td>Carpeta</td>
    <td> </td>
    <td>Campaigns (contiene todas las campañas inteligentes)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)

@@ -4,7 +4,7 @@ description: Segmentos web - Documentos de Marketo - Documentación del producto
 title: Segmentos web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 0%
@@ -23,35 +23,35 @@ En [!DNL Web Personalizatio] , un visitante puede coincidir con más de un segme
 
 **GRÁFICO:** La página Segmentos muestra un gráfico de barras de los segmentos seleccionados de acuerdo con el número de visitantes del segmento (eje y) y el nombre del segmento (eje x).
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nombre</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Nombre</strong></td> 
-   <td colspan="1" rowspan="1">El título del segmento</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Coincidencias</strong></p></td> 
-   <td colspan="1" rowspan="1">El número de visitantes que cumplen los criterios personalizados y definidos del segmento</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Definir campaña</strong></td> 
-   <td colspan="1" rowspan="1">Permite configurar una CTA de campaña asociada al término de búsqueda seleccionado</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Visitantes</strong></td> 
-   <td colspan="1">Vista previa de la tabla de visitantes asociada al término de búsqueda seleccionado</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Flujo de navegación</strong></td> 
-   <td colspan="1" rowspan="1">Muestra una tabla de la actividad y la ruta URL del visitante en el sitio, así como la duración de su visita a cada página </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nombre</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Nombre</strong></td>
+   <td colspan="1" rowspan="1">El título del segmento</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Coincidencias</strong></p></td>
+   <td colspan="1" rowspan="1">El número de visitantes que cumplen los criterios personalizados y definidos del segmento</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Definir campaña</strong></td>
+   <td colspan="1" rowspan="1">Permite configurar una CTA de campaña asociada al término de búsqueda seleccionado</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Visitantes</strong></td>
+   <td colspan="1">Vista previa de la tabla de visitantes asociada al término de búsqueda seleccionado</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Flujo de navegación</strong></td>
+   <td colspan="1" rowspan="1">Muestra una tabla de la actividad y la ruta URL del visitante en el sitio, así como la duración de su visita a cada página </td>
+  </tr>
+ </tbody>
 </table>
 
 Ver [cómo crear y ver etiquetas de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -187,7 +187,7 @@ Seleccione de una [lista de cuentas con nombre](/help/marketo/product-docs/web-p
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Excluir ISP**
 
@@ -286,7 +286,7 @@ Añada el valor de Event que desee segmentar. Por ejemplo, de fuentes de datos d
 
 **API de contexto de usuario**
 
-Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

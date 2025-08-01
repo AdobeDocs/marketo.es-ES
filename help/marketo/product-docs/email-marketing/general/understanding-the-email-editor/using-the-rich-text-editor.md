@@ -4,7 +4,7 @@ description: Uso del editor de texto enriquecido - Documentos de Marketo - Docum
 title: Uso del editor de texto enriquecido
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 1%
@@ -41,19 +41,19 @@ La configuración del elemento de bloque raíz define qué etiquetas ajustan el 
 
    Si tiene `<div class=“mktEditable”></div>` en una plantilla de correo electrónico, verá el siguiente comportamiento de HTML Source al abrir la sección y escribir &quot;El texto va aquí&quot; en el editor:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>Ninguna</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;El texto está aquí&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;El texto está aquí&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>El texto va aquí<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>Ninguna</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;El texto está aquí&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;El texto está aquí&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>El texto va aquí<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

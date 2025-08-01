@@ -4,7 +4,7 @@ description: 'Integración de RTP con Google Universal Analytics: documentos de 
 title: Integración de RTP con Universal Analytics de Google
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -43,7 +43,6 @@ En esta publicación se explica cómo configurar e integrar la plataforma [!DNL 
    1. Seleccione la **[!UICONTROL cuenta].**
    1. Seleccione la **[!UICONTROL propiedad].**
    1. Seleccione **[!UICONTROL definiciones personalizadas]** y **[!UICONTROL dimensiones personalizadas]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Añada una nueva dimensión personalizada. Haga clic en **[!UICONTROL +Nuevo Dimension personalizado]**
@@ -52,34 +51,34 @@ En esta publicación se explica cómo configurar e integrar la plataforma [!DNL 
 
 1. Agregar las **[!UICONTROL dimensiones personalizadas] siguientes:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Nombre de Dimension personalizado</strong></p></td> 
-   <td><p><strong>Ámbito</strong></p></td> 
-   <td><p><strong>Activo</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organización</strong></p></td> 
-   <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Industria</strong></p></td> 
-   <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Category</strong></p></td> 
-   <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>Grupo RTP</strong></p></td> 
-   <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Nombre de Dimension personalizado</strong></p></td>
+   <td><p><strong>Ámbito</strong></p></td>
+   <td><p><strong>Activo</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organización</strong></p></td>
+   <td><p>Sesión</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Industria</strong></p></td>
+   <td><p>Sesión</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Category</strong></p></td>
+   <td><p>Sesión</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>Grupo RTP</strong></p></td>
+   <td><p>Sesión</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -104,7 +103,7 @@ Una vez que haya activado las dimensiones personalizadas en GUA, vaya a la plata
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **[!UICONTROL Google Universal Analytics]**.
-1. Active **[!UICONTROL 1&rbrace; las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
+1. Active **[!UICONTROL 1} las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
 1. Escriba el **[!UICONTROL número de índice]** de la dimensión alineado con el número de índice en GUA.
 1. Haga clic en **[!UICONTROL Guardar]**.
 

@@ -3,9 +3,9 @@ description: Filtrado de actividad de bots de correo electrónico - Documentos d
 title: Filtrado de actividad de bots de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 
 Utilizamos dos métodos independientes para confirmar la actividad de bots:
 
-* Coincidencia con [lista de bots interactiva de Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Las actividades que coincidan con cualquier elemento de la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
+* Coincidir con [lista de bots interactiva de Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Las actividades que coincidan con cualquier cosa en la lista de IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
 * Hacer coincidir con patrón de proximidad: Cuando se producen dos o más actividades al mismo tiempo (en menos de un segundo), se identifican como bots. Los atributos considerados durante la comparación son:
    * ID de posible cliente (debe ser el mismo)
    * Recurso de correo electrónico (debe ser el mismo)
@@ -71,23 +71,23 @@ Hemos compilado una lista de direcciones IP responsables de generar millones de 
 
 * 40.94.34.52
 * 40.94.34.86
-* 52 34 76 65
+* 52.34.76.65
 * 54.70.53.60
-* 54 71 187 124
+* 54.71.187.124
 * 60.28.2.248
-* 64 235 150 252
-* 64 235 153 10
+* 64.235.150.252
+* 64.235.153.10
 * 64.235.153.2
-* 64 235 154 105
-* 64 235 154 109
-* 64 235 154 140
+* 64.235.154.105
+* 64.235.154.109
+* 64.235.154.140
 * 64.74.215.1
-* 64 74 215 100
+* 64.74.215.100
 * 64.74.215.138
 * 64.74.215.139
 * 64.74.215.142
 * 64.74.215.146
-* 64 74 215 150
+* 64.74.215.150
 * 64.74.215.154
 * 64.74.215.158
 * 64.74.215.162
@@ -103,22 +103,22 @@ Hemos compilado una lista de direcciones IP responsables de generar millones de 
 * 64.74.215.59
 * 64.74.215.86
 * 64.74.215.98
-* 65 154 226 101
-* 66 249 91 149
+* 65.154.226.101
+* 66.249.91.149
 * 70.42.131.106
-* 74 125 217 116
-* 74 217 90 250
-* 104 129 41 4
+* 74.125.217.116
+* 74.217.90.250
+* 104.129.41.4
 * 104.47.55.126
 * 104.47.58.126
 * 104.47.70.126
 * 104.47.73.126
 * 104.47.73.254
 * 104.47.74.126
-* 128 220 160 1
+* 128.220.160.1
 * 155.70.39.101
-* 162 129 251 14
-* 162 129 251 42
+* 162.129.251.14
+* 162.129.251.42
 * 208.52.157.204
 
 >[!NOTE]

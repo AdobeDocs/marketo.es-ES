@@ -4,7 +4,7 @@ description: 'Añadir posibles clientes a una audiencia personalizada en Faceboo
 title: Añadir posibles clientes a una audiencia personalizada en Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL Agregar posibles clientes a la audiencia]**: solo estarán disponibles [!DNL Facebook] audiencias con un subtipo personalizado.\
+   >**[!UICONTROL Agregar posibles clientes a la audiencia]**: solo estarán disponibles [!DNL Facebook] audiencias con un subtipo personalizado.
    >**[!UICONTROL Quitar posibles clientes de la audiencia]**: quita los posibles clientes de la lista estática o inteligente de una audiencia [!DNL Facebook].
 
 1. Cuando termine, el estado se actualizará.

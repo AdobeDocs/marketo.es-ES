@@ -4,7 +4,7 @@ description: Explicación de los modelos de ingresos - Documentos de Marketo - D
 title: Explicación de los modelos de ingresos
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -57,15 +57,15 @@ Cada compañía es diferente. Puede agregar cosas al modelo arrastrando desde la
 
 Esto parece una caja y es la más básica de las etapas. Analytics realizará un seguimiento de las entradas, las salidas y el equilibrio de esta fase.
 
-## Fase de SLA {#sla-stage}
+## SLA Stage {#sla-stage}
 
-Esta es la abreviatura de la fase **Contrato de nivel de servicio**. La intención aquí es que algunas etapas querrán aplicar un límite de tiempo.
+Es la abreviatura del escenario **Service level agreement**. La intención aquí es que algunas etapas querrán aplicar un límite de tiempo.
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Cuando un posible cliente rellena un formulario de &quot;Contáctenos&quot; y envía una alerta a un representante de ventas, es posible que desee un SLA de 72 horas. Podrás seguir la pista de las infracciones y reprender al representante por dejar incomunicado a un buen líder.
+>Cuando un posible cliente rellena un formulario de &quot;Contáctenos&quot; y envía una alerta a un representante de ventas, es posible que desee una SLA de 72 horas. Podrás seguir la pista de las infracciones y reprender al representante por dejar incomunicado a un buen líder.
 
 ## Fase de puerta {#gate-stage}
 

@@ -3,7 +3,7 @@ description: Seminarios Web Bajo Demanda - Documentos De Marketo - Documentació
 title: Seminarios web bajo demanda
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Seminarios web bajo demanda {#on-demand-webinars}
 
-Los seminarios web a petición capturan y perfeccionan los posibles clientes que se registraron en el evento y que no asistieron, pero que desean obtener información relacionada con el evento observando la grabación. La información como el nombre, el ID de correo electrónico y la fecha y duración de la inspección se puede recopilar en Marketo Engage y utilizar para dirigirse a estos posibles clientes que no se muestran.
+Los seminarios web a petición capturan y perfeccionan los posibles clientes que se registraron en el evento y que no asistieron, pero que desean obtener información relacionada con el evento observando la grabación. La información como el nombre, el ID de correo electrónico y la fecha y duración del seguimiento se puede recopilar en Marketo Engage y utilizar para dirigirse a estos posibles clientes que no acuden.
 
 La URL de unión al seminario web que se compartió con los inscritos antes del evento se puede utilizar para ver la grabación bajo demanda. Una vez que un usuario registrado que no asistió al evento en directo (por ejemplo, un posible cliente con un estado de programa como &quot;No presentarse&quot;), hace clic en la URL de unión al seminario web, el estado del programa de ese posible cliente cambia de &quot;No presentarse&quot; a &quot;Asistido bajo demanda&quot;. El estado del programa de los posibles clientes que vieron el evento en directo y tienen el estado &quot;Asistido&quot; no se vería afectado si deciden visitar la URL de unión y ver la grabación bajo demanda.
 
-Adobe Connect, la tecnología que facilita los seminarios web interactivos, realiza un seguimiento de la visita y de la duración del reloj correspondientes a los posibles clientes que ven la grabación, e informa de la información al Marketo Engage diariamente. El seguimiento de los seminarios web a petición se detiene 30 días después del evento. No se puede modificar la duración.
+Adobe Connect, la tecnología que activa los seminarios web interactivos, realiza un seguimiento de la visita y de la duración del reloj correspondientes a los posibles clientes que ven la grabación, e informa de la información a Marketo Engage diariamente. El seguimiento de los seminarios web a petición se detiene 30 días después del evento. No se puede modificar la duración.
 
-Marketo Engage proporciona las estadísticas de inspección para los seminarios web bajo demanda en la pestaña Panel con la ayuda de los siguientes widgets:
+Marketo Engage proporciona las estadísticas de inspección para los seminarios web bajo demanda en la pestaña Tablero con la ayuda de los siguientes widgets:
 
 * Resumen a petición: Proporciona un resumen del recuento de visitantes (no-espectadores) que ven la grabación después del evento en un día determinado
 

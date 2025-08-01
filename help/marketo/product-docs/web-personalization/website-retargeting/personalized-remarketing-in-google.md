@@ -4,7 +4,7 @@ description: Remarketing personalizado en Google - Documentos de Marketo - Docum
 title: Remarketing personalizado en Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -34,7 +34,7 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. En el Generador de audiencias, haga clic en **[!UICONTROL Secuencias]** y **[!UICONTROL Busque los datos RTP]** en [!UICONTROL Dimensiones personalizadas], [!UICONTROL UICONTROL [.]Variables personalizadas &#x200B;], [!UICONTROL Eventos].
+1. En el Generador de audiencias, haga clic en **[!UICONTROL Secuencias]** y **[!UICONTROL Busque los datos RTP]** en [!UICONTROL Dimensiones personalizadas], [!UICONTROL [.]Variables personalizadas UICONTROL], [!UICONTROL Eventos].
 
 >[!TIP]
 >

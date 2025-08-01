@@ -4,7 +4,7 @@ description: Informe de rendimiento de vínculos de correo electrónico - Docume
 title: Informe de rendimiento del vínculo de correo electrónico
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Cree un informe de rendimiento de vínculos de correo electrónico para ver el r
 
 [Las columnas disponibles](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de vínculos de correo electrónico incluyen:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Columna]</th> 
-   <th colspan="1" rowspan="1">Descripción</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Vínculo]</td> 
-   <td colspan="1" rowspan="1">Agrupado por nombre de correo electrónico.<br>Haga clic en el signo más (+) para ver todos los vínculos incluidos en ese correo electrónico.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clics]</td> 
-   <td colspan="1" rowspan="1">El número de veces que se hizo clic en ese vínculo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Del total de clics en todos los vínculos de ese correo electrónico, el porcentaje corresponde a este vínculo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Personas]</td> 
-   <td colspan="1" rowspan="1">El número de personas únicas que hicieron clic en el vínculo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Personas]</td> 
-   <td colspan="1" rowspan="1">Del total de personas únicas que hicieron clic en vínculos en ese correo electrónico, el porcentaje corresponde a este vínculo.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Columna]</th>
+   <th colspan="1" rowspan="1">Descripción</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Vínculo]</td>
+   <td colspan="1" rowspan="1">Agrupado por nombre de correo electrónico.<br>Haga clic en el signo más (+) para ver todos los vínculos incluidos en ese correo electrónico.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clics]</td>
+   <td colspan="1" rowspan="1">El número de veces que se hizo clic en ese vínculo.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Del total de clics en todos los vínculos de ese correo electrónico, el porcentaje corresponde a este vínculo.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Personas]</td>
+   <td colspan="1" rowspan="1">El número de personas únicas que hicieron clic en el vínculo.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Personas]</td>
+   <td colspan="1" rowspan="1">Del total de personas únicas que hicieron clic en vínculos en ese correo electrónico, el porcentaje corresponde a este vínculo.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

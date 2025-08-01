@@ -3,7 +3,7 @@ description: 'Información general sobre el flujo de conversación: documentos d
 title: Resumen de flujo de conversación
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Resumen de flujo de conversación {#conversational-flow-overview}
 
-Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de llamada a la acción, al cargar la página, el tiempo invertido en la página, etc.).
+Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de call-to-action, al cargar la página, el tiempo invertido en la página, etc.).
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -20,30 +20,30 @@ Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitant
 
 Aunque los cuadros de diálogo y los flujos de conversación tienen varias similitudes, son dos características independientes.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:50%">Diálogos</th> 
-   <th style="width:50%">Flujos de conversación</th>
-  </tr> 
-  <tr> 
-   <td>Los cuadros de diálogo son objetivos: se diseña una conversación para una página y una audiencia específicas en función de los parámetros implementados.</td> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:50%">Diálogos</th>
+   <th style="width:50%">Flujos conversacionales</th>
+  </tr>
+  <tr>
+   <td>Los cuadros de diálogo son objetivos: se diseña una conversación para una página y una audiencia específicas en función de los parámetros implementados.</td>
    <td>Los flujos de conversación se activan: diseña una conversación que se puede activar en función de la acción de un visitante, como rellenar un formulario, hacer clic en un vínculo, etc.</td>
   </tr>
-   <tr> 
-   <td>Solo se admite en la interfaz del bot de chat.</td> 
+   <tr>
+   <td>Solo se admite en la interfaz del bot de chat.</td>
    <td>Actualmente se admite en una interfaz emergente, con más interfaces planificadas.</td>
   </tr>
   </tr>
-   <tr> 
-   <td>Se pueden crear varios cuadros de diálogo para el mismo segmento de posibles clientes, con un orden de prioridad para que cada visitante vea el cuadro de diálogo en secuencia según la prioridad a medida que continúa interactuando.</td> 
-   <td>Los flujos de conversación no tienen orden de prioridad y el mismo posible cliente puede activarlos cualquier cantidad de veces en función de la llamada a acción determinada.</td>
+   <tr>
+   <td>Se pueden crear varios cuadros de diálogo para el mismo segmento de posibles clientes, con un orden de prioridad para que cada visitante vea el cuadro de diálogo en secuencia según la prioridad a medida que continúa interactuando.</td>
+   <td>Los flujos de conversación no tienen orden de prioridad y el mismo posible cliente puede activarlos cualquier cantidad de veces según la call-to-action determinada.</td>
   </tr>
   <tr>
    <td>Las conversaciones con los bots de chat utilizan los cuadros de diálogo.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">El Forms de conversación</a> en Marketo Engage funciona con Flujos de conversación.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms de conversación</a> en Marketo Engage funciona con Flujos de conversación.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Ficha Stream Designer {#stream-designer-tab}
@@ -74,7 +74,7 @@ En la mitad superior de la pestaña Configuración, puede actualizar el nombre d
 >
 >Al seleccionar un idioma diferente, solo cambia el idioma del texto del sistema. Usted es responsable de traducir contenido.
 
-### SDK de conversaciones {#conversations-sdk}
+### Conversaciones SDK {#conversations-sdk}
 
 En la mitad inferior de la pestaña Configuración, personalice el déclencheur de conversación, también conocido como SDK de conversaciones. Puede decidir si la conversación se activa en el sitio web cuando un visitante hace clic en un vínculo o al cargar la página.
 
@@ -82,7 +82,7 @@ En la mitad inferior de la pestaña Configuración, personalice el déclencheur 
 
 >[!TIP]
 >
->¡Vea el [SDK de conversaciones](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=es){target="_blank"} en acción!
+>Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en acción.
 
 >[!MORELIKETHIS]
 >

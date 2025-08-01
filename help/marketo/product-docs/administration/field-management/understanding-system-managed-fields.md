@@ -4,7 +4,7 @@ description: Explicación de los campos administrados por el sistema - Documento
 title: Explicación de los campos administrados por el sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 16%
@@ -97,7 +97,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Se ha descubierto una persona en la sincronización de Salesforce</td>
+    <td>Se detectó la persona a partir de la sincronización de Salesforce</td>
   </tr>
   <tr>
     <td>Visitas a páginas web</td>
@@ -121,7 +121,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>Correo electrónico de ventas</td>
-    <td>Se ha enviado un correo electrónico a la persona a través del complemento de correo electrónico de Sales Insight</td>
+    <td>Se ha enviado un correo electrónico a la persona mediante el complemento de correo electrónico de Sales Insight</td>
   </tr>
   <tr>
     <td>Persona</td>
@@ -133,7 +133,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>API de Munchkin</td>
-    <td>La persona fue descubierta por la API de Marketo Engage Munchkin</td>
+    <td>La API de Munchkin de Marketo Engage ha descubierto la persona</td>
   </tr>
   <tr>
     <td>Aplicación social</td>
@@ -165,7 +165,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>Se convirtió en una persona a través de la sincronización de Salesforce</td>
+    <td>Convertirse en persona mediante la sincronización de Salesforce</td>
   </tr>
   <tr>
     <td>Rellenado de formulario web</td>
@@ -173,11 +173,11 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>Correo electrónico de ventas</td>
-    <td>Se ha enviado un correo electrónico a la persona a través del complemento de correo electrónico de Sales Insight</td>
+    <td>Se ha enviado un correo electrónico a la persona mediante el complemento de correo electrónico de Sales Insight</td>
   </tr>
   <tr>
     <td>API de servicios web</td>
-    <td>SOAP La persona se ha creado mediante la API de/REST</td>
+    <td>La persona se ha creado mediante la API de SOAP/REST</td>
   </tr>
   <tr>
     <td>Nueva persona</td>
@@ -185,7 +185,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>API de Munchkin</td>
-    <td>Hágase persona a través de la API Munchkin de Marketo</td>
+    <td>Convertirse en persona mediante la API de Munchkin de Marketo</td>
   </tr>
   <tr>
     <td>Aplicación social</td>

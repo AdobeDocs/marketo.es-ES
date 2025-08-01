@@ -2,7 +2,7 @@
 description: 'Conectar con Outlook: documentos de Marketo: documentación del producto'
 title: Conectarse a Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Conectarse a Outlook {#connect-to-outlook}
 
-Obtenga información sobre cómo conectar su cuenta de acciones de perspectiva de ventas con Outlook.
+Obtenga información sobre cómo conectar su cuenta de acciones de Sales Insight con Outlook.
 
 >[!NOTE]
 >
@@ -45,15 +45,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>También conocido como Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>También conocido como Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Incluye Exchange 2013 y 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Incluye Exchange 2013 y 2016</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>También conocido como Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>También conocido como Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Incluye Exchange 2013 y 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Incluye Exchange 2013 y 2016</td>
      </tr>
     </tbody>
    </table>
@@ -145,8 +145,8 @@ Es posible que tenga que trabajar con su equipo de TI para obtener permiso para 
 
 En función de las preferencias de su equipo informático y de la configuración actual, es mejor consultar con él sobre cómo conceder acceso. A continuación se muestran algunos artículos que pueden ayudar a guiar la conversación.
 
-* Consentimiento global: [aplicaciones integradas y Azure AD para administradores de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Consentimiento de usuario: [Configurar el consentimiento de los usuarios a las aplicaciones](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Consentimiento de administrador: [Configurar el flujo de trabajo del consentimiento de administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Activar o desactivar el consentimiento del usuario: [Administrar el consentimiento del usuario para las aplicaciones de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Consentimiento global: [aplicaciones integradas y administradores de Azure AD para Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* Consentimiento de usuario: [Configurar el consentimiento de los usuarios a las aplicaciones](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* Consentimiento de administrador: [Configurar el flujo de trabajo de consentimiento de administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Activar o desactivar el consentimiento del usuario: [Administración del consentimiento del usuario para aplicaciones en Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Administración con Microsoft Defender: [Administrar aplicaciones de OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

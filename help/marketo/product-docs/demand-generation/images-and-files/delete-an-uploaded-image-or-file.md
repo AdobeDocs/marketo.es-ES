@@ -4,7 +4,7 @@ description: 'Eliminar una imagen o un archivo cargados: documentos de Marketo, 
 title: Eliminar una imagen o un archivo cargados
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La eliminación de imágenes o archivos es rápida y sencilla.
 
 >[!CAUTION]
 >
->Una vez eliminadas, las imágenes o los archivos se eliminan por completo del Marketo Engage y no se pueden recuperar.
+>Una vez eliminadas, las imágenes o los archivos se eliminan por completo de Marketo Engage y no se pueden recuperar.
 
 1. Vaya a **[!UICONTROL Design Studio]**.
 

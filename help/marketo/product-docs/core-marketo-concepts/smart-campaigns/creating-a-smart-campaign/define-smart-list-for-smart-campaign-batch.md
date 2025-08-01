@@ -4,7 +4,7 @@ description: 'Definición de listas inteligentes para campañas inteligentes | L
 title: Definición de listas inteligentes para campañas inteligentes | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definición de listas inteligentes para campañas inteligentes | Lote {#define-smart-list-for-smart-campaign-batch}
 
-Las listas inteligentes son el mecanismo a través del Marketo Engage para definir &quot;quién&quot; (qué personas) incluir, ya sea un informe, una lista o una campaña inteligente. A continuación se indica cómo definir una lista inteligente para una campaña por lotes.
+Las listas inteligentes son el mecanismo que utiliza Marketo Engage para definir &quot;quién&quot; (qué personas) incluir, ya sea un informe, una lista o una campaña inteligente. A continuación se indica cómo definir una lista inteligente para una campaña por lotes.
 
 >[!CAUTION]
 >

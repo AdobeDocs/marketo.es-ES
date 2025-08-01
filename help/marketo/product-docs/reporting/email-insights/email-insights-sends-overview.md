@@ -4,7 +4,7 @@ description: Información general sobre envíos de perspectivas de correo electr
 title: Resumen de envíos de Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -27,7 +27,7 @@ A la derecha de la página hay varios datos sobre los correos electrónicos envi
 
 **[!UICONTROL Tipo]** indica el tipo de recurso usado.
 El número **[!UICONTROL Destinatario]** es la cantidad de personas a las que se envió el correo electrónico.
-**[!UICONTROL Métricas de envío]** le ofrece una vista rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.\
+**[!UICONTROL Métricas de envío]** le ofrece una vista rápida de cuántos correos electrónicos se han enviado, están pendientes o han rebotado.
 **[!UICONTROL Métricas de participación]** le ofrece una vista rápida de cuántos destinatarios han abierto, hecho clic en un mensaje de correo electrónico y cancelado su suscripción.
 **[!UICONTROL Puntuación]** es la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) de tu correo electrónico.
 

@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 6%
@@ -90,7 +90,7 @@ Texto
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. Seleccione el Marketo Engage en el que desea guardar la imagen. En este ejemplo lo dejaremos como Imágenes y archivos (predeterminado). Haga clic en **Importar**.
+1. Seleccione la carpeta de Marketo Engage en la que desea guardar la imagen. En este ejemplo lo dejaremos como Imágenes y archivos (predeterminado). Haga clic en **Importar**.
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -110,7 +110,7 @@ Texto
 
    >[!NOTE]
    >
-   >AEM Si no lo has hecho anteriormente, se te pedirá que inicies sesión en tu cuenta de la cuenta de la cuenta de la cuenta de la cuenta de la cuenta de usuario de tu cuenta de la cuenta de usuario.
+   >Si aún no lo has hecho, se te pedirá que inicies sesión en tu cuenta de AEM.
 
 1. Texto
 

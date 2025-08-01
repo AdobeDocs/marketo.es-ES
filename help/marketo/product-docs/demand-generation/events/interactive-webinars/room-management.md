@@ -3,7 +3,7 @@ description: Administración de salas - Documentos de Marketo - Documentación d
 title: Administración de salas
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -67,7 +67,7 @@ La pestaña Content permite ver los archivos cargados, su tipo, tamaño, fecha d
 <table><tbody>
   <tr>
     <td><b>Tipo</td>
-    <td>Muestra el tipo de archivo, como PDF, JPG de la, PNG, etc.</td>
+    <td>Muestra el tipo de archivo, como PDF, JPG, PNG, etc.</td>
   </tr>
   <tr>
     <td><b>Tamaño</td>

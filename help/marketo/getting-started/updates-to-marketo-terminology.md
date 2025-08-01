@@ -4,7 +4,7 @@ description: Actualizaciones en la terminología de Marketo - Documentos de Mark
 hide: true
 hidefromtoc: true
 title: Actualizaciones en la terminología de Marketo
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 2%
@@ -23,52 +23,52 @@ Entonces, ¿qué ha cambiado?
 
 El cambio más grande es el cambio de nombre de Posible cliente/Posible cliente a Persona/Personas.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Antiguo</strong></td> 
-   <td><strong>Nuevo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Antiguo</strong></td>
+   <td><strong>Nuevo</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 En algunos casos, simplemente se elimina la palabra &quot;posible cliente&quot;.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Antiguo</strong></td> 
-   <td><strong>Nuevo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Antiguo</strong></td>
+   <td><strong>Nuevo</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 El posible cliente y la persona **son la misma cosa**.
@@ -85,27 +85,27 @@ Los tokens con la palabra posible cliente en ellos **no cambian**. Lamentamos cu
 
 Los campos que contenían el término Posible cliente se han sustituido por Persona o se ha eliminado la palabra Posible cliente. Sin embargo, una excepción notable es el campo &quot;Propietario principal&quot;. Ahora se conoce como &quot;Propietario de ventas&quot;.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Antiguo</strong></td> 
-   <td><strong>Nuevo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Antiguo</strong></td>
+   <td><strong>Nuevo</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -114,27 +114,27 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 ## Real-Time Personalization (RTP) ahora es Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Antiguo</strong></td> 
-   <td><strong>Nuevo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Antiguo</strong></td>
+   <td><strong>Nuevo</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:

@@ -4,10 +4,10 @@ short-description: ¿Acaba de empezar a utilizar Adobe Marketo Engage? Conozca l
 title: Pasos de configuración
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 1%
+source-wordcount: '1688'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ Antes de sumergirse, hay que completar algunos pasos.
 Estos pasos incluyen:
 
 * Personalizar la marca de las direcciones URL de la página de aterrizaje y los vínculos de correo electrónico para mejorar la confianza y la capacidad de envío
-* Configuración de protocolos para el Marketo Engage
+* Configuración de protocolos para Marketo Engage
 * Sincronización de CRM
 * Añadir un código de seguimiento al sitio web corporativo
 
@@ -40,7 +40,7 @@ Hay varias medidas que puede tomar para garantizar que los correos electrónicos
 
 * **Marca tus vínculos de seguimiento**. Puede elegir un CNAME para utilizar su propio dominio (en lugar del de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la marca de su dominio y aumenta la confianza y la capacidad de envío con sus destinatarios.
 * **Agregue Marketo a su lista de permitidos de correo electrónico corporativo**. Es una práctica recomendada común enviar correos electrónicos de prueba a las cuentas de prueba antes de enviar correos electrónicos a personas reales. Mediante la inclusión en la lista de permitidos de Marketo, puede evitar que los correos electrónicos de prueba se bloqueen o marquen como correo no deseado.
-* **Configurar SPF y DKIM**. Estas tecnologías garantizan a los destinatarios que los correos electrónicos de Marketo no son spam. Para ayudar a evitar que los filtros de correo no deseado de los destinatarios rechacen sus correos electrónicos de Marketo, siga estos pasos para [Configurar un SPF y un DKIM para su entrega de correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Configurar SPF y DKIM**. Estas tecnologías garantizan a los destinatarios que los correos electrónicos de Marketo no son spam. Para ayudar a evitar que los filtros de correo no deseado de los destinatarios rechacen sus correos electrónicos de Marketo, siga estos pasos para [Configurar un SPF y DKIM para sus envíos de correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **Configure un registro MX para su dominio.**: un registro MX permite recibir correo en el dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si envía desde su dominio corporativo, es probable que ya lo tenga configurado. Si no es así, normalmente puede configurarlo para que se asigne al registro MX de su dominio corporativo.
 * **Configuración recomendada para la dirección de origen.** Debe usar un dominio de correo electrónico válido, existente y de trabajo en la dirección De en todas las campañas de correo electrónico. Puede resultar beneficioso configurar un subdominio del dominio corporativo en lugar de enviar desde el dominio corporativo. Esto garantizará que los problemas del flujo de correo corporativo no afecten al flujo de correo de Marketo y viceversa. Además, si se envía correo desde `something@nonexistentdomain.com`, el correo electrónico se filtrará o bloqueará. Cualquier dominio utilizado en la dirección remitente del remitente debe tener una cuenta válida y activa postmaster@ y abuse@.
 
@@ -102,7 +102,7 @@ Elija un CNAME para las páginas de aterrizaje. Algunos ejemplos:
 
 La primera parte (en negrita) es `[LandingPageCNAME]`. Lo necesitará en el paso 5.
 
-Para recuperar el ID de Munchkin que reemplazará por el CNAME de su página de aterrizaje, vaya al área de **Admin**.
+Para recuperar el Munchkin ID que reemplazará por su CNAME de página de aterrizaje, vaya al área de **Admin**.
 
 ![](assets/setup-steps-4.png)
 
@@ -146,8 +146,7 @@ Nuestro equipo de marketing ahora utiliza la plataforma Marketo para comunicarse
 
 `3)` Lista de permitidos Marketo.
 
-    * Si usamos direcciones IP en nuestra Lista de permitidos de correo electrónico, agregue las direcciones IP que se enumeran a continuación:
-
+    * Si usamos direcciones IP en nuestra Lista de permitidos de correo electrónico, agregue las direcciones IP que se indican a continuación:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -173,7 +172,7 @@ Nuestro equipo de marketing ahora utiliza la plataforma Marketo para comunicarse
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
-`4)`: necesitamos configurar SPF y DKIM para que Marketo esté autorizado a enviar correos electrónicos firmados en nuestro nombre.
+`4)`: necesitamos configurar el SPF y el DKIM para que Marketo pueda enviar correos electrónicos firmados en nuestro nombre.
 
 `a.` Para configurar SPF, agregue la línea siguiente a nuestras entradas DNS:
 
@@ -188,11 +187,11 @@ include:mktomail.com
 
 `b.` Para DKIM, cree Registros de recursos DNS para cada dominio que deseemos configurar. A continuación se muestran los registros de host y los valores TXT de cada dominio que firmaremos:
 
-**`[DKIMDomain1]`**: el registro de host es **`[HostRecord1]`** y el valor TXT es **`[TXTValue1]`**.
+**`[DKIMDomain1]`**: El registro de host es **`[HostRecord1]`** y el valor TXT es **`[TXTValue1]`**.
 
-**`[DKIMDomain2]`**: el registro de host es **`[HostRecord2]`** y el valor TXT es **`[TXTValue2]`**.
+**`[DKIMDomain2]`**: El registro de host es **`[HostRecord2]`** y el valor TXT es **`[TXTValue2]`**.
 
-`[`Copie **HostRecord** y **TXTValue** para cada **DKIMDomain** que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide verificar cada dominio en **Administración > Correo electrónico > DKIM** después de que su personal de TI haya completado este paso.`]`
+`[`Copie **HostRecord** y **TXTValue** para cada **DKIMDomain** que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide comprobar cada dominio en **Administración > Correo electrónico > DKIM** después de que el personal de TI haya completado este paso.`]`
 
 `5)` Debemos asegurarnos de que haya un registro MX válido para nuestros dominios FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. ¿Puede confirmarlo? Si no es así, configúrelo para asignar a nuestro registro MX de dominio corporativo. Esto garantizará que podamos procesar las respuestas/respuestas automáticas a nuestros correos de Marketo.
 
@@ -206,11 +205,11 @@ Un saludo,
 
 `----------------------------------------------`
 
-Envíe el correo electrónico a TI. Entendemos que el departamento de TI puede tardar algún tiempo en completar estas tareas. Puede continuar con el siguiente paso, pero recuerde que debe volver a este paso para completar la configuración del Marketo Engage.
+Envíe el correo electrónico a TI. Entendemos que el departamento de TI puede tardar algún tiempo en completar estas tareas. Puede continuar con el siguiente paso, pero recuerde que debe volver a este paso para completar la configuración de Marketo Engage.
 
 ## Complete la configuración de Marketo una vez finalizada la tecnología informática {#complete-your-marketo-setup-after-it-finishes}
 
-Una vez que el departamento de TI haya completado sus tareas, siga estos pasos para añadir los CNAME de la página de aterrizaje y del correo electrónico, y para activar la firma DKIM.
+Una vez que el departamento de TI haya completado sus tareas, siga estos pasos para agregar los CNAME de la página de aterrizaje y del correo electrónico, y para activar la firma de DKIM.
 
 Vaya al área **[!UICONTROL Admin]** para agregar el CNAME de su página de aterrizaje
 
@@ -250,8 +249,8 @@ Esta es probablemente la parte más emocionante de su configuración. ¡Es hora 
 
 Elija entre las siguientes opciones, según el CRM que utilice su compañía.
 
-* [Integrar el Marketo Engage con  [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-* [Integrar el Marketo Engage con  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Integrar Marketo Engage con  [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Integrar Marketo Engage con  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
   >[!NOTE]
   >
@@ -263,18 +262,18 @@ Elija entre las siguientes opciones, según el CRM que utilice su compañía.
 >
 >¿Es cliente de [!DNL Launch Pack]? Puede omitir este paso. Su asesor le proporcionará [!DNL Munchkin] instrucciones de código en su documento de instrucciones de configuración de TI.
 
-El Marketo Engage tiene un JavaScript de seguimiento personalizado (denominado [!DNL Munchkin]) que puede usar para rastrear las actividades de las personas en cualquier página web. [!DNL Munchkin] es necesario para integrar su sitio web en Marketo. Siga estos pasos para [agregar [!DNL Munchkin] código de seguimiento al sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage tiene un JavaScript de seguimiento personalizado (denominado [!DNL Munchkin]) que puede usar para rastrear las actividades de las personas en cualquier página web. [!DNL Munchkin] es necesario para integrar su sitio web en Marketo. Siga estos pasos para [agregar [!DNL Munchkin] código de seguimiento al sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
->Se requiere experiencia con el HTML para añadir el código de seguimiento.
+>Se requiere experiencia con HTML para añadir el código de seguimiento.
 
 ## Expectativas de rendimiento {#performance-expectations}
 
-¿Qué puede esperar en términos de rendimiento de Marketo? Puede variar según el tamaño y la complejidad de las campañas de marketing. Pero puede esperar niveles de rendimiento a la par con lo que se describe en la columna &quot;Estándar&quot; en varias de las tablas que se encuentran en la [descripción del producto del Marketo Engage](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Las columnas &quot;Rendimiento&quot; y &quot;Rendimiento avanzado&quot; hacen referencia a paquetes de niveles de rendimiento que proporcionan [niveles de rendimiento más altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+¿Qué puede esperar en términos de rendimiento de Marketo? Puede variar según el tamaño y la complejidad de las campañas de marketing. Pero puede esperar niveles de rendimiento a la par con lo que se describe en la columna &quot;Estándar&quot; en varias de las tablas que se encuentran en la [descripción del producto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Las columnas &quot;Rendimiento&quot; y &quot;Rendimiento avanzado&quot; hacen referencia a paquetes de niveles de rendimiento que proporcionan [niveles de rendimiento más altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Configurar protocolos para el Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+>* [Configurar protocolos para Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 >
 >* [Configuración de usuario](/help/marketo/getting-started/initial-setup/user-setup.md)

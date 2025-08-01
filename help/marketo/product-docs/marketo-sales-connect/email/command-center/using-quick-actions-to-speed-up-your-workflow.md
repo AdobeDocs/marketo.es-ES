@@ -4,7 +4,7 @@ description: 'Uso de acciones rápidas para acelerar el flujo de trabajo: docume
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 3%
@@ -28,59 +28,59 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
 
 **Archivado**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Desarchivar]</td> 
-   <td>Devolverá el correo electrónico a la carpeta entregada y reactivará el seguimiento de visualizaciones/clics.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Eliminar]</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Desarchivar]</td>
+   <td>Devolverá el correo electrónico a la carpeta entregada y reactivará el seguimiento de visualizaciones/clics.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Eliminar]</td>
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Borrador y programado**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Editar]</td> 
-   <td>Abrirá el correo electrónico en la ventana de composición que se va a editar.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Eliminar]</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Editar]</td>
+   <td>Abrirá el correo electrónico en la ventana de composición que se va a editar.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Eliminar]</td>
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Error, rechazados y correo no deseado**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Reintentar Enviar]</td> 
-   <td>Intentará reenviar el correo electrónico inmediatamente.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Eliminar]</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Reintentar Enviar]</td>
+   <td>Intentará reenviar el correo electrónico inmediatamente.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Eliminar]</td>
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Acciones de seguimiento**

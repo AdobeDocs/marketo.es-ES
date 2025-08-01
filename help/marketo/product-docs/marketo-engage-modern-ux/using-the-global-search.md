@@ -3,7 +3,7 @@ description: 'Uso de la búsqueda global: documentos de Marketo, documentación 
 title: Uso de la búsqueda global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ Se le redirige directamente al correo electrónico deseado.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Nombre del artículo/destino</td> 
+   <td>1</td>
+   <td>Nombre del artículo/destino</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Ruta (rutas de exploración) al elemento o destino respectivo</td> 
+   <td>2</td>
+   <td>Ruta (rutas de exploración) al elemento o destino respectivo</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Fecha y hora de la última modificación del artículo/destino</td> 
+   <td>3</td>
+   <td>Fecha y hora de la última modificación del artículo/destino</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Fecha y hora de creación del elemento/destino</td> 
+   <td>4</td>
+   <td>Fecha y hora de creación del elemento/destino</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Implementación de filtros centrados para reducir los resultados de búsqueda</td> 
+   <td>5</td>
+   <td>Implementación de filtros centrados para reducir los resultados de búsqueda</td>
   </tr>
  </tbody>
 </table>

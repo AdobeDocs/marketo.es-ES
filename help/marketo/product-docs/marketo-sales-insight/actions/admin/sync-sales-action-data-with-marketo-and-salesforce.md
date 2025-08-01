@@ -1,8 +1,8 @@
 ---
-description: 'Sincronización de datos de acción de ventas con Marketo y Salesforce: Documentos de Marketo: documentación del producto'
+description: 'Sincronización de datos de acción de ventas con Marketo y Salesforce: documentos de Marketo, documentación del producto'
 title: Sincronización de datos de acción de ventas con Marketo y Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 3%
@@ -11,9 +11,9 @@ ht-degree: 3%
 
 # Sincronización de datos de acción de ventas con Marketo y Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 
-La sincronización de campos de unificación de datos para las acciones de perspectiva de ventas permite al sistema extraer información de la persona de la base de datos de Marketo Engage a la base de datos de acciones de perspectiva de ventas.
+La sincronización de campos de unificación de datos para las acciones de Sales Insight permite al sistema extraer información sobre personas de la base de datos de Marketo Engage a la base de datos de acciones de Sales Insight.
 
-Esto proporciona datos de personas actualizados en la aplicación web Sales Insight Actions y permite al sistema recopilar ID únicos para los registros de personas correspondientes en Marketo y los registros de posible cliente/contacto/cuenta/oportunidad en Salesforce, de modo que se pueda hacer referencia correctamente a los registros para registrar datos.
+Esto proporciona datos de personas actualizados en la aplicación web Sales Insight Actions y permite al sistema recopilar ID únicos para los registros de personas correspondientes en Marketo y los registros de posible cliente/contacto/cuenta/oportunidad en Salesforce, de modo que se pueda hacer referencia correctamente a los registros para registrar los datos.
 
 Esta sincronización se puede activar desde la pestaña Sales Insight Actions Config de la sección Admin de Marketo Engage. Para obtener más información, consulta [Iniciar sincronización de datos](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
@@ -21,23 +21,23 @@ Esta sincronización se puede activar desde la pestaña Sales Insight Actions Co
 
 El diagrama anterior muestra cómo se pueden sincronizar los datos de actividad y de tarea de las personas entre sistemas. Algunas cosas que hay que tener en cuenta:
 
-* Los registros de personas se sincronizan con las acciones de perspectiva de ventas de Marketo Engage, lo que convierte a Marketo Engage en la fuente fiable para los datos de personas de acciones de perspectiva de ventas
-* Tanto las acciones de perspectiva de Marketo Engage como de ventas [tienen un mecanismo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) para recopilar y sincronizar el estado de cancelación de suscripción con Salesforce
-* El estado de cancelación de suscripción no se sincroniza de las acciones de ventas a Marketo Engage, pero las acciones de información de ventas se pueden configurar para comprobar el estado de cancelación de suscripción de personas de Marketo antes de permitir que los vendedores envíen un correo electrónico con [Verificación de cancelación de suscripción de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Los registros de personas se sincronizan con las acciones de Sales Insight de Marketo Engage, lo que convierte a Marketo Engage en la fuente fiable para los datos de personas de acciones de Sales Insight
+* Tanto Marketo Engage como Sales Insight Actions [tienen un mecanismo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) para recopilar y sincronizar el estado de cancelación de suscripción con Salesforce
+* El estado de cancelación de suscripción no se sincroniza de las acciones de ventas a Marketo Engage, pero las acciones de Sales Insight se pueden configurar para comprobar el estado de cancelación de suscripción de Marketo de las personas antes de permitir que los vendedores envíen un correo electrónico con [Verificación de cancelación de suscripción de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 A continuación, se muestran algunas de las preguntas más frecuentes relacionadas con el funcionamiento de la sincronización de unificación de datos.
 
-## ¿Qué posibles clientes/contactos se sincronizan con las acciones de información de ventas? {#what-lead-contacts-are-synced}
+## ¿Qué posibles clientes/contactos se sincronizan con las acciones de Sales Insight? {#what-lead-contacts-are-synced}
 
 ![](assets/actions-data-sync-faq-2.png)
 
 Los posibles clientes y contactos que tengan un propietario de ventas asignado se sincronizan con las acciones de ventas.
 
-Puede ver si un posible cliente/contacto tiene un propietario de ventas en Salesforce si consulta el campo de propietario estándar que existe.
+Puede ver si un posible cliente/contacto tiene un propietario de ventas en Salesforce mirando el campo de propietario estándar que existe.
 
-El propietario de ventas no tiene que ser el usuario de sincronización de Marketo ni ningún usuario de ventas o fuerza de ventas específico. Todo lo que necesitamos es que haya un usuario enumerado en el campo Propietario del posible cliente y Propietario del contacto enumerado en Salesforce, de modo que podamos identificarlo como un posible cliente de ventas y sincronizarlo con las acciones de perspectiva de ventas. Cualquier actualización de los campos con los que sincronizamos también se detectará y actualizará en Acciones de perspectiva de ventas.
+El propietario de ventas no tiene que ser el usuario de sincronización de Marketo ni ningún usuario de Salesforce o ventas específico. Todo lo que necesitamos es que haya un usuario en el campo Propietario del posible cliente y Propietario del contacto en Salesforce, para que podamos identificarlo como posible cliente de ventas y sincronizarlo con las acciones de Sales Insight. Las actualizaciones de los campos con los que sincronizamos también se detectarán y actualizarán en las acciones de Sales Insight.
 
-## ¿De dónde proceden los datos de actividad que se muestran en la cuadrícula inteligente de Sales Insight? {#where-does-the-activity-data-get-sourced-from}
+## ¿De dónde proceden los datos de actividad que se muestran en la cuadrícula inteligente de Insight de ventas? {#where-does-the-activity-data-get-sourced-from}
 
 ![](assets/actions-data-sync-faq-3.png)
 
@@ -45,11 +45,11 @@ Los datos de la actividad, como el correo electrónico, la llamada, el momento i
 
 ![](assets/actions-data-sync-faq-4.png)
 
-Para garantizar que todos los datos de la actividad procedan del Marketo Engage, Acciones de perspectiva de ventas sincroniza todos los datos de la actividad con el Marketo Engage.
+Para garantizar que todos los datos de la actividad procedan de Marketo Engage, Sales Insight Actions sincroniza todos los datos de la actividad con Marketo Engage.
 
-## ¿Qué campos relacionados con los registros de personas se sincronizan entre las acciones de Marketo Engage e Información de ventas? {#what-fields-sync}
+## ¿Qué campos relacionados con los registros de personas se sincronizan desde Marketo Engage a las acciones de Sales Insight? {#what-fields-sync}
 
-Hay 11 campos que se sincronizan con las acciones de perspectiva de ventas de Marketo Engage:
+Hay 11 campos que se sincronizan con las acciones de Marketo Engage y Sales Insight:
 
 * Nombre
 * Apellido
@@ -65,13 +65,13 @@ Hay 11 campos que se sincronizan con las acciones de perspectiva de ventas de Ma
 * URL de Linkedin
 * Origen
 
-## ¿Se pueden configurar los campos que sincronizan las acciones de perspectiva de Marketo Engage y ventas? {#are-the-fields-that-sync-configurable}
+## ¿Se pueden configurar los campos que se sincronizan entre Marketo Engage y las acciones de Insight de ventas? {#are-the-fields-that-sync-configurable}
 
-No está disponible la configuración de qué campos de Marketo Engage se sincronizan con las acciones de información de ventas, ni tampoco la capacidad de asignar campos. La sincronización de Marketo asigna automáticamente campos estándar de Marketo a campos estándar de la instancia de acción de ventas.
+No está disponible la configuración de qué campos de Marketo Engage se sincronizan con las acciones de Insight de ventas, ni tampoco la capacidad de asignar campos. La sincronización de Marketo asigna automáticamente campos estándar de Marketo a campos estándar de la instancia de acción de ventas.
 
-## ¿Por qué las acciones de perspectiva de ventas tienen su propia base de datos? {#why-does-actions-have-its-own-database}
+## ¿Por qué Sales Insight Actions tiene su propia base de datos? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions tiene su propia aplicación web con una base de datos de personas y actividades dedicada para proporcionar un espacio de trabajo optimizado creado y diseñado para los equipos de ventas. Esto permite a los gestores de ventas y a los vendedores disponer de un espacio para desarrollar y gestionar su estrategia de participación   sin conceder acceso ni privilegios al espacio de trabajo del Marketo Engage principal, que está optimizado para los especialistas en operaciones de marketing.
+Sales Insight Actions dispone de su propia aplicación web con una base de datos de personas y actividades específica para ofrecer un espacio de trabajo optimizado, creado y diseñado para los equipos de ventas. Esto permite a los gestores de ventas y a los vendedores disponer de un espacio para desarrollar y gestionar su estrategia de participación   sin conceder acceso ni privilegios al espacio de trabajo principal de Marketo Engage, que está optimizado para especialistas en operaciones de marketing.
 
 ## ¿Cómo se gestionan los duplicados? {#how-are-duplicates-handled}
 
@@ -79,13 +79,13 @@ Su base de datos de acciones de ventas será una copia de las personas cualifica
 
 ## ¿Cuánto tiempo tarda en completarse la sincronización inicial? {#how-long-initial-sync}
 
-El proceso inicial para sincronizar todos los datos de posibles clientes en una nueva instancia de acciones de información de ventas procesará a las personas aproximadamente a 1000 cada 1-2 minutos. Esto es solo una estimación y puede variar.
+El proceso inicial de sincronización de todos los datos de posibles clientes en una nueva instancia de acciones de Sales Insight suele procesar a unas 1000 personas cada 1-2 minutos. Esto es solo una estimación y puede variar.
 
-Una vez que se realiza la sincronización inicial y todos los posibles clientes se han rellenado en la instancia de la aplicación web Acciones de información de ventas, se producirá una sincronización incremental que se ejecutará cada vez que haya una actualización en uno de los campos admitidos que se sincronicen.
+Una vez que se realiza la sincronización inicial y todos los posibles clientes se han rellenado en la instancia de la aplicación web Sales Insight Actions, se producirá una sincronización incremental que se ejecutará cada vez que se actualice uno de los campos admitidos que se sincronicen.
 
-## ¿Pueden los usuarios de Acciones de perspectiva de ventas editar los datos de personas desde la aplicación web Acciones? {#can-actions-users-edit-people-data}
+## ¿Pueden los usuarios de Acciones de Insight de ventas editar los datos de personas desde la aplicación web de Acciones? {#can-actions-users-edit-people-data}
 
-No, la capacidad de crear y editar registros de personas en Acciones no está disponible para los usuarios y administradores de la aplicación web Acciones. La creación y edición de personas debe realizarse en Salesforce o en Marketo Engage. Las acciones de perspectiva de ventas utilizan Marketo como fuente fiable para los datos de personas mediante la sincronización continua de nuevos datos, de modo que si una persona se actualiza o crea en Marketo desde un flujo de trabajo en Marketo o se sincroniza desde Salesforce, dichas actualizaciones se pasarán a la base de datos de la aplicación web acciones de perspectiva de ventas.
+No, la capacidad de crear y editar registros de personas en Acciones no está disponible para los usuarios y administradores de la aplicación web Acciones. La creación y edición de personas debe realizarse en Salesforce o Marketo Engage. Sales Insight Actions utiliza Marketo como su fuente fiable para los datos de personas mediante la sincronización continua de nuevos datos, de modo que si una persona se actualiza o se crea en Marketo a partir de un flujo de trabajo en Marketo o se sincroniza desde Salesforce, dichas actualizaciones se pasarán a la base de datos de la aplicación web Sales Insight Actions.
 
 ## ¿Registran las actividades de ventas en Marketo? {#do-sales-activities-log-to-marketo}
 
@@ -106,9 +106,9 @@ A continuación se muestra una lista de las actividades que inician sesión en M
 
 ## ¿Registran las actividades de ventas en Salesforce? {#do-sales-activities-log-to-salesforce}
 
-Sí, las actividades de participación en ventas se registrarán en Salesforce como tareas nativas. Estas tareas se pueden usar en los informes de Salesforce para impulsar paneles de equipos que hagan un seguimiento de las actividades de ventas.
+Sí, las actividades de participación en ventas se registrarán en Salesforce como tareas nativas. Estas tareas se pueden usar en los informes de Salesforce para potenciar los paneles de los equipos que realizan un seguimiento de las actividades de ventas.
 
-Las acciones de información de ventas permiten a los administradores configurar qué actividades de ventas se registran en Salesforce. Estas actividades incluyen correos electrónicos, llamadas y tareas de recordatorio de apertura.
+Acciones de Insight de ventas permite a los administradores configurar qué actividades de ventas se registran en Salesforce. Estas actividades incluyen correos electrónicos, llamadas y tareas de recordatorio de apertura.
 
 ![](assets/actions-data-sync-faq-6.png)
 
@@ -116,7 +116,7 @@ El diagrama anterior muestra qué información se registra en Salesforce. Las ac
 
 >[!MORELIKETHIS]
 >
->* [Sincronizar cancelaciones de suscripción con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [Sincronizando cancelaciones de suscripción con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Comprobación de cancelación de suscripción de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Sincronizar actividades de ventas con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Sincronización de tareas de recordatorio con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

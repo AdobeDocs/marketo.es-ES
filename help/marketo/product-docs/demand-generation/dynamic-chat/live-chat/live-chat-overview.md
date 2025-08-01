@@ -3,7 +3,7 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round Robin</b></td>
    <td>Los chats se asignan a los agentes en orden secuencial.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agente</b></td>
    <td>Elija un agente específico para recibir el chat.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Reglas personalizadas</b></td>
    <td>Todas las reglas personalizadas se someterán al ciclo cuando se considere hacia dónde dirigir al visitante. Si el visitante no cumple los requisitos para ninguna regla personalizada, recibe el <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensaje de reserva de chat en vivo</a>.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Equipo</b></td>
    <td>Elija un equipo específico para recibir el chat. Si se elige esta opción, se le asigna round robin dentro de ese equipo.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Notificaciones de chat en directo {#live-chat-notifications}
@@ -102,7 +102,7 @@ Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte s
 >
 >También tiene la opción de configurar las notificaciones del explorador, que le avisarán en caso de que no haya iniciado sesión en Dynamic Chat.
 >
->* Habilitar notificaciones del explorador en [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Habilitar notificaciones del explorador en [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Habilitar notificaciones del explorador en [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Notificaciones de acción con errores {#failed-action-notifications}

@@ -4,16 +4,16 @@ description: Sintaxis de plantillas de correo electrónico - Documentos de Marke
 title: Sintaxis de plantilla de correo electrónico
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Sintaxis de plantilla de correo electrónico {#email-template-syntax}
 
-En la nueva experiencia de Marketo Email 2.0, las plantillas de correo electrónico están compuestas por cualquier combinación de elementos, variables, módulos o contenedores. Cada se define añadiendo sintaxis específica de Marketo al HTML. Las plantillas de correo electrónico antiguas (v1.0) se admiten en el Editor de correo electrónico 2.0; sin embargo, no incluirán todas las funciones del nuevo Editor.
+En la nueva experiencia de Marketo Email 2.0, las plantillas de correo electrónico están compuestas por cualquier combinación de elementos, variables, módulos o contenedores. Cada uno se define añadiendo sintaxis específica de Marketo a la HTML. Las plantillas de correo electrónico antiguas (v1.0) se admiten en el Editor de correo electrónico 2.0; sin embargo, no incluirán todas las funciones del nuevo Editor.
 
 La sintaxis del correo electrónico de Marketo solo funciona en plantillas y correos electrónicos individuales; **no funciona** si está incrustada en fragmentos o tokens de texto enriquecido.
 
@@ -40,9 +40,9 @@ Si define una región como Texto enriquecido, los usuarios podrán editar su con
 
 ### Opción 1: mktEditable {#option-mkteditable}
 
-Dado que Email Editor 2.0 es compatible con versiones anteriores, algunas plantillas de correo electrónico antiguas pueden especificar elementos de texto enriquecido añadiendo class=&quot;mktEditable&quot; en cualquier elemento del HTML. Esto sigue siendo compatible y el ID del elemento es lo que se utilizará como nombre para mostrar dentro del editor de correo electrónico.
+Dado que el Editor de correo electrónico 2.0 es compatible con versiones anteriores, algunas plantillas de correo electrónico antiguas pueden especificar elementos de texto enriquecido añadiendo class=&quot;mktEditable&quot; en cualquier elemento de HTML. Esto sigue siendo compatible y el ID del elemento es lo que se utilizará como nombre para mostrar dentro del editor de correo electrónico.
 
-Atributos requeridos
+Atributos obligatorios
 
 * **class**: &quot;mktEditable&quot;.
 * **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
@@ -63,7 +63,7 @@ Por ejemplo:
 
 Se recomienda especificar los elementos de texto enriquecido mediante la sintaxis class=&quot;mktoText&quot;. Esto garantiza que siempre haya un nombre para mostrar adecuado para el elemento.
 
-Atributos requeridos
+Atributos obligatorios
 
 * **class**: &quot;mktoText&quot;
 * **id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
@@ -79,11 +79,11 @@ Por ejemplo:
 
 ## Imágenes {#images}
 
-Tiene dos opciones para definir elementos de imagen editables. Puede usar un `<div>`, que especifica el contenedor en el que se insertará el `<img>`, o una etiqueta `<img>`. Si tiene intención de que el usuario final simplemente elija una imagen que devuelva la URL de la imagen (en oposición al DOM), consulte &quot;variables de imagen&quot; en la sección siguiente. Las dos opciones siguientes insertarán un elemento de HTML `<img>`.
+Tiene dos opciones para definir elementos de imagen editables. Puede usar un `<div>`, que especifica el contenedor en el que se insertará el `<img>`, o una etiqueta `<img>`. Si tiene intención de que el usuario final simplemente elija una imagen que devuelva la URL de la imagen (en oposición al DOM), consulte &quot;variables de imagen&quot; en la sección siguiente. Las dos opciones siguientes insertarán un elemento `<img>` de HTML.
 
 ### Opción 1: usar `<div>` {#option-use-a-div}
 
-Atributos requeridos
+Atributos obligatorios
 
 * **clase:** &quot;mktoImg&quot;.
 * **id:** cadena de identificador. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
@@ -114,7 +114,7 @@ Por ejemplo:
 >
 >Esta opción no permite a los usuarios finales añadir un vínculo a su imagen. Utilice la opción 1 si esto es importante para la plantilla.
 
-Atributos requeridos
+Atributos obligatorios
 
 * **clase:** &quot;mktoImg&quot;.
 * **id:** cadena de identificador. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
@@ -130,7 +130,7 @@ Ejemplo:
 
 Si define una región como un fragmento de código, los usuarios finales podrán elegir qué [fragmento de código](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)aprobado desean insertar en esta región. Aunque los elementos de texto enriquecido se pueden convertir en fragmentos de código desde el editor de correo electrónico, al definir una región específicamente como fragmento de código, no se pueden convertir en texto enriquecido. Puede especificar una región de fragmento utilizando `<div>` con class=&quot;mktoSnippet&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id:** cadena de identificador. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
 * **mktoName:** String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -147,7 +147,7 @@ Por ejemplo:
 
 Si define una región como Vídeo, los usuarios finales podrán insertar una URL de YouTube o Vimeo que se mostrará como una imagen en miniatura (con el botón &quot;reproducir&quot;) dentro del correo electrónico. Puede especificar una región de vídeo mediante `<div>` con class=&quot;mktoVideo&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id:** cadena de identificador. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
 * **mktoName:** String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -168,14 +168,14 @@ Las variables son como tokens. Primero debe definirlos dentro de la sección `<h
 
 Si especifica una variable como String, el usuario final podrá introducir texto en un cuadro de texto del editor de correo electrónico. Usted especifica una variable String usando `<meta>` con class=&quot;mktoString&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id:** Cómo se hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName:** String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Atributos opcionales
 
-* **allowHTML:** Boolean. Controla si el valor de la variable es de escape HTML. Si se omite, el valor predeterminado es False.
+* **allowHTML:** Boolean. Controla si el valor de la variable es HTML-escaped. Si se omite, el valor predeterminado es False.
 * **default**: Valor predeterminado de la cadena. Vacío si se omite.
 * **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
@@ -191,7 +191,7 @@ Ejemplo de uso:
 
 Si especifica una variable como una lista, el usuario final podrá elegir entre un conjunto de valores definidos en el editor de correo electrónico. Usted especifica una Variable de lista usando `<meta>` con class=&quot;mktoList&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName:** String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -214,7 +214,7 @@ Ejemplo de uso:
 
 Si especifica una variable como Número, el usuario final podrá introducir un número en el editor de correo electrónico. Usted especifica una variable Number usando `<meta>` con class=&quot;mktoNumber&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -240,7 +240,7 @@ Ejemplo de uso:
 
 Si especifica una variable como Color, el usuario final podrá introducir un valor de color hexadecimal o elegir un color del selector de color dentro del editor de correo electrónico. Usted especifica una variable Color usando `<meta>` con class=&quot;mktoColor&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -262,7 +262,7 @@ Ejemplo de uso:
 
 Si especifica una variable como Boolean, el usuario final podrá activar o desactivar la opción en el editor de correo electrónico. Usted especifica una variable booleana usando `<meta>` con class=&quot;mktoBoolean&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -286,16 +286,16 @@ Ejemplo de uso:
 
 ## Bloque de HTML {#html-block}
 
-Si especifica una variable como un bloque HTML, el usuario final podrá introducir el HTML textual desde el editor de correo electrónico. Usted especifica una variable de bloque de HTML usando `<meta>` con class=&quot;mktoHTML&quot;
+Si especifica una variable como un bloque de HTML, el usuario final podrá introducir HTML literalmente desde el editor de correo electrónico. Usted especifica una variable de bloque de HTML usando `<meta>` con class=&quot;mktoHTML&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Atributos opcionales
 
-* **valor predeterminado:** valor codificado por el HTML que servirá como contenido predeterminado del bloque.
+* **valor predeterminado:** valor codificado en HTML que servirá como contenido predeterminado del bloque.
 * **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
@@ -310,7 +310,7 @@ Ejemplo de uso:
 
 Si especifica una variable como Imagen, el usuario final podrá elegir una imagen del selector de imágenes dentro del editor de correo electrónico. La URL de imagen seleccionada será el valor de la variable. Usted especifica una variable Image usando `<meta>` con class=&quot;mktoImg&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia a la variable en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -344,7 +344,7 @@ Especificado usando `<tr>` con class=&quot;mktoModule&quot;
 
 Especificado usando `<table>` con class=&quot;mktoModule&quot;
 
-Atributos requeridos
+Atributos obligatorios
 
 * **id**: Cómo hace referencia al módulo en la plantilla de correo electrónico.
 * **mktoName**: String. Este es el nombre para mostrar que se mostrará en el editor de correo electrónico 2.0. Una práctica recomendada es utilizar un nombre descriptivo.
@@ -364,7 +364,7 @@ Un contenedor contiene módulos y define dónde se pueden colocar. Cuando los us
 
 **Especificado usando `<table>`, `<tbody>`, `<thead>`, `<tfoot>` o `<td>` con class=&quot;mktoContainer&quot;**
 
-Atributos requeridos
+Atributos obligatorios
 
 **id**: Cómo hace referencia al módulo en la plantilla de correo electrónico.
 

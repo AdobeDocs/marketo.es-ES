@@ -4,7 +4,7 @@ title: Utilizar una página de aterrizaje de flujo de conversación
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -47,4 +47,3 @@ NOTAS DE LA REUNIÓN DE STEVE
 lp guiada, nuevo id de div para plantilla, elija flujo de conv
 
 icono de traer lp de forma libre - advertencia: añadir nota: cuando coloque cf en el editor, no le mostrará una vista previa (tampoco un marcador de posición) - &quot;no verá una vista previa&quot; - en la barra lateral, verán que cf está en la página - lp guiada lo enumera como elemento - use &quot;en este momento&quot; al explicar - esta función se lanzará quizá la semana del 22
-
