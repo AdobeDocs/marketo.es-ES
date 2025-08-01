@@ -47,9 +47,9 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 >Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés de producto de cuenta_ y _Puntuación de participación en la web de cuenta_).
 >
 >En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.
->>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
->>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
->>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
+>&#x200B;>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
+>&#x200B;>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
+>&#x200B;>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
 
 >[!NOTE]
 >

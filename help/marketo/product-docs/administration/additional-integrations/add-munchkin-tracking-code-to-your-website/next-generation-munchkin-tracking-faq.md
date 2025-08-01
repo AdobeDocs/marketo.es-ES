@@ -46,8 +46,8 @@ Si ya está utilizando este filtro en una lista inteligente (por ejemplo, en una
 >[!NOTE]
 >
 >**Déclencheur**: visita la página web, la página web es una página de precios
->>**Flujo**: cambiar puntuación +10 y momento interesante
->>**Web**: página de precios vista
+>&#x200B;>**Flujo**: cambiar puntuación +10 y momento interesante
+>&#x200B;>**Web**: página de precios vista
 >
 >Con [!DNL Munchkin] V2, si una persona anónima visita la página de precios, no ingresa a la campaña inmediatamente. En el momento en que la persona anónima sea conocida, haremos esta campaña con ella. Lo hará:
 >

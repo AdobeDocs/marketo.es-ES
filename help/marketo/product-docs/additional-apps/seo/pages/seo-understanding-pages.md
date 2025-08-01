@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-La puntuación de optimización de la página [!UICONTROL 1} es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. ] Se basa en docenas de prácticas recomendadas en SEO.
+La puntuación de optimización de la página [!UICONTROL 1&rbrace; es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. &#x200B;] Se basa en docenas de prácticas recomendadas en SEO.
 
 * 0 - 35 = No está bien optimizado
 * 35 - 70 = En el camino correcto
