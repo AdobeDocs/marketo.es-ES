@@ -3,9 +3,9 @@ description: 'Añadir un equipo del seminario web: documentos de Marketo, docume
 title: Agregar un equipo del seminario web
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Agregar un equipo del seminario web {#add-a-webinar-team}
 
 Un equipo de seminarios web en seminarios web interactivos consta de todas las funciones que contribuyen al éxito de la entrega del seminario web en Adobe Connect. Esto incluye a presentadores y coanfitriones.
-
->[!IMPORTANT]
->
->Se recomienda encarecidamente que [diseñe su seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes de_ que agregue presentadores o co-anfitriones.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ El presentador es una función externa que participa en la entrega de la experie
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> El icono ![copiar icono de URL de co-host](assets/icon-copy-join-url.png) copia la URL de unión de co-host, y el icono ![enviar correo electrónico de invitación de co-host](assets/icon-send-invitation-email.png) envía un correo electrónico de invitación al co-host.
+
 ## Agregar un moderador {#add-a-presenter}
 
 1. En la página Información general del seminario web interactivo, haga clic en **Agregar moderadores**.
@@ -70,9 +70,9 @@ El presentador es una función externa que participa en la entrega de la experie
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Después de agregar un equipo de seminario web, puede hacer clic en el icono Copiar situado junto a cada usuario para copiar (y luego compartir) las URL de unión.
+> El icono ![copiar icono de URL del moderador](assets/icon-copy-join-url.png) copia la URL de unión del moderador y el icono ![enviar al moderador un correo electrónico de invitación](assets/icon-send-invitation-email.png) envía un correo electrónico de invitación al moderador.
 
 >[!MORELIKETHIS]
 >
