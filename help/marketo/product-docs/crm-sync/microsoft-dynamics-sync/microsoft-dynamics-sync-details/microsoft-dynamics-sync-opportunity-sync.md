@@ -4,7 +4,7 @@ description: 'Sincronización de Microsoft Dynamics: sincronización de oportuni
 title: 'Sincronización de Microsoft Dynamics: sincronización de oportunidad'
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ El contacto o la cuenta se pueden asociar a una oportunidad de dos formas:
    * Si se establece el valor del contacto y la cuenta se deja vacía, Marketo crea un(a) `opportunitycontactrole` y establece la cuenta de la oportunidad en la cuenta del contacto. Si el contacto no tiene una cuenta, este campo se deja vacío.
    * Si el valor de la cuenta se establece y el contacto se deja vacío, Marketo solo establecerá la cuenta en la oportunidad de esta cuenta.
    * Si se establecen ambos valores, Dynamics elige la cuenta como valor para customerid, por lo que el comportamiento sería el mismo que arriba.
-
 
 * A través de las partes interesadas: Dynamics utiliza conexiones para conectar oportunidades de contacto a través de partes interesadas desde la página de creación de oportunidades. Para esto, crearemos un registro `opportunitycontactrole` para cada nuevo inversor.

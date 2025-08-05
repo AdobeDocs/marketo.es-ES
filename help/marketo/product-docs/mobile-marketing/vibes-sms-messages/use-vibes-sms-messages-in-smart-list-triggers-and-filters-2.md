@@ -4,7 +4,7 @@ title: Usar mensajes SMS de Vibes en Déclencheur y filtros de listas inteligent
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -60,7 +60,7 @@ También puede utilizar los filtros de Vibes en las listas inteligentes. El filt
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a _cualquiera_ suscrito actualmente a vibraciones y es el más adecuado para usarlo en campañas o listas inteligentes.
+Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a *cualquiera* suscrito actualmente a vibraciones y es el más adecuado para usarlo en campañas o listas inteligentes.
 
 ![](assets/image001.png)
 

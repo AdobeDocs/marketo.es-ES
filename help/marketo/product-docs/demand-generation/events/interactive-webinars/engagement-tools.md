@@ -4,9 +4,9 @@ title: Herramientas de participación en seminarios web interactivos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ CAPTURA DE PANTALLA
 
 ### Pods personalizados {#custom-pods}
 
-Los pods personalizados amplían la funcionalidad proporcionada por Adobe Connect. Algunos de los pods personalizados populares disponibles de forma gratuita son Countdown Timer, Clock, House Keeper, Titler y Word Cloud. Los pods personalizados se pueden descargar desde https://apps.adobeconnect.com/ como archivo .pod o .zip.
+Los pods personalizados amplían la funcionalidad proporcionada por Adobe Connect. Algunos de los pods personalizados populares disponibles de forma gratuita son Countdown Timer, Clock, House Keeper, Titler y Word Cloud. Los pods personalizados se pueden descargar de <https://apps.adobeconnect.com/> como archivos .pod o .zip.
 
 Para utilizar un pod personalizado:
 

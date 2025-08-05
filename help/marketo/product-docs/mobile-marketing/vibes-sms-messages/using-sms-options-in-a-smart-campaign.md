@@ -3,10 +3,10 @@ description: 'Uso de opciones de SMS en una campaña inteligente: documentos de 
 title: Uso de las opciones de SMS en una campaña inteligente
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -50,7 +50,7 @@ El déclencheur **Clicks Link in SMS Message** inicia un flujo cuando una person
 
 El filtro **Suscrito a la lista de vibraciones** encuentra a cualquiera que se haya suscrito a vibraciones *alguna vez*. Esto incluye tanto a las personas sin suscribir como a las eliminadas, aunque estas se omitan del flujo. Este filtro es el más adecuado para los informes.
 
-Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a _cualquiera_ suscrito actualmente a vibraciones y es el más adecuado para usarlo en campañas o listas inteligentes.
+Por el contrario, el filtro **Lista de miembros de vibraciones** encuentra a *cualquiera* suscrito actualmente a vibraciones y es el más adecuado para usarlo en campañas o listas inteligentes.
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: 'Notas De La Versión, Otoño De 2018: Documentos De Marketo: Docum
 title: Notas de la versión, otoño de 2018
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 0%

@@ -2,7 +2,7 @@
 description: 'Notas de la versión, agosto de 2021: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] integración de Forms de generación de clientes potenciales**: los especialistas en marketing ahora pueden realizar la atribución de ingresos en las conversiones que se producen cuando [!DNL LinkedIn] captura los formularios que se rellenan a través de sus unidades de anuncios de Forms de generación de clientes potenciales. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones en medios de pago. [!DNL LinkedIn] Lead Gen Forms es una de las ofertas de medios de pago de más rápido crecimiento de [!DNL LinkedIn] y esta nueva capacidad se incluye con nuestra integración de anuncios [!DNL LinkedIn] existente con [!DNL Bizible]. 
- 
+* **[!DNL Bizible][!DNL LinkedIn] integración de Forms de generación de clientes potenciales**: los especialistas en marketing ahora pueden realizar la atribución de ingresos en las conversiones que se producen cuando [!DNL LinkedIn] captura los formularios que se rellenan a través de sus unidades de anuncios de Forms de generación de clientes potenciales. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones en medios de pago. [!DNL LinkedIn] Lead Gen Forms es una de las ofertas de medios de pago de más rápido crecimiento de [!DNL LinkedIn] y esta nueva capacidad se incluye con nuestra integración de anuncios [!DNL LinkedIn] existente con [!DNL Bizible].
+
 * **Tablero de velocidad mejorado**: Hemos agregado una nueva métrica de velocidad y un filtro de tablero para obtener información más detallada. Los especialistas en marketing utilizan este tablero para comprender la velocidad de posible cliente y de oportunidad paso a paso y la eficiencia de las diferentes formas de participación de marketing y ventas.
 
 * **Nuevo panel de Recorrido de cascada de cohorte**: esto permitirá a los especialistas en marketing ver la progresión de una cohorte seleccionada a través de un conjunto de etapas de &quot;cascada de demanda&quot; clásica, lo que proporciona una comprensión rápida de las tasas de conversión y la causalidad de conversión de etapa implícita en cada etapa.

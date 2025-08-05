@@ -3,7 +3,7 @@ description: Lista de reuniones - Documentos de Marketo - Documentación del pro
 title: Lista de reuniones
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Aquí es donde verá todas las citas programadas por los visitantes del sitio we
 Cuando falla una acción, como una reserva de reunión o un chat en vivo, los usuarios reciben una notificación por correo electrónico.
 
 ![](assets/meeting-list-2.png)
-

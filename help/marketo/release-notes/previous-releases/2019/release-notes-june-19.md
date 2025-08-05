@@ -4,7 +4,7 @@ description: 'Notas de la versión, junio de 2019: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -68,4 +68,4 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Integración de Drift**: Entienda cómo las conversaciones de Drift afectan el recorrido de su cliente. [!DNL Bizible] también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: [!DNL Bizible] ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-***Seminario web sobre la versión del producto*** Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Seminario web sobre la versión del producto**_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

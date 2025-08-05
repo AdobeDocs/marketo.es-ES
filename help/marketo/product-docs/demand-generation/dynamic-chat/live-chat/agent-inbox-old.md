@@ -4,7 +4,7 @@ title: Bandeja de entrada del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -82,4 +82,3 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 1. El visitante del chat podrá reservar una reunión.
 
    ![](assets/agent-inbox-10.png)
-

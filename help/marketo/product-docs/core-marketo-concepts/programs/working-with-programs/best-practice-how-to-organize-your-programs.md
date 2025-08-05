@@ -4,7 +4,7 @@ description: 'Práctica recomendada: Cómo organizar los programas - Documentos 
 title: 'Práctica recomendada: Cómo organizar los programas'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -30,9 +30,9 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >* Programas de marketing activos
 >   * Correos electrónicos
 >   * Eventos
->      * Eventos en directo / Jornadas
->      * Ferias
->      * Seminarios web
+>     * Eventos en directo / Jornadas
+>     * Ferias
+>     * Seminarios web
 >   * Boletines informativos
 >   * Acompañamiento
 >   * Contenido web
@@ -48,8 +48,8 @@ En las actividades de marketing, debe utilizar carpetas para organizar los progr
 >   * Campañas solicitadas de ventas
 >* **Archivar**
 >   * Archivar eventos
->      * Archivo 2012
->      * Archivo 2013
+>     * Archivo 2012
+>     * Archivo 2013
 
 Cada uno de estos elementos mencionados en el ejemplo es una carpeta. Observe cómo todos tienen un nombre único. Puede tener nombres duplicados (más sencillos) de carpetas DENTRO de los programas, pero no en la raíz del árbol.
 

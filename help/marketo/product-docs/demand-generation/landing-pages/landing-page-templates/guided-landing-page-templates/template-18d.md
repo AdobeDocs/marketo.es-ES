@@ -4,7 +4,7 @@ description: Plantilla 18D - Documentos de Marketo - Documentación del producto
 title: Plantilla 18D
 exl-id: db998446-12a1-4fd9-9709-3ac08b8ceefa
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 18D {#template-18d}
 
-Haga clic con el botón derecho para [descargar la plantilla 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=es)
+[Plantilla 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)

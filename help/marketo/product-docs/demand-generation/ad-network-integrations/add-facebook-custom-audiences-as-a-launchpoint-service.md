@@ -4,7 +4,7 @@ description: Agregar  [!DNL Facebook] audiencias personalizadas como servicio [!
 title: Agregar  [!DNL Facebook] audiencias personalizadas como [!DNL LaunchPoint] servicio
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Con esta integración, puede enviar datos de audiencia desde listas estáticas e
 
    >[!NOTE]
    >
-   >Usted _debe_ usar una cuenta de [!DNL Facebook] Business Manager para que funcione su integración de audiencias personalizadas. Para aprender a configurar una cuenta de Business Manager, consulte [[!DNL Facebook] Ayuda](https://www.facebook.com/business/help/1710077379203657).
+   >Usted *debe* usar una cuenta de [!DNL Facebook] Business Manager para que funcione su integración de audiencias personalizadas. Para aprender a configurar una cuenta de Business Manager, consulte [[!DNL Facebook] Ayuda](https://www.facebook.com/business/help/1710077379203657).
 
 1. Si se le solicita, haga clic en **[!UICONTROL Aceptar]** para aceptar la instalación de la aplicación Marketo en [!DNL Facebook].
 

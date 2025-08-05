@@ -3,7 +3,7 @@ description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de 
 title: EM-AAAA-MM-DD-Envío de un solo correo electrónico
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 16%

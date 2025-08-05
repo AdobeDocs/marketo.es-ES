@@ -4,7 +4,7 @@ description: Informe de rendimiento de correo electrónico - Documentos de Marke
 title: Informe de rendimiento de correo electrónico
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 2%
@@ -36,6 +36,7 @@ Para ver el rendimiento de los correos electrónicos con estadísticas como envi
    [Seleccionar columnas de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico incluye:
 
    <table><thead>
+
 <tr>
     <th>Columna</th>
     <th>Descripción</th>
@@ -75,7 +76,7 @@ En general, tratamos de usar el sentido común para registrar estas estadística
 
 * **Regla 1**: Cada registro de actividad de correo electrónico se establece en uno y solo en uno de los siguientes: _Entregado_, _Rebote duro_, _Rebote suave_ o _Pendiente_.
 
-* **Regla 2**: Si el registro de correo electrónico muestra *[!UICONTROL Abierta]*, se cuenta como *Entregada*.
+* **Regla 2**: Si el registro de correo electrónico muestra _[!UICONTROL Abierta]_, se cuenta como _Entregada_.
 
 * **Regla 3**: Si el registro de correo electrónico muestra _[!UICONTROL Correo electrónico en el que se hizo clic]_ o _[!UICONTROL Se canceló la suscripción]_, se cuenta como _Entregado_ y _Abierto_.
 

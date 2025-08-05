@@ -3,7 +3,7 @@ description: Recomendaciones - Documentos de Marketo - Documentación del produc
 title: Recomendaciones
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -15,6 +15,7 @@ ht-degree: 0%
 La ficha [!UICONTROL resultados más probables] incluye una lista de todos los posibles clientes en función de su prioridad, calculados mediante la urgencia y la puntuación relativa.
 
 Al hacer clic en el menú de puntos debajo de la columna Acciones, puede utilizar opciones de participación como las siguientes:
+
 * [!UICONTROL Enviar correo electrónico de Marketo]
 * [!UICONTROL Agregar a Marketo Campaign]
 

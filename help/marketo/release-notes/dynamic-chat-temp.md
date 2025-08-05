@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 3%
@@ -36,7 +36,7 @@ Hemos rediseñado la lógica de enrutamiento de chat en vivo en Dynamic Chat par
 
 * **Comportamiento específico de regla de enrutamiento**
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 Si el dominio de correo electrónico de un visitante se asigna a una cuenta conocida, siempre se da prioridad al agente asignado.
 
@@ -54,7 +54,7 @@ Si el agente no está disponible, el sistema:
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, Equipo o Personalizado) solo se tiene en cuenta si el enrutamiento de cuentas no es elegible (no hay dominio o agente coincidente).
 
-_&#x200B;**Enrutamiento personalizado/de equipo**&#x200B;_
+_**Enrutamiento personalizado/de equipo**_
 
 Estas reglas pueden devolver varios agentes aptos.
 
@@ -68,7 +68,7 @@ Si ninguno de los agentes interactúa:
 -o-
 * Muestra el mensaje de reserva predeterminado.
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 Cuando se utiliza como regla de enrutamiento principal, el sistema:
 
@@ -78,7 +78,7 @@ Cuando se utiliza como regla de enrutamiento principal, el sistema:
 
 Si se utiliza el Round Robin como alternativa, solo se activa si no se resuelve ningún agente a partir de la regla principal.
 
-_&#x200B;**Flujo de experiencia del visitante**&#x200B;_
+_**Flujo de experiencia del visitante**_
 
 El sistema comprueba si se aplica el enrutamiento de cuentas.
 
@@ -102,7 +102,7 @@ La reserva de Round Robin solo se considera cuando no se encuentran agentes apto
 
 ##### Casos de uso {#use-cases}
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>

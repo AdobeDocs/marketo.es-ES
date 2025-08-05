@@ -4,9 +4,9 @@ description: Funcionamiento del seguimiento de respuestas - Documentos de Market
 title: Funcionamiento del seguimiento de respuestas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ El seguimiento de respuestas se realiza mirando un ID de mensaje que aparece en 
 
 Si [!DNL Sales Connect] no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta a [!DNL Salesforce].  ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 
-Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y él responde con kevinf@flynnsarcade.com, podemos rastrear la respuesta. Además, si envías un correo electrónico a flynn@flynnsarcade.com y CC alan@encom.com, y Alan te devuelve una respuesta, también detectará la respuesta y finalizará la campaña.
+Esto significa que si envía un correo electrónico a <flynn@flynnsarcade.com> y él responde con <kevinf@flynnsarcade.com>, podremos realizar un seguimiento de la respuesta. Además, si envía un correo electrónico a <flynn@flynnsarcade.com> y CC <alan@encom.com>, y Alan le devuelve una respuesta, también detectará la respuesta y finalizará la campaña.

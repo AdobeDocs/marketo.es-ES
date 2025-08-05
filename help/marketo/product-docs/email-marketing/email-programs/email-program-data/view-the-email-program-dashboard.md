@@ -4,7 +4,7 @@ description: Ver el tablero del programa de correo electrónico - Documentos de 
 title: Ver el panel del programa de correo electrónico
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Si ha añadido una prueba A/B al programa de correo electrónico y la prueba se 
 
 ## Vista de programa de correo electrónico {#email-program-view}
 
-Alternativamente, si no agregó una prueba A/B *o* si la prueba ha finalizado, se debería mostrar lo siguiente:
+Alternativamente, si no agregó una prueba A/B _o_ si la prueba ha finalizado, se debería mostrar lo siguiente:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

@@ -3,10 +3,10 @@ description: 'Campos dinámicos: documentos de Marketo: documentación del produ
 title: Campos dinámicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 1%
+source-wordcount: '535'
+ht-degree: 0%
 
 ---
 
@@ -61,9 +61,9 @@ Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará m
 | `{{friendly_unsubscribe}}` | ¿Cansado de todos los correos electrónicos? Por favor, hágamelo saber aquí |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, redactor técnico sénior - Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Escritor técnico sénior |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Aspectos a tener en cuenta**:
 

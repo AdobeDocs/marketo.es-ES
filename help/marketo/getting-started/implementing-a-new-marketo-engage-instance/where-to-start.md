@@ -3,7 +3,7 @@ description: Conozca las prácticas recomendadas al implementar una nueva instan
 title: Por dónde empezar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Introducción a la comunidad:
 1. Haga clic en **Continuar con Adobe ID** y seleccione su suscripción principal en la página de inicio de sesión.
 1. Al iniciar sesión, complete el perfil de la comunidad.
 1. Después de enviar la información, llegará a la página principal de la comunidad y estará listo para comenzar.
-

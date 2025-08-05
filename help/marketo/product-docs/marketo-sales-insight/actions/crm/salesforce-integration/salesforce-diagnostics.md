@@ -3,9 +3,9 @@ description: Diagnóstico de Salesforce - Documentos de Marketo - Documentación
 title: Diagnóstico de Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1344'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -181,7 +181,7 @@ Autenticación de **categoría:**
 **Error:** TXN_SECURITY_NO_ACCESS
 **Categoría:** Acceso/Validación
 **Mensaje:** La operación solicitada no está permitida debido a una directiva de seguridad de su organización. Póngase en contacto con el administrador.
-**Qué sucede:** Se ha configurado algún tipo de restricción de seguridad; consulte https://developer.salesforce.com/forums/?id=&quot;id. de registro&quot;
+**Qué está sucediendo:** Se ha configurado algún tipo de restricción de seguridad; consulte <https://developer.salesforce.com/forums/?id="record> ID.&quot;
 **Pasos para solucionar problemas:** Hable con su administrador de [!DNL Salesforce] y vea cuál puede ser la restricción específica.
 
 **Error:** UNABLE_TO_LOCK_ROW

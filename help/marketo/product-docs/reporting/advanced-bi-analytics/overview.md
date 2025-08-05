@@ -3,7 +3,7 @@ description: 'Información general avanzada de BI Analytics: Documentos de Marke
 title: Información general avanzada de BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1228'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 

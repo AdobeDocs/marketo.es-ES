@@ -4,7 +4,7 @@ title: Doc temporal
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ### Añadir Assets {#add-assets}
 
-Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de la instancia de Marketo Engage.
+Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de su instancia de Marketo Engage.
 
 >[!NOTE]
 >
@@ -37,9 +37,7 @@ Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/
 
 Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
 
-
-
-Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o de HTML personalizadas.
+Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o HTML personalizadas.
 
 PRECAUCIÓN
 No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.

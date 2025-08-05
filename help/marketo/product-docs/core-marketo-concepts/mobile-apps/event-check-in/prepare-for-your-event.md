@@ -4,7 +4,7 @@ description: 'Preparación para su evento: Documentos de Marketo, documentación
 title: Preparación para su evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Hay varias cosas que tienes que hacer para prepararte para el evento.
 
 >[!IMPORTANT]
 >
->El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación de eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Adobe Identity para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Crear una nueva función de Marketo {#create-a-new-marketo-role}
 
@@ -49,7 +49,7 @@ Es muy fácil establecer las fechas de los eventos.
 
 ## Añadir personas al evento {#add-people-to-your-event}
 
-Ahora que conoce _when_, es hora de agregar *who*.
+Ahora que conoce _when_, es hora de agregar _who_.
 
 1. Si ya tiene una lista de personas, en Mi Marketo, haga clic en el mosaico **[!UICONTROL Base de datos]**.
 

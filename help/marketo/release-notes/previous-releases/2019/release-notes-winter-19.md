@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 'Notas de la versión, invierno de 2019, documentación de Marketo: documentación del producto'
 title: Notas de la versión, invierno de 2019
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Servicio de correo electrónico**: disfruta de una mejor capacidad de envío, además de un seguimiento de respuestas mejorado, funcionalidad de correo electrónico programado y funcionalidad de correo electrónico masivo al conectarte a [!DNL Microsoft Outlook] (ya sea a través de Office365 o en la ubicación local a través de la pestaña Conexión de correo electrónico).
 * **Nueva configuración de administración**: se han agregado dos páginas de administración para optimizar la instancia de participación en ventas
 
-   * _Team Management_ admite un proceso de configuración de cuenta sin problemas, ya que permite a los administradores editar suscripciones y equipos.
-   * _Configuración de administración de Salesforce_ ayuda a los equipos a configurar la sincronización de SFDC de forma más rápida y sencilla que nunca.
+   * *Team Management* admite un proceso de configuración de cuenta sin problemas, ya que permite a los administradores editar suscripciones y equipos.
+   * *Configuración de administración de Salesforce* ayuda a los equipos a configurar la sincronización de SFDC de forma más rápida y sencilla que nunca.
 
 * **Complemento de OWA para[!DNL Windows]**: con un solo complemento, se admitirán todos los clientes de [!DNL Windows Office365] en Sales Engage, lo que permitirá usar Live Feed en Outlook. El nuevo complemento estará disponible en la Tienda Microsoft.
 * **Propulsor de actividades**: sincronice el compromiso de ventas con la plataforma principal de Marketo para aprovechar las perspectivas de marketing en tiempo real.

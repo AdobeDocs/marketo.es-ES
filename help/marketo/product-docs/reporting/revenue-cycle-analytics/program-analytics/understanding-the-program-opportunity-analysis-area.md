@@ -4,7 +4,7 @@ description: 'Explicación del área de análisis de oportunidad de programa: do
 title: Explicación del área de análisis de oportunidad de programa
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 1%
@@ -186,7 +186,7 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
  </tbody>
 </table>
 
-*&#42;Todas las oportunidades que dieron crédito de atribución de cualquier tipo a un programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más programas.*
+_&#42;Todas las oportunidades que dieron crédito de atribución de cualquier tipo a un programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más programas._
 
 >[!MORELIKETHIS]
 >

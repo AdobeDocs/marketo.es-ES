@@ -3,7 +3,7 @@ description: 'Notas de la versión, octubre de 2024: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -92,8 +92,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Actualización de API de extracción masiva**: se ha corregido un problema en la API de extracción masiva que incluía la opción columnHeaderNames, que le permite especificar nombres de encabezado de columna personalizados en el archivo exportado. Anteriormente, los nombres de encabezados de columna que contenían caracteres no ASCII podían dañarse.
 
-* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
-
+* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Desaprobación del código QR**: El 4 de octubre de 2024, la función de código QR utilizada en las notificaciones push y los recursos de mensajería en la aplicación dejará de usarse. Esto incluye el uso de códigos QR para un nuevo dispositivo de prueba y la creación de nuevos recursos con códigos QR. Las funciones en desuso con un menor uso nos permiten reasignar sus recursos al mantenimiento general de Marketo Engage.
 

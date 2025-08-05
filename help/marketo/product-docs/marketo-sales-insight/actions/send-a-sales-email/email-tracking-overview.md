@@ -3,9 +3,9 @@ description: Información general sobre el seguimiento de correo electrónico - 
 title: Resumen de seguimiento de correo electrónico
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ El seguimiento de respuestas se realiza mirando un ID de mensaje que hay en cada
 
 Si [!DNL Sales Connect] no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta en Salesforce. ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 
-Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y él responde con kevinf@flynnsarcade.com, podremos realizar un seguimiento de la respuesta. Además, si envías un correo electrónico a flynn@flynnsarcade.com y CC alan@encom.com, y Alan te devuelve una respuesta, también detectará la respuesta y finalizará la campaña.
+Esto significa que si envía un correo electrónico a <flynn@flynnsarcade.com> y él responde con <kevinf@flynnsarcade.com>, podremos realizar un seguimiento de la respuesta. Además, si envía un correo electrónico a <flynn@flynnsarcade.com> y CC <alan@encom.com>, y Alan le devuelve una respuesta, también detectará la respuesta y finalizará la campaña.
 
 ## Seguimiento de los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
 

@@ -4,7 +4,7 @@ description: 'Exploradores admitidos: Documentos de Marketo, documentación del 
 title: Navegadores admitidos
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 10%
@@ -22,9 +22,8 @@ Actualmente, Marketo admite los siguientes exploradores:
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | última versión |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | última versión |
 
-
 >[!NOTE]
 >
->Para los usuarios que se han migrado a [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, todos los exploradores son compatibles con Mac y Windows, excepto con Microsoft Edge en modo Estricto.
+>Para los usuarios que se han migrado a [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, todos los exploradores son compatibles con Mac y Windows, excepto con Microsoft Edge en modo Estricto.
 
 ¡Para disfrutar de la mejor experiencia, **mantén actualizado tu navegador**!

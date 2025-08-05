@@ -4,9 +4,9 @@ description: Glosario de tipos de campos personalizados - Documentos de Marketo 
 title: Glosario de tipo de campo personalizado
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 **Nombre de ejemplo:** Correo electrónico alternativo: mantenga una dirección de correo electrónico alternativa para sus recursos (en realidad no puede enviar correos electrónicos a este campo como el campo de dirección de correo electrónico predeterminado, ese campo es especial)
 
-**Valores de ejemplo:** name@company.com
+**Valores de ejemplo:** <name@company.com>
 
 **Operadores**: es, no es, empieza por, no empieza por, contiene, no contiene, está vacío, no está vacío
 
@@ -105,7 +105,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 **Operadores**: es, no es, empieza por, no empieza por, contiene, no contiene, está vacío, no está vacío
 
-## Puntaje {#score}
+## Puntuación {#score}
 
 **Nombre de ejemplo:** Puntuación de comportamiento/Puntuación demográfica: cree varios campos de puntuación para realizar un seguimiento de atributos diferentes
 
@@ -133,6 +133,6 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 **Nombre de ejemplo:** blog: cree un campo para almacenar las direcciones URL del blog de la persona
 
-**Valor de ejemplo:** www.myblog.com
+**Valor de ejemplo:** &lt;www.myblog.com>
 
 **Operadores**: es, no es, empieza por, no empieza por, contiene, no contiene, está vacío, no está vacío

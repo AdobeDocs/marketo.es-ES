@@ -4,7 +4,7 @@ description: Plantilla 2A - Documentos de Marketo - Documentación del producto
 title: Plantilla 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 2A {#template-2a}
 
-Haga clic con el botón derecho para [descargar la plantilla 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=es)
+[Plantilla 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

@@ -4,7 +4,7 @@ description: '[!UICONTROL Listas de cuentas] - Documentos de Marketo - Documenta
 title: '[!UICONTROL Listas de cuentas]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Además de las listas de cuentas, también puede crear listas de cuentas dinámi
 
 >[!NOTE]
 >
->Estos pasos solo se aplican a listas de cuentas. Las listas de cuentas _dinámicas_ utilizan el nombre de sus vistas de cuentas de CRM asociadas.
+>Estos pasos solo se aplican a listas de cuentas. Las listas de cuentas *dinámicas* utilizan el nombre de sus vistas de cuentas de CRM asociadas.
 
 1. Seleccione la cuenta cuyo nombre desea cambiar, haga clic en la lista desplegable **[!UICONTROL Acciones de lista de cuentas]** y seleccione **[!UICONTROL Cambiar nombre de lista de cuentas]**.
 

@@ -3,7 +3,7 @@ description: 'Sincronización de tareas de recordatorio con Salesforce: document
 title: Sincronización de tareas de recordatorio con Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Para activar esta sincronización, simplemente marca la casilla de sincronizaci�
 
 >[!NOTE]
 >
->El campo de asunto de una tarea se puede actualizar en [!DNL Sales Insight Actions] y esa actualización se sincronizará en el campo de asunto [!DNL Salesforce] para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). A la inversa, cualquier actualización realizada en el campo de asunto de [!DNL Salesforce] _no_ se sincronizará con el campo de asunto de la tarea de recordatorio [!DNL Sales Insight Actions].
+>El campo de asunto de una tarea se puede actualizar en [!DNL Sales Insight Actions] y esa actualización se sincronizará en el campo de asunto [!DNL Salesforce] para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). A la inversa, cualquier actualización realizada en el campo de asunto de [!DNL Salesforce] *no* se sincronizará con el campo de asunto de la tarea de recordatorio [!DNL Sales Insight Actions].

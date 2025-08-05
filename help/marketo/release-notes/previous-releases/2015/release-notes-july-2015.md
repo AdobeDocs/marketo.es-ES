@@ -4,9 +4,9 @@ description: 'Notas de la versión, julio de 2015: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Al hacer clic en el mosaico de capacidad de entrega de correo electrónico, ya n
 
 **Acceso al objeto Company a través de la API REST**: La API REST ahora proporciona acceso al objeto Company de Marketo (también conocido como Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que haya creado en Marketo y asociar posibles clientes con dichas empresas mediante la API [!DNL Lead] actualizada.
 
-Obtenga [más información]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) en nuestra guía de referencia para la API de la compañía.
+Obtenga [más información]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) en nuestra guía de referencia sobre la API de la compañía.
 
 ## Acceso a entrega de correo electrónico {#access-email-deliverability}
 

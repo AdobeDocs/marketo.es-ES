@@ -6,7 +6,7 @@ description: Aprenda a añadir CSS personalizado al contenido del correo electr�
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 4%
@@ -132,7 +132,6 @@ A continuación se muestran ejemplos de CSS válido.
 
 +++
 
-
 +++ Ejemplos de CSS no válido
 
 Si se introduce un CSS no válido, se muestra un mensaje de error que indica que el CSS no se puede guardar. A continuación se muestran ejemplos de CSS no válido.
@@ -200,7 +199,6 @@ Su CSS personalizado se agrega al final de la sección `<head>` como parte de un
 ```
 
 +++
-
 
 El panel **[!UICONTROL Configuración]** de Designer de correo electrónico no interpreta ni valida la CSS personalizada. Es totalmente independiente y solo se puede modificar mediante la opción **[!UICONTROL Agregar CSS personalizado]**.
 

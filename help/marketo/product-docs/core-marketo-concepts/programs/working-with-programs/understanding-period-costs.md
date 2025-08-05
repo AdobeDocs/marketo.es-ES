@@ -4,7 +4,7 @@ description: Explicación de los costes de periodo - Documentos de Marketo - Doc
 title: Explicación de Costes de Período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Imagine un evento, como un seminario web, que se produce en marzo. Las nuevas pe
 
    ![](assets/graph1.png)
 
-   ...los contactos agregados en los meses anteriores y posteriores *solo* contarán hacia marzo.
+   ...los contactos agregados en los meses anteriores y posteriores _solo_ contarán hacia marzo.
 
    ![](assets/graph2.png)
 

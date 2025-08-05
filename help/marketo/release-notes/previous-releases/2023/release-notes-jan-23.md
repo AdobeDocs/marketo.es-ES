@@ -3,7 +3,7 @@ description: 'Notas de la versión, enero de 2023: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 8%
@@ -41,6 +41,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Conmutador de conmutación</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Mejorado usado por el componente para los detalles de la plantilla de correo electrónico y los detalles del fragmento**: la pestaña Nuevo usado por la interfaz de usuario proporciona información adicional sobre cada uno de los recursos usados por, como cuándo se modificó por última vez y quién los modificó por última vez. Puede realizar análisis fácilmente mediante las capacidades de búsqueda, ordenación y filtrado. Este nuevo componente de interfaz de usuario se incorporará a partir de los recursos Plantilla de correo electrónico y Fragmento de código.
@@ -88,7 +89,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=es">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

@@ -3,7 +3,7 @@ description: 'Sincronización de tareas de recordatorio con Salesforce: document
 title: Sincronización de tareas de recordatorio con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Para activar esta sincronización, simplemente marca la casilla de sincronizaci�
 
 >[!NOTE]
 >
->El campo de asunto de una tarea se puede actualizar en [!DNL Sales Connect] y esa actualización se sincronizará en el campo de asunto [!DNL Salesforce] para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). A la inversa, cualquier actualización realizada en el campo de asunto de [!DNL Salesforce] _no_ se sincronizará con el campo de asunto de la tarea de recordatorio [!DNL Sales Connect].
+>El campo de asunto de una tarea se puede actualizar en [!DNL Sales Connect] y esa actualización se sincronizará en el campo de asunto [!DNL Salesforce] para la tarea sincronizada correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la configuración de [Personalización de detalles de actividad](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). A la inversa, cualquier actualización realizada en el campo de asunto de [!DNL Salesforce] *no* se sincronizará con el campo de asunto de la tarea de recordatorio [!DNL Sales Connect].
