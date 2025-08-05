@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 5%
@@ -729,8 +729,8 @@ ht-degree: 5%
             + [Prácticas recomendadas para seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [Administración de usuarios y licencias](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [Agregar un equipo del seminario web](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Agregar un equipo del seminario web](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Prueba de un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [Ofrecer un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Plantillas](product-docs/demand-generation/events/interactive-webinars/templates.md)

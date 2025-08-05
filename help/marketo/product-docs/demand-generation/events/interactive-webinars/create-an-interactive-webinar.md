@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    >[!CAUTION]
    >
-   >[Los recursos de **notificación push móvil** no son compatibles con los seminarios web interactivos.](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
+   >[Los recursos de ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}notificación push móvil **no son compatibles con los seminarios web interactivos.**
 
 1. Asigne un nombre al programa. En Tipo de programa, seleccione **Evento**.
 
@@ -65,11 +65,3 @@ Cree un seminario web interactivo en unos sencillos pasos.
 >Se recomienda espaciar dos eventos consecutivos por 30 minutos (a menos que la licencia admita seminarios web simultáneos) como búfer en caso de que el seminario web anterior se ejecute más allá de su hora programada.
 
 Es hora de [diseñar tu seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
-
->[!IMPORTANT]
->
->Se recomienda encarecidamente que diseñe su seminario web _antes de_ agregar presentadores o co-anfitriones.
-
->[!MORELIKETHIS]
->
->[Aprenda a agregar moderadores o co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

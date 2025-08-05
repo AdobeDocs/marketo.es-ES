@@ -3,9 +3,9 @@ description: 'Diseño de seminarios web interactivos: documentos de Marketo, doc
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 
    >[!TIP]
    >
-   >El seminario web se establecerá en el idioma predeterminado en la instancia de Marketo Engage, pero tiene la opción de cambiar los idiomas por seminario web mediante la lista desplegable situada encima de la vista previa.
+   >El seminario web se establecerá en el idioma predeterminado en la instancia de Marketo Engage, pero tiene la opción de cambiar de idioma por seminario web mediante la lista desplegable situada encima de la vista previa.
 
 1. Puede seleccionar diferentes diseños para previsualizarlos. Para continuar, haga clic en **Usar plantilla**.
 
@@ -75,3 +75,7 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 **Diseño**: Hace referencia a varias formas en que los diversos componentes necesarios para garantizar el éxito del seminario web se organizan en una plantilla determinada. Una sola plantilla puede tener varios diseños para que pueda elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que seleccionó se adaptaría mejor al estilo o las necesidades de usted o del presentador que imparte el seminario web.
 
 **Pod**: Un componente dentro de una plantilla que realiza una actividad en particular durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuestas puede cumplir. Del mismo modo, charlar con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad que se ofrece a través del pod de chat. Hay varios pods más disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
+
+>[!MORELIKETHIS]
+>
+>[Aprenda a agregar moderadores o co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
