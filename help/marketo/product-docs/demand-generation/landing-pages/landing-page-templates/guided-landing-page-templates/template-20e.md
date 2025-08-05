@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 20E {#template-20e}
 
-Haga clic con el botón derecho para [descargar la plantilla 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Haga clic con el botón derecho para [descargar la plantilla 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=es)
 
 ![](assets/template-20e.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Plantilla 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=es)

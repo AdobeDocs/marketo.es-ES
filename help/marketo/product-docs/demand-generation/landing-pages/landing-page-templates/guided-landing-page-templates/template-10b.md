@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 10B {#template-10b}
 
-Haga clic con el botón derecho para [descargar la plantilla 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+Haga clic con el botón derecho para [descargar la plantilla 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=es)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+[Plantilla 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=es)

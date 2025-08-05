@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 16D {#template-16d}
 
-Haga clic con el botón derecho para [descargar plantilla 16D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+Haga clic con el botón derecho para [descargar plantilla 16D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=es)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+[Plantilla 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=es)

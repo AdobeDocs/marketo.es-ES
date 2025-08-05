@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 17E {#template-17e}
 
-Haga clic con el botón derecho para [descargar la plantilla 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+Haga clic con el botón derecho para [descargar la plantilla 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=es)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
+[Plantilla 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=es)

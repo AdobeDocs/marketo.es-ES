@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 9C {#template-9c}
 
-Haga clic con el botón derecho para [descargar la plantilla 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+Haga clic con el botón derecho para [descargar la plantilla 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=es)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+[Plantilla 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=es)

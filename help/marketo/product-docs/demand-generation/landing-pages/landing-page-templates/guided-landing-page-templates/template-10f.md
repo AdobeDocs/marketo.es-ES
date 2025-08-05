@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 10F {#template-10f}
 
-Haga clic con el botón derecho para [descargar la plantilla 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+Haga clic con el botón derecho para [descargar la plantilla 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=es)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+[Plantilla 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=es)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 18C {#template-18c}
 
-Haga clic con el botón derecho para [descargar la plantilla 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+Haga clic con el botón derecho para [descargar la plantilla 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=es)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+[Plantilla 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=es)

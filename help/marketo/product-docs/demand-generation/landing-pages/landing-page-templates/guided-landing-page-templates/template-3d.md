@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 3D {#template-3d}
 
-Haga clic con el botón derecho para [descargar la plantilla 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Haga clic con el botón derecho para [descargar la plantilla 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=es)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Plantilla 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=es)
