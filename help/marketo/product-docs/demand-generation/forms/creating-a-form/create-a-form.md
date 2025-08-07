@@ -4,9 +4,9 @@ description: 'Creación de un formulario: documentos de Marketo, documentación 
 title: Crear un formulario
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,19 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. Busque y seleccione su **programa**.
+1. Busque el programa deseado. Haga clic con el botón derecho en él y seleccione **[!UICONTROL Nuevo recurso local]**.
 
-   ![](assets/programseelct.png)
-
-1. En **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo recurso local]**.
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. Seleccionar **[!UICONTROL Formulario]**.
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. Escriba un formulario **[!UICONTROL Nombre]** y haga clic en **[!UICONTROL Crear]**.
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
