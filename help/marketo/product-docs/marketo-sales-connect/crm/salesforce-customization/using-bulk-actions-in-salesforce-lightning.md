@@ -18,8 +18,8 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 >[!PREREQUISITES]
 >
 >Actualice a la última versión del paquete [!DNL Sales Connect] e instale los botones de acción masiva en la vista de posibles clientes o contactos.
->* [Instrucciones en inglés](assets/SF+Guide+for+Lightning-EN)
->* [Instrucciones en japonés](assets/SF+Guide+for+Lightning-JA)
+>* [Instrucciones en inglés] (assets/SF+Guide+for+Lightning-EN)
+>* [Instrucciones en japonés] (assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
