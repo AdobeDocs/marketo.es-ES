@@ -3,9 +3,9 @@ description: Administración de usuarios y licencias - Documentos de Marketo - D
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 2%
 
 ---
@@ -89,7 +89,7 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
   </tr>
   <tr>
    <td width="20%"><b>Eventos consumidos</b></td>
-   <td width="80%">Número total de eventos completados.</td>
+   <td width="80%">Todos los eventos completados y programados actualmente. <a href="#things-to-note">Más información</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Capacidad de almacenamiento</b></td>
@@ -98,13 +98,13 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
   </tbody>
 </table>
 
-**Aspectos a tener en cuenta**
+### Cosas que hay que tener en cuenta {#things-to-note}
+
+* Cada vez que se crea un evento, se contabiliza como &quot;consumido&quot; desde su licencia respectiva (a menos que sea una licencia de sala compartida). Se da preferencia a &quot;Licencia de evento compartido&quot; si hay &quot;Licencia de evento compartido&quot; y &quot;Licencia de habitación compartida&quot; de la misma capacidad. Si el evento no se ha entregado y el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reaprovisiona. Si el evento no se entrega y el programa de eventos no se elimina antes de la hora programada, el evento no se reaprovisiona.
 
 * El tipo &quot;Licencia de almacenamiento adicional&quot; simplemente proporciona almacenamiento, por lo tanto el valor en cada campo _además de la Capacidad de almacenamiento de_ se indicará simplemente como &quot;-&quot;.
 
 * El tipo &quot;Licencia de sala compartida&quot; tiene eventos ilimitados y &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo que el campo Eventos totales para estas licencias se enumerará simplemente como &quot;-&quot;.
-
-* Cada vez que se cree un evento, se contará como &quot;consumido&quot; desde su licencia respectiva (a menos que sea una licencia de sala compartida). Se dará preferencia a &quot;Licencia de evento compartido&quot; si hay &quot;Licencia de evento compartido&quot; y &quot;Licencia de habitación compartida&quot; de la misma capacidad. Si el evento no se ha entregado y si el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reaprovisiona restando un evento de los eventos consumidos.
 
 * Una vez agotada la licencia, el mosaico permanece en la pantalla Seminarios web interactivos de la sección Administración con &quot;Eventos totales&quot; y &quot;Eventos consumidos&quot; con el mismo valor. Solo cuando caduque la licencia se eliminará de la pantalla.
 
