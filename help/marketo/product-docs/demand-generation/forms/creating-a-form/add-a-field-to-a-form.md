@@ -4,28 +4,32 @@ description: Agregar un campo a un formulario - Documentos de Marketo - Document
 title: Agregar un campo a un formulario
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Agregar un campo a un formulario {#add-a-field-to-a-form}
 
-Una vez que [hayas creado tu formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) y [seleccionado un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), quizá quieras agregar campos adicionales para que las personas los rellenen. Así es como.
+Una vez que [hayas creado tu formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} y [seleccionado un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, quizá quieras agregar campos adicionales para que las personas los rellenen. Así es como.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Editar borrador]**
 
-   ![](assets/editform-1.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
-1. Haga clic en el signo **+**.
+   >[!NOTE]
+   >
+   >Si el formulario deseado tiene el estado _Aprobado_, primero debe hacer clic en **Crear borrador**.
 
-   ![](assets/image2014-9-15-17-18-17.png)
+1. En el formulario, haga clic en el signo **+**.
+
+   ![](assets/add-a-field-to-a-form-3.png)
 
    >[!NOTE]
    >
@@ -33,18 +37,20 @@ Una vez que [hayas creado tu formulario](/help/marketo/product-docs/demand-gener
 
 1. Busque y seleccione el campo que desee agregar al formulario.
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. Agregue todos los campos que necesite y haga clic en **[!UICONTROL Finalizar]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. Ahora haga clic en **[!UICONTROL Aprobar y cerrar]**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >Asegúrese de aprobar cualquier borrador de página de aterrizaje creado debido a los cambios del formulario.
 
-No está nada mal. ¡Sigue con el buen trabajo! ¿Qué tal si aprendemos a [hacer obligatorio un campo de formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) a continuación?
+>[!MORELIKETHIS]
+>
+>[Establecer como obligatorio un campo de formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
