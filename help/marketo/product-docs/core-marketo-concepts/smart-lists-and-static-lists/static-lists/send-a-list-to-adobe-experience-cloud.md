@@ -94,9 +94,9 @@ Puede detener la sincronización de la lista en cualquier momento.
 
 ### Uso compartido en Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obtener más información sobre cómo configurarla.
+* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es){target="_blank"} para obtener más información sobre cómo configurarla.
 
-* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [ debe habilitarse en Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [ debe habilitarse en Adobe Target](https://experienceleague.adobe.com/es/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Si una lista está vacía o no tiene personas con valores ECID, el nombre de la lista no se insertará para que se haga referencia fuera de Marketo.
 
