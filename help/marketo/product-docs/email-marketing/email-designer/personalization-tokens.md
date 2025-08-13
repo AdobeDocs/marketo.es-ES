@@ -8,9 +8,9 @@ feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ El diseñador de correo electrónico tiene un formato diferente al editor de cor
 
 ## Caso de uso principal {#primary-use-case}
 
-Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
+Esta mejora beneficia principalmente a aquellos que realizan la transición de [Secuencias de comandos de Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} a Secuencias de comandos de Handlebar. El nuevo diseñador de correo electrónico solo admite el nuevo formato de token. El formato actualizado elimina espacios e introduce una estructura de texto predeterminada revisada, lo que garantiza una experiencia de script más fluida y eficaz.
 
 ## Experiencia del token {#token-experience}
 
@@ -49,6 +49,5 @@ En el diseñador de correo electrónico, debe usar [minúscula](https://develope
 
    * Deshacer/rehacer
    * Buscar/buscar y reemplazar
-   * Autocompletar
 
 * **Todos** los tokens anteriormente admitidos en Marketo Engage son compatibles con el nuevo editor de personalización.
