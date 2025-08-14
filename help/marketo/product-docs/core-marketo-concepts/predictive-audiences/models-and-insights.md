@@ -3,10 +3,10 @@ description: Modelos e información - Documentos de Marketo - Documentación del
 title: Modelos y recomendaciones
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -29,3 +29,5 @@ Vaya a la sección **[!UICONTROL Modelos y estado de datos]** en **[!UICONTROL A
 * **Rendimiento**: categorización del estado del modelo en función de la integridad y calidad de los datos (ver a continuación).
 * **Complejidad de datos**: porcentaje de atributos de datos presentes/completos.
 * **Calidad de los datos**: porcentaje de atributos que contienen datos útiles y buenos.
+
+* **Última formación**: La fecha del modelo que es la mejor de la evaluación entre el modelo actual y el nuevo modelo que se forma cada dos semanas.
