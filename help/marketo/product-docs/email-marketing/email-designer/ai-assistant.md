@@ -1,19 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Uso del asistente de IA
+title: Utilizar el Asistente de IA
 description: Aproveche la tecnología de IA generativa de Adobe para añadir texto o imágenes útiles a sus correos electrónicos.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# Uso del asistente de IA {#use-the-ai-assistant}
+# Utilizar el Asistente de IA {#use-ai-assistant}
 
 El asistente de IA de Marketo Engage Email Designer le ayuda a crear correos electrónicos contemporáneos, eficaces e intuitivos. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con Firefly para la generación de imágenes que ayuda a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
 
@@ -37,7 +37,7 @@ Una vez creado el correo electrónico, la línea de asunto se encuentra en la co
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Habilite la opción **Usar contenido de referencia** para que el asistente de IA personalice el nuevo contenido en función del contenido seleccionado.
+Habilite la opción **Usar contenido de referencia** para el asistente de IA a fin de personalizar el nuevo contenido en función del contenido seleccionado.
 
 Introduzca el mensaje para personalizar la línea de asunto. Introduzca la configuración de texto relevante y cargue cualquier recurso de marca que desee utilizar como referencia para crear una línea de asunto adecuada.
 
@@ -93,7 +93,7 @@ Una vez creado el correo electrónico, tiene la opción de modificar determinada
 
 ![](assets/use-the-ai-assistant-7.png)
 
-En este ejemplo, utilizamos una plantilla para el sector sanitario. Si la imagen existente del experto en atención médica no satisface sus necesidades, puede indicar al asistente de IA que cree su propia imagen de un experto en atención médica. Solo tiene que seleccionar el contenido de la imagen y hacer clic en el asistente de IA.
+En este ejemplo, utilizamos una plantilla para el sector sanitario. Si la imagen existente del experto en atención médica no satisface sus necesidades, puede indicar a un asistente de IA que cree su propia imagen de un experto en atención médica. Solo tiene que seleccionar el contenido de la imagen y hacer clic en Asistente de IA.
 
 ![](assets/use-the-ai-assistant-8.png)
 
