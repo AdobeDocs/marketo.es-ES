@@ -4,9 +4,9 @@ description: 'Edición de una etiqueta de campo en un formulario: documentos de 
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -17,30 +17,32 @@ Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utili
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Crear borrador]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >Si el formulario aún no se ha aprobado, haga clic en **Editar borrador**.
 
 1. Seleccione su campo y luego edite la **[!UICONTROL Etiqueta]**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >Si quieres ponerte elegante, puedes hacer clic en el ![lápiz](assets/image2014-9-15-17-3a27-3a7.png). Esto abrirá un editor de texto enriquecido y le permitirá ir a la ciudad con imágenes, enlaces y más!
+   >Haga clic en el icono ![lápiz](assets/icon-pencil.png) para acceder al editor de texto enriquecido.
 
 1. Haga clic en **[!UICONTROL Finalizar]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
-
-¡Ahí lo tienes! Poco a poco te estás convirtiendo en un diseñador de formularios campeón.
+>No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} creado por el formulario.
