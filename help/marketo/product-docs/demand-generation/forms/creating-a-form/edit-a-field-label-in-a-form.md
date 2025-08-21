@@ -4,9 +4,9 @@ description: 'Edición de una etiqueta de campo en un formulario: documentos de 
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utili
 
    >[!NOTE]
    >
-   >Si el formulario aún no se ha aprobado, haga clic en **Editar borrador**.
+   >Si el formulario no está aprobado, haga clic en **Editar borrador**.
 
 1. Seleccione su campo y luego edite la **[!UICONTROL Etiqueta]**. Los campos de Configuración de formulario reflejarán las etiquetas que haya introducido.
 
