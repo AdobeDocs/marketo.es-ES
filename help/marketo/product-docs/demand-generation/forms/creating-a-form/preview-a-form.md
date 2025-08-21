@@ -4,9 +4,9 @@ description: 'Previsualización de un formulario: documentos de Marketo, documen
 title: Previsualización de un formulario
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Antes de publicar, puede ver el formulario en este visor de formularios rápido 
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Busque y seleccione su formulario.
+1. Seleccione el formulario y haga clic en **[!UICONTROL Vista previa]**.
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. En **[!UICONTROL Acciones de formulario]**, haga clic en **[!UICONTROL Vista previa]**.
+   >[!NOTE]
+   >
+   >Si el formulario no está aprobado, haga clic en **Vista previa del borrador**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. El editor de formularios se abrirá en el modo _vista previa_.
 
-1. El editor de formularios se abrirá en el modo **[!UICONTROL vista previa]**.
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Haga clic en **[!UICONTROL Editar borrador]** para volver al modo _editar_.
 
-1. Haga clic en **[!UICONTROL Editar borrador]** para volver al modo **[!UICONTROL editar]**.
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Vuelva fácilmente haciendo clic en **[!UICONTROL Vista previa del borrador]**.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-¿No fue fácil? Ahora sabe cómo obtener una vista previa del formulario a medida que realiza cambios.
+   ![](assets/preview-a-form-5.png)
