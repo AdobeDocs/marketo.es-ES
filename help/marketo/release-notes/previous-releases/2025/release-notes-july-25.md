@@ -3,10 +3,10 @@ description: 'Notas de la versión, julio de 2025: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 6%
+source-wordcount: '714'
+ht-degree: 5%
 
 ---
 
@@ -32,6 +32,16 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
+   <td><strong>Designer de correo electrónico - Integración de GenStudio</strong>: integre GenStudio para el marketing de rendimiento desde los correos electrónicos para mejorar la eficacia del marketing y mantener la coherencia de la marca.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Integración de GenStudio para Marketo Engage</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Designer de correo electrónico - CSS personalizado</strong>: al diseñar correos electrónicos, ahora puede agregar su propio CSS personalizado directamente en el Designer de correo electrónico.</td>
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Añadir CSS personalizadas al contenido del correo electrónico</a></td>
@@ -44,7 +54,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Email Designer - Detectar spam con SpamAssassin</strong>: Con SpamAssassin en Marketo Engage, puede probar el contenido de su correo electrónico y ver la probabilidad de que los ISP/proveedores de buzones de correo lo marquen como spam.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Añadir CSS personalizadas al contenido del correo electrónico</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Informe sobre correo electrónico spam</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -142,7 +152,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Se pueden ver las cookies de Munchkin y los ECID</strong>: Ahora puede ver una lista de los números de cookies de Munchkin y ECID (Experience Cloud Identity) en la pestaña _Info_ de una <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">página de detalles de persona</a>, lo que reduce la dependencia de las llamadas a la API para obtener esa información.</td>
+   <td><strong>Se pueden ver las cookies de Munchkin y los ECID</strong>: Ahora puede ver una lista de los números de cookies de Munchkin y ECID (Experience Cloud Identity) en la pestaña _Info_ de una <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">página de detalles de persona</a>, lo que reduce la dependencia de las llamadas a la API para obtener esa información.</td>
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
@@ -152,12 +162,12 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Fin de vida útil de Marketo Engage Identity**: En agosto de 2025, Adobe empezará a eliminar gradualmente la compatibilidad con Marketo Engage Identity (iniciando sesión a través de `login.marketo.com`). Para evitar que se interrumpa el acceso a Marketo Engage, debe realizar la transición a [Adobe Identity](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} a más tardar el 30 de septiembre de 2025.
+* **Fin de vida útil de Marketo Engage Identity**: En agosto de 2025, Adobe empezará a eliminar gradualmente la compatibilidad con Marketo Engage Identity (iniciando sesión a través de `login.marketo.com`). Para evitar que se interrumpa el acceso a Marketo Engage, debe realizar la transición a [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} a más tardar el 30 de septiembre de 2025.
 
-   * _Desaprobación de restricciones de IP_: La compatibilidad con [Restringir inicios de sesión de Marketo basados en IP](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} finalizará el 30 de julio de 2025. La función permanecerá operativa hasta que se complete la transición a Adobe Identity. Una nueva función de control de acceso basada en la ubicación para Adobe Identity en Adobe Admin Console está prevista para la versión de agosto de 2025.
+   * _Desaprobación de restricciones de IP_: La compatibilidad con [Restringir inicios de sesión de Marketo basados en IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} finalizará el 30 de julio de 2025. La función permanecerá operativa hasta que se complete la transición a Adobe Identity. Una nueva función de control de acceso basada en la ubicación para Adobe Identity en Adobe Admin Console está prevista para la versión de agosto de 2025.
 
-   * _Desuso del inicio de sesión único (SSO)_: La compatibilidad con [Marketo Identity SSO](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} finalizará el 30 de julio de 2025. La función permanecerá operativa hasta que se complete la transición a Adobe Identity. El inicio de sesión único para Adobe ID en Adobe Admin Console debe configurarse por separado. Para ver los pasos de configuración, consulte [Configurar la identidad y el inicio de sesión único](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Desuso del inicio de sesión único (SSO)_: La compatibilidad con [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} finalizará el 30 de julio de 2025. La función permanecerá operativa hasta que se complete la transición a Adobe Identity. El inicio de sesión único para Adobe ID en Adobe Admin Console debe configurarse por separado. Para ver los pasos de configuración, consulte [Configurar la identidad y el inicio de sesión único](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de octubre de 2025. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API de REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
