@@ -3,9 +3,9 @@ description: Guía de solución de problemas de migración de usuarios de IMS de
 title: Guía de solución de problemas de migración de usuarios de Adobe IMS
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '1019'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Utilice la sección &quot;En esta página&quot; a la derecha para ir directament
 
 _Si es necesario migrar al usuario_: la dirección de correo electrónico debe actualizarse en Marketo Engage para cumplir la directiva de seguridad de Adobe y debe volver a verificarse. Administrador de Marketo para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Usuario no incluido en el directorio {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo E
 
 _Si es necesario migrar al usuario_: un administrador del sistema debe agregar al usuario a Active Directory con los permisos adecuados. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Usuario inactivo {#inactive-user}
 
@@ -54,7 +54,7 @@ _Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo E
 
 _Si es necesario migrar al usuario_: un administrador del sistema debe restaurar el estado y los permisos adecuados del usuario. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Dominio no válido {#invalid-domain}
 
@@ -62,11 +62,11 @@ _Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo E
 
 **Resoluciones**:
 
-_Si es necesario migrar al usuario_ (y la aplicación del dominio está habilitada en la organización de migración), la dirección de correo electrónico debe actualizarse en Marketo Engage para cumplir con la directiva de aplicación de dominio (DE). Como alternativa, el administrador del sistema puede [mover el dominio](https://helpx.adobe.com/es/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} a otro directorio deshabilitado de aplicación de dominio (DE) o [crear un nuevo directorio](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"} que no esté en la directiva DE. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
+_Si es necesario migrar al usuario_ (y la aplicación del dominio está habilitada en la organización de migración), la dirección de correo electrónico debe actualizarse en Marketo Engage para cumplir con la directiva de aplicación de dominio (DE). Como alternativa, el administrador del sistema puede [mover el dominio](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} a otro directorio deshabilitado de aplicación de dominio (DE) o [crear un nuevo directorio](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"} que no esté en la directiva DE. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
 _Si es necesario migrar al usuario_ (y la aplicación del dominio está habilitada en otra organización), un administrador del sistema de la organización en la que se ha reclamado el dominio debe agregar la dirección de correo electrónico del usuario a la lista de excepciones. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Error de Type2E {#type2e-failure}
 
@@ -78,15 +78,42 @@ _Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo E
 1. Vuelva a ejecutar la migración de usuarios para crear una cuenta de usuario federada para este usuario.
 1. Vuelva a añadir el usuario a los productos a los que tenía acceso anteriormente.
 
+### Se produjo un error en el valor de la migración {#pendo-migration-failed}
+
+**Causa raíz**: la cuenta federada del usuario está inactiva/deshabilitada o no se encuentra en Active Directory (AD).
+
+**Resoluciones**:
+
+_Si es necesario migrar al usuario_
+
+1. Un administrador del sistema debe restaurar el estado y los permisos de la cuenta del usuario.
+
+1. Para organizaciones SSO con sincronización de AD:
+
+   * Cree el usuario a través del proveedor de identidad (IdP).
+   * Sincronizar datos de usuario con AD.
+
+1. Para organizaciones sin sincronización SSO/AD:
+
+   * Vuelva a crear la cuenta administrada para restaurar el estado.
+   * El administrador de organización debe reasignar funciones y permisos.
+
+1. El administrador de Marketo Engage vuelve a ejecutar la migración en la consola de migración.
+
+1. Si no se puede acceder a la consola, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para volver a ejecutar la migración.
+
+_Si el usuario hace **no**debe migrarse_
+
+* El administrador de Marketo Engage debe omitir el usuario en la consola de migración.
+* Una vez migrados o omitidos todos los usuarios, haga clic en **[!UICONTROL Migración completada]** para finalizar.
+* Si el error persiste, envía un caso de soporte con detalles relevantes a [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+
+
 ### Error al crear usuario {#user-creation-failed}
 
 [Consulte a continuación](#failed)
 
 ### Hubo un error en el permiso de Marketo {#marketo-entitlement-failed}
-
-[Consulte a continuación](#failed)
-
-### Se produjo un error en el valor de la migración {#pendo-migration-failed}
 
 [Consulte a continuación](#failed)
 
