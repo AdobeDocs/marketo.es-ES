@@ -34,7 +34,7 @@ Utilice la sección &quot;En esta página&quot; a la derecha para ir directament
 
 _Si es necesario migrar al usuario_: la dirección de correo electrónico debe actualizarse en Marketo Engage para cumplir la directiva de seguridad de Adobe y debe volver a verificarse. Administrador de Marketo para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Usuario no incluido en el directorio {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage om
 
 _Si es necesario migrar al usuario_: un administrador del sistema debe agregar al usuario a Active Directory con los permisos adecuados. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Usuario inactivo {#inactive-user}
 
@@ -54,7 +54,7 @@ _Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage om
 
 _Si es necesario migrar al usuario_: un administrador del sistema debe restaurar el estado y los permisos adecuados del usuario. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Dominio no válido {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Si es necesario migrar al usuario_ (y la aplicación del dominio está habilita
 
 _Si es necesario migrar al usuario_ (y la aplicación del dominio está habilitada en otra organización), un administrador del sistema de la organización en la que se ha reclamado el dominio debe agregar la dirección de correo electrónico del usuario a la lista de excepciones. Administrador de Marketo Engage para volver a ejecutar la migración de este usuario desde la consola de migración.
 
-_Si el usuario hace **not**debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
+_Si el usuario hace **not**&#x200B;debe migrarse_, el administrador de Marketo Engage omitirá al usuario en la consola de migración. El botón &quot;Migración completada&quot; aparece cuando se contabilizan todos los usuarios migrando o omitiendo. Haga clic en el botón para concluir el proceso de migración de usuarios.
 
 ### Error de Type2E {#type2e-failure}
 
@@ -102,7 +102,7 @@ _Si es necesario migrar al usuario_
 
 1. Si no se puede acceder a la consola, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para volver a ejecutar la migración.
 
-_Si el usuario hace **no**debe migrarse_
+_Si el usuario hace **no**&#x200B;debe migrarse_
 
 * El administrador de Marketo Engage debe omitir el usuario en la consola de migración.
 * Una vez migrados o omitidos todos los usuarios, haga clic en **[!UICONTROL Migración completada]** para finalizar.
