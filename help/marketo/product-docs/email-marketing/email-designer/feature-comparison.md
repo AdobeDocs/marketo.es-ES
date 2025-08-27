@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 13%
+source-wordcount: '892'
+ht-degree: 14%
 
 ---
 
@@ -177,6 +177,17 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Posibilidad de <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrar con Litmus</a> para ver cómo se procesarán los correos electrónicos en distintos clientes de correo electrónico.</td>
     <td>No disponible</td>
     <td>Disponible</td>
+    <tr>
+    <td>Integración con GenStudio</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">integrar con GenStudio</a>.</td>
+    <td>No disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
+    <td>Integración de Spam Assassin</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">detectar la posibilidad de que los correos electrónicos se marquen como correo no deseado</a> antes del envío.</td>
+    <td>No disponible</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Editor de Personalization</td>
@@ -227,12 +238,6 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Próximamente</td>
   </tr>
   <tr>
-    <td>Integración con Gen Studio</td>
-    <td>Posibilidad de integración con Gen Studio.</td>
-    <td>No disponible</td>
-    <td>Próximamente</td>
-  </tr>
-  <tr>
     <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
     <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
     <td>Disponible</td>
@@ -254,23 +259,11 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Secuencias de comandos Velocity</td>
     <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>No necesario</td>
-  </tr>
-   <tr>
-    <td>Scripts de manillar</td>
-    <td>Capacidad para utilizar scripts de Handlebar en correos electrónicos.</td>
-    <td>No disponible</td>
-    <td>Planificado para el tercer trimestre de 2025</td>
+    <td>Próximamente</td>
   </tr>
   <tr>
     <td>Kit de marca</td>
     <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
-    <td>No disponible</td>
-    <td>Planificado para el tercer trimestre de 2025</td>
-  </tr>
-  <tr>
-    <td>Integración de Spam Assassin</td>
-    <td>Capacidad para detectar el potencial de que los correos electrónicos se marquen como correo no deseado antes del envío.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>

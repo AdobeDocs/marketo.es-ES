@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Zona protegida de Marketo - Documentos de Marketo - Documentación del producto
 title: Espacio aislado de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 
 >[!CAUTION]
 >
->Actualmente no se admite la actualización de la zona protegida para la sincronización de Marketo Dynamics. Si necesita actualizar la zona protegida de Dynamics CRM, se necesitará una nueva zona protegida de Marketo. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>No se admite la actualización de la zona protegida para la sincronización de Salesforce de Marketo Dynamics _o_ en este momento. Si necesita actualizar la zona protegida de CRM, se requiere una nueva zona protegida de Marketo. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Copia de instancia {#instance-copy}
 
