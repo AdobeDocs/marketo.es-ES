@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 14%
 
 ---
@@ -259,11 +259,11 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Secuencias de comandos Velocity</td>
     <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>Próximamente</td>
+    <td>No se necesita</td>
   </tr>
   <tr>
-    <td>Kit de marca</td>
-    <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
+    <td>Scripts de manillar</td>
+    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>No disponible</td>
     <td>Planificado para el tercer trimestre de 2025</td>
   </tr>
@@ -272,6 +272,12 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Capacidad para introducir flujos de trabajo de aprobación para correos electrónicos en Marketo Engage.</td>
     <td>No disponible</td>
     <td>Planificado para el cuarto trimestre de 2025</td>
+  </tr>
+  <tr>
+    <td>Kit de marca</td>
+    <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
+    <td>No disponible</td>
+    <td>Planificado para el primer trimestre de 2026</td>
   </tr>
   <tr>
     <td>Experimentación (prueba A/B)</td>
