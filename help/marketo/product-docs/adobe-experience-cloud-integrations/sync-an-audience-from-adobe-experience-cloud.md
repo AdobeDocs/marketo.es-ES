@@ -3,10 +3,10 @@ description: 'Sincronización de una audiencia desde Adobe Experience Cloud: doc
 title: Sincronizar una audiencia de Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurar asignación de organización de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[Configurar la asignación de organización de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Cómo sincronizar una audiencia {#how-to-sync-an-audience}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Sincronizar con la audiencia del Experience Cloud]**.
+1. Haga clic en el menú desplegable **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Sincronizar desde la audiencia de Experience Cloud]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Para el destino, puede seleccionar una lista existente o escribir el nombre de una nueva. En este ejemplo estamos creando uno nuevo. Haga clic en **[!UICONTROL Sincronizar]** cuando haya terminado.
+1. Para el destino, puede seleccionar una lista existente o escribir el nombre de una nueva. En este ejemplo, estamos creando uno nuevo. Haga clic en **[!UICONTROL Sincronizar]** cuando haya terminado.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
 **¿Cómo funciona la sincronización de cookies?**
 
-Cuando la sincronización de cookies está habilitada para su suscripción a Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe de la organización IMS de Adobe que haya especificado durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con ECID de Adobe.
+Cuando la sincronización de cookies está habilitada para su suscripción a Marketo, munchkin.js de Marketo intenta capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con ECID de Adobe.
 
-Se requiere un paso adicional para asociar el perfil de usuario anónimo a un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} se describe exactamente cómo funciona .
+Se requiere un paso adicional para asociar el perfil de usuario anónimo con un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí [ se describe exactamente cómo funciona ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
-**¿Por qué el tamaño de la lista en Marketo es diferente al de la Adobe?**
+**¿Por qué el tamaño de la lista en Marketo es diferente al de Adobe?**
 
 Una persona tampoco se sincronizará si no podemos vincular un ID de cookie de ECID a una persona conocida en Marketo.
 

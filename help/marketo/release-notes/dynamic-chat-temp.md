@@ -5,9 +5,9 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -28,15 +28,15 @@ Hemos rediseñado la lógica de enrutamiento de chat en vivo en Dynamic Chat par
 
 * **Hasta dos intentos de participación por sesión**
 
-   * El sistema intentará conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
+   * El sistema intenta conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
 
-   * Si un agente está disponible pero no responde (por ejemplo, rechaza o pierde el chat), el sistema intentará conectarse a un agente diferente del mismo grupo.
+   * Si un agente está disponible pero no responde (por ejemplo, rechaza o pierde el chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
 
    * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de un compromiso fallido.
 
 * **Comportamiento específico de regla de enrutamiento**
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 Si el dominio de correo electrónico de un visitante se asigna a una cuenta conocida, siempre se da prioridad al agente asignado.
 
@@ -44,21 +44,20 @@ Si el agente está disponible, el chat se dirige a ellos directamente.
 
 Si el agente no está disponible, el sistema:
 
-* No intenta otro agente, incluso si Round Robin está habilitado como reserva.
+* No intenta otro agente, incluso si Round Robin está habilitado como alternativa.
 
-* En su lugar:
+En su lugar:
 
-   * Muestra el calendario de reuniones del agente asignado (si está activado).
--o-
-   * Vuelve a un mensaje predeterminado (el peor caso).
+* Muestra el calendario de reuniones del agente asignado (si está activado) o:
+* Vuelve a un mensaje predeterminado (el peor caso).
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, Equipo o Personalizado) solo se tiene en cuenta si el enrutamiento de cuentas no es elegible (no hay dominio o agente coincidente).
 
-_&#x200B;**Enrutamiento personalizado/de equipo**&#x200B;_
+_**Enrutamiento personalizado/de equipo**_
 
 Estas reglas pueden devolver varios agentes aptos.
 
-Si el primer agente disponible no interactúa, el sistema probará con otro agente de la misma lista.
+Si el primer agente disponible no interactúa, el sistema intenta utilizar otro agente de la misma lista.
 
 La reserva de Round Robin no se activa solo porque un agente no responda.
 
@@ -68,7 +67,7 @@ Si ninguno de los agentes interactúa:
 -o-
 * Muestra el mensaje de reserva predeterminado.
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 Cuando se utiliza como regla de enrutamiento principal, el sistema:
 
@@ -78,7 +77,7 @@ Cuando se utiliza como regla de enrutamiento principal, el sistema:
 
 Si se utiliza el Round Robin como alternativa, solo se activa si no se resuelve ningún agente a partir de la regla principal.
 
-_&#x200B;**Flujo de experiencia del visitante**&#x200B;_
+_**Flujo de experiencia del visitante**_
 
 El sistema comprueba si se aplica el enrutamiento de cuentas.
 
@@ -86,7 +85,7 @@ El sistema comprueba si se aplica el enrutamiento de cuentas.
 
 * Si el agente no cumple los requisitos o no está disponible, continúa con la regla de enrutamiento a nivel de tarjeta.
 
-Se evalúa la regla de enrutamiento de nivel de tarjeta (personalizado, por equipo o por turnos).
+Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Equipo, Round Robin).
 
 * Se comprueba la disponibilidad de los agentes aptos (permisos, estado).
 
@@ -102,7 +101,7 @@ La reserva de Round Robin solo se considera cuando no se encuentran agentes apto
 
 ##### Casos de uso {#use-cases}
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -119,16 +118,16 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   <tr>
     <td>Alternativa (Round Robin)</td>
     <td>El agente asignado no está disponible, la opción de reserva de Round Robin está activada</td>
-    <td>El sistema selecciona un agente disponible mediante Round Robin y lo involucra </td>
+    <td>El sistema selecciona un agente disponible mediante Round Robin y lo activa </td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>
     <td>El agente asignado no está disponible, no hay reserva de Round Robin; la reserva de reunión está habilitada</td>
-    <td>El sistema muestra el calendario del agente asignado o un mensaje de reserva predeterminado</td>
+    <td>El sistema muestra el calendario de un agente asignado o un mensaje de reserva predeterminado</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -144,17 +143,17 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
   <tr>
     <td>Alternativa (Round Robin)</td>
-    <td>La regla personalizada no resuelve ningún agente, la opción de reserva de Round Robin está activada.</td>
+    <td>La regla personalizada no resuelve ningún agente. La opción de reserva de Round Robin está activada.</td>
     <td>El sistema selecciona un agente disponible mediante Round Robin y lo involucra.</td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>
     <td>Dos agentes resueltos; ninguno acepta el chat, la reserva se establece en el calendario de reuniones.</td>
-    <td>Se muestra el calendario del primer agente probado o se muestra el mensaje de reserva predeterminado.</td>
+    <td>En primer lugar, se muestra el calendario del agente o se muestra el mensaje de reserva predeterminado.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -176,11 +175,11 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   <tr>
     <td>No hay agente de reserva</td>
     <td>Hay dos agentes disponibles, pero ninguno de los dos interactúa; reserva de calendario habilitada.</td>
-    <td>Se muestra el calendario del primer agente probado o se activa un mensaje de reserva.</td>
+    <td>En primer lugar, se muestra el calendario del agente o se activa un mensaje de reserva.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
@@ -197,7 +196,7 @@ _&#x200B;**Enrutamiento Round Robin**&#x200B;_
   <tr>
     <td>Alternativa (Round Robin)</td>
     <td>No hay agentes disponibles en el grupo Round Robin; el calendario de reuniones está habilitado.</td>
-    <td>El calendario se muestra para el primer agente en la lista (si está configurado) o se muestra un mensaje de reserva.</td>
+    <td>Se muestra el calendario para el primer agente de la lista (si está configurado) o se muestra el mensaje de reserva.</td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>

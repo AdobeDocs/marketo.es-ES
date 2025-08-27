@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '3408'
+source-wordcount: '3414'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Si el agente está disponible, el chat se dirige a ellos directamente.
 
 Si el agente no está disponible, el sistema:
 
-* No intenta otro agente, incluso si Round Robin está habilitado como reserva.
+* No intenta otro agente, incluso si Round Robin está habilitado como alternativa.
 
 * En su lugar:
 
@@ -104,7 +104,7 @@ La reserva de Round Robin solo se considera cuando no se encuentran agentes apto
 
 <p>
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
@@ -199,7 +199,7 @@ _&#x200B;**Enrutamiento Round Robin**&#x200B;_
   <tr>
     <td>Alternativa (Round Robin)</td>
     <td>No hay agentes disponibles en el grupo Round Robin; el calendario de reuniones está habilitado.</td>
-    <td>El calendario se muestra para el primer agente en la lista (si está configurado) o se muestra un mensaje de reserva.</td>
+    <td>El calendario se muestra para el primer agente de la lista (si está configurado) o el mensaje de reserva.</td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>
@@ -344,7 +344,7 @@ Por lo tanto, cuando un visitante con cookie abc aterriza en una página y propo
     <td>Persona conocida</td>
     <td>xyz</td>
     <td>Diferente a la persona existente</td>
-    <td>este escenario no es posible como si se tratara de una nueva cookie de   valor predeterminado considerado como nuevo perfil anónimo</td>
+    <td>este escenario no es posible como si se tratara de una nueva cookie de   considerado de forma predeterminada como un nuevo perfil anónimo</td>
   </tr>
 </tbody></table>
 

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '9300'
 ht-degree: 5%
@@ -1838,7 +1838,7 @@ ht-degree: 5%
       + Análisis de BI avanzado {#advanced-bi-analytics}
          + [Información general avanzada de BI Analytics](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [Métricas y dimensiones](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-   + Gestión de la cuenta objetivo {#target-account-management}
+   + Gestión de la cuenta de destino {#target-account-management}
       + Instalación {#setup}
          + [Información general sobre administración de cuentas de Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Introducción a TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)

@@ -4,9 +4,9 @@ description: 'Importar una lista de personas: documentos de Marketo, documentaci
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -127,7 +127,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la ficha **[!UICONTROL Miembros]**. Verá a todas las personas que acaba de importar.
+1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la ficha **[!UICONTROL Miembros]**. Ves a todas las personas que acabas de importar.
 
    ![](assets/import-a-list-of-people-15.png)
 

@@ -4,16 +4,16 @@ description: 'Explicación de la optimización del motor de búsqueda: Documento
 title: Explicación de la optimización del motor de búsqueda
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 # Explicación de la optimización del motor de búsqueda {#understanding-search-engine-optimization}
 
-Optimización de motores de búsqueda (SEO) es una colección de prácticas recomendadas para ayudarle a poner sus páginas en contacto con usuarios que utilizan motores de búsqueda. La aplicación SEO de Marketo le ayudará a mejorar.
+Optimización de motores de búsqueda (SEO) es una colección de prácticas recomendadas para ayudarle a poner sus páginas en contacto con usuarios que utilizan motores de búsqueda. La aplicación SEO de Marketo le ayuda a mejorar.
 
 En primer lugar, debería aprender los conceptos básicos con este práctico glosario.
 
@@ -25,7 +25,7 @@ En primer lugar, debería aprender los conceptos básicos con este práctico glo
 
 **Vínculos de entrada**: Vínculos de otros sitios que dirigen el tráfico al sitio. Cuanto mayor sea la reputación del sitio de vinculación, más valioso será este vínculo de entrada.
 
-**Clasificación SERP**: Significa Página de resultados del motor de búsqueda. Los motores de búsqueda devuelven varias páginas de resultados. La clasificación SERP es la página en la que aparece su vínculo. Normalmente hay 10 resultados por página.
+**Clasificación SERP**: Significa Página de resultados del motor de búsqueda. Los motores de búsqueda devuelven varias páginas de resultados. La clasificación SERP es la página en la que aparece el vínculo. Normalmente hay 10 resultados por página.
 
 **Vista del motor de búsqueda**: La forma en que un equipo de motor de búsqueda percibe el sitio en lugar de la forma en que lo percibe un ser humano.
 
@@ -39,7 +39,7 @@ En primer lugar, debería aprender los conceptos básicos con este práctico glo
 
 **Términos de búsqueda de larga cola**: palabras clave muy específicas. Se utilizan alrededor del 70% de las veces.
 
-(Ejemplo: Zapatillas minimalistas para mujer talla 9)
+(Ejemplo: Calzado de running minimalista para mujer talla 9)
 
 **Puntuación de optimización**: La puntuación de optimización es una puntuación de Marketo propietaria que mide todas las páginas del sitio en una escala de 1 a 100. Se basa en una recopilación de decenas de prácticas recomendadas. Una puntuación de 70 o superior indica un sitio que está bastante bien optimizado.
 

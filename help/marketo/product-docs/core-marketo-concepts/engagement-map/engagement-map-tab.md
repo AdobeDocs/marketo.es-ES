@@ -2,9 +2,9 @@
 description: 'Pestaña Mapa de participación: Documentos de Marketo: documentación del producto'
 title: Pestaña Mapa de participación
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 El mapa de participación se representa mediante una serie de tarjetas de déclencheur, filtro y flujo. Al hacer clic en cada tarjeta, se muestra información adicional.
 
-Información general sobre el déclencheur: Esta tarjeta muestra la cantidad de déclencheur en la campaña. Al hacer clic en él, se mostrará una tarjeta para cada déclencheur, así como un panel deslizable con la siguiente información:
+Información general sobre el déclencheur: Esta tarjeta muestra la cantidad de déclencheur en la campaña. Al hacer clic en él, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con la siguiente información:
 
 * Campaña a la que pertenece el déclencheur
 * Lista de nombres de déclencheur
@@ -36,13 +36,13 @@ Filtro: al hacer clic en esta tarjeta, se muestra un panel deslizable con la sig
 
   ![](assets/engagement-map-tab-3.png)
 
-Pasos de flujo: si un paso de flujo incluye opciones, esta tarjeta mostrará el nombre del paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
+Pasos de flujo: si un paso de flujo incluye opciones, esta tarjeta muestra el nombre del paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
 
 * Campaña a la que pertenece el paso de flujo
-* Lista de condiciones de elección asociadas al paso de flujo
+* Lista de condiciones de elección asociadas con el paso de flujo
 * Editar paso de flujo
 
-Pasos de flujo: si un paso de flujo _no_ incluye ninguna opción, esta tarjeta mostrará los atributos asociados al paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
+Pasos de flujo: si un paso de flujo _no_ incluye ninguna opción, en esta tarjeta se muestran los atributos asociados con el paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
 
 * Campaña a la que pertenece el paso de flujo
 * Lista de atributos asociados al paso de flujo
@@ -52,7 +52,7 @@ Pasos de flujo: si un paso de flujo _no_ incluye ninguna opción, esta tarjeta m
 
 ## Paso de flujo para ejecutar y solicitar campañas {#flow-step-for-execute-and-request-campaigns}
 
-* Si el paso Ejecutar o Solicitar flujo de campaña no incluye ninguna opción, la tarjeta mostrará el nombre de la campaña. Al hacer clic en la tarjeta, se muestra un panel deslizable con la siguiente información:
+* Si el paso Ejecutar o Solicitar flujo de campaña no incluye ninguna opción, la tarjeta muestra el nombre de la campaña. Al hacer clic en la tarjeta, se muestra un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece el paso de flujo
    * Editar paso de flujo
@@ -66,14 +66,14 @@ Pasos de flujo: si un paso de flujo _no_ incluye ninguna opción, esta tarjeta m
 * Si el paso Ejecutar o Solicitar flujo de campaña incluye opciones, al hacer clic en la tarjeta se muestra un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece el paso de flujo
-   * Lista de condiciones de elección asociadas al paso de flujo
+   * Lista de condiciones de elección asociadas con el paso de flujo
    * Editar paso de flujo
 
-* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta _choice_, se expandirá la campaña asociada a la opción específica y se mostrará un panel deslizable con la siguiente información:
+* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta _choice_, se amplía la campaña asociada con la opción específica y se muestra un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece la opción
    * Editar elección
-   * Lista de condiciones de elección asociadas al paso de flujo
+   * Lista de condiciones de elección asociadas con el paso de flujo
    * Ver lista, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
 
   ![](assets/engagement-map-tab-10.png)
@@ -86,10 +86,10 @@ A continuación se muestra un ejemplo de una campaña inteligente, &quot;Campañ
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Al hacer clic en la tarjeta Ejecutar flujo de campaña, se expandirá para mostrar los detalles de la &quot;Campaña B&quot;.
+1. Al hacer clic en la tarjeta Ejecutar flujo de campaña, se expande para mostrar los detalles de la &quot;Campaña B&quot;.
 1. La &quot;Campaña B&quot; incluye un filtro que divide la audiencia en dos grupos: cualificada y no cualificada.
-1. La audiencia cualificada pasa por los pasos de flujo asociados a la &quot;Campaña B&quot;.
-1. Toda la audiencia (cualificada y no cualificada) vuelve a la &quot;Campaña A&quot; y pasa al siguiente paso de flujo.
+1. Una audiencia cualificada pasa por los pasos de flujo asociados a la &quot;Campaña B&quot;.
+1. Todas las audiencias (cualificadas y no cualificadas) vuelven a la &quot;Campaña A&quot; y pasan al siguiente paso de flujo.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -105,7 +105,7 @@ Este es un ejemplo de campaña inteligente, &quot;Campaña A&quot;, que incluye 
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Al hacer clic en la tarjeta de flujo de campaña de solicitud, se ampliará para mostrar los detalles de la &quot;Campaña B&quot;
+1. Al hacer clic en la tarjeta de flujo de campaña de solicitud, se amplía para mostrar los detalles de la Campaña B
 1. La &quot;Campaña B&quot; incluye un filtro que divide la audiencia en dos grupos: cualificada y no cualificada.
 1. La audiencia cualificada pasa por los pasos de flujo asociados a la &quot;Campaña B&quot;.
 1. Al mismo tiempo, toda la audiencia pasa a los siguientes pasos de flujo en la &quot;Campaña A&quot;.
@@ -122,9 +122,9 @@ Este es un ejemplo de una campaña de solicitudes con opciones.
 
 ## Control de errores {#error-handling}
 
-Los errores en las listas inteligentes y los pasos de flujo se resaltarán mediante un icono rojo en la tarjeta. Además, se mostrará el mensaje de error correspondiente en el panel deslizable.
+Los errores en las listas inteligentes y los pasos de flujo se resaltan mediante un icono rojo en la tarjeta. Además, se refleja el mensaje de error correspondiente en el panel deslizable.
 
-Las advertencias de las listas inteligentes y los pasos de flujo se resaltarán mediante un icono naranja en la tarjeta. Además, se mostrará el mensaje de advertencia correspondiente en el panel deslizable.
+Las advertencias de las listas inteligentes y los pasos de flujo se resaltan mediante un icono naranja en la tarjeta. Además, en el panel deslizable aparecerá el mensaje de advertencia correspondiente.
 
 A continuación se muestra un ejemplo de una advertencia en una tarjeta de opciones que se muestra en la tarjeta del paso Ejecutar flujo de campaña, el panel deslizable y la tarjeta de opciones predeterminada.
 
@@ -136,7 +136,7 @@ A continuación se muestra un ejemplo de una advertencia en una tarjeta de opcio
 
 **Los errores en las tarjetas de filtro pueden incluir:**
 
-* Error en la lista inteligente que hará que no se muestre la audiencia cualificada
+* Un error en la lista inteligente que provocará que no se muestre una audiencia cualificada
 
 * Error en la lógica del filtro
 

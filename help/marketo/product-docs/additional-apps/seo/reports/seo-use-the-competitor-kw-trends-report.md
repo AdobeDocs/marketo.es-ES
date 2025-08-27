@@ -4,9 +4,9 @@ description: 'SEO: uso del informe Tendencias de KW de la competencia - Document
 title: 'SEO: Utilice el informe Tendencias de KW de la competencia'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Este gráfico puede mostrarle qué porcentaje de sus palabras clave se clasifica
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
-| Artículo | Descripción |
+| Elemento | Descripción |
 |---|---|
 | [!UICONTROL Palabras clave] | El número de palabras clave que está rastreando. |
 | [!UICONTROL URL de clasificación] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
@@ -49,10 +49,6 @@ Este gráfico puede mostrarle qué porcentaje de sus palabras clave se clasifica
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
 ## Exportando datos {#exporting-data}
-
->[!TIP]
->
->Puede exportar este informe a su escritorio.
 
 1. Haga clic en **[!UICONTROL Exportar CSV]** o en **[!UICONTROL Export PDF]**.
 

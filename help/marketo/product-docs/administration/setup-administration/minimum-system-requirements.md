@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359900
-description: Requisitos mínimos del sistema - Documentos de Marketo - Documentación del producto
+description: Requisitos mínimos del sistema - Marketo
 title: Requisitos mínimos del sistema
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Si se está preguntando qué necesita para iniciar sesión y utilizar Marketo En
 
 >[!NOTE]
 >
->Si su equipo de TI restringe el acceso a la web mediante una lista de permitidos, pídale que agregue `*.marketo.com`, `*.adobe.com` y `*.adobe.net` para permitir todos los recursos de Marketo Engage y los sockets web.
+>Si su equipo de TI restringe el acceso a la web mediante una lista de permitidos, pídale que agregue `*.marketo.com`, `*.adobe.com` y `*.adobe.net` para permitir todos los recursos y sockets web de Marketo Engage.

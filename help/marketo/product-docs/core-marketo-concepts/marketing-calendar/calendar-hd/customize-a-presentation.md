@@ -4,9 +4,9 @@ description: 'Personalización de una presentación: documentos de Marketo, docu
 title: Personalizar una presentación
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Configure la presentación del calendario para que refleje los objetivos y las a
 
 ## Elección de las vistas {#choosing-the-views}
 
-Presentations recorre diferentes [definiciones de filtros](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} que elija. Extraiga tantas vistas como desee y personalice la frecuencia.
+Las presentaciones pasan por diferentes [definiciones de filtros](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} que elija. Extraiga tantas vistas como desee y personalice la frecuencia.
 
 1. En el árbol derecho, arrastre las distintas vistas por las que desee girar la presentación.
 
@@ -36,7 +36,7 @@ Presentations recorre diferentes [definiciones de filtros](/help/marketo/product
 
 ## Agregar una meta {#add-a-goal}
 
-Presentations son los más increíbles cuando muestran los objetivos de su equipo. Basta con arrastrar diferentes [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [metas de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Se pueden usar hasta 10.
+Las presentaciones son las más impresionantes cuando muestran los objetivos de su equipo. Basta con arrastrar diferentes [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [metas de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Se pueden usar hasta 10.
 
 1. En el árbol derecho, arrastre los diferentes objetivos que desee mostrar en la presentación.
 
@@ -44,7 +44,7 @@ Presentations son los más increíbles cuando muestran los objetivos de su equip
 
 ## Establecer la frecuencia de rotación {#set-the-frequency-of-rotation}
 
-Una vez que haya extraído las vistas deseadas de la presentación, establezca la frecuencia con la que gira entre las distintas vistas.
+Una vez que haya extraído las vistas deseadas en la presentación, establezca la frecuencia con la que gira entre las distintas vistas.
 
 1. Haga clic en **[!UICONTROL 5 minutos]** (esta es la cadencia predeterminada).
 

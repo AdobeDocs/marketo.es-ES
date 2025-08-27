@@ -2,9 +2,9 @@
 description: Información general del mapa de participación - Documentos de Marketo - Documentación del producto
 title: Información general del mapa de participación
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Vaya a cualquier campaña existente y haga clic en el botón **Mapa de participa
 
 ![](assets/engagement-map-overview-2.png)
 
-Una vez en el mapa de participación, verás dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} y [Configuración](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+En el mapa de participación hay dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} y [Configuración](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descripciones de tarjeta {#card-descriptions}
 
-**Déclencheur**: en las campañas que incluyen déclencheur, el mapa tendrá una tarjeta &quot;Información general de Déclencheur&quot;. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
+**Déclencheur**: en las campañas que incluyen déclencheur, el mapa tiene una tarjeta Información general de Déclencheur. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
 
-**Filtros**: en las campañas que incluyen filtros, el mapa contendrá una tarjeta Información general de filtro. Al hacer clic en él, se muestra un panel deslizable con información adicional sobre cada filtro.
+**Filtros**: en las campañas que incluyen filtros, el mapa contiene una tarjeta Información general de filtro. Al hacer clic en él, se muestra un panel deslizable con información adicional sobre cada filtro.
 
-**Pasos de flujo**: Cada campaña incluirá una tarjeta para cada paso de flujo. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
+**Pasos de flujo**: Cada campaña incluye una tarjeta para cada paso de flujo. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
 
 **Opciones**: si un paso de flujo incluye una o más opciones, al hacer clic en la tarjeta de flujo se mostrará una tarjeta para cada opción, así como un panel deslizable con información adicional.
 
@@ -61,7 +61,7 @@ La navegación superior incluye las siguientes funciones:
 
 * Editar flujo: se le dirigirá a la interfaz de flujo en una nueva pestaña en la que podrá añadir o editar los pasos de flujo
 
-* Exportar: esto descargará una imagen de la visualización de la campaña. La versión descargada reflejará cualquier rama que haya expandido
+* Exportar: descarga una imagen de la visualización de la campaña. La versión descargada refleja cualquier rama que haya expandido
 
 * Ver miembros de la campaña: se abrirá una nueva pestaña con detalles del miembro de la campaña.
 

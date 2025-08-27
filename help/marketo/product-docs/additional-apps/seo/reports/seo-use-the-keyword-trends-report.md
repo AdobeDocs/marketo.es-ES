@@ -4,10 +4,10 @@ description: 'SEO: uso del informe de tendencias de palabras clave - Documentos 
 title: 'SEO: usar el informe de tendencias de palabras clave'
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ En este informe, puede ver la clasificación que se hace según las palabras cla
 
    Elementos de informe descritos:
 
-   | Artículo | Descripción |
+   | Elemento | Descripción |
    |---|---|
    | [!UICONTROL Palabras clave] | El número de palabras clave que está rastreando. |
    | [!UICONTROL URL de clasificación] | El número de direcciones URL en la clasificación del sitio en el rango que ha establecido. |
@@ -50,16 +50,12 @@ En este informe, puede ver la clasificación que se hace según las palabras cla
 
 ## Exportando datos {#exporting-data}
 
->[!TIP]
->
->Puede exportar este informe a su escritorio.
-
 1. Haga clic en **[!UICONTROL Exportar CSV]** o en **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   ¡Buen trabajo! También puede ver cómo se compara con sus competidores en la clasificación de palabras clave.
+También puede ver cómo se compara con sus competidores en la clasificación de palabras clave.
 
-   >[!NOTE]
-   >
-   >[Uso del informe de tendencias de clasificación de KW competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Uso del informe de tendencias de clasificación de KW competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

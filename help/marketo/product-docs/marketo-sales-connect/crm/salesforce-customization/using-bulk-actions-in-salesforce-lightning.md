@@ -4,7 +4,7 @@ description: Uso de acciones masivas en Salesforce Lightning - Documentos de Mar
 title: Uso de acciones masivas en Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -18,6 +18,7 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 >[!PREREQUISITES]
 >
 >Actualice a la última versión del paquete [!DNL Sales Connect] e instale los botones de acción masiva en la vista de posibles clientes o contactos.
+>
 >* [Instrucciones en inglés](assets/sf-guide-for-lightning-en.pdf)
 >* [Instrucciones en japonés](assets/sf-guide-for-lightning-ja.pdf)
 

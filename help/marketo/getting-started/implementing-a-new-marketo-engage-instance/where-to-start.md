@@ -3,9 +3,9 @@ description: Conozca las prácticas recomendadas al implementar una nueva instan
 title: Por dónde empezar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Visite la [Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){targe
 
 Introducción a la comunidad:
 
-1. Haga clic en **Continuar con Adobe ID** y seleccione su suscripción principal en la página de inicio de sesión.
+1. Haga clic en **[!UICONTROL Continuar con AdobeID]** y seleccione su suscripción principal en la página de inicio de sesión.
 1. Al iniciar sesión, complete el perfil de la comunidad.
 1. Después de enviar la información, llegará a la página principal de la comunidad y estará listo para comenzar.

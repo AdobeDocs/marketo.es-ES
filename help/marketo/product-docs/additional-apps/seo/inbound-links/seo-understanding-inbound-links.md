@@ -4,16 +4,16 @@ description: 'SEO: Explicación de los vínculos entrantes - Documentos de Marke
 title: 'SEO: Explicación de los vínculos entrantes'
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
 # SEO: [!UICONTROL vínculos de entrada] {#seo-understanding-inbound-links}
 
-[!UICONTROL Vínculos entrantes] indican a los motores de búsqueda que vale la pena hacer referencia a su sitio. ¡Eso es bueno!
+[!UICONTROL Vínculos entrantes] indican a los motores de búsqueda que vale la pena hacer referencia a su sitio.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 | [!UICONTROL Vínculos de mi sitio] | Indica si el sitio está vinculado a esa dirección URL. |
 | [!UICONTROL ClasificaciónDePágina] | Identifica las direcciones URL que clasifican las páginas en la búsqueda (1 - 10) |
 
-¡Dulce! Ahora que comprende los vínculos entrantes, podemos sugerirle más oportunidades de vínculo entrante para su sitio.
+Ahora que comprende los vínculos entrantes, podemos sugerirle más oportunidades de vínculo entrante para su sitio.
 
 >[!MORELIKETHIS]
 >

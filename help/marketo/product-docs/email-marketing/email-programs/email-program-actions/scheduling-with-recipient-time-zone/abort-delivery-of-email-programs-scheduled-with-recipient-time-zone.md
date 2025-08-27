@@ -4,9 +4,9 @@ description: Anular la entrega de programas de correo electrónico programados c
 title: Anular la entrega de programas de correo electrónico programados con la zona horaria del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En casos de emergencia, puede cancelar la entrega de un programa de correo electrónico que ya haya comenzado a ejecutarse con la zona horaria del destinatario habilitada.
 
-Dado que los programas de correo electrónico programados con la zona horaria del destinatario pueden ejecutarse durante un máximo de 24 horas, al cancelar la entrega del programa se cancelarán los envíos posteriores a ese punto.
+Dado que los programas de correo electrónico programados con el huso horario del destinatario pueden ejecutarse durante un máximo de 24 horas, al cancelar la entrega del programa se cancelarán los envíos posteriores a ese punto.
 
 1. Seleccione el programa de correo electrónico que desea cancelar y, a continuación, haga clic en **[!UICONTROL Anular entrega]** en el mosaico [!UICONTROL Aprobación] del panel de control.
 
@@ -33,7 +33,7 @@ Dado que los programas de correo electrónico programados con la zona horaria de
    >
    >Los correos electrónicos cancelados **no** se mostrarán como mensajes devueltos no entregados *hasta* la hora en que se programó originalmente que se enviaran en sus respectivos husos horarios. Hasta ese momento, se seguirán mostrando como &quot;Enviar correo electrónico&quot;.
 
-1. Desde la cuadrícula, puede hacer clic en cualquier correo electrónico para ver los detalles de la actividad. Para un envío cancelado, la ventana emergente de detalles tendrá este aspecto:
+1. Desde la cuadrícula, puede hacer clic en cualquier correo electrónico para ver los detalles de la actividad. Para un envío cancelado, la ventana emergente de detalles tiene este aspecto:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 

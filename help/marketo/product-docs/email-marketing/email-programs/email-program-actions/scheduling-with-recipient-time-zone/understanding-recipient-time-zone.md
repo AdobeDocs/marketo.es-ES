@@ -4,9 +4,9 @@ description: Explicación de la zona horaria del destinatario - Documentos de Ma
 title: Explicación de la zona horaria del destinatario
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,11 @@ Hay dos escenarios principales cuando [se programa un correo electrónico](/help
 1. Programando el programa para que se ejecute en las próximas 25 horas.
 1. Programar el programa para que se ejecute durante más de 25 horas en el futuro (es decir, la semana que viene).
 
-Para adaptarse a cada zona horaria, los programas de correo electrónico programados con la zona horaria del destinatario [!UICONTROL 1&rbrace; comienzan a ejecutarse a medianoche en la zona horaria &#x200B;]primero/más temprano **del mundo (UTC +14**).:00
+Para dar cabida a cada zona horaria, los programas de correo electrónico programados con [!UICONTROL Zona horaria del destinatario] comienzan a ejecutarse a medianoche en la zona horaria **primera/más antigua** del mundo (UTC +14:00).
 
 ## Programas de participación {#engagement-programs}
 
-Cuando [programe un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la zona horaria de [!UICONTROL destinatario] esté activa, el programa de conversión comenzará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este reparto.
+Cuando [programe un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la [!UICONTROL zona horaria del destinatario] esté activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar en este momento en UTC +14:00 garantiza que el correo electrónico se envíe en la fecha y hora programadas para cada persona que califique para este reparto.
 
 ## Cálculo de zona horaria {#calculating-time-zone}
 

@@ -4,22 +4,22 @@ description: Crear un filtro de sincronización  [!DNL Dynamics] personalizado -
 title: Crear un filtro de sincronización  [!DNL Dynamics] personalizado
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
 
 # Crear un filtro de sincronización [!DNL Dynamics] personalizado {#create-a-custom-dynamics-sync-filter}
 
-¿No desea sincronizar todo el contenido de su Dynamics CRM con Marketo Engage? ¡No te preocupes! Marketo le permite configurar un filtro de sincronización y sincronizar solo parte de los registros.
+Marketo le permite configurar un filtro de sincronización y sincronizar solo parte de los registros.
 
 ## Información general {#overview}
 
 Para configurar un filtro de sincronización de [!DNL Dynamics]:
 
-1. Cree un campo personalizado de dos opciones (booleano) denominado new_synctomkto en Dynamics CRM para cualquier objeto (posible cliente, contacto, cuenta, oportunidad y otras entidades personalizadas).
+1. Cree un campo personalizado de dos opciones (booleano) denominado `new_synctomkto` en Dynamics CRM para cualquier objeto (posible cliente, contacto, cuenta, oportunidad y otras entidades personalizadas).
 1. Asigne este campo un valor Sí/No.
 
 Debe realizar estos cambios en Dynamics CRM, no en la base de datos o en Marketo.
@@ -140,10 +140,6 @@ Estos son algunos detalles de la implementación que pensamos que debería conoc
 * Iniciar una operación de sincronización
 
   Cuando el valor de **SyncToMkto** cambie de **No** a **Sí**, [!DNL Dynamics] notifica a Marketo inmediatamente para que comience a sincronizar este registro. Si el registro ya existe, Marketo lo actualiza. De lo contrario, Marketo crea el registro.
-
-  >[!TIP]
-  >
-  >Se agrega una operación `Create [StartSync]` al registro de Marketo cuando esto sucede.
 
 * Detener una operación de sincronización
 
