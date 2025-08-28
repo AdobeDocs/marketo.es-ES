@@ -6,9 +6,9 @@ description: Los usuarios de Marketo Engage pueden integrar su cuenta de Litmus 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,11 @@ Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engag
 
 >[!AVAILABILITY]
 >
->Esta característica está disponible para todos los usuarios de Marketo Engage que tengan una cuenta activa de Litmus en la cuenta de [Enterprise Plan](https://www.litmus.com/pricing/enterprise){target="_blank"}.
+>Esta función está disponible para todos los usuarios de Marketo Engage que tengan una cuenta activa de Litmus.
 
-## Cómo usar {#how-to-use}
+## Usuarios de Litmus Enterprise {#litmus-enterprise}
+
+Los siguientes pasos son para usuarios del [Plan Litmus Enterprise](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. En la pantalla _Editar contenido de correo electrónico_, haga clic en el botón **Simular contenido**.
 
@@ -62,3 +64,27 @@ Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engag
 **PASO OPCIONAL**: si decide realizar cambios en su correo electrónico, después de hacer clic en **Procesar correo electrónico** para verlos, asegúrese de hacer clic también en el botón **Reintentar** en la parte superior derecha de la pantalla de Litmus _Vistas previas de correo electrónico_.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Usuarios principales de Litmus {#litmus-core}
+
+Los siguientes pasos son para usuarios del [Plan básico Litmus](https://www.litmus.com/pricing/){target="_blank"}.
+
+1. En su cuenta de Litmus, recupere la dirección de correo electrónico de la prueba haciendo clic en el botón **Copiar dirección de la prueba** en la pantalla _Prueba_.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. En Marketo Engage, vaya a la pantalla _Editar contenido de correo electrónico_ del correo electrónico deseado y haga clic en el botón **Simular contenido**.
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. Seleccione los destinatarios de la prueba y haga clic en el botón **Enviar prueba**.
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. Escriba la dirección de correo electrónico de Litmus que copió en el paso 1 y haga clic en **Enviar prueba** de nuevo.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Revise el correo electrónico dentro de su cuenta de Litmus (en la carpeta correspondiente a la dirección de correo electrónico que copió de Litmus).
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
