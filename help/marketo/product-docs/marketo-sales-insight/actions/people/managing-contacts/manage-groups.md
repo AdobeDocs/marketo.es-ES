@@ -3,9 +3,9 @@ description: Administrar grupos - Documentos de Marketo - Documentación del pro
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -57,26 +57,6 @@ Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight A
 
    ¡Eso es todo!
 
-## Agregar contactos a un {#add-contacts-to-a-}
-
-1. En la página [!UICONTROL Personas], busque y seleccione el grupo al que desee agregar personas.
-
-
-
-1. Haga clic en **[!UICONTROL Acciones de grupo]** y seleccione **[!UICONTROL Crear contacto y agregar al grupo]**.
-
-   ![](assets/manage-groups-4.png)
-
-1. Rellene la información del contacto y haga clic en **Crear** (o **Crear y agregar nuevo** para agregar otro).
-
-   ![](assets/manage-groups-5.png)
-
-   ¡Y has terminado!
-
-   >[!NOTE]
-   >
-   >Es posible que tenga que actualizar para ver los contactos nuevos agregados.
-
 ## Agregar contactos a un grupo {#add-contacts-to-a-group}
 
 1. En _Grupos_, seleccione **Todas las personas**.
@@ -98,7 +78,6 @@ Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight A
 1. Seleccione el grupo al que desea agregarlos y haga clic en **Agregar**.
 
    ![](assets/manage-groups-7.png)
-
 
 ## Compartir un grupo {#share-a-group}
 
