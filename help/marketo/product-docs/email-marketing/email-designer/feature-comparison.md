@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 14%
 
 ---
@@ -259,13 +259,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Secuencias de comandos Velocity</td>
     <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>No se necesita</td>
-  </tr>
-  <tr>
-    <td>Scripts de manillar</td>
-    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
-    <td>No disponible</td>
-    <td>Planificado para el tercer trimestre de 2025</td>
+    <td>Próximamente</td>
   </tr>
   <tr>
     <td>Flujos de trabajo de aprobación de contenido</td>
