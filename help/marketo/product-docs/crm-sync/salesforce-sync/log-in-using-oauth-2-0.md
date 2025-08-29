@@ -3,9 +3,9 @@ description: 'Inicio de sesión con OAuth 2.0: documentación de Marketo: docume
 title: Iniciar sesión con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce utiliza el protocolo OAuth para permitir a los usuarios de aplicacion
 
    >[!CAUTION]
    >
-   >Si ve los campos Nombre de usuario/Contraseña/Token y no un botón &quot;Iniciar sesión con Salesforce&quot;, su suscripción a Marketo está habilitada para la autenticación básica. Consulte [Configurar Marketo con autenticación básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Una vez que la sincronización comienza con un conjunto de credenciales, no se cambia de credenciales de Salesforce ni de suscripción. Si desea utilizar Oauth 2.0, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+   >Si ve los campos Nombre de usuario/Contraseña/Token y no un botón &quot;Iniciar sesión con Salesforce&quot;, su suscripción a Marketo está habilitada para la autenticación básica. Consulte [Configurar Marketo con autenticación básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Una vez que la sincronización comienza con un conjunto de credenciales, no se cambia de credenciales de Salesforce ni de suscripción. Para que Oauth 2.0 esté configurado para la autenticación de Salesforce, comuníquese con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. Se mostrará una ventana emergente con la página de inicio de sesión de Salesforce. Introduzca sus credenciales de &quot;Usuario de sincronización de Marketo&quot; e inicie sesión.
 
