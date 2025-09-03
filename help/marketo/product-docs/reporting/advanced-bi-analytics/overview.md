@@ -3,9 +3,9 @@ description: 'Información general avanzada de BI Analytics: Documentos de Marke
 title: Información general avanzada de BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
@@ -236,23 +236,13 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
 
 ## Cosas que debe tener en cuenta {#note}
 
-* La experiencia clásica del &quot;Explorador de ingresos&quot; quedará obsoleta permanentemente el 10 de junio de 2025. Mientras tanto, puede acceder, crear, actualizar y eliminar informes en ambas experiencias.
+* Sus informes personalizados se han duplicado de la experiencia clásica a la nueva con los cambios de comportamiento notables que se mencionan en la sección [Aprender la nueva experiencia](#learning-the-new-experience) que aparece a continuación.
 
-* Sus informes personalizados se replicarán de la experiencia clásica a la nueva experiencia con los cambios de comportamiento notables mencionados en la sección [Aprender la nueva experiencia](#learning-the-new-experience) a continuación.
+* Los paneles de la experiencia clásica no se podían transferir y era necesario volver a crearlos en la nueva experiencia. Se pueden volver a crear como informes en la nueva experiencia y los filtros de la nueva experiencia extraen automáticamente los valores posibles.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >La replicación de los informes personalizados se realizará en grupos. Una vez que los informes personalizados se hayan duplicado en la nueva experiencia, para garantizar la coherencia entre las dos experiencias, cualquier cambio realizado en la experiencia clásica también deberá aplicarse manualmente a los informes correspondientes de la nueva experiencia. Una nota informativa sobre lo anterior se iluminará en la experiencia clásica al replicar los informes de los clientes.
-
-   * Los paneles de la experiencia clásica no se pueden transferir y es necesario volver a crearlos en la nueva experiencia. Se deben volver a crear como informes en la nueva experiencia y los filtros de la nueva experiencia extraen automáticamente los valores posibles en lugar de requerir que introduzca manualmente todos los valores posibles de forma individual en la experiencia clásica.
-
-     >[!NOTE]
-     >
-     >El tablero de la nueva experiencia es simplemente una recopilación de informes en una sola página. El valor principal del tablero en la nueva experiencia es permitirle presentar perspectivas analíticas en diferentes áreas de la creación de informes.
-
-* Sus suscripciones por correo electrónico en la experiencia clásica se replicarán en la nueva experiencia. Las suscripciones por correo electrónico en la experiencia clásica seguirán funcionando hasta que la experiencia clásica quede obsoleta el 10 de junio de 2025.
-
-* Los usuarios existentes del Explorador de ingresos tienen acceso automáticamente a la nueva experiencia avanzada de BI Analytics.
+  >El tablero de la nueva experiencia es simplemente una recopilación de informes en una sola página. El valor principal del tablero en la nueva experiencia es permitirle presentar perspectivas analíticas en diferentes áreas de la creación de informes.
 
 * Puede crear **hasta 700 informes** en Advanced BI Analytics.
 
@@ -282,13 +272,9 @@ Los siguientes son cambios en la nueva experiencia (Advanced BI Analytics) de la
 
 * Los filtros de tipo cadena ahora distinguen entre mayúsculas y minúsculas.
 
-* Ya no se admite el campo de fórmula de tiempo de ejecución en la experiencia clásica.
-
-* La suscripción de correo electrónico incluye la exportación de PDF en lugar de la HTML del informe. La nueva suscripción de correo electrónico no incluirá la definición del informe.
+* La suscripción de correo electrónico incluye la exportación de PDF en lugar de la HTML del informe. La nueva suscripción de correo electrónico no incluye la definición del informe.
 
 * En este momento no se admite el vínculo profundo del informe.
-
-* La exportación de PDF es sincrónica en la nueva experiencia, en comparación con ser asíncrona en la experiencia clásica.
 
 >[!NOTE]
 >
