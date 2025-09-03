@@ -4,9 +4,9 @@ description: 'Añadir SSL a las páginas de aterrizaje: documentación de Market
 title: Añadir SSL a las páginas de aterrizaje
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -73,31 +73,35 @@ A continuación, encontrará mensajes de error que puede recibir junto con sus d
     <th>Detalles</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Error inesperado al crear un dominio. Póngase en contacto con Soporte para obtener ayuda.</i></td>
-    <td>Se ha producido un error inesperado. Recopile registros y detalles del error y envíe el problema al <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Soporte técnico de Marketo</a>.</td>
-  </tr>
-  <tr>
-    <td><i>No se ha encontrado el dominio predeterminado. Póngase en contacto con Soporte para obtener ayuda.</i></td>
-    <td>Se ha producido un problema al intentar localizar el dominio predeterminado. Póngase en contacto con Asistencia para que puedan investigar.</td>
-  </tr>
-  <tr>
-    <td><i>Ya se ha emitido el certificado SSL.</i></td>
-    <td>Ya existe un certificado SSL para este dominio personalizado. No es necesario realizar ninguna otra acción a menos que el certificado haya caducado o sea necesario volver a emitirlo.</td>
+<tr>
+    <td><i>El dominio ya existe.</i></td>
+    <td>Ya existe un dominio con el mismo nombre.</td>
   </tr>
   <tr>
     <td><i>El dominio no está asignado al dominio predeterminado.</i></td>
     <td>El dominio personalizado no está asignado correctamente al dominio predeterminado. Compruebe la configuración de asignación de dominios y asegúrese de que la configuración de DNS apunta al dominio predeterminado correcto.</td>
   </tr>
   <tr>
-    <td><i>El dominio ya existe.</i></td>
-    <td>Ya existe un dominio con el mismo nombre.</td>
+    <td><i>No se pudieron emitir certificados SSL debido a registros CAA no admitidos. Solicite a su departamento de TI que actualice sus registros de CAA.</i></td>
+    <td>Los registros de CAA no están actualizados. Para aquellos que utilizan certificados SSL administrados por Marketo Engage, los registros CAA deben actualizarse a los certificados recomendados por nuestro proveedor. Póngase en contacto con el departamento de TI para actualizar los registros de CAA. Consulte <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">esta página</a> para obtener más información.</td>
+  </tr>
+  <tr>
+    <td><i>Ya se ha emitido el certificado SSL.</i></td>
+    <td>Ya existe un certificado SSL para este dominio personalizado. No es necesario realizar ninguna otra acción a menos que el certificado haya caducado o sea necesario volver a emitirlo.</td>
+  </tr>
+  <tr>
+    <td><i>No se ha encontrado el dominio predeterminado. Póngase en contacto con Soporte para obtener ayuda.</i></td>
+    <td>Se ha producido un problema al intentar localizar el dominio predeterminado. Póngase en contacto con Asistencia para que puedan investigar.</td>
+  </tr>
+  <tr>
+    <td><i>Error inesperado al crear un dominio. Póngase en contacto con Soporte para obtener ayuda.</i></td>
+    <td>Se ha producido un error inesperado. Recopile registros y detalles del error y envíe el problema al <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Soporte técnico de Marketo</a>.</td>
   </tr>
 </tbody></table>
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
-* **Asignación de DNS para el dominio en Marketo Engage**: antes de agregar dominios en la interfaz de usuario, debe [asignar CNAME a un dominio proporcionado por Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Asignación de DNS para el dominio en Marketo Engage**: antes de agregar dominios en la interfaz de usuario, debe [asignar CNAME a un dominio proporcionado por Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizados**: Si necesita un SSL personalizado, envíe un [ticket de asistencia](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. No utilice la casilla de verificación de autoservicio para la creación SSL.
 
