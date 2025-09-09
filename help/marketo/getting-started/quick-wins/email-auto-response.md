@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359416
-description: Respuesta automática de correo electrónico - Documentos de Marketo - Documentación del producto
+description: 'Correo electrónico de respuesta automática: documentos de Marketo, documentación del producto'
 title: Respuesta automática de correo electrónico
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Página de destino con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
 
-1. Vaya al área de [!UICONTROL Actividades de mercadotecnia].
+1. Vaya al área de [!UICONTROL Actividades de marketing].
 
    ![](assets/email-auto-response-1.png)
 
@@ -30,23 +30,23 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-2.png)
 
-1. Seleccione **[!UICONTROL Correo electrónico]**.
+1. Seleccione **[!UICONTROL correo electrónico]**.
 
    ![](assets/email-auto-response-3.png)
 
-1. Asigne un nombre al correo electrónico &quot;Correo electrónico de respuesta automática&quot;, elija una plantilla y haga clic en **[!UICONTROL Crear]**.
+1. Asigne el nombre “Correo electrónico de respuesta automática” al correo electrónico , elija una plantilla y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/email-auto-response-4.png)
 
-   Se abrirá un editor de correo electrónico en una nueva ventana o pestaña. Si los elementos emergentes están bloqueados, haga clic en **[!UICONTROL Editar borrador]** en la página de resumen de recursos para acceder al correo electrónico.
+   Se abre un editor de correo electrónico en una nueva ventana o pestaña. Si los elementos emergentes están bloqueados, haga clic en **[!UICONTROL Editar borrador]** en la página de resumen de recursos para acceder al correo electrónico.
 
 1. Introduzca una línea de asunto y haga doble clic en el área editable del correo electrónico.
 
    ![](assets/email-auto-response-5.png)
 
-   _Se abrirá un editor de texto enriquecido en la parte superior del editor de correo electrónico._
+   _Se abre un editor de texto enriquecido en la parte superior del editor de correo electrónico._
 
-1. Resaltar el contenido de correo electrónico existente.
+1. Resalte el contenido del correo electrónico existente.
 
    ![](assets/email-auto-response-6.png)
 
@@ -64,21 +64,21 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-9.png)
 
-1. **Asigne un nombre** a la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en **[!UICONTROL Crear]**.
+1. **Asigne el nombre** “Campaña de respuesta automática” a la campaña inteligente y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/email-auto-response-10.png)
 
-1. Vaya a la ficha **[!UICONTROL Lista inteligente]**.
+1. Vaya a la pestaña **[!UICONTROL Lista inteligente]**.
 
    ![](assets/email-auto-response-11.png)
 
-   Estamos configurando esta campaña para que se ejecute cada vez que una persona rellene el formulario que creó en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
+   Esta campaña se configura para que se ejecute cada vez que una persona rellene el formulario que creó en [**Página de destino con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}.
 
-1. Busque y arrastre el déclencheur **[!UICONTROL Rellena formulario]** al lienzo.
+1. Busque y arrastre el activador **[!UICONTROL Rellenar formulario]** al lienzo.
 
    ![](assets/email-auto-response-12.png)
 
-1. Seleccione **[!UICONTROL Mi formulario]** en la lista desplegable. Luego haga clic en la ficha **[!UICONTROL Flujo]**.
+1. Seleccione **[!UICONTROL Mi formulario]** en la lista desplegable. Luego haga clic en la pestaña **[!UICONTROL Flujo]**.
 
    ![](assets/email-auto-response-13.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-14.png)
 
-1. Seleccione su **correo electrónico de respuesta automática**. Luego haga clic en la ficha **[!UICONTROL Programar]**.
+1. Seleccione su **correo electrónico de respuesta automática**. Luego haga clic en la pestaña **[!UICONTROL Programar]**.
 
    ![](assets/email-auto-response-15.png)
 
@@ -112,11 +112,11 @@ ht-degree: 0%
 
 ## Paso 3: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccione **Mi página** (se creó en la [página de aterrizaje con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}) y haga clic en **[!UICONTROL Vista previa]**.
+1. Seleccione **Mi página** (se creó en la [página de destino con un formulario de](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} ganancia rápida) y haga clic en **[!UICONTROL Vista previa]**.
 
    ![](assets/email-auto-response-20.png)
 
-   _Su página de aterrizaje de &quot;Prueba gratuita&quot; se abrirá en una nueva pestaña._
+   _Su página de destino “Versión de prueba gratuita” se abre en una nueva pestaña._
 
 1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **[!UICONTROL Enviar]**.
 
@@ -126,7 +126,7 @@ ht-degree: 0%
 >
 >Asegúrese de utilizar su dirección de correo electrónico real para poder obtener el correo electrónico.
 
-## Misión finalizada {#mission-complete}
+## Misión completada {#mission-complete}
 
 En solo unos minutos, debería ver el correo electrónico de respuesta automática en su bandeja de entrada.
 

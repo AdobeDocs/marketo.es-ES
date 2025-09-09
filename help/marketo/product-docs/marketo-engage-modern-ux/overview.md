@@ -1,18 +1,18 @@
 ---
-description: 'Información general sobre la experiencia de usuario moderna de Marketo Engage: documentos de Marketo: documentación del producto'
+description: Información general de Marketo Engage Modern UX - Documentación de Marketo - Documentación del producto
 title: Información general sobre Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # Información general sobre Marketo Engage Modern UX {#overview}
 
-Bienvenido al UX moderno de Adobe Marketo Engage (experiencia de usuario), una interfaz actualizada que proporciona una mayor facilidad de uso junto con una nueva apariencia en toda la plataforma de Marketo Engage.
+Bienvenido a la UX (experiencia de usuario) moderna de Adobe Marketo Engage, una interfaz actualizada que proporciona una mayor facilidad de uso junto con una nueva apariencia en toda la plataforma de Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ Bienvenido al UX moderno de Adobe Marketo Engage (experiencia de usuario), una i
 
 ## Novedades {#whats-new}
 
-Hay muchas nuevas funcionalidades en el UX moderno, todas ellas diseñadas para mejorar significativamente su experiencia de marketing.
+Hay muchas nuevas funcionalidades en la UX moderna, todas ellas diseñadas para mejorar significativamente su experiencia de marketing.
 
 **Iconos**
 
@@ -34,23 +34,23 @@ La nueva interfaz presenta una iconografía mejorada y ampliada.
 
 **Navegación global**
 
-Adiós superbola. Ahora tiene acceso rápido a todas las secciones principales de Marketo Engage.
+Bienvenido nuevo panel de navegación. Ahora tiene acceso rápido a todas las secciones principales de Marketo Engage.
 
 ![](assets/overview-5.png)
 
 **URL de instancia**
 
-También tiene acceso rápido a su ID de munchkin, que ahora se refleja en la URL de su instancia (incluso más útil para aquellos con varias suscripciones).
+También tiene acceso rápido a su ID de Munchkin, que se refleja en la URL de su instancia (incluso más útil para aquellos con varias suscripciones).
 
 ![](assets/overview-6.png)
 
-## Nuevas opciones de árbol {#new-tree-options}
+## Nuevas opciones en el árbol {#new-tree-options}
 
-Hay un montón de nuevas características de árbol disponibles.
+Hay muchas nuevas características disponibles en el árbol.
 
 >[!NOTE]
 >
->Al realizar una búsqueda en el árbol, solo se muestran los primeros 250 resultados. Si después de una búsqueda no puede encontrar su recurso, utilice la función [Búsqueda global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
+>Al realizar una búsqueda en el árbol, solo se muestran los primeros 250 resultados. Si después de la búsqueda aún no puede encontrar su recurso, utilice la función [Búsqueda global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
 **Marketo Classic frente al nuevo Marketo**
 
@@ -77,7 +77,7 @@ Hay un montón de nuevas características de árbol disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Haga doble clic para expandir o contraer nodos de árbol</td>
+   <td>Hacer doble clic para expandir o contraer nodos de árbol</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
@@ -137,7 +137,7 @@ Hay un montón de nuevas características de árbol disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Buscar en carpetas archivadas</td>
+   <td>Buscar en las carpetas archivadas</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -157,14 +157,14 @@ Hay un montón de nuevas características de árbol disponibles.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Lógica de búsqueda 'Word empieza con'</td>
+   <td>Lógica de búsqueda “La palabra comienza con”</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
 
-## Navegador global {#global-nav}
+## Navegación global {#global-nav}
 
 Eche un vistazo a la nueva navegación global.
 
@@ -174,30 +174,30 @@ Eche un vistazo a la nueva navegación global.
  <tbody>
   <tr>
    <td>1</td>
-   <td>No hay más superball desplegable</td>
+   <td>El antiguo panel de navegación desplegable no está más</td>
   </tr>
   <tr>
    <td>2</td>
-   <td>Todos los elementos de superbola anteriores listados</td>
+   <td>Todos los elementos del antiguo panel de navegación listados</td>
   </tr>
   <tr>
   <tr>
    <td>3</td>
-   <td>Si tienes varias suscripciones, haz clic en tu subnombre para cambiar fácilmente a otro</td>
+   <td>Si tiene varias suscripciones, haga clic en su subnombre para cambiar fácilmente a otro</td>
   </tr>
   <tr>
    <td>4</td>
-   <td>Búsqueda global: ahora puede buscar toda la instancia desde aquí</td>
+   <td>Búsqueda global: ahora puede buscar en toda la instancia desde aquí</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Todo lo que solía vivir en la lista desplegable de superbola sigue disponible como un mosaico en Mi Marketo.
+>Todo lo que solía estar en la lista desplegable del antiguo panel de navegación sigue disponible como un mosaico en Mi Marketo.
 
 >[!TIP]
 >
 >El uso de la búsqueda en el árbol solo arrojará resultados de la sección en la que se encuentra (por ejemplo, Actividades de marketing). Si desea buscar en toda la instancia, utilice la búsqueda global.
 
-¡Disfrute de la nueva experiencia de Marketo Engage!
+Disfrute de la nueva experiencia de Marketo Engage.
