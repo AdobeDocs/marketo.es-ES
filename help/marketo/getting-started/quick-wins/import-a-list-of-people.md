@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359418
-description: 'Importar una lista de personas: documentos de Marketo, documentación del producto'
+description: 'Importar una lista de personas: docs de Marketo, documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '577'
-ht-degree: 1%
+ht-degree: 93%
 
 ---
 
 # Importar una lista de personas {#import-a-list-of-people}
 
-## Misión: importar una hoja de cálculo de la lista de asistentes a la feria en la base de datos {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Misión: importar una lista en formato de hoja de cálculo de la lista de asistentes a la feria a su base de datos {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
->[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 En este tutorial, aprenderá a importar personas de un archivo de hoja de cálculo a Marketo.
 
@@ -29,13 +29,13 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!NOTE]
    >
-   >Al importar una fecha, use este formato: **21/9/20** (mes/día/año).
+   >Al importar una fecha, use este formato: **21/9/20** (día/mes/año).
 
    >[!NOTE]
    >
-   >Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
+   >Los campos de fecha y hora que se importen se tratarán como hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
-1. Agregue su propio nombre, apellidos, dirección de correo electrónico real (para que pueda recibir los correos electrónicos nutritivos que enviará en la próxima misión) y cargo. Guarde el archivo en el equipo.
+1. Añada su propio nombre, apellidos, dirección de correo electrónico real (para que pueda recibir los correos electrónicos de apoyo que enviará en la próxima misión) y el cargo. Guarde el archivo en el equipo.
 
    ![](assets/import-a-list-of-people-2.png)
 
@@ -45,11 +45,11 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    >
    >* Marketo **no** admite direcciones de correo electrónico que contengan emojis.
    >
-   >* La importación de `NULL` valores mediante CSV podría generar un &quot;cambio de valor de datos&quot; para los campos numéricos en el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} de una persona, _incluso si los campos ya están en blanco_. Si tiene [Campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} que usan el déclencheur &quot;Valor de datos cambiado&quot; o &quot;Cambios en el valor de datos&quot;, podría hacer que las personas califiquen para esas campañas aunque los datos no estén cambiando realmente. Puede usar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para asegurarse de que nadie cumpla los requisitos para esas campañas tras la importación.
+   >* La importación de valores `NULL` mediante CSV podría generar un “Cambio en el valor de datos” para los campos numéricos en el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} de una persona, _incluso si los campos ya están en blanco_. Si tiene [Campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} que usan el activador «Valor de datos cambiado» o «Cambios en el valor de datos», podría suceder que las personas cumplan los requisitos para esas campañas aunque los datos no estén cambiando realmente. Puede usar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para asegurarse de que nadie cumpla los requisitos para esas campañas tras la importación.
 
 ## Paso 2: Crear un programa {#step-create-a-program}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área de **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
@@ -57,7 +57,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Nombre** el programa &quot;Mi programa de feria comercial&quot; y selecciona &quot;Evento&quot; para el **[!UICONTROL Tipo de programa]**.
+1. **Nombre** el programa «Mi programa para la feria comercial» y seleccione «Evento» para el **[!UICONTROL Tipo de programa]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
@@ -67,23 +67,23 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 >[!NOTE]
 >
->Los programas de eventos se producen en fechas específicas. Más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Los programas de eventos se producen en fechas específicas. Obtenga más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
-## Paso 3: Importar la hoja de cálculo en Marketo {#step-import-your-spreadsheet-into-marketo}
+## Paso 3: Importar la hoja de cálculo a Marketo {#step-import-your-spreadsheet-into-marketo}
 
 1. En **Mi programa para ferias**, haga clic en **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo recurso local]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Seleccione **[!UICONTROL Lista]**.
+1. Seleccione **[!UICONTROL Lista]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Nombre** la lista &quot;Asistentes a la feria comercial&quot; y haga clic en **[!UICONTROL Crear]**.
+1. **Nombre** la lista «Asistentes a la feria comercial» y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. En tu lista de **[!UICONTROL asistentes a la feria comercial]**, haz clic en **[!UICONTROL Acciones de lista]** y selecciona **[!UICONTROL Importar lista]**.
+1. En su lista de **[!UICONTROL Asistentes a la feria comercial]**, haga clic en **[!UICONTROL Acciones de la lista]** y seleccione **[!UICONTROL Importar lista]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -93,7 +93,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!NOTE]
    >
-   >El límite de tamaño para los archivos CSV es de 100 MB.
+   >El límite de tamaño para los archivos CSV es de 100 MB.
 
 1. **[!UICONTROL Examine]** el archivo de hoja de cálculo **tradeshow-attendees.csv** de su equipo y haga clic en **[!UICONTROL Siguiente]**.
 
@@ -101,13 +101,13 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!NOTE]
    >
-   >En el modo de importación de lista, elegir **[!UICONTROL Omitir nuevas personas y actualizaciones]** significa que no afectará los registros de personas existentes ni registrará ninguna actividad. Utilice este modo si desea una lista estática rápida y prefiltrada de personas existentes para utilizarla en sus actividades de marketing. Si selecciona este modo:
+   >En el modo de importación de lista, si selecciona **[!UICONTROL Omitir nuevas personas y actualizaciones]**, no afectará a los registros de personas existentes ni registrará ninguna actividad. Utilice este modo si desea una lista estática rápida y prefiltrada de personas existentes para utilizarla en sus actividades de marketing. Si selecciona este modo se producirán las acciones siguientes:
    >
-   > * Omitir creación de nueva persona
+   > * Omitir la creación de una nueva persona
    > * Omitir actualizaciones de los campos de personas
    > * Omitir el registro de actividades
 
-1. Asigne sus campos de [!UICONTROL Columna de lista] a sus respectivos campos de Marketo y haga clic en **[!UICONTROL Siguiente]**.
+1. Asigne sus campos de la [!UICONTROL columna de la lista] a su respectivo campo de Marketo y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
@@ -123,19 +123,19 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. Espere a que sus recursos se importen y cierre la ventana emergente de progreso de la importación.
+1. Espere a que se importen sus personas y cierre la ventana emergente de progreso de la importación.
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la ficha **[!UICONTROL Miembros]**. Ves a todas las personas que acabas de importar.
+1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la pestaña **[!UICONTROL Miembros]**. Ves a todas las personas que acabas de importar.
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->Puede analizar el éxito de su programa mediante el seguimiento de la pertenencia al programa. Más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>Puede analizar el éxito de su programa mediante el seguimiento de los miembros del programa. Obtenga más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
-## Misión finalizada {#mission-complete}
+## Misión completada {#mission-complete}
 
 Los asistentes a la feria ya son miembros de su programa de Marketo.
 
@@ -143,4 +143,4 @@ Los asistentes a la feria ya son miembros de su programa de Marketo.
 
 [◄ Misión 4: Respuesta automática de correo electrónico](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Misión 6: Goteo, Goteo, Nutrir ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Misión 6: Sistema de goteo y nutrición ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

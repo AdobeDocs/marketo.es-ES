@@ -5,11 +5,11 @@ title: Aplicaciones adicionales
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 
 
 # Aplicaciones adicionales {#additional-apps}
 
-**![Marketo Financial Management](assets/office-09.png)Marketo Financial Management** [Presupuestos y planificación de Marketo Financial Management. Esta herramienta le ayuda a organizar su gasto en marketing.](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     **![SEO](assets/seo-15.png)SEO** [SEO Entra en la primera página cuando la gente busque tus palabras clave más relevantes.](https://docs.marketo.com/display/DOCS/SEO)     **![Marketo Sales Insight](assets/alerts-10.png)Marketo Sales Insight** [Marketo Sales Insight ofrece a tu equipo de ventas lo mejor de Marketo.](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)
+**![Marketo Financial Management](assets/office-09.png)Marketo Financial Management** [Presupuestos y planificación de Marketo Financial Management. Esta herramienta le ayuda a organizar sus gastos en marketing.](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     **![SEO](assets/seo-15.png)SEO** [SEO Entra en la primera página cuando la gente busque tus palabras clave más relevantes.](https://docs.marketo.com/display/DOCS/SEO)     **![Marketo Sales Insight](assets/alerts-10.png)Marketo Sales Insight** [Marketo Sales Insight ofrece a tu equipo de ventas lo mejor de Marketo.](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)
