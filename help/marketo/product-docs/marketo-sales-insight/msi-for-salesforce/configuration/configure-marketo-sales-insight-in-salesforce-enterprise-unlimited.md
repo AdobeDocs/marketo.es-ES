@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar Marketo Sales Insight e
 title: Configuración de Marketo Sales Insight en Salesforce para empresas y sin límites
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '926'
 ht-degree: 4%
 
 ---
@@ -235,9 +235,9 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
 
 1. En Salesforce, haga clic en **+** al final de la barra de pestañas y luego en **[!UICONTROL Configuración de Marketo Sales Insight]**.
 
-1. Copie las credenciales del panel API de Soap en la [página de administración de Sales Insight de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} y péguelas en la sección de la API de Soap de la página de configuración de [!DNL Salesforce] [!DNL Sales Insight].
+1. Copie las credenciales del panel API de Soap en la [página de administración de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} y péguelas en la sección de la API de Soap de la página de configuración de [!DNL Salesforce] [!DNL Sales Insight].
 
-1. Copie las credenciales del panel de API de REST en la [página de administración de Sales Insight de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} y péguelas en la sección de API de REST de la página de configuración de [!DNL Salesforce] [!DNL Sales Insight].
+1. Copie las credenciales del panel de API de REST en la [página de administración de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} y péguelas en la sección de API de REST de la página de configuración de [!DNL Salesforce] [!DNL Sales Insight].
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 

@@ -3,16 +3,16 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 44%
+source-wordcount: '494'
+ht-degree: 51%
 
 ---
 
-# Notas de la versión: agosto de 2025 {#release-notes-aug-25}
+# Notas de la versión: septiembre de 2025 {#release-notes-sep-25}
 
-A continuación encontrará todas las funciones incluidas en la versión de agosto de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aqu�
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 22 de agosto de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 19 de septiembre de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Informes</strong>: Los informes de rendimiento de vínculos de correo electrónico y de rendimiento de vínculos de correo electrónico ahora muestran datos de los correos electrónicos creados con el nuevo Designer de correo electrónico.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Eliminación autocompletada</strong>: la opción Autocompletar del editor de personalización de tokens apuntaba a objetos erróneos y se ha eliminado. No hay planes para volver a implementarlo en este momento.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Optimización de vista previa de correo electrónico</strong>: Algunos usuarios experimentaban tiempos de carga más lentos al intentar previsualizar su correo electrónico en la página de detalles de la plantilla/fragmento de correo electrónico/correo electrónico. Esta experiencia se ha optimizado para tiempos de carga hasta un 60 % más rápidos.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de correo electrónico - Correcciones de plantilla</strong>: Algunas plantillas predeterminadas tenían problemas de procesamiento (por ejemplo, no se representaban correctamente en ciertos exploradores/modo oscuro, imágenes mal alineadas, botones de CTA mal colocados y algunos más). Todas estas se corrigen con esta versión.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Corrección de bloqueo de contenido</strong>: Anteriormente, si se creaba una plantilla de correo electrónico con bloqueo de contenido y esta se utilizaba para crear un correo electrónico, el bloqueo de contenido se mantenía incluso cuando se restablecía el correo electrónico o se seleccionaba "cambiar diseño". Este problema se corrigió en esta versión.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Permiso para editar límites de campañas inteligentes</strong>: Los administradores ahora pueden restringir la capacidad de modificar límites de campañas inteligentes solo para usuarios con permisos.</td>
+   <td><strong>Retención de actividades de seminarios web bajo demanda</strong>: Los usuarios de seminarios web interactivos ahora tienen disponibles los datos del tablero de seminarios web bajo demanda durante más de 30 días (anteriormente solo eran hasta 30 días desde el día del seminario web).</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -91,6 +41,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 <br/>
 
 ## Anuncios {#announcements}
+
+* **Cambio a Velocity Scripting en el nuevo Designer de correo electrónico**: Adobe Marketo Engage lanzó una función llamada _Contenido condicional_ para el nuevo Designer de correo electrónico el pasado junio. La función estaba equipada con scripts de Handlebar en lugar de scripts de Velocity, en un esfuerzo por proporcionar un poco más de flexibilidad en el contenido dinámico. Pero cuando descubrimos que estaba causando que algunos tokens se resolvieran incorrectamente, decidimos desactivarlo temporalmente. [Más información](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Fin de vida útil de Marketo Engage Identity**: en agosto de 2025, Adobe empezó a eliminar gradualmente la compatibilidad con Marketo Engage Identity (iniciando sesión a través de `login.marketo.com`). Para evitar que se interrumpa el acceso a Marketo Engage, debe realizar la transición al [Adobe Identity](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} a más tardar el 30 de septiembre de 2025.
 
