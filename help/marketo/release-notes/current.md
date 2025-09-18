@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 51%
+source-wordcount: '653'
+ht-degree: 41%
 
 ---
 
@@ -33,6 +33,46 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Retención de actividades de seminarios web bajo demanda</strong>: Los usuarios de seminarios web interactivos ahora tienen disponibles los datos del tablero de seminarios web bajo demanda durante más de 30 días (anteriormente solo eran hasta 30 días desde el día del seminario web).</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer de correo electrónico - Flujo de trabajo de Collaboration de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo en un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) y recibirán un correo electrónico o una notificación rápida.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Correo electrónico de Designer - Permisos del asistente de IA</strong>: Los administradores de Marketo pueden proporcionar a usuarios específicos acceso a las funciones de GenAI.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Modo oscuro</strong>: Ahora puede usar el Modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones de soporte mostrar correos electrónicos con fondos más oscuros y colores más claros para texto, botones y otros elementos de la interfaz de usuario.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer de correo electrónico - Correcciones de redireccionamiento</strong>: Algunos usuarios experimentaban problemas de redireccionamiento con las direcciones URL de los mensajes de correo electrónico creados con el nuevo Designer (por ejemplo, al pegar directamente las direcciones URL o al marcar los recursos de correo electrónico, no siempre funcionaba). Este problema se ha resuelto. Además, los vínculos a los recursos de correo electrónico de <b>Plantillas de correo electrónico</b> &gt; <b>Detalles</b> &gt; <b>Utilizado por</b> se redirigirán al recurso de correo electrónico correspondiente.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
