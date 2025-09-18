@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '655'
 ht-degree: 41%
 
 ---
@@ -62,7 +62,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Modo oscuro</strong>: Ahora puede usar el Modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones de soporte mostrar correos electrónicos con fondos más oscuros y colores más claros para texto, botones y otros elementos de la interfaz de usuario.</td>
+   <td><strong>Email Designer - Modo oscuro</strong>: Ahora puede utilizar el Modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones compatibles mostrar correos electrónicos con fondos más oscuros y colores más claros para texto, botones y otros elementos de la interfaz de usuario.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
