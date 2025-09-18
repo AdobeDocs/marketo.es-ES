@@ -3,26 +3,26 @@ description: 'Notas de la versión, octubre de 2024: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 2%
+ht-degree: 21%
 
 ---
 
 # Notas de la versión: octubre de 2024 {#release-notes-oct-24}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de octubre de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **4 de octubre de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 04 de octubre de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,7 +45,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <tr>
    <td><strong>Recuento de listas inteligentes configuradas para afectar a</strong>: vea cuántas personas se verán afectadas al editar las reglas de calificación de una campaña inteligente.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -56,7 +56,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <tr>
    <td><strong>Botón Mi cuenta en el carril de navegación</strong>: Para aquellos que han migrado a Adobe Identity Management System, un nuevo botón "Mi cuenta" en el carril de navegación izquierdo permite configurar su zona horaria y acceder a los detalles de suscripción.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -82,7 +82,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Métricas de trabajo pendiente de sincronización de Salesforce</strong>: supervise el rendimiento de sincronización y las tendencias de trabajo pendiente para planificar y programar actualizaciones de CRM para una experiencia de sincronización óptima.
    </td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Métricas de registro de sincronización de Salesforce</a></td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Métricas de registro de asuntos pendientes de Salesforce</a></td>
   </tr>
  </tbody>
 </table>
@@ -92,7 +92,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Actualización de API de extracción masiva**: se ha corregido un problema en la API de extracción masiva que incluía la opción columnHeaderNames, que le permite especificar nombres de encabezado de columna personalizados en el archivo exportado. Anteriormente, los nombres de encabezados de columna que contenían caracteres no ASCII podían dañarse.
 
-* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Desaprobación del parámetro access_token de la API de REST**: El parámetro de consulta &quot;access_token&quot; usado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de enero de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API de REST usando el encabezado &quot;Autorización&quot; [tal como se describe aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Desaprobación del código QR**: El 4 de octubre de 2024, la función de código QR utilizada en las notificaciones push y los recursos de mensajería en la aplicación dejará de usarse. Esto incluye el uso de códigos QR para un nuevo dispositivo de prueba y la creación de nuevos recursos con códigos QR. Las funciones en desuso con un menor uso nos permiten reasignar sus recursos al mantenimiento general de Marketo Engage.
 

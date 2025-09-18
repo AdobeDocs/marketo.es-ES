@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515401
 description: 'Creación de una plantilla de página de aterrizaje guiada: documentos de Marketo, documentación del producto'
-title: Crear una plantilla de página de aterrizaje guiada
+title: Crear una plantilla de la página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# Crear una plantilla de página de aterrizaje guiada {#create-a-guided-landing-page-template}
+# Crear una plantilla de la página de destino guiada {#create-a-guided-landing-page-template}
 
 Las plantillas de página de aterrizaje guiada tienen una sintaxis especial. Utilice esta sintaxis para especificar qué se puede personalizar y dónde terminará el contenido en cada página de aterrizaje creada a partir de la plantilla. Solo las regiones o variables que especifique como editables estarán disponibles para la personalización en el editor de páginas de aterrizaje &quot;Guiado&quot;.
 
@@ -81,7 +81,7 @@ Por ejemplo:
 >
 >Al utilizar la versión `<img>`, el HTML procesado contendrá un contenedor div generado alrededor de la etiqueta `<img>`. Se establecerá en clase .&quot;mktoImg.mktoGen&quot;, y se mostrarán:inline-block.
 
-## Form {#form}
+## Formulario {#form}
 
 Atributos de ejemplo :Required:
 **clase**: &quot;mktoForm&quot;
@@ -126,39 +126,6 @@ Atributos necesarios:
 Por ejemplo:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Sondeo {#poll}
-
-Atributos necesarios:
-**clase**: &quot;mktoPoll&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
-**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
-
-Por ejemplo:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Referencia {#referral}
-
-Atributos necesarios:
-**clase**: &quot;mktoReferral&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
-**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
-
-Por ejemplo:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Sorteos {#sweepstakes}
-
-Atributos necesarios:
-**clase**: &quot;mktoSweepstakes&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
-**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
-
-Por ejemplo:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Variables editables {#editable-variables}
 
