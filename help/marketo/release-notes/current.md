@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 60%
 
 ---
@@ -42,7 +42,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Flujo de trabajo de Collaboration de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo en un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) y recibirán un correo electrónico o una notificación rápida.</td>
+   <td><strong>Designer de correo electrónico - Flujo de trabajo de Collaboration de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo dentro de un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) y recibirán un correo electrónico o una notificación rápida.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
