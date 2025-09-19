@@ -1030,7 +1030,7 @@ ht-degree: 99%
          + [Creación del correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Creación de plantilla de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Temas de marca](product-docs/email-marketing/email-designer/brand-themes.md)
+         + [Temáticas sobre la marca](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Aplicar marca](product-docs/email-marketing/email-designer/apply-brand.md)
          + [Prueba de renderizado de correo electrónico con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tókenes de personalización](product-docs/email-marketing/email-designer/personalization-tokens.md)
