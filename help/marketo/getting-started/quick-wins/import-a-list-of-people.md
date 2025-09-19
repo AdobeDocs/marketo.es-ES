@@ -5,9 +5,9 @@ title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '577'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 93%
 >
 >[Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-En este tutorial, aprenderá a importar personas de un archivo de hoja de cálculo a Marketo.
+En este tutorial, aprenderá a importar personas desde un archivo de hoja de cálculo a Marketo.
 
 ## Paso 1: Descargar y editar una hoja de cálculo {#step-download-and-edit-a-spreadsheet}
 
@@ -127,7 +127,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la pestaña **[!UICONTROL Miembros]**. Ves a todas las personas que acabas de importar.
+1. Cuando vuelva a **Mi programa de feria comercial**, haga clic en la pestaña **[!UICONTROL Miembros]**. Verá a todas las personas que acaba de importar.
 
    ![](assets/import-a-list-of-people-15.png)
 
