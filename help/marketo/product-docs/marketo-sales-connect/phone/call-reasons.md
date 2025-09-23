@@ -1,16 +1,16 @@
 ---
 description: Razones de llamada - Documentos de Marketo - Documentación del producto
-title: Razones de llamada
+title: Motivos de la llamada
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Razones de llamada {#call-reasons}
+# Motivos de la llamada {#call-reasons}
 
 Permita que sus equipos de ventas seleccionen motivos de llamada al realizar llamadas, de modo que su equipo pueda comprender por qué se realizan dichas llamadas.
 

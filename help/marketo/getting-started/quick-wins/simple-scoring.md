@@ -4,10 +4,10 @@ description: 'Puntuación simple: Documentos de Marketo: documentación del prod
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Página de destino con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Paso 1: Crear una campaña de puntuación {#step-create-a-scoring-campaign}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/simple-scoring-1.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## Paso 3: Ver la información de la persona {#step-view-the-person-info}
 
-1. Vaya al área de **[!UICONTROL Base de datos]**.
+1. Vaya al área **[!UICONTROL Base de datos]**.
 
    ![](assets/simple-scoring-17.png)
 
@@ -126,7 +126,7 @@ Los detalles de su persona se abrirán en una nueva pestaña o ventana. ¿Ve có
 
 ![](assets/simple-scoring-20.png)
 
-## ¡Misión completa! {#mission-complete}
+## Misión completada. {#mission-complete}
 
 <br> 
 

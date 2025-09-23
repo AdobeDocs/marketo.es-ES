@@ -4,10 +4,10 @@ description: 'Eliminar una imagen o un archivo cargados: documentos de Marketo, 
 title: Eliminar una imagen o un archivo cargados
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359915
 description: 'Eliminación del contenido de la emisión: documentos de Marketo, documentación del producto'
-title: Eliminar contenido de la emisión
+title: Quitar contenido de flujo
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Eliminar contenido de la emisión {#remove-stream-content}
+# Quitar contenido de flujo {#remove-stream-content}
 
 Puede eliminar o archivar un fragmento de contenido. A diferencia de eliminar contenido de flujo, [archivar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no le importa perder las estadísticas históricas de algún contenido y desea eliminarlo, así es como hacerlo.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360303
 description: Personalización de estrellas y llamas - Documentos de Marketo - Documentación del producto
-title: Personalizar estrellas y llamas
+title: Personalizar Estrellas y Llamas
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personalizar estrellas y llamas {#customize-stars-and-flames}
+# Personalizar Estrellas y Llamas {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight] usa estrellas y llamas para dar prioridad a los posibles clientes. Marketo decide automáticamente quién recibe 1-2-3 estrellas/llamas. Sin embargo, puede modificar la fórmula. A continuación se muestra cómo:
 

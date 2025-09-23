@@ -4,10 +4,10 @@ description: Configuración de ubicación predeterminada para una suscripción -
 title: Establecer la configuración de ubicación predeterminada para una suscripción
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ Cuando un administrador cambia la configuración de ubicación predeterminada, l
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/) admite francés, alemán, japonés, portugués y español.
+   >Marketo Sales Insight para [Salesforce.com](https://salesforce.com/) es compatible con francés, alemán, japonés, portugués y español.
 
 ## Establecer la configuración de moneda predeterminada para una suscripción {#set-the-default-currency-settings-for-a-subscription}
 

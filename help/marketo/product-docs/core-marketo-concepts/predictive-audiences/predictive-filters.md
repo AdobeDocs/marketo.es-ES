@@ -3,7 +3,7 @@ description: 'Filtros predictivos: documentos de Marketo, documentación del pro
 title: Filtros predictivos
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 3%
@@ -58,6 +58,6 @@ Haga clic en el icono **+** para agregar fácilmente varios programas o listas i
 * Los filtros predictivos no están disponibles para campañas de Déclencheur.
 * No se admite la clonación o el traslado de campañas que contengan filtros predictivos.
 * Puede usar hasta cinco filtros predictivos en una lista inteligente.
-* Si el Marketo Engage encuentra un error en la evaluación de filtros predictivos, la ejecución de la campaña se interrumpirá automáticamente y recibirá una notificación en el centro de notificaciones de Marketo.
+* Si Marketo Engage encuentra un error en la evaluación de filtros predictivos, la ejecución de la campaña se anulará automáticamente y recibirá una notificación en el centro de notificaciones de Marketo.
 * Los filtros predictivos tienen actualmente un límite de entrada de 1 millón de personas cualificadas.
 * Puede tener hasta 50 programas activos con filtros predictivos.

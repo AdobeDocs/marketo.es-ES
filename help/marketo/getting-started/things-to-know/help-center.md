@@ -3,8 +3,8 @@ description: 'Centro de ayuda: documentos de Marketo Engage, documentación del 
 title: Centro de ayuda
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 100%
 

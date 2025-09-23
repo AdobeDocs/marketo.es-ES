@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360235
 description: Creación de un analizador de influencia de oportunidades, documentos de Marketo, documentación del producto
-title: Crear un analizador de influencia de oportunidades
+title: Crear un analizador de influencia de la oportunidad
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Crear un analizador de influencia de oportunidades {#create-an-opportunity-influence-analyzer}
+# Crear un analizador de influencia de la oportunidad {#create-an-opportunity-influence-analyzer}
 
 Utilice el Analizador de influencia de oportunidades para mostrar la contribución del marketing a un acuerdo importante. Vea los éxitos de su programa y evento, así como los momentos interesantes, en la vida de una oportunidad.
 

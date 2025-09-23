@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557273
 description: 'Búsqueda y adición de filtros a una lista inteligente: documentos de Marketo, documentación del producto'
-title: Buscar y agregar filtros a una lista inteligente
+title: Buscar y añadir filtros a una lista inteligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Buscar y agregar filtros a una lista inteligente {#find-and-add-filters-to-a-smart-list}
+# Buscar y añadir filtros a una lista inteligente {#find-and-add-filters-to-a-smart-list}
 
 Una vez que hayas [creado una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, debes agregar y [definir](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtros. A continuación, se indica cómo buscar y agregar filtros.
 

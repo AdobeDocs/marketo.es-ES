@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360052
 description: Páginas Web Vistas, Informe De Actividad De La Página Web - Documentos De Marketo - Documentación Del Producto
-title: Páginas Web Vistas, Informe De Actividad De Páginas Web
+title: Páginas web vistas, informe de actividad de la página web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Páginas Web Vistas, Informe De Actividad De Páginas Web {#web-pages-viewed-web-page-activity-report}
+# Páginas web vistas, informe de actividad de la página web {#web-pages-viewed-web-page-activity-report}
 
 Desde un informe de [[!UICONTROL Actividad de la página web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puede ver las páginas específicas que vieron las personas en el informe.
 

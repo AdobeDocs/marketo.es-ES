@@ -1,20 +1,20 @@
 ---
 description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
-title: Creación de correo electrónico
+title: Creación del correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
+source-wordcount: '1503'
 ht-degree: 1%
 
 ---
 
-# Creación de correo electrónico {#email-authoring}
+# Creación del correo electrónico {#email-authoring}
 
-Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Designer de correo electrónico del Marketo Engage.
+Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
@@ -22,11 +22,11 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, comuníquese con el equipo de cuenta de Adobe (su administrador de cuentas) o con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Crear un correo electrónico {#create-an-email}
 
-1. Inicie sesión en el Marketo Engage a través de [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Inicie sesión en Marketo Engage mediante [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. En Mi Marketo, seleccione **Design Studio**.
 
@@ -76,25 +76,25 @@ Cuando comience desde cero en el editor de correo electrónico, utilice las opci
 
 ### Importar HTML {#import-html}
 
-Puede importar contenido existente del HTML para diseñar el correo electrónico. El contenido puede ser:
+Puede importar contenido existente de HTML para diseñar su correo electrónico. El contenido puede ser:
 
-* Archivo de HTML con una hoja de estilos incorporada
+* Archivo HTML con una hoja de estilos incorporada
 
-* Archivo .zip que incluye un archivo de HTML, la hoja de estilos (.css) y las imágenes
+* Archivo .zip que incluye un archivo HTML, la hoja de estilos (.css) y las imágenes
 
 >[!NOTE]
 >
 >No hay restricciones en la estructura de archivos .zip. Sin embargo, las referencias deben ser relativas y ajustarse a la estructura de árbol de la carpeta .zip.
 
-1. En la página Diseñar su plantilla, seleccione **HTML de importación**.
+1. En la página Diseña tu plantilla, selecciona **Importar HTML**.
 
-1. Arrastre y suelte el HTML o archivo .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
+1. Arrastre y suelte el archivo HTML o .zip deseado (o seleccione un archivo del equipo) y haga clic en **Importar**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Cuando se carga el contenido del HTML, el contenido se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
+>Cuando se carga el contenido de HTML, este se encuentra en modo de compatibilidad. En este modo, solo puede personalizar el texto, agregar vínculos o agregar recursos al contenido.
 
 Puede realizar los cambios que desee en el contenido importado con [las herramientas visuales del editor de correo electrónico](#add-structure-and-content).
 
@@ -102,7 +102,7 @@ Puede realizar los cambios que desee en el contenido importado con [las herramie
 
 Existen dos tipos de plantillas para elegir.
 
-* **Plantillas de ejemplo**: El Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
+* **Plantillas de ejemplo**: Marketo Engage ofrece cuatro plantillas de correo electrónico predeterminadas.
 
 * **Plantillas guardadas**: son plantillas que creó desde cero mediante el menú Plantillas o un mensaje de correo electrónico que creó y eligió guardar como plantilla.
 
@@ -144,7 +144,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
    >[!TIP]
    >
-   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+   >Seleccione el componente de columna n:n para definir el número de columnas que desee (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -160,7 +160,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
 ### Añadir Assets {#add-assets}
 
-Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de la instancia de Marketo Engage.
+Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} de su instancia de Marketo Engage.
 
 >[!NOTE]
 >
@@ -213,7 +213,7 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
 1. Guarde los cambios.
 
-### Personalizar contenido {#personalize-content}
+### Personalización del contenido {#personalize-content}
 
 Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
 
@@ -289,7 +289,7 @@ Las advertencias hacen referencia a recomendaciones y prácticas recomendadas, c
 >
 >No es necesario agregar una opción de cancelación de suscripción para [Correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (que no sean de marketing).
 
-* **La versión de texto del HTML está vacía**: debe definir una versión de texto del cuerpo del correo electrónico para los casos en los que no se pueda mostrar el contenido del HTML.
+* **La versión de texto de HTML está vacía**: debe definir una versión de texto de su cuerpo de correo electrónico para los casos en que no se pueda mostrar el contenido de HTML.
 
 * **El vínculo vacío está presente en el cuerpo del correo electrónico**: compruebe que todos los vínculos del correo electrónico sean correctos.
 

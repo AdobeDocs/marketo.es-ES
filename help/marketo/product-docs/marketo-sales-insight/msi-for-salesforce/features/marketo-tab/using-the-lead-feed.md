@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: Uso de la fuente de posibles clientes, documentos de Marketo, documentación del producto
-title: Uso de la fuente de posibles clientes
+title: Usar la fuente de posible cliente
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Uso de la fuente de posibles clientes {#using-the-lead-feed}
+# Usar la fuente de posible cliente {#using-the-lead-feed}
 
 La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como una fuente RSS o [!DNL Twitter]; las actualizaciones más recientes se encuentran en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504725
 description: Guardado de un informe de Explorador de ingresos - Documentos de Marketo - Documentación del producto
-title: Guardado de un informe del Explorador de ingresos
+title: Guardar un informe del explorador de ingresos
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

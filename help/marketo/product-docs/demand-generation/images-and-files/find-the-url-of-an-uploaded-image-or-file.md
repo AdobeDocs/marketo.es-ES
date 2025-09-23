@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359870
 description: 'Buscar la dirección URL de una imagen o archivo cargado: documentos de Marketo, documentación del producto'
-title: Buscar la dirección URL de una imagen o archivo cargado
+title: Buscar la URL de una imagen o archivo cargado
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
-# Buscar la dirección URL de una imagen o archivo cargado {#find-the-url-of-an-uploaded-image-or-file}
+# Buscar la URL de una imagen o archivo cargado {#find-the-url-of-an-uploaded-image-or-file}
 
 ¿Busca la dirección web (URL) de una imagen o archivo que ha cargado?
 

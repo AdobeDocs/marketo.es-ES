@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360305
 description: Creación de una pestaña personalizada para la página de detalles de la persona - Documentos de Marketo - Documentación del producto
-title: Creación de una ficha personalizada para la página de detalles de persona
+title: Creación de una pestaña personalizada para la página de detalles de la persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Creación de una ficha personalizada para la página de detalles de persona {#creating-a-custom-tab-for-the-person-detail-page}
+# Creación de una pestaña personalizada para la página de detalles de la persona {#creating-a-custom-tab-for-the-person-detail-page}
 
 Si busca un conjunto específico de campos en los detalles de la persona una y otra vez, plantéese crear un diseño personalizado para facilitar las cosas.
 

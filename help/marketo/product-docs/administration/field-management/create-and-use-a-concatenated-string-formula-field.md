@@ -4,16 +4,16 @@ description: 'Creación y uso de un campo de cadena concatenada (fórmula): docu
 title: Crear y utilizar un campo de cadena concatenada (fórmula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 # Crear y utilizar un campo de cadena concatenada (fórmula) {#create-and-use-a-concatenated-string-formula-field}
 
-Puede combinar valores de varios campos o crear un valor condicional utilizando un campo de fórmula de Marketo Engage.
+Puede combinar valores de varios campos o crear un valor condicional mediante un campo de fórmula de Marketo Engage.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

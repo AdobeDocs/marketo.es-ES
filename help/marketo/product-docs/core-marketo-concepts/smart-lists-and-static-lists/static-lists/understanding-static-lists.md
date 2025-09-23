@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949891
 description: 'Explicación de las listas estáticas: documentos de Marketo, documentación del producto'
-title: Descripción de listas estáticas
+title: Descripción de las listas estáticas
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Descripción de listas estáticas {#understanding-static-lists}
+# Descripción de las listas estáticas {#understanding-static-lists}
 
 Las listas estáticas son una de las funciones más sencillas y útiles de Marketo. Simplemente son una lista de nombres de la base de datos. Encontrará un montón de razones para usarlos.
 

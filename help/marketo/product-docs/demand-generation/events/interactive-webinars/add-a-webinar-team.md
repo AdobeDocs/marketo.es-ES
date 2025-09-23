@@ -1,16 +1,16 @@
 ---
 description: 'Añadir un equipo del seminario web: documentos de Marketo, documentación del producto'
-title: Agregar un equipo del seminario web
+title: Añadir un equipo al seminario web
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Agregar un equipo del seminario web {#add-a-webinar-team}
+# Añadir un equipo al seminario web {#add-a-webinar-team}
 
 Un equipo de seminarios web en seminarios web interactivos consta de todas las funciones que contribuyen al éxito de la entrega del seminario web en Adobe Connect. Esto incluye a presentadores y coanfitriones.
 

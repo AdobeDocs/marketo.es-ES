@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359516
 description: 'Desaprobar un fragmento: documentos de Marketo, documentación del producto'
-title: Desaprobar un fragmento
+title: No aprobar un fragmento
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Desaprobar un fragmento {#unapprove-a-snippet}
+# No aprobar un fragmento {#unapprove-a-snippet}
 
 Un fragmento no aprobado no se puede utilizar en correos electrónicos o páginas de aterrizaje.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147352
 description: 'Enviar un correo electrónico de muestra: documentos de Marketo, documentación del producto'
-title: Enviar correo electrónico de muestra
+title: Enviar muestra de correo electrónico
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Enviar correo electrónico de muestra {#send-a-sample-email}
+# Enviar muestra de correo electrónico {#send-a-sample-email}
 
 Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un correo electrónico con contenido dinámico, consulte [Vista previa de un correo electrónico con contenido dinámico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
@@ -19,7 +19,7 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 >
 >Debe tener el permiso **Ejecutar acciones de un solo flujo para la base de datos de Access** para enviar correos electrónicos de ejemplo.
 
-## Enviar correo electrónico de muestra {#send-a-sample-email-1}
+## Enviar muestra de correo electrónico {#send-a-sample-email-1}
 
 1. Busque y seleccione su correo electrónico. Haga clic en el menú desplegable **[!UICONTROL Acciones de correo electrónico]** y seleccione **[!UICONTROL Enviar muestra]**.
    ![](assets/one-281-29.jpg)
@@ -56,7 +56,7 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
    >[!NOTE]
    >
-   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting).
+   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 

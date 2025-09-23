@@ -1,14 +1,14 @@
 ---
 description: 'Programación de un correo electrónico: documentos de Marketo, documentación del producto'
-title: Programando un correo electrónico
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: Programar un correo electrónico
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Programando un correo electrónico {#scheduling-an-email}
+# Programar un correo electrónico {#scheduling-an-email}
 
 Siga estos sencillos pasos para programar un correo electrónico.
 

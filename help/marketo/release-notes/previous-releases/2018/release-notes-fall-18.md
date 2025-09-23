@@ -4,14 +4,14 @@ description: 'Notas De La Versión, Otoño De 2018: Documentos De Marketo: Docum
 title: Notas de la versión, otoño de 2018
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Otoño de 2018 {#release-notes-fall}
+# Notas de la versión: otoño de 2018 {#release-notes-fall}
 
 Las siguientes funciones se incluyen en la versión de otoño de 1818. Compruebe la disponibilidad de las funciones en Marketo Edition.
 

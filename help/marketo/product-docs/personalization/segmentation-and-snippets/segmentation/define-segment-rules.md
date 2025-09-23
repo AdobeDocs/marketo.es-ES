@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359449
 description: Definición de reglas de segmentos - Documentos de Marketo - Documentación del producto
-title: Definir reglas de segmentos
+title: Definir reglas de segmento
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Definir reglas de segmentos {#define-segment-rules}
+# Definir reglas de segmento {#define-segment-rules}
 
 La definición de reglas de segmentos le permite clasificar a sus recursos en diferentes grupos mutuamente excluyentes.
 

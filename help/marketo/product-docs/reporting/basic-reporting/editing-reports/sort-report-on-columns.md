@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359996
 description: Ordenar informes en columnas - Documentos de Marketo - Documentación del producto
-title: Ordenar informes en columnas
+title: Ordenar informe por columnas
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Ordenar informes en columnas {#sort-report-on-columns}
+# Ordenar informe por columnas {#sort-report-on-columns}
 
 Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de las cifras más importantes.
 

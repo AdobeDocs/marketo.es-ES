@@ -1,16 +1,16 @@
 ---
 description: Descripción general de la biblioteca de importación de programas - Documentos de Marketo - Documentación del producto
-title: Resumen de biblioteca de importación de programas
+title: Información general de la biblioteca de importación de programas
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Resumen de biblioteca de importación de programas {#program-import-library-overview}
+# Información general de la biblioteca de importación de programas {#program-import-library-overview}
 
 La biblioteca de referencia de Marketo Engage incluye varios programas de inicio que puede importar directamente en la instancia de Marketo para empezar a crear programas que ayuden a su equipo.
 

@@ -4,10 +4,10 @@ description: 'Bloquear actualizaciones de un campo: documentos de Marketo, docum
 title: Bloquear actualizaciones de un campo
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

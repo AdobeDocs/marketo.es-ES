@@ -4,10 +4,10 @@ description: Corregir problemas de sincronización de validación de Dynamics - 
 title: Corregir problemas de sincronización de validación de Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
@@ -41,7 +41,7 @@ Si tiene un ![x](assets/delete.png) aquí, compruebe que la dirección URL sea v
 
 ## El nombre de usuario y la contraseña son válidos {#username-and-password-are-valid}
 
-Si tiene un ![x](assets/delete.png) aquí, compruebe que sus credenciales de Microsoft Dynamics sean válidas. Para la autenticación S2S de la API web, el nombre de usuario en Marketo debe coincidir con la [dirección de correo electrónico](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) del usuario de la aplicación en CRM. Para otros tipos, debe coincidir con el nombre de usuario del usuario de sincronización.
+Si tiene un ![x](assets/delete.png) aquí, verifique que sus credenciales de Microsoft Dynamics sean válidas. Para la autenticación S2S de la API web, el nombre de usuario en Marketo debe coincidir con la [dirección de correo electrónico](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) del usuario de la aplicación en CRM. Para otros tipos, debe coincidir con el nombre de usuario del usuario de sincronización.
 
 ## El usuario de sincronización se ha asignado a la función de usuario de sincronización de Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

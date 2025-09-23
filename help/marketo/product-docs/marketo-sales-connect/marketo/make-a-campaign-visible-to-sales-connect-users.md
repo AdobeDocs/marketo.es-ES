@@ -4,10 +4,10 @@ description: 'Hacer que una campaña esté visible para los usuarios de Sales Co
 title: Hacer que una campaña esté visible para los usuarios de Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

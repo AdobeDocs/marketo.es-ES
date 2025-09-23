@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: Editar el mensaje "Ver como página web" - Documentos de Marketo - Documentación del producto
-title: Editar el mensaje "Ver como página web"
+title: Editar el mensaje “Ver como página web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Editar el mensaje &quot;Ver como página web&quot; {#edit-the-view-as-web-page-message}
+# Editar el mensaje “Ver como página web” {#edit-the-view-as-web-page-message}
 
 Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, así es.
 
@@ -19,7 +19,7 @@ Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-d
 >
 >**Se requieren permisos de administración**
 
-## Editar el mensaje &quot;Ver como página web&quot; {#edit-the-view-as-web-page-message-1}
+## Editar el mensaje “Ver como página web” {#edit-the-view-as-web-page-message-1}
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

@@ -3,7 +3,7 @@ description: 'Información general avanzada de BI Analytics: Documentos de Marke
 title: Información general avanzada de BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Haga clic en el icono &#39;más&#39; (**...**)
+1. Haga clic en el icono &#39;más&#39; (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451685/?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
@@ -237,7 +237,6 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
 ## Cosas que debe tener en cuenta {#note}
 
 * Sus informes personalizados se han duplicado de la experiencia clásica a la nueva con los cambios de comportamiento notables que se mencionan en la sección [Aprender la nueva experiencia](#learning-the-new-experience) que aparece a continuación.
-
 * Los paneles de la experiencia clásica no se podían transferir y era necesario volver a crearlos en la nueva experiencia. Se pueden volver a crear como informes en la nueva experiencia y los filtros de la nueva experiencia extraen automáticamente los valores posibles.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Los siguientes informes estándar se incluyen como ejemplos para los informes pe
   >Si tenía más de 700 informes en el Explorador de ingresos, algunos se han combinado con otros y se han consolidado a través de páginas dentro del informe.
   >
   >* Si un informe tenía una suscripción por correo electrónico, no se combinaba.
-  >
   >* El resto de los informes de la _misma carpeta_ se combinaron en uno o más informes, por área de informe. Si había más de cinco informes para la esfera de presentación de informes, se consolidaron en más de un informe combinado.
-  >
   >* Cada informe combinado no tiene más de cinco páginas.
 
 * Hay una limitación de 1 millón de filas por consulta en una visualización determinada. Si la consulta supera ese límite, recibirá el siguiente error: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Para solucionarlo, reduzca el intervalo de fechas o ajuste los filtros del informe para reducir el número de filas en el resultado de la consulta.

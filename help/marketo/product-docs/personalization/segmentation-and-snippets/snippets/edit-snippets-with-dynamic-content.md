@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359466
 description: 'Edición de fragmentos con contenido dinámico: documentos de Marketo, documentación del producto'
-title: Edición de fragmentos con contenido dinámico
+title: Editar fragmentos de código con contenido dinámico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Edición de fragmentos con contenido dinámico {#edit-snippets-with-dynamic-content}
+# Editar fragmentos de código con contenido dinámico {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >

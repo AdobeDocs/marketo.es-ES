@@ -4,7 +4,7 @@ description: Eliminar persona - Documentos de Marketo - Documentación del produ
 title: Eliminar persona
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Las personas erróneas a veces entran en la base de datos. El paso de flujo Elim
 
    ![](assets/delete-person-2.png)
 
-1. Puede eliminarlo del Marketo Engage y no de su CRM, de esta forma:
+1. Puede eliminar de Marketo Engage y no de su CRM, de esta manera:
 
    ![](assets/delete-person-3.png)
 

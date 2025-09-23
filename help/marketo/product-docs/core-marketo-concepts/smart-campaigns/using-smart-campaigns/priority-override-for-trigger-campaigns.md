@@ -1,16 +1,16 @@
 ---
 description: Anulación de prioridad para campañas de Déclencheur - Documentos de Marketo - Documentación del producto
-title: Anulación de prioridad para campañas de Déclencheur
+title: Anulación de prioridad para campañas de activador
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Anulación de prioridad para campañas de Déclencheur {#priority-override-for-trigger-campaigns}
+# Anulación de prioridad para campañas de activador {#priority-override-for-trigger-campaigns}
 
 Los administradores pueden anular la prioridad definida por Marketo Engage para las campañas de Déclencheur a fin de establecer prioridades que se ajusten mejor a los objetivos empresariales.
 

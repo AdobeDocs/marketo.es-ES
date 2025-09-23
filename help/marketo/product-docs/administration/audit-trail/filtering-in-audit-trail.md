@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378468
 description: Filtrado en la pista de auditoría - Documentos de Marketo - Documentación del producto
-title: Filtrado en pista de auditoría
+title: Filtrado en seguimiento de auditoría
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Filtrado en pista de auditoría {#filtering-in-audit-trail}
+# Filtrado en seguimiento de auditoría {#filtering-in-audit-trail}
 
 Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y mucho más.
 

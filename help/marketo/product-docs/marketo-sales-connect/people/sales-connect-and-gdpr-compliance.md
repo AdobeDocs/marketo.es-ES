@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14745825
 description: Conformidad con Sales Connect y el RGPD - Documentos de Marketo - Documentación del producto
-title: Conexión de ventas y cumplimiento del RGPD
+title: Sales Connect y el cumplimiento del RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1355'
 ht-degree: 8%
@@ -75,7 +75,7 @@ En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento
 De nuevo, los usuarios tienen varias opciones desplegables para elegir, entre ellas:
 
 * Sincronización de CRM
-* Importar
+* Importación
 * Carga manual
 * Extensión de [!DNL Chrome]
 * Otro
@@ -176,7 +176,7 @@ Para exportar la información de contacto, haz clic en los tres puntos verticale
 >
 >El RGPD también requiere la capacidad de eliminar contactos de la interfaz de usuario, pero [!DNL Marketo Sales Connect] ya posee esta funcionalidad.
 
-## Cancela suscripción {#unsubscribes}
+## Cancelaciones de suscripción {#unsubscribes}
 
 Un área del RGPD comúnmente malentendida incluye contactos que cancelan la suscripción a la base de datos de la organización. Para adherirse a las nuevas reglas de protección de los datos de los que deciden cancelar la suscripción, se ha incluido la siguiente funcionalidad en [!DNL Marketo Sales Connect]:
 

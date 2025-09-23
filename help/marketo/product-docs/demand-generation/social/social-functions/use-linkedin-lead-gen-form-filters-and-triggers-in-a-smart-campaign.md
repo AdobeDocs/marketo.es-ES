@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976776
 description: 'Uso de filtros y Déclencheur de formulario de generación de clientes potenciales de LinkedIn en una campaña inteligente: documentos de Marketo, documentación del producto'
-title: Uso de filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente
+title: Uso de filtros y activadores de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Uso de filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# Uso de filtros y activadores de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 Una vez que haya habilitado LinkedIn Lead Gen Forms, podrá utilizarlos como filtros y déclencheur en sus campañas inteligentes.
 

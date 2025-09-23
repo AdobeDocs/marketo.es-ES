@@ -4,10 +4,10 @@ description: Eliminar personas en una lista inteligente o lista - Documentos de 
 title: Eliminar personas de una lista inteligente o una lista
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

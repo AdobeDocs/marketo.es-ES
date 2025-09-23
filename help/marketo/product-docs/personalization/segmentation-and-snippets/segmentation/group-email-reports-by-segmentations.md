@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359488
 description: Agrupar informes de correo electrónico por segmentación - Documentos de Marketo - Documentación del producto
-title: Agrupar informes de correo electrónico por segmentos
+title: Agrupar informes de correo electrónico por segmentaciones
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Agrupar informes de correo electrónico por segmentos {#group-email-reports-by-segmentations}
+# Agrupar informes de correo electrónico por segmentaciones {#group-email-reports-by-segmentations}
 
 Las segmentaciones no son solo para contenido dinámico. También puede agrupar el informe de rendimiento del correo electrónico por segmentaciones.
 

@@ -1,16 +1,16 @@
 ---
 description: Concesión de acceso a usuarios - Documentos de Marketo - Documentación del producto
-title: Concesión de acceso a los usuarios
+title: Otorgar acceso a usuarios
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Concesión de acceso a los usuarios {#granting-access-to-users}
+# Otorgar acceso a usuarios {#granting-access-to-users}
 
 Siga los pasos de este artículo para otorgar a sus usuarios de [!DNL Sales Connect] acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en el canal en directo y acceso a Campañas de marketing.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360016
 description: 'Filtrado de personas en un informe con una lista inteligente: documentos de Marketo, documentación del producto'
-title: Filtrado de personas en un informe con una lista inteligente
+title: Filtrar personas en un informe con una lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 19%
+ht-degree: 37%
 
 ---
 
-# Filtrado de personas en un informe con una lista inteligente {#filter-people-in-a-report-with-a-smart-list}
+# Filtrar personas en un informe con una lista inteligente {#filter-people-in-a-report-with-a-smart-list}
 
 Utilice listas inteligentes para filtrar los informes por atributos de persona específicos.
 
@@ -27,7 +27,7 @@ Puede utilizar listas inteligentes con estos tipos de informes:
 * [Actividad de la compañía en la web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Actividad de la página web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

@@ -1,16 +1,16 @@
 ---
 description: Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur - Documentos de Marketo - Documentación del producto
-title: Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur
+title: Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage proporciona un control específico sobre la sincronización de objetos personalizados [!DNL Veeva]. Esto le permite seleccionar los campos disponibles como restricciones en los filtros de objeto personalizados y utilizarlos como déclencheur en campañas inteligentes.
 

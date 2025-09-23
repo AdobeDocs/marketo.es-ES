@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949194
 description: 'SEO: Agregar un sitio/Eliminar un sitio - Documentos de Marketo: documentación del producto'
-title: 'SEO: Agregar un sitio/Eliminar un sitio'
+title: 'SEO: añadir/eliminar un sitio'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# SEO: Agregar un sitio/Eliminar un sitio {#seo-add-a-site-delete-a-site}
+# SEO: añadir/eliminar un sitio {#seo-add-a-site-delete-a-site}
 
 Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevantes para las páginas del sitio, debe definir la dirección URL del sitio aquí.
 

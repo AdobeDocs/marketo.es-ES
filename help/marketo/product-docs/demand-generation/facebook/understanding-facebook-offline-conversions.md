@@ -4,10 +4,10 @@ description: 'Explicación de las conversiones sin conexión de Facebook: docume
 title: Explicación de las conversiones sin conexión de Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

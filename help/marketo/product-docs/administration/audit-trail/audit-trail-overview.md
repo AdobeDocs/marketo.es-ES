@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377945
-description: Pista de auditoría&rbrack; Información general - Documentos de Marketo - Documentación del producto
-title: Resumen de pista de auditoría
+description: Pista de auditoría] Información general - Documentos de Marketo - Documentación del producto
+title: Información general de seguimiento de auditoría
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Resumen de pista de auditoría {#audit-trail-overview}
+# Información general de seguimiento de auditoría {#audit-trail-overview}
 
 La pista de auditoría le permite obtener un historial completo (seis meses) de los cambios realizados en la instancia de Marketo.
 

@@ -4,16 +4,16 @@ title: Añadir un paso de flujo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
 # Añadir un paso de flujo para SMS {#add-a-flow-step-for-sms}
 
-El Marketo Engage tiene tres pasos de flujo que puede utilizar en sus campañas inteligentes de SMS:
+Marketo Engage tiene tres pasos de flujo que puede utilizar en sus campañas inteligentes de SMS:
 
 <table>
 <tbody>

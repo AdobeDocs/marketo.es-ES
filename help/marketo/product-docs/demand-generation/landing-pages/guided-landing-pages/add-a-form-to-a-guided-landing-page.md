@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515107
 description: 'Adición de un formulario a una página de aterrizaje guiada: documentos de Marketo, documentación del producto'
-title: Agregar un formulario a una página de aterrizaje guiada
+title: Añadir un formulario a una página de destino guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Agregar un formulario a una página de aterrizaje guiada {#add-a-form-to-a-guided-landing-page}
+# Añadir un formulario a una página de destino guiada {#add-a-form-to-a-guided-landing-page}
 
 Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión.
 
@@ -19,7 +19,7 @@ Formulario, página de aterrizaje. Página de aterrizaje, formulario de reunión
 >
 >[Crear una página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one.png)
 

@@ -3,24 +3,24 @@ description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 8%
+ht-degree: 23%
 
 ---
 
 # Notas de la versión: octubre de 2022 {#release-notes-oct-22}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2022. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de octubre de 2022. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **14 de octubre de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 14 de octubre de 2022**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
 
 ### Entorno de datos de marketing {#marketing-data-environment}
 
@@ -60,8 +60,8 @@ Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenz
 
 * **Screens actualizado en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
 
-   * Detalles de plantilla de página de aterrizaje
-   * Lista de plantillas de correo electrónico
+   * Detalles de plantilla de la página de destino
+   * Lista de plantilla del correo electrónico
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenz
   </tr>
   <tr>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Conmutador de conmutación</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Conmutador de alternancia</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,7 +84,7 @@ Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenz
   </tr>
   <tr>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   </tbody>
 </table>
@@ -98,7 +98,7 @@ Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenz
   </tr>
   <tr>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   </tbody>
 </table>
@@ -136,7 +136,7 @@ Las siguientes funciones caen dentro del ciclo de lanzamiento estándar y comenz
   </tr>
   <tr>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integración del Dynamic Chat</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integración de Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
@@ -182,7 +182,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   </tbody>
 </table>

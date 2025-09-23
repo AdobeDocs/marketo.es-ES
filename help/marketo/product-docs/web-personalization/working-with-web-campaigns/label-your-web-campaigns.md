@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: 'Etiquetado De Campañas Web: Documentos De Marketo: Documentación Del Producto'
-title: Etiquetado de campañas web
+title: Etiquetar las campañas web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Etiquetado de campañas web {#label-your-web-campaigns}
+# Etiquetar las campañas web {#label-your-web-campaigns}
 
 ¿Tiene tantas campañas que el desplazamiento se está volviendo engorroso? Utilice etiquetas para etiquetar sus campañas, de modo que pueda ordenarlas y encontrarlas rápidamente.
 

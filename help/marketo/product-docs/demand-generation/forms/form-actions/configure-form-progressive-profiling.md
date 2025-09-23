@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359646
 description: Configuración del perfil progresivo de formularios - Documentos de Marketo - Documentación del producto
-title: Configurar perfil progresivo de formulario
+title: Configurar una creación de perfiles progresiva del formulario
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '333'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurar perfil progresivo de formulario {#configure-form-progressive-profiling}
+# Configurar una creación de perfiles progresiva del formulario {#configure-form-progressive-profiling}
 
-¡Las formas cortas son buenas! Cuando alguien vuelve a un formulario, puede presentar nuevos campos y rellenar progresivamente el perfil del visitante. Así es como.
+¡Las formas cortas son buenas! Cuando alguien vuelve a un formulario, puede presentar nuevos campos y rellenar progresivamente el perfil del visitante. Así es cómo se hace.
 
 >[!NOTE]
 >

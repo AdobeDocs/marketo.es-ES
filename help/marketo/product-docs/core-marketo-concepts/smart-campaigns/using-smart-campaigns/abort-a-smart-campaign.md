@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147053
 description: 'Anulación de una campaña inteligente: documentos de Marketo, documentación del producto'
-title: Anulación de una campaña inteligente
+title: Anulación de la campaña inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Anulación de una campaña inteligente {#abort-a-smart-campaign}
+# Anulación de la campaña inteligente {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >

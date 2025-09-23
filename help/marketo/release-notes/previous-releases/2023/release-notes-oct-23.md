@@ -3,24 +3,24 @@ description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: d
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '337'
-ht-degree: 3%
+ht-degree: 29%
 
 ---
 
 # Notas de la versión: octubre de 2023 {#release-notes-oct-23}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2023. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de octubre de 2023. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **6 de octubre de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 06 de octubre de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Nuevo diseño para la configuración de informes en la experiencia de usuario moderna</strong>: al configurar un recurso de informe, tendrá un <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nuevo árbol de recursos</a> en el menú de configuración, así como la capacidad de filtrar por fecha de creación y modificación.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
    <tr>
    <td> </td>
@@ -55,7 +55,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Descargar grabación y asignar co-host en seminarios web interactivos</strong>: ahora puede agregar un co-host externo para su seminario web en caso de que el host original no esté disponible. Ahora también puede descargar la grabación del seminario web.</td>
    <td>Enviado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Descargar grabación</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Crear un seminario web interactivo</a></li></td>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Creación de un seminario web interactivo</a></li></td>
   </tr>
  </tbody>
 </table>

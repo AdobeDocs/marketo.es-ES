@@ -4,16 +4,16 @@ description: 'Campeón/Challenger: Definir criterios de campeón, documentación
 title: 'Campeón/Challenger: Definir criterios de campeón'
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Campeón/Challenger: Definir criterios de campeón {#champion-challenger-define-champion-criteria}
+# Campeón/Aspirante: definir criterios de campeón {#champion-challenger-define-champion-criteria}
 
-Una vez configurado el tipo de prueba, debe definir los criterios de campeón. Así es como.
+Una vez configurado el tipo de prueba, debe definir los criterios de campeón. Así es cómo se hace.
 
 >[!PREREQUISITES]
 >

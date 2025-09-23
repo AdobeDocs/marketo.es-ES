@@ -1,16 +1,16 @@
 ---
 description: Adición o eliminación de un administrador de productos - Documentos de Marketo - Documentación del producto
-title: Agregar o quitar un administrador de productos
+title: Añadir o quitar un administrador de productos
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Agregar o quitar un administrador de productos {#add-or-remove-a-product-admin}
+# Añadir o quitar un administrador de productos {#add-or-remove-a-product-admin}
 
 >[!NOTE]
 >
@@ -62,11 +62,11 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-El usuario recibirá dos correos electrónicos. El primer correo electrónico les notifica que se les han concedido derechos de administrador de productos al Marketo Engage. El segundo correo electrónico les invita a iniciar sesión en el Marketo Engage.
+El usuario recibirá dos correos electrónicos. El primer correo electrónico les notifica que se les han concedido derechos de administrador de productos a Marketo Engage. El segundo correo electrónico les invita a iniciar sesión en Marketo Engage.
 
 >[!NOTE]
 >
->Cuando se añade el usuario administrador de productos al Marketo Engage mediante Adobe Admin Console, se otorga al usuario la función Administrador de productos de Adobe dentro de la suscripción.
+>Cuando se agrega el usuario administrador de productos a Marketo Engage mediante Adobe Admin Console, se otorga al usuario la función Administrador de productos de Adobe dentro de la suscripción.
 
 ## Eliminar un administrador {#remove-a-user}
 
@@ -94,4 +94,4 @@ El usuario recibirá dos correos electrónicos. El primer correo electrónico le
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-El usuario recibe un correo electrónico que le notifica que ya no tiene acceso de administrador de productos a Marketo Engage.
+El usuario recibirá un correo electrónico que le notificará que ya no tiene acceso de administrador de productos a Marketo Engage.

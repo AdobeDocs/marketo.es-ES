@@ -3,7 +3,7 @@ description: 'Información de API de exportación masiva: documentos de Marketo,
 title: Información sobre la API de exportación masiva
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 8%
@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace; ha usado su instancia de Marketo Engage durante los últimos siete días.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
+Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1} ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace;
 
 >[!NOTE]
 >
->La asignación de la instancia de Marketo Engage se restablece diariamente a las 12:00 (CST).
+>La asignación de la instancia de Marketo Engage se restablece diariamente a las 12:00 a.m. CST.

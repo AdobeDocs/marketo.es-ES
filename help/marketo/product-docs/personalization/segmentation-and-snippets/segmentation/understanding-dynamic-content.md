@@ -4,10 +4,10 @@ description: 'Explicación del contenido dinámico: Documentos de Marketo, docum
 title: Explicación del contenido dinámico
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -46,7 +46,7 @@ Una vez creados distintos segmentos, puede añadir bloques de contenido dinámic
 >**Ejemplo**
 >
 >* Puede utilizar un fragmento de código como firma en un mensaje de correo electrónico. Cambiar texto de forma dinámica en función de la ubicación del destinatario.
->* En las páginas de aterrizaje, tenga un área de llamada a acción estándar con diferentes vínculos para clientes o clientes potenciales. Actualice cientos de programas de aprendizaje centralmente.
+>* En las páginas de aterrizaje, tenga un área de call-to-action estándar con diferentes vínculos para clientes o clientes potenciales. Actualice cientos de programas de aprendizaje centralmente.
 
 Pruébelo y cuéntenos su historia de éxito.
 

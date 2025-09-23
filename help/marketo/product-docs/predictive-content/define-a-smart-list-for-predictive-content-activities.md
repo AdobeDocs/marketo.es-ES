@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097873
 description: Definición de una lista inteligente para actividades de contenido predictivo - Documentos de Marketo - Documentación del producto
-title: Definir una lista inteligente para actividades de contenido predictivo
+title: Definición de una lista inteligente para actividades de contenido predictivo
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definir una lista inteligente para actividades de contenido predictivo {#define-a-smart-list-for-predictive-content-activities}
+# Definición de una lista inteligente para actividades de contenido predictivo {#define-a-smart-list-for-predictive-content-activities}
 
 Puede utilizar actividades de contenido predictivo en déclencheur y filtros al definir una lista inteligente en una campaña inteligente. Puede almacenar en déclencheur una acción para cualquiera que haga clic en contenido predictivo a través de [Rich Media template](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [Content Recommendations Bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un [correo electrónico](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 

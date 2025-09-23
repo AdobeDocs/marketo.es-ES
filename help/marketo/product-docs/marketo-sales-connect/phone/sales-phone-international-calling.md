@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352434
 description: Llamadas internacionales de teléfono de ventas - Documentos de Marketo - Documentación del producto
-title: Llamadas internacionales de teléfono de ventas
+title: Llamadas internacionales del teléfono de ventas
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
-# Llamadas internacionales de teléfono de ventas {#sales-phone-international-calling}
+# Llamadas internacionales del teléfono de ventas {#sales-phone-international-calling}
 
 Sales Phone te facilita la comunicación internacional. Para los clientes que llaman desde Estados Unidos, el teléfono de ventas se puede usar para llamadas salientes a países internacionales. Para clientes fuera de Estados Unidos, admitimos llamadas desde países internacionales.
 

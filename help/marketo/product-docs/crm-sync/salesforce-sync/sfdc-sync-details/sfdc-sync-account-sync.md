@@ -4,14 +4,14 @@ description: 'Sincronización de SFDC: sincronización de cuentas, documentos de
 title: 'Sincronización de SFDC: sincronización de cuenta'
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Sincronización de SFDC: sincronización de cuenta {#sfdc-sync-account-sync}
+# Sincronización de SFDC: sincronización de cuentas {#sfdc-sync-account-sync}
 
 Marketo también sincroniza la información de su cuenta con [!DNL Salesforce]. ¡Aquí hay algunas cosas específicas que debe saber!
 

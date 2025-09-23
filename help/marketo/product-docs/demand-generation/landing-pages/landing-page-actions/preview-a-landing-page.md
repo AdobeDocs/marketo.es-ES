@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: 'Previsualización de una página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Previsualización de una página de aterrizaje
+title: Previsualización de la página de destino
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Previsualización de una página de aterrizaje {#preview-a-landing-page}
+# Previsualización de la página de destino {#preview-a-landing-page}
 
 Probablemente quiera ver el aspecto de la página de aterrizaje antes de publicarla.
 
-## Previsualización de una página de aterrizaje {#preview-a-landing-page-1}
+## Previsualización de la página de destino {#preview-a-landing-page-1}
 
 1. Seleccione una página de aterrizaje y haga clic en **[!UICONTROL Previsualizar página]**.
 

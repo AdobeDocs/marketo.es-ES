@@ -4,10 +4,10 @@ description: 'Acciones de campaña: clonar una campaña inteligente: documentos 
 title: 'Acciones de campaña: clonar una campaña inteligente'
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

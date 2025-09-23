@@ -4,7 +4,7 @@ description: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI - Doc
 title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
 <table>
  <tbody>
   <tr>
-   <th>Fecha de lanzamiento</th>
+   <th>Fecha de la versión</th>
    <th>Versión</th>
    <th>Notas</th>
   </tr>

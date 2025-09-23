@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356329
 description: 'Información general de búsqueda avanzada: documentos de Marketo, documentación del producto'
-title: Información general de búsqueda avanzada
+title: Información general sobre la búsqueda avanzada
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Información general de búsqueda avanzada {#advanced-search-overview}
+# Información general sobre la búsqueda avanzada {#advanced-search-overview}
 
 Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han visto, hecho clic o respondido a correos electrónicos, puede crear una lista segmentada de los posibles clientes más comprometidos.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097969
 description: 'Creación de una plantilla de página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
-title: Creación de una plantilla de página de aterrizaje de forma libre
+title: Creación de una plantilla de la página de destino de forma libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Creación de una plantilla de página de aterrizaje de forma libre {#create-a-free-form-landing-page-template}
+# Creación de una plantilla de la página de destino de forma libre {#create-a-free-form-landing-page-template}
 
 Las páginas de aterrizaje de forma libre requieren menos conocimientos técnicos que sus homólogas guiadas. Para crear una plantilla para futuras páginas de aterrizaje, siga los pasos a continuación.
 

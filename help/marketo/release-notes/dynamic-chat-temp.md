@@ -1,28 +1,28 @@
 ---
-description: 'Notas de la versión actuales, documentos de Marketo: documentación del producto'
+description: 'Notas de la versión de Dynamic Chat, documentos de Marketo: documentación del producto'
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '924'
-ht-degree: 3%
+ht-degree: 68%
 
 ---
 
 # Notas de la versión de Dynamic Chat {#dynamic-chat-release}
 
-Las versiones de Adobe Dynamic Chat funcionan con un modelo de entrega continua que permite un enfoque más escalable de la implementación de funcionalidades. A veces hay varias versiones en un mes, por lo que vuelva a consultar regularmente la información más actualizada.
+Las versiones de Adobe Dynamic Chat funcionan bajo un modelo de entrega continua que permite un enfoque más gradual para la implementación de funciones. En ocasiones, hay varias versiones en un solo mes, por lo que debe consultar regularmente la información más actualizada.
 
-La página de notas de la versión estándar de Marketo Engage [ se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
+La página de notas de la versión estándar de Marketo Engage [se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
 
 ## Lanzamiento de junio de 2025 {#june-2025-release}
 
-### Renovación de lógica de enrutamiento {#routing-logic-revamp}
+### Rediseño de la lógica de enrutamiento {#routing-logic-revamp}
 
-Hemos rediseñado la lógica de enrutamiento de chat en vivo en Dynamic Chat para garantizar un comportamiento de participación más inteligente y predecible en todos los tipos de enrutamiento (cuenta, personalizado, equipo y Round Robin). La nueva lógica simplifica los flujos de enrutamiento y mejora la gestión de reserva cuando los agentes no están disponibles.
+Hemos rediseñado la lógica de enrutamiento de chat en directo en Dynamic Chat para garantizar un comportamiento de participación más inteligente y predecible en todos los tipos de enrutamiento (cuenta, personalizado, equipo y Round Robin). La nueva lógica simplifica los flujos de enrutamiento y mejora la gestión de reserva cuando los agentes no están disponibles.
 
 #### Mejoras clave en el comportamiento del enrutamiento
 
@@ -32,28 +32,28 @@ Hemos rediseñado la lógica de enrutamiento de chat en vivo en Dynamic Chat par
 
    * Si un agente está disponible pero no responde (por ejemplo, rechaza o pierde el chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
 
-   * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de un compromiso fallido.
+   * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de una participación fallida.
 
-* **Comportamiento específico de regla de enrutamiento**
+* **Comportamiento específico de la regla de enrutamiento**
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 Si el dominio de correo electrónico de un visitante se asigna a una cuenta conocida, siempre se da prioridad al agente asignado.
 
 Si el agente está disponible, el chat se dirige a ellos directamente.
 
-Si el agente no está disponible, el sistema:
+Si el agente no está disponible, el sistema hace lo siguiente:
 
-* No intenta otro agente, incluso si Round Robin está habilitado como alternativa.
+* No lo intenta con otro agente, incluso si el mecanismo Round Robin está habilitado como reserva.
 
 En su lugar:
 
 * Muestra el calendario de reuniones del agente asignado (si está activado) o:
-* Vuelve a un mensaje predeterminado (el peor caso).
+* Vuelve a un mensaje predeterminado (en el peor de los casos).
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, Equipo o Personalizado) solo se tiene en cuenta si el enrutamiento de cuentas no es elegible (no hay dominio o agente coincidente).
 
-_&#x200B;**Enrutamiento personalizado/de equipo**&#x200B;_
+_**Enrutamiento personalizado/de equipo**_
 
 Estas reglas pueden devolver varios agentes aptos.
 
@@ -61,29 +61,29 @@ Si el primer agente disponible no interactúa, el sistema intenta utilizar otro 
 
 La reserva de Round Robin no se activa solo porque un agente no responda.
 
-Si ninguno de los agentes interactúa:
+Si ninguno de los agentes participa, ocurre lo siguiente:
 
 * El sistema muestra el calendario del primer agente probado (si está activado).
--o-
+o
 * Muestra el mensaje de reserva predeterminado.
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
-Cuando se utiliza como regla de enrutamiento principal, el sistema:
+Cuando se utiliza como regla de enrutamiento principal, el sistema hace lo siguiente:
 
-* Intenta atraer al primer agente disponible del grupo round robin.
+* Intenta hacer participar el primer agente disponible del grupo Round Robin.
 
 * Si el primer agente no responde, vuelve a intentarlo con el siguiente mejor agente apto.
 
-Si se utiliza el Round Robin como alternativa, solo se activa si no se resuelve ningún agente a partir de la regla principal.
+Si se utiliza el Round Robin como reserva, solo se activa si no se resuelve ningún agente a partir de la regla principal.
 
-_&#x200B;**Flujo de experiencia del visitante**&#x200B;_
+_**Flujo de experiencia del visitante**_
 
 El sistema comprueba si se aplica el enrutamiento de cuentas.
 
-* Si sí y el agente está disponible, se conecta inmediatamente.
+* Si es el caso y el agente está disponible, se conecta inmediatamente.
 
-* Si el agente no cumple los requisitos o no está disponible, continúa con la regla de enrutamiento a nivel de tarjeta.
+* Si el agente no es apto o no está disponible, continúa con la regla de enrutamiento a nivel de tarjeta.
 
 Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Equipo, Round Robin).
 
@@ -93,15 +93,15 @@ Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Eq
 
 * Si ninguna participación tiene éxito, se aplica la lógica de reserva:
 
-   * reserva de calendario (si está activada),
--o-
+   * Reserva de calendario (si está activada),
+o
    * Mensaje predeterminado.
 
-La reserva de Round Robin solo se considera cuando no se encuentran agentes aptos de la regla de enrutamiento principal, no cuando los agentes individuales no responden.
+La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
 
 ##### Casos de uso {#use-cases}
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -116,8 +116,8 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
     <td>El chat se conecta directamente al agente asignado</td>
   </tr>
   <tr>
-    <td>Alternativa (Round Robin)</td>
-    <td>El agente asignado no está disponible, la opción de reserva de Round Robin está activada</td>
+    <td>Reserva (Round Robin)</td>
+    <td>El agente asignado no está disponible, la reserva de Round Robin está habilitada</td>
     <td>El sistema selecciona un agente disponible mediante Round Robin y lo activa </td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -142,7 +142,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
     <td>El chat se conecta al primer agente.</td>
   </tr>
   <tr>
-    <td>Alternativa (Round Robin)</td>
+    <td>Reserva (Round Robin)</td>
     <td>La regla personalizada no resuelve ningún agente. La opción de reserva de Round Robin está activada.</td>
     <td>El sistema selecciona un agente disponible mediante Round Robin y lo involucra.</td>
   </tr>
@@ -153,7 +153,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -164,22 +164,22 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>El equipo incluye agentes con chat en vivo; el primer agente disponible acepta el chat.</td>
+    <td>El equipo incluye agentes en el chat en directo; el primer agente disponible acepta el chat.</td>
     <td>El chat se conecta a ese agente.</td>
   </tr>
   <tr>
-    <td>Alternativa (Round Robin)</td>
-    <td>No hay ningún agente de equipo disponible y la opción de reserva de Round Robin está activada.</td>
+    <td>Reserva (Round Robin)</td>
+    <td>No hay ningún agente de equipo disponible y la reserva de Round Robin está habilitada.</td>
     <td>El sistema selecciona y se conecta con un agente del grupo Round Robin.</td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>
-    <td>Hay dos agentes disponibles, pero ninguno de los dos interactúa; reserva de calendario habilitada.</td>
+    <td>Hay dos agentes disponibles, pero ninguno de los dos participa; la reserva de calendario está habilitada.</td>
     <td>En primer lugar, se muestra el calendario del agente o se activa un mensaje de reserva.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
@@ -194,20 +194,20 @@ _&#x200B;**Enrutamiento Round Robin**&#x200B;_
     <td>El chat se conecta a un segundo agente.</td>
   </tr>
   <tr>
-    <td>Alternativa (Round Robin)</td>
+    <td>Reserva (Round Robin)</td>
     <td>No hay agentes disponibles en el grupo Round Robin; el calendario de reuniones está habilitado.</td>
     <td>Se muestra el calendario para el primer agente de la lista (si está configurado) o se muestra el mensaje de reserva.</td>
   </tr>
   <tr>
     <td>No hay agente de reserva</td>
-    <td>No hay agentes disponibles; la reserva está desactivada.</td>
+    <td>No hay agentes disponibles; la reserva está deshabilitada.</td>
     <td>Se muestra un mensaje de reserva estático al visitante.</td>
   </tr>
 </tbody></table>
 
-### Notificación de impulso {#pulse-notification}
+### Notificación de pulso {#pulse-notification}
 
-Cada vez que un visitante solicita conectarse con un agente, le proporcionamos una notificación interna de la aplicación y del explorador. Pero a veces, los agentes se pierden estas charlas.
+Cada vez que un visitante solicita conectarse con un agente, le proporcionamos una notificación interna de la aplicación y del explorador. Pero a veces, los agentes se pierden estos chats.
 
 Con esta versión, el agente activo puede recibir un correo electrónico, Slack, en la aplicación y una notificación del explorador cuando un visitante nuevo está interesado en chatear.
 
@@ -221,4 +221,4 @@ Con esta versión, el agente activo puede recibir un correo electrónico, Slack,
 
 >[!NOTE]
 >
->El contenido de una notificación Pulse puede ser el mismo que el que utilizamos para las notificaciones en la aplicación y en el explorador.
+>El contenido de una notificación de pulso puede ser el mismo que el que utilizamos para las notificaciones en la aplicación y en el explorador.

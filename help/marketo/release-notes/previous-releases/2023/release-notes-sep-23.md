@@ -3,24 +3,24 @@ description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: d
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
 # Notas de la versión: septiembre de 2023 {#release-notes-sep-23}
 
-A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2023. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2023. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **8 de septiembre de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 08 de septiembre de 2023**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Biblioteca de referencia de Marketo</strong>: La Biblioteca de referencia de programas de Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Resumen de biblioteca de importación de programas</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Información general de la biblioteca de importación de programas</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,7 +42,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Utilizado por la columna de recuento para Design Studio Assets</strong>: La columna Utilizado por recuento para vistas de lista en Design Studio resalta el número de recursos que se están utilizando. Esto es aplicable a fragmentos de código, plantillas de correo electrónico, Forms y plantillas de página de aterrizaje.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
    <tr>
    <td> </td>
@@ -52,7 +52,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <tr>
    <td><strong>Utilizado por mejoras de ficha para Design Studio Assets</strong>: la ficha Utilizado por mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   <tr>
    <td><strong>Integración de Marketo y Workfront</strong>: para aquellos que tienen Marketo y Workfront, ahora puede usar las plantillas de Workfront Fusion para integrar los dos productos y desbloquear nuevos flujos de trabajo de automatización para optimizar la ejecución de campañas.</td>
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=es" target="_blank">Revisar y aprobar modelo</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Revisar y aprobar modelo</a></td>
   </tr>
  </tbody>
 </table>
@@ -169,7 +169,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
    <tr>
    <td><strong>Chat en vivo</strong>: Los visitantes del sitio web pueden chatear con los agentes de ventas en tiempo real para obtener respuestas a sus preguntas.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Información general de Live Chat</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Información general del chat en directo</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -209,7 +209,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
    <tr>
    <td><strong>Nuevas actividades de Dynamic Chat</strong>: nuevas actividades para admitir flujos de conversación, Live Chat y otras nuevas características.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Actividades de chat dinámicas</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Actividades de Dynamic Chat</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -249,7 +249,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
     <tr>
    <td><strong>Página de recursos de flujo de conversación</strong>: La página de recursos de Design Studio ahora enumera los flujos de conversación de Dynamic Chat. Vea qué flujos se pueden integrar en recursos de Marketo Engage y enlácelos directamente a su editor.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>

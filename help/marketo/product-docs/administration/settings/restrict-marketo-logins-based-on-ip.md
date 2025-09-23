@@ -4,16 +4,16 @@ description: 'Restringir los inicios de sesión de Marketo basados en IP: docume
 title: Restringir inicios de sesión de Marketo según la dirección IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Restringir inicios de sesión de Marketo según la dirección IP {#restrict-marketo-logins-based-on-ip}
 
-Puede restringir o permitir que los usuarios accedan a Marketo en función de sus direcciones IP. Así es como.
+Puede restringir o permitir que los usuarios accedan a Marketo en función de sus direcciones IP. Así es cómo se hace.
 
 >[!NOTE]
 >

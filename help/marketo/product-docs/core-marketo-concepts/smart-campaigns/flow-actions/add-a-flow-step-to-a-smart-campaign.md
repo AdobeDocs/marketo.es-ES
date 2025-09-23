@@ -4,10 +4,10 @@ description: 'Adición de un paso de flujo a una campaña inteligente: documento
 title: Adición de un paso de flujo a una campaña inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

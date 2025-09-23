@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953144
 description: Información general avanzada sobre informes de programas - Documentos de Marketo - Documentación del producto
-title: Información general sobre informes de programas avanzados
+title: Información general sobre el sistema de informes avanzado de programas
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Información general sobre informes de programas avanzados {#advanced-program-reporting-overview}
+# Información general sobre el sistema de informes avanzado de programas {#advanced-program-reporting-overview}
 
 **Explorador del ciclo de ingresos** incluye varias áreas de análisis y una amplia gama de nuevas métricas que le permiten medir la efectividad del programa.
 

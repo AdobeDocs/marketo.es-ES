@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2952292
 description: 'Explicación de las notificaciones: documentos de Marketo, documentación del producto'
-title: Explicación de notificaciones
+title: Explicación de las notificaciones
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Explicación de notificaciones {#understanding-notifications}
+# Explicación de las notificaciones {#understanding-notifications}
 
 Las notificaciones le mantienen informado sobre los eventos del sistema que se producen en su suscripción a Marketo. Por ejemplo, las notificaciones de errores de Campaign le informan sobre los errores de sus campañas inteligentes y las notificaciones de sincronización CRM le avisan sobre los problemas críticos que se encuentran con la sincronización CRM, como los permisos incorrectos o la sincronización desactivada.
 
@@ -40,7 +40,7 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 >
 >El área **[!UICONTROL enviar a]** es solo para que usted ingrese su correo electrónico, no mostrará una lista de suscriptores existentes.
 
-En algunos casos, una notificación proporciona un vínculo &quot;Ver la lista completa&quot; para descargar un archivo de valores separados por comas (CSV), por ejemplo, el archivo de errores de sincronización de Microsoft Dynamics. Marketo conserva estos archivos CSV durante 30 días. Si intenta descargar el archivo después de 30 días, se producirá un error 404.
+En algunos casos, una notificación proporciona el vínculo &quot;Ver la lista completa&quot; para descargar un archivo de valores separados por comas (CSV), por ejemplo, el archivo de errores de sincronización de Microsoft Dynamics. Marketo conserva estos archivos CSV durante 30 días. Si intenta descargar el archivo después de 30 días, se producirá un error 404.
 
 >[!TIP]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355609
 description: Descubrimiento de nuevas cuentas - Documentos de Marketo - Documentación del producto
-title: Descubrimiento de nuevas cuentas
+title: Detección de nuevas cuentas
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Descubrimiento de nuevas cuentas {#new-account-discovery}
+# Detección de nuevas cuentas {#new-account-discovery}
 
 La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las que dirigirse mediante recomendaciones con tecnología de IA a partir de su perfil de cliente ideal.
 

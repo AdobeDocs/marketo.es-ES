@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359955
 description: Informe de rendimiento del flujo de participación - Documentos de Marketo - Documentación del producto
-title: Informe Rendimiento del flujo de participación
+title: Informe de rendimiento del flujo de participación
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Informe Rendimiento del flujo de participación {#engagement-stream-performance-report}
+# Informe de rendimiento del flujo de participación {#engagement-stream-performance-report}
 
 ¿Quiere saber el rendimiento de su contenido de participación? Pruebe el informe de rendimiento del flujo de participación.
 

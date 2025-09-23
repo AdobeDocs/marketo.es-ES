@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360188
 description: Informe de rendimiento del correo electrónico de Campaign - Documentos de Marketo - Documentación del producto
-title: Informe de rendimiento de correo electrónico de Campaign
+title: Informe de rendimiento de correos electrónicos de la campaña
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Informe de rendimiento de correo electrónico de Campaign {#campaign-email-performance-report}
+# Informe de rendimiento de correos electrónicos de la campaña {#campaign-email-performance-report}
 
 Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), ejecute un informe de rendimiento del correo electrónico de Campaign.
 

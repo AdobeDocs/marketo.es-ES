@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953038
 description: 'Clonación de un grupo de prueba de página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Clonación de un grupo de prueba de página de aterrizaje
+title: Clonación de un grupo de prueba de la página de destino
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Clonación de un grupo de prueba de página de aterrizaje {#cloning-a-landing-page-test-group}
+# Clonación de un grupo de prueba de la página de destino {#cloning-a-landing-page-test-group}
 
 Desde [!UICONTROL Design Studio], puede encontrar y duplicar un grupo de prueba de página de aterrizaje.
 

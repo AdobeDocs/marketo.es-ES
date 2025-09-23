@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095307
 description: Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico
+title: Reglas de filtro de sincronización personalizado para una dirección de correo electrónico
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico {#custom-sync-filter-rules-for-an-email-address}
+# Reglas de filtro de sincronización personalizado para una dirección de correo electrónico {#custom-sync-filter-rules-for-an-email-address}
 
 Para evitar la sincronización de registros que no tienen una dirección de correo electrónico, siga estas reglas.
 

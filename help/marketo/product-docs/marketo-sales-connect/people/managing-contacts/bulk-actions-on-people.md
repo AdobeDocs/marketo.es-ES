@@ -4,10 +4,10 @@ description: 'Acciones masivas en personas: documentos de Marketo, documentació
 title: Acciones masivas en personas
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 

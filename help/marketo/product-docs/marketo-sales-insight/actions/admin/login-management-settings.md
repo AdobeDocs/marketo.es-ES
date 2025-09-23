@@ -1,16 +1,16 @@
 ---
 description: Configuración de administración de inicio de sesión - Documentos de Marketo - Documentación del producto
-title: Configuración de administración de inicio de sesión
+title: Configurar administración de inicio de sesión
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Configuración de administración de inicio de sesión {#login-management-settings}
+# Configurar administración de inicio de sesión {#login-management-settings}
 
 La configuración de Gestión de inicios de sesión permite a los administradores definir las preferencias de autenticación para los usuarios de las acciones de Sales Insight a nivel global.
 

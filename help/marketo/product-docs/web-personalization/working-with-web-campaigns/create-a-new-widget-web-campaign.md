@@ -4,10 +4,10 @@ description: 'Creación de una nueva campaña web de widgets: documentos de Mark
 title: Creación de una nueva campaña web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -107,7 +107,7 @@ En la página [!UICONTROL Campañas web], haga clic en **[!UICONTROL Editar]** e
 >
 >Para facilitar la búsqueda de la campaña que desea, use la [característica de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Clonar una campaña web {#clone-a-web-campaign}
+## Clonación de una campaña web {#clone-a-web-campaign}
 
 Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 

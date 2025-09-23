@@ -2,16 +2,16 @@
 description: Editor de imágenes - Documentos de Marketo - Documentación del producto
 title: Editor de imágenes
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 7%
+ht-degree: 14%
 
 ---
 
 # Editor de imágenes {#image-editor}
 
-El editor de imágenes permite realizar ediciones rápidas y ligeras en las imágenes de Marketo Engage.
+El editor de imágenes permite realizar ediciones rápidas y ligeras en las imágenes en Marketo Engage.
 
 1. Vaya a **[!UICONTROL Design Studio]**.
 

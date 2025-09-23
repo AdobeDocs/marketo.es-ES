@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359930
 description: 'Archivar y desarchivar contenido de la emisión: documentos de Marketo, documentación del producto'
-title: Archivar y desarchivar contenido de la emisión
+title: Archivar y desarchivar contenido de flujo
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Archivar y desarchivar contenido de la emisión {#archive-and-unarchive-stream-content}
+# Archivar y desarchivar contenido de flujo {#archive-and-unarchive-stream-content}
 
 Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. A continuación se muestra cómo archivar contenido.
 

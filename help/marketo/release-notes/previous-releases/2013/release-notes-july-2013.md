@@ -4,10 +4,10 @@ description: 'Notas de la versión, julio de 2013, Documentos de Marketo: docume
 title: Notas de la versión, julio de 2013
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,6 +39,6 @@ Ver y ordenar la cuadrícula de miembros por la fecha en que se agregó el posib
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## Cambios en el corrector ortográfico en el editor WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
+## Cambios en el corrector ortográfico en el editor de WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
 
-El servicio utilizado por el editor WYSIWYG para la revisión ortográfica se suspendió. Hemos eliminado el botón de revisión ortográfica del editor hasta que encontremos un reemplazo.
+El servicio utilizado por el editor de WYSIWYG para la revisión ortográfica se ha suspendido. Hemos eliminado el botón de revisión ortográfica del editor hasta que encontremos un reemplazo.

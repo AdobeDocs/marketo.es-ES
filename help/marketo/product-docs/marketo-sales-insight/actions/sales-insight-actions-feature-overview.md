@@ -1,16 +1,16 @@
 ---
 description: Información general sobre la función Acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Resumen de la función Acciones de Insight de ventas
+title: Información general sobre la función de acciones de Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Resumen de la función Acciones de Insight de ventas {#msi-actions-feature-overview}
+# Información general sobre la función de acciones de Sales Insight {#msi-actions-feature-overview}
 
 Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un solo flujo de trabajo mediante las acciones de Insight de ventas.
 
@@ -18,7 +18,7 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 >
 >Marketo Sales Insight Actions es una aplicación basada en la Web que se integra exclusivamente con Salesforce CRM mediante el [paquete Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
-Para ver un vídeo introductorio de las acciones de Sales Insight, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=es){target="_blank"}.
+Para ver un vídeo introductorio de las acciones de Sales Insight, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -64,7 +64,7 @@ Los siguientes datos están disponibles en las pestañas del panel MSI:
    * Próximas campañas de ventas: cuando un posible cliente forma parte de una campaña en curso, esta información está disponible en la pestaña Próximas campañas de ventas
    * Próximas tareas: cuando se aproxima una tarea que pertenece a un posible cliente, esta información está disponible en la pestaña de próximas tareas
 
-* Pestaña Correo electrónico
+* Pestaña de correo electrónico
    * Todos los correos electrónicos de ventas enviados se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
    * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente, Fecha
    * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
@@ -101,7 +101,7 @@ Los siguientes datos están disponibles en las pestañas:
    * Próximas campañas de ventas: cuando un contacto de la cuenta/oportunidad forme parte de una campaña en curso, esta información estará disponible en la pestaña Próximas campañas de ventas
    * Próximas tareas: cuando haya una próxima tarea perteneciente a un contacto desde la cuenta o la oportunidad, esta información estará disponible en la pestaña de próximas tareas
 
-* Pestaña Correo electrónico
+* Pestaña de correo electrónico
    * Todos los correos electrónicos de ventas enviados a los contactos desde la cuenta/oportunidad se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
    * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente y Fecha
    * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico

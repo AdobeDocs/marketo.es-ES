@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147066
 description: 'Anulación de restricciones de persona en una campaña inteligente: documentos de Marketo, documentación del producto'
-title: Anulación de restricciones de persona en una campaña inteligente
+title: Anulación de restricciones de una persona en una campaña inteligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Anulación de restricciones de persona en una campaña inteligente {#override-person-restrictions-in-a-smart-campaign}
+# Anulación de restricciones de una persona en una campaña inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo Engage le permite establecer el número máximo de personas que pueden cumplir los requisitos para una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si desea _anular_ este límite, así es como debe hacerlo.
+Marketo Engage le permite establecer el número máximo de personas que pueden optar a una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si desea _anular_ este límite, así es como debe hacerlo.
 
 >[!PREREQUISITES]
 >

@@ -4,16 +4,16 @@ description: Plantilla 1E - Documentos de Marketo - Documentación del producto
 title: Plantilla 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Plantilla 1E {#template-1e}
 
-Haga clic con el botón derecho para [descargar la plantilla 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=es)
+[Plantilla 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

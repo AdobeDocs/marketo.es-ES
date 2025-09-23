@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099167
 description: Elija una acción en Sales Insight - Documentos de Marketo - Documentación del producto
-title: Elija una acción en Sales Insight
+title: Elegir una acción en Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

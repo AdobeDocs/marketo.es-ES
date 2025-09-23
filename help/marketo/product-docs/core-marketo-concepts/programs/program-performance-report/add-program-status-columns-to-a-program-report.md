@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147239
 description: Adición de columnas de estado de programa a un informe de programa - Documentos de Marketo - Documentación del producto
-title: Agregar columnas de estado de programa a un informe de programa
+title: Añadir columnas de estado del programa a un informe de programa
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Agregar columnas de estado de programa a un informe de programa {#add-program-status-columns-to-a-program-report}
+# Añadir columnas de estado del programa a un informe de programa {#add-program-status-columns-to-a-program-report}
 
 Agrega estadísticas sobre el estado del programa a tu [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
 

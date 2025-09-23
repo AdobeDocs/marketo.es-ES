@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719348
 description: 'Etiquetado Del Segmento: Documentos De Marketo: Documentación Del Producto'
-title: Etiquetar El Segmento
+title: Etiquetar el segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Etiquetar El Segmento {#label-your-segment}
+# Etiquetar el segmento {#label-your-segment}
 
 ¿Tiene tantos segmentos que el desplazamiento se está volviendo engorroso? Utilice etiquetas para etiquetar los segmentos de modo que pueda encontrarlos rápidamente.
 

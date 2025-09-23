@@ -1,16 +1,16 @@
 ---
 description: 'Migración de soporte de Marketo Engage: Documentos de Marketo: documentación del producto'
-title: Migración de soporte de Marketo Engage
+title: Migración de Asistencia de Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Migración de soporte de Marketo Engage {#marketo-engage-support-migration}
+# Migración de Asistencia de Marketo Engage {#marketo-engage-support-migration}
 
 Obtenga más información acerca de los próximos cambios en el proceso de soporte de Adobe Marketo Engage. Las actualizaciones están diseñadas para optimizar sus tareas administrativas y mejorar su experiencia general.
 
@@ -40,11 +40,11 @@ La migración de asistencia se producirá una vez completada la migración de us
 
 ## Recursos adicionales {#additional-resources}
 
-* Aprenda a usar [Adobe Admin Console para administrar sus derechos de Adobe](https://helpx.adobe.com/es/enterprise/using/admin-roles.html){target="_blank"} en toda la organización.
+* Aprenda a usar [Adobe Admin Console para administrar sus derechos de Adobe](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} en toda la organización.
 
 * Encontrará más información sobre cómo iniciar sesión en Marketo Engage con un Adobe ID [aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Más información sobre [Adobe Experience League](https://experienceleague.adobe.com/es?lang=es){target="_blank"}.
+* Más información sobre [Adobe Experience League](https://experienceleague.adobe.com/?lang=es){target="_blank"}.
 
 ## ¿Todavía tiene preguntas? {#still-have-questions}
 

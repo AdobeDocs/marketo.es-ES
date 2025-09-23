@@ -4,10 +4,10 @@ description: 'Adición de un programa a un flujo de programa de participación: 
 title: Adición de un programa a un flujo de programa de participación
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

@@ -4,10 +4,10 @@ description: 'Buscar y combinar personas duplicadas: documentos de Marketo, docu
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Marketo Engage anula la duplicación automáticamente cuando nuevas personas ent
 
 ## Buscar duplicados {#find-duplicates}
 
-1. Vaya al área de **[!UICONTROL Base de datos]**.
+1. Vaya al área **[!UICONTROL Base de datos]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

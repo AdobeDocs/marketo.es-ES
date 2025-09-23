@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: 'Editar la configuración de compatibilidad del explorador "No rastrear": documentos de Marketo, documentación del producto'
-title: Editar la configuración de compatibilidad con el explorador "No rastrear"
+title: Editar la configuración de compatibilidad con el explorador “No rastrear”
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Editar la configuración de compatibilidad con el explorador &quot;No rastrear&quot; {#edit-do-not-track-browser-support-settings}
+# Editar la configuración de compatibilidad con el explorador “No rastrear” {#edit-do-not-track-browser-support-settings}
 
 &quot;No rastrear&quot; es una solicitud del explorador para no rastrearse en sistemas como Marketo. Puede cumplir esa solicitud siguiendo estos pasos.
 

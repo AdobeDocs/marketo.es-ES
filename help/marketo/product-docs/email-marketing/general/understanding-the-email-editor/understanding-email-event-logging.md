@@ -4,10 +4,10 @@ description: Explicación del registro de eventos de correo electrónico - Docum
 title: Explicación del registro de eventos de correo electrónico
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

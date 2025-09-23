@@ -3,7 +3,7 @@ description: 'Paso 1 de 3: Instalación de la solución de Marketo con conexión
 title: 'Paso 1 de 3: Instalación de la solución de Marketo con conexión de servidor a servidor'
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%

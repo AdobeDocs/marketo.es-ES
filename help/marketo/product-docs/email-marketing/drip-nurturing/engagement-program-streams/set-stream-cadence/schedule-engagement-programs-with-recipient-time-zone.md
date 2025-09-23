@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: Programar programas de participación con la zona horaria del destinatario - Documentos de Marketo - Documentación del producto
-title: Programar programas de participación con la zona horaria del destinatario
+title: Planificar programas de participación con la zona horaria del destinatario
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Programar programas de participación con la zona horaria del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
+# Planificar programas de participación con la zona horaria del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
 Cuando se programa un flujo de programa de participación y la zona horaria del destinatario está activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en la primera zona horaria (UTC +14:00). Es necesario que programes el primer reparto **al menos 25 horas** en el futuro, ya que puede haber personas que califiquen para el reparto en todas las zonas horarias del mundo. Comenzar a procesar en este momento en el primer huso horario garantiza que entregaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
 

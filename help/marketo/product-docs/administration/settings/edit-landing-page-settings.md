@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359918
 description: 'Editar configuración de página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Editar configuración de página de aterrizaje
+title: Editar configuración de página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Editar configuración de página de aterrizaje {#edit-landing-page-settings}
+# Editar configuración de página de destino {#edit-landing-page-settings}
 
-Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar el rellenado previo del formulario, evitar el uso indebido de su página de aterrizaje y mucho más. Así es como.
+Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar el rellenado previo del formulario, evitar el uso indebido de su página de aterrizaje y mucho más. Así es cómo se hace.
 
 >[!NOTE]
 >

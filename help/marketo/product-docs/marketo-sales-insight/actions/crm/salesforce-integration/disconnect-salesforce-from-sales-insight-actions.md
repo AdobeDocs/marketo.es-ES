@@ -1,20 +1,20 @@
 ---
 description: Desconectar Salesforce de las acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Desconexión De Salesforce De Las Acciones De Insight De Ventas
+title: Desconectar Salesforce de las acciones de Sales Insight
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Desconectar [!DNL Salesforce] De [!DNL Sales Insight Actions] {#disconnect-salesforce-from-sales-insight-actions}
 
-En ocasiones, es posible que deba desconectar su cuenta de [!DNL Salesforce] de su cuenta de [!DNL Sales Insight Actions]. Así es como.
+En ocasiones, es posible que deba desconectar su cuenta de [!DNL Salesforce] de su cuenta de [!DNL Sales Insight Actions]. Así es cómo se hace.
 
 ## Cómo desconectarse de [!UICONTROL Salesforce] como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 

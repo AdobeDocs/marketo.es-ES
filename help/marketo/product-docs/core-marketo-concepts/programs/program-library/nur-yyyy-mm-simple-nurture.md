@@ -3,10 +3,10 @@ description: NUR-AAAA-MM-Simple Nurture - Documentos de Marketo - Documentación
 title: NUR-AAAA-MM-Nutrición simple
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 15%
+ht-degree: 19%
 
 ---
 

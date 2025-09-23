@@ -1,16 +1,16 @@
 ---
 description: Información general del centro de comandos - Documentos de Marketo - Documentación del producto
-title: Información general del centro de comandos
+title: Información general sobre el centro de comandos
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Información general del centro de comandos {#command-center-overview}
+# Información general sobre el centro de comandos {#command-center-overview}
 
 El [!UICONTROL Centro de comandos] es una sola vista unificada que te ayudará a decidir el siguiente paso, asegurándote de que no haya nada entre las grietas.
 
@@ -86,5 +86,5 @@ Ventaja: Si guarda la búsqueda avanzada, funcionará como una lista dinámica y
 >[!MORELIKETHIS]
 >
 >* Tareas
->* Información general de búsqueda avanzada
->* Redacción de correos electrónicos masivos con selección y envío
+>* Información general sobre la búsqueda avanzada
+>* Redactar correos electrónicos masivos con selección y envío

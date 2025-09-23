@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: 'Filtros y Déclencheur de oportunidad: documentos de Marketo, documentación del producto'
-title: Filtros y Déclencheur de oportunidad
+title: Filtros y activadores de oportunidad
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Filtros y Déclencheur de oportunidad {#opportunity-filters-and-triggers}
+# Filtros y activadores de oportunidad {#opportunity-filters-and-triggers}
 
 Los filtros y déclencheur de oportunidad permiten rastrear eventos de oportunidad de [!DNL Salesforce]. Son un poco diferentes en comparación con otros filtros y déclencheur.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: HTML Codifique tokens en correos electrónicos - Documentos de Marketo - Documentación del producto
-title: Tokens de codificación HTML en emails
+description: 'HTML codifica tokens en correos electrónicos: documentos de Marketo, documentación del producto'
+title: Tókenes de codificación HTML en correos electrónicos
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 10%
 
 ---
 
-# Tokens de codificación HTML en emails {#html-encode-tokens-in-emails}
+# Tókenes de codificación HTML en correos electrónicos {#html-encode-tokens-in-emails}
 
 Habilite/deshabilite los tokens de persona y compañía utilizados en los correos electrónicos.
 
@@ -21,7 +21,7 @@ Habilite/deshabilite los tokens de persona y compañía utilizados en los correo
 
 >[!NOTE]
 >
->La codificación convierte los caracteres en sus versiones de código de HTML para evitar confusiones cuando se transmiten (es decir, &quot;&amp;&quot; se cambia a `&amp;`). Para obtener más información, consulte con su desarrollador web.
+>La codificación convierte los caracteres en sus versiones de código HTML para evitar confusiones cuando se transmiten (por ejemplo, &quot;&amp;&quot; se cambia a `&amp;`). Para obtener más información, consulte con su desarrollador web.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ Habilite/deshabilite los tokens de persona y compañía utilizados en los correo
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. Marque la casilla **[!UICONTROL HTML codificar tokens en correos electrónicos]** para habilitarla y desmárquela para deshabilitarla.
+1. Marque la casilla **[!UICONTROL HTML Encode Tokens in Emails]** para habilitarla y desmárquela para deshabilitarla.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

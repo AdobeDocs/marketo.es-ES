@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147144
 description: 'Creación de un nuevo programa de correo electrónico en la vista de programación: documentos de Marketo, documentación del producto'
-title: Creación de un nuevo programa de correo electrónico en la vista de programación
+title: Creación de un nuevo programa de correo electrónico en la vista de Programación
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Creación de un nuevo programa de correo electrónico en la vista de programación {#creating-a-new-email-program-in-the-schedule-view}
+# Creación de un nuevo programa de correo electrónico en la vista de Programación {#creating-a-new-email-program-in-the-schedule-view}
 
-Puede crear un programa de correo electrónico desde la vista de programación del programa. Así es como.
+Puede crear un programa de correo electrónico desde la vista de programación del programa. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

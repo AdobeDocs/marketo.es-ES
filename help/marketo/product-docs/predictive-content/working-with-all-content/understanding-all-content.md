@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384645
 description: 'Explicación de todo el contenido: documentos de Marketo, documentación del producto'
-title: Explicación de todo el contenido
+title: Comprensión de todo el contenido
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Explicación de todo el contenido {#understanding-all-content}
+# Comprensión de todo el contenido {#understanding-all-content}
 
 La página Todo el contenido muestra todo el contenido que se ha detectado o añadido manualmente.
 

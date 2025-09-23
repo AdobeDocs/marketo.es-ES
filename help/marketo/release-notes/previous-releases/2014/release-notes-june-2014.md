@@ -4,10 +4,10 @@ description: 'Notas de la versión, junio de 2014, Documentos de Marketo: docume
 title: Notas de la versión, junio de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912237
 description: Información general del selector de plantillas de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Resumen del selector de plantillas de correo electrónico
+title: Información general del selector de plantillas de correo electrónico
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Resumen del selector de plantillas de correo electrónico {#email-template-picker-overview}
+# Información general del selector de plantillas de correo electrónico {#email-template-picker-overview}
 
 Cuando [crea un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas entre las que elegir. También puede crear su propia plantilla y guardarla para usarla en el futuro.
 

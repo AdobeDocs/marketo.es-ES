@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360293
 description: Cambiar el nombre de un campo - Documentos de Marketo - Documentación del producto
-title: Cambiar nombre de campo
+title: Cambiar el nombre del campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Cambiar nombre de campo {#rename-a-field}
+# Cambiar el nombre del campo {#rename-a-field}
 
 >[!NOTE]
 >

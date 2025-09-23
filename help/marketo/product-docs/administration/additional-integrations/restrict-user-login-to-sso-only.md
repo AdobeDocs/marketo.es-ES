@@ -4,10 +4,10 @@ description: 'Restringir el inicio de sesión del usuario solo a SSO: documentos
 title: Restringir el inicio de sesión del usuario a solo SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

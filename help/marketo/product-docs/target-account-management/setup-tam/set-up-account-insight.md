@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12979223
 description: 'Configuración de Insight de cuenta: documentos de Marketo, documentación del producto'
-title: Configuración de Account Insight
+title: Configurar los datos de la cuenta
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Configuración de Account Insight {#set-up-account-insight}
+# Configurar los datos de la cuenta {#set-up-account-insight}
 
 A continuación se indica cómo configurar Account Insight.
 

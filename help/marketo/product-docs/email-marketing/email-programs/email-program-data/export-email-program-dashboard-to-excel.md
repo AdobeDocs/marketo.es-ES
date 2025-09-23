@@ -4,16 +4,16 @@ description: 'Exportación del tablero del programa de correo electrónico a Exc
 title: Exportar panel del programa de correo electrónico a Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 # Exportar panel del programa de correo electrónico a Excel {#export-email-program-dashboard-to-excel}
 
-Una vez que haya ejecutado un programa de correo electrónico y tenga algunos datos en el panel, puede exportar esos datos sin procesar a Excel para un análisis más detallado. Así es como.
+Una vez que haya ejecutado un programa de correo electrónico y tenga algunos datos en el panel, puede exportar esos datos sin procesar a Excel para un análisis más detallado. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

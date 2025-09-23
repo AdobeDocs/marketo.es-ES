@@ -1,16 +1,16 @@
 ---
 description: Programa de seminarios web WBN-AAAA-MM-DD - Documentos de Marketo - Documentación del producto
-title: Programa de seminarios web sobre WBN-AAAA-MM-DD
+title: WBN-AAAA-MM-DD-Programa del seminario web
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '591'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Programa de seminarios web sobre WBN-AAAA-MM-DD {#wbn-yyyy-mm-dd-webinar-program}
+# WBN-AAAA-MM-DD-Programa del seminario web {#wbn-yyyy-mm-dd-webinar-program}
 
 Este es un ejemplo de programa de seminario web con administración de registro, tres correos electrónicos de invitación, recordatorio de asistencia y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 
@@ -87,7 +87,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
   </tr>
   <tr>
   <tr>
-   <td>Form</td>
+   <td>Formulario</td>
    <td> </td>
    <td>Registro de eventos FM</td>
   </tr>

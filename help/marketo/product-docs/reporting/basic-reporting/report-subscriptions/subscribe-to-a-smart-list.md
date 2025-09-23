@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7505310
 description: 'Suscripción a una lista inteligente: documentos de Marketo, documentación del producto'
-title: Suscripción a una lista inteligente
+title: Suscribirse a una lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Suscripción a una lista inteligente {#subscribe-to-a-smart-list}
+# Suscribirse a una lista inteligente {#subscribe-to-a-smart-list}
 
 La suscripción a listas inteligentes es una buena manera de realizar un seguimiento de las personas, ya que los informes se envían directamente a la bandeja de entrada.
 

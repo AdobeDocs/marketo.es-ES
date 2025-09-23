@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: 'Habilitar contenido predictivo para medios enriquecidos en web: documentos de Marketo, documentación del producto'
-title: Habilitar contenido predictivo para medios enriquecidos en web
+title: Habilitar el contenido predictivo para medios enriquecidos web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Habilitar contenido predictivo para medios enriquecidos en web {#enable-predictive-content-for-web-rich-media}
+# Habilitar el contenido predictivo para medios enriquecidos web {#enable-predictive-content-for-web-rich-media}
 
 El contenido predictivo atrae a los visitantes web con el contenido más relevante, impulsado por el aprendizaje automático y el análisis predictivo. Con Web Rich Media, puede mejorar su contenido con descripciones de texto e imágenes e incrustar varias recomendaciones de contenido predictivo en su sitio web.
 
@@ -47,7 +47,7 @@ Una vez que haya preparado el título, la descripción y la imagen del contenido
 
 ## Personalice el código JavaScript e incrústelo en su sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web, en la ubicación donde desee que aparezca la plantilla.
 

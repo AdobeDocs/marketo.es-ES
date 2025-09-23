@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352516
 description: 'Creación y eliminación de contactos: documentos de Marketo, documentación del producto'
-title: Creación y eliminación de contactos
+title: Crear y eliminar contactos
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Creación y eliminación de contactos {#creating-and-deleting-contacts}
+# Crear y eliminar contactos {#creating-and-deleting-contacts}
 
 ## Creación de contactos {#creating-contacts}
 

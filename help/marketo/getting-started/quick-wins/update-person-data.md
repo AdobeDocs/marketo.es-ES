@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359426
 description: 'Actualización de datos de persona: documentos de Marketo, documentación del producto'
-title: Actualizar datos de persona
+title: Actualizar los datos de la persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Actualizar datos de persona {#update-person-data}
+# Actualizar los datos de la persona {#update-person-data}
 
 ## Misión: Actualizar la información de contacto de una persona u otros datos {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Imaginemos que en su reciente feria comercial, una persona le dio información de contacto adicional. A continuación, se indica cómo actualizar los datos de persona.
@@ -60,7 +60,7 @@ Imaginemos que en su reciente feria comercial, una persona le dio información d
 >
 >Una vez que cambie los datos, las listas inteligentes y las campañas inteligentes reconocerán la nueva información inmediatamente.
 
-## Misión finalizada {#mission-complete}
+## Misión completada {#mission-complete}
 
 ¡Buen trabajo! Ha actualizado los datos de su persona.
 

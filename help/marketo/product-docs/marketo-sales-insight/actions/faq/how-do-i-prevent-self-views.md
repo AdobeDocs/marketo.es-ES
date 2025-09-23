@@ -3,14 +3,14 @@ description: ¿Cómo evito las visualizaciones automáticas? - Documentos de Mar
 title: ¿Cómo evito las vistas automáticas?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# ¿Cómo evito las auto-visualizaciones? {#how-do-i-prevent-self-views}
+# ¿Cómo evito las autovisualizaciones? {#how-do-i-prevent-self-views}
 
 Obtener falsos positivos en el seguimiento de vistas puede provocar incoherencias en los informes. Esto suele ocurrir cuando los usuarios de [!DNL Marketo Sales] invocan accidentalmente el píxel de seguimiento desde su cliente de correo electrónico (lo llamamos vista propia). A continuación se ofrecen algunas sugerencias para reducir significativamente e incluso eliminar las visualizaciones automáticas.
 

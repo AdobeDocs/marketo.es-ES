@@ -1,16 +1,16 @@
 ---
 description: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo - Documentos de Marketo - Documentación del producto
-title: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo
+title: CT-AAAA-MM-Contenido en la página de destino de Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo {#ct-yyyy-mm-content-on-marketo-landing-page}
+# CT-AAAA-MM-Contenido en la página de destino de Marketo {#ct-yyyy-mm-content-on-marketo-landing-page}
 
 Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
@@ -61,7 +61,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>02 - LP - Gracias</td>
   </tr>
   <tr>
-   <td>Form</td>
+   <td>Formulario</td>
    <td> </td>
    <td>FM - Formulario de registro de contenido</td>
   </tr>

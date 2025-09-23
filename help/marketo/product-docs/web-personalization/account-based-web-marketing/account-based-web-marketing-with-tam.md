@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11381689
 description: 'Marketing web basado en cuentas con TAM: Documentos de Marketo: documentación del producto'
-title: Marketing web basado en cuentas con TAM
+title: Account-based Web Marketing con TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Marketing web basado en cuentas con TAM {#account-based-web-marketing-with-TAM}
+# Account-based Web Marketing con TAM {#account-based-web-marketing-with-TAM}
 
 Marketo ofrece la aplicación [[!UICONTROL Administración de cuentas de Target]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM).
 

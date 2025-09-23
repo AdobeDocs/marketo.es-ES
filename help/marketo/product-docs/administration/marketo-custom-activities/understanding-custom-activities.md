@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100266
 description: 'Explicación de las actividades personalizadas: documentos de Marketo, documentación del producto'
-title: Explicación de las actividades personalizadas
+title: Explicación de actividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# Explicación de las actividades personalizadas {#understanding-custom-activities}
+# Explicación de actividades personalizadas {#understanding-custom-activities}
 
 Realice un seguimiento de una acción que una persona ha realizado que sea específica a su negocio con actividades personalizadas.
 
@@ -29,7 +29,7 @@ Las actividades personalizadas le ayudan a rastrear una actividad que no está r
 
 **Campos** Puede agregar [campos adicionales](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) que desee asociar con su actividad. Al igual que el campo principal, se pueden utilizar como criterios de filtrado en una lista inteligente.
 
-**Introducción**
+**Primeros pasos**
 
 Las actividades personalizadas funcionan igual que las actividades estándar. Sin embargo, la configuración es un proceso de dos partes.
 

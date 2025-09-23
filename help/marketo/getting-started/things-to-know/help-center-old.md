@@ -1,21 +1,21 @@
 ---
-description: Centro de ayuda - Documentos del Marketo Engage - Documentación del producto
+description: 'Centro de ayuda: documentos de Marketo Engage, documentación del producto'
 title: Centro de ayuda
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 5%
+ht-degree: 84%
 
 ---
 
 # Centro de ayuda {#help-center}
 
-El Centro de ayuda de Adobe Marketo Engage sirve como ubicación centralizada para obtener asistencia. Además de vincularse a varios recursos (p. ej., [documentación del producto](/help/marketo/home.md){target="_blank"}, [información de la versión](/help/marketo/release-notes/current.md){target="_blank"}, la [Comunidad de países de mercadotecnia](https://nation.marketo.com/){target="_blank"}), puede obtener acceso a tutoriales útiles en el producto organizados por nivel de experiencia.
+El Centro de ayuda de Adobe Marketo Engage sirve como ubicación centralizada para obtener asistencia. Además de vincularse a varios recursos (p. ej., [documentación del producto](/help/marketo/home.md){target="_blank"}, [información de la versión](/help/marketo/release-notes/current.md){target="_blank"}, la [comunidad de usuarios de Marketo](https://nation.marketo.com/){target="_blank"}), puede acceder a útiles tutoriales del producto organizados por nivel de experiencia.
 
-## Cómo acceder a {#how-to-access}
+## Cómo acceder {#how-to-access}
 
 Después de iniciar sesión en Marketo Engage, haga clic en el icono Ayuda.
 
@@ -31,11 +31,11 @@ Las guías sirven como tutoriales rápidos para las funciones populares.
 
    ![](assets/help-center-3.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Empezar**.
 
    ![](assets/help-center-4.png)
 
-1. Haga clic en **Siguiente** para continuar.
+1. Seleccione **Siguiente** para continuar.
 
    ![](assets/help-center-5.png)
 
@@ -59,6 +59,6 @@ La pestaña Novedades contiene todos los detalles de la última versión de Mark
 
 ### Recursos {#resources}
 
-La pestaña Recursos le permite acceder rápida y directamente a varias formas de obtener ayuda adicional con la instancia de Marketo Engage.
+La pestaña Recursos le permite acceder rápida y directamente a varias formas de obtener ayuda adicional con su instancia de Marketo Engage.
 
 ![](assets/help-center-8.png)

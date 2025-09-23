@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900554
 description: Edición de la documentación del producto de HTML de un correo electrónico - Documentos de Marketo
-title: Editar la HTML de un correo electrónico
+title: Editar el HTML de un correo electrónico
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Editar la HTML de un correo electrónico {#edit-an-emails-html}
+# Editar el HTML de un correo electrónico {#edit-an-emails-html}
 
 A veces, es posible que tenga que modificar la HTML subyacente de un correo electrónico. A veces puede utilizar un sistema externo para diseñar y crear el código del correo electrónico. En cualquier caso, puede importar o editar fácilmente código desde el editor de correo electrónico.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416564
 description: Habilitar grabación de llamadas - Documentos de Marketo - Documentación del producto
-title: Habilitar grabación de llamadas
+title: Habilitar la grabación de llamadas
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Habilitar grabación de llamadas {#enable-call-recording}
+# Habilitar la grabación de llamadas {#enable-call-recording}
 
 Como administrador, puede habilitar la grabación de llamadas para sus llamadas de [!DNL Sales Connect]. Grabar las llamadas de su equipo puede ser una buena manera de entrenar a sus representantes de ventas en las mejores prácticas de llamadas.
 

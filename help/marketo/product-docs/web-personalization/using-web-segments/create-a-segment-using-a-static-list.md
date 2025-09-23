@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795536
 description: 'Creación de un segmento mediante una lista estática: documentos de Marketo, documentación del producto'
-title: Creación de segmentos mediante una lista estática
+title: Creación de un segmento mediante una lista estática
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
-# Creación de segmentos mediante una lista estática {#create-a-segment-using-a-static-list}
+# Creación de un segmento mediante una lista estática {#create-a-segment-using-a-static-list}
 
 Segmente a los visitantes web conocidos cuando visiten su sitio web en función de si están o no en una de sus [listas estáticas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) de Marketo.
 

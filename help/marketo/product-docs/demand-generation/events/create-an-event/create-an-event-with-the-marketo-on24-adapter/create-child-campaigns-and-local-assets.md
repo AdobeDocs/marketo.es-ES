@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: 'Creación de campañas secundarias y Assets local: documentos de Marketo: documentación del producto'
-title: Creación de campañas secundarias y Assets local
+title: Crear campañas secundarias y recursos locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Creación de campañas secundarias y Assets local {#create-child-campaigns-and-local-assets}
+# Crear campañas secundarias y recursos locales {#create-child-campaigns-and-local-assets}
 
 Cree sus campañas secundarias y recursos locales con Design Studio.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949266
 description: 'SEO: Agregar o eliminar problema de página de una lista: documentos de Marketo: documentación del producto'
-title: 'SEO: Agregar o eliminar problema de página de una lista'
+title: 'SEO: añadir o eliminar problema de página de una lista'
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# SEO: Agregar o eliminar problema de página de una lista {#seo-add-remove-page-issue-from-a-list}
+# SEO: añadir o eliminar problema de página de una lista {#seo-add-remove-page-issue-from-a-list}
 
 Puede organizar los problemas de página en listas. También puede quitar problemas de página de una lista.
 

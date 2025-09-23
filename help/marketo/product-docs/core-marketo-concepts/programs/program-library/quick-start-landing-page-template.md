@@ -1,16 +1,16 @@
 ---
 description: 'Plantilla de la página de aterrizaje de inicio rápido: documentos de Marketo, documentación del producto'
-title: Plantilla de página de aterrizaje de inicio rápido
+title: Plantilla de la página de destino de inicio rápido
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Plantilla de página de aterrizaje de inicio rápido {#quick-start-landing-page-template}
+# Plantilla de la página de destino de inicio rápido {#quick-start-landing-page-template}
 
 Algunos de los programas iniciales de la Biblioteca de referencia de Marketo Engage contienen una plantilla de página de aterrizaje sencilla, fácil de usar y personalizable que permite crear rápidamente páginas de aterrizaje en varios casos de uso de marketing.
 

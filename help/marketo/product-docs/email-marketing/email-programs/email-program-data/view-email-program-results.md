@@ -4,10 +4,10 @@ description: Ver resultados del programa de correo electrónico - Documentos de 
 title: Ver resultados del programa de correo electrónico
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

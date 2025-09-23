@@ -2,10 +2,10 @@
 description: 'Conectar con Outlook: documentos de Marketo: documentación del producto'
 title: Conectarse a Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Empezar**.
 
    ![](assets/connect-to-outlook-4.png)
 
@@ -96,7 +96,7 @@ La conexión a Exchange local significa que recibirá seguimiento de respuestas,
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Empezar**.
 
    ![](assets/connect-to-outlook-13.png)
 

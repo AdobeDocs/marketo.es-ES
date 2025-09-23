@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147102
 description: Creación de una entrada en la vista de programación del programa - Documentos de Marketo - Documentación del producto
-title: Creación de una Entrada en la Vista de Programa Programado
+title: Creación de una entrada en la vista Calendario del programa
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Creación de una Entrada en la Vista de Programa Programado {#creating-an-entry-in-the-program-schedule-view}
+# Creación de una entrada en la vista Calendario del programa {#creating-an-entry-in-the-program-schedule-view}
 
 Puede crear entradas desde la vista de programación del programa para complementar un programa existente.
 

@@ -4,16 +4,16 @@ description: Activación y desactivación de un programa de participación - Doc
 title: Activar y desactivar un programa de participación
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
 # Activar y desactivar un programa de participación {#turn-an-engagement-program-on-and-off}
 
-Puede desactivar un programa de participación con solo pulsar un botón. Esto evitará que se envíe cualquier contenido. Así es como.
+Puede desactivar un programa de participación con solo pulsar un botón. Esto evitará que se envíe cualquier contenido. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

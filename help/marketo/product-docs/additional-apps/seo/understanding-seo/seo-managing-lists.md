@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949232
 description: 'SEO: Administración de listas: Documentos de Marketo: documentación del producto'
-title: 'SEO: Administración de listas'
+title: 'SEO: administración de listas'
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# SEO: Administración de listas {#seo-managing-lists}
+# SEO: administración de listas {#seo-managing-lists}
 
 Puede agregar cosas a listas cuando agregue palabras clave, páginas, problemas de página o vínculos entrantes. Las listas le ayudan a mantenerse organizado y le permiten filtrar informes para ver solo los datos de esa lista. Así es como se hacen.
 

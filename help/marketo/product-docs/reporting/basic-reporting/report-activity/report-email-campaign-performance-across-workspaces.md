@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360055
 description: Informe De Correo Electrónico, Rendimiento De La Campaña En Espacios De Trabajo - Documentos De Marketo - Documentación Del Producto
-title: Correo electrónico del informe, rendimiento de la campaña en espacios de trabajo
+title: Informar sobre el correo electrónico, el rendimiento de la campaña en espacios de trabajo
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Correo electrónico del informe, rendimiento de la campaña en espacios de trabajo {#report-email-campaign-performance-across-workspaces}
+# Informar sobre el correo electrónico, el rendimiento de la campaña en espacios de trabajo {#report-email-campaign-performance-across-workspaces}
 
 Active los informes globales para incluir datos de todos sus [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) de Marketo en sus informes de [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) y [Rendimiento de los vínculos de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 

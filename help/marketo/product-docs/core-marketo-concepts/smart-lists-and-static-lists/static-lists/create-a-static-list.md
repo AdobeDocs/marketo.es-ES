@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11387513
 description: 'Creación de una lista estática: documentos de Marketo, documentación del producto'
-title: Crear una lista estática
+title: Creación de una lista estática
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Crear una lista estática {#create-a-static-list}
+# Creación de una lista estática {#create-a-static-list}
 
 Las listas estáticas son un grupo de personas que ya se encuentran en la base de datos. A continuación se muestra cómo crear uno.
 

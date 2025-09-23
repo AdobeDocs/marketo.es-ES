@@ -4,10 +4,10 @@ description: Glosario de operadores de filtros de listas inteligentes - Document
 title: Glosario de operadores de filtros de listas inteligentes
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -31,7 +31,7 @@ Al elegir un operador, el lado derecho cambia de forma dinámica.
   </tr></thead>
 <tbody>
   <tr>
-    <td>es/está</td>
+    <td>is</td>
     <td>Fecha única</td>
     <td>Coincidencia de fecha exacta</td>
   </tr>
@@ -92,12 +92,12 @@ Al elegir un operador, el lado derecho cambia de forma dinámica.
   </tr>
   <tr>
     <td>está vacío</td>
-    <td>Ninguno</td>
+    <td>Ninguna</td>
     <td>Todos los registros sin fecha</td>
   </tr>
   <tr>
     <td>no está vacío</td>
-    <td>Ninguno</td>
+    <td>Ninguna</td>
     <td>Todos los registros con cualquier fecha</td>
   </tr>
 </tbody></table>
@@ -149,7 +149,7 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
   </tr></thead>
 <tbody>
   <tr>
-    <td>es/está</td>
+    <td>is</td>
     <td>Coincidencia exacta (sin distinción de mayúsculas y minúsculas)</td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
   </tr></thead>
 <tbody>
   <tr>
-    <td>es/está</td>
+    <td>is</td>
     <td>La coincidencia de número exacto ( = 0 devolverá ambos posibles clientes con 0 y NULL)</td>
   </tr>
   <tr>

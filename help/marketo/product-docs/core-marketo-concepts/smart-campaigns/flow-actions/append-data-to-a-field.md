@@ -4,16 +4,16 @@ description: 'Anexar datos a un campo: documentos de Marketo, documentación del
 title: Anexar datos a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 # Anexar datos a un campo {#append-data-to-a-field}
 
-Existe una forma sencilla de anexar datos a un campo. Así es como.
+Existe una forma sencilla de anexar datos a un campo. Así es cómo se hace.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ Existe una forma sencilla de anexar datos a un campo. Así es como.
 
    ![](assets/append-data-to-a-field-4.png)
 
-¡Eso es todo! Puede ser más creativo y agregar varios tokens allí.
+¡Ya está! Puede ser más creativo y agregar varios tokens allí.

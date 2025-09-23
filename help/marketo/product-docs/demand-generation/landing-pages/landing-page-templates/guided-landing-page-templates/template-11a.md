@@ -4,16 +4,16 @@ description: Plantilla 11A - Documentos de Marketo - Documentación del producto
 title: Plantilla 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Plantilla 11A {#template-11a}
 
-Haga clic con el botón derecho para [descargar la plantilla 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html?lang=es)
+[Plantilla 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)

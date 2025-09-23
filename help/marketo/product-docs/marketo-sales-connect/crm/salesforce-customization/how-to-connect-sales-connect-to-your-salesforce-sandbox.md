@@ -1,21 +1,21 @@
 ---
 unique-page-id: 15368205
 description: Conexión de las ventas Conexión a su zona protegida de Salesforce - Documentos de Marketo - Documentación del producto
-title: Conexión de Sales Connect a su zona protegida de Salesforce
+title: Cómo conectar Sales Connect a su zona protegida de Salesforce
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Conexión de Sales Connect a su zona protegida de Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# Cómo conectar Sales Connect a su zona protegida de Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->Su cuenta de [!DNL &#x200B; Sales Connect] no puede estar conectada a [!DNL Salesforce] al establecer una conexión con la zona protegida. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
+>Su cuenta de [!DNL  Sales Connect] no puede estar conectada a [!DNL Salesforce] al establecer una conexión con la zona protegida. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
 
 1. En [!DNL Sales Connect], haga clic en el icono de engranaje en la esquina superior derecha y seleccione **[!UICONTROL Configuración]**.
 

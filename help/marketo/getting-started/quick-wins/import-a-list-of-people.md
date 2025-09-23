@@ -4,8 +4,8 @@ description: 'Importar una lista de personas: docs de Marketo, documentación de
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 100%
 

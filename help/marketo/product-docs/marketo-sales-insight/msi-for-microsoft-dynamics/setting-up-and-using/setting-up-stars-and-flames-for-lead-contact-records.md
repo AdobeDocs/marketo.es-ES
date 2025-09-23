@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: Configuración de estrellas y llamas para registros de clientes potenciales/contactos - Documentos de Marketo - Documentación del producto
-title: Configuración de Estrellas y Llamas para Registros de Plomo/Contacto
+title: Configuración de estrellas y llamas para registros de posibles clientes o contactos
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Configuración de Estrellas y Llamas para Registros de Plomo/Contacto {#setting-up-stars-and-flames-for-lead-contact-records}
+# Configuración de estrellas y llamas para registros de posibles clientes o contactos {#setting-up-stars-and-flames-for-lead-contact-records}
 
 Las estrellas y las llamas de los registros de contactos o posibles clientes dependen de los campos [!UICONTROL Puntuación de posibles clientes], [!UICONTROL Puntuación relativa], [!UICONTROL Urgencia] y [!UICONTROL Prioridad]. Estos campos están disponibles de forma predeterminada después de instalar y configurar la solución MSI. Si no tiene Estrellas y Llamas, una configuración o personalización previa podría haber resultado en su eliminación. Siga los pasos a continuación para agregarlos.
 

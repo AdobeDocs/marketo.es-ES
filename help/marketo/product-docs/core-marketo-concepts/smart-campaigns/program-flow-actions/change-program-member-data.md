@@ -3,7 +3,7 @@ description: Cambiar datos de miembros del programa - Documentos de Marketo - Do
 title: Cambiar datos del miembro del programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 5%

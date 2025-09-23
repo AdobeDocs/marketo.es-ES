@@ -3,10 +3,10 @@ description: 'Inicio de sesión con OAuth 2.0: documentación de Marketo: docume
 title: Iniciar sesión con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

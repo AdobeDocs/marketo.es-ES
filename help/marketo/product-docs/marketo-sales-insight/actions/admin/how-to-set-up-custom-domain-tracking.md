@@ -1,16 +1,16 @@
 ---
 description: 'Configuración del seguimiento de dominio personalizado: documentos de Marketo, documentación del producto'
-title: Cómo configurar el seguimiento de dominios personalizados
+title: Cómo configurar el seguimiento del dominio personalizado
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Cómo configurar el seguimiento de dominios personalizados {#how-to-set-up-custom-domain-tracking}
+# Cómo configurar el seguimiento del dominio personalizado {#how-to-set-up-custom-domain-tracking}
 
 El seguimiento personalizado de dominios permite a su equipo utilizar su propio nombre de empresa en todos los vínculos a los que se puede realizar un seguimiento y que se añaden a los correos electrónicos de ventas. Una vez configurado, lista de permitidos cualquier vínculo que tenga en su correo electrónico para que aparezca como go.yourcompany.com, de modo que cuando alguien pase el ratón sobre un vínculo, lea go.yourcompany.com en lugar de go.toutapp.com.
 

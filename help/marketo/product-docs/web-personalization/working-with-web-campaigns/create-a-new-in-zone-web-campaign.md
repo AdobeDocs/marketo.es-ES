@@ -4,10 +4,10 @@ description: Creación de una nueva campaña web en la zona - Documentos de Mark
 title: Creación de una nueva campaña web en la zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -102,7 +102,7 @@ En la página **Campañas web**, haga clic en **Editar** en la campaña.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## Clonar una campaña web {#clone-a-web-campaign}
+## Clonación de una campaña web {#clone-a-web-campaign}
 
 Ver [Clonar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 

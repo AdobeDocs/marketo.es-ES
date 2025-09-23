@@ -4,10 +4,10 @@ description: Conceptos básicos de cancelación de suscripción - Documentos de 
 title: Explicación de cancelación de suscripción
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ Se utiliza en la página de cancelación de suscripción estándar. Si una perso
 
 El usuario establece este campo para colocar a las personas en una cancelación de suscripción temporal. Las personas solo pueden obtener este estado si se cambian manualmente o si se utiliza un paso de flujo de valor de datos de cambio.
 
-## Email suspendido {#email-suspended}
+## Correo electrónico suspendido {#email-suspended}
 
 Este estado impide que una persona envíe correos durante 24 horas después de que se produzca una devolución grave. Después de 24 horas, la persona volverá a recibir el correo.
 
@@ -33,7 +33,7 @@ Este estado impide que una persona envíe correos durante 24 horas después de q
 >
 >Los mensajes de correo electrónico suspendidos permanecerán marcados incluso después de que termine el periodo de 24 horas, por lo que puede hacer referencia a personas que históricamente han sido marcadas como tales. Para ver si la persona puede recibir correo, simplemente calcule 24 horas después del momento de la suspensión del correo electrónico.
 
-## Está en la lista de bloqueos {#blocklisted}
+## Incluido en la lista de bloqueados {#blocklisted}
 
 [Use esto para personas como la competencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Cualquiera que desee recibir **no** correos electrónicos: operativos, de marketing, etc. ¡No reciben nada!
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147316
 description: Creación manual de una persona - Documentos de Marketo - Documentación del producto
-title: Crear una persona manualmente
+title: Creación de una persona manualmente
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Crear una persona manualmente {#create-a-person-manually}
+# Creación de una persona manualmente {#create-a-person-manually}
 
-Hay muchas maneras de hacer que una persona entre en Marketo Engage. Si necesita crear uno manualmente, así es como hacerlo.
+Existen muchas formas de introducir a una persona en Marketo Engage. Si necesita crear uno manualmente, así es como hacerlo.
 
 >[!CAUTION]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900591
 description: Creación de un programa de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Crear un programa de correo electrónico
+title: Creación de un programa de correo electrónico
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Crear un programa de correo electrónico {#create-an-email-program}
+# Creación de un programa de correo electrónico {#create-an-email-program}
 
 Utilice programas de correo electrónico para enviar un correo electrónico rápida y fácilmente a un grupo de personas.
 

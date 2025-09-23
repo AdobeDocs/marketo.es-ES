@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: Clasificación y ajuste de perfiles de cuenta - Documentos de Marketo - Documentación del producto
-title: Clasificación y ajuste de perfiles de cuenta
+title: Clasificación y ajuste del perfil de cuenta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Clasificación y ajuste de perfiles de cuenta {#account-profiling-ranking-and-tuning}
+# Clasificación y ajuste del perfil de cuenta {#account-profiling-ranking-and-tuning}
 
 La generación de perfiles de cuenta identifica su perfil de cliente ideal (ICP), clasifica las compañías de su base de datos según el ICP y agrega datos del indicador ICP a las cuentas promocionadas como [!UICONTROL cuentas con nombre].
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357302
 description: 'Columnas de correo electrónico y diseño de página de correo electrónico: documentos de Marketo, documentación del producto'
-title: Columnas de correo electrónico y diseño de página de correo electrónico
+title: Columnas de correo electrónico y diseño de página del correo electrónico
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Columnas de correo electrónico y diseño de página de correo electrónico {#email-columns-and-email-page-layout}
+# Columnas de correo electrónico y diseño de página del correo electrónico {#email-columns-and-email-page-layout}
 
 Puede configurar cualquiera de las columnas disponibles para que sean visibles en la sección de correo electrónico del [!UICONTROL Centro de comandos]. La configuración se guardará para cada subcarpeta de correo electrónico (por ejemplo, [!UICONTROL Entregado], [!UICONTROL Fallido], [!UICONTROL Programado], etc.).
 

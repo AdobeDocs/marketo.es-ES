@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359953
 description: 'Personas Que Han Agotado El Contenido: Documentos De Marketo, Documentación Del Producto'
-title: Personas Que Tienen Contenido Agotado
+title: Personas que tienen contenido agotado
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Personas Que Tienen Contenido Agotado {#people-who-have-exhausted-content}
+# Personas que tienen contenido agotado {#people-who-have-exhausted-content}
 
 Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agotado todas las posibilidades y esperará inactivo hasta que se añada más. Puede encontrar personas que están &quot;agotadas&quot; de varias maneras.
 

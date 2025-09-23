@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949184
 description: 'SEO: Explicación de páginas - Documentos de Marketo: documentación del producto'
-title: 'SEO: Explicación de las páginas'
+title: 'SEO: explicación de las páginas'
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# SEO: Explicación de las páginas {#seo-understanding-pages}
+# SEO: explicación de las páginas {#seo-understanding-pages}
 
 ## Puntuación de optimización de la página / Widget de tareas pendientes {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-La puntuación de optimización de la página [!UICONTROL 1&rbrace; es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. &#x200B;] Se basa en docenas de prácticas recomendadas en SEO.
+La puntuación de optimización de la página [!UICONTROL 1} es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. ] Se basa en docenas de prácticas recomendadas en SEO.
 
 * 0 - 35 = No está bien optimizado
 * 35 - 70 = En el camino correcto

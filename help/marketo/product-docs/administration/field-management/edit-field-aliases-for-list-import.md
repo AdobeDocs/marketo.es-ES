@@ -4,10 +4,10 @@ description: Editar alias de campo para importar listas - Documentos de Marketo 
 title: Editar alias de campo para importar listas
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

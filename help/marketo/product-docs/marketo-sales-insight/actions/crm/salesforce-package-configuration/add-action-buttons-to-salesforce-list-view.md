@@ -1,11 +1,11 @@
 ---
-description: 'Añadir botones de acción a la vista de lista de Salesforce: Documentos de Marketo: documentación del producto'
+description: 'Añadir botones de acción a la vista de lista de Salesforce: documentos de Marketo, documentación del producto'
 title: Añadir botones de acción a la vista de lista de Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Estos botones forman parte del paquete de Información de ventas. Si no ves los botones disponibles para instalar en tu vista de lista, es posible que tengas que [actualizar tu paquete](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}.
+>Estos botones forman parte del paquete Sales Insight. Si no ves los botones disponibles para instalar en tu vista de lista, es posible que tengas que [actualizar tu paquete](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}.
 
 Los botones de acción para instalar incluyen:
 
@@ -50,4 +50,4 @@ Los botones de acción para instalar incluyen:
 >
 >* [Uso del correo electrónico de ventas de envío masivo en Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
 >* [Uso de la campaña de adición masiva a ventas en Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [Instalar el paquete de información de ventas de Marketo en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Instalar el paquete Marketo Sales Insight en Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

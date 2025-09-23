@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11375276
 description: Dimensiones personalizadas para las perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Dimensiones personalizadas para las perspectivas de correo electrónico
+title: Dimensiones personalizadas para perspectivas de correo electrónico
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Dimensiones personalizadas para las perspectivas de correo electrónico {#custom-dimensions-for-email-insights}
+# Dimensiones personalizadas para perspectivas de correo electrónico {#custom-dimensions-for-email-insights}
 
 Se incluyen todas las dimensiones estándar de Marketo, pero tiene la opción de añadir hasta 10 dimensiones personalizadas. Las dimensiones personalizadas constan de segmentaciones y etiquetas de programa. A continuación se indica cómo agregarlos.
 

@@ -1,16 +1,16 @@
 ---
 description: Información general del cuadro de diálogo - Documentos de Marketo - Documentación del producto
-title: Resumen del diálogo
+title: Información general del diálogo
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Resumen del diálogo {#dialogue-overview}
+# Información general del diálogo {#dialogue-overview}
 
 Los cuadros de diálogo son conversaciones de chat individuales. En cada Diálogo, usted decide dónde se muestra la conversación de chat específica, a quién se mostrará y cuál será el contenido de la conversación. Cada cuadro de diálogo también tiene su propia página de informe, donde puede supervisar la eficacia.
 

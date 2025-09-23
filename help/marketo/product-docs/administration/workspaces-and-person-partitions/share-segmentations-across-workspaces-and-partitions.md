@@ -4,10 +4,10 @@ description: Uso compartido de segmentaciones en espacios de trabajo y particion
 title: Uso compartido de segmentaciones en espacios de trabajo y particiones
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

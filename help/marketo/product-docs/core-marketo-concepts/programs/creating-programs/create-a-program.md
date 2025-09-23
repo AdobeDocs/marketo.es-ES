@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147095
 description: 'Creación de un programa: documentos de Marketo, documentación del producto'
-title: Crear un programa
+title: Creación de un programa
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Crear un programa {#create-a-program}
+# Creación de un programa {#create-a-program}
 
 Los programas son uno de los elementos más importantes de Marketo. ¡Los vas a usar mucho!
 

@@ -4,14 +4,14 @@ description: 'Sincronización de SFDC: sincronización de cliente potencial/prop
 title: 'Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta'
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta {#sfdc-sync-lead-account-owner-sync}
+# Sincronización de SFDC: sincronización de cliente potencial/propietario de cuenta {#sfdc-sync-lead-account-owner-sync}
 
 Técnicamente están sincronizando la tabla &quot;usuario&quot; en [!DNL Salesforce], sin embargo, nos referiremos a ella como campos Propietario de cliente potencial/Cuenta.
 

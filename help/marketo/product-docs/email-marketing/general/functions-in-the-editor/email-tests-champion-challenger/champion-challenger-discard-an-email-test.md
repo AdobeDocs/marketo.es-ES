@@ -4,16 +4,16 @@ description: 'Campeón/Desafío: descartar una prueba de correo electrónico. Do
 title: 'Campeón/Challenger: descartar una prueba de correo electrónico'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Campeón/Challenger: descartar una prueba de correo electrónico {#champion-challenger-discard-an-email-test}
+# Campeón/Aspirante: descartar una prueba de correo electrónico {#champion-challenger-discard-an-email-test}
 
-Si, en cualquier momento, decide que no desea continuar ejecutando la prueba de correo electrónico, puede descartarla. Así es como.
+Si, en cualquier momento, decide que no desea continuar ejecutando la prueba de correo electrónico, puede descartarla. Así es cómo se hace.
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382535
 description: 'Uso de URL en Mis tokens: documentos de Marketo, documentación del producto'
-title: Uso de URL en Mis tokens
+title: Uso de los URL en Mis tókenes
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Uso de URL en Mis tokens {#using-urls-in-my-tokens}
+# Uso de los URL en Mis tókenes {#using-urls-in-my-tokens}
 
 Siga los pasos a continuación para usar [!UICONTROL Mis tokens] para insertar direcciones URL en sus correos electrónicos.
 

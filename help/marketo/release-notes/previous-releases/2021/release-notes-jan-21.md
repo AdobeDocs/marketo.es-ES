@@ -3,9 +3,9 @@ description: 'Notas de la versión, enero de 2021, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1237'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Restricción de la conexión de correo electrónico (BETA)**: mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas 1:1 con la limitación de la conexión de correo electrónico para [!DNL Sales Connect]. Nuestra nueva tecnología de regulación administra automáticamente el tiempo de envío de los correos electrónicos para crear experiencias sin problemas para los usuarios de [!DNL Exchange] y Gmail. Reduzca o elimine el uso de aplicaciones de envío masivo de correo electrónico de terceros.
+* **Restricción de la conexión de correo electrónico (BETA)**: mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas de 1:1 con la limitación de la conexión de correo electrónico para [!DNL Sales Connect]. Nuestra nueva tecnología de regulación administra automáticamente el tiempo de envío de los correos electrónicos para crear experiencias sin problemas para los usuarios de [!DNL Exchange] y Gmail. Reduzca o elimine el uso de aplicaciones de envío masivo de correo electrónico de terceros.
 * **Seguimiento de devoluciones de conexiones de correo electrónico**: Obtenga insight en calidad de posibles clientes y rendimiento de plantillas de correo electrónico con el nuevo informe de devoluciones de correo electrónico. Los usuarios de [!DNL Exchange] y Gmail pueden optar por recibir notificaciones de rechazo que se acumularán en la fuente en directo, las carpetas de correo electrónico, el análisis de plantillas y el análisis de Campaign.
 * **Configuración de página de perfil**: administre las preferencias de usuario con facilidad en la nueva página de perfil. Cambie la contraseña, edite la geolocalización y la configuración de idioma y revise los estados de las integraciones en un solo lugar.
 * **Administración de plantillas**: organiza las plantillas de correo electrónico de ventas en categorías con una nueva característica de arrastrar y soltar para garantizar un acceso rápido a las plantillas relevantes y reducir el tiempo de búsqueda.
@@ -83,4 +83,4 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 **_Seminario web sobre la versión del producto_**
 
-¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) para unirse a nosotros el 21 de enero a la 1:00 p.m. PT / 4:00 p.m. ET para asistir a un seminario web en vivo con nuestro equipo de productos a fin de profundizar en estas innovaciones.
+¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) para unirse a nosotros el 21 de enero a las 1:00 PM PT / 4:00 PM ET para asistir a un seminario web en vivo con nuestro equipo de productos y profundizar en estas innovaciones.

@@ -4,14 +4,14 @@ description: 'Notas De La Versión, Febrero De 2020: Documentos De Marketo: Docu
 title: Notas de la versión, febrero de 2020
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# Notas de la versión: 20 de febrero {#release-notes-feb}
+# Notas de la versión: febrero de 2020 {#release-notes-feb}
 
 En la versión de febrero de 2020 se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition.
 
@@ -59,4 +59,4 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 * **Parámetro &quot;_method&quot; de Asset API**: a partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requerían este parámetro, el límite de URI para las API de recursos aumentará de 6 KiB a 65 KiB, de modo que se puedan enviar URI de solicitud largos.
 * **Degradación de compatibilidad con Internet Explorer**: a partir de nuestra versión del 31 de julio de 2020, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
 
-**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00 a.m. PT / 2:00 p.m. ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.
+**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00AM PT / 2:00PM ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.

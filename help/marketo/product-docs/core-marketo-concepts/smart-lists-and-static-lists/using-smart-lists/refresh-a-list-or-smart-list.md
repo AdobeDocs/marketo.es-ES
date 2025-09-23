@@ -4,10 +4,10 @@ description: 'Actualizar una lista o lista inteligente: documentos de Marketo, d
 title: Actualizar una lista o lista inteligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

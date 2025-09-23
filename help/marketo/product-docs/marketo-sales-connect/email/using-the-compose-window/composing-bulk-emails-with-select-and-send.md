@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356578
 description: 'Composición de correos electrónicos masivos con selección y envío: documentos de Marketo, documentación del producto'
-title: Redacción de correos electrónicos masivos con selección y envío
+title: Redactar correos electrónicos masivos con selección y envío
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Redacción de correos electrónicos masivos con selección y envío {#composing-bulk-emails-with-select-and-send}
+# Redactar correos electrónicos masivos con selección y envío {#composing-bulk-emails-with-select-and-send}
 
 A continuación, se muestra cómo enviar/editar correos electrónicos con la opción Seleccionar y enviar.
 

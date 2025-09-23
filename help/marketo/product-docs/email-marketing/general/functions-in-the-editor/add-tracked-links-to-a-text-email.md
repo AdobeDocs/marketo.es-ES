@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900589
 description: 'Adición de vínculos rastreados a un correo electrónico de texto: documentos de Marketo, documentación del producto'
-title: Adición de vínculos rastreados a un correo electrónico de texto
+title: Añadir vínculos rastreados a un correo electrónico de texto
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Adición de vínculos rastreados a un correo electrónico de texto {#add-tracked-links-to-a-text-email}
+# Añadir vínculos rastreados a un correo electrónico de texto {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >

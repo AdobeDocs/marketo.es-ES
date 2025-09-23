@@ -3,10 +3,10 @@ description: Información general sobre la cancelación de la suscripción - Doc
 title: Información general de cancelación de suscripción
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Cada vez es más importante que las organizaciones cumplan con las leyes de priv
 * Las cancelaciones de suscripción se pueden realizar manualmente: clic en vínculo, sincronización de [!DNL Salesforce] y rechazos
 * Nueva página de aterrizaje de vínculo de cancelación de suscripción
 
-## Cancelar suscripción a página de aterrizaje de vínculo {#unsubscribe-link-landing-page}
+## Página de destino del vínculo de cancelación de suscripción {#unsubscribe-link-landing-page}
 
 Cuando una persona hace clic en el vínculo de cancelación de suscripción, se le redirige a una página de aterrizaje de cancelación de suscripción en la que puede seleccionar desde qué desea cancelar la suscripción y por qué.
 
@@ -28,7 +28,7 @@ Cuando una persona hace clic en el vínculo de cancelación de suscripción, se 
 
 Esta información se guardará en la vista de detalles de la persona para su visualización posterior.
 
-## Cancelar suscripción al grupo {#unsubscribe-group}
+## Grupo de cancelación de suscripción {#unsubscribe-group}
 
 Ver y administrar todas las personas que cancelaron su suscripción en un solo lugar.
 
@@ -42,7 +42,7 @@ Si eres administrador, puedes ir al grupo de cancelación de suscripción para f
 
 ![](assets/unsubscribe-overview-4.png)
 
-## Tarjeta Historial de cancelación {#unsubscribe-history-card}
+## Tarjeta de historial de cancelación de suscripción {#unsubscribe-history-card}
 
 La tarjeta [!UICONTROL Cancelar la suscripción al historial] ayuda a los administradores y usuarios a obtener información contextual sobre el historial de cancelación de suscripción de sus contactos. Vaya hasta allí. Para ello, vaya a la ficha [!UICONTROL Personas] y seleccione una persona. Se encuentra en la parte inferior de la ficha [!UICONTROL Acerca de] en la vista Detalles de la persona.
 

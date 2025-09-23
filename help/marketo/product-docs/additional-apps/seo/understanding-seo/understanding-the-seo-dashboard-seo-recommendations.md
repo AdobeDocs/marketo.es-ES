@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949180
-description: Explicación del tablero de SEO -SEO Recommendations - Documentos de Marketo - Documentación del producto
-title: 'Explicación del panel de SEO: SEO Recommendations'
+description: 'Explicación del panel de SEO: recomendaciones de SEO, documentos de Marketo, documentación del producto'
+title: 'Explicación del panel de SEO: recomendaciones de SEO'
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Explicación del panel de SEO: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Explicación del panel de la SEO: recomendaciones para la SEO {#understanding-the-seo-dashboard-seo-recommendations}
 
 Utilice el tablero para obtener una vista de alto nivel de cómo los rangos de palabras clave son tendencias y cómo su sitio está optimizado para la SEO.
 

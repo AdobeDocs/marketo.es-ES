@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9438139
 description: 'Añadir persona a la Lista de bloqueados: documentos de Marketo, documentación del producto'
-title: Añadir persona a la Lista de bloqueados
+title: Añadir persona a la lista de bloqueados
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Añadir persona a la Lista de bloqueados {#add-person-to-blocklist}
+# Añadir persona a la lista de bloqueados {#add-person-to-blocklist}
 
 Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 

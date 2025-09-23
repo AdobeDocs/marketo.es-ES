@@ -1,16 +1,16 @@
 ---
 description: Administración de datos de OP - Documentos de Marketo - Documentación del producto
-title: Administración de datos de OP
+title: OP-Administración de datos
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 26%
+ht-degree: 27%
 
 ---
 
-# Administración de datos de OP {#op-data-management}
+# OP-Administración de datos {#op-data-management}
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de datos operativos simples que utilizan un programa predeterminado para ayudarle a administrar la coherencia de datos para los registros de la base de datos de Marketo Engage.
 
@@ -162,7 +162,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
   <tr>
    <td>Carpeta</td>
    <td> </td>
-   <td>Lista de bloqueos</td>
+   <td>Lista de bloqueados</td>
   </tr>
  </tbody>
 </table>

@@ -4,10 +4,10 @@ description: Automatización de una alerta para posibles usuarios duplicados - D
 title: Automatización de una alerta para posibles usuarios duplicados
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/automate-an-alert-3.png)
 
-¡Eso es todo! Esta campaña inteligente entrará en déclencheur cada vez que se cree una nueva persona con un nombre completo existente en Marketo.
+¡Ya está! Esta campaña inteligente entrará en déclencheur cada vez que se cree una nueva persona con un nombre completo existente en Marketo.
 
 >[!MORELIKETHIS]
 >

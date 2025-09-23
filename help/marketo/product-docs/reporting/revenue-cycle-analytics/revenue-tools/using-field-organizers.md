@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: Uso de organizadores de campos - Documentos de Marketo - Documentación del producto
-title: Uso de organizadores de campos
+title: Uso de organizadores de campo
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Uso de organizadores de campos {#using-field-organizers}
+# Uso de organizadores de campo {#using-field-organizers}
 
 Los organizadores de campos le ayudan a especificar ciertos campos de todos los valores posibles. Por ejemplo, puede crear agrupaciones significativas, como Costa oeste y Costa este, para el campo Territorio. Esto ayuda a que los informes se ejecuten más rápido.
 

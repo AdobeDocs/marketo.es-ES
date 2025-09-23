@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317340
 description: Comprobación de cancelación de suscripción de Marketo - Documentos de Marketo - Documentación del producto
-title: Verificación de cancelación de suscripción de Marketo
+title: Verificar cancelación de suscripción de Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Verificación de cancelación de suscripción de Marketo {#marketo-unsubscribe-check}
+# Verificar cancelación de suscripción de Marketo {#marketo-unsubscribe-check}
 
 La [!UICONTROL comprobación de cancelación de suscripción de Marketo] usa la conexión de su equipo con Marketo para evitar que los mensajes de correo electrónico se envíen a personas que cancelaron su suscripción en el sistema de administración de posibles clientes de Marketo. Cuando un usuario de ventas envía un correo electrónico con [!DNL Sales Connect], se realiza una llamada de API a Marketo para comprobar si se cancela la suscripción del ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
 
@@ -37,7 +37,7 @@ La [!UICONTROL comprobación de cancelación de suscripción de Marketo] usa la 
 
    ![](assets/four-2.png)
 
-## Cosas que saber {#things-to-know}
+## Cosas que debe saber {#things-to-know}
 
 Comprobación de cancelación de suscripción de Marketo...
 

@@ -4,10 +4,10 @@ description: 'Buscar imágenes y archivos cargados: documentos de Marketo, docum
 title: Buscar imágenes y archivos cargados
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382593
 description: Configuración de Web Personalization para no realizar el seguimiento - Documentos de Marketo - Documentación del producto
-title: Configuración de Web Personalization para que no realice el seguimiento
+title: Configuración de la personalización web para no realizar el seguimiento
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: Configuración de informes TAM - Documentos de Marketo - Documentación del producto
-title: Configuración de informe de TAM
+title: Configuración de informes TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Configuración de informe de TAM {#tam-report-setup}
+# Configuración de informes TAM {#tam-report-setup}
 
 El informe de ventas de TAM es un correo electrónico semanal personalizado que se envía al equipo de la cuenta.
 

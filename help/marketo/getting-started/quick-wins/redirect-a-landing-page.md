@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359428
 description: 'Redireccionar una página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Redireccionar una página de aterrizaje
+title: Redirigir una página de destino
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Redireccionar una página de aterrizaje {#redirect-a-landing-page}
+# Redirigir una página de destino {#redirect-a-landing-page}
 
 ## Misión: Redirigir una página de aterrizaje a una página web diferente {#mission-redirect-a-landing-page-to-a-different-web-page}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [Página de destino con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [Personalice la dirección URL de su página de aterrizaje con un CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
 
 ## Paso 1: Inicio de una nueva regla de redirección {#step-start-a-new-redirect-rule}
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/redirect-a-landing-page-6.png)
 
-## Misión finalizada {#mission-complete}
+## Misión completada {#mission-complete}
 
 ¡Felicidades! Ha redirigido correctamente una página de aterrizaje.
 

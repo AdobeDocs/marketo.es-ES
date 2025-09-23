@@ -4,10 +4,10 @@ description: 'Añadir una aplicación móvil: documentos de Marketo, documentaci
 title: Añadir una aplicación móvil
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

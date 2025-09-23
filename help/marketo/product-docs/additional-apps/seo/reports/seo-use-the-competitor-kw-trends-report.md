@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949270
 description: 'SEO: uso del informe Tendencias de KW de la competencia - Documentos de Marketo - Documentación del producto'
-title: 'SEO: Utilice el informe Tendencias de KW de la competencia'
+title: 'SEO: utilizar el informe Tendencias de KW de la competencia'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# SEO: Utilice el informe Tendencias de KW de la competencia {#seo-use-the-competitor-kw-trends-report}
+# SEO: utilizar el informe Tendencias de KW de la competencia {#seo-use-the-competitor-kw-trends-report}
 
 En este informe, puede ver cómo usted y sus competidores se clasifican según las palabras clave a lo largo del tiempo.
 

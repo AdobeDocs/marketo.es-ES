@@ -1,23 +1,23 @@
 ---
 unique-page-id: 5472283
 description: Personalice la vista móvil para la página de aterrizaje de forma libre - Documentos de Marketo - Documentación del producto
-title: Personalizar la vista móvil para la página de aterrizaje de forma libre
+title: Personalizar la vista móvil para la página de destino de forma libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personalizar la vista móvil para la página de aterrizaje de forma libre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personalizar la vista móvil para la página de destino de forma libre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
 >[Agregar una vista móvil para la página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-La vista móvil de la página de aterrizaje de forma libre es generalmente automática, pero puede personalizarla. Así es como.
+La vista móvil de la página de aterrizaje de forma libre es generalmente automática, pero puede personalizarla. Así es cómo se hace.
 
 1. Seleccione la página de aterrizaje de forma libre.
 

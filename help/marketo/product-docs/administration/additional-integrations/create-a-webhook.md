@@ -4,10 +4,10 @@ description: 'Crear  [!DNL Webhook] : documentos de Marketo: documentación del 
 title: Crear  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
    >[!NOTE]
    >
-   >Esto suele incluir la introducción de las credenciales de servicio de terceros como parámetro de URL o en la plantilla de POST.
+   >Esto suele incluir la introducción de las credenciales de servicio de terceros como parámetro de URL o en la plantilla POST.
 
    * **[!UICONTROL URL]**: Escriba la URL que use en su solicitud al servicio web. Para insertar un token, como la dirección de correo electrónico de la persona (**`{{lead.Email Address}}`**), en su solicitud, haga clic en **[!UICONTROL Insertar token]**.
 
@@ -43,7 +43,7 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
    * **[!UICONTROL Tipo de respuesta]**: seleccione el formato de la respuesta que recibe del servicio (**JSON** o **XML**).
 
-   * **[!UICONTROL Tipo de solicitud]**: seleccione el método HTTP que desee utilizar (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Tipo de solicitud]**: seleccione el método HTTP que desea utilizar (DELETE, GET, PATCH, POST, PUT).
 
 1. Haga clic en **[!UICONTROL Crear]**.
 
@@ -51,4 +51,4 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
 >[!NOTE]
 >
->Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

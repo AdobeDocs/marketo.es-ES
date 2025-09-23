@@ -4,10 +4,10 @@ description: Sobrescribir dominio principal para correos electrónicos - Documen
 title: Sobrescribir dominio principal para correos electrónicos
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

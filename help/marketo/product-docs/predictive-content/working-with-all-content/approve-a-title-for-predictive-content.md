@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384661
 description: 'Aprobar un título para contenido predictivo: documentos de Marketo, documentación del producto'
-title: Aprobar un título para contenido predictivo
+title: Aprobar un título para el contenido predictivo
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Aprobar un título para contenido predictivo {#approve-a-title-for-predictive-content}
+# Aprobar un título para el contenido predictivo {#approve-a-title-for-predictive-content}
 
 Puede agregar cualquier título en su página [!UICONTROL Todo el contenido] al contenido predictivo aprobándolo en la página [!UICONTROL Todo el contenido] o en la ventana emergente [!UICONTROL Editar contenido].
 

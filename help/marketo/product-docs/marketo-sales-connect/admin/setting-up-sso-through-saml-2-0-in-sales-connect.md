@@ -4,7 +4,7 @@ description: 'Configuración de SSO a través de SAML 2.0 en  [!DNL Sales Connec
 title: Configurando SSO mediante SAML 2.0 en  [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Admitimos SSO mediante la especificación SAML 2.0. Sin embargo, no tenemos inte
 * Suscripción a Marketo Sales Connect
 * Metadata.xml desde la cuenta SSO (dirección URL del problema, el punto final para la validación y una clave pública)
 
-## Instalación {#setup}
+## Configuración {#setup}
 
 El archivo metadata.xml de la instancia SSO de su equipo debe contener la dirección URL del emisor, el punto final para la validación y una clave pública.
 

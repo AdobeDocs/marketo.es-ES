@@ -1,16 +1,16 @@
 ---
 description: Información general de Live Chat - Documentos de Marketo - Documentación del producto
-title: Información general de Live Chat
+title: Información general del chat en directo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '842'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Información general de Live Chat {#live-chat-overview}
+# Información general del chat en directo {#live-chat-overview}
 
 El chat en vivo permite a los visitantes del sitio web entablar conversaciones de chat en tiempo real con sus agentes de ventas.
 

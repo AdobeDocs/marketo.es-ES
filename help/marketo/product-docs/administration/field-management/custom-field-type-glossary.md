@@ -4,10 +4,10 @@ description: Glosario de tipos de campos personalizados - Documentos de Marketo 
 title: Glosario de tipo de campo personalizado
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '594'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

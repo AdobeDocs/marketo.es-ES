@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617440
 description: 'Aprobación Del Mensaje En La Aplicación: Documentos De Marketo: Documentación Del Producto'
-title: Aprobar El Mensaje En La Aplicación
+title: Aprobar el mensaje en la aplicación
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aprobar El Mensaje En La Aplicación {#approve-your-in-app-message}
+# Aprobar el mensaje en la aplicación {#approve-your-in-app-message}
 
 Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
 

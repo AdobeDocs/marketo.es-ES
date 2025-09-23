@@ -4,10 +4,10 @@ description: 'Notas de la versión, agosto de 2014, Documentos de Marketo: docum
 title: Notas de la versión, agosto de 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 3%
+source-wordcount: '399'
+ht-degree: 4%
 
 ---
 
@@ -69,7 +69,7 @@ Hemos añadido etiquetas a la página de la campaña para que pueda etiquetar el
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Segmentación y direccionamiento 1:1 mejoradas {#enhanced-segmentation-and-targeting}
+## Segmentación y direccionamiento mejorados de 1:1 {#enhanced-segmentation-and-targeting}
 
 Ahora puede utilizar operadores de filtro avanzados para segmentar visitantes conocidos.
 

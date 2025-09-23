@@ -3,7 +3,7 @@ description: Sincronización de campos personalizados de miembros del programa -
 title: Sincronización de campo personalizado para miembros del programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 11%
@@ -63,7 +63,7 @@ ht-degree: 11%
 
 ## Desasignar campos Salesforce de campos personalizados de miembros del programa {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un cambio general, primero debe realizar una desasignación. Así es como.
+Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un cambio general, primero debe realizar una desasignación. Así es cómo se hace.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 

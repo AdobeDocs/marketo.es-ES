@@ -3,16 +3,16 @@ description: 'Notas de la versión, octubre de 2021: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1090'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Notas de la versión: octubre de 2021 {#release-notes-oct-21}
 
-Las siguientes funciones están incluidas en la versión de octubre de 2021. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+Las siguientes funciones están incluidas en la versión de octubre de 2021. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -58,7 +58,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 **[!DNL Sales Insight]para[!DNL Salesforce]**
 
-* **Lo más probable[!UICONTROL &#x200B; en el nivel de cuenta y oportunidad:]** Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
+* **Lo más probable[!UICONTROL  en el nivel de cuenta y oportunidad:]** Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight] Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
 
 ## [!DNL Sales Connect] {#sales-connect}
 

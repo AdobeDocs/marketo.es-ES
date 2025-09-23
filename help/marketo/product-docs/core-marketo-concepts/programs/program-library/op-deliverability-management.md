@@ -1,16 +1,16 @@
 ---
 description: Administración de la capacidad de entrega - Documentos de Marketo - Documentación del producto
-title: Administración de la capacidad de entrega
+title: OP-Administración de la capacidad de entrega
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 19%
+ht-degree: 21%
 
 ---
 
-# Administración de la capacidad de entrega {#op-deliverability-management}
+# OP-Administración de la capacidad de entrega {#op-deliverability-management}
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de envíos que utilizan un programa predeterminado de Marketo Engage para revisar el estado actual de la capacidad de envío de correos electrónicos y administrar devoluciones crónicas y no respondedores.
 
@@ -93,7 +93,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
   <tr>
    <td>Carpeta</td>
    <td> </td>
-   <td>Revisión</td>
+   <td>Revisar</td>
   </tr>
  </tbody>
 </table>

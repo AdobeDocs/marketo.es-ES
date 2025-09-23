@@ -4,10 +4,10 @@ description: Información general sobre complementos de .NET - Documentos de Mar
 title: Información general sobre complementos de .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ Agregue contenido rastreable haciendo clic en el botón **[!UICONTROL Contenido]
 
 Aparecerá cualquier contenido cargado anteriormente para que lo seleccione en la ventana emergente sin tener que volver a cargarlo.
 
-## Funcionalidad de calendario {#calendar-functionality}
+## Funcionalidad del calendario {#calendar-functionality}
 
 Informe a los destinatarios cuando estén disponibles presionando el botón **[!UICONTROL Calendario]**.
 

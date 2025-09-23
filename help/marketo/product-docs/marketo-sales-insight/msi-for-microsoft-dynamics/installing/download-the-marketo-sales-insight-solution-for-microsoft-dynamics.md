@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849070
 description: Descargue la solución Marketo Sales Insight para Microsoft Dynamics - Documentos de Marketo - Documentación del producto
-title: Descargue la solución Marketo Sales Insight para Microsoft Dynamics
+title: Descargar la solución Marketo Sales Insight para Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949206
 description: 'SEO: importación de palabras clave con un CSV - Documentos de Marketo - Documentación del producto'
-title: 'SEO: importación de palabras clave con un CSV'
+title: 'SEO: importar de palabras clave con un CSV'
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# SEO: importación de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
+# SEO: importar de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
 
 1. Puede [agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave de un archivo CSV. A continuación se muestra cómo realizar la importación.
 

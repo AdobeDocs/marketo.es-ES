@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092730
 description: 'Previsualización de una notificación push: documentos de Marketo, documentación del producto'
-title: Previsualización de una notificación push
+title: Previsualizar una notificación push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Previsualización de una notificación push {#preview-a-push-notification}
+# Previsualizar una notificación push {#preview-a-push-notification}
 
 Es fácil obtener una vista previa del aspecto que tendrá la notificación push, tanto para Android como para iOS. Hay cuatro formas de hacerlo.
 

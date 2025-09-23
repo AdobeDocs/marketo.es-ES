@@ -4,7 +4,7 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Diseñador de flujo {#stream-designer}
 
-Hay _muchas_ combinaciones de secuencias posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratis. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
+Hay _muchas_ combinaciones de secuencias posibles. Este artículo contiene un ejemplo en el que el experto en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. Si no es así, el visitante tiene la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratuito. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
 
 >[!PREREQUISITES]
 >
@@ -35,7 +35,7 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
  </tr>
  <tr>
   <td style="width:25%"><strong>Documento</strong></td>
-  <td>Permite incrustar documentos del PDF en los cuadros de diálogo y realizar un seguimiento de la actividad de participación de los visitantes en los documentos (cuántas páginas se vieron, si se descargó el documento o los términos de búsqueda utilizados).</td>
+  <td>Permite incrustar documentos de PDF en cuadros de diálogo y realizar un seguimiento de la actividad de participación de los visitantes en los documentos (cuántas páginas se vieron, si se descargó el documento y/o los términos de búsqueda utilizados).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Captura de información</strong></td>
@@ -176,7 +176,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
     </tr>
     <tr>
      <td style="width:30%"><strong>Asignar respuesta al atributo</strong></td>
-     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro Persona en la suscripción del Marketo Engage.</td>
+     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro de persona en su suscripción a Marketo Engage.</td>
     </tr>
    </table>
 
@@ -192,7 +192,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-21.png)
 
-1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha hospedado y haga clic en **[!UICONTROL Guardar]**.
+1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -200,13 +200,13 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-23.png)
 
-1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publish]**.
+1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publicar]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de hacer clic en [!UICONTROL Publish], recuerde que debe [ingresar sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic en [!UICONTROL Publicar], recuerde que debe [escribir las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

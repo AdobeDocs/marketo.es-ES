@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727818
 description: Uso de personalidades - Documentos de Marketo - Documentación del producto
-title: Uso de personalidades
+title: Uso de personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Uso de personalidades {#using-personas}
+# Uso de personas {#using-personas}
 
 Las personas son una buena manera de segmentar su audiencia de ABM y comercializar con un subconjunto específico de personas.
 

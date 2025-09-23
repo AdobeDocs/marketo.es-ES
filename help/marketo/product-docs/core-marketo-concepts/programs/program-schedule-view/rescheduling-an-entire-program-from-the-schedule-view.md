@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147138
 description: 'Reprogramación de un programa completo desde la vista de programación: documentos de Marketo, documentación del producto'
-title: Reprogramación de un Programa Completo desde la Vista de Programa
+title: Reprogramación de un programa completo desde la vista Calendario
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Reprogramación de un Programa Completo desde la Vista de Programa {#rescheduling-an-entire-program-from-the-schedule-view}
+# Reprogramación de un programa completo desde la vista Calendario {#rescheduling-an-entire-program-from-the-schedule-view}
 
-Al clonar un programa o evento con fechas, es probable que desee reprogramar todas las fechas a la vez. Así es como.
+Al clonar un programa o evento con fechas, es probable que desee reprogramar todas las fechas a la vez. Así es cómo se hace.
 
 1. Seleccione el programa que desea reprogramar.
 

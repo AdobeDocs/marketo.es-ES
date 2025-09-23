@@ -4,7 +4,7 @@ description: Establecer [!DNL Google AdWords] conversiones en el modelo de ingre
 title: Establecer [!DNL Google AdWords] conversiones en el modelo de ingresos con una cuenta de administrador
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%

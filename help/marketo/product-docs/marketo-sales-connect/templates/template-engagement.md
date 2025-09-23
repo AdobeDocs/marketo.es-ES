@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352504
 description: 'Participación en plantillas: Documentos de Marketo: documentación del producto'
-title: Compromiso de plantilla
+title: Participación en la plantilla
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Compromiso de plantilla {#template-engagement}
+# Participación en la plantilla {#template-engagement}
 
 Siga los pasos a continuación para ver su participación en la plantilla.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147116
 description: 'Administración de mis tokens: documentos de Marketo, documentación del producto'
-title: Administrar mis tokens
+title: Administrar mis tókenes
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Administrar mis tokens {#managing-my-tokens}
+# Administrar mis tókenes {#managing-my-tokens}
 
 El uso de tokens puede simplificar sus esfuerzos en Marketo Engage. Puede usar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) en pasos de flujo, webhooks, correos electrónicos y páginas de aterrizaje. Así es como se hacen.
 

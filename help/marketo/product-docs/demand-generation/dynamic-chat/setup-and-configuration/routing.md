@@ -1,16 +1,16 @@
 ---
 description: 'Enrutamiento: documentos de Marketo: documentación del producto'
-title: Enrutando
+title: Enrutamiento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 2%
 
 ---
 
-# Enrutando {#routing}
+# Enrutamiento {#routing}
 
 Las reuniones reservadas en Dynamic Chat se pueden organizar de dos maneras. Operación por turnos o uso de una regla personalizada.
 

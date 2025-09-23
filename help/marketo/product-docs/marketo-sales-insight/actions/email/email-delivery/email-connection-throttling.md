@@ -1,16 +1,16 @@
 ---
 description: Aceleración de la conexión de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Restricción de conexión de correo electrónico
+title: Limitación de la conexión de correo electrónico
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Restricción de conexión de correo electrónico {#email-connection-throttling}
+# Limitación de la conexión de correo electrónico {#email-connection-throttling}
 
 La integración de su cuenta de [!DNL Sales Connect] para enviar a través de [!DNL Exchange] o proveedores de correo electrónico de Gmail ofrece una configuración optimizada y optimiza la capacidad de envío de correo electrónico para la comunicación de ventas de 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y [!DNL Exchange] aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
 

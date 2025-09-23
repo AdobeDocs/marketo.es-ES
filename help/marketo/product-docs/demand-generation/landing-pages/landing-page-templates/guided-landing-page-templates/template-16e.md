@@ -4,7 +4,7 @@ description: Plantilla 16-E - Documentos de Marketo - Documentación del product
 title: Plantilla 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 16-E {#template-16e}
 
-Haga clic con el botón derecho para [descargar la plantilla 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=es)
+[Plantilla 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)

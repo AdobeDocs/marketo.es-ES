@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416566
 description: Configuración de consentimiento bipartito - Documentos de Marketo - Documentación del producto
-title: Configuración de consentimiento de dos partes
+title: Configuración del consentimiento entre dos partes
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configuración de consentimiento de dos partes {#two-party-consent-settings}
+# Configuración del consentimiento entre dos partes {#two-party-consent-settings}
 
 Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de Estados Unidos al grabar llamadas, como administrador puede habilitar un mensaje pregrabado de su elección para que se reproduzca al principio de las llamadas cuando se estén grabando.
 

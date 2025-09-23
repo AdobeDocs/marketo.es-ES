@@ -4,14 +4,14 @@ description: 'Notas de la versión, julio de 2014, Documentos de Marketo: docume
 title: Notas de la versión, julio de 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notas de la versión: julio de 2014 {#release-notes-july}
+# Notas de la versión: Julio de 2014 {#release-notes-july}
 
 En la versión de julio de 2014 se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition. Vuelva después del lanzamiento para ver los vínculos a la documentación detallada de las funciones.
 
@@ -37,7 +37,7 @@ La documentación del calendario de marketing estará disponible en el momento d
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Vista de programación del programa {#program-schedule-view}
+## Vista de calendario del programa {#program-schedule-view}
 
 Además del calendario de marketing con el que administra los eventos y los programas predeterminados, hay una nueva vista de programación en el programa.
 
@@ -47,7 +47,7 @@ Además del calendario de marketing con el que administra los eventos y los prog
 
 ## Operaciones de lista en la API de REST {#list-operations-in-the-rest-api}
 
-Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api) para obtener toda la documentación.
+Hemos añadido las llamadas siguientes relacionadas con las operaciones de lista en ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api) para obtener toda la documentación.
 
 * Obtener lista por identificador
 * Obtener varias listas
@@ -78,7 +78,7 @@ La página RTP Set Campaign ahora [incluye plantillas listas para usar](/help/ma
 
 ## RTP: Mejoras en la API de JavaScript {#rtp-javascript-api-enhancements}
 
-Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestro [sitio para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener documentación completa.
+Nueva llamada de API de RTP para obtener datos de visitantes en tiempo real, como organización, sector, ubicación y coincidencia de código de segmento. Además, al pasar el ratón por encima de un nombre de segmento en la página Segmentos, se muestra información del objeto que muestra el código de segmento. Consulte nuestro [sitio para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obtener documentación completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

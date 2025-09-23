@@ -3,10 +3,10 @@ description: 'Asignación de campos de Dynamics predeterminada: documentos de Ma
 title: Asignación de campos de Dynamics predeterminada
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -170,7 +170,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
@@ -380,7 +380,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>

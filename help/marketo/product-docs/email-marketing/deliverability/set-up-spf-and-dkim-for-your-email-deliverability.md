@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720710
 description: 'Configuración de SPF y DKIM para la entrega de correo electrónico: Documentos de Marketo: documentación del producto'
-title: Configuración de SPF y DKIM para la entrega de correo electrónico
+title: Configuración de SPF y DKIM para la entregabilidad de correo electrónico
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Configuración de SPF y DKIM para la entrega de correo electrónico {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configuración de SPF y DKIM para la entregabilidad de correo electrónico {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 Un método rápido para mejorar tus tasas de entrega de correo electrónico es incorporar **SPF** (Marco de Política del Remitente) y **DKIM** (Domain Keys Identified Mail) en tu configuración de DNS. Con esta adición a las entradas DNS, está diciendo a los destinatarios que ha autorizado a Marketo a enviar correos electrónicos en su nombre. Sin este cambio, su correo electrónico tiene una mayor probabilidad de ser marcado como correo no deseado, ya que el correo electrónico se envió desde su dominio, pero desde una dirección IP con un dominio de Marketo.
 

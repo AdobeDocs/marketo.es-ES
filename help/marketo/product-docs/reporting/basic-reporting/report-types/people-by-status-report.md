@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360012
 description: Informe Personas por Estado - Documentos de Marketo - Documentación del producto
-title: Informe Personas por Estado
+title: Informe de personas por estado
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Informe Personas por Estado {#people-by-status-report}
+# Informe de personas por estado {#people-by-status-report}
 
 Revise lo bien que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen en cada valor de _[!UICONTROL Estado de la persona]_ cada mes.
 

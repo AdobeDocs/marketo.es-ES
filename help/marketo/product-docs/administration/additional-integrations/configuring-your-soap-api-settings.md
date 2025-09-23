@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360352
-description: 'SOAP Configuración de la API de la: Documentos de Marketo: documentación del producto'
-title: SOAP Configuración de la API de
+description: Configuración de la API de SOAP - Documentos de Marketo - Documentación del producto
+title: Configuración de la API de SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# SOAP Configuración de la API de {#configuring-your-soap-api-settings}
+# Configuración de la API de SOAP {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
@@ -35,8 +35,8 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->SOAP Su extremo de la lista de distribución y [!UICONTROL ID de usuario] serán únicos; no envíe la captura de pantalla de este artículo a su desarrollador.
+>El extremo de SOAP y [!UICONTROL Id. de usuario] serán únicos; no envíe la captura de pantalla de este artículo a su Desarrollador.
 
 >[!MORELIKETHIS]
 >
->SOAP [Documentación de API de](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/soap/soap-api)
+>[Documentación de la API de SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

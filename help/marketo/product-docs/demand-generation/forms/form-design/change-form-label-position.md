@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359612
 description: Cambiar posición de etiqueta de formulario - Documentos de Marketo - Documentación del producto
-title: Cambiar posición de etiqueta de formulario
+title: Cambiar posición de etiqueta del formulario
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Cambiar posición de etiqueta de formulario {#change-form-label-position}
+# Cambiar posición de etiqueta del formulario {#change-form-label-position}
 
-Al [crear un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas del campo de formulario muy fácilmente. Así es como.
+Al [crear un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas del campo de formulario muy fácilmente. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

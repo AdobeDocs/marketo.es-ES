@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: Información general del centro de comandos - Documentos de Marketo - Documentación del producto
-title: Información general del centro de comandos
+title: Información general sobre el centro de comandos
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '576'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Información general del centro de comandos {#command-center-overview}
+# Información general sobre el centro de comandos {#command-center-overview}
 
 El Centro de elogios es una sola vista unificada que le ayuda a descubrir su siguiente paso, mientras se asegura de que nada se salga de las grietas.
 

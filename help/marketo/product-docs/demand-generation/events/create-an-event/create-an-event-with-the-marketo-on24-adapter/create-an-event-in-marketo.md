@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096725
 description: 'Creación de un evento en Marketo: documentos de Marketo, documentación del producto'
-title: Creación de un evento en Marketo
+title: Crear un evento en Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Creación de un evento en Marketo {#create-an-event-in-marketo}
+# Crear un evento en Marketo {#create-an-event-in-marketo}
 
 Un evento de Marketo rastrea la progresión de sus recursos a través de un programa. Inserta información de registro y extrae información de asistencia utilizando el adaptador ON24. El evento registra el estado de sus recursos a medida que avanzan por él.
 

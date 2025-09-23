@@ -3,10 +3,10 @@ description: 'Administrar plantillas: documentos de Marketo, documentación del 
 title: Administrar plantillas
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -87,7 +87,7 @@ Si utiliza una de las cuentas de equipo, todas las plantillas seguirán siendo p
 
    ![](assets/manage-templates-9.png)
 
-## Favorito de una plantilla {#favorite-a-template}
+## Añadir una plantilla a favoritos {#favorite-a-template}
 
 Puede agregar plantillas de cualquier categoría a la lista Favoritos. Esto genera automáticamente una nueva categoría en la parte superior de la lista para que pueda acceder rápidamente a las plantillas que más utiliza.
 

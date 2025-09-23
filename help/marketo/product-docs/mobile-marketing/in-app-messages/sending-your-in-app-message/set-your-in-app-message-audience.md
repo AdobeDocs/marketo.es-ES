@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617431
 description: 'Definición de la audiencia de los mensajes en la aplicación: documentos de Marketo, documentación del producto'
-title: Establezca La Audiencia De Mensajes En La Aplicación
+title: Establecer la audiencia del mensaje en la aplicación
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Establezca La Audiencia De Mensajes En La Aplicación {#set-your-in-app-message-audience}
+# Establecer la audiencia del mensaje en la aplicación {#set-your-in-app-message-audience}
 
 El primer paso es decidir quién debe recibir el mensaje en la aplicación. Debe configurar la lista inteligente.
 

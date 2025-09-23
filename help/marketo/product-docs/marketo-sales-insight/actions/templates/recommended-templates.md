@@ -3,10 +3,10 @@ description: 'Plantillas recomendadas: Documentos de Marketo, documentación del
 title: Plantillas recomendadas
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

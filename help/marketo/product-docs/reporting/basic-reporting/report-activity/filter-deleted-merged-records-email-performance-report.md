@@ -2,14 +2,15 @@
 description: 'Filtrado de registros combinados o eliminados en un informe por correo electrónico: documentos de Marketo, documentación del producto'
 title: Filtrado de registros combinados o eliminados en un informe por correo electrónico
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Filtrado de registros eliminados o combinados en un informe de rendimiento de correo electrónico {#filter-deleted-merged-records-in-an-email-performance-report}
+# Filtrar registros eliminados o combinados en un informe de rendimiento por correo electrónico {#filter-deleted-merged-records-in-an-email-performance-report}
 
 Centre su informe de rendimiento del correo electrónico en los correos electrónicos de sus programas (&quot;recursos locales&quot;), en los de Design Studio (&quot;recursos globales&quot;) o en los que se han archivado.
 

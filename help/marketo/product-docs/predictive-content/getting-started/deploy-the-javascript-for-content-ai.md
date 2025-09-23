@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385053
 description: 'Implementación de JavaScript para la inteligencia artificial aplicada al contenido: documentos de Marketo, documentación del producto'
-title: Implementación de JavaScript para la inteligencia artificial aplicada al contenido
+title: Implementar JavaScript para Content-AI
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Implementación de JavaScript para la inteligencia artificial aplicada al contenido {#deploy-the-javascript-for-content-ai}
+# Implementar JavaScript para Content-AI {#deploy-the-javascript-for-content-ai}
 
 Para utilizar contenido predictivo, debe generar y configurar la etiqueta RTP (Web Personalization).
 

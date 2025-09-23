@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14745750
 description: Configuración de objetivo de algoritmo - Documentos de Marketo - Documentación del producto
-title: Configuración de objetivo de algoritmo
+title: Configuración de objetivos del algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Configuración de objetivo de algoritmo {#algorithm-goal-settings}
+# Configuración de objetivos del algoritmo {#algorithm-goal-settings}
 
 Configuración de objetivo de algoritmo le permite establecer el objetivo final del algoritmo de inteligencia artificial de contenido predictivo para alinearlo con los objetivos de su empresa.
 

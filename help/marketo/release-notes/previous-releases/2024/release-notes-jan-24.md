@@ -3,24 +3,24 @@ description: 'Notas de la versión, enero de 2024: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 6%
+ht-degree: 19%
 
 ---
 
 # Notas de la versión: enero de 2024 {#release-notes-jan-24}
 
-A continuación encontrará todas las funciones incluidas en la versión de enero de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de enero de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de enero de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 12 de enero de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -52,7 +52,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
     <tr>
    <td><strong>Filtrado de la actividad de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, ya que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrado de actividad de bots de correo electrónico</a></td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrar actividad del bot de correo electrónico</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,7 +62,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
     <tr>
    <td><strong>Actualización de la API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes cuando <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si no se encuentra un registro de persona vinculado al <b>id</b> proporcionado en la base de datos de Marketo Engage, no se producirá ninguna actualización de registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en la propiedad <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -82,7 +82,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
     <tr>
    <td><strong>Quitar un usuario en seminarios web interactivos</strong>: Un administrador de Marketo Engage ahora puede quitar un usuario específico en los seminarios web interactivos.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
  </tbody>
 </table>
@@ -192,7 +192,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 * **Actualización de cancelación de suscripción a una lista de un solo clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. [Conoce qué son y cómo te afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3&rbrace; se ha ajustado ligeramente con respecto a las actualizaciones del campo ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}. `unsubscribed` Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
+* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3} se ha ajustado ligeramente con respecto a las actualizaciones del campo ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}. `unsubscribed` Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: en nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359400
 description: Seleccionar un tema de formulario - Documentos de Marketo - Documentación del producto
-title: Seleccionar un tema de formulario
+title: Selección de un tema de formulario
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
-# Seleccionar un tema de formulario {#select-a-form-theme}
+# Selección de un tema de formulario {#select-a-form-theme}
 
 Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gusta más?
 

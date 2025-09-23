@@ -4,10 +4,10 @@ description: Configurar una firma de DKIM personalizada - Documentos de Marketo 
 title: Configurar una firma personalizada de DKIM
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Para garantizar una entrega de primer nivel, firmamos automáticamente todo el c
 >
 >Es posible que necesite la ayuda de su equipo de TI para completar algunos de los pasos de este artículo.
 
-Puede personalizar la firma de DKIM para que refleje los dominios que elija. Así es como.
+Puede personalizar la firma de DKIM para que refleje los dominios que elija. Así es cómo se hace.
 
 1. Vaya a la sección **[!UICONTROL Admin]**.
 

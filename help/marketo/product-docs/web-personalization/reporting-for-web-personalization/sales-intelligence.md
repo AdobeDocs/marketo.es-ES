@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096420
 description: Información de ventas - Documentos de Marketo - Documentación del producto
-title: Inteligencia comercial
+title: Inteligencia de ventas
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Inteligencia comercial {#sales-intelligence}
+# Inteligencia de ventas {#sales-intelligence}
 
 Marketo Web Personalization proporciona información valiosa sobre los visitantes y organizaciones web anónimos y conocidos que visitan el sitio web. Los ejecutivos de ventas pueden utilizarlo para rastrear, monitorizar y recibir alertas en organizaciones y cuentas clave según la región específica.
 

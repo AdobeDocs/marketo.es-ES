@@ -4,7 +4,7 @@ description: Puntuación de la cuenta - Documentos de Marketo - Documentación d
 title: Calificación de la cuenta
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 1%
@@ -47,9 +47,9 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 >Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés de producto de cuenta_ y _Puntuación de participación en la web de cuenta_).
 >
 >En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.
->&#x200B;>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
->&#x200B;>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
->&#x200B;>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
+>>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
+>>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
+>>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
 
 >[!NOTE]
 >

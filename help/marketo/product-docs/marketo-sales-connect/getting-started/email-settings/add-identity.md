@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352412
 description: 'Añadir identidad: Documentos de Marketo: documentación del producto'
-title: Agregar identidad
+title: Añadir identidad
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
 
 ---
 
-# Agregar identidad {#add-identity}
+# Añadir identidad {#add-identity}
 
 Añada una identidad cuando tenga varias direcciones de correo electrónico desde las que enviar.
 

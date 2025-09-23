@@ -4,7 +4,7 @@ description: 'Sincronizar persona con SFDC: documentos de Marketo: documentació
 title: Sincronizar persona con SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 6%

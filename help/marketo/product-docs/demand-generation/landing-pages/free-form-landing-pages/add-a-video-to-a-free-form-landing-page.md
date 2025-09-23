@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359722
 description: 'Añadir un vídeo a una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
-title: Adición de un vídeo a una página de aterrizaje de forma libre
+title: Añadir un vídeo a una página de destino de forma libre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Adición de un vídeo a una página de aterrizaje de forma libre {#add-a-video-to-a-free-form-landing-page}
+# Añadir un vídeo a una página de destino de forma libre {#add-a-video-to-a-free-form-landing-page}
 
 Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas de aterrizaje.
 

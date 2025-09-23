@@ -4,10 +4,10 @@ description: 'Configuración de la asignación de organizaciones de Adobe: docum
 title: Configuración de la asignación de organización de Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -36,7 +36,7 @@ Para sincronizar con aplicaciones de Adobe, como Audience Manager, el conector d
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Introduzca su ID de organización de Adobe IMS (aprenda a encontrar eso [aquí](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es){target="_blank"}) y haga clic en **[!UICONTROL Aceptar]**.
+1. Introduzca su ID de organización de Adobe IMS (aprenda a encontrar eso [aquí](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) y haga clic en **[!UICONTROL Aceptar]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

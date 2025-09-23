@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949251
 description: 'SEO: Adición o eliminación de una URL de vínculo entrante de una lista: documentos de Marketo: documentación del producto'
-title: 'SEO: Agregar o quitar una URL de vínculo de entrada de una lista'
+title: 'SEO: añadir o quitar una URL de vínculo de entrada de una lista'
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# SEO: Agregar o quitar una URL de vínculo de entrada de una lista {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO: añadir o quitar una URL de vínculo de entrada de una lista {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Puede organizar las direcciones URL de los vínculos de entrada para el contenido de su corazón.
 

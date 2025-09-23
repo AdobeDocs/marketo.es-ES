@@ -4,10 +4,10 @@ description: Informe de rendimiento de correo electrónico - Documentos de Marke
 title: Informe de rendimiento de correo electrónico
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

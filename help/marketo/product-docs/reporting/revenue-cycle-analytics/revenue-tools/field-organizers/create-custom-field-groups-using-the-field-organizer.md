@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094404
 description: Creación de grupos de campos personalizados con el organizador de campos - Documentos de Marketo - Documentación del producto
-title: Creación de grupos de campos personalizados con el organizador de campos
+title: Crear grupos de campos personalizados con el organizador de campos
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1000'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Creación de grupos de campos personalizados con el organizador de campos {#create-custom-field-groups-using-the-field-organizer}
+# Crear grupos de campos personalizados con el organizador de campos {#create-custom-field-groups-using-the-field-organizer}
 
 Antes de poder habilitar los grupos de campos personalizados para la creación de informes en el área Análisis de rendimiento del modelo (posibles clientes) del Explorador de ciclos de ingresos, debe categorizar los campos estándar o personalizados en grupos para la creación de informes mediante el Organizador de campos en Marketo Lead Management. Esto solo se aplica a los atributos del cliente potencial y de la compañía.
 Al seleccionar un campo estándar o personalizado en la lista desplegable Campo del cuadro de diálogo Nuevo organizador de campos, el sistema asigna el tipo de datos de Marketo Lead Management asociado al campo que desea agrupar con uno de los tres editores disponibles en el organizador de campos: cadena, entero o fecha.

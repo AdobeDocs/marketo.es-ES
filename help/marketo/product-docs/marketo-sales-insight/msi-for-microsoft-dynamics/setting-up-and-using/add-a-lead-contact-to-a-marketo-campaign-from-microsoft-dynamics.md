@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953342
 description: 'Añadir un posible cliente/contacto a una campaña de Marketo desde Microsoft Dynamics: documentos de Marketo, documentación del producto'
-title: Añadir un posible cliente/contacto a una campaña de Marketo desde Microsoft Dynamics
+title: Añadir un posible cliente o contacto a una campaña de Marketo desde Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 # Agregar un posible cliente/contacto a una campaña de Marketo desde [!DNL Microsoft Dynamics] {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-Puede agregar rápida y fácilmente posibles clientes o contactos a las campañas inteligentes de Marketo directamente desde [!DNL Microsoft Dynamics]. Así es como.
+Puede agregar rápida y fácilmente posibles clientes o contactos a las campañas inteligentes de Marketo directamente desde [!DNL Microsoft Dynamics]. Así es cómo se hace.
 
 1. En [!DNL Dynamics], vaya al área de **[!UICONTROL Ventas]**.
 

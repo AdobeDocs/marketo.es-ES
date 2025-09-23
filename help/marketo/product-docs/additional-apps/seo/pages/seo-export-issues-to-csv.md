@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949222
 description: 'SEO: Problemas de exportación a CSV - Documentos de Marketo: documentación del producto'
-title: 'SEO: Exportar problemas a CSV'
+title: 'SEO: exportar problemas a CSV'
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# SEO: Exportar problemas a CSV {#seo-export-issues-to-csv}
+# SEO: exportar problemas a CSV {#seo-export-issues-to-csv}
 
-Puede exportar los datos de [problema de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) a un archivo CSV si desea compartir esa información con personas fuera de Marketo. Así es como.
+Puede exportar los datos de [problema de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) a un archivo CSV si desea compartir esa información con personas fuera de Marketo. Así es cómo se hace.
 
 1. Vaya a la sección **[!UICONTROL Páginas]**.
 

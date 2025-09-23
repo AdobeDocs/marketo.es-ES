@@ -4,10 +4,10 @@ description: Configuración del tamaño del informe - Documentos de Marketo - Do
 title: Configurar el tamaño del informe
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De forma predeterminada, los informes de Marketo están limitados a un máximo de 5000 filas, pero puede cambiar ese límite.
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 

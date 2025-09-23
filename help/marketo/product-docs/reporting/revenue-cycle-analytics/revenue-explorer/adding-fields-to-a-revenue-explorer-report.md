@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: Adición de campos a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
-title: Adición de campos a un informe del Explorador de ingresos
+title: Adición de campos a un informe de explorador de ingresos
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Adición de campos a un informe del Explorador de ingresos {#adding-fields-to-a-revenue-explorer-report}
+# Adición de campos a un informe de explorador de ingresos {#adding-fields-to-a-revenue-explorer-report}
 
 Personalice los informes del explorador de ingresos arrastrando y soltando los campos de dimensión y métrica en el lienzo.
 

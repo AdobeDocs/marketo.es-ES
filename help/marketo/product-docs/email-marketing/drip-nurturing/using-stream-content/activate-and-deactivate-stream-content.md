@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359669
 description: 'Activación y desactivación del contenido de la emisión: documentos de Marketo, documentación del producto'
-title: Activar y desactivar contenido de la emisión
+title: Activar y desactivar contenido de flujo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Activar y desactivar contenido de la emisión {#activate-and-deactivate-stream-content}
+# Activar y desactivar contenido de flujo {#activate-and-deactivate-stream-content}
 
 El contenido de la emisión está desactivado de forma predeterminada. Active el contenido para enviarlo durante los lanzamientos de participación.
 

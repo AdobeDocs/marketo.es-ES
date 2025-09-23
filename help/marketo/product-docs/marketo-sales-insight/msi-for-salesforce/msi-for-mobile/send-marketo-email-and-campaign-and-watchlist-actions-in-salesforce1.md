@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
 description: 'Envío de correos electrónicos y acciones de campaña y lista de observación de Marketo en Salesforce1: documentos de Marketo: documentación del producto'
-title: Envío de correos electrónicos de Marketo y acciones de campañas y listas de observación en Salesforce1
+title: Enviar correo electrónico y acciones de campaña y lista de observación de Marketo en Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

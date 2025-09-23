@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: 'Filtrado de informes de correo electrónico de Assets en una campaña: documentos de Marketo, documentación del producto'
-title: Filtrado de informes de Assets en un correo electrónico de Campaign
+title: Filtrar recursos en informes por correo electrónico de campaña
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrado de informes de Assets en un correo electrónico de Campaign {#filter-assets-in-a-campaign-email-reports}
+# Filtrar recursos en informes por correo electrónico de campaña {#filter-assets-in-a-campaign-email-reports}
 
 Enfoque su informe de [Rendimiento de correo electrónico de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) en [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) específicas de sus programas (&quot;recursos locales&quot;) o en los que se han archivado.
 

@@ -4,7 +4,7 @@ description: 'Enviar y rastrear un correo electrónico con el complemento de cor
 title: Enviar y rastrear un correo electrónico con el complemento de correo electrónico para  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949218
 description: 'SEO: Agregar o eliminar página de la lista, documentos de Marketo: documentación del producto'
-title: 'SEO: Agregar/eliminar página de la lista'
+title: 'SEO: añadir/eliminar página de la lista'
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO: Agregar/eliminar página de la lista {#seo-add-remove-page-from-list}
+# SEO: añadir/eliminar página de la lista {#seo-add-remove-page-from-list}
 
 ¿Desea administrar sus páginas? Puede hacerlo fácilmente creando una lista. Puede utilizar listas para organizar páginas o filtrar datos en los paneles.
 

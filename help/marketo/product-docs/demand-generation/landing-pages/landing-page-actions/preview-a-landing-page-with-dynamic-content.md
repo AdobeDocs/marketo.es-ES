@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359734
 description: 'Previsualización de una página de aterrizaje con contenido dinámico: documentos de Marketo, documentación del producto'
-title: Previsualización de una página de aterrizaje con contenido dinámico
+title: Previsualización de una página de destino con contenido dinámico
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Previsualización de una página de aterrizaje con contenido dinámico {#preview-a-landing-page-with-dynamic-content}
+# Previsualización de una página de destino con contenido dinámico {#preview-a-landing-page-with-dynamic-content}
 
 Obtenga una vista previa de la página de aterrizaje después de agregar contenido dinámico para asegurarse de que todo tiene el aspecto que debería.
 

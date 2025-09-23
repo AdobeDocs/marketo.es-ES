@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360247
 description: 'Cambio de la etiqueta predeterminada Desde correo electrónico y Desde: documentos de Marketo: documentación del producto'
-title: Cambiar la etiqueta predeterminada Desde correo electrónico y Desde
+title: Cambio de la etiqueta predeterminada Desde correo electrónico y Desde
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Cambiar la etiqueta predeterminada Desde correo electrónico y Desde {#change-the-default-from-email-and-from-label}
+# Cambio de la etiqueta predeterminada Desde correo electrónico y Desde {#change-the-default-from-email-and-from-label}
 
 Cada usuario administrador tiene la capacidad de cambiar los valores predeterminados de **[!UICONTROL De correo electrónico]** y **[!UICONTROL De etiqueta]** para que cuando cree nuevos correos electrónicos, se utilicen esos valores predeterminados.
 

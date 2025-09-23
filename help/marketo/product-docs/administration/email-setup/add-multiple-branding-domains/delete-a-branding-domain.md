@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378041
 description: 'Eliminar un dominio de marca: documentos de Marketo, documentación del producto'
-title: Eliminar un dominio de marca
+title: Eliminar un dominio de personalización de marca
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Eliminar un dominio de marca {#delete-a-branding-domain}
+# Eliminar un dominio de personalización de marca {#delete-a-branding-domain}
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

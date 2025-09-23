@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: 'Reenviar a un amigo en correos electrónicos: documentos de Marketo, documentación del producto'
-title: Reenviar a un amigo Vínculo en correos electrónicos
+title: Reenviar a un amigo el vínculo en correos electrónicos
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Reenviar a un amigo Vínculo en correos electrónicos {#forward-to-a-friend-link-in-emails}
+# Reenviar a un amigo el vínculo en correos electrónicos {#forward-to-a-friend-link-in-emails}
 
 Añadir el vínculo &quot;Reenviar a un amigo&quot; a sus correos electrónicos le permite rastrear a las personas que han recibido un correo electrónico reenviado a través de este vínculo y añadirlas automáticamente como una persona nueva si aún no están en la base de datos.
 

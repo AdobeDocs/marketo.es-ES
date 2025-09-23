@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352639
 description: 'Creación de una nueva plantilla: documentos de Marketo, documentación del producto'
-title: Crear una plantilla nueva
+title: Crear una nueva plantilla
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Crear una plantilla nueva {#create-a-new-template}
+# Crear una nueva plantilla {#create-a-new-template}
 
 1. Vaya a la pestaña **[!UICONTROL Plantillas]** y haga clic en **[!UICONTROL Crear plantilla]**.
 

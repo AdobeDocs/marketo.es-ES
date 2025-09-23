@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352407
 description: 'Resumen del canal de entrega: documentos de Marketo, documentación del producto'
-title: Resumen del canal de entrega
+title: Información general sobre el canal de entrega
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Resumen del canal de entrega {#delivery-channel-overview}
+# Información general sobre el canal de entrega {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] le ofrece varias opciones para enviar correos electrónicos. Este artículo revisa los canales de envío que puede aprovechar, cómo seleccionarlos y cuándo elegir uno sobre otro.
 

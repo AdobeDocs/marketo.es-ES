@@ -4,16 +4,16 @@ description: 'Plantilla 2B: Documentos de Marketo: documentación del producto'
 title: Plantilla 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Plantilla 2B {#template-2b}
 
-Haga clic con el botón derecho para [descargar la plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=es)
+[Plantilla 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

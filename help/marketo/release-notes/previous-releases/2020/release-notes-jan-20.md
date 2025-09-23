@@ -4,10 +4,10 @@ description: 'Notas de la versión, enero de 2020: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 0%
+source-wordcount: '794'
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Edición de imágenes](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=es#design-studio): accede a las funciones de edición de Adobe sin tener que salir de Marketo Engage. Esta nueva funcionalidad le permite mejorar, recortar y agregar texto a las imágenes directamente en [!UICONTROL Design Studio].
+* [Edición de imágenes](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): accede a las funciones de edición de Adobe sin tener que salir de Marketo Engage. Esta nueva funcionalidad le permite mejorar, recortar y agregar texto a las imágenes directamente en [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 >
 >* **Actualización de ITP 2.1+ [!DNL Munchkin]**: Debido a los cambios en la directiva de cookies de [!DNL Safari], ITP limitará la capacidad de [!DNL Munchkin] para rastrear a los usuarios entre sesiones en el mismo dominio a 1 o 7 días según la versión del explorador y el explorador que utilice el visitante. Para tener en cuenta esto, estamos implementando un nuevo servicio web para permitir que las cookies de Munchkin se configuren con un encabezado Set-Cookie a través de una respuesta HTTP. Encontrará más información sobre cómo implementar este nuevo servicio [aquí](https://nation.marketo.com/docs/DOC-7351).
 
-**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00 a.m. PT / 2:00 p.m. ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.
+**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00AM PT / 2:00PM ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.

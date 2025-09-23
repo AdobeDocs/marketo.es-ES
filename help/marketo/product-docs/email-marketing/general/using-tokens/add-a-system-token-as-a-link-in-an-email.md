@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900573
 description: 'Adición de un token de sistema como vínculo en un correo electrónico: documentos de Marketo, documentación del producto'
-title: Añadir un token de sistema como vínculo en un correo electrónico
+title: Añadir un token del sistema como un vínculo en un correo electrónico
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Añadir un token de sistema como vínculo en un correo electrónico {#add-a-system-token-as-a-link-in-an-email}
+# Añadir un token del sistema como un vínculo en un correo electrónico {#add-a-system-token-as-a-link-in-an-email}
 
 Puede utilizar estos tokens del sistema para personalizar la posición de los vínculos especiales en los correos electrónicos.
 

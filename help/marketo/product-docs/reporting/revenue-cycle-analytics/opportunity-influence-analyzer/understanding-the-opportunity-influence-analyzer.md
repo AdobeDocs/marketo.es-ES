@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718648
 description: 'Explicación del analizador de influencia de oportunidades: documentos de Marketo, documentación del producto'
-title: Explicación de Opportunity Influence Analyzer
+title: Explicación del analizador de influencia de la oportunidad
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Explicación de Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
+# Explicación del analizador de influencia de la oportunidad {#understanding-the-opportunity-influence-analyzer}
 
 Cada oportunidad es una historia. ¿Dónde conociste al líder? ¿Qué oportunidades de marketing les afectaron durante el proceso de marketing/ventas?
 

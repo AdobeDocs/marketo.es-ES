@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949202
 description: 'SEO: Obtener palabras clave sugeridas - Documentos de Marketo: documentación del producto'
-title: 'SEO: Obtener palabras clave sugeridas'
+title: 'SEO: obtener palabras clave sugeridas'
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# SEO: Obtener palabras clave sugeridas {#seo-get-suggested-keywords}
+# SEO: obtener palabras clave sugeridas {#seo-get-suggested-keywords}
 
 El SEO de Marketo puede sugerir qué palabras clave debe rastrear. Podemos dar sugerencias basadas en una palabra clave o en la URL de un sitio. ¡Dale una oportunidad!
 

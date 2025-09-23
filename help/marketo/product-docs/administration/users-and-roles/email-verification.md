@@ -3,10 +3,10 @@ description: Verificación por correo electrónico - Documentos de Marketo - Doc
 title: Verificación de correo electrónico
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '469'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Las suscripciones a Adobe Marketo Engage requieren que todos los usuarios que no
 
 ## Por qué se introdujo esta función {#why-this-feature-was-introduced}
 
-El Marketo Engage continúa con la implementación de la verificación por correo electrónico como preparación para migrar clientes a Adobe Business Platform, incluida la migración de usuarios a ID de Adobe. Esta función mejora la seguridad de las cuentas de usuario de Marketo Engage existentes. Para garantizar que un usuario Marketo Engage esté asociado con el Adobe ID adecuado, los usuarios Marketo Engage existentes deben comprobar su dirección de correo electrónico. Un usuario Marketo Engage debe tener una dirección de correo electrónico verificada para poder migrar a un Adobe ID. Si un usuario Marketo Engage no comprueba su dirección de correo electrónico, no puede migrarse a una Adobe ID y perderá el acceso a una suscripción de Marketo una vez completada la migración de usuario para la suscripción.
+Marketo Engage continúa con la implementación de la verificación por correo electrónico como preparación para migrar clientes a Adobe Business Platform, incluida la migración de usuarios a Adobe ID. Esta función mejora la seguridad de las cuentas de usuario de Marketo Engage existentes. Para garantizar que un usuario de Marketo Engage esté asociado con el Adobe ID adecuado, los usuarios de Marketo Engage existentes deben comprobar su dirección de correo electrónico. Un usuario de Marketo Engage debe tener una dirección de correo electrónico verificada para poder migrar a un Adobe ID. Si un usuario de Marketo Engage no comprueba su dirección de correo electrónico, no puede migrarse a una Adobe ID y perderá el acceso a una suscripción de Marketo una vez completada la migración de usuario para la suscripción.
 
 ## Invitación de usuario {#user-invite}
 
@@ -56,7 +56,7 @@ En **[!UICONTROL Administración]** > **[!UICONTROL Usuarios y roles]**, la colu
 
 ## ID de inicio de sesión de varios usuarios {#multiple-user-login-ids}
 
-Solo se puede asociar una cuenta de usuario a una sola dirección de correo electrónico. Si hay varias cuentas de usuario asociadas a una sola dirección de correo electrónico, Marketo Engage requiere que se resuelva el conflicto y se muestren todos los inicios de sesión de usuario asociados a la dirección de correo electrónico, así como tres opciones de resolución:
+Solo se puede asociar una cuenta de usuario a una sola dirección de correo electrónico. Si hay varias cuentas de usuario asociadas a una sola dirección de correo electrónico, Marketo Engage requerirá que se resuelva el conflicto y se muestren todos los inicios de sesión de usuario asociados a la dirección de correo electrónico, así como tres opciones de resolución:
 
 * Usar el correo electrónico actual para el ID de inicio de sesión del usuario actual
 * Usar un nuevo correo electrónico para el ID de inicio de sesión del usuario actual

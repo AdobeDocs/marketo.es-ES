@@ -1,16 +1,16 @@
 ---
 description: Asignación de tareas a integrantes del equipo - Documentos de Marketo - Documentación del producto
-title: Asignar tareas a integrantes del equipo
+title: Asignación de tareas a los integrantes del equipo
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Asignar tareas a integrantes del equipo {#assigning-tasks-to-team-members}
+# Asignación de tareas a los integrantes del equipo {#assigning-tasks-to-team-members}
 
 Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser una buena manera de coordinar sus esfuerzos de prospección.
 

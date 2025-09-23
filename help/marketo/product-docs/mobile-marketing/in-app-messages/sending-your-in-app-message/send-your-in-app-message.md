@@ -1,16 +1,16 @@
 ---
 description: 'Envío De Un Mensaje En La Aplicación: Documentos De Marketo, Documentación Del Producto'
-title: Envío De Un Mensaje En La Aplicación
+title: Envíe el mensaje en la aplicación
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Envío De Un Mensaje En La Aplicación {#send-your-in-app-message}
+# Envíe el mensaje en la aplicación {#send-your-in-app-message}
 
 Después de crear el mensaje en la aplicación, es hora de enviarlo. Estos son los pasos:
 

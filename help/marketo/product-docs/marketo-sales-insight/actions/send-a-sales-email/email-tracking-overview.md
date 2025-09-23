@@ -1,18 +1,18 @@
 ---
 description: Información general sobre el seguimiento de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Resumen de seguimiento de correo electrónico
+title: Información general de seguimiento de correo electrónico
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Resumen de seguimiento de correo electrónico {#email-tracking-overview}
+# Información general de seguimiento de correo electrónico {#email-tracking-overview}
 
-## Funcionamiento del seguimiento de respuestas {#how-reply-tracking-works}
+## Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}
 
 El seguimiento de respuestas se realiza mirando un ID de mensaje que hay en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener algunos de los mejores resultados de seguimiento de respuestas.
 
@@ -24,7 +24,7 @@ Si [!DNL Sales Connect] no puede rastrear la respuesta de su posible cliente a s
 
 Esto significa que si envía un correo electrónico a <flynn@flynnsarcade.com> y él responde con <kevinf@flynnsarcade.com>, podremos realizar un seguimiento de la respuesta. Además, si envía un correo electrónico a <flynn@flynnsarcade.com> y CC <alan@encom.com>, y Alan le devuelve una respuesta, también detectará la respuesta y finalizará la campaña.
 
-## Seguimiento de los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
+## Cómo seguir los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] ofrece seguimiento en los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se han abierto o descargado y qué páginas está viendo el destinatario. Le permitiremos usar nuestra función de archivos adjuntos rastreables desde la [aplicación web](https://toutapp.com/login) y Gmail (o aplicaciones de Google).
 
@@ -46,7 +46,7 @@ Esto significa que si envía un correo electrónico a <flynn@flynnsarcade.com> y
 >
 >Si no desea rastrear un archivo adjunto, simplemente haga clic en Adjuntar archivos y no se rastreará este archivo adjunto.
 
-## Funcionamiento del seguimiento de vistas {#how-view-tracking-works}
+## Cómo funciona el seguimiento de visitas {#how-view-tracking-works}
 
 Rastreamos las aperturas de correos electrónicos colocando una imagen invisible dentro de los correos electrónicos que envía.
 

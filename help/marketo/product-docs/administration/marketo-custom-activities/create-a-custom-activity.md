@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098479
 description: 'Creación de una actividad personalizada: documentos de Marketo, documentación del producto'
-title: Crear una actividad personalizada
+title: Creación de una actividad personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Crear una actividad personalizada {#create-a-custom-activity}
+# Creación de una actividad personalizada {#create-a-custom-activity}
 
 Siga estos pasos para crear una nueva actividad personalizada.
 

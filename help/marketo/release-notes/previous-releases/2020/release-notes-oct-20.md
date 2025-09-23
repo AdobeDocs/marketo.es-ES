@@ -4,14 +4,14 @@ description: 'Notas de la versión, octubre de 2020: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notas de la versión: octubre de 2020 {#release-notes-oct}
+# Notas de la versión: mayo de 2020 {#release-notes-oct}
 
 Las siguientes funciones se incluyen en la versión de octubre de 2020. Compruebe la disponibilidad de las funciones en Marketo Edition.
 
@@ -21,7 +21,7 @@ Las siguientes funciones se incluyen en la versión de octubre de 2020. Comprueb
 
 **_Versiones trimestrales_** Las siguientes características se lanzarán el **16 de octubre de 2020**.
 
-## Gestión de la cuenta objetivo {#target-account-management}
+## Administración de cuentas objetivo {#target-account-management}
 
 ![(estrella)](assets/yellow-star.png)
 

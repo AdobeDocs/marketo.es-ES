@@ -1,12 +1,12 @@
 ---
 description: 'Sincronización de tareas de recordatorio con Salesforce: documentos de Marketo, documentación del producto'
-title: Sincronización de tareas de recordatorio con Salesforce
+title: Sincronización de las tareas de recordatorio con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

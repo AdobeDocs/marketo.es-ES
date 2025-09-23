@@ -3,20 +3,20 @@ description: Límites de uso de productos - Documentos de Marketo - Documentaci�
 title: Límites de uso del producto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
 # Límites de uso del producto {#product-usage-limits}
 
-A continuación, se muestran los límites para el uso de las funciones de participación en ventas ampliadas disponibles con las acciones de conocimiento de ventas.
+A continuación, se indican los límites para el uso de las funciones de participación en ventas ampliadas disponibles con las acciones de Insight de ventas.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions es una aplicación basada en web que se integra exclusivamente con Salesforce CRM mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
+>Marketo Sales Insight Actions es una aplicación basada en la Web que se integra exclusivamente con Salesforce CRM mediante el [paquete Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 <table>
   <th>Funcionalidad</th>
@@ -38,7 +38,7 @@ A continuación, se muestran los límites para el uso de las funciones de partic
   <td>200</td>
  </tr>
  <tr>
-  <td>Plantillas de email</td>
+  <td>Plantillas de correo electrónico</td>
   <td>por instancia</td>
   <td>2.000</td>
  </tr>
@@ -112,12 +112,12 @@ A continuación, se muestran los límites para el uso de las funciones de partic
   <td>20</td>
  </tr>
  <tr>
-  <td>Resultados de llamadas</td>
+  <td>Resultados de las llamadas</td>
   <td>por instancia</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>Razones de llamada</td>
+  <td>Motivos de la llamada</td>
   <td>por instancia</td>
   <td>15</td>
  </tr>

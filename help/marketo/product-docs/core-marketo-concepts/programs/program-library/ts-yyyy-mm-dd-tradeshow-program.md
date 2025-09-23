@@ -1,16 +1,16 @@
 ---
 description: Programa de ferias comerciales TS-AAAA-MM-DD - Documentos de Marketo - Documentación del producto
-title: Programa de Ferias Comerciales TS-AAAA-MM-DD
+title: TS-AAAA-MM-DD-Programa de la feria comercial
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
-# Programa de Ferias Comerciales TS-AAAA-MM-DD {#ts-yyyy-mm-dd-tradeshow-program}
+# TS-AAAA-MM-DD-Programa de la feria comercial {#ts-yyyy-mm-dd-tradeshow-program}
 
 Este es un ejemplo de programa de feria comercial con invitaciones y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 

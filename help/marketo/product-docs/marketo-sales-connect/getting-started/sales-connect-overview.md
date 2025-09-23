@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796464
 description: 'Información general sobre Sales Connect: Documentos de Marketo: documentación del producto'
-title: Información general de Sales Connect
+title: Información general sobre Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 11%
+ht-degree: 17%
 
 ---
 
-# Información general de Sales Connect {#sales-connect-overview}
+# Información general sobre Sales Connect {#sales-connect-overview}
 
 Marketo Sales Connect es una solución de soporte de ventas multifacética con una variedad de funciones que le ayudan a impulsar la participación a lo largo de todo el ciclo de ventas.
 
@@ -19,13 +19,13 @@ Marketo Sales Connect es una solución de soporte de ventas multifacética con u
 >
 >No todos han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-## La Live Feed {#the-live-feed}
+## La fuente directa {#the-live-feed}
 
 Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de marketing como de ventas.
 
 ![](assets/engagement.jpg)
 
-## Vista de detalles de persona {#person-detail-view}
+## Vista de detalle de persona {#person-detail-view}
 
 Acceder a [estadísticas detalladas de personas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 

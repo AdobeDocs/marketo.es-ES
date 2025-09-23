@@ -3,10 +3,10 @@ description: 'Seguimiento de aperturas de correo electrónico en el nivel de cam
 title: Seguimiento de aperturas de correo electrónico en el nivel de campaña
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 

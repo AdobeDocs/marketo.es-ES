@@ -4,10 +4,10 @@ description: 'Notas de la versión, enero de 2015, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '354'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 * Obtener posibles clientes por ID de programa
 * Obtener posibles clientes eliminados
 
-Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
 **Compatibilidad con objeto personalizado de scripts de correo electrónico**
 
@@ -62,6 +62,6 @@ Las opciones de la etiqueta RTP de Configuración de cuenta se han actualizado p
 1. Etiqueta asíncrona sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

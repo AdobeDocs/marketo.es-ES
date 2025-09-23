@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952678
 description: Usar el token para enviar información de alerta {{SP_Send_Alert_Info}} - Documentos de Marketo - Documentación del producto
-title: Usar el token Enviar información de alerta
+title: Usar el token de información de envío de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Usar el token Enviar información de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
+# Usar el token de información de envío de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
 El token `{{SP_Send_Alert_Info}}` es un token especial que se utilizará al crear correos electrónicos de alerta para su equipo de ventas.
 

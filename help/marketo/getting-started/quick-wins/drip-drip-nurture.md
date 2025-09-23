@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359420
 description: Goteo, Goteo, Nutrición - Marketo Docs - Documentación del Producto
-title: Goteo, Goteo, Nutrición
+title: Sistema de goteo y nutrición
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 0%
+source-wordcount: '466'
+ht-degree: 7%
 
 ---
 
-# Goteo, Goteo, Nutrición {#drip-drip-nurture}
+# Sistema de goteo y nutrición {#drip-drip-nurture}
 
 ## Misión: Nutrir a las personas que asistieron a su reciente feria comercial {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -19,12 +19,12 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Paso 1: Crear un programa de participación {#step-create-an-engagement-program}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
@@ -134,7 +134,7 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
 
 ## Paso 6: Añadir una persona de prueba a su programa de participación {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vaya al área de **[!UICONTROL Base de datos]**.
+1. Vaya al área **[!UICONTROL Base de datos]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -154,7 +154,7 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. ¡Misión completa!
+1. Misión completada.
 
 1. Debe recibir un correo electrónico a la hora y cadencia especificadas.
 
@@ -162,10 +162,10 @@ Ahora es el momento de crear un flujo de contenido para su programa de participa
    >
    >Más información sobre [Programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## ¡Misión completa! {#mission-complete}
+## Misión completada. {#mission-complete}
 
 <br> 
 
 [◄ Misión 5: Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Misión 7: Personalizar un ► de correo electrónico](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Misión 7: personalizar un correo electrónico ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093041
 description: 'Edición de una suscripción a una lista inteligente: documentos de Marketo, documentación del producto'
-title: Editar una suscripción a una lista inteligente
+title: Editar una suscripción de lista inteligente
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Editar una suscripción a una lista inteligente {#edit-a-smart-list-subscription}
+# Editar una suscripción de lista inteligente {#edit-a-smart-list-subscription}
 
 Puede editar estas columnas directamente en la pestaña Subscriptions, que aparece en Marketing Activities o Database:
 

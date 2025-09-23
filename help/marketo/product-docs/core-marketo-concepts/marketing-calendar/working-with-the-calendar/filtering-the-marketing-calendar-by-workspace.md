@@ -4,10 +4,10 @@ description: Filtrado del calendario de marketing mediante Workspace - Documento
 title: Filtrado del calendario de marketing por Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

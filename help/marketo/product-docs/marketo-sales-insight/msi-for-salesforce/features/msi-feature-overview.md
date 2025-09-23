@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356893
 description: 'Información general de las funciones MSI: documentos de Marketo, documentación del producto'
-title: Información general de funciones MSI
+title: Información general sobre la función MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Información general de funciones MSI {#msi-feature-overview}
+# Información general sobre la función MSI {#msi-feature-overview}
 
 MSI tiene las siguientes características disponibles en [!DNL Salesforce] Lightning y Classic.
 
@@ -194,7 +194,7 @@ Ver el rendimiento de los mensajes de correo electrónico enviados a través de 
 
 Las características de MSI son compatibles con la aplicación móvil [!DNL Salesforce]
 
-## Compatibilidad de idiomas {#language-support}
+## Compatibilidad con idiomas {#language-support}
 
 [!DNL Marketo Sales Insight] se almacena por idioma. Por lo tanto, si desea que funcione para más de un idioma, debe introducir las credenciales por separado para cada idioma.
 

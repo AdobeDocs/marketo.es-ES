@@ -4,16 +4,16 @@ description: Plantilla 6D - Documentos de Marketo - Documentación del producto
 title: Plantilla 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Plantilla 6D {#template-6d}
 
-Haga clic con el botón derecho para [descargar plantilla 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=es)
+Haga clic con el botón derecho para [descargar plantilla 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=es)
+[Plantilla 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147328
 description: 'Devoluciones graves y leves en correos electrónicos: documentos de Marketo, documentación del producto'
-title: Devoluciones graves y leves en correos electrónicos
+title: Devoluciones graves y leves de correos electrónicos
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Devoluciones graves y leves en correos electrónicos {#hard-and-soft-bounces-in-email}
+# Devoluciones graves y leves de correos electrónicos {#hard-and-soft-bounces-in-email}
 
-Una devolución grave puede hacer que la dirección de correo electrónico de una persona no sea válida cuando un servidor de correo indica a Marketo que el correo electrónico de la persona no se puede enviar. Un rebote suave significa que hubo un problema al enviar el correo electrónico a la persona; esto se resuelve automáticamente y a veces puede tardar días. Las devoluciones suaves y duras constan de [varias categorías](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Un rechazo permanente puede hacer que la dirección de correo electrónico de una persona no sea válida cuando un servidor de correo indica a Marketo que el correo electrónico de la persona no se puede entregar. Un rebote suave significa que hubo un problema al enviar el correo electrónico a la persona; esto se resuelve automáticamente y a veces puede tardar días. Los rechazos permanentes y temporales constan de [varias categorías](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
 ## Clasificación de rechazo {#bounce-classification}
 

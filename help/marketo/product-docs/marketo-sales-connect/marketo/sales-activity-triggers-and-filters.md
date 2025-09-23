@@ -1,16 +1,16 @@
 ---
 description: Déclencheur y filtros de actividades de ventas - Documentos de Marketo - Documentación del producto
-title: Déclencheur y filtros de actividades de ventas
+title: Activador y filtros de actividades de ventas
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Déclencheur y filtros de actividades de ventas {#sales-activity-triggers-and-filters}
+# Activador y filtros de actividades de ventas {#sales-activity-triggers-and-filters}
 
 Si buscas una mejor coordinación de la participación con tu equipo de ventas o quieres tener una mejor visión de cómo se relacionan con los clientes en todo el recorrido de compradores, las perspectivas de actividad de ventas en Marketo te serán útiles.
 

@@ -4,16 +4,16 @@ description: Cambio del tamaño de la fuente del formulario - Documentos de Mark
 title: Cambiar el tamaño de la fuente del formulario
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
 # Cambiar el tamaño de la fuente del formulario {#change-the-form-font-size}
 
-Marketo facilita la personalización del aspecto de los formularios. Una cosa que puede querer hacer es cambiar el tamaño de la fuente. Así es como.
+Marketo facilita la personalización del aspecto de los formularios. Una cosa que puede querer hacer es cambiar el tamaño de la fuente. Así es cómo se hace.
 
 >[!TIP]
 >

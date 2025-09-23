@@ -3,10 +3,10 @@ description: NUR-AAAA-MM-Advanced Nurture - Documentos de Marketo - Documentaci√
 title: NUR-AAAA-MM-Nutrici√≥n avanzada
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 

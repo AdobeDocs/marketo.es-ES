@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360005
 description: Informe de actividad web de la empresa - Documentos de Marketo - Documentación del producto
-title: Informe Actividad web de la empresa
+title: Informe de la actividad en la web de la compañía
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Informe Actividad web de la empresa {#company-web-activity-report}
+# Informe de la actividad en la web de la compañía {#company-web-activity-report}
 
 Ver qué empresas visitan el sitio web. Puede elegir mostrar los visitantes conocidos o anónimos, pero no ambos en el mismo informe.
 
@@ -21,7 +21,7 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
 >
 >Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [up [!DNL Munchkin] en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL tipo de informe de actividad web de la empresa] [5&rbrace;.](report-type-overview.md)
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL tipo de informe de actividad web de la empresa] [5}.](report-type-overview.md)
 
 1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
 

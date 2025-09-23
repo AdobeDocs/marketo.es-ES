@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7511725
 description: Explicación de mis informes e informes de grupo - Documentos de Marketo - Documentación del producto
-title: Explicación de Mis informes y Informes de grupo
+title: Explicación de Mis informes y los informes de grupo
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Explicación de Mis informes y Informes de grupo {#understanding-my-reports-and-group-reports}
+# Explicación de Mis informes y los informes de grupo {#understanding-my-reports-and-group-reports}
 
 Puede crear **[!UICONTROL Mis informes]** y **[!UICONTROL Informes de grupo]** desde la página de inicio de [Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 

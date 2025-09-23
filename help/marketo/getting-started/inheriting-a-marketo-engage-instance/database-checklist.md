@@ -3,14 +3,14 @@ description: Lista de comprobación de base de datos de instancias heredadas - D
 title: Lista de comprobación de base de datos de instancias heredadas
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# Instancia heredada: Lista de comprobación de base de datos {#inherited-instance-database-checklist}
+# Instancia heredada: Lista de comprobación de la base de datos {#inherited-instance-database-checklist}
 
 Comprenda la cantidad total de personas, las personas comercializables y las fuentes principales de adquisición de personas en su suscripción. Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) y realizar un seguimiento de su progreso.
 
@@ -42,7 +42,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <p>Ejemplo de caso de uso suspendido de marketing: registros de personas que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
   </tr>
    <tr>
-   <td>Lista de bloqueos</td>
+   <td>Lista de bloqueados</td>
    <td><li>¿Cuáles son sus criterios para <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">registros de inclusión en la lista de bloqueados</a>? ¿Hay demasiada gente incluida en la lista de bloqueados?</li></td>
   </tr>
   <tr>

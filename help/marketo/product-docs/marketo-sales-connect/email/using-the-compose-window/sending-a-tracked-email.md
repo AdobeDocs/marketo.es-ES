@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356565
 description: 'Envío de un correo electrónico rastreado: documentos de Marketo, documentación del producto'
-title: Envío de un correo electrónico rastreado
+title: Enviar un correo electrónico rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Envío de un correo electrónico rastreado {#sending-a-tracked-email}
+# Enviar un correo electrónico rastreado {#sending-a-tracked-email}
 
 Al enviar un correo electrónico con [!DNL Marketo Sales Connect], se realizará un seguimiento de las vistas (aperturas de correo electrónico) y los clics (vínculos en los que se hizo clic).
 

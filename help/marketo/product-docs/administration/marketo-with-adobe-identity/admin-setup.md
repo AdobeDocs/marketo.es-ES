@@ -3,16 +3,16 @@ description: Configuración del administrador - Documentos de Marketo - Document
 title: Ajustes de administración
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
 # Ajustes de administración {#admin-setup}
 
-Después de que se le añada como administrador del sistema de Adobe al Marketo Engage en una organización de Adobe, deberá seguir algunos pasos para completar la configuración inicial.
+Después de que se le añada como administrador del sistema de Adobe a Marketo Engage en una organización de Adobe, deberá seguir algunos pasos para completar la configuración inicial.
 
 ## Configuración inicial {#initial-setup}
 
@@ -20,13 +20,13 @@ Después de que se le añada como administrador del sistema de Adobe al Marketo 
 
    ![](assets/admin-setup-1.png)
 
-1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
 ## Crear un perfil de producto {#create-a-product-profile}
 
-Una vez que el administrador del sistema accede al Admin Console, es hora de crear un perfil de producto. Así es como los usuarios/administradores obtienen acceso a Marketo Engage.
+Una vez que el administrador del sistema accede a Admin Console, es hora de crear un perfil de producto. Así es como los usuarios/administradores obtienen acceso a Marketo Engage.
 
 1. En la página **[!UICONTROL Información general]**, en **[!UICONTROL Productos y servicios]**, haga clic en **Marketo Engage**.
 

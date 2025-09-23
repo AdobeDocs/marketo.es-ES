@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: 'Habilitar direcciones URL personalizadas para su cuenta: documentos de Marketo, documentación del producto'
-title: Habilite direcciones URL personalizadas para su cuenta
+title: Habilitar direcciones URL personalizadas para su cuenta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Habilite direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
+# Habilitar direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
 
 Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 

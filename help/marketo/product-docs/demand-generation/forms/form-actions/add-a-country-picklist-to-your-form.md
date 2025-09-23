@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949966
 description: Añadir una lista de selección de país al formulario - Documentos de Marketo - Documentación del producto
-title: Agregar una lista de selección de país a su formulario
+title: Añadir una lista de selección de país a su formulario
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Agregar una lista de selección de país a su formulario {#add-a-country-picklist-to-your-form}
+# Añadir una lista de selección de país a su formulario {#add-a-country-picklist-to-your-form}
 
 Siga estas instrucciones para convertir el campo de país en una lista desplegable con una lista de todos los países.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359898
 description: 'Descubra Los Permisos Que Tiene: Documentos De Marketo, Documentación Del Producto'
-title: Descubra Los Permisos Que Tiene
+title: Descubra qué permisos tiene
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Descubra Los Permisos Que Tiene {#find-out-what-permissions-you-have}
+# Descubra qué permisos tiene {#find-out-what-permissions-you-have}
 
 Si se está preguntando qué permisos tiene o no tiene en Marketo, hay una manera fácil de averiguarlo.
 

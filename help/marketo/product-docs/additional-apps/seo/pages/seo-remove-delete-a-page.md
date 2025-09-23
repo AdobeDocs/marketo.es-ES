@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949262
 description: 'SEO: Eliminar una página, Documentos de Marketo: documentación del producto'
-title: 'SEO: Eliminar/eliminar una página'
+title: 'SEO: quitar/eliminar una página'
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# SEO: Eliminar/eliminar una página {#seo-remove-delete-a-page}
+# SEO: quitar/eliminar una página {#seo-remove-delete-a-page}
 
 ¿Desea eliminar una página? No te preocupes, así es como.
 

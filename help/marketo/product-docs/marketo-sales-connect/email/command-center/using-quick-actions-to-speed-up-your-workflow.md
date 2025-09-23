@@ -4,10 +4,10 @@ description: 'Uso de acciones rápidas para acelerar el flujo de trabajo: docume
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 

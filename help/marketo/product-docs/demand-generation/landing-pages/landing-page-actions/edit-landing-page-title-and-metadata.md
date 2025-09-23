@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359726
 description: 'Editar título y metadatos de página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Editar título y metadatos de la página de aterrizaje
+title: Editar título y metadatos de la página de destino
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Editar título y metadatos de la página de aterrizaje {#edit-landing-page-title-and-metadata}
+# Editar título y metadatos de la página de destino {#edit-landing-page-title-and-metadata}
 
 Marketo le permite editar sus [metaetiquetas de página de aterrizaje para fines de SEO](https://www.w3schools.com/tags/tag_meta.asp), así como personalizar la parte `<head>` de HTML.
 

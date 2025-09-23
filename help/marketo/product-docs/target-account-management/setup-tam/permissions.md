@@ -4,16 +4,16 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Permisos {#permissions}
 
-Tendrá que configurar permisos para que los usuarios puedan utilizar TAM. Así es como.
+Tendrá que configurar permisos para que los usuarios puedan utilizar TAM. Así es cómo se hace.
 
 1. Haga clic en **[!UICONTROL Administrador]**.
 

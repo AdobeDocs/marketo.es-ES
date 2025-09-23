@@ -3,10 +3,10 @@ description: 'Documento de instancia heredada durante la configuración: documen
 title: Documento de instancia heredada de la configuración
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -59,7 +59,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
     <p><img src="assets/action-item-icon.png" alt="icono de elemento de acción">Elemento de acción: crea un registro de cambios y documenta los cambios realizados en la configuración de la instancia.</td>
   </tr>
   <tr>
-   <td>Manuales</td>
+   <td>Manuales de tácticas</td>
     <td><li>¿Su organización tiene un manual de usuario o de administrador?
     <br/>     Si es así, actualícelas en consecuencia.</li></td>
   </tr>

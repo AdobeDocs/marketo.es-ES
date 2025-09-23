@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: Usar la prueba A/B "Subject Line" - Documentos de Marketo - Documentación del producto
-title: Usar prueba A/B de "Línea de asunto"
+title: Usar prueba A/B de “Línea de asunto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Usar prueba A/B de &quot;Línea de asunto&quot; {#use-subject-line-a-b-testing}
+# Usar prueba A/B de “Línea de asunto” {#use-subject-line-a-b-testing}
 
 Puede probar fácilmente sus correos electrónicos A/B. Una de las pruebas más comunes es la prueba **[!UICONTROL Línea de asunto]**.
 

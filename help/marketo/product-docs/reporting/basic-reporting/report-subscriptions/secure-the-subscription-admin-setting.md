@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095347
 description: Protección de la configuración de administración de suscripciones - Documentos de Marketo - Documentación del producto
-title: Protección de la configuración de administración de suscripciones
+title: Proteger la configuración de administración de suscripción
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Protección de la configuración de administración de suscripciones {#secure-the-subscription-admin-setting}
+# Proteger la configuración de administración de suscripción {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >

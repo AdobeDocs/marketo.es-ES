@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352482
 description: Funcionamiento del seguimiento de respuestas - Documentos de Marketo - Documentación del producto
-title: Funcionamiento del seguimiento de respuestas
+title: Cómo funciona el seguimiento de respuestas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Funcionamiento del seguimiento de respuestas {#how-reply-tracking-works}
+# Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}
 
 El seguimiento de respuestas se realiza mirando un ID de mensaje que aparece en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener algunos de los mejores resultados de seguimiento de respuestas.
 

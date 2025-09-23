@@ -4,16 +4,16 @@ description: Hacer obligatorio el campo de un formulario - Documentos de Marketo
 title: Establecer un campo de formulario como obligatorio
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # Establecer un campo de formulario como obligatorio {#make-a-form-field-required}
 
-Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, es posible que desee que algunos de ellos sean obligatorios para la persona que los rellena. Así es como.
+Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, es posible que desee que algunos de ellos sean obligatorios para la persona que los rellena. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

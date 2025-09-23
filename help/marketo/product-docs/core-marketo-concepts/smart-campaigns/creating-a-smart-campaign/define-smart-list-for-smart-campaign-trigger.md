@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: Definición de listas inteligentes para campañas inteligentes | Déclencheur - Documentos de Marketo - Documentación del producto
-title: Definición de listas inteligentes para campañas inteligentes | Déclencheur
+title: Definición de listas inteligentes para campañas inteligentes | Activación
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definición de listas inteligentes para campañas inteligentes | Déclencheur {#define-smart-list-for-smart-campaign-trigger}
+# Definición de listas inteligentes para campañas inteligentes | Activación {#define-smart-list-for-smart-campaign-trigger}
 
 Haga que una campaña inteligente se ejecute de a una persona a la vez en función de los eventos en directo mediante la adición de déclencheur.
 

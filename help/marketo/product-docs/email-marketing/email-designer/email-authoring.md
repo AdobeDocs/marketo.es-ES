@@ -4,9 +4,9 @@ title: Creación del correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1740'
 ht-degree: 1%
 
 ---
@@ -167,7 +167,7 @@ Elija una de las plantillas listas para usar para empezar con su diseño de plan
 
    >[!TIP]
    >
-   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+   >Seleccione el componente de columna n:n para definir el número de columnas que desee (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -193,7 +193,7 @@ El editor procesa el fragmento dentro de la sección o el elemento de la estruct
 
 >[!TIP]
 >
->Si desea que el fragmento ocupe todo el diseño horizontal dentro del correo electrónico, agregue una estructura de columna 1:1 y, a continuación, arrastre y suelte el fragmento en él.
+>Si desea que el fragmento ocupe todo el diseño horizontal dentro del correo electrónico, agregue una estructura de columnas de 1:1 y, a continuación, arrastre y suelte el fragmento en ella.
 
 Una vez guardado el correo electrónico, aparecerá en la ficha _[!UICONTROL Utilizado por]_ de la página de detalles del fragmento. Los fragmentos agregados a una plantilla de correo electrónico no se pueden editar dentro de la plantilla; el fragmento de origen define el contenido.
 

@@ -4,10 +4,10 @@ description: Configuración de perspectivas de rendimiento - Documentos de Marke
 title: Configuración de perspectivas de rendimiento
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

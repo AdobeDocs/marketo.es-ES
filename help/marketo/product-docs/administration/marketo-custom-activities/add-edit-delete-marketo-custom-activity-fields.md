@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: Agregar/Editar/Eliminar campos de actividad personalizados de Marketo - Documentos de Marketo - Documentación del producto
-title: Agregar/Editar/Eliminar campos de actividad personalizados de Marketo
+title: Añadir/editar/eliminar campos de actividad personalizados de Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Agregar/Editar/Eliminar campos de actividad personalizados de Marketo {#add-edit-delete-marketo-custom-activity-fields}
+# Añadir/editar/eliminar campos de actividad personalizados de Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
-Es posible que tenga que agregar, cambiar o incluso eliminar un campo de actividad personalizado. Así es como.
+Es posible que tenga que agregar, cambiar o incluso eliminar un campo de actividad personalizado. Así es cómo se hace.
 
 ## Añadir un campo de actividad personalizado {#add-a-custom-activity-field}
 

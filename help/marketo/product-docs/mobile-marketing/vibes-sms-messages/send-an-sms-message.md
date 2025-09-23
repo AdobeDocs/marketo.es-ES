@@ -3,10 +3,10 @@ description: 'Envío de un mensaje SMS: documentos de Marketo, documentación de
 title: Enviar un mensaje SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ Has [creado tu mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sm
 >
 >Al enviar mensajes SMS:
 >
->* Desduplicaciones del Marketo Engage por número de teléfono. Por lo tanto, si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje si son miembros de una sola lista de suscripción a Vibes. La desduplicación se realiza en el nivel de lista de suscripción de Vibes, no en el nivel de programa de Marketo.
+>* Desduplicaciones de Marketo Engage por número de teléfono. Por lo tanto, si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje si son miembros de una sola lista de suscripción a Vibes. La desduplicación se realiza en el nivel de lista de suscripción de Vibes, no en el nivel de programa de Marketo.
 >* Marketo no envía mensajes a personas incluidas en la lista de bloqueados o con Marketing suspendido.
 >* Un mensaje SMS no se enviará a nadie que haya cancelado la suscripción si no está en la lista de la base de datos móvil de Vibes.
 
@@ -32,7 +32,7 @@ Has [creado tu mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sm
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Haga clic en la ficha **Lista inteligente** y defina la audiencia para el SMS. En este ejemplo, enviamos a todos los usuarios de nuestra base de datos que tengan &quot;Adobe&quot; enumerado como su compañía.
+1. Haga clic en la ficha **Lista inteligente** y defina la audiencia para el SMS. En este ejemplo, enviamos a todos los usuarios de nuestra base de datos que tengan &quot;Adobe&quot; enumerado como su empresa.
 
    ![](assets/send-an-sms-message-3.png)
 

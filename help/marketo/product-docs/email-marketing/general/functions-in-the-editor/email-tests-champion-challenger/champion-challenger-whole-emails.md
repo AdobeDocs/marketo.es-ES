@@ -4,14 +4,14 @@ description: Champion/Challenger - Correos electrónicos completos - Documentos 
 title: Campeón/Challenger - Correos electrónicos completos
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Campeón/Challenger: Correos electrónicos completos {#champion-challenger-whole-emails}
+# Campeón/Aspirante: correos electrónicos completos {#champion-challenger-whole-emails}
 
 Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe el ejecutante de mayor rendimiento.
 

@@ -4,10 +4,10 @@ description: Cambiar la familia de fuentes de formulario - Documentos de Marketo
 title: Cambio de la familia de fuentes del formulario
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 

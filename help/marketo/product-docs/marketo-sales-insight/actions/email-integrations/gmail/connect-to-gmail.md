@@ -1,15 +1,15 @@
 ---
 description: 'Conectar con Gmail: documentos de Marketo: documentación del producto'
-title: Conectar con Gmail
+title: Conectar a Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Conectar con Gmail {#connect-to-gmail}
+# Conectar a Gmail {#connect-to-gmail}
 
 Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Gmail, la capacidad de programar correos electrónicos en Gmail y enviar conformidad.
 
@@ -29,7 +29,7 @@ Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al 
 
    ![](assets/connect-to-gmail-3.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Empezar**.
 
    ![](assets/connect-to-gmail-4.png)
 

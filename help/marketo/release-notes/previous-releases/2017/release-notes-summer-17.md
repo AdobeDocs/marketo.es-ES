@@ -4,14 +4,14 @@ description: 'Notas de la versión, verano de 2017, documentación de Marketo: d
 title: Notas de la versión, verano de 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notas de la versión: Verano de 2017 {#release-notes-summer}
+# Notas de la versión: verano de 2017 {#release-notes-summer}
 
 Las siguientes funciones se incluyen en la versión de verano de 17. Compruebe la disponibilidad de las funciones en Marketo Edition.
 

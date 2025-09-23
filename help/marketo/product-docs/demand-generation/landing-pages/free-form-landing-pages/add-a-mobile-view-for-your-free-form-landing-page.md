@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720856
 description: 'Añadir una vista móvil para la página de aterrizaje de forma libre: Documentos de Marketo: documentación del producto'
-title: Agregar una vista móvil para la página de aterrizaje de forma libre
+title: Añadir una vista móvil para la página de destino de forma libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-# Agregar una vista móvil para la página de aterrizaje de forma libre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Añadir una vista móvil para la página de destino de forma libre {#add-a-mobile-view-for-your-free-form-landing-page}
 
 Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un smartphone.
 

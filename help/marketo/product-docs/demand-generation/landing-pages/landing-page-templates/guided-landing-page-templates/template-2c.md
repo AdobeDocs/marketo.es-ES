@@ -4,16 +4,16 @@ description: 'Plantilla 2C: Documentos de Marketo: documentación del producto'
 title: Plantilla 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Plantilla 2C {#template-2c}
 
-Haga clic con el botón derecho para [descargar la plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=es)
+[Plantilla 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

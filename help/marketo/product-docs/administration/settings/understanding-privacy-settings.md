@@ -4,10 +4,10 @@ description: 'Explicación de la configuración de privacidad: documentos de Mar
 title: Explicación de la configuración de privacidad
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '500'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -60,7 +60,7 @@ Para validar que la cookie se puede plantar, compruebe que es un posible cliente
 >
 >Actualmente solo funciona con [!DNL Munchkin] versiones 152 y posteriores.
 
-## Participar {#opt-in}
+## Opt-in {#opt-in}
 
 Los especialistas en marketing pueden permitir que los usuarios acepten la inclusión mediante las funciones de Marketo en correos electrónicos, formularios, páginas de aterrizaje y otros métodos.
 

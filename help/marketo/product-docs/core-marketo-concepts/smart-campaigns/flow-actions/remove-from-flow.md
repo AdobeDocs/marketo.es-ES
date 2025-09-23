@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147084
 description: 'Eliminar del flujo: documentos de Marketo: documentación del producto'
-title: Quitar de Flujo
+title: Quitar del flujo
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 4%
 
 ---
 
-# Quitar de Flujo {#remove-from-flow}
+# Quitar del flujo {#remove-from-flow}
 
 Imagine que tiene un flujo de campaña inteligente que utiliza &quot;Enviar alerta&quot; para recordar a un representante de ventas que debe llamar a un posible cliente potencial. Envía un mensaje todos los días hasta que el representante realiza la llamada. Puede utilizar &quot;Eliminar del flujo&quot; en una campaña de déclencheur una vez que se haya contactado con el cliente potencial para detener más alertas. Es como un asiento eyector Smart Campaign para una persona.
 

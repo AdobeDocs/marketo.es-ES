@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093348
 description: 'Explicación de las tarjetas de campaña inteligentes: Documentos de Marketo, documentación del producto'
-title: Explicación de las tarjetas Smart Campaign
+title: Explicación de las tarjetas de campañas inteligentes
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Explicación de las tarjetas Smart Campaign {#understanding-smart-campaign-cards}
+# Explicación de las tarjetas de campañas inteligentes {#understanding-smart-campaign-cards}
 
 Utilice Momentos de Marketo para ver cada ejecución de sus campañas inteligentes desde su teléfono inteligente o iPad. La tarjeta Campaña inteligente Momentos de Marketo representa una sola ejecución de una campaña; cada vez que se ejecuta la campaña inteligente aparece una tarjeta nueva. Las tarjetas Smart Campaign están marcadas con una bombilla en la parte superior izquierda.
 

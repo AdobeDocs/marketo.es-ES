@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504130
 description: 'Creación de una meta personalizada: documentos de Marketo, documentación del producto'
-title: Crear una meta personalizada
+title: Creación de una meta personalizada
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Crear una meta personalizada {#create-a-custom-goal}
+# Creación de una meta personalizada {#create-a-custom-goal}
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Una vez creados, deben actualizarse manualmente.
 
@@ -21,7 +21,7 @@ Al igual que las presentaciones, los objetivos son específicos de [workspace](/
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Haz clic en **[!UICONTROL Presentations]** en la esquina inferior derecha.
+1. Haga clic en **[!UICONTROL Presentaciones]** en la esquina inferior derecha.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

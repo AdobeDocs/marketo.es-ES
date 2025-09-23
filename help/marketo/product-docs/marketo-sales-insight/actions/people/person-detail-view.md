@@ -1,22 +1,22 @@
 ---
 description: Vista de detalles de persona - Documentos de Marketo - Documentación del producto
-title: Vista de detalles de persona
+title: Vista de detalle de persona
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Vista de detalles de persona {#person-detail-view}
+# Vista de detalle de persona {#person-detail-view}
 
 La vista de detalles de persona proporciona un perfil detallado de cada persona en su cuenta de [!DNL Marketo Sales].
 
-## Cómo acceder a {#how-to-access}
+## Cómo acceder {#how-to-access}
 
 1. Para obtener acceso a la vista de detalles de la persona, haga clic en la ficha **[!UICONTROL Personas]**.
 

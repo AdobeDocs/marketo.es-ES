@@ -1,14 +1,14 @@
 ---
 description: Correo electrónico marcado como correo no deseado - Documentos de Marketo - Documentación del producto
-title: Correo electrónico marcado como spam
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: Correo electrónico marcado como correo no deseado
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Correo electrónico marcado como spam {#email-marked-as-spam}
+# Correo electrónico marcado como correo no deseado {#email-marked-as-spam}
 
 Como empresa, trabajamos duro para garantizar que nuestras tasas de entrega se mantengan altas. Sin embargo, hay ciertos comportamientos y configuraciones de usuario que pueden almacenar en déclencheur los correos electrónicos enviados y enrutarlos a la carpeta de correo no deseado.
 

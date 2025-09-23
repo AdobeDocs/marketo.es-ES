@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: ¿Cómo puedo realizar la Lista de permitidos de Sales Connect en mi servidor? - Documentos de Marketo - Documentación del producto
+description: '¿Cómo puedo realizar la Lista de permitidos de Sales Connect en mi servidor? Documentación de Marketo: documentación del producto'
 title: ¿Cómo puedo realizar la Lista de permitidos de Sales Connect en mi servidor?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

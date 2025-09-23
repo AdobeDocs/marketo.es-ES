@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352537
 description: Seguimiento de los archivos adjuntos del correo electrónico - Documentos de Marketo - Documentación del producto
-title: Seguimiento de los archivos adjuntos del correo electrónico
+title: Cómo seguir los archivos adjuntos del correo electrónico
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Seguimiento de los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
+# Cómo seguir los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] ofrece seguimiento en los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se han abierto o descargado y qué páginas está viendo el destinatario. Le permitiremos usar nuestra función de archivos adjuntos rastreables desde la [aplicación web](https://toutapp.com/login) y Gmail (o aplicaciones de Google).
 

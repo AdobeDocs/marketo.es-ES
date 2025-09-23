@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380734
 description: Déclencheur de cuenta - Documentos de Marketo - Documentación del producto
-title: Déclencheur de cuenta
+title: Activadores de la cuenta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Déclencheur de cuenta {#account-triggers}
+# Activadores de la cuenta {#account-triggers}
 
 Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, web, anuncios) mediante déclencheur a nivel de cuenta.
 

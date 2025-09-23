@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17432598
 description: Configuración del perfil de cuenta - Documentos de Marketo - Documentación del producto
-title: Configurar la generación de perfiles de cuenta
+title: Configuración del perfil de cuenta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Configurar la generación de perfiles de cuenta {#setting-up-account-profiling}
+# Configuración del perfil de cuenta {#setting-up-account-profiling}
 
 Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
@@ -38,7 +38,7 @@ Siga estos pasos para empezar a utilizar la generación de perfiles de cuenta.
 
    ![](assets/two-1.png)
 
-1. La pestaña Modelo se abre de forma predeterminada. Haga clic en **[!UICONTROL Comenzar]**.
+1. La pestaña Modelo se abre de forma predeterminada. Haga clic en **[!UICONTROL Empezar]**.
 
    ![](assets/three.png)
 

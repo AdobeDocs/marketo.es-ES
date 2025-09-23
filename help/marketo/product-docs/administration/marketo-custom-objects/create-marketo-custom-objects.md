@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093192
 description: 'Creación de objetos personalizados de Marketo: documentos de Marketo, documentación del producto'
-title: Crear objetos personalizados de Marketo
+title: Crear objetos personalizables de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Crear objetos personalizados de Marketo {#create-marketo-custom-objects}
+# Crear objetos personalizables de Marketo {#create-marketo-custom-objects}
 
 Utilice objetos personalizados en Marketo para realizar un seguimiento de métricas específicas de su empresa. Esto puede ser cualquier cosa, desde autos hasta cursos, todo lo que desee modelar en Marketo para ejecutar sus campañas.
 

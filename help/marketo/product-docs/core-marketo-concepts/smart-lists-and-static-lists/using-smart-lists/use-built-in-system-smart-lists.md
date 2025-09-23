@@ -4,16 +4,16 @@ description: Uso de listas inteligentes integradas/del sistema - Documentos de M
 title: Usar listas inteligentes integradas/del sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 7%
+ht-degree: 12%
 
 ---
 
 # Usar listas inteligentes integradas/del sistema {#use-built-in-system-smart-lists}
 
-El Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
+Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
 
 1. Ir a **[!UICONTROL Base de datos]**.
 
@@ -52,7 +52,7 @@ Este es un resumen de lo que hacen las listas inteligentes integradas:
     <td>Estas personas solo pueden recibir correos electrónicos operativos; normalmente, usted, el experto en marketing, lo controla.</td>
   </tr>
   <tr>
-    <td>Lista de bloqueos</td>
+    <td>Lista de bloqueados</td>
     <td>Estas personas no recibirán ningún correo electrónico.</td>
   </tr>
   <tr>

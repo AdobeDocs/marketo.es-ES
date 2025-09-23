@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380986
 description: Edición de documentos de Workspace - Marketo Docs - Documentación del producto
-title: Editar una Workspace
+title: Edición de un espacio de trabajo
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Editar una Workspace {#edit-a-workspace}
+# Edición de un espacio de trabajo {#edit-a-workspace}
 
 A veces, debe realizar cambios en un Workspace. Es fácil.
 

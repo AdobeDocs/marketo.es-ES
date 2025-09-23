@@ -5,10 +5,10 @@ title: Reducir prueba
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

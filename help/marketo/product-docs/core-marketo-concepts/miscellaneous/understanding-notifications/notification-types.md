@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 'Tipos de notificación: documentos de Marketo, documentación del producto'
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -60,4 +60,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/error-codes).
+>Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

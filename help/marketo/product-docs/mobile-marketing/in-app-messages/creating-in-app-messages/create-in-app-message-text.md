@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100642
 description: 'Creación de texto de mensaje en la aplicación: documentos de Marketo, documentación del producto'
-title: Crear texto de mensaje en la aplicación
+title: Crear un texto de mensaje en la aplicación
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Crear texto de mensaje en la aplicación {#create-in-app-message-text}
+# Crear un texto de mensaje en la aplicación {#create-in-app-message-text}
 
 Haga clic en el área de texto para trabajar en el estilo y el contenido del texto.
 

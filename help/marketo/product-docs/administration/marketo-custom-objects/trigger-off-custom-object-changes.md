@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
 description: Déclencheur de los cambios de objetos personalizados - Documentos de Marketo - Documentación del producto
-title: Déclencheur de cambios de objetos personalizados
+title: Desactivar cambios en objetos personalizables
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Déclencheur de cambios de objetos personalizados {#trigger-off-custom-object-changes}
+# Desactivar cambios en objetos personalizables {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ En la lista inteligente de una campaña inteligente, puede almacenar en déclenc
 >
 >No se crea una entrada de registro de actividad cuando se cambia un registro de objeto personalizado.
 
-1. En Marketo Engage, vaya a **[!UICONTROL Actividades de mercadotecnia]**.
+1. En Marketo Engage, vaya a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 

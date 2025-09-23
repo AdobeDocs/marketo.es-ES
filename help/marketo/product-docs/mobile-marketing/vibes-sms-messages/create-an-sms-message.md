@@ -1,16 +1,16 @@
 ---
 description: 'Creación de un mensaje SMS: documentos de Marketo, documentación del producto'
-title: Creación de un mensaje SMS
+title: Crear un mensaje SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '481'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Creación de un mensaje SMS {#create-an-sms-message}
+# Crear un mensaje SMS {#create-an-sms-message}
 
 A continuación se muestra cómo crear un mensaje SMS.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Tokens de campo personalizado de miembro del programa - Documentos de Marketo - Documentación del producto
-title: Tokens de campo personalizado de miembro de programa
+title: Tókenes de campo personalizado para miembros del programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Tokens de campo personalizado de miembro de programa {#program-member-custom-field-tokens}
+# Tókenes de campo personalizado para miembros del programa {#program-member-custom-field-tokens}
 
 ## Compatibilidad de tokens para campos personalizados de miembros del programa {#token-support-for-program-member-custom-fields}
 

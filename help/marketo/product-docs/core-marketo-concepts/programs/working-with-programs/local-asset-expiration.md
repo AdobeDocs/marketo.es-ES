@@ -1,16 +1,16 @@
 ---
 description: Caducidad de recursos locales - Documentos de Marketo - Documentación del producto
-title: Caducidad de recurso local
+title: Vencimiento del recurso local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Caducidad de recurso local {#local-asset-expiration}
+# Vencimiento del recurso local {#local-asset-expiration}
 
 Establezca una fecha y hora de caducidad para cancelar la publicación de páginas de aterrizaje, desactivar campañas de déclencheur o detener campañas por lotes recurrentes.
 

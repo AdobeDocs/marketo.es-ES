@@ -4,10 +4,10 @@ description: Emitir una licencia de complemento de correo electrónico de Market
 title: Emitir una licencia de complemento de correo electrónico de Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

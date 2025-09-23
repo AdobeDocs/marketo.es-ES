@@ -4,16 +4,16 @@ description: Uso de la lógica de regla de listas inteligentes avanzada - Docume
 title: Uso de la lógica de regla de listas inteligentes avanzadas
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Uso de la lógica de regla de listas inteligentes avanzadas {#using-advanced-smart-list-rule-logic}
 
-Puede encontrar exactamente las personas que necesita aplicando la lógica de regla de listas inteligentes a varios filtros dentro de una lista inteligente. Así es como.
+Puede encontrar exactamente las personas que necesita aplicando la lógica de regla de listas inteligentes a varios filtros dentro de una lista inteligente. Así es cómo se hace.
 
 >[!PREREQUISITES]
 >

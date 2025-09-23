@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
 description: Glosario de Web Personalization - Documentos de Marketo - Documentación del producto
-title: Glosario de Web Personalization
+title: Glosario de personalización web
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 24%
 
 ---
 
@@ -24,7 +24,7 @@ Información sobre el mundo y el idioma de [!DNL Marketo Web Personalization].
 | **Visitante conocido** | Visitante web que ha completado un formulario y ha dejado sus detalles (dirección de correo electrónico) en su sitio web o ha hecho clic en un vínculo de un correo electrónico de Marketo. |
 | **Lista de cuentas** | Una lista de nombres clave de cuenta u organización. También conocida como lista de Account-Based Marketing (ABM). |
 | **Segmentos** | Colección de visitantes que cumplen los criterios especificados definidos en la página [ &quot;Establecer un segmento&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
-| **Prueba dividida** | Experimento de prueba con dos o más variantes para medir la diferencia en los resultados. El objetivo es identificar los cambios en las páginas web que aumentan o maximizan un resultado de interés. |
+| **Prueba dividida** | Un experimento de prueba con dos o más variantes para medir la diferencia en los resultados. El objetivo es identificar los cambios en las páginas web que aumentan o maximizan un resultado de interés. |
 | **Comodín** | Se usa un carácter comodín (&#42;) antes o después de una cadena para sustituir cualquier otro carácter o caracteres de una cadena. Consulte los ejemplos siguientes. |
 
 ## Ejemplos de comodines {#wildcard-examples}

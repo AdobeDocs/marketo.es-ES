@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352613
 description: 'Añadir personas a la campaña: documentos de Marketo, documentación del producto'
-title: Añadir personas a la campaña
+title: Añadir personas a su campaña
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Añadir personas a la campaña {#add-people-to-your-campaign}
+# Añadir personas a su campaña {#add-people-to-your-campaign}
 
 Existen varias formas de añadir a alguien a una campaña.
 
@@ -26,7 +26,7 @@ Si está realizando un seguimiento con un cliente o cliente potencial desde la b
 
 Solo tiene que responder a su correo electrónico y elegir una campaña de nuestro plug-in.
 
-## Eliminación de personas de una campaña {#remove-people-from-a-campaign}
+## Quitar personas de una campaña {#remove-people-from-a-campaign}
 
 Puede enviar automáticamente una campaña cuando un destinatario responda. Además, puede elegir que los mensajes marquen la campaña como un &quot;éxito&quot; para ese destinatario.
 

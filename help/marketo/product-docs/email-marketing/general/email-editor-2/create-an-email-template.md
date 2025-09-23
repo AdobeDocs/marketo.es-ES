@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096400
 description: 'Creación de una plantilla de correo electrónico: documentos de Marketo, documentación del producto'
-title: Crear una plantilla de correo electrónico
+title: Creación de una plantilla de correo electrónico
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Crear una plantilla de correo electrónico {#create-an-email-template}
+# Creación de una plantilla de correo electrónico {#create-an-email-template}
 
 Siga estos pasos para crear una nueva plantilla de correo electrónico.
 

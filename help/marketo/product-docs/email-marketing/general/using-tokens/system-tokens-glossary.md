@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147344
 description: Glosario de tokens del sistema - Documentos de Marketo - Documentación del producto
-title: Glosario de tokens del sistema
+title: Glosario de tókenes del sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
-# Glosario de tokens del sistema {#system-tokens-glossary}
+# Glosario de tókenes del sistema {#system-tokens-glossary}
 
 Además de los tokens de persona, puede utilizar algunos tokens de sistema muy interesantes. Aquí están.
 
@@ -32,7 +32,7 @@ El token `{{system.date}}` procesará la fecha actual en tiempo de ejecución de
 
 ## system.time {#system-time}
 
-El token `{{system.time}}` procesará la hora actual en tiempo de ejecución de la siguiente manera: **04:34 PM (GMT -0700)**
+El token `{{system.time}}` procesará la hora actual en tiempo de ejecución como: **04:34 PM (GMT -0700)**
 
 **Funciona en:**
 

@@ -4,10 +4,10 @@ description: Asignar particiones de persona a espacios de trabajo - Documentos d
 title: Asignar particiones de persona a espacios de trabajo
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 

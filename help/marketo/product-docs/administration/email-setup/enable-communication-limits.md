@@ -4,10 +4,10 @@ description: Habilitar límites de comunicación - Documentos de Marketo - Docum
 title: Habilitar límites de comunicación
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

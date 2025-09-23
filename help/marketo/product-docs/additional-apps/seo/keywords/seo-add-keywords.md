@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949204
 description: SEO - Añadir palabras clave - Documentos de Marketo - Documentación del producto
-title: 'SEO: Agregar palabras clave'
+title: 'SEO: añadir palabras clave'
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# SEO: Agregar palabras clave {#seo-add-keywords}
+# SEO: añadir palabras clave {#seo-add-keywords}
 
 Las palabras clave son frases que la gente escribe en los motores de búsqueda. Añada las palabras clave más relevantes para su negocio.
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360421
 description: Anular el comportamiento de Analytics en el nivel de programa - Documentos de Marketo - Documentación del producto
-title: Anular el comportamiento de Analytics en el nivel de programa
+title: Anular el comportamiento de análisis a nivel de programa
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Anular el comportamiento de Analytics en el nivel de programa {#override-analytics-behavior-at-the-program-level}
+# Anular el comportamiento de análisis a nivel de programa {#override-analytics-behavior-at-the-program-level}
 
 Puede establecer el comportamiento de [analytics en el nivel de administrador en los canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), pero también puede anularlo en el nivel de programa. A continuación se muestra cómo:
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 

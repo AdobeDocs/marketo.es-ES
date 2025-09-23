@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359866
 description: Obtener las imágenes de una página web - Documentos de Marketo - Documentación del producto
-title: Obtener las imágenes de una página web
+title: Captar las imágenes desde la página web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Obtener las imágenes de una página web {#grab-the-images-from-a-web-page}
+# Captar las imágenes desde la página web {#grab-the-images-from-a-web-page}
 
 Para agregar imágenes desde una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos sencillos pasos.
 

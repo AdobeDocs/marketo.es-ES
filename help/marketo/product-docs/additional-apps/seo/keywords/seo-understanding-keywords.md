@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949182
 description: 'SEO: Explicación de palabras clave - Documentos de Marketo: documentación del producto'
-title: 'SEO: Explicación de palabras clave'
+title: 'SEO: explicación de palabras clave'
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

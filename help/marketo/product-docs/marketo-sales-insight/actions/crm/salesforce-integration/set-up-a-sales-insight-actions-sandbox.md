@@ -1,23 +1,23 @@
 ---
-description: Configuración de una zona protegida de acciones de información de ventas - Documentos de Marketo - Documentación del producto
-title: Configuración de una zona protegida de acciones de perspectiva de ventas
+description: Configuración de un simulador para pruebas de acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
+title: Establecer una zona protegida de acciones de Sales Insight
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Configuración de una zona protegida de acciones de perspectiva de ventas {#set-up-a-sales-insight-actions-sandbox}
+# Establecer una zona protegida de acciones de Sales Insight {#set-up-a-sales-insight-actions-sandbox}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions es una aplicación basada en web que se integra exclusivamente con Salesforce CRM mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
+>Marketo Sales Insight Actions es una aplicación basada en la Web que se integra exclusivamente con Salesforce CRM mediante el [paquete Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 Si tiene una zona protegida de Marketo, puede habilitar una instancia de acciones para utilizarla con fines de prueba.
 
-Al configurar una instancia de acciones, debe decidir si se configura para que funcione con la zona protegida de Salesforce o con la producción de Salesforce. Esto se debe a que Salesforce utiliza diferentes puntos de conexión para cada uno y Actions utiliza la conexión con Salesforce para activar y autenticar a los usuarios.
+Al configurar una instancia de acciones, debe decidir si debe configurarse para que funcione con la zona protegida de Salesforce o con la producción de Salesforce. Esto se debe a que Salesforce utiliza diferentes puntos de conexión para cada uno y Actions utiliza la conexión con Salesforce para activar y autenticar a los usuarios.
 
 Siga los pasos a continuación para configurar una instancia de acciones para que funcione con la instancia de zona protegida de Salesforce.
 
@@ -27,7 +27,7 @@ Siga los pasos a continuación para configurar una instancia de acciones para qu
 
 ## Solicite que se aprovisione una instancia de acciones a su zona protegida de Marketo {#request=an-actions-instance}
 
-Acciones de perspectiva de ventas no está habilitado para instancias de zona protegida de Marketo a menos que se solicite. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para enviar una solicitud.
+Acciones de Insight de ventas no está habilitado para instancias de espacio aislado de Marketo a menos que se solicite. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para enviar una solicitud.
 
 ## Aprovisionar la cuenta de acciones para la zona protegida de Marketo {#provision-your-actions-account}
 
@@ -37,7 +37,7 @@ Una vez que Actions esté habilitada para tu zona protegida de Marketo, deberás
 
 1. Vaya a **Administrador**.
 
-1. Seleccione **Perspectiva de ventas**.
+1. Seleccione **Sales Insight**.
 
 1. Seleccione **Configuración de acciones**.
 
@@ -45,7 +45,7 @@ Una vez que Actions esté habilitada para tu zona protegida de Marketo, deberás
    >
    >Una dirección de correo electrónico solo se puede utilizar para una instancia de acciones en las instancias Sandbox y Production. Si es un administrador que necesitará acceso a varias instancias en Producción y Zona protegida, debe utilizar una dirección de correo electrónico diferente para cada una.
 
-1. En la tarjeta de aprovisionamiento, seleccione el usuario al que desee invitar a su instancia de acciones de información de ventas.
+1. En la tarjeta de aprovisionamiento, seleccione el usuario al que desee invitar a su instancia de acciones de Sales Insight.
 
 ## Activar la instancia de acciones {#activate-your-actions-instance}
 
@@ -55,25 +55,25 @@ La instancia de acciones deberá activarse con una cuenta de producción de Sale
 
 1. Haga clic en el vínculo **Introducción**.
 
-1. Actívelo con su instancia de Producción de Salesforce.
+1. Actívelo con la instancia de producción de Salesforce.
 
 1. Siga las indicaciones para configurar la cuenta. Para obtener una descripción detallada, consulte nuestro [artículo de incorporación de usuarios](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
-## Prepare la instancia de acciones para que sea compatible con la instancia de zona protegida de Salesforce {#prepare-your-actions-instance}
+## Preparar la instancia de acciones para que sea compatible con la instancia de zona protegida de Salesforce {#prepare-your-actions-instance}
 
 Las acciones requieren que active primero una nueva instancia con un usuario de producción de Salesforce. Una vez activada, puede seguir los siguientes pasos para preparar su instancia para que sea compatible con la zona protegida de Salesforce.
 
 1. Actualice la configuración de inicio de sesión a &quot;Todos los métodos de inicio de sesión&quot;, para que pueda iniciar sesión con un nombre de usuario y una contraseña si es necesario. Si se prefiere, se puede volver a cambiar a &quot;Solo Salesforce&quot; después de configurar todo. [Vea cómo hacer esto aquí](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-1. Desconéctese de Salesforce Production y conéctese a su zona protegida de Salesforce. [Vea cómo conectarse aquí](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. En el paso 3, seleccione &quot;Entorno aislado&quot; en lugar de &quot;Salesforce&quot;. Si ya está conectado, debería ver una opción para desconectarse en la pestaña Conexiones y personalizaciones de Salesforce.
+1. Desconéctese de la producción de Salesforce y conéctese a su zona protegida de Salesforce. [Vea cómo conectarse aquí](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. En el paso 3, seleccione &quot;Zona protegida&quot; en lugar de &quot;Salesforce&quot;. Si ya está conectado, debería ver una opción para desconectarse en la pestaña Conexiones y personalizaciones de Salesforce.
 
 >[!NOTE]
 >
 >Si tiene un dominio personalizado para la instancia de Salesforce, le recomendamos que inicie sesión en la instancia de Salesforce antes de conectarse a Salesforce o iniciar sesión en Actions.
 
-## Solicite la conversión de la instancia de acciones para que sea compatible con la zona protegida de Salesforce {#request-your-actions-instance-be-converted}
+## Solicite que la instancia de acciones se convierta para que sea compatible con la zona protegida de Salesforce {#request-your-actions-instance-be-converted}
 
-1. Póngase en contacto con el [Soporte técnico del Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para solicitar que su nueva instancia de acciones de información de ventas se configure para que sea compatible con la zona protegida de Salesforce.
+1. Póngase en contacto con el [Soporte técnico de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para solicitar que su nueva instancia de acciones de Sales Insight se configure para que sea compatible con la zona protegida de Salesforce.
 
 1. Pruebe que todo está configurado correctamente intentando iniciar sesión con el botón &quot;Iniciar sesión con Salesforce&quot; de la página toutapp.com/login.
 
@@ -83,11 +83,11 @@ Las acciones requieren que active primero una nueva instancia con un usuario de 
    >
    >Si tiene algún problema en este momento, puede solicitar un restablecimiento de contraseña y usar una contraseña para recuperar el acceso a su cuenta.
 
-Ahora la instancia está lista para utilizarse con la instancia de zona protegida de Salesforce. Si quieres usar [Inicio de sesión automático de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} desde Salesforce, puedes volver a cambiar a &quot;Solo Salesforce&quot; en tu [configuración de Administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+Ahora la instancia está lista para utilizarse con la instancia de zona protegida de Salesforce. Si quieres usar [inicio de sesión automático de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} desde Salesforce, puedes volver a cambiar a &quot;Solo Salesforce&quot; en tu [configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 >[!NOTE]
 >
->* [Conecte su cuenta de acciones de información de ventas a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
->* [Guía de incorporación del usuario de acciones de Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
+>* [Conecte su cuenta de acciones de ventas de Insight a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
+>* [Guía de incorporación del usuario de acciones de Insight de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
 >* [Inicio de sesión automático desde Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
 >* [Configuración de administración de inicio de sesión](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}

@@ -4,10 +4,10 @@ description: Edición del mensaje de cancelación de suscripción - Documentos d
 title: Editar el mensaje de cancelación de suscripción
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-Cuando envía correos electrónicos de marketing (que no son [operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), el texto de cancelación de suscripción y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es como.
+Cuando envía correos electrónicos de marketing (que no son [operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), el texto de cancelación de suscripción y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es cómo se hace.
 
 ## Dónde realizar la edición {#where-to-make-the-edit}
 
@@ -36,7 +36,7 @@ Cuando envía correos electrónicos de marketing (que no son [operativos](/help/
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Edite las versiones de **[!UICONTROL Cancelar la suscripción del HTML]** y **[!UICONTROL Cancelar la suscripción del texto]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
+1. Edite las versiones de **[!UICONTROL Cancelar suscripción a HTML]** y **[!UICONTROL Cancelar suscripción a texto]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -44,13 +44,13 @@ Cuando envía correos electrónicos de marketing (que no son [operativos](/help/
 
 >[!TIP]
 >
->Puede personalizar la posición del HTML de cancelación de suscripción en el correo electrónico mediante [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Puede personalizar la posición del HTML de cancelación de suscripción en su correo electrónico mediante [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texto predeterminado de cancelación de suscripción {#default-unsubscribe-text}
 
 Si alguna vez necesita revertir a la cancelación de suscripción predeterminada del sistema, copie/pegue lo siguiente:
 
-[!UICONTROL Cancelar la suscripción del HTML]:
+[!UICONTROL Cancelar suscripción a HTML]:
 `<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Texto para cancelar la suscripción]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 

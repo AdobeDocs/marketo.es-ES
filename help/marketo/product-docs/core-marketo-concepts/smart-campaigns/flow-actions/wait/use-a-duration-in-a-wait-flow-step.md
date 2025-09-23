@@ -4,10 +4,10 @@ description: 'Uso de una duración en un paso de flujo de espera: documentos de 
 title: Utilizar una duración en un paso de flujo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. ¡Eso es todo! El flujo se pausará durante la duración especificada. Para obtener opciones avanzadas, haga clic en el icono de engranaje a la derecha.
+1. ¡Ya está! El flujo se pausará durante la duración especificada. Para obtener opciones avanzadas, haga clic en el icono de engranaje a la derecha.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

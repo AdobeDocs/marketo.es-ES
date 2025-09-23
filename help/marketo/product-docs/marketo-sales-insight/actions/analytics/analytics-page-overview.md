@@ -1,16 +1,16 @@
 ---
 description: 'Información general de la página de Analytics: documentos de Marketo, documentación del producto'
-title: Información general de página de Analytics
+title: Información general sobre la página de análisis
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Información general de página de Analytics {#analytics-page-overview}
+# Información general sobre la página de análisis {#analytics-page-overview}
 
 En la pestaña Analytics se ven datos sobre la participación de los correos electrónicos. Se muestran los datos individuales y de equipo. Los administradores también pueden filtrar por usuario en la ficha [!UICONTROL Me].
 

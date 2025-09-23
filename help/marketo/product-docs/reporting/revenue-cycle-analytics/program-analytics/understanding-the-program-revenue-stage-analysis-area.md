@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514009
 description: 'Explicación del área de análisis de la fase de ingresos del programa: documentos de Marketo, documentación del producto'
-title: Explicación del área de análisis de la fase Ingresos del programa
+title: Explicación del área de análisis de la fase de ingresos del programa
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# Explicación del área de análisis de la fase Ingresos del programa {#understanding-the-program-revenue-stage-analysis-area}
+# Explicación del área de análisis de la fase de ingresos del programa {#understanding-the-program-revenue-stage-analysis-area}
 
 Esta área de análisis le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal. Proporciona información sobre cuántos de los nuevos nombres generados han alcanzado fases de ruta de éxito específicas dentro del modelo de ciclo de ingresos.
 

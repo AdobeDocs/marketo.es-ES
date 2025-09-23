@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095554
 description: 'Incrustar un formulario en una campaña web: documentos de Marketo, documentación del producto'
-title: Incrustar un formulario en una campaña web
+title: Incrustación de un formulario en una campaña web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Incrustar un formulario en una campaña web {#embed-a-form-into-a-web-campaign}
+# Incrustación de un formulario en una campaña web {#embed-a-form-into-a-web-campaign}
 
 Consulte cómo incrustar un formulario de Marketo en una campaña web (cuadro de diálogo, zona interna o widget).
 
@@ -85,4 +85,4 @@ Para agregar código CSS al script:
 >
 >* [Editar el CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensaje de agradecimiento sin una página de aterrizaje de seguimiento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

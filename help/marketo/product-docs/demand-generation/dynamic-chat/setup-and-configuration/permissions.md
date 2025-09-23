@@ -3,7 +3,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 5%
@@ -44,7 +44,7 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
    ![](assets/permissions-6.png)
 
-Ahora puede repetir este proceso para cualquiera/todas las demás áreas de Dynamic Chat.
+Ahora puede repetir este proceso para cualquier otra área de Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
 <table>
 <thead>
   <tr>
-    <th style="width:25%">Área del Dynamic Chat</th>
+    <th style="width:25%">Área de Dynamic Chat</th>
     <th>Permisos</th>
   </tr>
 </thead>
@@ -84,10 +84,10 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
     <td>Administración de conversaciones</td>
     <td><li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Diálogos de Publish</li>
+    <li>Cuadros de diálogo de publicación</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Flujos de conversación Publish</li></td>
+    <li>Publicar flujos de conversación</li></td>
   </tr>
   <tr>
     <td>Chat en directo</td>
@@ -150,16 +150,16 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <td><i>Administración de conversaciones</i>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Diálogos de Publish</li>
+    <li>Cuadros de diálogo de publicación</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Flujos de conversación Publish</li>
+    <li>Publicar flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Reuniones</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -167,7 +167,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver informes de reuniones</li>
     <br>
     <i>Configuración del agente</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
@@ -186,7 +186,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver mis conversaciones</li>
     <br>
     <i>Reuniones</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -212,10 +212,10 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Reuniones</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -238,16 +238,16 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <td><i>Administración de conversaciones</i>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
-    <li>Diálogos de Publish</li>
+    <li>Cuadros de diálogo de publicación</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
-    <li>Flujos de conversación Publish</li>
+    <li>Publicar flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Reuniones</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -256,7 +256,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Exportar informes</li>
     <br>
     <i>Configuración del agente</i>
-    <li>n/a</li>
+    <li>N/A</li>
     <br>
     <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>

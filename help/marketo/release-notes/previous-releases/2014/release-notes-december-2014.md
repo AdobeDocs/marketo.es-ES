@@ -4,10 +4,10 @@ description: 'Notas de la versión, diciembre de 2014, Documentos de Marketo: do
 title: Notas de la versión, diciembre de 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 
 · Combinar posible cliente
 
-Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] mejoras de compatibilidad {#munchkin-javascript-compatibility-enhancements}
 

@@ -4,16 +4,16 @@ description: Plantilla 13C - Documentos de Marketo - Documentación del producto
 title: Plantilla 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 # Plantilla 13C {#template-13c}
 
-Haga clic con el botón derecho para [descargar la plantilla 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=es)
+[Plantilla13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

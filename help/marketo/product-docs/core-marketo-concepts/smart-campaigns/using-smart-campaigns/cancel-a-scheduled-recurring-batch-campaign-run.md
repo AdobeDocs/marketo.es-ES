@@ -4,16 +4,16 @@ description: 'Cancelar una ejecución de campaña de lotes recurrentes programad
 title: Cancelar una ejecución programada de campaña por lotes recurrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
 # Cancelar una ejecución programada de campaña por lotes recurrente {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las ejecuciones futuras. Así es como.
+Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las ejecuciones futuras. Así es cómo se hace.
 
 1. Seleccione la campaña inteligente y haga clic en la ficha **Programar**.
 

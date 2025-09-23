@@ -4,14 +4,14 @@ title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresa
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Paso 2 de 3: Crear un usuario de Salesforce para Marketo (para empresas y sin límites) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >

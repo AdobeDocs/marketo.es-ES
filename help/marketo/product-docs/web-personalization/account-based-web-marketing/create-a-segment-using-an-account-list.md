@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720236
 description: 'Creación de un segmento con una lista de cuentas: documentos de Marketo, documentación del producto'
-title: Creación de segmentos mediante una lista de cuentas
+title: Crear un segmento mediante una lista de cuentas
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 4%
+ht-degree: 13%
 
 ---
 
-# Creación de segmentos mediante una lista de cuentas {#create-a-segment-using-an-account-list}
+# Crear un segmento mediante una lista de cuentas {#create-a-segment-using-an-account-list}
 
 A continuación se indica cómo crear un segmento mediante una lista de cuentas.
 

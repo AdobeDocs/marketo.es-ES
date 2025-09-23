@@ -4,7 +4,7 @@ description: 'Versiones de complementos de Marketo para  [!DNL Microsoft Dynamic
 title: Versiones de complementos de Marketo para  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 0%
@@ -37,7 +37,7 @@ La primera vez que sincronice con [!DNL Microsoft Dynamics], descargará la vers
  <tbody>
   <tr>
    <th style="width:15%">Versión</th>
-   <th style="width:20%">Fecha de lanzamiento</th>
+   <th style="width:20%">Fecha de la versión</th>
    <th style="width:65%">Notas</th>
   </tr>
   <tr>

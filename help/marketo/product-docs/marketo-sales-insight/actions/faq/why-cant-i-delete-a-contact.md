@@ -1,12 +1,12 @@
 ---
-description: ¿Por qué no puedo eliminar un contacto? - Documentos de Marketo - Documentación del producto
+description: '¿Por qué no puedo eliminar un contacto? Documentación de Marketo: documentación del producto'
 title: ¿Por qué no puedo eliminar un contacto?
 exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

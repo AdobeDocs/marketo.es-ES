@@ -4,14 +4,14 @@ description: 'Notas de la versión, mejoras de ABM de abril de 2017, documentaci
 title: Notas de la versión, mejoras de ABM en abril de 2017
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Notas de la versión: Mejoras de ABM en abril de 2017 {#release-notes-april-abm-enhancements}
+# Notas de la versión: mejoras de ABM de abril de 2017 {#release-notes-april-abm-enhancements}
 
 Las siguientes funciones se incluyen en la versión de mejora de ABM de abril de 2017. Compruebe la disponibilidad de las funciones en Marketo Edition.
 

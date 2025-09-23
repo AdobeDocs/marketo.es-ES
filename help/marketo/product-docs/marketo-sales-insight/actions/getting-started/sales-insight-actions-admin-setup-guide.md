@@ -1,16 +1,16 @@
 ---
 description: Guía de configuración de administración de acciones de ventas de Insight - Documentos de Marketo - Documentación del producto
-title: Guía de configuración de administración de acciones de Insight de ventas
+title: Guía de configuración de administración de acciones de Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Guía de configuración de administración de acciones de Insight de ventas {#sales-insight-actions-admin-setup-guide}
+# Guía de configuración de administración de acciones de Sales Insight {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <th>Grupo de usuarios</th>
+  <th>Persona</th>
   <th>Paso</th>
  </tr>
  <tr>
@@ -47,11 +47,11 @@ ht-degree: 2%
   <td>Invitar a usuarios a MSI-Actions</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] Administración</td>
+  <td>[!DNL Salesforce] Administrador</td>
   <td>Instalación/actualización del paquete MSI en [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] Administración</td>
+  <td>[!DNL Salesforce] Administrador</td>
   <td>Configurar acciones MSI en [!DNL Salesforce]</td>
  </tr>
 </table>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849099
 description: Actualización de la solución Marketo Sales Insight para Microsoft Dynamics - Documentos de Marketo - Documentación del producto
-title: Actualización de la solución Marketo Sales Insight para Microsoft Dynamics
+title: Actualizar la solución Marketo Sales Insight para Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

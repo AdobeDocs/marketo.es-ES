@@ -4,10 +4,10 @@ description: Importación de una lista de caracteres no latinos - Documentos de 
 title: Importar una lista de caracteres no latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -69,6 +69,6 @@ Esto se debe a que el archivo no se ha guardado correctamente para que Marketo r
 
    >[!NOTE]
    >
-   >Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
+   >Los campos de fecha y hora que se importen se tratarán como hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
 Sabemos que esto es raro, pero funciona. ¡Feliz importación!

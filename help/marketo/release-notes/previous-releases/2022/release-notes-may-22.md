@@ -2,20 +2,20 @@
 description: 'Notas de la versión, mayo de 2022: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, mayo de 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '803'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Notas de la versión: mayo de 2022 {#release-notes-may-22}
 
-A continuación encontrará todas las funciones incluidas en la versión de mayo de 2022. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de mayo de 2022. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 

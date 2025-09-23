@@ -3,14 +3,14 @@ unique-page-id: 10097199
 description: 'Notas de la versión, invierno de 2016, documentación de Marketo: documentación del producto'
 title: Notas de la versión, invierno de 2016
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notas de la versión: Invierno de 2016 {#release-notes-winter}
+# Notas de la versión: invierno de 2016 {#release-notes-winter}
 
 En la versión de invierno de 16 se incluyen las siguientes funciones. Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 

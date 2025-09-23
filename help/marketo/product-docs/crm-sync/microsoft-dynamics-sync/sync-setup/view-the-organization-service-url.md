@@ -4,16 +4,16 @@ description: Ver la URL del servicio de organización - Documentos de Marketo - 
 title: Ver la URL del servicio de organización
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 # Ver la URL del servicio de organización {#view-the-organization-service-url}
 
-El Marketo Engage necesita la URL del servicio de organización para sincronizarse con las instancias de MD. A continuación se indica cómo encontrarlo en Dynamics.
+Marketo Engage necesita la URL del servicio de organización para sincronizarse con las instancias de MD. A continuación se indica cómo encontrarlo en Dynamics.
 
 1. Inicie sesión en [!DNL Dynamics]. Haga clic en el icono Configuración y seleccione **[!UICONTROL Configuración avanzada]**.
 

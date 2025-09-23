@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949253
 description: 'SEO: Eliminar un vínculo entrante URL: documentos de Marketo: documentación del producto'
-title: 'SEO: Eliminar/eliminar una URL de vínculo de entrada'
+title: 'SEO: quitar/eliminar una URL de vínculo de entrada'
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# SEO: Eliminar/eliminar una URL de vínculo de entrada {#seo-remove-delete-an-inbound-link-url}
+# SEO: quitar/eliminar una URL de vínculo de entrada {#seo-remove-delete-an-inbound-link-url}
 
 A veces, es recomendable eliminar los vínculos de entrada. A continuación se muestra cómo:
 

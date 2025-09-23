@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783146
 description: 'Adición de un nuevo dispositivo de prueba: documentos de Marketo, documentación del producto'
-title: Agregar un nuevo dispositivo de prueba
+title: Añadir un nuevo dispositivo de prueba
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Agregar un nuevo dispositivo de prueba {#adding-a-new-test-device}
+# Añadir un nuevo dispositivo de prueba {#adding-a-new-test-device}
 
 Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 

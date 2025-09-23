@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092925
 description: 'Previsualización y prueba de una campaña web: documentos de Marketo, documentación del producto'
-title: Previsualización y prueba de una campaña web
+title: Vista previa y prueba de una campaña web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Previsualización y prueba de una campaña web {#preview-and-test-a-web-campaign}
+# Vista previa y prueba de una campaña web {#preview-and-test-a-web-campaign}
 
 Este artículo muestra diferentes formas de previsualizar una campaña web y también cómo probarla con un segmento de zona protegida activo en el sitio web.
 

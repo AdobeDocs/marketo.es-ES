@@ -4,10 +4,10 @@ description: 'Notas de la versión, otoño de 2015, Documentos de Marketo: docum
 title: Notas de la versión, otoño de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 Las siguientes funciones se incluyen en la versión de otoño de 1515. Compruebe la disponibilidad de las funciones en Marketo Edition.
 
-## Suscripción a una lista inteligente {#subscribe-to-a-smart-list}
+## Suscribirse a una lista inteligente {#subscribe-to-a-smart-list}
 
-[Suscripción a una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[Suscribirse a una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 La suscripción a listas inteligentes permite a los especialistas en marketing exportar una lista inteligente y enviarla por correo electrónico a las partes interesadas que no utilizan Marketo, por ejemplo, los equipos de ventas o telemarketing.
 
@@ -29,9 +29,9 @@ Se pueden crear varias suscripciones en una lista inteligente. Hay una limitaci�
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Objetos personalizados de Marketo {#marketo-custom-objects}
+## Objetos personalizables de Marketo {#marketo-custom-objects}
 
-[Objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Objetos personalizables de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Cree fácilmente objetos personalizados desde la IU de administración. Actualmente admitimos la capacidad de crear un objeto personalizado de 1:N en Marketo y conectarlo a un posible cliente o compañía.
 
@@ -57,7 +57,7 @@ Esta actualización incluye muchas nuevas funciones y funcionalidades:
 
 ## Marketo Mobile Engagement: tokens, enviar muestra y previsualizar {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [Tókenes](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Enviar muestra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Vista previa](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 

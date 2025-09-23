@@ -4,10 +4,10 @@ description: 'Añadir cancelaciones de suscripción automáticas a una plantilla
 title: Añadir cancelaciones de suscripción automáticas a una plantilla
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

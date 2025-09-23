@@ -4,10 +4,10 @@ description: 'Editar asignaciones de campo iniciales: documentos de Marketo: doc
 title: Editar asignaciones de campo iniciales
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -63,7 +63,7 @@ Si tiene campos con nombres similares en el posible cliente y en el objeto de co
 
 ## Restablecer esquema {#reset-schema}
 
-1. Si realiza algunos cambios en el esquema de Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **[!UICONTROL Restablecer esquema]**.
+1. Si realiza algunos cambios en el esquema en Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **[!UICONTROL Restablecer esquema]**.
 
    * Se restablecerán todos los cambios de asignación.
    * Al restablecer el esquema, solo se añaden campos, no se eliminan (aunque se oculten al usuario de sincronización).

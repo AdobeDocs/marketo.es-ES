@@ -4,7 +4,7 @@ description: 'Momento interesante: Documentos de Marketo: documentación del pro
 title: Momento interesante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Momento interesante {#interesting-moment}
 
-Si tienes datos de ventas de Marketo, puedes usar el paso de flujo **Momento interesante** para dar a tu equipo de ventas visibilidad de las cosas interesantes que están haciendo tus empleados.
+Si tiene Marketo Sales Insight, puede usar el paso de flujo **Momento interesante** para dar a su equipo de ventas visibilidad de las cosas interesantes que su gente está haciendo.
 
 ![](assets/interesting-moment-1.png)
 

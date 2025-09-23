@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359545
 description: Definición de los criterios de ganador de la prueba A/B - Documentos de Marketo - Documentación del producto
-title: Definir los criterios de ganador de la prueba A/B
+title: Definir criterios del ganador de prueba A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 21%
 
 ---
 
-# Definir los criterios de ganador de la prueba A/B {#define-the-a-b-test-winner-criteria}
+# Definir criterios del ganador de prueba A/B {#define-the-a-b-test-winner-criteria}
 
 Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} a su programa de correo electrónico, deberá elegir un tipo de prueba, [programar la prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} y luego definir los criterios de ganador. Así se decide qué correo electrónico gana.
 
@@ -32,7 +32,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>[!UICONTROL Clics]</b></td>
-   <td>De forma predeterminada, los vínculos de los correos electrónicos tienen un seguimiento incrustado que le permite ver quién hizo clic en qué vínculo, en cuántos vínculos se hizo clic, etc.</td>
+   <td>De forma predeterminada, los vínculos de los correos electrónicos tienen un seguimiento incrustado que le permite ver quién hizo clic y en qué vínculo, en cuántos vínculos se hizo clic, etc.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Haga clic para abrir] %</b></td>
@@ -40,7 +40,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>[!UICONTROL Puntuación de participación]</b></td>
-   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=es" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
+   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
    </tr>
    </table>
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359606
 description: Eliminación de un campo de un formulario - Documentos de Marketo - Documentación del producto
-title: Eliminar un campo de un formulario
+title: Eliminar campo de un formulario
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 2%
+ht-degree: 20%
 
 ---
 
-# Eliminar un campo de un formulario {#delete-a-field-in-a-form}
+# Eliminar campo de un formulario {#delete-a-field-in-a-form}
 
-Si hay un campo que ya no necesita en el formulario, se puede eliminar fácilmente. Así es como.
+Si hay un campo que ya no necesita en el formulario, se puede eliminar fácilmente. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

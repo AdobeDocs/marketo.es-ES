@@ -1,15 +1,15 @@
 ---
-description: ¿Por Qué Ha Finalizado Mi Campaña? - Documentos de Marketo - Documentación del producto
-title: ¿Por Qué Ha Finalizado Mi Campaña?
+description: '¿Por Qué Ha Finalizado Mi Campaña? Documentación de Marketo: documentación del producto'
+title: ¿Por qué ha finalizado mi campaña?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# ¿Por Qué Ha Finalizado Mi Campaña? {#why-has-my-campaign-ended}
+# ¿Por qué ha finalizado mi campaña? {#why-has-my-campaign-ended}
 
 Si ve un correo electrónico en la carpeta de entrega fallida que dice &quot;la campaña ha finalizado&quot;, significa que este correo electrónico en particular era un correo electrónico programado en la campaña.
 

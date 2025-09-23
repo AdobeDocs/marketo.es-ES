@@ -4,7 +4,7 @@ description: Uso de acciones masivas en  [!DNL Salesforce] Classic - Documentos 
 title: Uso de acciones masivas en  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%

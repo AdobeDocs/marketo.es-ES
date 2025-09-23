@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10096523
 description: 'Ver el tablero de notificaciones push: documentos de Marketo: documentación del producto'
-title: Ver el panel de notificaciones push
+title: Ver el tablero de notificaciones push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Ver el panel de notificaciones push {#view-the-push-notification-dashboard}
+# Ver el tablero de notificaciones push {#view-the-push-notification-dashboard}
 
 Es fácil ver cómo van sus notificaciones push.
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

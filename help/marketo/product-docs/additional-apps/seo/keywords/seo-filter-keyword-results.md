@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949208
 description: SEO - Filtrar resultados de palabras clave - Documentos de Marketo - Documentación del producto
-title: SEO - Filtrar resultados de palabras clave
+title: 'SEO: filtrar resultados de palabras clave'
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO - Filtrar resultados de palabras clave {#seo-filter-keyword-results}
+# SEO: filtrar resultados de palabras clave {#seo-filter-keyword-results}
 
 Es posible que tenga muchas [palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146937
 description: 'Ver miembros de campañas inteligentes: documentos de Marketo, documentación del producto'
-title: Ver miembros de campañas inteligentes
+title: Ver miembros de la campaña inteligente
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Ver miembros de campañas inteligentes {#view-smart-campaign-members}
+# Ver miembros de la campaña inteligente {#view-smart-campaign-members}
 
 Vea las personas que ya han pasado por el flujo de campaña inteligente.
 

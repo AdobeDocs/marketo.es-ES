@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512457
 description: 'Envío de una notificación push móvil: Documentos de Marketo: documentación del producto'
-title: Enviar una notificación push móvil
+title: Enviar una notificación push para dispositivos móviles
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 20%
 
 ---
 
-# Enviar una notificación push móvil {#send-a-mobile-push-notification}
+# Enviar una notificación push para dispositivos móviles {#send-a-mobile-push-notification}
 
 Envíe una notificación push a las personas que utilicen su aplicación móvil.
 
@@ -20,7 +20,7 @@ Envíe una notificación push a las personas que utilicen su aplicación móvil.
 >* [Crear una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Crear una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 

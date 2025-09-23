@@ -3,10 +3,10 @@ description: Estado de sincronización de Salesforce - Documentos de Marketo - D
 title: Estado de sincronización de Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -147,7 +147,7 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
    <td colspan="1">Contacto</td>
   </tr>
   <tr>
-   <td colspan="1">Plantilla de email</td>
+   <td colspan="1">Plantilla de correo electrónico</td>
   </tr>
   <tr>
    <td colspan="1">Evento</td>

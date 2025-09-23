@@ -4,10 +4,10 @@ description: 'Creación de un correo electrónico de solo texto: documentos de M
 title: Crear un correo electrónico de solo texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 >
 >Dado que el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible) rastrea las aperturas, **no** pueden rastrearse para correos electrónicos de solo texto.
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 
    ![](assets/two-1.png)
 
-1. Seleccione **[!UICONTROL Correo electrónico]**.
+1. Seleccione **[!UICONTROL correo electrónico]**.
 
    ![](assets/three-1.png)
 

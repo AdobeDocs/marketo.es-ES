@@ -3,7 +3,7 @@ description: Criterios de audiencia - Documentos de Marketo - Documentación del
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -116,7 +116,7 @@ También tiene la opción de agrupar atributos, en caso de que desee tener todos
 
 ![](assets/audience-criteria-17.png)
 
-## Target {#target}
+## Objetivo {#target}
 
 Aquí es donde se introducen las direcciones URL en las que se desea mostrar un cuadro de diálogo específico. También tiene la opción de añadir exclusiones.
 

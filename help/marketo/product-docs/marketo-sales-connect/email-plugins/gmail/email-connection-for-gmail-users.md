@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17728401
 description: Conexión de correo electrónico para usuarios de Gmail - Documentos de Marketo - Documentación del producto
-title: Conexión de correo electrónico para usuarios de Gmail
+title: Conexión del correo electrónico para usuarios de Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Conexión de correo electrónico para usuarios de Gmail {#email-connection-for-gmail-users}
+# Conexión del correo electrónico para usuarios de Gmail {#email-connection-for-gmail-users}
 
 Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Gmail, la capacidad de programar correos electrónicos en Gmail y enviar conformidad.
 
@@ -31,7 +31,7 @@ Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al 
 
    ![](assets/three.png)
 
-1. Haga clic en **[!UICONTROL Comenzar]**.
+1. Haga clic en **[!UICONTROL Empezar]**.
 
    ![](assets/four.png)
 

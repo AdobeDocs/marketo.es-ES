@@ -4,16 +4,16 @@ description: 'Eliminación de un programa: documentos de Marketo, documentación
 title: Eliminar un programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Eliminar un programa {#delete-a-program}
 
-Puede archivar un programa, pero a veces solo desea deshacerse de él de forma permanente. Así es como.
+Puede archivar un programa, pero a veces solo desea deshacerse de él de forma permanente. Así es cómo se hace.
 
 1. Seleccione el programa que desee eliminar.
 

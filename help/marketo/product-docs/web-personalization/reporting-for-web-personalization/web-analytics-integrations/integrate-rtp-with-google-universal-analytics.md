@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
 description: 'Integración de RTP con Google Universal Analytics: documentos de Marketo, documentación del producto'
-title: Integración de RTP con Universal Analytics de Google
+title: Integración de RTP con Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -43,7 +43,6 @@ En esta publicación se explica cómo configurar e integrar la plataforma [!DNL 
    1. Seleccione la **[!UICONTROL cuenta].**
    1. Seleccione la **[!UICONTROL propiedad].**
    1. Seleccione **[!UICONTROL definiciones personalizadas]** y **[!UICONTROL dimensiones personalizadas]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Añada una nueva dimensión personalizada. Haga clic en **[!UICONTROL +Nuevo Dimension personalizado]**
@@ -104,7 +103,7 @@ Una vez que haya activado las dimensiones personalizadas en GUA, vaya a la plata
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **[!UICONTROL Google Universal Analytics]**.
-1. Active **[!UICONTROL 1&rbrace; las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
+1. Active **[!UICONTROL 1} las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
 1. Escriba el **[!UICONTROL número de índice]** de la dimensión alineado con el número de índice en GUA.
 1. Haga clic en **[!UICONTROL Guardar]**.
 

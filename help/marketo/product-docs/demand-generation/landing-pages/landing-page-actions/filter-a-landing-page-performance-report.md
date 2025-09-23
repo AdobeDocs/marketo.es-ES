@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359742
 description: 'Filtrado de un informe de rendimiento de página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Filtrado de un informe de rendimiento de página de aterrizaje
+title: Filtrado de un informe de rendimiento de la página de destino
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrado de un informe de rendimiento de página de aterrizaje {#filter-a-landing-page-performance-report}
+# Filtrado de un informe de rendimiento de la página de destino {#filter-a-landing-page-performance-report}
 
 Enfoque su [informe de rendimiento de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en las páginas de aterrizaje de sus programas (recursos locales), en las de [!UICONTROL Design Studio] (recursos globales) o en las que se han archivado.
 

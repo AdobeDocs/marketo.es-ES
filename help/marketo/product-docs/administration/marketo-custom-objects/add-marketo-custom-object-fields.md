@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093688
 description: 'Agregar campos de objeto personalizados de Marketo: documentos de Marketo, documentación del producto'
-title: Agregar campos de objeto personalizados de Marketo
+title: Añadir campos de objeto personalizables de Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Agregar campos de objeto personalizados de Marketo {#add-marketo-custom-object-fields}
+# Añadir campos de objeto personalizables de Marketo {#add-marketo-custom-object-fields}
 
 Después de crear un objeto personalizado, debe agregarle campos para satisfacer sus necesidades comerciales.
 

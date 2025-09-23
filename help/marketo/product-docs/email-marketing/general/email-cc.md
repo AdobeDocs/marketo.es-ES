@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727995
 description: 'Correo electrónico CC: documentos de Marketo, documentación del producto'
-title: Correo electrónico CC
+title: CC del correo electrónico
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Correo electrónico CC {#email-cc}
+# CC del correo electrónico {#email-cc}
 
 Correo electrónico CC permite que determinados correos electrónicos se envíen a través de Marketo para incluir destinatarios CC.
 

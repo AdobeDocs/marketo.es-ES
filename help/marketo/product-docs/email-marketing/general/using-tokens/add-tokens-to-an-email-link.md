@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147360
 description: 'Añadir tokens a un vínculo de correo electrónico: documentos de Marketo, documentación del producto'
-title: Añadir tokens a un vínculo de correo electrónico
+title: Añadir tókenes a un vínculo de un correo electrónico
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# Añadir tokens a un vínculo de correo electrónico {#add-tokens-to-an-email-link}
+# Añadir tókenes a un vínculo de un correo electrónico {#add-tokens-to-an-email-link}
 
-Para insertar parámetros adicionales y específicos de la persona en los vínculos, puede utilizar tokens. Así es como.
+Para insertar parámetros adicionales y específicos de la persona en los vínculos, puede utilizar tokens. Así es cómo se hace.
 
 1. Seleccione su correo electrónico y haga clic en la ficha **[!UICONTROL Editar borrador]**.
 

@@ -1,16 +1,16 @@
 ---
 description: Métricas de registro de pendientes de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
-title: Métricas de registro de sincronización de Salesforce
+title: Métricas de registro de asuntos pendientes de Salesforce
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
-# Métricas de registro de sincronización de Salesforce  {#salesforce-sync-backlog-metrics}
+# Métricas de registro de asuntos pendientes de Salesforce  {#salesforce-sync-backlog-metrics}
 
 El registro de pendientes de sincronización es el nombre utilizado para los registros pendientes de sincronización. Tiene en cuenta los registros pendientes de sincronización de Salesforce a Marketo Engage y viceversa. Garantizar que el registro de pendientes permanece bajo control dará lugar a sincronizaciones suaves y de tiempo. El registro de pendientes abarca los números pendientes de las actualizaciones posteriores a la sincronización en ambos lados, y no aquellos que se realizan mediante pasos de flujo de sincronización como los pasos de flujo de Sincronizar posible cliente a SFDC.
 
@@ -98,9 +98,9 @@ Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un va
 
 **Campos actualizados con frecuencia**: Algunos campos son propensos a actualizaciones frecuentes. Por ejemplo, los campos de moneda que están sujetos a cambios de moneda. Revise si es necesario sincronizarlos o si los campos deben diseñarse de forma diferente. Si tiene otros campos que se actualizan con frecuencia y no son necesarios, ocúltelos del usuario de sincronización. Asegúrese de hablar con los administradores de SFDC sobre las integraciones que pueden estar actualizando campos.
 
-**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
+**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
 
-**Actividades**: [Revise si alguna actividad](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización y si se puede quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
+**Actividades**: [Revise si alguna actividad](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización y si se puede quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
 
 **Revisar errores de sincronización**: La administración de excepciones puede ralentizar la sincronización. Revisar las notificaciones de los usuarios y resolver los errores puede mejorar el estado de la sincronización.
 

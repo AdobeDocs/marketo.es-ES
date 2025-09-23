@@ -1,16 +1,16 @@
 ---
 description: 'Creación de un seminario web interactivo: documentos de Marketo, documentación del producto'
-title: Crear un seminario web interactivo
+title: Creación de un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Crear un seminario web interactivo {#create-an-interactive-webinar}
+# Creación de un seminario web interactivo {#create-an-interactive-webinar}
 
 Cree un seminario web interactivo en unos sencillos pasos.
 

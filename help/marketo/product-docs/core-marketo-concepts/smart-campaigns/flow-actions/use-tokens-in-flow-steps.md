@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146995
 description: 'Uso de tokens en pasos de flujo: documentos de Marketo, documentación del producto'
-title: Uso de tokens en pasos de flujo
+title: Uso de tókenes en pasos de flujo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
-# Uso de tokens en pasos de flujo {#use-tokens-in-flow-steps}
+# Uso de tókenes en pasos de flujo {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >

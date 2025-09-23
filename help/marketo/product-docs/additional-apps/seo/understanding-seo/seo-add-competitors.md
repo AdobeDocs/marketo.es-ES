@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949192
 description: SEO - Agregar competidores - Documentos de Marketo - Documentación del producto
-title: 'SEO: Agregar competidores'
+title: 'SEO: añadir competidores'
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# SEO: Agregar competidores {#seo-add-competitors}
+# SEO: añadir competidores {#seo-add-competitors}
 
 Añadir competidores le permitirá rastrear el rendimiento que tienen para las mismas palabras clave y vínculos de entrada que elija monitorizar.
 

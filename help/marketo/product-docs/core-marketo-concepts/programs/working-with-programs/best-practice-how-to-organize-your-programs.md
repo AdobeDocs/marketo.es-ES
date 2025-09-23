@@ -4,7 +4,7 @@ description: 'Práctica recomendada: Cómo organizar los programas - Documentos 
 title: 'Práctica recomendada: Cómo organizar los programas'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -77,7 +77,7 @@ La asignación de nombres es fundamental, ya que todas las funciones de Marketo 
 
 Los nombres de los programas deben ser únicos en su suscripción, incluso en [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} diferentes.  Para los recursos locales dentro de los programas, la regla es **mantener el nombre simple**. Asigne un nombre a la invitación &quot;Invitación&quot;, en lugar de &quot;Invitación al seminario web de junio de 2015&quot;. Como se encuentran en un programa, el programa principal forma parte automáticamente del nombre al elegirlo en otra parte. En otras palabras, los recursos locales solo deben ser únicos dentro del programa. Puede tener cientos de recursos llamados &quot;Invitar&quot;, cada uno en un programa diferente y no le causará problemas.
 
-## Tokens {#tokens}
+## Tókenes {#tokens}
 
 Los tokens utilizan carpetas y programas como vehículo para establecer variables que se utilizarán en páginas de aterrizaje, correos electrónicos y otros recursos.
 

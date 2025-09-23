@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512434
 description: 'Configuración del acceso push de iOS de aplicaciones móviles: documentos de Marketo, documentación del producto'
-title: Configuración del acceso push de iOS de aplicaciones móviles
+title: Configurar el acceso push de iOS para aplicaciones móviles
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Configuración del acceso push de iOS de aplicaciones móviles {#configure-mobile-app-ios-push-access}
+# Configurar el acceso push de iOS para aplicaciones móviles {#configure-mobile-app-ios-push-access}
 
 1. Haga clic en **[!UICONTROL Administrador]**.
 

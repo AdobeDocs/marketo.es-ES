@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: 'Filtrado de Assets en un informe por correo electrónico: documentos de Marketo: documentación del producto'
-title: Filtrado de Assets en un informe por correo electrónico
+title: Filtrar recursos en un informe por correo electrónico
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrado de Assets en un informe por correo electrónico {#filter-assets-in-an-email-report}
+# Filtrar recursos en un informe por correo electrónico {#filter-assets-in-an-email-report}
 
 Centra tu informe de [Rendimiento del correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Rendimiento de los vínculos de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en los correos electrónicos de tus programas (&quot;recursos locales&quot;), en los de Design Studio (&quot;recursos globales&quot;) o en los que se han archivado.
 

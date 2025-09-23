@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: 'Explicación del análisis de oportunidades en el Explorador de ingresos: documentos de Marketo: documentación del producto'
-title: Explicación del análisis de oportunidad en el Explorador de ingresos
+title: Explicación del análisis de oportunidad en el explorador de ingresos
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
-# Explicación del análisis de oportunidad en el Explorador de ingresos {#understanding-opportunity-analysis-in-revenue-explorer}
+# Explicación del análisis de oportunidad en el explorador de ingresos {#understanding-opportunity-analysis-in-revenue-explorer}
 
 El análisis de oportunidades en el Explorador de ingresos le permite examinar sus oportunidades a un nivel más profundo. Corte y fragmente los datos en función de cualquier atributo de cliente potencial/empresa, como la fuente, el sector o la ubicación geográfica del cliente potencial. Analice la creación y el cierre de oportunidades en función del nombre, la fase o la probabilidad. Descubra las contribuciones de marketing a la canalización.
 
@@ -77,9 +77,9 @@ El análisis de oportunidad le permite acceder a todas las dimensiones relaciona
 
    | Dimensión | Descripción |
    |---|---|
-   | Está en la lista de bloqueos | El posible cliente está incluido en la lista de bloqueados |
+   | Incluido en la lista de bloqueados | El posible cliente está incluido en la lista de bloqueados |
    | Convertido a oportunidad | El posible cliente se convierte en una oportunidad |
-   | Email no válido | Si el posible cliente tiene una dirección de correo electrónico válida |
+   | Correo electrónico no válido | Si el posible cliente tiene una dirección de correo electrónico válida |
    | Marketing suspendido | ¿El posible cliente está suspendido de los correos electrónicos de marketing? |
    | Correo electrónico | Dirección de correo electrónico del posible cliente |
    | Cargo | Puesto de responsable |

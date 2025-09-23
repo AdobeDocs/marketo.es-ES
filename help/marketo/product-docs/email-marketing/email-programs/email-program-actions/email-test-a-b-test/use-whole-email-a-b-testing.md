@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: Pruebas A/B de "correo electrónico completo" - Documentos de Marketo - Documentación del producto
-title: Usar prueba A/B de "correo electrónico completo"
+title: Usar prueba A/B de “correo electrónico completo”
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Usar prueba A/B de &quot;correo electrónico completo&quot; {#use-whole-email-a-b-testing}
+# Usar prueba A/B de “correo electrónico completo” {#use-whole-email-a-b-testing}
 
 Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la prueba de **Correo electrónico completo**. A continuación se muestra cómo configurarlo.
 
@@ -45,11 +45,11 @@ Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la p
 
 1. Seleccione su segundo correo electrónico.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Haga clic en **[!UICONTROL Agregar]** para aplicar el segundo correo electrónico. Arrastre el control deslizante para elegir el porcentaje de audiencia que desea que reciba la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

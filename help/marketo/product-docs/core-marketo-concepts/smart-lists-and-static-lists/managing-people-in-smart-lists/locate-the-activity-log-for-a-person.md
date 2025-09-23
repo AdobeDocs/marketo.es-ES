@@ -4,10 +4,10 @@ description: 'Localizar el registro de actividad de una persona. Documentos de M
 title: Localizar el registro de actividad de una persona
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ El registro de actividad es la fuente fiable definitiva. Esta es la historia com
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Haga clic en la ficha **[!UICONTROL Personas]**. Seleccione un número de persona **[!UICONTROL Id]**.
+1. Haga clic en la pestaña **[!UICONTROL Personas]**. Seleccione un número de persona **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 

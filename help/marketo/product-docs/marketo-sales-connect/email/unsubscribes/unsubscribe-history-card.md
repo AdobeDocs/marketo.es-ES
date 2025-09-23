@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746184
 description: Tarjeta Historial de cancelación de suscripción - Documentos de Marketo - Documentación del producto
-title: Tarjeta Historial de cancelación
+title: Tarjeta de historial de cancelación de suscripción
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Tarjeta Historial de cancelación {#unsubscribe-history-card}
+# Tarjeta de historial de cancelación de suscripción {#unsubscribe-history-card}
 
 La tarjeta [!UICONTROL Cancelar la suscripción al historial] ayuda a los administradores y usuarios a obtener información contextual sobre el historial de cancelación de suscripción de sus contactos.
 

@@ -4,14 +4,14 @@ description: 'Paso 2 de 3: Configuración del usuario de sincronización para Ma
 title: 'Paso 2 de 3: Configuración de la sincronización del usuario para Marketo (2013 local)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Paso 2 de 3: Configuración de la sincronización de usuarios con Marketo (2013 local) {#step-of-configure-sync-user-for-marketo-on-premises}
+# Paso 2 de 3: Configuración de la sincronización de usuarios con Marketo (2013, local) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 Buen trabajo completando los pasos anteriores, sigamos con esto.
 

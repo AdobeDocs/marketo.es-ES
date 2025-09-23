@@ -4,16 +4,16 @@ description: Desactivar notificaciones por correo electrónico al propietario de
 title: Desactivar notificaciones por correo electrónico al propietario del posible cliente
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 4%
+ht-degree: 27%
 
 ---
 
 # Desactivar notificaciones por correo electrónico al propietario del posible cliente {#turn-off-email-notifications-to-lead-owner}
 
-Puede deshabilitar las notificaciones automáticas por correo electrónico que se envían a los propietarios de posibles clientes en [!DNL Salesforce] tras la asignación del posible cliente. Así es como.
+Puede deshabilitar las notificaciones automáticas por correo electrónico que se envían a los propietarios de posibles clientes en [!DNL Salesforce] tras la asignación del posible cliente. Así es cómo se hace.
 
 1. Ir a **[!UICONTROL Administrador]**.
 

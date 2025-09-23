@@ -1,16 +1,16 @@
 ---
 description: 'Creación de un equipo: documentos de Marketo, documentación del producto'
-title: Creación de un equipo
+title: Crear un equipo
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Creación de un equipo {#creating-a-team}
+# Crear un equipo {#creating-a-team}
 
 La creación de un equipo permite reunir un grupo de usuarios con los que se puede compartir contenido y por los que se pueden filtrar informes.
 

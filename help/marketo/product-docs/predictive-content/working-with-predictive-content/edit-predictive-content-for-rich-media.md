@@ -4,10 +4,10 @@ description: 'Edición de contenido predictivo para medios enriquecidos: documen
 title: Editar contenido predictivo para medios enriquecidos
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

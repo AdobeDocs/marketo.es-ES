@@ -4,16 +4,16 @@ description: 'Creación y cambio de vistas para listas y listas inteligentes: Do
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 # Crear y cambiar vistas para listas y listas inteligentes {#create-and-change-views-for-lists-and-smart-list}
 
-Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías que podrías editar esas columnas para tu propio contenido? Así es como.
+Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías que podrías editar esas columnas para tu propio contenido? Así es cómo se hace.
 
 ## Crear una vista {#create-a-view}
 

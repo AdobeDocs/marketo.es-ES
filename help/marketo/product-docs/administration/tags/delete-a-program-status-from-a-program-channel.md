@@ -4,10 +4,10 @@ description: Eliminar un estado de programa de un canal de programa - Documentos
 title: Eliminar un estado de programa de un canal de programa
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

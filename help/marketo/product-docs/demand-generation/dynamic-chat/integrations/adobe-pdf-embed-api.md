@@ -3,7 +3,7 @@ description: 'API de incrustación de Adobe PDF: documentos de Marketo: document
 title: API de inserción de Adobe PDF
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 5%
@@ -12,7 +12,7 @@ ht-degree: 5%
 
 # API de inserción de Adobe PDF {#adobe-pdf-embed-api}
 
-La tarjeta de documento permite incrustar documentos del PDF en los cuadros de diálogo y rastrear la actividad de participación de visitantes en los documentos. A continuación se muestra cómo configurarlo.
+La tarjeta de documento le permite incrustar documentos de PDF en cuadros de diálogo y rastrear la actividad de participación de visitantes en los documentos. A continuación se muestra cómo configurarlo.
 
 1. Vaya a [API de incrustación de Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -36,7 +36,7 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. De nuevo en el Dynamic Chat, haz clic en **[!UICONTROL Integraciones]**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **[!UICONTROL Activar]**.
+1. En Dynamic Chat, haga clic en **[!UICONTROL Integraciones]**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 

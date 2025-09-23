@@ -1,16 +1,16 @@
 ---
 description: 'Información general sobre el flujo de conversación: documentos de Marketo, documentación del producto'
-title: Resumen de flujo de conversación
+title: Información general de flujo conversacional
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Resumen de flujo de conversación {#conversational-flow-overview}
+# Información general de flujo conversacional {#conversational-flow-overview}
 
 Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de call-to-action, al cargar la página, el tiempo invertido en la página, etc.).
 
@@ -82,7 +82,7 @@ En la mitad inferior de la pestaña Configuración, personalice el déclencheur 
 
 >[!TIP]
 >
->Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=es){target="_blank"} en acción.
+>Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en acción.
 
 >[!MORELIKETHIS]
 >

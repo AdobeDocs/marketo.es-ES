@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: 'Notas de la versión, invierno de 2018, documentación de Marketo: documentación del producto'
 title: Notas de la versión, invierno de 2018
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notas de la versión: Invierno de 2018 {#release-notes-winter}
+# Notas de la versión: invierno de 2018 {#release-notes-winter}
 
 En la versión de invierno de 18 se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition.
 

@@ -4,16 +4,16 @@ description: 'Edición del CSS de una temática de formulario: documentos de Mar
 title: Editar el CSS de una temática de formulario
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 # Editar el CSS de una temática de formulario {#edit-the-css-of-a-form-theme}
 
-Tiene algunos [temas generados previamente que solo puede elegir entre](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es como.
+Tiene algunos [temas generados previamente que solo puede elegir entre](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es cómo se hace.
 
 >[!NOTE]
 >

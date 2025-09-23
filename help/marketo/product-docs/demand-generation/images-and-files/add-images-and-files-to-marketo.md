@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359858
 description: 'Añadir imágenes y archivos a Marketo: documentos de Marketo, documentación del producto'
-title: Agregar imágenes y archivos a Marketo
+title: Añadir imágenes y archivos a Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Agregar imágenes y archivos a Marketo {#add-images-and-files-to-marketo}
+# Añadir imágenes y archivos a Marketo {#add-images-and-files-to-marketo}
 
 Obtenga información sobre cómo agregar nuevas imágenes o archivos a la instancia de Marketo Engage.
 

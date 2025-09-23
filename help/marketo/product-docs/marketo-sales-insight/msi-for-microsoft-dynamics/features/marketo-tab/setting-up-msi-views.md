@@ -1,16 +1,16 @@
 ---
 description: Configuración de vistas MSI - Documentos de Marketo - Documentación del producto
-title: Configurar vistas de MSI
+title: Configuración de las vistas de MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Configurar vistas de MSI {#setting-up-msi-views}
+# Configuración de las vistas de MSI {#setting-up-msi-views}
 
 Al instalar el complemento [!DNL Sales Insight] en Dynamics, se agregan automáticamente [!DNL Best Bets] y los paneles relacionados en el mapa del sitio. Si, por alguna razón, no se agregan los paneles, así es como se agregan manualmente.
 

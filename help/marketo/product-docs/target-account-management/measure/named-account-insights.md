@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380785
 description: Información de la cuenta con nombre - Documentos de Marketo - Documentación del producto
-title: Perspectivas de cuenta con nombre
+title: Información sobre la cuenta con nombre
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Perspectivas de cuenta con nombre {#named-account-insights}
+# Información sobre la cuenta con nombre {#named-account-insights}
 
 El Tablero de cuentas con nombre proporciona una vista de 360 grados de una cuenta de destino.
 
 ![](assets/one-1.png)
 
-## Panel {#dashboard}
+## Panel de control {#dashboard}
 
 El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de una cuenta con nombre, lo que evita la necesidad de dirigirse a cada persona para evaluar su progreso. Puede profundizar en la actividad del correo electrónico mediante [Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 

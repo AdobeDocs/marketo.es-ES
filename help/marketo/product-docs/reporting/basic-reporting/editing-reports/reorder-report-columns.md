@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: Reordenar columnas de informes - Documentos de Marketo - Documentación del producto
-title: Reordenar columnas del informe
+title: Reordenar columnas de informes
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Reordenar columnas del informe {#reorder-report-columns}
+# Reordenar columnas de informes {#reorder-report-columns}
 
 Puede cambiar el orden de las columnas en un informe.
 

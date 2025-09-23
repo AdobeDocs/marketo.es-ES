@@ -4,14 +4,14 @@ description: Notas de la versión, primavera de 2016, documentación de Marketo,
 title: Notas de la versión, primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '790'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Primavera de 2016 {#release-notes-spring}
+# Notas de la versión: primavera de 2016 {#release-notes-spring}
 
 En la versión de primavera de 16 se incluyen las siguientes funciones. Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 

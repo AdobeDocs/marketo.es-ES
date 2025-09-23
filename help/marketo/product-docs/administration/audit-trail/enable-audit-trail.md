@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382122
 description: Habilitar pista de auditoría - Documentos de Marketo - Documentación del producto
-title: Habilitar pista de auditoría
+title: Habilitar seguimiento de auditoría
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Habilitar pista de auditoría {#enable-audit-trail}
+# Habilitar seguimiento de auditoría {#enable-audit-trail}
 
 La pista de auditoría está disponible para todos los clientes y controlada por dos permisos de administrador.
 

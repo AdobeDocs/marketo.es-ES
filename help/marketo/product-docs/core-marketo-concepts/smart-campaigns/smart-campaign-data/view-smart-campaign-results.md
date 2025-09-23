@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146968
 description: 'Ver resultados de campañas inteligentes: documentos de Marketo, documentación del producto'
-title: Ver resultados de campañas inteligentes
+title: Ver resultados de la campaña inteligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Ver resultados de campañas inteligentes {#view-smart-campaign-results}
+# Ver resultados de la campaña inteligente {#view-smart-campaign-results}
 
-¿Quiere ver un desglose de todo lo que ha sucedido en una campaña inteligente? Así es como.
+¿Quiere ver un desglose de todo lo que ha sucedido en una campaña inteligente? Así es cómo se hace.
 
 >[!TIP]
 >

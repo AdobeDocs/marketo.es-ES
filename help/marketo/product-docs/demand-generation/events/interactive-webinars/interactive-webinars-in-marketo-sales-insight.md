@@ -3,16 +3,16 @@ description: Seminarios web interactivos en Marketo Sales Insight - Documentos d
 title: Seminarios web interactivos en Marketo Sales Insight
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
 # Seminarios web interactivos en Marketo Sales Insight {#interactive-webinars-in-marketo-sales-insight}
 
-Los seminarios web interactivos de Marketo Sales Insight permiten que las actividades de sus seminarios web estén disponibles en el complemento de Marketo Sales Insight (MSI) de Salesforce.
+Los seminarios web interactivos de Marketo Sales Insight permiten que las actividades de sus seminarios web estén disponibles en el complemento Marketo Sales Insight (MSI) de Salesforce.
 
 >[!PREREQUISITES]
 >

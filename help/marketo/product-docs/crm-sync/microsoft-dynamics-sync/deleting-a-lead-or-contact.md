@@ -4,10 +4,10 @@ description: 'Eliminación de un posible cliente o contacto: documentos de Marke
 title: Eliminación de un posible cliente o contacto
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 description: 'Creación de un cuadro de diálogo: documentos de Marketo, documentación del producto'
-title: Crear un cuadro de diálogo
+title: Creación de un diálogo
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Crear un cuadro de diálogo {#create-a-dialogue}
+# Creación de un diálogo {#create-a-dialogue}
 
 A continuación se muestra cómo crear un nuevo Diálogo.
 

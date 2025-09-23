@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147034
 description: 'Añadir a SFDC Campaign: Documentos de Marketo: documentación del producto'
-title: Agregar a Campaña de SFDC
+title: Agregar a campaña de SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 5%
 
 ---
 
-# Agregar a Campaña de SFDC {#add-to-sfdc-campaign}
+# Agregar a campaña de SFDC {#add-to-sfdc-campaign}
 
 Este paso de flujo se puede utilizar en campañas de Marketo Engage o como un paso de flujo único para agregar personas como posibles clientes en una campaña de Salesforce. Si el posible cliente aún no existe en Salesforce, se sincroniza automáticamente y se agrega a la campaña con el estado especificado.
 

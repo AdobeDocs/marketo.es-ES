@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360198
 description: 'Creación, eliminación, edición y cambio de una función de usuario: documentos de Marketo, documentación del producto'
-title: Crear, eliminar, editar y cambiar un rol de usuario
+title: Crear, eliminar, editar y cambiar una función de usuario
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# Crear, eliminar, editar y cambiar un rol de usuario {#create-delete-edit-and-change-a-user-role}
+# Crear, eliminar, editar y cambiar una función de usuario {#create-delete-edit-and-change-a-user-role}
 
 **Roles** agrupan un conjunto de permisos. **Permisos** le permiten hacer cosas en Marketo. Usted asigna un **rol** a un usuario. Fácil como el pastel.
 
@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >Las siguientes funciones son funciones del sistema y no se pueden editar ni eliminar:
 >
->* Administración
+>* Administrador
 >* Administrador de productos de Adobe
 >* Usuario estándar
 >* Editor de RTP

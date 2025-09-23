@@ -4,14 +4,14 @@ description: 'Sincronización de SFDC: sincronización de Campaign: Documentos d
 title: 'Sincronización de SFDC: sincronización de Campaign'
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Sincronización de SFDC: sincronización de Campaign {#sfdc-sync-campaign-sync}
+# Sincronización de SFDC: sincronización de campañas {#sfdc-sync-campaign-sync}
 
 Los programas de Marketo se pueden sincronizar con [!DNL Salesforce] campañas. A continuación se muestra una descripción general de cómo funciona esto.
 

@@ -1,16 +1,16 @@
 ---
 description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de Marketo - Documentación del producto
-title: EM-AAAA-MM-DD-Envío de un solo correo electrónico
+title: EM-AAAA-MM-DD-Envío de un único correo electrónico
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# EM-AAAA-MM-DD-Envío de un solo correo electrónico {#em-yyyy-mm-dd-single-email-send}
+# EM-AAAA-MM-DD-Envío de un único correo electrónico {#em-yyyy-mm-dd-single-email-send}
 
 Este ejemplo envía un solo correo electrónico utilizando un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 

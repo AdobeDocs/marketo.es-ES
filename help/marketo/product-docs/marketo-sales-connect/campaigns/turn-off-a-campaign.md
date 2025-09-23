@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352609
 description: 'Desactivación de una campaña: documentos de Marketo, documentación del producto'
-title: Desactivación de una campaña
+title: Desactivar una campaña
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Desactivación de una campaña {#turn-off-a-campaign}
+# Desactivar una campaña {#turn-off-a-campaign}
 
-¿Necesita enviar automáticamente una campaña cuando un destinatario responda? Así es como.
+¿Necesita enviar automáticamente una campaña cuando un destinatario responda? Así es cómo se hace.
 
 >[!NOTE]
 >

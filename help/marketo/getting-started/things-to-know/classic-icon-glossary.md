@@ -3,10 +3,10 @@ description: Glosario de iconos clásicos - Documentos de Marketo - Documentaci�
 title: Glosario de iconos clásicos
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
@@ -220,7 +220,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Administración</td>
+   <td>Administrador</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -331,7 +331,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-14-3a39-3a56.png">
     </td>
-   <td>Form</td>
+   <td>Formulario</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a40-3a19.png">
@@ -507,7 +507,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>Página de aterrizaje. Acciones</td>
+   <td>Página de aterrizaje. Acciones de la página de destino</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
@@ -668,7 +668,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png">
     </td>
-   <td>Información general de la tienda de aplicaciones</td>
+   <td>Informe</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png">
@@ -688,7 +688,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-15-3a46-3a10.png">
     </td>
-   <td>Resumen de momentos interesantes</td>
+   <td>Información general sobre momentos interesantes</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a35-3a23.png">
@@ -881,7 +881,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png">
     </td>
-   <td>Importar</td>
+   <td>Importación</td>
   </tr>
  </tbody>
 </table>

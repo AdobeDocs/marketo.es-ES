@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949186
 description: 'SEO: Uso del desglose de detalles de página - Documentos de Marketo: documentación del producto'
-title: 'SEO: Uso del desglose de detalles de página'
+title: 'SEO: uso del desglose de detalles de página'
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO: Uso del desglose de detalles de página {#seo-using-the-page-detail-drill-down}
+# SEO: uso del desglose de detalles de página {#seo-using-the-page-detail-drill-down}
 
 Puede ver mucha información sobre las páginas mediante el desglose de detalles de página.
 
@@ -33,7 +33,7 @@ Puede ver mucha información sobre las páginas mediante el desglose de detalles
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| Artículo | Descripción |
+| Elemento | Descripción |
 |---|---|
 | [!UICONTROL Puntuación de optimización] | La salsa secreta utilizada para mostrarle lo bien que su página está optimizada para la búsqueda en una escala de 1 a 100. |
 | [!UICONTROL Tareas pendientes] | Muestra el número de problemas pendientes relacionados con la página en la que se encuentra. |
@@ -44,7 +44,7 @@ Puede ver mucha información sobre las páginas mediante el desglose de detalles
 | [!UICONTROL Me gusta Facebook] | Número de veces que este recurso compartido de página se vinculó en [!DNL Facebook]. |
 | [!UICONTROL Clics en Facebook] | Número de clics desde [!DNL Facebook share]. |
 
-## [!UICONTROL Palabra(s) clave(s) para la que está optimizada la página] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Palabra(s) clave(s) para la que está optimizada la página]  {#keyword-s-that-page-is-optimized-for}
 
 Aquí es donde [seleccionas la palabra clave para la que estás intentando optimizar tu página](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 

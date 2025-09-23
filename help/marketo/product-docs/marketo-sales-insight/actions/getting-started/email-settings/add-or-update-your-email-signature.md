@@ -1,16 +1,16 @@
 ---
 description: 'Añadir o actualizar la firma del correo electrónico: documentos de Marketo, documentación del producto'
-title: Agregar o actualizar la firma del correo electrónico
+title: Añadir o actualizar la firma del correo electrónico
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Agregar o actualizar la firma del correo electrónico {#add-or-update-your-email-signature}
+# Añadir o actualizar la firma del correo electrónico {#add-or-update-your-email-signature}
 
 Queremos que los mensajes de correo electrónico de Marketo Sales se sientan como una experiencia perfecta al enviarlos desde su propio cliente de correo electrónico. Una buena manera de hacerlo es agregar su firma de correo electrónico.
 

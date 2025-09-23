@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359787
 description: 'Añadir un flujo: documentos de Marketo, documentación del producto'
-title: Agregar una secuencia
+title: Añadir un flujo
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Agregar una secuencia {#add-a-stream}
+# Añadir un flujo {#add-a-stream}
 
 Los programas de participación pueden contener más de un flujo. A continuación se indica cómo agregar uno nuevo.
 

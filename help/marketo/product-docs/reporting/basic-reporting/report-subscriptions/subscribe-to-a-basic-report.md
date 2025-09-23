@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359987
 description: Suscripción a un informe básico - Documentos de Marketo - Documentación del producto
-title: Suscripción a un informe básico
+title: Suscribirse a un informe básico
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# Suscripción a un informe básico {#subscribe-to-a-basic-report}
+# Suscribirse a un informe básico {#subscribe-to-a-basic-report}
 
 Para recibir actualizaciones automáticas de un informe básico o compartirlo, puede suscribir cualquier dirección de correo electrónico a un informe existente.
 
@@ -19,7 +19,7 @@ Para recibir actualizaciones automáticas de un informe básico o compartirlo, p
 >
 >Para las suscripciones al informe del Explorador del ciclo de ingresos, consulte [Suscribirse a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 

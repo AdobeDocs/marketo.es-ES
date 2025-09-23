@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: 'Información general de Live Feed: documentos de Marketo: documentación del producto'
-title: Información general de Live Feed
+title: Información general de la fuente en directo
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Información general de Live Feed {#live-feed-overview}
+# Información general de la fuente en directo {#live-feed-overview}
 
 Live Feed es una ventana flotante que se puede iniciar desde la aplicación web o el complemento de Gmail, y ofrece una visión en tiempo real de la participación del posible cliente.
 

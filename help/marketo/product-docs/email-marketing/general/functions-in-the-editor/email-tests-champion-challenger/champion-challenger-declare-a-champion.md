@@ -4,14 +4,14 @@ description: Campeón/Challenger - Declarar un campeón - Documentos de Marketo 
 title: Campeón/Challenger - Declare un Campeón
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Campeón/Challenger: Declarar un campeón {#champion-challenger-declare-a-champion}
+# Campeón/Aspirante: declarar un campeón {#champion-challenger-declare-a-champion}
 
 Cuando esté listo, puede declarar a un campeón para su prueba de correo electrónico.
 

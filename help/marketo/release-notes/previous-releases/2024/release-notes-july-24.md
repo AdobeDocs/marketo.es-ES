@@ -3,26 +3,26 @@ description: 'Notas de la versión, julio de 2024: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 4%
+ht-degree: 23%
 
 ---
 
 # Notas de la versión: julio de 2024 {#release-notes-july-24}
 
-A continuación encontrará todas las funciones incluidas en la versión de julio de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de julio de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Las funciones indicadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
+>Las funciones indicadas con una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo Engage para obtener más información.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **26 de julio de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 26 de julio de 2024**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -67,7 +67,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
      <tr>
    <td><strong>Cambio de la API de REST de Marketo</strong>: estamos introduciendo un cambio menor en la <a href="https://developers.marketo.com/rest-api/user-management/">API de administración de usuarios</a>. Los extremos <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Examinar usuarios</a> y <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Eliminar usuario</a> ahora admiten usuarios de <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Administración de cuentas de Target</a>.</td>
    <td>Enviado</td>
-   <td>n/a</td>
+   <td>N/A</td>
   </tr>
  </tbody>
 </table>
@@ -81,7 +81,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
    * Sondeos
    * Botón social
-   * Oferta recomendada
+   * Oferta de referencia
    * Compartir video
    * Sorteos
 

@@ -1,16 +1,16 @@
 ---
 description: Programa EV-AAAA-MM-DD-Event - Documentos de Marketo - Documentación del producto
-title: Programa EV-AAAA-MM-DD-Evento
+title: EV-AAAA-MM-DD-Programa del evento
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 16%
+ht-degree: 22%
 
 ---
 
-# Programa EV-AAAA-MM-DD-Evento {#ev-yyyy-mm-dd-event-program}
+# EV-AAAA-MM-DD-Programa del evento {#ev-yyyy-mm-dd-event-program}
 
 Este es un ejemplo de programa de eventos con una página de registro, tres correos electrónicos de invitación y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage. Adecuado para todos los eventos en los que se requieren registros, incluidos espectáculos itinerantes, almuerzos, cenas o presentaciones en eventos de ferias comerciales.
 
@@ -94,7 +94,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>01b - LP - Gracias</td>
   </tr>
   <tr>
-   <td>Form</td>
+   <td>Formulario</td>
    <td> </td>
    <td>Registro de eventos FM</td>
   </tr>

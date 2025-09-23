@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097163
 description: Activación o desactivación de la etiqueta RTP JavaScript - Documentos de Marketo - Documentación del producto
-title: Activación o desactivación de la etiqueta RTP JavaScript
+title: Activación o desactivación de la etiqueta JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Activación o desactivación de la etiqueta RTP JavaScript {#enabling-or-disabling-the-rtp-javascript-tag}
+# Activación o desactivación de la etiqueta JavaScript RTP {#enabling-or-disabling-the-rtp-javascript-tag}
 
 La etiqueta RTP JavaScript controla si Web Personalization realiza un seguimiento de la actividad web o ejecuta campañas o recomendaciones de contenido en el sitio web.
 

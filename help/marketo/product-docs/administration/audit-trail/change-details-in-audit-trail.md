@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: Cambiar detalles en pista de auditoría - Documentos de Marketo - Documentación del producto
-title: Cambiar detalles en pista de auditoría
+title: Cambiar detalles en el seguimiento de auditoría
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 14%
 
 ---
 
-# Cambiar detalles en pista de auditoría {#change-details-in-audit-trail}
+# Cambiar detalles en el seguimiento de auditoría {#change-details-in-audit-trail}
 
 La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qué en su suscripción a Marketo. Aquí están los detalles.
 
@@ -236,7 +236,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
    <td colspan="1">Eliminar coste del período. Valor "#" mes del programa "aaaa-mm"</td>
   </tr>
   <tr>
-   <td rowspan="8">Plantilla de email</td>
+   <td rowspan="8">Plantilla de correo electrónico</td>
    <td>Crear</td>
    <td>En blanco o clonado desde "nombre de plantilla"</td>
   </tr>

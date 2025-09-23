@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504128
 description: 'Creación de un objetivo de lista inteligente: documentos de Marketo, documentación del producto'
-title: Crear un objetivo de lista inteligente
+title: Creación de una meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Crear un objetivo de lista inteligente {#create-a-smart-list-goal}
+# Creación de una meta de lista inteligente {#create-a-smart-list-goal}
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Se pueden combinar con listas inteligentes para rastrear todo tipo de cosas en Marketo. Además, una vez que haya establecido un objetivo de lista inteligente, se actualizará automáticamente cada dos horas cuando se utilice en una presentación.
 
@@ -21,7 +21,7 @@ Al igual que las presentaciones, los objetivos son específicos de [workspace](/
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Haz clic en **[!UICONTROL Presentations]** en la esquina inferior derecha.
+1. Haga clic en **[!UICONTROL Presentaciones]** en la esquina inferior derecha.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359710
 description: 'Aprobación, desaprobación o eliminación de una página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Aprobar, desaprobar o eliminar una página de aterrizaje
+title: Aprobar, desaprobar o eliminar una página de destino
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Aprobar, desaprobar o eliminar una página de aterrizaje {#approve-unapprove-or-delete-a-landing-page}
+# Aprobar, desaprobar o eliminar una página de destino {#approve-unapprove-or-delete-a-landing-page}
 
 Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La aprobación hace que las páginas estén disponibles en el resto del sistema. Cuando edita una página de aterrizaje aprobada, Marketo Engage guarda el borrador, pero continúa utilizando la versión aprobada hasta que apruebe el borrador.
 

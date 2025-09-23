@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514146
 description: 'Ejemplo de atribución 2: Documentos de Marketo: documentación del producto'
-title: Ejemplo 2 de atribución
+title: Ejemplo de atribución 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Ejemplo 2 de atribución {#attribution-example}
+# Ejemplo de atribución 2 {#attribution-example}
 
 Lea el siguiente escenario e intente determinar los números que deben estar en la cuadrícula.
 

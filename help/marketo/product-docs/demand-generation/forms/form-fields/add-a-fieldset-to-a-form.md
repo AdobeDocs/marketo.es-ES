@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359594
 description: Agregar un conjunto de campos a un formulario - Documentos de Marketo - Documentación del producto
-title: Agregar un conjunto de campos a un formulario
+title: Añadir un conjunto de campos a un formulario
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Agregar un conjunto de campos a un formulario {#add-a-fieldset-to-a-form}
+# Añadir un conjunto de campos a un formulario {#add-a-fieldset-to-a-form}
 
 Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También puedes controlar un bloque entero a la vez!
 

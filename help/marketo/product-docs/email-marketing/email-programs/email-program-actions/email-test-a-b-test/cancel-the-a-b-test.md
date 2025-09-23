@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359600
 description: Cancelación de la prueba A/B - Documentos de Marketo - Documentación del producto
-title: Cancelar la prueba A/B
+title: Cancelar prueba A/B
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Cancelar la prueba A/B {#cancel-the-a-b-test}
+# Cancelar prueba A/B {#cancel-the-a-b-test}
 
-Si [agregaste una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) a tu programa de correo electrónico y decidiste que ya no la quieres, se deshará fácilmente. Así es como.
+Si [agregaste una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) a tu programa de correo electrónico y decidiste que ya no la quieres, se deshará fácilmente. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

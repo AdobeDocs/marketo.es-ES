@@ -3,14 +3,14 @@ description: '¿Puedo rastrear varios destinatarios con CC/BCC? Documentos de Ma
 title: ¿Puedo rastrear varios destinatarios con CC/CCO?
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# ¿Puedo rastrear varios destinatarios con CC/CCO? {#can-i-track-multiple-recipients-with-cc-bcc}
+# ¿Puedo seguir a varios destinatarios con CC/CCO? {#can-i-track-multiple-recipients-with-cc-bcc}
 
 Puede crear una copia CC y una copia CCO de las personas como lo haría normalmente en sus correos electrónicos.
 

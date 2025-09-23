@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380783
 description: 'Panel principal de TAM: Documentos de Marketo: documentación del producto'
-title: Panel principal de TAM
+title: Panel de control principal de TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Panel principal de TAM {#tam-main-dashboard}
+# Panel de control principal de TAM {#tam-main-dashboard}
 
 El panel principal proporciona un resumen de sus esfuerzos de [!UICONTROL Administración de cuentas de Target]. Puede ver las cuentas de destino o las listas de cuentas que se muestran correctas y las que requieren más atención.
 

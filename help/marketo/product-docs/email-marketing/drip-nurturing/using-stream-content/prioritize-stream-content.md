@@ -4,10 +4,10 @@ description: 'Priorización del contenido de la emisión: documentos de Marketo,
 title: Priorizar contenido de flujo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

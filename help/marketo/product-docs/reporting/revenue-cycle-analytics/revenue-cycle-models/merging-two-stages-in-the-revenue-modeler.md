@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: 'Combinación de dos etapas en la Modeler de ingresos: documentos de Marketo, documentación del producto'
-title: Combinación de dos etapas en el Modeler de ingresos
+title: Combinación de dos fases en el modelador de ingresos
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Combinación de dos etapas en el Modeler de ingresos {#merging-two-stages-in-the-revenue-modeler}
+# Combinación de dos fases en el modelador de ingresos {#merging-two-stages-in-the-revenue-modeler}
 
 Una vez aprobado el modelo, no se pueden eliminar fases al editar un borrador. En su lugar, puede combinar esa etapa con otra.
 

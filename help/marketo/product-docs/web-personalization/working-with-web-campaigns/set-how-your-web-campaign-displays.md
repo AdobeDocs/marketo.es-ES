@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978906
 description: 'Cómo se muestra la campaña web: Documentos de Marketo: documentación del producto'
-title: Definición Del Modo En Que Se Muestra La Campaña Web
+title: Definir la forma en que se muestra la campaña web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definición Del Modo En Que Se Muestra La Campaña Web {#set-how-your-web-campaign-displays}
+# Definir la forma en que se muestra la campaña web {#set-how-your-web-campaign-displays}
 
 Hay varios métodos para utilizar cuando se trata de cuándo/cómo se muestra su campaña web.
 

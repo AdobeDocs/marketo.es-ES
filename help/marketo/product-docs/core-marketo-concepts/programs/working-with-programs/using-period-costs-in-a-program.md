@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147118
 description: Uso de costes de periodo en un programa - Documentos de Marketo - Documentación del producto
-title: Uso de Costes de Período en un Programa
+title: Uso de costes de período en un programa
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Uso de Costes de Período en un Programa {#using-period-costs-in-a-program}
+# Uso de costes de período en un programa {#using-period-costs-in-a-program}
 
 Un [costo de período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} es la cantidad que gasta en un programa. Puede ser para uno o más meses y se utiliza para informar sobre el retorno de la inversión.
 

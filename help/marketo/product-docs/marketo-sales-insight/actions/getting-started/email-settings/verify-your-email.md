@@ -1,16 +1,16 @@
 ---
 description: 'Verificar el correo electrónico: documentos de Marketo, documentación del producto'
-title: Verifique su email
+title: Verifique su correo electrónico
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 5%
 
 ---
 
-# Verifique su email {#verify-your-email}
+# Verifique su correo electrónico {#verify-your-email}
 
 Si tiene una identidad de correo electrónico no verificada, siga los pasos a continuación.
 

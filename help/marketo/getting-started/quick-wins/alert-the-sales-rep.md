@@ -4,10 +4,10 @@ description: Aviso al representante de ventas - Documentos de Marketo - Document
 title: Alerta al representante de ventas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,11 +19,11 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
 >[!PREREQUISITES]
 >
->[Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[Página de destino con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Paso 1: Crear un mensaje de correo electrónico de alerta {#step-create-an-alert-email}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -133,7 +133,7 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
    >
    >Haga clic en la ficha **[!UICONTROL Información de persona]** de Marketo para ver la información de contacto.
 
-## ¡Misión completa! {#mission-complete}
+## Misión completada. {#mission-complete}
 
 <br> 
 

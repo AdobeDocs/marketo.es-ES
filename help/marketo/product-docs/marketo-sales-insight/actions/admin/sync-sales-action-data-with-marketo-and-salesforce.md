@@ -1,15 +1,15 @@
 ---
 description: 'Sincronización de datos de acción de ventas con Marketo y Salesforce: documentos de Marketo, documentación del producto'
-title: Sincronización de datos de acción de ventas con Marketo y Salesforce
+title: Sincronizar datos de acción de ventas con Marketo y Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Sincronización de datos de acción de ventas con Marketo y Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
+# Sincronizar datos de acción de ventas con Marketo y Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 
 La sincronización de campos de unificación de datos para las acciones de Sales Insight permite al sistema extraer información sobre personas de la base de datos de Marketo Engage a la base de datos de acciones de Sales Insight.
 

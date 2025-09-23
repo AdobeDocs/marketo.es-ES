@@ -1,16 +1,16 @@
 ---
 description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
-title: Glosario de actividades de ventas
+title: Glosario de actividad de ventas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Glosario de actividades de ventas {#sales-activity-glossary}
+# Glosario de actividad de ventas {#sales-activity-glossary}
 
 En Sales Connect, cuando un vendedor: añade un posible cliente a una cadencia de ventas, le envía un correo electrónico o realiza una llamada a una actividad, se registrará en el historial de actividades de Marketo. Además, cuando el posible cliente se involucra con los correos electrónicos, también se registran las aperturas, los clics y las respuestas.
 

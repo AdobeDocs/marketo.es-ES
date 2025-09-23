@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147100
 description: Navegación por la vista Programación del programa - Documentos de Marketo - Documentación del producto
-title: Navegación por la vista Programación del programa
+title: Navegación por la vista Calendario del programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Navegación por la vista Programación del programa {#navigating-the-program-schedule-view}
+# Navegación por la vista Calendario del programa {#navigating-the-program-schedule-view}
 
 Estos son los conceptos básicos para ayudarle a navegar por la vista de programación del programa.
 

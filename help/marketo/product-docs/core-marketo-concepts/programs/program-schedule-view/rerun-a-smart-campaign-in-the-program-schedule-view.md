@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953331
 description: Volver a ejecutar una campaña inteligente en la vista de programación - Documentos de Marketo - Documentación del producto
-title: Volver a ejecutar una campaña inteligente en la vista de programación del programa
+title: Volver a ejecutar una campaña inteligente en la vista Calendario del programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Volver a ejecutar una campaña inteligente en la vista de programación del programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Volver a ejecutar una campaña inteligente en la vista Calendario del programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente directamente desde la vista de programación del programa.
 

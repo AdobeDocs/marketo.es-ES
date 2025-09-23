@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: Agregar el inicio de sesión único a un portal - Documentos de Marketo - Documentación del producto
-title: Agregar el inicio de sesión único a un portal
+title: Añadir el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '606'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Agregar el inicio de sesión único a un portal {#add-single-sign-on-to-a-portal}
+# Añadir el inicio de sesión único a un portal {#add-single-sign-on-to-a-portal}
 
 Si tiene un servicio de directorio que autentica a los usuarios, puede permitir el inicio de sesión único (SSO) en Marketo. Se admite esta característica con [!DNL Security Assertion Markup Language] (SAML) versión 2.0 y posteriores.
 

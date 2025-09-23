@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: Explicación de los espacios de trabajo y las particiones de persona - Documentos de Marketo - Documentación del producto
-title: Explicación de espacios de trabajo y particiones de persona
+title: Explicación de espacios de trabajo y particiones de personas
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 3%
+source-wordcount: '535'
+ht-degree: 5%
 
 ---
 
-# Explicación de espacios de trabajo y particiones de persona {#understanding-workspaces-and-person-partitions}
+# Explicación de espacios de trabajo y particiones de personas {#understanding-workspaces-and-person-partitions}
 
 ## Espacios de trabajo {#workspaces}
 
@@ -87,7 +87,7 @@ Puede compartir estos elementos en espacios de trabajo.
 Para los recursos que no son plantillas, es mejor clonarlos como recursos locales dentro de un programa. Con el nivel de acceso adecuado, puede arrastrar y soltar estos recursos en otro espacio de trabajo:
 
 * Programas
-* Emails
+* Correos electrónicos
 * Páginas de destino
 * Formularios
 
@@ -114,8 +114,8 @@ Las particiones de persona actúan como bases de datos independientes. Cada part
 Puede asignar particiones de persona a [espacios de trabajo](create-a-new-workspace.md) con las siguientes configuraciones:
 
 * partición de un espacio de trabajo a una persona (1:1)
-* un espacio de trabajo para varias particiones de persona (1:x)
-* varios espacios de trabajo para una partición de persona (x:1)
+* particiones de un espacio de trabajo para muchas personas (1:x)
+* varios espacios de trabajo a una partición de persona (x:1)
 
 >[!NOTE]
 >

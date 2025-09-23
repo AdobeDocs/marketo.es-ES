@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720433
 description: 'Configuración de protocolos para Marketo Engage: documentos de Marketo Engage: documentación del producto'
-title: Configuración de protocolos para Marketo Engage
+title: Configurar protocolos de Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2131'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Configuración de protocolos para Marketo Engage{#configure-protocols-for-marketo-engage}
+# Configurar protocolos de Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Si usted o su organización utilizan una configuración restrictiva del servidor de seguridad o del servidor proxy, es posible que usted o el administrador de la red tengan que realizar una lista de permitidos de ciertos dominios e intervalos de direcciones IP para garantizar que Adobe Marketo Engage funciona según lo esperado.
 

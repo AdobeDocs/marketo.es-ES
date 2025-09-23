@@ -4,10 +4,10 @@ description: 'Conexión de la cuenta de Sales Connect a Salesforce: Documentos d
 title: Conectar su cuenta de Sales Connect a Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ Siga estos sencillos pasos para conectar [!DNL Sales Connect] a [!DNL Salesforce
 
    ![](assets/one.png)
 
-1. En [!UICONTROL &#x200B; Configuración de administración], haga clic en **[!UICONTROL Salesforce]**.
+1. En [!UICONTROL  Configuración de administración], haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 

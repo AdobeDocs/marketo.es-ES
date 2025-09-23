@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360407
 description: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes - Documentos de Marketo - Documentación del producto
-title: Crear un informe de análisis de correo electrónico que enumere los posibles clientes
+title: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Crear un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
+# Creación de un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
 Siga estos pasos para crear un informe de análisis de correo electrónico que le mostrará todos los posibles clientes a los que se ha enviado un mensaje de correo electrónico específico. Este informe también incluirá las estadísticas de Clics y Aperturas.
 

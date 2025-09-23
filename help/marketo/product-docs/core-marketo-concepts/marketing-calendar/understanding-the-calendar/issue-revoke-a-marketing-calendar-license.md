@@ -4,10 +4,10 @@ description: Emitir/revocar una licencia de calendario de marketing - Documentos
 title: Emitir/revocar una licencia de calendario de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-Para utilizar los puestos de [Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, debe otorgar licencias a los usuarios que necesiten acceso. Así es como.
+Para utilizar los puestos de [Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, debe otorgar licencias a los usuarios que necesiten acceso. Así es cómo se hace.
 
 1. Vaya a la sección **[!UICONTROL Admin]**.
 

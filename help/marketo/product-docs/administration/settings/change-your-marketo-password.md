@@ -4,10 +4,10 @@ description: Cambiar la contraseña de Marketo - Documentos de Marketo - Documen
 title: Cambiar la contraseña de Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 

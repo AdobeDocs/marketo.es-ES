@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352621
 description: 'Explicación de las opciones de envío: documentos de Marketo, documentación del producto'
-title: Descripción de opciones de envío
+title: Explicación de las opciones de envío
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-# Descripción de opciones de envío {#understanding-send-options}
+# Explicación de las opciones de envío {#understanding-send-options}
 
 Al crear una campaña, tiene varias opciones sobre cómo se crean los pasos del correo electrónico en [!DNL Sales Connect]. Y, según dónde se encuentre el correo electrónico en la campaña, las opciones también difieren.
 

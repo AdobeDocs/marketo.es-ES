@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951640
 description: 'Uso de momentos interesantes: documentos de Marketo, documentación del producto'
-title: Uso de momentos interesantes
+title: Usar momentos interesantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Uso de momentos interesantes {#using-interesting-moments}
+# Usar momentos interesantes {#using-interesting-moments}
 
 Momentos interesantes son la clave para comunicarse con su equipo de ventas a través de la aplicación [!DNL Marketo Sales Insight].
 

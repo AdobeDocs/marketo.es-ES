@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355569
 description: Campos personalizados de miembros del programa - Documentos de Marketo - Documentación del producto
-title: Campos personalizados de miembro de programa
+title: Campos personalizados del miembro del programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Campos personalizados de miembro de programa {#program-member-custom-fields}
+# Campos personalizados del miembro del programa {#program-member-custom-fields}
 
 Los campos personalizados de miembro de programa permiten recopilar datos específicos del programa para cada miembro. Se pueden utilizar en: formularios Marketo Forms, déclencheur y filtros de listas inteligentes y acciones de flujo de campañas inteligentes. Los datos se pueden ver en la pestaña Miembros del programa.
 
@@ -60,7 +60,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 
 ![](assets/six.png)
 
-## Cosas que saber {#things-to-know}
+## Cosas que debe saber {#things-to-know}
 
 * Los campos personalizados de miembro de programa solo están disponibles en los recursos locales. No son compatibles con Design Studio porque no hay forma de vincularlos a un programa específico.
 * No se puede clonar ni mover a Design Studio un formulario (o una página de aterrizaje con un formulario) que contenga campos personalizados de miembro de programa.

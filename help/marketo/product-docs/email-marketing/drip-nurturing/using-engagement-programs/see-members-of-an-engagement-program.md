@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359861
 description: Consulte Miembros de un programa de participación - Documentos de Marketo - Documentación del producto
-title: Consulte Miembros de un programa de participación
+title: Consultar miembros de un programa de participación
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
-# Consulte Miembros de un programa de participación {#see-members-of-an-engagement-program}
+# Consultar miembros de un programa de participación {#see-members-of-an-engagement-program}
 
-Puede ver rápidamente los miembros de un programa de participación. Así es como.
+Puede ver rápidamente los miembros de un programa de participación. Así es cómo se hace.
 
 1. En el programa de participación, haga clic con el botón derecho y seleccione **[!UICONTROL Ver miembros]**.
 

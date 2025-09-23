@@ -4,10 +4,10 @@ description: 'Editar la caducidad de los vínculos en informes y alertas: docume
 title: Editar la caducidad de los vínculos en Informes y alertas
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 

@@ -3,14 +3,14 @@ unique-page-id: 11380218
 description: 'Notas de la versión, verano de 2016, documentación de Marketo: documentación del producto'
 title: Notas de la versión, verano de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Verano de 2016 {#release-notes-summer}
+# Notas de la versión: verano de 2016 {#release-notes-summer}
 
 Las siguientes funciones se incluyen en la versión de verano de 16. Compruebe la disponibilidad de las funciones en Marketo Edition. Haga clic en los vínculos del título para ver los artículos detallados de cada función.
 

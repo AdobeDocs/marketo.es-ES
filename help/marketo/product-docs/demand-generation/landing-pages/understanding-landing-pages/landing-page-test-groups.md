@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949904
 description: 'Grupos de prueba de la página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Grupos de prueba de página de destino
+title: Grupos de prueba de la página de destino
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 4%
 
 ---
 
-# Grupos de prueba de página de destino {#landing-page-test-groups}
+# Grupos de prueba de la página de destino {#landing-page-test-groups}
 
 Marketo realiza un seguimiento del número de vistas de página y de las finalizaciones de formularios de cada página probada dentro de un grupo de prueba. Puede utilizar los resultados de grupos de prueba para decidir qué página de aterrizaje es la más atractiva. A continuación se indica cómo crear un grupo de prueba.
 

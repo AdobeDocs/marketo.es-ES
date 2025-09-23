@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
 description: Configuración de la integración de Adobe Experience Manager - Documentos de Marketo - Documentación del producto
-title: Configuración de la integración con Adobe Experience Manager
+title: Configuración de la integración de Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Configuración de la integración con Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configuración de la integración de Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
 Configure Adobe Experience Manager (AEM) para poder acceder, seleccionar e importar recursos de AEM en Marketo Engage Design Studio.
 

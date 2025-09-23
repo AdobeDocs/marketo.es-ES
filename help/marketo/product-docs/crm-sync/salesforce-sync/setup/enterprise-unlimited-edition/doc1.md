@@ -4,14 +4,14 @@ title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ili
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Paso 1 de 3: Agregar campos de Marketo a Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Paso 1 de 3: Añadir campos de Marketo a Salesforce (para empresas y sin límites) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359728
 description: 'Uso de guías para el diseño de páginas de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
-title: Uso de guías para el diseño de páginas de aterrizaje de forma libre
+title: Uso de guías para el diseño de páginas de destino de forma libre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Uso de guías para el diseño de páginas de aterrizaje de forma libre {#use-guides-for-free-form-landing-page-design}
+# Uso de guías para el diseño de páginas de destino de forma libre {#use-guides-for-free-form-landing-page-design}
 
 Al diseñar una página de aterrizaje de forma libre, puede utilizar guías para ayudar a alinear los componentes.
 

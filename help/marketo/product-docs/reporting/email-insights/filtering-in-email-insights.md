@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099798
 description: Filtrado en perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Filtrado en Email Insights
+title: Filtrar en perspectivas de correo electrónico
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

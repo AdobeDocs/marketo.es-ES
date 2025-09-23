@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953132
 description: Explicación de las campañas inteligentes por lotes y Déclencheur - Documentos de Marketo - Documentación del producto
-title: Explicación de las campañas inteligentes por lotes y Déclencheur
+title: Explicación de las campañas inteligentes por lotes y activación
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Explicación de las campañas inteligentes por lotes y Déclencheur {#understanding-batch-and-trigger-smart-campaigns}
+# Explicación de las campañas inteligentes por lotes y activación {#understanding-batch-and-trigger-smart-campaigns}
 
 Existen dos tipos de campañas inteligentes: por lotes y por Déclencheur.
 
-## Campaña por lote {#batch-campaign}
+## Campaña por lotes {#batch-campaign}
 
 >[!NOTE]
 >

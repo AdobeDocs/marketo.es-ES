@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352476
 description: Campo de tipo de actividad en tareas (SFDC) - Documentos de Marketo - Documentación del producto
-title: Campo Tipo de actividad en Tareas (SFDC)
+title: Campo Tipo de actividad en tareas (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Campo Tipo de actividad en Tareas (SFDC) {#activity-type-field-on-tasks-sfdc}
+# Campo Tipo de actividad en tareas (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 Con la ayuda de [!DNL Sales Connect], puede registrar sus correos electrónicos y llamadas como una actividad en [!DNL Salesforce]. Una parte clave para tener datos valiosos en [!DNL Salesforce] es hacer que el campo [!UICONTROL Type] rellene el valor correcto.
 
@@ -26,7 +26,7 @@ Con la ayuda de [!DNL Sales Connect], puede registrar sus correos electrónicos 
 * Las opciones Llamar, Responder y Correo electrónico deben encontrarse en la lista de selección Tipo de tarea (el uso de mayúsculas es importante)
 * Sin flujos de trabajo ni Déclencheur que realicen acciones en el valor del campo Tipo
 
-## Instalación {#setup}
+## Configuración {#setup}
 
 En primer lugar, compruebe que dispone de los valores correctos de la lista de selección. Necesitará la ayuda de su administrador de [!DNL Salesforce] para realizar cambios en la lista de selección.
 

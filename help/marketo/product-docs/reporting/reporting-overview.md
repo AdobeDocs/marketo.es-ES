@@ -1,28 +1,28 @@
 ---
 description: Información general de informes - Documentos de Marketo - Documentación del producto
-title: Información general de informes
+title: Información general sobre los sistemas de informes
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Información general de informes {#reporting-overview}
+# Información general sobre los sistemas de informes {#reporting-overview}
 
 Marketo ofrece una variedad de módulos de informes para diferentes necesidades.
 
-## Informes básicos {#basic-reporting}
+## Sistemas de informes básicos {#basic-reporting}
 
 Puede configurar [informes básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} en programas o en el área de Analytics. Los informes básicos están compuestos por diferentes tipos de informes predeterminados con la flexibilidad de filtrar, ordenar y ajustar intervalos de tiempo.
 
-## Información del email {#email-insights}
+## Información del correo electrónico {#email-insights}
 
 Use Analytics y envíos para obtener [información valiosa](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sobre correos electrónicos a partir de datos históricos.
 
-## Desempeño Insights {#performance-insights}
+## Perspectivas de rendimiento {#performance-insights}
 
 [Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} cubre el rendimiento del canal y del programa para la participación, la canalización y la generación de ingresos.
 

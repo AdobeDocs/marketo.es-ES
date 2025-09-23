@@ -4,10 +4,10 @@ description: 'Acciones de Salesforce implícitas: documentos de Marketo, documen
 title: Acciones de Salesforce implícitas
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 21%
+ht-degree: 26%
 
 ---
 
@@ -26,11 +26,11 @@ Estas reglas se aplicarán cuando la persona no esté actualmente en [Salesforce
  </thead>
  <tbody>
   <tr>
-   <td>Agregar a Campaña de SFDC</td>
+   <td>Agregar a campaña de SFDC</td>
    <td>Sincronizar persona con SFDC</td>
   </tr>
   <tr>
-   <td>Cambiar estado en campaña SFDC</td>
+   <td>Cambiar estado de la campaña SFDC</td>
    <td>Sincronizar persona con SFDC<br>Agregar a SFDC Campaign</td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ Estas reglas se aplicarán cuando la persona no esté actualmente en [Salesforce
    <td><p>Sincronizar persona con SFDC</p></td>
   </tr>
   <tr>
-   <td>Convertir Persona</td>
+   <td>Convertir persona</td>
    <td><p>Sincronizar persona con SFDC</p></td>
   </tr>
   <tr>

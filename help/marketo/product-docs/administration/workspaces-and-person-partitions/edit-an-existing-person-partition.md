@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360323
 description: 'Edición de una partición de persona existente: documentos de Marketo, documentación del producto'
-title: Editar una partición de persona existente
+title: Edición de una partición de personas existente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Editar una partición de persona existente {#edit-an-existing-person-partition}
+# Edición de una partición de personas existente {#edit-an-existing-person-partition}
 
 Una partición de persona es como tener una segunda (o tercera) base de datos. Una partición se puede conectar a uno o más espacios de trabajo. A continuación se muestra cómo editar los detalles de la partición.
 

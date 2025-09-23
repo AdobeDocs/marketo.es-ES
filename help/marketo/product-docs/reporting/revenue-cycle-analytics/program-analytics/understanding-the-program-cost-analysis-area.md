@@ -4,10 +4,10 @@ description: Explicación del área de análisis de costes de programa - Documen
 title: Explicación del área de análisis de costes del programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 
@@ -83,9 +83,9 @@ El área Análisis de costos de programas le permite analizar la eficacia de pro
 
 | Dimensión | Descripción |
 |---|---|
-| Año | Plazo de coste del programa |
+| Year | Plazo de coste del programa |
 | Trimestre | Marco temporal de coste del programa |
-| Mes | Plazo de coste del programa |
+| Month | Plazo de coste del programa |
 
 ## Etiquetas de programa {#program-tags}
 

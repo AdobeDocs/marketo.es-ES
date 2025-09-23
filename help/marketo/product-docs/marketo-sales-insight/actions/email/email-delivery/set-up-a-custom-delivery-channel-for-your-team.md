@@ -1,16 +1,16 @@
 ---
 description: 'Configuración de un canal de entrega personalizado para su equipo: documentos de Marketo, documentación del producto'
-title: Configure un canal de envío personalizado para su equipo
+title: Configurar un canal de entrega personalizado para su equipo
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Configure un canal de envío personalizado para su equipo {#set-up-a-custom-delivery-channel-for-your-team}
+# Configurar un canal de entrega personalizado para su equipo {#set-up-a-custom-delivery-channel-for-your-team}
 
 >[!NOTE]
 >

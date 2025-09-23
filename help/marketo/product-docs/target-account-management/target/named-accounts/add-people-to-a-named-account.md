@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
 description: Añadir personas a una cuenta con nombre - Documentos de Marketo - Documentación del producto
-title: Agregar personas a una cuenta con nombre
+title: Añadir personas a una cuenta nombrada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 

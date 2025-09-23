@@ -4,10 +4,10 @@ description: 'Notas de la versión, mayo de 2012, Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '641'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 

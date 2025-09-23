@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: Inicie el seguimiento por cuenta en la Modeler de ingresos - Documentos de Marketo - Documentación del producto
-title: Iniciar el seguimiento por cuenta en el Modeler de ingresos
+title: Iniciar el seguimiento por la cuenta en el modelador de ingresos
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Iniciar el seguimiento por cuenta en el Modeler de ingresos {#start-tracking-by-account-in-the-revenue-modeler}
+# Iniciar el seguimiento por la cuenta en el modelador de ingresos {#start-tracking-by-account-in-the-revenue-modeler}
 
 Con la Modeler de la etapa de ingresos y [!UICONTROL Explorador de ingresos], obtendrá insight en el rendimiento de sus clientes potenciales y cuentas a medida que progresan en su modelo.
 

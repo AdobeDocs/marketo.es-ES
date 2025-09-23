@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746167
 description: Cancelar suscripción de grupo - Documentos de Marketo - Documentación del producto
-title: Cancelar suscripción al grupo
+title: Grupo de cancelación de suscripción
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Cancelar suscripción al grupo {#unsubscribe-group}
+# Grupo de cancelación de suscripción {#unsubscribe-group}
 
 Ver y administrar todas las personas que cancelaron su suscripción en un solo lugar.
 

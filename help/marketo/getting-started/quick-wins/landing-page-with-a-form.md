@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359412
 description: 'Página de aterrizaje con un formulario: documentos de Marketo, documentación del producto'
-title: Página de aterrizaje con un formulario
+title: Página de destino con formulario
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '550'
+ht-degree: 6%
 
 ---
 
-# Página de aterrizaje con un formulario {#landing-page-with-a-form}
+# Página de destino con formulario {#landing-page-with-a-form}
 
 ## Misión: Crear una página de aterrizaje con un formulario para adquirir nuevas personas. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurar y añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## PASO 1: Crear un programa {#step-create-a-program}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/landing-page-with-a-form-1.png)
 
@@ -163,7 +163,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Vaya al área de **[!UICONTROL Base de datos]**.
+1. Vaya al área **[!UICONTROL Base de datos]**.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -175,10 +175,10 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-28.png)
 
-## ¡Misión completa! {#mission-complete}
+## Misión completada. {#mission-complete}
 
 <br> 
 
-[◄ Misión 1: Enviar una ráfaga de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Misión 1: Enviar una ráfaga por correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Misión 3: ► de puntuación simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Misión 3: Puntuación simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359457
 description: 'Aprobación de una segmentación: documentos de Marketo, documentación del producto'
-title: Aprobación de una segmentación
+title: Aprobar una segmentación
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aprobación de una segmentación {#approve-a-segmentation}
+# Aprobar una segmentación {#approve-a-segmentation}
 
 Es necesario aprobar una segmentación para poder utilizarla.
 

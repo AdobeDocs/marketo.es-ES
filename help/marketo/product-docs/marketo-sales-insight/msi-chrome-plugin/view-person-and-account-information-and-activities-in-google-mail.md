@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095358
 description: 'Ver información y actividades de personas y cuentas en Google Mail: documentos de Marketo, documentación del producto'
-title: Ver información y actividades de persona y cuenta en Google Mail
+title: Ver información e información de cuenta y en el correo de Google
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Ver información y actividades de persona y cuenta en Google Mail {#view-person-and-account-information-and-activities-in-google-mail}
+# Ver información e información de cuenta y en el correo de Google {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Ver actividades en Google Mail {#view-activities-in-google-mail}
 

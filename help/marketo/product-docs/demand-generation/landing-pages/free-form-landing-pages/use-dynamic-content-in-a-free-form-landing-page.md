@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359732
 description: 'Uso de contenido dinámico en una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
-title: Uso de contenido dinámico en una página de aterrizaje de forma libre
+title: Uso de contenido dinámico en una página de destino de forma libre
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Uso de contenido dinámico en una página de aterrizaje de forma libre {#use-dynamic-content-in-a-free-form-landing-page}
+# Uso de contenido dinámico en una página de destino de forma libre {#use-dynamic-content-in-a-free-form-landing-page}
 
 El uso de contenido dinámico en las páginas de destino hace que la audiencia se involucre con la información de destino.
 

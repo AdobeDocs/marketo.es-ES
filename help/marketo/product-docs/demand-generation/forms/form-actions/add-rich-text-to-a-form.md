@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359618
 description: Agregar texto enriquecido a un formulario - Documentos de Marketo - Documentación del producto
-title: Agregar texto enriquecido a un formulario
+title: Añadir texto enriquecido a un formulario
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 15%
 
 ---
 
-# Agregar texto enriquecido a un formulario {#add-rich-text-to-a-form}
+# Añadir texto enriquecido a un formulario {#add-rich-text-to-a-form}
 
 Utilice texto enriquecido en un formulario para agregar instrucciones u otra información entre los campos. Eche un vistazo.
 

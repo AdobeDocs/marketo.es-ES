@@ -4,14 +4,14 @@ description: Explicación del tablero de SEO - Instantánea de SEO - Documentos 
 title: 'Explicación del tablero de SEO: instantánea de SEO'
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Explicación del tablero de SEO: instantánea de SEO {#understanding-the-seo-dashboard-seo-snapshot}
+# Explicación del panel de la SEO: instantánea de la SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
 Utilice el tablero para obtener una vista de alto nivel de cómo la clasificación de palabras clave es la tendencia y cómo el sitio está optimizado para la optimización de los motores de búsqueda.
 

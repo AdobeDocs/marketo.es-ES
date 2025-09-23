@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359540
 description: Incluir un archivo ICS de evento de calendario en una página de aterrizaje - Documentos de Marketo - Documentación del producto
-title: Incluir un archivo ICS de eventos de calendario en una página de aterrizaje
+title: Incluir un archivo ICS de eventos de calendario en una página de destino
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# Incluir un archivo ICS de eventos de calendario en una página de aterrizaje {#include-a-calendar-event-ics-file-in-a-landing-page}
+# Incluir un archivo ICS de eventos de calendario en una página de destino {#include-a-calendar-event-ics-file-in-a-landing-page}
 
 Un token de **[!UICONTROL archivo de calendario]** le permite agregar un vínculo de evento de calendario (.ics) a sus páginas de aterrizaje de Marketo.
 

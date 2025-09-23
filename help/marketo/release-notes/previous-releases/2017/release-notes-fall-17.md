@@ -4,7 +4,7 @@ description: 'Notas De La Versión, Otoño De 2017: Documentos De Marketo: Docum
 title: Notas de la versión, otoño de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -86,10 +86,10 @@ Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dent
 
 ## Integración  {#integration}
 
-**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
+**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ahora puede previsualizar de forma remota el correo electrónico fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-**[Reemplazar la API de HTML](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
+**[Reemplazar la API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Los desarrolladores pueden actualizar el contenido de HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar dentro de un solo sistema para mantener los recursos.

@@ -1,16 +1,16 @@
 ---
 description: Resultados de llamadas - Documentos de Marketo - Documentación del producto
-title: Resultados de llamadas
+title: Resultados de las llamadas
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Resultados de llamadas {#call-outcomes}
+# Resultados de las llamadas {#call-outcomes}
 
 Permita que sus equipos de ventas seleccionen los resultados de las llamadas al realizar llamadas, de modo que su equipo pueda comprender el impacto de los esfuerzos de participación de los clientes.
 

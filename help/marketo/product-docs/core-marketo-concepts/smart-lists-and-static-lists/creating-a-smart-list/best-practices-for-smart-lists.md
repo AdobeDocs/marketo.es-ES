@@ -4,10 +4,10 @@ description: 'Prácticas recomendadas para listas inteligentes: Documentos de Ma
 title: Prácticas recomendadas para listas inteligentes
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '566'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Para que sean fáciles de usar y optimizar el rendimiento, hemos creado una list
 
 >[!NOTE]
 >
->**Cada usuario Marketo Engage es diferente.** Cuanto mayor sea la base de datos, más se procesará. Cuantas más actividades haya almacenado, más tardará en buscarlas.
+>**Cada usuario de Marketo Engage es diferente.** Cuanto mayor sea la base de datos, más se procesará. Cuantas más actividades haya almacenado, más tardará en buscarlas.
 >
 >Si está experimentando lentitud, pruebe las sugerencias a continuación. Si el problema continúa, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
@@ -31,9 +31,9 @@ Para que sean fáciles de usar y optimizar el rendimiento, hemos creado una list
 1. **Ahorre con los filtros de inactividad -** Los filtros como &quot;Formulario no rellenado&quot; pueden ser muy útiles, pero requieren mucha más potencia de procesamiento.
 1. **Ahorre con el pegado de varios valores:** La selección múltiple está diseñada para pegar docenas o posiblemente cientos de valores. Pon demasiados, sin embargo, y se desacelerará mucho.
 1. **Ahorre tiempo al agregar restricciones -** Estos son los pequeños detalles de una regla y los valores relacionados. Cuantas más restricciones agregue, más lento será el tiempo de procesamiento.
-1. **Simplifique sus campañas:** más de 100 reglas independientes (ya lo hemos visto) obviamente, van a tardar un poco en procesarse. Sea sencillo y notará las mejoras de velocidad, además de que le resultará más fácil de entender.
+1. **Simplifique sus campañas:** más de 100 reglas independientes (¡ya las hemos visto!) obviamente tardarán algún tiempo en procesarse. Sea sencillo y notará las mejoras de velocidad, además de que le resultará más fácil de entender.
 1. **Incluya el símbolo @ antes del nombre de dominio al usar el filtro de dirección de correo electrónico** **-**. Esto hace que utilice una consulta más rápida. Ejemplo: en lugar de usar _email contiene &#39;somedomain.com&#39;_, use _email contiene &#39;@somedomain.com_&#39;. Si utiliza varias direcciones de correo electrónico con &quot;contiene&quot;, TODOS deben comenzar por &quot;@&quot;.
 
 >[!TIP]
 >
->Marketo Engage puede ser utilizado de muchas maneras y ciertas técnicas son mejores para usted y su negocio. Póngase en contacto con su representante de ventas de Adobe Professional Services si desea obtener ayuda para sacar el máximo partido a su inversión.
+>Marketo Engage se puede utilizar de muchas maneras y ciertas técnicas son mejores para usted y su empresa. Póngase en contacto con su representante de ventas de Adobe Professional Services si desea obtener ayuda para sacar el máximo partido a su inversión.

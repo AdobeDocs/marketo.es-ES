@@ -4,10 +4,10 @@ description: 'Explicación de los programas: documentos de Marketo, documentaci�
 title: Explicación de programas
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 5%
+ht-degree: 14%
 
 ---
 
@@ -33,7 +33,7 @@ Existen cuatro tipos de programas:
 
 Un programa predeterminado es cualquier cosa que no sea un programa de evento, participación o correo electrónico. Pónganse creativos.
 
-¡Vamos a empezar!
+¡Empecemos!
 
 >[!MORELIKETHIS]
 >

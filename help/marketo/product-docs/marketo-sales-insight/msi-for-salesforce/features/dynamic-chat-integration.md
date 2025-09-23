@@ -1,16 +1,16 @@
 ---
 description: 'Integración de Dynamic Chat: documentos de Marketo, documentación del producto'
-title: Integración del Dynamic Chat
+title: Integración de Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-# Integración del Dynamic Chat {#dynamic-chat-integration}
+# Integración de Dynamic Chat {#dynamic-chat-integration}
 
 Obtenga más información sobre la integración de Dynamic Chat con Sales Insight.
 
@@ -36,7 +36,7 @@ Siga los pasos a continuación para habilitar la integración de [!DNL Dynamic C
 
    ![](assets/dynamic-chat-integration-2.png)
 
-## Descripción general de funciones {#feature-overview}
+## Información general de funciones {#feature-overview}
 
 [!DNL Dynamic Chat] usuarios pueden aprovechar las siguientes [!DNL Sales Insight] actividades...
 

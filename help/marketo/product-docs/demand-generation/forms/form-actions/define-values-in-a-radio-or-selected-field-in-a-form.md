@@ -4,16 +4,16 @@ description: Definir valores en una radio o un campo seleccionado en un formular
 title: Definir valores en una radio o campo seleccionado en un formulario
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # Definir valores en una radio o campo seleccionado en un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Una vez que haya [establecido un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de opción o un tipo de selección, querrá definir los valores entre los que el usuario puede elegir. Así es como.
+Una vez que haya [establecido un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de opción o un tipo de selección, querrá definir los valores entre los que el usuario puede elegir. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

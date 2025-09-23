@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359730
 description: 'Adición de HTML personalizado a una página de aterrizaje de forma libre: Documentos de Marketo: documentación del producto'
-title: Adición de HTML personalizado a una página de aterrizaje de forma libre
+title: Añadir un HTML personalizado a una página de destino de forma libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Adición de HTML personalizado a una página de aterrizaje de forma libre {#adding-custom-html-to-a-free-form-landing-page}
+# Añadir un HTML personalizado a una página de destino de forma libre {#adding-custom-html-to-a-free-form-landing-page}
 
 Puede agregar scripts personalizados, CSS u otros HTML a las páginas de aterrizaje.
 

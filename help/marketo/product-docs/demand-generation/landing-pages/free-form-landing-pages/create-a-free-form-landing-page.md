@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359701
 description: 'Creación de una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
-title: Creación de una página de aterrizaje de forma libre
+title: Creación de una página de destino de forma libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Creación de una página de aterrizaje de forma libre {#create-a-free-form-landing-page}
+# Creación de una página de destino de forma libre {#create-a-free-form-landing-page}
 
 Las páginas de aterrizaje de forma libre se pueden crear como recursos locales de un programa o en [!UICONTROL Design Studio] para usarlas globalmente.
 

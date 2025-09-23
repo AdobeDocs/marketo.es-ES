@@ -4,16 +4,16 @@ description: Convertir al usuario de sincronización de Marketo en usuario de ma
 title: Convertir al usuario de sincronización de Marketo en usuario de marketing
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 # Convertir al usuario de sincronización de Marketo en usuario de marketing {#make-marketo-sync-user-a-marketing-user}
 
-El [usuario de sincronización de Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} debe ser un usuario de marketing para que la sincronización de campañas de Salesforce funcione correctamente. A continuación se indica cómo hacer que el usuario sea un usuario de marketing en Salesforce.
+El [usuario de sincronización de Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} debe ser un usuario de marketing para que la sincronización de campañas de Salesforce funcione correctamente. A continuación, se indica cómo convertir al usuario en un usuario de marketing en Salesforce.
 
 >[!NOTE]
 >

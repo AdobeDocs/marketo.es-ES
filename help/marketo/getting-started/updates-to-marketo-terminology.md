@@ -4,8 +4,8 @@ description: Actualizaciones en la terminología de Marketo - Docs de Marketo - 
 hide: true
 hidefromtoc: true
 title: Actualizaciones en la terminología de Marketo
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
 

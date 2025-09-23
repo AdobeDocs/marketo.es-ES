@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Los Paneles de uso del producto de Marketo Engage permiten ver el uso del producto y de la plataforma en relación con ciertos límites o registros pendientes del rendimiento de los datos, el uso con respecto a la cuota diaria y las métricas clave de la suscripción. La infraestructura se asigna para proporcionar límites de rendimiento definidos para los niveles de producto para atributos específicos. Algunos de estos límites, como el uso de API, son límites contratados adquiridos como parte de su paquete o nivel de producto.
 
-## Cómo acceder a {#how-to-access}
+## Cómo acceder {#how-to-access}
 
 1. En Marketo Engage, haga clic en **Administrador**.
 

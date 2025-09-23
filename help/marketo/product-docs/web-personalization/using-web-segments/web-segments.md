@@ -4,7 +4,7 @@ description: Segmentos web - Documentos de Marketo - Documentación del producto
 title: Segmentos web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 0%
@@ -187,7 +187,7 @@ Seleccione de una [lista de cuentas con nombre](/help/marketo/product-docs/web-p
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Excluir ISP**
 
@@ -286,7 +286,7 @@ Añada el valor de Event que desee segmentar. Por ejemplo, de fuentes de datos d
 
 **API de contexto de usuario**
 
-Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

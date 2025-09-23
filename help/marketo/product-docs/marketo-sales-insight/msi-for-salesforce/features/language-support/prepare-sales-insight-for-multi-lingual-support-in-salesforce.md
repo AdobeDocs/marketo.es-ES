@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516460
 description: 'Preparación de Sales Insight para la asistencia multilingüe en Salesforce: Documentos de Marketo: documentación del producto'
-title: Preparación de Sales Insight para la asistencia multilingüe en Salesforce
+title: Preparar Sales Insight para la asistencia multilingüe en Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Preparación de Sales Insight para la asistencia multilingüe en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Preparar Sales Insight para la asistencia multilingüe en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Marketo Sales Insight se almacena por idioma. Por lo tanto, si desea que funcion
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API &#x200B;]**&#x200B;detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API ]**detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

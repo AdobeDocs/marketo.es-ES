@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: Programar programas de correo electrónico con la zona horaria del destinatario - Documentos de Marketo - Documentación del producto
-title: Programar programas de correo electrónico con zona horaria del destinatario
+title: Planificar programas de correo electrónico con zona horaria del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '839'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Programar programas de correo electrónico con zona horaria del destinatario {#schedule-email-programs-with-recipient-time-zone}
+# Planificar programas de correo electrónico con zona horaria del destinatario {#schedule-email-programs-with-recipient-time-zone}
 
 Existen dos situaciones potenciales al programar un programa de correo electrónico mientras la zona horaria del destinatario está activada:
 
@@ -36,7 +36,7 @@ Esto le ofrece dos opciones:
 >
 >* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en husos horarios en los que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00am.
 >
->* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
 
 >[!NOTE]
 >

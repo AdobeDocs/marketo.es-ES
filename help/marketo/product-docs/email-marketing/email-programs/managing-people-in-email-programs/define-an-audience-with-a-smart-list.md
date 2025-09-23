@@ -4,10 +4,10 @@ description: 'Definición de una audiencia con una lista inteligente: documentos
 title: Definición de una audiencia con una lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -57,8 +57,8 @@ Una vez que [cree un programa de correo electrónico](/help/marketo/product-docs
 >
 >* Suscripción cancelada
 >* Marketing suspendido
->* Está en la lista de bloqueos
->* Email no válido
+>* Incluido en la lista de bloqueados
+>* Correo electrónico no válido
 >* Correo electrónico vacío
 >
 >Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo. **Tenga en cuenta lo siguiente:** Se enviarán mensajes de correo electrónico operativos a las personas que se hayan marcado como no suscritas y se haya suspendido el marketing.

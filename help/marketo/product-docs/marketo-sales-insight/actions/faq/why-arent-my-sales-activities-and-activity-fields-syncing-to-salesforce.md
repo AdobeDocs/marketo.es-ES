@@ -1,15 +1,15 @@
 ---
-description: ¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce? - Documentos de Marketo - Documentación del producto
-title: ¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce?
+description: '¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce? Documentación de Marketo: documentación del producto'
+title: ¿Por qué mis actividades de ventas y los campos de actividad no se sincronizan con Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# ¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
+# ¿Por qué mis actividades de ventas y los campos de actividad no se sincronizan con Salesforce? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 
 **No veo actividades de correo electrónico o llamada sincronizadas con Salesforce.**
 

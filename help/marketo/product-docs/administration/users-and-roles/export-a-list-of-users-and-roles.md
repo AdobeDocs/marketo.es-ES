@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359912
 description: 'Exportación de una lista de usuarios y funciones: documentos de Marketo, documentación del producto'
-title: Exportar una lista de usuarios y funciones
+title: Exportación de una lista de usuarios y funciones
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Exportar una lista de usuarios y funciones {#export-a-list-of-users-and-roles}
+# Exportación de una lista de usuarios y funciones {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-Es bastante fácil exportar una lista completa de los usuarios y las funciones de usuario. Así es como.
+Es bastante fácil exportar una lista completa de los usuarios y las funciones de usuario. Así es cómo se hace.
 
 1. Ir a **[!UICONTROL Administrador]**.
 

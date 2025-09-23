@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384651
 description: 'Añadir contenido nuevo: documentos de Marketo, documentación del producto'
-title: Añadir contenido nuevo
+title: Añadir nuevo contenido
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Añadir contenido nuevo {#add-new-content}
+# Añadir nuevo contenido {#add-new-content}
 
 Puede agregar fácilmente contenido manualmente a la página [!UICONTROL Todo el contenido].
 

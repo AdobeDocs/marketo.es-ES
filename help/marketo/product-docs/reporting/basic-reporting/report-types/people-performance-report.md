@@ -4,10 +4,10 @@ description: Informe de rendimiento de personas - Documentos de Marketo - Docume
 title: Informe de rendimiento de personas
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

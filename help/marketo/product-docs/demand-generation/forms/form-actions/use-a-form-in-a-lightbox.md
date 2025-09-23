@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359677
 description: 'Uso de un formulario en una Lightbox: documentos de Marketo: documentación del producto'
-title: Uso de un formulario en un Lightbox
+title: Uso de un formulario en Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Uso de un formulario en un Lightbox {#use-a-form-in-a-lightbox}
+# Uso de un formulario en Lightbox {#use-a-form-in-a-lightbox}
 
-Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es como.
+Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es cómo se hace.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

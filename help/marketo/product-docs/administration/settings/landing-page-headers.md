@@ -1,16 +1,16 @@
 ---
 description: 'Encabezados de página de aterrizaje: documentos de Marketo, documentación del producto'
-title: Encabezados de página de aterrizaje
+title: Encabezados de la página de destino
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Encabezados de página de aterrizaje {#landing-page-headers}
+# Encabezados de la página de destino {#landing-page-headers}
 
 Siga los pasos a continuación para personalizar algunos de los encabezados HTTP de los dominios de la página de aterrizaje.
 
@@ -37,7 +37,7 @@ Siga los pasos a continuación para personalizar algunos de los encabezados HTTP
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Permite definir si se pueden incrustar o no recursos alojados en Marketo Engage en páginas web externas</td>
+  <td>Permite definir si los recursos alojados por Marketo Engage se pueden incrustar o no en páginas web externas</td>
  </tr>
 </table>
 

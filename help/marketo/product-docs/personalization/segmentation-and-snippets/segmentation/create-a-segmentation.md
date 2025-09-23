@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359447
 description: 'Creación de una segmentación: documentos de Marketo, documentación del producto'
-title: Creación de una segmentación
+title: Crear una segmentación
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Creación de una segmentación {#create-a-segmentation}
+# Crear una segmentación {#create-a-segmentation}
 
 La segmentación le permite agrupar personas en perfiles distintos para la creación de informes y el contenido dinámico. A continuación se muestra cómo crearlos.
 

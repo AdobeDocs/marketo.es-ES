@@ -3,14 +3,14 @@ unique-page-id: 12977439
 description: Notas de la versión, primavera de 2017, documentación de Marketo, documentación del producto
 title: Notas de la versión, primavera de 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Primavera de 2017 {#release-notes-spring}
+# Notas de la versión: primavera de 2017 {#release-notes-spring}
 
 En la versión de primavera de 17 se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition.
 

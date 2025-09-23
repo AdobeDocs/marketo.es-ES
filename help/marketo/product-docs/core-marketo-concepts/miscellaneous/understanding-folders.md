@@ -1,22 +1,22 @@
 ---
 unique-page-id: 4720779
 description: Explicación de las carpetas, documentos de Marketo, documentación del producto
-title: Explicación de carpetas
+title: Explicación de las carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Explicación de carpetas {#understanding-folders}
+# Explicación de las carpetas {#understanding-folders}
 
 Las carpetas dentro de un programa se pueden utilizar para organizar las campañas inteligentes y los recursos. Son diferentes de [carpetas de campaña](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Crear una carpeta {#create-a-folder}
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/ma.png)
 

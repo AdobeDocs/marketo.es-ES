@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949190
 description: 'SEO: Selección de región/país para el motor de búsqueda - Documentos de Marketo - Documentación del producto'
-title: SEO - Elija región/país para su motor de búsqueda
+title: 'SEO: elegir región/país para su motor de búsqueda'
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# SEO - Elija región/país para su motor de búsqueda {#seo-pick-region-country-for-your-search-engine}
+# SEO: elegir región/país para su motor de búsqueda {#seo-pick-region-country-for-your-search-engine}
 
 Los administradores de SEO podrán elegir la región del motor de búsqueda que desee para obtener información de clasificación de palabras clave.
 

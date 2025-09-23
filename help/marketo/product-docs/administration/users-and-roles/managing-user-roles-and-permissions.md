@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359909
 description: 'Administración de funciones y permisos de usuario: documentos de Marketo, documentación del producto'
-title: Administración de roles y permisos de usuario
+title: Administración de funciones y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Administración de roles y permisos de usuario {#managing-user-roles-and-permissions}
+# Administración de funciones y permisos de usuario {#managing-user-roles-and-permissions}
 
 Establezca, cree y edite funciones de usuario y asígnelas a usuarios. Esto le permite controlar las áreas y la funcionalidad a las que cada usuario de Marketo tiene acceso.
 

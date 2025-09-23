@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: 'Añadir un fragmento a un correo electrónico: documentos de Marketo, documentación del producto'
-title: Añadir un fragmento de código a un correo electrónico
+title: Añadir un fragmento a un correo electrónico.
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Añadir un fragmento de código a un correo electrónico {#add-a-snippet-to-an-email}
+# Añadir un fragmento a un correo electrónico. {#add-a-snippet-to-an-email}
 
 Los fragmentos de código son bloques reutilizables de texto enriquecido y gráficos que puede utilizar en sus correos electrónicos y páginas de aterrizaje.
 

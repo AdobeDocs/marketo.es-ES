@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511959
 description: 'Lo mejor en Salesforce1: Documentos de Marketo: documentación del producto'
-title: Lo mejor en Salesforce1
+title: Mejores apuestas en Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147124
 description: Uso de la pestaña Assets, Documentos de Marketo, documentación del producto
-title: Uso de la pestaña Assets
+title: Uso de la pestaña recursos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Uso de la pestaña Assets {#using-the-assets-tab}
+# Uso de la pestaña recursos {#using-the-assets-tab}
 
 El lienzo de recursos es una representación visual del programa de evento o predeterminado. Puede utilizarlo para agregar recursos locales e interactuar con los existentes.
 
@@ -27,7 +27,7 @@ Cuando haya recursos en el programa, los verá en la lista aquí.
 
 | Naranja | Campaña activadora |
 |---|---|
-| Verde | Campaña por lote |
+| Verde | Campaña por lotes |
 
 Puede hacer clic con el botón derecho en el encabezado si desea interactuar con ese recurso.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512432
 description: 'Configuración del acceso push de Android de aplicaciones móviles: documentos de Marketo, documentación del producto'
-title: Configuración del acceso push de Android de aplicaciones móviles
+title: Configurar el acceso push de Android para aplicaciones móviles
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Configuración del acceso push de Android de aplicaciones móviles {#configure-mobile-app-android-push-access}
+# Configurar el acceso push de Android para aplicaciones móviles {#configure-mobile-app-android-push-access}
 
 1. Haga clic en **[!UICONTROL Administrador]**.
 

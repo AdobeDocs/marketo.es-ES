@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359491
 description: Añadir una prueba A/B - Documentos de Marketo - Documentación del producto
-title: Añadir una prueba A/B
+title: Añadir prueba A/B
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Añadir una prueba A/B {#add-an-a-b-test}
+# Añadir prueba A/B {#add-an-a-b-test}
 
 >[!PREREQUISITES]
 >

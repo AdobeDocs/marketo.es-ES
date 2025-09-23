@@ -3,10 +3,10 @@ description: Lista de comprobación de actividades de marketing de instancia her
 title: Lista de comprobación de actividades de marketing de instancias heredadas
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -68,7 +68,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
    <th style="width:70%">Revisar enfoque</th>
   </tr>
   <tr>
-   <td>Tokens</td>
+   <td>Tókenes</td>
    <td><li>¿Se están utilizando <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> en los tipos de programas que usa con más frecuencia?
    <br/>     Si no es así, considere la posibilidad de utilizarlos para aumentar la eficacia.</li>
 <li>Si se implementan tokens, ¿existen tokens de carpeta globales? ¿Cómo se utilizan?</li></td>
@@ -121,7 +121,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
    <th style="width:70%">Revisar enfoque</th>
   </tr>
   <tr>
-   <td>Puntuación de persona</td>
+   <td>Puntuación de la persona</td>
    <td><li>¿Tiene un programa de <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">puntuación de personas</a> centralizado?</li>
 <li>¿La puntuación de su persona aumenta y disminuye la puntuación?</li></td>
   </tr>
@@ -157,7 +157,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
   </tr>
   <tr>
    <td>Centro de suscripciones/preferencias</td>
-   <td><li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=es" target="_blank">Centro de suscripciones/preferencias</a>? ¿Funciona como debería?</li></td>
+   <td><li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro de suscripciones/preferencias</a>? ¿Funciona como debería?</li></td>
   </tr>
   <tr>
    <td>Momentos interesantes (si corresponde)</td>

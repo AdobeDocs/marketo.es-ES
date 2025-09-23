@@ -3,20 +3,20 @@ description: 'Métricas y dimensiones: documentos de Marketo, documentación del
 title: Métricas y dimensiones
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
-ht-degree: 26%
+ht-degree: 27%
 
 ---
 
 # Métricas y dimensiones {#metrics-and-dimensions}
 
-A continuación encontrará todas las métricas y dimensiones disponibles para el informe análisis del Explorador de ciclos de ingresos.
+A continuación encontrará todas las métricas y dimensiones disponibles para el informe de análisis del Explorador del ciclo de ingresos.
 
 >[!TIP]
 >
->Si alguna de las tablas parece ser demasiado estrecha, puede expandir la vista haciendo clic en las flechas izquierda (![](assets/icon-left-arrow.png)) y derecha (![](assets/icon-right-arrow.png)) hacia la parte superior de este Página, colapsando las barras laterales izquierda y derecha.
+>Si alguna de las tablas parece demasiado estrecha, puede expandir la vista haciendo clic en las flechas izquierda (![](assets/icon-left-arrow.png)) y derecha (![](assets/icon-right-arrow.png)) hacia la parte superior de esta página, contrayendo las barras laterales izquierda y derecha.
 
 ## Dimensiones y medidas {#dimensions-and-measures}
 
@@ -29,7 +29,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
     </tr>
     <tr>
       <th> </th>
-      <th>Período de tiempo</th>
+      <th>Periodo de tiempo</th>
       <th>Atributos</th>
       <th>Atributos personalizados</th>
       <th> </th>
@@ -38,10 +38,10 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>Análisis de correo electrónico</td>
       <td>
         <ul>
-          <li>Intervalo de tiempo trimestral</li>
-          <li>Intervalo de tiempo mensual</li>
+          <li>Trimestre de intervalo</li>
+          <li>Intervalo de tiempo del mes</li>
           <li>Intervalo de tiempo de semana</li>
-          <li>Intervalo de tiempo de fecha</li>
+          <li>Intervalo de fecha</li>
           <li>Día de la semana</li>
           <li>Hora del día</li>
         </ul>
@@ -73,7 +73,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>
         <ul>
           <li>Plazo de creación de cliente potencial</li>
-          <li>Intervalo de tiempo de creación de oportunidad</li>
+          <li>Periodo de tiempo creado de oportunidad</li>
         </ul>
       </td>
       <td>
@@ -85,22 +85,22 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
         <ul>
-          <li>Atributos de cliente potencial personalizados</li>
+          <li>Atributos de posible cliente personalizados</li>
           <li>Atributos personalizados de la compañía</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Medidas (M)</li>
-          <li>Medidas personalizadas (M)</li>
+          <li>Medidas Personalizadas (M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Análisis de rendimiento de modelos (empresas)</td>
+      <td>Análisis de rendimiento del modelo (Empresas)</td>
       <td>
         <ul>
-          <li>Período de tiempo</li>
+          <li>Periodo de tiempo</li>
         </ul>
       </td>
       <td>
@@ -111,7 +111,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td> </td>
       <td>
         <ul>
-          <li>Medidas sobre etapas (M)</li>
+          <li>Medidas Sobre Las Etapas (M)</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +119,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>Análisis de desempeño del modelo (leads)</td>
       <td>
         <ul>
-          <li>Período de tiempo</li>
+          <li>Periodo de tiempo</li>
         </ul>
       </td>
       <td>
@@ -130,13 +130,13 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
         <ul>
-          <li>Los atributos de cliente potencial → del administrador &gt; RCA</li>
+          <li>Atributos del posible cliente → desde administración &gt; RCA</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Medidas sobre la etapa (M)</li>
-          <li>Medidas entre etapas (m)</li>
+          <li>Medidas Sobre La Etapa (M)</li>
+          <li>Medidas Entre Etapas (M)</li>
         </ul>
       </td>
     </tr>
@@ -144,9 +144,9 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>Análisis de oportunidades</td>
       <td>
         <ul>
-          <li>Intervalo de tiempo de creación de posible cliente</li>
+          <li>Plazo de creación de cliente potencial</li>
           <li>Periodo de tiempo creado de oportunidad</li>
-          <li>Plazo de cierre de oportunidades</li>
+          <li>Periodo de tiempo cerrado de oportunidad</li>
         </ul>
       </td>
       <td>
@@ -188,25 +188,25 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>
         <ul>
           <li>Inversión (M)</li>
-          <li>Membresía (M)</li>
-          <li>Éxito (m)</li>
+          <li>Abono (M)</li>
+          <li>Success (M)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Análisis de membresía del programa</td>
+      <td>Análisis de pertenencia a programas</td>
       <td>
         <ul>
-          <li>Período de tiempo de membresía del programa</li>
-          <li>Período de éxito del programa</li>
-          <li>Intervalo de tiempo de adquisición del programa</li>
-          <li>Intervalo de tiempo Estado del programa</li>
+          <li>Plazo de pertenencia al programa</li>
+          <li>Plazo de éxito del programa</li>
+          <li>Intervalo de tiempo de adquisición de programa</li>
+          <li>Intervalo de tiempo del estado del programa</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Atributos del programa</li>
-          <li>Atributos Estado programa</li>
+          <li>Atributos de estado del programa</li>
           <li>Atributos de la compañía</li>
           <li>Atributos de los leads</li>
           <li>Atributos de cuenta ABM</li>
@@ -277,7 +277,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
   </tbody>
 </table>
 
-## Dimensiones y métricas detalladas para el informe del análisis anterior {#detailed-dimensions-and-metrics}
+## Dimensiones y métricas detalladas para el informe de análisis anterior {#detailed-dimensions-and-metrics}
 
 ### Dimensiones {#dimensions}
 
@@ -289,7 +289,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <th>Atributos de la compañía</th>
       <th>Atributos de la oportunidad</th>
       <th>Atributos del programa</th>
-      <th>Atributos Estado programa</th>
+      <th>Atributos de estado del programa</th>
       <th>Atributos de cuenta ABM</th>
       <th>Atributos de modelo</th>
       <th>Rol de la oportunidad</th>
@@ -299,16 +299,16 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
           <ul>
             <li>Nombre de email</li>
             <li>Asunto del correo electrónico</li>
-            <li>Dirección De de correo electrónico</li>
-            <li>Plantilla de email</li>
-            <li>Enlace de correo electrónico</li>
+            <li>Dirección de remitente del correo electrónico</li>
+            <li>Plantilla de correo electrónico</li>
+            <li>Vínculo de correo electrónico</li>
           </ul>
       </td>
       <td>
           <ul>
             <li>Programa de adquisición</li>
             <li>Bloqueado</li>
-            <li>Convertido en oportunidad</li>
+            <li>Convertido a oportunidad</li>
             <li>No llamar</li>
             <li>Nombre completo</li>
             <li>Cargo</li>
@@ -319,10 +319,10 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
             <li>Registrar tipo de Source</li>
             <li>Suscripción cancelada</li>
             <li>Dirección de email</li>
-            <li>Email no válido</li>
+            <li>Correo electrónico no válido</li>
             <li>Email del propietario del lead</li>
             <li>Cargo del propietario del lead</li>
-            <li>Nombre del propietario del cliente potencial</li>
+            <li>Nombre del propietario del posible cliente</li>
             <li>Origen del lead</li>
             <li>Estado del lead</li>
             <li>Nombre de dominio</li>
@@ -343,11 +343,11 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
           <ul>
-            <li>(FT) antes de que se cierre la oportunidad</li>
-            <li>(FT) antes de que se creara la oportunidad</li>
-            <li>Influenciado por el marketing</li>
-            <li>(MT) antes de que se cierre la oportunidad</li>
-            <li>(MT) antes de que se creara la oportunidad</li>
+            <li>(FT) antes del cierre de oportunidad</li>
+            <li>(FT) antes de la oportunidad creada</li>
+            <li>Marketing influenciado</li>
+            <li>(MT) antes de oportunidad cerrada</li>
+            <li>(MT) antes de la oportunidad creada</li>
             <li>Oportunidad cerrada</li>
             <li>Categoría de pronóstico de la oportunidad</li>
             <li>Nombre de la oportunidad</li>
@@ -366,8 +366,8 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
           <ul>
-            <li>Paso Estado del canal</li>
-            <li>Estado es éxito</li>
+            <li>Paso de estado del canal</li>
+            <li>El estado es correcto</li>
             <li>Estado del programa</li>
           </ul>
       </td>
@@ -381,9 +381,9 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <td>MPA_C
         <ul>
             <li>El modelo está activo</li>
-            <li>Está activo</li>
-            <li>En la senda del éxito</li>
-            <li>Es una empresa de seguimiento</li>
+            <li>Está activo el escenario</li>
+            <li>En ruta de éxito</li>
+            <li>Es una compañía de seguimiento</li>
             <li>Modelo</li>
             <li>Fase</li>
             <li>Tipo de escenario</li>
@@ -426,21 +426,21 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
         <ul>
           <li>Enviado (trimestre)</li>
           <li>Entregado (trimestre)</li>
-          <li>Mensajes devueltos duros (trimestre)</li>
+          <li>Rechazado (trimestre)</li>
           <li>Abierto (trimestre)</li>
-          <li>Clic (trimestre)</li>
-          <li>No suscrito (trimestre)</li>
-          <li>Queja (Trimestre)</li>
+          <li>Se hizo clic (trimestre)</li>
+          <li>Cancelado la suscripción (trimestre)</li>
+          <li>Queja (trimestre)</li>
         </ul>
       </td>
       <td>
           <ul>
             <li>Enviado (mes)</li>
             <li>Entregado (mes)</li>
-            <li>Mensajes devueltos duros (mes)</li>
+            <li>Rechazado duro (mes)</li>
             <li>Abierto (mes)</li>
-            <li>Clic (mes)</li>
-            <li>Cancelación de suscripción (mes)</li>
+            <li>Con clic (mes)</li>
+            <li>Cancelación de la suscripción (mes)</li>
             <li>Queja (mes)</li>
           </ul>
       </td>
@@ -448,20 +448,20 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
           <ul>
             <li>Enviado (semana)</li>
             <li>Entregado (semana)</li>
-            <li>Hard Bounced (Semana)</li>
+            <li>Rechazado (semana)</li>
             <li>Abierto (semana)</li>
-            <li>Clic (semana)</li>
-            <li>Cancelación de suscripción (semana)</li>
-            <li>Queja (Semana)</li>
+            <li>Con clic (semana)</li>
+            <li>Cancelación de la suscripción (semana)</li>
+            <li>Queja (semana)</li>
           </ul>
       </td>
       <td>
           <ul>
             <li>Enviado (fecha)</li>
-            <li>Entregado (Fecha)</li>
-            <li>Mensajes devueltos no válidos (fecha)</li>
-            <li>Apertura (fecha)</li>
-            <li>Clic (fecha)</li>
+            <li>Entregado (fecha)</li>
+            <li>Rechazado grave (fecha)</li>
+            <li>Abierto (fecha)</li>
+            <li>Con clic (fecha)</li>
             <li>Cancelado la suscripción (fecha)</li>
             <li>Queja (fecha)</li>
           </ul>
@@ -472,19 +472,19 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
             <li>Entregado (día de la semana)</li>
             <li>Rechazado (día de la semana)</li>
             <li>Abierto (día de la semana)</li>
-            <li>Clic (día de la semana)</li>
-            <li>Cancelación de suscripción (Día de la semana)</li>
-            <li>Queja (Día de la semana)</li>
+            <li>Se hizo clic (día de la semana)</li>
+            <li>Cancelación de la suscripción (día de la semana)</li>
+            <li>Reclamación (día de la semana)</li>
           </ul>
       </td>
       <td>
           <ul>
             <li>Enviado (hora del día)</li>
             <li>Entregado (hora del día)</li>
-            <li>Mensajes devueltos duros (hora del día)</li>
+            <li>Mensaje devuelto no válido (hora del día)</li>
             <li>Abierto (hora del día)</li>
-            <li>Clic (hora del día)</li>
-            <li>Cancelación de suscripción (hora del día)</li>
+            <li>Se hizo clic (hora del día)</li>
+            <li>Cancelación de la suscripción (hora del día)</li>
             <li>Queja (hora del día)</li>
           </ul>
       </td>
@@ -497,30 +497,30 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
 <table>
   <tbody>
     <tr>
-      <th>Período de tiempo</th>
+      <th>Periodo de tiempo</th>
       <th>Plazo de creación de cliente potencial</th>
       <th>Periodo de tiempo creado de oportunidad</th>
-      <th>Plazo de cierre de oportunidades</th>
-      <th>Intervalo de tiempo de costo del programa</th>
-      <th>Período de tiempo de membresía del programa</th>
+      <th>Periodo de tiempo cerrado de oportunidad</th>
+      <th>Intervalo de tiempo de costo de programa</th>
+      <th>Plazo de pertenencia al programa</th>
       <th>Plazo de éxito del programa</th>
       <th>Intervalo de tiempo de adquisición de programa</th>
-      <th>Intervalo de tiempo Estado del programa</th>
+      <th>Intervalo de tiempo del estado del programa</th>
     </tr>
     <tr>
       <td>
           <ul>
-            <li>Año</li>
+            <li>Year</li>
             <li>Trimestre</li>
-            <li>Mes</li>
+            <li>Month</li>
             <li>Semana</li>
             <li>Fecha</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Posible cliente creado Año de creación</li>
-            <li>Trimestre de posible cliente creado</li>
+            <li>Año de creación del posible cliente</li>
+            <li>Trimestre de creación de posible cliente</li>
             <li>Mes de creación de cliente potencial</li>
             <li>Semana de creación de cliente potencial</li>
             <li>Fecha de creación de cliente potencial</li>
@@ -528,8 +528,8 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
           <ul>
-            <li>Oportunidad Año de creación</li>
-            <li>Oportunidad creada Trimestre</li>
+            <li>Oportunidad creada el año</li>
+            <li>Trimestre de creación de oportunidad</li>
             <li>Mes de creación de oportunidad</li>
             <li>Semana de creación de oportunidad</li>
             <li>Fecha de creación de la oportunidad</li>
@@ -537,34 +537,34 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
           <ul>
-            <li>Oportunidad Año Cerrado</li>
-            <li>Oportunidad Trimestre Cerrado</li>
-            <li>Oportunidad cerrada Mes</li>
-            <li>Semana de Oportunidad Cerrada</li>
-            <li>Fecha de cierre de la oportunidad</li>
+            <li>Oportunidad cerrada el año</li>
+            <li>Trimestre cerrado de oportunidad</li>
+            <li>Mes de cierre de oportunidad</li>
+            <li>Oportunidad Cerrada Semana</li>
+            <li>Fecha de cierre de oportunidad</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Año de costo</li>
-            <li>Trimestre de costo</li>
-            <li>Costo mensual</li>
+            <li>Año de coste</li>
+            <li>Trimestre de coste</li>
+            <li>Mes de coste</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Año de membresía</li>
-            <li>Trimestre de membresía</li>
-            <li>Mes de la membresía</li>
-            <li>Semana de membresía</li>
-            <li>Fecha de inscripción</li>
+            <li>Año de abono</li>
+            <li>Trimestre de abono</li>
+            <li>Mes de abono</li>
+            <li>Semana de abono</li>
+            <li>Fecha de abono</li>
           </ul>
       </td>
       <td>
           <ul>
             <li>Año de éxito</li>
             <li>Trimestre de éxito</li>
-            <li>Mes del éxito</li>
+            <li>Mes de éxito</li>
             <li>Semana de éxito</li>
             <li>Fecha correcta</li>
           </ul>
@@ -583,8 +583,8 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
             <li>Año de estado</li>
             <li>Trimestre de estado</li>
             <li>Mes de estado</li>
-            <li>Estado semana</li>
-            <li>Fecha Estado</li>
+            <li>Semana de estado</li>
+            <li>Fecha de estado</li>
           </ul>
        </td>
     </tr>
@@ -603,7 +603,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       <th>Medidas Sobre Las Fases</th>
       <th>Medidas entre etapas</th>
       <th>Inversión</th>
-      <th>Medida de membresía/afiliación al programa</th>
+      <th>Medida de pertenencia a programa/pertenencia a programa</th>
       <th>Medida de éxito/éxito del programa</th>
     </tr>
     <tr>
@@ -627,17 +627,17 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
          <ul>
-            <li>Promedio de edad de los leads no convertidos</li>
+            <li>Edad promedio de posibles clientes no convertidos</li>
             <li>Promedio de días para convertir posibles clientes en oportunidad</li>
             <li>Puntuación media</li>
-            <li>Tasa de conversión de posibles clientes a oportunidades</li>
-            <li>Relación de conversión de empresa a oportunidad</li>
+            <li>Proporción de conversión de cliente potencial a oportunidad</li>
+            <li>Proporción de conversión de empresa a oportunidad</li>
             <li>Número de compañías</li>
-            <li>Número de empresas (convertidas en oportunidades)</li>
-            <li>Número de empresas (no convertido a oportunidad)</li>
+            <li>Número de compañías (convertidas en oportunidad)</li>
+            <li>Número de compañías (no convertidas en oportunidad)</li>
             <li>Número de posibles clientes</li>
-            <li>Número de posibles clientes (convertido en oportunidad)</li>
-            <li>Número de posibles clientes (no convertido en oportunidad)</li>
+            <li>Número de posibles clientes (convertidos en oportunidad)</li>
+            <li>Número de posibles clientes (no convertidos en oportunidad)</li>
           </ul>
       </td>
       <td>MPA_C
@@ -652,26 +652,26 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
         MPA_L
         <ul>
             <li>El Promedio de Edad</li>
-            <li>Combinado / Eliminado</li>
+            <li>Combinado/eliminado</li>
             <li>Infracciones de SLA del período</li>
             <li>Infracciones de SLA no resueltas</li>
         </ul>
       </td>
       <td>
           <ul>
-            <li>Promedio de transición (días)</li>
-            <li>Proporción de conversación (todos los tipos)</li>
-            <li>Ración de conversación (existente)</li>
-            <li>Tasa de conversación (Nuevo)</li>
+            <li>Transición media (días)</li>
+            <li>Relación de conversión (todos los tipos)</li>
+            <li>Relación de conversación (existente)</li>
+            <li>Relación de conversación (nueva)</li>
             <li>Flujo</li>
             <li>Flujo (existente)</li>
-            <li>Flujo (solo Nuevo)</li>
+            <li>Flujo (solo nuevo)</li>
         </ul>
       </td>
       <td>
           <ul>
             <li>Costo por miembro</li>
-            <li>Costo por Nuevo nombres</li>
+            <li>Coste por nuevos nombres</li>
             <li>Costo por éxito</li>
             <li>Costo por éxito (nombres nuevos)</li>
             <li>Costo del programa</li>
@@ -701,24 +701,24 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
 <table>
   <tbody>
     <tr>
-      <th>Membresía de etapa (M)</th>
+      <th>Membresía de fase (M)</th>
       <th>Atribución</th>
-      <th>Medidas Estado programa</th>
+      <th>Medidas de estado del programa</th>
     </tr>
     <tr>
       <td>
           <ul>
             <li>% Nuevo nombre (actual)</li>
-            <li>% Nuevo nombre (nunca)</li>
-            <li>Promedio de días hasta el ensayo</li>
+            <li>% Nuevo Nombre (Ever)</li>
+            <li>Promedio de días para la fase</li>
             <li>Costo por nombre nuevo</li>
-            <li>Nombre Nuevo (actual)</li>
-            <li>Nombre Nuevo (nunca)</li>
+            <li>Nuevo nombre (actual)</li>
+            <li>Nuevo nombre (siempre)</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li># de oportunidades asociadas con el programa</li>
+            <li>Cantidad de oportunidades asociadas al programa</li>
             <li>Costo de oportunidad (FT)</li>
             <li>(FT) Oportunidades creadas</li>
             <li>(FT) Oportunidades ganadas</li>
@@ -735,8 +735,8 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
             <li>(MT) Ingreso esperado</li>
             <li>(MT) Ingreso a inversión</li>
             <li>(MT) Ingreso obtenido</li>
-            <li># promedio de éxitos por oportunidad cerrada</li>
-            <li># promedio de éxitos por oportunidad creada</li>
+            <li>Cantidad promedio de éxitos por oportunidad cerrada</li>
+            <li>Cantidad promedio de éxitos por oportunidad creada</li>
             <li>Nuevos nombres</li>
             <li>Costo del programa</li>
             <li>Éxito (total)</li>
@@ -744,8 +744,8 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
       </td>
       <td>
           <ul>
-            <li>Recuento Estado (actual)</li>
-            <li>Recuento Estado (nunca)</li>
+            <li>Recuento de estado (actual)</li>
+            <li>Recuento de estado (siempre)</li>
           </ul>
       </td>
     </tr>

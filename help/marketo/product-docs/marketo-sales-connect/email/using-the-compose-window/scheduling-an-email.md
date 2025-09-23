@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356568
 description: 'Programación de un correo electrónico: documentos de Marketo, documentación del producto'
-title: Programando un correo electrónico
+title: Programar un correo electrónico
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Programando un correo electrónico {#scheduling-an-email}
+# Programar un correo electrónico {#scheduling-an-email}
 
 Siga estos sencillos pasos para programar un correo electrónico.
 

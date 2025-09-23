@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359936
 description: 'Eliminar un flujo: documentos de Marketo, documentación del producto'
-title: Eliminar una secuencia
+title: Eliminar un flujo
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Eliminar una secuencia {#delete-a-stream}
+# Eliminar un flujo {#delete-a-stream}
 
 Si alguna vez necesita eliminar un flujo de su programa de participación, siga estos pasos rápidos y sencillos.
 

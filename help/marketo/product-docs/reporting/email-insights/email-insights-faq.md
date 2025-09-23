@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100257
 description: Preguntas frecuentes sobre las perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Preguntas frecuentes sobre Email Insights
+title: Preguntas frecuentes sobre perspectivas de correo electrónico
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Preguntas frecuentes sobre Email Insights {#email-insights-faq}
+# Preguntas frecuentes sobre perspectivas de correo electrónico {#email-insights-faq}
 
 ## ¿Hay alguna diferencia entre las métricas de proporción con [!UICONTROL Perspectivas de correo electrónico] y otros informes de correo electrónico de Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 

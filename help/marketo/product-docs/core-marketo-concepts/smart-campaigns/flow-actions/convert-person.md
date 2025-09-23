@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147019
 description: Convertir persona - Documentos de Marketo - Documentación del producto
-title: Convertir Persona
+title: Convertir persona
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
-# Convertir Persona {#convert-person}
+# Convertir persona {#convert-person}
 
 Utilice este paso de flujo para convertir a una persona en un contacto de [!DNL Salesforce]. Puede decidir a quién asignar el contacto, enviar una notificación al propietario y establecer un estado convertido.
 

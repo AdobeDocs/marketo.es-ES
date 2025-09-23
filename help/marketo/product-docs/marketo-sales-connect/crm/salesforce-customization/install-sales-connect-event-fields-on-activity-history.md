@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352475
 description: Instalación de los campos de eventos de Sales Connect en el historial de actividades - Documentos de Marketo - Documentación del producto
-title: Instalación de campos de eventos de conexión de ventas en el historial de actividades
+title: Instalación de campos de eventos de Sales Connect en el historial de actividades
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
-# Instalación de campos de eventos de conexión de ventas en el historial de actividades {#install-sales-connect-event-fields-on-activity-history}
+# Instalación de campos de eventos de Sales Connect en el historial de actividades {#install-sales-connect-event-fields-on-activity-history}
 
 Una vez que haya instalado el paquete Enterprise en [!DNL Salesforce], puede instalar los campos de evento [!UICONTROL Conexión de ventas] en su sección del historial de actividades. Los campos de evento de [!UICONTROL Conexión de ventas] incluyen información como vistas, clics y campañas. Esto le permite tener información sobre sus correos electrónicos importados directamente a [!DNL Salesforce].
 

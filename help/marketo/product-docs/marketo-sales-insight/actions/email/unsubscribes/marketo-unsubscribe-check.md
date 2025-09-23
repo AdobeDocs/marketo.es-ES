@@ -1,12 +1,12 @@
 ---
 description: Comprobación de cancelación de suscripción de Marketo - Documentos de Marketo - Documentación del producto
-title: Verificación de cancelación de suscripción de Marketo
+title: Verificar cancelación de suscripción de Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -32,7 +32,7 @@ La [!UICONTROL comprobación de cancelación de suscripción de Marketo] usa la 
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## Cosas que saber {#things-to-know}
+## Cosas que debe saber {#things-to-know}
 
 Comprobación de cancelación de suscripción de Marketo...
 

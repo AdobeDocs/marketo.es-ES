@@ -1,26 +1,26 @@
 ---
 description: Información general sobre seminarios web interactivos - Documentos de Marketo - Documentación del producto
-title: Información general sobre seminarios web interactivos
+title: Información general de seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Información general sobre seminarios web interactivos {#interactive-webinars-overview}
+# Información general de seminarios web interactivos {#interactive-webinars-overview}
 
 La función Seminarios web interactivos es nuestra plataforma integrada de seminarios web dentro de Marketo Engage. No se requieren herramientas ni integraciones adicionales.
 
 >[!IMPORTANT]
 >
->Los seminarios web interactivos con tecnología de Adobe Connect son una función que integra Adobe Connect. El uso de los seminarios web interactivos estará sujeto a términos y condiciones adicionales. Revisa tu contrato o [comunícate con el Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obtener información sobre los términos y condiciones adicionales.
+>Los seminarios web interactivos con tecnología de Adobe Connect son una función que integra Adobe Connect. El uso de los seminarios web interactivos estará sujeto a términos y condiciones adicionales. Revisa tu contrato o [comunícate con Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obtener información sobre los términos y condiciones adicionales.
 
 ## ¿Qué son los seminarios web interactivos? {#what-is-interactive-webinars}
 
-Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para crear, administrar y ofrecer eventos dentro de Marketo Engage. Cuando [crea un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay varias plantillas de reunión prediseñadas disponibles para elegir, todas las cuales se pueden personalizar (también puede crear y usar plantillas personalizadas). Los asistentes pueden compartir pantallas o archivos de ordenador, charlar entre sí, difundir audio y vídeo y participar en actividades interactivas en línea.
+Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y perfecta para crear, administrar y ofrecer eventos dentro de Marketo Engage. Cuando [crea un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay varias plantillas de reunión prediseñadas disponibles para elegir, todas las cuales se pueden personalizar (también puede crear y usar plantillas personalizadas). Los asistentes pueden compartir pantallas o archivos de ordenador, charlar entre sí, difundir audio y vídeo y participar en actividades interactivas en línea.
 
 Los seminarios web interactivos ofrecen [tres licencias diferentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, cada una con diversas funciones y capacidades.
 
@@ -30,7 +30,7 @@ Después del seminario web, accede a [análisis de rendimiento de eventos](/help
 
 **¿Necesito una suscripción independiente para utilizar los seminarios web interactivos?**
 
-No. Para utilizar los seminarios web interactivos sólo se necesita una suscripción de Marketo Engage activa.
+No. Para utilizar los seminarios web interactivos solo se necesita una suscripción activa a Marketo Engage.
 
 **¿Qué idiomas están disponibles para los seminarios web interactivos?**
 

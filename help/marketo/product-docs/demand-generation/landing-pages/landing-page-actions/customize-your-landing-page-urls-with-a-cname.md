@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359746
 description: 'Personalización de las direcciones URL de su página de aterrizaje con un CNAME: documentos de Marketo: documentación del producto'
-title: Personalización de las direcciones URL de su página de aterrizaje con un CNAME
+title: Personalización de las direcciones URL de su página de destino con un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Personalización de las direcciones URL de su página de aterrizaje con un CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Personalización de las direcciones URL de su página de destino con un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Aunque Marketo aloja sus páginas de aterrizaje, la dirección URL se puede personalizar completamente. Aspecto sin un CNAME:
 

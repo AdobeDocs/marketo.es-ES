@@ -4,10 +4,10 @@ description: 'Definición de una audiencia mediante la importación de una lista
 title: Definir una audiencia mediante la importación de una lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -23,7 +23,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >La definición de la audiencia solo funciona cuando el programa de correo electrónico no está aprobado.
 >
->Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
+>Los campos de fecha y hora que se importen se tratarán como hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -65,8 +65,8 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >* Suscripción cancelada
 >* Marketing suspendido
->* Está en la lista de bloqueos
->* Email no válido
+>* Incluido en la lista de bloqueados
+>* Correo electrónico no válido
 >* Correo electrónico vacío
 >
 >Haga clic en el número para obtener una lista detallada de las personas bloqueadas de los envíos de correo.

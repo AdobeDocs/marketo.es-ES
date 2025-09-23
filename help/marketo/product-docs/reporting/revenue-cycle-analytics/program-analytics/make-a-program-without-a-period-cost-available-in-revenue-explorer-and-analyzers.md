@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y Analizadores - Documentos de Marketo - Documentación del producto
-title: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y en los analizadores
+title: Crear un programa sin un coste de período disponible en el explorador de ingresos y en los analizadores
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Disponibilidad de un programa sin coste de período en el Explorador de ingresos y en los analizadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Crear un programa sin un coste de período disponible en el explorador de ingresos y en los analizadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 Costos de período del programa le permite definir &quot;Cuánto dinero&quot; y &quot;Cuándo&quot; para un programa. Esto aparece en el Explorador del ciclo de ingresos y en [analizadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 

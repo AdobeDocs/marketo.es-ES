@@ -4,10 +4,10 @@ description: 'Notas de la versión, mayo de 2014, Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

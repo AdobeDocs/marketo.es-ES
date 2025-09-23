@@ -4,10 +4,10 @@ description: Explicación de los programas de participación - Documentos de Mar
 title: Explicación de los programas de participación
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -54,7 +54,7 @@ Existen dos tipos de **contenido** que puede agregar a los flujos de programas d
 >* [Quitar contenido de la emisión](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archivar y desarchivar contenido de la emisión](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Fundir {#cast}
+## Transmisión {#cast}
 
 Un **cast** es el evento de envío de correos electrónicos desde un programa de participación.
 
@@ -88,7 +88,7 @@ Una vez que una persona ha recibido cada fragmento de contenido en un flujo, lla
 >
 >[Personas Con Contenido Agotado](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## Nivel de interacción de contenido {#content-engagement-level}
+## Nivel de interacción con el contenido {#content-engagement-level}
 
 El nivel de participación en el contenido es una puntuación de 0 a 100 puntos que Marketo le proporcionará al contenido. Este número está determinado por una fórmula sofisticada que utiliza aperturas, clics, cancelaciones de suscripción, éxito del programa y otros factores.
 

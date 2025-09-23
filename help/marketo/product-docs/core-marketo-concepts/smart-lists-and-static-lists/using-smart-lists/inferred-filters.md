@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953188
 description: Filtros deducidos - Documentos de Marketo - Documentación del producto
-title: Filtros deducidos
+title: Filtros inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Filtros deducidos {#inferred-filters}
+# Filtros inferidos {#inferred-filters}
 
 Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de información.
 
@@ -19,7 +19,7 @@ Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/admini
 >
 >Para garantizar que los valores de campo deducidos permanezcan actualizados, actualizamos periódicamente la base de datos que se utiliza para las búsquedas de direcciones IP. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo deducidos que es posible que tenga que agregar a las definiciones de filtro de listas inteligentes.
 >
->Las actualizaciones de la base de datos pueden producirse durante una [versión del producto del Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Cuando se produce una actualización, las [notas de la versión del Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} contendrán una explicación de los cambios realizados en los valores de los campos deducidos.
+>Las actualizaciones de la base de datos pueden producirse durante una [versión del producto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Cuando se produce una actualización, las [notas de la versión de Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} contendrán una explicación de los cambios realizados en los valores de los campos deducidos.
 
 ![](assets/inferred-filters-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360274
 description: 'Administración de valores de etiqueta: documentos de Marketo, documentación del producto'
-title: Administración de valores de etiqueta
+title: Administrar valores de etiquetas
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Administración de valores de etiqueta {#managing-tag-values}
+# Administrar valores de etiquetas {#managing-tag-values}
 
 Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para describir programas. Puede crear tantas como necesite, cada una con valores únicos. A continuación se indica cómo administrar esos valores.
 

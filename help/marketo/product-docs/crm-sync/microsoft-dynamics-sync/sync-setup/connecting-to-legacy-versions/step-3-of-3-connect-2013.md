@@ -4,7 +4,7 @@ description: 'Paso 3 de 3: Conexión de Marketo y Dynamics (2013 local): Documen
 title: 'Paso 3 de 3: Conexión de Marketo y Dynamics (2013 local)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 2%

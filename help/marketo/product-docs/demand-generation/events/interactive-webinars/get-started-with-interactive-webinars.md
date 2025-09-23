@@ -1,16 +1,16 @@
 ---
 description: 'Introducción a seminarios web interactivos: documentos de Marketo, documentación del producto'
-title: Introducción a los seminarios web interactivos
+title: Introducción a seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Introducción a los seminarios web interactivos {#get-started-with-interactive-webinars}
+# Introducción a seminarios web interactivos {#get-started-with-interactive-webinars}
 
 Por lo tanto, ha leído la [Información general sobre seminarios web interactivos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} y está listo para sumergirse. Siga los pasos a continuación para empezar.
 

@@ -4,10 +4,10 @@ description: 'Filtrar tipos de actividades en el registro de actividad de una pe
 title: Filtrar tipos de actividades en el registro de actividad de una persona
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 

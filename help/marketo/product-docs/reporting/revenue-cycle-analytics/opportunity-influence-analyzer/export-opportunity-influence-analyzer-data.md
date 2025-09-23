@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: 'Exportar datos del Analizador de influencia de oportunidades: documentos de Marketo, documentación del producto'
-title: Exportar datos del analizador de influencia de oportunidades
+title: Exportar datos del analizador de influencia de la oportunidad
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Exportar datos del analizador de influencia de oportunidades {#export-opportunity-influence-analyzer-data}
+# Exportar datos del analizador de influencia de la oportunidad {#export-opportunity-influence-analyzer-data}
 
 Para recibir actualizaciones de sus informes del Explorador de ciclos de ingresos y compartirlos, puede suscribir cualquier dirección de correo electrónico a un informe existente.
 

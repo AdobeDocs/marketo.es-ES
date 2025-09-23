@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360409
 description: Creación de un informe de análisis de correo electrónico que muestre la información del programa - Documentos de Marketo - Documentación del producto
-title: Crear un informe de análisis de correo electrónico que muestre información del programa
+title: Creación de un informe de análisis de correo electrónico que muestre información del programa
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Crear un informe de análisis de correo electrónico que muestre información del programa {#build-an-email-analysis-report-that-shows-program-information}
+# Creación de un informe de análisis de correo electrónico que muestre información del programa {#build-an-email-analysis-report-that-shows-program-information}
 
 Siga estos pasos para crear un informe de análisis de correo electrónico que muestre la información de correo electrónico agrupada por canales de programa.
 

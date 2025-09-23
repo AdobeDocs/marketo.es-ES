@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1900575
 description: 'Añadir un token de script de correo electrónico al correo electrónico: documentos de Marketo, documentación del producto'
-title: Añadir un token de script de correo electrónico a su correo electrónico
+title: Añadir un token de script de correo electrónico al correo electrónico
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
-# Añadir un token de script de correo electrónico a su correo electrónico {#add-an-email-script-token-to-your-email}
+# Añadir un token de script de correo electrónico al correo electrónico {#add-an-email-script-token-to-your-email}
 
-Después de [crear el script de correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es como.
+Después de [crear el script de correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es cómo se hace.
 
 >[!NOTE]
 >
 >El tamaño total de todos los tokens de script insertados en un único correo electrónico no puede superar los 100 KB.
 
-1. Vaya al área de **[!UICONTROL Actividades de mercadotecnia]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/one-2.png)
 

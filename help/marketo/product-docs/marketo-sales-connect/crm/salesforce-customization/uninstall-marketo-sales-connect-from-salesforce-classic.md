@@ -2,10 +2,10 @@
 description: 'Desinstalación de Marketo Sales Connect desde Salesforce Classic: Documentos de Marketo: documentación del producto'
 title: Desinstalar Marketo Sales Connect desde Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1186'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 

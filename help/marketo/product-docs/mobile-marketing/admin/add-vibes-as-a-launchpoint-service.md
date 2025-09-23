@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378845
 description: 'Añadir vibraciones como servicio de LaunchPoint: documentos de Marketo: documentación del producto'
-title: Añadir vibraciones como servicio de LaunchPoint
+title: Añadir Vibes como un servicio de LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Añadir vibraciones como servicio de LaunchPoint {#add-vibes-as-a-launchpoint-service}
+# Añadir Vibes como un servicio de LaunchPoint {#add-vibes-as-a-launchpoint-service}
 
 Puede enviar mensajes SMS a las personas incluidas en sus campañas de SMS de Vibes, aprovechando la actividad de SMS para filtrar y almacenar en déclencheur las campañas de forma nativa en su instancia de Marketo Engage. En primer lugar, debe agregar Vibes como servicio de LaunchPoint.
 

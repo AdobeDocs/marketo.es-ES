@@ -1,16 +1,16 @@
 ---
 description: 'Información general de búsqueda avanzada: documentos de Marketo, documentación del producto'
-title: Información general de búsqueda avanzada
+title: Información general sobre la búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Información general de búsqueda avanzada {#advanced-search-overview}
+# Información general sobre la búsqueda avanzada {#advanced-search-overview}
 
 Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han visto, hecho clic o respondido a correos electrónicos, puede crear una lista segmentada de los posibles clientes más comprometidos.
 
@@ -83,13 +83,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Estado: enviado**&#x200B;_
+_**Estado: enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtra por la actividad de correo electrónico enviado. Puede elegir [!UICONTROL vistas]/[!UICONTROL sin vistas], [!UICONTROL clics]/[!UICONTROL sin clics] o [!UICONTROL respuestas]/[!UICONTROL sin respuestas].
 
-_&#x200B;**Estado: pendiente**&#x200B;_
+_**Estado: pendiente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos los correos electrónicos pendientes.
  </tr>
 </table>
 
-_&#x200B;**Estado: sin entregar**&#x200B;_
+_**Estado: sin entregar**_
 
 ![](assets/advanced-search-overview-12.png)
 

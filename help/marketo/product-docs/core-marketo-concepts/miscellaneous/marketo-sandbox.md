@@ -1,16 +1,16 @@
 ---
 unique-page-id: 11386358
 description: Zona protegida de Marketo - Documentos de Marketo - Documentación del producto
-title: Espacio aislado de Marketo
+title: Zona protegida de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Espacio aislado de Marketo {#marketo-sandbox}
+# Zona protegida de Marketo {#marketo-sandbox}
 
 Una zona protegida de Marketo Engage es una instancia adicional que se utiliza con fines de prueba antes de la implementación en el entorno de producción.
 

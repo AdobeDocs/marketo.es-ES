@@ -1,16 +1,16 @@
 ---
 description: Administración de OP-Lead - Documentos de Marketo - Documentación del producto
-title: Administración de OP-Lead
+title: OP-Gestión de clientes potenciales
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# Administración de OP-Lead {#op-lead-management}
+# OP-Gestión de clientes potenciales {#op-lead-management}
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de posibles clientes, que utilizan un programa predeterminado de Marketo Engage, para ayudarle a administrar los registros de su base de datos de Marketo Engage en su CRM.
 

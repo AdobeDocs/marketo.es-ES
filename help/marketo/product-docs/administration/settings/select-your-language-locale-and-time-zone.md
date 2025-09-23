@@ -4,10 +4,10 @@ description: Seleccione su idioma, configuración regional y zona horaria - Docu
 title: Seleccione su idioma, configuración regional y zona horaria
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->Si su suscripción de Marketo Engage se ha migrado a [Marketo con identidad de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, solo se le aplica la [zona horaria](#change-your-time-zone) de este artículo. Para cambiar el idioma o la configuración regional, se debe tener acceso a esa configuración en el [perfil de cuenta de Adobe](https://account.adobe.com/profile){target="_blank"}.
+>Si su suscripción a Marketo Engage se ha migrado a [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, solo se le aplica la [zona horaria](#change-your-time-zone) de este artículo. Para cambiar el idioma o la configuración regional, se debe acceder a esos ajustes en el [perfil de cuenta de Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Idiomas admitidos {#supported-languages}
 

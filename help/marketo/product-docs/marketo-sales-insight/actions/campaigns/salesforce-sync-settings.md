@@ -3,10 +3,10 @@ description: Configuración de sincronización de Salesforce - Documentos de Mar
 title: Configuraciones de sincronización de Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '639'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -71,7 +71,7 @@ Si, por alguna razón, el correo electrónico a la dirección [!DNL Salesforce] 
 1. Inicie sesión en su instancia de [!DNL Salesforce].
 1. Busque su nombre de usuario en la esquina superior derecha y seleccione la barra desplegable.
 1. Seleccione **[!UICONTROL Mi configuración]**.
-1. Seleccione **[!UICONTROL Correo electrónico]**.
+1. Seleccione **[!UICONTROL correo electrónico]**.
 1. Seleccione **[!UICONTROL Mi correo electrónico a Salesforce]**.
 1. En esta página, verá un campo denominado &quot;[!UICONTROL Correo electrónico a la dirección de Salesforce]&quot;. Si no hay nada completado junto a él, desplácese hacia abajo hasta &quot;[!UICONTROL Mis direcciones de correo electrónico aceptables]&quot;.
 1. Introduzca las direcciones de correo electrónico que desea incluir en la lista de destinatarios copiados ocultos (CCO).

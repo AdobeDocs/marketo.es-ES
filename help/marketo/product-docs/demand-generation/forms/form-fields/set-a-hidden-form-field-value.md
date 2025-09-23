@@ -4,10 +4,10 @@ description: Definir un valor de campo de formulario oculto - Documentos de Mark
 title: Establecer un valor de campo de formulario oculto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 

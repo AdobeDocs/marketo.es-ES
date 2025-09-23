@@ -1,16 +1,16 @@
 ---
 description: CT-AAAA-MM-Página de aterrizaje de contenido que no es de Marketo - Documentos de Marketo - Documentación del producto
-title: Página de aterrizaje de contenido que no es de Marketo
+title: CT-AAAA-MM-Contenido de la página de destino que no es de Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# Página de aterrizaje de contenido que no es de Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
+# CT-AAAA-MM-Contenido de la página de destino que no es de Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 Este es un ejemplo de programa de contenido con un formulario de Marketo Engage para descargar contenido en una página de aterrizaje que no sea de Marketo Engage mediante un programa predeterminado de Marketo Engage. Este programa está diseñado para trabajar con un formulario de Marketo Engage incrustado en el sitio web. El vínculo a la oferta/contenido se puede enviar en un correo electrónico de agradecimiento.
 
@@ -51,7 +51,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>01-Correo electrónico-Gracias</td>
   </tr>
   <tr>
-   <td>Form</td>
+   <td>Formulario</td>
    <td> </td>
    <td>Formulario de registro de contenido FM (recurso global en Design Studio)</td>
   </tr>

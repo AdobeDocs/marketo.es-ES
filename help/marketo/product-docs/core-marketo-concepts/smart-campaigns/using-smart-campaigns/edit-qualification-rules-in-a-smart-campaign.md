@@ -4,10 +4,10 @@ description: 'Edición de reglas de calificación en una campaña inteligente: d
 title: Edición de reglas de calificación en una campaña inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

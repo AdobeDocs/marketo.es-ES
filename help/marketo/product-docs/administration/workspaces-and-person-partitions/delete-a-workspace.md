@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360313
 description: 'Eliminación de un Workspace: documentos de Marketo: documentación del producto'
-title: Eliminación de un Workspace
+title: Eliminar un espacio de trabajo
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Eliminación de un Workspace {#delete-a-workspace}
+# Eliminar un espacio de trabajo {#delete-a-workspace}
 
 >[!NOTE]
 >
