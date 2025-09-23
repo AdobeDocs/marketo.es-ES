@@ -13,6 +13,6 @@ ht-degree: 11%
 
 # La actividad de seguimiento no aparece {#tracking-activity-not-showing}
 
-Si no se muestra su actividad de seguimiento, asegúrese de que los campos de actividad personalizados que proporciona [!DNL  Sales Connect] sean visibles o editables en Salesforce. Si ha instalado los campos pero no se rellenan, es posible que haya Seguridad de nivel de campo que impida que se rellene la información. Hable con su administrador de [!DNL  Salesforce].
+Si no se muestra su actividad de seguimiento, asegúrese de que los campos de actividad personalizados que proporciona [!DNL &#x200B; Sales Connect] sean visibles o editables en Salesforce. Si ha instalado los campos pero no se rellenan, es posible que haya Seguridad de nivel de campo que impida que se rellene la información. Hable con su administrador de [!DNL &#x200B; Salesforce].
 
 Obtenga más información acerca de la [seguridad de nivel de campo](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) en Salesforce.

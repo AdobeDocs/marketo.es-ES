@@ -192,7 +192,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 * **Actualización de cancelación de suscripción a una lista de un solo clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. [Conoce qué son y cómo te afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3} se ha ajustado ligeramente con respecto a las actualizaciones del campo ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}. `unsubscribed` Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
+* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3&rbrace; se ha ajustado ligeramente con respecto a las actualizaciones del campo ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}. `unsubscribed` Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: en nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

@@ -86,7 +86,7 @@ Los análisis de contenido adicionales incluyen:
 
 * **[!UICONTROL Vistas]**: vistas de ese fragmento de contenido para el intervalo de tiempo seleccionado
 * **[!UICONTROL Conversiones directas]**: visitantes web que vieron el contenido y rellenaron un formulario en la misma visita.
-* **[!UICONTROL Tasa de conversión]****:** Una tasa de conversión porcentual calculada mediante conversiones directas divididas por clics
+* **[!UICONTROL Tasa de conversión]**&#x200B;**:** Una tasa de conversión porcentual calculada mediante conversiones directas divididas por clics
 
 **[!UICONTROL Tendencias]**
 

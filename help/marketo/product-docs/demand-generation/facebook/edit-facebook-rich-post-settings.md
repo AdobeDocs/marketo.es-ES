@@ -27,7 +27,7 @@ Las _aplicaciones sociales_ de Marketo permiten que tus clientes potenciales com
 
 Puede especificar los tipos de información de página que se usarán en las [!DNL Facebook] publicaciones enriquecidas generadas por los recursos compartidos desde la página de aterrizaje.
 
-1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social __[!DNL YouTube_]_.
+1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social _&#x200B;_[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

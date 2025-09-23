@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Pista de auditoría] Información general - Documentos de Marketo - Documentación del producto
+description: Pista de auditoría&rbrack; Información general - Documentos de Marketo - Documentación del producto
 title: Información general de seguimiento de auditoría
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

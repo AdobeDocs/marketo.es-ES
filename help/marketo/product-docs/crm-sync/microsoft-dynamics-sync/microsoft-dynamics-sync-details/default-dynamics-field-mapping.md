@@ -170,7 +170,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de [!UICONTROL]</td>
+      <td>Método de contacto preferido de </td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
@@ -380,7 +380,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de [!UICONTROL]</td>
+      <td>Método de contacto preferido de </td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>

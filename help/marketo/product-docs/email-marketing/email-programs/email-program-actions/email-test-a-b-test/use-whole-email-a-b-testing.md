@@ -45,11 +45,11 @@ Puede probar fácilmente sus correos electrónicos A/B. Una buena prueba es la p
 
 1. Seleccione su segundo correo electrónico.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Haga clic en **[!UICONTROL Agregar]** para aplicar el segundo correo electrónico. Arrastre el control deslizante para elegir el porcentaje de audiencia que desea que reciba la prueba A/B y haga clic en **[!UICONTROL Siguiente]**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
