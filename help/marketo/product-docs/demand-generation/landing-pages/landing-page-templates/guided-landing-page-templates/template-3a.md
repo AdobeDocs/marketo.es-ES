@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 3A {#template-3a}
 
-Haga clic con el botón derecho para [descargar la plantilla 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+Haga clic con el botón derecho para [descargar la plantilla 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=es)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Plantilla 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=es)

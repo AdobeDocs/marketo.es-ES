@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 20D {#template-20d}
 
-Haga clic con el botón derecho para [descargar plantilla 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Haga clic con el botón derecho para [descargar plantilla 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=es)
 
 ![](assets/template-20d.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+[Plantilla 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=es)

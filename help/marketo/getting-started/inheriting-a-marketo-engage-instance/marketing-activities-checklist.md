@@ -157,7 +157,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
   </tr>
   <tr>
    <td>Centro de suscripciones/preferencias</td>
-   <td><li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro de suscripciones/preferencias</a>? ¿Funciona como debería?</li></td>
+   <td><li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=es" target="_blank">Centro de suscripciones/preferencias</a>? ¿Funciona como debería?</li></td>
   </tr>
   <tr>
    <td>Momentos interesantes (si corresponde)</td>

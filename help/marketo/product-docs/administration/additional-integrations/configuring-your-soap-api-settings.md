@@ -39,4 +39,4 @@ ht-degree: 13%
 
 >[!MORELIKETHIS]
 >
->[Documentación de la API de SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)
+>[Documentación de la API de SOAP](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/soap/soap-api)

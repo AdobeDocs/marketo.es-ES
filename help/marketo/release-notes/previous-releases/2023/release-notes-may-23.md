@@ -74,7 +74,7 @@ Los seminarios web interactivos se implementarán gradualmente. Para solicitar a
   </tr>
   <tr>
    <td>Despliegue iniciado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Información general de seminarios web interactivos</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=es">Información general de seminarios web interactivos</a></td>
   </tr>
   </tbody>
 </table>

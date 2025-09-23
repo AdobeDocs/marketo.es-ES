@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 2A {#template-2a}
 
-Haga clic con el botón derecho para [descargar la plantilla 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+Haga clic con el botón derecho para [descargar la plantilla 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=es)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+[Plantilla 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=es)

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 6E {#template-6e}
 
-Haga clic con el botón derecho para [descargar la plantilla 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+Haga clic con el botón derecho para [descargar la plantilla 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html?lang=es)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+[Plantilla 6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html?lang=es)

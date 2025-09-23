@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 6C {#template-6c}
 
-Haga clic con el botón derecho para [descargar la plantilla 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Haga clic con el botón derecho para [descargar la plantilla 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=es)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+[Plantilla 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=es)

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 19B {#template-19b}
 
-Haga clic con el botón derecho para [descargar la plantilla 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Haga clic con el botón derecho para [descargar la plantilla 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=es)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[Plantilla 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=es)

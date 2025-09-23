@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 8B {#template-8b}
 
-Haga clic con el botón derecho para [descargar la plantilla 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+Haga clic con el botón derecho para [descargar la plantilla 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=es)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+[Plantilla 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=es)

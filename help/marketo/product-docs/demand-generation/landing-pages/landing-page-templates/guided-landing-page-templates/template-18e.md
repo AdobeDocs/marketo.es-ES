@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 18E {#template-18e}
 
-Haga clic con el botón derecho para [descargar la plantilla 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
+Haga clic con el botón derecho para [descargar la plantilla 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=es)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
+[Plantilla 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=es)

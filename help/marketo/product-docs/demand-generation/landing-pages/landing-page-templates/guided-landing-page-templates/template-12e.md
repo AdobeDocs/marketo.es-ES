@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 12E {#template-12e}
 
-Haga clic con el botón derecho para [descargar la plantilla 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Haga clic con el botón derecho para [descargar la plantilla 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=es)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Plantilla 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=es)

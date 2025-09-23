@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 7A {#template-7a}
 
-Haga clic con el botón derecho para [descargar la plantilla 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+Haga clic con el botón derecho para [descargar la plantilla 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=es)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
+[Plantilla 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=es)

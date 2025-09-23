@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Plantilla 9D {#template-9d}
 
-Haga clic con el botón derecho para [descargar la plantilla 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Haga clic con el botón derecho para [descargar la plantilla 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=es)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[Plantilla 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=es)

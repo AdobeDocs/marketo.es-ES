@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 12C {#template-12c}
 
-Haga clic con el botón derecho para [descargar la plantilla 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+Haga clic con el botón derecho para [descargar la plantilla 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=es)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+[Plantilla 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=es)

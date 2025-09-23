@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 20C {#template-20c}
 
-Haga clic con el botón derecho para [descargar la plantilla 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+Haga clic con el botón derecho para [descargar la plantilla 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=es)
 
 ![](assets/template-20c.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Plantilla 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=es)

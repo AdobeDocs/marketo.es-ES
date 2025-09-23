@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Plantilla 5D {#template-5d}
 
-Haga clic con el botón derecho para [descargar la plantilla 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Haga clic con el botón derecho para [descargar la plantilla 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=es)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+[Plantilla 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=es)
