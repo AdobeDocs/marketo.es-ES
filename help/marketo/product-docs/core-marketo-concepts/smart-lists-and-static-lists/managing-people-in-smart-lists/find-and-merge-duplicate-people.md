@@ -4,9 +4,9 @@ description: 'Buscar y combinar personas duplicadas: documentos de Marketo, docu
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage anula la duplicación automáticamente cuando nuevas personas ent
 
 >[!PREREQUISITES]
 >
->Buscar y combinar duplicados implicará el uso de [listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>La búsqueda y combinación de duplicados implica el uso de [listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo Engage anula la duplicación automáticamente cuando nuevas personas ent
    >
    >Puede tener dos o más duplicados para la misma persona: selecciónelos todos a la vez.
 
-1. Verá los valores entre los registros que _no_ coinciden. Seleccione el valor que desee conservar para cada campo. Haga clic en **[!UICONTROL Combinar]** cuando haya terminado. Si no desea ninguno de los dos valores, puede marcar **[!UICONTROL Personalizado]** e introducir un valor de su elección.
+1. Aparecen los valores entre registros que no coinciden. _Seleccione el valor que desea conservar para cada campo_. Haga clic en **[!UICONTROL Combinar]** cuando haya terminado. Si no desea ninguno de los dos valores, puede marcar **[!UICONTROL Personalizado]** e introducir un valor de su elección.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Al combinar personas manualmente, la primera persona seleccionada será la &quot;ganadora&quot;. Por lo tanto, en la pestaña Personas, si combina los ID de registro 198 y 199 y hace clic primero en 199, 199 será el ID de registro de las personas combinadas. Esto también se aplica si se combinan más de dos registros.
+   >* A diferencia de Salesforce, al combinar personas en Marketo, sus puntuaciones son _no_ sumadas. Seleccione los valores que desea conservar.
+   >
+   >* Al combinar personas manualmente, la primera persona seleccionada será la &quot;ganadora&quot;. Por lo tanto, en la pestaña Personas, si combina los ID de registro 198 y 199 y hace clic primero en 199, 199 será el ID de registro de las personas combinadas. Esto también se aplica si se combinan más de dos registros.
 
    >[!TIP]
    >
