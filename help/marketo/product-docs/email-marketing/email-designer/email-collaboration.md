@@ -5,9 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -16,43 +17,50 @@ ht-degree: 1%
 
 La colaboración y los comentarios de correo electrónico permiten a los equipos de marketing revisar, debatir y finalizar sin problemas los recursos de correo electrónico en Adobe Marketo Engage Email Designer. En lugar de compartir borradores con herramientas externas (como chat, hilos de correo electrónico, hojas de cálculo, etc.), puede realizar comentarios, sugerir ediciones y resolver comentarios en tiempo real. Esto optimiza el flujo de trabajo, reduce los errores y garantiza que las partes interesadas estén alineadas antes de que se envíe una campaña de correo electrónico.
 
+## Permisos {#permissions}
 
-## Habilitar Collaboration {#enable-collaboration}
+Los usuarios que tengan permisos de edición para un recurso de correo electrónico podrán comentar, etiquetar y ver comentarios. Los usuarios con permisos de solo lectura para enviar recursos por correo electrónico **no** podrán agregar o ver comentarios.
 
-1. Al crear o editar un correo electrónico en la Designer de correo electrónico, verá una opción &quot;Collaboration&quot; a la derecha.
+## Añadir comentarios {#add-comments}
 
-   CAPTURA DE PANTALLA
+1. Al crear o editar un correo electrónico en la Designer de correo electrónico, haga clic en una estructura, columna o contenido (texto, imagen, botón, etc.) sobre cualquier sección editable.
 
-1. Esto permite a los integrantes del equipo entrar en modo de revisión colaborativa.
+   ![](assets/email-collaboration-1.png)
 
-   CAPTURA DE PANTALLA
+1. Haga clic en el icono de comentario.
 
-## Agregar comentarios {#add-comments}
-
-1. Haga clic en una estructura, columna o contenido (texto, imagen, botón, etc.) sobre cualquier sección editable de la Designer de correo electrónico.
-
-   CAPTURA DE PANTALLA
-
-1. Haga clic en el icono de comentario ().
-
-   CAPTURA DE PANTALLA
+   ![](assets/email-collaboration-2.png)
 
 1. Escriba comentarios, preguntas o sugerencias.
 
-   CAPTURA DE PANTALLA
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Etiquete compañeros de equipo con @mentions (por ejemplo, &quot;@John, actualice el Boletín de invierno&quot;).
 
+## Ver todos los comentarios {#view-all-comments}
+
+1. Haga clic en el icono _Collaboration_ que se encuentra en el lado derecho.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Responder rápidamente a un comentario o marcarlo como me gusta.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Haga clic en el icono **...** para obtener más acciones.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Resolver comentarios {#resolve-comments}
 
 Cada hilo de comentarios incluye:
 
-* Responder: Continuar la conversación.
-* Resolver: marcar el comentario como dirigido.
-* Anular resolución: si son necesarias más ediciones.
-* Quitar: Desvincula el comentario del elemento de diseño (que se seleccionó cuando se creó el comentario)
+* Responder: Continuar la conversación
+* Resolver: marcar el comentario como resuelto
+* Anular resolución: si son necesarias más ediciones
+* Eliminar: elimina el comentario de su elemento de diseño
 * Eliminar: elimina permanentemente el comentario
 
 >[!NOTE]
@@ -69,11 +77,7 @@ Las notificaciones se activan para:
 * Menciones (@username)
 * Resoluciones
 
-## Permisos {#permissions}
-
-Los usuarios que tengan permisos de edición para un recurso de correo electrónico podrán comentar, etiquetar y ver comentarios. Los usuarios con permisos de solo lectura para enviar recursos por correo electrónico **no** podrán agregar o ver comentarios.
-
-## Mejores prácticas {#best-practices}
+## Prácticas recomendadas {#best-practices}
 
 * Use @mentions para asegurarse de que los comentarios llegan rápidamente al miembro del equipo correcto.
 
