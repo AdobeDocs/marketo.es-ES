@@ -4,7 +4,7 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -69,7 +69,7 @@ _Las fechas/características de la versión están sujetas a cambios_
   </tr>
   <tr>
    <td>Octubre de 2025</td>
-   <td>17 de octubre de 2025</td>
+   <td>sábado, 31 de octubre de 2025</td>
    <td>Según lo previsto</td>
   </tr>
  </tbody>
