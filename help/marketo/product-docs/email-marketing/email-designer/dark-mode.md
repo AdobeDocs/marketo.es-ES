@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1277'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ Para definir la configuración personalizada del modo oscuro, siga los pasos a c
 
 1. Cuando esté satisfecho con los cambios del modo oscuro, haga clic en **[!UICONTROL Simular contenido]**.
 
-   ![](assets/dark-mode-simulate.png)
+   CAPTURA DE PANTALLA
 
 1. Seleccione **[!UICONTROL Procesar correo electrónico]** y conéctese a su cuenta de Litmus. Puede ver el procesamiento final del modo oscuro para varios clientes de correo electrónico. Más información sobre [Procesamiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
