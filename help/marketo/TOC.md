@@ -1972,7 +1972,7 @@ ht-degree: 99%
          + [Notas de la versión: abril de 2025](release-notes/previous-releases/2025/release-notes-apr-25.md)
          + [Notas de la versión: mayo de 2025](release-notes/previous-releases/2025/release-notes-may-25.md)
          + [Notas de la versión: julio de 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
-         + [Notas de la versión: Agosto de 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
+         + [Notas de la versión: agosto de 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
       + 2024 {#2024}
          + [Notas de la versión: enero de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de la versión: marzo de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)
