@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 91%
@@ -53,8 +53,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Permisos del asistente de IA del diseñador de correo electrónico</strong>: los administradores de Marketo pueden proporcionar acceso a las funciones de GenAI a usuarios específicos.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">Configuración de permisos</a></td>
   </tr>
   <tr>
    <td> </td>
