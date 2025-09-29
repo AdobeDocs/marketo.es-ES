@@ -6,10 +6,10 @@ description: Aproveche la tecnología de IA generativa de Adobe para añadir tex
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 1%
+source-wordcount: '814'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,33 @@ El asistente de IA de Marketo Engage Email Designer le ayuda a crear correos ele
 
 >[!PREREQUISITES]
 >
->El Asistente de IA no está habilitado de forma predeterminada. En primer lugar, debe aceptar los términos principales de la generación de IA y los términos suplementarios para utilizar la funcionalidad de la generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>El Asistente de IA no está habilitado de forma predeterminada. Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
+## Configuración de permisos {#set-up-permissions}
+
+_Después de_ que sigue el requisito previo anterior, los administradores de Marketo deben aplicar el acceso a usuarios/funciones específicos antes de que los usuarios vean los botones GenAI.
+
+1. En Marketo Engage, haga clic en **Administrador** y seleccione **Usuarios y roles**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. En la ficha **Roles**, haga doble clic en el rol que desee.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. En _Access Design Studio_, active la casilla de verificación **Acceder al asistente de IA** y haga clic en **Guardar**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Haga clic en la pestaña Usuarios y seleccione el usuario al que desee proporcionar acceso.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Seleccione la función elegida en el paso 3 y el espacio de trabajo deseado (si corresponde). Haga clic en **Guardar**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Casos de uso {#use-cases}
 
 Hay tres casos de uso principales para el asistente de IA:
 
