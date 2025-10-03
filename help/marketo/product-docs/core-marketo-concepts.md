@@ -3,7 +3,7 @@ unique-page-id: 557074
 description: Conceptos principales de Marketo - Docs de Marketo - Documentación del producto
 title: Conceptos principales de Marketo
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 

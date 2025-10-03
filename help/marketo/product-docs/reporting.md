@@ -3,7 +3,7 @@ unique-page-id: 557082
 description: 'Sistema de informes: Documentos de Marketo, documentación del producto'
 title: Sistema de informes
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 

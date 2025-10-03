@@ -5,7 +5,7 @@ title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -69,8 +69,8 @@ _Las fechas/características de la versión están sujetas a cambios_
   </tr>
   <tr>
    <td>Octubre de 2025</td>
-   <td>sábado, 31 de octubre de 2025</td>
-   <td>Según lo previsto</td>
+   <td>31 de octubre de 2025</td>
+   <td>Según lo programado</td>
   </tr>
  </tbody>
 </table>
