@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 91%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Flujo de trabajo de Collaboration de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo dentro de un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) para que reciban un correo electrónico o una notificación rápida.</td>
+   <td><strong>Diseñador de correo electrónico: flujo de trabajo colaborativo de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo en un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) para que reciban un correo electrónico o una notificación rápida.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -62,7 +62,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Modo oscuro</strong>: Ahora puede utilizar el Modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones compatibles mostrar correos electrónicos con fondos más oscuros y colores más claros para texto, botones y otros elementos de la interfaz de usuario.</td>
+   <td><strong>Modo oscuro del diseñador de correo electrónico</strong>: ahora puede utilizar el modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones compatibles mostrar los correos electrónicos con fondos más oscuros y colores más claros para el texto, los botones y otros elementos de la interfaz de usuario.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
