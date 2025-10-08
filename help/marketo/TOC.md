@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
-workflow-type: ht
-source-wordcount: '9308'
-ht-degree: 100%
+source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+workflow-type: tm+mt
+source-wordcount: '9311'
+ht-degree: 99%
 
 ---
 
@@ -1029,11 +1029,12 @@ ht-degree: 100%
          + [Comparación de funciones](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Creación del correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Creación de plantilla de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Diseño de contenido accesible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
          + [Temáticas sobre la marca](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Aplicar marca](product-docs/email-marketing/email-designer/apply-brand.md)
          + [Modo oscuro](product-docs/email-marketing/email-designer/dark-mode.md)
-         + [Prueba de renderizado de correo electrónico con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
+         + [Prueba de representación de correo electrónico con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tókenes de personalización](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Trabajo con AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Edición de imágenes con Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
