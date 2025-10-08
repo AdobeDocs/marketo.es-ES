@@ -1,13 +1,13 @@
 ---
 title: Diseño de contenido accesible
-description: Aprenda a diseñar contenido accesible para sus correos electrónicos en Marketo Engage.
+description: Aprenda a diseñar contenido accesible para sus correos electrónicos en Adobe Marketo Engage.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: correo electrónico, diseño, accesibilidad
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1368'
 ht-degree: 0%
 
 ---
