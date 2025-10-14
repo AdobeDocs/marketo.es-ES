@@ -21,7 +21,7 @@ En la versión de enero de 2015 se incluyen las siguientes funciones. Compruebe 
 
 Ahora puede [crear vistas móviles para páginas de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) desde el editor de páginas de aterrizaje. Ofrezca su mensaje de forma eficaz independientemente del dispositivo y aumente la participación adaptando su contenido para facilitar el consumo sobre la marcha. Esta función se implementará gradualmente durante la semana siguiente al lanzamiento.
 
-[ - Vídeo de introducción a la página de aterrizaje -](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; - Vídeo de introducción a la página de aterrizaje -](https://youtu.be/aPQHlG2X6c0)
 
 **Nuevas llamadas a la API de REST**
 

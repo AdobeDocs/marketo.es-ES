@@ -57,7 +57,7 @@ Use un déclencheur para enviar un correo electrónico o una alerta, o cambie un
    >
    >Con varios déclencheur, una persona pasa al flujo si se activa CUALQUIERA de los déclencheur.
 
-   Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir listas inteligentes para campañas inteligentes | Lote ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir listas inteligentes para campañas inteligentes | Lote &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

@@ -24,7 +24,7 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    >[!CAUTION]
    >
-   >[Los recursos de ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}notificación push móvil **no son compatibles con los seminarios web interactivos.**
+   >[Los recursos de &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}notificación push móvil **no son compatibles con los seminarios web interactivos.**
 
 1. Asigne un nombre al programa. En Tipo de programa, seleccione **Evento**.
 

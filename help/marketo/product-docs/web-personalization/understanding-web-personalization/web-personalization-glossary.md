@@ -23,7 +23,7 @@ Información sobre el mundo y el idioma de [!DNL Marketo Web Personalization].
 | **ISP** | Proveedor de servicio de Internet |
 | **Visitante conocido** | Visitante web que ha completado un formulario y ha dejado sus detalles (dirección de correo electrónico) en su sitio web o ha hecho clic en un vínculo de un correo electrónico de Marketo. |
 | **Lista de cuentas** | Una lista de nombres clave de cuenta u organización. También conocida como lista de Account-Based Marketing (ABM). |
-| **Segmentos** | Colección de visitantes que cumplen los criterios especificados definidos en la página [ &quot;Establecer un segmento&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segmentos** | Colección de visitantes que cumplen los criterios especificados definidos en la página [&#x200B; &quot;Establecer un segmento&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Prueba dividida** | Un experimento de prueba con dos o más variantes para medir la diferencia en los resultados. El objetivo es identificar los cambios en las páginas web que aumentan o maximizan un resultado de interés. |
 | **Comodín** | Se usa un carácter comodín (&#42;) antes o después de una cadena para sustituir cualquier otro carácter o caracteres de una cadena. Consulte los ejemplos siguientes. |
 
