@@ -16,7 +16,7 @@ Los seminarios web interactivos de Marketo Sales Insight permiten que las activi
 
 >[!PREREQUISITES]
 >
->Esta característica solo es compatible con aquellos que hayan comprado el complemento [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html).
+>Esta característica solo es compatible con aquellos que hayan comprado el complemento [Marketo Sales Insight](https://business.adobe.com/es/products/marketo/sales-intelligence-engagement.html).
 
 Una vez que las actividades se registran en Marketo Engage (después de completar el seminario web en Adobe Connect), se sincronizan en tiempo real con Salesforce mediante el complemento MSI.
 

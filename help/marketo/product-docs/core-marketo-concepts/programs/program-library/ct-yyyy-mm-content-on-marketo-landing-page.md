@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

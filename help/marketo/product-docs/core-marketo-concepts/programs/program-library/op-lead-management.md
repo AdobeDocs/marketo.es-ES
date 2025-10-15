@@ -18,7 +18,7 @@ Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administra
 >
 >En Marketo Engage, los registros de la base de datos se denominan personas/persona. La administración de posibles clientes en este ejemplo hace referencia a los registros de su CRM.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html).
 
 ## Resumen del canal {#channel-summary}
 

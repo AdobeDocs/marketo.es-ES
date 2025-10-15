@@ -64,6 +64,6 @@ También puede [descargar las listas de comprobación](/help/marketo/getting-sta
 
 * Conéctese con otros usuarios de Marketo Engage y aprenda de ellos en la **[Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"}**.
 
-* Para obtener ayuda práctica para aprovechar al máximo tu instancia de Marketo Engage, ponte en contacto con **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Para obtener ayuda práctica para aprovechar al máximo tu instancia de Marketo Engage, ponte en contacto con **[Adobe Professional Services](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"}**.
 
 * Vea **[tutoriales seleccionados](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=es){target="_blank"}** sobre diferentes aspectos de Marketo Engage.

@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de datos operativos simples que utilizan un programa predeterminado para ayudarle a administrar la coherencia de datos para los registros de la base de datos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
