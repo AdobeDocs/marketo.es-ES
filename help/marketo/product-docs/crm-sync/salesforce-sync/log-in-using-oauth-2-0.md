@@ -3,9 +3,9 @@ description: 'Inicio de sesión con OAuth 2.0: documentación de Marketo: docume
 title: Iniciar sesión con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -56,11 +56,11 @@ Salesforce utiliza el protocolo OAuth para permitir a los usuarios de aplicacion
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. Una vez creada la nueva aplicación cliente externa, haga clic en la ficha **Configuración** y expanda la sección **Configuración de OAuth**.
+1. Una vez creada la nueva aplicación cliente externa, selecciona la pestaña **Configuración** y expande la sección **Configuración de OAuth**.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Haga clic en el botón **Clave de consumidor y Secreto del consumidor**, para que se abra una nueva pestaña. Copie y guarde ambos números (los necesitará más adelante para usarlos en Marketo Engage).
+1. Haga clic en el botón **Secreto y clave del consumidor**, y aparecerá una nueva pestaña. Copie y guarde ambos números (los necesitará más adelante para usarlos en Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
