@@ -1,20 +1,17 @@
 ---
-description: 'Notas de la versión actuales, documentos de Marketo: documentación del producto'
-title: Notas de la versión actual
-hide: true
-hidefromtoc: true
+description: 'Notas de la versión, septiembre de 2025: Documentos de Marketo: documentación del producto'
+title: Notas de la versión, septiembre de 2025
 feature: Release Information
-exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 66%
+source-wordcount: '706'
+ht-degree: 98%
 
 ---
 
-# Notas de la versión: octubre de 2025 {#release-notes-oct-25}
+# Notas de la versión: septiembre de 2025 {#release-notes-sep-25}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -24,7 +21,7 @@ Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aqu�
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **sábado, 31 de octubre de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características están dentro del ciclo de lanzamiento estándar y comenzaron a lanzarse el **19 de septiembre de 2025**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,7 +31,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Importador de plantillas</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Designer de correo electrónico en Design Studio.</td>
+   <td><strong>Retención de actividades de seminarios web bajo demanda</strong>: los usuarios de seminarios web interactivos ahora tienen disponibles los datos del tablero de seminarios web bajo demanda durante más de 30 días (anteriormente solo era hasta 30 días desde el día del seminario web).</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -44,40 +41,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Contenido condicional</strong>: característica de paridad para el nuevo Designer de correo electrónico, que le permite lograr una personalización de correo electrónico más allá de los tokens.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Prueba A/B</strong>: característica de paridad para el nuevo Email Designer, que le permite realizar pruebas A/B para ver qué tipos de contenido reciben la mejor respuesta.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Correo electrónico de Designer - Temas de marca</strong>: Ahora puede definir temas de marca dentro de Marketo Engage. Las configuraciones de estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la coherencia de la marca.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>Email Designer - Image to HTML Converter</strong>: Ahora puede cargar un archivo de imagen PNG/JPEG compatible de un correo electrónico y se convertirá automáticamente a HTML para su uso en el nuevo Designer de correo electrónico.</td>
+   <td><strong>Diseñador de correo electrónico: flujo de trabajo colaborativo de contenido</strong>: ahora puede realizar comentarios y colaborar con otros usuarios de Marketo en un recurso de correo electrónico. Etiquete a los integrantes del equipo (usuarios de Marketo que tengan los permisos de recursos adecuados) para que reciban un correo electrónico o una notificación rápida.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -87,7 +51,27 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Clonar acción de correo electrónico</strong>: Ahora puede clonar un correo electrónico en otra carpeta de programa en Actividades de marketing y reutilizar rápidamente los correos electrónicos existentes.</td>
+   <td><strong>Permisos del asistente de IA del diseñador de correo electrónico</strong>: los administradores de Marketo pueden proporcionar acceso a las funciones de GenAI a usuarios específicos.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Configurar permisos</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Modo oscuro del diseñador de correo electrónico</strong>: ahora puede utilizar el modo oscuro, que permite a los clientes de correo electrónico y a las aplicaciones compatibles mostrar los correos electrónicos con fondos más oscuros y colores más claros para el texto, los botones y otros elementos de la interfaz de usuario.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Modo oscuro</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Correcciones de redireccionamiento del diseñador de correo electrónico</strong>: algunos usuarios experimentaban problemas de redireccionamiento con las direcciones URL de los mensajes de correo electrónico creados con el nuevo Diseñador (por ejemplo, al pegar directamente las direcciones URL o al marcar como favoritos los recursos de correo electrónico, no siempre funcionaban). Este problema se ha resuelto. Además, los vínculos a los recursos de correo electrónico de <b>Plantillas de correo electrónico</b> &gt; <b>Detalles</b> &gt; <b>Utilizado por</b> se redirigen al recurso de correo electrónico correspondiente.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -107,7 +91,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
    * _Inicio de sesión único (SSO) obsoleto_: la compatibilidad con [Marketo Identity SSO](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} finalizó el 30 de julio de 2025. La función permanecerá operativa hasta que se complete la transición a Adobe Identity. El inicio de sesión único para Adobe ID en Adobe Admin Console debe configurarse por separado. Para ver los pasos de configuración, consulte [Configurar la identidad y el inicio de sesión único](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Obsolescencia de la función _Reenviar a un amigo_**: el 29 de septiembre de 2025, la función _Reenviar a un amigo_ de los correos electrónicos de Marketo Engage 2.0 (el editor de correo electrónico heredado) quedó completamente obsoleta para todas las suscripciones. Esto afectaba a los vínculos &quot;Reenviar a un amigo&quot; y &quot;Reenviar a un amigo&quot; en correos electrónicos que ya se han enviado o se ha programado que se envíen con el token. [Más información](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **Desuso de la función _Reenviar a un amigo_**: el 29 de septiembre de 2025, la función _Reenviar a un amigo_ de los correos electrónicos de Marketo Engage 2.0 (el editor de correo electrónico heredado) quedará en desuso para todas las suscripciones. Esto afecta al token “Reenviar a un amigo” y a los vínculos “Reenviar a un amigo” en los correos electrónicos que ya se han enviado o que se enviarán usando el token. [Más información](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del 31 de octubre de 2025. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
