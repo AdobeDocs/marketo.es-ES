@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9318'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1173,7 +1173,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1386,7 +1386,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1975,7 +1975,7 @@ ht-degree: 99%
          + [Notas de la versión: mayo de 2025](release-notes/previous-releases/2025/release-notes-may-25.md)
          + [Notas de la versión: julio de 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [Notas de la versión: agosto de 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
-         + [Notas de la versión: 25 de septiembre](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [Notas de la versión: septiembre de 2025](release-notes/previous-releases/2025/release-notes-sep-25.md)
       + 2024 {#2024}
          + [Notas de la versión: enero de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de la versión: marzo de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)
