@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Importador de plantillas</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Diseñador de correo electrónico en Design Studio.</td>
+   <td><strong>Designer de correo electrónico - Importador de plantillas</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Designer de correo electrónico en Design Studio.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
