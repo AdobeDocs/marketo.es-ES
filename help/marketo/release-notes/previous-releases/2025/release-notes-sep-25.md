@@ -2,7 +2,7 @@
 description: 'Notas de la versión, septiembre de 2025: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2025
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 98%
@@ -13,7 +13,7 @@ ht-degree: 98%
 
 A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -32,8 +32,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Retención de actividades de seminarios web bajo demanda</strong>: los usuarios de seminarios web interactivos ahora tienen disponibles los datos del tablero de seminarios web bajo demanda durante más de 30 días (anteriormente solo era hasta 30 días desde el día del seminario web).</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronización manual</a></td>
   </tr>
   <tr>
    <td> </td>
