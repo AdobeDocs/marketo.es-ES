@@ -5,18 +5,19 @@ title: Importación de plantilla
 description: Obtenga información sobre cómo importar las plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '723'
+ht-degree: 1%
 
 ---
 
 # Importación de plantilla {#template-import}
 
-Importe sin problemas sus plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico, preservando sus diseños y acelerando la creación de plantillas con estructuras familiares y reutilizables.
+Importe sin problemas sus plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico, preservando sus diseños y acelerando la creación de plantillas con estructuras familiares y reutilizables. Revise las [prácticas recomendadas](#best-practices) y obtenga información acerca de las [limitaciones y remedios](#limitations-and-remedies).
 
 1. Vaya a **Design Studio**.
 
@@ -77,6 +78,8 @@ Es aconsejable crear fragmentos de secciones repetibles para usarlos más adelan
 * Después de la importación, puede guardar secciones reutilizables como fragmentos y aprobarlas para que las utilicen los autores de correo electrónico. Aplique temas de marca para mantener la coherencia y el cumplimiento.
 
 * Puede seguir utilizando scripts de Velocity y considerar la posibilidad de volver a implementar fragmentos más antiguos mediante una combinación de fragmentos y contenido condicional para mejorar la flexibilidad y el control.
+
+## Limitaciones y remedios {#limitations-and-remedies}
 
 <table><thead>
   <tr>
