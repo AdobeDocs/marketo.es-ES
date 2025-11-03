@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 70%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 **Estado**:
 
-* Según lo programado: planeamos lanzar las funciones y mejoras en la fecha indicada
-* En curso: estamos en el proceso de desplegar las funciones de la versión
-* Enviado: la versión se ha completado
+* **Según lo programado**: Tenemos planeado lanzar las funciones y mejoras en la fecha indicada
+* **En curso**: estamos desplegando las características de la versión
+* **Enviado**: la versión se ha completado
 
 _Las fechas/características de la versión están sujetas a cambios_
 
@@ -33,20 +33,6 @@ _Las fechas/características de la versión están sujetas a cambios_
    <th width="250px">Estado</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Enero de 2025</a></td>
-   <td>17 de enero de 2025</td>
-   <td>Enviado</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Marzo de 2025</a></td>
-   <td>28 de marzo de 2025</td>
-   <td>Enviado</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Abril de 2025</a></td>
-   <td>Abril de 2025</td>
-   <td>Enviado</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mayo de 2025</a></td>
    <td>23 de mayo de 2025</td>
@@ -71,6 +57,10 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td><a href="/help/marketo/release-notes/current.md">Octubre de 2025</a></td>
    <td>31 de octubre de 2025</td>
    <td>En curso</td>
+  </tr>
+  <td>Enero del 26</td>
+   <td>sábado, 30 de enero de 2026</td>
+   <td>Dentro del horario</td>
   </tr>
  </tbody>
 </table>
