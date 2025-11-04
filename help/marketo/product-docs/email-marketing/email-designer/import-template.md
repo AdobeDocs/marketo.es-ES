@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
 
 # Importación de plantilla {#template-import}
 
-Importe sin problemas sus plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico, preservando sus diseños y acelerando la creación de plantillas con estructuras familiares y reutilizables. Revise las [prácticas recomendadas](#best-practices) y obtenga información acerca de las [limitaciones y remedios](#limitations-and-remedies).
+Importe fácilmente sus plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico, preservando sus diseños y acelerando la creación de plantillas con estructuras familiares y reutilizables. Revise las [prácticas recomendadas](#best-practices) y obtenga información acerca de las [limitaciones y remedios](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>Las plantillas de correo electrónico clásicas se desarrollaron con HTML de estilo libre, por lo que es posible que este importador no siempre importe todos los componentes a la perfección. Revise las plantillas importadas para asegurarse de que todas las secciones se puedan editar y asignar correctamente. Si un área no se puede seleccionar, vuelva a crearla para obtener los mejores resultados.
+
+## Importar una plantilla {#import-a-template}
 
 1. Vaya a **Design Studio**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-1.png)
 
 1. Haga clic en **Plantillas de correo electrónico** y seleccione **Plantillas de correo electrónico (nuevas)**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-2.png)
 
 1. Haga clic en **Crear plantilla**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-3.png)
 
 1. Escriba un _Nombre_ y (opcional) _Descripción_.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-4.png)
 
-1. Haga clic en **Plantillas Marketo** y elija las Plantillas existentes creadas en el editor de correo electrónico clásico.
+1. Haga clic en la pestaña **Plantillas de Marketo** y elija una de las plantillas existentes creadas en el editor de correo electrónico clásico.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Solo se pueden importar las plantillas aprobadas y las que se han compartido con el espacio de trabajo actual.
 
-1. Seleccione la plantilla que desee.
+1. Haga clic en **Usar esta plantilla**.
 
-   CAPTURA DE PANTALLA
-
-1. Haga clic en Use this template.
-
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-6.png)
 
 1. La plantilla importada se abre en el Designer de correo electrónico.
 
@@ -61,19 +63,19 @@ Es aconsejable crear fragmentos de secciones repetibles para usarlos más adelan
 
 1. Haga clic en el botón **...Más** de la parte superior y seleccione **Guardar como fragmento**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-7.png)
 
 1. Seleccione un componente o una estructura y haga clic en **Crear**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-8.png)
 
 1. Escriba un nombre (y una descripción opcional) y haga clic en **Guardar**.
 
-   CAPTURA DE PANTALLA
+   ![](assets/import-template-9.png)
 
 ## Prácticas recomendadas {#best-practices}
 
-* Dado que Freestyle HTML puede variar significativamente, es posible que el importador no siempre interprete todos los componentes a la perfección. Revise las plantillas importadas para asegurarse de que todas las secciones se puedan editar y asignar correctamente. Si un artículo no se puede seleccionar, simplemente vuelva a crear esa sección para obtener los mejores resultados.
+* Las plantillas de correo electrónico clásicas se desarrollaron con HTML de estilo libre, por lo que es posible que este importador no siempre importe todos los componentes a la perfección. Revise las plantillas importadas para asegurarse de que todas las secciones se puedan editar y asignar correctamente. Si un área no se puede seleccionar, vuelva a crearla para obtener los mejores resultados.
 
 * Después de la importación, puede guardar secciones reutilizables como fragmentos y aprobarlas para que las utilicen los autores de correo electrónico. Aplique temas de marca para mantener la coherencia y el cumplimiento.
 
@@ -113,7 +115,7 @@ Es aconsejable crear fragmentos de secciones repetibles para usarlos más adelan
   <tr>
     <td>Los puntos de viñeta no se admiten de forma nativa.</td>
     <td>Email Designer no ofrece puntos de viñeta en este momento.</td>
-    <td>Considere volver a implementar las viñetas mediante técnicas alternativas.</td>
+    <td>Considere la posibilidad de volver a crear viñetas con técnicas alternativas.</td>
   </tr>
   <tr>
     <td>La alineación vertical se distorsiona cuando el contenido del contenedor no respeta el valor del atributo valign.</td>
@@ -143,6 +145,6 @@ Es aconsejable crear fragmentos de secciones repetibles para usarlos más adelan
   <tr>
     <td>Los fragmentos de la plantilla antigua no funcionarán en el Designer de correo electrónico.</td>
     <td>El Designer de correo electrónico no admite fragmentos.</td>
-    <td>Vuelva a implementar los fragmentos como fragmentos asociados con contenido condicional.</td>
+    <td>Vuelva a crear los fragmentos como fragmentos asociados con contenido condicional.</td>
   </tr>
 </tbody></table>
