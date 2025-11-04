@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 14%
+source-wordcount: '888'
+ht-degree: 15%
 
 ---
 
@@ -89,7 +89,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Configuración del email</td>
+    <td>Configuración del correo electrónico</td>
     <td>Posibilidad de configurar opciones de correo electrónico como DKIM, configuración de correo no deseado, etc.</td>
     <td>Disponible</td>
     <td>Disponible</td>
@@ -262,21 +262,21 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Próximamente</td>
   </tr>
   <tr>
-    <td>Flujos de trabajo de aprobación de contenido</td>
-    <td>Capacidad para introducir flujos de trabajo de aprobación para correos electrónicos en Marketo Engage.</td>
-    <td>No disponible</td>
-    <td>Planificado para el cuarto trimestre de 2025</td>
-  </tr>
-  <tr>
     <td>Kit de marca</td>
     <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
     <td>No disponible</td>
-    <td>Planificado para el primer trimestre de 2026</td>
+    <td>Próximamente</td>
   </tr>
   <tr>
     <td>Experimentación (prueba A/B)</td>
     <td>Capacidad para probar correos electrónicos antes de enviarlos a su audiencia.</td>
     <td>Disponible</td>
+    <td>Próximamente</td>
+  </tr>
+  <tr>
+    <td>Flujos de trabajo de aprobación de contenido</td>
+    <td>Capacidad para introducir flujos de trabajo de aprobación para correos electrónicos en Marketo Engage.</td>
+    <td>No disponible</td>
     <td>Por determinar</td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Por determinar</td>
   </tr>
   <tr>
-    <td>Predictive Content</td>
+    <td>Contenido predictivo</td>
     <td>Capacidad para predecir contenido desde una base de conocimiento dentro del correo electrónico en función de la audiencia de destino.</td>
     <td>Disponible</td>
     <td>No disponible</td>
