@@ -4,9 +4,9 @@ description: Programar la prueba A/B - Documentos de Marketo - Documentación de
 title: Programar prueba A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '208'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
 1. Seleccione la fecha **[!UICONTROL Enviar prueba]**.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. Seleccione la hora **[!UICONTROL Enviar prueba]**.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >Enviar prueba y Enviar ganador deben estar separados por lo menos 4 horas. Sin embargo, para envíos más grandes, es posible que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
 
-1. Haz lo mismo con **[!UICONTROL Enviar ganador]**. Escriba los destinatarios de la notificación (opcional) y haga clic en **[!UICONTROL Siguiente]**.
+1. Repita los pasos 1 y 2 para _Enviar ganador_. Escriba los destinatarios de la notificación (opcional) y haga clic en **[!UICONTROL Siguiente]**.
 
    >[!NOTE]
    >
    >Solo el grupo de prueba recibirá las variantes de prueba.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Si decide declarar un ganador manualmente, definirá la fecha y hora del **envío del informe** en lugar del **envío por correo de fin**.
 
-   ¡Súper! Terminaste, revisa el resumen y haz clic en **[!UICONTROL Cerrar]**.
+1. Revise el resumen y haga clic en **[!UICONTROL Cerrar]**.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    Observará que el mosaico **[!UICONTROL Programar]** se ha actualizado.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >
