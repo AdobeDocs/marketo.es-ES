@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1278'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Al aprovechar la tecnología de IA generativa, el conversor de imagen a HTML ana
 >[!PREREQUISITES]
 >
 >* Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
->* Debe tener _nombre de acceso_, así como _permisos de plantillas de correo electrónico de acceso_ habilitados [en su rol de Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir una imagen {#convert-an-image}
 
@@ -46,14 +46,6 @@ Para convertir una imagen en una plantilla de correo electrónico de HTML totalm
 1. Escriba un _nombre de plantilla_ y una descripción opcional. Además, también puede elegir el estilo de su marca. Cargue o arrastre y suelte la imagen deseada.
 
    ![](assets/image-to-html-3.png)
-
-   EN PROFUNDIDAD, ¿PUEDO USAR DELETE PARA ESTA ETIQUETA DE PRECAUCIÓN?
-
-   >[!CAUTION]
-   >
-   >Al cargar una imagen para su conversión, **todo el contenido que se agrega actualmente al correo electrónico se eliminará y se reemplazará** con la plantilla generada. Si tiene contenido existente en el correo electrónico, asegúrese de guardarlo antes de continuar con la conversión de la imagen.
-
-   ¿EN QUÉ PROFUNDIDAD PUEDO UTILIZAR DELETE PARA ESTA ETIQUETA DE PRECAUCIÓN^^^
 
 1. Desplácese hacia abajo y seleccione la casilla de verificación _El archivo de carga no contiene..._. Haga clic en **Convertir**.
 
