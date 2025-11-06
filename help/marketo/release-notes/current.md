@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Importador de plantillas (Beta)</strong>: importe plantillas de correo electrónico del editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Designer de correo electrónico en Design Studio.</td>
+   <td><strong>Diseñador de correo electrónico, importador de plantillas (beta)</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Diseñador de correo electrónico en Design Studio.</td>
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importación de plantilla</a></td>
   </tr>
@@ -95,7 +95,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Anuncios {#announcements}
 
-* **Actualización de la integración de Salesforce CRM**: Se implementará una nueva versión de la integración de CRM nativa en los entornos limitados activos que tengan el conector nativo habilitado durante siete días, a partir del 13 de noviembre de 2025. Obtener detalles completos en [esta publicación de Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Actualización de la integración de Salesforce CRM**: se implementará una nueva versión de la integración de CRM nativa en las zonas protegidas activas que tengan habilitado el conector nativo durante siete días, a partir del 13 de noviembre de 2025. Obtenga detalles completos en [esta publicación de Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
 * **Doble barra diagonal de la API de REST en desuso**: el 16 de septiembre de 2025, Adobe realizó la transición a una infraestructura de alojamiento más moderna para las direcciones URL de la API de REST que aprovecha lo último en tecnología, añadiendo seguridad y escalabilidad. Si su suscripción ha estado usando las API con una doble barra diagonal (//) en la URL, lea [esta publicación de Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para ver los próximos pasos.
 
