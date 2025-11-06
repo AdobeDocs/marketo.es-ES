@@ -4,9 +4,9 @@ description: 'Creación de una segmentación: documentos de Marketo, documentaci
 title: Crear una segmentación
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 La segmentación le permite agrupar personas en perfiles distintos para la creación de informes y el contenido dinámico. A continuación se muestra cómo crearlos.
 
-1. Ir a **[!UICONTROL Base de datos]**.
+1. Vaya a su **[!UICONTROL base de datos]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Haga clic en **[!UICONTROL Nueva]** y luego en **[!UICONTROL Nueva segmentación]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ La segmentación le permite agrupar personas en perfiles distintos para la creac
 
 1. Escriba un **[!UICONTROL Nombre]**, haga clic en **[!UICONTROL Agregar segmento]** y asígnele un nombre.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ La segmentación le permite agrupar personas en perfiles distintos para la creac
 
 1. Añada tantos segmentos como desee (hasta 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ La segmentación le permite agrupar personas en perfiles distintos para la creac
 
 1. Arrastre y suelte los segmentos para cambiar su orden. Una vez finalizado, haz clic en **[!UICONTROL Crear]**.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >

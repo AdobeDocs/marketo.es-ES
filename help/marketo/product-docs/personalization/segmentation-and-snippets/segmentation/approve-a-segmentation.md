@@ -4,9 +4,9 @@ description: 'Aprobación de una segmentación: documentos de Marketo, documenta
 title: Aprobar una segmentación
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ Es necesario aprobar una segmentación para poder utilizarla.
 
 1. Ir a **[!UICONTROL Base de datos]**.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. En la segmentación, haga clic en **[!UICONTROL Acciones de segmentación]** y, a continuación, en **[!UICONTROL Aprobar]**.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >El estado cambia a [!UICONTROL Aprobando] con una rueda giratoria (![](assets/image2014-9-15-15-3a31-3a43.png)) mientras la aprobación está en proceso.
+   >El estado cambia a _Aprobando_ mientras la aprobación está en proceso.
 
    >[!CAUTION]
    >
-   >La aprobación puede tardar entre unos minutos y más de un día en completarse, según el tamaño de la base de datos.
+   >La aprobación puede tardar entre unos minutos y un día o dos en completarse, según el tamaño de la base de datos.
 
-   Una vez aprobado, el [!UICONTROL estado] cambia de [!UICONTROL Aprobando] a [!UICONTROL Aprobado].
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. Una vez aprobado, el [!UICONTROL estado] cambia de [!UICONTROL Aprobando] a [!UICONTROL Aprobado].
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ Es necesario aprobar una segmentación para poder utilizarla.
 
 1. La ficha **[!UICONTROL Personas]** del **[!UICONTROL Segmento]** muestra ahora la lista final de personas para el segmento.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >
