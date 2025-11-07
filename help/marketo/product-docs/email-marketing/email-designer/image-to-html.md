@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1287'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Al aprovechar la tecnología de IA generativa, el conversor de imagen a HTML ana
 >[!PREREQUISITES]
 >
 >* Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
->* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir una imagen {#convert-an-image}
 
@@ -53,7 +53,7 @@ Para convertir una imagen en una plantilla de correo electrónico de HTML totalm
    >
    >El proceso de generación puede tardar hasta cinco minutos en función de la complejidad y el tamaño del diseño de la imagen. El procesamiento de IA se produce en segundo plano, por lo que puede salir de esta pantalla y trabajar en otras tareas mientras la conversión está en curso. Es posible que tenga que actualizar la pantalla de la biblioteca _Plantilla de correo electrónico_ para ver el cambio de estado.
 
-1. Una vez completada la conversión, la plantilla se guardará automáticamente como borrador. Selecciónelo..
+1. Una vez completada la conversión, la plantilla se guardará automáticamente como borrador. Haga clic en su nombre para verlo o editarlo.
 
    ![](assets/image-to-html-5.png)
 
