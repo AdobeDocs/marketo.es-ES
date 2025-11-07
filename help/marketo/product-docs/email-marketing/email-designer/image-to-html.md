@@ -23,7 +23,7 @@ Al aprovechar la tecnología de IA generativa, el conversor de imagen a HTML ana
 >[!PREREQUISITES]
 >
 >* Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
->* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir una imagen {#convert-an-image}
 
