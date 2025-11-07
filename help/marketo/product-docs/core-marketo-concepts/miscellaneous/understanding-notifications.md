@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 'Explicación de las notificaciones: documentos de Marketo, documentación del producto'
 title: Explicación de las notificaciones
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 
 >[!NOTE]
 >
->El cuadro **[!UICONTROL Enviar a]** solo sirve para que usted ingrese una dirección de correo electrónico; no mostrará una lista de suscriptores existentes.
+>El cuadro _[!UICONTROL Enviar a]_ solo sirve para que usted ingrese una dirección de correo electrónico; no mostrará una lista de suscriptores existentes.
 
 En algunos casos, una notificación proporciona el vínculo &quot;Ver la lista completa&quot; para descargar un archivo de valores separados por comas (CSV), por ejemplo, el archivo de errores de sincronización de Microsoft Dynamics. Marketo Engage conserva estos archivos CSV durante 30 días. Si intenta descargar el archivo después de 30 días, se producirá un error 404.
 
