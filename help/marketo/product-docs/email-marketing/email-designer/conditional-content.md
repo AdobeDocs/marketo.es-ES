@@ -5,10 +5,10 @@ title: Contenido condicional
 description: Utilice contenido condicional en los correos electrónicos para mostrar de forma dinámica el contenido en función del destinatario.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '304'
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ El contenido condicional permite controlar de forma dinámica qué contenido se 
 
    ![](assets/conditional-content-2.png)
 
-1. La caja se vuelve naranja. A la izquierda, haga clic en el icono _Seleccionar condición_ para definir la variante.
+1. El cuadro resaltado se vuelve naranja. A la izquierda, haga clic en el icono _Seleccionar condición_ (![](assets/icon-select-condition.png)) para definir la variante.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ El contenido condicional permite controlar de forma dinámica qué contenido se 
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. Aparecerá la nueva imagen. Es aconsejable cambiar el nombre de la variante para que sea más fácil de identificar.
+1. Aparecerá la nueva imagen. Es aconsejable cambiar el nombre de la variante para que sea más fácil de identificar. Simplemente haga clic en los puntos suspensivos y seleccione **Rename**.
+
+   >[!NOTE]
+   >
+   >Al hacer clic en los puntos suspensivos, también puede ver la condición definida de la variante, así como duplicarla. Si tiene más de una variante, aparecerá disponible una opción de eliminación. Si solo tiene una variante, la manera de eliminarla es simplemente volver a hacer clic en el icono _Habilitar contenido condicional_ (ahora indicará _Deshabilitar contenido condicional_ cuando pase el ratón sobre él).
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 

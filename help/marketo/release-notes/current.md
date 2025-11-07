@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 99%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -47,6 +47,25 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenido condicional</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>Diseñador de correo electrónico: conversor de imagen a HTML</strong>: cargue un archivo de imagen PNG/JPEG compatible de un mensaje de correo electrónico y se convertirá automáticamente a HTML para utilizarlo en el nuevo Diseñador de correo electrónico.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversión de imágenes en plantillas de HTML</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Diseñador de correo electrónico: clonar acción de correo electrónico</strong>: ahora puede clonar un correo electrónico en otra carpeta de programas en Actividades de marketing y reutilizar rápidamente los correos electrónicos existentes.</td>
+   <td>Enviado</td>
+   <td>N/A</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><i>Próximamente</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><strong>Diseñador de correo electrónico: temáticas de marca</strong>: ahora puede definir temáticas de marca dentro de Marketo Engage. Las configuraciones del estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la uniformidad de la marca.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>Diseñador de correo electrónico: conversor de imagen a HTML</strong>: cargue un archivo de imagen PNG/JPEG compatible de un mensaje de correo electrónico y se convertirá automáticamente a HTML para utilizarlo en el nuevo Diseñador de correo electrónico.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Diseñador de correo electrónico: clonar acción de correo electrónico</strong>: ahora puede clonar un correo electrónico en otra carpeta de programas en Actividades de marketing y reutilizar rápidamente los correos electrónicos existentes.</td>
-   <td>Enviado</td>
-   <td>N/A</td>
   </tr>
   </tbody>
 </table>

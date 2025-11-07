@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 15%
+source-wordcount: '883'
+ht-degree: 14%
 
 ---
 
@@ -226,12 +226,6 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Arrastrar y soltar fragmento</td>
   </tr>
   <tr>
-    <td>Temas globales</td>
-    <td>Capacidad para aplicar temáticas aprobadas en toda la organización para garantizar la coherencia en elementos como estilo, color, tamaño de fuente, etc.</td>
-    <td>No disponible</td>
-    <td>Próximamente</td>
-  </tr>
-  <tr>
     <td>Contenido dinámico/Contenido condicional</td>
     <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">crear variantes</a> en correos electrónicos basados en la audiencia de destino.</td>
     <td>Disponible</td>
@@ -239,9 +233,9 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Imagen a HTML</td>
-    <td>Capacidad para convertir una imagen a HTML y luego utilizarla para crear correos electrónicos.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">convertir una imagen a HTML</a> y luego usarla para crear correos electrónicos.</td>
     <td>No disponible</td>
-    <td>Próximamente</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
@@ -264,6 +258,12 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   <tr>
     <td>Kit de marca</td>
     <td>Capacidad para mejorar los correos electrónicos que reflejan las directrices de marca.</td>
+    <td>No disponible</td>
+    <td>Próximamente</td>
+  </tr>
+  <tr>
+    <td>Temas globales</td>
+    <td>Capacidad para aplicar temáticas aprobadas en toda la organización para garantizar la coherencia en elementos como estilo, color, tamaño de fuente, etc.</td>
     <td>No disponible</td>
     <td>Próximamente</td>
   </tr>
