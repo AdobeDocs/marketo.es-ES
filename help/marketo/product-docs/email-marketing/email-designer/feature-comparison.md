@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 15%
 
 ---
@@ -233,9 +233,9 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Contenido dinámico/Contenido condicional</td>
-    <td>Capacidad para crear variantes de correos electrónicos en función de la audiencia de destino.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">crear variantes</a> en correos electrónicos basados en la audiencia de destino.</td>
     <td>Disponible</td>
-    <td>Próximamente</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Imagen a HTML</td>
