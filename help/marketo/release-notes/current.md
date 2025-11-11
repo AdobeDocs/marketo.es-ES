@@ -14,7 +14,7 @@ ht-degree: 99%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +34,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico, importador de plantillas (beta)</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Diseñador de correo electrónico en Design Studio.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importación de plantilla</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importación de plantillas</a></td>
   </tr>
   <tr>
    <td> </td>
