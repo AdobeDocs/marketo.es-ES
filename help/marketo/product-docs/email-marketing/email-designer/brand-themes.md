@@ -8,14 +8,14 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1226'
 ht-degree: 0%
 
 ---
 
-# Temas de marca {#brand-themes}
+# Temáticas de marca {#brand-themes}
 
 Con los temas de marca, cree fácilmente contenido reutilizable que se ajuste a una marca y un lenguaje de diseño específicos añadiendo estilo personalizado a las plantillas de correo electrónico.
 
@@ -25,132 +25,134 @@ Esta función permite a los especialistas en marketing aprovechar correos electr
 
 * Al crear un correo electrónico desde cero, puede elegir empezar a crear el contenido con un tema para aplicar rápidamente un estilo específico que se ajuste a su marca y diseño. Si elige el modo clásico, no podrá aplicar ninguna temática a menos que restablezca el correo electrónico.
 
-* Los fragmentos no son compatibles entre los modos Temática y Clásica. Para poder utilizar un fragmento en un contenido donde se aplique una temática, este fragmento debe crearse en el modo Temática.
+* Los fragmentos no son compatibles entre los modos Temática y Clásica. Para poder utilizar un fragmento en un contenido donde se aplique una temática, debe crearse en el modo Temática.
 
-* La actualización de las temáticas no se aplicará en cascada automáticamente a todos los recursos que las utilicen. Los usuarios deben editar objetos individuales para actualizar la temática.
+* La actualización de una temática no se aplicará en cascada automáticamente a todos los recursos que la utilicen. Es necesario editar objetos individuales para actualizar la temática.
 
-* Cuando se eliminan temáticas, no afectará a los recursos que las utilicen.
+* Cuando se eliminan temáticas, no afecta a los recursos que las utilizan.
 
-## Crear temas de marca
+## Crear un tema de marca {#create-a-brand-theme}
 
-La creación de temas de marca está disponible en el panel de selección de plantillas del editor. Puede acceder a este panel a medida que crea una nueva plantilla o dentro de Cambiar diseño desde el editor.
+1. Siga los pasos para [crear una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-CAPTURA DE PANTALLA
+1. En la pantalla _Diseña tu plantilla_, selecciona **Crear o editar temas**.
 
-Haga clic en Cambiar el diseño.
+   ![](assets/brand-themes-1.png)
 
-CAPTURA DE PANTALLA
+1. Seleccione el tema predeterminado como base para crear desde cero y haga clic en **Crear**.
 
-Haga clic en Crear o editar temáticas
+   ![](assets/brand-themes-2.png)
 
-CAPTURA DE PANTALLA
+1. El lienzo se abre para que pueda editar diferentes partes de la temática.
 
-Seleccione la temática predeterminada como base para crear desde cero y haga clic en Crear. La temática tendrá elementos de todo tipo de texto, botones y contenedores para que pueda ver los cambios a medida que vaya configurando la temática.
+   ![](assets/brand-themes-3.png)
 
-Nota: Puede editar las temáticas existentes mediante el botón de radio Temáticas personalizadas.
+## Configuración
 
-CAPTURA DE PANTALLA
+Se puede acceder a todas las opciones de configuración a través de los iconos de la derecha. Revisemos cada uno de ellos.
 
-El lienzo se abre para que pueda editar diferentes partes de la temática.
-
-CAPTURA DE PANTALLA
+![](assets/brand-themes-4.png)
 
 ### Configuración general {#general-settings}
 
 Asigne un nombre a la temática y ajuste el tamaño de la ventanilla.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-5.png)
 
-### Configuración de color {#color-settings}
+### Colores {#colors}
 
-A continuación, ajuste la paleta de colores en el carril derecho.
+A medida que realice ajustes de color, observe cómo se aplican los cambios en el panel principal.
 
-Nota: A medida que realice cambios, observe que los cambios surten efecto en el panel principal.
+![](assets/brand-themes-6.png)
 
-CAPTURA DE PANTALLA
+>[!NOTE]
+>
+>Ya hay configurado un conjunto de muestras en función del tema predeterminado.
 
-Edite la paleta de colores.
+Haga clic en **Editar**.
 
-Tenga en cuenta que ya se ha configurado un conjunto de muestras en función de la temática predeterminada.
+![](assets/brand-themes-7.png)
 
 Puede elegir entre un ajuste preestablecido o configurar individualmente cada color del conjunto. La selección de la paleta hace que estos colores sean accesibles en las diferentes configuraciones de color más adelante.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-8.png)
 
-Después de configurar los ajustes preestablecidos, haga clic en el símbolo de retorno.
+Cuando haya terminado de editar, haga clic en la flecha hacia atrás (![icono de flecha hacia atrás](assets/icon-back-arrow.png)) para regresar.
 
-Edite la variante siguiente utilizando el símbolo de lápiz situado junto a la variante 1.
+Para editar una variante, haga clic en su icono de lápiz.
 
-Nota: Puede crear hasta 6 variantes.
+![](assets/brand-themes-.png)
 
-CAPTURA DE PANTALLA
+>[!NOTE]
+>
+>Puede crear hasta seis variantes.
 
-En el panel de edición, puede definir colores para distintos elementos.
+Hay varios elementos disponibles para personalizar.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
-La configuración se agrupa bajo los siguientes encabezados generales.
+La configuración de variante se agrupa en las siguientes categorías:
 
-General
-Encabezados
-Párrafos
-Botones
+* General
+* Encabezados
+* Párrafos
+* Botones
 
-### Configuración general de NOMBRE {#general-name-settings}
+**General**
 
-Estos ajustes le permiten definir colores para el cuerpo, estructuras, fondos, contenedores, cuadrículas, imágenes y similares.
+Esta configuración le permite establecer colores para el cuerpo, estructuras, fondos, contenedores, imágenes y mucho más.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
-### Encabezado {#heading}
+**Encabezado**
 
-Esta sección es puramente para texto del tipo Título, donde puede establecer los colores Texto y Borde de cada tipo Título.  Puede establecer encabezados de 6 tamaños de fuente.
+Defina los colores de texto y borde de cada tipo de encabezado, desde Encabezado 1 hasta Encabezado 6.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
-### Párrafo {#paragraph}
+**Párrafo**
 
-Esta sección es puramente para texto del tipo Párrafo, donde puede establecer los colores Texto y Borde de cada tipo de Párrafo.  Puede establecer 3 ajustes preestablecidos de configuración de párrafo.
+Definir colores de texto y borde de hasta tres tipos de párrafo.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
-### Botones {#buttons}
+**Botones**
 
-Esta sección es puramente para Botones para Color de relleno, Color de borde y Color de texto.  Puede establecer 3 ajustes preestablecidos de ajustes de botón: Primario, Secundario y Terciario.
+Establezca el color de relleno, borde y texto para tres tipos diferentes de botones: Primario, Secundario y Terciario.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
 ### Configuración de texto {#text-settings}
 
-En, puede establecer los tipos y tamaños de fuente para Global, Encabezados y Párrafos.
+Definir tipos y tamaños de fuente para global, encabezados y párrafos.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
-### Configuración de texto global {#global-text-settings}
+**Global**
 
 En Configuración de texto global, elija Biblioteca de formularios entre las bibliotecas de fuentes Estándar y Google.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
 En Estándar, elija entre distintas familias de fuentes.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-.png)
 
 Del mismo modo, en Google Fonts se muestran las opciones para elegir entre las fuentes compatibles respectivamente.
 
-### Configuración de texto de encabezado {#heading-text-settings}
+**Encabezados**
 
 Aquí puede establecer la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para los diferentes tipos de encabezados.
 
 CAPTURA DE PANTALLA
 
-### Configuración de texto de párrafo {#paragraph-text-settings}
+**Párrafos**
 
 Aquí puede establecer la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para los diferentes ajustes preestablecidos de párrafo.
 
 CAPTURA DE PANTALLA
 
-### Configuración de espaciado {#spacing-settings}
+### Espaciado y borde {#spacing-and-border}
 
 En esta sección, puede establecer el relleno y el margen para distintos tipos de estructura o botones.  Elija el tipo en la primera lista desplegable y, a continuación, siga configurando el relleno o el margen para ese elemento. Repita esto uno a uno según corresponda.
 
