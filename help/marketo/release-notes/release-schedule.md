@@ -5,9 +5,9 @@ title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 70%
 
 **Estado**:
 
-* **Según lo programado**: Tenemos planeado lanzar las funciones y mejoras en la fecha indicada
-* **En curso**: estamos desplegando las características de la versión
+* **Según lo programado**: tenemos previsto lanzar las funciones y mejoras en la fecha indicada
+* **En curso**: estamos en proceso de implementar las funciones de la versión
 * **Enviado**: la versión se ha completado
 
 _Las fechas/características de la versión están sujetas a cambios_
@@ -58,9 +58,9 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>31 de octubre de 2025</td>
    <td>En curso</td>
   </tr>
-  <td>Enero del 26</td>
-   <td>sábado, 30 de enero de 2026</td>
-   <td>Dentro del horario</td>
+  <td>Enero de 2026</td>
+   <td>30 de enero de 2026</td>
+   <td>Según lo programado</td>
   </tr>
  </tbody>
 </table>
