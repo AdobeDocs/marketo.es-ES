@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TÍTULO
-description: DESCRIPCIÓN.
+title: Temáticas sobre la marca
+description: Aprenda a crear y administrar las directrices de marca.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
-ht-degree: 0%
+source-wordcount: '1201'
+ht-degree: 1%
 
 ---
 
@@ -81,17 +81,13 @@ Cuando haya terminado de editar, haga clic en la flecha hacia atrás (![icono de
 
 Para editar una variante, haga clic en su icono de lápiz.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >Puede crear hasta seis variantes.
 
-Hay varios elementos disponibles para personalizar.
-
-![](assets/brand-themes-.png)
-
-La configuración de variante se agrupa en las siguientes categorías:
+Hay varios elementos disponibles para personalizar. La configuración de variante se agrupa en las siguientes categorías:
 
 * General
 * Encabezados
@@ -102,55 +98,49 @@ La configuración de variante se agrupa en las siguientes categorías:
 
 Esta configuración le permite establecer colores para el cuerpo, estructuras, fondos, contenedores, imágenes y mucho más.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Encabezado**
 
 Defina los colores de texto y borde de cada tipo de encabezado, desde Encabezado 1 hasta Encabezado 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Párrafo**
 
 Definir colores de texto y borde de hasta tres tipos de párrafo.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Botones**
 
 Establezca el color de relleno, borde y texto para tres tipos diferentes de botones: Primario, Secundario y Terciario.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Configuración de texto {#text-settings}
 
 Definir tipos y tamaños de fuente para global, encabezados y párrafos.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Global**
 
-En Configuración de texto global, elija Biblioteca de formularios entre las bibliotecas de fuentes Estándar y Google.
+Elija entre bibliotecas de fuentes Standard o Google y sus respectivas familias de fuentes.
 
-![](assets/brand-themes-.png)
-
-En Estándar, elija entre distintas familias de fuentes.
-
-![](assets/brand-themes-.png)
-
-Del mismo modo, en Google Fonts se muestran las opciones para elegir entre las fuentes compatibles respectivamente.
+![](assets/brand-themes-15.png)
 
 **Encabezados**
 
-Aquí puede establecer la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para los diferentes tipos de encabezados.
+Defina la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para diferentes tipos de encabezados.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-16.png)
 
 **Párrafos**
 
-Aquí puede establecer la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para los diferentes ajustes preestablecidos de párrafo.
+Defina la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y las alineaciones de texto para diferentes ajustes preestablecidos de párrafo.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-17.png)
 
 ### Espaciado y borde {#spacing-and-border}
 
