@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 99%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -35,6 +35,16 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><strong>Diseñador de correo electrónico, importador de plantillas (beta)</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Diseñador de correo electrónico en Design Studio.</td>
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importación de plantillas</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Diseñador de correo electrónico: temáticas de marca</strong>: ahora puede definir temáticas de marca dentro de Marketo Engage. Las configuraciones del estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la uniformidad de la marca.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temáticas de marca</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico: Prueba A/B</strong>: función de paridad del nuevo diseñador de correo electrónico, que le permite realizar pruebas A/B para ver qué tipos de contenido reciben la mejor respuesta.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Diseñador de correo electrónico: temáticas de marca</strong>: ahora puede definir temáticas de marca dentro de Marketo Engage. Las configuraciones del estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la uniformidad de la marca.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
