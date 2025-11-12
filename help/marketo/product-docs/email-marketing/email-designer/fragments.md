@@ -6,9 +6,9 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1921'
+source-wordcount: '1951'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 </tbody>
 </table>
 
-## Creación de fragmentos {#create-fragments}
+## Crear un fragmento {#create-a-fragment}
 
 1. Para crear un nuevo fragmento visual, haga clic en **[!UICONTROL Crear fragmento]** en la parte superior derecha de la página de la lista de fragmentos.
 
@@ -119,9 +119,21 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
    >
    >No se puede modificar el **tipo** de un fragmento en este momento.
 
-   El diseñador visual se abre con un lienzo vacío.
+1. Aparece un modal _Crear tu correo electrónico_. Elija _Usar temas_ o _Estilo manual_. En esta opción, elegimos **Usar temas**. Haga clic en **Confirmar** cuando haya terminado.
 
-1. Use las [herramientas de diseño de contenido](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para crear el contenido del fragmento visual.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >Si elige Estilo manual, use las [herramientas de diseño de contenido](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para crear el contenido del fragmento visual.
+
+1. Haga clic en el icono _Temas_.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >Más información acerca de [configuración del tema](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
 
 1. Haga clic en **[!UICONTROL Guardar]** en cualquier momento para guardar el fragmento de borrador.
 

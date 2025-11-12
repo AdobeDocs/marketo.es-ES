@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 1%
+source-wordcount: '1097'
+ht-degree: 2%
 
 ---
 
@@ -21,17 +21,7 @@ Con los temas de marca, cree fácilmente contenido reutilizable que se ajuste a 
 
 Esta función permite a los especialistas en marketing aprovechar correos electrónicos visualmente atractivos y coherentes con la marca de forma más rápida y con menos esfuerzo, a la vez que proporciona opciones de personalización avanzadas para satisfacer necesidades de diseño únicas.
 
-## Cosas que debe tener en cuenta {#things-to-note}
-
-* Al crear un correo electrónico desde cero, puede elegir empezar a crear el contenido con un tema para aplicar rápidamente un estilo específico que se ajuste a su marca y diseño. Si elige el modo clásico, no podrá aplicar ninguna temática a menos que restablezca el correo electrónico.
-
-* Los fragmentos no son compatibles entre los modos Temática y Clásica. Para poder utilizar un fragmento en un contenido donde se aplique una temática, debe crearse en el modo Temática.
-
-* La actualización de una temática no se aplicará en cascada automáticamente a todos los recursos que la utilicen. Es necesario editar objetos individuales para actualizar la temática.
-
-* Cuando se eliminan temáticas, no afecta a los recursos que las utilizan.
-
-## Crear un tema de marca {#create-a-brand-theme}
+## Crear una temática {#create-a-theme}
 
 1. Siga los pasos para [crear una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -47,7 +37,7 @@ Esta función permite a los especialistas en marketing aprovechar correos electr
 
    ![](assets/brand-themes-3.png)
 
-## Configuración
+## Configuración {#settings}
 
 Se puede acceder a todas las opciones de configuración a través de los iconos de la derecha. Revisemos cada uno de ellos.
 
@@ -144,214 +134,263 @@ Defina la biblioteca de fuentes, la familia, el tamaño, el estilo de texto y la
 
 ### Espaciado y borde {#spacing-and-border}
 
-En esta sección, puede establecer el relleno y el margen para distintos tipos de estructura o botones.  Elija el tipo en la primera lista desplegable y, a continuación, siga configurando el relleno o el margen para ese elemento. Repita esto uno a uno según corresponda.
+Elija entre varias estructuras diferentes y personalice su margen, relleno o borde.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-18.png)
 
-Los tipos de estructuras son los siguientes:
+En el siguiente ejemplo, personalizamos un contenedor.
 
-CAPTURA DE PANTALLA
+**Márgenes**
 
-Configuración de un elemento de ejemplo, por ejemplo, Contenedor.
+![](assets/brand-themes-19.png)
 
-Márgenes
+**Relleno**
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-20.png)
 
-Relleno
+**Esquinas**
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-21.png)
 
-Esquinas
-
-CAPTURA DE PANTALLA
-
-Bordes
+**Bordes**
 
 Cambie el borde a Activado para mostrar las opciones para establecer el tamaño, el estilo y la posición.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-22.png)
 
-Las opciones de estilos
+A continuación se muestran algunos ejemplos visuales de cambio del estilo del borde.
 
-CAPTURA DE PANTALLA
+<table><thead>
+  <tr>
+    <th>Tipo</th>
+    <th>Configuración de tamaño y estilo</th>
+    <th>Efecto</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Guiones</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Punteado</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Sólido</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Algunos ejemplos del efecto de los estilos en el cuadro
+Ajuste qué lados del borde se van a mostrar o estar ocultos. En el ejemplo siguiente, el borde superior está oculto.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Ajustar si el borde se muestra o se oculta usando la posición del borde
-
-Ejemplo: Top está oculto en el siguiente ejemplo.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Repita los ajustes para definir los tipos de margen, relleno, esquina y borde para distintos tipos de estructuras.
+<table><thead>
+  <tr>
+    <th>Ajuste de posición</th>
+    <th>Efecto</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Configuración del botón {#button-settings}
 
-En esta sección, puede establecer diferentes elementos sobre los botones (distintos del color), como la forma del botón, el radio del botón, el texto del botón y los tamaños de los botones. Puede configurarlas para 3 ajustes preestablecidos: Primario, Secundario y Terciario.
+Defina elementos que no sean de color para los botones, como forma, radio, texto y tamaño. Los tres ajustes preestablecidos son: Primario, Secundario y Terciario.
 
-CAPTURA DE PANTALLA
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Configuración</th>
+    <th>Descripción</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Borde &gt; Radio del borde</td>
+    <td>Curvatura de esquina del borde del botón</td>
+  </tr>
+  <tr>
+    <td>Borde &gt; Tamaño del borde </td>
+    <td>Grosor del borde del botón</td>
+  </tr>
+  <tr>
+    <td>Borde &gt; Estilo del borde</td>
+    <td>Estilo del borde del botón (discontinuo, continuo, punteado, etc.)</td>
+  </tr>
+  <tr>
+    <td>Primario/Secundario/Terciario</td>
+    <td>Permite configurar tres ajustes preestablecidos de configuración de botón</td>
+  </tr>
+  <tr>
+    <td>TAMAÑO &gt; Altura</td>
+    <td>Configuración de altura para el botón</td>
+  </tr>
+  <tr>
+    <td>TAMAÑO &gt; Ancho</td>
+    <td>Configuración de anchura para el botón</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Familia de fuentes</td>
+    <td>Opción de familia de fuentes para el texto del botón</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Biblioteca de fuentes</td>
+    <td>Opción de biblioteca de fuentes para el texto del botón</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Tamaño de fuente</td>
+    <td>Tamaño de la fuente del texto del botón</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Alineación del texto</td>
+    <td>Alineación para el texto del botón</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Estilos de texto</td>
+    <td>Estilo de texto (negrita, cursiva, subrayado, tachado) para el texto del botón</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Divisor {#divider}
 
-### Configuración del divisor {#divider-settings}
+Defina el tipo de configuración de línea y contenedor para el divisor.
 
-En esta sección, puede establecer el tipo de línea y la configuración del contenedor para el divisor.
-
-CAPTURA DE PANTALLA
+![](assets/brand-themes-28.png)
 
 ### Configuración de cuadrícula {#grid-settings}
 
-Utilice el espacio de columnas para controlar el espaciado de las cuadrículas.
+Use _Espaciado de columnas_ para controlar el espaciado de las cuadrículas.
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-Haga clic en Guardar cuando termine.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-CAPTURA DE PANTALLA
+Haga clic en **Guardar** cuando termine.
 
-## Edición de temas de marca {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-La creación de temas de marca está disponible en el panel de selección de plantillas del editor. Puede acceder a este panel a medida que crea una nueva plantilla o dentro de Cambiar diseño desde el editor.
+## Editar una temática existente {#edit-a-brand-theme}
 
-CAPTURA DE PANTALLA
+1. Siga los pasos para [crear una plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-Haga clic en Cambiar el diseño.
+1. En la pantalla _Diseña tu plantilla_, selecciona **Crear o editar temas**.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-33.png)
 
-Haga clic en Crear o editar temáticas
+1. Haga clic en la ficha **Mis temas**.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-34.png)
 
-Seleccione Temáticas personalizadas para mostrar la lista de temáticas personalizadas creadas en su organización. Elija una temática y haga clic en Editar.
+1. Seleccione la temática que desee. El botón _Crear_ se convierte en un botón _Editar_. Haga clic en **Editar**.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-35.png)
 
-Ahora, el lienzo está abierto para su edición.
+1. El lienzo se abrirá para editarlo. Realice los cambios que desee en cualquiera de las opciones de **[Configuración](#settings)**.
 
-CAPTURA DE PANTALLA
-
-Modifique cualquiera de los ajustes en las secciones del panel derecho.
-
-CAPTURA DE PANTALLA
-
-Haga clic en Guardar cuando termine.
-
-CAPTURA DE PANTALLA
+>[!TIP]
+>
+>¡Recuerde guardar su trabajo!
 
 ## Uso de temas de marca {#using-brand-themes}
 
-Los temas de marca creados o editados de esta manera están listos para aprovecharse en el correo electrónico, las plantillas de correo electrónico y los recursos de fragmento.
+Aproveche las temáticas en correos electrónicos, plantillas de correo electrónico y fragmentos.
 
-Adobe Marketo Engage: los temas de marca que se han creado o editado están listos para utilizarse en el correo electrónico, las plantillas de correo electrónico y los recursos de fragmento creados con el nuevo editor de correo electrónico.
-
-Puede crear estructuras y componentes en el editor y aplicar cualquiera de los temas de marca y cualquiera de sus variantes.
+Puede crear estructuras y componentes en el editor y aplicar cualquiera de los temas de marca y sus variantes.
 
 ### En sus correos electrónicos {#in-your-emails}
 
-Crear correos electrónicos/ plantillas de correo electrónico desde cero
+1. Siga los pasos para [crear un correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-* Comience con &quot;Crear correo electrónico&quot;/ &quot;Crear plantilla de correo electrónico&quot;, seleccione la opción &quot;Diseñar desde cero&quot;
+1. Después de la creación, haga clic en **Editar contenido de correo electrónico**.
 
-* En el modal que aparece, seleccione &quot;Usar temas&quot;
+   ![](assets/brand-themes-36.png)
 
-CAPTURA DE PANTALLA
+1. Seleccione **Diseño desde cero**.
 
-Nota: Solo el correo electrónico creado con esta opción podrá aprovechar los temas de marca definidos en la sección anterior
+   ![](assets/brand-themes-37.png)
 
-* Esta nueva opción aparece en la barra lateral derecha, que le permite utilizar temas de marca en el correo electrónico
+1. Seleccione **Usar temas** (debería estar seleccionado de forma predeterminada) y haga clic en **Confirmar**.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-38.png)
 
-* Puede seleccionar entre temáticas de Adobe o temáticas personalizadas creadas para sus marcas
+>[!NOTE]
+>
+>Solo los correos electrónicos creados con esta opción podrán aprovechar los temas de marca definidos.
 
-CAPTURA DE PANTALLA
+1. Haga clic en el icono _Temas_ en la barra lateral derecha.
 
-* Diseñe contenido de correo electrónico en el lienzo y seleccione un tema para aplicarlo al contenido
+   ![](assets/brand-themes-39.png)
 
-* Un correo electrónico solo debe contener un tema de marca
+1. Seleccione entre las temáticas de Adobe o las temáticas que ya ha creado.
 
-* Para cualquier componente creado en este recurso, puede aplicar cualquiera de las opciones de estilo disponibles en la temática desde la pestaña Estilos del panel derecho
+   ![](assets/brand-themes-40.png)
 
-* por ejemplo, un CTA puede configurarse como principal, secundario o terciario
+   >[!NOTE]
+   >
+   >* Diseñe el contenido del correo electrónico en el lienzo y seleccione un tema para aplicarlo al contenido.
+   >* Un correo electrónico solo puede contener un tema de marca.
+   >* Para cualquier componente creado en este recurso, puede aplicar cualquiera de las opciones de estilo disponibles en la temática desde la pestaña Estilos del panel derecho (por ejemplo, una call-to-action se puede configurar como principal/secundaria/terciaria).
 
-CAPTURA DE PANTALLA
+1. Implemente los diseños que desee. Por ejemplo, se puede seleccionar un componente de texto para aplicar cualquiera de los encabezados o el estilo de párrafo definido en la temática.
 
-* Por ejemplo, se puede seleccionar un componente de texto para aplicar cualquiera de los encabezados o el estilo de párrafo tal como se define en la temática
+   ![](assets/brand-themes-41.png)
 
-CAPTURA DE PANTALLA
+   >[!NOTE]
+   >
+   >La pestaña Estilo tiene un aspecto diferente al de un correo electrónico de estilo manual tradicional, donde hay más libertad creativa para aplicar estilo a un componente.
 
-* Tenga en cuenta que ahora la pestaña &quot;Estilo&quot; tiene un aspecto diferente al de un correo electrónico de estilo manual tradicional donde hay más libertad creativa para aplicar estilo a un componente
+### Hacer una plantilla compatible con las temáticas {#make-a-template-compatible}
 
-### Creación de correos electrónicos/plantillas de correo electrónico a partir de una plantilla
+1. Busque y seleccione la plantilla que desee.
 
-* Puede aprovechar las temáticas al crear un correo electrónico o una plantilla de correo electrónico a partir de una plantilla de correo electrónico preexistente, que también se creó con temáticas
+1. Haga clic en **Editar plantilla de correo electrónico**.
 
-* Comience por &quot;Crear correo electrónico&quot;/&quot;Crear plantilla de correo electrónico&quot; y seleccione una de las plantillas de correo electrónico creadas mediante temáticas en la sección &quot;Plantillas guardadas&quot;
+   ![](assets/brand-themes-42.png)
 
-* Ahora el tema utilizado en la plantilla de correo electrónico guardada se aplica automáticamente
+1. Haga clic en el icono _Temas_ y luego en **Generar tema a partir del contenido**.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-43.png)
 
-* También puede cambiar la temática en esta plantilla de correo electrónico/ correo electrónico a través de la opción &quot;Temáticas&quot; en la barra lateral derecha
+1. Se abre la ventana _Crear un tema_. Marketo Engage detecta automáticamente los elementos de estilo y los consolida en una nueva temática.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-44.png)
 
-* También puede aplicar cualquier variante de una temática al contenido
+1. Asigne un nombre al tema.
 
-CAPTURA DE PANTALLA
+1. Realice los cambios que desee (igual que hace al crear una temática desde cero). Haga clic en **Guardar** cuando termine.
 
-CAPTURA DE PANTALLA
+   ![](assets/brand-themes-45.png)
 
 ### En sus fragmentos {#in-your-fragments}
 
-Comience con &quot;Crear nuevo fragmento&quot;
+1. Siga los pasos para [crear un fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment).
 
-En la opción &quot;Temáticas&quot; de la barra lateral derecha, seleccione la temática que desee y aplique la misma
+1. Diseñe el tema de contenido con las opciones que se encuentran en **[Configuración](#settings)**.
 
-CAPTURA DE PANTALLA
+Todo el contenido del fragmento creado en el lienzo a partir de entonces adoptará la temática seleccionada. También puede aplicar cualquier variante de una temática al contenido.
 
-Todo el contenido del fragmento creado en el lienzo a partir de entonces adoptará la temática seleccionada
+Una vez publicado el fragmento, puede utilizarse en cualquier plantilla de correo electrónico o correo electrónico creada con temáticas.
 
-También puede aplicar cualquier variante de una temática al contenido
+## Cosas que debe tener en cuenta {#things-to-note}
 
-Una vez publicado este fragmento, este fragmento se puede utilizar en cualquier plantilla de correo electrónico o correo electrónico creada con Temáticas
+* Al crear un correo electrónico desde cero, puede elegir empezar a crear el contenido con un tema para aplicar rápidamente un estilo específico que se ajuste a su marca y diseño. Si elige el modo clásico, no podrá aplicar ninguna temática a menos que restablezca el correo electrónico.
+
+* Los fragmentos no son compatibles entre los modos Temática y Clásica. Para poder utilizar un fragmento en un contenido donde se aplique una temática, debe crearse en el modo Temática.
+
+* La actualización de una temática no se aplicará en cascada automáticamente a todos los recursos que la utilicen. Es necesario editar objetos individuales para actualizar la temática.
+
+* Cuando se eliminan temáticas, no afecta a los recursos que las utilizan.
