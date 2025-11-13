@@ -4,9 +4,9 @@ description: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI - Doc
 title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,9 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
    <td>2.00.31</td>
    <td>Cambios en la paginación de la actividad web anónima.
    <p>
-   Cifrar información de clave secreta de la vista de usuario. La contraseña debe cambiarse después de importar el nuevo paquete para que se produzca el cifrado.</td>
+   Cifrar información de clave secreta de la vista de usuario. La contraseña debe cambiarse después de importar el nuevo paquete para que se produzca el cifrado.
+   <p>
+   Al actualizar el complemento MSI para Dynamics, se recomienda actualizar tanto la clave secreta de la API de SOAP como las credenciales MSI como una forma de actualización para garantizar que no se tengan permisos de acceso con el nuevo paquete instalado.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
