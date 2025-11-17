@@ -5,9 +5,9 @@ description: Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 title: Información general
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
+source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '669'
 ht-degree: 4%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 4%
 Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 
 Email Designer es la última innovación en Marketo Engage diseñada para proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico renovada para mejorar la productividad y la eficacia al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
-
->[!NOTE]
->
->Aunque se puede acceder a Email Designer en todos los exploradores principales, en este momento no se admite la funcionalidad completa de Firefox.
 
 ## Cómo acceder a {#how-to-access}
 
