@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -244,22 +244,22 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
   </tr>
   <tr>
+    <td>Secuencias de comandos Velocity</td>
+    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
+    <td>Disponible</td>
+    <td>Disponible</td>
+  </tr>
+  <tr>
     <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
     <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
     <td>Disponible</td>
-    <td>Próximamente</td>
+    <td>Disponible</td>
   </tr>
   <tr>
     <td>Roles y permisos</td>
     <td>Capacidad para agregar funciones y permisos para correo electrónico, plantillas de correo electrónico y fragmentos.</td>
     <td>Disponible</td>
-    <td>Próximamente</td>
-  </tr>
-  <tr>
-    <td>Secuencias de comandos Velocity</td>
-    <td>Capacidad para utilizar scripts de Velocity en correos electrónicos.</td>
     <td>Disponible</td>
-    <td>Próximamente</td>
   </tr>
   <tr>
     <td>Experimentación (prueba A/B)</td>
