@@ -32,7 +32,7 @@ No. Las direcciones URL aparecerán en el siguiente formato después de la migra
 
 **¿Hay algo que necesitemos hacer para prepararnos para el cambio de dirección URL?**
 
-Sí. Después de la migración, Marketo Engage pasará de estar disponible en experience.adobe.com a estar disponible en Adobe Experience Cloud. Deberá trabajar con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [ en la parte superior de este artículo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} a fin de evitar interrupciones en el acceso a Marketo Engage.
+Sí. Después de la migración, Marketo Engage pasará de estar disponible en experience.adobe.com a estar disponible en Adobe Experience Cloud. Deberá trabajar con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [&#x200B; en la parte superior de este artículo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} a fin de evitar interrupciones en el acceso a Marketo Engage.
 
 Los vínculos y marcadores anteriores a los recursos de Marketo Engage en el dominio engage-xx.marketo.com _seguirán funcionando_. Sin embargo, primero debe iniciar sesión en la instancia de Marketo Engage para la URL a la que está navegando. Por ejemplo, para ir a un marcador de una campaña inteligente en una instancia con Munchkin ID 123-ABC-456, primero debe iniciar sesión en la instancia de Marketo Engage con Munchkin ID 123-ABC-456.
 
