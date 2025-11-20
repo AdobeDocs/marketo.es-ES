@@ -9,19 +9,19 @@ exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
 # Utilizar el Asistente de IA {#use-ai-assistant}
 
-El asistente de IA de Marketo Engage Email Designer le ayuda a crear correos electrónicos contemporáneos, eficaces e intuitivos. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con Firefly para la generación de imágenes que ayuda a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
+El asistente de IA de Marketo Engage Email Designer le ayuda a crear correos electrónicos contemporáneos, eficaces e intuitivos. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con Firefly para la generación de imágenes que crea contenido adecuado para una persona en particular/grupo de compras, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
 
 >[!PREREQUISITES]
 >
 >El Asistente de IA no está habilitado de forma predeterminada. Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-## Configuración de permisos {#set-up-permissions}
+## Configurar permisos {#set-up-permissions}
 
 _Después de_ que sigue el requisito previo anterior, los administradores de Marketo deben aplicar el acceso a usuarios/funciones específicos antes de que los usuarios vean los botones GenAI.
 
