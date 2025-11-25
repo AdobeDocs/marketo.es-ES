@@ -1,13 +1,12 @@
 ---
-unique-page-id: 7512454
 description: 'Configuración de notificaciones push móviles: documentos de Marketo, documentación del producto'
 title: Configurar notificación push para dispositivos móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 3%
+source-wordcount: '464'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +54,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >Los mensajes y las acciones táctiles tendrán el mismo aspecto en ambas plataformas.
-
-1. Solo para iOS, marque la casilla de verificación para indicar a la aplicación que reproduzca un sonido cuando reciba el mensaje. Android reproduce el sonido automáticamente.
+1. En el caso de iOS, marque la casilla de verificación para indicar a la aplicación que reproduzca un sonido cuando reciba el mensaje. Android reproduce el sonido automáticamente.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-¡Felicidades! Ahora la notificación push está lista para enviarse.
+La notificación push está lista para enviarse.
+
+Si recibe el error: `Limited Access: You do not have sufficient privileges to perform this action`, asegúrese de que el permiso **Access Design Studio** > `Access Landing Page` esté establecido para el usuario, además de al menos una de las siguientes opciones:
+
+* Aprobar notificación de inserción
+* Eliminar notificación de inserción
+* Editar notificación de inserción
 
 ## URI de vínculos profundos {#deep-link-uris}
 
@@ -81,7 +82,7 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantizará que las URI que introduzca en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
