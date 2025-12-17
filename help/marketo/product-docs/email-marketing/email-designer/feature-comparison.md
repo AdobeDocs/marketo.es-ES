@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 14%
 
 ---
@@ -253,7 +253,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
     <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
     <td>Disponible</td>
-    <td>Disponible</td>
+    <td>No disponible</td>
   </tr>
   <tr>
     <td>Roles y permisos</td>
