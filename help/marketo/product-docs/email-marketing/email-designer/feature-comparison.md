@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 14%
@@ -250,12 +250,6 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
-    <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
-    <td>Disponible</td>
-    <td>No disponible</td>
-  </tr>
-  <tr>
     <td>Roles y permisos</td>
     <td>Capacidad para agregar funciones y permisos para correo electrónico, plantillas de correo electrónico y fragmentos.</td>
     <td>Disponible</td>
@@ -284,6 +278,12 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Capacidad para modificar el contenido de HTML de correos electrónicos, plantillas de correo electrónico y fragmentos.</td>
     <td>Disponible</td>
     <td>Por determinar</td>
+  </tr>
+  <tr>
+    <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
+    <td>Capacidad para mover, eliminar e importar programas de correo electrónico junto con recursos de correo electrónico.</td>
+    <td>Disponible</td>
+    <td>No disponible</td>
   </tr>
   <tr>
     <td>Contenido predictivo</td>
