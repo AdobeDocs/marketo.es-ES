@@ -141,4 +141,4 @@ Seleccione **Aplicar** para guardar los cambios o **Restablecer a los valores pr
 
 * Los anfitriones pueden elegir temas durante la creación de la sala o actualizarlos más tarde desde la página de información de la sala (**Barra superior de la sala** > **Menú más** > **Ver información de la sala**).
 
-Más información sobre [Temas](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Más información sobre [Temas](https://helpx.adobe.com/es/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
