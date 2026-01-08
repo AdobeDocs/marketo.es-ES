@@ -4,16 +4,20 @@ description: 'Información general del editor de correo electrónico v2.0: docum
 title: Información general del editor de correo electrónico versión 2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
 
 # Información general del editor de correo electrónico versión 2.0 {#email-editor-v2-overview}
 
-Cuando decida activar [!DNL Email Editor v2.0], notará que hay varias características nuevas.
+Descripción general del editor de correo electrónico clásico.
+
+>[!IMPORTANT]
+>
+>Aunque no hay una fecha exacta establecida, el editor de correo electrónico clásico probablemente quedará obsoleto en algún momento en 2026 (anunciaremos una fecha exacta cuando la tengamos). Se recomienda encarecidamente comenzar a adoptar [Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avanzado, ya que tiene muchas funcionalidades que no están disponibles en el editor clásico.
 
 **Selector de plantilla de correo electrónico**
 
