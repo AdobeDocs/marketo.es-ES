@@ -3,9 +3,9 @@ description: 'Envío de un seminario web interactivo: documentos de Marketo, doc
 title: Ofrecer un seminario web interactivo
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ Las discusiones en el Panel de chat no se registran. El panel de chat también l
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Más información sobre [el Panel de chat](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Más información sobre [el Panel de chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modo de preparación {#prepare-mode}
 
@@ -127,16 +127,22 @@ Obtenga más información acerca del modo de preparación [en este vídeo](https
 >[!NOTE]
 >
 >* Cualquier cambio realizado en los pods en directo se refleja instantáneamente en los participantes.
->* [El panel de chat](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} no forma parte del modo de preparación y cualquier cambio que se realice en él se reflejará instantáneamente en los participantes.
+>* [El panel de chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} no forma parte del modo de preparación y cualquier cambio que se realice en él se reflejará instantáneamente en los participantes.
 
 ### Accesibilidad {#accessibility}
 
 Adobe se esfuerza por incluir a presentadores y participantes con discapacidades mejorando la accesibilidad de los seminarios web interactivos. El software se mejora continuamente para satisfacer las necesidades de todos los tipos de usuarios y adherirse a los estándares mundiales que incluyen personas con deficiencias visuales, auditivas, de movilidad u otras.
 
-Obtenga información sobre cómo Adobe Connect proporciona asistencia para [necesidades visuales, auditivas y de movilidad](https://helpx.adobe.com/es/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Obtenga información sobre cómo Adobe Connect proporciona asistencia para [necesidades visuales, auditivas y de movilidad](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Subtítulos opcionales {#closed-captions}
 
 Los subtítulos opcionales son una representación textual del audio dentro de una sala de Adobe Connect y ayuda a los participantes sordos o con dificultades auditivas a participar en eventos. Puede integrar subtítulos en tiempo real del contenido de audio en eventos y presentarlos en la pantalla Subtítulos.
 
-Obtenga información sobre cómo [habilitar subtítulos](https://helpx.adobe.com/es/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Obtenga información sobre cómo [habilitar subtítulos](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+
+### Seminarios web en directo simulados {#simulated-live-webinars}
+
+Presente los seminarios web pregrabados como si estuvieran en directo utilizando el formato de seminario web en directo simulado. Los asistentes pueden unirse a una hora programada y experimentar la sesión en tiempo real, disfrutando de funciones interactivas como chat, encuestas y preguntas y respuestas. Los seminarios web en directo simulados combinan la fiabilidad del contenido grabado con la experiencia interactiva de un evento en directo.
+
+Más información sobre [seminarios web en vivo simulados](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

@@ -3,9 +3,9 @@ description: 'Diseño de seminarios web interactivos: documentos de Marketo, doc
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,10 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 **Diseño**: Hace referencia a varias formas en que los diversos componentes necesarios para garantizar el éxito del seminario web se organizan en una plantilla determinada. Una sola plantilla puede tener varios diseños para que pueda elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que seleccionó se adaptaría mejor al estilo o las necesidades de usted o del presentador que imparte el seminario web.
 
 **Pod**: Un componente dentro de una plantilla que realiza una actividad en particular durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuestas puede cumplir. Del mismo modo, charlar con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad que se ofrece a través del pod de chat. Hay varios pods más disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
+
+      **Pod de encuestas**: permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa. El sondeo amplía las capacidades existentes del sondeo, ya que permite presentar varias preguntas juntas, lo que ofrece una forma más ágil y coherente de recopilar las perspectivas de los participantes. [Más información](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **Pod de recursos**: reemplaza los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas. [Más información](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

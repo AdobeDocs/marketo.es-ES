@@ -3,9 +3,9 @@ description: Personalización de seminarios web interactivos - Documentos de Mar
 title: Personalización de seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Antes de que cualquier usuario de su organización pueda personalizar sus semina
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Personalización de la interfaz de sala {#customize-the-room-interface}
+## Personalización de la interfaz de sala {#customize-the-room-interface}
 
 Puede personalizar el aspecto de la sala de sesiones cambiando el logotipo, el vínculo de redirección en el que se puede hacer clic y los colores. Los cambios se reflejarán en todos los eventos y salas de su organización.
 
@@ -134,3 +134,11 @@ Utilice el conmutador para controlar la disponibilidad de estos fondos predeterm
 ![](assets/interactive-webinars-customization-13.png)
 
 Seleccione **Aplicar** para guardar los cambios o **Restablecer a los valores predeterminados** para restablecer los valores predeterminados.
+
+### Crear temas personalizables {#create-customizable-themes}
+
+* Los administradores pueden crear o administrar temáticas con logotipos, colores y fondos de vídeo personalizados.
+
+* Los anfitriones pueden elegir temas durante la creación de la sala o actualizarlos más tarde desde la página de información de la sala (**Barra superior de la sala** > **Menú más** > **Ver información de la sala**).
+
+Más información sobre [Temas](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
