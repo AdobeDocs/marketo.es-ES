@@ -4,16 +4,25 @@ description: SEO - Filtrar resultados de palabras clave - Documentos de Marketo 
 title: 'SEO: filtrar resultados de palabras clave'
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '186'
 ht-degree: 5%
 
 ---
 
 # SEO: filtrar resultados de palabras clave {#seo-filter-keyword-results}
 
-Es posible que tenga muchas [palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
+Es posible que tenga muchas [palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos.
+
+>[!IMPORTANT]
+>
+>El 31 de marzo de 2026, Marketo Engage dejará de utilizar la función Optimización del motor de búsqueda. Exporte los datos pertinentes el 30 de marzo o antes. [Más información](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemas de exportación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar resultados de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar tendencias de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar tendencias de palabras clave de la competencia](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Filtrar por lista {#filter-by-list}
 

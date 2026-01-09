@@ -4,16 +4,25 @@ description: 'SEO: importación de palabras clave con un CSV - Documentos de Mar
 title: 'SEO: importar de palabras clave con un CSV'
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 10%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 
 # SEO: importar de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
 
-1. Puede [agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave de un archivo CSV. A continuación se muestra cómo realizar la importación.
+Puede [agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave de un archivo CSV. A continuación se muestra cómo realizar la importación.
+
+>[!IMPORTANT]
+>
+>El 31 de marzo de 2026, Marketo Engage dejará de utilizar la función Optimización del motor de búsqueda. Exporte los datos pertinentes el 30 de marzo o antes. [Más información](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemas de exportación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar resultados de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar tendencias de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar tendencias de palabras clave de la competencia](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Vaya a la sección **[!UICONTROL Palabras clave]**.
 

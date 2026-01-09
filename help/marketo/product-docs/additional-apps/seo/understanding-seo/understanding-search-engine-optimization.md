@@ -4,16 +4,25 @@ description: 'Explicación de la optimización del motor de búsqueda: Documento
 title: Explicación de la optimización del motor de búsqueda
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 1%
+source-wordcount: '442'
+ht-degree: 2%
 
 ---
 
 # Explicación de la optimización del motor de búsqueda {#understanding-search-engine-optimization}
 
 Optimización de motores de búsqueda (SEO) es una colección de prácticas recomendadas para ayudarle a poner sus páginas en contacto con usuarios que utilizan motores de búsqueda. La aplicación SEO de Marketo le ayuda a mejorar.
+
+>[!IMPORTANT]
+>
+>El 31 de marzo de 2026, Marketo Engage dejará de utilizar la función Optimización del motor de búsqueda. Exporte los datos pertinentes el 30 de marzo o antes. [Más información](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemas de exportación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar resultados de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar tendencias de palabras clave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar tendencias de palabras clave de la competencia](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 En primer lugar, debería aprender los conceptos básicos con este práctico glosario.
 
