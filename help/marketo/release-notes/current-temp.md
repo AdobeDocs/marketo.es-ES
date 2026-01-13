@@ -64,7 +64,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Funciones de Adobe Connect {#adobe-connect-features}
 
-El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web interactivos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} de Marketo Engage utilizan Adobe Connect. Como tal, las siguientes funciones solo se aplican a los usuarios de seminarios web interactivos.
+El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} de Marketo Engage utilizan Adobe Connect. Como tal, las siguientes funciones solo se aplican a los usuarios de seminarios web interactivos.
 
 * **Pod de encuestas**: Adobe Connect 12.11 presenta un nuevo Pod de encuestas que permite a los hosts diseñar y entregar formularios de comentarios estructurados directamente dentro de una sesión en vivo.
 
@@ -72,7 +72,7 @@ El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web in
 
 * **Experiencia mejorada de interfaz de sala**: Adobe Connect 12.11 presenta una interfaz de sala actualizada y más moderna, basada en el último marco de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Para obtener información detallada, consulte las [Notas de la versión de Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Para obtener información detallada, consulte las [Notas de la versión de Adobe Connect 12.11](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Anuncios {#announcements}
 
