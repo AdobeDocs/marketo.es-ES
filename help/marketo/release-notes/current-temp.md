@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
+source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 62%
+source-wordcount: '484'
+ht-degree: 61%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 62%
 
 A continuación encontrará todas las funciones incluidas en la versión de enero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -58,13 +58,53 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Funciones de Adobe Connect {#adobe-connect-features}
 
-El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} de Marketo Engage utilizan Adobe Connect. Como tal, las siguientes funciones solo se aplican a los usuarios de seminarios web interactivos.
+El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web interactivos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} de Marketo Engage utilizan Adobe Connect. Como tal, las siguientes funciones solo se aplican a los usuarios de seminarios web interactivos.
 
 * **Pod de encuestas**: Adobe Connect 12.11 presenta un nuevo Pod de encuestas que permite a los hosts diseñar y entregar formularios de comentarios estructurados directamente dentro de una sesión en vivo.
 
@@ -72,7 +112,7 @@ El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web in
 
 * **Experiencia mejorada de interfaz de sala**: Adobe Connect 12.11 presenta una interfaz de sala actualizada y más moderna, basada en el último marco de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Para obtener información detallada, consulte las [Notas de la versión de Adobe Connect 12.11](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Para obtener información detallada, consulte las [Notas de la versión de Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Anuncios {#announcements}
 
