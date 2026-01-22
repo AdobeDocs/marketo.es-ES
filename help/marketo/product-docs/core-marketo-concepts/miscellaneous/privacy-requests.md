@@ -2,7 +2,7 @@
 description: 'Solicitudes de privacidad: documentos de Marketo, documentación del producto'
 title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 16%
@@ -49,14 +49,14 @@ b. Dirección de correo electrónico de la persona sobre la que desea actuar
 
 &quot;companyContext&quot;:
 
-* &quot;área de nombres&quot;: **imsOrgID**
+* &quot;espacio de nombres&quot;: **imsOrgID**
 * &quot;valor&quot;: `<Your IMS Org ID Value>`
 
 &quot;usuarios&quot;:
 
 * &quot;acción&quot;: ya sea **acceso** (access) o **eliminación** (delete)
 * &quot;userID&quot;:
-   * &quot;área de nombres&quot;: **correo electrónico**
+   * &quot;área de nombres&quot;: **Correo electrónico**
    * &quot;tipo&quot;: **estándar**
    * &quot;valor&quot;: `<Data Subject's Email Address>`
 
@@ -87,7 +87,7 @@ Solicitud JSON
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -117,7 +117,7 @@ Respuesta JSON
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -150,7 +150,7 @@ Solicitud JSON
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -180,7 +180,7 @@ Respuesta JSON
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
