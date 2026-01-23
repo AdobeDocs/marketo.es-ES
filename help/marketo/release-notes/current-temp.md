@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 61%
+source-wordcount: '599'
+ht-degree: 49%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 61%
 
 A continuación encontrará todas las funciones incluidas en la versión de enero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +34,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Correo electrónico de Designer - Administrar marcas (beta)</strong>: genere contenido de correo electrónico en función de las directrices de redacción específicas de su organización o marca.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -44,7 +44,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Correo electrónico de Designer - Mejora del Asistente de IA</strong>: Ahora puede agregar directamente recursos de marca en el mensaje y pedir al modelo que se refiera a esa fuente para generar contenido, en lugar de agregar manualmente un recurso de marca como archivo.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -54,7 +54,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Designer de correo electrónico - Vistas previas visuales para fragmentos</strong>: ahora todos los fragmentos publicados aparecen como miniaturas, lo que hace que sea mucho más rápido identificar el que necesita.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -64,7 +64,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Designer de correo electrónico - Viñetas</strong>: ahora puede crear viñetas de varios niveles al crear un mensaje de correo electrónico en el Designer de correo electrónico.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -74,7 +74,12 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Designer de correo electrónico - Mejoras de contenido condicional</strong>: paridad con la característica <i>Contenido dinámico</i> del antiguo editor de correo electrónico.
+   <ul>
+   <li>El contenido condicional ahora se aplica a la segmentación en carpetas compartidas.</li>
+   <li>Las segmentaciones ahora se ordenan en orden alfabético.</li>
+   </ul>
+   </td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -84,17 +89,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TÍTULO DE CARACTERÍSTICA</strong>: Descripción de la característica.</td>
+   <td><strong>Correo electrónico de Designer - Carpetas</strong>: Ahora puede organizar los recursos creados con el Designer de correo electrónico (correos electrónicos, plantillas de correo electrónico, fragmentos) con carpetas.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -102,19 +97,23 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 </table>
 <br/>
 
-## Funciones de Adobe Connect {#adobe-connect-features}
+## Funciones del ciclo de lanzamiento no estándar {#non-standard-release-cycle-features}
 
-El equipo de Adobe Connect ya ha lanzado estas funciones. Los [seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} de Marketo Engage utilizan Adobe Connect. Como tal, las siguientes funciones solo se aplican a los usuarios de seminarios web interactivos.
+Las siguientes funciones se lanzaron fuera del ciclo de lanzamiento estándar de Marketo Engage.
 
-* **Pod de encuestas**: Adobe Connect 12.11 presenta un nuevo Pod de encuestas que permite a los hosts diseñar y entregar formularios de comentarios estructurados directamente dentro de una sesión en vivo.
+### Seminarios web interactivos {#interactive-webinars}
+
+* **Pod de encuestas**: Un nuevo Pod de encuestas permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa.
 
 * **Pod de recursos**: el nuevo Pod de recursos reemplaza a los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas.
 
-* **Experiencia mejorada de interfaz de sala**: Adobe Connect 12.11 presenta una interfaz de sala actualizada y más moderna, basada en el último marco de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
+* **Experiencia mejorada en la interfaz de la sala**: Disfrute de una interfaz de sala actualizada y más moderna, basada en el último módulo de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Para obtener información detallada, consulte las [Notas de la versión de Adobe Connect 12.11](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
 
 ## Anuncios {#announcements}
+
+* **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del miércoles, 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

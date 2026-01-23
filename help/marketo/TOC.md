@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '9325'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -261,7 +261,7 @@ ht-degree: 99%
       + [Información general sobre la interfaz de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceptos principales de Marketo {#core-marketo-concepts}
       + Campañas inteligentes {#smart-campaigns}
-         + [Explicación de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
+         + [Explicación de las campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + Creación de una campaña inteligente {#creating-a-smart-campaign}
             + [Explicación de las campañas inteligentes por lotes y activación](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Crear nueva campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
@@ -1175,7 +1175,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1388,7 +1388,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1978,6 +1978,7 @@ ht-degree: 99%
          + [Notas de la versión: julio de 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [Notas de la versión: agosto de 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
          + [Notas de la versión: septiembre de 2025](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [Notas de la versión: 25 de octubre](release-notes/previous-releases/2025/release-notes-oct-25.md)
       + 2024 {#2024}
          + [Notas de la versión: enero de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de la versión: marzo de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)

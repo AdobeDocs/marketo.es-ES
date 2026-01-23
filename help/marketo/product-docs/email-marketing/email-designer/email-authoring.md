@@ -4,9 +4,9 @@ title: Creación del correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1768'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Los correos electrónicos del diseñador de correo electrónico solo se pueden c
 
    ![](assets/create-an-email-1.png)
 
-1. En el árbol, seleccione **Correos electrónicos (nuevo editor)**.
+1. En el árbol, seleccione **Correos electrónicos (nuevos)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 
 ## Elija su tipo de contenido {#choose-your-content-type}
 
-1. En el correo electrónico que acaba de crear, haga clic en **Agregar contenido de correo electrónico**.
+1. En el correo electrónico que acaba de crear, haga clic en **Editar contenido de correo electrónico**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -88,6 +88,12 @@ Eso es todo. Ahora es el momento de diseñar su correo electrónico.
 Cuando comience desde cero en el editor de correo electrónico, utilice las opciones siguientes para definir el contenido.
 
 1. En la página _Crear tu correo electrónico_, selecciona **Diseñar desde cero**.
+
+1. Elija entre empezar con una temática (recomendado) o crear desde cero con estilo manual.
+
+   >[!NOTE]
+   >
+   >Los correos electrónicos creados con estilo manual no podrán utilizar fragmentos creados con temáticas
 
 1. Agregue [estructura y contenido](#add-structure-and-content) a su correo electrónico.
 
