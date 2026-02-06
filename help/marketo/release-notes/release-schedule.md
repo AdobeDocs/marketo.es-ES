@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 94%
+source-wordcount: '144'
+ht-degree: 91%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 94%
 
 * **Según lo programado**: tenemos previsto lanzar las funciones y mejoras en la fecha indicada
 * **En curso**: estamos en proceso de implementar las funciones de la versión
-* **Enviado**: la versión se ha completado
+* **Completado**: la versión se ha completado
 
 _Las fechas/características de la versión están sujetas a cambios_
 
@@ -33,29 +33,24 @@ _Las fechas/características de la versión están sujetas a cambios_
    <th width="250px">Estado</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Julio de 2025</a></td>
-   <td>11 de julio de 2025</td>
-   <td>Enviado</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Agosto de 2025</a></td>
    <td>22 de agosto de 2025</td>
-   <td>Enviado</td>
+   <td>Completo</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Septiembre de 2025</a></td>
    <td>19 de septiembre de 2025</td>
-   <td>Enviado</td>
+   <td>Completo</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Octubre de 2025</a></td>
    <td>31 de octubre de 2025</td>
-   <td>En curso</td>
+   <td>Completo</td>
   </tr>
   <tr>
-  <td>Enero de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Enero de 2026</a></td>
    <td>30 de enero de 2026</td>
-   <td>Según lo programado</td>
+   <td>En curso</td>
   </tr>
   <tr>
   <td>Febrero de 2026</td>
@@ -63,13 +58,23 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Según lo programado</td>
   </tr>
   <tr>
-  <td>Marzo del 26</td>
-   <td>sábado, 27 de marzo de 2026</td>
+  <td>Marzo de 2026</td>
+   <td>27 de marzo de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
-  <td>Mayo del 26</td>
-   <td>sábado, 01 de mayo de 2026</td>
+  <td>Mayo de 2026</td>
+   <td>1 de mayo de 2026</td>
+   <td>Según lo programado</td>
+  </tr>
+  <tr>
+  <td>Mayo de 2026 (segunda versión)</td>
+   <td>sábado, 22 de mayo de 2026</td>
+   <td>Según lo programado</td>
+  </tr>
+  <tr>
+  <td>Junio del 26</td>
+   <td>26 de junio de 2026</td>
    <td>Según lo programado</td>
   </tr>
  </tbody>

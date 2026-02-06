@@ -3,7 +3,7 @@ description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: d
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 29%
@@ -31,7 +31,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Nuevo diseño para la configuración de informes en la experiencia de usuario moderna</strong>: al configurar un recurso de informe, tendrá un <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nuevo árbol de recursos</a> en el menú de configuración, así como la capacidad de filtrar por fecha de creación y modificación.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
    <tr>
    <td><strong>Servicio de paso de flujo de fórmula de cómputo</strong>: La fórmula de cómputo es un servicio de paso de flujo creado en la plataforma de tiempo de ejecución de E/S de Adobe para su uso con campañas inteligentes de Marketo Engage. Las personas con tiempo de ejecución de E/S pueden implementar el servicio e instalarlo en sus suscripciones de Marketo Engage, lo que les permite calcular fórmulas similares a las de Excel en campañas inteligentes de Marketo Engage.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guía del usuario de Compute Formula</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
    <tr>
    <td><strong>Descargar grabación y asignar co-host en seminarios web interactivos</strong>: ahora puede agregar un co-host externo para su seminario web en caso de que el host original no esté disponible. Ahora también puede descargar la grabación del seminario web.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Descargar grabación</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Creación de un seminario web interactivo</a></li></td>
   </tr>

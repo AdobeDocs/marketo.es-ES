@@ -2,10 +2,11 @@
 description: 'Notas de la versión, octubre de 2025: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, octubre de 2025
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 98%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +33,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico, importador de plantillas (beta)</strong>: importe plantillas de correo electrónico desde el editor de correo electrónico clásico para crear plantillas compatibles con el nuevo Diseñador de correo electrónico en Design Studio.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importación de plantillas</a></td>
   </tr>
   <tr>
@@ -42,7 +43,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico: temáticas de marca</strong>: ahora puede definir temáticas de marca dentro de Marketo Engage. Las configuraciones del estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la uniformidad de la marca.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temáticas de marca</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico: contenido condicional</strong>: función de paridad del nuevo Diseñador de correo electrónico, que le permite lograr una personalización de correo electrónico más allá de los tokens.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenido condicional</a></td>
   </tr>
   <tr>
@@ -62,8 +63,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
  <tr>
    <td><strong>Diseñador de correo electrónico: conversor de imagen a HTML</strong>: cargue un archivo de imagen PNG/JPEG compatible de un mensaje de correo electrónico y se convertirá automáticamente a HTML para utilizarlo en el nuevo Diseñador de correo electrónico.</td>
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversión de imágenes en plantillas de HTML</a></td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversión de imágenes en plantillas HTML</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -72,7 +73,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico: clonar acción de correo electrónico</strong>: ahora puede clonar un correo electrónico en otra carpeta de programas en Actividades de marketing y reutilizar rápidamente los correos electrónicos existentes.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   <tr>
@@ -82,7 +83,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Diseñador de correo electrónico: Prueba A/B</strong>: función de paridad del nuevo diseñador de correo electrónico, que le permite realizar pruebas A/B para ver qué tipos de contenido reciben la mejor respuesta.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -91,9 +92,9 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Anuncios {#announcements}
 
-* **Actualización de la integración de Salesforce CRM**: se implementará una nueva versión de la integración de CRM nativa en las zonas protegidas activas que tengan habilitado el conector nativo durante siete días, a partir del 13 de noviembre de 2025. Obtenga detalles completos en [esta publicación de Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Actualización de la integración de Salesforce CRM**: se implementará una nueva versión de la integración de CRM nativa en las zonas protegidas activas que tengan habilitado el conector nativo durante siete días, a partir del 13 de noviembre de 2025. Obtener detalles completos en [esta publicación de la comunidad](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
-* **Doble barra diagonal de la API de REST en desuso**: el 16 de septiembre de 2025, Adobe realizó la transición a una infraestructura de alojamiento más moderna para las direcciones URL de la API de REST que aprovecha lo último en tecnología, añadiendo seguridad y escalabilidad. Si su suscripción ha estado usando las API con una doble barra diagonal (//) en la URL, lea [esta publicación de Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para ver los próximos pasos.
+* **Doble barra diagonal de la API de REST en desuso**: el 16 de septiembre de 2025, Adobe realizó la transición a una infraestructura de alojamiento más moderna para las direcciones URL de la API de REST que aprovecha lo último en tecnología, añadiendo seguridad y escalabilidad. Si su suscripción ha estado usando API con una barra diagonal doble (//) en la URL, lea [esta publicación de la comunidad](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para ver los pasos siguientes.
 
 * **Cambio a los scripts de Velocity en el nuevo diseñador de correo electrónico**: Adobe Marketo Engage lanzó una función llamada _Contenido condicional_ para el nuevo Diseñador de correo electrónico el pasado junio. La función estaba equipada con scripts de Handlebar en lugar de los scripts de Velocity, con el fin de proporcionar un poco más de flexibilidad en el contenido dinámico. Pero cuando descubrimos que estaba causando que algunos tókenes se resolvieran incorrectamente, decidimos desactivarlo temporalmente. [Más información](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
@@ -105,6 +106,6 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 * **Desuso de la función _Reenviar a un amigo_**: el 29 de septiembre de 2025, la función _Reenviar a un amigo_ de los correos electrónicos de Marketo Engage 2.0 (el editor de correo electrónico heredado) quedará completamente en desuso para todas las suscripciones. Esto afecta al token &quot;Reenviar a un amigo&quot; y a los vínculos &quot;Reenviar a un amigo&quot; en los correos electrónicos que ya se han enviado o que se enviarán usando el token. [Más información](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del miércoles, 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **API de SOAP obsoleta**: la compatibilidad con la API de Marketo SOAP finalizará el miércoles, 31 de marzo de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **API de SOAP obsoleta**: la compatibilidad con la API de Marketo SOAP finalizará el 31 de marzo de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

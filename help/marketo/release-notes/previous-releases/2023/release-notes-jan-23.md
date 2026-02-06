@@ -3,10 +3,10 @@ description: 'Notas de la versión, enero de 2023: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 23%
+ht-degree: 22%
 
 ---
 
@@ -37,7 +37,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Conmutador de alternancia</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=es">Marketo Measure Ultimate</a></td>
+   <td>Publicado</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Información sobre la API de exportación masiva</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendario</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de la documentación</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Reuniones</a></td>
   </tr>
   </tbody>

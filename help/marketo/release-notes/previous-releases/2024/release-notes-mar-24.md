@@ -3,7 +3,7 @@ description: 'Notas de la versión, marzo de 2024: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 30%
@@ -31,7 +31,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Lógica de flujo de conversación avanzada</strong>: agregue campos adicionales para la evaluación en una sola opción para el seguimiento de flujo de conversación.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configuración del flujo conversacional para los formularios de Marketo Engage</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    </tr>
     <tr>
    <td><strong>Reordenar lógica de flujo de conversación</strong>: en Marketo Engage Forms, ahora puede reordenar las opciones de flujo de conversación, en lugar de tener que eliminarlas y agregarlas de nuevo.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configuración del flujo conversacional para los formularios de Marketo Engage</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
     <tr>
    <td><strong>Metadatos de actividad de API</strong>:
    Ahora, los metadatos como agente de usuario, plataforma y dispositivo se incluyen en las actividades web y de correo electrónico, lo que ayuda a proporcionar una perspectiva coherente de estas actividades a través de la API de REST de Marketo.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
  </tbody>

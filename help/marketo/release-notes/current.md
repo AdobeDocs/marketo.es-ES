@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 38%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 38%
 
 A continuación encontrará todas las funciones incluidas en la versión de enero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -59,8 +59,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Designer de correo electrónico - Viñetas</strong>: ahora puede crear viñetas de varios niveles al crear un mensaje de correo electrónico en el Designer de correo electrónico.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -103,11 +103,11 @@ Las siguientes funciones se lanzaron fuera del ciclo de lanzamiento estándar de
 
 * **Experiencia mejorada en la interfaz de la sala**: Disfrute de una interfaz de sala actualizada y más moderna, basada en el último módulo de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
 
 ## Anuncios {#announcements}
 
-* **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=es){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=es){target="_blank"}.
+* **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del miércoles, 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

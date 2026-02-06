@@ -3,10 +3,10 @@ description: 'Notas de la versión, abril de 2024: Documentos de Marketo: docume
 title: Notas de la versión, abril de 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 31%
+ht-degree: 30%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 31%
 
 A continuación encontrará todas las funciones incluidas en la versión de abril de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -33,7 +33,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
      <tr>
    <td><strong>Mejoras en los seminarios web interactivos</strong>: ahora puede proporcionar a los organizadores y moderadores la capacidad de agregar un título de seminario web, cambiar el nombre de una sala y sincronizar manualmente los datos de participación después de la entrega del evento.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Creación de un seminario web interactivo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronización manual</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <li>Crear lista</li>
    <li>Exportar actividad de campaña</li>
    </td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descripciones de los permisos de funciones</a></td>
   </tr>
  </tbody>

@@ -3,10 +3,10 @@ description: 'Notas de la versión, junio de 2024: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 37%
 
 A continuación encontrará todas las funciones incluidas en la versión de junio de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -33,7 +33,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
      <tr>
    <td><strong>Plantillas para seminarios web interactivos</strong>: Los especialistas en marketing ahora tienen la capacidad de crear plantillas personalizadas para los diseños de sala en los seminarios web interactivos.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Plantillas</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
      <tr>
    <td><strong>Campos deducidos en Forms</strong>: El origen de datos utilizado para rellenar campos deducidos cuando se crea una persona mediante el rellenado de formulario sin actividad web anterior se ha actualizado para utilizar el mismo origen de datos que otros métodos de recopilación de personas. Los datos de campo deducidos ahora son coherentes en todos los puntos de recopilación.</td>
-   <td>Enviado</td>
+   <td>Publicado</td>
    <td>N/A</td>
   </tr>
  </tbody>
