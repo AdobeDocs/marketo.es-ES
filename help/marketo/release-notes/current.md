@@ -103,7 +103,7 @@ Las siguientes funciones se lanzaron fuera del ciclo de lanzamiento estándar de
 
 * **Experiencia mejorada en la interfaz de la sala**: Disfrute de una interfaz de sala actualizada y más moderna, basada en el último módulo de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
+Visite [esta página](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
 
 ## Anuncios {#announcements}
 

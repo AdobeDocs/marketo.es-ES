@@ -44,7 +44,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td>Características de <strong>GenAI en seminarios web interactivos</strong>: ahora puede generar capítulos y un resumen de los seminarios web a petición. Edite y exporte un archivo HTML de sus datos.</td>
    <td>Publicado</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funciones de GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funciones de GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
