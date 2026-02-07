@@ -58,7 +58,7 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Cumpla con el <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a> de sus formularios.</li></td>
+    <td><li>Cumpla con el <a href="https://business.adobe.com/es/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a> de sus formularios.</li></td>
   </tr>
   <tr>
     <td>Estandarización de datos</td>

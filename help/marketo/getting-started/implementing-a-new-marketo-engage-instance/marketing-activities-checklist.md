@@ -139,7 +139,7 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Cree programas para asegurarse de que cumple con las leyes de privacidad de datos y correo no deseado, como <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, CASL, CAN-SPAM, CCPA, etc.</a></li>
+    <td><li>Cree programas para asegurarse de que cumple con las leyes de privacidad de datos y correo no deseado, como <a href="https://business.adobe.com/es/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD, CASL, CAN-SPAM, CCPA, etc.</a></li>
     <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Recuerde siempre consultar a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
   <tr>

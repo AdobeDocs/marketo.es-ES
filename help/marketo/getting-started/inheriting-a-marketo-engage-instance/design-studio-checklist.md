@@ -95,7 +95,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Privacidad y cumplimiento</td>
    <td><li>¿Su estrategia de formulario se ajusta a los requisitos de privacidad de datos corporativos y de inclusión?
-   <br/>     Consideremos el <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, la Ley Antispam de Canadá (CASL), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
+   <br/>     Consideremos el <a href="https://business.adobe.com/es/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, la Ley Antispam de Canadá (CASL), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody>
