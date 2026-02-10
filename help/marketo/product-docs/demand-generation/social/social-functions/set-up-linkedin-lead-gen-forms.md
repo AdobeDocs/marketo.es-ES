@@ -4,10 +4,10 @@ description: Configuración de LinkedIn Lead Gen Forms - Documentos de Marketo -
 title: Configuración de formularios de generación de clientes potenciales de LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 2%
+source-wordcount: '492'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 2%
 
 Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedIn y generar posibles clientes para Marketo.
 
->[!IMPORTANT]
->
->LinkedIn está actualizando sus API de marketing utilizadas por las integraciones de LinkedIn de Marketo Engage. Estos cambios requerirán la reautenticación de todos los servicios de LaunchPoint de LinkedIn en su menú de **Admin** > **LaunchPoint** entre el 7 de junio y el 15 de diciembre de 2024 para evitar la interrupción del servicio. Para obtener más información, consulte las [Preguntas frecuentes sobre la migración](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
-
 >[!NOTE]
 >
->**Se requieren permisos de administración**
-
->[!NOTE]
+>* **Se requieren permisos de administrador**
 >
->Un posible cliente de LinkedIn no entrará en Marketo Engage si coincide con un registro de persona existente en Marketo que está asociado con un registro de empresa creado mediante las API de la empresa y la suscripción de Marketo no está conectada a un CRM.
+>* Al crear formularios de generación de posibles clientes de LinkedIn, asegúrese de que el nombre del formulario no contenga solo caracteres numéricos. El nombre del formulario debe ser alfabético o alfanumérico.
+>
+>* Un posible cliente de LinkedIn no entrará en Marketo Engage si coincide con un registro de persona existente en Marketo que está asociado con un registro de empresa creado mediante las API de la empresa y la suscripción de Marketo no está conectada a un CRM.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -55,7 +51,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Siguiente]**.
+1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 

@@ -4,10 +4,10 @@ description: Configuración de anuncios de clientes potenciales de Facebook - Do
 title: Configurar anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 3%
+source-wordcount: '338'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>* **Se requieren permisos de administrador**
+>
+>* Al crear formularios de anuncios de posibles clientes de Facebook, asegúrese de que el nombre del formulario no contenga solo caracteres numéricos. El nombre del formulario debe ser alfabético o alfanumérico.
 
 >[!AVAILABILITY]
 >
@@ -51,7 +53,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Siguiente]**.
+1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
