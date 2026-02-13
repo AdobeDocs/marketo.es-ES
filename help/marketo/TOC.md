@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -393,7 +393,7 @@ ht-degree: 99%
             + [Descripción de las listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Creación de programas {#creating-programs}
-            + [Explicación de programas](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+            + [Descripción de los programas](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [Creación de un programa](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
             + [Explicación de recursos locales en un programa](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Explicación del abono al programa](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
@@ -814,7 +814,7 @@ ht-degree: 99%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde Box](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas de destino {#landing-pages}
+      + Páginas de aterrizaje {#landing-pages}
          + Explicación de las páginas de destino {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1079,7 +1079,7 @@ ht-degree: 99%
                + [Explicación de zona horaria del destinatario](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + Datos del programa de correo electrónico {#email-program-data}
             + [Informe de rendimiento de vínculos de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-            + [Informe de rendimiento de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+            + [Informe de rendimiento de los correos electrónicos](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [Exportar panel del programa de correo electrónico a Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [Uso del panel del programa de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [Ver resultados del programa de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
@@ -1108,9 +1108,9 @@ ht-degree: 99%
             + [Añadir módulos al correo electrónico](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
             + [Creación de una plantilla de correo electrónico](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
             + [Editar elementos en un correo electrónico](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
-            + [Información general del editor de correo electrónico versión 2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+            + [Información general del editor de correo electrónico, versión 2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [Información general del selector de plantillas de correo electrónico](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
-            + [Sintaxis de plantilla de correo electrónico](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+            + [Sintaxis de la plantilla de correo electrónico](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [Transición al editor de correo electrónico 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Funciones en el editor {#functions-in-the-editor}
             + [Reenviar a un amigo el vínculo en correos electrónicos](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
@@ -1176,7 +1176,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1389,7 +1389,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Versión de Dynamic Chat](release-notes/dynamic-chat.md)
    + [Versión TEMP de Dynamic Chat](release-notes/dynamic-chat-temp.md)
    + Versiones anteriores  {#previous-releases}
+      + 2026 {#2026}
+         + [Notas de la versión: Enero de 2026](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Notas de la versión: enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de la versión: marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
