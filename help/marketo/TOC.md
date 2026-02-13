@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: b7904b6375be98a3794e0b6b2cd3cde0b4b0eefd
 workflow-type: tm+mt
 source-wordcount: '9336'
 ht-degree: 99%
@@ -1176,7 +1176,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1389,7 +1389,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1972,7 +1972,7 @@ ht-degree: 99%
    + [Versión TEMP de Dynamic Chat](release-notes/dynamic-chat-temp.md)
    + Versiones anteriores  {#previous-releases}
       + 2026 {#2026}
-         + [Notas de la versión: Enero de 2026](release-notes/previous-releases/2025/release-notes-jan-26.md)
+         + [Notas de la versión: Enero de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Notas de la versión: enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de la versión: marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
