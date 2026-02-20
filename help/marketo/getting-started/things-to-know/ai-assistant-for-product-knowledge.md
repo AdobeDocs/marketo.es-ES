@@ -4,9 +4,10 @@ title: Asistente de IA para el conocimiento del producto
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 18923353978a8f3e635ee7b34073d041d92a3759
+exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
+source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -36,3 +37,7 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
    >[!TIP]
    >
    >Utilice este icono (imagen del icono aquí) para expandir la pantalla y este icono (imagen del icono aquí) para ver el historial de mensajes. &lt;— ¿HASTA DÓNDE LLEGAMOS? ¿HAY ALGÚN ENTORNO?
+
+## Inicio rápido: vídeo de información general de 60 segundos {#video}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
