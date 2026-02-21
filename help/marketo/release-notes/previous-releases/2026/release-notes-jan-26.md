@@ -2,10 +2,11 @@
 description: 'Notas de la versión, enero de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, enero de 2026
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
+source-git-commit: 640bf88008727e1fd8d2f65bae3bf133976a944d
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 36%
+source-wordcount: '477'
+ht-degree: 35%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 36%
 
 A continuación encontrará todas las funciones incluidas en la versión de enero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -73,8 +74,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <li>Las segmentaciones ahora se ordenan en orden alfabético.</li>
    </ul>
    </td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>N/A</td>
   </tr>
   <tr>
    <td> </td>
@@ -83,8 +84,8 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Correo electrónico de Designer - Carpetas</strong>: Ahora puede organizar los recursos creados con el Designer de correo electrónico (correos electrónicos, plantillas de correo electrónico, fragmentos) con carpetas.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>N/A</td>
   </tr>
   </tbody>
 </table>
@@ -102,11 +103,11 @@ Las siguientes funciones se lanzaron fuera del ciclo de lanzamiento estándar de
 
 * **Experiencia mejorada en la interfaz de la sala**: Disfrute de una interfaz de sala actualizada y más moderna, basada en el último módulo de diseño Spectrum 2 de Adobe, alineada con el lenguaje visual utilizado en otros productos de Adobe como Creative Cloud y Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/es/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obtener información detallada.
 
 ## Anuncios {#announcements}
 
-* **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=es){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=es){target="_blank"}.
+* **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del miércoles, 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
