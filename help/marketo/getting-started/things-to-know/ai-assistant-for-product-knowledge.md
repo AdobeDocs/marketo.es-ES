@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
 
 1. Inicie sesión en Marketo Engage mediante [Adobe Experience Cloud](https://experience.adobe.com/).
 
-1. Seleccione el icono de asistente de IA en el encabezado.
+1. Seleccione el icono de asistente de IA en el lado derecho del encabezado.
 
    CAPTURA DE PANTALLA
 
-1. Introduzca el mensaje deseado en la ventana de mensajes utilizando lenguaje natural.
+1. Introduzca el mensaje deseado utilizando un idioma natural.
 
    CAPTURA DE PANTALLA
 
@@ -36,7 +36,7 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
 
    >[!TIP]
    >
-   >Utilice este icono (imagen del icono aquí) para expandir la pantalla y este icono (imagen del icono aquí) para ver el historial de mensajes. &lt;— ¿HASTA DÓNDE LLEGAMOS? ¿HAY ALGÚN ENTORNO?
+   >Utilice este icono (imagen de icono aquí) para expandir la pantalla y este icono (imagen de icono aquí) para ver su historial o iniciar una nueva conversación.
 
 ## Inicio rápido: vídeo de información general de 60 segundos {#video}
 
