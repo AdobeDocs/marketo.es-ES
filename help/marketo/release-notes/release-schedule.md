@@ -4,9 +4,9 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 5255f550b8aefcaaec0403589bb9a798187e884e
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 91%
 
 ---
@@ -33,29 +33,24 @@ _Las fechas/características de la versión están sujetas a cambios_
    <th width="250px">Estado</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Agosto de 2025</a></td>
-   <td>22 de agosto de 2025</td>
-   <td>Completo</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Septiembre de 2025</a></td>
    <td>19 de septiembre de 2025</td>
    <td>Completo</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Octubre de 2025</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">Octubre de 2025</a></td>
    <td>31 de octubre de 2025</td>
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Enero de 2026</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">Enero de 2026</a></td>
    <td>30 de enero de 2026</td>
    <td>En curso</td>
   </tr>
   <tr>
-  <td>Febrero de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Febrero de 2026</a></td>
    <td>20 de febrero de 2026</td>
-   <td>Según lo programado</td>
+   <td>En curso</td>
   </tr>
   <tr>
   <td>Marzo de 2026</td>
@@ -74,7 +69,12 @@ _Las fechas/características de la versión están sujetas a cambios_
   </tr>
   <tr>
   <td>Junio del 26</td>
-   <td>26 de junio de 2026</td>
+   <td>sábado, 26 de junio de 2026</td>
+   <td>Según lo programado</td>
+  </tr>
+  <tr>
+  <td>Julio del 26</td>
+   <td>sábado, 31 de julio de 2026</td>
    <td>Según lo programado</td>
   </tr>
  </tbody>
