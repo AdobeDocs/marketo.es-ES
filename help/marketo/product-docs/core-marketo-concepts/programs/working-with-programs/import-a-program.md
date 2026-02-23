@@ -4,10 +4,10 @@ description: 'Importación de un programa: documentos de Marketo, documentación
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 1%
+source-wordcount: '553'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,10 @@ Un programa se puede importar de una suscripción de Marketo Engage a otra. Por 
 
 >[!CAUTION]
 >
->Los programas que tengan listas inteligentes que contengan el déclencheur &quot;El objeto personalizado se ha actualizado&quot; provocarán un error en la importación. Elimine este déclencheur de todas las listas inteligentes antes de seguir los pasos descritos a continuación.
+>
+>* Al importar un programa, se omitirán los mensajes de correo electrónico/páginas de aterrizaje que contengan fragmentos de código o [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}.
+>
+>* Los programas que tengan listas inteligentes que contengan el déclencheur &quot;El objeto personalizado se ha actualizado&quot; provocarán un error en la importación. Elimine este déclencheur de todas las listas inteligentes antes de seguir los pasos descritos a continuación.
 
 ## Importación de programas {#importing-a-program}
 
@@ -35,11 +38,11 @@ Un programa se puede importar de una suscripción de Marketo Engage a otra. Por 
    >
    >* Para conectar una cuenta de zona protegida a tu suscripción activa, ponte en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Seleccione una **[!UICONTROL suscripción]** de Marketo y un programa para importar. Haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione una **[!UICONTROL suscripción]** de Marketo y un programa para importar. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique una **[!UICONTROL carpeta de campaña]** para el programa importado. Haga clic en **[!UICONTROL Siguiente]**.
+1. Especifique una **[!UICONTROL carpeta de campaña]** para el programa importado. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-4.png)
 
@@ -82,7 +85,3 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 >Tipo de imagen: mis tokens no son compatibles con las importaciones de programas. Si se importa un programa que tiene el tipo de imagen mis tokens, _no_ tokens pasarán.
 
 **Etiquetas de programas:** Puede usar reglas de conflicto para controlar cómo se tratarán las etiquetas de programas que no existan en la cuenta de destino. El uso de la regla predeterminada creará las etiquetas de programa o puede optar por ignorar las etiquetas.
-
->[!CAUTION]
->
->Al importar un programa, se omitirán los mensajes de correo electrónico y las páginas de aterrizaje que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}.
