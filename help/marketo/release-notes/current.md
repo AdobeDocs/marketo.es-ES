@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 60%
+source-wordcount: '306'
+ht-degree: 58%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 60%
 
 A continuación encontrará todas las funciones incluidas en la versión de febrero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -43,6 +43,26 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Designer de correo electrónico - API</strong>: Ahora puede usar llamadas de API para el Designer de correo electrónico.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Correo electrónico de Designer - Administrar marcas (beta)</strong>: genere contenido de correo electrónico en función de las directrices de redacción específicas de su organización o marca.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Designer de correo electrónico - Comprobador de calidad de marca</strong>: evalúe la calidad general del contenido para identificar posibles problemas con legibilidad, coherencia de contenido y efectividad, independientemente de las directrices de marca.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
@@ -54,16 +74,6 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td><strong>Correo electrónico de Designer - Generación de imágenes del Asistente de IA</strong>: Ahora, además de Firefly, puede usar modelos de Nano Banana para generar imágenes con el Asistente de IA para el contenido de correo electrónico.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de correo electrónico - API</strong>: Ahora puede usar llamadas de API para el Designer de correo electrónico.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
