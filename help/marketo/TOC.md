@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -233,7 +233,6 @@ ht-degree: 99%
          + [Administrar valores de etiquetas](product-docs/administration/tags/managing-tag-values.md)
       + Usuarios y funciones {#users-and-roles}
          + [Creación de una función de usuario único de API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-         + [Creación de un usuario único de API](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Crear, eliminar, editar y cambiar una función de usuario](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Verificación de correo electrónico](product-docs/administration/users-and-roles/email-verification.md)
          + [Exportación de una lista de usuarios y funciones](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -1177,7 +1176,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1390,7 +1389,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
