@@ -293,7 +293,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (si corresponde)</td>
-<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
+<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
 <br/>
 <li>¿Ha aceptado la invitación de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de productos de Dynamic Chat</a>? El correo electrónico se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado administrador del sistema.
 <br/>     Si no es así, busque el correo electrónico de bienvenida en la bandeja de entrada y acepte la invitación para configurar su Adobe ID.</li>
