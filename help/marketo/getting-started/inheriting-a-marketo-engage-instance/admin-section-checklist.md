@@ -3,10 +3,10 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
 workflow-type: tm+mt
-source-wordcount: '1858'
-ht-degree: 3%
+source-wordcount: '1850'
+ht-degree: 4%
 
 ---
 
@@ -33,7 +33,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   <tr>
    <td>Suscripción y administrador de productos de Marketo Engage</td>
    <td><li>¿Ya se ha migrado su suscripción a Marketo Engage a <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>?
-<br/>     Si es así, ¿su "administrador del sistema de Adobe Admin Console" le ha concedido una función "Administrador de productos de Adobe Admin Console"? Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con el <a href="https://helpx.adobe.com/es/contact.html" target="_blank">Servicio de atención al cliente de Adobe</a>.</li>
+<br/>     Si es así, ¿su "administrador del sistema de Adobe Admin Console" le ha concedido una función "Administrador de productos de Adobe Admin Console"? Si no está seguro de quién en su organización tiene privilegios de administrador en la consola, póngase en contacto con el <a href="https://helpx.adobe.com/es/contact.html" target="_blank">Servicio de atención al cliente de Adobe</a>.</li>
 <li>¿Ha aceptado la invitación "Administrador de productos de Marketo Engage"? El correo electrónico se envía cuando se asigna la función en Adobe Admin Console.
 <br/>     Si no es así, busca el <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">correo electrónico de bienvenida</a> en tu bandeja de entrada y acepta la invitación para activar tu Adobe ID.</li></td>
   </tr>
@@ -69,7 +69,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Su compañía tiene directivas para eliminar usuarios?</li>
 <li>¿Cuántos usuarios tienen <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permisos de administración</a>?</li>
 <li>¿Alguno de esos usuarios debería cambiarse a <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">otros roles?</a></li>
-<li>¿Quiénes son los <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">usuarios de API</a> en esta instancia?</li></td>
+</td>
   </tr>
   <tr>
    <td>Funciones</td>
@@ -293,7 +293,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (si corresponde)</td>
-<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
+<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
 <br/>
 <li>¿Ha aceptado la invitación de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de productos de Dynamic Chat</a>? El correo electrónico se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado administrador del sistema.
 <br/>     Si no es así, busque el correo electrónico de bienvenida en la bandeja de entrada y acepte la invitación para configurar su Adobe ID.</li>
