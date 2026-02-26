@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # Suscribirse a las notificaciones de estado del sistema {#subscribe-to-system-status-notifications}
 
-TEXTO DE INTRODUCCIÓN
+Obtenga información sobre cómo suscribirse a diferentes notificaciones de estado para mantenerse al día sobre los problemas actuales.
 
 >[!PREREQUISITES]
 >
@@ -88,7 +88,7 @@ Después de [identificar su centro de datos y pod/servidor](#identify), siga los
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. Seleccione las ofertas o servicios de productos que desee y reciba las notificaciones correspondientes. A continuación, haga clic en **Continuar**.
+1. Seleccione las ofertas de productos o los servicios sobre los que desea recibir notificaciones y haga clic en **Continuar**.
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ Después de [identificar su centro de datos y pod/servidor](#identify), siga los
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Problema de servicio importante</b></td>
+   <td style="width:35%;"><b>Problema de servicio importante</b></td>
    <td>No disponibilidad del servicio o degradación grave del rendimiento para varios usuarios en sistemas de producción.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Problema de servicio menor</b></td>
+   <td style="width:35%;"><b>Problema de servicio menor</b></td>
    <td>Falta de disponibilidad parcial del servicio o degradación moderada del rendimiento para varios usuarios en sistemas de producción.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Mantenimiento de servicio</b></td>
-   <td>Texto</td>
+   <td style="width:35%;"><b>Mantenimiento de servicio</b></td>
+   <td>Ventanas programadas para realizar el mantenimiento del producto que puede afectar a su disponibilidad o rendimiento.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Anuncios</b></td>
-   <td>Anuncios relacionados con...</td>
+   <td style="width:35%;"><b>Anuncios</b></td>
+   <td>Mensajes globales, de la familia de productos o relacionados con productos que tienen un amplio impacto.</td>
    </tr>
    </table>
 
-1. Seleccione la ubicación y el entorno regionales que desee. Haga clic en **Continuar**.
+1. Seleccione la ubicación y el entorno regionales. Haga clic en **Continuar**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >Si no encontró dónde, consulte [Identifique su centro de datos](#identify).
 
 1. Elige tu preferencia de suscripción, **Correo electrónico** o **Slack**, y haz clic en **Continuar**.
 
