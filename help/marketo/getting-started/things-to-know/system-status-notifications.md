@@ -2,12 +2,10 @@
 description: Suscripción a las notificaciones de estado del sistema - Documentos de Marketo Engage - Documentación del producto
 title: Suscribirse a notificaciones de estado del sistema
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ Obtenga información sobre cómo suscribirse a diferentes notificaciones de esta
 
 ## Identificación del centro de datos {#identify}
 
-+++Identificación del centro de datos y del pod/servidor
-
 1. En la sección **Admin** de Marketo Engage, haga clic en **Mi cuenta**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Obtenga información sobre cómo suscribirse a diferentes notificaciones de esta
 
 En el campo _Centro de datos_, las letras son el centro de datos y los números son el pod. En el ejemplo anterior, el usuario se encuentra en nuestro centro de datos de Ashburn en el pod 49.
 
-En el paso 7 de [creación de una suscripción](#create-a-subscription), este usuario seleccionaría la ubicación regional **Marketo Ashburn** y el pod **ab49**.
+En el paso 7 de [la sección siguiente](#create-a-subscription), este usuario seleccionaría la ubicación regional **Marketo Ashburn** y el pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Abreviaciones del centro de datos</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Asquemar</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sídney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>Londres</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Ámsterdam</td>
-  </tr>
-</table>
+**Abreviaciones del centro de datos**
+
+ab: Ashburn
+sj: San Jose
+sn: Sídney
+lon: Londres
+nld: Amsterdam
 
 >[!TIP]
 >
 >Este método también se puede utilizar para identificar en qué pod/servidor de Real Time Personalization (RTP) se encuentra su suscripción.
-
-+++
 
 ## Creación de una suscripción {#create-a-subscription}
 

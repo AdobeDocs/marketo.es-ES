@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
    >
    >Use este icono ![](assets/icon-arrows.png) para expandir la pantalla y este icono ![](assets/icon-conversation-history.png) para ver su historial o iniciar una nueva conversación.
 
-## Inicio rápido: vídeo de información general de 60 segundos {#video}
+## Inicio rápido: información general en vídeo {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480118?captions=spa&learn=on){transcript=true}
+Descubre cómo funciona el asistente de IA para el conocimiento del producto en aproximadamente un minuto.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
