@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
 
 1. Seleccione el icono de asistente de IA en el lado derecho del encabezado.
 
-   CAPTURA DE PANTALLA
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Introduzca el mensaje deseado utilizando un idioma natural.
 
-   CAPTURA DE PANTALLA
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Haga clic en la flecha azul para enviar el mensaje.
 
-   CAPTURA DE PANTALLA
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Utilice este icono (imagen de icono aquí) para expandir la pantalla y este icono (imagen de icono aquí) para ver su historial o iniciar una nueva conversación.
+   >Use este icono ![](assets/icon-arrows.png) para expandir la pantalla y este icono ![](assets/icon-conversation-history.png) para ver su historial o iniciar una nueva conversación.
 
 ## Inicio rápido: vídeo de información general de 60 segundos {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480118?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
