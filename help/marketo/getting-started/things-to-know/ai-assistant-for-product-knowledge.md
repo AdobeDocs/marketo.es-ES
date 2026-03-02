@@ -42,4 +42,4 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
 
 Descubre cómo funciona el asistente de IA para el conocimiento del producto en aproximadamente un minuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480118?captions=spa&learn=on){transcript=true}
