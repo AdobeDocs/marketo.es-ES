@@ -40,4 +40,4 @@ Con el Asistente de inteligencia artificial para el conocimiento del producto, s
 
 ## Inicio rápido: vídeo de información general de 60 segundos {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480118?captions=spa&learn=on){transcript=true}
