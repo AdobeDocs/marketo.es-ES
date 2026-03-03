@@ -3,7 +3,7 @@ description: Suscripción a las notificaciones de estado del sistema - Documento
 title: Suscribirse a notificaciones de estado del sistema
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ Obtenga información sobre cómo suscribirse a diferentes notificaciones de esta
 
 En el campo _Centro de datos_, las letras son el centro de datos y los números son el pod. En el ejemplo anterior, el usuario se encuentra en nuestro centro de datos de Ashburn en el pod 49.
 
-En el paso 7 de [la sección siguiente](#create-a-subscription), este usuario seleccionaría la ubicación regional **Marketo Ashburn** y el pod **ab49**.
+En el paso 7 de [la sección siguiente](#create-a-subscription), el usuario seleccionaría la ubicación regional **Marketo Ashburn** y el pod **ab49**.
 
 **Abreviaciones del centro de datos**
 
-ab: Ashburn
-sj: San Jose
-sn: Sídney
-lon: Londres
-nld: Amsterdam
+* ab: Ashburn
+* sj: San Jose
+* sn: Sídney
+* lon: Londres
+* nld: Amsterdam
 
 >[!TIP]
 >
