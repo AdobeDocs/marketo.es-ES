@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Puntuación de optimización de la página / Widget de tareas pendientes {#page-optimization-score-to-do-widget}
 
-La puntuación de optimización de la página [!UICONTROL 1} es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. ] Se basa en docenas de prácticas recomendadas en SEO.
+La puntuación de optimización de la página [!UICONTROL 1&rbrace; es una clasificación general de la optimización de la página para la búsqueda, en una escala del 1 al 100. &#x200B;] Se basa en docenas de prácticas recomendadas en SEO.
 
 * 0 - 35 = No está bien optimizado
 * 35 - 70 = En el camino correcto
