@@ -30,7 +30,7 @@ A continuación se indica cómo crear un nuevo espacio de trabajo.
 
 >[!TIP]
 >
->Para obtener más información acerca de las prácticas recomendadas de Workspace, comuníquese con [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Para obtener más información acerca de las prácticas recomendadas de Workspace, comuníquese con [Marketo Professional Services](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"}.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

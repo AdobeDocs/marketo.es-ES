@@ -51,4 +51,4 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
 >[!NOTE]
 >
->Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

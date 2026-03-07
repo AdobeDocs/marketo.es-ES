@@ -40,11 +40,11 @@ La migración de asistencia se producirá una vez completada la migración de us
 
 ## Recursos adicionales {#additional-resources}
 
-* Aprenda a usar [Adobe Admin Console para administrar sus derechos de Adobe](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} en toda la organización.
+* Aprenda a usar [Adobe Admin Console para administrar sus derechos de Adobe](https://helpx.adobe.com/es/enterprise/using/admin-roles.html){target="_blank"} en toda la organización.
 
 * Encontrará más información sobre cómo iniciar sesión en Marketo Engage con un Adobe ID [aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Más información sobre [Adobe Experience League](https://experienceleague.adobe.com/?lang=es){target="_blank"}.
+* Más información sobre [Adobe Experience League](https://experienceleague.adobe.com/es?lang=es){target="_blank"}.
 
 ## ¿Todavía tiene preguntas? {#still-have-questions}
 

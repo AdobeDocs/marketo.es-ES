@@ -68,7 +68,7 @@ Los especialistas en marketing pueden permitir que los usuarios acepten la inclu
 
 Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, agregue este código al RTP o al JavaScript [!DNL Munchkin] incrustado en el sitio web.
 
-* Para [!DNL Munchkin], simplemente agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], simplemente agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para Web Personalization (RTP), añádalo al javascript:
 
