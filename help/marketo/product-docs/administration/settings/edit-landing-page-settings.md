@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: 'Editar configuración de página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Cómo editar el nombre de dominio, la página de reserva, el relleno previo del formulario y otras opciones de página de aterrizaje.
 title: Editar configuración de página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 6%
+source-wordcount: '237'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

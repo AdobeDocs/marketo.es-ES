@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095008
-description: "Agregar  [!DNL Google AdWords] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto"
-title: "Agregar [!DNL Google AdWords] como [!DNL LaunchPoint] servicio"
+description: Vincule  [!DNL Google AdWords] a Marketo a través de LaunchPoint para cargar datos de conversión sin conexión para la generación de informes en AdWords.
+title: Agregar  [!DNL Google AdWords] como [!DNL LaunchPoint] servicio
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Obtenga más información acerca de la característica de importación de conver
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

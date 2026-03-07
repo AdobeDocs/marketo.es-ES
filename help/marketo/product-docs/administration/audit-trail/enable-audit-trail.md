@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: Habilitar pista de auditoría - Documentos de Marketo - Documentación del producto
+description: Habilite la pista de auditoría y el historial de inicio de sesión para una función y asígnela a los usuarios mediante permisos de administración.
 title: Habilitar seguimiento de auditoría
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360358
-description: 'Restringir el inicio de sesión del usuario solo a SSO: documentos de Marketo, documentación del producto'
+description: Requerir SSO para todos los usuarios para que no puedan omitir la seguridad SSO a través de la configuración de inicio de sesión de administrador (no se aplica a Adobe IMS).
 title: Restringir el inicio de sesión del usuario a solo SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 5%
+source-wordcount: '261'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Si está [usando SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

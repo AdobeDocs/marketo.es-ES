@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360245
-description: Eliminar el texto de cancelación de suscripción de la sección de correo electrónico del administrador - Documentos de Marketo - Documentación del producto
+description: Elimine el contenido predeterminado para cancelar la suscripción del correo electrónico del administrador mediante un comentario de HTML al crear el vínculo en las plantillas.
 title: Eliminar texto de cancelación de suscripción de la sección Correo electrónico del administrador
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 

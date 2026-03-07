@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360325
-description: 'Permitir al usuario acceso a un Workspace: documentos de Marketo, documentación del producto'
+description: Pasos para otorgar a un usuario acceso a uno o más espacios de trabajo.
 title: Permitir al usuario acceso a Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 10%
+source-wordcount: '120'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

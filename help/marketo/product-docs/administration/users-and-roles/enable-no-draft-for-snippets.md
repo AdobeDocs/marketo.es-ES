@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: Habilitar la opción sin borrador para fragmentos de código - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar la opción Sin borrador para fragmentos de modo que los cambios en los fragmentos se apliquen a los recursos aprobados sin requerir nuevos borradores.
 title: Habilitar la opción Sin borrador para fragmentos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ La opción No borrador se habilita automáticamente para todas las funciones de 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Cambiar el tipo de un campo personalizado de Marketo - Documentos de Marketo - Documentación del producto
+description: Cómo cambiar el tipo de datos de un campo personalizado en Administración de campos (los campos de puntuación y fórmula no se pueden cambiar).
 title: Cambiar el tipo de un campo personalizado de Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

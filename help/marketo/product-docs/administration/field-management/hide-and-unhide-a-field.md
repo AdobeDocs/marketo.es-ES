@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: 'Ocultar y mostrar un campo: documentos de Marketo, documentación del producto'
+description: Oculte los campos de la IU de Marketo cuando ya no los necesite o muévalos para mostrarlos de nuevo.
 title: Ocultar y mostrar un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

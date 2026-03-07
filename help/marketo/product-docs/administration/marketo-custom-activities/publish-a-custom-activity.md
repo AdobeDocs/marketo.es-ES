@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100272
-description: 'Publicación de una actividad personalizada: documentos de Marketo, documentación del producto'
+description: Pasos para publicar una actividad personalizada.
 title: Publicación de una actividad personalizada
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 11%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360243
-description: 'Habilitar restricciones de persona para campañas inteligentes: documentos de Marketo, documentación del producto'
+description: Establezca un número máximo de personas que puedan cumplir los requisitos para una campaña inteligente para evitar enviar por correo electrónico accidentalmente toda la base de datos.
 title: Habilitar restricciones de persona para campañas inteligentes
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Hay una función en Marketo para limitar el _número máximo_ de personas que pu
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!CAUTION]
 >

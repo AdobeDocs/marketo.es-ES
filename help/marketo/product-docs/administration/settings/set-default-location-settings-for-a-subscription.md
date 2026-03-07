@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Configuración de ubicación predeterminada para una suscripción - Documentos de Marketo - Documentación del producto
+description: Cómo ven y editan los administradores la configuración de ubicación predeterminada de una suscripción, incluidos el idioma, la configuración regional, la zona horaria y la moneda.
 title: Establecer la configuración de ubicación predeterminada para una suscripción
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 9%
 
 ---

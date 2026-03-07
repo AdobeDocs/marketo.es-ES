@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: Uso compartido de segmentaciones en espacios de trabajo y particiones - Documentos de Marketo - Documentación del producto
+description: Reglas y pasos para compartir segmentaciones en espacios de trabajo y particiones, incluidos límites y sugerencias para crear segmentaciones en el espacio de trabajo predeterminado.
 title: Uso compartido de segmentaciones en espacios de trabajo y particiones
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '485'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: Asignación de particiones de persona con reglas de asignación - Documentos de Marketo - Documentación del producto
+description: Cómo configurar reglas de asignación para dirigir a las personas desde su CRM a las particiones de persona correctas.
 title: Asignación de particiones de personas con reglas de asignación
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >

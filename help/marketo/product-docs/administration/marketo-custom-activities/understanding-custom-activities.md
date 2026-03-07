@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100266
-description: 'Explicación de las actividades personalizadas: documentos de Marketo, documentación del producto'
+description: Información general sobre las actividades personalizadas para rastrear acciones de personas específicas del negocio, en qué se diferencian de los objetos personalizados y la configuración en dos pasos de la creación de la actividad y la implementación de la API.
 title: Explicación de actividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '278'
 ht-degree: 8%
 
 ---
@@ -37,4 +37,4 @@ Paso 1: [Cree una actividad personalizada](/help/marketo/product-docs/administra
 
 Paso 2: El empleado de su organización que trabaja con nuestra API puede comenzar la implementación. Encontrará más información aquí: [API de actividad personalizada](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
-¡Diviértete!
+A pasarlo bien.

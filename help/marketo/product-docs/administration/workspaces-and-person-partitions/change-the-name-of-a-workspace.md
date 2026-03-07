@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360321
-description: 'Cambiar el nombre de un Workspace: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo cambiar el nombre de un espacio de trabajo.
 title: Cambiar el nombre de un espacio de trabajo
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '76'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: 'Explicación de los objetos personalizados de Marketo: documentos de Marketo, documentación del producto'
+description: Información general sobre los objetos personalizados para realizar un seguimiento de métricas específicas de la empresa, incluidas las relaciones "uno a varios" y "varios a varios", los filtros, los déclencheur y dónde acceder a ellos en Administración.
 title: Explicación de Objetos personalizables de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '713'
 ht-degree: 1%
 
 ---

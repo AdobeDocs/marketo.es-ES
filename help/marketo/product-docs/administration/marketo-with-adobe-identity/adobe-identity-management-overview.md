@@ -1,12 +1,12 @@
 ---
-description: 'Información general de Adobe Identity Management: documentos de Marketo, documentación del producto'
+description: Información general sobre Adobe Identity Management para Marketo Engage, incluidos el tiempo de migración, la administración de usuarios de Admin Console y los niveles de perfil como administrador del sistema y administrador de productos.
 title: Información general sobre Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ Para las suscripciones integradas en Adobe identity, Adobe Admin Console se util
 
 >[!NOTE]
 >
->Si desea implementar el inicio de sesión único y su suscripción se ha incorporado a Adobe Identity sin SSO implementado en la organización de Adobe, envíe un ticket a [Soporte técnico de Marketo](https://nation.marketo.com/){target="_blank"} y especifique el tema como &quot;Marketo en Admin Console, implementación de SSO&quot;.
+>Si desea implementar el inicio de sesión único y su suscripción se ha incorporado a Adobe Identity sin SSO implementado en la organización de Adobe, envíe una solicitud de asistencia al [soporte técnico de Marketo](https://nation.marketo.com/){target="_blank"} y especifique el tema como “Marketo en Admin Console, implementación de SSO”.
 
 ## Niveles de perfil {#profile-levels}
 

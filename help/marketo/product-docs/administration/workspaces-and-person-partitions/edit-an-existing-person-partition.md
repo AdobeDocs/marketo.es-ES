@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360323
-description: 'Edición de una partición de persona existente: documentos de Marketo, documentación del producto'
+description: Pasos para editar las asignaciones de espacio de trabajo y nombre de partición de una persona.
 title: Edición de una partición de personas existente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >

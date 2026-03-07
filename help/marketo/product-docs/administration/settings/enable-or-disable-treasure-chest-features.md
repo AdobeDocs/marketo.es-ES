@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: Habilitar o deshabilitar las funciones del cofre del tesoro - Documentos de Marketo - Documentación del producto
+description: Cómo activar o desactivar las características experimentales de Treasure Chest.
 title: Habilitar o deshabilitar las funciones del cofre del tesoro
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ El cofre del tesoro contiene divertidas características experimentales que no s
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

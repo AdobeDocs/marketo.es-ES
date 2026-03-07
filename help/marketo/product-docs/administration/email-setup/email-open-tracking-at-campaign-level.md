@@ -1,12 +1,12 @@
 ---
-description: 'Seguimiento de aperturas de correo electrónico en el nivel de campaña: documentos de Marketo, documentación del producto'
+description: Controle si las aperturas de correo electrónico se rastrean por campaña o una vez por persona en todas las campañas.
 title: Seguimiento de aperturas de correo electrónico en el nivel de campaña
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Esta función le permite controlar el seguimiento de las aperturas del correo el
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **Admin**.
 

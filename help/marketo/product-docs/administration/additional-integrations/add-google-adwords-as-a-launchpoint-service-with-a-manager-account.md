@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504893
-description: "Agregar  [!DNL Google AdWords] as a [!DNL Launchpoint] Servicio con una cuenta de administrador - Documentos de Marketo - Documentación del producto"
-title: "Agregar  [!DNL Google AdWords] como [!DNL Launchpoint] servicio con una cuenta de administrador"
+description: Integre varias  [!DNL Google AdWords] cuentas con Marketo mediante una cuenta de administrador en LaunchPoint.
+title: Agregar  [!DNL Google AdWords] como [!DNL Launchpoint] servicio con una cuenta de gerente
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 2%
 
 ---
 
 # Agregar [!DNL Google AdWords] como servicio de [!DNL Launchpoint] con una cuenta de administrador {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Vincule su cuenta de [!DNL Google AdWords] a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], podrá ver fácilmente qué clics resultaron en posibles clientes, oportunidades y nuevos clientes calificados (o las fases de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en [!DNL AdWords]. Esta información no aparece en la interfaz de usuario de Marketo.
+Vincule su cuenta de [!DNL Google AdWords] a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], podrá ver fácilmente qué clics resultaron en posibles clientes, oportunidades y clientes nuevos calificados (o las fases de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en [!DNL AdWords]. Esta información no aparece en la interfaz de usuario de Marketo.
 
 Si tiene varias cuentas de [!DNL Google Adwords], puede usar una cuenta de [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (anteriormente conocida como [!DNL My Client Center]) para integrarlas con Marketo.
 
@@ -25,7 +25,7 @@ Obtenga más información acerca de la característica de importación de conver
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Obtenga más información acerca de la característica de importación de conver
    >
    >[Se debe seleccionar el etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} para que esta característica funcione. Debe activarse dentro de [!DNL AdWords].
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 

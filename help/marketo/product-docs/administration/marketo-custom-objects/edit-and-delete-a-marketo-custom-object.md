@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093690
-description: 'Edición y eliminación de un objeto personalizado de Marketo: documentos de Marketo, documentación del producto'
+description: Pasos para editar o eliminar un objeto personalizado.
 title: Editar y eliminar un objeto personalizable de Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '270'
 ht-degree: 5%
 
 ---

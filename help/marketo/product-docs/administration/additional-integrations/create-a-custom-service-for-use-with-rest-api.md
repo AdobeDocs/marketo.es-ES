@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360350
-description: 'Creación de un servicio personalizado para su uso con la API de ReST: documentos de Marketo: documentación del producto'
+description: Cree un servicio de LaunchPoint personalizado vinculado a un usuario solo de API para la integración de API de ReST.
 title: Creación de un servicio personalizado para utilizarlo con la API de ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 12%
 
 ---
@@ -27,7 +27,7 @@ Si desea integrarse con Marketo a través de la API de ReST, debe crear un servi
 
 >[!TIP]
 >
->Consulte nuestra documentación para desarrolladores para obtener más información sobre la [API de REST](https://developer.adobe.com/marketo-apis/). También tenemos la [API de SOAP](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/soap/soap-api) si es lo que necesita.
+>Consulte nuestra documentación para desarrolladores para obtener más información sobre la [API de REST](https://developer.adobe.com/marketo-apis/). También tenemos la [API de SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) si es lo que necesita.
 
 ## Crear servicio personalizado {#create-custom-service}
 

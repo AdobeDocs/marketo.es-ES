@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512270
-description: "Agregar servicio de Adobe Connect as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto"
-title: "Agregar Adobe Connect as a [!DNL LaunchPoint] Service"
+description: Añada el servicio de Adobe Connect as a LaunchPoint para que Marketo administre el registro y la asistencia a seminarios web.
+title: Agregar Adobe Connect as a [!DNL LaunchPoint] Service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo administra el registro y la asistencia a seminarios web de Adobe Connect
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504874
-description: '[!DNL Munchkin] - Documentos de Marketo - Documentación del producto'
+description: Información general sobre el fragmento de código JavaScript de Munchkin para el seguimiento de visitas a sitios web, clics y rellenos de formulario, con un vínculo a la API de desarrollador.
 title: '[!DNL Munchkin]'
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 46c939aad966275834d92d49081052fd8798d1a4
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: Creación de nuevos valores de etiquetas de programas - Documentos de Marketo - Documentación del producto
+description: Cómo crear una etiqueta de programa personalizada y asignar valores, elegir tipos de programa y hacer que la etiqueta sea necesaria al crear nuevos programas.
 title: Creación de una nueva etiqueta de programa y valores de etiqueta
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 10%
+source-wordcount: '174'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para sus programas y asignar valores a la etiqueta.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377406
-description: 'Editar el dominio de marca predeterminado con espacios de trabajo: documentación de Marketo'
+description: Cambie el dominio de marca genérico al dominio de empresa al utilizar espacios de trabajo en Marketo.
 title: Editar el dominio de marca predeterminado con espacios de trabajo
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 10%
+source-wordcount: '157'
+ht-degree: 11%
 
 ---
 

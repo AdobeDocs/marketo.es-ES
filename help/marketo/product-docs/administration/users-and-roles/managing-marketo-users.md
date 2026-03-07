@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: 'Administración de usuarios de Marketo: documentos de Marketo, documentación del producto'
+description: Pasos para crear y eliminar usuarios, restablecer contraseñas y editar la información del usuario y los permisos para las suscripciones que no utilizan Adobe Identity.
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '415'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-6.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: 'Explicación de la configuración de privacidad: documentos de Marketo, documentación del producto'
+description: Información general sobre las opciones de privacidad y seguimiento, como No rastrear la compatibilidad con el explorador, las cookies de exclusión y el seguimiento de IP anónimo para visitantes web.
 title: Explicación de la configuración de privacidad
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Los especialistas en marketing pueden permitir que los usuarios acepten la inclu
 
 Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, agregue este código al RTP o al JavaScript [!DNL Munchkin] incrustado en el sitio web.
 
-* Para [!DNL Munchkin], simplemente agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], simplemente agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para Web Personalization (RTP), añádalo al javascript:
 

@@ -1,12 +1,12 @@
 ---
-description: Filtrado de actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Filtre o registre la actividad de bots de correo electrónico para evitar aperturas y clics inflados mediante la coincidencia de listas IAB y patrones de proximidad.
 title: Filtrar actividad del bot de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 1%
+source-wordcount: '494'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: Uso de un ID universal para el inicio de sesión con suscripción - Documentos de Marketo - Documentación del producto
+description: Cómo Universal ID le permite acceder a varias suscripciones de Marketo con un inicio de sesión, cambiar entre ellas y cómo funcionan las políticas de contraseñas y los datos de perfil en las distintas suscripciones.
 title: Uso de un ID universal para el inicio de sesión con suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 2%
 
 ---

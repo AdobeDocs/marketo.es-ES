@@ -1,11 +1,11 @@
 ---
-description: 'Adición o eliminación de un usuario: documentos de Marketo, documentación del producto'
+description: Cómo añadir o quitar usuarios de Marketo Engage en Adobe Admin Console seleccionando un perfil de producto y administrando la pestaña Usuarios.
 title: Añadir o quitar un usuario
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---

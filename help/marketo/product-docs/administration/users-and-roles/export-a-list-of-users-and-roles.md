@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: 'Exportación de una lista de usuarios y funciones: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo exportar una lista de usuarios y funciones.
 title: Exportación de una lista de usuarios y funciones
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 18%
+source-wordcount: '84'
+ht-degree: 22%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Es bastante fácil exportar una lista completa de los usuarios y las funciones de usuario. Así es cómo se hace.
 

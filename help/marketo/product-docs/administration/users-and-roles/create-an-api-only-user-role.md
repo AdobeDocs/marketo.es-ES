@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360203
-description: 'Creación de una función de usuario solo de API: documentos de Marketo, documentación del producto'
+description: Cómo crear una función de usuario Solo API para la integración de API de REST definiendo un nombre de función y seleccionando los permisos de acceso de API que desea conceder.
 title: Creación de una función de usuario único de API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 

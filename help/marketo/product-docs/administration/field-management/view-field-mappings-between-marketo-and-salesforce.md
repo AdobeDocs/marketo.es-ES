@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: "Ver asignaciones de campos entre Marketo y  [!DNL Salesforce] : documentos de Marketo: documentación del producto"
-title: "Ver asignaciones de campos entre Marketo y  [!DNL Salesforce]"
+description: Obtenga información sobre cómo ver qué  [!DNL Salesforce] campos están asignados a campos de Marketo en Administración de campos.
+title: Ver asignaciones de campo entre Marketo y  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Es posible que desee saber a qué [!DNL Salesforce] campos está vinculado un ca
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: 'Habilitar direcciones URL personalizadas para su cuenta: documentos de Marketo, documentación del producto'
+description: Pasos para habilitar direcciones URL personalizadas para la suscripción para su uso en correo impreso y otras campañas.
 title: Habilitar direcciones URL personalizadas para su cuenta
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

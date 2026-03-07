@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512607
-description: 'Descargar [!DNL GoogleAdwords Activity Log] : Documentos de Marketo: documentación del producto'
+description: Descargue el registro de actividad  [!DNL Google AdWords] de LaunchPoint para solucionar problemas de integración.
 title: Descargar [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380986
-description: Edición de documentos de Workspace - Marketo Docs - Documentación del producto
+description: Aprenda a cambiar la partición de posible cliente, la partición de persona principal y el dominio de marca principal de un espacio de trabajo.
 title: Edición de un espacio de trabajo
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 6%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ A veces, debe realizar cambios en un Workspace. Es fácil.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

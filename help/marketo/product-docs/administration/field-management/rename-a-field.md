@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: Cambiar el nombre de un campo - Documentos de Marketo - Documentación del producto
+description: Pasos para cambiar el nombre de un campo personalizado en Marketo después de eliminar todo su uso en formularios, listas inteligentes y campañas.
 title: Cambiar el nombre del campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

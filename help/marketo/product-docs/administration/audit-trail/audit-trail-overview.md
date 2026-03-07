@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377945
-description: Pista de auditoría&rbrack; Información general - Documentos de Marketo - Documentación del producto
+description: Información general sobre la pista de auditoría y cómo captura un historial de seis meses de cambios y actividad de inicio de sesión en la instancia de Marketo.
 title: Información general de seguimiento de auditoría
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---

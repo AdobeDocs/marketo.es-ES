@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: Edición del mensaje de cancelación de suscripción - Documentos de Marketo - Documentación del producto
+description: Cambie el texto predeterminado de cancelación de suscripción y los vínculos adjuntos a los correos electrónicos de marketing en Correo electrónico del administrador.
 title: Editar el mensaje de cancelación de suscripción
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '145'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Cuando envía correos electrónicos de marketing (que no son [operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), el texto de cancelación de suscripción y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es cómo se hace.
 

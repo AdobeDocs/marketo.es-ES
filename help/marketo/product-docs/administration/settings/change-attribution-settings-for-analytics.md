@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: 'Cambiar la configuración de atribución para Analytics: Documentos de Marketo, documentación del producto'
+description: Cómo establecer opciones de atribución de primer contacto y de múltiples contactos, conversión de posibles clientes y oportunidades influidas por el marketing en Revenue Cycle Analytics.
 title: Cambiar la configuración de atribución para Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---

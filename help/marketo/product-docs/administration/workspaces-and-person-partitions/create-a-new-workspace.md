@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: Creación de una nueva documentación de Workspace - Documentos de Marketo - Documentación del producto
+description: Pasos para crear un nuevo espacio de trabajo, incluido el nombre, la selección de particiones de persona, la selección de un dominio de marca principal y la configuración del idioma del espacio de trabajo.
 title: Creación de un nuevo espacio de trabajo
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '226'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ A continuación se indica cómo crear un nuevo espacio de trabajo.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ A continuación se indica cómo crear un nuevo espacio de trabajo.
 
 >[!TIP]
 >
->Para obtener más información acerca de las prácticas recomendadas de Workspace, comuníquese con [Marketo Professional Services](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"}.
+>Para obtener más información acerca de las prácticas recomendadas de Workspace, comuníquese con [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

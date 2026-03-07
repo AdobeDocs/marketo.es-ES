@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360335
-description: Bloquear actualizaciones de campos durante la importación de listas desde fuentes que no son de confianza - Documentos de Marketo - Documentación del producto
+description: Impida que los campos clave se sobrescriban durante las importaciones de listas de fuentes que no son de confianza para proteger los datos existentes.
 title: Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Puede confiar más en los datos de algunas listas que en otras. A veces, tiene d
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Bloqueo De Actualizaciones De Campos De Fuentes Que No Son De Confianza {#blocking-field-updates-from-untrusted-sources}
 

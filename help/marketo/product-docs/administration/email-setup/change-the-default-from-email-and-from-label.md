@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: 'Cambio de la etiqueta predeterminada Desde correo electrónico y Desde: documentos de Marketo: documentación del producto'
+description: Establezca los valores predeterminados de las etiquetas Desde correo electrónico y Desde para los nuevos correos electrónicos como usuario administrador.
 title: Cambio de la etiqueta predeterminada Desde correo electrónico y Desde
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '115'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ Cada usuario administrador tiene la capacidad de cambiar los valores predetermin
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya a la sección **[!UICONTROL Admin]**.
 

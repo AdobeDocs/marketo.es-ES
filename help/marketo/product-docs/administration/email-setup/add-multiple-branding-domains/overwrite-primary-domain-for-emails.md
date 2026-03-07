@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: Sobrescribir dominio principal para correos electrónicos - Documentos de Marketo - Documentación del producto
+description: Anule el dominio de personalización de marca principal de los correos electrónicos individuales para cambiar la forma en que se personalizan los vínculos cuando se envían.
 title: Sobrescribir dominio principal para correos electrónicos
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 

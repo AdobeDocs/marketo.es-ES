@@ -1,12 +1,12 @@
 ---
-description: 'Exportar todos los metadatos de objeto: documentos de Marketo, documentación del producto'
+description: Exporte todos los objetos y sus metadatos, incluidos los campos de posibles clientes, los objetos personalizados, las actividades, los canales y las etiquetas, como CSV.
 title: Exportar todos los metadatos del objeto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 24%
+source-wordcount: '84'
+ht-degree: 25%
 
 ---
 
@@ -16,7 +16,7 @@ Esta función le permite exportar todos los objetos y sus metadatos.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Objetos {#objects}
 

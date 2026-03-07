@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: ' [!DNL Munchkin] Preguntas frecuentes sobre el seguimiento de próxima generación - Documentos de Marketo - Documentación del producto'
+description: Preguntas más frecuentes sobre el despliegue de seguimiento de  [!DNL Munchkin] próxima generación y el cambio de filtro de Is Anonymous.
 title: Preguntas frecuentes sobre seguimiento  [!DNL Munchkin] de próxima generación
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Si ya está utilizando este filtro en una lista inteligente (por ejemplo, en una
 >[!NOTE]
 >
 >**Déclencheur**: visita la página web, la página web es una página de precios
->&#x200B;>**Flujo**: cambiar puntuación +10 y momento interesante
->&#x200B;>**Web**: página de precios vista
+>**Flujo**: cambiar puntuación +10 y momento interesante
+>**Web**: página de precios vista
 >
 >Con [!DNL Munchkin] V2, si una persona anónima visita la página de precios, no ingresa a la campaña inmediatamente. En el momento en que la persona anónima sea conocida, haremos esta campaña con ella. Lo hará:
 >

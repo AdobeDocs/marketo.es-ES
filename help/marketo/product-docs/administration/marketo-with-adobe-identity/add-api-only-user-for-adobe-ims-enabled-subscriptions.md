@@ -1,11 +1,11 @@
 ---
-description: Añadir usuario solo de API para suscripciones habilitadas para IMS de Adobe - Documentos de Marketo - Documentación del producto
+description: Cómo crear y administrar usuarios de solo API en Marketo Engage cuando su suscripción utiliza Adobe IMS.
 title: Añadir usuario solo de API para suscripciones habilitadas para IMS de Adobe
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '156'
 ht-degree: 11%
 
 ---

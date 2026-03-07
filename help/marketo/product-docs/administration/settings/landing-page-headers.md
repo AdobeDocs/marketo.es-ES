@@ -1,11 +1,11 @@
 ---
-description: 'Encabezados de página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Cómo personalizar encabezados HTTP para dominios de páginas de aterrizaje, incluidos Strict-Transport-Security y X-Frame-Options.
 title: Encabezados de la página de destino
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---

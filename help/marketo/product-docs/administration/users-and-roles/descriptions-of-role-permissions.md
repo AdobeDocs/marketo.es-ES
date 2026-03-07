@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848747
-description: Descripciones de los permisos de funciones - Documentos de Marketo - Documentación del producto
+description: Lista de referencia de todos los permisos de funciones en Marketo, incluidos los permisos de administración de acceso, API de acceso y otros grupos de permisos que puede asignar al crear o editar funciones.
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1468'
 ht-degree: 15%
 
 ---

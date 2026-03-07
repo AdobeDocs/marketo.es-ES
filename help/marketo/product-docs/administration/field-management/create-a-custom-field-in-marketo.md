@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360287
-description: 'Creación de un campo personalizado en Marketo: documentos de Marketo: documentación del producto'
+description: Pasos para crear un nuevo campo personalizado en Marketo Engage para almacenar y capturar datos de personas o empresas.
 title: Creación de un campo personalizado en Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '200'
 ht-degree: 6%
 
 ---

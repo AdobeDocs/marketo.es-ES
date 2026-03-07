@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: Agregar el inicio de sesión único a un portal - Documentos de Marketo - Documentación del producto
+description: Habilite el inicio de sesión único de SAML 2.0 para que su proveedor de identidad autentique a los usuarios en Marketo (no se aplica a Adobe IMS).
 title: Añadir el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!IMPORTANT]
 >

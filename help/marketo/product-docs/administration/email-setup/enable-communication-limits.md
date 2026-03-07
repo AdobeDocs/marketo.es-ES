@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: Habilitar límites de comunicación - Documentos de Marketo - Documentación del producto
+description: Establezca límites de correo electrónico por día y por 7 días para evitar una comunicación excesiva con sus recursos.
 title: Habilitar límites de comunicación
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

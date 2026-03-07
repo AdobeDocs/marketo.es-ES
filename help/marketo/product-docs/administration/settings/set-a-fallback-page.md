@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359920
-description: 'Definición de una página de reserva: documentos de Marketo, documentación del producto'
+description: Pasos para establecer una página de reserva para que los visitantes vean una página designada cuando una página de aterrizaje esté sin conexión o no se encuentre.
 title: Establecer una página de reserva
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ Las páginas de reserva son la última línea de defensa si la página de aterri
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

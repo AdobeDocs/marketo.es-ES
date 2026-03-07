@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: 'Creación, eliminación, edición y cambio de una función de usuario: documentos de Marketo, documentación del producto'
+description: Pasos para crear, eliminar y editar roles de usuario, incluidos los roles de nomenclatura, la selección de permisos y los roles de sistema que no se pueden cambiar.
 title: Crear, eliminar, editar y cambiar una función de usuario
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 8%
+source-wordcount: '303'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!IMPORTANT]
 >

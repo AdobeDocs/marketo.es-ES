@@ -1,13 +1,13 @@
 ---
-description: Paneles de uso del producto - Documentos de Marketo - Documentación del producto
+description: Cómo acceder a los paneles de uso del producto para ver el uso en relación con los límites, las métricas de actividad y las métricas de suscripción clave.
 title: Paneles de uso del producto
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '620'
 ht-degree: 2%
 
 ---

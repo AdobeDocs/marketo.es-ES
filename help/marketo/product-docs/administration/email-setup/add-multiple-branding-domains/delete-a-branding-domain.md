@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378041
-description: 'Eliminar un dominio de marca: documentos de Marketo, documentación del producto'
+description: Elimine un dominio de marca de la tabla de administración de correo electrónico (establezca primero una marca principal diferente si elimina la principal).
 title: Eliminar un dominio de personalización de marca
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 

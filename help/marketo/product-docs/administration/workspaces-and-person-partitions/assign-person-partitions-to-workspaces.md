@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360317
-description: Asignar particiones de persona a espacios de trabajo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo editar qué particiones de persona se asignan a un espacio de trabajo.
 title: Asignar particiones de persona a espacios de trabajo
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 8%
+source-wordcount: '140'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Así se editan las asignaciones de partición de persona/espacio de trabajo:
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >

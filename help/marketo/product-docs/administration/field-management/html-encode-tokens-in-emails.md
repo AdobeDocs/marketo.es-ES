@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: 'HTML codifica tokens en correos electrónicos: documentos de Marketo, documentación del producto'
+description: Habilite o deshabilite la codificación HTML para los tokens de persona y compañía utilizados en los correos electrónicos para garantizar una transmisión correcta.
 title: Tókenes de codificación HTML en correos electrónicos
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Habilite/deshabilite los tokens de persona y compañía utilizados en los correo
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

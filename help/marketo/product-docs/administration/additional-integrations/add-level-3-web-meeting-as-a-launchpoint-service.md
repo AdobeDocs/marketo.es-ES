@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512292
-description: "Agregar  [!DNL Level 3 Web Meeting] servicio as a [!DNL LaunchPoint] Service - Documentos de Marketo - Documentación del producto"
-title: "Agregar [!DNL Level 3 Web Meeting] como [!DNL LaunchPoint Service]"
+description: Agrega [!DNL Level 3 Web Meeting] as a un servicio de LaunchPoint para administrar el registro y la asistencia en Marketo.
+title: Agregar [!DNL Level 3 Web Meeting] como [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo administra el registro y la asistencia de [!DNL Level 3 Web Meeting].
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

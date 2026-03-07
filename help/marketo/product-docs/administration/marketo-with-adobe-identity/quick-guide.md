@@ -1,43 +1,42 @@
 ---
-description: 'Guía rápida: Documentos de Marketo: documentación del producto'
+description: Referencia rápida con vínculos para configurar Marketo Engage con Adobe Identity, incluida la configuración del administrador del sistema, la administración de usuarios, los usuarios solo de API y el inicio de sesión.
 title: Guía rápida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 6%
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 
 # Guía rápida {#quick-guide}
 
-Los artículos que se enumeran a continuación le ayudarán a configurar Marketo Engage con Adobe Identity Management y a obtener más información al respecto.
+Los artículos que se enumeran a continuación le ayudarán a configurar y obtener más información sobre Marketo Engage con Adobe Identity Management.
 
-## Configuración de administración del sistema {#system-admin-setup}
+## Configuración de la administración del sistema {#system-admin-setup}
 
-Creación de perfiles y administradores de productos.
+Creación de perfiles de producto y administradores de productos.
 
 [Crear un perfil de producto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
-[Agregar un administrador de productos](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
+[Añadir un administrador de productos](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## Gestión de usuarios {#user-management}
 
-Agregar y eliminar usuarios. Completado por el administrador de productos (o el sistema)
-Admin).
+Añadir y quitar usuarios. Completado por el administrador de productos (o el administrador del sistema).
 
-[Agregar un usuario](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
+[Añadir un usuario](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
 [Quitar un usuario](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Usuario solo de API en Marketo Engage {#api-only-user-in-marketo-engage}
+## Usuario único de API en Marketo Engage {#api-only-user-in-marketo-engage}
 
-Solo el API de Marketo Engage Los usuarios deben crearse y administrarse en Marketo Engage.
+Los usuarios únicos de API de Marketo Engage deben crearse y administrarse en Marketo Engage.
 
-[Agregar usuario solo de API para suscripciones habilitadas para IMS de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[Añadir usuario único de API a las suscripciones habilitadas para IMS de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
-## Añadir usuarios mediante CSV {#add-users-via-csv}
+## Añadir usuarios a través de CSV {#add-users-via-csv}
 
 [Importar un CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
@@ -47,4 +46,4 @@ Solo el API de Marketo Engage Los usuarios deben crearse y administrarse en Mark
 
 ## Preguntas frecuentes {#faq}
 
-[Preguntas más frecuentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+[Preguntas frecuentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

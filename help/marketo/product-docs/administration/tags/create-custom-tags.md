@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: 'Creación de etiquetas personalizadas: documentos de Marketo, documentación del producto'
+description: Cómo crear un nuevo tipo de etiqueta con valores, elegir a qué tipos de programa se aplica y establecer la etiqueta como obligatoria u opcional.
 title: Creación de etiquetas personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 3%
+source-wordcount: '236'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Crear nuevo tipo de etiqueta {#create-a-new-tag-type}
 

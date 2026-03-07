@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: Exportación utilizada por los datos de un campo - Documentos de Marketo - Documentación del producto
+description: Exporte una lista de los recursos que utilizan un campo para poder delegar la desvinculación a su equipo.
 title: Exportación utilizada por los datos de un campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Como administrador, tiene la capacidad de exportar los recursos relacionados de 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

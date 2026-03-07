@@ -1,11 +1,11 @@
 ---
-description: Verificación por correo electrónico - Documentos de Marketo - Documentación del producto
+description: Información general sobre la verificación por correo electrónico para los usuarios de Marketo Engage, incluidos los motivos por los que es necesaria, el flujo de invitaciones, el correo electrónico de verificación y la resolución de varios ID de inicio de sesión.
 title: Verificación de correo electrónico
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '485'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Marcar un campo como confidencial - Documentos de Marketo - Documentación del producto
+description: Marque los campos como confidenciales, de modo que sus valores nunca se rellenen previamente en formularios para proteger los datos del usuario.
 title: Marcar un campo como confidencial
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 
