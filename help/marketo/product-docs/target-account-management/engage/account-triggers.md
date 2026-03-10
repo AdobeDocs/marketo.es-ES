@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: Déclencheur de cuenta - Documentos de Marketo - Documentación del producto
+description: Aprenda a escuchar y actuar en actividades de comportamiento de nivel de cuenta mediante déclencheur de cuenta. Utilice déclencheur de cuenta con nombre en campañas inteligentes para atraer a cuentas clave.
 title: Activadores de la cuenta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 

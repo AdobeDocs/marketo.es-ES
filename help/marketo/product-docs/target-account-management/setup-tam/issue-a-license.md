@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380771
-description: 'Emitir una licencia: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo emitir una licencia TAM a los usuarios para que puedan utilizar la administración de cuentas de Target. Habilitar o quitar licencias.
 title: Expedir una licencia
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '109'
+ht-degree: 5%
 
 ---
 

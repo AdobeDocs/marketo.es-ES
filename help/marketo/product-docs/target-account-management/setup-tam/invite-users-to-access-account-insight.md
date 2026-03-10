@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980105
-description: Invitar a usuarios a acceder a [!UICONTROL Insight de la cuenta] - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo invitar a usuarios a acceder a Account Insight. Invite por correo electrónico o CRM y conceda acceso a Insight de cuenta desde la pestaña Usuarios de ventas.
 title: Invitar a usuarios a acceder a [!UICONTROL Insight de cuenta]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '185'
+ht-degree: 1%
 
 ---
 
@@ -41,7 +41,7 @@ Siga estos pasos para proporcionar a los usuarios acceso a [!UICONTROL Account I
 
    ![](assets/four-5.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/five-5.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381156
-description: Coincidencia de clientes potenciales con cuentas - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la coincidencia de clientes potenciales con cuentas y cómo Marketo coincide con los posibles clientes en cuentas con nombre en tiempo casi real. Resuelva las coincidencias débiles y los déclencheur en las nuevas posibles clientes.
 title: Coincidencia de cliente potencial con cuenta
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 

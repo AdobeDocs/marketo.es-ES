@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
-description: Añadir personas a una cuenta con nombre - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo agregar personas a una cuenta con nombre mediante acciones de flujo, pasos de flujo de campaña inteligente o importación de listas.
 title: Añadir personas a una cuenta nombrada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
 ## Acción de flujo individual {#single-flow-action}
 
-1. Haga clic en **[!UICONTROL Base de datos]**.
+1. Haga clic en la **[!UICONTROL base de datos]**.
 
    ![](assets/one-2.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: 'Creación de un campo personalizado para la detección de CRM: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo crear un campo de cuenta con nombre personalizado, asignarlo a su CRM y utilizarlo en la detección de cuentas de CRM. Consulte datos asignados en la cuadrícula de Discover CRM.
 title: Crear un campo personalizado para la detección de CRM
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 10%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 

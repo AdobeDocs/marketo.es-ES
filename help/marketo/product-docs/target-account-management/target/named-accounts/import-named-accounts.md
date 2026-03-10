@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615800
-description: Importar [!UICONTROL Cuentas Con Nombre] - Documentos De Marketo - Documentación Del Producto
+description: Obtenga información sobre cómo importar cuentas con nombre de un archivo CSV a TAM. Cargue la lista, elija el modo de desduplicación por nombre de cuenta o dominio y asigne campos.
 title: Importar [!UICONTROL Cuentas con nombre]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/inafive-2.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/inasix-2.png)
 

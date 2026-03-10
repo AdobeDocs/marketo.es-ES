@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615781
-description: 'Creación de una cuenta con nombre: documentos de Marketo, documentación del producto'
+description: Aprenda a crear manualmente una cuenta con nombre en TAM. Utilice la lista desplegable Nuevo, seleccione Crear cuenta con nombre y rellene los campos deseados.
 title: Crear una cuenta nombrada
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 5%
 
 ---
 

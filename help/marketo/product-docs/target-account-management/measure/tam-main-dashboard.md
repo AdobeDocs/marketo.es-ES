@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: 'Panel principal de TAM: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca del tablero principal de TAM y el resumen de los esfuerzos de la cuenta de destinatario. Filtre por lista de cuentas y explore en profundidad la lista o las perspectivas de cuenta con nombre.
 title: Panel de control principal de TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '134'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Administración de cuentas de Target] - Documentos de Marketo - Documentación del producto'
+description: Obtenga información acerca de la administración de cuentas de Marketo Target y cómo unifica las ventas y el marketing con las cuentas clave de Target. Introducción a los pasos de licencia y configuración.
 title: '[!UICONTROL Administración de cuenta de destino]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---

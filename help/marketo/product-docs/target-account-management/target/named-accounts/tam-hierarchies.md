@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795510
-description: Jerarquías TAM - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las jerarquías TAM y cómo heredan las relaciones principal-secundario de su CRM. Segmente e informe sobre familias completas de cuentas con un solo clic.
 title: Jerarquías de TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '161'
 ht-degree: 2%
 
 ---

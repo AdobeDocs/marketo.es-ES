@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979282
-description: Información general del complemento [!DNL Account Insight] - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del complemento Insight Chrome de la cuenta que muestra las perspectivas de TAM a los equipos de ventas. Vea de forma eficaz las cuentas con nombre, las fuentes de actividad y las cuentas de participación.
 title: Información general del complemento [!DNL Account Insight]
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---

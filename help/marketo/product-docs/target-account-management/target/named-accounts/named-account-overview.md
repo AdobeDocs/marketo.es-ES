@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Información general sobre la cuenta con nombre] - Documentos de Marketo - Documentación del producto'
+description: Obtenga información acerca de las cuentas con nombre y cómo retienen a personas de sus empresas segmentadas. Ver los datos de atributos actuales de todas las cuentas con nombre del panel.
 title: Información general sobre [!UICONTROL Cuenta con nombre]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '255'
 ht-degree: 10%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380778
-description: Permisos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar permisos de TAM para usuarios y funciones. Conceda acceso a Administración de cuentas de Target y acceso a Administración de ABM para controlar quién puede utilizar TAM.
 title: Permisos
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---

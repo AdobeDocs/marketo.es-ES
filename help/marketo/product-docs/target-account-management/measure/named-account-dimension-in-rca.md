@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: Dimension de cuentas con nombre en RCA - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear informes basados en ingresos utilizando la dimensión Cuenta nombrada en Revenue Cycle Analytics. Mida el impacto de la canalización y los ingresos de las cuentas de destino.
 title: Dimensión de la cuenta con nombre en RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 10%
+source-wordcount: '163'
+ht-degree: 9%
 
 ---
 

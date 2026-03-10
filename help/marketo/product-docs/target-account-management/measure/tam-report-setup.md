@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384438
-description: Configuración de informes TAM - Documentos de Marketo - Documentación del producto
+description: Aprenda a configurar el correo electrónico semanal del informe de ventas de TAM para los equipos de la cuenta. Elija el día de envío, el criterio de ordenación y los propietarios de cuentas o los integrantes del equipo que lo recibirán.
 title: Configuración de informes TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '188'
 ht-degree: 4%
 
 ---

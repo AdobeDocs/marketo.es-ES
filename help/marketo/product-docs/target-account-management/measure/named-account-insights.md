@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380785
-description: Información de la cuenta con nombre - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del Tablero de cuentas con nombre y su vista de 360 grados de las cuentas de destino. Vea participación, oportunidades, equipo de cuenta e indicadores de ICP.
 title: Información sobre la cuenta con nombre
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 2%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 
