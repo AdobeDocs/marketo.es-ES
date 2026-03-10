@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953459
-description: 'Sincronización de SFDC: sincronización de cuentas, documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo se sincroniza la información de la cuenta de Salesforce con Marketo. Comprenda la sincronización unidireccional, la relación entre contactos y cuentas y la creación de cuentas mediante Convertir persona.
 title: 'Sincronización de SFDC: sincronización de cuenta'
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

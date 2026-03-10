@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: 'Sincronización de SFDC: eliminación de un posible cliente/contacto - Documentos de Marketo: documentación del producto'
+description: Comprender cómo funciona la eliminación de contactos y posibles clientes entre Salesforce y Marketo. Obtenga información sobre las acciones de flujo de SFDC Eliminar persona y Eliminar de SFDC.
 title: 'Sincronización de SFDC: eliminación de un posible cliente/contacto'
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

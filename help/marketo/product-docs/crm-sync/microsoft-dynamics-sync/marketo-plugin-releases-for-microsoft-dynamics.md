@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: 'Versiones de complementos de Marketo para  [!DNL Microsoft Dynamics] : documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de las versiones de complementos de Marketo para Microsoft Dynamics. Busque el historial de versiones y descargue la última solución de Marketo para su instancia de Dynamics.
 title: Versiones de complementos de Marketo para  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir o quitar campos de objeto personalizados de Veeva como filtros de listas inteligentes y restricciones de déclencheur. Utilice Admin y Veeva Objects Sync para editar los campos visibles.
 title: Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 11%
 
 ---
@@ -16,7 +16,7 @@ Marketo Engage proporciona un control específico sobre la sincronización de ob
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Haz clic en **[!UICONTROL Administrador]** y luego en **[!UICONTROL Sincronizar objetos de Veeva]**.
 

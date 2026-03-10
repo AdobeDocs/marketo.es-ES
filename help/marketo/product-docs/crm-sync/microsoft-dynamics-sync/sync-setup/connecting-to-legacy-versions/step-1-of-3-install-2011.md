@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571805
-description: 'Paso 1 de 3: Instalación de la solución de Marketo (local de 2011): Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo instalar la solución de Marketo para Dynamics 2011 local. Importe la solución y complete los pasos de instalación en Dynamics.
 title: 'Paso 1 de 3: Instalación de la solución de Marketo (local de 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 4%
+source-wordcount: '284'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] On-Premies y Marketo, primero d
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Haga clic en **[!UICONTROL Examinar]**. Seleccione la solución Marketo Lead Management [descargada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Examinar]**. Seleccione la solución Marketo Lead Management [descargada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -59,7 +59,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] On-Premies y Marketo, primero d
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Asegúrese de que la casilla de verificación de la opción Mensaje de SDK esté seleccionada. Haga clic en **[!UICONTROL Siguiente]**.
+1. Asegúrese de que la casilla de verificación de la opción Mensaje de SDK esté seleccionada. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 

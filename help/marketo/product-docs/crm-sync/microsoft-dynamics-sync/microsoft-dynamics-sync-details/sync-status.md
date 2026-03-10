@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097584
-description: 'Estado de sincronización: Documentos de Marketo, documentación del producto'
+description: Obtenga información sobre el estado de sincronización de Microsoft Dynamics y cómo monitorizar el rendimiento y el registro de pendientes. Vea las pestañas Estado de sincronización y Errores de sincronización en Administración.
 title: Estado de sincronización
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '182'
 ht-degree: 2%
 
 ---

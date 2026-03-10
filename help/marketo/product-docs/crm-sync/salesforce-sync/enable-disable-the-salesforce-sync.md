@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719310
-description: 'Habilitar/deshabilitar la sincronización de Salesforce: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo habilitar o deshabilitar la sincronización de Salesforce en Marketo. Desactive la sincronización en Administración cuando realice cambios importantes en los campos o la sincronización y, a continuación, vuelva a habilitarla cuando esté lista.
 title: Habilitar/deshabilitar la sincronización de Salesforce
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360362
-description: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (Enterprise/Unlimited), documentación de Marketo: documentación del producto'
+description: Aprenda a añadir campos de Marketo a Salesforce Enterprise o Unlimited edition. Crear puntuación, programa de adquisición y fecha de adquisición en objetos de contacto y cliente potencial.
 title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ilimitado)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '753'
-ht-degree: 8%
+source-wordcount: '762'
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,7 +106,7 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 >
 >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 

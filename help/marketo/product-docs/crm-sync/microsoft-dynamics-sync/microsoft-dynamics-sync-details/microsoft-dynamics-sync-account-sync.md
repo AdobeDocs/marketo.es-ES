@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571836
-description: 'Sincronización de Microsoft Dynamics: sincronización de cuenta, documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo se sincroniza la información de la cuenta de Microsoft Dynamics con Marketo. Comprenda la sincronización unidireccional y la relación contacto-cuenta.
 title: 'Sincronización de Microsoft Dynamics: sincronización de cuenta'
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

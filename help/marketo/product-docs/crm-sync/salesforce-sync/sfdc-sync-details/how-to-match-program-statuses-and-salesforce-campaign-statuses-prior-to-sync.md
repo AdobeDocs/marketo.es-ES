@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: 'Cómo hacer coincidir los estados de los programas y de Salesforce Campaign antes de la sincronización: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo hacer coincidir los estados de programas de Marketo con los estados de miembros de campañas de Salesforce antes de sincronizar. Corrija los errores y asigne los estados para que los programas se sincronicen con las campañas.
 title: Igualar estados de programas y estados de Salesforce Campaign antes de la sincronización
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

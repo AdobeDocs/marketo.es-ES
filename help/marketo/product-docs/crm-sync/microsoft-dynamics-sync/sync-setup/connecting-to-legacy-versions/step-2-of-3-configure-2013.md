@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571816
-description: 'Paso 2 de 3: Configuración del usuario de sincronización para Marketo (2013 local): Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo configurar el usuario de sincronización para Marketo con Dynamics 2013 local. Configure el usuario y asigne el rol de Usuario de sincronización de Marketo en Dynamics.
 title: 'Paso 2 de 3: Configuración de la sincronización del usuario para Marketo (2013 local)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '359'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [&#x200B; debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. En **[!UICONTROL Configuración]**, haga clic en **[!UICONTROL Administración]**.
 

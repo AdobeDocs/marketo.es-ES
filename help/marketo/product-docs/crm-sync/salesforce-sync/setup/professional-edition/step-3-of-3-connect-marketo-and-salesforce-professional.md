@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571800
-description: 'Paso 3 de 3: Conexión de Marketo y Salesforce (profesional): Documentos de Marketo: documentación del producto'
+description: Aprenda a conectar Marketo y Salesforce en el paso final de la edición Professional. Recupere el token de seguridad del usuario de sincronización y establezca las credenciales en el Administrador de Marketo.
 title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (profesional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---

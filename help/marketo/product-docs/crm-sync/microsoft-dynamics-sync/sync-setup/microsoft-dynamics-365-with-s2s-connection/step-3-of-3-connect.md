@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: 'Paso 3 de 3: Conexión de la solución Marketo con la conexión servidor a servidor - Documentos de Marketo - Documentación del producto'
+description: Obtenga información sobre cómo conectar la solución de Marketo a Dynamics 365 con la conexión de servidor a servidor. Introduzca la información de usuario de sincronización en el Administrador de Marketo y haga clic en Validar antes de activar la sincronización.
 title: 'Paso 3 de 3: Conexión de la solución Marketo con la conexión servidor a servidor'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!IMPORTANT]
 >

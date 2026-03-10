@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795802
-description: Desactivar notificaciones por correo electrónico al propietario del posible cliente - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo desactivar las notificaciones por correo electrónico al propietario del posible cliente en Salesforce cuando se asignan posibles clientes.
 title: Desactivar notificaciones por correo electrónico al propietario del posible cliente
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 27%
+source-wordcount: '74'
+ht-degree: 25%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 'Información general sobre la sincronización de Campaign: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la sincronización de campañas entre Microsoft Dynamics y Marketo. Utilice las acciones y déclencheur de flujo Añadir a Microsoft Campaign y Eliminar de Microsoft Campaign.
 title: Información general de sincronización de campañas
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 4%
+source-wordcount: '159'
+ht-degree: 3%
 
 ---
 

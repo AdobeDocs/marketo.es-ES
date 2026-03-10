@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: 'Sincronización de SFDC: sincronización de campos, documentos de Marketo, documentación del producto'
+description: Obtenga información sobre qué campos de Salesforce se sincronizan con Marketo y cómo funcionan los campos Tipo de SFDC y isDeleted. Primero añada nuevos campos en Salesforce para que se sincronicen con Marketo automáticamente.
 title: 'Sincronización de SFDC: sincronización de campos'
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

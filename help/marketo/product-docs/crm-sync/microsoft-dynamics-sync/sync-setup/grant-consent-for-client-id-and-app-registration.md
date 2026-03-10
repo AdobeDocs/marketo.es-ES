@@ -1,12 +1,12 @@
 ---
-description: Conceder consentimiento para el ID de cliente y el registro de aplicaciones - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo conceder consentimiento para el ID de cliente y el registro de aplicación utilizados para la sincronización de Dynamics. Genere el URI de autorización y conceda permisos de usuario delegados para el usuario de sincronización.
 title: Conceder consentimiento para el ID de cliente y el registro de aplicaciones
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
@@ -71,7 +71,7 @@ Siga los pasos a continuación para obtener información sobre cómo conceder el
 
 ## Conceder consentimiento a todos los usuarios {#grant-consent-for-all-users}
 
-Como administrador, también puede dar su consentimiento a los permisos delegados de una aplicación en nombre de todos los usuarios de su inquilino. El consentimiento administrativo evita que aparezca el cuadro de diálogo de consentimiento para cada usuario del inquilino, y los usuarios con la función de administrador pueden hacerlo en el portal de Azure. Descubra qué funciones de administrador pueden [consentir permisos delegados aquí](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Como administrador, también puede dar su consentimiento a los permisos delegados de una aplicación en nombre de todos los usuarios de su inquilino. El consentimiento administrativo evita que aparezca el cuadro de diálogo de consentimiento para cada usuario del inquilino, y lo pueden hacer en el portal de Azure los usuarios con la función de administrador. Descubra qué funciones de administrador pueden [consentir permisos delegados aquí](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. En el portal de Azure, vaya a la página principal de la aplicación.
 

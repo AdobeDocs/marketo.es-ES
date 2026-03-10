@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719316
-description: Uso de cuentas de persona - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo Marketo Engage trata las cuentas de persona de Salesforce. Diferencie las cuentas de persona y de empresa y utilice el filtro Es cuenta de persona en las listas inteligentes.
 title: Uso de cuentas de persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 

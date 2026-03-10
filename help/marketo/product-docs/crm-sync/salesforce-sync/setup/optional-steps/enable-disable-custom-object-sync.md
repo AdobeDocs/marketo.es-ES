@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719297
-description: Habilitar/Deshabilitar sincronización de objetos personalizada - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar o deshabilitar la sincronización de objetos personalizados de Salesforce en Marketo Engage. Utilice Admin y Salesforce Objects Sync para seleccionar objetos y actualizar el esquema.
 title: Habilitar/deshabilitar sincronización de objetos personalizada
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '235'
 ht-degree: 6%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 'Asignación de campos de Dynamics predeterminada: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la asignación de campos de Microsoft Dynamics predeterminada entre Dynamics y Marketo. Ver cómo se asignan automáticamente los campos de posible cliente, contacto, cuenta y oportunidad.
 title: Asignación de campos de Dynamics predeterminada
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '1049'
 ht-degree: 3%
 
 ---
@@ -170,7 +170,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
@@ -380,7 +380,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>

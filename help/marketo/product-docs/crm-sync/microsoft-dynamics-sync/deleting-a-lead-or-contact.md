@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45417322
-description: 'Eliminación de un posible cliente o contacto: documentos de Marketo, documentación del producto'
+description: Comprender cómo funciona la eliminación de contactos y posibles clientes entre Microsoft Dynamics y Marketo. Utilice el indicador Microsoft is Deleted y la acción de flujo Delete Person según sea necesario.
 title: Eliminación de un posible cliente o contacto
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098625
-description: 'Explicación de la sincronización  [!DNL Microsoft Dynamics] Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de cómo la sincronización de Microsoft Dynamics mantiene sincronizados los datos de Marketo y Dynamics. Ver qué se sincroniza y cómo funciona la sincronización bidireccional para posibles clientes y contactos.
 title: Explicación de la sincronización de Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 4%
+source-wordcount: '229'
+ht-degree: 20%
 
 ---
 
-# Explicación de la sincronización [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
+# Explicación de la sincronización de [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
 Marketo y [!DNL Microsoft Dynamics] van juntos. Mantenemos sus datos de ventas y marketing sincronizados.
 
@@ -25,7 +25,7 @@ Marketo sincroniza continuamente los datos con [!DNL Microsoft Dynamics] todo el
 
 >[!NOTE]
 >
->La primera sincronización de la suscripción tarda de minutos a horas, según el tamaño de la base de datos. Marketo copia toda la base de datos desde [!DNL Dynamics]. Después, cada sincronización suele tardar segundos o minutos y solo sincroniza los datos que han cambiado.
+>La primera sincronización de la suscripción tarda de minutos a horas, según el tamaño de la base de datos. Marketo copia toda la base de datos desde [!DNL Dynamics]. A partir de ahí, cada sincronización suele tardar segundos o minutos y solo se sincronizan los datos que han cambiado.
 
 La sincronización entre Marketo y [!DNL Dynamics] es bidireccional para posibles clientes y contactos. Si realiza cambios en Marketo o [!DNL Dynamics], las actualizaciones se reflejarán en ambos sistemas. Todos los demás campos, como cuentas y oportunidades, se sincronizan de una sola manera, de [!DNL Dynamics] a Marketo.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953465
-description: 'Sincronización de SFDC: conversión de un posible cliente en un contacto en Salesforce. Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre lo que sucede cuando se convierte un posible cliente en un contacto en Salesforce. Vea cómo Marketo refleja el cambio y utiliza los déclencheur y filtros Convertidos de Posible cliente.
 title: 'Sincronización de SFDC: conversión de un posible cliente en un contacto en Salesforce'
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

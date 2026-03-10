@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783322
-description: Validar [!DNL Microsoft Dynamics] Sincronizar - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ejecutar la herramienta Validar sincronización para comprobar la configuración de Microsoft Dynamics y Marketo. Consulte la lista de comprobación de siete pasos en Administración antes de establecer la conexión final.
 title: Validar [!DNL Microsoft Dynamics] sincronización
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: 'Acciones de Salesforce implícitas: documentos de Marketo, documentación del producto'
+description: Comprenda qué pasos del flujo de Salesforce déclencheur la sincronización automática de la persona con SFDC u otras acciones. Conozca las reglas para Agregar a Campaign, Cambiar propietario, Crear tarea y Convertir persona.
 title: Acciones de Salesforce implícitas
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 26%
+source-wordcount: '162'
+ht-degree: 22%
 
 ---
 

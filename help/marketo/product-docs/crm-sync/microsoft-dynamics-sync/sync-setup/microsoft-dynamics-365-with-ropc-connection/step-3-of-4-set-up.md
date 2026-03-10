@@ -1,11 +1,11 @@
 ---
-description: 'Paso 3 de 4: Configuración de la aplicación cliente en MS [!DNL Dynamics] : Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo configurar la aplicación cliente en Microsoft Dynamics para la conexión ROPC. Registre la aplicación en Azure AD y genere un secreto de cliente para la sincronización de Marketo.
 title: 'Paso 3 de 4: Configurar la aplicación cliente en MS [!DNL Dynamics]'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---

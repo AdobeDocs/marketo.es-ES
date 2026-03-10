@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (profesional) - Documentos de Marketo - Documentación del producto'
+description: Aprenda a crear un usuario de Salesforce para Marketo con Professional Edition. Establezca los diseños de página y cree el usuario de sincronización con permisos de campo para el posible cliente y el contacto.
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (profesional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---

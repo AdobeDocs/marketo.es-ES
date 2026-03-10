@@ -1,12 +1,12 @@
 ---
-description: Sincronización de mensajes de clave de llamada y llamada - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de cómo se sincronizan los objetos Mensaje de clave de llamada y llamada de Veeva CRM a Marketo Engage. Utilice déclencheur y filtros relacionados con las llamadas en las listas inteligentes y las campañas.
 title: Sincronización de mensajes de clave de llamada y llamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 11%
+source-wordcount: '493'
+ht-degree: 10%
 
 ---
 

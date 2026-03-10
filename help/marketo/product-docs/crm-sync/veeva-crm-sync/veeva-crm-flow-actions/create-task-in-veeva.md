@@ -1,11 +1,11 @@
 ---
-description: 'Crear tarea en  [!DNL Veeva] : documentos de Marketo: documentación del producto'
+description: Aprenda a crear tareas en Veeva desde Marketo para informar a las ventas qué hacer y cuándo. Utilice el paso de flujo Crear tarea y personalice el asunto, la descripción y la fecha de vencimiento.
 title: Crear tarea en  [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

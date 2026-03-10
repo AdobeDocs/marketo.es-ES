@@ -1,12 +1,12 @@
 ---
-description: 'Instalar Marketo para  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 local, paso 3 de 3: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo conectar Marketo a Dynamics 2016 o Dynamics 365 local en el paso 3. Introduzca las credenciales de usuario de sincronización en el Administrador de Marketo y habilite la sincronización.
 title: Instalar Marketo para  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 local, paso 3 de 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 3%
+source-wordcount: '411'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Introducir información de usuario de sincronización de [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 

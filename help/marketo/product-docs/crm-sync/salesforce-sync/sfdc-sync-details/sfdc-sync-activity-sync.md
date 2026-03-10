@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953473
-description: 'Sincronización de SFDC: sincronización de actividades, documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de cómo las actividades y tareas de Salesforce se sincronizan con Marketo. Cree tareas desde Marketo y utilice déclencheur y filtros de actividad en campañas inteligentes.
 title: 'Sincronización de SFDC: sincronización de actividades'
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 

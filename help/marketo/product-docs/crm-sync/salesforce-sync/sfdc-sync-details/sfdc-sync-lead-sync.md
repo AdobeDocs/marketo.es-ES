@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: 'Sincronización de SFDC: sincronización de posibles clientes - Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de cómo funciona la sincronización de posibles clientes entre Salesforce y Marketo. Comprenda la sincronización bidireccional, cree posibles clientes a partir de Marketo y respete las reglas de validación.
 title: 'Sincronización de SFDC: sincronización de posibles clientes'
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---

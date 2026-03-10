@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4719283
-description: Explicación de la sincronización de Salesforce, documentos de Marketo, documentación del producto
+description: Descubra cómo la sincronización de Salesforce mantiene sincronizados los datos de Marketo y Salesforce. Ver qué se sincroniza y cómo funciona la sincronización bidireccional para posibles clientes y contactos.
 title: Explicación de la sincronización de Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 2%
+source-wordcount: '229'
+ht-degree: 89%
 
 ---
 
-# Explicación de la sincronización [!DNL Salesforce] {#understanding-the-salesforce-sync}
+# Explicación de la sincronización de [!DNL Salesforce] {#understanding-the-salesforce-sync}
 
-Marketo Engage y Salesforce van juntos como guisantes y zanahorias. Mantenemos sus datos de ventas y marketing sincronizados.
+Marketo Engage y Salesforce combinan a la perfección. Mantenemos sus datos de ventas y marketing sincronizados.
 
 ## Funcionamiento de la sincronización {#how-sync-works}
 
-Marketo se sincroniza con [!DNL Salesforce] todo el día, todos los días. Cada sincronización tarda un poco y luego se detiene durante 5 minutos, luego se inicia nuevamente.
+Marketo se sincroniza con [!DNL Salesforce] todo el día, todos los días. Cada sincronización tarda cierto tiempo en realizarse y luego se detiene durante cinco minutos antes de iniciarse otra vez.
 
 >[!NOTE]
 >
->La primera sincronización de su suscripción puede tardar horas o incluso días porque Marketo está copiando toda la base de datos de [!DNL Salesforce]. Después, cada sincronización suele tardar segundos o minutos y solo sincroniza los datos que han cambiado.
+>La primera sincronización de su suscripción puede tardar horas o incluso días porque Marketo está copiando toda la base de datos de [!DNL Salesforce]. A partir de ahí, cada sincronización suele tardar segundos o minutos y solo se sincronizan los datos que han cambiado.
 
 ![](assets/sync-illustration.png)
 
-La sincronización entre [!DNL Salesforce] y Marketo es bidireccional solamente para posibles clientes, contactos y campañas de [!DNL Salesforce]. En estos casos, cada vez que realice cambios en [!DNL Salesforce] o Marketo, las actualizaciones se reflejarán en ambos sistemas. Todas las demás sincronizaciones son solo de [!DNL Salesforce] a Marketo. Haga clic en los vínculos siguientes para obtener detalles sobre cada uno de ellos.
+La sincronización entre [!DNL Salesforce] y Marketo es bidireccional solamente para clientes potenciales, contactos y campañas de [!DNL Salesforce]. En estos casos, cada vez que realice cambios en [!DNL Salesforce] o en Marketo, las actualizaciones se reflejan en ambos sistemas. Todas las demás sincronizaciones son de [!DNL Salesforce] a Marketo solamente. Haga clic en los vínculos siguientes para obtener información detallada sobre cada una de ellas.
 
 ## ¿Qué se sincroniza entre Marketo y [!DNL Salesforce]? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Posibles clientes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
+* [Clientes potenciales](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [Contactos](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
 * [Cuentas](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
 * [Usuarios](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
@@ -40,6 +40,6 @@ La sincronización entre [!DNL Salesforce] y Marketo es bidireccional solamente 
 
 >[!NOTE]
 >
->Las [credenciales que ingresaste en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} se usan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
+>Las [credenciales introducidas en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} se usan para sincronizar datos. Solo se incluirán los datos a los que esas credenciales tengan acceso.
 
-La sincronización de Marketo con [!DNL Salesforce] es la más potente de su tipo en el mundo. Se siente como magia; se hace un cambio y el otro sistema está pronto actualizado.
+La sincronización de Marketo con [!DNL Salesforce] es la más potente de su tipo en el mundo. Parece magia: se realiza un cambio y el otro sistema se actualiza al instante.

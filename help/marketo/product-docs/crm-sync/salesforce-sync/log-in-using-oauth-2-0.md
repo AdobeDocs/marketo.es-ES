@@ -1,11 +1,11 @@
 ---
-description: 'Inicio de sesión con OAuth 2.0: documentación de Marketo: documentación del producto'
+description: Obtenga información sobre cómo conectar Marketo y Salesforce mediante OAuth 2.0. Configure una aplicación cliente externa en Salesforce y autorice la sincronización segura de Marketo sin compartir credenciales.
 title: Iniciar sesión con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---

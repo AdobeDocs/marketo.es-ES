@@ -1,11 +1,11 @@
 ---
-description: 'Paso 1 de 3: Agregar campos de Marketo a  [!DNL Veeva] CRM - Documentos de Marketo - Documentación del producto'
+description: Aprenda a añadir campos de Marketo a Veeva CRM antes de conectarse. Cree el campo Score y los campos opcionales de marketing en los objetos de contacto en Veeva.
 title: 'Paso 1 de 3: Agregar campos de Marketo a  [!DNL Veeva] CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 8%
 
 ---
@@ -53,7 +53,7 @@ Siga estos pasos para agregar el campo Score.
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
@@ -87,7 +87,7 @@ Cifras decimales 0</td>
 >
 >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 

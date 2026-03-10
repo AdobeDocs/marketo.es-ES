@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092969
-description: Filtro de sincronización de Microsoft Dynamics - Combinar - Documentos de Marketo - Documentación del producto
+description: Comprender cómo funciona el filtro de sincronización de Dynamics al combinar posibles clientes. Descubra cómo el valor del filtro de sincronización de registros ganador determina si el registro se sincroniza con Marketo.
 title: Filtro de sincronización de Microsoft Dynamics - Combinar
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

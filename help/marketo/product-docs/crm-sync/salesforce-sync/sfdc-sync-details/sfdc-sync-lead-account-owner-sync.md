@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953463
-description: 'Sincronización de SFDC: sincronización de cliente potencial/propietario de cuenta - Documentos de Marketo - Documentación del producto'
+description: Obtenga información acerca de cómo se sincronizan los campos de posible cliente y propietario de cuenta de Salesforce con Marketo. Cambiar el propietario del posible cliente en Marketo y usar los datos del propietario en las acciones de flujo y las listas inteligentes.
 title: 'Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta'
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 16%
+source-wordcount: '230'
+ht-degree: 14%
 
 ---
 

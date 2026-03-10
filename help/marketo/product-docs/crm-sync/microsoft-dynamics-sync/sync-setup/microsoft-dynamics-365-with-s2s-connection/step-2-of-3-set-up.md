@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: 'Paso 2 de 3: Configuración de la solución Marketo con conexión de servidor a servidor - Documentos de Marketo - Documentación del producto'
+description: Obtenga información sobre cómo configurar la solución de Marketo con la conexión de servidor a servidor para Dynamics 365. Cree una aplicación cliente en Azure AD y dé su consentimiento al usuario de sincronización.
 title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Anote el ID de aplicación (ClientId) y el ID de inquilino. Tendrá que introducirlo en Marketo más adelante.
 
-1. Conceda el consentimiento del administrador siguiendo los pasos [&#x200B; de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. Conceda el consentimiento del administrador siguiendo los pasos [ de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Genere un secreto de cliente en el Centro de administración haciendo clic en **[!UICONTROL Certificados y secretos]**.
 

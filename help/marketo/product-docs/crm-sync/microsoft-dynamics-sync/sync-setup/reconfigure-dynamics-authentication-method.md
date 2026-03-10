@@ -1,11 +1,11 @@
 ---
-description: Volver a configurar  [!DNL Dynamics] método de autenticación - Documentos de Marketo - Documentación del producto
+description: Aprenda a reconfigurar el método de autenticación de Dynamics en Marketo. Deshabilite la sincronización, utilice Volver a configurar nuevo método de autenticación y valide las credenciales para la API web o ROPC.
 title: Volver a configurar  [!DNL Dynamics] método de autenticación
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---

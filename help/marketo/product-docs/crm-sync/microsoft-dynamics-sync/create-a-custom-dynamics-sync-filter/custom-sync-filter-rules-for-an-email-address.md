@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095307
-description: Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar reglas de filtro de sincronización personalizadas para direcciones de correo electrónico en Dynamics. Utilice flujos de trabajo para establecer la sincronización con Mkto en función de si el posible cliente o el contacto tiene un correo electrónico.
 title: Reglas de filtro de sincronización personalizado para una dirección de correo electrónico
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '220'
 ht-degree: 7%
 
 ---

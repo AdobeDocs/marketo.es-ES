@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437903
-description: Crear un filtro de sincronización  [!DNL Dynamics] personalizado - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear un filtro de sincronización de Dynamics personalizado para que solo los registros seleccionados se sincronicen con Marketo.
 title: Crear un filtro de sincronización  [!DNL Dynamics] personalizado
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '788'
 ht-degree: 1%
 
 ---

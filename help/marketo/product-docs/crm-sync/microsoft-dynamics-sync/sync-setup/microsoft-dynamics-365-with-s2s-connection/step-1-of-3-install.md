@@ -1,12 +1,12 @@
 ---
-description: 'Paso 1 de 3: Instalación de la solución de Marketo con conexión de servidor a servidor - Documentos de Marketo - Documentación del producto'
+description: Obtenga información sobre cómo instalar la solución de Marketo en Dynamics 365 con conexión de servidor a servidor. Importe la solución desde el administrador y complete los pasos de instalación.
 title: 'Paso 1 de 3: Instalación de la solución de Marketo con conexión de servidor a servidor'
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +42,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics 365] y Marketo, primero debe ins
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Haga clic en **[!UICONTROL Elegir archivo]**. Seleccione la solución Marketo Lead Management [descargada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Elegir archivo]**. Seleccione la solución Marketo Lead Management [descargada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

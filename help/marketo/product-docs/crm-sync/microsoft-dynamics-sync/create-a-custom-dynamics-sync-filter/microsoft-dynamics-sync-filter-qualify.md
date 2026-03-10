@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Filtro de sincronización de Microsoft Dynamics - Calificar - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del proceso de calificación del filtro de sincronización de Dynamics al convertir un posible cliente en un contacto. Comprenda cómo los valores del filtro de sincronización de contactos y posibles clientes afectan a la sincronización de Marketo.
 title: 'Filtro de sincronización de Microsoft Dynamics: calificar'
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

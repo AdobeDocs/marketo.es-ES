@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719300
-description: Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo agregar o quitar campos de objeto personalizados de Salesforce como filtros de listas inteligentes y restricciones de déclencheur. Utilice Admin y Salesforce Objects Sync para editar los campos visibles.
 title: Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Haga clic en **[!UICONTROL Administrador].**
 

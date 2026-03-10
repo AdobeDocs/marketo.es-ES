@@ -1,11 +1,11 @@
 ---
-description: 'Edición de campos para sincronizar antes de eliminarlos en Dynamics: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar campos para sincronizarlos en Marketo antes de eliminarlos en Dynamics. Deshabilite la sincronización, actualice el esquema y elimine el campo de la selección de sincronización.
 title: Edición de campos para sincronizar antes de eliminarlos en Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 4%
 
 ---
