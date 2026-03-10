@@ -1,12 +1,12 @@
 ---
-description: 'Sincronización de una audiencia desde Adobe Experience Cloud: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo sincronizar una audiencia de Adobe Experience Cloud con Marketo Engage. Extraer audiencias de la Biblioteca de audiencias a la base de datos de Marketo para usarlas en campañas y programas.
 title: Sincronizar una audiencia desde Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 6%
+source-wordcount: '291'
+ht-degree: 5%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 6%
 
 Cuando la sincronización de cookies está habilitada para su suscripción a Marketo, munchkin.js de Marketo intenta capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con ECID de Adobe.
 
-Se requiere un paso adicional para asociar el perfil de usuario anónimo con un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí [&#x200B; se describe exactamente cómo funciona &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Se requiere un paso adicional para asociar el perfil de usuario anónimo con un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí [ se describe exactamente cómo funciona ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **¿Por qué el tamaño de la lista en Marketo es diferente al de Adobe?**
 
