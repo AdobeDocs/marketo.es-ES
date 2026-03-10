@@ -3,9 +3,9 @@ description: Bandeja de entrada del agente - Documentos de Marketo - Documentaci
 title: Bandeja de entrada del agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Los agentes realizarán charlas en directo en la bandeja de entrada del agente. 
 
 ![](assets/agent-inbox-1.png)
 
-## Alternancia de disponibilidad {#availability-toggle}
+## Alternar disponibilidad {#availability-toggle}
 
 En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene la opción de establecer el estado como disponible o no disponible.
 
@@ -30,7 +30,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 >
 >Si establece su estado como no disponible, los chats activos no se verán afectados.
 
-## Notificaciones de chat en directo {#live-chat-notifications}
+## Notificaciones de Live Chat {#live-chat-notifications}
 
 Obtenga más información acerca de las notificaciones en [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
@@ -90,7 +90,7 @@ Los métodos abreviados, con la tecnología de IA generativa [biblioteca de resp
 
    ![](assets/agent-inbox-12.png)
 
-## Historial de actividades {#activity-history}
+## Historial de actividad {#activity-history}
 
 Debajo de la información del visitante se encuentra el historial de actividades. Vea los tipos de actividades y las fechas, e incluso vea las transcripciones de chat.
 
@@ -116,6 +116,12 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
    ![](assets/agent-inbox-16.png)
 
+## Descargar transcripción {#download-transcript}
+
+Una vez que finalice el chat en vivo, haz clic en el botón **Descargar transcripción** en la parte inferior de la ventana de chat y un archivo .txt de la conversación se descarga automáticamente en la carpeta &quot;Descargas&quot;.
+
+![](assets/agent-inbox-17.png)
+
 ## Resumen de la conversación {#conversation-summary}
 
 >[!NOTE]
@@ -124,7 +130,7 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
 Resumen de la conversación genera un resumen rápido en tiempo real que incluye los temas por los que el visitante ha expresado interés. Está disponible en la parte inferior derecha de cada pantalla de chat.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
