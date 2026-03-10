@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360356
-description: Habilite el inicio de sesión único de SAML 2.0 para que su proveedor de identidad autentique a los usuarios en Marketo (no se aplica a Adobe IMS).
+description: Habilite el inicio de sesión único de SAML 2.0 para que su proveedor de identidad autentique a los usuarios en Marketo.
 title: Añadir el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 4%
@@ -25,7 +25,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!IMPORTANT]
 >
->Esto no se aplica a las suscripciones incorporadas a Adobe Identity. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. Adobe Admin Console solo admite SP-iniciado en este momento. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+>Esto no se aplica **not** a las suscripciones incorporadas a Adobe Identity. Es posible que aparezcan ajustes anteriores (anteriores a la migración de IMS), pero ya no se aplican. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
