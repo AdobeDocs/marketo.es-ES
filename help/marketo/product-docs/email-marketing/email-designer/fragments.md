@@ -6,9 +6,9 @@ description: Aprenda a crear y utilizar fragmentos de contenido visual como comp
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1951'
+source-wordcount: '1972'
 ht-degree: 1%
 
 ---
@@ -312,6 +312,10 @@ Cuando se añade un fragmento a un correo electrónico o a una plantilla de corr
 * **[!UICONTROL Duplicado]**: duplica el fragmento en el mismo correo electrónico o plantilla de correo electrónico dentro del editor. El fragmento duplicado se agrega justo debajo del original.
 * **[!UICONTROL Abrir fragmento]**: Se abrirá una nueva pestaña del explorador con la página del editor de fragmentos y los detalles.
 * **[!UICONTROL Romper herencia]**: esto rompe la herencia del fragmento (y sus cambios) del origen. Utilice esta acción para que el contenido del fragmento esté disponible como contenido independiente y editable dentro del correo electrónico o la plantilla de correo electrónico. Esta acción también quita el correo electrónico o la plantilla de correo electrónico de la referencia _Utilizada por_ para el fragmento original.
+
+>[!NOTE]
+>
+>Si _Sincronizar con HTML_ está deshabilitado en el correo electrónico, los cambios realizados (incluida la herencia de interrupción) no se reflejarán en el contenido del texto.
 
 Al seleccionar el fragmento en la página del editor, estas acciones están disponibles en la barra de herramientas contextual y en el panel de propiedades de la derecha.
 
