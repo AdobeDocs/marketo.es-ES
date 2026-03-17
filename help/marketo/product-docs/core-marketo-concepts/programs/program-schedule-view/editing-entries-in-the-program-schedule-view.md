@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147136
-description: Edición de entradas en la vista de programación - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo editar entradas en la vista Programación de programas. Cambiar fechas, nombres y detalles de los elementos programados.
 title: Edición de entradas en la vista Calendario del programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '154'
 ht-degree: 10%
 
 ---

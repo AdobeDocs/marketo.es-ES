@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147245
-description: Creación de tipos de entradas personalizadas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear tipos de entradas personalizadas en la vista Programación de programas. Agregue tipos de entradas para que coincidan con su proceso.
 title: Crear tipos de entrada personalizados
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557273
-description: 'Búsqueda y adición de filtros a una lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo buscar y agregar filtros a una lista inteligente. Examine y agregue filtros del árbol de filtros para crear la lógica de lista.
 title: Buscar y añadir filtros a una lista inteligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 

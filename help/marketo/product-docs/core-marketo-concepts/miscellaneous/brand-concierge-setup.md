@@ -1,12 +1,12 @@
 ---
-description: 'Creación de un conserje: Documentos de Marketo: documentación del producto'
+description: Aprenda a crear un Brand Concierge y a añadir fuentes de conocimientos. Configure su primer conserje con vínculos a sitios web o catálogos de productos.
 title: Crear un conserje
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 1%
 
 ---
@@ -242,13 +242,13 @@ También podrás ver las señales intensas como ¿qué están realmente tratando
 ¿Están intentando obtener más consultas de nivel de detección o consultas de nivel de conversión, consultas de consideración, etc.?
 
 9:54
-También le ayuda a comprender el sentimiento de los visitantes, ¿verdad?
+También le ayuda a comprender la opinión de los visitantes, ¿verdad?
 
 9:58
 ¿Están hablando positivo?
 
 10:00
-Cualquier sentimiento negativo justo donde hay cualquier tipo de quejas que los visitantes están haciendo, usted será capaz de entender esos y hasta el tono del visitante como dije, no neutral, apreciativo, entusiasta, etc y así sucesivamente.
+Cualquier opinión negativa justo donde hay cualquier tipo de quejas que los visitantes están haciendo, usted será capaz de entender esos y hasta el tono del visitante como dije, no neutral, apreciativo, entusiasta, etc y así sucesivamente.
 
 10:14
 Ahora mismo esto, te he contado todo sobre el conserje.

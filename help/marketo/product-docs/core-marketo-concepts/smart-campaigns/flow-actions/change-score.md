@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146962
-description: 'Cambiar puntuación: Documentos de Marketo: documentación del producto'
+description: Aprenda a cambiar la puntuación del posible cliente en un paso del flujo. Añada o reste puntos de una puntuación de persona en la campaña.
 title: Cambiar calificación
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

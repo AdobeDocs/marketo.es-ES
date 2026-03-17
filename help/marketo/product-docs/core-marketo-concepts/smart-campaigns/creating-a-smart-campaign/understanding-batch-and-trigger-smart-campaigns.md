@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: Explicación de las campañas inteligentes por lotes y Déclencheur - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las campañas inteligentes por lotes y de déclencheur. Comprenda cuándo utilizar cada tipo y cómo se ejecutan.
 title: Explicación de las campañas inteligentes por lotes y activación
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 

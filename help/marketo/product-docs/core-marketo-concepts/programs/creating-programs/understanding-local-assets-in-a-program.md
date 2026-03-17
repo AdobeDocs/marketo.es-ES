@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147093
-description: 'Explicación de Assets local en un programa: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre los recursos locales de un programa. Comprenda cómo se encuentran los correos electrónicos, las páginas de aterrizaje y otros recursos dentro de los programas.
 title: Explicación de recursos locales en un programa
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '104'
 ht-degree: 17%
 
 ---

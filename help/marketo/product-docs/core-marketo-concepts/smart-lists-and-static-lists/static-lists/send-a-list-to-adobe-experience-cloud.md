@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356194
-description: 'Envío de una lista a Adobe Experience Cloud: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar una lista a Adobe Experience Cloud. Comparta la pertenencia a listas de Marketo con Experience Platform u otras soluciones.
 title: Enviar una lista a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '819'
 ht-degree: 3%
 
 ---
@@ -94,9 +94,9 @@ Puede detener la sincronización de la lista en cualquier momento.
 
 ### Uso compartido en Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es){target="_blank"} para obtener más información sobre cómo configurarla.
+* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obtener más información sobre cómo configurarla.
 
-* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [debe estar habilitada en Adobe Target](https://experienceleague.adobe.com/es/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [debe estar habilitada en Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Si una lista está vacía o no tiene personas con valores ECID, el nombre de la lista no se insertará para que se haga referencia fuera de Marketo.
 

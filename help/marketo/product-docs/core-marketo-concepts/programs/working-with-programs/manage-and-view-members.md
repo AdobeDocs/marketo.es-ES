@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147122
-description: 'Administración y visualización de miembros: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo administrar y ver miembros del programa. Vea quién está en su programa y administre el estado y los datos de los miembros.
 title: Administrar y ver miembros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 4%
+source-wordcount: '262'
+ht-degree: 3%
 
 ---
 

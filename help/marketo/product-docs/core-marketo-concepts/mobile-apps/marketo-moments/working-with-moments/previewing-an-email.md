@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: 'Vista previa de un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo previsualizar un correo electrónico en Momentos de Marketo. Vea el aspecto que tendrá su correo electrónico antes de enviarlo desde la aplicación móvil.
 title: Vista previa de un correo electrónico
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

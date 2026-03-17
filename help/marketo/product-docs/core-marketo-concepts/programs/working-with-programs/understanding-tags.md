@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: 'Explicación de las etiquetas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre las etiquetas para organizar y filtrar programas. Utilice etiquetas para categorizar programas y filtrar informes.
 title: Explicación de las etiquetas
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '178'
 ht-degree: 5%
 
 ---

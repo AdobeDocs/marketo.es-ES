@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504060
-description: 'Eliminar una presentación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo eliminar una presentación de Calendario de marketing. Elimine las presentaciones antiguas para dejar espacio a las nuevas.
 title: Eliminar una presentación
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 13%
+source-wordcount: '53'
+ht-degree: 11%
 
 ---
 

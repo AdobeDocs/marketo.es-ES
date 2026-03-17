@@ -1,11 +1,11 @@
 ---
-description: NUR-AAAA-MM-Simple Nurture - Documentos de Marketo - Documentación del producto
+description: Plantilla del programa de Nutrición Simple. Utilícelo para campañas básicas de nutrición con una convención de nombres clara.
 title: NUR-AAAA-MM-Nutrición simple
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '356'
 ht-degree: 19%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este es un ejemplo de programas de nutrición sencillos, que utilizan el programa de participación de Marketo Engage, con contenido cadenciado para que gotee a lo largo del tiempo en la base de datos, mientras utiliza flujos para guiar los registros a través de los recorridos basados en la conducta.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

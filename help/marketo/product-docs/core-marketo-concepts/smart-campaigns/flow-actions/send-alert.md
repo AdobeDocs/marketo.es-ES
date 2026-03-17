@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146958
-description: 'Enviar alerta: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo enviar una alerta en un paso de flujo de campaña inteligente. Notificar a los usuarios cuando alguien entre en el flujo o cumpla los criterios.
 title: Enviar alerta
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---

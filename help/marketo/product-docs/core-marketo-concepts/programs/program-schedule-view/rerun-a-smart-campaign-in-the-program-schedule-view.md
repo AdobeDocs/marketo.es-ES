@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: Volver a ejecutar una campaña inteligente en la vista de programación - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo volver a ejecutar una campaña inteligente desde la vista de programación del programa. Vuelva a ejecutar una campaña por lotes bajo demanda.
 title: Volver a ejecutar una campaña inteligente en la vista Calendario del programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 15%
 
 ---
 

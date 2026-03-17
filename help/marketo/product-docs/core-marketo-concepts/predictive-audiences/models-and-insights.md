@@ -1,12 +1,12 @@
 ---
-description: Modelos e información - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los modelos de Audiencias predictivas y los factores que influyen. Utilice las perspectivas de IA para ajustar la segmentación y mejorar el rendimiento de la campaña.
 title: Modelos y recomendaciones
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 2%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 

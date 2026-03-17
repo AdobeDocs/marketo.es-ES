@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783557
-description: 'Listo, documentación de Marketo: documentación del producto'
+description: Aprenda a marcar un momento como completado en la aplicación Momentos de Marketo. Borrar elementos de la lista cuando se complete.
 title: Marcar como terminado
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '148'
 ht-degree: 5%
 
 ---

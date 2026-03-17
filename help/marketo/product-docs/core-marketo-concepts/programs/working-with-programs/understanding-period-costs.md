@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: Explicación de los costes de periodo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los costes de periodo en los programas para el seguimiento de gasto. Asigne costes a los periodos del programa para los informes y el ROI.
 title: Explicación de costes del período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Los costos de período se refieren al dinero que gasta en un mes específico en 
 >
 >[Explicación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Explicación de la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Descripción del abono al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Cálculo de Costes de Período {#how-period-costs-are-calculated}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514985
-description: Reprogramar una campaña inteligente por lotes en la vista Programación del programa - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo reprogramar una campaña inteligente por lotes en la vista Programación de programas. Cambie cuando se ejecute una campaña por lotes.
 title: Reprogramar una campaña inteligente por lotes en la vista Calendario del programa
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 19%
+source-wordcount: '110'
+ht-degree: 18%
 
 ---
 

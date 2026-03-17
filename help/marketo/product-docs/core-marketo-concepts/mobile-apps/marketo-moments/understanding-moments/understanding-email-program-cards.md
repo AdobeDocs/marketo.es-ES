@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: Explicación de las tarjetas de programa de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las tarjetas de programa de correo electrónico en Momentos de Marketo. Vea el estado del programa de correo electrónico y tome medidas desde la aplicación móvil.
 title: Explicación de las tarjetas de los programas de correo electrónico
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '367'
 ht-degree: 4%
 
 ---

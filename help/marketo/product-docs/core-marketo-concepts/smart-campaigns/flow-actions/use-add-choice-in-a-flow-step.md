@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146980
-description: 'Uso de Agregar opción en un paso de flujo: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar Agregar opción en un paso de flujo. Ramifique el flujo de campaña en función de condiciones con lógica de elección.
 title: Uso de Añadir opción en un paso de flujo
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 6%
 
 ---
 

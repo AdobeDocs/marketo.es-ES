@@ -1,11 +1,11 @@
 ---
-description: CT-AAAA-MM-Página de aterrizaje de contenido que no es de Marketo - Documentos de Marketo - Documentación del producto
+description: Plantilla de programa de página de aterrizaje de contenido que no es de Marketo. Utilícelo para contenido en páginas de aterrizaje externas.
 title: CT-AAAA-MM-Contenido de la página de destino que no es de Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programa de contenido con un formulario de Marketo Engage para descargar contenido en una página de aterrizaje que no sea de Marketo Engage mediante un programa predeterminado de Marketo Engage. Este programa está diseñado para trabajar con un formulario de Marketo Engage incrustado en el sitio web. El vínculo a la oferta/contenido se puede enviar en un correo electrónico de agradecimiento.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

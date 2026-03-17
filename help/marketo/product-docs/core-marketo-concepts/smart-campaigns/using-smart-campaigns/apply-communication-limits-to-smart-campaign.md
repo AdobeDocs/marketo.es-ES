@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147064
-description: 'Aplicación de límites de comunicación a Smart Campaign: documentos de Marketo, documentación del producto'
+description: Aprenda a aplicar límites de comunicación a una campaña inteligente. Número máximo de correos electrónicos o veces que se puede ejecutar la campaña.
 title: Aplicar límites de comunicación a campaña inteligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 9%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 

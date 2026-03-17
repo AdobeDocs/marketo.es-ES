@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557326
-description: Uso de la búsqueda rápida en una lista o lista inteligente - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar Búsqueda rápida en una lista o lista inteligente. Busque una persona específica por nombre o correo electrónico en la lista.
 title: Uso de la búsqueda rápida en una lista o lista inteligente
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '150'
+ht-degree: 14%
 
 ---
 

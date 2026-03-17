@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: 'Adición de varios valores a un filtro de listas inteligentes: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar varios valores a un filtro de listas inteligentes. Haga coincidir cualquiera de los distintos valores en un filtro para mayor flexibilidad.
 title: Añadir varios valores a un filtro de listas inteligentes
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 

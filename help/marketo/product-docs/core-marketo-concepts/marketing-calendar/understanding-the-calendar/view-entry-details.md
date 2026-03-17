@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953325
-description: Ver detalles de la entrada - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ver los detalles de la entrada en el Calendario de marketing. Seleccione una entrada para ver su información y haga clic con el botón derecho para desplazarse por los editores o abrirlos.
 title: Ver detalles de la entrada
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 

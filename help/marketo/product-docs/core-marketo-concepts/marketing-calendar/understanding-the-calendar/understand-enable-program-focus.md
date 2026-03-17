@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: Comprender/Habilitar el enfoque del programa - Documentos de Marketo - Documentación del producto
+description: Descubra cómo el enfoque del programa le permite interactuar con las entradas del calendario de marketing. Habilite el enfoque en un programa para crear, editar, eliminar o confirmar entradas.
 title: Comprender/Habilitar el enfoque del programa
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 5%
+source-wordcount: '166'
+ht-degree: 4%
 
 ---
 

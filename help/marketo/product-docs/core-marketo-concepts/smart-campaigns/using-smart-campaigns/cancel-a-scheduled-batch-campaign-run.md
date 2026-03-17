@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147058
-description: 'Cancelar una ejecución de campaña por lotes programada: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo cancelar una ejecución de campaña por lotes programada. Elimine una ejecución programada de una sola vez para que no se ejecute.
 title: Cancelar una ejecución de campaña por lotes programada
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 12%
+source-wordcount: '103'
+ht-degree: 11%
 
 ---
 

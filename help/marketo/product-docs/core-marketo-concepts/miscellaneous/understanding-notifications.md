@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2952292
-description: 'Explicación de las notificaciones: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las notificaciones de Marketo Engage para errores de campañas y sincronización CRM. Suscribirse para recibir alertas por correo electrónico y mantenerse al día.
 title: Explicación de las notificaciones
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---

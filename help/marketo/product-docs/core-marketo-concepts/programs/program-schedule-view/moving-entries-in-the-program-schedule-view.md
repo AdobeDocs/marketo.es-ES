@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147134
-description: Mover entradas en la vista de programación - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo mover entradas en la vista Programación de programas. Arrastre y suelte las entradas para volver a programarlas en el calendario.
 title: Movimiento de entradas en la vista Calendario del programa
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '88'
+ht-degree: 15%
 
 ---
 

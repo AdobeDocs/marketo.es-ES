@@ -1,14 +1,14 @@
 ---
-description: 'Acciones de flujo único desde la página de detalles de persona: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo ejecutar una sola acción de flujo desde la página de detalles de la persona. Ejecutar un paso de flujo para una persona bajo demanda.
 title: Acciones de flujo único desde la página de detalles de persona
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 11%
 
 Además de ejecutar acciones de flujo únicas desde una Smart List, también puede ejecutarlas directamente en una página de detalles de persona.
 
-1. Haga clic en **[!UICONTROL Base de datos]**.
+1. Haga clic en la **[!UICONTROL base de datos]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 

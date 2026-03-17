@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: 'Exportar personas a Excel desde una lista o lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo exportar personas a Excel desde una lista o lista inteligente. Descargue a las personas de la lista para que realicen informes.
 title: Exportar personas a Excel desde una lista o lista inteligente
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 11%
+source-wordcount: '192'
+ht-degree: 13%
 
 ---
 

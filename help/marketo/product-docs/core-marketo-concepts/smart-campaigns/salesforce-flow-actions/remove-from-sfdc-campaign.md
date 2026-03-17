@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147036
-description: 'Eliminar de SFDC Campaign: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo eliminar personas de una campaña de Salesforce con un paso de flujo. Elimine miembros de la campaña de SFDC en el flujo.
 title: Quitar de la campaña de SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 

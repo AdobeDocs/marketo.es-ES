@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147007
-description: Cambiar estado del programa - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el estado del programa en un paso de flujo. Definir el estado de miembro como Correcto o cualquier otro estado al entrar en el flujo.
 title: Cambiar el estado del programa
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '145'
 ht-degree: 4%
 
 ---

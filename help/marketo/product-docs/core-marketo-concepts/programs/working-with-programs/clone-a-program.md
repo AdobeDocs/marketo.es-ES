@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: 'Clonar un programa: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo clonar un programa y todos sus recursos. Cree una copia en una carpeta de campañas o espacio de trabajo sin volver a crearla manualmente.
 title: Clonar un programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '235'
 ht-degree: 2%
 
 ---

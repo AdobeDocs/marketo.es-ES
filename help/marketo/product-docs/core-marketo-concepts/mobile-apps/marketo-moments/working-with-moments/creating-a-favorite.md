@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: 'Creación de documentos favoritos de Marketo: documentación del producto'
+description: Aprenda a crear su favorito en Momentos de Marketo. Ancle elementos importantes para acceder rápidamente a en la aplicación móvil.
 title: Creación de un favorito
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 8%
+source-wordcount: '104'
+ht-degree: 7%
 
 ---
 

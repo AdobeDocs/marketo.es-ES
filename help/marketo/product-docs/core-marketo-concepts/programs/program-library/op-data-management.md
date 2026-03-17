@@ -1,12 +1,12 @@
 ---
-description: Administración de datos de OP - Documentos de Marketo - Documentación del producto
+description: Plantilla del programa operativo de gestión de datos. Utilícela para mantener la base de datos limpia y actualizada.
 title: OP-Administración de datos
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 27%
+source-wordcount: '327'
+ht-degree: 26%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administración de datos operativos simples que utilizan un programa predeterminado para ayudarle a administrar la coherencia de datos para los registros de la base de datos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

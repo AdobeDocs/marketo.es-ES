@@ -1,10 +1,10 @@
 ---
-description: Pestaña Configuración - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la pestaña Configuración para reglas de calificación, ejecuciones y periodicidad de campañas inteligentes. Establezca la frecuencia con la que las personas recorren el flujo de campaña.
 title: Pestaña Configuración
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---

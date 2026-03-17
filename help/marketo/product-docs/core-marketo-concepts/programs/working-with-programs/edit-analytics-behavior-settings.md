@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953405
-description: 'Editar configuración de comportamiento de Analytics: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar la configuración de comportamiento de análisis de un programa. Configure cómo se realiza el seguimiento del éxito y los ingresos del programa.
 title: Editar configuración de comportamiento de análisis
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 

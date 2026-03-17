@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: 'Reordenar la opción de adición en un paso de flujo: documentos de Marketo, documentación del producto'
+description: Aprenda a reordenar las opciones de Agregar opción en un paso de flujo. Cambie el orden de las ramas elegidas en la campaña.
 title: Reordenar la opción de adición en un paso de flujo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---

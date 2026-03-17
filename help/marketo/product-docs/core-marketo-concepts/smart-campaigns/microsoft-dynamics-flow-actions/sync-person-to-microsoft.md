@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514027
-description: 'Sincronizar persona con Microsoft: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo sincronizar una persona con Microsoft Dynamics mediante un paso de flujo. Insertar datos de posibles clientes en Dynamics cuando entren en el flujo.
 title: Sincronizar persona con Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 13%
+source-wordcount: '87'
+ht-degree: 11%
 
 ---
 

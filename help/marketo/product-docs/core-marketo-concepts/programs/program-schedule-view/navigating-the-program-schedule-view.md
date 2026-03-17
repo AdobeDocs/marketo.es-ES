@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147100
-description: Navegación por la vista Programación del programa - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo navegar por la Vista de programación del programa. Desplácese por el tiempo y vea las entradas programadas en el programa.
 title: Navegación por la vista Calendario del programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '193'
+ht-degree: 7%
 
 ---
 

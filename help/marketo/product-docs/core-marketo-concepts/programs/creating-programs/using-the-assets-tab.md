@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147124
-description: Uso de la pestaña Assets, Documentos de Marketo, documentación del producto
+description: Aprenda a utilizar la pestaña Assets en un programa. Ver y administrar todos los recursos locales del programa.
 title: Uso de la pestaña recursos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 'Plantilla de la página de aterrizaje de inicio rápido: documentos de Marketo, documentación del producto'
+description: Plantilla de página de aterrizaje de inicio rápido. Utilícelo para crear páginas de aterrizaje rápidamente a partir de una plantilla.
 title: Plantilla de la página de destino de inicio rápido
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Algunos de los programas iniciales de la Biblioteca de referencia de Marketo Eng
 >
 >Más información sobre [Plantillas de páginas de aterrizaje guiadas](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de secciones {#sections-summary}
 

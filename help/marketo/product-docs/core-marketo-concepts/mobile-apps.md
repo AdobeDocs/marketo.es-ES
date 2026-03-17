@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7516612
-description: 'Aplicaciones móviles: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las aplicaciones móviles de Marketo, incluidos el registro de eventos y los momentos de Marketo. Consulte a los asistentes al evento y vea las perspectivas clave cuando más importen.
 title: Aplicaciones móviles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 10%
+source-wordcount: '55'
+ht-degree: 7%
 
 ---
 

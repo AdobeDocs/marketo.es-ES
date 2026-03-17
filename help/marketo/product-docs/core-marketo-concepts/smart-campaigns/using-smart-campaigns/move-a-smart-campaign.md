@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: 'Mover una campaña inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo mover una campaña inteligente. Cambie la ubicación de la campaña en una carpeta diferente en Actividades de marketing.
 title: Mover una campaña inteligente
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 5%
+source-wordcount: '153'
+ht-degree: 7%
 
 ---
 

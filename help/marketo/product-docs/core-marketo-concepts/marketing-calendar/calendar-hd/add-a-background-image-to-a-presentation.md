@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: 'Adición de una imagen de fondo a una presentación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar una imagen de fondo a una presentación de Calendario de marketing. Personalice la presentación seleccionando una imagen de la biblioteca.
 title: Añadir una imagen de fondo a una presentación
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '108'
+ht-degree: 12%
 
 ---
 

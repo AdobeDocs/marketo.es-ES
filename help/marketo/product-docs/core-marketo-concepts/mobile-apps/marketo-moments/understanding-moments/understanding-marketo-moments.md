@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: 'Explicación de los momentos de Marketo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre los momentos de Marketo para ver qué importa cuando importa. Vea las perspectivas clave y tome medidas desde la aplicación móvil.
 title: Explicación de los momentos Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---

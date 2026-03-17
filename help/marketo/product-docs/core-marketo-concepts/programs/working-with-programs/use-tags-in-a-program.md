@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147150
-description: 'Uso de etiquetas en un programa: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar etiquetas en un programa. Añada etiquetas para organizar los programas y habilitar el filtrado en el calendario y en los informes.
 title: Uso de etiquetas en un programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '176'
 ht-degree: 10%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: Guardar una definición de filtro en el calendario de marketing, documentos de Marketo, documentación del producto
+description: Obtenga información sobre cómo guardar una definición de filtro en el Calendario de marketing. Guarde los filtros para cambiar rápidamente entre distintas definiciones de filtros.
 title: Guardar una definición de filtro en el calendario de marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 21%
+source-wordcount: '93'
+ht-degree: 19%
 
 ---
 

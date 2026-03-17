@@ -1,11 +1,11 @@
 ---
-description: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo - Documentos de Marketo - Documentación del producto
+description: Contenido en la plantilla de programa de la página de aterrizaje de Marketo. Utilícelo para contenido alojado en páginas de aterrizaje de Marketo.
 title: CT-AAAA-MM-Contenido en la página de destino de Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

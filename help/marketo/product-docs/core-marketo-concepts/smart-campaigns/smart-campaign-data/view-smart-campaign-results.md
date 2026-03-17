@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146968
-description: 'Ver resultados de campañas inteligentes: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo ver los resultados de campañas inteligentes. Vea quién cumple los requisitos, ejecuta el flujo y qué acciones se han realizado.
 title: Ver resultados de la campaña inteligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 7%
 
 ---
 

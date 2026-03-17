@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516639
-description: Conceder acceso a los usuarios a la aplicación de registro - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo conceder a los usuarios acceso a la aplicación de protección de eventos. Asigne la función Mobile Event Check-in para que puedan registrar asistentes.
 title: Conceder a los usuarios acceso a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '275'
+ht-degree: 5%
 
 ---
 

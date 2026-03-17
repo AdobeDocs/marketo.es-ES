@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146985
-description: 'Reordenar los pasos de flujo en una campaña inteligente: documentos de Marketo, documentación del producto'
+description: Aprenda a reordenar los pasos de flujo en una campaña inteligente. Arrastre y suelte para cambiar el orden de las acciones en el flujo.
 title: Reordenación de los pasos de flujo en una campaña inteligente
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 

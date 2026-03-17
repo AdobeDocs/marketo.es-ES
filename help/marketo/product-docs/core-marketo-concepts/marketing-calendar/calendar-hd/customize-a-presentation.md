@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: 'Personalización de una presentación: documentos de Marketo, documentación del producto'
+description: Aprenda a personalizar una presentación de calendario de marketing con vistas y objetivos. Establezca la frecuencia de rotación y muestre lo que más importa a su equipo.
 title: Personalizar una presentación
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---

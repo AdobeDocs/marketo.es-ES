@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146960
-description: Cambiar valor de datos - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar un valor de datos en un paso de flujo de Smart Campaign. Actualice los campos de persona o empresa en el flujo.
 title: Cambiar valor de datos
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

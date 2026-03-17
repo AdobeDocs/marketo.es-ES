@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147152
-description: 'Clonar un recurso en un programa: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo clonar un recurso dentro de un programa. Cree una copia de un correo electrónico, una página de aterrizaje u otro recurso local.
 title: Clonar un recurso en un programa
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '129'
+ht-degree: 13%
 
 ---
 

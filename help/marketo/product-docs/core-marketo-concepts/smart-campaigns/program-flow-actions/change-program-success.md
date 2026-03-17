@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147009
-description: Cambiar el éxito del programa - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el éxito del programa en un paso de flujo. Marcar a las personas como si fueran exitosas en un programa cuando completen una acción.
 title: Cambiar el éxito del programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

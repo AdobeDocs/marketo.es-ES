@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: 'Preparación para su evento: Documentos de Marketo, documentación del producto'
+description: Aprenda a prepararse para su evento con el registro de eventos. Configure la aplicación y sincronice el programa de eventos antes de que lleguen los asistentes.
 title: Preparación para su evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---

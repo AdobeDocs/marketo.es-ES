@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514898
-description: 'Configuración de una campaña inteligente de Déclencheur para ventas con "Se solicita una campaña": documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo configurar una campaña inteligente de déclencheur para las ventas mediante Se solicita la campaña. Permitir que las ventas soliciten campañas para posibles clientes desde CRM.
 title: Configuración de una campaña inteligente de activador para ventas con “La campaña está solicitada”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 8%
 
 ---

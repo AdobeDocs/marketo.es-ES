@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: 'Solicitar Campaign: Documentos de Marketo: documentación del producto'
+description: Aprenda a utilizar el paso de flujo de solicitud de campaña. Déclencheur otra campaña para ejecutarla cuando alguien llegue a este paso.
 title: Solicitar campaña
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '129'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557320
-description: 'Clonar una lista o lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo clonar una lista o una lista inteligente. Cree una copia para utilizarla como punto de partida para una nueva lista.
 title: Clonar una lista o lista inteligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '92'
+ht-degree: 19%
 
 ---
 

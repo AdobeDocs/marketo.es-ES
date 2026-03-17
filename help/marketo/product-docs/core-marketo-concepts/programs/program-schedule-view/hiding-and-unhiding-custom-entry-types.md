@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147247
-description: 'Ocultar y mostrar tipos de entradas personalizadas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo ocultar y mostrar tipos de entradas personalizadas en la vista Programación de programas. Controlar los tipos de entrada que aparecen.
 title: Ocultar y mostrar tipos de entrada personalizados
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 10%
 
 ---
 

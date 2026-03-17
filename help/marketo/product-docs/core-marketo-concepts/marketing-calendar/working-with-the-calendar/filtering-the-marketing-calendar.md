@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147294
-description: Filtrado del calendario de marketing - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo filtrar el calendario de marketing por tipo de entrada, etiquetas de programa o espacio de trabajo. Controle qué recursos programados se muestran.
 title: Filtrado del calendario de marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+source-wordcount: '124'
+ht-degree: 6%
 
 ---
 

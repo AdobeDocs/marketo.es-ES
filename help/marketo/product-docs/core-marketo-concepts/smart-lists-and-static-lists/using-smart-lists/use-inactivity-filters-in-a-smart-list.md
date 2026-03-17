@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: 'Uso de filtros de inactividad en una lista inteligente: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar filtros de inactividad en una lista inteligente. Encuentre personas que no hayan hecho algo durante un periodo determinado.
 title: Uso de filtros de inactividad en una lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: 'Creación y cambio de vistas para listas y listas inteligentes: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo crear y cambiar vistas para listas y listas inteligentes. Personalice las columnas que aparecerán en la pestaña Personas.
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '231'
 ht-degree: 9%
 
 ---

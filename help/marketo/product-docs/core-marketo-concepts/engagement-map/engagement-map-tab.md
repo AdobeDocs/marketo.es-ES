@@ -1,10 +1,10 @@
 ---
-description: 'Pestaña Mapa de participación: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la pestaña Mapa de participación y sus tarjetas de déclencheur, filtro y flujo. Haga clic en las tarjetas para ver los detalles y editar los elementos de la campaña.
 title: Pestaña Mapa de participación
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '950'
 ht-degree: 1%
 
 ---

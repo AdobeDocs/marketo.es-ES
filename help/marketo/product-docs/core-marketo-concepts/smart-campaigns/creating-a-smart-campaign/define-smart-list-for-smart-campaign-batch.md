@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: 'Definición de listas inteligentes para campañas inteligentes | Lote: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo definir la lista inteligente para una campaña inteligente por lotes. Elija quién entra en la campaña con filtros.
 title: Definición de listas inteligentes para campañas inteligentes | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 5%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097447
-description: Tablero de base de datos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre el tablero Base de datos en Marketo. Vea las métricas clave de su base de datos y las personas de un vistazo.
 title: Panel de la base de datos
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '182'
 ht-degree: 2%
 
 ---

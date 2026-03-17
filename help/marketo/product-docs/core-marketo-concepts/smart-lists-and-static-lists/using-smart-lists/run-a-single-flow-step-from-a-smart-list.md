@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: 'Ejecución de un solo paso de flujo desde una lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo ejecutar un solo paso de flujo desde una lista inteligente. Ejecutar una acción de flujo para las personas seleccionadas de la lista.
 title: Ejecutar un solo paso de flujo desde una lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '243'
+ht-degree: 9%
 
 ---
 

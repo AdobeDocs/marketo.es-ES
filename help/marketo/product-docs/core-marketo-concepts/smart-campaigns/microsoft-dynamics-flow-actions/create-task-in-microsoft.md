@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356429
-description: Crear tarea en Microsoft - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear una tarea en Microsoft Dynamics a partir de un paso de flujo. Cree una tarea para el propietario cuando alguien entre en el flujo.
 title: Crear tarea en Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '184'
 ht-degree: 4%
 
 ---

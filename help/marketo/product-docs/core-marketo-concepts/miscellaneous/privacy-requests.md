@@ -1,11 +1,11 @@
 ---
-description: 'Solicitudes de privacidad: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo administrar las solicitudes de privacidad para acceso y eliminación en Marketo. Envíe solicitudes a través de la interfaz de usuario de Privacy Service o la API y procese los datos de los consumidores.
 title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '353'
+ht-degree: 15%
 
 ---
 

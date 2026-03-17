@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953207
-description: 'Crear nueva carpeta de campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una nueva carpeta de campaña en Actividades de marketing. Organice su espacio de trabajo con carpetas de campaña para la automatización y los recursos.
 title: Crear nueva carpeta de la campaña
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '123'
+ht-degree: 17%
 
 ---
 

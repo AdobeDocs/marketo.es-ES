@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147029
-description: 'Cambiar estado en SFDC Campaign: documentos de Marketo, documentación del producto'
+description: Aprenda a cambiar el estado en una campaña de Salesforce con un paso de flujo. Actualice el estado del miembro en la campaña de SFDC vinculada.
 title: Cambiar estado de la campaña SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '105'
+ht-degree: 9%
 
 ---
 

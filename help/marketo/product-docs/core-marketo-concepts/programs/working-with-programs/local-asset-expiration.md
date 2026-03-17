@@ -1,12 +1,12 @@
 ---
-description: Caducidad de recursos locales - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la caducidad de recursos locales en programas. Se establece cuando los recursos locales de un programa caducan y se eliminan.
 title: Vencimiento del recurso local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 2%
+source-wordcount: '276'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Para poder programar una caducidad de recursos, la función de Marketo debe tene
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. En el área [!UICONTROL Administrador], haga clic en **[!UICONTROL Usuarios y roles]**.
 

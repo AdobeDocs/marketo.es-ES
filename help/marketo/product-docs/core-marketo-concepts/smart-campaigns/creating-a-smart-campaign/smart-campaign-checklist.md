@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: 'Lista de comprobación de campañas inteligentes: documentos de Marketo, documentación del producto'
+description: Obtenga ayuda sobre la lista de comprobación de campañas inteligentes. Utilice esta lista para verificar que la campaña esté configurada correctamente antes de activarla.
 title: Comprobación de la campaña inteligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '259'
 ht-degree: 3%
 
 ---

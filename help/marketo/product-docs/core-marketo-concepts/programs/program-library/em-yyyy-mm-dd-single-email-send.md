@@ -1,12 +1,12 @@
 ---
-description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de Marketo - Documentación del producto
+description: Plantilla de programa de envío de correo electrónico único. Utilícelo para enviar campañas de correo electrónico únicas con una convención de nombres clara.
 title: EM-AAAA-MM-DD-Envío de un único correo electrónico
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 19%
+source-wordcount: '290'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este ejemplo envía un solo correo electrónico utilizando un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

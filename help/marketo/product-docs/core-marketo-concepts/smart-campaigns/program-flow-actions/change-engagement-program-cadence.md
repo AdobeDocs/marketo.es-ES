@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147013
-description: Cambiar cadencia del programa de participación - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar la cadencia del programa de participación en un paso de flujo. Ajuste la frecuencia con la que las personas reciben correos electrónicos en un flujo.
 title: Cambiar cadencia del programa de participación
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Página de aterrizaje de Advertising Marketo en línea - Documentos de Marketo - Documentación del producto
+description: Plantilla del programa de la página de aterrizaje de Advertising Marketo en línea. Utilícelo para campañas de pago con páginas de Marketo.
 title: OA-AAAA-MM- Página de destino de publicidad en línea de Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '491'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programa de seguimiento de publicidad en línea que incluye una página de aterrizaje de Marketo con formulario de registro y un programa predeterminado de Marketo. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

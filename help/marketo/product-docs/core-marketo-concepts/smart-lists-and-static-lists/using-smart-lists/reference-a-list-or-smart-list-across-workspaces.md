@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: 'Hacer referencia a una lista o lista inteligente en espacios de trabajo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo hacer referencia a una lista o lista inteligente en espacios de trabajo. Utilice una lista de un espacio de trabajo en otro con referencia.
 title: Hacer referencia a una lista o lista inteligente en espacios de trabajo
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 11%
 
 ---
 
@@ -33,7 +33,7 @@ Las listas y las listas inteligentes se pueden compartir y se puede hacer refere
    >
    >Assets solo se puede compartir entre espacios de trabajo si están anidados en una carpeta.
 
-1. Asigne un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
+1. Póngale un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

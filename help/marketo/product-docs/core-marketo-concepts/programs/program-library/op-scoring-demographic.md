@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Demographic - Documentos de Marketo - Documentación del producto
+description: Puntuación Plantilla del programa operativo demográfico. Utilícelo para la puntuación de posibles clientes basada en datos demográficos.
 title: OP-Puntuación-Demográfica
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 35%
+source-wordcount: '316'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 35%
 
 Este es un ejemplo de programa operativo avanzado (con token) que utiliza un programa predeterminado de Marketo Engage para la puntuación demográfica. Vea y edite los valores de puntuación en la pestaña &quot;Mis tokens&quot; del programa. Requiere un campo de puntuación personalizado llamado &quot;Puntuación demográfica&quot;.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

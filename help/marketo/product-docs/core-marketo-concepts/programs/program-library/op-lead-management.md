@@ -1,11 +1,11 @@
 ---
-description: Administración de OP-Lead - Documentos de Marketo - Documentación del producto
+description: Plantilla del programa operativo de gestión de posibles clientes. Utilícela para administrar el ciclo de vida y la puntuación de los posibles clientes.
 title: OP-Gestión de clientes potenciales
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ Este es un ejemplo de flujos de trabajo de prácticas recomendadas de administra
 >
 >En Marketo Engage, los registros de la base de datos se denominan personas/persona. La administración de posibles clientes en este ejemplo hace referencia a los registros de su CRM.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html).
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Resumen del canal {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437991
-description: 'Déclencheur y filtros para campañas móviles inteligentes: Documentos de Marketo, documentación del producto'
+description: Obtenga información sobre los déclencheur y filtros para campañas inteligentes móviles. Utilice eventos y atributos de la aplicación para almacenar en déclencheur las campañas.
 title: Activadores y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '820'
 ht-degree: 3%
 
 ---
@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 

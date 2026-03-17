@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147027
-description: 'Sincronizar persona con SFDC: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo sincronizar una persona con Salesforce mediante un paso de flujo. Insertar datos de contactos o posibles clientes en SFDC cuando entren en el flujo.
 title: Sincronizar persona con SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 5%
 
 ---
 

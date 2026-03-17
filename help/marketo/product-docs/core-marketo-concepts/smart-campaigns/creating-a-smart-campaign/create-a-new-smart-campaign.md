@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: 'Creación de una nueva campaña inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una nueva campaña inteligente. Configure déclencheur o una lista inteligente y añada pasos de flujo para automatizar las acciones.
 title: Crear nueva campaña inteligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 

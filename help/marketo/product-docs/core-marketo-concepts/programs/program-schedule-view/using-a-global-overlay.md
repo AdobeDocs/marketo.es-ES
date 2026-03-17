@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147249
-description: 'Uso de una superposición global: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar una superposición global en la vista Programación del programa. Aplique una superposición entre programas para lograr una visualización coherente.
 title: Uso de una superposición global
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---

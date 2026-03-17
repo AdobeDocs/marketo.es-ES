@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: 'Anexar datos a un campo: documentos de Marketo, documentación del producto'
+description: Aprenda a anexar datos a un campo en un paso de flujo. Agregue texto a los valores de campo existentes sin sobrescribirlo.
 title: Anexar datos a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 12%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 

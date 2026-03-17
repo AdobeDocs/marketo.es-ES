@@ -1,11 +1,11 @@
 ---
-description: Anulación de prioridad para campañas de Déclencheur - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la anulación de prioridades para campañas de déclencheur. Controle qué campaña se ejecuta cuando se activan varios déclencheur para la misma persona.
 title: Anulación de prioridad para campañas de activador
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '258'
 ht-degree: 5%
 
 ---

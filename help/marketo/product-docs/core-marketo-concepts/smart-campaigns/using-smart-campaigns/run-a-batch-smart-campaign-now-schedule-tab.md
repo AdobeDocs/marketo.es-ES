@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: 'Ejecute una campaña inteligente por lotes ahora | Pestaña Programación: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo ejecutar una campaña inteligente por lotes ahora desde la pestaña Schedule. Ejecute la campaña inmediatamente en lugar de programarla.
 title: Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 15%
+source-wordcount: '112'
+ht-degree: 14%
 
 ---
 

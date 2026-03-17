@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: 'Uso de la pestaña Inicio del programa: Documentos de Marketo: documentación del producto'
+description: Aprenda a utilizar la pestaña Inicio del programa. Vea la información general del programa, el rendimiento y los detalles clave en un solo lugar.
 title: Uso de la pestaña Inicio del programa
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -71,4 +71,4 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
    >[!MORELIKETHIS]
    >
-   >[Explicación de la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Descripción del abono al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

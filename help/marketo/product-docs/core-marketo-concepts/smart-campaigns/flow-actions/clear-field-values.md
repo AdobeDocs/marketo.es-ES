@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147324
-description: Borrar valores de campo - Documentos de Marketo - Documentación del producto
+description: Aprenda a borrar valores de campo en un paso del flujo de Smart Campaign. Elimine valores de los campos de persona o empresa.
 title: Borrar valores de campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '107'
+ht-degree: 5%
 
 ---
 

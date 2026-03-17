@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953120
-description: 'Explicación de las campañas inteligentes: Documentos de Marketo: documentación del producto'
-title: Explicación de campañas inteligentes
+description: Obtenga información sobre campañas inteligentes para la automatización en Marketo. Utilice déclencheur y pasos de flujo para automatizar la nutrición y las acciones de los posibles clientes.
+title: Explicación de las campañas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 18%
+source-wordcount: '261'
+ht-degree: 92%
 
 ---
 
-# Explicación de campañas inteligentes {#understanding-smart-campaigns}
+# Explicación de las campañas inteligentes {#understanding-smart-campaigns}
 
 Si Marketo Engage es un coche, la campaña inteligente es su motor. Las campañas inteligentes pueden hacer más de lo que imagina y es fácil empezar a usarlas.
 
-La campaña inteligente tiene tres áreas principales: las pestañas [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} y [Programar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
+La campaña inteligente tiene tres áreas principales: las pestañas [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} y [Programaciónr](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Lista inteligente {#smart-list}
 
-La lista inteligente es la forma en que se define a _who_ que se quiere dirigir con la campaña inteligente. Tiene filtros y déclencheur.
+La lista inteligente es la forma en que define a _quién_ quiere dirigir su campaña inteligente. Tiene filtros y activadores.
 
 <table>
  <tbody>
@@ -31,17 +31,17 @@ La lista inteligente es la forma en que se define a _who_ que se quiere dirigir 
   <tr>
    <td>Filtro</td>
    <td>Se hizo clic en el vínculo</td>
-   <td><p>Recopile todas las personas de un lote que cumplan los requisitos en este momento.</p></td>
+   <td><p>Reúna a todas las personas de un lote que cumplan los requisitos en ese momento.</p></td>
   </tr>
   <tr>
    <td colspan="1">Activador</td>
-   <td colspan="1">Vínculo de clics</td>
+   <td colspan="1">Hace clic en el vínculo</td>
    <td colspan="1">En el momento en que alguien haga algo, dispara el flujo inmediatamente.</td>
   </tr>
  </tbody>
 </table>
 
-Los filtros se pueden combinar de varias formas y también se pueden usar junto con los déclencheur. Esta es una herramienta poderosa, experimenta con ella.
+Los filtros se pueden combinar de varias formas y también se pueden usar junto con los activadores. Esta es una herramienta poderosa, experimente con ella.
 
 ## Flujo {#flow}
 

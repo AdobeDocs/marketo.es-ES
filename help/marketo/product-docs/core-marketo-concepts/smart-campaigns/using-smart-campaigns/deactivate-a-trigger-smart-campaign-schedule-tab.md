@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146991
-description: 'Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo desactivar una campaña inteligente de déclencheur desde la pestaña Schedule. Desactive la campaña para que deje de procesar déclencheur.
 title: Desactivación de una campaña inteligente de activador | Pestaña Programación
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 16%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 

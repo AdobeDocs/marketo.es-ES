@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: 'Uso del filtro de valor de datos cambiado en una lista inteligente: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar el filtro Valor de datos cambiado en una lista inteligente. Buscar personas cuando un valor de campo haya cambiado.
 title: Usar el filtro de valor de datos cambiado en una lista inteligente
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 19%
+source-wordcount: '153'
+ht-degree: 18%
 
 ---
 

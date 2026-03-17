@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147060
-description: 'Cancelar una ejecución de campaña de lotes recurrentes programada: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo cancelar una ejecución de campaña por lotes recurrente programada. Detener una programación recurrente para que ya no se ejecute.
 title: Cancelar una ejecución programada de campaña por lotes recurrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 13%
+source-wordcount: '129'
+ht-degree: 12%
 
 ---
 

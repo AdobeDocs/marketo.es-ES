@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146897
-description: Eliminar personas en una lista inteligente o lista - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo eliminar personas de una lista inteligente o estática. Quitar personas de la lista o de la base de datos.
 title: Eliminar personas de una lista inteligente o una lista
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 5%
+source-wordcount: '299'
+ht-degree: 6%
 
 ---
 

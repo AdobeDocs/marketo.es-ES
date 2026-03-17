@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146956
-description: 'Momento interesante: Documentos de Marketo: documentación del producto'
+description: Aprenda a crear un momento interesante en un paso de flujo. Registrar acciones clave para la visibilidad de ventas en CRM.
 title: Momento interesante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 

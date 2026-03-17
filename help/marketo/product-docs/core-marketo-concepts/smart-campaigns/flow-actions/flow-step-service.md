@@ -1,11 +1,11 @@
 ---
-description: 'Servicio de pasos de flujo: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre el servicio de pasos de flujo para los pasos de flujo personalizados. Amplíe campañas inteligentes con acciones personalizadas mediante API.
 title: Servicio de paso de flujo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1244'
 ht-degree: 0%
 
 ---
