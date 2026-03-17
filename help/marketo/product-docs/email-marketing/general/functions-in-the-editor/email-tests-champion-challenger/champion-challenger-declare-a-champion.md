@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: Campeón/Challenger - Declarar un campeón - Documentos de Marketo - Documentación del producto
+description: Aprenda a declarar un Campeón para su prueba de correo electrónico. Elija la variante ganadora y envíe al resto de la audiencia como ganador.
 title: Campeón/Challenger - Declare un Campeón
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 

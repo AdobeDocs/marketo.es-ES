@@ -1,11 +1,12 @@
 ---
-description: 'Modo oscuro: Documentos de Marketo: documentación del producto'
+description: Aprenda a diseñar correos electrónicos para el modo oscuro en el Designer de correo electrónico. Configure la visualización personalizada en modo oscuro para admitir clientes de correo electrónico.
 title: Modo oscuro
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1232'
 ht-degree: 1%
 
 ---

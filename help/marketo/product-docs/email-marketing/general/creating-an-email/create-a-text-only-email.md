@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900556
-description: 'Creación de un correo electrónico de solo texto: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un correo electrónico de solo texto en Marketo. Utilice la versión de texto para campañas de texto sin formato o como alternativa.
 title: Crear un correo electrónico de solo texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '197'
 ht-degree: 9%
 
 ---

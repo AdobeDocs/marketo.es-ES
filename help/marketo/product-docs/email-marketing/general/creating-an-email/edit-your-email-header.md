@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359453
-description: 'Editar el encabezado del correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar el encabezado del correo electrónico (desde nombre, desde correo electrónico, respuesta, asunto). Establezca los campos de encabezado en el editor de correo electrónico.
 title: Editar el encabezado del correo electrónico
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360219
-description: Configurar una firma de DKIM personalizada - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar una firma de DKIM personalizada para su dominio en Marketo. Agregue un dominio en Administración y trabaje con TI para publicar el registro DNS.
 title: Configurar una firma personalizada de DKIM
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '444'
 ht-degree: 4%
 
 ---

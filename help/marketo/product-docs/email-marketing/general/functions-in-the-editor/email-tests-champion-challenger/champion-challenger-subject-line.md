@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger - Línea de asunto - Documentos de Marketo - Documentación del producto
+description: Aprenda a ejecutar pruebas de línea de asunto de campeón/aspirante. Pruebe distintas líneas de asunto y declare un ganador según sus criterios.
 title: Champion/Challenger - Línea de asunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
@@ -47,7 +47,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
 
    Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

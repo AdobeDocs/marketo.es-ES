@@ -1,13 +1,13 @@
 ---
-description: Plantillas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear plantillas de correo electrónico independientes para su reutilización. Cree plantillas personalizadas en el Designer de correo electrónico para lograr un diseño y una coherencia más rápidos.
 title: Plantillas de correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1838'
-ht-degree: 1%
+source-wordcount: '1853'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Para un proceso de diseño acelerado y mejorado, puede crear plantillas de corre
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >

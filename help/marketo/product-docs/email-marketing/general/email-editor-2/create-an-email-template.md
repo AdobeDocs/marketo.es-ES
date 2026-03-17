@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: 'Creación de una plantilla de correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a crear una plantilla de correo electrónico en el Editor de correo electrónico 2.0. Cree plantillas reutilizables con módulos y secciones editables.
 title: Creación de una plantilla de correo electrónico
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 2%
+source-wordcount: '284'
+ht-degree: 12%
 
 ---
 
@@ -69,7 +69,7 @@ Si ha creado un correo electrónico que desea guardar como plantilla para uso fu
 
    >[!CAUTION]
    >
-   >Al guardar un correo electrónico como plantilla, los valores de las variables no se transfieren. Las variables seguirán utilizando los valores predeterminados especificados en la plantilla subyacente. Los módulos disponibles en el correo electrónico no se transferirán a menos que se hayan insertado en el cuerpo del correo electrónico.
+   >Al guardar un correo electrónico como plantilla, los valores de variables no se transfieren. Las variables seguirán utilizando los valores predeterminados especificados en la plantilla subyacente. Los módulos disponibles en el correo electrónico no se transferirán a menos que se hayan insertado en el cuerpo del correo electrónico.
 
 Para personalizar su plantilla de correo electrónico, consulte el artículo siguiente.
 

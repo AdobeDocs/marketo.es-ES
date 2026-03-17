@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger - Configuración de alertas de informes - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ver análisis de Campeones/Challenger y configurar alertas de informes. Rastree el rendimiento de las pruebas y reciba notificaciones cuando un ganador esté listo.
 title: 'Campeón/Challenger: Configurar alertas de informes'
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 1%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo le enviará informes sobre cómo va la prueba de correo electrónico. As
 
    ![](assets/champion-challenger-analytics-2.png)
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **Next**.
 
    ![](assets/champion-challenger-analytics-3.png)
 

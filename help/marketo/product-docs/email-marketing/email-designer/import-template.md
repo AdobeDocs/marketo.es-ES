@@ -1,19 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Importación de plantilla
-description: Obtenga información sobre cómo importar las plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico.
+title: Importación de plantillas
+description: Obtenga información sobre cómo importar plantillas de correo electrónico del editor clásico a Designer de correo electrónico.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
 
-# Importación de plantilla {#template-import}
+# Importación de plantillas {#template-import}
 
 Importe fácilmente sus plantillas de correo electrónico existentes del editor clásico al nuevo Designer de correo electrónico, preservando sus diseños y acelerando la creación de plantillas con estructuras familiares y reutilizables. Revise las [prácticas recomendadas](#best-practices) y obtenga información acerca de las [limitaciones y remedios](#limitations-and-remedies).
 

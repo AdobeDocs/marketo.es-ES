@@ -1,13 +1,13 @@
 ---
-description: 'Creación de correos electrónicos: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en Email Designer. Utilice Design Studio o Programas de correo electrónico para crear correos electrónicos.
 title: Creación del correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 1%
+source-wordcount: '1783'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Crear un correo electrónico {#create-an-email}
 

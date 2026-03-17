@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900548
-description: 'Vista previa de un correo electrónico con contenido dinámico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo previsualizar correos electrónicos con contenido dinámico. Consulte cómo se representan las variantes para diferentes segmentos antes de enviarlas.
 title: Vista previa de un correo electrónico con contenido dinámico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 

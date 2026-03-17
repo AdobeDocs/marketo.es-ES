@@ -1,15 +1,15 @@
 ---
 title: Integración de GenStudio para Marketo Engage
-description: Aprenda a utilizar GenStudio en Marketo Engage.
+description: Aprenda a utilizar GenStudio en Marketo Engage para crear contenido. Acceda a las funciones de GenStudio dentro del flujo de trabajo Designer de correo electrónico.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 0%
+source-wordcount: '406'
+ht-degree: 3%
 
 ---
 
@@ -42,9 +42,9 @@ Exporte fácilmente una plantilla que incluya las directrices de su marca a GenS
 
    ![Exportando su HTML](assets/genstudio-integration-1.png)
 
-1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
+1. [Cargar la plantilla exportada de HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} en GenStudio for Performance Marketing.
 
-1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/es/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
+1. En GenStudio, use esta plantilla para [crear varias variaciones de correo electrónico](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} con peticiones de datos de IA y guardarlas.
 
 ## Aprovechamiento de las experiencias de GenStudio en Marketo Engage {#leverage-genstudio-experiences}
 
@@ -72,7 +72,7 @@ Para aprovechar las variaciones de correo electrónico de GenStudio que creó im
 
 1. El contenido seleccionado se muestra en el Designer de correo electrónico.
 
-   ![Diseñador de correos electrónicos](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
+   ![Diseñador de correo electrónico](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >

@@ -2,12 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Contenido condicional
-description: Utilice contenido condicional en los correos electrónicos para mostrar de forma dinámica el contenido en función del destinatario.
+description: Obtenga información acerca del contenido condicional para mostrar contenido diferente por destinatario. Utilice reglas en el Designer de correo electrónico para personalizar los correos electrónicos.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '308'
 ht-degree: 2%
 
 ---

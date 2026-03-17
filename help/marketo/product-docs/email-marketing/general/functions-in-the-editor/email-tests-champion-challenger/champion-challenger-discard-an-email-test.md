@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359587
-description: 'Campeón/Desafío: descartar una prueba de correo electrónico. Documentos de Marketo: documentación del producto'
+description: Aprenda a descartar una prueba de correo electrónico de campeón/aspirante. Cancele la prueba sin declarar un ganador y controle la audiencia.
 title: 'Campeón/Challenger: descartar una prueba de correo electrónico'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 8%
+source-wordcount: '99'
+ht-degree: 12%
 
 ---
 

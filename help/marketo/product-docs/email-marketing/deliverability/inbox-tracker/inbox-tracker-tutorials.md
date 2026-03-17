@@ -1,16 +1,16 @@
 ---
-description: Pruebe, supervise y comprenda los problemas de envío con el rastreador de la bandeja de entrada.
-title: Tutoriales del rastreador de bandeja de entrada
+description: Obtenga información acerca del Rastreador de bandeja de entrada para probar y supervisar la capacidad de envío de correo electrónico. Acceda a vídeos de formación para la navegación, los paneles y el seguimiento de campañas.
+title: Tutoriales de Inbox Tracker
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
-# Tutoriales del rastreador de bandeja de entrada {#inbox-tracker-tutorials}
+# Tutoriales de Inbox Tracker {#inbox-tracker-tutorials}
 
 Pruebe, supervise y comprenda los problemas de envío con las herramientas de envío de correo electrónico con la plataforma de seguimiento de la bandeja de entrada de Bird (anteriormente MessageBird). Inbox Tracker es una aplicación única que combina la inteligencia de su programa y la previsión de la renderización del correo electrónico / prueba de la bandeja de entrada para maximizar el rendimiento de sus correos electrónicos.
 

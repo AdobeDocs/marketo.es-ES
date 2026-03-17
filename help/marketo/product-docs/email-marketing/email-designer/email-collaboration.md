@@ -1,12 +1,12 @@
 ---
-description: Colaboración por correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la colaboración y los comentarios por correo electrónico en Email Designer. Revise, comente y resuelva los comentarios con su equipo en tiempo real.
 title: Colaboración por correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 2%
 
 ---

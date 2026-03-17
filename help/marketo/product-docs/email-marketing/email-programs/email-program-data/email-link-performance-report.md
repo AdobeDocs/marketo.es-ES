@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
-description: Informe de rendimiento de vínculos de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear y utilizar el informe Rendimiento de los vínculos de correo electrónico. Vea el rendimiento de cada vínculo del correo electrónico en cuanto a clics y participación.
 title: Informe de rendimiento de vínculos de correo electrónico
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 4%
 
 ---

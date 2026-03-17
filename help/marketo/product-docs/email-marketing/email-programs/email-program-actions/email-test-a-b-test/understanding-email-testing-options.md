@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: 'Explicación de las opciones de prueba de correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las opciones de prueba de correo electrónico para pruebas A/B. Comprender la línea de asunto, el correo electrónico completo, la dirección de origen y las pruebas de fecha y hora.
 title: Explicación de opciones de prueba de correo electrónico
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900560
-description: 'Adición de una vista como vínculo de página web a un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar un vínculo Ver como página web a un correo electrónico. Permita que los destinatarios abran el correo electrónico en un explorador con un vínculo persistente.
 title: Añadir un vínculo Ver como página web a un correo electrónico
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 11%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950617
-description: 'Uso de contenido dinámico en un correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar contenido dinámico en un correo electrónico. Muestre contenido diferente a diferentes segmentos en función de reglas y atributos.
 title: Uso del contenido dinámico en un correo electrónico
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 4%
+source-wordcount: '270'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097202
-description: Head Start para programas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre Head Start para programas de correo electrónico. Envíe a los primeros calificadores antes de la programación principal de campañas con distinción de tiempo.
 title: Inicio rápido para programas de correo electrónico
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '427'
 ht-degree: 2%
 
 ---

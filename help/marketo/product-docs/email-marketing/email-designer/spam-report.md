@@ -2,11 +2,11 @@
 solution: Marketo Engage
 product: marketo
 title: Informe sobre correo electrónico spam
-description: Aprenda a utilizar SpamAssassin para probar el contenido del correo electrónico y ver la probabilidad de que se marque como correo no deseado.
+description: Aprenda a utilizar SpamAssassin para probar la probabilidad de spam en el contenido del correo electrónico. Compruebe sus correos electrónicos antes de enviarlos para mejorar la capacidad de envío.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%

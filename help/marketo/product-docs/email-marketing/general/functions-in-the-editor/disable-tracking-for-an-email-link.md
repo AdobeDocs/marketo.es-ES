@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900579
-description: Deshabilitar el seguimiento de un vínculo de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo deshabilitar el seguimiento de vínculos de correo electrónico específicos. Desactive el rastreo de clics cuando sea necesario por motivos de privacidad o redirección de URL.
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '298'
 ht-degree: 4%
 
 ---

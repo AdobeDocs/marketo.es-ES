@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: Usar la prueba A/B "Fecha/hora" - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ejecutar pruebas A/B de fecha y hora para programas de correo electrónico. Pruebe diferentes tiempos de envío y elija un ganador por rendimiento.
 title: Usar prueba A/B “Fecha/hora”
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '275'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: 'Activación y desactivación del contenido de la emisión: documentos de Marketo, documentación del producto'
+description: Aprenda a activar y desactivar el contenido de flujo para los lanzamientos de participación.
 title: Activar y desactivar contenido de flujo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 

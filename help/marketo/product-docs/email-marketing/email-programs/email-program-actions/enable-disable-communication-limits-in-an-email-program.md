@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: 'Habilitar/deshabilitar límites de comunicación en un programa de correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo habilitar o deshabilitar los límites de comunicación en un programa de correo electrónico. Controle la frecuencia con la que las personas pueden recibir correos electrónicos del programa.
 title: Habilitar/deshabilitar límites de comunicación en un programa de correo electrónico
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 13%
 
 ---
 

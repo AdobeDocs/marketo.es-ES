@@ -1,20 +1,20 @@
 ---
-description: Información general - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la nueva versión beta de Email Designer. Acceda al editor de arrastrar y soltar y a las plantillas del programa beta de Marketo Engage.
 title: Información general
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 30%
 
 ---
 
 # Información general {#overview}
 
-Bienvenido al nuevo Adobe Marketo Engage Email Designer.
+Le damos la bienvenida al nuevo Diseñador de correo electrónico de Adobe Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -22,7 +22,7 @@ Bienvenido al nuevo Adobe Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 La nueva Designer de correo electrónico es la última innovación en Marketo Engage y tiene como objetivo proporcionar una experiencia de creación de plantillas de correo electrónico y correo electrónico mejorada para mejorar la productividad y la eficacia al proporcionar un editor visual de arrastrar y soltar junto con plantillas predeterminadas estándar. Cree fácilmente plantillas de correo electrónico personalizadas sin tener que gastar dinero en proveedores.
 
@@ -30,6 +30,6 @@ Los correos electrónicos creados en el nuevo diseñador se pueden utilizar en l
 
 **Artículos disponibles**
 
-* [Creación de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo editor.
+* [Creación de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo editor.
 
 * [Plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Aprenda a crear, diseñar y acceder a una plantilla de correo electrónico en el nuevo editor.

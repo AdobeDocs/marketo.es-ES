@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953419
-description: Uso del editor de texto enriquecido - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar el editor de texto enriquecido para el contenido de correo electrónico. Aplique formato al texto, agregue vínculos y aplique estilo al contenido en el editor de correo electrónico.
 title: Uso del editor de texto enriquecido
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 2%
+source-wordcount: '752'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147352
-description: 'Enviar un correo electrónico de muestra: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar un correo electrónico de muestra para probar el contenido antes del lanzamiento. Utilice el editor de correo electrónico para enviarse a sí mismo o a otros una copia de prueba.
 title: Enviar muestra de correo electrónico
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 3%
 
 ---
@@ -56,7 +56,7 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
    >[!NOTE]
    >
-   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting).
+   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 

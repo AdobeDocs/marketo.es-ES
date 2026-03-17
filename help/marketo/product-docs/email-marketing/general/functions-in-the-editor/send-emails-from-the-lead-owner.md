@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147340
-description: Envío de correos electrónicos del propietario del posible cliente - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo enviar correos electrónicos desde la dirección del propietario del posible cliente. Utilice la opción Enviar del propietario del posible cliente para que los correos electrónicos muestren el remitente correcto.
 title: Envío de correos electrónicos del propietario del posible cliente
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 7%
+source-wordcount: '206'
+ht-degree: 6%
 
 ---
 

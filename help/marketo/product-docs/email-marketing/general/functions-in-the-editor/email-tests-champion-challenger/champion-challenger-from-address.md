@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Dirección de origen - Documentos de Marketo - Documentación del producto
+description: Aprenda a ejecutar pruebas de campeón/aspirante desde la dirección del destinatario. Pruebe distintas direcciones de remitente y declare un ganador según ciertos criterios.
 title: Campeón/Challenger - Dirección de origen
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

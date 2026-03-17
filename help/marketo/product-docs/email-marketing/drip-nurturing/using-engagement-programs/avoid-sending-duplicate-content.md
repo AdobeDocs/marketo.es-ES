@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096409
-description: 'Evitar el envío de contenido duplicado: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre los escenarios que evitan o permiten correos electrónicos duplicados en los programas de participación. Utilice las reglas de pertenencia a programas y CEE para evitar repeticiones.
 title: Evitar enviar contenido duplicado
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 7%
 
 ---

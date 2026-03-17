@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359949
-description: Pausar personas en un programa de participación - Documentos de Marketo - Documentación del producto
+description: Aprenda a pausar a las personas en un programa de participación para que dejen de recibir contenido.
 title: Pausar personas en un programa de participación
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 9%
 
 ---

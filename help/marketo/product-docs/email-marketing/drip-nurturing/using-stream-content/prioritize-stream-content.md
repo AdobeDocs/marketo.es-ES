@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359834
-description: 'Priorización del contenido de la emisión: documentos de Marketo, documentación del producto'
+description: Aprenda a priorizar el contenido de la emisión arrastrando y soltando. El contenido se entrega de arriba a abajo en cada reparto y no se envía contenido dos veces.
 title: Priorizar contenido de flujo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 5%
+source-wordcount: '120'
+ht-degree: 8%
 
 ---
 

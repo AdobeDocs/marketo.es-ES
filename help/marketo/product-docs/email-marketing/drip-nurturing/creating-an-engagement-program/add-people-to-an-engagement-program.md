@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: Añadir personas a un programa de participación - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las formas en que las personas se convierten en miembros de programas de participación. Utilice pasos de flujo, formularios, importaciones o campañas de Salesforce para agregar miembros.
 title: Añadir personas a un programa de participación
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 10%
+source-wordcount: '124'
+ht-degree: 9%
 
 ---
 

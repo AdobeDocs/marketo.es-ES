@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: 'Adición de un token de sistema como vínculo en un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo añadir un token del sistema como vínculo en un correo electrónico. Utilice tokens en las direcciones URL de los vínculos para cancelar la suscripción u otros vínculos dinámicos.
 title: Añadir un token del sistema como un vínculo en un correo electrónico
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 10%
+source-wordcount: '222'
+ht-degree: 9%
 
 ---
 

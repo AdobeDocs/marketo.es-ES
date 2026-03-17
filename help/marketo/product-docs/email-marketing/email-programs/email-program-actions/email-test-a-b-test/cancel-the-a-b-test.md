@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359600
-description: Cancelación de la prueba A/B - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo cancelar una prueba A/B para un programa de correo electrónico. Detenga la prueba y elija cómo gestionar la audiencia restante.
 title: Cancelar prueba A/B
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 14%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 

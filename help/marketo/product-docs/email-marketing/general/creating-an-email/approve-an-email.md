@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147342
-description: 'Aprobar un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar un correo electrónico para que se pueda utilizar en programas. Complete el flujo de trabajo de aprobación antes de programar o enviar.
 title: Aprobar un correo electrónico
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900558
-description: 'Edición de elementos en un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar elementos en un correo electrónico en el Editor de correo electrónico 2.0. Modifique el texto, las imágenes y otros módulos del diseño del correo electrónico.
 title: Editar elementos en un correo electrónico
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '499'
-ht-degree: 2%
+source-wordcount: '512'
+ht-degree: 1%
 
 ---
 

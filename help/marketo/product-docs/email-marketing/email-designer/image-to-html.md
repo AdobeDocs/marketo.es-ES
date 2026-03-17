@@ -1,14 +1,15 @@
 ---
 title: Conversión de imágenes en plantillas de HTML
-description: Utilice esta herramienta sin código para transformar una imagen en una plantilla de correo electrónico editable.
+description: Aprenda a convertir una imagen en una plantilla de correo electrónico editable de HTML. Utilice la herramienta de conversión de imagen a HTML sin código en el Designer de correo electrónico.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 1%
+source-wordcount: '1295'
+ht-degree: 2%
 
 ---
 
@@ -23,7 +24,7 @@ Al aprovechar la tecnología de IA generativa, el conversor de imagen a HTML ana
 >[!PREREQUISITES]
 >
 >* Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
->* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Debe tener _Acceso a la plantilla de correo electrónico_, así como _Editar/Generar plantilla de correo electrónico_ permisos habilitados [en su rol de Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir una imagen {#convert-an-image}
 

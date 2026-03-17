@@ -1,18 +1,19 @@
 ---
-title: Diseño de contenido accesible
-description: Aprenda a diseñar contenido accesible para sus correos electrónicos en Adobe Marketo Engage.
+title: Diseñar contenido accesible
+description: Aprenda a diseñar contenido de correo electrónico accesible en Marketo Engage. Aplique las prácticas recomendadas para que los correos electrónicos funcionen para todos los destinatarios.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: correo electrónico, diseño, accesibilidad
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
 
-# Diseño de contenido accesible {#accessible-content}
+# Diseñar contenido accesible {#accessible-content}
 
 La [Ley Europea de Accesibilidad](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} es una directiva diseñada para mejorar el mercado interno de productos y servicios accesibles al eliminar las barreras causadas por las diferentes reglas nacionales en los Estados Miembros.
 

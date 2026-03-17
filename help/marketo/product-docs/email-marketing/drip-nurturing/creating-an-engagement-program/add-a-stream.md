@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359787
-description: 'Añadir un flujo: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un nuevo flujo a su programa de participación en Marketo. En la pestaña Streams puede añadir hasta 25 flujos por programa.
 title: Añadir un flujo
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 10%
+source-wordcount: '73'
+ht-degree: 13%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371065
-description: 'Añadir módulos al correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir módulos al correo electrónico en el Editor de correo electrónico 2.0. Inserte y organice módulos de contenido para crear su diseño.
 title: Añadir módulos al correo electrónico
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '262'
 ht-degree: 4%
 
 ---

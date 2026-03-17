@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795727
-description: Anular la entrega de programas de correo electrónico programados con la zona horaria del destinatario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo cancelar la entrega de programas de correo electrónico programados con el huso horario del destinatario. Detenga el envío y administre los destinatarios restantes.
 title: Anular el envío de programas de correo electrónico programados con la zona horaria del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 8%
 
 ---
 

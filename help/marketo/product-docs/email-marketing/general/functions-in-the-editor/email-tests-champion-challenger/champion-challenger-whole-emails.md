@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Correos electrónicos completos - Documentos de Marketo - Documentación del producto
+description: Aprenda a ejecutar pruebas de campeón/aspirante con correos electrónicos completos. Pruebe distintas versiones de correo electrónico y declare un ganador según ciertos criterios.
 title: Campeón/Challenger - Correos electrónicos completos
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '259'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ Pruebe correos electrónicos enteros entre sí. Cuando termine la prueba, envíe
 
    Para obtener confianza estadística, asegúrese de que el porcentaje que asigna a los aspirantes incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **Next**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

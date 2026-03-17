@@ -1,12 +1,12 @@
 ---
-description: 'Documentación temporal: Documentos de Marketo: documentación del producto'
+description: Documento temporal para la nueva versión beta de Designer de correo electrónico. Añada recursos y utilice el diseñador para pruebas beta (ocultar de la tabla de contenido).
 title: Doc temporal
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

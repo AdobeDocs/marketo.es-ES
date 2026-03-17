@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147344
-description: Glosario de tokens del sistema - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los tokens del sistema disponibles en los correos electrónicos de Marketo. Utilice el glosario para encontrar el token adecuado para la personalización.
 title: Glosario de tókenes del sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 2%
 
 ---

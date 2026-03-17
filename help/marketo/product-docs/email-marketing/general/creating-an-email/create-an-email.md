@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912163
-description: 'Creación de un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un correo electrónico en Marketo. Elija una plantilla o comience desde cero en Design Studio o un programa de correo electrónico.
 title: Crear un correo electrónico
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 2%
+source-wordcount: '222'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359581
-description: 'Campeón/Desafío: Aprobar la prueba de correo electrónico: Documentos de Marketo: documentación del producto'
+description: Aprenda a aprobar su prueba de correo electrónico de campeón/aspirante. Aprobación completa para que se pueda ejecutar la prueba y se pueda declarar un ganador.
 title: Campeón/Challenger - Apruebe su prueba de correo electrónico
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 

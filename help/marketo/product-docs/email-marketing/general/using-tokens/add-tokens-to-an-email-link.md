@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147360
-description: 'Añadir tokens a un vínculo de correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo añadir tokens a vínculos de correo electrónico. Inserte valores dinámicos en las direcciones URL de los vínculos para la personalización y el seguimiento.
 title: Añadir tókenes a un vínculo de un correo electrónico
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 16%
 
 ---
 

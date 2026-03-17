@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: Direcciones IP compartidas y dedicadas - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las direcciones IP compartidas y dedicadas, y sus pros y contras. Decida qué opción se adapta a sus objetivos de volumen de envío y reputación.
 title: Direcciones IP compartidas y dedicadas
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---

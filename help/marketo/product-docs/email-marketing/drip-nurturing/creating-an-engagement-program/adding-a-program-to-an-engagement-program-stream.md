@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: 'Adición de un programa a un flujo de programa de participación: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre los programas anidados en flujos de participación y cuándo utilizarlos. Agregue programas para subgrupos, pasos de varios contactos y de flujo adicional.
 title: Adición de un programa a un flujo de programa de participación
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 4%
 
 ---
 
@@ -57,5 +57,5 @@ Informes de cambios con la ubicación del correo electrónico. Por ejemplo, si e
 
 >[!MORELIKETHIS]
 >
->* [Agregar contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Añadir contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Explicación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

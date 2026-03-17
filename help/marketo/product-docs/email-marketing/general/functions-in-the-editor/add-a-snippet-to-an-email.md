@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147358
-description: 'Añadir un fragmento a un correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un fragmento a un correo electrónico. Inserte bloques de contenido reutilizables de la biblioteca de fragmentos de código en los correos electrónicos.
 title: Añadir un fragmento a un correo electrónico.
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '162'
 ht-degree: 7%
 
 ---

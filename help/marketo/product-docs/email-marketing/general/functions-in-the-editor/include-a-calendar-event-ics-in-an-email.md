@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: 'Incluir un evento de calendario (.ics) en un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo incluir un evento de calendario (.ics) en un mensaje de correo electrónico. Agregue un archivo adjunto para que los destinatarios puedan agregar el evento a su calendario.
 title: Incluir un evento de calendario (.ics) en un correo electrónico
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 19%
+source-wordcount: '103'
+ht-degree: 17%
 
 ---
 

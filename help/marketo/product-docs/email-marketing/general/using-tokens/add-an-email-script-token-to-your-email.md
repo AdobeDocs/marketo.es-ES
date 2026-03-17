@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900575
-description: 'Añadir un token de script de correo electrónico al correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un token de script de correo electrónico al correo electrónico. Inserte contenido dinámico mediante tokens en el editor de correo electrónico.
 title: Añadir un token de script de correo electrónico al correo electrónico
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 17%
+source-wordcount: '172'
+ht-degree: 16%
 
 ---
 

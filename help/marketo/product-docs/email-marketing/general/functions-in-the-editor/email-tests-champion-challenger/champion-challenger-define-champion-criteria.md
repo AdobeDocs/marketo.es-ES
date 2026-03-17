@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359562
-description: 'Campeón/Challenger: Definir criterios de campeón, documentación de Marketo: documentación del producto'
+description: Obtenga información sobre cómo definir criterios de campeón para pruebas de correo electrónico. Establezca las reglas que determinan qué variante gana la prueba de Campeón/Challenger.
 title: 'Campeón/Challenger: Definir criterios de campeón'
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 5%
+source-wordcount: '188'
+ht-degree: 4%
 
 ---
 

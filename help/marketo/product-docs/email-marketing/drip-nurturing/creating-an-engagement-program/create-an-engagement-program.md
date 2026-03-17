@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359652
-description: Creación de un programa de participación - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear un programa de participación en Marketo para el aprendizaje por correo electrónico. Elija Participación como tipo de programa y añada secuencias y contenido.
 title: Creación de un programa de participación
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 9%
+source-wordcount: '99'
+ht-degree: 76%
 
 ---
 
 # Creación de un programa de participación {#create-an-engagement-program}
 
-Puede utilizar programas de participación en Marketo para alimentar el correo electrónico con facilidad.
+Puede utilizar programas de participación en Marketo para nutrir el correo electrónico con facilidad.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -27,11 +27,11 @@ Puede utilizar programas de participación en Marketo para alimentar el correo e
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. Muy bien, ahora que tienes un programa de compromiso, vamos a seguir adelante y vestirlo.
+1. Ahora que ya tiene un programa de participación, sigamos adelante y completémoslo.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Agregar contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Establecer cadencia de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Añadir contenido a un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Establecer cadencia de la secuencia](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

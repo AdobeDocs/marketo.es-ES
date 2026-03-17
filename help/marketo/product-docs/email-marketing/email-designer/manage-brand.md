@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: Marketo
 title: Administrar marca
-description: Aprenda a crear y administrar las directrices de marca
+description: Obtenga información sobre cómo crear y administrar directrices de marca en el correo electrónico de Designer. Configure y actualice la configuración de marca de sus correos electrónicos.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1410'
+source-wordcount: '1421'
 ht-degree: 8%
 
 ---
@@ -93,7 +94,7 @@ Para crear y administrar las directrices de marca, puede introducir los detalles
    * Ver marca
    * Editar
    * Duplicado
-   * Publicación
+   * Publicar
    * Cancelar la publicación de
    * Eliminar
 

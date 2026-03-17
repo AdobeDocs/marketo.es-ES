@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: TÍTULO
-description: Aprenda a optimizar la creación de correos electrónicos con temáticas y módulos reutilizables, lo que garantiza la coherencia y la eficacia del diseño.
+description: Aprenda a aplicar temas de marca a los correos electrónicos para lograr un diseño coherente. Utilice temáticas y módulos reutilizables en el Designer de correo electrónico.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '735'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Key Benefits:
 - **Customization**: Add custom CSS and mobile-specific styles for advanced designs.
 - **Scalability**: Eliminate repetitive styling tasks, enabling faster email creation.-->
 
-## Protecciones y limitaciones {#themes-guardrails}
+## Mecanismos de protección y limitaciones {#themes-guardrails}
 
 * Al crear un correo electrónico desde cero, puede elegir empezar a crear el contenido con un tema para aplicar rápidamente un estilo específico que se ajuste a su marca y diseño.
 

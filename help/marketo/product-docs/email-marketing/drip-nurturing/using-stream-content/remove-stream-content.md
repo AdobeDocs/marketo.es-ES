@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: 'Eliminación del contenido de la emisión: documentos de Marketo, documentación del producto'
+description: Aprenda a eliminar el contenido de la emisión cuando no necesite conservar el historial.
 title: Quitar contenido de flujo
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 6%
+source-wordcount: '127'
+ht-degree: 9%
 
 ---
 

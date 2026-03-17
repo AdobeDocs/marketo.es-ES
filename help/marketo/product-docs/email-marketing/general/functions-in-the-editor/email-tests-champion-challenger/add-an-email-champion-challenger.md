@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: 'Adición de un campeón de correo electrónico/Challenger: documentos de Marketo: documentación del producto'
+description: Aprenda a añadir una prueba de correo electrónico de campeón/aspirante. Configure varias variantes y defina cómo se elige el ganador.
 title: Añadir un campeón/aspirante de correo electrónico
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 4%
+source-wordcount: '217'
+ht-degree: 7%
 
 ---
 

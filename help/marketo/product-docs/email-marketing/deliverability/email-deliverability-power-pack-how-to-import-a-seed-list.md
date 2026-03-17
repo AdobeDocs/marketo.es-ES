@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099077
-description: Obtenga información sobre cómo importar una lista semilla en la instancia de Marketo Engage.
+description: Obtenga información sobre cómo importar una lista semilla en Marketo Engage para realizar pruebas de ubicación en la bandeja de entrada. Utilice Everest para descargar y añadir la lista de campañas de envío.
 title: 'Paquete de funciones de entrega de correo electrónico: cómo importar una lista de semillas'
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 2%
 
 ---
 
-# Paquete de funciones de entrega de correo electrónico: Cómo importar una lista de semillas {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# Paquete de herramientas para la entregabilidad del correo electrónico: Cómo importar una lista semilla {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 Una lista semilla es una lista de cuentas de correo electrónico en varios proveedores de buzones de correo, incluidas aplicaciones de Google, Hotmail, Yahoo!, etc., que se utilizan para aproximar la tasa de entrega de la bandeja de entrada en comparación con la de las carpetas de correo no deseado. A continuación se indican los pasos para incluir esa lista en la instancia de Marketo Engage.
 

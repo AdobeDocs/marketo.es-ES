@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Bloqueo del contenido en las plantillas de correo electrónico
-description: Aprenda a bloquear contenido en las plantillas de correo electrónico.
+description: Aprenda a bloquear contenido en plantillas de correo electrónico para que otros no puedan editarlo. Proteja las secciones del Designer de correo electrónico para mantener la coherencia.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '903'
 ht-degree: 9%
 
 ---

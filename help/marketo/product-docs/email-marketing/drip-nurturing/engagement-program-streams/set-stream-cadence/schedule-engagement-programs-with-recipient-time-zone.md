@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: Programar programas de participación con la zona horaria del destinatario - Documentos de Marketo - Documentación del producto
+description: Aprenda a programar conversiones de programas de participación con el huso horario del destinatario. Establezca el primer lanzamiento con al menos 25 horas de anticipación para la entrega global.
 title: Planificar programas de participación con la zona horaria del destinatario
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -30,4 +30,4 @@ Cuando se programa un flujo de programa de participación y la zona horaria del 
 >[!MORELIKETHIS]
 >
 >* [Explicación de la zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Establecer cadencia de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [Establecer cadencia de la secuencia](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

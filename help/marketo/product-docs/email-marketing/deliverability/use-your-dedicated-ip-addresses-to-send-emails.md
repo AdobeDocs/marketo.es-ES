@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: 'Uso de las direcciones IP dedicadas para enviar correos electrónicos: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar direcciones IP dedicadas para el envío de correo electrónico en Marketo. Obtenga asesoramiento sobre el calentamiento de IP y la configuración de DNS de los consultores de capacidad de entrega.
 title: Utilice sus direcciones IP dedicadas para enviar correos electrónicos
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---

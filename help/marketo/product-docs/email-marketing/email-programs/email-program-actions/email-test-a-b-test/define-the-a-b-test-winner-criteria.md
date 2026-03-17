@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359545
-description: Definición de los criterios de ganador de la prueba A/B - Documentos de Marketo - Documentación del producto
+description: Aprenda a definir los criterios de ganador de las pruebas A/B. Establezca la métrica y el umbral que determinan qué variante gana la prueba.
 title: Definir criterios del ganador de prueba A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 21%
+source-wordcount: '442'
+ht-degree: 20%
 
 ---
 
@@ -40,7 +40,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>[!UICONTROL Puntuación de participación]</b></td>
-   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=es" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
+   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
    </tr>
    </table>
 

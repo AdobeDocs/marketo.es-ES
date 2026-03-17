@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900554
-description: Edición de la documentación del producto de HTML de un correo electrónico - Documentos de Marketo
+description: Obtenga información sobre cómo editar un HTML de correo electrónico directamente. Acceda a la vista de HTML para realizar cambios avanzados en el código de correo electrónico.
 title: Editar el HTML de un correo electrónico
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 4%
+source-wordcount: '359'
+ht-degree: 3%
 
 ---
 

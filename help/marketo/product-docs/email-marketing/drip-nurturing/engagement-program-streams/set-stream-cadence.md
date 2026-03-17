@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359665
-description: 'Definición de la cadencia del flujo: documentos de Marketo, documentación del producto'
+description: Aprenda a establecer la cadencia del flujo para los programas de participación. Programe emisiones semanales o mensuales y, opcionalmente, utilice el huso horario del destinatario.
 title: Establecer cadencia de la secuencia
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Prueba del procesamiento de correo electrónico con Litmus
-description: Los usuarios de Marketo Engage pueden integrar su cuenta de Litmus para probar sin problemas la renderización de contenido en varios clientes de correo electrónico.
+title: Prueba de representación de correo electrónico con Litmus
+description: Aprenda a probar el procesamiento de correo electrónico en clientes con Litmus. Integre su cuenta de Litmus para previsualizar el contenido en varios clientes de correo electrónico.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 0%
+source-wordcount: '374'
+ht-degree: 2%
 
 ---
 
-# Prueba del procesamiento de correo electrónico con Litmus {#test-email-rendering-with-litmus}
+# Prueba de representación de correo electrónico con Litmus {#test-email-rendering-with-litmus}
 
 Use su cuenta de [Litmus](https://www.litmus.com/email-testing) en Marketo Engage para ver al instante cómo se procesa su correo electrónico en los clientes de correo electrónico más populares.
 

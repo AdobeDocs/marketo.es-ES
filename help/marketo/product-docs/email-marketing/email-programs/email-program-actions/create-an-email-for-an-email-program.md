@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900593
-description: 'Creación de un mensaje de correo electrónico para un programa de correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un correo electrónico para un programa de correo electrónico. Añada un nuevo recurso de correo electrónico y elija una plantilla o un correo electrónico existente.
 title: Creación de un correo electrónico para un programa de correo electrónico
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 10%
 
 ---
 
