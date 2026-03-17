@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: Crear un evento con  [!DNL GotoWebinar] - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un evento con el seminario web Ir a en Marketo. Configure la integración y sincronice el registro del seminario web con Marketo.
 title: Crear un evento con  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---

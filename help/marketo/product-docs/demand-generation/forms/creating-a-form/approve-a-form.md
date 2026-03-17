@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: 'Aprobar un formulario: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar un formulario en Marketo. Apruebe el formulario para que se pueda usar en páginas de aterrizaje y empiece a capturar posibles clientes.
 title: Aprobación de un formulario
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 8%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

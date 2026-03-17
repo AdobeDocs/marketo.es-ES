@@ -1,12 +1,12 @@
 ---
-description: Configuración de seguridad - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los límites de uso de Dynamic Chat y la información del paquete. Vea los límites mensuales de conversaciones comprometidas y los límites de puestos de Calendario o Chat en vivo.
 title: Configuración de seguridad
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 5%
 
 ---
 

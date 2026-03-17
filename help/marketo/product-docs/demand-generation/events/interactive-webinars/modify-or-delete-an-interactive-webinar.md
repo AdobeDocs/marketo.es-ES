@@ -1,11 +1,11 @@
 ---
-description: 'Modificación o eliminación de un seminario web interactivo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo modificar o eliminar un seminario web interactivo en Marketo. Actualice la configuración o elimine los seminarios web cuando ya no los necesite.
 title: Modificar o eliminar un seminario web interactivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 4%
 
 ---
@@ -68,7 +68,7 @@ Aprenda a realizar cambios en el seminario web interactivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Haga clic en **Siguiente**.
+1. Haga clic en **Next**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 

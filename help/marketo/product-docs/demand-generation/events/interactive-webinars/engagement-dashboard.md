@@ -1,12 +1,12 @@
 ---
-description: Tablero de participación - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre el tablero de participación de seminarios web interactivos. Vea las métricas de participación de los asistentes y sus perspectivas durante y después de sus seminarios web.
 title: Panel de participación
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 0%
+source-wordcount: '1755'
+ht-degree: 1%
 
 ---
 

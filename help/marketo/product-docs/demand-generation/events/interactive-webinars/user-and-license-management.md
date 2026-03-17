@@ -1,12 +1,12 @@
 ---
-description: Administración de usuarios y licencias - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la administración de usuarios y licencias para seminarios web interactivos. Asigne acceso y administre quién puede crear o entregar seminarios web.
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 3%
+source-wordcount: '728'
+ht-degree: 4%
 
 ---
 
@@ -46,7 +46,7 @@ Aprenda a añadir y eliminar usuarios, así como a ver sus licencias actuales.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Resalte los usuarios que desee eliminar y presione la tecla Supr del teclado. Haga clic en **Aceptar** cuando haya terminado.
+1. Resalte los usuarios que desee eliminar y presione la tecla Supr del teclado. Haga clic en **Aceptar** cuando termine.
 
    ![](assets/user-and-license-management-8.png)
 

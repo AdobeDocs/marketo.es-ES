@@ -1,12 +1,12 @@
 ---
-description: 'Configuración de la integración de ON24 con Marketo: documentos de Marketo, documentación del producto'
+description: Aprenda a configurar la integración de ON24 con Marketo. Conecte su cuenta ON24 para sincronizar los seminarios web y los datos de registro.
 title: Configuración de la integración ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '275'
+ht-degree: 7%
 
 ---
 
@@ -42,7 +42,7 @@ A continuación se muestra cómo configurar la integración de eventos ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Seleccione el [!UICONTROL Rol exclusivo de API ON24 (todos los espacios de trabajo)] que acaba de crear. Seleccione la casilla **[!UICONTROL Solo API]**. Haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione el [!UICONTROL Rol exclusivo de API ON24 (todos los espacios de trabajo)] que acaba de crear. Seleccione la casilla **[!UICONTROL Solo API]**. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 

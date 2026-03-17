@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: Aplicación de máscara de entrada a un campo en un formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a aplicar máscaras de entrada a un campo de formulario en Marketo. Formatee los campos de teléfono, fecha u otros según escriban los visitantes.
 title: Aplicar máscara de entrada a un campo de un formulario
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 10%
+source-wordcount: '193'
+ht-degree: 12%
 
 ---
 

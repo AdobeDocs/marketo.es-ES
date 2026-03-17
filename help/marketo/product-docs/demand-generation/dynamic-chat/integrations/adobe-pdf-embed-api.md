@@ -1,11 +1,11 @@
 ---
-description: 'API de incrustación de Adobe PDF: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo configurar la API de incrustación de Adobe PDF para la tarjeta de documento en Dynamic Chat. Incruste archivos PDF en los cuadros de diálogo y realice un seguimiento de la participación en documentos.
 title: API de inserción de Adobe PDF
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---

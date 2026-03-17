@@ -1,11 +1,11 @@
 ---
-description: Funciones de devolución de llamada - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las funciones de devolución de llamada de los widgets de Dynamic Chat para enviar eventos de conversación a plataformas de terceros. Utilice eventos para acciones activadas, comprometidas y alcanzadas por objetivos.
 title: Funciones de devolución de llamada
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '632'
 ht-degree: 7%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515207
-description: 'Explicación de las páginas de aterrizaje improvisadas y guiadas: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las páginas de aterrizaje de forma libre o guiadas en Marketo. Elija el tipo adecuado para el diseño y las necesidades del flujo de trabajo.
 title: Explicación de las páginas de aterrizaje de forma libre y guiadas
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '181'
 ht-degree: 6%
 
 ---

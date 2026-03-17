@@ -1,11 +1,11 @@
 ---
-description: 'Diseño de seminarios web interactivos: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre el diseño de seminarios web interactivos en Marketo. Planifique el contenido, el diseño y los elementos de participación para disfrutar de experiencias eficaces con los seminarios web.
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -76,9 +76,9 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 
 **Pod**: Un componente dentro de una plantilla que realiza una actividad en particular durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuestas puede cumplir. Del mismo modo, charlar con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad que se ofrece a través del pod de chat. Hay varios pods más disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
 
-      **Pod de encuestas**: permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa. El sondeo amplía las capacidades existentes del sondeo, ya que permite presentar varias preguntas juntas, lo que ofrece una forma más ágil y coherente de recopilar las perspectivas de los participantes. [Más información](https://helpx.adobe.com/es/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod de encuestas**: permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa. El sondeo amplía las capacidades existentes del sondeo, ya que permite presentar varias preguntas juntas, lo que ofrece una forma más ágil y coherente de recopilar las perspectivas de los participantes. [Más información](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod de recursos**: reemplaza los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas. [Más información](https://helpx.adobe.com/es/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod de recursos**: reemplaza los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas. [Más información](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

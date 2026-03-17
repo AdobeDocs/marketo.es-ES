@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383953
-description: 'Configuración de conversiones sin conexión de Facebook: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo configurar conversiones sin conexión de Facebook en Marketo. Envíe datos de conversión de Marketo a Facebook para la optimización de anuncios.
 title: Configuración de conversiones de Facebook sin conexión
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 4%
+source-wordcount: '311'
+ht-degree: 5%
 
 ---
 
@@ -34,7 +34,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Si lo desea, edite el **[!UICONTROL Nombre para mostrar]** para incluir las conversiones sin conexión. Haga clic en **[!UICONTROL Siguiente]**.
+1. Si lo desea, edite el **[!UICONTROL Nombre para mostrar]** para incluir las conversiones sin conexión. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
@@ -42,7 +42,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 

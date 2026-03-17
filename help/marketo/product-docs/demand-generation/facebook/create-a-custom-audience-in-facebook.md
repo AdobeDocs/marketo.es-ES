@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: 'Creación de una audiencia personalizada en Facebook: documentos de Marketo, documentación del producto'
+description: Aprenda a crear una audiencia personalizada en Facebook desde Marketo. Envíe listas de Marketo a Facebook para campañas de publicidad segmentadas.
 title: Creación de una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---

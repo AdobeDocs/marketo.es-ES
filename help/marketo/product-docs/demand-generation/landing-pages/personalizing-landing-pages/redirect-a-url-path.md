@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: 'Redireccionar una ruta de URL: documentos de Marketo, documentación del producto'
+description: Aprenda a redirigir una ruta URL para páginas de aterrizaje de Marketo. Envíe rutas antiguas a direcciones URL o páginas de aterrizaje nuevas.
 title: Redireccionar una ruta de URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 7%
+source-wordcount: '153'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo facilita el redireccionamiento de una ruta de URL a cualquier página qu
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. En **[!UICONTROL Administrador]**, haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 

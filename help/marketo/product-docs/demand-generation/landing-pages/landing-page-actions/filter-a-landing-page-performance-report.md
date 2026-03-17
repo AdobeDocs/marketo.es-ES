@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359742
-description: 'Filtrado de un informe de rendimiento de página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo filtrar un informe de rendimiento de página de aterrizaje en Marketo. Restrinja los resultados por fecha, página u otros criterios.
 title: Filtrado de un informe de rendimiento de la página de destino
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 8%
+source-wordcount: '156'
+ht-degree: 7%
 
 ---
 

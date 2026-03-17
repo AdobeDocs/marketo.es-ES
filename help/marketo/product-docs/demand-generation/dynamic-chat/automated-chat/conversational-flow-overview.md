@@ -1,11 +1,11 @@
 ---
-description: 'Información general sobre el flujo de conversación: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de los flujos de conversación y en qué se diferencian de los cuadros de diálogo. Los flujos de diseño se activan mediante acciones del visitante y se utilizan en formularios o ventanas emergentes.
 title: Información general de flujo conversacional
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -74,7 +74,7 @@ En la mitad superior de la pestaña Configuración, puede actualizar el nombre d
 >
 >Al seleccionar un idioma diferente, solo cambia el idioma del texto del sistema. Usted es responsable de traducir contenido.
 
-### Conversaciones SDK {#conversations-sdk}
+### SDK de conversaciones {#conversations-sdk}
 
 En la mitad inferior de la pestaña Configuración, personalice el déclencheur de conversación, también conocido como SDK de conversaciones. Puede decidir si la conversación se activa en el sitio web cuando un visitante hace clic en un vínculo o al cargar la página.
 
@@ -82,7 +82,7 @@ En la mitad inferior de la pestaña Configuración, personalice el déclencheur 
 
 >[!TIP]
 >
->Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=es){target="_blank"} en acción.
+>Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en acción.
 
 >[!MORELIKETHIS]
 >

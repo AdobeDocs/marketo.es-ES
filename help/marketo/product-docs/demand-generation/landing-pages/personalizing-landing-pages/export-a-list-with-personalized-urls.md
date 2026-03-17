@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359815
-description: 'Exportación de una lista con direcciones URL personalizadas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo exportar una lista con direcciones URL personalizadas de Marketo. Obtenga una lista de destinatarios con sus direcciones URL de página de aterrizaje únicas.
 title: Exportación de una lista con direcciones URL personalizadas
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---

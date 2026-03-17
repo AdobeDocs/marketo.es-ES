@@ -1,12 +1,12 @@
 ---
-description: Obtenga información acerca de las distintas herramientas de participación en los seminarios web interactivos.
+description: Obtenga información sobre las herramientas de participación en los seminarios web interactivos. Utilice encuestas, preguntas y respuestas y otras funciones para impulsar la interacción de los asistentes durante los seminarios web.
 title: Herramientas de participación en seminarios web interactivos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Para obtener más información acerca del pod de preguntas y respuestas, consult
 
 CAPTURA DE PANTALLA
 
-Sondeo
+Encuesta
 
 El pod de sondeo se usa para hacer preguntas a los participantes durante la sesión. El pod de encuesta admite preguntas de tipo de respuesta múltiple, respuesta múltiple y respuesta corta. Los hosts pueden elegir difundir los resultados a los participantes. Para obtener más información sobre el pod de encuesta, consulte este artículo de ayuda de Adobe y este vídeo.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: Agregar texto de sugerencia a un campo de formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a agregar texto de sugerencia a un campo de formulario en Marketo. Mostrar marcador de posición o texto de ayuda para guiar a los visitantes.
 title: Añadir texto de sugerencia a un campo de formulario
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 13%
+source-wordcount: '129'
+ht-degree: 15%
 
 ---
 

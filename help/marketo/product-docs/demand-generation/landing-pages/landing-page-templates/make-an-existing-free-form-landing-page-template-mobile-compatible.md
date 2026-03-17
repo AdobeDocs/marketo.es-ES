@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472348
-description: Hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles - Documentos de Marketo - Documentación del producto
+description: Aprenda a hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles. Actualice desde la plantilla o el editor de páginas de aterrizaje.
 title: Hacer compatible una plantilla de página de destino de forma libre existente con dispositivos móviles
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '258'
 ht-degree: 3%
 
 ---

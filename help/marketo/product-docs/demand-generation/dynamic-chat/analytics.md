@@ -1,11 +1,11 @@
 ---
-description: 'Analytics: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de los paneles de Dynamic Chat Analytics para la participación y el rendimiento. Vea las métricas de diálogo, las reservas de reuniones y el rendimiento del chat en vivo y exporte los resultados.
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---

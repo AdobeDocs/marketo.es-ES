@@ -1,11 +1,11 @@
 ---
-description: Configuración de seguridad - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar la seguridad de Dynamic Chat con dominios bloqueados o permitidos. Restrinja qué dominios de correo electrónico ven los agentes y qué sitios pueden utilizar el script de chat.
 title: Configuración de seguridad
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---

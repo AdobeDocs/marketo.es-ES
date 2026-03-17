@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: Personalice la vista móvil para la página de aterrizaje de forma libre - Documentos de Marketo - Documentación del producto
+description: Aprenda a personalizar la vista móvil para la página de aterrizaje de forma libre en Marketo. Ajuste del diseño y el contenido para los visitantes móviles.
 title: Personalizar la vista móvil para la página de destino de forma libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
@@ -107,7 +107,7 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
    >
    >La vista previa no es interactiva. Cada smartphone muestra las cosas un poco diferente. Se recomienda previsualizar la página de aterrizaje en algunos dispositivos para ver exactamente cómo se comportará.
 
-¡Diviértete!
+A pasarlo bien.
 
 >[!MORELIKETHIS]
 >

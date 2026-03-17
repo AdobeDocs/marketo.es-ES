@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359590
-description: 'Edición de un formulario: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar un formulario en Marketo. Abra el editor de formularios para cambiar campos, configuraciones o diseño.
 title: Edición de un formulario
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 13%
+source-wordcount: '53'
+ht-degree: 18%
 
 ---
 
@@ -22,5 +22,3 @@ Si desea realizar cambios en un formulario existente, así es como comenzar el p
 1. Seleccione el formulario y haga clic en **[!UICONTROL Editar formulario]**.
 
    ![](assets/editform.png)
-
-¡Sencillo!

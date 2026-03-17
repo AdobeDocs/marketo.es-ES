@@ -1,11 +1,11 @@
 ---
-description: Stream Designer - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre Stream Designer y las tarjetas para entablar conversaciones de chat. Agregue mensajes, preguntas, captura de documentos, reservas de reuniones y mucho más a los cuadros de diálogo.
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1215'
 ht-degree: 2%
 
 ---

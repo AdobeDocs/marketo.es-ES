@@ -1,18 +1,18 @@
 ---
-description: Lista de reuniones - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la lista de reuniones de Dynamic Chat en la que aparecen las citas reservadas por los visitantes. Ver quién reservó, qué agente y el estado de la reunión.
 title: Lista de reuniones
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 18%
 
 ---
 
 # Lista de reuniones {#meeting-list}
 
-Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos cuadros de diálogo. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservó la cita, cuándo está programada la cita y si la hora de reunión programada ha pasado o no.
+Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos diálogos. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservó la cita, cuándo está programada la cita y si la hora de reunión programada ha pasado o no.
 
 ![](assets/meeting-list-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359870
-description: 'Buscar la dirección URL de una imagen o archivo cargado: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo encontrar la dirección URL de una imagen o archivo cargado en Marketo. Obtenga la URL del recurso para utilizarlo en correos electrónicos o páginas externas.
 title: Buscar la URL de una imagen o archivo cargado
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 25%
+source-wordcount: '83'
+ht-degree: 21%
 
 ---
 

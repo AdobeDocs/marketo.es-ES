@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359612
-description: Cambiar posición de etiqueta de formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar la posición de las etiquetas de los formularios en Marketo. Coloque las etiquetas encima, debajo o a la izquierda o a la derecha de los campos.
 title: Cambiar posición de etiqueta del formulario
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 

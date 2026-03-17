@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: Creación de un nuevo programa de eventos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un nuevo programa de eventos en Marketo. Configure el programa, elija un canal y configure los eventos.
 title: Crear un nuevo programa de eventos
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

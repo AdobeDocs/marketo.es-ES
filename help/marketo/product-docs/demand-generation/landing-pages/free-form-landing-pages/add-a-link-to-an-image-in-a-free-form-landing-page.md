@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472314
-description: 'Adición de un vínculo a una imagen en una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un vínculo a una imagen en una página de aterrizaje de forma libre en Marketo. Haga que las imágenes sean clickables y apunten a una dirección URL.
 title: Adición de un vínculo a una imagen en una página de destino de forma libre
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 21%
+source-wordcount: '123'
+ht-degree: 20%
 
 ---
 

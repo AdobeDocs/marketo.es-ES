@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359705
-description: 'Añadir un nuevo formulario a una página de aterrizaje de forma libre: documentación de Marketo'
+description: Aprenda a añadir un nuevo formulario a una página de aterrizaje de forma libre en Marketo. Inserte un formulario de Marketo para capturar los posibles clientes en la página.
 title: Añadir un nuevo formulario a una página de destino de forma libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 13%
+source-wordcount: '155'
+ht-degree: 15%
 
 ---
 

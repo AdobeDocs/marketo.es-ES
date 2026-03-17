@@ -1,11 +1,11 @@
 ---
-description: Criterios de audiencia - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los criterios de audiencia para segmentar quién ve los cuadros de diálogo de Dynamic Chat. Defina audiencias mediante eventos, atributos de persona y compañía y prioridad.
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---

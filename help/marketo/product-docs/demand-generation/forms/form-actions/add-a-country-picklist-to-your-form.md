@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: Añadir una lista de selección de país al formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir una lista de selección de país al formulario de Marketo. Proporcione a los visitantes una lista desplegable para seleccionar su país.
 title: Añadir una lista de selección de país a su formulario
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 9%
+source-wordcount: '197'
+ht-degree: 11%
 
 ---
 

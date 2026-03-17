@@ -1,12 +1,12 @@
 ---
-description: Aprenda a crear e implementar plantillas en seminarios web interactivos.
+description: Aprenda a crear e implementar plantillas en seminarios web interactivos. Utilice plantillas para estandarizar el diseño del seminario web y acelerar la creación.
 title: Plantillas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Cree plantillas fáciles de usar en los seminarios web interactivos para produci
 
 ## Conceder permisos {#grant-permissions}
 
-Antes de que cualquier usuario de su organización tenga la capacidad de acceder a las plantillas de los seminarios web interactivos, un administrador de Marketo Engage debe añadir acceso a las funciones deseadas.
+Antes de que cualquier usuario de su organización pueda acceder a las plantillas de sus seminarios web interactivos, un administrador de Marketo Engage debe añadir acceso a las funciones deseadas.
 
 1. En Marketo Engage, haga clic en **[!UICONTROL Administrador]**.
 

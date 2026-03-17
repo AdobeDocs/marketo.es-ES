@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359616
-description: Habilitar el rellenado de formularios sociales en un formulario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar el rellenado de formularios en redes sociales para que los visitantes puedan enviar formularios a través de su red social. Obtenga datos de posibles clientes adicionales y proporcione a los visitantes una experiencia más rápida.
 title: Habilitar el relleno de formulario social en un formulario
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 13%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 

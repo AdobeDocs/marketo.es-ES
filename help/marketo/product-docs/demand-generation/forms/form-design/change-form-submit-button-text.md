@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359649
-description: Cambiar texto del botón de envío del formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el texto del botón de envío del formulario en Marketo. Personalice la etiqueta en el botón en el que los visitantes hacen clic para enviarla.
 title: Cambiar texto del botón Enviar formulario
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 16%
+source-wordcount: '95'
+ht-degree: 18%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: Mostrar formulario HTML personalizado para personas conocidas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo mostrar HTML personalizado para personas conocidas en un formulario de Marketo. Mostrar contenido o mensajes diferentes para los visitantes reconocidos.
 title: Mostrar formulario HTML personalizado para personas conocidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 7%
+source-wordcount: '264'
+ht-degree: 8%
 
 ---
 

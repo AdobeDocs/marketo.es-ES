@@ -1,12 +1,12 @@
 ---
-description: Registro de actividades - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del registro de actividad de IA generativa en Dynamic Chat. Ver todas las tareas, propietarios, tipos y editar historial en un solo lugar.
 title: Registro de actividades
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 

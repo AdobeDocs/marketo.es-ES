@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359724
-description: 'Aprobación de varias páginas de aterrizaje a la vez: documentos de Marketo, documentación del producto'
+description: Aprenda a aprobar varias páginas de aterrizaje a la vez en Marketo. Aprobación masiva de páginas para que se publiquen rápidamente.
 title: Aprobar varias páginas de destino a la vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 14%
+source-wordcount: '94'
+ht-degree: 12%
 
 ---
 

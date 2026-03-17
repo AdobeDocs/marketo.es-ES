@@ -1,11 +1,11 @@
 ---
-description: 'Promoción de un seminario web interactivo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo promocionar un seminario web interactivo en Marketo. Comparta vínculos de registro e impulse la asistencia con correos electrónicos y campañas.
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '797'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 'Creación de un flujo de conversación: documentos de Marketo, documentación del producto'
+description: Aprenda a crear un nuevo flujo de conversación en Dynamic Chat. Elija una plantilla, establezca el nombre y el idioma y, a continuación, cree un flujo para el flujo.
 title: Crear un flujo conversacional
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437798
-description: 'Plantilla 13E: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la plantilla de página de aterrizaje guiada Template 13E. Descárguelo y utilícelo para sus páginas de aterrizaje de Marketo.
 title: Plantilla 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 8%
+source-wordcount: '59'
+ht-degree: 6%
 
 ---
 
 # Plantilla 13E {#template-13e}
 
-Haga clic con el botón derecho para [descargar la plantilla 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=es)
+[Plantilla 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

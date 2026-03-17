@@ -1,11 +1,11 @@
 ---
-description: 'Introducción a seminarios web interactivos: documentos de Marketo, documentación del producto'
+description: Introducción a los seminarios web interactivos en Marketo. Conozca los requisitos previos, los conceptos clave y los pasos para crear y ofrecer su primer seminario web interactivo.
 title: Introducción a seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: Deshabilitar el rellenado previo de un campo de formulario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo deshabilitar el rellenado previo de un campo de formulario en Marketo. Impida que los datos de visitante conocidos rellenen automáticamente el campo.
 title: Deshabilitar el rellenado previo de un campo de formulario
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515616
-description: Lista de plantillas de página de aterrizaje guiada - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la lista de plantillas de página de aterrizaje guiada en Marketo. Examine y descargue plantillas para sus páginas de aterrizaje.
 title: Lista de plantillas de la página de destino guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 62%
+source-wordcount: '356'
+ht-degree: 61%
 
 ---
 

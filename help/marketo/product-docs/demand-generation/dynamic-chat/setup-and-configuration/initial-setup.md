@@ -1,12 +1,12 @@
 ---
-description: 'Configuración inicial: Documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo configurar Dynamic Chat para la instancia de Marketo. Acceda a Admin Console, añada usuarios y conecte Dynamic Chat a Marketo.
 title: Configuración inicial
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ Siga los pasos a continuación para configurar Dynamic Chat.
 
    ![](assets/initial-setup-1.png)
 
-1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: 'Creación de campañas secundarias y Assets local: documentos de Marketo: documentación del producto'
+description: Aprenda a crear campañas secundarias y recursos locales para eventos ON24 en Marketo. Organizar programas para diferentes regiones o idiomas.
 title: Crear campañas secundarias y recursos locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '676'
 ht-degree: 3%
 
 ---

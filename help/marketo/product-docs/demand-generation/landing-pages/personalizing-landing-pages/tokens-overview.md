@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2950799
-description: Información general de tokens - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los tokens para personalizar páginas de aterrizaje de Marketo. Utilice tokens para insertar contenido dinámico y personalizar la experiencia.
 title: Información general sobre tókenes
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 1%
+source-wordcount: '312'
+ht-degree: 94%
 
 ---
 
 # Información general sobre tókenes {#tokens-overview}
 
-Un token es una variable que se puede utilizar en pasos, correos electrónicos, páginas de aterrizaje, fragmentos de código y campañas web de campañas inteligentes de Marketo.
+Un token es una variable que se puede utilizar en los pasos de flujo de campañas inteligentes de Marketo, correos electrónicos, páginas de aterrizaje, fragmentos y campañas web.
 
 ## Explicación de los valores predeterminados {#understanding-default-values}
 
-Cuando se utiliza un token, también se desea proporcionar un valor predeterminado. Este es el texto que muestra si una persona no tiene un valor para el campo al que hace referencia.
+Cuando utilice un token, también proporcione un valor predeterminado. Este es el texto que muestra si una persona no tiene un valor para el campo al que hace referencia.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot; o &quot;Greetings, terrling&quot; (valor predeterminado).
+En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Saludos, terrícola” (valor predeterminado).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Los tokens no funcionan en el encabezado previo al utilizar el editor de correo electrónico de Marketo. Para utilizar un token en el encabezado previo, debe ser a través de su propia HTML en una plantilla de correo electrónico.
+>Los tókenes no funcionan en el preencabezado cuando se utiliza el editor de correo electrónico de Marketo. Para utilizar un token en el preencabezado, debe ser a través de su propio HTML en una plantilla de correo electrónico.
 
 >[!NOTE]
 >
->Esta lista no es exhaustiva. Los tokens también se crean para cada campo personalizado que tenga en Marketo.
+>Esta lista no es exhaustiva. Los tókenes también se crean para cada campo personalizado que tenga en Marketo.
 
-## Tokens de persona {#person-tokens}
+## Tókenes de persona {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -89,7 +89,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 * `{{lead.Updated At}}`
 * Los campos de persona personalizados también funcionan si usa su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
 
-## Tokens de empresa {#company-tokens}
+## Tókenes de compañía {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,19 +110,19 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Los campos personalizados de empresa también funcionan si utiliza su nombre para mostrar, por ejemplo,. `{{Company.Custom Field Name}}`
+* Los campos de compañía personalizados también funcionan si usa su nombre para mostrar, por ejemplo, `{{Company.Custom Field Name}}`
 
-## Tokens de campaña {#campaign-tokens}
+## Tókenes de campaña {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
 * `{{campaign.description}}`
 
-## Tokens del sistema {#system-tokens}
+## Tókenes de sistema {#system-tokens}
 
 >[!NOTE]
 >
->Obtenga más información acerca de estos tokens en el [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Obtenga más información acerca de estos tókenes en el [Glosario de tókenes del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +131,7 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tokens de déclencheur {#trigger-tokens}
+## Tókenes de activador {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,24 +149,24 @@ En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot
 
 >[!NOTE]
 >
->Encuentre más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) según los déclencheur utilizados en una campaña inteligente.
+>Encuentre más información sobre [tókenes para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basados en los activadores utilizados en una campaña inteligente.
 
-## Tokens de programa {#program-tokens}
+## Tókenes de programa {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## [!UICONTROL Mis tokens] {#my-tokens}
+## [!UICONTROL Mis tókenes] {#my-tokens}
 
-[!UICONTROL Mis tokens] se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Mis tókenes] se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tókenes en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Token de miembro {#member-token}
+## Token de abonado {#member-token}
 
-Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para URL únicas para los asistentes al seminario web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
+Los tókenes de abonado se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tókenes de abonado es para URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicio.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->El token `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del programa de eventos.
+>El token `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso de elemento secundario del programa de eventos.

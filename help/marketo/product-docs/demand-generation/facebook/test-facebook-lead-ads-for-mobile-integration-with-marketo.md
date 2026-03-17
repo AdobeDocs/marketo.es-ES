@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098759
-description: 'Prueba de anuncios de clientes potenciales de Facebook para la integración móvil con Marketo: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo probar la integración móvil de Facebook Lead Ads con Marketo. Verifique correctamente los envíos de anuncios de posibles clientes desde la sincronización móvil.
 title: Prueba de anuncios de clientes potenciales de Facebook para la integración móvil con Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 4%
 
 ---

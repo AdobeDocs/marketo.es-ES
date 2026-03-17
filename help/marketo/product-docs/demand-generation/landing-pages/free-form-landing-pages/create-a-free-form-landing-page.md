@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359701
-description: 'Creación de una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
+description: Aprenda a crear una página de aterrizaje de forma libre en Marketo. Cree la página como un recurso de programa o en Design Studio para uso global.
 title: Creación de una página de destino de forma libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 7%
+source-wordcount: '195'
+ht-degree: 9%
 
 ---
 

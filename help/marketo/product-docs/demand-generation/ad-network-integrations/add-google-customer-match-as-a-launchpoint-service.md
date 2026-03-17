@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Añadir servicio Customer Match as a [!DNL LaunchPoint] de Google - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo añadir Customer Match de Google como servicio de LaunchPoint. Envíe audiencias de Marketo a Google para segmentar en AdWords, YouTube, Search y Gmail.
 title: Agregar la coincidencia de clientes de Google como  [!DNL LaunchPoint] servicio
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 2%
+source-wordcount: '194'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Con esta integración, puede enviar una audiencia de Marketo a Google para que l
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Ir a **[!UICONTROL Administrador]**.
 

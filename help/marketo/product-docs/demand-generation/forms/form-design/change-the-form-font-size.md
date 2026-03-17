@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359610
-description: Cambio del tamaño de la fuente del formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el tamaño de la fuente del formulario en Marketo. Ajuste el tamaño del texto en las etiquetas y los campos del formulario.
 title: Cambiar el tamaño de la fuente del formulario
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 

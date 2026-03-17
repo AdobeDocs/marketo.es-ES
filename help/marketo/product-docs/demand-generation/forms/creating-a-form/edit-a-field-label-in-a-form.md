@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359566
-description: 'Edición de una etiqueta de campo en un formulario: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar una etiqueta de campo en un formulario de Marketo. Cambie el texto de la etiqueta que aparece junto a un campo de formulario.
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '130'
+ht-degree: 15%
 
 ---
 

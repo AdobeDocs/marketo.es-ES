@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359679
-description: 'Edición del CSS de una temática de formulario: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar el CSS de una temática de formulario en Marketo. Personalice el aspecto del formulario con estilos personalizados.
 title: Editar el CSS de una temática de formulario
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '192'
+ht-degree: 11%
 
 ---
 

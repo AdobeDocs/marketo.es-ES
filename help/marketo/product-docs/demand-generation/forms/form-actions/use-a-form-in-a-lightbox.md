@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: 'Uso de un formulario en una Lightbox: documentos de Marketo: documentación del producto'
+description: Aprenda a utilizar un formulario en un lightbox en Marketo. Muestre el formulario en una superposición emergente en una página de aterrizaje o sitio web.
 title: Uso de un formulario en Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 

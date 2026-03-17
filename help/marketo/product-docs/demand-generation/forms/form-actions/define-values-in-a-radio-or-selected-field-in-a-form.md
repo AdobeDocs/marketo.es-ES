@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359614
-description: Definir valores en una radio o un campo seleccionado en un formulario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo definir valores en un campo de opción o desplegable en un formulario de Marketo. Establece las opciones que los visitantes pueden elegir.
 title: Definir valores en una radio o campo seleccionado en un formulario
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '201'
+ht-degree: 14%
 
 ---
 

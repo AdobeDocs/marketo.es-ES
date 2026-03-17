@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096677
-description: Prueba de la integración de eventos ON24 - Documentos de Marketo - Documentación del producto
+description: Aprenda a probar la integración de eventos ON24 con Marketo. Compruebe que las actualizaciones de sincronización, flujo de registro y estado funcionan correctamente.
 title: Prueba de la integración de eventos ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 5%
+source-wordcount: '201'
+ht-degree: 4%
 
 ---
 

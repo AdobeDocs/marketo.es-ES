@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: 'Uso de contenido dinámico en una página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar contenido dinámico en una página de aterrizaje de Marketo. Mostrar contenido diferente a segmentos o visitantes diferentes.
 title: Uso de contenido dinámico en una página de destino
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 8%
 
 ---
 

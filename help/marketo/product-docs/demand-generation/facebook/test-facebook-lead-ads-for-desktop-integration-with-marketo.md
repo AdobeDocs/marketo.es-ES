@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370892
-description: 'Prueba de anuncios de clientes potenciales de Facebook para la integración de equipos de escritorio con Marketo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo probar la integración de Marketo con Facebook Lead Ads para escritorio. Verifique correctamente los envíos de anuncios de posibles clientes desde la sincronización de escritorio.
 title: Prueba de anuncios de clientes potenciales de Facebook para la integración de escritorio con Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 5%
+source-wordcount: '224'
+ht-degree: 4%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Configuración del agente - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar la disponibilidad del calendario y las reuniones del agente o del chat en directo en Dynamic Chat. Conectar Outlook o Gmail para la programación de citas.
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---

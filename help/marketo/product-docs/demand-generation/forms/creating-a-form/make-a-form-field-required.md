@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359569
-description: Hacer obligatorio el campo de un formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a hacer que un campo de formulario sea obligatorio en Marketo. Requiera que los visitantes completen el campo antes de enviar el formulario.
 title: Establecer un campo de formulario como obligatorio
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 

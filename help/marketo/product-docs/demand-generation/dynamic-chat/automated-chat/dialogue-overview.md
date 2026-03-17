@@ -1,11 +1,11 @@
 ---
-description: Información general del cuadro de diálogo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los cuadros de diálogo como conversaciones de chat individuales en Dynamic Chat. Defina dónde se muestran, quién los ve y monitorice la eficacia en los informes.
 title: Información general del diálogo
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---

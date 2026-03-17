@@ -1,12 +1,12 @@
 ---
-description: Envío de una lista a una red de publicidad - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo enviar una lista estática a LinkedIn, Facebook o Google. Utilice las Acciones de lista y Enviar a la red de publicidad para elegir las opciones de audiencia y sincronización.
 title: Enviar una lista a una red de anuncios
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 6%
+source-wordcount: '231'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ Obtenga información sobre cómo enviar una lista estática a [!DNL LinkedIn], [
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Elija entre [!DNL LinkedIn], [!DNL Facebook] o Google (las demás opciones no están disponibles en este momento). En este ejemplo, elegimos **[!DNL LinkedIn]**. Haga clic en **[!UICONTROL Siguiente]**.
+1. Elija entre [!DNL LinkedIn], [!DNL Facebook] o Google (las demás opciones no están disponibles en este momento). En este ejemplo, elegimos **[!DNL LinkedIn]**. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 

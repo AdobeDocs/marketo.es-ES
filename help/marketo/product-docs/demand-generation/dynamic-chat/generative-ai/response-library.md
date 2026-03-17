@@ -1,11 +1,11 @@
 ---
-description: 'Biblioteca de respuestas: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo administrar la biblioteca de respuestas para IA generativa en Dynamic Chat. Añada, edite y apruebe preguntas y respuestas para campañas de chat.
 title: Biblioteca de respuestas
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---

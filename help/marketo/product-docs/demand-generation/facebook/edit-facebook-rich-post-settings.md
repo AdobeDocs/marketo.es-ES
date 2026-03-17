@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Editar configuración de publicaciones enriquecidas de Facebook - Documentos de Marketo - Documentación del producto
+description: Aprenda a editar la configuración de publicaciones enriquecidas de Facebook en Marketo. Personalice el aspecto de las páginas de aterrizaje cuando se comparten en Facebook.
 title: Editar configuración de publicaciones enriquecidas de Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Las _aplicaciones sociales_ de Marketo permiten que tus clientes potenciales com
 
 Puede especificar los tipos de información de página que se usarán en las [!DNL Facebook] publicaciones enriquecidas generadas por los recursos compartidos desde la página de aterrizaje.
 
-1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social _&#x200B;_[!DNL YouTube_]_.
+1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -59,7 +59,7 @@ Para controlar los elementos de página que se incluirán en los recursos compar
 
    La **[!UICONTROL página de aterrizaje Designer]** se abre en una nueva ventana.
 
-1. Seleccione **[!UICONTROL Acciones de página de aterrizaje]** > **[!UICONTROL Editar metaetiquetas de página]**.
+1. Seleccione **[!UICONTROL Acciones de página de aterrizaje]** > **[!UICONTROL Editar etiquetas de Meta de página]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

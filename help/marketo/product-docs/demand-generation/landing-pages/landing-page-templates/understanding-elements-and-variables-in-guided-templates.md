@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: 'Explicación de elementos y variables en plantillas guiadas: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de los elementos y las variables en las plantillas de página de aterrizaje guiada de Marketo. Defina qué es editable y cómo se coloca el contenido.
 title: Explicación de elementos y variables en plantillas guiadas
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -49,7 +49,7 @@ Existen tres tipos de variables: variables de cadena, variables de color y varia
   </tr>
   <tr>
    <td>Color</td>
-   <td><p>Código hexadecimal editable para el color</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplo: Color de fondo, color de fuente, color de borde</p></td>
+   <td><p>Código hexadecimal editable para el color</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Ejemplo: Color de fondo, color de fuente, color de borde</p></td>
   </tr>
   <tr>
    <td>Booleano</td>

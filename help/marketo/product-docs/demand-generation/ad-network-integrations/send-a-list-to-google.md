@@ -1,12 +1,12 @@
 ---
-description: 'Envío de una lista a Google: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar una lista estática de Marketo a Google para Customer Match. Seleccione la lista, elija Google y la cuenta de publicidad y, opcionalmente, mantenga la audiencia sincronizada.
 title: Enviar una lista a Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 6%
+source-wordcount: '226'
+ht-degree: 5%
 
 ---
 

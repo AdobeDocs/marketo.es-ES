@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: Cambiar el tamaño de la etiqueta/anchura del campo en un formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el tamaño de la etiqueta y el ancho del campo en un formulario de Marketo. Ajuste la anchura de las etiquetas y las áreas de entrada.
 title: Cambiar el tamaño de la etiqueta o el ancho del campo en un formulario
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 

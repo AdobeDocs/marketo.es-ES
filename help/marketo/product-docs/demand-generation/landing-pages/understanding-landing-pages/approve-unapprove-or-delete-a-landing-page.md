@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: 'Aprobación, desaprobación o eliminación de una página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar, desaprobar o eliminar una página de aterrizaje en Marketo. Controle qué páginas están activas y elimine las que ya no necesita.
 title: Aprobar, desaprobar o eliminar una página de destino
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: Organización de imágenes y archivos mediante carpetas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo organizar imágenes y archivos mediante carpetas en Marketo. Cree carpetas en Design Studio para mantener los recursos organizados.
 title: Organizar imágenes y archivos mediante carpetas
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -23,7 +23,7 @@ La creación de carpetas permite mover imágenes y archivos, ver solo el conjunt
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Asigne un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
+1. Póngale un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

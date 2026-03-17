@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359718
-description: 'Adición de un botón social a una página de aterrizaje de forma libre: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un botón social a una página de aterrizaje de forma libre en Marketo. Agregue botones de compartir o seguir a su página.
 title: Añadir un botón social a una página de destino de forma libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '258'
 ht-degree: 7%
 
 ---

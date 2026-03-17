@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11376700
-description: 'Añadir posibles clientes a una audiencia personalizada en Facebook: documentos de Marketo: documentación del producto'
+description: Aprenda a añadir posibles clientes a una audiencia personalizada en Facebook desde Marketo. Insertar miembros de lista en Facebook para segmentación de anuncios.
 title: Añadir posibles clientes a una audiencia personalizada en Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---

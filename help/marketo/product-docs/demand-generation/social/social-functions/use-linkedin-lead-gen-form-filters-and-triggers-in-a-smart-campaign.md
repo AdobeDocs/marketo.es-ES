@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12976776
-description: 'Uso de filtros y Déclencheur de formulario de generación de clientes potenciales de LinkedIn en una campaña inteligente: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar los déclencheur del formulario de generación de posibles clientes de LinkedIn en una campaña inteligente de Marketo. Automatice las acciones cuando los posibles clientes envíen formularios de LinkedIn.
 title: Uso de filtros y activadores de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 17%
+source-wordcount: '147'
+ht-degree: 16%
 
 ---
 

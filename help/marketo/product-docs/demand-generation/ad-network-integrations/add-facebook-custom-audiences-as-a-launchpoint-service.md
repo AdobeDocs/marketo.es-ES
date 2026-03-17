@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: Agregar  [!DNL Facebook] audiencias personalizadas como servicio [!DNL LaunchPoint] Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir audiencias personalizadas de Facebook como servicio de LaunchPoint. Envíe listas de Marketo a Facebook para usarlas como audiencias personalizadas en campañas publicitarias.
 title: Agregar  [!DNL Facebook] audiencias personalizadas como [!DNL LaunchPoint] servicio
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Con esta integración, puede enviar datos de audiencia desde listas estáticas e inteligentes de Marketo a [!DNL Facebook] para que se utilicen como audiencias personalizadas en [!DNL Facebook] campañas de publicidad. A continuación se muestra cómo configurarlo.
 

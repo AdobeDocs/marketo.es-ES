@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092913
-description: Plantilla 20B - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la plantilla de página de aterrizaje guiada 20B de plantilla. Descárguelo y utilícelo para sus páginas de aterrizaje de Marketo.
 title: Plantilla 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '57'
+ht-degree: 7%
 
 ---
 
 # Plantilla 20B {#template-20b}
 
-Haga clic con el botón derecho para [descargar la plantilla 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=es)
+[Plantilla 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

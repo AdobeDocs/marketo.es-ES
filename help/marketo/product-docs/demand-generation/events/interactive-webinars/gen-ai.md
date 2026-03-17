@@ -1,11 +1,11 @@
 ---
-description: Funciones de GenAI - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las funciones de GenAI en los seminarios web interactivos. Utilice la IA para mejorar el contenido, los resúmenes o la participación de los seminarios web.
 title: Funciones de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Después de aceptar los términos y condiciones de Adobe GenAI, el siguiente pas
 
 ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
-## Cómo acceder a {#how-to-access}
+## Acceso {#how-to-access}
 
 1. Vaya a la página de información general del seminario web en los seminarios web interactivos de Marketo Engage.
 

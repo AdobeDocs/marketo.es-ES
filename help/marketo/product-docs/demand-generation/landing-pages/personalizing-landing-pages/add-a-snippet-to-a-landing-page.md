@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359537
-description: 'Añadir un fragmento a una página de aterrizaje: documentación de Marketo'
+description: Aprenda a añadir un fragmento a una página de aterrizaje de Marketo. Reutilice bloques de contenido en páginas con fragmentos.
 title: Añadir un fragmento a una página de destino
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

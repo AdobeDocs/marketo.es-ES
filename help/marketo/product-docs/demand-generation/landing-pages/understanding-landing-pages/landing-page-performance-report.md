@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: Informe de rendimiento de la página de aterrizaje - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del informe de rendimiento de la página de aterrizaje en Marketo. Vea visitas, conversiones y otras métricas para sus páginas de aterrizaje.
 title: Informe de rendimiento de la página de destino
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '217'
 ht-degree: 4%
 
 ---

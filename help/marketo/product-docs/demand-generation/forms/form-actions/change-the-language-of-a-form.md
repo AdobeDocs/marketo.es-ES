@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359654
-description: Cambiar el idioma de un formulario - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el idioma de un formulario de Marketo. Muestra etiquetas y mensajes de formulario en otro idioma para su audiencia.
 title: Cambiar el idioma de un formulario
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 

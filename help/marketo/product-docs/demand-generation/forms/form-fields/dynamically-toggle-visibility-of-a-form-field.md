@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949962
-description: 'Alternar dinámicamente la visibilidad de un campo de formulario: documentos de Marketo, documentación del producto'
+description: Aprenda a mostrar u ocultar dinámicamente un campo de formulario en Marketo. Mostrar campos basados en otros valores de campo o reglas.
 title: Alternar dinámicamente la visibilidad de un campo de formulario
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 9%
 
 ---
 
@@ -69,6 +69,6 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 
 >[!IMPORTANT]
 >
->El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
 >
 >Es posible que los campos condicionales no funcionen según lo esperado si los valores de los campos los modifican scripts externos que no sean la API de JavaScript de Forms 2.0.

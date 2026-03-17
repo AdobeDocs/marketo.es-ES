@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359543
-description: Agregar un campo a un formulario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo agregar un campo a un formulario en Marketo. Agregue campos de formulario y asígnelos a atributos de persona o compañía.
 title: Añadir un campo a un formulario
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 10%
+source-wordcount: '150'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Cargar imágenes y archivos desde Box - Documentos de Marketo - Documentación del producto
+description: Aprenda a cargar imágenes y archivos de Box a Marketo. Conecte Box e importe recursos en Design Studio.
 title: Cargar imágenes y archivos desde Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 
@@ -35,7 +35,7 @@ Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y cor
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **[!DNL Box]** desde la cual desee realizar la carga. Haga clic en **[!UICONTROL Siguiente]**.
+1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **[!DNL Box]** desde la cual desee realizar la carga. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 

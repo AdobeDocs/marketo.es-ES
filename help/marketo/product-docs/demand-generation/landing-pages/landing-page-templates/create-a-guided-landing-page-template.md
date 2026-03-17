@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: 'Creación de una plantilla de página de aterrizaje guiada: documentos de Marketo, documentación del producto'
+description: Aprenda a crear una plantilla de página de aterrizaje guiada en Marketo. Utilice la sintaxis para definir regiones editables y variables para el editor guiado.
 title: Crear una plantilla de la página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 2%
+source-wordcount: '1135'
+ht-degree: 15%
 
 ---
 
@@ -34,7 +34,7 @@ Si define una región como Texto enriquecido, los usuarios podrán editar su con
 
 Atributos necesarios:
 **class**: &quot;mktoText&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
@@ -48,26 +48,26 @@ Por ejemplo:
 
 Tiene dos opciones para definir elementos de imagen editables. Puede usar un `<div>`, que especifica el contenedor en el que se insertará la imagen, o una etiqueta `<img>`.
 
-## Opción 1: usar `<div>` {#option-use-a-div}
+## Opción 1: usar un `<div>` {#option-use-a-div}
 
 Atributos necesarios:
 
 clase: &quot;mktoImg&quot;
-id: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+id: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 mktoName : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
-mktoImgClass: String. El valor aquí se agregará al atributo class del elemento `<img>` dentro del div.
+mktoImgClass: String. El valor aquí se añadirá al atributo class del elemento `<img>` dentro del div.
 
 Por ejemplo:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opción 2 - Usar un `<img>` {#option-use-a-img}
+## Opción 2: usar un `<img>` {#option-use-a-img}
 
 Atributos necesarios:
 clase: &quot;mktoImg&quot;
-id: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+id: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 mktoName : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
@@ -85,7 +85,7 @@ Por ejemplo:
 
 Atributos de ejemplo :Required:
 **clase**: &quot;mktoForm&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
@@ -94,7 +94,7 @@ Atributos de ejemplo :Required:
 
 Atributos necesarios:
 **class**: &quot;mktoSnippet&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Por ejemplo:
@@ -105,7 +105,7 @@ Por ejemplo:
 
 Atributos necesarios:
 **class**: &quot;mktoShareButton&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Por ejemplo:
@@ -120,7 +120,7 @@ Por ejemplo:
 
 Atributos necesarios:
 **clase**: &quot;mktoVideo&quot;
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Por ejemplo:
@@ -143,7 +143,7 @@ Las variables se declaran como metaetiquetas dentro del elemento `<head>` de la 
 
 Atributos necesarios:
 **clase** : &quot;mktoString&quot;,
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
@@ -162,7 +162,7 @@ Ejemplo con todos los atributos:
 
 Atributos necesarios:
 **clase** : &quot;mktoColor&quot;,
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
@@ -180,7 +180,7 @@ Ejemplo con todos los atributos:
 
 Atributos necesarios:
 **clase** : &quot;mktoBoolean&quot;,
-**id**: cadena de ID. Solo contiene letras, números, guiones &quot;-&quot; y guiones bajos &quot;_&quot;. No se permiten espacios. Debe ser único.
+**id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. Debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:

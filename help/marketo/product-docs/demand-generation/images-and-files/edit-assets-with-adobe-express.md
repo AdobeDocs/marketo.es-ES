@@ -1,14 +1,14 @@
 ---
-description: 'Edición de Assets con Adobe Express: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar imágenes y recursos con Adobe Express desde Marketo. Abra los recursos en Express para editarlos y actualizarlos rápidamente.
 title: Edición de recursos con Adobe Express
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 711f1838-be5c-4cb6-a0ce-7a46dd3c5a46
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 45%
+source-wordcount: '34'
+ht-degree: 29%
 
 ---
 

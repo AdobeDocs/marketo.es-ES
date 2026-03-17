@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: 'Personalización de las direcciones URL de su página de aterrizaje con un CNAME: documentos de Marketo: documentación del producto'
+description: Aprenda a personalizar las direcciones URL de la página de aterrizaje con un CNAME en Marketo. Utilice su propio dominio para vínculos de páginas de aterrizaje.
 title: Personalización de las direcciones URL de su página de destino con un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '245'
+ht-degree: 9%
 
 ---
 
@@ -43,7 +43,7 @@ La única palabra (más YourCompany.com) se llama CNAME. Lo necesitarás más ta
 
    >[!NOTE]
    >
-   >**Se requieren permisos de administración**
+   >**Se requieren permisos de administrador**
 
 1. Desplácese hacia abajo hasta &quot;Información de asistencia&quot; y copie su Munchkin ID.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: Configuración del perfil progresivo de formularios - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar la creación de perfiles progresiva en un formulario de Marketo. Mostrar diferentes campos con el tiempo para recopilar más datos sin formularios largos.
 title: Configurar una creación de perfiles progresiva del formulario
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 4%
 
 ---
 

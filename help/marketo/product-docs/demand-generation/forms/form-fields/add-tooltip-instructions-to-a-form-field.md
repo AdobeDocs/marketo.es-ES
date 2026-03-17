@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359673
-description: 'Agregar instrucciones de información de objeto a un campo de formulario: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir instrucciones de información sobre herramientas a un campo de formulario en Marketo. Mostrar ayuda adicional cuando los visitantes pasan el ratón sobre un campo.
 title: Añadir instrucciones de ayuda contextual a un campo de formulario
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: Preguntas frecuentes sobre el rellenado de formularios sociales en LinkedIn - Documentos de Marketo - Documentación del producto
+description: Obtenga ayuda sobre LinkedIn rellene formularios sociales con formularios de Marketo. Encuentre respuestas a preguntas comunes sobre la integración de rellenado de formularios de LinkedIn.
 title: Preguntas frecuentes sobre relleno de formulario social de LinkedIn
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

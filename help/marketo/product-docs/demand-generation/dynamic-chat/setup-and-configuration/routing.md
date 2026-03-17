@@ -1,11 +1,11 @@
 ---
-description: 'Enrutamiento: documentos de Marketo: documentación del producto'
+description: Obtenga información acerca del enrutamiento de reuniones y chat en vivo en Dynamic Chat. Configure reglas round robin o personalizadas para asignar visitantes a agentes o equipos específicos.
 title: Enrutamiento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '358'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Asigne un nombre a la regla Si lo desea, puede agregar una descripción y establecer su nivel de prioridad. Haga clic en **Siguiente**.
+1. Asigne un nombre a la regla Si lo desea, puede agregar una descripción y establecer su nivel de prioridad. Haga clic en **Next**.
 
    ![](assets/routing-4.png)
 

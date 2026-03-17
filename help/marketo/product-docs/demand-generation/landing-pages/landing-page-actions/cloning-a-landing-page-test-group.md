@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953038
-description: 'Clonación de un grupo de prueba de página de aterrizaje: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo clonar un grupo de prueba de página de aterrizaje en Marketo. Duplique un grupo de prueba para ejecutar pruebas o variaciones similares.
 title: Clonación de un grupo de prueba de la página de destino
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---

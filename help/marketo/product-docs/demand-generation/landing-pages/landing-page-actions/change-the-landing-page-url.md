@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: Cambio de la URL de la página de aterrizaje - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar la dirección URL de la página de aterrizaje en Marketo. Actualice la ruta URL o el slug para la página de aterrizaje.
 title: Cambio de la URL de la página de destino
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 

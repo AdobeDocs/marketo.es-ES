@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359873
-description: 'Eliminar una imagen o un archivo cargados: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo eliminar una imagen o un archivo cargado desde Marketo. Elimine los recursos que ya no necesite de Design Studio.
 title: Eliminar una imagen o un archivo cargados
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 10%
 
 ---
 

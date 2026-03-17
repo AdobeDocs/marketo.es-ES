@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516478
-description: 'Plantilla 2D: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la plantilla de página de aterrizaje guiada 2D de plantilla. Descárguelo y utilícelo para sus páginas de aterrizaje de Marketo.
 title: Plantilla 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
 # Plantilla 2D {#template-2d}
 
-Haga clic con el botón derecho para [descargar la plantilla 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=es)
+[Plantilla 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

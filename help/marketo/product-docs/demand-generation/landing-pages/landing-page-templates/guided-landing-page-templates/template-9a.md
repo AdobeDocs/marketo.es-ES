@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783981
-description: Plantilla 9A - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la plantilla de página de aterrizaje guiada de plantilla 9A. Descárguelo y utilícelo para sus páginas de aterrizaje de Marketo.
 title: Plantilla 9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '64'
+ht-degree: 6%
 
 ---
 
 # Plantilla 9A {#template-9a}
 
-Haga clic con el botón derecho para [descargar la plantilla 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=es)
+[Plantilla 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)

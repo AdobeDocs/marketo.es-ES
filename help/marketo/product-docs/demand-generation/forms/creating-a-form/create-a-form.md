@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: 'Creación de un formulario: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un formulario en Marketo. Agregue campos, configure el formulario y utilícelo en páginas de aterrizaje o en su sitio web para capturar posibles clientes.
 title: Creación de un formulario
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 

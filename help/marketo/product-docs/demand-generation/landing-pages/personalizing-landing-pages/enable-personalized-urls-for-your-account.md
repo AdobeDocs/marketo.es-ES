@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359810
-description: 'Habilitar direcciones URL personalizadas para su cuenta: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo habilitar direcciones URL personalizadas para su cuenta de Marketo. Configure la función para poder usar direcciones URL personalizadas en las páginas de aterrizaje.
 title: Habilitar direcciones URL personalizadas para su cuenta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ Las direcciones URL personalizadas son ideales para campañas de correo impreso.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya a la sección **[!UICONTROL Admin]** y haga clic en **[!UICONTROL Páginas de aterrizaje]**.
 

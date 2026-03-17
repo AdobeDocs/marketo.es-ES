@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: Agregar un conjunto de campos a un formulario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo agregar un conjunto de campos a un formulario de Marketo. Agrupe los campos relacionados con un encabezado para mejorar el diseño.
 title: Añadir un conjunto de campos a un formulario
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 

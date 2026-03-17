@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504163
-description: Agregar  [!DNL LinkedIn] audiencias coincidentes as a [!DNL LaunchPoint] Servicio - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint. Utilice las listas de Marketo como segmentos de audiencia de LinkedIn para la segmentación de anuncios.
 title: Agregar  [!DNL LinkedIn] audiencias coincidentes como [!DNL LaunchPoint] servicio
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Conecte su cuenta de Marketo con [!DNL LinkedIn] audiencias coincidentes para usar una lista estática o inteligente de Marketo como segmento de audiencia [!DNL LinkedIn].
 

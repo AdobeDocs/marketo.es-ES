@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359661
-description: Definir un campo de formulario como oculto - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo establecer un campo de formulario como oculto en Marketo. Almacenar datos sin mostrar el campo a los visitantes.
 title: Definir un campo de formulario como oculto
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 20%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 
