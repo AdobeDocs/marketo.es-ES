@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programas de nutrición avanzados que utilizan el Programa de participación de Marketo Engage. Los programas de correo electrónico anidados impiden que las personas reciban contenido que ya han consumido o controlan el tipo de contenido que deben consumir en cada flujo. Los informes de atribución se pueden ejecutar para cada programa de correo electrónico anidado individual. Canales: &quot;Nutrir&quot; y un canal &quot;Nutrir correo electrónico&quot; dedicado para los programas de correo electrónico anidados envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

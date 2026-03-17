@@ -24,7 +24,7 @@ El editor de correo electrónico de Marketo Engage incluye funciones que le ayud
 
 * **Variables**: cuando se selecciona un módulo, las variables aparecen en el lado derecho del editor. Se pueden utilizar para ajustar atributos del módulo que no se pueden editar fácilmente mediante elementos de imagen o texto.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de módulos {#modules-summary}
 

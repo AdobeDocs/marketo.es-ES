@@ -60,4 +60,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/error-codes).

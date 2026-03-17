@@ -60,7 +60,7 @@ La información de la persona se clasifica en las siguientes pestañas:
 
 >[!NOTE]
 >
->También puede ver la información de oportunidad [insertada a través de la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no están sincronizadas con un CRM.
+>También puede ver la información de oportunidad [insertada a través de la API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no están sincronizadas con un CRM.
 
 ## Edición de un campo {#editing-a-field}
 

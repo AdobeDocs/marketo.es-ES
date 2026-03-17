@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este es un ejemplo de programas de nutrición sencillos, que utilizan el programa de participación de Marketo Engage, con contenido cadenciado para que gotee a lo largo del tiempo en la base de datos, mientras utiliza flujos para guiar los registros a través de los recorridos basados en la conducta.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

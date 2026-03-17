@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Este es un programa de ejemplo ideal para formularios de solicitud de contacto, solicitud de presupuesto, solicitud de demostración o solicitud de prueba que utilizan un programa predeterminado de Marketo Engage. Se puede utilizar con páginas de destino de Marketo o como formulario incrustado en páginas de destino que no sean de Marketo. Se envía un correo electrónico de alerta a una persona especificada tras el envío del formulario.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 

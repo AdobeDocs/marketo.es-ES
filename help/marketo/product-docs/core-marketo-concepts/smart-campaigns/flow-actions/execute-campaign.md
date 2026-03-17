@@ -60,7 +60,7 @@ Cuando se establece en true, se envían los siguientes contextos de token a la c
 
 **Interacción de API**
 
-Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
+Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
