@@ -1,14 +1,14 @@
 ---
-description: Icono Glosario - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los iconos de la experiencia de usuario moderna de Marketo Engage y cómo se asignan desde Classic. Utilice este glosario para identificar tipos de recursos, estados de campañas y tipos de programas.
 title: Glosario de iconos
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 92%
+source-wordcount: '261'
+ht-degree: 85%
 
 ---
 

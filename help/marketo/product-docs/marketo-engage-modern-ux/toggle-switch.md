@@ -1,12 +1,14 @@
 ---
-description: 'Conmutador de alternancia: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar el conmutador para cambiar entre Marketo Classic y Experiencia de usuario moderna. Configure el acceso para las funciones en Administración y actívelo para las funciones individuales o todas.
 title: Conmutador de alternancia
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '275'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 89%
 
 ---
 

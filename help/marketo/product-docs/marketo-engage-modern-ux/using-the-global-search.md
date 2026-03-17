@@ -1,12 +1,12 @@
 ---
-description: 'Uso de la búsqueda global: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar la búsqueda global en Marketo Engage para encontrar recursos en toda la instancia. Realice búsquedas, haga clic en rutas de exploración para saltar a elementos y utilice filtros para reducir los resultados.
 title: Uso de la búsqueda global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
