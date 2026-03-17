@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 17-D {#template-17d}
 
-Haga clic con el botón derecho para [descargar plantilla 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+Haga clic con el botón derecho para [descargar plantilla 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=es)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+[Plantilla 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=es)
