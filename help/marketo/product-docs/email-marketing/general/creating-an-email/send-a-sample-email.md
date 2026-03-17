@@ -56,7 +56,7 @@ Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un 
 
    >[!NOTE]
    >
-   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >El campo de déclencheur solo es aplicable a aquellos que utilizan [scripts de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 
