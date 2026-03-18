@@ -26,7 +26,7 @@ Siga los pasos a continuación para aprender a añadir hipervínculos a sus plan
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Escriba la dirección URL a la que desea vincular (por ejemplo: `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Elija si quiere que la dirección URL se abra en la misma ventana o en otra nueva y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba la dirección URL a la que desea vincular (por ejemplo: `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es`). Elija si quiere que la dirección URL se abra en la misma ventana o en otra nueva y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
