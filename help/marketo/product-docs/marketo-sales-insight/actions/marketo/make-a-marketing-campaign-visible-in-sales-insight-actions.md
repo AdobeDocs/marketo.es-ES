@@ -1,11 +1,11 @@
 ---
-description: Hacer visible una campaña de marketing en Acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo hacer visible una campaña de marketing de Marketo en Acciones de Insight de ventas. Permitir que los usuarios de ventas agreguen posibles clientes a la campaña desde Acciones.
 title: Hacer visible una campaña de marketing en las acciones de Insight de ventas
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

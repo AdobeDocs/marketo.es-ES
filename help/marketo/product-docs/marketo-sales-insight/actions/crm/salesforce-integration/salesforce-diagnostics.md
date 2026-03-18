@@ -1,11 +1,11 @@
 ---
-description: Diagnóstico de Salesforce - Documentos de Marketo - Documentación del producto
+description: Comprender los diagnósticos de Salesforce y los mensajes de error para el registro de datos fallido. Acceda a la página Diagnósticos y utilice la hoja de comprobación de errores para solucionar problemas.
 title: Diagnóstico de Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1358'
 ht-degree: 0%
 
 ---

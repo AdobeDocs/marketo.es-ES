@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7516460
-description: 'Preparación de Sales Insight para la asistencia multilingüe en Salesforce: Documentos de Marketo: documentación del producto'
-title: Preparar Sales Insight para la asistencia multilingüe en Salesforce
+description: Aprenda a preparar Marketo Sales Insight para la asistencia multilingüe en Salesforce. Configure el idioma y la configuración regional de los usuarios globales.
+title: Preparar Insight de ventas para la asistencia multilingüe en Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 10%
+source-wordcount: '234'
+ht-degree: 11%
 
 ---
 
-# Preparar Sales Insight para la asistencia multilingüe en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Preparar Insight de ventas para la asistencia multilingüe en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Marketo Sales Insight se almacena por idioma. Por lo tanto, si desea que funcione para más de un idioma, debe introducir las credenciales por separado para cada idioma.
 
@@ -55,7 +55,7 @@ Marketo Sales Insight se almacena por idioma. Por lo tanto, si desea que funcion
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API &#x200B;]**&#x200B;detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Vaya a Marketo. Busque su [[!DNL Marketo Sales Insight] **[!UICONTROL configuración de API ]**detalles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

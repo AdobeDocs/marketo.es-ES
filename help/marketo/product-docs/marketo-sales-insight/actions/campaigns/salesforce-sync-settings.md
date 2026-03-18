@@ -1,11 +1,11 @@
 ---
-description: Configuración de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar las opciones de sincronización de Salesforce para registrar la actividad de correo electrónico.
 title: Configuraciones de sincronización de Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '643'
 ht-degree: 2%
 
 ---

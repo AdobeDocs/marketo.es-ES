@@ -1,12 +1,12 @@
 ---
-description: '¿Por qué no se rellenan mis campos dinámicos? Documentación de Marketo: documentación del producto'
+description: Solucione problemas cuando los campos dinámicos no rellenan plantillas. Compruebe la conexión de Salesforce y la asignación de campos para los campos de combinación.
 title: ¿Por qué no se rellenan mis campos dinámicos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 6%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 

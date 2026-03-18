@@ -1,11 +1,11 @@
 ---
-description: Detalles de acceso del usuario - Documentos de Marketo - Documentación del producto
+description: Comprenda a qué pueden acceder los administradores y no administradores en las acciones de Insight de ventas. Comparar permisos para plantillas, campañas, análisis y personas.
 title: Detalles de acceso del usuario
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---

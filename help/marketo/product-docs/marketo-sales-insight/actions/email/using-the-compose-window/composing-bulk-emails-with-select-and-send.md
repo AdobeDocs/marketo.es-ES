@@ -1,13 +1,13 @@
 ---
-description: 'Composición de correos electrónicos masivos con selección y envío: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo componer y enviar correos electrónicos masivos con Seleccionar y Enviar. Elija contactos de la página Personas y envíe correos electrónicos personalizados a escala.
 title: Redactar correos electrónicos masivos con selección y envío
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 3%
 
 ---

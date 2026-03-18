@@ -1,12 +1,12 @@
 ---
-description: '¿Puedo recuperar un contacto o grupo que he eliminado? Documentación de Marketo: documentación del producto'
+description: Averigüe si puede recuperar un contacto o grupo eliminado en las acciones de Sales Insight. Conozca las opciones y limitaciones de recuperación.
 title: ¿Puedo recuperar un contacto o grupo que he eliminado?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 26%
+source-wordcount: '89'
+ht-degree: 20%
 
 ---
 

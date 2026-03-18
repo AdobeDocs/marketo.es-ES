@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Definir los campos de puntuación que se utilizarán para las estrellas y las llamas en Sales Insight - Documentos de Marketo - Documentación del producto
-title: Establecer los campos de puntuación que se utilizarán para Estrellas y Llamas en Sales Insight
+description: Aprenda a establecer campos de puntuación para estrellas y llamas en Sales Insight. Asigne campos de puntuación de Marketo a la visualización MSI en Salesforce.
+title: Establecer los campos de puntuación que se utilizarán para Estrellas y Llamas en Insight de ventas
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 De manera predeterminada, [!DNL Marketo Sales Insight] usa el campo **[!UICONTROL Puntuación de posibles clientes]** para calcular las estrellas y las llamas. Pero si desea elegir un campo diferente, así es como:
 

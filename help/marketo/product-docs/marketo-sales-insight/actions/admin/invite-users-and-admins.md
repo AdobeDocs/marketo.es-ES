@@ -1,12 +1,12 @@
 ---
-description: 'Invitar usuarios y administradores: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo invitar a usuarios y administradores a acciones de Insight de ventas desde Administración de usuarios. Añada usuarios por correo electrónico o CSV y asigne equipos y espacio de trabajo de Marketo.
 title: Invitar a usuarios y administradores
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 6%
+source-wordcount: '207'
+ht-degree: 5%
 
 ---
 

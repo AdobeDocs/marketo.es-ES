@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375827
-description: Campos obligatorios para sincronizar Marketo con Dynamics - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los campos obligatorios para sincronizar Marketo con Dynamics. Asegúrese de que los campos adecuados estén asignados para que MSI funcione correctamente.
 title: Campos obligatorios para sincronizar Marketo con Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '181'
 ht-degree: 7%
 
 ---

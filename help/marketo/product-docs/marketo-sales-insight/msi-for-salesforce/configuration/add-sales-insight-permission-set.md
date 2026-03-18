@@ -1,11 +1,11 @@
 ---
-description: Añadir conjunto de permisos de ventas de Insight - Documentos de Marketo - Documentación del producto
-title: Añadir conjunto de permisos de Sales Insight
+description: Obtenga información sobre cómo añadir el conjunto de permisos Insight de ventas en Salesforce. Asigne el conjunto a los usuarios que necesiten acceder a Marketo Sales Insight.
+title: Añadir conjunto de permisos de Insight de ventas
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---

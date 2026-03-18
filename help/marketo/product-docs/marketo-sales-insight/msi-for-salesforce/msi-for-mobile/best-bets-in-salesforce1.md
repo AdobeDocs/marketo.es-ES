@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511959
-description: 'Lo mejor en Salesforce1: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre los resultados más probables de Salesforce Mobile (Salesforce1). Consulte los principales posibles clientes comprometidos en la experiencia móvil de Marketo Sales Insight.
 title: Mejores apuestas en Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '98'
 ht-degree: 4%
 
 ---

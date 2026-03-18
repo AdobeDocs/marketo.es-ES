@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: Publicación de un correo electrónico en Sales Insight - Documentos de Marketo - Documentación del producto
-title: Publicar un correo electrónico en Sales Insight
+description: Obtenga información sobre cómo publicar un correo electrónico de Marketo en Sales Insight. Hacer que una plantilla de correo electrónico de Marketo esté disponible para los usuarios de ventas en el panel MSI.
+title: Publicar un correo electrónico en Insight de ventas
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---

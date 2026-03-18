@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
-description: Activar RSS para Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Habilitar RSS para Sales Insight
+description: Aprenda a habilitar RSS para Marketo Sales Insight. Permitir que los usuarios se suscriban a actualizaciones de fuentes de posibles clientes mediante RSS en Salesforce.
+title: Habilitar RSS para Insight de ventas
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Si los usuarios de Marketo desean ver su fuente de posibles clientes no solo en [!DNL Salesforce], sino también en una fuente RSS, un administrador de Marketo debe habilitarla primero. Es fácil.
 

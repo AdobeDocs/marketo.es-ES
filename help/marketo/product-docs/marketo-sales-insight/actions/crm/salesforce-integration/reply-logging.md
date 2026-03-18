@@ -1,13 +1,13 @@
 ---
-description: 'Registro de respuestas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre el registro de respuestas para que las respuestas de los posibles clientes se registren en Salesforce. Habilitar las respuestas de registro cuando el registro de API esté activado y el seguimiento de respuestas esté disponible.
 title: Registro de respuestas
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '267'
 ht-degree: 2%
 
 ---

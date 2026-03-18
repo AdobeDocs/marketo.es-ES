@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: 'Ver la fuente de posibles clientes en Salesforce1: Documentos de Marketo: documentación del producto'
+description: Aprenda a ver la fuente de posibles clientes en Salesforce Mobile (Salesforce1). Ver la actividad de los posibles clientes en tiempo real en el panel MSI en dispositivos móviles.
 title: Ver la fuente de posibles clientes en Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '81'
 ht-degree: 7%
 
 ---
@@ -35,4 +35,4 @@ La Fuente de posibles clientes es una lista actualizada de eventos interesantes 
 >
 >* [Momentos interesantes en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Enviar correo electrónico de Marketo y acciones de campañas y listas de observación en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [[!DNL Best Bets] en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

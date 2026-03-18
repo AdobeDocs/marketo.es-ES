@@ -1,12 +1,12 @@
 ---
-description: Agregar texto con hipervínculos - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir texto con hipervínculos en las plantillas de correo electrónico. Inserte vínculos a los que se puede realizar un seguimiento y dé formato al texto del vínculo en el editor de plantillas.
 title: Añadir texto con hipervínculos
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ Siga los pasos a continuación para aprender a añadir hipervínculos a sus plan
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Escriba la dirección URL a la que desea vincular (por ejemplo: `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=es`). Elija si quiere que la dirección URL se abra en la misma ventana o en otra nueva y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba la dirección URL a la que desea vincular (por ejemplo: `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Elija si quiere que la dirección URL se abra en la misma ventana o en otra nueva y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

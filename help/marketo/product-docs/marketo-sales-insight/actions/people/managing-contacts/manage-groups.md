@@ -1,11 +1,11 @@
 ---
-description: Administrar grupos - Documentos de Marketo - Documentación del producto
+description: Aprenda a administrar grupos de contactos en las acciones de Sales Insight. Cree, edite, comparta y utilice grupos para correos electrónicos y campañas.
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Ver la lista de campañas como otro usuario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ver campañas como otro usuario cuando es administrador. Utilice el menú desplegable Ver como de la página Campañas para ver las campañas de cualquier usuario.
 title: Ver la lista de campañas como otro usuario
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '98'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Como administrador, puede ver las campañas como cualquier usuario.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. En la aplicación web, haga clic en **[!UICONTROL Campañas]**.
 

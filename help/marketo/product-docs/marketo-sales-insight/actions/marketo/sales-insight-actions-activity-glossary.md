@@ -1,12 +1,12 @@
 ---
-description: Glosario de actividades de acciones de ventas de Insight - Documentos de Marketo - Documentación del producto
-title: Glosario de actividad de acciones de Sales Insight
+description: Obtenga información sobre los tipos y términos de las actividades de Acciones de Insight de ventas. Utilice el glosario para comprender las actividades que se sincronizan con Marketo y Salesforce.
+title: Glosario de actividad de acciones de Insight de ventas
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 5%
+source-wordcount: '609'
+ht-degree: 4%
 
 ---
 

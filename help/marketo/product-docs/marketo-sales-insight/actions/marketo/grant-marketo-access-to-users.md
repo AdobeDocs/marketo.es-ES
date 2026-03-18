@@ -1,11 +1,11 @@
 ---
-description: Concesión de acceso de Marketo a usuarios - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo conceder acceso a Marketo a usuarios en Acciones de Insight de ventas. Permite a los usuarios ver los datos de Marketo y utilizar funciones conectadas a Marketo.
 title: Conceder acceso a Marketo a los usuarios
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '223'
 ht-degree: 4%
 
 ---

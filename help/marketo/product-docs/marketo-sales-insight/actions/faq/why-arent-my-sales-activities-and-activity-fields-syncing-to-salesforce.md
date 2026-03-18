@@ -1,11 +1,11 @@
 ---
-description: '¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce? Documentación de Marketo: documentación del producto'
+description: Solucionar problemas cuando las actividades y los campos de ventas no se sincronizan con Salesforce. Compruebe el registro de API, los campos personalizados y los permisos.
 title: ¿Por qué mis actividades de ventas y los campos de actividad no se sincronizan con Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 7%
+source-wordcount: '330'
+ht-degree: 6%
 
 ---
 

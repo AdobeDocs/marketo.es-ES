@@ -1,11 +1,11 @@
 ---
-description: Razones de llamada - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los motivos de llamada en las acciones de Sales Insight. Establezca un motivo al realizar una llamada de modo que se inicie sesión en Marketo y Salesforce.
 title: Motivos de la llamada
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---

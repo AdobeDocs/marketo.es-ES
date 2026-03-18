@@ -1,12 +1,12 @@
 ---
-description: Actividades web - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las actividades web en la pestaña Marketo de Dynamics. Consulte Datos de visitas y participación web de posibles clientes y contactos.
 title: Actividades web
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 5%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 

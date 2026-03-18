@@ -1,11 +1,11 @@
 ---
-description: 'Participación en plantillas: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo ver la participación en la plantilla en la pestaña Contenido de Analytics. Consulte Métricas de arma secreta, mayor participación y menor participación por intervalo de fechas.
 title: Participación en la plantilla
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 2%
 
 ---

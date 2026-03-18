@@ -1,11 +1,11 @@
 ---
-description: 'Inicio de sesión automático desde Salesforce: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo habilitar el inicio de sesión automático desde Salesforce para que los usuarios se autentiquen en las acciones de Sales Insight automáticamente. Establezca Login Management en Salesforce Only y conecte las cuentas.
 title: Inicio de sesión automático desde Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

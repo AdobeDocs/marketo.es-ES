@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511931
-description: 'Envío de correos electrónicos y acciones de campaña y lista de observación de Marketo en Salesforce1: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo enviar correos electrónicos de Marketo y utilizar acciones de campañas y listas de observación en Salesforce Mobile. Usar acciones MSI en dispositivos móviles.
 title: Enviar correo electrónico y acciones de campaña y lista de observación de Marketo en Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '176'
 ht-degree: 6%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511512
-description: 'Instalación y configuración de Marketo Sales Insight en Salesforce1: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo instalar y configurar Marketo Sales Insight en Salesforce Mobile (Salesforce1). Usar MSI en dispositivos móviles.
 title: Instalar y configurar Marketo Sales Insight en Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNL Bmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
+>[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNLBmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
 
 ## Habilitar la aplicación móvil [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -163,6 +163,6 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Best Bets] en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [Momentos interesantes en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Enviar correo electrónico de Marketo y acciones de campañas y listas de observación en [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

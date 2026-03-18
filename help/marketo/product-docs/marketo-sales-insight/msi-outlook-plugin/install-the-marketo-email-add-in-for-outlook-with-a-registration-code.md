@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949711
-description: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook] con un código de registro - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo instalar el complemento de correo electrónico de Marketo para Outlook con un código de registro. Obtenga el complemento para los usuarios que tengan un código de registro.
 title: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook]  con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 3%
+source-wordcount: '546'
+ht-degree: 4%
 
 ---
 
@@ -126,7 +126,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si recibe una advertencia de seguridad, no se preocupe. Simplemente haga clic en **Ejecutar**.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
@@ -142,7 +142,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/confirm-installation-hand.png)
 

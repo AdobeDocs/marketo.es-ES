@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: 'Uso de momentos interesantes: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar momentos interesantes en el panel MSI. Ver e interpretar las actividades clave que indican participación del posible cliente.
 title: Usar momentos interesantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---

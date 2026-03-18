@@ -1,12 +1,12 @@
 ---
-description: 'Dominios bloqueados: documentos de Marketo, documentación del producto'
+description: Aprenda a bloquear dominios en las acciones de Sales Insight para evitar enviar correos electrónicos a la competencia o a trampas de correo no deseado.
 title: Dominios bloqueados
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 

@@ -1,12 +1,12 @@
 ---
-description: 'Añadir o actualizar la firma del correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir o actualizar su firma de correo electrónico en Acciones de Insight de ventas. Establezca una firma predeterminada.
 title: Añadir o actualizar la firma del correo electrónico
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 10%
+source-wordcount: '123'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Cambiar la contraseña de ventas de Marketo - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar la contraseña de ventas de Marketo en las acciones de Insight de ventas. Actualice la contraseña en Configuración cuando no utilice el inicio de sesión Solo Salesforce.
 title: Cambiar la contraseña de ventas de Marketo
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

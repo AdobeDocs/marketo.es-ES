@@ -1,11 +1,11 @@
 ---
-description: Indicadores de campo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las solicitudes de campo en las plantillas de correo electrónico. Agregue marcadores de posición que pidan al remitente que rellene contenido personalizado al enviar.
 title: Indicaciones de campo
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 3%
+source-wordcount: '174'
+ht-degree: 2%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 'Conectar con Outlook: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo conectar Outlook a las acciones de Sales Insight. Envíe y rastree correos electrónicos de ventas desde Outlook con la integración de acciones.
 title: Conectarse a Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 3%
+source-wordcount: '498'
+ht-degree: 4%
 
 ---
 
@@ -145,7 +145,7 @@ Es posible que tenga que trabajar con su equipo de TI para obtener permiso para 
 
 En función de las preferencias de su equipo informático y de la configuración actual, es mejor consultar con él sobre cómo conceder acceso. A continuación se muestran algunos artículos que pueden ayudar a guiar la conversación.
 
-* Consentimiento global: [aplicaciones integradas y administradores de Azure AD para Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* Consentimiento global: [aplicaciones integradas y Azure AD para administradores de Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
 * Consentimiento de usuario: [Configurar el consentimiento de los usuarios a las aplicaciones](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
 * Consentimiento de administrador: [Configurar el flujo de trabajo de consentimiento de administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Activar o desactivar el consentimiento del usuario: [Administración del consentimiento del usuario para aplicaciones en Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}

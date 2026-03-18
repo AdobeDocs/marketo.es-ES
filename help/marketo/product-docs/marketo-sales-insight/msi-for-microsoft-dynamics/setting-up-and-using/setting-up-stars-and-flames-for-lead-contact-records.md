@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762244
-description: Configuración de estrellas y llamas para registros de clientes potenciales/contactos - Documentos de Marketo - Documentación del producto
+description: Aprenda a configurar estrellas y llamas para registros de contactos y posibles clientes en Dynamics. Mostrar la puntuación de posibles clientes y la urgencia en CRM.
 title: Configuración de estrellas y llamas para registros de posibles clientes o contactos
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '192'
 ht-degree: 9%
 
 ---

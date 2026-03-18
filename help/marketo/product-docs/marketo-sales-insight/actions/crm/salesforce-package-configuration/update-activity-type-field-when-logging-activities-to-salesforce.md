@@ -1,10 +1,10 @@
 ---
-description: Actualizar el campo Tipo de actividad al registrar actividades en Salesforce - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo actualizar el campo Tipo de actividad al registrar actividades en Salesforce. Agregue un tipo Respuesta a la lista desplegable Tipo de tarea en la configuración de Salesforce.
 title: Actualizar el campo Tipo de actividad al registrar actividades en Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 6%
 
 ---

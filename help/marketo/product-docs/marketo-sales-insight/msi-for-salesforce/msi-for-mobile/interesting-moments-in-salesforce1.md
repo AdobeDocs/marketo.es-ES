@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511877
-description: 'Momentos interesantes en Salesforce1: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre momentos interesantes en Salesforce Mobile (Salesforce1). Vea las actividades principales clave en el panel MSI en dispositivos móviles.
 title: Momentos interesantes en Salesforce1
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

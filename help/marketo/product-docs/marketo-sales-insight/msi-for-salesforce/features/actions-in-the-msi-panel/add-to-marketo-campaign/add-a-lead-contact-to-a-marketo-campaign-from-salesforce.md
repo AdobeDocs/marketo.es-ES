@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10099167
-description: Elija una acción en Sales Insight - Documentos de Marketo - Documentación del producto
-title: Elegir una acción en Sales Insight
+description: Aprenda a añadir un posible cliente o contacto a una campaña de Marketo desde Salesforce. Utilice el panel MSI para añadir a la campaña desde el registro.
+title: Elegir una acción en Insight de ventas
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 6%
+source-wordcount: '207'
+ht-degree: 5%
 
 ---
 
-# Elegir una acción en Sales Insight {#choose-an-action-in-sales-insight}
+# Elegir una acción en Insight de ventas {#choose-an-action-in-sales-insight}
 
 Las siguientes acciones están disponibles en la lista desplegable Sales Insight de Salesforce Classic y Lightning:
 

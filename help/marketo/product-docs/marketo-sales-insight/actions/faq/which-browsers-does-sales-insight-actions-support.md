@@ -1,16 +1,16 @@
 ---
-description: '¿Con Qué Exploradores Son Compatibles Las Acciones De Sales Insight? Documentación de Marketo: documentación del producto'
-title: ¿Con qué exploradores son compatibles las acciones de Sales Insight?
+description: Descubra qué exploradores admiten las acciones de Sales Insight. Utilice un navegador compatible para obtener la mejor experiencia.
+title: ¿Con qué exploradores son compatibles las acciones de Insight de ventas?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 37%
+source-wordcount: '66'
+ht-degree: 34%
 
 ---
 
-# ¿Con qué exploradores son compatibles las acciones de Sales Insight? {#which-browsers-does-sales-insight-actions-support}
+# ¿Con qué exploradores son compatibles las acciones de Insight de ventas? {#which-browsers-does-sales-insight-actions-support}
 
 Marketo Sales Insight Actions admite actualmente los siguientes exploradores.
 

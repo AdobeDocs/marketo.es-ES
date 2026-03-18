@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: Enviar y rastrear desde [!DNL Outlook] usando una plantilla de Marketo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo enviar y rastrear desde Outlook mediante una plantilla de Marketo. Inserte una plantilla de ventas y envíe correos electrónicos seguidos desde Outlook.
 title: Enviar y rastrear desde [!DNL Outlook] usando una plantilla de Marketo
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 'Conectar nuevos administradores a Marketo: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo conectar un nuevo administrador a Marketo y transferir la integración de Marketo. Siga los pasos para desconectar al administrador actual y establecer una nueva conexión.
 title: Conectar el nuevo administrador a Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 2%
+source-wordcount: '508'
+ht-degree: 1%
 
 ---
 

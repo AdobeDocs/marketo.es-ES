@@ -1,14 +1,14 @@
 ---
-description: Ver lista de plantillas como otro usuario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ver la lista de plantillas como otro usuario cuando es administrador. Use Ver como para ver las plantillas de otro usuario.
 title: Ver lista de plantillas como otro usuario
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '90'
+ht-degree: 16%
 
 ---
 
@@ -18,7 +18,7 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Haga clic en **[!UICONTROL Plantillas]**.
 

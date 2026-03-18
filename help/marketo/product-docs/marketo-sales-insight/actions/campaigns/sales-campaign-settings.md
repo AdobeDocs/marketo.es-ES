@@ -1,11 +1,11 @@
 ---
-description: Configuración de campañas de ventas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar las opciones de Campaña de ventas, incluidos Omitir fines de semana, Eliminar al recibir devoluciones y responder comportamiento.
 title: Configuración de la campaña de ventas
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '234'
 ht-degree: 5%
 
 ---

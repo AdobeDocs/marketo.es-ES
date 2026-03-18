@@ -1,12 +1,12 @@
 ---
-description: 'Envío de un correo electrónico de prueba: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar un correo electrónico de prueba desde el panel MSI en Salesforce. Previsualizar y probar plantillas de correo electrónico de ventas antes de enviarlas a posibles clientes.
 title: Enviar un correo electrónico de prueba
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '170'
+ht-degree: 4%
 
 ---
 

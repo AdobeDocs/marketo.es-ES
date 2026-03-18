@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762409
-description: Página de Insight de ventas para administradores de Marketo - Documentos de Marketo - Documentación del producto
-title: Página de Sales Insight para administradores de Marketo
+description: Obtenga información acerca de la página Insight de ventas para administradores de Marketo. Configuración de acciones de acceso y configuración de MSI.
+title: Página de Insight de ventas para administradores de Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---

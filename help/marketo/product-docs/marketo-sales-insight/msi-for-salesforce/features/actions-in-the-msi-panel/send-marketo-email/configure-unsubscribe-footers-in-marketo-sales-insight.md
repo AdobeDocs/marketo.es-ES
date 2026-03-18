@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Configuración de los pies de página para cancelar la suscripción en Marketo Sales Insight - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo configurar los pies de página para cancelar la suscripción en Marketo Sales Insight. Configure los vínculos de cancelación de suscripción y el cumplimiento para los correos electrónicos de ventas.
 title: Configuración de los pies de página de cancelación de suscripción en Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 3%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Los correos electrónicos de ventas sitúan automáticamente el pie de página d
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >

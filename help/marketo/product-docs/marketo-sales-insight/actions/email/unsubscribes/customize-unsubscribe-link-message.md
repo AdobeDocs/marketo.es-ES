@@ -1,12 +1,12 @@
 ---
-description: Personalizar mensaje de vínculo de cancelación de suscripción - Documentos de Marketo - Documentación del producto
+description: Aprenda a personalizar el mensaje de vínculo de cancelación de suscripción en los correos electrónicos de ventas. Edite el texto que ven los usuarios cuando deciden excluirse.
 title: Personalizar mensaje de vínculo de cancelación de suscripción
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 4%
+source-wordcount: '205'
+ht-degree: 3%
 
 ---
 

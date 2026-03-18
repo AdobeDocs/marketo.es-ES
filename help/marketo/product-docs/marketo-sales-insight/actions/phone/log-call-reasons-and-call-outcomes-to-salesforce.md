@@ -1,11 +1,11 @@
 ---
-description: 'Registrar motivos de llamada y resultados de llamada a Salesforce: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo registrar motivos de llamada y resultados de llamada en Salesforce. Asegúrese de que la actividad de llamada y los atributos se sincronizan con CRM.
 title: Registrar los motivos de la llamada y los resultados de la llamada en Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 6%
 
 ---

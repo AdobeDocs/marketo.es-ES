@@ -1,16 +1,16 @@
 ---
-description: Acciones de Insight de ventas y cumplimiento del RGPD - Documentos de Marketo - Documentación del producto
-title: Acciones de Sales Insight y cumplimiento del RGPD
+description: Conozca las Acciones de Sales Insight y el cumplimiento del RGPD. Comprender la administración de datos y las opciones para admitir la privacidad y el consentimiento.
+title: Acciones de Insight de ventas y cumplimiento del RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1378'
 ht-degree: 9%
 
 ---
 
-# Acciones de Sales Insight y cumplimiento del RGPD {#sales-insight-actions-and-gdpr-compliance}
+# Acciones de Insight de ventas y cumplimiento del RGPD {#sales-insight-actions-and-gdpr-compliance}
 
 El Reglamento General de Protección de Datos (RGPD) es la legislación de la Unión Europea que entró en vigor el 25 de mayo de 2018.
 
@@ -71,7 +71,7 @@ En la nueva tarjeta de cumplimiento, los usuarios pueden realizar un seguimiento
 
 De nuevo, los usuarios tienen varias opciones desplegables para elegir, entre ellas:
 
-* [!UICONTROL Sincronización CRM]
+* [!UICONTROL Sincronización de CRM]
 * [!UICONTROL Importar]
 * [!UICONTROL Carga manual]
 * [!UICONTROL Extensión de Chrome]

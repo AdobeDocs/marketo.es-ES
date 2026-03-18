@@ -1,16 +1,16 @@
 ---
-description: Información general sobre la función Acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Información general sobre la función de acciones de Sales Insight
+description: Obtenga información sobre las acciones de Insight de ventas y las herramientas de inteligencia y participación basadas en marketing para ventas. Utilice el correo electrónico de ventas, las campañas, el marcador y las tareas para acelerar la prospección.
+title: Información general sobre la función de acciones de Insight de ventas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1375'
 ht-degree: 1%
 
 ---
 
-# Información general sobre la función de acciones de Sales Insight {#msi-actions-feature-overview}
+# Información general sobre la función de acciones de Insight de ventas {#msi-actions-feature-overview}
 
 Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un solo flujo de trabajo mediante las acciones de Insight de ventas.
 
@@ -18,7 +18,7 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 >
 >Marketo Sales Insight Actions es una aplicación basada en la Web que se integra exclusivamente con Salesforce CRM mediante el [paquete Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
-Para ver un vídeo introductorio de las acciones de Sales Insight, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=es){target="_blank"}.
+Para ver un vídeo introductorio de las acciones de Sales Insight, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

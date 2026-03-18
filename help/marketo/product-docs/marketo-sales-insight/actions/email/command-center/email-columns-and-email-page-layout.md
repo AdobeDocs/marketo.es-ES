@@ -1,11 +1,11 @@
 ---
-description: 'Columnas de correo electrónico y diseño de página de correo electrónico: documentos de Marketo, documentación del producto'
+description: Comprenda las columnas de correo electrónico y el diseño de página en el Centro de comandos. Personalice qué columnas aparecen y cómo se muestra la actividad de correo electrónico.
 title: Columnas de correo electrónico y diseño de página del correo electrónico
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '547'
 ht-degree: 2%
 
 ---

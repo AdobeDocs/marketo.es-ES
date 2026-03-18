@@ -1,10 +1,10 @@
 ---
-description: 'Añadir botones de acción a la vista de lista de Salesforce: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir los botones Enviar correo electrónico de ventas y Añadir a la campaña de ventas a las vistas de lista de Salesforce. Configure en Lightning o Classic mediante Diseños de botones de vista de lista.
 title: Añadir botones de acción a la vista de lista de Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '306'
 ht-degree: 8%
 
 ---

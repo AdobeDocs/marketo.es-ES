@@ -1,11 +1,11 @@
 ---
-description: '¿Cómo soluciono "No hemos podido autenticar su solicitud" al conectar con Salesforce? Documentos de Marketo: documentación del producto'
+description: Corrija los errores de autenticación al conectar las acciones de Sales Insight a Salesforce. Compruebe OAuth, los permisos y los pasos de conexión.
 title: ¿Cómo soluciono "No hemos podido autenticar su solicitud" al conectar con Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

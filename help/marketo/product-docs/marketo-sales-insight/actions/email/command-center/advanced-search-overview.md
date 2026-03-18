@@ -1,11 +1,11 @@
 ---
-description: 'Información general de búsqueda avanzada: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar la búsqueda avanzada en el Centro de comandos para encontrar correos electrónicos y tareas. Filtre por fecha, remitente, estado y otros criterios.
 title: Información general sobre la búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '443'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Filtre por destinatario/remitente de correo electrónico en la sección [!UICONT
  </tr>
 </table>
 
-**Cuándo**
+**When**
 
 Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 
@@ -83,13 +83,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Estado: enviado**&#x200B;_
+_**Estado: enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtra por la actividad de correo electrónico enviado. Puede elegir [!UICONTROL vistas]/[!UICONTROL sin vistas], [!UICONTROL clics]/[!UICONTROL sin clics] o [!UICONTROL respuestas]/[!UICONTROL sin respuestas].
 
-_&#x200B;**Estado: pendiente**&#x200B;_
+_**Estado: pendiente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos los correos electrónicos pendientes.
  </tr>
 </table>
 
-_&#x200B;**Estado: sin entregar**&#x200B;_
+_**Estado: sin entregar**_
 
 ![](assets/advanced-search-overview-12.png)
 

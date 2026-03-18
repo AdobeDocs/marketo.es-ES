@@ -1,11 +1,11 @@
 ---
-description: Creación de una campaña de ventas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear una campaña de ventas con pasos de correo electrónico, llamada, InMail y tareas personalizadas. Organizar, escalar y medir el alcance.
 title: Crear una campaña de ventas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '328'
 ht-degree: 2%
 
 ---

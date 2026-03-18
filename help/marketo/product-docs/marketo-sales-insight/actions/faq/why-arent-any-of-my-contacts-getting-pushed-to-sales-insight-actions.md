@@ -1,12 +1,12 @@
 ---
-description: '¿Por qué no se inserta a ninguno de mis contactos en las acciones de Insight de ventas? Documentación de Marketo: documentación del producto'
-title: ¿Por qué no se inserta a ninguno de mis contactos en las acciones de Sales Insight?
+description: Solucionar problemas cuando no hay contactos sincronizándose con las acciones de Sales Insight. Compruebe los requisitos de asignación y conexión del propietario de ventas.
+title: ¿Por qué no se inserta a ninguno de mis contactos en las acciones de Insight de ventas?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '82'
+ht-degree: 14%
 
 ---
 

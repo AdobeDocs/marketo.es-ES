@@ -1,10 +1,10 @@
 ---
-description: 'Sincronización de actividades de ventas con Salesforce: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo sincronizar actividades de ventas con Salesforce mediante API o CCO. Configure el correo electrónico y el registro de llamadas.
 title: Sincronizar actividades de ventas con Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '769'
 ht-degree: 2%
 
 ---

@@ -1,16 +1,16 @@
 ---
-description: Lista de comprobación de incorporación de usuarios de acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Lista de comprobación de incorporación de usuarios de acciones de Sales Insight
+description: Utilice la lista de comprobación de incorporación de usuarios de acciones de Insight de ventas para empezar. Rastree los pasos de configuración y activación para nuevos usuarios.
+title: Lista de comprobación de incorporación de usuarios de acciones de Insight de ventas
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---
 
-# Lista de comprobación de incorporación de usuarios de acciones de Sales Insight {#sales-insight-actions-user-onboarding-checklist}
+# Lista de comprobación de incorporación de usuarios de acciones de Insight de ventas {#sales-insight-actions-user-onboarding-checklist}
 
 Si está buscando recursos sobre cómo empezar a usar Marketo Sales Insight Actions, [descargue la lista de comprobación de incorporación](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
 

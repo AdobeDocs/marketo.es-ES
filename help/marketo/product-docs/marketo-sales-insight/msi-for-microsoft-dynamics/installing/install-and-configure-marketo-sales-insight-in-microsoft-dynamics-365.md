@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571739
-description: 'Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 365: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo instalar y configurar Marketo Sales Insight en Microsoft Dynamics 365. Añada la solución y conéctese a Marketo.
 title: Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 3%
+source-wordcount: '431'
+ht-degree: 5%
 
 ---
 
@@ -43,11 +43,11 @@ ht-degree: 3%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. En la nueva ventana, haz clic en **[!UICONTROL Examinar]**. Elija la solución [Marketo Sales Insight que descargó en el paso 1](#msi). Haga clic en **[!UICONTROL Siguiente]**.
+1. En la nueva ventana, haz clic en **[!UICONTROL Examinar]**. Elija la solución [Marketo Sales Insight que descargó en el paso 1](#msi). Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
-1. Se cargará la solución. Si lo desea, puede ver el contenido del paquete. Haga clic en **[!UICONTROL Siguiente]**.
+1. Se cargará la solución. Si lo desea, puede ver el contenido del paquete. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -73,7 +73,7 @@ Vinculemos su instancia de Marketo a [!DNL Sales Insight] en [!DNL Dynamics]. A 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Inicie sesión en Marketo y vaya a la sección **[!UICONTROL Admin]**.
 

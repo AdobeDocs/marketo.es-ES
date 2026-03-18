@@ -1,11 +1,11 @@
 ---
-description: Aceleración de la conexión de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Comprenda los límites de restricción y envío de conexiones de correo electrónico en las acciones de Insight de ventas. Descubra cómo afecta la restricción a la entrega y cómo permanecer dentro de los límites.
 title: Limitación de la conexión de correo electrónico
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---

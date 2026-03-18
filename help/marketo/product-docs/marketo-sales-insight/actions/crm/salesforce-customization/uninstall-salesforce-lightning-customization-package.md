@@ -1,12 +1,12 @@
 ---
-description: Desinstalar el paquete de personalización de Salesforce Lightning - Documentos de Marketo - Documentación del producto
+description: Aprenda a desinstalar el paquete de personalización Salesforce Lightning para Sales Insight. Elimine el paquete de la instancia de Salesforce cuando sea necesario.
 title: Desinstalar el paquete de personalización de Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 9%
+source-wordcount: '1169'
+ht-degree: 10%
 
 ---
 
@@ -82,7 +82,7 @@ Desinstale el paquete de Marketo [!DNL Sales Connect] de su cuenta de [!DNL Sale
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Seleccione los [!DNL Sales Connect] campos del área [!UICONTROL Campos seleccionados] y haga clic en la flecha [!UICONTROL Quitar]. Haga clic en **[!UICONTROL Aceptar]** cuando haya terminado.
+1. Seleccione los [!DNL Sales Connect] campos del área [!UICONTROL Campos seleccionados] y haga clic en la flecha [!UICONTROL Quitar]. Haga clic en **[!UICONTROL Aceptar]** cuando termine.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

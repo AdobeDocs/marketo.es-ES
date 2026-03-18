@@ -1,12 +1,12 @@
 ---
-description: 'No puedo acceder a mi cuenta. ¿Qué Debo Hacer? Documentación de Marketo: documentación del producto'
+description: Obtén ayuda cuando se bloquee tu cuenta de Sales Insight Actions. Obtenga información sobre cómo restablecer la contraseña o volver a conectar Salesforce para recuperar el acceso.
 title: No puedo acceder a mi cuenta. ¿Qué debo hacer?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 

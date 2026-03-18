@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949279
-description: 'Actualizar el complemento de correo electrónico de Marketo para  [!DNL Outlook] : documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo actualizar el complemento de correo electrónico de Marketo para Outlook. Obtenga la versión más reciente de para nuevas funciones y correcciones.
 title: Actualizar el complemento de correo electrónico de Marketo para  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 11%
+source-wordcount: '335'
+ht-degree: 12%
 
 ---
 
@@ -129,7 +129,7 @@ Descargue el instalador apropiado para su versión de Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -153,7 +153,7 @@ Descargue el instalador apropiado para su versión de Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 

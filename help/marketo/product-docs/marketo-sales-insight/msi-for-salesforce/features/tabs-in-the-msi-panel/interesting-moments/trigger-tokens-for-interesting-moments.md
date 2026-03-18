@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: 'Tokens de déclencheur para momentos interesantes: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de los tokens de déclencheur para momentos interesantes en Marketo. Configure qué actividades crean momentos interesantes en el panel MSI.
 title: Activar tókenes para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 67%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 67%
 
 Consulta [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puedes poner en un momento interesante.
 
-## Tokens de déclencheur {#trigger-tokens}
+## Tókenes de activador {#trigger-tokens}
 
 En función del déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
 
@@ -1017,7 +1017,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td>
   </tr>
   <tr>
-   <td>Visitas a la página web</td>
+   <td>Visita la página web</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>

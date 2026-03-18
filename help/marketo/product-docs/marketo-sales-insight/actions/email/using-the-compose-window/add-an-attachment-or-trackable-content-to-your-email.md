@@ -1,11 +1,11 @@
 ---
-description: 'Añadir un archivo adjunto o contenido rastreable al correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir archivos adjuntos o contenido rastreable a los correos electrónicos de ventas. Adjunte archivos o agregue vínculos y contenido rastreables para el seguimiento de la participación.
 title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '424'
 ht-degree: 4%
 
 ---

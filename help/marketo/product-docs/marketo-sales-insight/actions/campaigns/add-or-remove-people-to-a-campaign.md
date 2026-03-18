@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: 'Añadir personas a la campaña: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir o eliminar personas de las campañas de ventas desde la aplicación web, Salesforce o la bandeja de entrada. Establezca las opciones de respuesta y devolución para finalizar las campañas automáticamente.
 title: Añadir personas a su campaña
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---

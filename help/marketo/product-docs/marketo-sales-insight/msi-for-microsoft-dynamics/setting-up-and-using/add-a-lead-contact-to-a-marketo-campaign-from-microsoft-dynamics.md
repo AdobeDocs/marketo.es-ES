@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953342
-description: 'Añadir un posible cliente/contacto a una campaña de Marketo desde Microsoft Dynamics: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir un posible cliente o contacto a una campaña de Marketo desde Microsoft Dynamics. Utilice el panel MSI para añadir posibles clientes a las campañas.
 title: Añadir un posible cliente o contacto a una campaña de Marketo desde Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '142'
 ht-degree: 9%
 
 ---

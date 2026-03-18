@@ -1,11 +1,11 @@
 ---
-description: 'Plantillas recomendadas: Documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las plantillas recomendadas y las prácticas recomendadas. Cree plantillas de correo electrónico de ventas efectivas que obtengan participación.
 title: Plantillas recomendadas
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---

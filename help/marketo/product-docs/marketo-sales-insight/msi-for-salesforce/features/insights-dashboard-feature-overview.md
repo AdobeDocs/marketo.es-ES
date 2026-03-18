@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762514
-description: Información general sobre la función del panel de perspectivas - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del panel de perspectivas en Marketo Sales Insight. Vea la velocidad de participación, las próximas campañas y las tareas en el panel.
 title: Información general sobre las funciones del panel de control de Insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: '1533'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Añadir el acceso de Insight de ventas a los perfiles - Documentos de Marketo - Documentación del producto
-title: Añadir el acceso de Sales Insight a los perfiles
+description: Aprenda a añadir el acceso de Sales Insight a los perfiles de Salesforce. Conceda a los usuarios acceso al paquete de Marketo Sales Insight.
+title: Añadir el acceso de Insight de ventas a los perfiles
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '404'
 ht-degree: 5%
 
 ---

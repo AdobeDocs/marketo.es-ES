@@ -1,12 +1,12 @@
 ---
-description: '¿Por qué la actividad de seguimiento no se muestra en la actividad de Salesforce? Documentación de Marketo: documentación del producto'
+description: Solucione problemas cuando el seguimiento de la actividad no se muestra en la actividad de Salesforce. Compruebe la configuración de sincronización, el registro de API y los permisos.
 title: ¿Por qué la actividad de seguimiento no se muestra en la actividad de Salesforce?
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 16%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

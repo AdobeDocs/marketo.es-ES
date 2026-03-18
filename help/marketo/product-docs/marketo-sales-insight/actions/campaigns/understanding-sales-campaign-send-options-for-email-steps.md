@@ -1,11 +1,11 @@
 ---
-description: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Conozca las opciones de envío para los pasos de correo electrónico de Sales Campaign. Elija cuándo enviar, programe el tiempo de envío o cree una tarea para enviarse a sí mismo para el primer y siguientes pasos.
 title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 4%
 
 ---
@@ -75,5 +75,5 @@ Para los días o pasos siguientes de la campaña de ventas, tiene las siguientes
 >[!MORELIKETHIS]
 >
 >[Crear una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

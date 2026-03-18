@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
-description: 'Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2011: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2011. Añada la solución y complete la configuración.
 title: Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
    >
    >Ya debería tener [instalada y configurada](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) la solución de Marketo antes de continuar.
 
-1. Haga clic en **[!UICONTROL Examinar]**. Seleccione la solución [!DNL Marketo Sales Insight] que [descargó](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Examinar]**. Seleccione la solución [!DNL Marketo Sales Insight] que [descargó](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -47,7 +47,7 @@ ht-degree: 4%
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. Asegúrese de que la opción SDK message esté seleccionada. Haga clic en **[!UICONTROL Siguiente]**.
+1. Asegúrese de que la opción SDK message esté seleccionada. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -71,7 +71,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Inicie sesión en Marketo y haga clic en **[!UICONTROL Administrador]**.
 

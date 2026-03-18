@@ -1,11 +1,11 @@
 ---
-description: Momentos interesantes en las acciones de ventas de Insight - Documentos de Marketo - Documentación del producto
-title: Momentos interesantes en las acciones de Sales Insight
+description: Conozca los momentos interesantes de las acciones de Sales Insight. Comprenda cómo se registran y muestran las actividades clave en Marketo y Salesforce.
+title: Momentos interesantes en las acciones de Insight de ventas
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 'Sincronización de tareas de recordatorio con Salesforce: documentos de Marketo, documentación del producto'
+description: Descubra cómo se sincronizan las tareas de recordatorio con Salesforce. Asegúrese de que las tareas de correo electrónico, llamadas y personalizadas de Acciones aparezcan en Actividad de Salesforce.
 title: Sincronización de las tareas de recordatorio con Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---

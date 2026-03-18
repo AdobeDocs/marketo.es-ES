@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377488
-description: Instale el complemento de Marketo para  [!DNL Outlook] con una clave de empresa - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo instalar el complemento de Marketo para Outlook con una clave empresarial. Implemente el complemento para su organización mediante una clave de empresa.
 title: Instale el complemento de Marketo para  [!DNL Outlook]  con una clave de empresa
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---

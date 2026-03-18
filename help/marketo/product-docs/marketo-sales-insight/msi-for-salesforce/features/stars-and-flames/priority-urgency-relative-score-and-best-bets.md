@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950396
-description: Prioridad, urgencia, puntuación relativa y recomendaciones - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la prioridad, la urgencia, la puntuación relativa y los resultados más probables en Marketo Sales Insight. Comprenda la puntuación de posibles clientes en el panel MSI.
 title: Prioridad, urgencia, puntuación relativa y mejores apuestas
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '454'
 ht-degree: 2%
 
 ---

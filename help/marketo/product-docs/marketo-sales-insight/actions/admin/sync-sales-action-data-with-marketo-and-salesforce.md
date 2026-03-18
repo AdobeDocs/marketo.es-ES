@@ -1,8 +1,8 @@
 ---
-description: 'Sincronización de datos de acción de ventas con Marketo y Salesforce: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre la sincronización de los datos de acciones de Sales Insight con Marketo Engage y Salesforce.
 title: Sincronizar datos de acción de ventas con Marketo y Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 4%

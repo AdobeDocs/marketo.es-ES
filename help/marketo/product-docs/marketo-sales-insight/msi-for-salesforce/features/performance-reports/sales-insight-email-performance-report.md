@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
-description: Informe de rendimiento del correo electrónico de Insight de ventas - Documentos de Marketo - Documentación del producto
-title: Informe de rendimiento de correo electrónico de Sales Insight
+description: Obtenga información acerca del informe de rendimiento del correo electrónico de Sales Insight en Salesforce. Vea las métricas de correo electrónico y la participación para los correos electrónicos de ventas.
+title: Informe de rendimiento de correo electrónico de Insight de ventas
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 7%
+source-wordcount: '161'
+ht-degree: 15%
 
 ---
 
-# Informe de rendimiento de correo electrónico de Sales Insight {#sales-insight-email-performance-report}
+# Informe de rendimiento de correo electrónico de Insight de ventas {#sales-insight-email-performance-report}
 
 Ver el rendimiento de los mensajes de correo electrónico enviados a través de [!DNL Salesforce], [!DNL Microsoft Dynamics] o un complemento de Gmail o [!DNL Outlook].
 
@@ -41,7 +41,7 @@ Ver el rendimiento de los mensajes de correo electrónico enviados a través de 
 
 >[!TIP]
 >
->Haga clic en el nombre de un correo electrónico para abrirlo en el previsualizador de correo electrónico.
+>Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa del correo electrónico.
 
 ## Agrupar por [!UICONTROL representante de ventas] {#group-by-sales-rep}
 

@@ -1,13 +1,13 @@
 ---
-description: 'Configuración de la conexión de Marketo: documentos de Marketo, documentación del producto'
+description: Aprenda a configurar la conexión de Marketo para las acciones de Sales Insight. Conéctese desde el administrador de Marketo para habilitar las acciones en su instancia.
 title: Configurar la conexión de Marketo
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---

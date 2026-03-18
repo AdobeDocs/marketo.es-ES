@@ -1,11 +1,11 @@
 ---
-description: 'Información general de la página de Analytics: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la pestaña Analytics y los datos de participación por correo electrónico para las acciones de Sales Insight. Ver las estadísticas individuales y de equipo en las pestañas Yo, Equipo y Contenido.
 title: Información general sobre la página de análisis
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
