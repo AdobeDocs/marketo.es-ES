@@ -19,5 +19,5 @@ Se agregarán cinco botones [!DNL Sales Connect] a la parte superior de la pági
 |---|---|
 | **[!UICONTROL Botón de fuente en directo]** | Abre tu [!DNL Sales Connect] [Live Feed](https://toutapp.com/next#live), donde podrás obtener información de seguimiento en tiempo real de tus correos electrónicos. |
 | **[!UICONTROL Botón de tareas]** | Muestra una lista desplegable de todas las tareas. |
-| **[!UICONTROL Plantillas y conversaciones] botones** | Abre la página [Plantillas](https://toutapp.com/login) y la página [!UICONTROL Conversaciones] de la aplicación web [!UICONTROL 1, respectivamente. ] Todo dentro de su página de Gmail. |
+| **[!UICONTROL Plantillas y conversaciones] botones** | Abre la página [Plantillas](https://toutapp.com/login) y la página [!UICONTROL Conversaciones] de la aplicación web [!UICONTROL 1, respectivamente. &#x200B;] Todo dentro de su página de Gmail. |
 | **[!UICONTROL Botón de Gong de ventas]** | Le permite celebrar sus acuerdos cerrados/ganados con sus compañeros de equipo. |
