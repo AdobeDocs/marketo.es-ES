@@ -1,11 +1,11 @@
 ---
-description: Razones de llamada - Documentos de Marketo - Documentación del producto
+description: Comprenda los motivos de llamada en Sales Connect. Establezca y registre por qué ha llamado a estos resultados para que se sincronicen correctamente con Salesforce.
 title: Motivos de la llamada
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '176'
 ht-degree: 2%
 
 ---

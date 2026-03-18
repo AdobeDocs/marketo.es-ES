@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352406
-description: 'Creación de un subequipo: documentos de Marketo, documentación del producto'
+description: Aprenda a crear un subequipo en Sales Connect y a añadir personas a él. Organice plantillas, campañas y grupos.
 title: Creación de un subequipo
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 8%
+source-wordcount: '114'
+ht-degree: 7%
 
 ---
 

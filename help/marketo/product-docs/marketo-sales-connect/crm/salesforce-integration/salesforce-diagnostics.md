@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Diagnóstico de Salesforce - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los diagnósticos de Salesforce para Sales Connect. Solucione los problemas de conexión y sincronización entre Sales Connect y Salesforce.
 title: Diagnóstico de Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 0%
 
 ---

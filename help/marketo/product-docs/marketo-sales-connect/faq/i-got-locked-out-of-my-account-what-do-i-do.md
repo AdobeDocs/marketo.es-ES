@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: 'No puedo acceder a mi cuenta. ¿Qué Debo Hacer? Documentación de Marketo: documentación del producto'
+description: Obtén ayuda cuando se bloquee tu cuenta de Sales Connect. Obtenga información sobre cómo restablecer la contraseña o póngase en contacto con el servicio de asistencia para recuperar el acceso.
 title: No puedo acceder a mi cuenta. ¿Qué debo hacer?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 51%
+source-wordcount: '71'
+ht-degree: 30%
 
 ---
 

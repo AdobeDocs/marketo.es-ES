@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: Descripción general del teléfono de ventas - Documentos de Marketo - Documentación del producto
+description: Más información sobre el Teléfono de ventas en Sales Connect. Realice llamadas desde la aplicación, inicie sesión en Salesforce y utilice la grabación de llamadas y la presencia local.
 title: Información general sobre el teléfono de ventas
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 2%
+source-wordcount: '312'
+ht-degree: 1%
 
 ---
 

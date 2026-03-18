@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317369
-description: Ver lista de plantillas como otro usuario - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo ver la lista de plantillas como otro usuario en Sales Connect. Use Ver como administrador para ver lo que ve un usuario.
 title: Ver lista de plantillas como otro usuario
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
@@ -17,7 +17,7 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Haga clic en **[!UICONTROL Plantillas]**.
 

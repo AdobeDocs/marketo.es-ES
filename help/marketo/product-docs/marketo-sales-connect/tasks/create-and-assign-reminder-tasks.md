@@ -1,11 +1,11 @@
 ---
-description: Creación y asignación de tareas de recordatorio - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear y asignar tareas de recordatorio en Sales Connect. Configure las tareas de seguimiento para usted o para los integrantes del equipo.
 title: Crear y asignar tareas de recordatorio
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '153'
 ht-degree: 6%
 
 ---

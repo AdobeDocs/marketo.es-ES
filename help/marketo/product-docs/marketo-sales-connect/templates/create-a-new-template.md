@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352639
-description: 'Creación de una nueva plantilla: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una nueva plantilla de correo electrónico en Sales Connect. Cree plantillas reutilizables con campos dinámicos y contenido rastreable.
 title: Crear una nueva plantilla
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 8%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
 

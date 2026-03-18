@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352482
-description: Funcionamiento del seguimiento de respuestas - Documentos de Marketo - Documentación del producto
+description: Descubra cómo funciona el seguimiento de respuestas en Sales Connect. Obtenga información sobre cómo se detectan y registran las respuestas en Salesforce o Marketo.
 title: Cómo funciona el seguimiento de respuestas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

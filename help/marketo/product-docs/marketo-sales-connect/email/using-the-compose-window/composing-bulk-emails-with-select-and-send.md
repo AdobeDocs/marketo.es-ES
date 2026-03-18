@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356578
-description: 'Composición de correos electrónicos masivos con selección y envío: documentos de Marketo, documentación del producto'
+description: Aprenda a redactar correos electrónicos masivos con Seleccionar y Enviar en Sales Connect. Envíe el mismo correo electrónico a varios contactos con personalización.
 title: Redactar correos electrónicos masivos con selección y envío
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '415'
 ht-degree: 3%
 
 ---

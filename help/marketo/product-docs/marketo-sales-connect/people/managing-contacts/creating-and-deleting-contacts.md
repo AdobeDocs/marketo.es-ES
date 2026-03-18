@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352516
-description: 'Creación y eliminación de contactos: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear y eliminar contactos en Sales Connect. Agrega nuevos contactos manualmente o quita contactos de tu cuenta.
 title: Crear y eliminar contactos
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '133'
 ht-degree: 6%
 
 ---

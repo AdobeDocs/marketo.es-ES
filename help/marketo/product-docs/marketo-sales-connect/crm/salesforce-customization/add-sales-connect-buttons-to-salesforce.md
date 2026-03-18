@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352463
-description: Agregar botones de conexión de ventas a  [!DNL Salesforce] - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir botones de conexión de ventas a Salesforce. Coloque los botones de conexión en Salesforce para acceder rápidamente a las acciones de conexión de ventas.
 title: Añadir botones de Sales Connect a Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 8%
+source-wordcount: '166'
+ht-degree: 7%
 
 ---
 

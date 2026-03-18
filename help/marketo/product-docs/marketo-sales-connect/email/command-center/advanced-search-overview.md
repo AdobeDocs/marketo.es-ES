@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: 'Información general de búsqueda avanzada: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la búsqueda avanzada en el Centro de comandos de Sales Connect. Busque correos electrónicos y tareas por destinatario, fecha, campaña u otros filtros.
 title: Información general sobre la búsqueda avanzada
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ Filtre por destinatario/remitente de correo electrónico en la sección [!UICONT
 | **[!UICONTROL Por grupo]** | Filtrado de correos electrónicos por un grupo específico de destinatarios. |
 | **[!UICONTROL Por persona]** | Filtre por un destinatario específico. |
 
-**Cuándo**
+**When**
 
 Elija por fecha de creación, fecha de entrega, fecha de error o fecha programada. Las opciones disponibles cambian según el estado de correo electrónico que elija ([!UICONTROL Enviado], [!UICONTROL No entregado], [!UICONTROL Pendiente]).
 

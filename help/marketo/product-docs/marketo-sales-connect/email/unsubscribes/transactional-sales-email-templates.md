@@ -1,10 +1,10 @@
 ---
-description: Plantillas de correo electrónico de ventas transaccionales - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las plantillas de correo electrónico de ventas transaccionales en Sales Connect. Utilice plantillas que omitan la cancelación de la suscripción para mensajes transaccionales.
 title: Plantillas de correo electrónico de ventas transaccionales
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352464
-description: Paneles de creación de informes en Salesforce - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los paneles de informes de Salesforce que utilizan datos de Sales Connect. Vea la actividad de llamada y correo electrónico en los informes y paneles de Salesforce.
 title: Paneles de control de sistemas de informes en Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 

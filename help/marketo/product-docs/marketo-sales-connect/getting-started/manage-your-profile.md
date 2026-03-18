@@ -1,11 +1,11 @@
 ---
-description: 'Administrar el perfil: documentos de Marketo, documentación del producto'
+description: Descubra cómo administrar su perfil de Sales Connect. Actualice su nombre, correo electrónico y otras configuraciones de perfil en la aplicación web.
 title: Administrar su perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '256'
 ht-degree: 6%
 
 ---

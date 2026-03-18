@@ -1,11 +1,11 @@
 ---
-description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
+description: Conozca los términos de la actividad de ventas de Sales Connect. Utilice este glosario para tipos de actividades que se sincronizan con Marketo y Salesforce.
 title: Glosario de actividad de ventas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '597'
 ht-degree: 8%
 
 ---

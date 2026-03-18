@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352538
-description: Probar correo electrónico no mostrado como visto - Documentos de Marketo - Documentación del producto
+description: Obtener ayuda si un correo electrónico de prueba no aparece como visto en Sales Connect. Solucionar problemas de seguimiento de vistas para envíos de prueba o previsualización.
 title: Probar correo electrónico no mostrado como visto
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 8%
+source-wordcount: '154'
+ht-degree: 7%
 
 ---
 

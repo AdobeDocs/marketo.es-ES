@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352405
-description: 'Configuración de SSO a través de SAML 2.0 en  [!DNL Sales Connect] : documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo configurar SSO mediante SAML 2.0 en Sales Connect. Obtenga información sobre los requisitos y pasos de configuración para su proveedor de SSO y su dominio único.
 title: Configurando SSO mediante SAML 2.0 en  [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

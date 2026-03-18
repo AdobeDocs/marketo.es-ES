@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317340
-description: Comprobación de cancelación de suscripción de Marketo - Documentos de Marketo - Documentación del producto
+description: Información sobre la cancelación de la suscripción a Marketo en Sales Connect. Descubra cómo Sales Connect respeta el estado de cancelación de suscripción de Marketo al realizar envíos.
 title: Verificar cancelación de suscripción de Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 4%
+source-wordcount: '201'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ La [!UICONTROL comprobación de cancelación de suscripción de Marketo] usa la 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Encendiéndola... {#turning-it-on}
 

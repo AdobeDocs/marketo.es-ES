@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: 'Añadir la firma de correo electrónico: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir su firma de correo electrónico en Sales Connect. Configure una firma predeterminada para los correos electrónicos de ventas enviados desde la aplicación web o los complementos.
 title: Añadir su firma de correo electrónico
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

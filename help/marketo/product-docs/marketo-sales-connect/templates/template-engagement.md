@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352504
-description: 'Participación en plantillas: Documentos de Marketo: documentación del producto'
+description: Comprenda la participación en plantillas en Sales Connect. Vea qué plantillas obtienen la mayor cantidad de vistas, clics y respuestas en Analytics.
 title: Participación en la plantilla
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---

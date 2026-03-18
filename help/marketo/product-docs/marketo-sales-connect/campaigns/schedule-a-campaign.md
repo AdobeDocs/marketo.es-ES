@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352612
-description: 'Programar una campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo programar una campaña de Sales Connect. Defina las horas de envío para cada paso del correo electrónico o utilice el mismo tiempo que el primer correo electrónico al añadir personas.
 title: Programar una campaña
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '192'
 ht-degree: 3%
 
 ---

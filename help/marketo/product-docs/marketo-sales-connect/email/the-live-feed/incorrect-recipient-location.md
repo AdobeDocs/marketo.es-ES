@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352543
-description: 'Ubicación De Destinatario Incorrecta: Documentos De Marketo, Documentación Del Producto'
+description: Obtenga ayuda cuando la ubicación del destinatario sea incorrecta en Sales Connect. Corregir o actualizar si la ubicación de un contacto se muestra en la fuente en directo.
 title: Ubicación de destinatario incorrecta
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

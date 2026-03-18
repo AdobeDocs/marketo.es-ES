@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796464
-description: 'Información general sobre Sales Connect: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre Marketo Sales Connect y cómo genera participación en todo el ciclo de ventas. Utilice la fuente activa, los detalles de la persona y las campañas para conectar las ventas con el marketing.
 title: Información general sobre Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 17%
+source-wordcount: '254'
+ht-degree: 15%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796475
-description: Vista de detalles de persona - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la Vista de detalles de persona en Sales Connect. Acceda a los perfiles de contacto, el historial y la participación desde la pestaña Personas.
 title: Vista de detalle de persona
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '293'
 ht-degree: 3%
 
 ---

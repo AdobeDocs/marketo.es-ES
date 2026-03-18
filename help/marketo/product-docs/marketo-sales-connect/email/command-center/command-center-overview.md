@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: Información general del centro de comandos - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del Centro de comandos en Sales Connect. Administre sus tareas de correo electrónico, correo enviado y seguimientos en un solo lugar.
 title: Información general sobre el centro de comandos
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '588'
 ht-degree: 1%
 
 ---

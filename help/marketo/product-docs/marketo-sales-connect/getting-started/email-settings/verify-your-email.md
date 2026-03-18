@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746491
-description: 'Verificar el correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo verificar su correo electrónico en Sales Connect. Verificación por correo electrónico completa para que puedas enviar correos electrónicos de ventas seguidos.
 title: Verifique su correo electrónico
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

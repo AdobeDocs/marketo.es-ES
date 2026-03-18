@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352592
-description: 'Inserción de campos dinámicos: documentos de Marketo, documentación del producto'
+description: Aprenda a insertar campos dinámicos en plantillas de Sales Connect. Agregue el nombre, la empresa y otros campos de combinación en el editor de plantillas.
 title: Cómo insertar campos dinámicos
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '242'
 ht-degree: 4%
 
 ---

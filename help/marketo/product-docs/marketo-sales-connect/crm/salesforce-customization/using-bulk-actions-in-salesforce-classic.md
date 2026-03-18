@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: Uso de acciones masivas en  [!DNL Salesforce] Classic - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar acciones masivas en Salesforce Classic con Sales Connect. Insertar varios posibles clientes o contactos en Sales Connect a la vez.
 title: Uso de acciones masivas en  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---

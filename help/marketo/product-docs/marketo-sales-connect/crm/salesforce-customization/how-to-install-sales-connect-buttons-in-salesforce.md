@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352473
-description: Instalación de los botones de conexión de ventas en Salesforce - Documentos de Marketo - Documentación del producto
+description: Aprenda a instalar los botones de Conexión de ventas en Salesforce. Añada los botones Push to Sales Connect y otros botones al diseño de Salesforce.
 title: Cómo instalar botones de Sales Connect en Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 19%
+source-wordcount: '125'
+ht-degree: 18%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45416564
-description: Habilitar grabación de llamadas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar el registro de llamadas en Sales Connect. Active la grabación para el teléfono de ventas y cumpla con el consentimiento de dos partes.
 title: Habilitar la grabación de llamadas
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '119'
 ht-degree: 5%
 
 ---

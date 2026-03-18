@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Descripción de la ficha [!UICONTROL Equipo] - Documentos de Marketo - Documentación del producto
+description: Conozca la pestaña Equipo y las métricas de todo el equipo en Sales Connect. Vea los correos electrónicos enviados con plantillas, la hora de máxima participación, las ofertas cerradas y la tabla de clasificación de representantes.
 title: Explicación de la ficha [!UICONTROL Equipo]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

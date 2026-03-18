@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352541
-description: Sincronización de tareas de conexión de ventas con Salesforce por primera vez - Documentos de Marketo - Documentación del producto
+description: Aprenda a sincronizar las tareas de Sales Connect con Salesforce por primera vez. Configure la sincronización de tareas para que las tareas aparezcan en Salesforce.
 title: Sincronización de las tareas de Sales Connect con Salesforce por primera vez
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '264'
 ht-degree: 3%
 
 ---

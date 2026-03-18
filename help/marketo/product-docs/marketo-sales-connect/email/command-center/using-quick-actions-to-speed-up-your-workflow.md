@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357306
-description: 'Uso de acciones rápidas para acelerar el flujo de trabajo: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar acciones rápidas en Sales Connect para acelerar el flujo de trabajo. Complete tareas comunes desde el Centro de comandos con un solo clic.
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 8%
 
 ---

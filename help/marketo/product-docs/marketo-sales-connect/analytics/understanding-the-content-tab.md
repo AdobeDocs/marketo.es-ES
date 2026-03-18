@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: 'Explicación de la pestaña Contenido: Documentos de Marketo, documentación del producto'
+description: Comprenda las métricas de participación de plantillas y pestañas de contenido en Sales Connect. Vea el arma secreta, las plantillas de compromiso más altas y más bajas y los archivos adjuntos más importantes.
 title: Explicación de la pestaña Contenido
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---

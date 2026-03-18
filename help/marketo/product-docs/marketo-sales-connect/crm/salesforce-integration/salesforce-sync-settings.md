@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317669
-description: Configuración de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
+description: Comprender la configuración de sincronización de Salesforce para Sales Connect. Configure cómo se sincronizan los contactos, las actividades y los datos entre Sales Connect y Salesforce.
 title: Configuraciones de sincronización de Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---

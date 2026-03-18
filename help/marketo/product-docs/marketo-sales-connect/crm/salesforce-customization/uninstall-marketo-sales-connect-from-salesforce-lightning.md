@@ -1,11 +1,11 @@
 ---
-description: 'Desinstalación de Marketo Sales Connect desde Salesforce Lightning: Documentos de Marketo: documentación del producto'
+description: Aprenda a desinstalar Marketo Sales Connect de Salesforce Lightning. Elimine las personalizaciones y botones de Sales Connect de Lightning.
 title: Desinstalar Marketo Sales Connect desde Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 10%
+source-wordcount: '1199'
+ht-degree: 11%
 
 ---
 
@@ -81,7 +81,7 @@ A continuación se indica cómo desinstalar el paquete de Marketo Sales Connect 
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Seleccione los campos de conexión de ventas del área Campos seleccionados y haga clic en la flecha Eliminar. Haga clic en **Aceptar** cuando haya terminado.
+1. Seleccione los campos de conexión de ventas del área Campos seleccionados y haga clic en la flecha Eliminar. Haga clic en **Aceptar** cuando termine.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

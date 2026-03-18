@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: Descripción de la ficha [!UICONTROL Me] - Documentos de Marketo - Documentación del producto
+description: Conozca la pestaña Yo y las estadísticas de participación por correo electrónico en Sales Connect. Vea los correos electrónicos enviados, el uso de plantillas y los correos electrónicos más atractivos.
 title: Explicación de la ficha [!UICONTROL Me]
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

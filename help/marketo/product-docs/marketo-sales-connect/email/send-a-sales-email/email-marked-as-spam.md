@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352525
-description: Correo electrónico marcado como correo no deseado - Documentos de Marketo - Documentación del producto
+description: Obtén ayuda cuando tu correo electrónico de Sales Connect se haya marcado como correo no deseado. Aprenda a reducir las quejas por correo no deseado y mejorar la capacidad de envío.
 title: Correo electrónico marcado como correo no deseado
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---

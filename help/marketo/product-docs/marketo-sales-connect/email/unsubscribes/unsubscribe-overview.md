@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746161
-description: Información general sobre la cancelación de la suscripción - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las cancelaciones de suscripción en Sales Connect. Administre las exclusiones, cancele la suscripción a vínculos y sincronice las cancelaciones de suscripción con Salesforce.
 title: Información general de cancelación de suscripción
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '99'
 ht-degree: 4%
 
 ---

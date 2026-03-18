@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352540
-description: Prevención de las visualizaciones automáticas - Documentos de Marketo - Documentación del producto
+description: Aprenda a evitar las visualizaciones automáticas en Sales Connect. Evite contar sus propias aperturas al previsualizar o probar correos electrónicos.
 title: Evitar las autovisualizaciones
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---

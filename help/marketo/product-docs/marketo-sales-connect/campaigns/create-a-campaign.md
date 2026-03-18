@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: 'Creación de una campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una campaña de Conexión de ventas con pasos de correo electrónico, llamada, InMail y tareas personalizadas. Organice, programe y mida la extensión en un solo lugar.
 title: Creación de una campaña
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 

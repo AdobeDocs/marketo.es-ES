@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317338
-description: 'Dominios bloqueados: documentos de Marketo, documentación del producto'
+description: Aprenda a bloquear dominios en Sales Connect para evitar enviar correos electrónicos a la competencia o a trampas de correo no deseado.
 title: Dominios bloqueados
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Ayude a su equipo de ventas a alcanzar el éxito evitando que envíe correos ele
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. En la aplicación web, haga clic en el icono de engranaje y seleccione **[!UICONTROL Configuración]**.
 

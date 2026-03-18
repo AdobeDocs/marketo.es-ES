@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Momentos interesantes en Sales Connect - Documentos de Marketo - Documentación del producto
+description: Conozca los momentos interesantes de Sales Connect y Marketo. Descubra cómo la actividad de ventas crea momentos que fluyen al canal en directo.
 title: Momentos interesantes en Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---

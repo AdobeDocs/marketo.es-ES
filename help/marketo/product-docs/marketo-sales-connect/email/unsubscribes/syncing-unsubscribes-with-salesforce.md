@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: 'Sincronización de cancelaciones de suscripción con Salesforce: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo sincronizar las cancelaciones de suscripción de Sales Connect con Salesforce. Mantenga el estado de exclusión sincronizado para que no envíe por correo electrónico a los contactos de baja.
 title: Sincronizar cancelaciones de suscripción con Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---

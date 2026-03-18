@@ -1,11 +1,11 @@
 ---
-description: Aceleración de la conexión de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la limitación de conexiones de correo electrónico en Sales Connect. Comprenda los límites de envío y cómo la restricción protege su capacidad de envío de correo electrónico.
 title: Limitación de la conexión de correo electrónico
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---

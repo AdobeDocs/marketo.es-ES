@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355755
-description: 'Bloqueo de contenido: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo habilitar el bloqueo de contenido para restringir la edición de plantillas y campañas por parte de usuarios que no sean administradores.
 title: Bloqueo del contenido
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '112'
 ht-degree: 3%
 
 ---

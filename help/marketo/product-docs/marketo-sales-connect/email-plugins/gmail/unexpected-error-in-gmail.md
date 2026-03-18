@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352545
-description: 'Error inesperado en Gmail: documentos de Marketo: documentación del producto'
+description: Obtenga ayuda cuando vea un error inesperado en el complemento Sales Connect de Gmail. Solucione errores de conexión y complementos.
 title: Error inesperado en Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '101'
 ht-degree: 8%
 
 ---

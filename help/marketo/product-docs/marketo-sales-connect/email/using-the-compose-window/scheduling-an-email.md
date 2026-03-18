@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356568
-description: 'Programación de un correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo programar un correo electrónico en Sales Connect. Defina una fecha y una hora para que el correo electrónico rastreado se envíe desde la ventana de redacción.
 title: Programar un correo electrónico
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '148'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352622
-description: Omitir fines de semana - Documentos de Marketo - Documentación del producto
+description: Aprenda a omitir los fines de semana al automatizar las campañas de Sales Connect. Impida que los correos electrónicos de campaña se envíen el sábado o el domingo.
 title: Omitir fines de semana
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '80'
 ht-degree: 5%
 
 ---

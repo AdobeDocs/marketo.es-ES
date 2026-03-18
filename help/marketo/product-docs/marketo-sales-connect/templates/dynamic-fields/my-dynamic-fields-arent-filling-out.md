@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352602
-description: 'Mis campos dinámicos no se rellenan. Documentos de Marketo: documentación del producto'
+description: Obtenga ayuda cuando los campos dinámicos no se rellenen en Sales Connect. Solucione el problema de por qué los campos de combinación muestran datos en blanco o incorrectos.
 title: Mis campos dinámicos no se están rellenando
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '289'
 ht-degree: 4%
 
 ---

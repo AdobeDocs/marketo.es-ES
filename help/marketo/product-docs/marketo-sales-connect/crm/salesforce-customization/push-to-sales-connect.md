@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352477
-description: 'Insertar en  [!DNL Sales Connect] : documentos de Marketo: documentación del producto'
+description: Aprenda a utilizar el botón Insertar en Sales Connect de Salesforce. Añadir posibles clientes o contactos de Salesforce a Sales Connect con un solo clic.
 title: Insertar en  [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

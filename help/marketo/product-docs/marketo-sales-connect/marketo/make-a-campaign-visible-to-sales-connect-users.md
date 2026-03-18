@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
-description: 'Hacer que una campaña esté visible para los usuarios de Sales Connect: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo hacer que una campaña de Marketo sea visible para los usuarios de Sales Connect. Compartir campañas de marketing para que los vendedores puedan añadir posibles clientes desde Sales Connect.
 title: Hacer que una campaña esté visible para los usuarios de Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '124'
+ht-degree: 6%
 
 ---
 

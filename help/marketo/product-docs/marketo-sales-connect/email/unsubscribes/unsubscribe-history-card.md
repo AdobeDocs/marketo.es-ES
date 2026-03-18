@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746184
-description: Tarjeta Historial de cancelación de suscripción - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la tarjeta de historial de cancelación de suscripción en Sales Connect. Ver cuándo y cómo canceló la suscripción de un contacto en la vista de detalles de su persona.
 title: Tarjeta de historial de cancelación de suscripción
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 4%
+source-wordcount: '163'
+ht-degree: 3%
 
 ---
 

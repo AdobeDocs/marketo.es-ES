@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352547
-description: 'El complemento de Sales Connect no aparece en Gmail: Documentos de Marketo: documentación del producto'
+description: Obtén ayuda cuando el complemento de conexión de ventas no aparezca en Gmail. Solucionar problemas de instalación y compatibilidad de exploradores.
 title: El complemento de Sales Connect no aparece en Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---

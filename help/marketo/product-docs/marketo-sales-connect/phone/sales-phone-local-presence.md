@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: Presencia local del teléfono de ventas - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la presencia local de Sales Phone en Sales Connect. Mostrar un identificador de llamadas local al realizar llamadas salientes para mejorar las tasas de respuesta.
 title: Presencia local del teléfono de ventas
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081321
-description: Tipos de grupos - Documentos de Marketo - Documentación del producto
+description: Explicación de los tipos de grupos en Sales Connect. Obtenga información acerca de Mis grupos, grupos compartidos y cómo organizar contactos.
 title: Tipos de grupos
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 6%
+source-wordcount: '109'
+ht-degree: 5%
 
 ---
 

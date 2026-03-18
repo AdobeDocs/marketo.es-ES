@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745825
-description: Conformidad con Sales Connect y el RGPD - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre Sales Connect y el cumplimiento del RGPD. Descubra cómo Sales Connect admite los requisitos de privacidad de datos y consentimiento.
 title: Sales Connect y el cumplimiento del RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1355'
+source-wordcount: '1363'
 ht-degree: 8%
 
 ---

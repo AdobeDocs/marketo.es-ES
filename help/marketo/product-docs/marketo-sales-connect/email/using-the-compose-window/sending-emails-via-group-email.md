@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356584
-description: 'Envío de correos electrónicos por correo electrónico de grupo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar correos electrónicos mediante correo electrónico de grupo en Sales Connect. Envíe un correo electrónico a un grupo y realice un seguimiento de la participación por destinatario.
 title: Enviar correos electrónicos mediante correo electrónico de grupo
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '175'
+ht-degree: 5%
 
 ---
 

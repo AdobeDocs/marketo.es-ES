@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: Personalizar mensaje de vínculo de cancelación de suscripción - Documentos de Marketo - Documentación del producto
+description: Aprenda a personalizar el mensaje de vínculo de cancelación de suscripción en Sales Connect. Cambie el texto que ven los destinatarios para el vínculo de cancelación de suscripción.
 title: Personalizar mensaje de vínculo de cancelación de suscripción
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '215'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352475
-description: Instalación de los campos de eventos de Sales Connect en el historial de actividades - Documentos de Marketo - Documentación del producto
+description: Aprenda a instalar los campos de evento de Conexión de ventas en el historial de actividades de Salesforce. Añada campos personalizados para realizar un seguimiento de los eventos de Sales Connect.
 title: Instalación de campos de eventos de Sales Connect en el historial de actividades
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '268'
 ht-degree: 9%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: 'Cómo instalar personalizaciones en su zona protegida de Salesforce: Documentos de Marketo: documentación del producto'
+description: Aprenda a instalar las personalizaciones de Sales Connect en su zona protegida de Salesforce. Implemente botones y campos en una zona protegida para realizar pruebas.
 title: Cómo instalar personalizaciones en la zona protegida de Salesforce
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 21%
+source-wordcount: '81'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >

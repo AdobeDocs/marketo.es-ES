@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746690
-description: 'Tipos de pasos de campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de los tipos de pasos de campaña en Sales Connect. Agregue los pasos Correo electrónico, Llamada, InMail o Tarea personalizada para crear campañas multicanal.
 title: Tipos de pasos de la campaña
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 6%
+source-wordcount: '193'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796471
-description: 'Información general de Live Feed: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre Live Feed en Sales Connect. Vea la participación en tiempo real en sus correos electrónicos y contenido de marketing y ventas.
 title: Información general de la fuente en directo
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 2%
+source-wordcount: '402'
+ht-degree: 1%
 
 ---
 
@@ -71,7 +71,7 @@ Ver las personas principales (ordenadas de mayor a menor) clasificadas por puntu
   <tr>
    <td>
     <div>
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td><p>Alguien ha visto su correo electrónico</p></td>
   </tr>

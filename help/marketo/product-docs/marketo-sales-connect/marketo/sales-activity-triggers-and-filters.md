@@ -1,12 +1,12 @@
 ---
-description: Déclencheur y filtros de actividades de ventas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los déclencheur y filtros de actividad de ventas en Marketo. Utilice la actividad de Conexión de ventas para filtrar y almacenar en déclencheur las campañas inteligentes.
 title: Activador y filtros de actividades de ventas
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 

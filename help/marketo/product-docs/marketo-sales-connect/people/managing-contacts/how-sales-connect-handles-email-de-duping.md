@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352514
-description: 'Cómo gestiona Sales Connect la desduplicación de correo electrónico: Documentos de Marketo: documentación del producto'
+description: Descubra cómo Sales Connect gestiona la desduplicación de correo electrónico. Obtenga información sobre cómo se combinan o administran los contactos duplicados al sincronizar.
 title: Cómo gestiona Sales Connect la eliminación de duplicados de correo electrónico
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

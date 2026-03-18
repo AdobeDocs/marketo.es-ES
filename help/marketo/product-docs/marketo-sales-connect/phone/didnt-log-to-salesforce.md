@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: No se ha iniciado sesión en Salesforce - Documentos de Marketo - Documentación del producto
+description: Obtenga ayuda cuando la actividad de Sales Connect no haya iniciado sesión en Salesforce. Solucione el problema por el que los correos electrónicos, las llamadas o las tareas no se sincronizan.
 title: No se ha registrado en Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 
