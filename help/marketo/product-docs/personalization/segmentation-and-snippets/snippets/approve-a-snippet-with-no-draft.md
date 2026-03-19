@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: 'Aprobar un fragmento sin borrador: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar un fragmento con las opciones Sin borrador. Elija Actualizar todo o Crear borradores al aprobar para controlar cómo se actualizan los recursos que utilizan el fragmento.
 title: Aprobar un fragmento sin borrador
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 4%
 
 ---

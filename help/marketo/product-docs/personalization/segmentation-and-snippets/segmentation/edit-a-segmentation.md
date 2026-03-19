@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359474
-description: 'Edición de una segmentación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar una segmentación creando un borrador y cambiando segmentos o reglas. Agregue, edite o elimine segmentos y defina las reglas de la lista inteligente en el borrador.
 title: Editar una segmentación
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 

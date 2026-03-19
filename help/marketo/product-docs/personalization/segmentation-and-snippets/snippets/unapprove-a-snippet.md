@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359516
-description: 'Desaprobar un fragmento: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo desaprobar un fragmento para realizar cambios o eliminarlo. Elimine asociaciones de recursos y, a continuación, utilice Acciones de fragmento de código para anular la aprobación y establecer como estado de borrador.
 title: No aprobar un fragmento
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 

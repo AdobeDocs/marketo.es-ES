@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359510
-description: 'Eliminación de una segmentación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo eliminar una segmentación que ya no necesita. Elimine asociaciones de recursos, desapruebe la segmentación y utilice Acciones de segmentación para eliminarla.
 title: Eliminar una segmentación
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '119'
 ht-degree: 5%
 
 ---

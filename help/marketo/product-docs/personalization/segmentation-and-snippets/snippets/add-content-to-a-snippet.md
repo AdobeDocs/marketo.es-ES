@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359496
-description: 'Añadir contenido a un fragmento de código: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar tokens, imágenes, archivos o texto enriquecido a un fragmento de código. Utilice el editor de fragmentos de código de Design Studio para añadir los elementos Token, Imagen/Archivo y Texto.
 title: Añadir contenido a un fragmento
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '220'
 ht-degree: 5%
 
 ---

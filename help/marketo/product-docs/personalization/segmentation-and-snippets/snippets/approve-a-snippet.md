@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: 'Aprobar un fragmento: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar un fragmento para que se pueda utilizar en correos electrónicos y páginas de aterrizaje. Utilice Design Studio y Acciones de fragmento para cambiar el estado de Borrador a Aprobado.
 title: Aprobar un fragmento
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 

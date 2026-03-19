@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: 'Aprobación de una segmentación: documentos de Marketo, documentación del producto'
+description: Aprenda a aprobar una segmentación para que se pueda utilizar en el contenido dinámico y la creación de informes. Utilice las acciones de base de datos y segmentación para aprobar después de definir las reglas de segmentos.
 title: Aprobar una segmentación
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '249'
 ht-degree: 2%
 
 ---

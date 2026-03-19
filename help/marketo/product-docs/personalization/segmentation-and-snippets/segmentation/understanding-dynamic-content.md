@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: 'Explicación del contenido dinámico: Documentos de Marketo, documentación del producto'
+description: Obtenga información acerca del contenido dinámico de Marketo para personalizar páginas de aterrizaje y correos electrónicos por segmento. Comprenda la segmentación, los bloques de contenido dinámico y los fragmentos reutilizables.
 title: Explicación del contenido dinámico
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---

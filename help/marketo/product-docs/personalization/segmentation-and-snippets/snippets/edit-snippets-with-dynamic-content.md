@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: 'Edición de fragmentos con contenido dinámico: documentos de Marketo, documentación del producto'
+description: Aprenda a editar fragmentos de código con contenido dinámico mediante la segmentación. Añada Segment By a un fragmento y aplique contenido diferente por segmento en Design Studio.
 title: Editar fragmentos de código con contenido dinámico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '135'
+ht-degree: 7%
 
 ---
 
