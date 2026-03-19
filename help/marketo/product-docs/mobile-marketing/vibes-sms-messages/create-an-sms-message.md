@@ -1,12 +1,12 @@
 ---
-description: 'Creación de un mensaje SMS: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un mensaje SMS. Añada texto, tokens y vínculos en el editor y siga los límites de caracteres y los requisitos de cumplimiento.
 title: Crear un mensaje SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 1%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 'Comportamiento esperado: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca del comportamiento esperado para Predictive Audiences en Marketo Sky. Comprenda la privacidad de datos, el tiempo de activación y los límites de filtro.
 title: Comportamiento esperado
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---

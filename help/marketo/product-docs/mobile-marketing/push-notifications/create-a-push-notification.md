@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: 'Creación de una notificación push: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una notificación push. Añádalo como un recurso local en el programa y, a continuación, configúrelo y adáptelo a su aplicación móvil.
 title: Crear una notificación push
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

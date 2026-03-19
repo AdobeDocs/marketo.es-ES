@@ -1,12 +1,12 @@
 ---
-description: 'Adición de un paso de flujo para SMS: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir pasos de flujo de SMS a las campañas inteligentes. Utilice Enviar mensaje SMS, Suscribirse a la lista de vibraciones o Cancelar la suscripción a la lista de vibraciones.
 title: Añadir un paso de flujo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: 'Seleccionar el mensaje en la aplicación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo seleccionar el mensaje en la aplicación para su programa. Elija en el menú desplegable y, a continuación, edite, acceda a la vista previa o continúe con la programación.
 title: Previsualizar el mensaje en la aplicación
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783141
-description: 'Envío de una notificación push de ejemplo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo enviar una muestra de notificaciones push para comprobar que funciona. Seleccione un dispositivo de prueba o agregue uno y, a continuación, envíe la muestra desde el editor.
 title: Enviar una muestra de notificación push
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '287'
 ht-degree: 3%
 
 ---

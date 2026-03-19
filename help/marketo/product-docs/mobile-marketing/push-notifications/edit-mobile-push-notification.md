@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512460
-description: 'Editar notificaciones push móviles: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo editar una notificación push móvil. Abra Actividades de marketing, seleccione el recurso push y utilice Editar borrador para realizar cambios.
 title: Editar notificación push para dispositivos móviles
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 37%
+source-wordcount: '51'
+ht-degree: 27%
 
 ---
 

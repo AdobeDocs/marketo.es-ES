@@ -1,12 +1,12 @@
 ---
-description: 'Uso de opciones de SMS en una campaña inteligente: documentos de Marketo, documentación del producto'
+description: Comprenda los déclencheur, filtros y pasos de flujo de SMS en campañas inteligentes. Segmente y déclencheur campañas usando la actividad y las listas de SMS de Vibes.
 title: Usar opciones de SMS en una campaña inteligente
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 6%
+source-wordcount: '415'
+ht-degree: 7%
 
 ---
 

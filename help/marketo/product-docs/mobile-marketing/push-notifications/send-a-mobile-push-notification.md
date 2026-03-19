@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: 'Envío de una notificación push móvil: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo enviar una notificación push móvil. Utilice una campaña inteligente con Smart List y Flow para programar la notificación push a su audiencia.
 title: Enviar una notificación push para dispositivos móviles
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 20%
+source-wordcount: '113'
+ht-degree: 22%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100636
-description: 'Añadir imágenes de mensajes en la aplicación: documentos de Marketo, documentación del producto'
+description: Aprenda a añadir y personalizar imágenes en el mensaje en la aplicación. Seleccione en Design Studio, configure el ajuste, el borde y pulse acciones por plataforma.
 title: Añadir imágenes de mensaje en la aplicación
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---

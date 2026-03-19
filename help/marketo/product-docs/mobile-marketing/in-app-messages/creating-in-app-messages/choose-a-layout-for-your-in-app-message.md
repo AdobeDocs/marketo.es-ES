@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: 'Elegir un diseño para el mensaje en la aplicación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre los seis diseños de mensajes en la aplicación. Elija las plantillas emergentes o de pantalla completa para crear su mensaje con imágenes y botones.
 title: Elegir un diseño para el mensaje en la aplicación
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---

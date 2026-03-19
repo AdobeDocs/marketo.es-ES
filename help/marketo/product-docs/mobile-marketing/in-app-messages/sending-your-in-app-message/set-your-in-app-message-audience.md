@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617431
-description: 'Definición de la audiencia de los mensajes en la aplicación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo establecer la audiencia de mensajes en la aplicación. Edite la lista inteligente, elija aplicación y déclencheur, defina el límite de visualización y añada filtros.
 title: Establecer la audiencia del mensaje en la aplicación
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: 'Uso de mensajes SMS de Vibes en Déclencheur y filtros de listas inteligentes: Documentos de Marketo: documentación del producto'
+description: Aprenda a utilizar los déclencheur y filtros SMS de Vibes en campañas inteligentes. Defina cuándo enviar o filtrar por suscripción y pertenencia a listas.
 title: Usar mensajes SMS de Vibes en Déclencheur y filtros de listas inteligentes
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 

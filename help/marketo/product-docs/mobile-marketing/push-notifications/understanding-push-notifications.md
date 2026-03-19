@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511518
-description: 'Explicación de las notificaciones push: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre las notificaciones push en Marketo. Comprenda la configuración de los administradores y desarrolladores, y luego cree, configure y envíe campañas inteligentes.
 title: Entender las notificaciones push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---

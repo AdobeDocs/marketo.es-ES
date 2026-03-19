@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096523
-description: 'Ver el tablero de notificaciones push: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo ver el panel de notificaciones push. Consulte Total de mensajes enviados, Total de toques y Deterioro de toques para sus campañas push.
 title: Ver el tablero de notificaciones push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 12%
+source-wordcount: '141'
+ht-degree: 11%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 'Creación de un mensaje en la aplicación: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un mensaje en la aplicación. Añádalo como un recurso local en las actividades de marketing, asígnele un nombre y, a continuación, elija un diseño y cree su mensaje.
 title: Crear un mensaje en la aplicación
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 

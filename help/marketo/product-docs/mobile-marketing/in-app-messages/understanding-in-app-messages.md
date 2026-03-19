@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: 'Explicación de los mensajes en la aplicación: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre los mensajes en la aplicación para atraer a los usuarios con ofertas y recordatorios. Cree y envíe mensajes que enlacen en profundidad o descarten con un solo toque.
 title: Explicación de los mensajes en la aplicación
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---

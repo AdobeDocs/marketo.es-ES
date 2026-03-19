@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: 'Configuración del botón Descartar y aprobación del mensaje: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo configurar el botón de despido y aprobar el mensaje en la aplicación. Configure el color, el diseño, las acciones de toque y, a continuación, previsualice y apruebe para el lanzamiento.
 title: Configuración del botón Descartar y aprobación del mensaje
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---

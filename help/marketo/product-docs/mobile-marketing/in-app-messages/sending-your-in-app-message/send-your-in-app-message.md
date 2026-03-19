@@ -1,12 +1,12 @@
 ---
-description: 'Envío De Un Mensaje En La Aplicación: Documentos De Marketo, Documentación Del Producto'
+description: Obtenga información sobre cómo enviar un mensaje en la aplicación. Cree un programa, utilice el Panel de control de Campaign para definir la audiencia y el mensaje y, a continuación, apruebe el lanzamiento.
 title: Envíe el mensaje en la aplicación
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 5%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 

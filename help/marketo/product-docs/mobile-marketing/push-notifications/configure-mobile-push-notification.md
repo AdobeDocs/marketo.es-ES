@@ -1,12 +1,12 @@
 ---
-description: 'Configuración de notificaciones push móviles: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo configurar una notificación push móvil. Establezca la aplicación, envíe mensajes de texto, pulse acciones y vínculos profundos y apruebe el envío.
 title: Configurar notificación push para dispositivos móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 4%
+source-wordcount: '476'
+ht-degree: 5%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 4%
    >
    >Si el mensaje push solo se aplica a una plataforma (por ejemplo, iOS), puede excluir la otra plataforma deslizando manualmente su selector a **Deshabilitado**.
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -82,7 +82,7 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370503
-description: 'Programación Del Mensaje En La Aplicación: Documentos De Marketo, Documentación Del Producto'
+description: Obtenga información sobre cómo programar el mensaje en la aplicación. Establezca una fecha y hora de inicio futuras o ejecútelas inmediatamente, con una fecha de finalización opcional.
 title: Programar el mensaje en la aplicación
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 

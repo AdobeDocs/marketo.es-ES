@@ -1,13 +1,13 @@
 ---
-description: 'Añadir vibraciones como servicio de LaunchPoint: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo añadir vibraciones como servicio de LaunchPoint. Introduzca las credenciales en Administración para habilitar SMS y utilizar la actividad de SMS en Marketo Engage.
 title: Añadir Vibes como un servicio de LaunchPoint
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 10%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Puede enviar mensajes SMS a las personas incluidas en sus campañas de SMS de Vi
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >
