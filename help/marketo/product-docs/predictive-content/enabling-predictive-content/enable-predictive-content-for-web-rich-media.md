@@ -47,7 +47,7 @@ Una vez que haya preparado el título, la descripción y la imagen del contenido
 
 ## Personalice el código JavaScript e incrústelo en su sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web, en la ubicación donde desee que aparezca la plantilla.
 
