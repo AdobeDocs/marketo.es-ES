@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: 'Habilitar contenido predictivo en correos electrónicos: documentos de Marketo, documentación del producto'
+description: Aprenda a hacer que las imágenes de correo electrónico sean predictivas con la inteligencia artificial aplicada al contenido después de aprobar y editar los títulos. Abra el editor de correo electrónico 2.0, habilite cada imagen, elija categorías, previsualice y finalice.
 title: Habilitar el contenido predictivo en correos electrónicos
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '411'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: 'Habilitar la detección de contenido: documentos de Marketo, documentación del producto'
+description: Aprenda a habilitar la detección de contenido para que el contenido predictivo detecte y etiquete automáticamente el contenido de su sitio. Realice un seguimiento de vistas en PDF, vídeos y mucho más para ver las recomendaciones.
 title: Habilitar detección de contenido
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---

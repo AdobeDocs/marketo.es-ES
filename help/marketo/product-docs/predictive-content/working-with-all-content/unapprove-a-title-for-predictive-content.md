@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: 'Desaprobar un título para contenido predictivo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo desaprobar un título para contenido predictivo de la página Todo el contenido o Editar contenido emergente. Elimine el título de la página Contenido predictivo cuando sea necesario.
 title: No aprobar un título para el contenido predictivo
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

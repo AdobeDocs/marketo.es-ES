@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385938
-description: 'Edición de contenido predictivo para correos electrónicos: documentos de Marketo, documentación del producto'
+description: Aprenda a configurar contenido predictivo para correos electrónicos con imágenes, etiquetas de botones y categorías. Habilite el contenido aprobado para correo electrónico en el editor de contenido predictivo.
 title: Editar contenido predictivo para correos electrónicos
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 5%
+source-wordcount: '255'
+ht-degree: 4%
 
 ---
 

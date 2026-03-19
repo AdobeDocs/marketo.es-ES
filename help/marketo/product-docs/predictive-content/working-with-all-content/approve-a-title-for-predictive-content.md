@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: 'Aprobar un título para contenido predictivo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo aprobar un título para contenido predictivo desde la página Todo el contenido o desde la ventana emergente Editar contenido. Añada contenido aprobado a la página Contenido predictivo para obtener recomendaciones.
 title: Aprobar un título para el contenido predictivo
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '166'
+ht-degree: 7%
 
 ---
 

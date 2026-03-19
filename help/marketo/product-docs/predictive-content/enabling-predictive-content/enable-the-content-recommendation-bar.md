@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720108
-description: 'Habilitar la barra de recomendaciones de contenido: documentos de Marketo, documentación del producto'
+description: Aprenda a habilitar y aplicar estilo a la barra de recomendaciones de contenido con análisis predictivos para cada dirección URL. Use Configuración de contenido para activar y desactivar páginas y personalizar colores y rutas.
 title: Habilitar la barra de recomendaciones de contenido
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---

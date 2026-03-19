@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: Configuración de objetivo de algoritmo - Documentos de Marketo - Documentación del producto
+description: Aprenda a establecer el objetivo del algoritmo de contenido predictivo en Clics o Conversiones en la configuración de contenido. Alinee la IA con sus objetivos empresariales para maximizar el rendimiento del contenido.
 title: Configuración de objetivos del algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 10%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 

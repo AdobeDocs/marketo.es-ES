@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: 'Explicación del contenido predictivo: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de títulos de contenido predictivo aprobados, fuentes habilitadas, clics y datos de conversión. Utilice filtros y fechas para comparar el rendimiento de las recomendaciones en la web y el correo electrónico.
 title: Comprensión del contenido predictivo
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---

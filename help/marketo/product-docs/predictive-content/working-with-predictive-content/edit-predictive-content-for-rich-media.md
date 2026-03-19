@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: 'Edición de contenido predictivo para medios enriquecidos: documentos de Marketo, documentación del producto'
+description: Aprenda a configurar contenido predictivo para medios enriquecidos con descripciones, imágenes sRGB y categorías. Habilitar contenido aprobado para recomendaciones web.
 title: Editar contenido predictivo para medios enriquecidos
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '228'
 ht-degree: 6%
 
 ---

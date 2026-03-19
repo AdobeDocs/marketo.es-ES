@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385057
-description: Configurar categorías - Documentos de Marketo - Documentación del producto
+description: Configure categorías en Contenido predictivo para agrupar los resultados predictivos en la web o por correo electrónico. Cree etiquetas de categoría en Configuración de contenido para facilitar el filtrado y la búsqueda.
 title: Configurar categorías
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 4%
+source-wordcount: '169'
+ht-degree: 3%
 
 ---
 

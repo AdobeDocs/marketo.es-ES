@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384651
-description: 'Añadir contenido nuevo: documentos de Marketo, documentación del producto'
+description: Añada contenido nuevo manualmente a la página Todo el contenido en Contenido predictivo. Introduzca el título, la dirección URL, la imagen y las categorías y, a continuación, apruebe las recomendaciones.
 title: Añadir nuevo contenido
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 

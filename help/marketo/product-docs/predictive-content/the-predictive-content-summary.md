@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384634
-description: Resumen del contenido predictivo - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del tablero Resumen de contenido predictivo y sus tablas, gráficos y métricas clave. Vea el contenido principal, las tasas de conversión, las tendencias y la participación de la categoría para optimizar las recomendaciones.
 title: Resumen del contenido predictivo
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 4%
+source-wordcount: '204'
+ht-degree: 3%
 
 ---
 
