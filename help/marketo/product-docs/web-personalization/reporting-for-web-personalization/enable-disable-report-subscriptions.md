@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949162
-description: Habilitar/deshabilitar suscripciones a informes - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar o deshabilitar las suscripciones a informes para correo electrónico de Web Personalization. Seleccione informes y frecuencias en Configuración de usuario para personalizar las notificaciones automatizadas por correo electrónico.
 title: Habilitar/deshabilitar suscripciones a informes
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 17%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 

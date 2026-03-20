@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: 'Sincronización de campos personalizados con el Explorador de ingresos: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo sincronizar campos personalizados con el explorador de ingresos en Marketo Engage mediante la sincronización de campos personalizados con los ingresos. Utilice esta guía para completar el siguiente paso.
 title: Sincronizar campos personalizados con el explorador de ingresos
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 5%
+source-wordcount: '150'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya a la sección **[!UICONTROL Admin]**.
 

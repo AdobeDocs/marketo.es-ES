@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Información general sobre la contribución de las perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la vista de contribución de Performance Insights que evalúa la contribución de marketing a los ingresos mediante la participación, la canalización y las métricas de ingresos. Vea el rendimiento de canales y programas con gráficos de anillo y barras.
 title: Información general sobre contribución de perspectivas de rendimiento
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---

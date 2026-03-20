@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: Información general sobre las perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre las perspectivas de correo electrónico que proporcionan análisis sólidos a partir de los datos de correo electrónico históricos a través de las secciones Análisis y Envíos. Explore las métricas de entrega y participación con opciones de filtrado avanzadas.
 title: Información general de perspectivas del correo electrónico
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '233'
 ht-degree: 3%
 
 ---

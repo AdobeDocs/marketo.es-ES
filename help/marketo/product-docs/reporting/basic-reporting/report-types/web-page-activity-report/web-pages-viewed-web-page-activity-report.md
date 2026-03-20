@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: Páginas Web Vistas, Informe De Actividad De La Página Web - Documentos De Marketo - Documentación Del Producto
+description: Obtenga información sobre las páginas web visualizadas, el informe de actividad de páginas web en Marketo Engage, incluidas las páginas web visualizadas y la página web. Utilice esta guía para completar el siguiente paso.
 title: Páginas web vistas, informe de actividad de la página web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 11%
 
 ---
 

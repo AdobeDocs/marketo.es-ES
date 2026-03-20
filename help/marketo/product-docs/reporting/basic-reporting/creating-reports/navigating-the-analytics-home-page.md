@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: Navegación por la página de inicio de Analytics - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo navegar por la página de inicio de Analytics para acceder a diferentes tipos de informes y volver a la vista Inicio. Seleccione los tipos de informes y administre su espacio de trabajo de informes.
 title: Navegación por la página principal de análisis
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 16%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 

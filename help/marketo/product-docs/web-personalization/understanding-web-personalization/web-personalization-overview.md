@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571900
-description: 'Información general de Web Personalization: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de las funciones de Web Personalization, incluidas campañas web, marketing web basado en cuentas, redireccionamiento de sitios web y IA de contenido. Empiece a utilizar experiencias web y perspectivas de visitantes personalizadas.
 title: Información general de la personalización web
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '866'
 ht-degree: 1%
 
 ---
@@ -163,7 +163,7 @@ La página Tiempo real se divide en 6 tablas informativas con detalles de visita
    <td colspan="1">La URL de las páginas que están viendo los visitantes en el sitio</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><strong>Referencias principales de </strong></td>
+   <td colspan="1" rowspan="1"><strong>Referencias principales de [!UICONTROL]</strong></td>
    <td colspan="1" rowspan="1">Dirección URL de referencia que trajo al visitante a su sitio</td>
   </tr>
  </tbody>

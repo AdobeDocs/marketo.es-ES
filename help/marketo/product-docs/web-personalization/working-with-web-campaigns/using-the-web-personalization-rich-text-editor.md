@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719179
-description: 'Uso del editor de texto enriquecido de Personalization web: documentos de Marketo, documentación del producto'
+description: Aprenda a utilizar el editor de texto enriquecido de personalización web en Marketo Engage mediante la personalización web de dnl. Dé el siguiente paso con seguridad.
 title: Uso del editor de texto enriquecido de la personalización web
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ Los iconos importantes del editor de texto enriquecido incluyen:
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>Editar HTML Source</strong></td>
    <td colspan="1">Permite ver el código fuente de HTML.</td>
   </tr>

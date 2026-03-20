@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359971
-description: Informe de actividad de página web - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los informes de actividad de página web que muestran quién visita el sitio web con información detallada sobre el visitante. Muestre personas conocidas o anónimas y realice un seguimiento de las vistas de página, las páginas de entrada y los referentes.
 title: Informe de actividad de la página web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 6%
+source-wordcount: '344'
+ht-degree: 5%
 
 ---
 

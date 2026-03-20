@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: Filtrado en perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo filtrar los datos de Performance Insights por listas de cuentas ABM, atributos personalizados, tipo de oportunidad, etiquetas de programa y espacio de trabajo. Aplique varios filtros para consultar información específica y actualizar gráficos.
 title: Filtrar en perspectivas de rendimiento
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '331'
 ht-degree: 3%
 
 ---

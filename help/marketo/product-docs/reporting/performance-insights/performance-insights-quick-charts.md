@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: Gráficos rápidos de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear y guardar gráficos rápidos en Performance Insights para vistas de gráficos utilizados con frecuencia. Guarde hasta 20 gráficos personalizados con filtros y métricas específicos para acceder rápidamente.
 title: Gráficos rápidos de perspectivas de rendimiento
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 3%
+source-wordcount: '207'
+ht-degree: 2%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Explicación de los modelos de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los modelos de ingresos en Marketo Engage, incluidos los modelos de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Explicación de los modelos de ingresos
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # Explicación de los modelos de ingresos {#understanding-revenue-models}
 
-Los modelos del ciclo de ingresos llevan el marketing al siguiente nivel. Modelan todas las etapas de todo el canal de ingresos, desde la primera vez que interactúa con un posible cliente hasta que el posible cliente es un cliente propio.
+Los modelos del ciclo de ingresos llevan el marketing al siguiente nivel. Modelan todas las etapas de todo el funnel de ingresos, desde la primera vez que interactúa con un posible cliente hasta que el posible cliente es un cliente propio.
 
 ## Modelo mental (cómo pensar en esto) {#mental-model-how-to-think-about-this-thing}
 

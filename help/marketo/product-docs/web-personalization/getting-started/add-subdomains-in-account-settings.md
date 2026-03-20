@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727870
-description: 'Adición de subdominios en la configuración de la cuenta: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar subdominios en la configuración de cuenta en Marketo Engage mediante la adición de subdominios en la configuración de cuenta. Utilice esta guía para completar el siguiente paso.
 title: Añadir subdominios en la configuración de la cuenta
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---

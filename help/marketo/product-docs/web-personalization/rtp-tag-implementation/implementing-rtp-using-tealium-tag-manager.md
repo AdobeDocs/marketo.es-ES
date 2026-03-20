@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
-description: 'Implementación de RTP con Tealium Tag Manager: Documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la implementación de rtp con el administrador de etiquetas de telio en Marketo Engage, incluida la implementación de rtp con dnl. Utilice esta guía para completar el siguiente paso.
 title: Implementación de RTP mediante Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '232'
+ht-degree: 3%
 
 ---
 

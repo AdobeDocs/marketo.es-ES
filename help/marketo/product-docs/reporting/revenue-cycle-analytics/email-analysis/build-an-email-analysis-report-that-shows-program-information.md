@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: Creación de un informe de análisis de correo electrónico que muestre la información del programa - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un informe de análisis de correo electrónico que muestre información del programa en Marketo Engage mediante la creación de un correo electrónico. Utilice esta guía para completar el siguiente paso.
 title: Creación de un informe de análisis de correo electrónico que muestre información del programa
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '165'
+ht-degree: 12%
 
 ---
 

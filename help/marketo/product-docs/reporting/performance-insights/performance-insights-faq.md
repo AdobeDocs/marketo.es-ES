@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979858
-description: Preguntas frecuentes sobre las perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Encuentre respuestas a las preguntas más frecuentes acerca de las perspectivas de rendimiento, incluidas la configuración de atribución, la visibilidad del programa, la asignación de oportunidades y los requisitos de configuración. Comprenda cómo funciona MPI con su CRM y análisis.
 title: Preguntas frecuentes sobre perspectivas de rendimiento
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Sí. [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pu
 
 ## Si no utilizo oportunidades, ¿puedo seguir utilizando MPI? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-MPI está diseñado para permitirle medir el rendimiento del programa desde la parte superior del canal hasta el impacto en los ingresos. Si no utiliza las oportunidades, aún podrá hacer lo siguiente:
+MPI está diseñado para permitirle medir el rendimiento del programa desde la parte superior de funnel hasta el impacto en los ingresos. Si no utiliza las oportunidades, aún podrá hacer lo siguiente:
 
 * Vea el rendimiento de sus programas de nutrición para la participación de la audiencia.
 * Vea el rendimiento de sus programas de adquisición de posibles clientes.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: Resultados De Gráficos Del Explorador De Ingresos - Documentos De Marketo - Documentación Del Producto
+description: Obtenga información sobre los resultados de gráficos del explorador de ingresos en Marketo Engage, incluidos los resultados de gráficos de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Gráficos de resultados desde el explorador de ingresos
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---

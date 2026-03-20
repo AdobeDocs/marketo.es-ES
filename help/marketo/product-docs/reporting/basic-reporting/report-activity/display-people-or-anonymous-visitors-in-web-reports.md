@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Mostrar personas o visitantes anónimos en informes web - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la visualización de personas o visitantes anónimos en informes web en Marketo Engage, incluidas las personas o los usuarios mostrados. Utilice esta guía para completar el siguiente paso.
 title: Mostrar personas o visitantes anónimos en los informes web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 9%
 
 ---
 

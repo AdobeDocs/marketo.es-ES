@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: 'Clonar un informe en informes de grupo: documentos de Marketo, documentación del producto'
+description: Aprenda a clonar informes de Mis informes a los informes de grupo para que sean visibles para todos los usuarios del espacio de trabajo. Comparta informes con su equipo mediante la opción Clonar a.
 title: Clonar un informe en informes de grupo
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 10%
+source-wordcount: '129'
+ht-degree: 9%
 
 ---
 

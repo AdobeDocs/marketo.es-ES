@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
-description: Creación de un analizador de programas - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear un analizador de programas en Marketo Engage mediante la creación de un analizador de programas create-a-program-analyser. Utilice esta guía para completar el siguiente paso.
 title: Creación de un analizador de programas
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 2%
+source-wordcount: '304'
+ht-degree: 1%
 
 ---
 

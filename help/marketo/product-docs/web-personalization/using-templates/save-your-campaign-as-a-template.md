@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949170
-description: 'Guarde la campaña como plantilla: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo guardar la campaña como plantilla en Marketo Engage, incluido cómo guardar la campaña como plantilla. Utilice esta guía para completar el siguiente paso.
 title: Guardar la campaña como una plantilla
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 12%
 
 ---
 

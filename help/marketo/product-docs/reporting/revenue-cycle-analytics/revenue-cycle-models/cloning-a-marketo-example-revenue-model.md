@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: 'Clonación de un modelo de ingresos de ejemplo de Marketo: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo clonar un modelo de ingresos de ejemplo de marketing en Marketo Engage, incluida la clonación de ingresos de ejemplo de marketing. Utilice esta guía para completar el siguiente paso.
 title: Clonación de un modelo de ingresos de ejemplo de Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '95'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098884
-description: 'Filtrado De Campañas Web: Documentos De Marketo: Documentación Del Producto'
+description: Obtenga información sobre cómo filtrar campañas web en Marketo Engage mediante el filtrado de campañas web filter-web-campaigns. Utilice esta guía para completar el siguiente paso.
 title: Filtrar campañas web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 6%
+source-wordcount: '113'
+ht-degree: 7%
 
 ---
 

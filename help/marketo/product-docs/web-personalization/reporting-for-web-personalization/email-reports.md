@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719338
-description: Informes de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los informes de correo electrónico automatizados para Web Personalization, que incluyen informes de Organizaciones, Personas, Campañas de mayor rendimiento e Informes de resumen. Personalice los informes que recibirá en Configuración de usuario.
 title: Informes de correo electrónico
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---

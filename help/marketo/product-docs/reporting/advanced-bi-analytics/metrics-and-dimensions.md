@@ -1,12 +1,12 @@
 ---
-description: 'Métricas y dimensiones: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre las métricas y dimensiones disponibles para los informes avanzados de BI Analytics, incluidos el análisis de correo electrónico, posibles clientes, programas y oportunidades. Cree informes personalizados con estos elementos de datos.
 title: Métricas y dimensiones
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 27%
+source-wordcount: '1058'
+ht-degree: 26%
 
 ---
 
@@ -318,7 +318,7 @@ A continuación encontrará todas las métricas y dimensiones disponibles para e
             <li>Partición de leads</li>
             <li>Registrar tipo de Source</li>
             <li>Suscripción cancelada</li>
-            <li>Dirección de email</li>
+            <li>Correo electrónico</li>
             <li>Correo electrónico no válido</li>
             <li>Email del propietario del lead</li>
             <li>Cargo del propietario del lead</li>

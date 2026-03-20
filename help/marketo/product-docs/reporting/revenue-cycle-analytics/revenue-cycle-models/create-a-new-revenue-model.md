@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: Creación de un nuevo modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un nuevo modelo de ingresos en Marketo Engage mediante Crear un nuevo modelo de ingresos crear un nuevo modelo de ingresos. Dé el siguiente paso con seguridad.
 title: Crear un nuevo modelo de ingresos
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 7%
 
 ---
 

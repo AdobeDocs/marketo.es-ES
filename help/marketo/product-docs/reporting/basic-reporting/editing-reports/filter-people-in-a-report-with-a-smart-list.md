@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: 'Filtrado de personas en un informe con una lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo filtrar personas en informes mediante listas inteligentes para reducir los resultados según atributos de persona específicos. Aplique filtros en la pestaña Smart List para varios tipos de informes.
 title: Filtrar personas en un informe con una lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 37%
+source-wordcount: '147'
+ht-degree: 34%
 
 ---
 

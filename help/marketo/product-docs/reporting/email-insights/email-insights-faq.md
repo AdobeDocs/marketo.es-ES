@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: Preguntas frecuentes sobre las perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Encuentre respuestas a las preguntas más frecuentes acerca de las Perspectivas de correo electrónico, incluidos cálculos de métricas, dimensiones personalizadas y filtrado de dispositivos. Comprenda en qué se diferencian las Perspectivas de correo electrónico de otras herramientas de creación de informes.
 title: Preguntas frecuentes sobre perspectivas de correo electrónico
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---

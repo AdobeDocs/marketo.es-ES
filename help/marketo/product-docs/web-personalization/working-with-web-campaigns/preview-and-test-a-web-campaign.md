@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092925
-description: 'Previsualización y prueba de una campaña web: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo obtener una vista previa y probar una campaña web en Marketo Engage mediante la vista previa y la prueba de una campaña web. Utilice esta guía para completar el siguiente paso.
 title: Vista previa y prueba de una campaña web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '411'
 ht-degree: 4%
 
 ---

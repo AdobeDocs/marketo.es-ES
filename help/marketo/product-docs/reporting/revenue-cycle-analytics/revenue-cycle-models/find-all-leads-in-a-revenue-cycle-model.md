@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360423
-description: Buscar todos los posibles clientes en un modelo del ciclo de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo encontrar todos los posibles clientes en un modelo del ciclo de ingresos en Marketo Engage mediante Buscar todos los posibles clientes en un ciclo de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Buscar todos los posibles clientes en un modelo del ciclo de ingresos
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 8%
 
 ---

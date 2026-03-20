@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la aprobación de fases y la asignación de posibles clientes a un modelo de ingresos en Marketo Engage, incluidas las fases de aprobación y. Dé el siguiente paso con seguridad.
 title: Aprobación de fases y asignación de posibles clientes a un modelo de ingresos
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '352'
 ht-degree: 5%
 
 ---

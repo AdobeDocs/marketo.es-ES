@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: 'Clonar un informe: Documentos de Marketo: documentación del producto'
+description: Aprenda a clonar informes para crear duplicados para la personalización sin cambiar el original. Utilice Acciones de informe o haga clic con el botón derecho para clonar y asignar un nombre al nuevo informe.
 title: Clonar un informe
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

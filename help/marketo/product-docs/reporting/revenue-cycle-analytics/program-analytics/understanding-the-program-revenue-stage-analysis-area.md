@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514009
-description: 'Explicación del área de análisis de la fase de ingresos del programa: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo comprender el área de análisis de la fase de ingresos del programa en Marketo Engage, incluida la comprensión de. Utilice esta guía para completar el siguiente paso.
 title: Explicación del área de análisis de la fase de ingresos del programa
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 8%
 
 ---

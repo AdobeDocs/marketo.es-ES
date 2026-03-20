@@ -1,11 +1,11 @@
 ---
-description: Información general de informes - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los módulos de informes de Marketo Engage, que incluyen informes básicos, perspectivas de correo electrónico, perspectivas de rendimiento y análisis de BI avanzados. Descubra qué solución de creación de informes se adapta a sus necesidades.
 title: Información general sobre los sistemas de informes
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ Algunas ventajas de los informes avanzados de BI Analytics son:
 
 ## Análisis de Recorrido avanzado {#advanced-journey-analytics}
 
-Modelos del ciclo de ingresos: modele todas las etapas de todo el canal de ingresos y cómo pasan entre esas etapas, desde que interactúa por primera vez con un posible cliente hasta que el posible cliente es un cliente propio.
+Modelos del ciclo de ingresos: modele todas las etapas de todo su funnel de ingresos y cómo pasan entre esas etapas, desde que interactúa por primera vez con un posible cliente hasta que el posible cliente es un cliente propio.
 
 Analizador de rutas de éxito: obtenga una representación visual de la velocidad y el flujo a través del modelo del ciclo de ingresos. El analizador de rutas de éxito requiere que cree modelos del ciclo de ingresos.
 

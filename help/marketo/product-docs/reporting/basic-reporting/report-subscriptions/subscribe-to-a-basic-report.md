@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: Suscripción a un informe básico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo suscribir direcciones de correo electrónico a informes básicos para recibir actualizaciones automáticas y compartir informes con su equipo. Configure la frecuencia de suscripción en la pestaña Subscriptions.
 title: Suscribirse a un informe básico
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 14%
+source-wordcount: '143'
+ht-degree: 12%
 
 ---
 

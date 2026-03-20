@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097163
-description: Activación o desactivación de la etiqueta RTP JavaScript - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo habilitar o deshabilitar la etiqueta javascript de rtp en Marketo Engage, incluida la activación o desactivación de la etiqueta rtp. Utilice esta guía para completar el siguiente paso.
 title: Activación o desactivación de la etiqueta JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 10%
+source-wordcount: '151'
+ht-degree: 9%
 
 ---
 

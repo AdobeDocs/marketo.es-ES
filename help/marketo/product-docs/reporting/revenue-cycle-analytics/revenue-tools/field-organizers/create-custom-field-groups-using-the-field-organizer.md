@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094404
-description: Creación de grupos de campos personalizados con el organizador de campos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear grupos de campos personalizados con el organizador de campos en Marketo Engage mediante la creación de grupos de campos personalizados. Utilice esta guía para completar el siguiente paso.
 title: Crear grupos de campos personalizados con el organizador de campos
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '1015'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: Explicación de mis informes e informes de grupo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la diferencia entre Mis informes, que solo es visible para usted, y Informes de grupo, que son visibles para todos los usuarios de Workspace. Organice los informes guardados de forma eficaz.
 title: Explicación de Mis informes y los informes de grupo
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

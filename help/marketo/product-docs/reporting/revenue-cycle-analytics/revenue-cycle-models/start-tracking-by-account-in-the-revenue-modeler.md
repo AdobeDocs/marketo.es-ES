@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718681
-description: Inicie el seguimiento por cuenta en la Modeler de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre el seguimiento de inicios por cuenta en el modelador de ingresos de Marketo Engage, incluido el seguimiento de inicios por cuenta. Utilice esta guía para completar el siguiente paso.
 title: Iniciar el seguimiento por la cuenta en el modelador de ingresos
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 6%
 
 ---

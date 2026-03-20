@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718685
-description: 'Combinación de dos etapas en la Modeler de ingresos: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la combinación de dos fases en el modelador de ingresos en Marketo Engage, incluida la combinación de dos fases en los ingresos. Utilice esta guía para completar el siguiente paso.
 title: Combinación de dos fases en el modelador de ingresos
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

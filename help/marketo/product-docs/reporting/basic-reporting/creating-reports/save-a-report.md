@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: 'Guardar un informe: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo guardar los informes predeterminados para verlos de nuevo más tarde seleccionando Guardar como a partir de acciones de informe. Organizar informes guardados en carpetas dentro de Mis informes o Informes de grupo.
 title: Guardar un informe
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 7%
+source-wordcount: '102'
+ht-degree: 5%
 
 ---
 

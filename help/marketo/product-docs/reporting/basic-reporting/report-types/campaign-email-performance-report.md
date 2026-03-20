@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360188
-description: Informe de rendimiento del correo electrónico de Campaign - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los informes de Rendimiento de correo electrónico de Campaign que agrupan las estadísticas de correo electrónico por campaña inteligente. Rastree aperturas, clics, devoluciones y cancelaciones de suscripción para medir la eficacia de la campaña.
 title: Informe de rendimiento de correos electrónicos de la campaña
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 4%
+source-wordcount: '234'
+ht-degree: 32%
 
 ---
 
@@ -25,7 +25,7 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
 
    >[!TIP]
    >
-   >Haga clic en el nombre de un correo electrónico para abrirlo en el previsualizador de correo electrónico.
+   >Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa del correo electrónico.
 
    [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico de campaña incluyen:
 
@@ -34,7 +34,7 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    | [!UICONTROL Rechazado fuerte] | El correo electrónico se rechazó debido a una condición permanente, como una dirección de correo electrónico inexistente. |
    | [!UICONTROL Rechazado suave] | El correo electrónico se rechazó debido a una condición temporal, como que un servidor esté inactivo o que la bandeja de entrada esté llena. |
    | [!UICONTROL Pendiente] | El correo electrónico aún se está enviando. |
-   | [!UICONTROL Se Hizo Clic En El Vínculo] | Número de destinatarios de correo electrónico que hicieron clic en un vínculo del correo electrónico. |
+   | [!UICONTROL Se Hizo Clic En El Vínculo] | Número de destinatarios del correo electrónico que hicieron clic en el vínculo incluido en él. |
    | [!UICONTROL Canceló la suscripción] | Número de destinatarios de correo electrónico que hicieron clic en el vínculo **[!UICONTROL Cancelar la suscripción]** del correo electrónico y rellenaron el formulario. |
 
    >[!NOTE]

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504725
-description: Guardado de un informe de Explorador de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo guardar un informe de explorador de ingresos en Marketo Engage, incluido el guardado de un informe de explorador de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Guardar un informe del explorador de ingresos
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '96'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949158
-description: 'Integración de RTP con Google Analytics: Documentos de Marketo: documentación del producto'
+description: Aprenda a integrar rtp con google analytics en Marketo Engage mediante la integración de rtp con google analytics. Utilice esta guía para completar el siguiente paso.
 title: Integración de RTP con Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '596'
 ht-degree: 2%
 
 ---

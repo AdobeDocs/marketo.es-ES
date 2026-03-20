@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099413
-description: Información general sobre envíos de perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la página Envíos de perspectivas de correo electrónico que examina las características de las comunicaciones por correo electrónico recientes. Vea las métricas de envío, las métricas de participación y las puntuaciones de participación de los correos electrónicos enviados.
 title: Información general sobre envíos de perspectivas de correo electrónico
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---

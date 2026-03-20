@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: 'Adición de una URL de destino a una campaña web: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo añadir una URL de destino a una campaña web en Marketo Engage, incluida la adición de una URL de destino a una campaña web. Utilice esta guía para completar el siguiente paso.
 title: Adición de una URL de destino a una campaña web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 7%
+source-wordcount: '274'
+ht-degree: 6%
 
 ---
 

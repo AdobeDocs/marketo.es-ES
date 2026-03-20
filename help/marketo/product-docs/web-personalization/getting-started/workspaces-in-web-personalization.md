@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727499
-description: Espacios de trabajo en Web Personalization - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre los espacios de trabajo en la personalización web en Marketo Engage, incluidos los espacios de trabajo en la personalización web. Utilice esta guía para completar el siguiente paso.
 title: Espacios de trabajo en la personalización web
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '123'
 ht-degree: 3%
 
 ---

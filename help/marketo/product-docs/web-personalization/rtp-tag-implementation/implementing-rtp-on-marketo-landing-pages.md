@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720151
-description: 'Implementación de RTP en páginas de destino de Marketo: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la implementación de rtp en páginas de aterrizaje de marketo en Marketo Engage, incluida la implementación de rtp en marketo. Utilice esta guía para completar el siguiente paso.
 title: Implementación de RTP en páginas de aterrizaje de Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '209'
+ht-degree: 5%
 
 ---
 

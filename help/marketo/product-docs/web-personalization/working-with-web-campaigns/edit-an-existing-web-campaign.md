@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719408
-description: 'Edición de una campaña web existente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo editar una campaña web existente en Marketo Engage mediante la edición de una campaña web existente. Utilice esta guía para completar el siguiente paso.
 title: Edición de una campaña web existente
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 16%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 

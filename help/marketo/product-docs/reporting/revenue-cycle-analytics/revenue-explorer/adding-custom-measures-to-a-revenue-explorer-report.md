@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097747
-description: Adición de medidas personalizadas a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo agregar medidas personalizadas a un informe de explorador de ingresos en Marketo Engage, incluida la adición de medidas personalizadas. Utilice esta guía para completar el siguiente paso.
 title: Adición de medidas personalizadas a un informe de explorador de ingresos
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---

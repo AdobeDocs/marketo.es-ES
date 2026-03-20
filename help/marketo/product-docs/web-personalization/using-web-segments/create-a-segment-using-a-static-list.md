@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795536
-description: 'Creación de un segmento mediante una lista estática: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un segmento con una lista estática en Marketo Engage mediante la creación de un segmento con una lista estática. Utilice esta guía para completar el siguiente paso.
 title: Creación de un segmento mediante una lista estática
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 11%
+source-wordcount: '189'
+ht-degree: 10%
 
 ---
 

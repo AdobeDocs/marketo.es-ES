@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720145
-description: 'Implementación de RTP con Google Tag Manager: Documentos de Marketo: documentación del producto'
+description: Obtenga información acerca de la implementación de RTP con google tag Manager en Marketo Engage, incluida la implementación de RTP con DNL Google. Utilice esta guía para completar el siguiente paso.
 title: Implementación de RTP mediante Google Tag Manager
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
 

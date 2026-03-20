@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: 'Ordenar campañas web por última vez o de mayor rendimiento: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo ordenar campañas web por las últimas o las de mayor rendimiento en Marketo Engage mediante la ordenación de campañas web por las últimas o. Utilice esta guía para completar el siguiente paso.
 title: Ordenar campañas web por la fecha o el rendimiento
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 

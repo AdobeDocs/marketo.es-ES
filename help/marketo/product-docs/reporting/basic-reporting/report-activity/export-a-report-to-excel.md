@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: 'Exportar un informe a  [!DNL Excel] : documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo exportar informes a archivos de Excel para su análisis con otro software. Haga clic en el botón Exportar de la pestaña Informe para descargar los datos.
 title: Exportar un informe a  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 

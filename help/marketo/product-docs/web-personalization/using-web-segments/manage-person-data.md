@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: 'Administración de datos de persona: documentos de Marketo, documentación del producto'
+description: Obtenga información acerca de la administración de datos de personas en Marketo Engage, incluido el administrador de datos de personas. Utilice esta guía para completar el siguiente paso.
 title: Administrar datos de personas
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 16%
+source-wordcount: '210'
+ht-degree: 15%
 
 ---
 

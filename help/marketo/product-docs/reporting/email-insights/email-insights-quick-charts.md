@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099415
-description: Gráficos rápidos de perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Aprenda a crear y guardar gráficos rápidos como miniaturas para vistas de gráficos utilizados con frecuencia en las perspectivas de correo electrónico. Guarde hasta 20 gráficos personalizados y acceda a ellos rápidamente desde el icono Gráficos rápidos.
 title: Gráficos rápidos de perspectivas de correo electrónico
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -73,7 +73,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/ten.png)
 
-1. Haga clic en **[!UICONTROL Aceptar]**.
+1. Haga clic en **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 

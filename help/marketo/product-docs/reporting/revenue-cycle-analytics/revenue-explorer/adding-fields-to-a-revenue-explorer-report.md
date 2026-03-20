@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504383
-description: Adición de campos a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo añadir campos a un informe de explorador de ingresos en Marketo Engage, incluida la adición de campos a un informe de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Adición de campos a un informe de explorador de ingresos
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '178'
+ht-degree: 9%
 
 ---
 

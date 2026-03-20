@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360411
-description: 'Creación de un analizador de rutas de éxito: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un analizador de rutas de éxito en Marketo Engage mediante la creación de un analizador de rutas de éxito. Utilice esta guía para completar el siguiente paso.
 title: Crear un analizador de rutas de éxito
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 5%
 
 ---

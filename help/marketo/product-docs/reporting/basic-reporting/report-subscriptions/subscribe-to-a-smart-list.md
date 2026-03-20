@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7505310
-description: 'Suscripción a una lista inteligente: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo suscribirse a listas inteligentes para recibir informes enviados directamente a la bandeja de entrada. Cree suscripciones desde Actividades de marketing o Base de datos con frecuencia y formato personalizables.
 title: Suscribirse a una lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 2%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -17,8 +17,8 @@ La suscripción a listas inteligentes es una buena manera de realizar un seguimi
 
 Puede crear una suscripción a una lista inteligente en dos lugares independientes:
 
-* [!UICONTROL Actividades de mercadotecnia]
-* [!UICONTROL Base de datos]
+* [!UICONTROL Actividades de marketing]
+* [!UICONTROL Database]
 
 Las suscripciones utilizan la lista completa de personas en el momento en que se ejecuta la suscripción.
 

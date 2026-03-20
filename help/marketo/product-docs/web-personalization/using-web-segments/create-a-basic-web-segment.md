@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: 'Creación de un segmento web básico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un segmento web básico en Marketo Engage mediante la creación de un segmento web básico crear un segmento web básico. Dé el siguiente paso con seguridad.
 title: Creación de un segmento web básico
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '177'
 ht-degree: 9%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718666
-description: Uso de etapas de inventario del modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar las fases del inventario del modelo de ingresos en Marketo Engage mediante el uso de las fases de inventario del modelo de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Uso de fases de inventario del modelo de ingresos
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---

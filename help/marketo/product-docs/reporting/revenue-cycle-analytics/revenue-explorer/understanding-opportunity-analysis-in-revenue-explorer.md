@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951884
-description: 'Explicación del análisis de oportunidades en el Explorador de ingresos: documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo comprender el análisis de oportunidades en el Explorador de ingresos de Marketo Engage, incluida la comprensión. Utilice esta guía para completar el siguiente paso.
 title: Explicación del análisis de oportunidad en el explorador de ingresos
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '910'
 ht-degree: 11%
 
 ---

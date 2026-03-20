@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: Protección de la configuración de administración de suscripciones - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo proteger la configuración de administración de suscripciones para requerir el inicio de sesión antes de descargar informes. Configure esta opción de seguridad en Configuración de inicio de sesión de administración para Configuración de informes de listas inteligentes.
 title: Proteger la configuración de administración de suscripción
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 11%
+source-wordcount: '104'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Un administrador puede elegir requerir el inicio de sesión para ver un informe.
 

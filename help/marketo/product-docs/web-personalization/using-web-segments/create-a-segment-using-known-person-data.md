@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504343
-description: Creación de un segmento con datos de persona conocida - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un segmento con datos de personas conocidas en Marketo Engage mediante la creación de un segmento con personas conocidas. Utilice esta guía para completar el siguiente paso.
 title: Creación de un segmento mediante datos de personas conocidas
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 10%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 

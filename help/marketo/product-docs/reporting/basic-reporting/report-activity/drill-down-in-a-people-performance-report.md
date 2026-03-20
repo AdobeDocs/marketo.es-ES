@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: 'Profundizar en un informe de rendimiento de personas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo explorar en profundidad los informes de rendimiento de personas para ver información adicional sobre personas seleccionando una fila y eligiendo un atributo. Explore los datos detallados de los posibles clientes en una nueva pestaña de informe.
 title: Explorar en profundidad un informe de rendimiento de personas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 10%
 
 ---
 

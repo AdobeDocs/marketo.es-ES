@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571886
-description: Uso del analizador de rutas de éxito - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar el analizador de rutas de éxito en Marketo Engage mediante el analizador de rutas de éxito. Utilice esta guía para completar el siguiente paso.
 title: Uso del analizador de rutas de éxito
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '389'
 ht-degree: 2%
 
 ---

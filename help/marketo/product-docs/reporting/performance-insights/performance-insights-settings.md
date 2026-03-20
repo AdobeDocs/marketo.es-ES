@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: Configuración de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la configuración de las perspectivas de rendimiento, incluida la agregación de éxito del programa, la configuración de períodos anteriores, las oportunidades influidas por el marketing y las opciones de cálculo de costes. Configure las opciones en función de la vista de panel.
 title: Configuración de perspectivas de rendimiento
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---

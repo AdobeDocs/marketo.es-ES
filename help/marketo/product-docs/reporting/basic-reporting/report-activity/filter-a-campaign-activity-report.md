@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360184
-description: 'Filtrado de un informe de actividad de campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo filtrar un informe de actividad de campaña en Marketo Engage mediante el filtro de un informe de actividad de campaña. Utilice esta guía para completar el siguiente paso.
 title: Filtrar un informe de actividad de campaña
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '141'
 ht-degree: 8%
 
 ---

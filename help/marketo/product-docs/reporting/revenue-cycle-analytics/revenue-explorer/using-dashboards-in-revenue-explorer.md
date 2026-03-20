@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094959
-description: Uso de paneles en el Explorador de ingresos - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar los tableros en el explorador de ingresos en Marketo Engage mediante el uso de tableros en el explorador de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Uso de paneles en el explorador de ingresos
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 

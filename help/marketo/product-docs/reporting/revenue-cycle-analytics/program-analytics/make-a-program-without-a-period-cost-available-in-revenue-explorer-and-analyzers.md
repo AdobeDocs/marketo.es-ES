@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y Analizadores - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo crear un programa sin un coste de periodo disponible en el Explorador de ingresos y en los analizadores de Marketo Engage. Utilice esta guía para completar el siguiente paso.
 title: Crear un programa sin un coste de período disponible en el explorador de ingresos y en los analizadores
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 10%
+source-wordcount: '259'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Costos de período del programa le permite definir &quot;Cuánto dinero&quot; y 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 Es posible que algunos programas deban incluirse incluso si no tienen un coste de periodo. Aunque puede escribir 0 para el coste del período, hemos facilitado la inclusión de estos programas.
 

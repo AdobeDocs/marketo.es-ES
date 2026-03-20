@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360205
-description: Uso compartido de un modelo entre espacios de trabajo - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo compartir un modelo en espacios de trabajo en Marketo Engage, incluido el uso compartido de un modelo en espacios de trabajo. Utilice esta guía para completar el siguiente paso.
 title: Compartir un modelo en varios espacios de trabajo
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '130'
+ht-degree: 9%
 
 ---
 

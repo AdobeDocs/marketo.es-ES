@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718664
-description: Explicación de la ruta de éxito del modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la ruta del éxito del modelo de ingresos en Marketo Engage, incluida la comprensión del éxito del modelo de ingresos. Dé el siguiente paso con seguridad.
 title: Explicación de la ruta de éxito del modelo de ingresos
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 6%
+source-wordcount: '235'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718672
-description: Uso de transiciones del modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar las transiciones del modelo de ingresos en Marketo Engage mediante las transiciones del modelo de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Uso de transiciones del modelo de ingresos
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 3%
 
 ---

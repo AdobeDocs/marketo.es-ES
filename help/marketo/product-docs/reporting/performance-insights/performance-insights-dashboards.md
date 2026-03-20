@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795534
-description: Paneles de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los paneles de Performance Insights, incluidas las vistas Participación, Canalización e Ingresos. Mida la participación de la audiencia, la adquisición de nuevos nombres y el rendimiento del canal con métricas de primer toque y de varios toques.
 title: Tableros de perspectivas de rendimiento
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---

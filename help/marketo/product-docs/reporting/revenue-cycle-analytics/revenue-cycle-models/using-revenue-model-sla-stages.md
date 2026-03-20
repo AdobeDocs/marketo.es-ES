@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718668
-description: Uso de etapas de SLA del modelo de ingresos - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar las fases de SLA del modelo de ingresos en Marketo Engage mediante el uso de fases de SLA del modelo de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Uso de fases de SLA del modelo de ingresos
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 4%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

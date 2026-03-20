@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951220
-description: 'Creación de un informe de rendimiento de personas con columnas de plataforma móvil: Documentos de Marketo: documentación del producto'
+description: Obtenga información sobre cómo crear un informe de rendimiento de personas con columnas de plataforma móvil en Marketo Engage mediante la creación de personas. Utilice esta guía para completar el siguiente paso.
 title: Generar un informe de rendimiento de personas con columnas de plataforma móvil
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 7%
 
 ---
 

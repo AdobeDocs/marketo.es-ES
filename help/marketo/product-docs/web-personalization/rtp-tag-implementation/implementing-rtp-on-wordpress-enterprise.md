@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720215
-description: Implementación de RTP en Wordpress Enterprise - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la implementación de rtp en wordpress enterprise en Marketo Engage, incluida la implementación de rtp en wordpress. Utilice esta guía para completar el siguiente paso.
 title: Implementación de RTP en Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 11%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 

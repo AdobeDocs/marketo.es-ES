@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360227
-description: 'Filtrado de informes de correo electrónico de Assets en una campaña: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo filtrar recursos en los informes de correo electrónico de una campaña en Marketo Engage mediante el uso de filtros en un correo electrónico de campaña. Utilice esta guía para completar el siguiente paso.
 title: Filtrar recursos en informes por correo electrónico de campaña
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 

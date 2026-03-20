@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360018
-description: Adición de columnas de oportunidad a un informe de posibles clientes - Documentos de Marketo - Documentación del producto
+description: Aprenda a añadir columnas de oportunidades a informes de posibles clientes para ver las estadísticas y métricas de oportunidades. Muestra datos de oportunidades, incluidos importes, tasas de conversión e información del ciclo de ventas.
 title: Añadir columnas de oportunidad a un informe de posible cliente
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 7%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359968
-description: Cambiar un intervalo de tiempo de informe - Documentos de Marketo - Documentación del producto
+description: Aprenda a cambiar el período de tiempo que cubre el informe para centrarse en fechas de actividad específicas. Establezca intervalos de fechas personalizados o utilice marcos de tiempo predefinidos en la pestaña Configuración.
 title: Cambiar el lapso de tiempo de un informe
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 6%
+source-wordcount: '181'
+ht-degree: 5%
 
 ---
 

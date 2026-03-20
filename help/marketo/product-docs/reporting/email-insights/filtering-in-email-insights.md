@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: Filtrado en perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo filtrar los datos de perspectivas de correo electrónico por audiencia, contenido, plataforma, tipo de dispositivo e intervalos de fechas. Aplique varios filtros para explorar en profundidad métricas específicas y comparar el rendimiento.
 title: Filtrar en perspectivas de correo electrónico
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '200'
 ht-degree: 3%
 
 ---

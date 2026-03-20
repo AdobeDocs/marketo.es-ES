@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359963
-description: 'Creación de un informe en un programa: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear un informe dentro de un programa para analizar personas, programas, páginas de aterrizaje, correos electrónicos y activos sociales. Ejecute informes directamente desde las actividades de marketing o la pestaña Analytics.
 title: Crear un informe en un programa
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '200'
+ht-degree: 8%
 
 ---
 

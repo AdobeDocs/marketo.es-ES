@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719340
-description: Excluir el seguimiento de direcciones IP específicas - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre cómo excluir del seguimiento de direcciones IP o intervalos de IP específicos en Web Personalization. Excluya a sus empleados y a su organización del seguimiento y los informes en Configuración de la cuenta.
 title: Excluir direcciones IP específicas del seguimiento
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---

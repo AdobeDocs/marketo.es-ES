@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Campaña web Crear un nuevo cuadro de diálogo - Documentos de Marketo - Documentación del producto
+description: Cree campañas web de diálogo para personalizar el contenido en tiempo real con mensajes emergentes en su sitio web. Personalice los estilos de diálogo, las posiciones, las animaciones y la configuración de visualización para atraer visitantes.
 title: Creación de una nueva campaña web de diálogo
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '765'
 ht-degree: 3%
 
 ---

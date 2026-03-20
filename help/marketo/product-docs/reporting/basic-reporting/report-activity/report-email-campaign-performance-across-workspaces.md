@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360055
-description: Informe De Correo Electrónico, Rendimiento De La Campaña En Espacios De Trabajo - Documentos De Marketo - Documentación Del Producto
+description: Obtenga información sobre el correo electrónico del informe y el rendimiento de la campaña en espacios de trabajo en Marketo Engage, incluido el correo electrónico del informe y la campaña. Utilice esta guía para completar el siguiente paso.
 title: Informar sobre el correo electrónico, el rendimiento de la campaña en espacios de trabajo
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 14%
+source-wordcount: '95'
+ht-degree: 12%
 
 ---
 

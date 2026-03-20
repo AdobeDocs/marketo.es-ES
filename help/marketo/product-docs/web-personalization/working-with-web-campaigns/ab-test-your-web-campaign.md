@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719404
-description: Prueba AB de la campaña web - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la prueba A/B de su campaña web en Marketo Engage, incluida la prueba A/B de su campaña web. Utilice esta guía para completar el siguiente paso.
 title: Realización de la prueba AB para la campaña web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---

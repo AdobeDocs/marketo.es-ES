@@ -1,12 +1,12 @@
 ---
-description: 'Filtrado de registros combinados o eliminados en un informe por correo electrónico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo filtrar registros combinados o eliminados en un informe de correo electrónico en Marketo Engage mediante el uso de filtrar registros combinados eliminados en. Dé el siguiente paso con seguridad.
 title: Filtrado de registros combinados o eliminados en un informe por correo electrónico
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 

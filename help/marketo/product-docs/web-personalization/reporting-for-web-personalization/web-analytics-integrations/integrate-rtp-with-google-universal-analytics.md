@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720125
-description: 'Integración de RTP con Google Universal Analytics: documentos de Marketo, documentación del producto'
+description: Aprenda a integrar rtp con google universal analytics en Marketo Engage mediante la integración de rtp con dnl google. Utilice esta guía para completar el siguiente paso.
 title: Integración de RTP con Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '417'
 ht-degree: 4%
 
 ---
@@ -103,7 +103,7 @@ Una vez que haya activado las dimensiones personalizadas en GUA, vaya a la plata
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **[!UICONTROL Google Universal Analytics]**.
-1. Active **[!UICONTROL 1&rbrace; las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
+1. Active **[!UICONTROL 1} las dimensiones y eventos personalizados relevantes para anexar estos datos de RTP a]**.[!DNL Google Universal Analytics]
 1. Escriba el **[!UICONTROL número de índice]** de la dimensión alineado con el número de índice en GUA.
 1. Haga clic en **[!UICONTROL Guardar]**.
 

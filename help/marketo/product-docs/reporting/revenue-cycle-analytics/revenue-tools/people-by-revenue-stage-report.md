@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360418
-description: Informe Personas por Etapa de Ingresos - Documentos de Marketo - Documentación del Producto
+description: Obtenga información sobre las personas por informe de fase de ingresos en Marketo Engage, incluidas las personas por informe de fase de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Informe de personas por fase de ingresos
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '150'
+ht-degree: 6%
 
 ---
 

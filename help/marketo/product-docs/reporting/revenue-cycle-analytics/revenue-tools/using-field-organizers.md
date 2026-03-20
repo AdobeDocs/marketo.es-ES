@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571892
-description: Uso de organizadores de campos - Documentos de Marketo - Documentación del producto
+description: Aprenda a utilizar los organizadores de campo en Marketo Engage mediante el uso de organizadores de campo con organizadores de campo personalizado. Utilice esta guía para completar el siguiente paso.
 title: Uso de organizadores de campo
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 4%
+source-wordcount: '179'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Los organizadores de campos se utilizan en el análisis de rendimiento del model
 
 ## Cómo crear organizadores de campos {#how-to-create-field-organizers}
 
-1. Haga clic en **[!UICONTROL Base de datos]**.
+1. Haga clic en la **[!UICONTROL base de datos]**.
 
    ![](assets/db.png)
 

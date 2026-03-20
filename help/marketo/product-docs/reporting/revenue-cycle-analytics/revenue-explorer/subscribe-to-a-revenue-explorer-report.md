@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360397
-description: Suscripción a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información sobre la suscripción a un informe de explorador de ingresos en Marketo Engage, incluida la suscripción a un explorador de ingresos. Utilice esta guía para completar el siguiente paso.
 title: Suscribirse a un informe del explorador de ingresos
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 

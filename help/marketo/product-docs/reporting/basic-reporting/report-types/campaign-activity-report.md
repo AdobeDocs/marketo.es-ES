@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: Informe de actividad de campaña - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca del informe de actividad de campaña en Marketo Engage, incluido el informe de actividad de campaña campaign-activity-report. Utilice esta guía para completar el siguiente paso.
 title: Informe de actividad de campaña
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '234'
+ht-degree: 13%
 
 ---
 

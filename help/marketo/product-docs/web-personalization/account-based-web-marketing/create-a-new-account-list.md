@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: 'Creación de una nueva lista de cuentas: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo crear una nueva lista de cuentas en Marketo Engage mediante la creación de una nueva lista de cuentas create-a-new-account-list. Utilice esta guía para completar el siguiente paso.
 title: Crear una nueva lista de cuentas
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 5%
+source-wordcount: '423'
+ht-degree: 4%
 
 ---
 

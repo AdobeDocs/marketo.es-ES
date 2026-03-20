@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719402
-description: 'Creación de una nueva campaña web de widgets: documentos de Marketo, documentación del producto'
+description: Cree campañas web de widget que aparezcan como texto fijo o banners en el lado vertical de las páginas web con funcionalidad de expansión y contrato. Personalice la configuración de posición, color, animación y visualización.
 title: Creación de una nueva campaña web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '649'
 ht-degree: 3%
 
 ---

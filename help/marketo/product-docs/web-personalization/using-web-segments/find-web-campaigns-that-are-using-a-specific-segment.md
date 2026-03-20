@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719396
-description: 'Búsqueda de campañas web que utilizan un segmento específico: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo encontrar campañas web que utilizan un segmento específico en Marketo Engage mediante la búsqueda de campañas web que sí lo son. Dé el siguiente paso con seguridad.
 title: Búsqueda de campañas web que utilicen un segmento específico
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 23%
+source-wordcount: '102'
+ht-degree: 20%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: Personalización y visualización de cuadrículas de calor - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la personalización y visualización de cuadrículas de calor en Marketo Engage, incluida la personalización y visualización de cuadrículas de calor. Utilice esta guía para completar el siguiente paso.
 title: Personalización y visualización de cuadrículas de calor
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 13%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 

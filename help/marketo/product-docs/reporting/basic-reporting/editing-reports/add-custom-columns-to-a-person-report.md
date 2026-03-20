@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: 'Adición de columnas personalizadas a un informe de persona: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo agregar columnas personalizadas a informes de personas mediante listas inteligentes como filtros. Mejore los informes con métricas adicionales arrastrando columnas personalizadas en la pestaña Configuración.
 title: Añadir columnas personalizadas al informe de una persona
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719410
-description: 'Eliminación de una campaña web: documentos de Marketo, documentación del producto'
+description: Obtenga información sobre cómo eliminar una campaña web en Marketo Engage mediante la eliminación de una campaña web delete-a-web-campaign. Utilice esta guía para completar el siguiente paso.
 title: Eliminación de una campaña web
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '88'
+ht-degree: 9%
 
 ---
 

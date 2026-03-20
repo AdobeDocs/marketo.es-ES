@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Información general sobre las perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de las perspectivas de rendimiento que ayudan a optimizar la combinación de canales y a descubrir tendencias a largo plazo para estrategias ganadoras coherentes. Analice la contribución, las tendencias y exporte datos a PowerPoint o Excel.
 title: Información general sobre perspectivas de rendimiento
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---

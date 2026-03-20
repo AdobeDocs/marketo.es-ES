@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571888
-description: Activación de la sincronización de campos personalizados para el análisis del ciclo de ingresos - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de la activación de la sincronización de campos personalizados para el análisis de ciclos de ingresos en Marketo Engage, incluida la activación de campos personalizados. Dé el siguiente paso con seguridad.
 title: Habilitar la sincronización de campos personalizados para el análisis del ciclo de ingresos
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '112'
 ht-degree: 7%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360199
-description: Informes de personas agrupadas por atributo - Documentos de Marketo - Documentación del producto
+description: Obtenga información acerca de los informes de personas de grupo por atributo en Marketo Engage, incluidos los informes de personas de grupo por atributo. Utilice esta guía para completar el siguiente paso.
 title: Agrupar informes de personas por atributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '142'
+ht-degree: 8%
 
 ---
 
