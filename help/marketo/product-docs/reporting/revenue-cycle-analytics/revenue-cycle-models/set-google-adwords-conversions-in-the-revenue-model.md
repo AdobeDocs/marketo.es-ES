@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: Obtenga información sobre cómo establecer conversiones de [!dnl google adwords] en el modelo de ingresos de Marketo Engage mediante set dnl google. Utilice esta guía para completar el siguiente paso.
+description: Obtenga información sobre cómo establecer conversiones de [ !dnl google adwords] en el modelo de ingresos de Marketo Engage mediante set dnl google. Utilice esta guía para completar el siguiente paso.
 title: Establecer [!DNL Google AdWords] conversiones en el modelo de ingresos
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
