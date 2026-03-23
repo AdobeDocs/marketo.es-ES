@@ -20,7 +20,7 @@ La página de notas de la versión estándar de Marketo Engage [se encuentra aqu
 
 ### Descargar transcripción {#download-transcript}
 
-Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Lanzamiento de junio de 2025 {#june-2025-release}
 
