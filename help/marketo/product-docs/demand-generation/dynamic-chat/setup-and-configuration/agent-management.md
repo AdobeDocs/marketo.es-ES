@@ -3,10 +3,10 @@ description: Obtenga información sobre la administración de agentes en Dynamic
 title: Gestión de agentes
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 >[!TIP]
 >
 >Al crear un mensaje personalizado, puede aplicar estilo a la fuente, utilizar vínculos e incluso insertar emojis. `:)`
+
+## Configuración {#settings}
+
+### Límite de chats en directo simultáneos {#concurrent-live-chat}
+
+Establece el número de chats activos simultáneos que un agente puede tomar al mismo tiempo. Puede establecer entre 1 y 10.
+
+![](assets/agent-management-10.png)
+
+### Límite de tiempo de espera de visitante {#visitor-wait-time}
+
+Controle la cantidad máxima de tiempo que un visitante esperará (en segundos) para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. Puede ajustarse entre 10 y 500 segundos.
+
+![](assets/agent-management-11.png)
