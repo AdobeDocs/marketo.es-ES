@@ -1,44 +1,57 @@
 ---
 description: Aprenda a optimizar y escalar una instancia de Marketo Engage existente que haya heredado. Siga la lista de comprobación para auditar la configuración de administración y mantener la higiene de la base de datos.
-title: Por dónde empezar
+title: Dónde comenzar
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: d6c5e15cfd955e958e873e1ddac92c8f1e0fc1da
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 0%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
-# Por dónde empezar {#where-to-start}
+# Dónde comenzar {#where-to-start}
 
 ¿Está iniciando un nuevo trabajo o asumiendo una instancia existente de otro administrador y no está seguro de por dónde empezar? Aunque asumir el control de una instancia en directo que ha estado ejecutándose durante algún tiempo puede parecer un poco intimidante, hemos reunido algunos recursos para que pueda ayudarle a ponerse al día en poco tiempo.
 
-## Prepárese para la nación del marketing {#get-set-up-in-the-marketing-nation}
+## Configuración en la comunidad de Adobe Marketo Engage {#get-set-up}
 
-Asegúrese de que está correctamente configurado en la Comunidad de países de marketing.
+Asegúrese de que está correctamente configurado en la Comunidad de Marketo Engage.
 
-* [**Configura tu perfil**](https://nation.marketo.com/){target="_blank"}.
+* [**Configure su perfil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} rellenando los campos obligatorios (empresa, especializaciones de soluciones, país, etc.)
 
-* Lea las [**directrices de la comunidad de mercadotecnia**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* Lea las [**directrices de la comunidad de Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Aprenda a [**enviar un caso de asistencia**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (y confirmar que está [**configurado como contacto de asistencia autorizado**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Aprenda a [**enviar un caso de asistencia**](https://experienceleague.adobe.com/en/support#home){target="_blank"} y confirmar que está configurado como [administrador de asistencia](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
-## Combinar el perfil de país de marketing {#merge-your-marketing-nation-profile}
+## Combinar los perfiles de la comunidad de Marketo Engage {#merge-your-community-profiles}
 
-Si ya tiene un perfil de país de marketing con una compañía anterior, siga estos pasos para llevar ese historial a su nuevo perfil.
+Si ya tiene un perfil de la comunidad de Marketo Engage con una compañía anterior, siga estos pasos para llevar ese historial a su nuevo perfil.
 
-1. Cree un perfil de nombre de usuario/comunidad con su dirección de correo electrónico que tenga acceso a su suscripción actual a Marketo Engage.
+### Paso uno: Crear un nuevo perfil de comunidad {#create-a-new-profile}
 
-1. [Después de crear tu perfil](https://nation.marketo.com/){target="_blank"} con tu nueva información de la compañía, envía una solicitud a `ccare@marketo.com` para que los datos del perfil antiguo de la comunidad se combinen con el nuevo.
+1. Cree un nombre de usuario y un perfil de comunidad con su dirección de correo electrónico corporativa que tenga acceso a su suscripción actual a Marketo Engage o con una dirección de correo electrónico personal.
 
-1. En su solicitud, especifique los siguientes detalles:
+1. Rellene campos como empresa, especializaciones de soluciones, país, etc.
 
-* El antiguo correo electrónico corporativo asociado al antiguo perfil de la comunidad.
-* El nuevo correo electrónico corporativo asociado con la suscripción actual a Marketo Engage
+### Paso dos: Enviar una solicitud de combinación {#submit-merge-request}
+
+Después de crear el perfil con la nueva información de cuenta, envía una solicitud a `exlcommunity@adobe.com` para combinar los datos del perfil antiguo de la comunidad con el nuevo. En su solicitud, especifique los siguientes detalles:
+
+* La antigua dirección de correo electrónico asociada a su antiguo perfil de la comunidad
+* Su nueva dirección de correo electrónico corporativa asociada con la suscripción actual a Marketo Engage o su correo electrónico personal (si se utiliza) para crear su nuevo perfil
 * Su nuevo nombre de usuario/URL del perfil de la comunidad
 
-Nuestro equipo de la comunidad fusionará sus perfiles de la comunidad en 4-6 días hábiles. Una vez que se haya completado, verá su historial de participación en el nuevo perfil de la comunidad al iniciar sesión. Si no lo hace, cierre la sesión de su cuenta y vuelva a iniciarla para confirmar.
+### Paso tres: completar la combinación y volver a iniciar sesión {#complete-merge}
+
+El equipo de la comunidad de Adobe fusionará los perfiles de su comunidad en 4-6 días hábiles. Una vez que se haya completado, verá su historial de participación en el nuevo perfil de la comunidad al iniciar sesión.
+
+Si no ve su historial de participación, intente lo siguiente:
+
+* Cierre la sesión de su cuenta y vuelva a iniciarla para confirmar
+* Borre la caché del explorador
+* Iniciar sesión con un explorador incógnito/privado
+* Espere unas dos horas para que se actualicen las identidades de la cuenta y vuelva a comprobarlo
 
 ## Jumpstart Su Instancia Heredada De Marketo Engage  {#jumpstart-your-inherited-marketo-engage-instance}
 
@@ -48,11 +61,11 @@ También puede [descargar las listas de comprobación](/help/marketo/getting-sta
 
 * [Sección de administración](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Base de datos](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
 * [Estudio de diseño](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Actividades de mercadotecnia](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
+* [Actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
 * [Documentar la configuración heredada de la instancia](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
@@ -60,10 +73,10 @@ También puede [descargar las listas de comprobación](/help/marketo/getting-sta
 
 ¿Necesita más ayuda? Conéctese con nosotros o con otros usuarios de Marketo Engage a través de los siguientes vínculos.
 
-* Para obtener asistencia técnica con algo que no funcione correctamente, póngase en contacto con el **[Servicio de atención al cliente de Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* Para obtener asistencia técnica con algo que no funcione correctamente, póngase en contacto con el **[Servicio de atención al cliente de Marketo Engage](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Conéctese con otros usuarios de Marketo Engage y aprenda de ellos en la **[Comunidad de Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"}**.
+* Conéctese con otros usuarios de Marketo Engage y aprenda de ellos en la **[Comunidad de Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Para obtener ayuda práctica para aprovechar al máximo tu instancia de Marketo Engage, ponte en contacto con **[Adobe Professional Services](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"}**.
+* Para obtener ayuda práctica para aprovechar al máximo tu instancia de Marketo Engage, ponte en contacto con **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Vea **[tutoriales seleccionados](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=es){target="_blank"}** sobre diferentes aspectos de Marketo Engage.
+* Vea **[tutoriales seleccionados](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** sobre diferentes aspectos de Marketo Engage.
