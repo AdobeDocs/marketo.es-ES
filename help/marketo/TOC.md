@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '9334'
+source-wordcount: '9338'
 ht-degree: 99%
 
 ---
@@ -815,7 +815,7 @@ ht-degree: 99%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde Box](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas de aterrizaje {#landing-pages}
+      + Páginas de destino {#landing-pages}
          + Explicación de las páginas de destino {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1176,7 +1176,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1389,7 +1389,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1973,6 +1973,7 @@ ht-degree: 99%
    + Versiones anteriores  {#previous-releases}
       + 2026 {#2026}
          + [Notas de la versión: Enero de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
+         + [Notas de la versión: febrero de 2026](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + 2025 {#2025}
          + [Notas de la versión: enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de la versión: marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
