@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 40%
+source-wordcount: '462'
+ht-degree: 39%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 40%
 
 A continuación encontrará todas las funciones incluidas en la versión de marzo de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -38,8 +38,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Alineación de marca</strong>: use el comprobador de calidad del contenido para los mensajes de correo electrónico a fin de medir la legibilidad y coherencia generales de los mensajes.
-   </td>
+   <td><strong>Designer de correo electrónico - Comprobador de calidad de marca</strong>: evalúe la calidad general del contenido para identificar posibles problemas con legibilidad, coherencia de contenido y efectividad, independientemente de las directrices de marca.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -93,7 +92,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Anuncios {#announcements}
 
-* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=es){target="_blank"}.
+* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Límite de posibles clientes de combinación de API REST**: A partir del 31 de marzo de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 
