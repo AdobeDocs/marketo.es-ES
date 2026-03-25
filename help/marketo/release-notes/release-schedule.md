@@ -4,7 +4,7 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: f97e0e03b6b0fe0635c57e01be4f5785f0519691
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 90%
@@ -48,12 +48,12 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Febrero de 2026</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-feb-26.md">Febrero de 2026</a></td>
    <td>20 de febrero de 2026</td>
    <td>Completo</td>
   </tr>
   <tr>
-  <td>Marzo de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Marzo de 2026</td>
    <td>27 de marzo de 2026</td>
    <td>Según lo programado</td>
   </tr>
