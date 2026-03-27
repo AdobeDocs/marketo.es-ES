@@ -4,9 +4,10 @@ title: Administración de listas de selección
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Cada entrada de la lista de selección tiene un valor para mostrar y un valor en
 
 ## Autosugerir {#autosuggest}
 
+Cuando la configuración _Lista de selección administrada_ está habilitada, los pasos Filtros, Opciones de paso de flujo y Cambiar valor de datos sugerirán automáticamente valores de su lista de selección administrada. Cuando esta configuración está deshabilitada, solo se sugieren valores no administrados.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Cambio entre listas de selección administradas y no administradas {#switching}
 
 La mayoría de las suscripciones de Marketo Engage contienen datos anteriores a la introducción de las listas de selección administradas. Para utilizar valores en listas inteligentes o pasos de flujo de esta lista de selección de versión no administrada (por ejemplo, del conjunto completo de valores que existen en los registros de la base de datos), alterne la configuración Lista de selección administrada en la vista Smart List o Campaign. Cuando está activada, solo se muestran los valores de la lista de selección gestionada. Cuando se desactiva, se utiliza la lista de selección no administrada y los valores se sugieren automáticamente en función de los valores existentes en la base de datos.
 
-### Listas de selección de formularios (Seleccionar campos de tipo) {#form-picklists}
+## Listas de selección de formularios (Seleccionar campos de tipo) {#form-picklists}
 
 Al igual que las listas de selección predefinidas y administradas por CRM, los valores de las listas de selección administradas se propagan a Forms al utilizar el tipo de campo Seleccionar. Para un campo con una lista de selección administrada, seleccione ese campo y establezca el Tipo de campo en _Seleccionar_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Muestra el conjunto de valores de listas de selección gestionadas definidos para ese campo.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
