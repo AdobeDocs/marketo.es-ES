@@ -4,7 +4,7 @@ description: Obtenga información acerca del ejemplo de atribución 4 en Marketo
 title: Ejemplo de atribución 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 6%
@@ -15,15 +15,15 @@ ht-degree: 6%
 
 Lea el siguiente escenario e intente determinar los números que deben estar en la cuadrícula.
 
-* Abril de 11 | Michelle descarga libro electrónico (Contenido) - Éxito
-* Abril de 15 | John asiste al seminario web - Éxito
-* Abril de 22 | (Oportunidad 1) creada por 3000 $
-* Abril de 24 | (Oportunidad 2) creada por 5.000 $
-* Abril de 25 | John y Michelle están asociados con **ambas** opciones
-* Abril de 29 | [Opty 1] está Cerrado-Ganado
+* Abril 11 | Michelle descarga libro electrónico (Contenido) - Éxito
+* 15 de abril | John asiste (seminario web) - Éxito
+* 22 de abril | (Oportunidad 1) creado para 3.000 $
+* 24 de abril | (Oportunidad 2) creado por 5.000 $
+* 25 de abril | John y Michelle están asociados a **ambas** opciones
+* 29 de abril | La opción [Opty 1] está ganada
 
-| Nombre del programa | (Contenido) | (Seminario web) |
-|---|---|---|
+| Nombre del programa | (Contenido) | (Seminario web) | | |
+|---|---|---|---|---|
 |   | (Opción 1) | (Opción 2) | (Opción 1) | (Opción 2) |
 | (MT) Opción creada | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Canal creado | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

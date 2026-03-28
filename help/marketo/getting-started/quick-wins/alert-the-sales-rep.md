@@ -4,10 +4,10 @@ description: Aviso al representante de ventas - Documentos de Marketo - Document
 title: Alerta al representante de ventas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -61,7 +61,7 @@ Para enviar correos electrónicos de alerta automáticamente a los representante
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} es un token especial para los correos electrónicos de alerta. Consulte [Usar el token Enviar información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} para obtener más información.
+   >`{{SP_Send_Alert_Info}}` es un token especial para los correos electrónicos de alerta. Consulte [Usar el token Enviar información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} para obtener más información.
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 

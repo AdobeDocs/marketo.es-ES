@@ -4,7 +4,7 @@ description: Aprenda a utilizar el editor de texto enriquecido para el contenido
 title: Uso del editor de texto enriquecido
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 3%
@@ -39,7 +39,7 @@ La configuración del elemento de bloque raíz define qué etiquetas ajustan el 
 
    ![](assets/four.png)
 
-   Si tiene `<div class=“mktEditable”></div>` en una plantilla de correo electrónico, verá el siguiente comportamiento de HTML Source al abrir la sección y escribir &quot;El texto va aquí&quot; en el editor:
+   Si tiene `<div class="mktEditable"></div>` en una plantilla de correo electrónico, verá el siguiente comportamiento de HTML Source al abrir la sección y escribir &quot;El texto va aquí&quot; en el editor:
 
 <table>
  <tbody>
@@ -79,7 +79,8 @@ Estas son las funciones que encontrará en un RTE.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrita] | **Más oscuro y grueso**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Cursiva] | *En ángulo, para énfasis o presupuesto* s. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Subrayado] | Pone una línea debajo del texto. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alineación] | Utilice este menú desplegable para diseñar el texto y las imágenes. Centrarlos, elegir la alineación a la izquierda o a la derecha, o extenderlos de borde a borde con justificación completa. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Elija viñetas o números en la lista desplegable. Las viñetas son buenas con las listas y los números con pasos. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alineación] | Utilice este menú desplegable para diseñar el texto y las imágenes. Centrarlos, elegir la alineación a la izquierda o a la derecha, o extenderlos de borde a borde con justificación completa. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Elija viñetas o números en la lista desplegable. Las viñetas son buenas con las listas y los números con pasos. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Sangría] | Elija más o menos sangría. Utilícelo para párrafos o cualquier texto que desee destacar. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insertar/Editar vínculo] | Coloque un vínculo a un sitio web u otro contenido; realice fácilmente cambios en él. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insertar/Editar imagen] | Una imagen vale más que mil palabras. Coloca uno. Haga clic en el icono de la cámara para explorar Design Studio. Puede colocar imágenes en paralelo. |

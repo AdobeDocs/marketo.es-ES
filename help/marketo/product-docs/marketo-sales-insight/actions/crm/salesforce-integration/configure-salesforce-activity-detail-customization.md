@@ -3,9 +3,9 @@ description: Aprenda a configurar la personalización de los detalles de activid
 title: Configuración de la personalización de detalles de la actividad de Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '685'
 ht-degree: 2%
 
 ---
@@ -68,33 +68,33 @@ Actividad Los campos dinámicos hacen referencia a información sobre sus activi
   <th>Descripción</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Rellenará el tipo de tarea como Correo electrónico, Llamada, InMail o Personalizada.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Rellenará el asunto de la tarea.</p>
       <p>En el caso de un correo electrónico, rellena la línea de asunto del mismo.</p>
       <p>En el caso de la llamada, inMail o personalizada, rellena un valor si ha habido una tarea de recordatorio creada con un valor en el campo de nombre/asunto de la tarea.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Si la actividad se inició a partir de una campaña de ventas, se rellenará el nombre de la campaña de ventas.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Si la actividad se inició a partir de una campaña de ventas, se rellenará el número de día de campaña de ventas en el que se produjo esta actividad.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Si la actividad se inició a partir de una campaña de ventas, se rellenará el número de paso dentro del día de la campaña de ventas en el que se produjo esta actividad.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Si la actividad es una llamada y se selecciona un resultado de llamada, se rellenará el valor del resultado de la llamada.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Si la actividad es una llamada y se selecciona un motivo de llamada, se rellenará el valor del motivo de la llamada.</td>
  </tr>
 </table>

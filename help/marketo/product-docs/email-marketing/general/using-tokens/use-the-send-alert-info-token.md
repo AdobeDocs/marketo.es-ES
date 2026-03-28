@@ -4,7 +4,7 @@ description: Aprenda a utilizar el token Enviar información de alerta en los co
 title: Usar el token de información de envío de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 5%
@@ -52,7 +52,7 @@ La siguiente información se incluye como parte de `{{SP_Send_Alert_Info}}`:
 
    ![](assets/three-3.png)
 
-1. Busque y seleccione el token **[!UICONTROL {{SP_Send_Alert_Info}}]**, y haga clic en **[!UICONTROL Insertar]**.
+1. Busque y seleccione el token **[!UICONTROL `{{SP_Send_Alert_Info}}`]**, y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

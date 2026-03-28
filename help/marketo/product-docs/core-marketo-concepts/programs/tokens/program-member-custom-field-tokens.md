@@ -4,7 +4,7 @@ description: Obtenga información acerca de los tokens de campo personalizado de
 title: Tókenes de campo personalizado para miembros del programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 5%
@@ -19,7 +19,7 @@ En la parte posterior de las funciones Campos personalizados de miembro de progr
 
 Los tokens de PMCF serán compatibles con el dominio miembro de la familia de tokens.
 
-Los tokens de miembro se utilizan para campos dentro del ámbito de Miembro de programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. {{member.registration code}} resuelve el código de registro proporcionado por el proveedor de servicios.
+Los tokens de miembro se utilizan para campos dentro del ámbito de Miembro de programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. `{{member.registration code}}` resuelve el código de registro proporcionado por el proveedor de servicios.
 
 >[!NOTE]
 >
