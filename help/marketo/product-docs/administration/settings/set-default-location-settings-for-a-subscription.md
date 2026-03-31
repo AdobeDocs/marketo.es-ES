@@ -4,9 +4,9 @@ description: Cómo ven y editan los administradores la configuración de ubicaci
 title: Establecer la configuración de ubicación predeterminada para una suscripción
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '247'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,7 @@ Este artículo describe cómo un administrador vería y editaría la configuraci
 
 ## Establecer la configuración de ubicación predeterminada para una suscripción {#set-default-location-settings-for-a-subscription-1}
 
-Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar sus preferencias de idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
+Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios pueden [cambiar su zona horaria](/help/marketo/product-docs/administration/settings/change-time-zone.md) en sus cuentas individuales.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -65,4 +65,4 @@ Si va a cambiar la configuración regional predeterminada de los usuarios, puede
 
 >[!MORELIKETHIS]
 >
->* [Seleccione su idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Cambiar la zona horaria](/help/marketo/product-docs/administration/settings/change-time-zone.md)

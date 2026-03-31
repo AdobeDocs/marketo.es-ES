@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo programar programas de correo elec
 title: Planificar programas de correo electrónico con zona horaria del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Esto le ofrece dos opciones:
 >
 >* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en husos horarios en los que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00am.
 >
->* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/change-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
 
 >[!NOTE]
 >

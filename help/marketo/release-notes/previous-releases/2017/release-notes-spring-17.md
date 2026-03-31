@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notas de la versión, primavera de 2017, documentación de Marketo, documentación del producto
 title: Notas de la versión, primavera de 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -86,13 +86,13 @@ Archivar es un nuevo estado de Campaña web que le permite archivar [!UICONTROL 
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localización](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localización](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization ahora se ofrece en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
 ## Mejoras predictivas {#predictive-enhancements}
 
-**[Localización](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localización](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 El contenido predictivo ahora se ofrece en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 

@@ -4,8 +4,8 @@ description: 'Enviar un correo electrónico: documentos de Marketo, documentaci�
 title: Enviar un correo electrónico
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ Es lo primero que todos quieren hacer. Enviemos un correo electrónico desde Mar
 
    >[!TIP]
    >
-   >¿La zona horaria predeterminada no es la suya? Obtenga información sobre cómo [actualizarla aquí](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >¿La zona horaria predeterminada no es la suya? Obtenga información sobre cómo [actualizarla aquí](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}.
 
 1. Haga clic en **[!UICONTROL Aprobar programa]** en el mosaico [!UICONTROL Aprobación].
 
