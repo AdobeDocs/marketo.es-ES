@@ -6,9 +6,9 @@ description: Aprenda a utilizar el asistente de IA para añadir texto e imágene
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 6%
 
 ---
@@ -51,17 +51,21 @@ _Después de_ que sigue el requisito previo anterior, los administradores de Mar
 
 ## Casos de uso {#use-cases}
 
-Hay tres casos de uso principales para el asistente de IA:
+Hay algunos casos de uso principales para el asistente de IA:
 
-* [Crea una línea de asunto](#create-a-subject-line) para tu correo electrónico
+* [Cree una línea de asunto o un encabezado previo](#create-a-subject-line-preheader) para su correo electrónico
 * [Crea contenido para una sección específica](#create-content-for-a-specific-section) de tu correo electrónico
 * [Crear un correo electrónico completo](#create-an-entire-email) a partir de una plantilla seleccionada
 
-## Crear una línea de asunto {#create-a-subject-line}
+## Creación de una línea de asunto/encabezado previo {#create-a-subject-line-preheader}
 
-Cuando se cree un correo electrónico con la Nueva Designer de correo electrónico, introduzca una línea de asunto temporal.
+Puede utilizar el asistente de IA para crear una línea de asunto, un encabezado previo o ambos.
 
 ![](assets/use-the-ai-assistant-1.png)
+
+El ejemplo siguiente ilustra la línea de asunto. Para un preencabezado, se pueden seguir los mismos pasos haciendo clic en la casilla de verificación _Preheader_ (que se ve en la imagen anterior).
+
+Cuando se cree un correo electrónico con la Nueva Designer de correo electrónico, introduzca una línea de asunto temporal.
 
 Una vez creado el correo electrónico, la línea de asunto se encuentra en la columna _Detalles_, a la derecha. Haga clic en el botón del asistente de IA ( ![Icono de filtro](assets/icon-ai-assistant.png) ) que se encuentra junto a él para obtener ayuda con la creación de una nueva línea de asunto mediante la funcionalidad de IA general.
 
