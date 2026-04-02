@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9339'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [Establecer una página de reserva](product-docs/administration/settings/set-a-fallback-page.md)
          + [Establecer la configuración de ubicación predeterminada para una suscripción](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Explicación de la configuración de privacidad](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Uso de un ID universal para el inicio de sesión con suscripción](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Etiquetas {#tags}
          + [Creación de una nueva etiqueta de programa y valores de etiqueta](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Creación de un canal de programa](product-docs/administration/tags/create-a-program-channel.md)
@@ -1036,9 +1035,6 @@ ht-degree: 99%
          + [Convertir imágenes a plantillas HTML](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Diseñar contenido accesible](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Temáticas sobre la marca](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [Aplicar marca](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [Administrar marca](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Modo oscuro](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Prueba de representación de correo electrónico con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tókenes de personalización](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1051,6 +1047,12 @@ ht-degree: 99%
          + [Correo electrónico de colaboración](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Asistente de IA para Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Informe de correo no deseado con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + Marcas {#brands}
+            + [Temáticas sobre la marca](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Aplicar marca](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Administrar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personalización de su marca](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Administrar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + Programas de correo electrónico {#email-programs}
          + Creación de un programa de correo electrónico {#creating-an-email-program}
             + [Creación de un programa de correo electrónico](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1177,7 +1179,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1390,7 +1392,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
