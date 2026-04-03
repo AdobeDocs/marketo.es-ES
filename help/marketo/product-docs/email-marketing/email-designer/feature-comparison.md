@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 14%
@@ -233,7 +233,7 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
   </tr>
   <tr>
     <td>Temáticas sobre la marca</td>
-    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">aplicar temas aprobados</a> en toda la organización para garantizar la coherencia en elementos como estilo, color, tamaño de fuente, etc.</td>
+    <td>Capacidad para <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">aplicar temas aprobados</a> en toda la organización para garantizar la coherencia en elementos como estilo, color, tamaño de fuente, etc.</td>
     <td>No disponible</td>
     <td>Disponible</td>
   </tr>

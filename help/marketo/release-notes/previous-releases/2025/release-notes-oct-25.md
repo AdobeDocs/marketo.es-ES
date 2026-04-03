@@ -3,7 +3,7 @@ description: 'Notas de la versión, octubre de 2025: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2025
 feature: Release Information
 exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 93%
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 A continuación, encontrará todas las funciones incluidas en la versión de octubre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -44,7 +44,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: temáticas de marca</strong>: ahora puede definir temáticas de marca dentro de Marketo Engage. Las configuraciones del estilo se pueden reutilizar y aplicar en plantillas de correo electrónico y otros recursos de correo electrónico para mantener la uniformidad de la marca.</td>
    <td>Publicado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temáticas de marca</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">Temáticas de marca</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +74,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: clonar acción de correo electrónico</strong>: ahora puede clonar un correo electrónico en otra carpeta de programas en Actividades de marketing y reutilizar rápidamente los correos electrónicos existentes.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>

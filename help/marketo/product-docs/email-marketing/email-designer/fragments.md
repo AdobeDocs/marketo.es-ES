@@ -6,7 +6,7 @@ description: Aprenda a crear y utilizar fragmentos como componentes de correo el
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '1974'
 ht-degree: 1%
@@ -133,7 +133,7 @@ El estado del fragmento determina su disponibilidad para utilizarlo en un correo
 
    >[!INFO]
    >
-   >Más información acerca de [configuración del tema](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
+   >Más información acerca de [configuración del tema](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md#settings){target="_blank"}.
 
 1. Haga clic en **[!UICONTROL Guardar]** en cualquier momento para guardar el fragmento de borrador.
 
