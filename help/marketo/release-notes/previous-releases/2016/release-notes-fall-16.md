@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 'Notas De La Versión, Otoño De 2016: Documentos De Marketo: Documentación Del Producto'
 title: Notas de la versión, otoño de 2016
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Con la integración de [!DNL Facebook] conversiones sin conexión, los datos de 
 
 ![](assets/facebook.png)
 
-## [Id. universal](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## ID universal {#universal-id}
 
 Un ID universal le permite acceder a varias suscripciones de Marketo con un solo inicio de sesión y cambiar entre suscripciones rápidamente. Puede utilizar un único perfil de comunidad para todas las suscripciones.
 

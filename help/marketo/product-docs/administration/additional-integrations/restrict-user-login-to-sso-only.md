@@ -4,9 +4,9 @@ description: Requerir SSO para todos los usuarios para que no puedan omitir la s
 title: Restringir el inicio de sesión del usuario a solo SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---
@@ -56,5 +56,4 @@ Si está [usando SSO](/help/marketo/product-docs/administration/additional-integ
 >[!MORELIKETHIS]
 >
 >* [Agregar inicio de sesión único a un portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Usando un identificador universal para el inicio de sesión con suscripción](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Invitar a usuarios de Marketo a dos instancias con identificador universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
