@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + Documentos del producto {#product-docs}
    + Aplicaciones adicionales {#additional-apps}
       + SEO {#seo}
-         + Explicación de la SEO {#understanding-seo}
-            + [Explicación de la optimización del motor de búsqueda](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Explicación del panel de la SEO: recomendaciones para la SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Explicación del panel de la SEO: instantánea de la SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO: añadir/eliminar un sitio](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO: añadir competidores](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO: administración de listas](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO: elegir región/país para su motor de búsqueda](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO: establecer sus preferencias de alerta de correo electrónico](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Palabras clave {#keywords}
-            + [SEO: añadir palabras clave](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO: añadir o quitar columnas de la vista de palabras clave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO: añadir o quitar palabras clave de una lista](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO: exportar resultados de palabras clave](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO: filtrar resultados de palabras clave](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO: obtener palabras clave sugeridas](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO: importar de palabras clave con un CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO: gráfico de tendencias de palabras clave](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO: optimizar páginas específicas con palabras clave segmentadas](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO: eliminar una palabra clave](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO: explicación de palabras clave](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO: ver resultados de palabras clave en un motor de búsqueda](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Páginas {#pages}
-            + [SEO: añadir notas a problemas de página](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO: añadir páginas](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO: añadir/eliminar página de la lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO: añadir o eliminar problema de página de una lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO: exportar problemas a CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO: quitar/eliminar un problema de página](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO: quitar/eliminar una página](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO: explicación de las páginas](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO: uso del desglose de detalles de página](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Vínculos entrantes {#inbound-links}
-            + [SEO: añadir manualmente una URL de vínculo entrante](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO: añadir o quitar una URL de vínculo de entrada de una lista](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO: Obtener sugerencias de vínculos entrantes](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO: quitar/eliminar una URL de vínculo de entrada](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO: explicación de los vínculos entrantes](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Informes {#reports}
             + [SEO: utilizar el informe Tendencias de KW de la competencia](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO: utilizar el informe de tendencias de palabras clave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -1179,7 +1145,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1392,7 +1358,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
