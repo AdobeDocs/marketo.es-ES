@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 99%
@@ -58,12 +58,12 @@ ht-degree: 99%
       + [Instancia heredada: Documentar la configuración](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisión de aptitudes principales](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentos del producto {#product-docs}
-   + MCP de Marketo {#marketo-mcp}
-      + [Información general](product-docs/marketo-mcp/overview.md)
-      + [Configuración y configuración](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [Información general](product-docs/marketo-ai/overview.md)
+      + [Configuración y configuración](product-docs/marketo-ai/settings-setup.md)
       + Agentes {#agents}
-         + [Importar posibles clientes](product-docs/marketo-mcp/agents/import-leads.md)
-         + [Control de calidad del programa](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importar posibles clientes](product-docs/marketo-ai/agents/import-leads.md)
+         + [Control de calidad del programa](product-docs/marketo-ai/agents/program-qa.md)
    + Aplicaciones adicionales {#additional-apps}
       + SEO {#seo}
          + Palabras clave {#keywords}
@@ -1151,7 +1151,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1364,7 +1364,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
