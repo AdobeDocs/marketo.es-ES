@@ -3,9 +3,9 @@ description: Muy pronto.
 title: Documento de información general de MCP
 hide: true
 hidefromtoc: true
-source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
+source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,30 @@ ht-degree: 0%
 
 TEXTO DEL PADRE:
 
-El servidor MCP público para Marketo Engage es un servicio accesible en la nube que expone toda la potencia de las API de REST públicas de Marketo Engage como herramientas estructuradas y descubribles para los agentes de IA. Basado en el Model Context Protocol (MCP), transforma las capacidades de automatización de marketing de Marketo en una interfaz estandarizada y basada en esquemas que los sistemas de IA pueden utilizar de forma segura e inteligente.
+El servidor MCP público de Marketo Engage es un servicio basado en la nube que hace que las API de REST de Marketo sean accesibles para los agentes de IA como herramientas estructuradas. Basado en el Protocolo de contexto de modelo (MCP), proporciona una interfaz estandarizada y basada en esquemas que permite a los sistemas de IA interactuar con Marketo de forma segura y eficaz.
 
-En lugar de integrar manualmente los extremos de Marketo en cada aplicación, el servidor MCP actúa como una puerta de enlace nativa única que permite a los agentes compatibles con MCP descubrir las operaciones disponibles, comprender los parámetros necesarios y ejecutar acciones mediante un protocolo coherente.
+En lugar de integrar manualmente los extremos de Marketo en cada aplicación, el servidor MCP proporciona una única puerta de enlace nativa de IA que permite a los agentes compatibles con MCP descubrir las operaciones disponibles, comprender los parámetros necesarios y ejecutar acciones mediante un protocolo coherente.
 
-Hay una serie de herramientas disponibles que comprenden tanto las API de REST públicas como las API internas, que realizan las funciones principales de Marketo como en la interfaz de usuario, pero a través de llamadas de API. Se añadirán más herramientas a medida que se desarrollen.
+Hay una serie de herramientas disponibles que comprenden tanto las API de REST públicas como las API internas, que realizan las funciones principales de Marketo como en la interfaz de usuario, pero a través de llamadas de API. Se añadirán más herramientas a medida que se desarrollen. &lt;---- NECESITA ACLARACIÓN
 
-El servidor MCP se ofrece como un autoservicio y se puede configurar a través del marco de trabajo de Adobe IO creando un punto de conexión y autenticando la conexión. Para obtener más información y detalles de la configuración, visite el sitio de Adobe Developer en (añada el vínculo aquí).
+El servidor MCP se ofrece como autoservicio y se puede configurar a través del marco de trabajo de Adobe IO creando un punto de conexión y autenticando la conexión. Para obtener más información y detalles de configuración, visite el sitio de Adobe Developer (añada el vínculo aquí). ¿ÉSTE? https://developer.adobe.com/marketo-apis/
 
 Las herramientas de campaña que se muestran como API de SOAP se han convertido a las API de REST y se han añadido.
 
 Una vez configurada, para ver una lista de las herramientas disponibles, siga estas instrucciones aquí (hipervínculo).
 
 NOTA: Las herramientas no disponibles son &quot;Desactivar campaña&quot; y &quot;Eliminar lista estática&quot; (TBD).
+
+////////////////////////////////////////////////
+
+## Configuración {#settings}
+
+Siga los pasos a continuación para conectar NAME a su cuenta de Marketo Engage.
+
+1. En Mi Marketo, haga clic en el mosaico **Generar con IA**.
+
+CAPTURA DE PANTALLA
+
+1. Haga clic en el icono de engranaje
+
+NO SE NECESITA UNA INSTANCIA YA CONECTADA
