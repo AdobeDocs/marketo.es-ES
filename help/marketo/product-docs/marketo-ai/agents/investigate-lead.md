@@ -3,9 +3,9 @@ description: Muy pronto.
 title: Investigar posible cliente
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Descubra por qué alguien no cumplió los requisitos de MQL, calificó para un programa o progresó a través del ciclo vital.
 
-Para ver la lista completa de escenarios de investigación, haga clic en la flecha hacia abajo a la derecha.
+Para ver la lista completa de escenarios de investigación, haga clic en la flecha a la derecha.
 
 CAPTURA DE PANTALLA
 
