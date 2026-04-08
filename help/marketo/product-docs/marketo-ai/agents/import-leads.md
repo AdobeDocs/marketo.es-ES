@@ -4,9 +4,9 @@ title: Importar posibles clientes
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importe y deduplique listas de posibles clientes en la base de datos de Marketo Engage con ayuda de asignación de campos.
 
-¿Desea importar una lista de POSIBLES CLIENTES? ¿GENTE? en formato csv, aplicando algunas reglas de normalización de datos y guárdelo en la base de datos de Marketo.
+## Cómo usar {#how-to-use}
 
-Al hacer clic en este agente, entra en la inteligencia artificial aplicada a la conversación. En el panel izquierdo hay un asistente de IA que proporciona una ventana para que el agente publique instrucciones, respuestas y opciones sobre las funciones de normalización de datos que se van a ejecutar.
+1. En Mi Marketo, haga clic en el mosaico **Generar con IA**.
 
-Para iniciar el proceso de importación, haga clic en el icono de datos adjuntos para cargar un archivo.
+   ![](assets/import-leads-1.png)
 
-Escriba en Import list y haga clic en Send
+1. Haga clic en el agente **Importar posibles clientes**.
 
-Introduzca la regla de negocio que desea aplicar y haga clic en Enviar. Una vez introducida, una ventana en la consola central proporciona los resultados de la regla aplicada.
+   ![](assets/import-leads-2.png)
 
-Introduzca otra regla de negocio si lo desea y haga clic en enviar.
+   Se le redirige a la inteligencia artificial conversacional. En el panel izquierdo, el agente publica instrucciones, respuestas y opciones sobre las funciones de normalización de datos que se van a ejecutar.
 
-Para ver una lista de los campos de lista asignados a la base de datos, haga clic en la pestaña Asignación.
+   ![](assets/import-leads-3.png)
 
-Cuando esté listo para guardar la lista en la base de datos, haga clic en Importar a Marketo.
+1. Para empezar a importar posibles clientes, haga clic en el icono de datos adjuntos y cárguelos a través del archivo .CSV.
 
-Seleccione la carpeta para guardar la lista, introduzca un nombre para la lista de posibles clientes, marque las casillas de consentimiento y luego haga clic en el botón &quot;Aprobar e importar a Marketo&quot;.
+   ![](assets/import-leads-4.png)
 
-Una vez guardada la lista, se proporcionará una verificación con un resumen de los registros procesados, fallidos o con advertencias.
+1. Escriba _Importar lista_ y haga clic en **Enviar**.
+
+   ![](assets/import-leads-5.png)
+
+   La lista se previsualiza en la consola central.
+
+   ![](assets/import-leads-6.png)
+
+1. Escriba una regla de negocio y haga clic en **Enviar**.
+
+   ![](assets/import-leads-7.png)
+
+   Los resultados aparecen en la consola central.
+
+   ![](assets/import-leads-8.png)
+
+   Si lo desea, introduzca reglas comerciales adicionales.
+
+1. Para ver los campos asignados, haga clic en la ficha **Asignaciones**.
+
+1. Si algún campo se asignó incorrectamente, corríjalo aquí.
+
+   ![](assets/import-leads-9.png)
+
+1. Cuando esté listo para importar su lista, haga clic en la ficha **Importar a Marketo**.
+
+1. Seleccione la carpeta de destino e introduzca un nombre. Marque cada casilla de consentimiento y haga clic en **Aprobar e importar a Marketo**.
+
+   ![](assets/import-leads-10.png)
+
+Cuando termina la importación, la verificación incluye un resumen de los posibles clientes procesados, las filas con errores y las advertencias.
