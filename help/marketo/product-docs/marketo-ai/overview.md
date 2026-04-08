@@ -4,7 +4,7 @@ title: Información general sobre Marketo Engage AI
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ En la consola central hay siete funciones de Agentic para ayudarle con diversas 
 
 ## Agentes {#agents}
 
+### Control de calidad del programa {#program-qa}
+
+Valide los programas de Marketo Engage según las prácticas recomendadas y detecte cualquier problema antes del lanzamiento. [Más información](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importar posibles clientes {#import-leads}
+
+Importe y deduplique listas de posibles clientes en la base de datos de Marketo Engage con ayuda de asignación de campos. [Más información](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Investigar posible cliente (próximamente) {#investigate-lead}
 
 Descubra por qué alguien no cumplió los requisitos de MQL, calificó para un programa o progresó a través del ciclo vital.
@@ -42,14 +50,6 @@ Cree un documento de configuración del programa para que otros lo utilicen a pa
 ### Crear programa (próximamente) {#create-program}
 
 Genere un programa Marketo Engage completo mediante una descripción breve de la campaña, con correo electrónico, página de aterrizaje y Campaña inteligente.
-
-### Control de calidad del programa {#program-qa}
-
-Valide los programas de Marketo Engage según las prácticas recomendadas y detecte cualquier problema antes del lanzamiento. [Más información](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importar posibles clientes {#import-leads}
-
-Importe y deduplique listas de posibles clientes en la base de datos de Marketo Engage con ayuda de asignación de campos. [Más información](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalizar datos (próximamente) {#normalize-data}
 
