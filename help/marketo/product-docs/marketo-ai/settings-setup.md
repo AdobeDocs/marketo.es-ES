@@ -4,10 +4,10 @@ title: Configuración y configuración
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
@@ -15,58 +15,56 @@ ht-degree: 4%
 
 Texto de introducción.
 
-## Configuración {#settings}
+## Permisos {#permissions}
 
-Siga los pasos a continuación para conectar NAME a su cuenta de Marketo Engage.
+Para acceder a la IA de Marketo, los administradores deben habilitar primero los permisos de funciones.
+
+1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. En la ficha _Roles_, seleccione el rol que desee y haga clic en **Editar rol**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Desplácese hacia abajo y seleccione la casilla de verificación **Generar acceso con IA** y haga clic en **Guardar**.
+
+   ![](assets/settings-setup-3.png)
+
+## Configuración {#settings}
 
 1. En Mi Marketo, haga clic en el mosaico **Generar con IA**.
 
-CAPTURA DE PANTALLA
+   ![](assets/settings-setup-4.png)
 
-1. Haga clic en el icono de engranaje
+1. Haga clic en el icono de engranaje.
 
-NO SE NECESITA UNA INSTANCIA YA CONECTADA
+   ![](assets/settings-setup-5.png)
 
-## Conexión {#connection}
+### Conexión {#connection}
 
-En la pestaña Conexión, siga los pasos a continuación para la configuración inicial de NAME OF MARKETO MCP.
+Esta pestaña no contiene campos editables. Muestra información de la cuenta, como su Munchkin ID y su organización IMS.
 
-+++Pasos de configuración iniciales
+![](assets/settings-setup-6.png)
 
-Texto
+### Reglas organizativas {#organizational-rules}
 
-CAPTURA DE PANTALLA
+Defina las directrices y restricciones organizativas que sigue la IA de Marketo al crear o modificar recursos de Marketo Engage.
 
-Texto
-
-CAPTURA DE PANTALLA
-
-+++
-
-## Reglas organizativas {#organizational-rules}
-
-Defina las directrices y restricciones organizativas que sigue el MCP de MARKETO al crear o modificar recursos de Marketo.
-
-Texto
-
-CAPTURA DE PANTALLA
-
-Texto
-
-CAPTURA DE PANTALLA
+![](assets/settings-setup-7.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
 >Las reglas utilizan el formato Markdown con YAML frontmatter. Las reglas globales se aplican a todos los espacios de trabajo. Las reglas de Workspace anulan la configuración global.
 
-## Integraciones {#integrations}
+### Integraciones (próximamente) {#integrations}
 
-Configure conexiones a servicios externos y API (próximamente).
+Configure conexiones a servicios externos y API.
 
 _Esta ficha puede aparecer en la interfaz de usuario, pero aún no está disponible para su uso. Vuelva a buscar actualizaciones_.
 
-## Notificaciones {#notifications}
+### Notificaciones (próximamente) {#notifications}
 
-Administrar las preferencias de alerta y los canales de notificación (PRÓXIMAMENTE).
+Administrar las preferencias de alerta y los canales de notificación.
 
 _Esta ficha puede aparecer en la interfaz de usuario, pero aún no está disponible para su uso. Vuelva a buscar actualizaciones_.
