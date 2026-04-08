@@ -1,12 +1,12 @@
 ---
-description: Muy pronto.
+description: Obtenga información sobre cómo auditar sus programas para conocer las prácticas recomendadas en todos los componentes, como correos electrónicos, páginas de aterrizaje, campañas y mucho más.
 title: Control de calidad del programa
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Audite sus programas para conocer las prácticas recomendadas en todos los componentes, como correos electrónicos, páginas de aterrizaje, campañas y mucho más.
 
-Existen dos formas de acceder a este agente.
+## Cómo usar {#how-to-use}
 
-Haga clic en el agente en la ventana central y haga clic en el menú desplegable situado en la parte superior derecha
+1. En Mi Marketo, haga clic en el mosaico **Generar con IA**.
 
-Haga clic en el botón Usar este agente
+   ![](assets/program-qa-1.png)
 
-y, en el panel izquierdo del cuadro de diálogo de solicitud, aparecerá el texto predeterminado.
+1. Haga clic en el agente **Control de calidad del programa**.
 
-A continuación, seleccione el programa que desea realizar el control de calidad en el panel derecho
+   ![](assets/program-qa-2.png)
 
-En la ventana central aparecerá un resumen del programa que ofrece una visión general del programa y de lo que se ha creado para él.
+   Se le dirigirá a la pantalla de inteligencia artificial conversacional.
 
-O bien, haga clic en el agente en la pantalla principal de inteligencia artificial aplicada a la conversación.
+1. Seleccione el programa que desee en el panel derecho.
 
-El Ayudante de IA mostrará el texto predeterminado para indicar qué agente se ejecutará.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-A continuación, seleccione el programa de la derecha que debe someterse a control de calidad.
+En el panel central aparece un resumen del programa, que proporciona una descripción general del programa.
 
-y el mismo resumen aparecerá en la consola central
+![](assets/program-qa-4.png){width="450" zoomable="yes"}

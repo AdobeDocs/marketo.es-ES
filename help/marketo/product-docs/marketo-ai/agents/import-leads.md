@@ -4,9 +4,9 @@ title: Importar posibles clientes
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Importe y deduplique listas de posibles clientes en la base de datos de Marketo 
 
    ![](assets/import-leads-2.png)
 
-   Se le redirige a la inteligencia artificial conversacional. En el panel izquierdo, el agente publica instrucciones, respuestas y opciones sobre las funciones de normalización de datos que se van a ejecutar.
+   Se le dirigirá a la pantalla de inteligencia artificial conversacional. En el panel izquierdo, el agente publica instrucciones, respuestas y opciones sobre las funciones de normalización de datos que se van a ejecutar.
 
    ![](assets/import-leads-3.png)
 
