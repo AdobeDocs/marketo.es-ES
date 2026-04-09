@@ -4,9 +4,9 @@ title: Configuración y configuración
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
+source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Si desea quitar el acceso a cualquier función, siga los pasos a continuación.
 
    ![](assets/settings-setup-1.png)
 
-1. En la ficha _Roles_, seleccione el rol (o roles) que desee y haga clic en **Editar rol**.
+1. En la ficha _Roles_, seleccione el rol que desee y haga clic en **Editar rol**.
 
    ![](assets/settings-setup-2.png)
 
@@ -41,9 +41,11 @@ Si desea quitar el acceso a cualquier función, siga los pasos a continuación.
 
    ![](assets/settings-setup-3.png)
 
+Repita estos pasos para cualquier otra función que desee.
+
 ### Función personalizada {#custom-role}
 
-También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
+También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
 
 <!-- ## Permissions {#permissions}
 
