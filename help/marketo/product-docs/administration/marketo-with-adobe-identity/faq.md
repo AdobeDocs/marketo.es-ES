@@ -141,7 +141,7 @@ No, estas configuraciones no se ven afectadas.
 
 **¿Cómo puedo evitar que las sesiones agoten el tiempo de espera?**
 
-En [Ajustes avanzados](https://helpx.adobe.com/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión que desee (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración de usuarios.
+En [Ajustes avanzados](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión que desee (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración de usuarios.
 
 **Ahora tengo que navegar a Experience Cloud para acceder a Marketo Engage. ¿Hay alguna manera de optimizar esto?**
 
