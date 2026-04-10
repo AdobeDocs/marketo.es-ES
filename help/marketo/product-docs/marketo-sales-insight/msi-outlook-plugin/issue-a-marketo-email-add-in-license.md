@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo emitir una licencia de complemento
 title: Emitir una licencia de complemento de correo electrónico de Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---
@@ -40,9 +40,9 @@ Todo usuario que desee utilizar el complemento Marketo Email [!DNL Outlook] debe
 
    >[!NOTE]
    >
-   >* Para instalar el complemento de forma remota, deja la casilla de verificación _Enviar correo electrónico de registro_ sin marcar y envía a tu equipo de TI tu [clave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Para instalar el complemento de forma remota, deja la casilla de verificación _Enviar correo electrónico de registro con vínculo de descarga_ sin marcar y envía a tu equipo de TI tu [clave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* Si sus representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla de verificación _Enviar correo electrónico de registro_ y habrá terminado. Los destinatarios tienen **30 días** para hacer clic en el vínculo del correo electrónico antes de que caduque.
+   >* Si sus representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla de verificación _Enviar correo electrónico de registro con vínculo de descarga_ y habrá terminado. Los destinatarios tienen **30 días** para hacer clic en el vínculo del correo electrónico antes de que caduque.
 
 >[!MORELIKETHIS]
 >
