@@ -3,7 +3,7 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 4%
@@ -40,7 +40,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   <tr>
    <td>Perfil del producto</td>
    <td><li>¿Están asignados todos los usuarios adecuados al perfil de producto de Marketo Engage en Adobe Admin Console?
-<br/>     Si no es así, asegúrese de <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">agregar o eliminar usuarios</a> de los perfiles de producto de Marketo Engage en Adobe Admin Console. No puede asignar los roles de los usuarios en Marketo Engage &gt; Administración &gt; Usuarios y roles si se añaden a un perfil de producto.</li>
+<br/>     Si no es así, asegúrese de <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md" target="_blank">agregar o eliminar usuarios</a> de los perfiles de producto de Marketo Engage en Adobe Admin Console. No puede asignar los roles de los usuarios en Marketo Engage &gt; Administración &gt; Usuarios y roles si se añaden a un perfil de producto.</li>
 <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Si se añade un usuario no deseado a varios perfiles de producto, debe eliminar el usuario de todos los perfiles de producto. De lo contrario, seguirán teniendo acceso a Marketo Engage.</td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Si su suscripción ya está en Adobe IMS, continúe con la siguiente revisión de la administración de usuarios en Adobe Admin Console. De lo contrario, vaya a Administración &gt; Usuarios y funciones &gt; Usuarios en Marketo Engage.
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">¿Cuántos usuarios</a> hay?</li>
-<li>¿Hay algún usuario que debería <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">eliminarse</a>?</li>
+<li>¿Hay algún usuario que debería <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">eliminarse</a>?</li>
 <li>¿Su compañía tiene directivas para eliminar usuarios?</li>
 <li>¿Cuántos usuarios tienen <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permisos de administración</a>?</li>
 <li>¿Alguno de esos usuarios debería cambiarse a <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">otros roles?</a></li>
@@ -263,7 +263,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><li>¿A qué CRM se está sincronizando? ¿Salesforce? ¿MS Dynamics? ¿Veeva?</li>
 <li>¿Está utilizando una <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">sincronización personalizada</a>?</li>
 <li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados?
-<p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
+<p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Póngase en contacto con el Soporte técnico de Adobe para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
   </tr>
   <tr>
    <td>Páginas de destino</td>
@@ -293,7 +293,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (si corresponde)</td>
-<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
+<td>Para seguir los pasos que se indican a continuación, se requiere acceso a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
 <br/>
 <li>¿Ha aceptado la invitación de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de productos de Dynamic Chat</a>? El correo electrónico se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado administrador del sistema.
 <br/>     Si no es así, busque el correo electrónico de bienvenida en la bandeja de entrada y acepte la invitación para configurar su Adobe ID.</li>

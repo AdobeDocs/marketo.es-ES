@@ -4,7 +4,7 @@ description: Pasos para crear y eliminar usuarios, restablecer contraseñas y ed
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Este artículo es solo para aquellos que _no_ usan [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si lo hace, siga los pasos de [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Este artículo es solo para aquellos que _no_ usan [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Si lo hace, siga los pasos de [este artículo](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}.
 
 ## Crear usuarios {#create-users}
 
