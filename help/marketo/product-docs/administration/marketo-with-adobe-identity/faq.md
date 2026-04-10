@@ -3,7 +3,7 @@ description: Preguntas frecuentes sobre Adobe Identity para Marketo Engage, incl
 title: Preguntas frecuentes sobre Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
 source-wordcount: '1591'
 ht-degree: 98%
@@ -57,9 +57,9 @@ Sí. Los que se hayan incorporado a IMS de Adobe no pueden utilizar todas las AP
 
 **¿Con quién nos ponemos en contacto para obtener asistencia si estamos integrados con IMS?**
 
-* Migración previa al usuario: gestionar casos de soporte en la [Comunidad de Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o por correo electrónico `customercare@marketo.com`.
+* Migración previa al usuario: gestionar casos de soporte en la [Comunidad de Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o por correo electrónico `marketocares@adobe.com`.
 
-* Migración posterior al usuario: gestionar casos de soporte en la [Comunidad de Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o por correo electrónico `customercare@marketo.com`.
+* Migración posterior al usuario: gestionar casos de soporte en la [Comunidad de Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o por correo electrónico `marketocares@adobe.com`.
 
 * Finalización de la migración posterior a la asistencia: los administradores de soporte de productos pueden gestionar casos a través del portal de soporte de Experience League.
 
@@ -141,7 +141,7 @@ No, estas configuraciones no se ven afectadas.
 
 **¿Cómo puedo evitar que las sesiones agoten el tiempo de espera?**
 
-En [Ajustes avanzados](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión que desee (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración de usuarios.
+En [Ajustes avanzados](https://helpx.adobe.com/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"}, puede personalizar la duración máxima de sesión que desee (se requieren permisos de administrador del sistema). Se recomienda establecer esta configuración después de la migración del producto, pero antes de la migración de usuarios.
 
 **Ahora tengo que navegar a Experience Cloud para acceder a Marketo Engage. ¿Hay alguna manera de optimizar esto?**
 

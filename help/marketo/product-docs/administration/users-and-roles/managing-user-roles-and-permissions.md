@@ -4,10 +4,10 @@ description: Cómo establecer, crear y editar funciones de usuario, asignar func
 title: Administración de funciones y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '497'
+ht-degree: 2%
 
 ---
 
@@ -24,16 +24,13 @@ Por ejemplo: un usuario de marketing suele necesitar un acceso amplio en toda la
 Marketo proporciona varias funciones integradas, con diferentes niveles de acceso:
 
 * **Administrador**: todas las partes de la aplicación, incluida la sección Administración
+* **Administrador de productos Adobe**: todas las partes de la aplicación, incluida la sección Administración
 * **Usuario estándar**: todas las partes de la aplicación, excepto la sección Administración
 * **Usuario de marketing**: todas las partes de la aplicación, excepto la sección Administración
 * **Web Designer**: solo Design Studio
 * **Usuario de Analytics**: solo la sección Analytics
 
-No puede editar las funciones Administrador y Usuario estándar, pero puede editar las demás. También puede crear nuevas funciones personalizadas para que coincidan con las estructuras organizativas particulares de su compañía.
-
-## Marketo con Adobe Identity {#marketo-with-adobe-identity}
-
-Si usa Marketo con Adobe Identity, la lista de descripciones de perfiles [se encuentra aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+No puede eliminar los roles de Administrador o Administrador de productos de Adobe, pero puede editar o eliminar los demás. También puede crear nuevas funciones personalizadas para que coincidan con las estructuras organizativas particulares de su compañía.
 
 ## Asignar funciones a un usuario {#assign-roles-to-a-user}
 

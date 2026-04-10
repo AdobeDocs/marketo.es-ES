@@ -4,10 +4,10 @@ description: Pasos para crear, eliminar y editar roles de usuario, incluidos los
 title: Crear, eliminar, editar y cambiar una función de usuario
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 9%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->Las siguientes funciones son funciones del sistema y no se pueden editar ni eliminar:
+>Las siguientes funciones son funciones del sistema y no se pueden eliminar:
 >
 >* Administrador
 >* Administrador de productos de Adobe
->* Usuario estándar
->* Editor de RTP
->* Selector de RTP
 
 ## Crear un rol {#create-a-role}
 
