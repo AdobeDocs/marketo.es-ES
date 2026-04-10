@@ -92,7 +92,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Anuncios {#announcements}
 
-* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=es){target="_blank"}.
 
 * **Límite de posibles clientes de combinación de API REST**: A partir del 31 de marzo de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 
