@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo emitir una licencia de complemento
 title: Emitir una licencia de complemento de correo electrónico de Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -34,19 +34,15 @@ Todo usuario que desee utilizar el complemento Marketo Email [!DNL Outlook] debe
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Escriba las direcciones de correo electrónico de los representantes de ventas que necesitan autorización para usar el complemento y haga clic en **[!UICONTROL Emitir licencia]**.
+1. Escriba las direcciones de correo electrónico de los representantes de ventas que necesitan autorización para usar el complemento y haga clic en **[!UICONTROL Emitir licencia]**. Para introducir varias direcciones de correo electrónico, sepárelas con una coma.
 
-   ![](assets/image2016-8-31-9-3a37-3a8.png)>
-
-   >[!TIP]
-   >
-   >Puede introducir varias direcciones de correo electrónico, separadas por una coma.
+   ![](assets/image2016-8-31-9-3a37-3a8.png)
 
    >[!NOTE]
    >
-   >Para instalar el complemento de forma remota, deja la casilla sin marcar y envía a tu equipo de TI tu [clave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Para instalar el complemento de forma remota, deja la casilla de verificación _Enviar correo electrónico de registro_ sin marcar y envía a tu equipo de TI tu [clave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Si sus representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla y ya está.
+   >* Si sus representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla de verificación _Enviar correo electrónico de registro_ y habrá terminado. Los destinatarios tienen **30 días** para hacer clic en el vínculo del correo electrónico antes de que caduque.
 
 >[!MORELIKETHIS]
 >
