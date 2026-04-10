@@ -1,16 +1,15 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Añadir CSS personalizadas al contenido del correo electrónico
-description: Aprenda a añadir CSS personalizado al contenido del correo electrónico en Designer de correo electrónico. Defina un estilo para sus correos electrónicos con código personalizado en Marketo Engage.
+title: Edición de plantillas de correo electrónico con el editor avanzado de HTML
+description: Obtenga información sobre cómo ver y editar el código fuente de HTML sin procesar en Marketo Engage Email Designer, incluidas las protecciones, los pasos de acceso y las limitaciones clave.
 level: Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
+exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 2%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
