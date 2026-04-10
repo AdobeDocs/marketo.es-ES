@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '448'
 ht-degree: 38%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 38%
 
 A continuación encontrará todas las funciones incluidas en la versión de marzo de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -48,19 +48,19 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
    <td> </td>
    <td> </td>
   </tr>
+   <tr>
+   <td><strong>Email Designer - Corrección de procesamiento de Outlook</strong>: Esta actualización corrige los problemas de procesamiento, especialmente en MS Outlook. El modo avanzado de HTML le permite realizar pequeñas ediciones de HTML/CSS o añadir etiquetas de script a la plantilla de correo electrónico.
+   </td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Edición de plantillas de correo electrónico con el editor avanzado de HTML</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
   <tr>
    <td><strong>Designer de correo electrónico - Comprobador de calidad de marca</strong>: evalúe la calidad general del contenido para identificar posibles problemas con legibilidad, coherencia de contenido y efectividad, independientemente de las directrices de marca.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Corrección de procesamiento de Outlook</strong>: Esta actualización corrige los problemas de procesamiento, especialmente en MS Outlook. El "modo experto" le permite realizar ediciones menores de HTML/CSS o agregar etiquetas de script a su correo electrónico (la práctica recomendada es no realizar ningún otro cambio en el HTML del correo electrónico para mantener los elementos visuales tal cual).
-   </td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -92,7 +92,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 ## Anuncios {#announcements}
 
-* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=es){target="_blank"}.
+* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Límite de posibles clientes de combinación de API REST**: A partir del 31 de marzo de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 

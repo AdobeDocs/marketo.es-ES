@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 14%
 
 ---
@@ -262,22 +262,10 @@ Compruebe si hay actualizaciones en esta página (así como en las [notas de la 
     <td>Disponible</td>
   </tr>
   <tr>
-    <td>Flujos de trabajo de aprobación de contenido</td>
-    <td>Capacidad para introducir flujos de trabajo de aprobación para correos electrónicos en Marketo Engage.</td>
-    <td>No disponible</td>
-    <td>Por determinar</td>
-  </tr>
-  <tr>
-    <td>Correos electrónicos en CRM</td>
-    <td>Capacidad para enviar información relacionada con correos electrónicos a su CRM.</td>
+    <td>Editor de HTML</td>
+    <td>Capacidad para modificar el contenido de HTML de <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">plantillas de correo electrónico</a>.</td>
     <td>Disponible</td>
-    <td>Por determinar</td>
-  </tr>
-  <tr>
-    <td>Editor de código</td>
-    <td>Capacidad para modificar el contenido de HTML de correos electrónicos, plantillas de correo electrónico y fragmentos.</td>
     <td>Disponible</td>
-    <td>Por determinar</td>
   </tr>
   <tr>
     <td>Compatibilidad para mover, eliminar e importar programas con recursos de correo electrónico</td>
