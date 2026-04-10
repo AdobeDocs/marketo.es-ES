@@ -4,7 +4,7 @@ description: Cómo crear una función de usuario Solo API para la integración d
 title: Creación de una función de usuario único de API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 11%
@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Creación de una función de usuario único de API {#create-an-api-only-user-role}
 
-Si desea integrarse con Marketo a través de la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api), la práctica recomendada es [asignar a un usuario la función Solo API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) y luego [crear un servicio personalizado para utilizarlo con la API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). A continuación, se indica cómo crear la función de usuario solo de API.
+Si desea integrarse con Marketo a través de la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api), la práctica recomendada es [asignar a un usuario la función Solo API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md) y luego [crear un servicio personalizado para utilizarlo con la API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). A continuación, se indica cómo crear la función de usuario solo de API.
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ Si desea integrarse con Marketo a través de la [API REST](https://experiencelea
 
 >[!MORELIKETHIS]
 >
->¡Bien hecho! Ahora vamos a [crear un usuario solo de API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
+>¡Bien hecho! Ahora vamos a [crear un usuario solo de API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md).

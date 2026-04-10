@@ -3,7 +3,7 @@ description: Obtenga información sobre cómo insertar un segmento de Adobe Expe
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '663'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 >[!PREREQUISITES]
 >
 >* [Edite la función de la API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} para asegurarse de que tiene el permiso **Persona de lectura y escritura** (que se encuentra en la lista desplegable de la API de acceso).
->* [Crear un usuario de API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} en Marketo.
+>* [Crear un usuario de API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} en Marketo.
 >* Vaya a **[!UICONTROL Administración]** > **[!UICONTROL Punto de inicio]**. Busque el nombre de la función que acaba de crear y haga clic en **[!UICONTROL Ver detalles]**. Copie y guarde la información en **[!UICONTROL ID de cliente]** y **[!UICONTROL Secreto de cliente]**, ya que podría necesitarla para el paso 7.
 >* En Marketo, cree una lista estática o busque y seleccione una que ya haya creado. Necesitará su ID...
 
@@ -99,7 +99,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
+   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
 
 1. Asigne los apellidos y el nombre de la compañía haciendo clic en **[!UICONTROL Agregar nueva asignación]** de nuevo y repitiendo el paso 15 dos veces, eligiendo **[!UICONTROL lastName]** y luego **[!UICONTROL companyName]**.
 
