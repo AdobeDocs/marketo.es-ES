@@ -4,10 +4,10 @@ description: Lista de referencia de todos los permisos de funciones en Marketo, 
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
-ht-degree: 15%
+source-wordcount: '1320'
+ht-degree: 17%
 
 ---
 
@@ -32,10 +32,10 @@ Cuando [crea o edita un rol](/help/marketo/product-docs/administration/users-and
 Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 
 * Acceso a Adobe Connect: otorga a los usuarios acceso a la pantalla de Adobe Connect
-* Acceso a Adobe Experience Manager&#42;: otorga a los usuarios acceso a la pantalla de Adobe Experience Manager
-* Acceso a la asignación de organizaciones de Adobe&#42;: otorga a los usuarios acceso a la pantalla de asignación de organizaciones de Adobe
-* Acceso a la pista de auditoría de administración &#42;: otorga a los usuarios acceso a la pantalla Pista de auditoría de administración
-* Pista de auditoría de acceso &#42;: otorga a los usuarios acceso a la pista de auditoría de acceso
+* Acceso a Adobe Experience Manager: otorga a los usuarios acceso a la pantalla de Adobe Experience Manager
+* Acceso a Adobe Organization Mapping: otorga a los usuarios acceso a la pantalla de Adobe Organization Mapping
+* Acceso a la pista de auditoría de administración: otorga a los usuarios acceso a la pantalla Pista de auditoría de administración
+* Registro de auditoría de acceso: otorga a los usuarios acceso al registro de auditoría de acceso
 * Pista de auditoría de acceso: otorga a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración
 * Acceso a CAPTCHA: acceso a la pantalla CAPTCHA
 * Acceso a canales: otorga a los usuarios acceso solo para modificar la etiqueta Canal, no otras etiquetas personalizadas
@@ -51,11 +51,11 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Ubicación de acceso: otorga a los usuarios acceso a Ubicación en la administración para establecer el idioma, la configuración regional, la zona horaria y la moneda predeterminados
 * Acceder al historial de inicio de sesión: otorga a los usuarios acceso al historial de inicio de sesión del usuario en la pista de auditoría
 * Configuración de inicio de sesión con acceso: otorga a los usuarios acceso a la configuración de inicio de sesión en Administración para la configuración de seguridad, restricciones de IP e informes de listas inteligentes
-* Acceder a la nueva experiencia&#42;: otorga a los usuarios acceso a la pantalla Nueva experiencia
+* Acceder a la nueva experiencia: otorga a los usuarios acceso a la pantalla Nueva experiencia
 * Acceso a la actividad personalizada de Marketo: otorga a los usuarios acceso a las actividades personalizadas de Marketo en Administración
 * Acceso al objeto personalizado de Marketo: otorga a los usuarios acceso a los objetos personalizados de Marketo en la administración
 * Acceso [!DNL Munchkin]: los usuarios de GIves obtienen acceso a [!DNL Munchkin] en Administración para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
-* Acceso a Predictive Audiences&#42;: otorga a los usuarios acceso a la pantalla Predictive Audiences
+* Acceso a Predictive Audiences: otorga a los usuarios acceso a la pantalla Predictive Audiences
 * Acceso a Revenue Cycle Analytics: otorga a los usuarios acceso a Revenue Cycle Analytics en Administración para configurar la sincronización de resumen y atribución
 * Acceder a funciones: otorga a los usuarios acceso para administrar y editar funciones, pero no para los usuarios
 * Acceso a Sales Insight: otorga a los usuarios acceso para administrar Sales Insight en Administración, para configurar el estado, la configuración de API, la puntuación de persona y otras configuraciones
@@ -67,8 +67,6 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceder a usuarios: otorga a los usuarios acceso para editar y administrar usuarios (pero no funciones) en Administración
 * Acceder a webhooks: otorga a los usuarios acceso a los webhooks en administración para configurar detalles y asignaciones de respuestas
 * Acceso a espacios de trabajo y particiones: otorga a los usuarios acceso para crear, editar y eliminar espacios de trabajo y particiones en la administración
-
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a API  {#access-api}
 
@@ -102,11 +100,9 @@ Otorga a los usuarios con la **API solamente** **función** acceso a las API ind
 Proporciona a los usuarios acceso a las pestañas de Analytics, a las perspectivas de correo electrónico, a los informes y a los tres elementos siguientes, a menos que estén desmarcados.
 
 * Al desmarcar se elimina el acceso del usuario al Explorador de ingresos
-* Crear informe&#42;: otorga a los usuarios acceso para crear, clonar, leer, actualizar y mover recursos de informes en Analytics y actividades de marketing, así como recursos de Modeler del ciclo de ingresos
+* Crear informe: otorga a los usuarios acceso para crear, clonar, leer, actualizar y mover recursos de informes en Analytics y Actividades de marketing, así como recursos de Modeler del ciclo de ingresos
 * Eliminar informe: al desmarcar se elimina la capacidad del usuario para eliminar informes
 * Exportar datos de Analytics: al desmarcar se elimina la capacidad del usuario para exportar datos de Analytics
-
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a presentaciones del calendario {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
    * Editar segmentación
 
 * Eliminar persona
-* Crear lista&#42;
+* Crear lista
    * Acceso para crear un recurso de lista en actividades de base de datos y marketing
    * Acceso para crear un recurso de lista inteligente en actividades de base de datos y marketing
 * Eliminar lista
@@ -190,8 +186,6 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
 * Ejecutar acciones de flujo único: permite a los usuarios ejecutar el paso de flujo **Cambiar valor de datos** en las personas de la base de datos
 
 * Ver datos de oportunidad: oculta la información de la oportunidad en la página de detalles de la persona
-
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Acceder a Actividades de marketing {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Acceder al SEO
 
 * Administrar SEO
 * SEO estándar
-
-_&#42;Para evitar interrupciones a los usuarios existentes, este permiso se está introduciendo en modo pasivo y está visible, pero no se puede acceder a él en este momento. Comunicaremos cómo implementarlo cuando se active a mediados de 2024._
 
 ## Enfoque y personalización {#targeting-and-personalization}
 
