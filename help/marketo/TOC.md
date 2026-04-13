@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [Información sobre la API de exportación masiva](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspector de campañas](product-docs/administration/settings/campaign-inspector.md)
          + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Cambiar la contraseña de Marketo](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Cambiar la configuración de seguridad de la contraseña](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creación de una pestaña personalizada para la página de detalles de la persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Editar configuración de la cuenta](product-docs/administration/settings/edit-account-settings.md)
          + [Editar la configuración de compatibilidad con el explorador “No rastrear”](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [Restringir inicios de sesión de Marketo según la dirección IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Cambiar la zona horaria](product-docs/administration/settings/change-time-zone.md)
          + [Establecer una página de reserva](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Establecer la configuración de ubicación predeterminada para una suscripción](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [Establecer la moneda predeterminada](product-docs/administration/settings/set-default-currency.md)
          + [Explicación de la configuración de privacidad](product-docs/administration/settings/understanding-privacy-settings.md)
       + Etiquetas {#tags}
          + [Creación de una nueva etiqueta de programa y valores de etiqueta](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,8 @@ ht-degree: 99%
          + [Creación de una función de usuario único de API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Creación de un usuario único de API](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Crear, eliminar, editar y cambiar una función de usuario](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [Verificación de correo electrónico](product-docs/administration/users-and-roles/email-verification.md)
+         + [Editar espacios de trabajo de usuario](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportación de una lista de usuarios y funciones](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Administración de usuarios de Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Administración de funciones y permisos de usuario](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportar funciones y permisos](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descripciones de los permisos de funciones](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -781,7 +778,7 @@ ht-degree: 99%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde Box](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas de destino {#landing-pages}
+      + Páginas de aterrizaje {#landing-pages}
          + Explicación de las páginas de destino {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1146,7 +1143,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1359,7 +1356,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
