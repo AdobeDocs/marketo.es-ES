@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Obtenga información sobre la zona protegida de Marketo Engage para pruebas antes de la producción. Utilice una instancia de zona protegida para probar sin afectar a la producción.
 title: Zona protegida de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 
 ## Cosas que hay que saber sobre Sandboxes {#things-to-know-about-sandboxes}
 
-* Si desea agregar usuarios, el proceso es el mismo que [agregar usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya han iniciado sesión en Marketo.
+* Si desea agregar usuarios, el proceso es el mismo que [agregar usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya han iniciado sesión en Marketo.
 * La zona protegida de Marketo empezará vacía, pero tendrá las mismas funciones disponibles que la de producción.
 * Si crea un programa en su zona protegida y desea moverlo a producción, puede realizar una [importación de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Las zonas protegidas se limitan para que las instancias de producción no se vean afectadas negativamente por los entornos de prueba. Puede enviar hasta 20 correos electrónicos por campaña ejecutada.

@@ -4,10 +4,10 @@ description: Notas de la versión, primavera de 2016, documentación de Marketo,
 title: Notas de la versión, primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Perspectivas de correo electrónico es una nueva experiencia histórica de anál
 
 ![](assets/two.png)
 
-## [Selector de plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [Selector de plantillas de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 Cree correos electrónicos atractivos con nuestras nuevas plantillas de inicio. Además, localice rápidamente las plantillas desde sus miniaturas en directo.
 
@@ -85,7 +85,7 @@ Hoy en día, es difícil diferenciar entre instancias de Marketo, por ejemplo, i
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Acceso de tiempo limitado para suscripciones](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## Acceso de tiempo limitado para suscripciones {#limited-time-access-for-subscriptions}
 
 Hoy en día, los usuarios están invitados a la suscripción de Marketo por un período de tiempo indefinido. Esta función permite a los administradores invitar a usuarios a suscripciones durante un período de tiempo limitado, por ejemplo, 2 semanas o 1 mes.
 

@@ -4,7 +4,7 @@ description: Descubra cómo funciona la sincronización de oportunidades de Sale
 title: 'Sincronización de SFDC: sincronización de oportunidad'
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 11%
@@ -27,7 +27,7 @@ No, no puedes. Los cambios realizados en cualquier oportunidad de [!DNL Salesfor
 
 ## ¿Admite Marketo más de una divisa en el importe de la oportunidad? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo solo admite una divisa. La cantidad de la oportunidad se sincronizará desde [!DNL Salesforce], pero la moneda será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) de su suscripción a Marketo.
+No, Marketo solo admite una divisa. La cantidad de la oportunidad se sincronizará desde [!DNL Salesforce], pero la moneda será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-currency.md) de su suscripción a Marketo.
 
 ## ¿Cómo asocia Marketo las oportunidades y los contactos? {#how-does-marketo-associate-opportunities-and-contacts}
 

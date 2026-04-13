@@ -4,9 +4,9 @@ description: Cómo establecer, crear y editar funciones de usuario, asignar func
 title: Administración de funciones y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ No puede eliminar los roles de Administrador o Administrador de productos de Ado
 
 ## Asignar funciones a un usuario {#assign-roles-to-a-user}
 
-Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o cuando [edite un usuario existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
