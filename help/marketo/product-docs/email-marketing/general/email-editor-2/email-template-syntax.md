@@ -4,10 +4,10 @@ description: Obtenga información acerca de la sintaxis de las plantillas de cor
 title: Sintaxis de la plantilla de correo electrónico
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Valor predeterminado (opcional)
 
 Por ejemplo:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opción 2: usar un \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Ejemplo:
 
 ## Fragmentos {#snippets}
 
-Si define una región como un fragmento de código, los usuarios finales podrán elegir qué [fragmento de código](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) aprobado desean insertar en esta región. Aunque los elementos de texto enriquecido se pueden convertir en fragmentos de código desde el editor de correo electrónico, al definir una región específicamente como fragmento de código, no se pueden convertir en texto enriquecido. Puede especificar una región de fragmento utilizando `<div>` con class=&quot;mktoSnippet&quot;
+Si define una región como un fragmento de código, los usuarios finales podrán elegir el [fragmento de código](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) aprobado que deseen insertar en esta región. Aunque los elementos de texto enriquecido se pueden convertir en fragmentos de código desde el editor de correo electrónico, al definir una región específicamente como fragmento de código, no se pueden convertir en texto enriquecido. Puede especificar una región de fragmento utilizando `<div>` con class=&quot;mktoSnippet&quot;
 
 Atributos obligatorios
 
