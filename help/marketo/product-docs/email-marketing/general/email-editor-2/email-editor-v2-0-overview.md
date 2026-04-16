@@ -4,10 +4,10 @@ description: Obtenga información acerca del Editor de correo electrónico v2.0 
 title: Información general del editor de correo electrónico, versión 2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 96%
+source-wordcount: '476'
+ht-degree: 86%
 
 ---
 
@@ -17,7 +17,7 @@ Información general del editor de correo electrónico clásico.
 
 >[!IMPORTANT]
 >
->Aunque no hay una fecha exacta establecida, el editor de correo electrónico clásico probablemente quedará en desuso en algún momento de 2027 (anunciaremos la fecha exacta cuando la tengamos). Se recomienda encarecidamente comenzar a adoptar el [Diseñador de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avanzado, ya que tiene muchas funciones que no están disponibles en el editor clásico.
+>Aunque no hay una fecha exacta, el editor de correo electrónico clásico acabará obsoleto (anunciaremos una fecha exacta cuando la tengamos). Se recomienda encarecidamente comenzar a adoptar [Email Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avanzado, ya que tiene muchas funcionalidades que no están disponibles en el editor clásico.
 
 **Selector de plantillas de correo electrónico**
 
