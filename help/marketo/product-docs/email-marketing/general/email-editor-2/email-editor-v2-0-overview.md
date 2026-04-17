@@ -4,10 +4,10 @@ description: Obtenga información acerca del Editor de correo electrónico v2.0 
 title: Información general del editor de correo electrónico, versión 2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 86%
+source-wordcount: '457'
+ht-degree: 85%
 
 ---
 
@@ -102,12 +102,6 @@ Tiene la opción de añadir un [!UICONTROL preencabezado]. Un [!UICONTROL preenc
 >[!CAUTION]
 >
 >Los tókenes no funcionan en el [!UICONTROL preencabezado] cuando se usa el editor de correo electrónico. El uso de un token en el [!UICONTROL preencabezado] debe ser a través del HTML propio de una plantilla de correo electrónico.
-
-Numerosas funciones nuevas extraordinarias. A pasarlo bien.
-
->[!NOTE]
->
->Si desea profundizar aún más, vea este [vídeo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
