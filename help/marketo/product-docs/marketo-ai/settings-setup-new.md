@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ Obtenga información sobre cómo habilitar permisos y utilizar el área Configur
 
 ## Permisos y funciones {#permission-and-role}
 
-Hay una compilación de _Access con permiso de AI_ y una compilación con rol de _AI_, lo que proporciona a los administradores un mayor control sobre los usuarios que pueden acceder a la característica **Build with AI**. El permiso se asigna en el nivel de rol. La función _Build with AI_ viene con el permiso _Access Build with AI_ habilitado de forma predeterminada.
+Hay una compilación de _Access con permiso de AI_ y una función de _Build with AI User_, que proporciona a los administradores un mayor control sobre los usuarios que pueden acceder a la función **Build with AI**. El permiso se asigna en el nivel de rol. La función _Generar con usuario de IA_ viene con el permiso _Generar acceso con IA_ habilitado de forma predeterminada.
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ Siga los pasos a continuación para habilitar _Access Build con IA_ para roles c
 
 Sigue estos pasos para asignar un usuario específico al rol _Generar con usuario de IA_.
 
+>[!NOTE]
+>
+>Esta función **solamente** contiene _compilación de acceso con permisos de IA_. Si desea que el usuario tenga acceso a algo más que solo la IA de Marketo, asegúrese de agregar permisos adicionales.
+
 1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ Sigue estos pasos para asignar un usuario específico al rol _Generar con usuari
 
 ### Función personalizada {#custom-role}
 
-También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
+También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
 
 ## Configuración {#settings}
 
