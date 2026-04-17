@@ -3,11 +3,11 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 hide: true
 hidefromtoc: true
-exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
+exl-id: faf642a1-25f0-4566-b35d-074b003835ed
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 4%
 
 ---
 
@@ -15,19 +15,26 @@ ht-degree: 0%
 
 Obtenga información sobre cómo habilitar permisos y utilizar el área Configuración para ver los detalles de conexión, definir reglas organizativas y configurar integraciones y notificaciones.
 
-## Permisos {#permissions}
+## Permisos y funciones {#permission-and-role}
+
+Hay una compilación de _Access con permiso de AI_ y una función de _Build with AI User_, que proporciona a los administradores un mayor control sobre los usuarios que pueden acceder a la función **Build with AI**. El permiso se asigna en el nivel de rol. La función _Generar con usuario de IA_ viene con el permiso _Generar acceso con IA_ habilitado de forma predeterminada.
 
 >[!IMPORTANT]
 >
->En la fase de Alpha de Marketo AI, el acceso de _está habilitado de forma predeterminada_ para los siguientes roles: Administrador, Administrador de productos de Adobe, Usuario de marketing y Usuario estándar. Por lo tanto, en lugar de activarlo para las funciones a las que desea tener acceso, debe desactivarlo para las funciones a las que no tenga acceso.
+>El permiso _Generar acceso con IA_ no está habilitado de manera predeterminada para todas las funciones. Consulte la tabla siguiente para obtener más información.
 
-### Acceso para todos {#access-for-all}
+| Función | Estado predeterminado |
+| --- | --- |
+| Administrador | Habilitado |
+| Administrador de productos de Adobe | Habilitado |
+| Usuario de marketing | Desactivado |
+| Usuario estándar | No disponible |
+| Generar con usuario de IA | Habilitado |
+| Funciones personalizadas | Desactivado |
 
-Si desea habilitar la IA de Marketo para todas las funciones enumeradas anteriormente, no tiene que hacer nada.
+### Acceso a la versión con permiso de IA {#access-build-with-ai-permission}
 
-### Acceso para algunos {#access-for-some}
-
-Si desea quitar el acceso a cualquier función, siga los pasos a continuación.
+Siga los pasos a continuación para habilitar _Access Build con IA_ para roles calificadores que aún no lo tienen habilitado.
 
 1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
 
@@ -37,33 +44,37 @@ Si desea quitar el acceso a cualquier función, siga los pasos a continuación.
 
    ![](assets/settings-setup-2.png)
 
-1. Desplácese hacia abajo y _desmarque_ la casilla de verificación **Generar acceso con IA** y haga clic en **Guardar**.
+1. Desplácese hacia abajo y marque la casilla de verificación _Generar acceso con IA_ y haga clic en **Guardar**.
 
    ![](assets/settings-setup-3.png)
 
-Repita estos pasos para cualquier otra función que desee.
+   >[!NOTE]
+   >
+   >Puede seguir estos mismos pasos para quitar el permiso **un** marcando la casilla de verificación _Generar acceso con IA_.
 
-### Función personalizada {#custom-role}
+### Generar con función de usuario de IA {#build-with-ai-user-role}
 
-También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
+Sigue estos pasos para asignar un usuario específico al rol _Generar con usuario de IA_.
 
-<!-- ## Permissions {#permissions}
+>[!NOTE]
+>
+>Este rol **solamente** contiene la compilación de acceso _con permiso de IA_.
 
-In order to access Marketo AI, Admins must first enable role permissions. 
-
-1. In your My Marketo, click **Admin**, then **Users & Roles**.
+1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
 
    ![](assets/settings-setup-1.png)
 
-1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+1. Seleccione el usuario que desee y haga clic en **Editar usuario**.
 
-   ![](assets/settings-setup-2.png)
+   ![](assets/settings-setup-5b.png)
 
-1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+1. En _Roles y espacios de trabajo_, active la casilla de verificación _Generar con usuario de IA_. Si tiene más de un área de trabajo, puede especificar cuáles recibirán acceso en la lista desplegable de signo **+**. Haga clic en **Guardar** cuando termine.
 
-   ![](assets/settings-setup-3.png)
+   ![](assets/settings-setup-6b.png)
 
--->
+### Función personalizada {#custom-role}
+
+También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
 
 ## Configuración {#settings}
 
