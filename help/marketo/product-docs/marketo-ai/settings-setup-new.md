@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -22,38 +22,14 @@ Hay una compilación de _Access con permiso de AI_ y una función de _Build with
 >
 >El permiso _Generar acceso con IA_ no está habilitado de manera predeterminada para todas las funciones. Consulte la tabla siguiente para obtener más información.
 
-<table><thead>
-  <tr>
-    <th>Función</th>
-    <th>Estado predeterminado</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Administrador</td>
-    <td>Habilitado</td>
-  </tr>
-  <tr>
-    <td>Administrador de productos de Adobe</td>
-    <td>Habilitado</td>
-  </tr>
-  <tr>
-    <td>Usuario de marketing</td>
-    <td>Desactivado</td>
-  </tr>
-  <tr>
-    <td>Usuario estándar</td>
-    <td>No disponible</td>
-  </tr>
-  <tr>
-    <td>Generar con usuario de IA</td>
-    <td>Habilitado</td>
-  </tr>
-  <tr>
-    <td>Funciones personalizadas</td>
-    <td>Desactivado</td>
-  </tr>
-</tbody>
-</table>
+| Función | Estado predeterminado |
+| --- | --- |
+| Administrador | Habilitado |
+| Administrador de productos de Adobe | Habilitado |
+| Usuario de marketing | Desactivado |
+| Usuario estándar | No disponible |
+| Generar con usuario de IA | Habilitado |
+| Funciones personalizadas | Desactivado |
 
 ### Acceso a la versión con permiso de IA {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ Sigue estos pasos para asignar un usuario específico al rol _Generar con usuari
 
 >[!NOTE]
 >
->Esta función **solamente** contiene _compilación de acceso con permisos de IA_. Si desea que el usuario tenga acceso a algo más que solo la IA de Marketo, asegúrese de agregar permisos adicionales.
+>Esta función **solamente** contiene _compilación de acceso con permisos de IA_.
 
 1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
 
@@ -97,7 +73,7 @@ Sigue estos pasos para asignar un usuario específico al rol _Generar con usuari
 
 ### Función personalizada {#custom-role}
 
-También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
+También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Generar acceso con IA_, junto con cualquier otra cosa que desee, y [asignando esa función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
 
 ## Configuración {#settings}
 
