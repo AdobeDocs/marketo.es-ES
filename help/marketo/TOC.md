@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
 workflow-type: tm+mt
-source-wordcount: '9129'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 99%
    + MARKETO AI {#marketo-ai}
       + [Información general](product-docs/marketo-ai/overview.md)
       + [Configuración y configuración](product-docs/marketo-ai/settings-setup.md)
+      + [Configuración y configuración](product-docs/marketo-ai/settings-setup-new.md)
       + Agentes {#agents}
          + [Importar posibles clientes](product-docs/marketo-ai/agents/import-leads.md)
          + [Control de calidad del programa](product-docs/marketo-ai/agents/program-qa.md)
@@ -1142,7 +1143,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo ](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1355,7 +1356,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo ](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
