@@ -4,10 +4,10 @@ description: Obtenga información acerca de los tipos de informes disponibles, i
 title: Información general del tipo de informe
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 20%
+source-wordcount: '309'
+ht-degree: 15%
 
 ---
 
@@ -47,15 +47,15 @@ Cuando [cree un informe en un programa](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Informe de personas por fase de ingresos</a></strong></td>
-   <td>Creación de informes básicos para el modelo de ingresos. Consulte <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
+   <td>Creación de informes básicos para el modelo de ingresos. Consulte <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempeño de página de destino</a>  </strong></td>
-   <td>No es un sustituto de Google Analytics, pero aún así es una buena información.</td>
+   <td>Vea visitas, conversiones y otras métricas para sus páginas de aterrizaje.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempeño del programa</a>  </strong></td>
-   <td>Métricas básicas del programa como miembros y éxito. Consulte <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
+   <td>Métricas básicas del programa como miembros y éxito. Consulte <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Actividad de la compañía en la web</a></strong></td>
@@ -67,11 +67,11 @@ Cuando [cree un informe en un programa](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Informe de rendimiento del flujo de participación</a> </strong></td>
-   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
+   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Desempeño de correo electrónico de la campaña</a> </strong></td>
-   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
+   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
   </tr>
  </tbody>
 </table>
