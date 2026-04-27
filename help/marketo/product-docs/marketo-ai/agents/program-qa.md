@@ -1,13 +1,11 @@
 ---
 description: Obtenga información sobre cómo auditar sus programas para conocer las prácticas recomendadas en todos los componentes, como correos electrónicos, páginas de aterrizaje, campañas y mucho más.
 title: Control de calidad del programa
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

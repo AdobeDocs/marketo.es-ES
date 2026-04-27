@@ -1,14 +1,12 @@
 ---
 description: Explore el conjunto de agentes de IA de Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
 title: Información general sobre Marketo Engage AI
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
@@ -28,7 +26,7 @@ En la pantalla Mi Marketo, haga clic en el mosaico **Generar con IA**.
 
 La interfaz conversacional proporciona un conjunto de funciones de Agentic diseñadas para automatizar tareas manuales que mejoran significativamente la productividad.
 
-Haga clic en el botón **Introducción** en el área de solicitud de diálogo (&quot;_Introducción a los agentes de IA..._&quot; está en la solicitud de forma predeterminada).
+Haga clic en el botón **Introducción** en el área de solicitud de cuadro de diálogo (&quot;_Introducción a los agentes de IA..._&quot; está en el indicador de forma predeterminada).
 
 ![](assets/overview-2.png)
 
