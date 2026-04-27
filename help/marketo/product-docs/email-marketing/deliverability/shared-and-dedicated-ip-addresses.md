@@ -4,9 +4,9 @@ description: Obtenga información acerca de las direcciones IP compartidas y ded
 title: Direcciones IP compartidas y dedicadas
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ _Profesionales_
 _Inconvenientes_
 
 **Cambios de volumen**: los picos de volumen pueden afectar negativamente a su reputación y es necesario administrarlos.
-**Proceso de calentamiento de IP**: la reputación se crea con el tiempo. Algunos proveedores de servicios de Internet (ISP) limitan las direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación durante las primeras semanas (Marketo puede ayudarle a guiarle).
+**Proceso de calentamiento de IP**: la reputación se genera con el tiempo. Algunos proveedores de servicios de Internet (ISP) limitan las direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación durante las primeras semanas (Marketo puede ayudarle a guiarle).
 **Costo**: normalmente hay un cargo adicional para enviar desde una IP dedicada con cualquier proveedor.
 
 **Ventajas e inconvenientes de una IP compartida**

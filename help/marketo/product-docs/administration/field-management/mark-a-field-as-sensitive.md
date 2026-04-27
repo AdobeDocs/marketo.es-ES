@@ -3,20 +3,16 @@ description: Marque los campos como confidenciales, de modo que sus valores nunc
 title: Marcar un campo como confidencial
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '71'
+ht-degree: 14%
 
 ---
 
 # Marcar un campo como confidencial {#mark-a-field-as-sensitive}
 
 Como administrador de Marketo, puede marcar un campo específico como &quot;confidencial&quot; para que sus valores nunca se rellenen previamente en los formularios, lo que protege los datos confidenciales de los usuarios.
-
->[!NOTE]
->
->Esta función se habilitará para todas las instancias de Marketo en la tarde del martes 11 de mayo.
 
 1. Haga clic en **[!UICONTROL Administrador]**.
 
@@ -33,5 +29,3 @@ Como administrador de Marketo, puede marcar un campo específico como &quot;conf
 1. Seleccione la casilla de verificación **[!UICONTROL Marcar campo como confidencial]**.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
-
-¡Y eso es todo! En adelante, los formularios de Marketo habilitados con el relleno previo no mostrarán datos para el campo seleccionado.

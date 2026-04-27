@@ -3,10 +3,10 @@ description: Filtre o registre la actividad de bots de correo electrónico para 
 title: Filtrar actividad del bot de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 11%
 
 ---
 

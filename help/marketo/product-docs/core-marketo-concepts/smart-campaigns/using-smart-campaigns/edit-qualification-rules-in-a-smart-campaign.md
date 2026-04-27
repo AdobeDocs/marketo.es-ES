@@ -1,42 +1,34 @@
 ---
 unique-page-id: 1146974
-description: Obtenga información sobre cómo editar reglas de cualificación en una campaña inteligente. Cambie cuántas veces las personas pueden correr a través de la campaña.
+description: Learn how to edit qualification rules in a Smart Campaign. Change how many times people can run through the campaign.
 title: Edición de reglas de calificación en una campaña inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '202'
 ht-degree: 6%
 
 ---
 
 # Edición de reglas de calificación en una campaña inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
-Las reglas de calificación controlan cuántas veces alguien puede correr a través del flujo en una campaña inteligente. De forma predeterminada, incluso si alguien déclencheur una campaña inteligente varias veces, solo se envía a través del flujo una vez. A continuación se indica cómo modificar esta configuración.
+Qualification rules control how many times someone can run through the flow in a Smart Campaign. By default, even if someone triggers a Smart Campaign multiple times, they will only be sent through the flow once. Here&#39;s how to modify these settings.
 
-1. En su campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** y luego en **[!UICONTROL Editar configuración]**.
+1. In your Smart Campaign, click the **[!UICONTROL Schedule]** tab and then **[!UICONTROL Edit Settings]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >También puede hacer clic en **[!UICONTROL Editar]** a la derecha de &quot;Configuración de campaña inteligente&quot;.
+   >You can also click **[!UICONTROL Edit]** to the right of &quot;Smart Campaign Settings.&quot;
 
-1. Elija la frecuencia con la que ejecutará a sus recursos a través del flujo de campañas inteligentes: **[!UICONTROL solo una vez]**, **[!UICONTROL cada vez]** o **una vez cada # días**/**semanas**/**meses**.
+1. Choose how often to run your people through the Smart Campaign flow: **[!UICONTROL only once]**, **[!UICONTROL every time]**, or **once every # days**/**weeks**/**months**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
-   >Cuando establece una regla para una vez al día, Marketo la convierte en horas. Por ejemplo, si establece la regla para una vez al día y una persona califica a las 10 p. m. un domingo por la noche, no podrá volver a calificar hasta las 10 p. m. del lunes por la noche. Esta lógica también se aplica cuando se utilizan semanas o meses. Un mes siempre se cuenta como 30 días.
-
-   >[!NOTE]
+   >* When you set a rule for once every day, Marketo converts that to hours. For example, if you set the rule for once per day, and a person qualifies at 10pm on a Sunday night, it can&#39;t qualify again until 10pm Monday night. This logic also applies when using weeks or months. A month is always counted as 30 days.
    >
-   >Los límites de comunicación no se aplican a las campañas inteligentes de forma predeterminada. Aprenda a [aplicar límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
-
-   >[!NOTE]
-   >
-   >[Aplicar límites de comunicación a campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
-¡Misión cumplida! Ahora sabe cómo controlar las reglas de cualificación en una campaña inteligente.
+   >* Communication limits are not applied to Smart Campaigns by default. Learn how to [apply communication limits to a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
