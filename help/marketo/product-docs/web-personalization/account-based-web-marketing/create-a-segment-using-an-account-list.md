@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo crear un segmento con una lista de
 title: Crear un segmento mediante una lista de cuentas
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 11%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 
@@ -18,6 +18,10 @@ A continuación se indica cómo crear un segmento mediante una lista de cuentas.
 >[!PREREQUISITES]
 >
 >[Crear una nueva lista de cuentas](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>La capacidad de ver Listas de cuentas dentro de Web Personalization requiere un módulo adicional denominado &quot;Web ABM&quot;. Si no ve las Listas de cuentas como una opción, póngase en contacto con el Equipo de cuentas de Adobe (su administrador de cuentas) para obtener ayuda.
 
 1. Vaya a **[!UICONTROL Segmentos]**.
 
