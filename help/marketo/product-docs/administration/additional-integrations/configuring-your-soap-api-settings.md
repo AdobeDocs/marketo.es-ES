@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: Establezca la clave de cifrado de la API de SOAP y obtenga detalles de los extremos en Admin Web Services para desarrolladores.
 title: Configuración de la API de SOAP
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 16%
 
 ---
 
 # Configuración de la API de SOAP {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Se recomienda utilizar la API de REST. Más información en [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>La API de SOAP está [en desuso](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) el 31 de julio de 2026. Se recomienda usar la [API de REST](https://developer.adobe.com/marketo-apis/) en su lugar.
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->El extremo de SOAP y [!UICONTROL Id. de usuario] serán únicos; no envíe la captura de pantalla de este artículo a su Desarrollador.
-
->[!MORELIKETHIS]
->
->[Documentación de la API de SOAP](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/soap/soap-api)
+>Su extremo de SOAP y [!UICONTROL ID de usuario] son únicos; no envíe la captura de pantalla de este artículo a su desarrollador.

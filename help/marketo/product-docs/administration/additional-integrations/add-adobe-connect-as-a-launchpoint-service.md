@@ -4,9 +4,9 @@ description: Añada el servicio de Adobe Connect as a LaunchPoint para que Marke
 title: Agregar Adobe Connect as a [!DNL LaunchPoint] Service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -53,11 +53,11 @@ Marketo administra el registro y la asistencia a seminarios web de Adobe Connect
 
    >[!TIP]
    >
-   >Cuando crea la contraseña del participante, el valor que elija se incluye en una cadena de consulta cuando se envían los vínculos para el evento. Por lo tanto, sugerimos que lo haga fácil de usar.
+   >Cuando crea la contraseña del participante, el valor que elija se incluye en una cadena de consulta cuando se envían los vínculos para el evento. Se recomienda hacerlo más fácil de usar.
 
    >[!NOTE]
    >
-   >Una vez que haya iniciado sesión en su cuenta de Adobe Connect, seleccione la ficha **[!UICONTROL Seminarios]**. Sin profundizar en ningún seminario específico, copie la dirección URL de la barra del explorador en la configuración de **[!UICONTROL URL de la carpeta de reuniones]**.
+   >Después de iniciar sesión en su cuenta de Adobe Connect, seleccione la ficha **[!UICONTROL Seminarios]**. Sin profundizar en ningún seminario específico, copie la dirección URL de la barra del explorador en la configuración de **[!UICONTROL URL de la carpeta de reuniones]**.
 
 El servicio de Adobe Connect ahora está sincronizado con Marketo.
 

@@ -4,9 +4,9 @@ description: Conecte su canal  [!DNL BrightTALK] a Marketo a través de LaunchPo
 title: Conectar [!DNL BrightTALK] a Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 2%
 
 ---
@@ -22,14 +22,16 @@ Aprenda a conectar el canal [!DNL BrightTALK] a la instancia de Marketo. Para el
 ## Pasos en [!DNL BrightTALK] {#steps-in-brighttalk}
 
 1. Inicie sesión en [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} y haga clic en **[!UICONTROL Conectar ahora]**.
+
 1. En [!UICONTROL Conector de Marketo avanzado], haga clic en **[!UICONTROL Conectar]**.
-1. Accederá a la pantalla de credenciales y solicitará: ID de cliente, secreto de cliente, URL del servicio de identidad y URL del servicio REST. Para obtener esta información, inicie sesión en Marketo.
+
+1. Aparece la pantalla de credenciales que solicita: ID de cliente, secreto de cliente, URL del servicio de identidad y URL del servicio REST. Para obtener esta información, inicie sesión en Marketo.
 
 ## Pasos en Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
->En este momento se le pedirá que configure un [!DNL API Only User Role] y un [!DNL API User] para restringir los permisos que tendrá [!DNL BrightTALK] en su instancia de Marketo. Como ya tenemos artículos para esos pasos, le vincularemos a ellos.
+>En este momento se le requiere que configure un [!DNL API Only User Role] y [!DNL API User] para restringir los permisos que tendrá [!DNL BrightTALK] en su instancia de Marketo. Los artículos están disponibles para esos pasos.
 
 1. Crear un [Rol de usuario solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
@@ -53,7 +55,7 @@ Aprenda a conectar el canal [!DNL BrightTALK] a la instancia de Marketo. Para el
 
    >[!CAUTION]
    >
-   >Recuerde no seleccionar [!DNL BrightTALK] en la lista desplegable. Se trata de un campo que se está eliminando y, si lo selecciona, podrían producirse problemas importantes con la integración de [!DNL Marketo/BrightTALK].
+   >Recuerde no seleccionar [!DNL BrightTALK] en la lista desplegable. Este campo se está eliminando y, si lo selecciona, podrían producirse problemas importantes con la integración de [!DNL Marketo/BrightTALK].
 
 1. Escriba una [!UICONTROL descripción] de su elección. Haga clic en el menú desplegable **[!UICONTROL Usuario solo de API]** y seleccione [!DNL BrightTALK API User] que creó durante el paso 5. Haga clic en **[!UICONTROL Crear]**.
 
@@ -79,4 +81,4 @@ Aprenda a conectar el canal [!DNL BrightTALK] a la instancia de Marketo. Para el
 
 1. Vuelva a la pantalla de configuración del conector [!DNL BrightTALK] desde el paso 3 e introduzca las credenciales que guardó desde los pasos 12 y 14.
 
-Una vez autenticadas las credenciales, ha conectado oficialmente [!DNL BrightTALK] a Marketo. El siguiente paso es determinar qué campos de datos desea sincronizar. Si necesita ayuda, comuníquese con la atención al cliente en [BrightTALK](https://www.brighttalk.com/){target="_blank"}.
+Una vez autenticadas las credenciales, ha conectado oficialmente [!DNL BrightTALK] a Marketo. El siguiente paso es determinar qué campos de datos desea sincronizar. Si necesita ayuda, comuníquese con la [asistencia técnica de BrightTALK](https://www.brighttalk.com/){target="_blank"}.

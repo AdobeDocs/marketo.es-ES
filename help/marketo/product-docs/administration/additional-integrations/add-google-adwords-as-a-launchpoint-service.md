@@ -4,16 +4,16 @@ description: Vincule  [!DNL Google AdWords] a Marketo a través de LaunchPoint p
 title: Agregar  [!DNL Google AdWords] como [!DNL LaunchPoint] servicio
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
 
 # Agregar [!DNL Google AdWords] como servicio [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule su cuenta de [!DNL Google AdWords] a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], podrá ver fácilmente qué clics resultaron en posibles clientes, oportunidades y clientes nuevos calificados (o las fases de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en [!DNL AdWords]. Esta información no aparece en la interfaz de usuario de Marketo.
+Vincule su cuenta de [!DNL Google AdWords] a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], puede ver qué clics dieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en [!DNL AdWords]. Esta información no aparece en la interfaz de usuario de Marketo.
 
 Obtenga más información acerca de la característica de importación de conversión sin conexión de [Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -41,7 +41,7 @@ Obtenga más información acerca de la característica de importación de conver
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Escriba un [!UICONTROL nombre para mostrar] y seleccione **[!UICONTROL Google AdWords]**.
+1. Enter a [!UICONTROL display name] and select **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
@@ -61,7 +61,7 @@ Obtenga más información acerca de la característica de importación de conver
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. El estado se mostrará como **[!UICONTROL Correcto]**. Seleccione **[!UICONTROL Siguiente]**.
+1. El estado se muestra como **[!UICONTROL Correcto]**. Seleccione **[!UICONTROL Siguiente]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -90,7 +90,7 @@ Obtenga más información acerca de la característica de importación de conver
    >
    >[Se debe seleccionar el etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} para que esta característica funcione. La desactivación debe realizarse dentro de [!DNL AdWords].
 
-¡Excelente! Ahora consulte el artículo relacionado siguiente para obtener información sobre cómo asignar [!DNL AdWords] conversiones sin conexión en su modelo de ingresos.
+Consulte el artículo relacionado siguiente para obtener información sobre cómo asignar [!DNL AdWords] conversiones sin conexión en su modelo de ingresos.
 
 >[!MORELIKETHIS]
 >

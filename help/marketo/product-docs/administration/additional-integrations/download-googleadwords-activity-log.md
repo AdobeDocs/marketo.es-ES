@@ -4,16 +4,16 @@ description: Descargue el registro de actividad  [!DNL Google AdWords] de Launch
 title: Descargar [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Descargar registro de actividad [!DNL Google Adwords] {#download-googleadwords-activity-log}
 
-Las cosas pasan. A veces, es necesario descargar el registro de actividad para solucionar los problemas.
+Obtenga información sobre cómo descargar el registro de actividades para solucionar problemas.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -27,4 +27,4 @@ Las cosas pasan. A veces, es necesario descargar el registro de actividad para s
 
    ![](assets/download-googleadwords-activity-log-3.png)
 
-1. Se descargará un archivo .zip en el equipo.
+1. Un archivo .zip se descarga en el equipo.

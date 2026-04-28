@@ -4,9 +4,9 @@ description: Cree un webhook en Administración para llamar a servicios web de t
 title: Crear  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
    ![](assets/create-a-webhook-3.png)
 
-1. Asigne un nombre a su [!DNL Webhook] y configúrelo.
+1. Name and configure your [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
@@ -37,13 +37,13 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
    * **[!UICONTROL URL]**: Escriba la URL que use en su solicitud al servicio web. Para insertar un token, como la dirección de correo electrónico de la persona (**`{{lead.Email Address}}`**), en su solicitud, haga clic en **[!UICONTROL Insertar token]**.
 
-   * **[!UICONTROL Plantilla]**: Si desea transmitir información en el cuerpo de la solicitud, ingrese a través de la plantilla de carga útil. Plantillas permitidas para los siguientes tipos de solicitud: POST, DELETE, PATCH o PUT. Puede utilizar formatos de datos como JSON o XML. Para insertar un token en su plantilla, haga clic en **[!UICONTROL Insertar token]**.
+   * **[!UICONTROL Template]**: If you want to transmit information in the body of the request, enter via the payload template. Plantillas permitidas para los siguientes tipos de solicitud: POST, DELETE, PATCH o PUT. You may use data formats such as JSON or XML. Para insertar un token en su plantilla, haga clic en **[!UICONTROL Insertar token]**.
 
    * **[!UICONTROL Codificación de token de solicitud]**: Si los valores de token incluyen caracteres especiales (como un signo &amp;), indique el formato de su solicitud (**JSON** o **Formulario/URL**).
 
    * **[!UICONTROL Tipo de respuesta]**: seleccione el formato de la respuesta que recibe del servicio (**JSON** o **XML**).
 
-   * **[!UICONTROL Tipo de solicitud]**: seleccione el método HTTP que desea utilizar (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Request Type]**: Select the HTTP method to use (DELETE, GET, PATCH, POST, PUT).
 
 1. Haga clic en **[!UICONTROL Crear]**.
 
@@ -51,4 +51,4 @@ Use [!DNL Webhooks] para aprovechar los servicios web de terceros y enviar mensa
 
 >[!NOTE]
 >
->Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Obtenga más información en la profundización de [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

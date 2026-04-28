@@ -4,20 +4,20 @@ description: Habilite el inicio de sesión único de SAML 2.0 para que su provee
 title: Añadir el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 4%
+source-wordcount: '658'
+ht-degree: 5%
 
 ---
 
 # Añadir el inicio de sesión único a un portal {#add-single-sign-on-to-a-portal}
 
-Si tiene un servicio de directorio que autentica a los usuarios, puede permitir el inicio de sesión único (SSO) en Marketo. Se admite esta característica con [!DNL Security Assertion Markup Language] (SAML) versión 2.0 y posteriores.
+Si tiene un servicio de directorio que autentica a los usuarios, puede permitir el inicio de sesión único (SSO) en Marketo. Marketo admite esta característica mediante [!DNL Security Assertion Markup Language] (SAML) versión 2.0 y posteriores.
 
 Marketo funciona como un proveedor de servicios SAML (SP) y depende de un proveedor de identidad externo (IdP) para autenticar a los usuarios.
 
-Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. Cuando un usuario desea utilizar el software de Marketo, el IdP envía un mensaje SAML firmado a Marketo, que actúa como SP. Este mensaje garantiza a Marketo que el usuario está autorizado a utilizar el software de Marketo.
+Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. Cuando un usuario desea utilizar el software de Marketo, el IdP envía un mensaje SAML firmado a Marketo, que actúa como SP. Este mensaje confirma a Marketo que el usuario está autorizado a utilizar el software de Marketo.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!IMPORTANT]
 >
->Esto no se aplica **not** a las suscripciones incorporadas a Adobe Identity. Es posible que aparezcan ajustes anteriores (anteriores a la migración de IMS), pero ya no se aplican. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+>Esto no se aplica **not** a las suscripciones incorporadas a Adobe Identity. Es posible que aparezcan ajustes anteriores (anteriores a la migración de IMS), pero ya no se aplican. Para las suscripciones incorporadas a Adobe Identity, el inicio de sesión único [está configurado](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"} en el nivel de organización de Adobe en Adobe Admin Console.
 
 >[!NOTE]
 >
->¿Es un usuario de [!DNL Microsoft Azure]? Consulte su [tutorial de integración](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Para su información, hay un error tipográfico en el paso 5c de su tutorial. Establezca el estado de retransmisión en `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
+>¿Es un usuario de [!DNL Microsoft Azure]? Consulte su [tutorial de integración](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Tenga en cuenta que hay un error tipográfico en el paso 5c de su tutorial. Establecer el estado de retransmisión en `https://<munchkinid>.mktoweb.com`, **_no_** `https://<munchkinid>.marketo.com`.
 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
@@ -69,7 +69,7 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    >[!NOTE]
    >
-   >Si no ve **[!UICONTROL Inicio de sesión único]** en **[!UICONTROL Administración]**, comuníquese con la [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Si no ve **[!UICONTROL Inicio de sesión único]** en **[!UICONTROL Administración]**, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. En la sección **[!UICONTROL Configuración de SAML]**, haga clic en **[!UICONTROL Editar]**.
 
@@ -111,9 +111,9 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    >[!NOTE]
    >
-   >Ambas páginas deben estar disponibles para el público.
+   >Both of these pages must be publicly available.
 
 >[!MORELIKETHIS]
 >
->* [Restringir el inicio de sesión del usuario solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [Invitar a usuarios de Marketo a dos instancias con identificador universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [Restrict User Login to SSO Only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
