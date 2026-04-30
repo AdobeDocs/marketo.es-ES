@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo navegar por la Vista de programaci
 title: Navegación por la vista Calendario del programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 7%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 
@@ -25,7 +25,7 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Ahora verá la vista de programación de su programa.
+   Ahora aparece la vista de programación del programa.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -38,8 +38,6 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 1. En los detalles de la entrada, haga clic en las flechas para ir a la siguiente entrada programada.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   Bastante genial, ¿eh?
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 1. Puede hacer clic en el icono de pantalla en la esquina superior derecha para ver la programación del programa en modo de pantalla completa.
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-¡Excelente! Ahora que sabe cómo ver su programa, vamos a aprender las otras cosas interesantes que puede hacer.
 
 >[!MORELIKETHIS]
 >

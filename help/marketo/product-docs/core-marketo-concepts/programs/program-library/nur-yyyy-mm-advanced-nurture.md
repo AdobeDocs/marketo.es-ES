@@ -3,10 +3,10 @@ description: Plantilla del programa de Nutrición Avanzada. Utilícelo para la n
 title: NUR-AAAA-MM-Nutrición avanzada
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 15%
+source-wordcount: '508'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programas de nutrición avanzados que utilizan el Programa de participación de Marketo Engage. Los programas de correo electrónico anidados impiden que las personas reciban contenido que ya han consumido o controlan el tipo de contenido que deben consumir en cada flujo. Los informes de atribución se pueden ejecutar para cada programa de correo electrónico anidado individual. Canales: &quot;Nutrir&quot; y un canal &quot;Nutrir correo electrónico&quot; dedicado para los programas de correo electrónico anidados envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -213,4 +213,4 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;04 - Participación (éxito del programa)&quot; para realizar el seguimiento del éxito. Haz esto _antes_ de que se envíen tus correos electrónicos.
+>Active la campaña &quot;04 - Participación (éxito del programa)&quot; para realizar un seguimiento del éxito antes de que se envíen los correos electrónicos.

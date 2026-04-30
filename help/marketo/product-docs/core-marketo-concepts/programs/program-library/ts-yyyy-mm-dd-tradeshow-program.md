@@ -3,10 +3,10 @@ description: Plantilla del programa de la feria. Utilícelo para eventos y feria
 title: TS-AAAA-MM-DD-Programa de la feria comercial
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 17%
+source-wordcount: '440'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Este es un ejemplo de programa de feria comercial con invitaciones y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -30,8 +30,8 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>Evento</td>
    <td>01-Invitado
    <br/>02 - En lista de espera
-   <br/>03-Registrados
-   <br/>04-Visited Booth
+   <br/>03 - Registrados
+   <br/>04: cabina visitada
    <br/>05 - Participación en el programa - Éxito
    <br/>06 - Participación en el programa posterior - Éxito</td>
    <td>Incluido</td>
@@ -211,7 +211,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;03 - Participación por correo electrónico de seguimiento (éxito del programa)&quot; para realizar un seguimiento del éxito. Haz esto _antes_ de que se envíen tus correos electrónicos.
+>Active la campaña &quot;03 - Interactuado por correo electrónico de seguimiento (éxito del programa)&quot; para realizar un seguimiento del éxito antes de que se envíen los correos electrónicos.
 
 >[!IMPORTANT]
 >

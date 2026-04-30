@@ -3,10 +3,10 @@ description: Plantilla del programa de eventos. Utilícelo para ejecutar seminar
 title: EV-AAAA-MM-DD-Programa del evento
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 21%
+source-wordcount: '600'
+ht-degree: 22%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Este es un ejemplo de programa de eventos con una página de registro, tres correos electrónicos de invitación y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage. Adecuado para todos los eventos en los que se requieren registros, incluidos espectáculos itinerantes, almuerzos, cenas o presentaciones en eventos de ferias comerciales.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -30,7 +30,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>Evento</td>
    <td>01-Invitado
 <br/>02 - En lista de espera
-<br/>03-Registrados
+<br/>03 - Registrados
 <br/>04-No mostrar
 <br/>05-Attended-Success</td>
    <td>Incluido</td>
@@ -262,7 +262,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
   <tr>
    <td>Texto</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.thankYouPageURL?without=http://</td>
   </tr>
   <tr>
    <td>Texto</td>
@@ -330,7 +330,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;06 asistencia (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
+>Active la campaña &quot;06 asistencia (éxito del programa)&quot; para realizar un seguimiento del éxito antes de que el formulario esté activo y se envíen correos electrónicos.
 
 >[!IMPORTANT]
 >

@@ -3,10 +3,10 @@ description: Contenido en la plantilla de programa de la página de aterrizaje d
 title: CT-AAAA-MM-Contenido en la página de destino de Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 15%
+source-wordcount: '501'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -202,7 +202,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
+>Active la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito antes de que el formulario esté activo y de que se envíen los correos electrónicos.
 
 >[!IMPORTANT]
 >

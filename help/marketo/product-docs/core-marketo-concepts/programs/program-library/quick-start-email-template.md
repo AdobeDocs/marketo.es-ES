@@ -3,9 +3,9 @@ description: Plantilla de correo electrónico de inicio rápido. Utilícela para
 title: Plantilla de correo electrónico de inicio rápido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '576'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ El editor de correo electrónico de Marketo Engage incluye funciones que le ayud
 
 * **Variables**: cuando se selecciona un módulo, las variables aparecen en el lado derecho del editor. Se pueden utilizar para ajustar atributos del módulo que no se pueden editar fácilmente mediante elementos de imagen o texto.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen de módulos {#modules-summary}
 

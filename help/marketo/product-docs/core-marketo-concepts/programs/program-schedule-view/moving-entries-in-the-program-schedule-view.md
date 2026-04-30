@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo mover entradas en la vista Program
 title: Movimiento de entradas en la vista Calendario del programa
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ Al mover entradas a la vista de programación, se volverán a programar automát
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Nuestro recuperador de datos desaprueba, cambia la fecha y vuelve a aprobar el recurso. Él es así de guay.
+1. Marketo desaprueba, cambia la fecha y vuelve a aprobar el recurso automáticamente.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

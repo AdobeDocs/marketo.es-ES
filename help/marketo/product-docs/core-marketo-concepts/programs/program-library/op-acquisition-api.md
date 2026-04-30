@@ -3,10 +3,10 @@ description: Plantilla del programa operativo de la API de adquisición. Utilíc
 title: OP-Adquisición-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 20%
+source-wordcount: '182'
+ht-degree: 21%
 
 ---
 
@@ -86,4 +86,4 @@ Este programa de ejemplo es para procesos operativos para rastrear la adquisici�
 
 * Considere la posibilidad de utilizar programas similares para garantizar la alineación con las prácticas recomendadas en todas las fuentes de entrada e incluir su CRM o integraciones de datos.
 
-* Dentro de las iniciativas de marketing de canal específicas, asegúrese de capturar la adquisición cuando sea necesario.
+* Dentro de las iniciativas de marketing de canal específicas, asegúrese de que la adquisición se capture cuando sea necesario.

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo clonar un recurso dentro de un pro
 title: Clonar un recurso en un programa
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 13%
 
 ---
@@ -41,7 +41,7 @@ Clonando un programa clona _todo_. A veces, solo desea clonar un recurso. Así e
    >
    >También puede clonar un recurso en un programa diferente. Utilice la lista desplegable **[!UICONTROL Programa]** para realizar su selección.
 
-1. ¡Excelente! Ahora debería ver el nuevo recurso clonado.
+1. El nuevo recurso clonado ahora debe ser visible.
 
    ![](assets/report.jpg)
 

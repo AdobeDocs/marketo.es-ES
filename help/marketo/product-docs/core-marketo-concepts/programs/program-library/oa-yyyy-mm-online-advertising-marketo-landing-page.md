@@ -3,9 +3,9 @@ description: Plantilla del programa de la página de aterrizaje de Advertising M
 title: OA-AAAA-MM- Página de destino de publicidad en línea de Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este es un ejemplo de programa de seguimiento de publicidad en línea que incluye una página de aterrizaje de Marketo con formulario de registro y un programa predeterminado de Marketo. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -208,7 +208,7 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02 - Participación (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
+>Active la campaña &quot;02 - Participación (éxito del programa)&quot; para rastrear el éxito antes de que el formulario esté activo y se envíen correos electrónicos.
 
 >[!IMPORTANT]
 >

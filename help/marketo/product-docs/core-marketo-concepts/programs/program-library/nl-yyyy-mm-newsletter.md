@@ -3,10 +3,10 @@ description: Plantilla del programa de newsletter. Utilícelo para boletines de 
 title: NL-AAAA-MM-Newsletter
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 18%
+source-wordcount: '293'
+ht-degree: 19%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 En este ejemplo se envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -144,4 +144,4 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;01-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ de que su formulario esté activo y se envíen correos electrónicos.
+>Active la campaña &quot;01-Engaged&quot; para realizar un seguimiento del éxito antes de que el formulario esté activo y de que se envíen los correos electrónicos.

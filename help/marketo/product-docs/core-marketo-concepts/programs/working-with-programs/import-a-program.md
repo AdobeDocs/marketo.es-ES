@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo importar un programa en Marketo. T
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 2%
+source-wordcount: '573'
+ht-degree: 3%
 
 ---
 
@@ -62,7 +62,7 @@ Un programa se puede importar de una suscripción de Marketo Engage a otra. Por 
 
    ![](assets/import-a-program-6.png)
 
-Recibirá una confirmación por correo electrónico una vez que la importación haya finalizado.
+Una vez finalizada la importación, se envía una confirmación por correo electrónico.
 
 >[!NOTE]
 >

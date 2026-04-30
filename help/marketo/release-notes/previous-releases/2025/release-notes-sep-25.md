@@ -3,10 +3,10 @@ description: 'Notas de la versión, septiembre de 2025: Documentos de Marketo: d
 title: Notas de la versión, septiembre de 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 97%
+source-wordcount: '960'
+ht-degree: 85%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 97%
 
 A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +34,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Retención de actividades de seminarios web bajo demanda</strong>: los usuarios de seminarios web interactivos ahora tienen disponibles los datos del tablero de seminarios web bajo demanda durante más de 30 días (anteriormente solo era hasta 30 días desde el día del seminario web).</td>
    <td>Publicado</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronización manual</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronización manual</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +74,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Correcciones de redireccionamiento del diseñador de correo electrónico</strong>: algunos usuarios experimentaban problemas de redireccionamiento con las direcciones URL de los mensajes de correo electrónico creados con el nuevo Diseñador (por ejemplo, al pegar directamente las direcciones URL o al marcar como favoritos los recursos de correo electrónico, no siempre funcionaban). Este problema se ha resuelto. Además, los vínculos a los recursos de correo electrónico de <b>Plantillas de correo electrónico</b> &gt; <b>Detalles</b> &gt; <b>Utilizado por</b> se redirigen al recurso de correo electrónico correspondiente.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -97,3 +97,5 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 * **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del 31 de marzo de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **API de SOAP obsoleta**: la compatibilidad con la API de Marketo SOAP finalizará el 31 de marzo de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Degradación de la secuencia de datos de actividad de posibles clientes heredada**: a finales de junio de 2026, los usuarios deberán migrar de la secuencia de datos de actividad de posibles clientes heredada a la nueva secuencia de datos de actividad de posibles clientes (LADS) de Adobe I/O. Esta desaprobación afecta solo a un puñado de usuarios que se incorporaron al flujo de datos de actividad del posible cliente antes de integrarse con Adobe I/O Events. Si es un usuario más reciente de flujos de datos o ya administra el flujo de datos de la actividad de los posibles clientes mediante eventos de E/S, esto no le afecta. Consulte [este artículo](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} para obtener detalles de migración.

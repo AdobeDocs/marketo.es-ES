@@ -4,10 +4,10 @@ description: Aprenda a utilizar etiquetas en un programa. Añada etiquetas para 
 title: Uso de etiquetas en un programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 10%
+source-wordcount: '171'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 >[!NOTE]
 >
->Si utiliza el Explorador del ciclo de ingresos, se debe definir un coste de periodo (incluso si es 0) para que los informes estén disponibles para el programa.
+>Si utiliza el Explorador del ciclo de ingresos, se debe definir un coste de período (incluso si es 0) para que los informes estén disponibles para el programa.
 
 ## Uso de una etiqueta en un programa {#use-a-tag-in-a-program}
 
@@ -37,7 +37,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Muy bien. Verá la nueva etiqueta en el lienzo.
+1. La nueva etiqueta ahora aparece en el lienzo.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. ¡Excelente! Debería ver las ediciones reflejadas en el lienzo.
+1. Las ediciones ahora deben reflejarse en el lienzo.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/use-tags-in-a-program-11.png)
 
-¡Buen trabajo! Los programas con etiquetas coherentes facilitan mucho la ejecución de los informes.
+Los programas con etiquetas coherentes hacen que la creación de informes sea más eficaz.

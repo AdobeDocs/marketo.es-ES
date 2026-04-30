@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar entradas en la vista Progra
 title: Edición de entradas en la vista Calendario del programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 10%
 
 ---
@@ -39,7 +39,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. ¡Excelente! La descripción ha cambiado.
+1. Se ha actualizado la descripción.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-¡Tú rockeas! Ahora la fecha de su entrada se ha trasladado a una nueva fecha.
+Se ha actualizado la fecha de su entrada.
 
 >[!NOTE]
 >

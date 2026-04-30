@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear una entrada en la vista de p
 title: Creación de una entrada en la vista Calendario del programa
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 10%
 
 ---
@@ -63,7 +63,7 @@ Puede crear entradas desde la vista de programación del programa para complemen
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   ¡Genial! Debería ver los cambios inmediatamente.
+   Los cambios deben ser visibles inmediatamente.
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 

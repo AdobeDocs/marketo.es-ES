@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo administrar y ver miembros del pro
 title: Administrar y ver miembros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---
@@ -79,11 +79,9 @@ Puede cambiar el estado de sus personas dentro de la cuadrícula de miembros.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Esto puede tardar un momento. ¡Verá el mensaje siguiente cuando haya terminado todo!
+   Esto puede tardar un momento. El mensaje siguiente aparece cuando se completa el proceso.
 
    ![](assets/changestatusconfirm.png)
-
-Muchas características, pero todas son bastante sencillas. ¡Disfrútelo!
 
 >[!MORELIKETHIS]
 >

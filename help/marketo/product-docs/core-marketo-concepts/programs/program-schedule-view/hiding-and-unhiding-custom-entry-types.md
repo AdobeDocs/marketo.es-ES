@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo ocultar y mostrar tipos de entrada
 title: Ocultar y mostrar tipos de entrada personalizados
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '112'
 ht-degree: 10%
 
 ---
@@ -25,16 +25,16 @@ Los tipos de entradas personalizadas se pueden ocultar en la sección Administra
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
-   Fantástico. Este tipo de entrada ya no estará disponible para su uso.
+   Este tipo de entrada ya no estará disponible para su uso.
 
 ## Mostrar un tipo de entrada personalizada {#unhide-a-custom-entry-type}
 
-Si desea mostrar un tipo de entrada personalizada, también es fácil.
+Para mostrar un tipo de entrada personalizada:
 
 1. Haga clic con el botón derecho en la entrada y seleccione **[!UICONTROL Mostrar]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
-   ¡Ta-da! Ahora se muestra el tipo de entrada personalizada.
+   El tipo de entrada personalizada ahora está visible.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)

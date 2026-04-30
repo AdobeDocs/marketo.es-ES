@@ -3,10 +3,10 @@ description: Plantilla del programa del seminario web. Utilícelo para seminario
 title: WBN-AAAA-MM-DD-Programa del seminario web
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 20%
+source-wordcount: '621'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Este es un ejemplo de programa de seminario web con administración de registro, tres correos electrónicos de invitación, recordatorio de asistencia y correos electrónicos de seguimiento que utilizan un programa de eventos de Marketo Engage.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -30,7 +30,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <td>Evento</td>
    <td>01 - Invitado
    <br/>02 - En lista de espera
-   <br/>03 - Registrados
+   <br/>03 - Registrado
    <br/>04 - Sin presentación
    <br/>05 - Asistido - Correcto
    <br/>06 - Asistencia a petición - Correcto</td>
@@ -255,7 +255,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
    <tr>
    <td>Texto</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.thankYouPageURL?without=http://</td>
   </tr>
   <tr>
    <td>Texto</td>
@@ -310,7 +310,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 ## Mejores prácticas {#best-practices}
 
-* Si utiliza un proveedor de seminarios web integrado, no olvide conectar el programa de Marketo Engage a su seminario web en el sistema de alojamiento.
+* Si utiliza un proveedor de seminarios web integrado, conecte el programa Marketo Engage a su seminario web en el sistema de alojamiento.
 
 * Después de importar el programa de seminario web, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
    * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad en las actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.
@@ -325,7 +325,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;05 - Asistencia (éxito del programa)&quot; para realizar el seguimiento del éxito. Haz esto _antes_ de que se envíen tus correos electrónicos.
+>Active la campaña &quot;05 - Asistencia (éxito del programa)&quot; para realizar un seguimiento del éxito antes de que se envíen los correos electrónicos.
 
 >[!IMPORTANT]
 >
