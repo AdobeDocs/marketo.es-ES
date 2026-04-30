@@ -4,16 +4,16 @@ description: Aprenda a personalizar Momentos de Marketo. Personalice las tarjeta
 title: Personalización de momentos Marketo
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
 
 # Personalización de momentos Marketo {#personalizing-marketo-moments}
 
-Cuando tiene muchos programas de marketing y campañas inteligentes en marcha, es genial verlo todo, pero es posible que desee centrarse únicamente en su propio trabajo.
+Cuando hay muchos programas de marketing y campañas inteligentes en marcha, resulta útil centrarse únicamente en su propio trabajo.
 
 >[!IMPORTANT]
 >

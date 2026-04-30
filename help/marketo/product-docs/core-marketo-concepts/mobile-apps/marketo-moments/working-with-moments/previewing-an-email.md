@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo previsualizar un correo electróni
 title: Vista previa de un correo electrónico
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
 
 # Vista previa de un correo electrónico {#previewing-an-email}
 
-Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualizarla antes de extraer el déclencheur.
+Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualizarla antes de enviarla.
 
 >[!IMPORTANT]
 >

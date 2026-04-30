@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo crear un objetivo de lista intelig
 title: Creación de una meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---
 
 # Creación de una meta de lista inteligente {#create-a-smart-list-goal}
 
-Los objetivos son formas de seguir el progreso y motivar a su equipo. Se pueden combinar con listas inteligentes para rastrear todo tipo de cosas en Marketo. Además, una vez que haya establecido un objetivo de lista inteligente, se actualizará automáticamente cada dos horas cuando se utilice en una presentación.
+Los objetivos son formas de seguir el progreso y motivar a su equipo. Se pueden combinar con listas inteligentes para rastrear una variedad de métricas en Marketo. Además, una vez configurado el objetivo de una lista inteligente, se actualizará automáticamente cada dos horas cuando se utilice en una presentación.
 
 Al igual que las presentaciones, los objetivos son específicos de [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
@@ -37,14 +37,14 @@ Al igual que las presentaciones, los objetivos son específicos de [workspace](/
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Defina la lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). ¡Las posibilidades son infinitas!
+1. [Defina la lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
    ![](assets/mql.png)
 
-1. Una vez establecida la lista inteligente, haga clic en el botón **[!UICONTROL Cerrar]** y vuelva a la ficha anterior.
+1. Una vez configurada la lista inteligente, haga clic en el botón **[!UICONTROL Cerrar]** y vuelva a la pestaña anterior.
 
    ![](assets/mql2.png)
 
-   ¡Mira eso! Se ha creado su objetivo de lista inteligente.
+   Se ha creado el objetivo de la lista inteligente.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

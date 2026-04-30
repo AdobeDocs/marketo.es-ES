@@ -3,9 +3,9 @@ description: Obtenga información acerca de los filtros predictivos para segment
 title: Filtros predictivos
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ Estos dos filtros le ayudan a ampliar su audiencia actual al dirigirse a posible
 
 Haga clic en **[!UICONTROL Agregar restricción]** para elegir criterios de éxito para los miembros de los programas seleccionados.
 
-Haga clic en el icono **+** para agregar fácilmente varios programas o listas inteligentes a un filtro.
+Haga clic en el icono **+** para agregar varios programas o listas inteligentes a un filtro.
 
 ![Imagen Cinco](assets/predictive-filters-5.png)
 
@@ -58,6 +58,6 @@ Haga clic en el icono **+** para agregar fácilmente varios programas o listas i
 * Los filtros predictivos no están disponibles para campañas de Déclencheur.
 * No se admite la clonación o el traslado de campañas que contengan filtros predictivos.
 * Puede usar hasta cinco filtros predictivos en una lista inteligente.
-* Si Marketo Engage encuentra un error en la evaluación de filtros predictivos, la ejecución de la campaña se anulará automáticamente y recibirá una notificación en el centro de notificaciones de Marketo.
+* Si Marketo Engage encuentra un error en la evaluación de filtros predictivos, la ejecución de la campaña se anulará automáticamente y se enviará una notificación al centro de notificaciones de Marketo.
 * Los filtros predictivos tienen actualmente un límite de entrada de 1 millón de personas cualificadas.
 * Puede tener hasta 50 programas activos con filtros predictivos.

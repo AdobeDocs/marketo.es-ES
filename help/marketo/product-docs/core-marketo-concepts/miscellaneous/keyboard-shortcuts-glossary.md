@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: Obtenga ayuda sobre los métodos abreviados de teclado de Marketo para la navegación por áreas, calendarios y mucho más. Utilice los métodos abreviados para moverse más rápido en Marketo Engage.
+hide: true
+hidefromtoc: true
 title: Glosario de métodos abreviados del teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 17%
 
 ---
 
 # Glosario de métodos abreviados del teclado {#keyboard-shortcuts-glossary}
 
-¿Es usted un usuario de métodos abreviados de teclado? ¡Te tenemos cubierto!
+Utilice estos métodos abreviados del teclado para desplazarse por Marketo más rápidamente.
 
 ## Navegación por áreas {#area-navigation}
 
@@ -41,4 +43,4 @@ ht-degree: 17%
 |---|---|
 | ESC | Cerrar elemento emergente |
 | Devolver/Entrar | Ventana emergente Enviar |
-| Ctrl + Alt/Opción + H | Ocultar/mostrar un campo en el editor de formularios |
+| Ctrl + Alt/Opción + H | Ocultar o mostrar un campo en el editor de formularios |

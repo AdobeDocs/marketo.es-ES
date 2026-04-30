@@ -4,9 +4,9 @@ description: Aprenda a incorporar personas a su evento desde una tableta. Utilic
 title: Incorporar personas a su evento desde su tableta
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '880'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ El invitado ahora tiene el estado Asistido y recibe una marca de verificación. 
 
 >[!TIP]
 >
->Si una persona está invitada pero no se ha registrado, puedes buscar el nombre haciendo clic en **[!UICONTROL Buscar en el servidor]**, justo debajo del cuadro Buscar. El estado Invitado cambia a **[!UICONTROL Asistió]** al evento.
+>Si una persona está invitada pero no se ha registrado, puedes buscar el nombre haciendo clic en **[!UICONTROL Buscar en el servidor]**, debajo del cuadro Buscar. El estado Invitado cambia a **[!UICONTROL Asistió]** al evento.
 
 ## Crear una nueva persona en la tableta {#create-a-new-person-on-the-tablet}
 
@@ -103,7 +103,7 @@ Puede agregar manualmente invitados que no sean personas existentes en la base d
 
    >[!NOTE]
    >
-   >Solo puede utilizar los campos existentes. No se pueden crear los personalizados.
+   >Solo están disponibles los campos existentes. No se pueden crear campos personalizados.
 
    >[!CAUTION]
    >
@@ -119,11 +119,10 @@ Si protegió a una persona por error, _antes de sincronizar con Marketo_, puede 
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   ¡Todo arreglado!
 
 ## Editar un registro de persona al registrarse {#edit-a-person-record-at-check-in}
 
-Puede añadir y modificar la información de los invitados, justo en el evento.
+Puede añadir y modificar información de invitado en el evento.
 
 1. Pulse el nombre en la lista de personas y pulse **[!UICONTROL Editar]**.
 
@@ -145,7 +144,7 @@ La aplicación Eventos de Marketo funciona de forma independiente hasta que sinc
 
 >[!CAUTION]
 >
->Después de la sincronización, no se puede revertir un registro desde la aplicación.
+>Después de la sincronización, no es posible revertir un registro desde la aplicación.
 
 1. En la tableta, abra la aplicación y vaya al evento.
 
@@ -157,7 +156,7 @@ La aplicación Eventos de Marketo funciona de forma independiente hasta que sinc
 
 ## Uso de acceso limitado a Internet {#working-with-limited-internet-access}
 
-Algunos lugares tienen un acceso a Internet escaso. Necesita una buena conexión para:
+Algunos lugares tienen un acceso deficiente a Internet. Necesita una buena conexión para:
 
 * Descargue e instale la aplicación
 * Iniciar sesión
@@ -168,7 +167,7 @@ Si te preocupa el acceso a Internet en el lugar de celebración, es posible que 
 
 >[!TIP]
 >
->Si no tiene conexión a Internet, puede crear una nueva persona para una persona que esté registrándose. Se reconciliará con la persona existente cuando sincronices la aplicación.
+>Si no hay conexión a Internet, se puede crear una nueva persona para una persona que se registra. Se reconciliará con la persona existente cuando sincronice la aplicación.
 
 >[!NOTE]
 >

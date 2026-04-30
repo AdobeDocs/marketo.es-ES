@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo filtrar el calendario de marketing
 title: Filtrado del calendario de marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 6%
 
 ---
@@ -27,13 +27,13 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Elija los tipos de entradas adicionales que desee ver en el filtro.
+1. Elija tipos de entradas adicionales para añadir al filtro.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >Para obtener descripciones de los tipos de entradas estándar, consulte [Tipos de entradas de vista de programación](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Para obtener descripciones de los tipos de entrada estándar, consulte [Tipos de entrada de vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Seleccione las etiquetas de programa que le interesen.
 
@@ -43,7 +43,7 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   ¡Fantástico! Ahora solo verá las entradas que se apliquen al filtro que acaba de definir.
+   Ahora solo serán visibles las entradas que coincidan con el filtro definido.
 
    >[!NOTE]
    >

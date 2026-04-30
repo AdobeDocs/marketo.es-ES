@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: Obtenga información sobre la zona protegida de Marketo Engage para pruebas antes de la producción. Utilice una instancia de zona protegida para probar sin afectar a la producción.
 title: Zona protegida de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -29,12 +29,12 @@ No se puede sincronizar una zona protegida de Marketo con su CRM normal si ya es
 
 >[!CAUTION]
 >
->No se admite la actualización de la zona protegida para la sincronización de Salesforce de Marketo Dynamics _o_ en este momento. Si necesita actualizar la zona protegida de CRM, se requiere una nueva zona protegida de Marketo. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>En este momento no se admite la actualización de la zona protegida para la sincronización de Salesforce de Marketo Dynamics _o_. Si necesita actualizar la zona protegida de CRM, se requiere una nueva zona protegida de Marketo. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Copia de instancia {#instance-copy}
 
-Puede enviar un caso de asistencia técnica solicitando una copia de instancia única para rellenar el espacio aislado. Sin embargo, la copia de instancia no llevará _todo_. Consulte [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener más información.
+Puede enviar un caso de asistencia técnica solicitando una copia de instancia única para rellenar el espacio aislado. Sin embargo, la copia de instancia no llevará _todo_. Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener más detalles.
 
 >[!NOTE]
 >
->Si está cambiando su CRM nativo, se necesitaría una nueva instancia de Marketo y no sería posible realizar una copia de la instancia a la nueva instancia de Marketo. En su lugar, trabaje con el Soporte de Marketo para explorar la funcionalidad del Programa de importación.
+>Si está cambiando su CRM nativo, se necesitaría una nueva instancia de Marketo y no sería posible realizar una copia de la instancia en la nueva instancia de Marketo. En su lugar, trabaje con el Soporte de Marketo para explorar la funcionalidad del Programa de importación.

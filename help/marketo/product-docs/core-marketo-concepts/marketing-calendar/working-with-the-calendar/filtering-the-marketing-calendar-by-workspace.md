@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo filtrar el calendario de marketing
 title: Filtrado del calendario de marketing por Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 15%
 
 ---
@@ -23,7 +23,7 @@ El calendario de marketing se puede filtrar por objetos en espacios de trabajo e
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   ¡Excelente! Ahora sólo se verán los objetos creados en ese espacio de trabajo concreto.
+   Ahora solo serán visibles los objetos creados en ese espacio de trabajo.
 
    >[!NOTE]
    >

@@ -4,16 +4,16 @@ description: Obtenga información sobre los momentos de Marketo para ver qué im
 title: Explicación de los momentos Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '623'
 ht-degree: 2%
 
 ---
 
 # Explicación de los momentos Marketo {#understanding-marketo-moments}
 
-¡El poder de Marketo está ahora en sus manos, literalmente! Previsualiza y reprograma correos electrónicos directamente desde tu teléfono o iPad.
+El poder de Marketo está ahora en sus manos. Previsualiza y reprograma correos electrónicos directamente desde tu teléfono o iPad.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Aquí están los diferentes flujos en Momentos.
 >* [!UICONTROL Más tarde]: Cualquier cosa que ocurra más tarde de este momento entra aquí.
 >* [!UICONTROL Listo]: Cualquier cosa que haya terminado de ejecutarse o que haya marcado como listo se enviará aquí.
 
-Bien, ahora que lo hemos quitado de en medio, ¡echemos un vistazo a Marketo Moments por teléfono!
+Aquí tiene un vistazo a Marketo Moments en un teléfono.
 
 ## Tres tipos de tarjetas {#three-kinds-of-cards}
 
@@ -48,11 +48,11 @@ Momentos de Marketo le ofrece tres tarjetas diferentes para seguir el progreso d
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Latido del corazón]** - ¡Oye! ¡Este correo electrónico se está enviando ahora! Y aquí están las estadísticas, también. Adelante, compártelo.
+**[!UICONTROL Latido del corazón]**: este correo electrónico se está enviando ahora, incluidas las estadísticas. Compártalo con tu equipo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Resultados]**: así es como se recibió el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
+**[!UICONTROL Resultados]** - Muestra el rendimiento del correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -74,7 +74,7 @@ Al pulsar los tres puntos, se abre un menú de acción de tarjeta.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-¡Excelente! Ahora, puede hacer que algo suceda tocando:
+Pulse cualquiera de las siguientes opciones para realizar una acción:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,11 +82,11 @@ Al pulsar los tres puntos, se abre un menú de acción de tarjeta.
 >
 >**Definición**
 >
->* [!UICONTROL Favorito]: Es fácil prestar atención a las cosas que son más oportunas e importantes si las conviertes en favoritas.
+>* [!UICONTROL Favorito]: es fácil prestar atención a los artículos que son más oportunos e importantes si los conviertes en favoritos.
 >* [!UICONTROL Listo]: Listo lo quita de la vista Momentos de Marketo (pero lo deja en Marketo, a salvo y en buen estado).
 >* [!UICONTROL Compartir]: envía una imagen para motivar o felicitar a tu equipo.
->* [!UICONTROL Enviar muestra] (solo correo electrónico): usa esto para permitir que otros vean el aspecto de tus correos electrónicos antes de enviarlos.
->* [!UICONTROL Previsualizar correo electrónico] (solo correos electrónicos): siempre es buena idea revisar tus correos electrónicos por adelantado.
+>* [!UICONTROL Enviar muestra] (solo correo electrónico): usa esto para permitir que otros revisen el aspecto de tus correos electrónicos antes de enviarlos.
+>* [!UICONTROL Previsualizar correo electrónico] (solo correos electrónicos): siempre es buena idea revisar los correos electrónicos por adelantado.
 
 ## Momentos posteriores {#later-moments}
 
@@ -106,13 +106,13 @@ La sección Más tarde muestra las próximas actividades.
 
 ## Tarjetas de programa de correo electrónico {#email-program-cards}
 
-Las tarjetas de programa de correo electrónico muestran cosas importantes como la programación, la audiencia, el estado y otras cosas útiles, incluso cuando está fuera en el almuerzo.
+Las tarjetas de programa de correo electrónico muestran detalles clave como la programación, la audiencia, el estado y otra información útil, incluso cuando está fuera en el almuerzo.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Tarjetas de eventos {#event-cards}
 
-Para los eventos, verá el número total de miembros y su estado.
+Para los eventos, la tarjeta muestra el número total de miembros y su estado.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -134,7 +134,7 @@ Las tarjetas de campaña inteligentes representan una sola ejecución de una cam
 
 ## Confirmar o cancelar una acción {#confirm-or-cancel-an-action}
 
-En cada paso del proceso, puede confirmar o cancelar una acción. Si cambias de opinión, solo toca **[!UICONTROL No te preocupes]**.
+En cada paso del proceso, puede confirmar o cancelar una acción. Si cambias de opinión, pulsa **[!UICONTROL No te preocupes]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,9 +143,7 @@ En cada paso del proceso, puede confirmar o cancelar una acción. Si cambias de 
 Marketo Moments es compatible con estas versiones del sistema operativo:
 
 * [!DNL Apple] iOS 8.0 y superior.
-* [!DNL Android] versión 4.1 y superior (básicamente Jellybean y superior).
-
-¿Listo para obtener más información?
+* [!DNL Android] versión 4.1 y superior.
 
 >[!MORELIKETHIS]
 >

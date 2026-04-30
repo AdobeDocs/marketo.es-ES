@@ -4,9 +4,9 @@ description: Aprenda a prepararse para su evento con el registro de eventos. Con
 title: Preparación para su evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
 ## Especificar las fechas del evento {#specify-the-event-dates}
 
-Es muy fácil establecer las fechas de los eventos.
+La configuración de fechas de eventos es sencilla.
 
 1. Haga clic en el evento de la programación y defina la fecha y la hora de inicio y finalización.
 

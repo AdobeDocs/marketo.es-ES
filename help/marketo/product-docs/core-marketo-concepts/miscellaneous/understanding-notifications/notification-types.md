@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Obtenga información acerca de los tipos de notificaciones en Marketo, incluidos los errores de campañas, la sincronización CRM y la participación. Comprenda qué significa cada alerta.
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '256'
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Si usa [!DNL Salesforce], las notificaciones de error de sincronización se pare
 
 ## Participación {#engagement}
 
-Cuando las personas se agotan en un flujo, enviamos una notificación. La notificación incluye el número de personas que se agotaron y alguna otra información.
+Cuando las personas se agotan en una secuencia, se envía una notificación. La notificación incluye el número de personas que se agotaron y alguna otra información.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
@@ -60,4 +60,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/error-codes).
+>Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -3,16 +3,16 @@ unique-page-id: 2953207
 description: Obtenga información sobre cómo crear una nueva carpeta de campaña en Actividades de marketing. Organice su espacio de trabajo con carpetas de campaña para la automatización y los recursos.
 title: Crear nueva carpeta de la campaña
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '110'
+ht-degree: 20%
 
 ---
 
 # Crear nueva carpeta de la campaña {#create-new-campaign-folder}
 
-Las carpetas de campaña le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y estará en camino a la magia de la automatización.
+Las carpetas de campaña le ayudan a mantener un espacio de trabajo ordenado. Siga estos pasos para empezar.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -38,11 +38,11 @@ Las carpetas de campaña le ayudan a mantener un espacio de trabajo ordenado. Si
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   ¡Fantástico! Acaba de crear una carpeta de campaña. Échale un vistazo en el árbol.
+   La carpeta de la campaña aparece en el árbol.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ahora, cuando [cree un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campaña como una opción.
+   Ahora, cuando [crea un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), esta carpeta de campaña aparece como una opción.
 
 >[!MORELIKETHIS]
 >

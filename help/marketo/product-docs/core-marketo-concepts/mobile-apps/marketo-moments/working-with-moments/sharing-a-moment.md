@@ -4,16 +4,16 @@ description: Aprenda a compartir un momento desde la aplicación Momentos de Mar
 title: Compartir un momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 5%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
 # Compartir un momento {#sharing-a-moment}
 
-¿Desea proporcionar una actualización a su equipo? Tiene dos opciones para seleccionar el uso compartido.
+Hay dos maneras de compartir un momento.
 
 >[!IMPORTANT]
 >
@@ -29,11 +29,11 @@ ht-degree: 5%
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. Seleccione la forma en que desea compartir. Vamos con el correo electrónico.
+1. Seleccione la forma en que desea compartir. En este ejemplo, se selecciona correo electrónico.
 
    >[!NOTE]
    >
-   >El uso compartido depende de las aplicaciones instaladas en el teléfono. Por lo tanto, si no tiene [!DNL Facebook], no lo verá en Momentos.
+   >El uso compartido depende de las aplicaciones instaladas en el teléfono. Si [!DNL Facebook] no está instalado, no aparecerá en Momentos.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

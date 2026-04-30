@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo conceder a los usuarios acceso a l
 title: Conceder a los usuarios acceso a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
 
 # Conceder a los usuarios acceso a la aplicación de registro {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
+Marketo Engage tiene una función de usuario especial para la aplicación de registro de eventos. Siga los pasos a continuación para crear una función nueva con permiso para utilizar la aplicación.
 
 >[!IMPORTANT]
 >

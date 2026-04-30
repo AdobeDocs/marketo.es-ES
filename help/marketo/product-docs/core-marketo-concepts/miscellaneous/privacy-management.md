@@ -2,9 +2,9 @@
 description: Obtenga información acerca de las herramientas de administración de privacidad en Marketo Engage para RGPD, CCPA y mucho más. Administrar solicitudes de acceso y eliminación para cumplir con las regulaciones.
 title: Administración de la privacidad
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '439'
 ht-degree: 1%
 
 ---

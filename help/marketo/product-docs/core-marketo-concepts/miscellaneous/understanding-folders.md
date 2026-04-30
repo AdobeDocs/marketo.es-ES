@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: Obtenga información sobre las carpetas dentro de los programas para organizar campañas inteligentes y recursos. Cree, cambie de nombre y elimine carpetas.
 title: Explicación de las carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '274'
 ht-degree: 4%
 
 ---
@@ -28,11 +28,9 @@ Las carpetas dentro de un programa se pueden utilizar para organizar las campañ
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-¡Excelente! Ahora tiene una nueva carpeta para almacenar sus recursos locales.
+La nueva carpeta ya está lista para sus recursos locales.
 
 ## Cambiar nombre de carpeta {#rename-a-folder}
-
-Está bien que cambies de opinión.
 
 1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Cambiar nombre de carpeta]**.
 
@@ -68,6 +66,6 @@ Al archivar una carpeta:
 Funcionalidad que **no** cambiará al archivar:
 
 * La búsqueda global sigue encontrando resultados en carpetas archivadas
-* Un recurso que está en uso seguirá funcionando incluso después de archivarse
+* Un recurso en uso seguirá funcionando incluso después de archivarse
 * Puede utilizar un filtro para seleccionar recursos archivados para utilizarlos en informes
 * Los recursos archivados no se desactivan. También deben desactivarse si desea que dejen de ejecutarse

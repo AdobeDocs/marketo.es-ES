@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo iniciar una presentación del Cale
 title: Iniciar una presentación
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
 # Iniciar una presentación {#launch-a-presentation}
 
-Una vez que haya establecido las vistas y la frecuencia de rotación para su presentación, es hora de la explosión fuera!
+Una vez establecidas las vistas y la frecuencia de rotación, la presentación está lista para iniciarse.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para su pre
 
 >[!TIP]
 >
->Asegúrese de _Previsualizar una presentación_ antes de iniciar.
+>Previsualice la presentación antes de iniciarla.
 
 1. Haga clic en **[!UICONTROL Iniciar]**.
 

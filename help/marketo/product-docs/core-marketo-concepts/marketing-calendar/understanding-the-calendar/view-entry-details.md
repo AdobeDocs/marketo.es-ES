@@ -4,16 +4,14 @@ description: Obtenga información sobre cómo ver los detalles de la entrada en 
 title: Ver detalles de la entrada
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 # Ver detalles de la entrada {#view-entry-details}
-
-Cuando vea los detalles de una entrada en el Calendario de marketing, podrá ver todo tipo de elementos interesantes sobre una entrada.
 
 1. Seleccione una entrada del calendario.
 
@@ -25,4 +23,4 @@ Cuando vea los detalles de una entrada en el Calendario de marketing, podrá ver
 
 >[!TIP]
 >
->Haga clic con el botón derecho en los detalles de la derecha. Puede ver los menús para desplazarse por los editores o mostrarlos de forma emergente. Bien, ¿verdad?
+>Haga clic con el botón derecho en el panel de detalles para acceder a los menús de navegación o abrir los editores.

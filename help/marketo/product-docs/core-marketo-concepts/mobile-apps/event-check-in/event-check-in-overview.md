@@ -3,9 +3,9 @@ description: Obtenga información acerca del registro de eventos para registrar 
 title: Información general sobre el registro en eventos
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '314'
 ht-degree: 4%
 
 ---
@@ -22,15 +22,13 @@ Este artículo describe el proceso completo. Los encabezados están vinculados a
 
 Algunas actividades se realizan antes del evento, como crear una función nueva e invitar a asistentes. Algunos ocurren durante el evento, como el registro de asistentes. Después del evento, sincroniza los datos con Marketo y actualiza el estado de la persona.
 
-¡Que tengas un gran evento!
-
 ## Preparación para su evento
 
 Antes del evento:
 
 * [Crear un nuevo rol de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} para [!DNL iPad] o [!DNL Android] usuarios para el evento
 * [Invite a nuevos usuarios de Tablet PC al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} y asígneles la nueva función
-* [Crear un nuevo programa de eventos de Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [Creación de un nuevo programa de eventos de Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Especificar las fechas del evento
 * Añadir personas al evento
 

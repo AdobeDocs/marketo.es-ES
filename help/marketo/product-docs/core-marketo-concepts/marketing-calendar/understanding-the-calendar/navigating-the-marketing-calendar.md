@@ -4,16 +4,16 @@ description: Aprenda a navegar por el calendario de marketing, incluidos los mod
 title: Navegación por el calendario de marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '179'
 ht-degree: 5%
 
 ---
 
 # Navegación por el calendario de marketing {#navigating-the-marketing-calendar}
 
-Navegar por el calendario de marketing es fácil. Así es cómo se hace.
+Obtenga información sobre cómo navegar por el calendario de marketing.
 
 >[!PREREQUISITES]
 >
@@ -49,13 +49,13 @@ La vista de agenda muestra todas las entradas como una lista.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   ¡Fantástico! Esta es una gran vista para ver todo lo que está planificado.
+   Esta vista muestra todo lo que se ha planificado.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
 ## Navegar por el tiempo {#navigate-through-time}
 
-¡Sin DeLorean! Simplemente haga clic en los botones de navegación.
+Haga clic en los botones de navegación.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -67,7 +67,7 @@ También puede utilizar estos métodos abreviados del teclado.
 | Avanzar en el tiempo | alt/opt + down |
 | Ir a &quot;hoy&quot; | alt/opt + t |
 
-¡Fantástico! Estos son los conceptos básicos. También puede personalizar la vista mediante filtros.
+Estos son los conceptos básicos. También puede personalizar la vista mediante filtros.
 
 >[!MORELIKETHIS]
 >

@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '229'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Configure Adobe Experience Manager (AEM) para poder acceder, seleccionar e impor
 
    ![](assets/one.png)
 
-1. Puede iniciar sesión con Adobe o localmente. En este ejemplo, iniciaremos sesión localmente.
+1. Puede iniciar sesión con Adobe o localmente. Este ejemplo utiliza el inicio de sesión local.
 
    ![](assets/two.png)
 

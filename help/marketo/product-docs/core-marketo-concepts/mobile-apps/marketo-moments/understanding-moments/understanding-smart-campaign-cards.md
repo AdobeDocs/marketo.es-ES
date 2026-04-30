@@ -4,9 +4,9 @@ description: Obtenga información sobre las tarjetas de campañas inteligentes e
 title: Explicación de las tarjetas de campañas inteligentes
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Ahora, verá el flujo de la campaña inteligente. Esta campaña solo tiene un paso de flujo, pero puede haber varios.
+1. El flujo de la campaña inteligente se muestra aquí. Esta campaña solo tiene un paso de flujo, pero puede haber varios.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ Para futuras campañas inteligentes programadas pero que aún no se han ejecutad
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. ¿Ves esos dos puntos en la parte inferior? Indican que hay dos correos electrónicos conectados a esta campaña inteligente. Para ver los resultados del otro correo electrónico, deslice la pantalla hacia la izquierda. Estos son los resultados del segundo correo electrónico.
+1. Los dos puntos de la parte inferior indican que hay dos correos electrónicos conectados a esta campaña inteligente. Para ver los resultados del otro correo electrónico, deslice la pantalla hacia la izquierda. Estos son los resultados del segundo correo electrónico.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -93,7 +93,7 @@ Las tarjetas de las campañas inteligentes sin confirmar aparecerán en gris has
 
    >[!NOTE]
    >
-   >¡Ahora tu carta se volverá naranja!
+   >La tarjeta se volverá naranja.
 
 ## Cancelación de una ejecución de campaña inteligente {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ Puede reprogramar una campaña inteligente confirmada que aún no se haya ejecut
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   ¡Pedazo de torta!
-
 ## Otras acciones de campañas inteligentes {#other-smart-campaign-actions}
 
 Al igual que con otras tarjetas de Momentos de Marketo, puede pulsar los tres puntos de cualquier tarjeta de campaña inteligente o tarjeta de detalles para lo siguiente:
@@ -145,4 +143,4 @@ Al igual que con otras tarjetas de Momentos de Marketo, puede pulsar los tres pu
 
 ## Eliminar rápidamente una tarjeta de campaña inteligente {#quickly-delete-a-smart-campaign-card}
 
-Si tiene una tarjeta que ya no necesita, tal vez una que utilizó para la prueba, puede deshacerse de ella con un rápido barrido a la izquierda o a la derecha.
+Si tiene una tarjeta que ya no necesita, tal vez una que utilizó para la prueba, se puede eliminar con un rápido barrido a la izquierda o a la derecha.

@@ -4,9 +4,9 @@ description: Obtenga información acerca de las tarjetas de Analytics en Momento
 title: Explicación de las tarjetas de Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,11 @@ Pulse una tarjeta de Analytics para mostrar:
 * Una comparación mes tras mes
 * Gráfico de barras de los tres más visitados o los tres más visitados (según la tarjeta)
 
-Por ejemplo, veamos los detalles de la tarjeta de análisis [!UICONTROL Posibles clientes adquiridos]:
+Por ejemplo, aquí están los detalles de la tarjeta de Analytics [!UICONTROL Posibles clientes adquiridos]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-En este ejemplo, el rojo indica que el valor ha disminuido en el intervalo de fechas seleccionado (oh oh!). El verde indica que el valor ha aumentado (¡ay!).
+En este ejemplo, el rojo indica que el valor ha disminuido en el intervalo de fechas seleccionado. El verde indica que el valor ha aumentado.
 
 ## [!UICONTROL Posibles clientes adquiridos] {#acquired-leads}
 

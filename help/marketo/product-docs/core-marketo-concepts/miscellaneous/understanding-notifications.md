@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Obtenga información acerca de las notificaciones de Marketo Engage para errores de campañas y sincronización CRM. Suscribirse para recibir alertas por correo electrónico y mantenerse al día.
 title: Explicación de las notificaciones
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -48,4 +48,4 @@ En algunos casos, una notificación proporciona el vínculo &quot;Ver la lista c
 
 >[!TIP]
 >
->¿Quiere cancelar la suscripción a los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el vínculo **[!UICONTROL cancelar la suscripción a las notificaciones]** en la parte inferior del mensaje de correo electrónico de notificación.
+>Para cancelar la suscripción a los mensajes de correo electrónico de notificación, haga clic en el vínculo **[!UICONTROL cancelar la suscripción a las notificaciones]** en la parte inferior del mensaje de correo electrónico de notificación.

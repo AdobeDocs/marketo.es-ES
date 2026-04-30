@@ -4,9 +4,9 @@ description: Obtenga información sobre las tarjetas de programa de correo elect
 title: Explicación de las tarjetas de los programas de correo electrónico
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    >[!NOTE]
    >
-   >¡Ahora tu carta se volverá naranja!
+   >La tarjeta se volverá naranja.
 
 ## Cancelar un envío de tarjeta de correo electrónico {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ Puede reprogramar las tarjetas de correo electrónico confirmadas o no confirmad
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Siempre y cuando tengas servicio móvil, ¡puedes reprogramar desde cualquier lugar!
+   Con una conexión inalámbrica, es posible volver a programar desde cualquier lugar.
 
 ## Envío de una muestra {#sending-a-sample}
 
@@ -109,7 +109,7 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   De este modo, ¡sabe que su correo electrónico es perfecto antes de tirar del déclencheur!
+   Esto permite verificar que el correo electrónico tiene el aspecto correcto antes de enviarlo.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
