@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [Suscribirse a las notificaciones de estado del sistema](getting-started/things-to-know/system-status-notifications.md)
       + [Asistente de IA para el conocimiento del producto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Comunidad del país de marketing](getting-started/things-to-know/community.md)
+      + [Migración de AWS](getting-started/things-to-know/aws-migration.md)
    + Ganancias rápidas {#quick-wins}
       + [Configuración y adición de una persona](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar un correo electrónico](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [Habilitar restricciones de persona para campañas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Seguimiento de aperturas de correo electrónico en el nivel de campaña](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtrar actividad del bot de correo electrónico](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Quitar texto de cancelación de suscripción](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Quitar texto de cancelación de suscripción](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + Administración de campos {#field-management}
          + [Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquear actualizaciones de un campo](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -778,7 +779,7 @@ ht-degree: 99%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde Box](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Páginas de destino {#landing-pages}
+      + Páginas de aterrizaje {#landing-pages}
          + Explicación de las páginas de destino {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1143,7 +1144,7 @@ ht-degree: 99%
       + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
-         + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
+         + [Explicación de la pestaña Yo](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
       + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Sincronización de las tareas de recordatorio con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sincronización de las tareas de Sales Connect con Salesforce por primera vez](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Plantillas {#templates}
-         + [Añadir cancelaciones de suscripción automáticas a una plantilla](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Administrar plantillas](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Añadir texto con hipervínculos](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Archivar plantillas](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Crear una nueva categoría](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [Crear una nueva plantilla](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [Personalizar vista de plantilla](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [Eliminar una categoría de plantilla](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [Eliminar una plantilla](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [Editar una categoría de plantilla](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Añadir una plantilla a favoritos](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [Combinar y eliminar la duplicación de categorías](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Plantillas recomendadas](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [Plantillas compartidas](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Participación en la plantilla](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Uso de HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Ver lista de plantillas como otro usuario](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [Administrar categorías de plantilla](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + Campos dinámicos {#dynamic-fields}
             + [Crear campos dinámicos personalizados](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glosario de campos dinámicos](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1356,7 +1348,7 @@ ht-degree: 99%
          + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
-            + [Explicación de la pestaña Yo &#x200B;](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [Explicación de la pestaña Yo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
@@ -1937,7 +1929,7 @@ ht-degree: 99%
    + [TEMP de la versión actual](release-notes/current-temp.md)
    + [Versión de Dynamic Chat](release-notes/dynamic-chat.md)
    + [Versión TEMP de Dynamic Chat](release-notes/dynamic-chat-temp.md)
-   + Versiones anteriores  {#previous-releases}
+   + Versiones anteriores {#previous-releases}
       + 2026 {#2026}
          + [Notas de la versión: Enero de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Notas de la versión: febrero de 2026](release-notes/previous-releases/2026/release-notes-feb-26.md)
