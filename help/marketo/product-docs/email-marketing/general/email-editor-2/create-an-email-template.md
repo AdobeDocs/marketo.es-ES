@@ -4,9 +4,9 @@ description: Aprenda a crear una plantilla de correo electrónico en el Editor d
 title: Creación de una plantilla de correo electrónico
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 12%
 
 ---
@@ -64,8 +64,6 @@ Si ha creado un correo electrónico que desea guardar como plantilla para uso fu
 1. Haga clic en la lista desplegable **[!UICONTROL Carpeta]**, seleccione dónde desea que se encuentre la plantilla y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/five-1.png)
-
-   ¡Y eso es todo!
 
    >[!CAUTION]
    >

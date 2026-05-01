@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo agregar personas a una cuenta con 
 title: Añadir personas a una cuenta nombrada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '200'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ Existen tres formas diferentes de agregar manualmente personas a una cuenta con 
 
    ![](assets/eight.png)
 
-   ¡Ya está! A continuación, simplemente programe (o active) su campaña inteligente y el paso de flujo empezará a agregar personas calificadas a la cuenta con nombre designada.
+   A continuación, programe (o active) su campaña inteligente y el paso del flujo empezará a añadir personas aptas a la cuenta con nombre designada.
 
 ## Lista de importación {#list-import}
 

@@ -4,9 +4,9 @@ description: Aprenda a utilizar el editor de texto enriquecido para el contenido
 title: Uso del editor de texto enriquecido
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 3%
 
 ---
@@ -70,35 +70,35 @@ Estas son las funciones que encontrará en un RTE.
 
 | Ícono | Nombre | Qué hace |
 |---|---|---|
-| ![—](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Familia de fuentes] | Elige tu estilo, ¡tenemos mucho! |
-| ![—](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Tamaño de fuente] | ¿Qué tan grande lo quieres? 25 opciones, de 8 px a 90 px. |
-| ![—](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Estilos] | Elija Párrafo o seis estilos de encabezado (para páginas de aterrizaje). |
-| ![—](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Interlineado] | Elige la distancia entre las líneas. |
-| ![—](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Color de texto] | Negro, rojo o lo que quieras. |
-| ![—](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Color de fondo] | Resaltar para dar énfasis. |
-| ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrita] | **Más oscuro y grueso**. |
-| ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Cursiva] | *En ángulo, para énfasis o presupuesto* s. |
-| ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Subrayado] | Pone una línea debajo del texto. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alineación] | Utilice este menú desplegable para diseñar el texto y las imágenes. Centrarlos, elegir la alineación a la izquierda o a la derecha, o extenderlos de borde a borde con justificación completa. |
-| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Elija viñetas o números en la lista desplegable. Las viñetas son buenas con las listas y los números con pasos. |
-| ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Sangría] | Elija más o menos sangría. Utilícelo para párrafos o cualquier texto que desee destacar. |
-| ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insertar/Editar vínculo] | Coloque un vínculo a un sitio web u otro contenido; realice fácilmente cambios en él. |
-| ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insertar/Editar imagen] | Una imagen vale más que mil palabras. Coloca uno. Haga clic en el icono de la cámara para explorar Design Studio. Puede colocar imágenes en paralelo. |
-| ![—](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Insertar token] | Una herramienta potente, ideal para la personalización del correo electrónico y el seguimiento de datos. Asegúrese de introducir un valor predeterminado. |
-| ![—](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Deshacer] | ¡Uy! Vamos a retroceder un paso y volver a intentarlo. |
-| ![—](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Rehacer] | Si realmente funciona correctamente, vuelva al original. |
-| ![—](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabla] | Construye tu propio, como éste. Un menú desplegable le permite configurarlo. |
-| ![—](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Insertar anclaje] | ¡Suelta el ancla! |
-| ![—](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Línea horizontal] | Muchos usos: ideal para dividir secciones. |
-| ![—](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Editar HTML] | Abre el Editor de Source de HTML para que puedas modificar tu código. |
-| ![—](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subíndice] | Letras de cuelgue bajo (como en O`<sub>2</sub>`). |
-| ![—](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Superíndice] | ¡Tienes el poder! (2`<sup>6</sup>`). |
-| ![—](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Tachado] | `<s>Put a line through text, like this</s>`. |
-| ![—](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Carácter especial] | ¿Quieres hablar de euros? ¿Matemáticas? Tienes 243 opciones. |
-| ![—](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Buscar y reemplazar] | Busque y cambie cosas mucho más rápido que buscando cada instancia usted mismo. |
-| ![—](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Borrar formato] | Devuelva las cosas al estándar. |
-| ![—](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancelar] | Presione el botón para decir: &quot;No importa&quot;. |
-| ![—](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Guardar] | Presione el botón para decir: &quot;OK, me gusta&quot;. |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Familia de fuentes] | Elige tu estilo, ¡tenemos mucho! |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Tamaño de fuente] | ¿Qué tan grande lo quieres? 25 opciones, de 8 px a 90 px. |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Estilos] | Elija Párrafo o seis estilos de encabezado (para páginas de aterrizaje). |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Interlineado] | Elige la distancia entre las líneas. |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Color de texto] | Negro, rojo o lo que quieras. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Color de fondo] | Resaltar para dar énfasis. |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrita] | **Más oscuro y grueso**. |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Cursiva] | *En ángulo, para énfasis o presupuesto* s. |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Subrayado] | Pone una línea debajo del texto. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alineación] | Utilice esta lista desplegable para diseñar el texto y las imágenes. Centrarlos, elegir la alineación a la izquierda o a la derecha, o extenderlos de borde a borde con justificación completa. |
+| ![--](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Elija viñetas o números en la lista desplegable. Las viñetas son buenas con las listas y los números con pasos. |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Sangría] | Elija más o menos sangría. Utilícelo para párrafos o cualquier texto que desee destacar. |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insertar/Editar vínculo] | Coloque un vínculo a un sitio web u otro contenido; realice fácilmente cambios en él. |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insertar/Editar imagen] | Una imagen vale más que mil palabras. Coloca uno. Haga clic en el icono de la cámara para explorar Design Studio. Puede colocar imágenes en paralelo. |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Insertar token] | Una herramienta potente, ideal para la personalización del correo electrónico y el seguimiento de datos. Asegúrese de introducir un valor predeterminado. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Deshacer] | ¡Uy! Vamos a retroceder un paso y volver a intentarlo. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Rehacer] | Si el resultado es correcto, vuelva al original. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabla] | Construye tu propio, como éste. Un menú desplegable le permite configurarlo. |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Insertar anclaje] | ¡Suelta el ancla! |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Línea horizontal] | Muchos usos: ideal para dividir secciones. |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Editar HTML] | Abre el Editor de Source de HTML para que puedas modificar tu código. |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subíndice] | Letras de cuelgue bajo (como en O`<sub>2</sub>`). |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Superíndice] | ¡Tienes el poder! (2`<sup>6</sup>`). |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Tachado] | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Carácter especial] | ¿Quieres hablar de euros? ¿Matemáticas? Tienes 243 opciones. |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Buscar y reemplazar] | Busque y cambie cosas mucho más rápido que buscando cada instancia usted mismo. |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Borrar formato] | Devuelva las cosas al estándar. |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancelar] | Presione el botón para decir: &quot;No importa&quot;. |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Guardar] | Presione el botón para decir: &quot;OK, me gusta&quot;. |
 
 >[!TIP]
 >
@@ -131,5 +131,3 @@ La configuración del elemento de bloque raíz define qué etiquetas ajustan el 
 1. En la lista desplegable **[!UICONTROL Editor de página de aterrizaje]**, seleccione `<p>` o [!UICONTROL Ninguno] y haga clic en **[!UICONTROL Guardar]**. `<p>` se usa en este ejemplo.
 
    ![](assets/five.png)
-
-   ¡Y eso es todo!

@@ -4,10 +4,10 @@ description: Obtenga información acerca de las versiones de complementos para M
 title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 1%
+source-wordcount: '496'
+ht-degree: 12%
 
 ---
 
@@ -47,7 +47,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-¡Y eso es todo! Después de la actualización solo verá una solución MSI.
+Después de la actualización solo verá una solución MSI.
 
 ## Actualizaciones de versión {#version-updates}
 
@@ -78,7 +78,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
    <td>Se han corregido los problemas de paginación de Actividad web y Momentos interesantes en el panel global.</td>
   </tr>
   <tr>
-   <td>23/03/23</td>
+   <td>03/23/23</td>
    <td>2.00.28</td>
    <td>Se creó un <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">nuevo paquete</a> para MSI para conexiones no nativas con CRM.</td>
   </tr>
@@ -93,7 +93,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
    <td>Puntuación de adopción del programa para enviar correo electrónico.</td>
   </tr>
   <tr>
-   <td>28/10/21</td>
+   <td>10/28/21</td>
    <td>2.0.0.25</td>
    <td>Métricas de puntuación de adopción de productos, nuevo panel global (actividad web, correo electrónico, resultados más probables).</td>
   </tr>
@@ -108,7 +108,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
    <td>Corrección de errores: Asignar acceso a los campos de configuración de la API MSI a los usuarios con el rol de Insight de ventas.</td>
   </tr>
   <tr>
-   <td>20/07/20</td>
+   <td>07/20/20</td>
    <td>2.0.0.20</td>
    <td>Corrección de errores: Agregue un mensaje de validación para los registros no sincronizados.</td>
   </tr>
@@ -118,17 +118,17 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
    <td>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API de MSD.</td>
   </tr>
   <tr>
-   <td>26/05/20</td>
+   <td>05/26/20</td>
    <td>2.0.0.18</td>
    <td>Corrección de errores: Para cambiar la validación del ID de rol MSI para mostrar los botones MSI.</td>
   </tr>
   <tr>
-   <td>21/05/20</td>
+   <td>05/21/20</td>
    <td>2.0.0.17</td>
    <td>Corrección de errores: Mostrar el campo de propietario y hacer que los campos no sean obligatorios.</td>
   </tr>
   <tr>
-   <td>28/04/20</td>
+   <td>04/28/20</td>
    <td>2.0.0.16</td>
    <td>Corrección de errores: Eliminando la dependencia de vínculo de la configuración del mapa del sitio de MSD CRM.</td>
   </tr>

@@ -4,7 +4,7 @@ description: Obtenga información sobre la visualización de personas o visitant
 title: Mostrar personas o visitantes anónimos en los informes web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 9%
@@ -35,7 +35,7 @@ En los informes [[!UICONTROL Actividad de la página web]](/help/marketo/product
    >
    >La inclusión de ISP para visitantes anónimos genera un informe más largo, pero su exclusión proporciona una visión más clara de la procedencia de los visitantes, además de las fuentes estándar, como Google.
 
-1. Eso es todo. Haz clic en la pestaña **[!UICONTROL Informe]** para volver y ver el informe con personas conocidas o anónimas.
+1. Haz clic en la pestaña **[!UICONTROL Informe]** para volver y ver el informe con personas conocidas o anónimas.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

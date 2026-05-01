@@ -4,10 +4,10 @@ description: Obtenga información acerca del informe de rendimiento de la págin
 title: Informe de rendimiento de la página de destino
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 4%
+source-wordcount: '216'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ Vea cuántas personas rellenaron los formularios en sus páginas de aterrizaje y
 
 >[!NOTE]
 >
->Si ve una discrepancia en las cifras entre su lista inteligente y el informe de rendimiento de la página de aterrizaje, es probable que las listas inteligentes solo filtren datos en Personas, mientras que los informes de rendimiento de la página de aterrizaje incluyen actividades sociales (Facebook, Google Ads, etc.) y anónimas, además de los datos de Personas.
+>Si ve una discrepancia en las cifras entre su lista inteligente y el informe de rendimiento de la página de aterrizaje, es probable que las listas inteligentes solo filtren datos en Personas, mientras que los informes de rendimiento de la página de aterrizaje incluyen medios sociales (Facebook, Google Ads, etc.) y actividades anónimas, además de los datos de Personas.
 
 1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL Rendimiento de la página de aterrizaje] [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha [!UICONTROL Informe].
-1. ¡Ya está! Explore el informe para evaluar el rendimiento de las páginas de aterrizaje.
+1. Explore el informe para evaluar el rendimiento de las páginas de aterrizaje.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 

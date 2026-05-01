@@ -3,9 +3,9 @@ description: Obtenga información acerca de los criterios de audiencia para segm
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '624'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Al igual que las listas inteligentes de Marketo Engage, los atributos de Criteri
 
 ## Prioridad {#priority}
 
-La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece la primera vez que [crea el Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **[!UICONTROL Detalles del cuadro de diálogo]** en la pestaña Criterios de audiencia.
+La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece la primera vez que [crea su Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **[!UICONTROL Detalles del cuadro de diálogo]** en la pestaña Criterios de audiencia.
 
 ![](assets/audience-criteria-1.png)
 
@@ -65,8 +65,6 @@ Hay _muchas_ combinaciones de atributos para elegir. En el siguiente ejemplo, no
 1. Escriba 50 y haga clic en cualquier otra parte de la pantalla para guardar.
 
    ![](assets/audience-criteria-11.png)
-
-¡Y eso es todo!
 
 **Personas anónimas**
 

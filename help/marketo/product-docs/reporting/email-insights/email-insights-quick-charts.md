@@ -4,7 +4,7 @@ description: Aprenda a crear y guardar gráficos rápidos como miniaturas para v
 title: Gráficos rápidos de perspectivas de correo electrónico
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 3%
@@ -35,7 +35,7 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/four.png)
 
-1. Haga clic en la primera lista desplegable. Haga clic en para seleccionar los criterios (si no están seleccionados aún) y anule la selección de cualquier criterio no deseado.
+1. Haga clic en la primera lista desplegable. Haga clic en para seleccionar los criterios (si aún no están seleccionados) y anule la selección de cualquier criterio no deseado.
 
    ![](assets/5.png)
 
@@ -55,11 +55,9 @@ En este ejemplo, elegiremos la tasa de apertura para las primeras tres semanas d
 
    ![](assets/8.png)
 
-   ¡Y eso es todo!
-
    >[!TIP]
    >
-   >Para mover cualquier gráfico rápido, simplemente haga clic en y arrástrelo a la posición deseada.
+   >Para mover cualquier gráfico rápido, haga clic en y arrástrelo a la posición deseada.
 
 ## Eliminar un gráfico rápido {#delete-a-quick-chart}
 

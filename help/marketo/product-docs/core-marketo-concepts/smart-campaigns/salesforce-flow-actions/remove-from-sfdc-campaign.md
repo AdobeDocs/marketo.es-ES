@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo eliminar personas de una campaña 
 title: Quitar de la campaña de SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Al igual que [Agregar a SFDC Campaign](/help/marketo/product-docs/core-marketo-c
    >
    >Si la persona o posible cliente no es miembro de la campaña seleccionada, se omitirá.
 
-¡Ya está! Cuando las personas o los posibles clientes pasen por ahí, se eliminarán de la campaña [!DNL Salesforce] que haya elegido.
+Cuando las personas o los posibles clientes pasen por ahí, se eliminarán de la campaña [!DNL Salesforce] que haya elegido.

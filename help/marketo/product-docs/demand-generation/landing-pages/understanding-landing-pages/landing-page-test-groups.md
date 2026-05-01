@@ -4,10 +4,10 @@ description: Obtenga información acerca de los grupos de prueba de página de a
 title: Grupos de prueba de la página de destino
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo realiza un seguimiento del número de vistas de página y de las finaliz
 >
 >[Cree dos o más páginas de aterrizaje](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
 
-1. En Design Studio, haga clic en **[!UICONTROL Nuevo]**. En el menú desplegable, seleccione **[!UICONTROL Nuevo grupo de prueba]**.
+1. En Design Studio, haga clic en **[!UICONTROL Nuevo]**. En la lista desplegable, seleccione **[!UICONTROL Nuevo grupo de prueba]**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -46,10 +46,10 @@ Marketo realiza un seguimiento del número de vistas de página y de las finaliz
 
    ![](assets/four-1.png)
 
-   ¡Ya está! Ahora podrá comparar las estadísticas de las páginas de aterrizaje seleccionadas.
+   Ahora puede comparar las estadísticas de las páginas de aterrizaje seleccionadas.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Si alguna vez desea eliminar el grupo de prueba, simplemente haga clic en **[!UICONTROL Acciones del grupo de prueba]** y seleccione **[!UICONTROL Eliminar grupo de prueba]**.
+   >Si alguna vez desea eliminar el grupo de prueba, haga clic en **[!UICONTROL Acciones del grupo de prueba]** y seleccione **[!UICONTROL Eliminar grupo de prueba]**.

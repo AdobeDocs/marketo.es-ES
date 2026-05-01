@@ -4,10 +4,10 @@ title: Creación del correo electrónico
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1783'
-ht-degree: 3%
+source-wordcount: '1819'
+ht-degree: 5%
 
 ---
 
@@ -67,7 +67,7 @@ Los correos electrónicos del diseñador de correo electrónico solo se pueden c
 
 >[!ENDTABS]
 
-Eso es todo. Ahora es el momento de diseñar su correo electrónico.
+Ahora es el momento de diseñar su correo electrónico.
 
 ## Elija su tipo de contenido {#choose-your-content-type}
 

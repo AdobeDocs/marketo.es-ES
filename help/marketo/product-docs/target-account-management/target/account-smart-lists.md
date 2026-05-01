@@ -4,9 +4,9 @@ description: Aprenda a crear listas inteligentes de cuentas para identificar cue
 title: Listas inteligentes de cuentas
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Este es el aspecto que tendrá el contenedor.
 >
 >Al crear un contenedor de filtros, se crea una regla &quot;y&quot;, lo que significa que solo devolverá todos los resultados combinados. En este ejemplo, las cuentas con una industria de la salud, junto con estar ubicado en California _y_ con alguien listado como CFO. Si no desea utilizar contenedores, simplemente suelte el filtro por debajo o por encima del existente.
 
-¡Y eso es todo! Consulte la sección siguiente para ver cómo puede aprovechar su [!UICONTROL lista inteligente de cuentas].
+Vea la sección siguiente para ver cómo puede aprovechar su [!UICONTROL lista inteligente de cuentas].
 
 >[!TIP]
 >

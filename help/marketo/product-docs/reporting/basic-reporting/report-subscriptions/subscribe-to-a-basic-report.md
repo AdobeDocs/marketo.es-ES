@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo suscribir direcciones de correo el
 title: Suscribirse a un informe básico
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 
@@ -42,8 +42,6 @@ Para recibir actualizaciones automáticas de un informe básico o compartirlo, p
    >[!NOTE]
    >
    >Cualquiera puede cancelar la suscripción al informe en el correo electrónico que reciba.
-
-   ¡Ya está! Compruebe su bandeja de entrada.
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 

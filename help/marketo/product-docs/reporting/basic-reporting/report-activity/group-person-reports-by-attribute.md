@@ -4,10 +4,10 @@ description: Obtenga información acerca de los informes de personas de grupo po
 title: Agrupar informes de personas por atributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ Puede agrupar los informes de persona por cualquier persona o atributo de compa�
    >
    >Si elige un atributo que tiene un valor numérico, como _[!UICONTROL Creado a las]_ o _[!UICONTROL Ingresos anuales]_, seleccione las métricas en la lista desplegable **[!UICONTROL Unidades]** de la derecha.
 
-   ¡Ya está! Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe agrupado según corresponda.
+   Haga clic en la ficha **[!UICONTROL Informe]** para ver el informe agrupado según corresponda.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

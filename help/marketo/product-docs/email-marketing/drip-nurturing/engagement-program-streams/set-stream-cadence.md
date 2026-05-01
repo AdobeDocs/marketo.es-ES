@@ -4,10 +4,10 @@ description: Aprenda a establecer la cadencia del flujo para los programas de pa
 title: Establecer cadencia de la secuencia
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -68,8 +68,6 @@ Puede enviar contenido de participación a cualquier intervalo que desee. Por ej
    >[!NOTE]
    >
    >En este ejemplo, un correo electrónico se publicará el jueves. Entonces, omitimos una semana y enviamos nuevamente el martes, el miércoles y el jueves de la semana siguiente. Y luego volvemos a repetir.
-
-¡Ya está! Siga leyendo si desea configurar una cadencia mensual.
 
 ## Mensualmente {#monthly}
 

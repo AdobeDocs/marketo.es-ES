@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo enviar una lista estática a Linke
 title: Enviar una lista a una red de anuncios
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '232'
 ht-degree: 7%
 
 ---
@@ -38,9 +38,9 @@ Obtenga información sobre cómo enviar una lista estática a [!DNL LinkedIn], [
 
    >[!NOTE]
    >
-   >Si selecciona &quot;[!UICONTROL Habilitar la sincronización continua de audiencias]&quot;, Marketo mantiene la lista actualizada en la red de anuncios elegida a medida que cambia la lista en la instancia de Marketo. Ambos agregamos **y** quitamos personas de la audiencia si se agregan o eliminan de la lista estática.
+   >Si selecciona &quot;[!UICONTROL Habilitar la sincronización continua de audiencias]&quot;, Marketo mantiene la lista actualizada en la red de anuncios elegida a medida que cambia la lista en la instancia de Marketo. Agregamos **y** quitamos personas de la audiencia si se agregan o eliminan de la lista estática.
 
-1. ¡Y eso es todo! Haga clic en **[!UICONTROL Aceptar]** para salir.
+1. Haga clic en **[!UICONTROL Aceptar]** para salir.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

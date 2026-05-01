@@ -4,9 +4,9 @@ description: Aprenda a configurar el correo electrónico semanal del informe de 
 title: Configuración de informes TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 4%
 
 ---
@@ -48,8 +48,6 @@ El informe de ventas de TAM es un correo electrónico semanal personalizado que 
 1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/seven-2.png)
-
-¡Y eso es todo!
 
 ## Cómo cancelar la suscripción {#how-to-unsubscribe}
 

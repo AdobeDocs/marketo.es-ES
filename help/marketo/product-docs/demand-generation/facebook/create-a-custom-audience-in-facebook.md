@@ -4,9 +4,9 @@ description: Aprenda a crear una audiencia personalizada en Facebook desde Marke
 title: Creación de una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 3%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   ¡Y eso es todo! En Facebook verá la nueva audiencia en **Administrador de anuncios** > **Audiencias**.
+   En Facebook verá la nueva audiencia en **Administrador de anuncios** > **Audiencias**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 

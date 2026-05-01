@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un correo electrónico en Ma
 title: Crear un correo electrónico
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---
@@ -44,8 +44,6 @@ Existen dos formas principales de crear un correo electrónico en Marketo. Vamos
 1. Haga clic en **[!UICONTROL Correo electrónico]**.
 
    ![](assets/create-an-email-5.png)
-
-   ¡Y eso es todo!
 
 El método que elija le lleva al selector de plantillas.
 

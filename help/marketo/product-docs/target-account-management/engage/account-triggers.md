@@ -4,10 +4,10 @@ description: Aprenda a escuchar y actuar en actividades de comportamiento de niv
 title: Activadores de la cuenta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -39,7 +39,7 @@ Haga clic en la lista desplegable Cuenta con nombre...
 
 ![](assets/six-1.png)
 
-¡Ya está! Después de finalizar el resto de la campaña inteligente, recuerde activarla.
+Después de finalizar el resto de la campaña inteligente, asegúrese de activarla.
 
 >[!MORELIKETHIS]
 >

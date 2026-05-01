@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo guardar la campaña como plantilla
 title: Guardar la campaña como una plantilla
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 12%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 12%
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. ¡Ya está! La próxima vez que cree una campaña y seleccione una plantilla, marque [!UICONTROL Mis plantillas] en la página Definir campañas para ver las plantillas que guardó.
+1. La próxima vez que cree una campaña y seleccione una plantilla, marque [!UICONTROL Mis plantillas] en la página Definir campañas para ver las plantillas que guardó.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

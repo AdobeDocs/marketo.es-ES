@@ -4,10 +4,10 @@ description: Aprenda a reordenar las columnas del informe arrastrándolas y solt
 title: Reordenar columnas de informes
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 7%
+source-wordcount: '109'
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ Puede cambiar el orden de las columnas en un informe.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. ¡Ya está! Las columnas ahora aparecen en el nuevo orden.
+1. Las columnas ahora aparecen en el nuevo orden.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo habilitar o deshabilitar las suscr
 title: Habilitar/deshabilitar suscripciones a informes
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 13%
+source-wordcount: '86'
+ht-degree: 11%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 13%
 
    ![](assets/email-settings.png)
 
-   ¡Ya está! Para cancelar la suscripción al informe, simplemente desmarca y haz clic en **[!UICONTROL Guardar]**.
+   Para cancelar la suscripción al informe, desmarca y haz clic en **[!UICONTROL Guardar]**.

@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo añadir tokens a vínculos de corr
 title: Añadir tókenes a un vínculo de un correo electrónico
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 
@@ -34,8 +34,6 @@ Para insertar parámetros adicionales y específicos de la persona en los víncu
 1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/five.png)
-
-   ¡Y eso es todo!
 
 >[!MORELIKETHIS]
 >

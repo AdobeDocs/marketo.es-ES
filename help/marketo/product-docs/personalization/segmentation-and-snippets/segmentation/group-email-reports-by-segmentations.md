@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo agrupar el informe de rendimiento 
 title: Agrupar informes de correo electrónico por segmentaciones
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 9%
 
 ---
@@ -35,7 +35,7 @@ Las segmentaciones no son solo para contenido dinámico. También puede agrupar 
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. ¡Ya está! Haga clic en la ficha **[!UICONTROL Informe]**. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
+1. Haga clic en la ficha **[!UICONTROL Informe]**. Si utiliza una segmentación, el informe muestra una fila por cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

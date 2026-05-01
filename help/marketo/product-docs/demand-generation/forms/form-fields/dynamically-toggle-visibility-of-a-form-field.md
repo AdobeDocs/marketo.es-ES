@@ -4,9 +4,9 @@ description: Aprenda a mostrar u ocultar dinámicamente un campo de formulario e
 title: Alternar dinámicamente la visibilidad de un campo de formulario
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 9%
 
 ---
@@ -65,10 +65,10 @@ Una característica muy interesante de los formularios Marketo Forms es que pued
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-¡Y eso es todo! Ahora, cuando las personas rellenan este formulario y seleccionan Estados Unidos por país, el campo Estado aparece dinámicamente con las opciones especificadas.
+Ahora, cuando las personas rellenan este formulario y seleccionan Estados Unidos por país, el campo Estado aparece dinámicamente con las opciones especificadas.
 
 >[!IMPORTANT]
 >
->El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se establezcan o actualicen mediante scripts personalizados con [funciones de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} en Forms 2.0.
 >
 >Es posible que los campos condicionales no funcionen según lo esperado si los valores de los campos los modifican scripts externos que no sean la API de JavaScript de Forms 2.0.

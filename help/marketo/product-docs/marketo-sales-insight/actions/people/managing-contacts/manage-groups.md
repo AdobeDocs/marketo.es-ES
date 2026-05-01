@@ -3,9 +3,9 @@ description: Aprenda a administrar grupos de contactos en las acciones de Sales 
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight A
   </tr>
   <tr>
    <td>[!UICONTROL Grupos dinámicos]</td>
-   <td>Mis contactos: Todos los contactos que posee.<br>Cancela la suscripción: contactos que han optado por no recibir correspondencia.</td>
+   <td>Mis contactos: Todos los contactos que posee.<br>Cancelaciones de la suscripción: Contactos que han optado por no recibir correspondencia.</td>
   </tr>
   <tr>
    <td>[!UICONTROL Mis grupos]</td>
@@ -54,8 +54,6 @@ Obtenga información sobre cómo administrar los grupos en [!DNL Sales Insight A
 1. Asigne un nombre al grupo y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/manage-groups-2.png)
-
-   ¡Eso es todo!
 
 ## Agregar contactos a un grupo {#add-contacts-to-a-group}
 

@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo agregar una cuenta con nombre exis
 title: Añadir una cuenta con nombre existente a una lista de cuentas
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 8%
@@ -30,8 +30,6 @@ Añadir una cuenta con nombre a una lista de cuentas es sencillo.
 1. Haga clic en la lista desplegable **[!UICONTROL Lista de cuentas]**, seleccione la lista de cuentas que desee y haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/six-1.png)
-
-   ¡Eso es todo!
 
 >[!MORELIKETHIS]
 >

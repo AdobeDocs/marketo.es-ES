@@ -4,9 +4,9 @@ description: Obtenga información acerca de los informes de actividad web de la 
 title: Informe de la actividad en la web de la compañía
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '275'
 ht-degree: 6%
 
 ---
@@ -21,13 +21,13 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
 >
 >Para capturar la actividad de tu sitio web en Marketo, primero debes configurar [up [!DNL Munchkin] en tu sitio](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL tipo de informe de actividad web de la empresa] [5&rbrace;.](report-type-overview.md)
+1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el [!UICONTROL tipo de informe de actividad web de la empresa] [5}.](report-type-overview.md)
 
 1. Elija [mostrar personas conocidas o anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) en el informe.
 
 1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **[!UICONTROL Informe]**.
 
-1. ¡Ya está! Revise el informe para ver qué empresas visitan el sitio.
+1. Revise el informe para ver qué empresas visitan el sitio.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
@@ -47,7 +47,7 @@ Cree un [informe de actividad de página web](/help/marketo/product-docs/reporti
  <tbody>
   <tr>
    <td>Compañía</td>
-   <td>La compañía de visitantes.<br> <strong>Al menos una persona ha confirmado que los nombres en negrita</strong> son el nombre de la compañía.</td>
+   <td>Compañía de los visitantes.<br> <strong>Al menos una persona ha confirmado que los nombres en negrita</strong> son el nombre de la compañía.</td>
   </tr>
   <tr>
    <td>Compañía o ISP inferidos</td>

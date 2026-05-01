@@ -3,9 +3,9 @@ description: Introducción a los seminarios web interactivos en Marketo. Conozca
 title: Introducción a seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -24,13 +24,11 @@ Por lo tanto, ha leído la [Información general sobre seminarios web interactiv
 
 **Paso tres (opcional)**: [Agregar un equipo de seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"}: Si no planea organizar el seminario web por su cuenta, aprenda a agregar presentadores y co-presentadores para compartir las tareas de alojamiento y presentación.
 
-**Paso cuatro**: [Diseñe su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — Después de crear el seminario web y de agregar un equipo opcional, es hora de adaptar el evento para adaptarlo a sus necesidades específicas.
+**Paso cuatro**: [Diseñe su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}: una vez creado el seminario web y agregado un equipo opcional, es hora de adaptar el evento para adaptarlo a sus necesidades específicas.
 
 **Paso cinco**: [Promociona tu seminario web](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Conoce valiosos consejos sobre cómo promocionar tu próximo evento.
 
 **Paso seis**: [Entregue su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"}: Todo lo que necesita saber sobre la presentación de su seminario web.
-
-¡Eso es todo!
 
 ## Documentación adicional {#additional-documentation}
 

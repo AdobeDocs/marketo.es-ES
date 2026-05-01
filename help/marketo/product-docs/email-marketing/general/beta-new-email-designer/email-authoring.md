@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1514'
-ht-degree: 4%
+source-wordcount: '1548'
+ht-degree: 5%
 
 ---
 
@@ -44,7 +44,7 @@ Obtenga información sobre cómo crear, personalizar y previsualizar correos ele
 
    ![](assets/create-an-email-4.png)
 
-Eso es todo. Ahora es el momento de diseñar su correo electrónico.
+Ahora es el momento de diseñar su correo electrónico.
 
 ## Elija su tipo de contenido {#choose-your-content-type}
 

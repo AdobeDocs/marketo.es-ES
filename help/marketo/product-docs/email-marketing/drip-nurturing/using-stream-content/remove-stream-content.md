@@ -4,10 +4,10 @@ description: Aprenda a eliminar el contenido de la emisión cuando no necesite c
 title: Quitar contenido de flujo
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -31,4 +31,4 @@ Puede eliminar o archivar un fragmento de contenido. A diferencia de eliminar co
    >
    >Elimine el contenido solo si no le importa el historial. Si desea conservar el historial, [archive](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) el mismo en su lugar.
 
-   ¡Ya está! Ahora ya sabe cómo quitar un fragmento de contenido.
+   Ahora ya sabe cómo quitar un fragmento de contenido.
