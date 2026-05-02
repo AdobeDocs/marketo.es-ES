@@ -4,16 +4,16 @@ description: Pasos para editar las asignaciones de espacio de trabajo y nombre d
 title: Edición de una partición de personas existente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
 # Edición de una partición de personas existente {#edit-an-existing-person-partition}
 
-Una partición de persona es como tener una segunda (o tercera) base de datos. Una partición se puede conectar a uno o más espacios de trabajo. A continuación se muestra cómo editar los detalles de la partición.
+Una partición de persona es como tener una segunda (o tercera) base de datos. Una partición se puede conectar a uno o más espacios de trabajo.
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-Después de guardar los cambios, debería ver la actualización.
+Después de guardar los cambios, aparece la actualización.
 
 ![](assets/edit-an-existing-person-partition-5.png)

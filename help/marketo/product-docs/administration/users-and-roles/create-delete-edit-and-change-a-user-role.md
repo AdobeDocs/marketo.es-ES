@@ -4,16 +4,16 @@ description: Pasos para crear, eliminar y editar roles de usuario, incluidos los
 title: Crear, eliminar, editar y cambiar una función de usuario
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
 
 # Crear, eliminar, editar y cambiar una función de usuario {#create-delete-edit-and-change-a-user-role}
 
-**Roles** agrupan un conjunto de permisos. **Permisos** le permiten hacer cosas en Marketo. Usted asigna un **rol** a un usuario. Fácil como el pastel.
+**Roles** agrupan un conjunto de permisos. **Permisos** le permiten realizar acciones en Marketo. Usted asigna un **rol** a un usuario.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Para editar su propia función de usuario, debe iniciar sesión como otro usuario con derechos de administrador.
+>Para editar su propia función de usuario, deberá iniciar sesión como otro usuario con derechos de administrador.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

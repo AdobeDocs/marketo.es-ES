@@ -4,16 +4,16 @@ description: Aprenda a cambiar la partición de posible cliente, la partición d
 title: Edición de un espacio de trabajo
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
 # Edición de un espacio de trabajo {#edit-a-workspace}
 
-A veces, debe realizar cambios en un Workspace. Es fácil.
+A veces, debe realizar cambios en un Workspace.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ A veces, debe realizar cambios en un Workspace. Es fácil.
 
 >[!NOTE]
 >
->Acerca los espacios de trabajo con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Para obtener más información sobre los espacios de trabajo, vea [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -57,7 +57,7 @@ A veces, debe realizar cambios en un Workspace. Es fácil.
 
    >[!NOTE]
    >
-   >No puede cambiar el idioma del espacio de trabajo.
+   >El idioma del espacio de trabajo no se puede cambiar.
 
 >[!MORELIKETHIS]
 >

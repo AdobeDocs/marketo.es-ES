@@ -4,9 +4,9 @@ description: Reglas y pasos para compartir segmentaciones en espacios de trabajo
 title: Uso compartido de segmentaciones en espacios de trabajo y particiones
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## ¿Qué es una segmentación? {#whats-a-segmentation}
 
-Marketo es excelente para elegir a las personas adecuadas para un programa o una campaña inteligente. Sin embargo, para perfiles más permanentes, debe utilizar segmentaciones. Son necesarios para utilizar contenido dinámico avanzado en Marketo.
+Marketo identifica a las personas adecuadas para un programa o una campaña inteligente. Sin embargo, para perfiles más permanentes, debe utilizar segmentaciones. Son necesarios para utilizar contenido dinámico avanzado en Marketo.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Una vez que haya configurado estas personalidades (_y_ que usa espacios de traba
 
 * Cada suscripción a Marketo puede contener hasta 20 segmentos en &quot;total&quot; en varios espacios de trabajo (**no 20 por espacio de trabajo**).
 * Solo puede compartir una segmentación con espacios de trabajo a los que tenga acceso.
-* Asegúrese de crear y utilizar un **espacio de trabajo predeterminado con visibilidad en todas las particiones**.
+* Cree y utilice un **espacio de trabajo predeterminado con visibilidad en todas las particiones**.
 
 * El procesamiento de la segmentación solo se ejecuta en las personas del espacio de trabajo en el que se ha creado.
 
@@ -46,7 +46,7 @@ Una vez que haya configurado estas personalidades (_y_ que usa espacios de traba
 
 >[!NOTE]
 >
->Algunas de estas reglas son un poco complejas. La forma más sencilla de empezar es realizar pruebas con personas específicas. Siempre puede realizar nuevas segmentaciones y deshacerse de las antiguas.
+>Algunas de estas reglas son complejas. Se recomienda realizar pruebas con personas específicas. Se pueden crear nuevas segmentaciones y eliminar las antiguas según sea necesario.
 
 ## Ejemplo de escenarios {#example-scenarios}
 
@@ -64,7 +64,7 @@ Una vez que haya configurado estas personalidades (_y_ que usa espacios de traba
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Asigne un nombre a la carpeta que va a compartir en los espacios de trabajo (ejemplo: Compartir segmentaciones) y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre a la carpeta que se compartirá en los espacios de trabajo (ejemplo: Compartir segmentos) y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

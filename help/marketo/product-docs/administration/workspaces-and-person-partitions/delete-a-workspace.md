@@ -4,9 +4,9 @@ description: Pasos para eliminar un espacio de trabajo, incluida la confirmació
 title: Eliminar un espacio de trabajo
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '65'
 ht-degree: 13%
 
 ---
@@ -33,6 +33,6 @@ ht-degree: 13%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Confirme el número de recursos que está a punto de eliminar (aparece junto a &quot;[!UICONTROL recursos totales]&quot;), active la casilla de verificación **[!UICONTROL No se puede deshacer]** y, a continuación, haga clic en **[!UICONTROL Eliminar]**.
+1. Confirme el número de recursos que desea eliminar (enumerados junto a &quot;[!UICONTROL recursos totales]&quot;), active la casilla de verificación **[!UICONTROL No se puede deshacer]** y, a continuación, haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/delete-a-workspace-4.png)

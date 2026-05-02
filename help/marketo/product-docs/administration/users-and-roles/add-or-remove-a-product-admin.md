@@ -3,9 +3,9 @@ description: Pasos para añadir o eliminar administradores de productos en Adobe
 title: Añadir o quitar un administrador de productos
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Los administradores del sistema** solo se crean en el nivel de organización de Adobe. Si cree que necesita más de uno, comuníquese con [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support).
+>**Los administradores del sistema** solo se crean en el nivel de organización de Adobe. Si crees que necesitas más de uno, ponte en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support).
 
 ## Añadir un administrador de productos {#add-a-product-admin}
 

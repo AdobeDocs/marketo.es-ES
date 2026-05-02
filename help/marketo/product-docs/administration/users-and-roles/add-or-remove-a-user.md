@@ -3,10 +3,10 @@ description: Cómo añadir o quitar usuarios de Marketo Engage en Adobe Admin Co
 title: Añadir o quitar un usuario
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-user-5.png)
 
-1. Escriba el nombre, el grupo de usuarios o la dirección de correo electrónico del usuario que desea agregar. El nombre y los apellidos son opcionales.
+1. Introduzca el nombre, el grupo de usuarios o la dirección de correo electrónico del usuario que desea agregar. El nombre y los apellidos son opcionales.
 
    ![](assets/add-or-remove-a-user-6.png)
 
@@ -54,7 +54,7 @@ El usuario recibirá un correo electrónico para iniciar sesión en Marketo Enga
 
 >[!NOTE]
 >
->Cuando se añade un usuario a Marketo Engage a través de Adobe Admin Console, se le otorga la función &quot;Usuario estándar&quot; dentro del espacio de trabajo predeterminado de la suscripción. Si es necesario ajustar la función del usuario en el área de trabajo, esto se hace en Marketo Engage [tal como se describe aquí](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Cuando se añade un usuario a Marketo Engage a través de Adobe Admin Console, se le concede la función &quot;Usuario estándar&quot; dentro del espacio de trabajo predeterminado de la suscripción. Si es necesario ajustar la función del usuario dentro del área de trabajo, esto se hace en Marketo Engage [tal como se describe aquí](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Eliminar un usuario {#remove-a-user}
 

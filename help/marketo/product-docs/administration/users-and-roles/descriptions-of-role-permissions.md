@@ -4,10 +4,10 @@ description: Lista de referencia de todos los permisos de funciones en Marketo, 
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 17%
+source-wordcount: '1344'
+ht-degree: 18%
 
 ---
 
@@ -54,7 +54,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceder a la nueva experiencia: otorga a los usuarios acceso a la pantalla Nueva experiencia
 * Acceso a la actividad personalizada de Marketo: otorga a los usuarios acceso a las actividades personalizadas de Marketo en Administración
 * Acceso al objeto personalizado de Marketo: otorga a los usuarios acceso a los objetos personalizados de Marketo en la administración
-* Acceso [!DNL Munchkin]: los usuarios de GIves obtienen acceso a [!DNL Munchkin] en Administración para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
+* Acceso [!DNL Munchkin]: otorga a los usuarios acceso a [!DNL Munchkin] en administración para establecer el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
 * Acceso a Predictive Audiences: otorga a los usuarios acceso a la pantalla Predictive Audiences
 * Acceso a Revenue Cycle Analytics: otorga a los usuarios acceso a Revenue Cycle Analytics en Administración para configurar la sincronización de resumen y atribución
 * Acceder a funciones: otorga a los usuarios acceso para administrar y editar funciones, pero no para los usuarios
@@ -179,7 +179,7 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
    * Acceso para crear un recurso de lista inteligente en actividades de base de datos y marketing
 * Eliminar lista
 * Editar persona: evita la edición manual y la ejecución de pasos de flujo únicos; aún puede editar personas ejecutando campañas en su contra
-* Exportar persona: exporte hojas de cálculo con desde las listas de la base de datos
+* Exportar persona: exporte hojas de cálculo de las listas de bases de datos
 * Importar personalizados
 * Lista de importación
 * Combinar personas

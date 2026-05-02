@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo editar qué particiones de persona
 title: Asignar particiones de persona a espacios de trabajo
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 
 # Asignar particiones de persona a espacios de trabajo {#assign-person-partitions-to-workspaces}
 
-Así se editan las asignaciones de partición de persona/espacio de trabajo:
+Siga los pasos a continuación para editar las asignaciones de partición de persona y espacio de trabajo:
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Así se editan las asignaciones de partición de persona/espacio de trabajo:
    >
    >* La casilla de verificación &quot;[!UICONTROL Todas las particiones de persona]&quot; indica que este espacio de trabajo tiene acceso a todas las particiones de persona del sistema.
    >
-   >* Las particiones de persona principal son las predeterminadas en las que se escribirán todas las personas. Use [pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover a las personas.
+   >* Las particiones de persona principales son las predeterminadas en las que se escribirán todas las personas. Use [pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover personas entre particiones.
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 
@@ -56,8 +56,6 @@ Así se editan las asignaciones de partición de persona/espacio de trabajo:
 Después de guardar, debería ver los cambios.
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-Ha editado correctamente su espacio de trabajo.
 
 >[!MORELIKETHIS]
 >

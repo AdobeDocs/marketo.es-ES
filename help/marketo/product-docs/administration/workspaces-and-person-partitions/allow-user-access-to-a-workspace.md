@@ -4,16 +4,16 @@ description: Pasos para otorgar a un usuario acceso a uno o más espacios de tra
 title: Permitir al usuario acceso a Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 13%
 
 ---
 
 # Permitir al usuario acceso a Workspace {#allow-user-access-to-a-workspace}
 
-Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de negocio o separación geográfica). Separan los recursos (listas inteligentes, programas, etc.) de cada equipo. Así se le da a un usuario acceso a uno o más espacios de trabajo.
+Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de negocio o separación geográfica). Separan los recursos (listas inteligentes, programas, etc.) de cada equipo.
 
 >[!NOTE]
 >
