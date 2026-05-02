@@ -114,7 +114,7 @@ La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agente
 
 <p>
 
-_**Enrutamiento de cuenta**_
+_&#x200B;**Enrutamiento de cuenta**&#x200B;_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _**Enrutamiento de cuenta**_
   </tr>
 </tbody></table>
 
-_**Enrutamiento personalizado**_
+_&#x200B;**Enrutamiento personalizado**&#x200B;_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _**Enrutamiento personalizado**_
   </tr>
 </tbody></table>
 
-_**Enrutamiento de equipo**_
+_&#x200B;**Enrutamiento de equipo**&#x200B;_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _**Enrutamiento de equipo**_
   </tr>
 </tbody></table>
 
-_**Enrutamiento Round Robin**_
+_&#x200B;**Enrutamiento Round Robin**&#x200B;_
 
 <table><thead>
   <tr>
