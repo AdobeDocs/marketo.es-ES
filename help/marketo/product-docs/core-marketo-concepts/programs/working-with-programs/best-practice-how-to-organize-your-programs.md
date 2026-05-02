@@ -121,4 +121,4 @@ Algunas personas incluso abstraen la mayoría del texto de los correos electrón
 
 ## Resumen {#summary}
 
-Como puede ver, hay mucho poder en Marketo. Aquí se explican los conceptos básicos, pero considere la posibilidad de recibir servicios adicionales de [expertos en Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararse para el éxito.
+Como puede ver, hay mucho poder en Marketo. Aquí se explican los conceptos básicos, pero considere la posibilidad de recibir servicios adicionales de [expertos en Marketo Engage](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararse para el éxito.

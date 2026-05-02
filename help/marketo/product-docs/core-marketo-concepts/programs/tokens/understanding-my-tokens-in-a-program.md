@@ -46,7 +46,7 @@ Ejemplos:
   </tr>
   <tr>
    <td>Script de email <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td>
+   <td>Utilice este token para ejecutar un script de Velocity en los correos electrónicos. Más información <a href="https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting" title="Seguir vínculo" rel="nofollow">aquí</a>. </td>
   </tr>
   <tr>
    <td>Número <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

@@ -99,7 +99,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
+   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
 
 1. Asigne los apellidos y el nombre de la compañía haciendo clic en **[!UICONTROL Agregar nueva asignación]** de nuevo y repitiendo el paso 15 dos veces, eligiendo **[!UICONTROL lastName]** y luego **[!UICONTROL companyName]**.
 
