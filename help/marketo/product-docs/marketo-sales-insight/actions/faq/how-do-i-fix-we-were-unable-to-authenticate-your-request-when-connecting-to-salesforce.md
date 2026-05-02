@@ -3,9 +3,9 @@ description: Corrija los errores de autenticación al conectar las acciones de S
 title: ¿Cómo soluciono "No hemos podido autenticar su solicitud" al conectar con Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Existen dos tipos de errores que podrían estar produciendo esta página de aute
 * Error de inicio de sesión restringido Dominio
 * Aplicación Oauth bloqueada
 
-Puede identificar el tipo de dirección URL que está obteniendo.
+Puede identificar qué tipo de datos está obteniendo comprobando la dirección URL.
 
 ![](assets/how-do-i-fix-we-were-unable-to-authenticate-1.png)
 
@@ -29,7 +29,7 @@ Puede identificar el tipo de dirección URL que está obteniendo.
 
 Este error suele indicar que tiene un dominio personalizado al que no podemos enrutar. Para resolver este error, intente iniciar sesión en la instancia de Salesforce a la que desee conectarse primero. A continuación, siga los pasos para conectarse a Salesforce.
 
-Si la instancia a la que intenta conectarse es un dominio de zona protegida de Salesforce y se produce un error, deberá seguir pasos adicionales para actualizar la instancia y que sea compatible con la zona protegida de Salesforce. [Más información](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Si la instancia a la que intenta conectarse es un dominio de zona protegida de Salesforce y aparece un error, deberá seguir pasos adicionales para actualizar la instancia y que sea compatible con la zona protegida de Salesforce. [Más información](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Resolver aplicación Oauth bloqueada {#resolve-oauth-app-blocked}
 

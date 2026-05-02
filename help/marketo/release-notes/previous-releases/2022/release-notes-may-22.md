@@ -2,9 +2,9 @@
 description: 'Notas de la versión, mayo de 2022: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, mayo de 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '835'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Las siguientes características comenzarán a lanzarse el **6 de mayo de 2022**,
 
 ## Integración nativa de CRM {#native-crm-integration}
 
-**[Integración nativa de Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilidad limitada)**: Mejore la participación con los profesionales sanitarios sincronizando la actividad entre Veeva CRM y Marketo Engage mediante la integración nativa. Esta integración permite a los especialistas en marketing crear experiencias multicanal más personalizadas y fluidas para los profesionales sanitarios. Póngase en contacto con el administrador de satisfacción del cliente si está interesado en participar.
+**[Integración nativa de Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilidad limitada)**: Mejore la participación con los profesionales sanitarios sincronizando la actividad entre Veeva CRM y Marketo Engage mediante la integración nativa. Esta integración permite a los especialistas en marketing crear experiencias multicanal más personalizadas y fluidas para los profesionales sanitarios. Póngase en contacto con el gestor de éxito de los clientes si está interesado en participar.
 
 ## Orquestación entre canales {#cross-channel-orchestration}
 

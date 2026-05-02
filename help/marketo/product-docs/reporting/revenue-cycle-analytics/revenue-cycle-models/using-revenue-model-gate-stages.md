@@ -4,9 +4,9 @@ description: Aprenda a utilizar las fases de la puerta del modelo de ingresos en
 title: Uso de fases de puerta del modelo de ingresos
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Una etapa de puerta sirve como una comprobación de calificación.
 
 >[!TIP]
 >
->Es una buena idea crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
+>es una buena idea crear un modelo de práctica en un programa gráfico o de presentación y confirmarlo con sus colegas.
 
 ## Agregar Una Fase De Puerta {#add-a-gate-stage}
 

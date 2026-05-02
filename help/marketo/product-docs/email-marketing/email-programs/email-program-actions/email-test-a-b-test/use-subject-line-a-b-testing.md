@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo ejecutar pruebas A/B de línea de 
 title: Usar prueba A/B de “Línea de asunto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '255'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Puede probar fácilmente sus correos electrónicos A/B. Una de las pruebas más 
 
    >[!CAUTION]
    >
-   >**Le recomendamos que evite establecer el tamaño de la muestra en 100%**. Si utiliza una lista estática, si establece el tamaño de la muestra en 100 %, se enviaría el correo electrónico a todos los miembros de la audiencia y el ganador no se lo enviaría a nadie. Si usa una lista inteligente, si establece el tamaño de la muestra en 100%, enviará el correo electrónico a todos los integrantes de la audiencia _en ese momento_. Y cuando el programa de correo electrónico se vuelva a ejecutar más adelante, cualquier nueva persona que califique para la lista inteligente también recibirá el correo electrónico, ya que ahora se incluye en la audiencia.
+   >**Le recomendamos que evite establecer el tamaño de la muestra en 100%**. Si utiliza una lista estática, si establece el tamaño de la muestra en 100 %, se enviará el correo electrónico a todos los miembros de la audiencia y el ganador no se dirigirá a nadie. Si usa una lista inteligente, si establece el tamaño de la muestra en 100%, enviará el correo electrónico a todos los integrantes de la audiencia _en ese momento_. Y cuando el programa de correo electrónico se vuelva a ejecutar más adelante, cualquier nueva persona que califique para la lista inteligente también recibirá el correo electrónico, ya que ahora se incluye en la audiencia.
 
    >[!NOTE]
    >

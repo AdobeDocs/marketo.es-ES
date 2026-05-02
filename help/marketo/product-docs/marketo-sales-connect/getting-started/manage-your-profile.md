@@ -3,10 +3,10 @@ description: Descubra cómo administrar su perfil de Sales Connect. Actualice su
 title: Administrar su perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 6%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -40,7 +40,7 @@ En el lado derecho de la página, la sección [!UICONTROL Sus integraciones] pro
 
 >[!NOTE]
 >
->Si utiliza Exchange On Prem con Sales Connect, no se actualizarán las comprobaciones de estado de la integración del canal de entrega (primer elemento de línea) o el seguimiento de respuestas (segundo elemento de línea). Estamos trabajando para admitir esto en una versión futura.
+>Si utiliza Exchange local con Sales Connect, no se actualizarán las comprobaciones de estado de la integración del canal de entrega (primer elemento de línea) o del seguimiento de respuestas (segundo elemento de línea). Estamos trabajando para admitir esto en una versión futura.
 
 ## Zona horaria {#time-zone}
 

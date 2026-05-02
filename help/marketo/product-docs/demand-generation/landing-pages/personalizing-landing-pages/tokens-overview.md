@@ -4,10 +4,10 @@ description: Obtenga información acerca de los tokens para personalizar página
 title: Información general sobre tókenes
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 94%
+source-wordcount: '313'
+ht-degree: 88%
 
 ---
 

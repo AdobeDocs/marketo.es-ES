@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo modificar o eliminar un seminario 
 title: Modificar o eliminar un seminario web interactivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -36,7 +36,7 @@ Aprenda a realizar cambios en el seminario web interactivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. Cuando haya terminado de realizar las modificaciones, haga clic en **Salir del salón**.
+1. Cuando haya terminado de realizar las modificaciones, haga clic en **Salir de la sala**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -74,7 +74,7 @@ Aprenda a realizar cambios en el seminario web interactivo.
 
    >[!NOTE]
    >
-   >En este momento, solo puede guardar un seminario web interactivo clonado como seminario web interactivo. Guardar un seminario web clonado como seminario web de socio (por ejemplo, Zoom, ON24, etc.) estará disponible pronto.
+   >En este momento, solo puede guardar un seminario web interactivo clonado como seminario web interactivo. Guardar un seminario web clonado como seminario web de socio (por ejemplo, Zoom, ON24, etc.) estará disponible próximamente.
 
 1. Elija la configuración del seminario web clonado y haga clic en **Clonar**.
 

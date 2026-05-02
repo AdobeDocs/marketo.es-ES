@@ -4,9 +4,9 @@ description: Obtenga información acerca de cómo funciona la sincronización de
 title: 'Sincronización de SFDC: sincronización de contactos'
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ La sincronización de contactos es bidireccional. Si realiza cambios en un conta
 
 ## ¿Qué sucede si se realizan cambios en ambos sistemas al mismo tiempo? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Somos amables y dejamos que [!DNL Salesforce] gane. Es raro que ocurra este tipo de colisión de datos.
+Somos amables y dejamos que [!DNL Salesforce] gane. Es poco frecuente que se produzca este tipo de colisión de datos.
 
 ## ¿Puedo convertir a una persona en un contacto en Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 

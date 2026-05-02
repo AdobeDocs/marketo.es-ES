@@ -4,9 +4,9 @@ description: Obtenga información acerca de la actividad anónima y las personas
 title: Explicación de la actividad y las personas anónimas
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---

@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo ejecutar la herramienta Validar si
 title: Validar [!DNL Microsoft Dynamics] sincronización
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Ejecutar Validar sincronización en Marketo {#run-validate-sync-in-marketo}
 
-Es muy importante ejecutar la herramienta Validar sincronización para asegurarte de que tu sincronización de [!DNL Microsoft Dynamics] con Marketo esté configurada correctamente antes de establecer la conexión final entre ellas. El proceso genera una lista de comprobación de siete pasos de configuración que indican dónde existen problemas. Verificar que se hayan realizado correctamente puede ahorrar mucho tiempo más tarde.
+Es muy importante ejecutar la herramienta Validar sincronización para asegurarse de que la sincronización de [!DNL Microsoft Dynamics] con Marketo esté configurada correctamente antes de establecer la conexión final entre ellas. El proceso genera una lista de comprobación de siete pasos de configuración que indican dónde existen problemas. Verificar que se hayan realizado correctamente puede ahorrar mucho tiempo más tarde.
 
 1. Haga clic en la ficha **[!UICONTROL Admin]** y, a continuación, en el vínculo **[!DNL Microsoft Dynamics]** del área de integración.
 

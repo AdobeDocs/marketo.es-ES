@@ -3,16 +3,16 @@ description: Comprenda los déclencheur y filtros de las actividades de ventas e
 title: Activador y filtros de actividades de ventas
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 7%
 
 ---
 
 # Activador y filtros de actividades de ventas {#sales-activity-triggers-and-filters}
 
-Si buscas una mejor coordinación de la participación con tu equipo de ventas o quieres tener una mejor visión de cómo se relacionan con los clientes en todo el recorrido del comprador, las perspectivas de la actividad de ventas en Marketo te serán útiles.
+Si buscas una mejor coordinación de la participación con tu equipo de ventas o quieres tener una mejor visión de cómo interactúan con los clientes en todo el recorrido de compradores, las perspectivas de la actividad de ventas en Marketo te serán útiles.
 
 Siga los pasos a continuación para aprender a utilizar los déclencheur y filtros de actividad de ventas en sus campañas inteligentes.
 

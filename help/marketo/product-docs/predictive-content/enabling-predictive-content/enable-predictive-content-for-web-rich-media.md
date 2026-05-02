@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo habilitar contenido predictivo par
 title: Habilitar el contenido predictivo para medios enriquecidos web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '338'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ El contenido predictivo atrae a los visitantes web con el contenido más relevan
 
 >[!NOTE]
 >
->Se recomienda habilitar más de cinco fragmentos de contenido por categoría y por fuente (correo electrónico, medios enriquecidos, barra) antes de probar y utilizar el contenido predictivo. Más contenido le ofrece un mejor resultado predictivo.
+>se recomienda habilitar más de cinco fragmentos de contenido por categoría y por origen (correo electrónico, medios enriquecidos, barra) antes de probar y utilizar el contenido predictivo. Más contenido le ofrece un mejor resultado predictivo.
 
 >[!PREREQUISITES]
 >
@@ -47,7 +47,7 @@ Una vez que haya preparado el título, la descripción y la imagen del contenido
 
 ## Personalice el código JavaScript e incrústelo en su sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla [Recomendación de medios enriquecidos en el sitio para desarrolladores de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web, en la ubicación donde desee que aparezca la plantilla.
 

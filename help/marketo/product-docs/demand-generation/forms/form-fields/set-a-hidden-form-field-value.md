@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo establecer un valor de campo de fo
 title: Establecer un valor de campo de formulario oculto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 7%
 
 ---

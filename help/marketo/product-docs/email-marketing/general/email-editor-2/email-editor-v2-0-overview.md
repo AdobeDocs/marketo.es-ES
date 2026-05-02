@@ -4,10 +4,10 @@ description: Obtenga información acerca del Editor de correo electrónico v2.0 
 title: Información general del editor de correo electrónico, versión 2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 85%
+source-wordcount: '462'
+ht-degree: 79%
 
 ---
 
@@ -45,7 +45,7 @@ Ahora puede cambiar entre la versión de HTML y las versiones de texto de su cor
 
 **Encabezado del correo electrónico**
 
-¿Desea más espacio de diseño? El encabezado del correo electrónico se puede ocultar después de haberlo [editado](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Solo hay que hacer clic en este icono...
+¿Desea más espacio de diseño? El encabezado del correo electrónico se puede ocultar una vez que haya terminado de [editarlo](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Solo hay que hacer clic en este icono...
 
 ![](assets/email-editor-v2-overview-5.png)
 

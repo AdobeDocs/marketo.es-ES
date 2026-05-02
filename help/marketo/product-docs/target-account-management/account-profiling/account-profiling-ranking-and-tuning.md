@@ -4,10 +4,10 @@ description: Comprenda cómo la generación de perfiles de cuenta clasifica a la
 title: Clasificación y ajuste del perfil de cuenta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 5%
+source-wordcount: '426'
+ht-degree: 4%
 
 ---
 

@@ -4,9 +4,9 @@ description: Descubra cómo funciona el seguimiento de respuestas en Sales Conne
 title: Cómo funciona el seguimiento de respuestas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '179'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ El seguimiento de respuestas se realiza mirando un ID de mensaje que aparece en 
 
 >[!PREREQUISITES]
 >
->**La conexión con el servidor de correo electrónico:** [!DNL Sales Connect] debe estar conectada con su bandeja de entrada para que sepamos cuándo ha llegado una nueva respuesta. Necesitarás tener tu cuenta de [!DNL Sales Connect] [conectada a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si estás usando [!DNL Outlook], necesitaremos integrarlo con tu [servidor de Exchange](https://toutapp.com/next#settings/exchange_settings).
+>**La conexión con el servidor de correo electrónico:** [!DNL Sales Connect] debe estar conectada con su bandeja de entrada para que sepamos cuándo ha llegado una nueva respuesta. Necesitarás tener tu cuenta de [!DNL Sales Connect] [conectada a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si usas [!DNL Outlook], necesitaremos integrarlo con tu [servidor de Exchange](https://toutapp.com/next#settings/exchange_settings).
 
 Si [!DNL Sales Connect] no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta a [!DNL Salesforce].  ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 

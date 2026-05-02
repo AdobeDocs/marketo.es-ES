@@ -4,10 +4,10 @@ description: 'Importar una lista de personas: docs de Marketo, documentación de
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '577'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '589'
+ht-degree: 95%
 
 ---
 
@@ -49,7 +49,7 @@ En este tutorial, aprenderá a importar personas desde un archivo de hoja de cá
 
 ## Paso 2: Crear un programa {#step-create-a-program}
 
-1. Vaya al área de **[!UICONTROL Actividades de marketing]**.
+1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/import-a-list-of-people-3.png)
 

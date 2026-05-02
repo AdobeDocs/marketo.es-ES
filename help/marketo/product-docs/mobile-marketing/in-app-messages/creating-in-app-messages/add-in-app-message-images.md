@@ -4,9 +4,9 @@ description: Aprenda a añadir y personalizar imágenes en el mensaje en la apli
 title: Añadir imágenes de mensaje en la aplicación
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '371'
 ht-degree: 2%
 
 ---

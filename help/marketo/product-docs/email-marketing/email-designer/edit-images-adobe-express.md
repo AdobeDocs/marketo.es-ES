@@ -6,10 +6,10 @@ description: Obtenga información sobre cómo editar imágenes en el Designer de
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 1%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
@@ -141,7 +141,7 @@ Se puede acceder a las funciones en la parte izquierda de la página de imagen.
 
 >[!TIP]
 >
->Si no estás satisfecho con el resultado, simplemente haz clic en **X** para cerrar la ventana.
+>Si no está satisfecho con el resultado, simplemente haga clic en **X** para cerrar la ventana.
 
 #### Recortar imagen {#crop-image}
 
@@ -165,7 +165,7 @@ Convertir un archivo PNG en un archivo JPEG o un archivo JPEG en un archivo PNG.
 
 ## Guarde el trabajo {#save-your-work}
 
-Cuando hayas terminado con todas las ediciones, haz clic en **Guardar** para guardar el trabajo.
+Cuando haya terminado con todas las ediciones, haga clic en **Guardar** para guardar el trabajo.
 
 ![Botón Guardar](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo habilitar o deshabilitar la etique
 title: Activación o desactivación de la etiqueta JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 9%
 
 ---
@@ -17,7 +17,7 @@ La etiqueta RTP JavaScript controla si Web Personalization realiza un seguimient
 
 >[!NOTE]
 >
->**No es necesario quitar la etiqueta del código HTML del sitio web.** Controlarlo mediante [!UICONTROL Configuración de la cuenta].
+>**no es necesario quitar la etiqueta del código html del sitio web.** Puede controlarlo a través de [!UICONTROL Configuración de la cuenta].
 
 ## Habilitar o deshabilitar la etiqueta {#enable-or-disable-the-tag}
 

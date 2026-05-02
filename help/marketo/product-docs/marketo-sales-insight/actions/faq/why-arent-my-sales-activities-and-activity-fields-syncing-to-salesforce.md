@@ -2,9 +2,9 @@
 description: Solucionar problemas cuando las actividades y los campos de ventas no se sincronizan con Salesforce. Compruebe el registro de API, los campos personalizados y los permisos.
 title: ¿Por qué mis actividades de ventas y los campos de actividad no se sincronizan con Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '339'
 ht-degree: 6%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 6%
 Si no ve el correo electrónico [campos de atributos de actividad](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} actualizar en Salesforce, puede deberse a restricciones en la accesibilidad de los campos de su equipo. La seguridad de nivel de campo de Salesforce permite a los administradores de Salesforce establecer restricciones sobre qué información pueden ver y editar los usuarios. Si los usuarios de Acciones no tienen acceso para ver y editar estos campos, la sincronización de actividades de Acciones no podrá actualizar estos campos.
 
 * Póngase en contacto con el administrador de Salesforce para asegurarse de que esta configuración de seguridad no interfiera con [Acciones en los campos de actividad de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
-* Si es administrador de Salesforce, puede ver la accesibilidad de los campos en la pestaña Controles de seguridad. Los objetos principales con los que interactuarán las acciones son: posibles clientes, contactos, cuentas, oportunidades y tareas/actividades.
+* Si es administrador de Salesforce, puede ver la Accesibilidad de los campos en la pestaña Controles de seguridad. Los objetos principales con los que interactuarán las acciones son: posibles clientes, contactos, cuentas, oportunidades y tareas/actividades.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Obtenga información sobre las notificaciones push en Marketo. Comp
 title: Entender las notificaciones push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '232'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ El administrador de Marketo y el desarrollador de aplicaciones móviles trabajan
 
 ## Paso 2: Crear una notificación push {#step-create-a-push-notification}
 
-[Crea tus mensajes](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) y previsualiza cómo se muestran en los dispositivos Android y iOS.
+[Modifique sus mensajes](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) y obtenga una vista previa de cómo se muestran en los dispositivos Android y iOS.
 
 ## Paso 3: ¡Envíe! {#step-send}
 

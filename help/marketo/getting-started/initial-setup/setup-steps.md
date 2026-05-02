@@ -4,10 +4,10 @@ short-description: ¿Acaba de empezar a utilizar Adobe Marketo Engage? Conozca l
 title: Pasos de configuración
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1687'
-ht-degree: 98%
+source-wordcount: '1705'
+ht-degree: 85%
 
 ---
 
@@ -41,22 +41,22 @@ Hay varias medidas que puede tomar para garantizar que los correos electrónicos
 * **Marcar sus vínculos de seguimiento**. Puede elegir un CNAME para utilizar su propio dominio (en lugar del de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la promoción de la marca de su dominio y aumenta la confianza y la entregabilidad con sus destinatarios.
 * **Añadir Marketo a su lista de permitidos de correo electrónico corporativo**. Es una práctica recomendada habitual enviar correos electrónicos de prueba a cuentas de prueba antes de enviar correos electrónicos a personas reales. Al incluir Marketo en la lista de permitidos, puede evitar el bloqueo de esos correos electrónicos de prueba o que se marquen como spam.
 * **Configurar SPF y DKIM**. Estas tecnologías garantizan a los destinatarios que sus correos electrónicos de Marketo no sean spam. Para evitar que los filtros de spam de los destinatarios rechacen sus correos electrónicos de Marketo, siga estos pasos para [Configurar SPF y DKIM para la entregabilidad de correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Configurar un registro MX para su dominio.** Un registro MX le permite recibir correo en el dominio desde el que envía los correos electrónicos para procesar los correos de respuesta y de respuestas automáticas. Si realiza el envío desde su dominio corporativo, es probable que ya lo tenga configurado. Si no es así, puede configurarlo para que se asigne al registro MX de su dominio corporativo.
-* **Configuración recomendada para la dirección De.** Debe usar un dominio de correo electrónico válido, existente y activo en la dirección De en todas las campañas de correo electrónico. Puede resultar útil configurar un subdominio del dominio corporativo en lugar de realizar los envíos desde el dominio corporativo. Esto garantizará que los posibles problemas del flujo de correo corporativo no afecten al flujo de correo de Marketo, ni viceversa. Además, el envío de correos desde `something@nonexistentdomain.com` hará que el correo electrónico se filtre o bloquee. Cualquier dominio utilizado en la dirección De del remitente debe tener una cuenta postmaster@ y abuse@ válida y activa.
+* **Configure un registro MX para su dominio.** Un registro MX le permite recibir correo en el dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si realiza envíos desde el dominio corporativo, es probable que ya lo tenga configurado. Si no es así, puede configurarlo para que se asigne al registro MX de su dominio corporativo.
+* **Configuración recomendada para la dirección de origen.** Debe utilizar un dominio de correo electrónico válido, existente y en funcionamiento en la dirección De en todas las campañas de correo electrónico. Puede resultar útil configurar un subdominio del dominio corporativo en lugar de realizar los envíos desde el dominio corporativo. Esto garantizará que los posibles problemas del flujo de correo corporativo no afecten al flujo de correo de Marketo, ni viceversa. Además, el envío de correos desde `something@nonexistentdomain.com` hará que el correo electrónico se filtre o bloquee. Cualquier dominio utilizado en la dirección De del remitente debe tener una cuenta postmaster@ y abuse@ válida y activa.
 
-Si usa aplicaciones de Google para alojar su correo electrónico corporativo, no podrá crear correos electrónicos de abuse@ o postmaster@ en su dominio. Para evitar esto, cree grupos con los nombres “abuse” y “postmaster”. Los usuarios que sean miembros de estos grupos recibirán los correos electrónicos enviados a esas direcciones (por ejemplo, <postmaster@domain.com>). Puede encontrar instrucciones detalladas para crear grupos [aquí](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Si utiliza aplicaciones de Google para alojar el correo electrónico corporativo, no podrá crear correos electrónicos de abuse@ o postmaster@ en su dominio. Para evitar esto, cree grupos con los nombres “abuse” y “postmaster”. Los usuarios que sean miembros de estos grupos recibirán los correos electrónicos enviados a esas direcciones (por ejemplo, <postmaster@domain.com>). Puede encontrar instrucciones detalladas para crear grupos [aquí](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Elija un CNAME para los vínculos de seguimiento de correo electrónico (elija uno que sea _diferente_ del CNAME de la página de aterrizaje que eligió en el Paso 3). Algunos ejemplos:
 
 * go2.[CompanyDomain].com
-* em.[CompanyDomain].com
-* wow.[CompanyDomain].com
+* em.[DominioCompañía].com
+* wow.[DominioCompañía].com
 
 La primera parte es el CNAME de seguimiento del correo electrónico, `[EmailTrackingCNAME]`. Tendrá que proporcionársela a TI.
 
 >[!CAUTION]
 >
->Los CNAME de los correos electrónicos y las páginas de destino deben ser diferentes. Además, evite CNAME como “seguimiento” o “vínculo”. Se suele marcar como spam
+>Los CNAME de los correos electrónicos y las páginas de destino deben ser diferentes. Además, evite CNAME como &quot;seguimiento&quot; o &quot;vínculo&quot;. A menudo se marca como spam
 
 Para encontrar el vínculo de seguimiento de Marketo, vaya al área de **[!UICONTROL Administración]**.
 
@@ -76,7 +76,7 @@ Este es su `[MktoTrackingLink]`. Guárdelo. Tendrá que proporcionárselo a TI e
 
 Recopilar dominios “De”. Haga una lista de todos los dominios “De” (como en `[Sender]@[FromDomain].com`) que planea usar para enviar correos electrónicos desde Marketo. En la mayoría de los casos solo hay uno.
 
-Por ejemplo, “marketo.com” o “info.marketo.com”. Son `[FromDomain1]`, `[FromDomain2]`, etc. Guárdelos. Tendrá que proporcionárselos a TI en el Paso 5.
+Por ejemplo, “marketo.com” o “info.marketo.com”. Estos son `[FromDomain1]`, `[FromDomain2]`, etc. Sálvalos... Tendrá que proporcionárselos a TI en el Paso 5.
 
 Ahora dispone de toda la información necesaria para enviar su solicitud a TI.
 
@@ -92,9 +92,9 @@ Ahora dispone de toda la información necesaria para enviar su solicitud a TI.
 
 Elija un CNAME para las páginas de aterrizaje. Algunos ejemplos:
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+    * **go**.[DominioCompañía].com
+    * **www2**.[DominioCompañía].com
+    * **lp**.[DominioCompañía].com
 
 >[!TIP]
 >
@@ -124,7 +124,7 @@ Configure la configuración de dominio para que las páginas de destino utilicen
 >
 >¿Es cliente de Launch Pack? Puede omitir este paso. Su asesor le proporcionará un documento de instrucciones de configuración de TI durante la llamada inicial.
 
-Una vez que haya recopilado toda la información necesaria, estará listo para enviar una solicitud a TI. Puede utilizar el texto siguiente como plantilla y sustituir en ella el texto en negrita por su información específica.
+Una vez que haya recopilado toda la información necesaria, estará listo para enviar una solicitud al departamento de TI. Puede utilizar el texto siguiente como plantilla y sustituir en ella el texto en negrita por su información específica.
 
 [Incluir un vínculo en este artículo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
@@ -140,9 +140,9 @@ Estimado administrador de TI:
 
 Nuestro equipo de marketing ha empezado a utilizar la plataforma de Marketo para comunicarse con nuestros empleados. Para garantizar una buena entregabilidad de los correos electrónicos, debemos realizar los siguientes cambios:
 
-`1)` Para nuestras páginas de aterrizaje, añadir una entrada de DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, que señale a **[ID de Munchkin]**.mktoweb.com.
+`1)` Para nuestras páginas de aterrizaje, agregue una entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, que apunte a **[Munchkin ID]**.mktoweb.com.
 
-`2)` Para nuestros vínculos de seguimiento en el correo electrónico, añadir una entrada de DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, que señale a **[MktoTrackingLink]**.
+`2)` Para nuestros vínculos de seguimiento en el correo electrónico, agrega una Entrada DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, que señala a **[MktoTrackingLink]**.
 
 `3)` Incluir Marketo en la lista de permitidos.
 
@@ -174,8 +174,8 @@ Nuestro equipo de marketing ha empezado a utilizar la plataforma de Marketo para
 
 `a.` Para configurar SPF, añada la línea siguiente a nuestras entradas de DNS:
 
-En TXT **[Dominio de origen]**: v=spf1 mx ip4:**[IP corporativas]**
-<br/>include: mktomail.com ~all
+EN TXT **[Desde dominio]**: v=spf1 mx ip4:**[IP corporativas]**
+<br/>incluir: mktomail.com ~todos
 
 Si ya tiene un registro SPF existente en la entrada de DNS, simplemente añada lo siguiente:
 
@@ -191,7 +191,7 @@ include:mktomail.com
 
 `[`Copie el **HostRecord** y el **TXTValue** para cada **DKIMDomain** que haya configurado después de seguir las [instrucciones indicadas aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide comprobar cada dominio en **Administración > Correo electrónico > DKIM** después de que el personal de TI haya completado este paso.`]`
 
-`5)` Debemos asegurarnos de que haya un registro MX válido para nuestros dominios de ORIGEN **`[FromDomain1]`**, **`[FromDomain2]`**, etc. ¿Puede confirmarlo? Si no es así, es necesario configurarlo para que se asigne a nuestro registro MX de dominio corporativo. Esto garantizará que podamos procesar las respuestas/respuestas automáticas a nuestros correos de Marketo.
+`5)` Debemos asegurarnos de que haya un registro MX válido para nuestros dominios FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. ¿Puede confirmarlo? Si no es así, es necesario configurarlo para que se asigne a nuestro registro MX de dominio corporativo. Esto garantizará que podamos procesar las respuestas/respuestas automáticas a nuestros correos de Marketo.
 
 Deseo que me avisen cuando se hayan completado estos pasos para que pueda completar el proceso de configuración con Marketo.
 
@@ -243,7 +243,7 @@ En el campo Dominio, introduzca el dominio de seguimiento de correo electrónico
 
 ## Integración de su CRM {#integrate-your-crm}
 
-Esta es probablemente la parte más interesante de la configuración. Es hora de rellenar Marketo con todos esos clientes potenciales y contactos que tiene almacenados en su CRM.
+Esta es probablemente la parte más interesante de la configuración. ¡Es hora de rellenar Marketo con todos esos posibles clientes y contactos que ha almacenado en su CRM!
 
 Elija entre las siguientes opciones, según el CRM que utilice su compañía.
 

@@ -4,9 +4,9 @@ description: Obtenga información acerca de la aprobación de fases y la asignac
 title: Aprobación de fases y asignación de posibles clientes a un modelo de ingresos
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '354'
 ht-degree: 5%
 
 ---

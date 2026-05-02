@@ -3,9 +3,9 @@ description: Aprenda a conectar Marketo Engage a Veeva CRM en el paso final de l
 title: 'Paso 3 de 3: Conectar Marketo Engage y  [!DNL Veeva] CRM'
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ En este artículo, configurará Marketo Engage para que se sincronice con su ins
 
    >[!NOTE]
    >
-   >Marque [!UICONTROL espacio aislado] si está sincronizando un espacio aislado de Marketo con un espacio aislado de CRM [!DNL Veeva].
+   >Compruebe [!UICONTROL espacio aislado] si está sincronizando un espacio aislado de Marketo con un espacio aislado de CRM [!DNL Veeva].
 
 1. Haga clic en **[!UICONTROL Confirmar credenciales]**.
 

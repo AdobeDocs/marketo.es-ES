@@ -4,10 +4,10 @@ description: Aprenda a cambiar el estilo y el color del botón de envío en un f
 title: Cambiar el estilo y el color del botón Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 13%
+source-wordcount: '163'
+ht-degree: 12%
 
 ---
 
@@ -61,4 +61,4 @@ Si encuentra el botón de envío estándar aburrido o si necesita algo más eleg
 
    >[!NOTE]
    >
-   >Al igual que muchos elementos gráficos, el botón puede tener un aspecto diferente según el explorador que utilice.
+   >Al igual que muchos elementos gráficos, el botón puede tener un aspecto diferente en función del explorador que utilice.

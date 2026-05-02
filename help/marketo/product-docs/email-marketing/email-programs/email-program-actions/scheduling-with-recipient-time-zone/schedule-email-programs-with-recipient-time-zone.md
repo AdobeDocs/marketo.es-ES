@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo programar programas de correo elec
 title: Planificar programas de correo electrónico con zona horaria del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Esto le ofrece dos opciones:
 >
 >* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en husos horarios en los que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00am.
 >
->* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9](/help/marketo/product-docs/administration/settings/change-time-zone.md) PDT (la hora que esté en sus propias zonas horarias).:00am
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9:00am PDT (la hora que esté en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/change-time-zone.md)
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ En resumen, los programas de correo electrónico programados con la zona horaria
 
 >[!CAUTION]
 >
->Cualquier persona que cancele la suscripción entre el momento en que inicie su envío de correo electrónico y el momento en que se envíe realmente seguirá recibiendo el correo electrónico. Recomendamos ajustar la notificación de cancelación de suscripción para explicar que las cancelaciones de suscripción pueden tardar entre 1 y 2 días hábiles en procesarse.
+>Cualquier persona que cancele la suscripción entre el momento en que inicie su envío de correo electrónico y el momento en que se envíe seguirá recibiendo el correo electrónico. Recomendamos ajustar la notificación de cancelación de suscripción para explicar que las cancelaciones de suscripción pueden tardar entre 1 y 2 días hábiles en procesarse.
 
 >[!MORELIKETHIS]
 >

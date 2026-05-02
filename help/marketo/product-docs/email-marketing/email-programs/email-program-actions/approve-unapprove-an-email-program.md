@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo aprobar o desaprobar un programa d
 title: Aprobar o desaprobar un programa de correo electrónico
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '201'
+ht-degree: 8%
 
 ---
 
@@ -45,7 +45,7 @@ Ahora que el programa está listo para ejecutarse, el paso final es aprobarlo. A
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   ¡Perfecto! Ya lo has hecho. Su correo electrónico se enviará a la hora programada.
+   ¡Perfecto! Has terminado. Su correo electrónico se enviará a la hora programada.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 

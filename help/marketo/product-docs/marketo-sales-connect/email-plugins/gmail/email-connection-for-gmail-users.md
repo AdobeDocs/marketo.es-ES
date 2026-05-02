@@ -4,10 +4,10 @@ description: Obtenga información acerca de la conexión de correo electrónico 
 title: Conexión del correo electrónico para usuarios de Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al 
 
 >[!CAUTION]
 >
->Si estás [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} o reglas en tu cuenta de Gmail para marcar automáticamente los correos electrónicos como leídos, esto puede causar problemas con el seguimiento de respuestas. Se recomienda desactivar cualquier regla que marque automáticamente los correos electrónicos como leídos al utilizar el seguimiento de respuestas con Gmail.
+>Si está [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} o reglas en su cuenta de Gmail para marcar automáticamente los correos electrónicos como leídos, esto puede causar problemas con el seguimiento de respuestas. Se recomienda desactivar cualquier regla que marque automáticamente los correos electrónicos como leídos al utilizar el seguimiento de respuestas con Gmail.
 
 1. En [!DNL Sales Connect], haga clic en el icono del engranaje y seleccione **[!UICONTROL Configuración]**.
 

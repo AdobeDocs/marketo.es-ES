@@ -4,9 +4,9 @@ description: Aprenda a configurar contenido predictivo para correos electrónico
 title: Editar contenido predictivo para correos electrónicos
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '256'
 ht-degree: 4%
 
 ---
@@ -74,4 +74,4 @@ A continuación, se indica cómo configurar el contenido predictivo de los corre
 
    >[!NOTE]
    >
-   >En Marketo Email Editor v2.0, también puedes [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que usas mientras habilitas el contenido.
+   >En Marketo Email Editor v2.0, también puede [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que usa mientras habilita el contenido.

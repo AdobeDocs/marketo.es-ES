@@ -5,16 +5,16 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 hidefromtoc: true
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 89%
+source-wordcount: '301'
+ht-degree: 86%
 
 ---
 
 # Conmutador de alternancia {#toggle-switch}
 
-El conmutador de alternancia le permite alternar entre la interfaz clásica de Marketo y la UX moderna. Está disponible en todas las áreas que se muestran a continuación.
+El conmutador de alternancia le permite alternar entre la interfaz clásica de Marketo y la UX moderna. Está disponible en todas las áreas resaltadas a continuación.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Aprenda a aplicar máscaras de entrada a un campo de formulario en 
 title: Aplicar máscara de entrada a un campo de un formulario
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 12%
 
 ---
@@ -51,7 +51,7 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   ¡Eche un vistazo! Ahora le está pidiendo al visitante que introduzca números en un formato específico.
+   ¡Eche un vistazo! Ahora está pidiendo al visitante que introduzca los números en un formato específico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 

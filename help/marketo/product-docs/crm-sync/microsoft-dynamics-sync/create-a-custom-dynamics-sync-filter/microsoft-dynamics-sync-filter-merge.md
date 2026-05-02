@@ -4,9 +4,9 @@ description: Comprender cómo funciona el filtro de sincronización de Dynamics 
 title: Filtro de sincronización de Microsoft Dynamics - Combinar
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La combinación de posibles clientes en [!DNL Microsoft Dynamics] usa el tipo de
 
 Los registros de posibles clientes pasan a ser true o false en función de las reglas de flujo de trabajo definidas por el administrador para determinar el ganador. El filtro de sincronización del registro ganador es el que determina en última instancia si el registro [!DNL MS Dynamics] se sincroniza con Marketo.
 
-Cuando un registro es verdadero y uno es falso es cuando se vuelve complicado.
+Cuando un registro es verdadero y uno es falso, es cuando se vuelve complicado.
 
 | Si el filtro de sincronización para el registro de pérdida es: | y el filtro de sincronización para el registro ganador es: | Este es el resultado en Marketo |
 |---|---|---|

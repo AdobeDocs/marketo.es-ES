@@ -4,9 +4,9 @@ description: Obtenga información sobre los mensajes en la aplicación para atra
 title: Explicación de los mensajes en la aplicación
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---
@@ -40,4 +40,4 @@ Ha [creado un mensaje en la aplicación](/help/marketo/product-docs/mobile-marke
 
 Usted crea un programa para [enviar el mensaje](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
-Estás en camino. - ¿Qué?
+Estás en camino.

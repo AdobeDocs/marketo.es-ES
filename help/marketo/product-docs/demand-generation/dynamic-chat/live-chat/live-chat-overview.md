@@ -3,10 +3,10 @@ description: Obtenga información acerca del chat en vivo para conversaciones en
 title: Información general del chat en directo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 1%
+source-wordcount: '914'
+ht-degree: 2%
 
 ---
 

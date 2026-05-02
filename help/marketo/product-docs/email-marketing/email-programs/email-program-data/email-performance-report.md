@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo crear y utilizar el informe Rendim
 title: Informe de rendimiento de los correos electrónicos
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 96%
+source-wordcount: '514'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ Para ver el rendimiento de los correos electrónicos con estadísticas como envi
 
 1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **[!UICONTROL Rendimiento de correo electrónico]** [Tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Cambie el lapso de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la pestaña **[!UICONTROL Informe]**.
-1. ¡Ya está! Ahora explore el informe para ver el rendimiento de sus correos electrónicos.
+1. ¡Estás ahí! Ahora explore el informe para ver el rendimiento de sus correos electrónicos.
 
    >[!NOTE]
    >

@@ -2,10 +2,10 @@
 description: Aprenda a conectar Gmail a las acciones de Sales Insight. Envíe y rastree correos electrónicos de ventas desde Gmail con la integración de acciones.
 title: Conectar a Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ Conectarse a Gmail significa que recibirá seguimiento de respuestas, acceso al 
 
 >[!CAUTION]
 >
->Si estás [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} o reglas en tu cuenta de Gmail para marcar automáticamente los correos electrónicos como leídos, esto puede causar problemas con el seguimiento de respuestas. Se recomienda desactivar cualquier regla que marque automáticamente los correos electrónicos como leídos al utilizar el seguimiento de respuestas con Gmail.
+>Si está [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} o reglas en su cuenta de Gmail para marcar automáticamente los correos electrónicos como leídos, esto puede causar problemas con el seguimiento de respuestas. Se recomienda desactivar cualquier regla que marque automáticamente los correos electrónicos como leídos al utilizar el seguimiento de respuestas con Gmail.
 
 1. En Marketo Sales, haga clic en el icono del engranaje y seleccione **Configuración**.
 

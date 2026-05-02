@@ -4,10 +4,10 @@ description: Aprenda a configurar Sales Insight para integraciones de Salesforce
 title: '[!DNL Sales Insight] para integraciones  [!DNL Salesforce] no nativas'
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1214'
-ht-degree: 0%
+source-wordcount: '1480'
+ht-degree: 1%
 
 ---
 
@@ -48,12 +48,12 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce</span> Identificador único global que distingue entre mayúsculas y minúsculas en las ventas del usuario</td>
-      <td><p>Identifica el registro de vendedor de Marketo en un objeto de usuario de ventas <span class="dnl">Salesforce</span> externo.</p><p>Se exige que el vendedor se sincronice primero antes de sincronizar los otros objetos, de modo que se creen las relaciones adecuadas.</p></td>
+      <td><p>Identifica el registro de vendedor de Marketo en un objeto de usuario de ventas <span class="dnl">Salesforce</span> externo.</p><p>se exige que el vendedor se sincronice primero antes de sincronizar los otros objetos, de modo que se creen las relaciones adecuadas.</p></td>
      </tr>
     </tbody>
    </table>
 
-   * Documentación de API para el vendedor: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * Documentación de API para el vendedor: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * Documentación de API para sincronizar el vendedor: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Sincronizar las cuentas de [!DNL Salesforce] con Marketo.
@@ -85,7 +85,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
     </tbody>
    </table>
 
-   * Documentación de API para compañías: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * Documentación de API para compañías: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * Documentación de API para sincronizar compañías: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Sincronizar los contactos o posibles clientes de [!DNL Salesforce] con Marketo.
@@ -112,7 +112,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce</span> Identificador único global que distingue entre mayúsculas y minúsculas en las ventas del usuario</td>
-        <td>Identifica al objeto de usuario de ventas externo <span class="dnl">Salesforce</span> propietario de este posible cliente/contacto.<br><br>También relaciona al posible cliente con el vendedor en Marketo. Se requiere que el Vendedor se sincronice correctamente primero.</td>
+        <td>Identifica el objeto de usuario de ventas externo de <span class="dnl">Salesforce</span> propietario de este cliente potencial/contacto.<br><br>También relaciona el cliente potencial con el vendedor en Marketo. Se requiere que el Vendedor se sincronice correctamente primero.</td>
      </tr>
      <tr>
       <td>externalCompanyId</td>
@@ -122,7 +122,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
     </tbody>
    </table>
 
-   * Documentación de API para posibles clientes: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * Documentación de API para posibles clientes: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
    * Documentación de API para sincronizar posibles clientes: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Sincronizar [!DNL Salesforce] oportunidades con Marketo.
@@ -159,7 +159,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
     </tbody>
    </table>
 
-   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentación de API para sincronizar oportunidades: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizar [!DNL Salesforce] roles de contacto con Marketo.
@@ -186,7 +186,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
      <tr>
       <td>leadId</td>
       <td>N/D, sería un ID de posible cliente de Marketo</td>
-        <td>Este sería el ID de posible cliente de Marketo del contacto <span class="dnl">Salesforce</span> sincronizado.<br><br>Una vez que el contacto está sincronizado en Marketo, puede usar el identificador único global sin distinción de mayúsculas y minúsculas de <span class="dnl">Salesforce</span> Contact como externalPersonId y consultar al posible cliente de Marketo mediante la API REST de Marketo.</td>
+        <td>Este sería el identificador de posible cliente de Marketo del contacto <span class="dnl">Salesforce</span> sincronizado.<br><br>Una vez que el contacto esté sincronizado en Marketo, puede usar el identificador único global que distingue entre mayúsculas y minúsculas de <span class="dnl">Salesforce</span> Contact como externalPersonId y la consulta del posible cliente de Marketo mediante la API REST de Marketo.</td>
      </tr>
      <tr>
       <td>función</td>
@@ -196,7 +196,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a [!DNL Salesforce] mediant
     </tbody>
    </table>
 
-   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentación de API para sincronizar oportunidades: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizar los campos de puntuación de último momento interesante/MSI con SFDC.

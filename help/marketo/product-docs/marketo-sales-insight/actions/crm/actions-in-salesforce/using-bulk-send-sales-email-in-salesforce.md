@@ -2,9 +2,9 @@
 description: Aprenda a enviar correos electrónicos de ventas masivos desde Salesforce. Seleccione posibles clientes o contactos en una vista de lista y utilice el botón Enviar correo electrónico de ventas en Lightning o Classic.
 title: Uso del envío masivo de correo electrónico de ventas en Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ Aprenda a enviar correos electrónicos masivos en Salesforce para escalar la com
 
    >[!TIP]
    >
-   >Para crear una nueva vista, haga clic en Crear nueva vista y configure los filtros disponibles para reducir la lista de usuarios que añade a una campaña de ventas.
+   >Para crear una nueva vista, haga clic en Crear nueva vista y configure los filtros disponibles para reducir la lista de los usuarios que añade a una campaña de ventas.
 
 1. Elige la lista de contactos o posibles clientes que desees y haz clic en el botón **Enviar correo electrónico de ventas**.
 

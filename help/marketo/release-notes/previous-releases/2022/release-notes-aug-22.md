@@ -2,9 +2,9 @@
 description: 'Notas de la versión, agosto de 2022: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 7%
 
 ---
@@ -74,4 +74,4 @@ Las siguientes características comenzaron un despliegue gradual el **26 de agos
 
 **_Seminario web sobre la versión del producto_**
 
-[Seminario web sobre la versión de Marketo Engage de junio y agosto de 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Seminario web de junio y agosto de 2022 sobre la versión de Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

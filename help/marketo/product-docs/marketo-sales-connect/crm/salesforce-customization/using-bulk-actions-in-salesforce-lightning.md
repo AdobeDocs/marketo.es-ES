@@ -4,9 +4,9 @@ description: Aprenda a utilizar acciones masivas en Salesforce Lightning con Sal
 title: Uso de acciones masivas en Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '408'
 ht-degree: 2%
 
 ---
@@ -42,8 +42,8 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 
 1. Aparecerá un correo electrónico de MSC. Incluye las siguientes funciones:
 
-   a. El campo &quot;[!UICONTROL A]&quot; muestra &quot;Todos los recibos&quot;; corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes
-b. Esta lista está visible en el panel izquierdo llamado &quot;Maquetación masiva&quot;. Puede añadir o quitar destinatarios aquí
+   a. El campo &quot;[!UICONTROL Para]&quot; muestra &quot;Todas las recepciones&quot;; corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes
+b. Esta lista está visible en el panel izquierdo llamado &quot;Maquetación masiva&quot;; puede añadir o quitar destinatarios aquí
 c. Puede elegir una plantilla o crear su propio correo electrónico
 d. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
 

@@ -4,9 +4,9 @@ description: Obtenga información acerca de la puntuación de participación (de
 title: Explicación de la puntuación de participación
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ La puntuación de participación facilita la visualización de la eficacia del c
 
 ![](assets/highestengagementwidget.jpg)
 
-La puntuación se basa en un algoritmo propietario que tiene en cuenta el comportamiento comprometido ([!UICONTROL Abrir], [!UICONTROL Hacer clic], [!UICONTROL Éxito del programa]) y el comportamiento no comprometido ([!UICONTROL Cancelar la suscripción]). Se ha comparado con los correos electrónicos de goteo y nutrición para dar un promedio de 50. Para que las personas tengan la oportunidad de interactuar con su contenido, la puntuación de participación se calcula 72 horas después de cada reparto. Además, la puntuación solo cubre los datos de **tus últimos tres** cilindros.
+La puntuación se basa en un algoritmo propietario que tiene en cuenta el comportamiento comprometido ([!UICONTROL Abrir], [!UICONTROL Hacer clic], [!UICONTROL Éxito del programa]) y el comportamiento no comprometido ([!UICONTROL Cancelar la suscripción]). Se compara con los correos electrónicos de goteo y nutrición para dar un promedio de 50. Para que las personas tengan la oportunidad de interactuar con su contenido, la puntuación de participación se calcula 72 horas después de cada reparto. Además, la puntuación solo cubre los datos de **tus últimos tres** cilindros.
 
 >[!NOTE]
 >

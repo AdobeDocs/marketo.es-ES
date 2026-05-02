@@ -3,9 +3,9 @@ description: Aprenda a configurar la personalización de los detalles de activid
 title: Configuración de la personalización de detalles de la actividad de Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '680'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ La personalización de los detalles de actividad permite a los administradores c
 
 >[!NOTE]
 >
->* Las actualizaciones realizadas en el campo de asunto de [!DNL Sales Connect] de una tarea de recordatorio se reflejarán en el campo de asunto de la tarea [!DNL Salesforce] correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de actividad.
+>* Las actualizaciones realizadas en el campo de asunto en [!DNL Sales Connect] de una tarea de recordatorio se reflejarán en el campo de asunto de la tarea [!DNL Salesforce] correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de la actividad.
 >* No se admiten saltos de línea al registrar información en el campo de asunto [!DNL Salesforce]. Los saltos de línea del editor de personalización de detalles de actividad se eliminarán cuando se actualice el asunto de una tarea de ventas.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)

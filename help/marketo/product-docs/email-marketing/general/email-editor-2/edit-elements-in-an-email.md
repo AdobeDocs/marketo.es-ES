@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar elementos en un correo elec
 title: Editar elementos en un correo electrónico
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: texto enr
 
    >[!NOTE]
    >
-   >Si reemplazas una imagen, deberás marcar la casilla **[!UICONTROL Sobrescribir imagen existente]** que aparece debajo de la URL/nombre de la imagen.
+   >Si estás reemplazando una imagen, tendrás que marcar la casilla **[!UICONTROL Sobrescribir imagen existente]** que aparece debajo de la URL/nombre de la imagen.
 
    **Estudio de diseño**
 

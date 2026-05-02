@@ -3,9 +3,9 @@ description: Obtenga información sobre los campos dinámicos en las plantillas 
 title: Campos dinámicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Le permitimos personalizar sus plantillas de correo electrónico con atributos p
    >
    >Al enviar por correo electrónico contactos que existen en [!DNL Sales Insight Actions], puede utilizar los campos dinámicos básicos. Estos extraerán directamente del contacto.
 
-Si va a enviar por correo electrónico contactos que existen en [!DNL Salesforce], puede aprovechar los campos dinámicos de [!DNL Salesforce]. Todas comienzan con &quot;sfdc&quot;. Siempre que tenga una conexión con [!DNL Salesforce], estos campos llamarán directamente al posible cliente/contacto de [!DNL Salesforce] para rellenar la información en la plantilla.
+Si está enviando por correo electrónico a contactos que existen en [!DNL Salesforce], puede aprovechar los campos dinámicos de [!DNL Salesforce]. Todas comienzan con &quot;sfdc&quot;. Siempre que tenga una conexión con [!DNL Salesforce], estos campos llamarán directamente al posible cliente/contacto de [!DNL Salesforce] para rellenar la información en la plantilla.
 
 ## Insertar campos dinámicos en una línea de asunto {#insert-dynamic-fields-in-a-subject-line}
 

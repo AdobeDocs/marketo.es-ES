@@ -2,10 +2,10 @@
 title: Documentos del producto de Marketo
 description: Aprenda a llevar el marketing al siguiente nivel con estos documentos de producto de Marketo. Empiece con un tutorial de Marketo y lea otros artículos populares.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 74%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Las estrategias modernas de marketing bajo demanda requieren una participación de extremo a extremo para ofrecer las mejores experiencias al cliente posibles. Aprenda a conseguirlo con Marketo Engage, parte de Adobe Experience Cloud, consultando nuestra gama de documentos, guías y tutoriales.
 
-Tanto si acaba de empezar y desea ver un tutorial introductorio de Marketo Engage como si es un usuario experimentado que busca sacar más partido a su suscripción, encontrará todas las respuestas que necesita en la documentación del producto de Marketo Engage.
+Tanto si acaba de empezar como si desea ver un tutorial introductorio de Marketo Engage, o si es un usuario experimentado que busca sacar más partido a su suscripción, encontrará todas las respuestas que necesita en la documentación del producto de Marketo Engage.
 
 ## Introducción
 
@@ -30,7 +30,7 @@ Tanto si acaba de empezar y desea ver un tutorial introductorio de Marketo Engag
 
 * [Explicación de la [!DNL Microsoft Dynamics] sincronización](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
-* [Explicación de campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
+* [Explicación de las campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Información general de Adobe Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
 

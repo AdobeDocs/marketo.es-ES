@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo conceder acceso a Marketo a usuari
 title: Conceder acceso a Marketo a los usuarios
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '226'
 ht-degree: 4%
 
 ---

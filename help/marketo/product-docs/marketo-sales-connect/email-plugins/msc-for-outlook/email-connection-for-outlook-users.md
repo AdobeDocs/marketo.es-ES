@@ -4,10 +4,10 @@ description: Obtenga información acerca de la conexión de correo electrónico 
 title: Conexión de correo electrónico para usuarios de Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 5%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 

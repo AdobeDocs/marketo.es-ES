@@ -2,10 +2,10 @@
 description: Obtenga ayuda cuando sus correos electrónicos de ventas se marquen como correo no deseado. Conozca las causas comunes y cómo mejorar la capacidad de entrega y la reputación del remitente.
 title: ¿Por qué mis correos electrónicos se marcan como correo no deseado?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 8%
+source-wordcount: '206'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ Como empresa, trabajamos duro para garantizar que nuestras tasas de entrega se m
 
 **Comprueba Tu Configuración**
 
-* Seguimiento de dominio personalizado: Esto le permite hacer que todos los vínculos de seguimiento se muestren sobre la marcha&quot;.&quot;su dominio&quot; en lugar de go.toutapp. Algunos dispositivos de seguridad de correo electrónico verán que el correo electrónico proviene de &quot;su dominio&quot;, pero el vínculo se está redireccionando a go.outapp. Al implementar el seguimiento de vínculos de dominio personalizados, los correos electrónicos tendrán un aspecto legítimo y una mayor probabilidad de llegar a la bandeja de entrada del destinatario.
+* Seguimiento de dominio personalizado: Esto le permite hacer que todos los vínculos de seguimiento se muestren sobre la marcha.&quot;su dominio&quot; en lugar de go.toutapp. Algunos dispositivos de seguridad de correo electrónico verán que el correo electrónico proviene de &quot;su dominio&quot;, pero el vínculo se está redireccionando a go.outapp. Al implementar el seguimiento de vínculos de dominio personalizados, los correos electrónicos tendrán un aspecto legítimo y una mayor probabilidad de llegar a la bandeja de entrada del destinatario.
 
 **Comprueba El Comportamiento De Tu Correo Electrónico**
 
@@ -25,4 +25,4 @@ Como empresa, trabajamos duro para garantizar que nuestras tasas de entrega se m
 
 * Asegúrese de tener una firma de correo electrónico completa con una dirección física.
 
-* Lee y asegúrate de cumplir con las [leyes CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Lea y asegúrese de que está cumpliendo con las [leyes CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

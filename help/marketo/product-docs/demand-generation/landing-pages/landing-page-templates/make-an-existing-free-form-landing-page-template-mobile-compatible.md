@@ -4,9 +4,9 @@ description: Aprenda a hacer compatible una plantilla de página de aterrizaje d
 title: Hacer compatible una plantilla de página de destino de forma libre existente con dispositivos móviles
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '263'
 ht-degree: 3%
 
 ---

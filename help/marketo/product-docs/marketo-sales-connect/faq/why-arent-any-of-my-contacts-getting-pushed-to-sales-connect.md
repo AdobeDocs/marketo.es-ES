@@ -4,10 +4,10 @@ description: Obtén ayuda cuando no se inserten contactos en Sales Connect desde
 title: ¿Por qué no se inserta a ninguno de mis contactos en Sales Connect?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 13%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 

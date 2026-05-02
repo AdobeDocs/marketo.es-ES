@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar las asignaciones de campos 
 title: Editar asignaciones de campo iniciales
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ Durante la sincronización inicial con Salesforce, Marketo Engage combina autom�
 
 ## Asignar campos no asignados {#map-unmapped-fields}
 
-Cuando ve un campo en la carpeta [!UICONTROL Campos no asignados], significa que no está asignado a un campo similar del posible cliente o contacto en Salesforce. Puedes arreglar eso.
+Cuando ve un campo en la carpeta [!UICONTROL Campos no asignados], significa que no está asignado a un campo similar en el posible cliente o contacto en Salesforce. Puedes arreglar eso.
 
 1. Haga clic en **[!UICONTROL Editar asignaciones]**.
 
@@ -59,7 +59,7 @@ Si tiene campos con nombres similares en el posible cliente y en el objeto de co
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   ¡Bonito! Casi has terminado con la sincronización inicial.
+   ¡Bonito! Ya casi ha terminado la sincronización inicial.
 
 ## Restablecer esquema {#reset-schema}
 

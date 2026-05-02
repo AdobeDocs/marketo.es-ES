@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo instalar y configurar Marketo Sale
 title: Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '410'
 ht-degree: 5%
 
 ---

@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo importar contactos mediante CSV a 
 title: Importar contactos mediante CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 8%
 
 ---
 
 # Importar contactos mediante CSV {#import-contacts-via-csv}
 
-Tener contactos en la página [!UICONTROL Personas] es importante porque es de donde extraemos para rellenar automáticamente la información personalizada en los campos dinámicos de las plantillas. Asegúrese de que tiene al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de que asigna a esos campos.
+Tener contactos en la página [!UICONTROL Personas] es importante porque es desde donde extraemos para rellenar automáticamente la información personalizada en los campos dinámicos de las plantillas. Asegúrese de que tiene al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de que asigna a esos campos.
 
 1. Seleccione su grupo (o cree uno nuevo) en la ficha [!UICONTROL Personas].
 

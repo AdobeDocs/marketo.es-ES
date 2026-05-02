@@ -3,10 +3,10 @@ description: 'Notas de la versión de Dynamic Chat, documentos de Marketo: docum
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '3474'
-ht-degree: 98%
+source-wordcount: '3551'
+ht-degree: 94%
 
 ---
 
@@ -16,15 +16,15 @@ Las versiones de Adobe Dynamic Chat funcionan bajo un modelo de entrega continua
 
 La página de notas de la versión estándar de Marketo Engage [se encuentra aquí](/help/marketo/release-notes/current.md){target="_blank"}.
 
-## Versión de marzo de 2026 {#march-2026-release}
+## Lanzamiento de marzo de 2026 {#march-2026-release}
 
 ### Límite de tiempo de espera de visitante {#visitor-wait-time}
 
-Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Descargar transcripción {#download-transcript}
 
-Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Lanzamiento de junio de 2025 {#june-2025-release}
 
@@ -59,7 +59,7 @@ Si el agente no está disponible, el sistema hace lo siguiente:
 * En su lugar, hace lo siguiente:
 
    * Muestra el calendario de reuniones del agente asignado (si está activado).
-o
+-o-
    * Vuelve a un mensaje predeterminado (en el peor de los casos).
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, equipo o personalizado) solo se tiene en cuenta si el enrutamiento de cuenta no es apto (no hay dominio o agente que coincida).
@@ -75,7 +75,7 @@ La reserva de Round Robin no se activa solo porque un agente no responda.
 Si ninguno de los agentes participa, ocurre lo siguiente:
 
 * El sistema muestra el calendario del primer agente probado (si está activado).
-o
+-o-
 * Muestra el mensaje de reserva predeterminado.
 
 ##### —Enrutamiento Round Robin—
@@ -104,8 +104,8 @@ Se evalúa la regla de enrutamiento a nivel de tarjeta (personalizado, equipo o 
 
 * Si ningún intento de participación tiene éxito, se aplica la lógica de reserva:
 
-   * Reserva de calendario (si está activada),
-o
+   * reserva de calendario (si está activada),
+-o-
    * Mensaje predeterminado.
 
 La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
@@ -114,7 +114,7 @@ La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agente
 
 <p>
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
@@ -354,13 +354,13 @@ Por lo tanto, cuando un visitante con cookie abc aterriza en una página y propo
     <td>Persona conocida</td>
     <td>xyz</td>
     <td>Diferente a la persona existente</td>
-    <td>Este escenario no es posible, ya que si se trata de una cookie nueva, de forma predeterminada se considera un nuevo perfil anónimo</td>
+    <td>este escenario no es posible si se trata de una nueva cookie que de forma predeterminada se considera un nuevo perfil anónimo</td>
   </tr>
 </tbody></table>
 
 ### Opción para heredar la fuente {#option-to-inherit-font}
 
-Ahora puede permitir que el bot de chat herede directamente la fuente de la página web en la que se aloja en lugar de administrar la fuente de la marca en Dynamic Chat. Al habilitar esta opción, el bot de chat tomará la fuente definida en la etiqueta `<body>` de la página.
+Ahora puede permitir que el bot de chat herede directamente la fuente de la página web en la que se aloja, en lugar de administrar la fuente de la marca en Dynamic Chat. Al habilitar esta opción, el bot de chat tomará la fuente definida en la etiqueta `<body>` de la página.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -424,7 +424,7 @@ Anteriormente, cuando se activaba la sincronización de Marketo Engage, Dynamic 
 
 ### Pasar datos sobre visitantes adicionales a flujos conversacionales {#pass-additional-visitor-data}
 
-Si está capturando información sobre visitantes a través de otros canales, como formularios o inicios de sesión, ahora puede pasar esta información directamente a Dynamic Chat.
+Si captura información del visitante a través de otros canales, como formularios o inicios de sesión, ahora puede pasar esta información directamente a Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -534,7 +534,7 @@ Hemos lanzado la ramificación condicional para los diálogos a principios de es
 
 ### Chat en directo para flujos conversacionales {#live-chat-for-conversational-flows}
 
-Hemos lanzado la funcionalidad de chat en directo para los diálogos de 2023, y ahora también puede añadir interacciones de chat en directo a sus flujos conversacionales. Si utiliza flujos conversacionales con sus formularios de Marketo Engage, ahora puede permitir que personas visitantes cualificadas chateen con un agente en directo inmediatamente después del envío del formulario.
+Hemos lanzado la funcionalidad de chat en directo para los diálogos de 2023, y ahora también puede añadir interacciones de chat en directo a sus flujos conversacionales. Si utiliza flujos de conversación con sus formularios de Marketo Engage, ahora puede permitir que visitantes cualificados chateen con un agente en directo inmediatamente después del envío del formulario.
 
 ### Actividades recientes de Marketo Engage en la bandeja de entrada del agente {#recent-marketo-engage-activities-in-agent-inbox}
 

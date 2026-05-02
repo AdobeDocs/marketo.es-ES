@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo enviar un correo electrónico a va
 title: Enviar un correo electrónico a varios registros en Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '149'
 ht-degree: 6%
 
 ---
 
 # Enviar un correo electrónico a varios registros en [!DNL Marketo Sales Insight] {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-Es muy fácil enviar un correo electrónico de Marketo a varias personas usando [!DNL Marketo Sales Insight]. Vamos a empezar...
+Es muy fácil enviar un correo electrónico de Marketo a varias personas mediante [!DNL Marketo Sales Insight]. Vamos a empezar...
 
 1. En [!DNL Salesforce], haga clic en **[!UICONTROL Posibles clientes]** o en **[!UICONTROL Contactos]**.
 
@@ -29,7 +29,7 @@ Es muy fácil enviar un correo electrónico de Marketo a varias personas usando 
 
    >[!NOTE]
    >
-   >Si estás usando [!DNL Salesforce Lightning], el botón dirá **[!UICONTROL Enviar correo electrónico de Marketo (relámpago)]**.
+   >Si está usando [!DNL Salesforce Lightning], el botón indicará **[!UICONTROL Enviar correo electrónico de Marketo (relámpago)]**.
 
    >[!TIP]
    >

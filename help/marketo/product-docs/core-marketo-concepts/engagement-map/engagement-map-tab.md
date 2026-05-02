@@ -2,9 +2,9 @@
 description: Obtenga información acerca de la pestaña Mapa de participación y sus tarjetas de déclencheur, filtro y flujo. Haga clic en las tarjetas para ver los detalles y editar los elementos de la campaña.
 title: Pestaña Mapa de participación
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '968'
 ht-degree: 1%
 
 ---
@@ -101,7 +101,7 @@ Puede hacer clic en el paso Ejecutar flujo de campaña en la &quot;Campaña B&qu
 
 Solicitar campañas ejecutadas en paralelo con la campaña principal. Las personas que cumplen los requisitos para una campaña de solicitud completan todos los pasos de flujo de la campaña y luego abandonan la campaña. Al mismo tiempo, el mismo conjunto de personas pasa por los pasos de flujo desde la campaña principal.
 
-Este es un ejemplo de campaña inteligente, &quot;Campaña A&quot;, que incluye un paso de flujo de campaña de solicitud. Piense en la &quot;Campaña A&quot; como su campaña principal.
+A continuación se muestra un ejemplo de una campaña inteligente, &quot;Campaña A&quot;, que incluye un paso de flujo de campaña de solicitud. Piense en la &quot;Campaña A&quot; como su campaña principal.
 
 ![](assets/engagement-map-tab-14.png)
 
@@ -116,7 +116,7 @@ Puede profundizar en sus campañas anidadas si alguno de los pasos de flujo incl
 
 ![](assets/engagement-map-tab-16.png)
 
-Este es un ejemplo de una campaña de solicitudes con opciones.
+A continuación se muestra un ejemplo de una campaña de solicitudes con opciones.
 
 ![](assets/engagement-map-tab-17.png)
 

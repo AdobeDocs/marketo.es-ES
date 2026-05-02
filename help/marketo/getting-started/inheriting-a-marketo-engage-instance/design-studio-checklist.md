@@ -3,9 +3,9 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -25,8 +25,8 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Páginas de destino globales</td>
    <td><li>¿Cuántas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">páginas de aterrizaje</a> globales hay? ¿Los utilizan los programas?</li>
-   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=es" target="_blank">centro de suscripciones</a>?
-   <br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
+   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro de suscripciones</a>?
+   <br/> Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
   <tr>
    <td>Plantillas</td>
@@ -95,7 +95,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Privacidad y cumplimiento</td>
    <td><li>¿Su estrategia de formulario se ajusta a los requisitos de privacidad de datos corporativos y de inclusión?
-   <br/>     Consideremos el <a href="https://business.adobe.com/es/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, la Ley Antispam de Canadá (CASL), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
+   <br/> Considere el <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, la Ley Antispam de Canadá (CASL), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   </tr>
   <tr>
    <td>Privacidad y cumplimiento</td>
-   <td><li>¿Todos los correos electrónicos tienen los pies de página adecuados? Considere el RGPD, CASL, CAN-SPAM, CCPA, etc. para implicaciones de cumplimiento.</li>
+   <td><li>¿Todos los correos electrónicos tienen los pies de página adecuados? Considere el RGPD, la CASL, CAN-SPAM, la CCPA, etc. para ver las implicaciones de cumplimiento.</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Recuerde consultar siempre a su equipo legal sobre estos problemas de cumplimiento. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody>
@@ -141,7 +141,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Fragmentos</td>
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragmentos</a> hay? ¿Se están utilizando?
-   <br/>     Si no es así, considere la posibilidad de usarlos para contenido de <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">correo electrónico</a> y <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">página de aterrizaje</a>, logotipos y mucho más.</li></td>
+   <br/> Si no es así, considere la posibilidad de usarlos para el contenido del pie de página de <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">correo electrónico</a> y <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">página de aterrizaje</a>, los logotipos y mucho más.</li></td>
   </tr>
  </tbody>
 </table>
@@ -157,7 +157,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Estado del recurso</td>
    <td><li>¿Cuántos recursos hay en <i>Borrador</i> y <i>Aprobado con estado Borrador</i> (por ejemplo, <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">correos electrónicos</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Páginas de aterrizaje</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">formularios</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragmentos</a>)?
-   <br/>     Si hay muchos, considere la posibilidad de eliminarlos o aprobarlos.</li></td>
+   <br/> Si hay muchas, considere la posibilidad de eliminarlas o aprobarlas.</li></td>
   </tr>
   <tr>
    <td>Uso compartido de recursos</td>

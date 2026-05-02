@@ -3,9 +3,9 @@ description: Aprenda a configurar la personalización de los detalles de activid
 title: Configuración de la personalización de detalles de la actividad de Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '689'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ La personalización de los detalles de actividad permite a los administradores c
 
 >[!NOTE]
 >
->* Las actualizaciones realizadas en el campo de asunto de [!DNL Sales Insight Actions] de una tarea de recordatorio se reflejarán en el campo de asunto de la tarea [!DNL Salesforce] correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de actividad.
+>* Las actualizaciones realizadas en el campo de asunto en [!DNL Sales Insight Actions] de una tarea de recordatorio se reflejarán en el campo de asunto de la tarea [!DNL Salesforce] correspondiente, si está utilizando el campo dinámico `{{activity_subject}}` en la personalización de los detalles de la actividad.
 >* No se admiten saltos de línea al registrar información en el campo de asunto [!DNL Salesforce]. Los saltos de línea del editor de personalización de detalles de actividad se eliminarán cuando se actualice el asunto de una tarea de ventas.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)

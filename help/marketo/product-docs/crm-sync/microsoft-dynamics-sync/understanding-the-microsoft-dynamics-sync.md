@@ -4,9 +4,9 @@ description: Obtenga información acerca de cómo la sincronización de Microsof
 title: Explicación de la sincronización de Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '230'
 ht-degree: 20%
 
 ---
@@ -21,7 +21,7 @@ Marketo y [!DNL Microsoft Dynamics] van juntos. Mantenemos sus datos de ventas y
 
 ## Funcionamiento de la sincronización {#how-sync-works}
 
-Marketo sincroniza continuamente los datos con [!DNL Microsoft Dynamics] todo el día, todos los días. Se realiza mediante sincronización en segundo plano, por lotes, no en tiempo real.
+Marketo sincroniza continuamente los datos con [!DNL Microsoft Dynamics] todo el día, todos los días. Se realiza mediante la sincronización en segundo plano, por lotes, no en tiempo real.
 
 >[!NOTE]
 >

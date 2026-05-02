@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo ver qué  [!DNL Salesforce] campos
 title: Ver asignaciones de campo entre Marketo y  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 3%
 
 ---
 
 # Ver asignaciones de campo entre Marketo y [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Es posible que desee saber a qué [!DNL Salesforce] campos está vinculado un campo de Marketo específico. A continuación se indica cómo comprobarlo.
+Es posible que desee saber a qué [!DNL Salesforce] campos está asignado un campo de Marketo específico. Siga los pasos a continuación.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Es posible que desee saber a qué [!DNL Salesforce] campos está vinculado un ca
 
 >[!NOTE]
 >
->Se muestra el nombre de API [!DNL Salesforce], no el nombre de etiqueta.
+>Esto muestra el nombre de la API [!DNL Salesforce], no el nombre de la etiqueta.
 
 >[!IMPORTANT]
 >

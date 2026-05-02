@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar conversiones sin conexi
 title: Configuración de conversiones de Facebook sin conexión
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '333'
 ht-degree: 5%
 
 ---
@@ -50,7 +50,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   ¡Dulce! Ya ha completado la mitad del proceso para habilitar [!DNL Facebook] conversiones sin conexión. Vamos a saltar a la Modeler del ciclo de ingresos para asignar las fases.
+   ¡Dulce! Ha completado la mitad del proceso al habilitar [!DNL Facebook] conversiones sin conexión. Vamos a saltar a la Modeler del ciclo de ingresos para asignar las fases.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 

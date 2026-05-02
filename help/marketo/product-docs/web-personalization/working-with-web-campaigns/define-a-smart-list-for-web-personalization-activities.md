@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo definir una lista inteligente para
 title: Definición de una lista inteligente para actividades de personalización web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ Use un déclencheur para enviar un correo electrónico o una alerta, o cambie un
    >
    >Con varios déclencheur, una persona pasa al flujo si se activa CUALQUIERA de los déclencheur.
 
-   Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir listas inteligentes para campañas inteligentes | Lote &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir listas inteligentes para campañas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

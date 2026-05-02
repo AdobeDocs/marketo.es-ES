@@ -3,10 +3,10 @@ description: Aprenda a configurar Sales Insight para integraciones de MS Dynamic
 title: '[!DNL Sales Insight] para integraciones de MS [!DNL Dynamics] no nativas'
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 0%
+source-wordcount: '1532'
+ht-degree: 2%
 
 ---
 
@@ -43,12 +43,12 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
      <tr>
       <td>externalSalesPersonId</td>
         <td>Identificador único global de MS <span class="dnl">Dynamics</span> que no distingue entre mayúsculas y minúsculas</td>
-      <td><p>Identifica el registro del vendedor de Marketo en un objeto de usuario externo de MS <span class="dnl">Dynamics</span>.</p><p>Se exige que el vendedor se sincronice primero antes de sincronizar los otros objetos, de modo que se creen las relaciones adecuadas.</p></td>
+      <td><p>Identifica el registro del vendedor de Marketo en un objeto de usuario externo de MS <span class="dnl">Dynamics</span>.</p><p>se exige que el vendedor se sincronice primero antes de sincronizar los otros objetos, de modo que se creen las relaciones adecuadas.</p></td>
      </tr>
     </tbody>
    </table>
 
-   * [Documentación de API para el vendedor](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [Documentación de API para vendedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [Documentación de API para sincronizar el vendedor](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Sincronizar las cuentas de MS [!DNL Dynamics] con Marketo.
@@ -80,7 +80,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
     </tbody>
    </table>
 
-   * Documentación de API para compañías: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * Documentación de API para compañías: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * Documentación de API para sincronizar compañías: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Sincronizar contactos/posibles clientes de MS [!DNL Dynamics] con Marketo.
@@ -107,7 +107,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
      <tr>
       <td>externalSalesPersonId</td>
         <td>MS <span class="dnl">Dynamics</span> Sales User no distingue entre mayúsculas y minúsculas como identificador único global</td>
-        <td>Identifica el objeto de usuario de ventas externo de MS <span class="dnl">Dynamics</span> que posee este cliente potencial/contacto.<br><br>También relaciona al posible cliente con el vendedor en Marketo. Se requiere que el Vendedor se sincronice correctamente primero.</td>
+        <td>Identifica el objeto de usuario de ventas externo de MS <span class="dnl">Dynamics</span> propietario de este cliente potencial/contacto.<br><br>También relaciona el cliente potencial con el vendedor en Marketo. Se requiere que el Vendedor se sincronice correctamente primero.</td>
      </tr>
      <tr>
       <td>externalCompanyId</td>
@@ -117,7 +117,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
     </tbody>
    </table>
 
-   * Documentación de API para posibles clientes: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * Documentación de API para posibles clientes: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * Documentación de API para sincronizar posibles clientes: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Sincronizar oportunidades de MS [!DNL Dynamics] con Marketo.
@@ -154,7 +154,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
     </tbody>
    </table>
 
-   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentación de API para sincronizar oportunidades: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizar los roles de contacto de MS [!DNL Dynamics] con Marketo.
@@ -181,7 +181,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
      <tr>
       <td>leadId</td>
       <td>N/D, sería un ID de posible cliente de Marketo</td>
-        <td>Este sería el ID de posible cliente de Marketo del contacto sincronizado de MS <span class="dnl">Dynamics</span>.<br><br>Una vez que el contacto está sincronizado en Marketo, puede usar el identificador único global que distingue entre mayúsculas y minúsculas de MS <span class="dnl">Dynamics</span> Contact como externalPersonId y la consulta del posible cliente de Marketo mediante la API REST de Marketo.</td>
+        <td>Este sería el identificador de posible cliente de Marketo del contacto sincronizado de MS <span class="dnl">Dynamics</span>.<br><br>Una vez sincronizado el contacto en Marketo, puede usar el identificador único global sin distinción de mayúsculas y minúsculas de MS <span class="dnl">Dynamics</span> Contact como externalPersonId y consultar el posible cliente de Marketo mediante la API de REST de Marketo.</td>
      </tr>
      <tr>
       <td>función</td>
@@ -191,7 +191,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
     </tbody>
    </table>
 
-   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentación de la API para la oportunidad: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentación de API para sincronizar oportunidades: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizar los campos de puntuación de último momento interesante/MSI con MS [!DNL Dynamics].

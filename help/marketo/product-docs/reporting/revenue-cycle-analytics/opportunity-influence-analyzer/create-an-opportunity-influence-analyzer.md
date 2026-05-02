@@ -4,10 +4,10 @@ description: Aprenda a crear un analizador de influencia de oportunidades en Mar
 title: Crear un analizador de influencia de la oportunidad
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 4%
 
 ---
 
@@ -52,7 +52,7 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
    >
    >En la mayoría de los casos, **[!UICONTROL Todo el tiempo]** es la opción más sencilla.
 
-1. ¡Ya está! Haga clic en la pestaña principal para ver los momentos interesantes y los éxitos que involucra la oportunidad.
+1. ¡Estás ahí! Haga clic en la pestaña principal para ver los momentos interesantes y los éxitos que involucra la oportunidad.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

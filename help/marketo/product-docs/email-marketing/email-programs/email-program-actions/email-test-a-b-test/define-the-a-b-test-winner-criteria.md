@@ -4,10 +4,10 @@ description: Aprenda a definir los criterios de ganador de las pruebas A/B. Esta
 title: Definir criterios del ganador de prueba A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 20%
+source-wordcount: '462'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    <table>
    <tr>
    <td><b>[!UICONTROL Abre]</b></td>
-   <td>Una apertura registra cuándo se descargan las imágenes en un correo electrónico. Incluso si no incluye una imagen, Marketo inserta de forma predeterminada un solo píxel de seguimiento en todos los correos electrónicos de HTML.</td>
+   <td>Una apertura registra cuándo se descargan las imágenes en un correo electrónico. Incluso si no incluye una imagen, Marketo inserta de forma predeterminada un solo píxel de seguimiento en todos los correos electrónicos HTML.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Clics]</b></td>
@@ -40,7 +40,7 @@ Cuando [agregue una prueba A/B](/help/marketo/product-docs/email-marketing/email
    </tr>
    <tr>
    <td><b>[!UICONTROL Puntuación de participación]</b></td>
-   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=es" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
+   <td>La <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">puntuación de participación</a> le ayuda a determinar la eficacia de su contenido.</td>
    </tr>
    </table>
 

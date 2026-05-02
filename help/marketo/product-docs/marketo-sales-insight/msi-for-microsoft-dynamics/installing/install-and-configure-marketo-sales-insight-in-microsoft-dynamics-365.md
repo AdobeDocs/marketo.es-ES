@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo instalar y configurar Marketo Sale
 title: Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '437'
 ht-degree: 5%
 
 ---
@@ -101,7 +101,7 @@ Vinculemos su instancia de Marketo a [!DNL Sales Insight] en [!DNL Dynamics]. A 
    >
    >Si falta alguno de estos campos, verá un mensaje de error en Marketo con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. En [!DNL Microsoft Dynamics], haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) junto a [!UICONTROL Configuración] y, a continuación, seleccione **[!UICONTROL Configuración de la API de Marketo]** en el menú desplegable.
+1. De nuevo en [!DNL Microsoft Dynamics], haz clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) al lado de [!UICONTROL Configuración] y luego selecciona **[!UICONTROL Configuración de la API de Marketo]** en la lista desplegable.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 

@@ -4,16 +4,16 @@ description: Aprenda a añadir contenido de Highspot a su correo electrónico de
 title: Añadir contenido de Highspot al correo electrónico
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---
 
 # Agregando contenido de [!DNL Highspot] al correo electrónico {#adding-highspot-content-to-your-email}
 
-Si eres cliente de [!DNL Highspot], puedes insertar fácilmente contenido de [!DNL Highspot] en tus correos electrónicos de [!DNL Sales Connect].
+Si es cliente de [!DNL Highspot], puede insertar fácilmente contenido de [!DNL Highspot] en sus correos electrónicos de [!DNL Sales Connect].
 
 1. Cree su borrador de correo electrónico (existen varias formas de hacerlo; en este ejemplo, elegimos **[!UICONTROL Componer]** en el encabezado).
 

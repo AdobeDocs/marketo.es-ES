@@ -4,9 +4,9 @@ description: Obtenga información acerca de la pestaña de configuración de Mar
 title: Pestaña Configuración de Marketo Sales Insight en Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Si elige hacerlo, se borrarán todas las configuraciones en SFDC y no se podrán
 
 >[!IMPORTANT]
 >
->No active la casilla &quot;Activar acciones MSI&quot; a menos que esté utilizando las funciones de acciones de Sales Insights.
+>No active la casilla &quot;Activar acciones MSI&quot; a menos que utilice las funciones de acciones de información de ventas.
 
 >[!MORELIKETHIS]
 >

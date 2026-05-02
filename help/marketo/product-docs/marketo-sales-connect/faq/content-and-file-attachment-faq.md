@@ -4,9 +4,9 @@ description: Obtenga respuestas a preguntas sobre contenido y archivos adjuntos 
 title: Preguntas frecuentes sobre contenido y archivos adjuntos
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 Un **archivo adjunto** es similar a un archivo adjunto que usaría en su cliente de correo electrónico normal.
 
-**Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) del que desee que [!DNL Sales Connect] realice un seguimiento.
+**Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) que desea que [!DNL Sales Connect] le haga un seguimiento.
 
 Después de hacer clic en ese botón, puede elegir un archivo que ya se ha cargado o cargar un nuevo archivo para rastrearlo. A continuación, insertamos un vínculo en el correo electrónico o la plantilla que está utilizando.
 

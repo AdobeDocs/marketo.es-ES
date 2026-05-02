@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un informe de rendimiento de
 title: Generar un informe de rendimiento de personas con columnas de plataforma móvil
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '308'
 ht-degree: 7%
 
 ---

@@ -3,10 +3,10 @@ description: Obtenga información sobre los seminarios web interactivos en Marke
 title: Información general de seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 96%
+source-wordcount: '556'
+ht-degree: 92%
 
 ---
 
@@ -54,7 +54,7 @@ Si el campo “Nombre” del cliente potencial está vacío, no podrá registrar
 
 **Estoy teniendo problemas de audio/vídeo al presentar un seminario web mientras accedo a la VPN de mi organización. ¿Qué debo hacer?**
 
-Adobe Connect, la plataforma de entrega de seminarios web interactivos, utiliza WebRTC para compartir audio/vídeo/pantalla. Es probable que el cortafuegos de la red de su organización esté bloqueando las direcciones IP/puertos que usamos para la comunicación basada en WebRTC. Su equipo de TI debe permitir el uso de estos puertos para que WebRTC funcione. [Más información](https://helpx.adobe.com/es/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, la plataforma de entrega de seminarios web interactivos, utiliza WebRTC para compartir audio/vídeo/pantalla. Es probable que el cortafuegos de red de su organización esté bloqueando las direcciones IP/puertos que usamos para la comunicación basada en WebRTC. Su equipo de TI debe permitir el uso de estos puertos para que WebRTC funcione. [Más información](https://helpx.adobe.com/es/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **¿Mis seminarios web interactivos se graban automáticamente?**
 

@@ -4,10 +4,10 @@ description: 'Puntuación simple: Documentos de Marketo: documentación del prod
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 17%
+source-wordcount: '386'
+ht-degree: 14%
 
 ---
 

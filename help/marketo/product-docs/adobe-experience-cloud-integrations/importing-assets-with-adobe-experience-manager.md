@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo importar recursos de Adobe Experie
 title: Importación de recursos con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 4%
@@ -21,7 +21,7 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ya ha realizado la [configuración de AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Asegúrese de que la [configuración de AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) ya se haya realizado.
 
 >[!IMPORTANT]
 >
@@ -39,7 +39,7 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. Inicie sesión en Adobe Experience Manager (si aún no lo ha hecho).
+1. Inicie sesión en Adobe Experience Manager (si no lo ha hecho ya).
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
@@ -55,7 +55,7 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   ¡Y eso es todo! Haga clic en **[!UICONTROL Cerrar]** para regresar a Design Studio.
+   Haga clic en **[!UICONTROL Cerrar]** para regresar a Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -63,6 +63,6 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
 * Actualmente, Marketo es compatible con las versiones 6.4 y 6.5 de Adobe Experience Manager.
 
-* Todos los usuarios de su instancia podrán ver las imágenes que importe y acceder a ellas.
+* Todos los usuarios de la instancia podrán ver las imágenes que importe y acceder a ellas.
 
 * Las imágenes no se actualizan automáticamente. Si una imagen que importó en Marketo [!DNL Design Studio] se actualiza en AEM, debe volver a importarla manualmente en Marketo.

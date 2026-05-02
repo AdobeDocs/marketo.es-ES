@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo clonar un grupo de prueba de pági
 title: Clonación de un grupo de prueba de la página de destino
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '189'
 ht-degree: 6%
 
 ---
@@ -35,7 +35,7 @@ Desde [!UICONTROL Design Studio], puede encontrar y duplicar un grupo de prueba 
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. Cuando haya terminado, haga clic en **[!UICONTROL Crear]**.
+1. Cuando termine, haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 

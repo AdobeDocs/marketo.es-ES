@@ -4,9 +4,9 @@ description: Obtenga información acerca de las direcciones IP compartidas y ded
 title: Direcciones IP compartidas y dedicadas
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '450'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ _Inconvenientes_
 
 _Profesionales_
 
-**Buenos compañeros de habitación**: si los usuarios con los que comparte su IP siguen las prácticas recomendadas de envío, se beneficiará.
+**Buenos compañeros de habitación**: si la gente con la que comparte su IP sigue las prácticas recomendadas de envío, se beneficiará.
 **Frecuencia de envío**: no se necesita una frecuencia de envío mínima para calificar para una IP compartida, a diferencia de las IP dedicadas.
 **Costo**: nunca hay un cargo adicional para enviar desde una IP compartida.
 

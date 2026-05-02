@@ -3,9 +3,9 @@ description: Comprenda los déclencheur, filtros y pasos de flujo de SMS en camp
 title: Usar opciones de SMS en una campaña inteligente
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '420'
 ht-degree: 7%
 
 ---

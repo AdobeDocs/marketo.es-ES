@@ -3,9 +3,9 @@ description: Suscripción a las notificaciones de estado del sistema - Documento
 title: Suscribirse a notificaciones de estado del sistema
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---

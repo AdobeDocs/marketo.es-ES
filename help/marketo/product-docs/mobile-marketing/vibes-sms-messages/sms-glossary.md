@@ -3,9 +3,9 @@ description: Obtenga información sobre los términos SMS más comunes de Vibes 
 title: Glosario de SMS
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '779'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ A continuación se muestran algunos términos comunes que encontrará al usar me
   </tr>
   <tr>
     <td>Dominio corto personalizado</td>
-    <td>Si utiliza el acortador de vínculos de Vibes, la URL abreviada aparecerá, de forma predeterminada, en la URL abreviada de Vibes: https://vbs.cm/xxxxxx. Un dominio corto personalizado es un dominio único de su marca. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Más información sobre los dominios cortos personalizados</a>.<p>
+    <td>Si utiliza el acortador de vínculos de Vibes, la dirección URL abreviada aparecerá, de forma predeterminada, en la dirección URL abreviada de Vibes: https://vbs.cm/xxxxxx. Un dominio corto personalizado es un dominio único de su marca. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Más información sobre los dominios cortos personalizados</a>.<p>
     Esto solo se aplica a los mensajes enviados desde la plataforma Vibes, específicamente los mensajes de campaña de adquisición y los mensajes predeterminados de código corto.<p>
     Se recomienda usar el abreviador de URL de Marketo para tener datos de clics en el programa de Marketo.</td>
   </tr>

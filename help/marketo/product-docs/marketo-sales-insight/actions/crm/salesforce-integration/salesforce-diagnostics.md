@@ -3,9 +3,9 @@ description: Comprender los diagnósticos de Salesforce y los mensajes de error 
 title: Diagnóstico de Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1394'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Parte de nuestra integración de [!DNL Salesforce] incluye una página de diagn�
 
 **Error:** API_CURRENTLY_DISABLED
 **Categoría:** Acceso/Validación
-La API **Mensaje:** está deshabilitada para este usuario
+**Mensaje:** La API está deshabilitada para este usuario
 **Qué está sucediendo:** El usuario no tiene acceso a la API
 **Pasos para solucionar problemas:** [!DNL Salesforce] El administrador debe otorgar acceso a la API de usuario.
 
@@ -72,8 +72,8 @@ Autenticación de **categoría:**
 **Error:** FAILED_WRITE
 **Categoría:** Intermitente
 **Mensaje:** fin de archivo alcanzado
-**Qué está sucediendo:** Problema de rendimiento con [!DNL Salesforce], probablemente debido a déclencheur no óptimos del lado del cliente.
-**Pasos para solucionar problemas:** La lógica de reintento debe encargarse de esto. Si sigue sin funcionar, trabaje con su administrador de [!DNL Salesforce] para solucionar un déclencheur problemático.
+**Qué está sucediendo:** Problema de rendimiento con [!DNL Salesforce], probablemente debido a déclencheur no óptimos en el lado del cliente.
+**Pasos para solucionar problemas:** La lógica de reintento debe encargarse de esto. Si sigue sin funcionar, trabaje con el administrador de [!DNL Salesforce] para solucionar un déclencheur problemático.
 
 **Error:** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **Categoría:** Acceso/Validación
@@ -96,14 +96,14 @@ Autenticación de **categoría:**
 **Error:** INACTIVE_ORGANIZATION
 Autenticación de **categoría:**
 **Mensaje:** invalid_grant: organización inactiva
-**Qué está sucediendo:** Su organización de [!DNL Salesforce] ya no está activa.
+**Qué está sucediendo:** Su organización [!DNL Salesforce] ya no está activa.
 **Pasos para solucionar problemas:** Desconéctese y vuelva a conectarse desde [!DNL Salesforce].
 
 **Error:** INACTIVE_USER
 Autenticación de **categoría:**
 **Mensaje:** invalid_grant: usuario inactivo
 **Qué está sucediendo:** El usuario [!DNL Salesforce] ya no está activo
-**Pasos para solucionar problemas:** Desconéctese y vuelva a conectarse de [!DNL Salesforce].
+**Pasos para solucionar problemas:** Desconéctese y vuelva a conectarse desde [!DNL Salesforce].
 
 **Error:** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE
 **Categoría:** Intermitente
@@ -114,7 +114,7 @@ Autenticación de **categoría:**
 **Error:** INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
 **Categoría:** Acceso/Validación
 **Mensaje:** derechos de acceso insuficientes en el id. de objeto
-**Qué sucede:** No hay acceso al registro principal de una tarea.
+**Qué está sucediendo:** No hay acceso al registro principal de una tarea.
 **Pasos para solucionar problemas:** Ver más arriba.
 
 **Error:** INSUFFICIENT_ACCESS_OR_READONLY
@@ -138,7 +138,7 @@ Autenticación de **categoría:**
 **Error:** INVALID_GRANT
 Autenticación de **categoría:**
 **Mensaje:** invalid_grant: ip restringida
-**Qué está sucediendo:** Estamos intentando acceder a su [!DNL Salesforce], pero existen restricciones de IP que nos impiden hacerlo.
+**Qué está sucediendo:** Estamos intentando obtener acceso a su [!DNL Salesforce], pero existen restricciones de IP que nos impiden hacerlo.
 **Pasos para solucionar problemas:** El administrador de [!DNL Salesforce] tendrá que realizar una lista de permitidos de nuestras IP. Los usuarios deben ponerse en contacto con Asistencia técnica para obtener las direcciones IP.
 
 **Error:** INVALID_TYPE
@@ -176,11 +176,11 @@ Autenticación de **categoría:**
 **Categoría:** Intermitente
 **Mensaje:** servidor demasiado ocupado
 **Qué está sucediendo:** Problema de rendimiento con [!DNL Salesforce], probablemente debido a déclencheur no óptimos del cliente
-**Pasos para solucionar problemas:** La lógica de reintentos debería encargarse de esto. Si sigue sin funcionar, trabaje con su administrador de [!DNL Salesforce] para solucionar un déclencheur problemático.
+**Pasos para solucionar problemas:** La lógica de reintento debe encargarse de esto. Si sigue sin funcionar, trabaje con su administrador de [!DNL Salesforce] para solucionar un déclencheur problemático.
 
 **Error:** TXN_SECURITY_NO_ACCESS
 **Categoría:** Acceso/Validación
-**Mensaje:** La operación solicitada no está permitida debido a una directiva de seguridad de su organización. Póngase en contacto con el administrador.
+**Mensaje:** La operación solicitada no está permitida debido a una directiva de seguridad de su organización. Póngase en contacto con su administrador o administradora.
 **Qué está sucediendo:** Se ha configurado algún tipo de restricción de seguridad; consulte <https://developer.salesforce.com/forums/?id="record> ID.&quot;
 **Pasos para solucionar problemas:** Hable con su administrador de [!DNL Salesforce] y vea cuál puede ser la restricción específica.
 

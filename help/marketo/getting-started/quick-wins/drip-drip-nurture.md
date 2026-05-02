@@ -4,9 +4,9 @@ description: Goteo, Goteo, Nutrición - Marketo Docs - Documentación del Produc
 title: Sistema de goteo y nutrición
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '471'
 ht-degree: 7%
 
 ---

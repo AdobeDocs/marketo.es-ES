@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,7 @@ CAPTURA DE PANTALLA
 >
 >Esto solo es aplicable a aquellos que tienen varias suscripciones a Marketo Engage y han creado varios perfiles de forma involuntaria al iniciar sesión en la Comunidad del país de marketing.
 
-Siga los pasos a continuación para combinar el historial en varios perfiles de comunidad. Se recomienda sobrescribir el perfil de la comunidad que tenga menos actividad de la comunidad, ya que los datos de perfil sobrescritos no se pueden recuperar.
+Siga los pasos a continuación para combinar el historial en varios perfiles de comunidad. Se recomienda sobrescribir el perfil de comunidad que tenga menos actividad de comunidad, ya que los datos de perfil sobrescritos no se pueden recuperar.
 
 Envíe un correo electrónico a `ccare@marketo.com` para solicitar que los datos de sus diferentes perfiles de comunidad se combinen con el perfil asociado a su suscripción de producción principal. Cuando los perfiles se fusionan, se pierde la actividad histórica del perfil sobrescrito de su elección.
 

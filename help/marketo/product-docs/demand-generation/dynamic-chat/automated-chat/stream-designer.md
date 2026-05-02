@@ -3,9 +3,9 @@ description: Obtenga información sobre Stream Designer y las tarjetas para enta
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1220'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
  </tr>
  <tr>
   <td style="width:25%"><strong>Objetivo</strong></td>
-  <td>Esta es la única tarjeta que los visitantes no verán. Le corresponde a usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo, si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Objetivo inmediatamente después de la captura de información en el flujo).</td>
+  <td>Esta es la única tarjeta que los visitantes no verán. Le corresponde a usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo, si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Objetivo inmediatamente después de Captura de información en el flujo).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Acción*</strong></td>

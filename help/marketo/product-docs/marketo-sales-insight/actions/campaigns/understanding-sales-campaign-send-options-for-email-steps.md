@@ -3,10 +3,10 @@ description: Conozca las opciones de envío para los pasos de correo electrónic
 title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 4%
+source-wordcount: '758'
+ht-degree: 5%
 
 ---
 

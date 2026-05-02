@@ -4,9 +4,9 @@ description: Aprenda a añadir personas o grupos a una campaña de marketing de 
 title: Añadir a campaña de marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/four-3.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
+1. Dado que está añadiendo a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/five-2.png)
 
@@ -77,7 +77,7 @@ ht-degree: 2%
 
    ![](assets/twelve.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
+1. Dado que está añadiendo a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en **[!UICONTROL Individuos]** y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/thirteen.png)
 

@@ -4,10 +4,10 @@ description: Obtenga información acerca de las opciones de CC de correo electr�
 title: CC del correo electrónico
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 1%
+source-wordcount: '572'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Correo electrónico CC permite que determinados correos electrónicos se envíen a través de Marketo para incluir destinatarios CC.
 
-Esta función está disponible en todos los recursos de correo electrónico de Marketo, independientemente de cómo se envíe el correo electrónico (campaña por lotes o por déclencheur). El destinatario del CC recibirá una copia exacta del correo electrónico enviado a la persona de Marketo elegida. Como tal, cualquier actividad de participación (aperturas, clics, etc.) se registrará en el registro de actividad de la persona de Marketo en la línea &quot;Para&quot; del correo electrónico. Sin embargo, la actividad de entrega (enviada, entregada, rechazada de forma grave, etc.) _distinta de la &quot;devolución de mensajes no entregados&quot;_ **no se registrará**, ya que Marketo no puede distinguir los eventos de entrega para la persona de Marketo de los destinatarios de CC. Marketo solo permite crear un CC de hasta 100 000 personas a la vez. Si tu lista inteligente supera los 100.000 y es imperativo que todas las personas en ella tengan CC, te recomendamos que separes tu lista.
+Esta función está disponible en todos los recursos de correo electrónico de Marketo, independientemente de cómo se envíe el correo electrónico (campaña por lotes o por déclencheur). El destinatario del CC recibirá una copia exacta del correo electrónico enviado a la persona de Marketo elegida. Como tal, cualquier actividad de participación (aperturas, clics, etc.) se registrará en el registro de actividad de la persona de Marketo en la línea &quot;Para&quot; del correo electrónico. Sin embargo, la actividad de envío (envío, envío, devolución, etc.) _salvo &quot;rebote suave&quot;_, **no se registrará**, ya que Marketo no puede distinguir los eventos de envío para la persona de Marketo de los de los destinatarios de CC. Marketo solo permite crear un CC de hasta 100 000 personas a la vez. Si su lista inteligente supera los 100.000 y es imperativo que todas las personas en ella tengan CC, le recomendamos que desglose la lista.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Esta función está disponible en todos los recursos de correo electrónico de M
 
    ![](assets/six.png)
 
-1. Seleccione los campos que desee utilizar para crear correspondencia personalizada. _Hay un límite de cinco por correo electrónico_. En este ejemplo, solo queremos el CC del propietario del posible cliente. Haga clic en **Guardar** cuando haya terminado.
+1. Seleccione los campos que desee utilizar para crear correspondencia personalizada. _Hay un límite de cinco por correo electrónico_. En este ejemplo, solo queremos el CC del propietario del posible cliente. Haga clic en **Guardar** cuando termine.
 
    ![](assets/seven.png)
 

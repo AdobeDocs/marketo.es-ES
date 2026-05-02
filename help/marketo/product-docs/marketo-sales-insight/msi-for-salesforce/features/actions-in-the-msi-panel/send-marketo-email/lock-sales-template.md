@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo bloquear una plantilla de ventas e
 title: Bloquear plantilla de ventas
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
 
    ![](assets/6.png)
 
-1. Marque **[!UICONTROL Publicar en Marketo Sales Insight]** si aún no lo está. Ahora puede desmarcar **[!UICONTROL Permitir que el usuario de CRM edite el correo electrónico]** para bloquear la plantilla. Haga clic en **[!UICONTROL Guardar]**.
+1. Marque **[!UICONTROL Publicar en Marketo Sales Insight]** si aún no está marcado. Ahora puede desmarcar **[!UICONTROL Permitir que el usuario de CRM edite el correo electrónico]** para bloquear la plantilla. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/7.png)
 

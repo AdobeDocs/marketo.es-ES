@@ -4,10 +4,10 @@ description: Comprender la configuración de sincronización de Salesforce para 
 title: Configuraciones de sincronización de Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 3%
+source-wordcount: '444'
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
    ![](assets/one-2.png)
 
-1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si eres administrador), haz clic en **[!UICONTROL Salesforce]**.
+1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si es administrador), haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 
@@ -55,7 +55,7 @@ Una vez que active &quot;Email to Salesforce (BCC)&quot;, recibirá un CCO de su
 
    ![](assets/one-3.png)
 
-1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si eres administrador), haz clic en **[!UICONTROL Salesforce]**.
+1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si es administrador), haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/two-3.png)
 
@@ -99,7 +99,7 @@ Si no ve Mi correo electrónico a Salesforce en su configuración, es posible qu
 
    ![](assets/one-3.png)
 
-1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si eres administrador), haz clic en **[!UICONTROL Salesforce]**.
+1. En [!UICONTROL Mi cuenta] ([!UICONTROL Configuración de administración] si es administrador), haga clic en **[!UICONTROL Salesforce]**.
 
    ![](assets/two-2.png)
 

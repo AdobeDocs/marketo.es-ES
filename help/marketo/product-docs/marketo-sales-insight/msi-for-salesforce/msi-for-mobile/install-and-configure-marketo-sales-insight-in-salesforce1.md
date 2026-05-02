@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo instalar y configurar Marketo Sale
 title: Instalar y configurar Marketo Sales Insight en Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNL Bmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
+>[!DNL Marketo Sales Insight] en [!DNL Salesforce1] incluye: [!DNLBmejores resultados], fuente de posibles clientes, momentos interesantes y agregar a Marketo Campaign.
 
 ## Habilitar la aplicación móvil [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -131,7 +131,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >Repita los pasos para cada Diseño de página que utilice su organización (marketing, ventas, etc.) para los objetos Contacto, Cuenta y Oportunidad.
+   >Repita los pasos para cada Diseño de página que utilice su organización (marketing, ventas, etc.) para los objetos Contact, Account y Opportunity.
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 

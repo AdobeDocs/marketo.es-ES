@@ -4,10 +4,10 @@ description: Obtenga información acerca de los tokens de déclencheur para mome
 title: Activar tókenes para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 67%
+source-wordcount: '557'
+ht-degree: 66%
 
 ---
 
@@ -1067,4 +1067,4 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 >
 >Pruebe siempre los momentos interesantes para asegurarse de que se representan del modo deseado.
 >
->Además, asegúrese de que sea interesante para el vendedor, no solo para usted.
+>Además, asegúrese de que sea interesante para el vendedor, no solo para usted!

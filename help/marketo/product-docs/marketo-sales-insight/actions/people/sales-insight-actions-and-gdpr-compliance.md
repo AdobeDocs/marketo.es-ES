@@ -3,9 +3,9 @@ description: Conozca las Acciones de Sales Insight y el cumplimiento del RGPD. C
 title: Acciones de Insight de ventas y cumplimiento del RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1409'
 ht-degree: 9%
 
 ---
@@ -152,7 +152,7 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
   </tr>
   <tr>
    <td>[!UICONTROL ID de correo electrónico]</td>
-   <td>[!DNL Salesforce] ID</td>
+   <td>[!DNL Salesforce] Identificación</td>
    <td><br></td>
   </tr>
   <tr>

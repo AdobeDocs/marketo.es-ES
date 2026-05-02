@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar Marketo Sales Insight e
 title: Configuración de Marketo Sales Insight en Salesforce para empresas y sin límites
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '946'
 ht-degree: 4%
 
 ---
@@ -229,7 +229,7 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
    | `Last Interesting Moment Source` | `Contact.Last Interesting Moment Source` |
    | `Last Interesting Moment Type` | `Contact.Last Interesting Moment Type` |
 
-1. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Haga clic en **[!UICONTROL Guardar]** cuando haya terminado.
 
 ## Pestaña Configuración de Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 

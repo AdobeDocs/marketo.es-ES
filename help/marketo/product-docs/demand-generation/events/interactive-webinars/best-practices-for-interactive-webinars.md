@@ -3,16 +3,16 @@ description: Obtenga ayuda sobre las prácticas recomendadas para seminarios web
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1713'
+source-wordcount: '1775'
 ht-degree: 0%
 
 ---
 
 # Prácticas recomendadas para seminarios web interactivos {#best-practices-for-interactive-webinars}
 
-Cuando se ejecutan eventos virtuales, tanto si están dirigidos a una audiencia pequeña como grande, es fundamental que las cosas vayan según lo planificado. Con varios pasos necesarios para planificar y ejecutar un evento, desde la preparación, la promoción, la entrega y el seguimiento, a veces se puede sentir como mucho.
+Al ejecutar eventos virtuales, ya estén dirigidos a una audiencia pequeña o grande, es fundamental que las cosas vayan según lo planificado. Con varios pasos necesarios para planificar y ejecutar un evento, desde la preparación, la promoción, la entrega y el seguimiento, a veces se puede sentir como mucho.
 
 Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pueden ayudar en la planificación, el diseño y la producción de seminarios web exitosos y atractivos. Estas sugerencias le ayudarán a sacar el máximo partido a los seminarios web interactivos ofrecidos por Adobe Connect.
 
@@ -85,7 +85,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del presentador/anfitrión que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
+* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
 
 * **Chat privado**: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 
@@ -99,7 +99,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
    * Decida quién moderará los pods de preguntas y respuestas y chat.
    * Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
 
-* Tenga los programas que está compartiendo pantalla abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en programas mientras comparte la pantalla.
+* Haga que los programas que está compartiendo pantalla estén abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en programas mientras comparte la pantalla.
 
 * Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano.
 

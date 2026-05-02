@@ -3,7 +3,7 @@ description: Obtenga información sobre las acciones rápidas en el Centro de co
 title: Acciones rápidas en el centro de comandos
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 5%
@@ -39,7 +39,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>
@@ -58,7 +58,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>
@@ -77,7 +77,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>

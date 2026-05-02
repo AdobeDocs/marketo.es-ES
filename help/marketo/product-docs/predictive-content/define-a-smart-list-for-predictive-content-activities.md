@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo definir listas inteligentes con ac
 title: Definición de una lista inteligente para actividades de contenido predictivo
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '317'
 ht-degree: 5%
 
 ---
@@ -47,7 +47,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros al 
 
    ![](assets/pc-add-constraint.png)
 
-1. Si usas el origen del correo electrónico para el contenido predictivo, agrega el déclencheur **[!UICONTROL Clicks Link in Email]**. Seleccione su correo electrónico y agregue la restricción **[!UICONTROL Is Predictive]**, definida como **[!UICONTROL true]**.
+1. Si utiliza el origen de correo electrónico para el contenido predictivo, agregue el déclencheur **[!UICONTROL Clicks Link in Email]**. Seleccione su correo electrónico y agregue la restricción **[!UICONTROL Is Predictive]**, definida como **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

@@ -4,9 +4,9 @@ description: Aprenda a configurar anuncios de posibles clientes de Facebook con 
 title: Configurar anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '368'
 ht-degree: 4%
 
 ---

@@ -6,9 +6,9 @@ description: Aprenda a utilizar SpamAssassin para probar la probabilidad de spam
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 Con SpamAssassin en Marketo Engage, puede probar el contenido del correo electrónico y ver la probabilidad de que los ISP/proveedores de buzones de correo lo marquen como correo no deseado.
 
-SpamAssassin analiza el contenido y asigna una puntuación basada en distintos criterios. Cuanto más baja sea la puntuación, mejor. Es importante mantener una puntuación baja, ya que el envío de correos electrónicos con una puntuación alta puede afectar negativamente a la capacidad de envío general.
+SpamAssassin analiza el contenido y asigna una puntuación basada en distintos criterios. Cuanto más baja sea la puntuación, mejor. Es importante mantener una puntuación baja, ya que el envío de correos electrónicos con una puntuación alta puede afectar negativamente a la capacidad de entrega general.
 
 ## Acceso al informe de spam {#access-the-spam-report}
 
@@ -47,7 +47,7 @@ SpamAssassin analiza el contenido y asigna una puntuación basada en distintos c
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
-Cuando la puntuación es de tu agrado, está lista para ser enviada.
+Cuando la puntuación es de su agrado, está lista para enviarse.
 
 ![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 

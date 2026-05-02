@@ -4,9 +4,9 @@ description: Obtenga información acerca de la tarjeta de historial de cancelaci
 title: Tarjeta de historial de cancelación de suscripción
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ La tarjeta [!UICONTROL Cancelar la suscripción al historial] ayuda a los admini
 
 >[!NOTE]
 >
->Para llegar aquí, haga clic en la ficha [!UICONTROL Personas] y seleccione una persona. Se encuentra en la parte inferior de la ficha [!UICONTROL Acerca de] en la vista de detalles de la persona (si se ha cancelado la suscripción).
+>Para llegar aquí, haga clic en la ficha [!UICONTROL Personas] y seleccione una persona. Se encuentra en la parte inferior de la pestaña [!UICONTROL About] en la vista de detalles de la persona (si se ha cancelado la suscripción).
 
 ![](assets/1-1.jpg)
 

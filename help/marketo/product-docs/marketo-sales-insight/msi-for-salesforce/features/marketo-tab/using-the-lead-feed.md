@@ -4,16 +4,16 @@ description: Aprenda a utilizar la fuente de posibles clientes en la pestaña Ma
 title: Usar la fuente de posible cliente
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 4%
+source-wordcount: '351'
+ht-degree: 3%
 
 ---
 
 # Usar la fuente de posible cliente {#using-the-lead-feed}
 
-La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como una fuente RSS o [!DNL Twitter]; las actualizaciones más recientes se encuentran en la parte superior de la lista. Usa esto para saltar sobre las pistas mientras aún estás fresco en sus mentes.
+La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes. Lo encontrará en el lado derecho al hacer clic en la pestaña Marketo. Es como una fuente RSS o [!DNL Twitter]: las actualizaciones más recientes se encuentran en la parte superior de la lista. Use esto para saltar sobre posibles clientes mientras aún está fresco en sus mentes.
 
 >[!NOTE]
 >

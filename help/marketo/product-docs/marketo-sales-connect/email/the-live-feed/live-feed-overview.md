@@ -4,9 +4,9 @@ description: Obtenga información sobre Live Feed en Sales Connect. Vea la parti
 title: Información general de la fuente en directo
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -101,4 +101,4 @@ Ver las personas principales (ordenadas de mayor a menor) clasificadas por puntu
 
 >[!NOTE]
 >
->Si ves a alguien ver tu correo electrónico una y otra vez en tu Live Feed, podría haber reenviado el correo electrónico a destinatarios adicionales. Es muy probable que este sea el caso si observa que la ubicación empieza a cambiar en esas vistas.
+>Si ve a alguien ver su correo electrónico una y otra vez en su Live Feed, podría haber reenviado el correo electrónico a destinatarios adicionales. Es muy probable que este sea el caso si observa que la ubicación empieza a cambiar en esas vistas.

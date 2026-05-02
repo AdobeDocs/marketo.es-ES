@@ -3,22 +3,22 @@ description: Obtenga información acerca de la interfaz de Adobe Experience Clou
 title: Información general sobre la interfaz de Adobe Experience Cloud
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Información general sobre la interfaz de Adobe Experience Cloud {#adobe-experience-cloud-interface-overview}
 
-La interfaz de Adobe Experience Cloud armoniza la apariencia y la usabilidad de las aplicaciones y servicios de Adobe Experience Cloud. Es más que solo un nuevo diseño. Es una aplicación de una sola página que ofrece la experiencia del usuario en una sola instancia.
+La interfaz de Adobe Experience Cloud armoniza la apariencia y la usabilidad de las aplicaciones y servicios de Adobe Experience Cloud. Pero, es más que un nuevo diseño. Es una aplicación de una sola página que ofrece la experiencia del usuario en una sola instancia.
 
 ## Flujo de usuarios {#user-flow}
 
 Si aún no inició sesión en un producto de Adobe Experience Cloud, inicie sesión directamente en [!DNL Marketo Engage] aquí: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Si _ya_ ha iniciado sesión en un producto de Adobe Experience Cloud, simplemente haga clic en el icono de menú y seleccione **[!DNL Marketo Engage]**.
+Si _ya ha iniciado sesión en un producto de Adobe Experience Cloud, haga clic en el icono de menú y seleccione **[!DNL Marketo Engage]**._
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -28,7 +28,7 @@ Si _ya_ ha iniciado sesión en un producto de Adobe Experience Cloud, simplement
 
 ## Nuevas características {#new-features}
 
-Además de la apariencia actualizada, observará las siguientes funciones:
+Además de la apariencia actualizada, están disponibles las siguientes funciones:
 
 **Centro de ayuda integrado**
 
@@ -58,7 +58,7 @@ Haga clic en el icono de perfil para cambiar el idioma u otras preferencias de A
 
 **No puedo iniciar sesión en [!DNL Marketo Engage] mediante la interfaz de Experience Cloud. ¿Cuál podría ser el problema?**
 
-Si puede iniciar sesión en Adobe Experience Cloud, pero luego ve el error “No se pudo cargar la página”, el problema podría estar del lado de [!DNL Marketo Engage]. Comuníquese con el [soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para obtener asistencia.
+Si puede iniciar sesión en Adobe Experience Cloud, pero luego ve el error “No se pudo cargar la página”, el problema podría estar del lado de [!DNL Marketo Engage]. Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para obtener ayuda.
 
 **¿Dónde están el historial del usuario, la búsqueda global, las notificaciones de Marketo y la bandeja de tareas?**
 

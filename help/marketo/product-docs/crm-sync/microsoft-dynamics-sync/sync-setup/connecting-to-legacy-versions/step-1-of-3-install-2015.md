@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo instalar la solución de Marketo p
 title: Instale Marketo para Microsoft Dynamics 2015 local, paso 1 de 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] 2015 local con Marketo, primero
 >
 >Necesita privilegios de administrador de CRM para realizar esta sincronización.
 
-1. Inicie sesión en **[!DNL Dynamics].** Haz clic en el menú desplegable **[!UICONTROL Microsoft Dynamics CRM]** y selecciona **[!UICONTROL Configuración]**.
+1. Iniciar sesión en **[!DNL Dynamics].** Haga clic en el menú desplegable **[!UICONTROL Microsoft Dynamics CRM]** y seleccione **[!UICONTROL Configuración]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

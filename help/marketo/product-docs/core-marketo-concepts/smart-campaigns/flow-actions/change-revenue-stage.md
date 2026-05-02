@@ -4,16 +4,16 @@ description: Aprenda a cambiar la fase de ingresos en un paso de flujo de campa�
 title: Cambiar etapa de ingresos
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 6%
 
 ---
 
 # Cambiar etapa de ingresos {#change-revenue-stage}
 
-Si utiliza el Modeler del ciclo de ingresos y tiene un modelo aprobado, puede decidir mover personas manualmente de una etapa a otra. Este paso de flujo le ayudará.
+Si está utilizando el Modeler del ciclo de ingresos y tiene un modelo aprobado, puede decidir mover personas manualmente de una etapa a otra. Este paso de flujo le ayudará.
 
 ![](assets/change-revenue-stage-1.png)
 

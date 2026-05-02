@@ -4,10 +4,10 @@ description: Obtenga información acerca de la sintaxis de las plantillas de cor
 title: Sintaxis de la plantilla de correo electrónico
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2462'
-ht-degree: 97%
+source-wordcount: '2464'
+ht-degree: 83%
 
 ---
 
@@ -123,7 +123,7 @@ Atributos obligatorios
 * **mktoLockImgSize:** se usaba para desbloquear la propiedad height y width del elemento `<img>` de modo que el usuario final pudiera modificarla (el valor predeterminado es true si se omite).
 * **mktoLockImgStyle:** se usaba para bloquear la propiedad de estilo del elemento `<img>` (el valor predeterminado es false).
 
-Ejemplo:
+Por ejemplo:
 `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Fragmentos {#snippets}
@@ -200,7 +200,7 @@ Atributos obligatorios
 Atributos opcionales
 
 * **valor predeterminado:** valor predeterminado de la lista desplegable de selección. Si se omite, se utiliza el primer valor del atributo “values”.
-* **mktoModuleScope**: Boolean. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
@@ -224,9 +224,9 @@ Atributos opcionales
 
 * **mín:** valor mínimo aceptado.
 * **máximo:** valor máximo aceptado.
-* **unidades:** unidades que se agregarán al valor numérico (p. ej.: px, pt, em, etc.) cuando se muestren en el Editor de correo electrónico, así como en el código resultante.
+* **unidades:** unidades que se agregarán al valor numérico (por ejemplo: px, pt, em, etc.) cuando se muestra en el Editor de correo electrónico, así como en el código resultante.
 * **paso:** cuántas unidades debe aumentar/disminuir la variable numérica en (0,1, 1, 10, etc.). Si se omite, el valor predeterminado es 1.
-* **mktoModuleScope**: Booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
@@ -248,7 +248,7 @@ Atributos obligatorios
 Atributos opcionales
 
 * **valor predeterminado:** valor predeterminado para el color. Código de color hexadecimal de seis dígitos. Ej.: #ffffff.
-* **mktoModuleScope**: Booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
@@ -274,7 +274,7 @@ Atributos opcionales
 * **true_value:** valor que se insertará cuando el conmutador esté en la posición ON. True si se omite.
 * **false_value_name:** interfaz de usuario que se muestra en la opción cuando está en la posición OFF. False si se omite.
 * **true_value_name:** interfaz de usuario que se muestra en el conmutador cuando está en la posición ON. True si se omite.
-* **mktoModuleScope**: Booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
@@ -296,7 +296,7 @@ Atributos obligatorios
 Atributos opcionales
 
 * **valor predeterminado:** valor codificado en HTML que servirá como contenido predeterminado del bloque.
-* **mktoModuleScope**: Booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 
@@ -318,7 +318,7 @@ Atributos obligatorios
 Atributos opcionales
 
 * **predeterminado:** URL de imagen predeterminada para el elemento.
-* **mktoModuleScope**: Booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
+* **mktoModuleScope**: booleano. Controla si la variable es local (true) o global (false) cuando se utiliza en un módulo. Si se omite, el valor predeterminado es False.
 
 Declaración de ejemplo:
 

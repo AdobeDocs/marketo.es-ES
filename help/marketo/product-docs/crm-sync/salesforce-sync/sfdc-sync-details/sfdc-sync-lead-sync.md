@@ -4,9 +4,9 @@ description: Obtenga información acerca de cómo funciona la sincronización de
 title: 'Sincronización de SFDC: sincronización de posibles clientes'
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ La sincronización de posible cliente (persona) y contacto es bidireccional. Si 
 
 ## ¿Qué sucede si se realizan cambios en ambos sistemas al mismo tiempo? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Marketo gana. Es raro que ocurra este tipo de colisión de datos.
+Marketo gana. Es poco frecuente que se produzca este tipo de colisión de datos.
 
 ## ¿Puedo crear un posible cliente en [!DNL Salesforce] mediante Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 

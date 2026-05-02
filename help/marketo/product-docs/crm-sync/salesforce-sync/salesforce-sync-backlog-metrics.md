@@ -3,9 +3,9 @@ description: Obtenga información acerca de las métricas de registro de pendien
 title: Métricas de registro de asuntos pendientes de Salesforce
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1157'
 ht-degree: 1%
 
 ---
@@ -92,15 +92,15 @@ Cuando se realiza una gran cantidad de actualizaciones (como cuando cambia un va
 
 **Campos visibles para el usuario de sincronización**: Asegúrese de que los campos visibles para sincronizar sean solo los que necesitan sincronizarse y tengan valor para los esfuerzos de marketing. Cualquier actualización de un registro en Salesforce que actualice la última marca de tiempo modificada colocará un registro en la cola del registro de sincronización pendiente, y la sincronización de campos innecesarios puede ralentizar los campos más importantes que se están sincronizando. Si se ocultan los campos innecesarios al usuario de sincronización, las actualizaciones de esos campos resultarán en una omisión mucho más rápida que una actualización. Trabaje con su administrador de Salesforce para revisar las prácticas recomendadas [aquí](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} y actualizar qué campos son visibles para el usuario de sincronización de Marketo.
 
-**Ocultar o filtrar registros innecesarios**: si un registro no se puede comercializar, es posible que esté desperdiciando recursos de sincronización. Si el usuario de sincronización no puede verlo, no desperdiciará recursos al intentar sincronizarlo. [El soporte técnico de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} puede ayudar a configurar un filtro de sincronización para impedir que los registros se sincronicen según criterios adicionales. Encontrará más información sobre la configuración de un filtro de sincronización personalizado [&#x200B; aquí](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Se recomienda encarecidamente utilizar campos de índice dentro de Salesforce (póngase en contacto con salesforce para obtener más información).
+**Ocultar o filtrar registros innecesarios**: si un registro no se puede comercializar, es posible que esté desperdiciando recursos de sincronización. Si el usuario de sincronización no puede verlo, no desperdiciará recursos al intentar sincronizarlo. [El soporte técnico de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} puede ayudar a configurar un filtro de sincronización para impedir que los registros se sincronicen según criterios adicionales. Encontrará más información sobre la configuración de un filtro de sincronización personalizado [ aquí](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Se recomienda encarecidamente utilizar campos de índice dentro de Salesforce (póngase en contacto con salesforce para obtener más información).
 
 **Programar actualizaciones masivas durante horas no críticas**: revise los patrones de sincronización de datos para identificar períodos no críticos. Revise si se pueden programar actualizaciones masivas en estos períodos no críticos, si es posible.
 
 **Campos actualizados con frecuencia**: Algunos campos son propensos a actualizaciones frecuentes. Por ejemplo, los campos de moneda que están sujetos a cambios de moneda. Revise si es necesario sincronizarlos o si los campos deben diseñarse de forma diferente. Si tiene otros campos que se actualizan con frecuencia y no son necesarios, ocúltelos del usuario de sincronización. Asegúrese de hablar con los administradores de SFDC sobre las integraciones que pueden estar actualizando campos.
 
-**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
+**Objetos personalizados**: revise periódicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar y deshabilitar los que ya no necesitan sincronizarse.
 
-**Actividades**: [Revise si alguna actividad](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización y si se puede quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
+**Actividades**: [Revise si alguna actividad](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitó la sincronización y si se puede quitar de la sincronización.  Estas actividades solo se sincronizan una vez al día por posible cliente.
 
 **Revisar errores de sincronización**: La administración de excepciones puede ralentizar la sincronización. Revisar las notificaciones de los usuarios y resolver los errores puede mejorar el estado de la sincronización.
 

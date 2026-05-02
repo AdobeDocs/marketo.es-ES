@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo previsualizar una notificación pu
 title: Previsualizar una notificación push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ O bien, en la página de vista de notificaciones push, haga clic en **[!UICONTRO
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Por último, en el editor, puedes hacer clic en la pestaña **[!UICONTROL Vista previa del borrador]** en la esquina superior derecha mientras trabajas en la notificación.
+Finalmente, en el editor, puede hacer clic en la ficha **[!UICONTROL Vista previa del borrador]** en la esquina superior derecha mientras trabaja en la notificación.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -59,7 +59,7 @@ En la pantalla Bloquear, se muestra parcialmente hacia abajo.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-En la pantalla del Centro de notificaciones, está cerca de la parte superior,
+En la pantalla del Centro de notificaciones, se encuentra cerca de la parte superior,
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 

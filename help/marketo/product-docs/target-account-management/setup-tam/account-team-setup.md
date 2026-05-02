@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar equipos de cuenta y asi
 title: Ajustes del equipo de cuentas
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '199'
 ht-degree: 5%
 
 ---

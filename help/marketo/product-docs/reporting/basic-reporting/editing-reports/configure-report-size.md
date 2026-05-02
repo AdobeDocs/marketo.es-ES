@@ -4,9 +4,9 @@ description: Aprenda a configurar el tamaño del informe cambiando el límite m�
 title: Configurar el tamaño del informe
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---

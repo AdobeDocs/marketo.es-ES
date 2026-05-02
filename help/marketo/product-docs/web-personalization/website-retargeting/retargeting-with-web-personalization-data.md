@@ -4,9 +4,9 @@ description: Obtenga información acerca del retargeting con datos de personaliz
 title: Resegmentación con datos de personalización web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '416'
 ht-degree: 3%
 
 ---
@@ -86,7 +86,7 @@ Una audiencia segmentada le permite seleccionar un segmento existente como una a
 
 >[!TIP]
 >
->No es necesario crear una audiencia segmentada para el sector ni para otros datos que ya se hayan enviado en la configuración del dominio. Se recomienda utilizar Audiencias segmentadas para segmentos basados en datos de personas conocidas.
+>No es necesario crear una audiencia segmentada para el sector ni para otros datos que ya se hayan enviado en la configuración del dominio. Es mejor utilizar Audiencias segmentadas para segmentos basados en datos de personas conocidas.
 
 1. Haga clic en **[!UICONTROL Crear audiencia segmentada]**.
 

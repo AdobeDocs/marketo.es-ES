@@ -4,9 +4,9 @@ description: Aprenda a crear texto y estilos de mensajes en la aplicación. Edit
 title: Crear un texto de mensaje en la aplicación
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '393'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ Haga clic en el área de texto para trabajar en el estilo y el contenido del tex
 
    Los cambios que realice en los tokens utilizados en un programa de mensajes en la aplicación aprobado no tendrán efecto en el mensaje en la aplicación hasta que el programa se ponga en pausa y se reanude.
 
-Eres de oro. A continuación, debe [configurar el botón de mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Eres dorado. A continuación, debe [configurar el botón de mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

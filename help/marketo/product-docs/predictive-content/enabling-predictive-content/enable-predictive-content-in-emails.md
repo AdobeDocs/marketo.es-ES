@@ -4,9 +4,9 @@ description: Aprenda a hacer que las imágenes de correo electrónico sean predi
 title: Habilitar el contenido predictivo en correos electrónicos
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
 
 >[!NOTE]
 >
->Se recomienda habilitar más de cinco fragmentos de contenido por categoría y por fuente (correo electrónico, medios enriquecidos, barra) antes de probar y utilizar el contenido predictivo. Más contenido le ofrece un mejor resultado predictivo.
+>se recomienda habilitar más de cinco fragmentos de contenido por categoría y por origen (correo electrónico, medios enriquecidos, barra) antes de probar y utilizar el contenido predictivo. Más contenido le ofrece un mejor resultado predictivo.
 
 >[!PREREQUISITES]
 >
@@ -69,7 +69,7 @@ Cree una o más imágenes en el correo electrónico predictivas y adapte la expe
    >
    >La imagen no se selecciona **_hasta que el destinatario abra el correo electrónico_**. Por lo tanto, lo que se ve en la vista previa es solo un ejemplo y no es necesariamente la imagen que ve el destinatario.
 
-1. Una vez que hayas terminado de obtener una vista previa del correo electrónico, haz clic en la lista desplegable **[!UICONTROL Acciones de vista previa]** y selecciona **[!UICONTROL Aprobar y cerrar]**. O si todavía tiene que editar, haga clic en **[!UICONTROL Editar borrador]** a la derecha.
+1. Una vez que termine de obtener una vista previa del correo electrónico, haga clic en la lista desplegable **[!UICONTROL Acciones de vista previa]** y seleccione **[!UICONTROL Aprobar y cerrar]**. O si todavía tiene que editar, haga clic en **[!UICONTROL Editar borrador]** a la derecha.
 
    ![](assets/eight.png)
 

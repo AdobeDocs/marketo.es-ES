@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo crear un informe de rendimiento de
 title: Crear un informe de rendimiento del programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 13%
+source-wordcount: '136'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Vea excelentes estadísticas sobre sus programas con este informe.
 
 1. [Cree un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} y seleccione el **[!UICONTROL Rendimiento del programa]** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Haga clic en la ficha **[!UICONTROL Informe]**.
-1. ¡Ya está! Explore el informe para ver el rendimiento de los programas.
+1. ¡Estás ahí! Explore el informe para ver el rendimiento de los programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo instalar la solución de Marketo p
 title: 'Paso 1 de 3: Instalación de la solución de Marketo (local de 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 5%
+source-wordcount: '310'
+ht-degree: 6%
 
 ---
 

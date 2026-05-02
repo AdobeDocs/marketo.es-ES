@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo filtrar recursos en los informes d
 title: Filtrar recursos en informes por correo electrónico de campaña
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---
@@ -48,5 +48,5 @@ Enfoque su informe de [Rendimiento de correo electrónico de Campaign](/help/mar
 
    >[!MORELIKETHIS]
    >
-   >[Informe de rendimiento del correo electrónico de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Informe de rendimiento de correo electrónico de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[Filtrar Assets en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

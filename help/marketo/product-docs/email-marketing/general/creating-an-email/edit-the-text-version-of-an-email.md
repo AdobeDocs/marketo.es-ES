@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar la versión de texto de un 
 title: Editar la versión de texto de un correo electrónico
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '249'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Al crear un mensaje de correo electrónico, es posible que desee que su versión
 
    ![](assets/three-4.png)
 
-1. Realice las modificaciones que desee. Cuando haya terminado, simplemente cierre el editor o vuelva a la versión de HTML. Los cambios se guardarán automáticamente.
+1. Realice las modificaciones que desee. Una vez finalizado, simplemente cierre el editor o vuelva a la versión de HTML. Los cambios se guardarán automáticamente.
 
    ![](assets/four-4.png)
 

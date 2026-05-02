@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo configurar la disponibilidad del c
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 1%
+source-wordcount: '634'
+ht-degree: 3%
 
 ---
 
@@ -86,11 +86,11 @@ Establece tu zona horaria y disponibilidad de hora/día de la semana para recibi
 
 ![](assets/agent-settings-5.png)
 
-Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de la aplicación de un chat entrante. Si no has iniciado sesión, recibirás una notificación en el navegador (si has [configurado eso](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de la aplicación de un chat entrante. Si no iniciaste sesión, recibirás una notificación en el navegador (si has [configurado eso](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->* La opción de [disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que se ha introducido en la pestaña _Disponibilidad del chat en vivo_. Por lo tanto, si el agente está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no es necesario que modifique la configuración de su agente. El estado de cambio de disponibilidad permanecerá hasta que se cambie manualmente, hasta que se alcance el siguiente bloque de tiempo de disponibilidad del agente o hasta la medianoche del huso horario especificado por el agente (consulte la siguiente viñeta para obtener más información).
+>* La opción de [disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que se ha introducido en la pestaña _Disponibilidad del chat en vivo_. Por lo tanto, si el agente está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no es necesario que modifique la configuración de su agente. El estado de cambio de disponibilidad se mantendrá hasta que se cambie manualmente, hasta que se alcance el siguiente bloque de tiempo de disponibilidad del agente o hasta la medianoche del huso horario especificado por el agente (consulte la siguiente viñeta para obtener más información).
 >
 >* Cuando el agente utiliza el conmutador de disponibilidad para cambiar su estado a &quot;disponible&quot;, su estado se restablece automáticamente (cambia a no disponible) a medianoche del huso horario especificado en su programación de disponibilidad. Si no se especifica ninguna zona horaria, el valor predeterminado es UTC (hora universal coordinada).
 

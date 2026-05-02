@@ -2,10 +2,10 @@
 description: Obtenga información sobre cómo actualizar el campo Tipo de actividad al registrar actividades en Salesforce. Agregue un tipo Respuesta a la lista desplegable Tipo de tarea en la configuración de Salesforce.
 title: Actualizar el campo Tipo de actividad al registrar actividades en Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 6%
+source-wordcount: '435'
+ht-degree: 5%
 
 ---
 
@@ -28,7 +28,7 @@ Las acciones pueden sincronizar automáticamente el correo electrónico y las ac
 
 En primer lugar, compruebe que dispone de los valores correctos de la lista de selección. Necesitará la ayuda de su administrador de Salesforce para realizar cambios en la lista de selección.
 
-Primero compruebe qué valores le faltan en la lista de selección de tipo de tarea (sin correo electrónico, llamada y respuesta). Es posible que necesite la ayuda de su administrador de Salesforce para revisar esto y realizar cambios en la lista de selección del tipo de actividad. Para realizar estos cambios, el administrador de Salesforce puede seguir los pasos a continuación.
+Primero compruebe qué valores le faltan en la lista de selección de tipo de tarea (fuera de correo electrónico, llamada y respuesta). Es posible que necesite la ayuda de su administrador de Salesforce para revisar esto y realizar cambios en la lista de selección del tipo de actividad. Para realizar estos cambios, el administrador de Salesforce puede seguir los pasos a continuación.
 
 ### En Salesforce Lightning {#salesforce-lightning}
 

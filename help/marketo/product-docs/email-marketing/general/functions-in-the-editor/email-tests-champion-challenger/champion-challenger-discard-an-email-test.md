@@ -4,10 +4,10 @@ description: Aprenda a descartar una prueba de correo electrónico de campeón/a
 title: 'Campeón/Challenger: descartar una prueba de correo electrónico'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 

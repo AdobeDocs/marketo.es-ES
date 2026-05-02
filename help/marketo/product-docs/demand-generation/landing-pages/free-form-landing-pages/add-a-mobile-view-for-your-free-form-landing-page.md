@@ -4,10 +4,10 @@ description: Aprenda a añadir una vista móvil para la página de aterrizaje de
 title: Añadir una vista móvil para la página de destino de forma libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 18%
+source-wordcount: '150'
+ht-degree: 19%
 
 ---
 

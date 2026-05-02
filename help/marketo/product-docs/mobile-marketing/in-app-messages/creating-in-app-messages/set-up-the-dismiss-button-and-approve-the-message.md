@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar el botón de despido y 
 title: Configuración del botón Descartar y aprobación del mensaje
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ El botón Descartar tiene muchas opciones para permitirle configurarlo como dese
 
 ## Ajustar al final {#wrap-it-up}
 
-Todas las selecciones para los gráficos, el texto y los botones se han guardado automáticamente. Ahora, estás listo para terminar el trabajo.
+Todas las selecciones para los gráficos, el texto y los botones se han guardado automáticamente. Ahora, está listo para terminar el trabajo.
 
 1. Para obtener una vista previa del mensaje en la aplicación, haga clic en la lista desplegable **[!UICONTROL Acciones de mensaje]** y seleccione **[!UICONTROL Vista previa]**.
 

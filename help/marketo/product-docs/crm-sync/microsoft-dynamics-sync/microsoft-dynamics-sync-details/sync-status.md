@@ -4,9 +4,9 @@ description: Obtenga información sobre el estado de sincronización de Microsof
 title: Estado de sincronización
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '185'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ Puede controlar el rendimiento actual y el registro de pendientes del proceso de
 
    >[!NOTE]
    >
-   >Si miras la vista [!UICONTROL Última hora], las columnas [!UICONTROL Inserciones] y [!UICONTROL Actualizaciones] muestran N/D. Este es el comportamiento esperado.
+   >Si observa la vista [!UICONTROL Última hora], las columnas [!UICONTROL Inserciones] y [!UICONTROL Actualizaciones] muestran N/D. Este es el comportamiento esperado.
 
 ## Ficha [!UICONTROL Errores de sincronización] {#sync-errors-tab}
 

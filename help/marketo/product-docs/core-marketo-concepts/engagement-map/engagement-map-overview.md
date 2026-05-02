@@ -2,9 +2,9 @@
 description: Obtenga información acerca del mapa de participación para visualizar sus campañas inteligentes. Utilícelo para ver déclencheur, filtros y pasos de flujo de forma intuitiva en Marketo.
 title: Información general del mapa de participación
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ No. El mapa de participación es totalmente compatible con versiones anteriores.
 
 **¿Tener un mapa de participación en Marketo Engage significa que perderé acceso a la estructura de carpetas y tendré que volver a aprender a crear una campaña inteligente?**
 
-No. Lo bueno del Mapa de participación es que te ofrece lo mejor de ambos mundos; es complementario a la forma actual de crear campañas. Todos los usuarios seguirán teniendo el potente conjunto de funciones de Marketo Engage, ahora complementado por imágenes claras.
+No. El Mapa de participación le ofrece lo mejor de ambos mundos; es complementario a la forma actual de crear campañas. Todos los usuarios seguirán teniendo el potente conjunto de funciones de Marketo Engage, ahora complementado por imágenes claras.
 
 **¿Es el mapa de participación un complemento de pago?**
 
@@ -85,7 +85,7 @@ No. Todos los usuarios de Marketo Engage nuevos y existentes con todas las suscr
 
 **Como administrador de Marketo Engage, ¿soy responsable de activar o desactivar el Mapa de participación?**
 
-No. El mapa de participación estará disponible para todos los usuarios en sus instancias. No podrá activarlo/desactivarlo para determinados usuarios, espacios de trabajo, etc.
+No. El mapa de participación estará disponible para todos los usuarios en sus instancias. No podrá activarlo ni desactivarlo para determinados usuarios, espacios de trabajo, etc.
 
 **¿En qué se diferencia esto de otros generadores visuales?**
 
@@ -93,7 +93,7 @@ Hay tres cosas clave que diferencian el Mapa de participación:
 
 * Flexibilidad: administre y valide fácilmente campañas interconectadas o profundamente anidadas con la visualización.
 
-* Funcionalidad: Todas las imágenes están listas para usarse, lo que facilita su uso; la estructura anidada le permite sumergirse y obtener toda la imagen.
+* Funcionalidad: Todas las imágenes están listas para usarse, lo que facilita su uso; la estructura anidada le permite explorar en profundidad y ver la imagen completa.
 
 * Potencia: conserva toda la sofisticación existente de Marketo Engage, ahora en formato visual.
 

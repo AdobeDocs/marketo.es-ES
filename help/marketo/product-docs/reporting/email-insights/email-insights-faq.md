@@ -4,9 +4,9 @@ description: Encuentre respuestas a las preguntas más frecuentes acerca de las 
 title: Preguntas frecuentes sobre perspectivas de correo electrónico
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '636'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Sí y No. Con la publicación inicial de [!UICONTROL Email Insights], todos los 
 
 ## ¿Por qué muchas métricas muestran cero cuando filtro por tipo de dispositivo o sistema operativo del dispositivo? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
-Con la excepción de Clic para abrir tasa, Aperturas, Clics y Cancelaciones de suscripción, todas las demás métricas admitidas son eventos de entrega o proporciones derivadas de eventos de entrega. Dado que Tipo de dispositivo y Sistema operativo del dispositivo solo se aplican a las métricas de participación, simplemente no tenemos la información que mostrar. Por ejemplo, si se filtra por Tipo de dispositivo = móvil, se trata de una consulta sin definir para solicitar la Tasa de entrega, ya que Marketo no habría recibido ninguna métrica de participación para los eventos de entrega y envío subyacentes. Estamos explorando maneras de aplicar el tipo de dispositivo y el sistema operativo del dispositivo desde las métricas de participación para relaciones compuestas por métricas de participación y entrega.
+Con la excepción de Clic para abrir tasa, Aperturas, Clics y Cancelaciones de suscripción, todas las demás métricas admitidas son eventos de entrega o proporciones derivadas de eventos de entrega. Dado que Tipo de dispositivo y Sistema operativo del dispositivo solo se aplican a las métricas de participación, simplemente no tenemos la información que mostrar. Por ejemplo, si se filtra por Tipo de dispositivo = móvil, es una consulta sin definir que se pida la Tasa de entrega, ya que Marketo no habría recibido ninguna métrica de participación para los eventos de entrega y envío subyacentes. Estamos explorando maneras de aplicar el tipo de dispositivo y el sistema operativo del dispositivo desde las métricas de participación para relaciones compuestas por métricas de participación y entrega.
 
 ## ¿Qué hace [!UICONTROL Email Insights] cuando ciertos clientes de correo electrónico bloquean imágenes? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 

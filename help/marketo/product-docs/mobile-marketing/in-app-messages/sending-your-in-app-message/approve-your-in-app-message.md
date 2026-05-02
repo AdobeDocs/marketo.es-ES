@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo aprobar el mensaje en la aplicaci�
 title: Aprobar el mensaje en la aplicación
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
 
    >[!NOTE]
    >
-   >Si alguna parte del proceso de envío está incompleta, por ejemplo, si el mensaje en la aplicación no está aprobado, aparece un mensaje de advertencia que indica qué área necesita su atención. Soluciónelo y debería ver el mensaje en el paso 2.
+   >Si alguna parte del proceso de envío está incompleta, por ejemplo, el mensaje en la aplicación no está aprobado, aparece un mensaje de advertencia que indica qué área necesita su atención. Soluciónelo y debería ver el mensaje en el paso 2.
 
 1. Haga clic en **[!UICONTROL Aprobar e iniciar]**.
 
@@ -63,7 +63,7 @@ Debe aprobar el envío antes de que se emita el mensaje en la aplicación.
 
    >[!NOTE]
    >
-   >Cuando detiene un programa, ya no se ejecuta y no se puede reanudar. Si desea volver a ejecutarlo, tendrá que volver a crearlo. ¡Así que asegúrate de haber terminado un programa antes de hacer clic en **[!UICONTROL Detener programa]**!
+   >Cuando detiene un programa, ya no se ejecuta y no se puede reanudar. Si desea volver a ejecutarlo, tendrá que volver a crearlo. Por lo tanto, ¡asegúrese de haber terminado un programa antes de hacer clic en **[!UICONTROL Detener programa]**!
 
 ## Panel en la aplicación {#in-app-dashboard}
 

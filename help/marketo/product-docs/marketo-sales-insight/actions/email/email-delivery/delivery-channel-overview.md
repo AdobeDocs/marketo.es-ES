@@ -3,9 +3,9 @@ description: Obtenga información acerca de los canales de entrega para enviar c
 title: Información general sobre el canal de entrega
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ El uso de Gmail o [!DNL Exchange] presenta algunas ventajas distintas con respec
 * Los métodos de autenticación como SPF y DKIM ya están configurados y administrados por su equipo de TI, por lo que no hay ninguna configuración adicional.
 * El envío de correos electrónicos dentro de una red de correo electrónico determinada (por ejemplo, el envío de un correo electrónico como usuario de [!DNL Exchange] a una compañía que recibe correos electrónicos a través de [!DNL Exchange]) puede ayudar a aumentar aún más la capacidad de envío.
 
-Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío, que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Obtenga más información acerca de la limitación de [correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Obtenga más información acerca de la limitación de [correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >

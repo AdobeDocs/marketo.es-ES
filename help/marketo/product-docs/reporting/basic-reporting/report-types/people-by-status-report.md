@@ -4,16 +4,16 @@ description: Obtenga información acerca de los informes Personas por estado que
 title: Informe de personas por estado
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 6%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
 # Informe de personas por estado {#people-by-status-report}
 
-Revise lo bien que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen en cada valor de _[!UICONTROL Estado de la persona]_ cada mes.
+Revise la eficacia con la que mueve personas a través del proceso comprobando cuántas de ellas aparecen en cada valor de _[!UICONTROL Estado de la persona]_ cada mes.
 
 1. [Crea un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y selecciona **[!UICONTROL Personas por estado]** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 

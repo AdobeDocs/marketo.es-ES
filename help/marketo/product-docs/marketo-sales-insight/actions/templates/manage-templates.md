@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo administrar las plantillas de corr
 title: Administrar plantillas
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/manage-templates-3.png)
 
-1. En el editor de plantillas, cree una línea de asunto para el correo electrónico y escriba el mensaje deseado. Utilice las herramientas de edición (fuente, tamaño del texto, etc.) para personalizar el aspecto. Haga clic en **[!UICONTROL Guardar]** para finalizar los cambios.
+1. En el editor de plantillas, cree una línea de asunto para el correo electrónico y escriba el mensaje deseado. Utilice las herramientas de edición (fuente, tamaño de texto, etc.) para personalizar el aspecto. Haga clic en **[!UICONTROL Guardar]** para finalizar los cambios.
 
    ![](assets/manage-templates-4.png)
 

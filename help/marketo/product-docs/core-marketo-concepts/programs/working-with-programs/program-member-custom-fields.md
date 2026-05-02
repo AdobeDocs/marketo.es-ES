@@ -4,10 +4,10 @@ description: Obtenga información sobre los campos personalizados de miembros de
 title: Campos personalizados del miembro del programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 4%
+source-wordcount: '436'
+ht-degree: 5%
 
 ---
 

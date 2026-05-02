@@ -3,9 +3,9 @@ description: Obtenga información sobre la gestión de cancelación de suscripci
 title: Información general de cancelación de suscripción
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ Utilice la barra de búsqueda para buscar cualquier persona que no esté suscrit
 
 ![](assets/unsubscribe-overview-3.png)
 
-Si eres administrador, puedes ir al grupo de cancelación de suscripción para filtrar por [!UICONTROL Cancelaciones de suscripción de cuenta] y ver todas las cancelaciones de suscripción que se han recopilado en tu base de datos de personas.
+Si es administrador, puede ir al grupo Cancelar suscripción para filtrar por [!UICONTROL Cancelaciones de suscripción de cuenta] y ver todas las cancelaciones de suscripción que se han recopilado en su base de datos de personas.
 
 ![](assets/unsubscribe-overview-4.png)
 

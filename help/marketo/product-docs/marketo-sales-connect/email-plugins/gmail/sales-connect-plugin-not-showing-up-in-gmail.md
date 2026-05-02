@@ -4,10 +4,10 @@ description: Obtén ayuda cuando el complemento de conexión de ventas no aparez
 title: El complemento de Sales Connect no aparece en Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 
@@ -17,13 +17,13 @@ Según nuestra experiencia, aquí hay algunas cosas que debe probar si la barra 
 
 - Compruebe que la extensión de se ha descargado correctamente. Si está en [!DNL Chrome], tire de la lista de extensiones. ¿Se encuentra [!DNL Sales Connect] (Tout)?
 
-- ¿Cuál es tu configuración de idioma en Gmail? Si es algo distinto al inglés, intente cambiarlo al inglés.
+- ¿Cuál es tu configuración de idioma en Gmail? Si es algo distinto del inglés, intente cambiarlo a inglés.
 
 - Esto puede ser obvio, pero intente salir del explorador y abrir una ventana completamente nueva.
 
 - Vaya a la [aplicación web](https://toutapp.com/login) y asegúrese de haber iniciado sesión allí.
 
-- Asegúrese de que las cookies estén habilitadas. Si usas [!DNL Chrome], ve a [!UICONTROL Configuración] > [!UICONTROL Mostrar configuración avanzada] > [!UICONTROL Configuración del contenido] > Desmarca &quot;[!UICONTROL Bloquear cookies de terceros y datos del sitio]&quot;.
+- Asegúrese de que las cookies estén habilitadas. Si usa [!DNL Chrome], vaya a [!UICONTROL Configuración] > [!UICONTROL Mostrar configuración avanzada] > [!UICONTROL Configuración del contenido] > Desmarque &quot;[!UICONTROL Bloquear cookies de terceros y datos del sitio]&quot;.
 
 - Intente desconectarse y volver a conectar la extensión del explorador [!DNL Sales Connect].
 

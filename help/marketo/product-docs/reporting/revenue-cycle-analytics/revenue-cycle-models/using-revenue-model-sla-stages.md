@@ -4,9 +4,9 @@ description: Aprenda a utilizar las fases de SLA del modelo de ingresos en Marke
 title: Uso de fases de SLA del modelo de ingresos
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ SLA significa &quot;service level agreement&quot;. Estas fases se utilizan cuand
 
 >[!TIP]
 >
->Es una buena idea crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo con sus colegas.
+>es una buena idea crear un modelo de práctica en un programa gráfico o de presentación y confirmarlo con sus colegas.
 
 ## Añadir Una Fase De SLA {#add-an-sla-stage}
 

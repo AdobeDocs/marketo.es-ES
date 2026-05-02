@@ -2,10 +2,10 @@
 description: Obtenga información sobre cómo conectar Outlook a las acciones de Sales Insight. Envíe y rastree correos electrónicos de ventas desde Outlook con la integración de acciones.
 title: Conectarse a Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 4%
+source-wordcount: '577'
+ht-degree: 3%
 
 ---
 
@@ -66,7 +66,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/connect-to-outlook-7.png)
 
-1. Si no ha iniciado sesión en Outlook, escriba su información de inicio de sesión y haga clic en **Siguiente**. Si lo estás, elige la cuenta a la que deseas conectarte y haz clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no inició sesión en Outlook, escriba su información de inicio de sesión y haga clic en **Siguiente**. Si lo estás, elige la cuenta a la que deseas conectarte y haz clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/connect-to-outlook-8.png)
 

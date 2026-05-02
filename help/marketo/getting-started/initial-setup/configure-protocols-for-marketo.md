@@ -4,10 +4,10 @@ description: 'Configuración de protocolos para Marketo Engage: documentos de Ma
 title: Configurar protocolos de Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2129'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ Añada el CNAME de la página de aterrizaje que le enviaron a su registro DNS pa
 
 `2` **Añada CNAME para los vínculos de seguimiento de correo electrónico**
 
-Añada el correo electrónico que le envió el marketing CNAME, de modo que `[YourEmailCNAME]` dirija a [MktoTrackingLink], el vínculo de seguimiento predeterminado que Marketo Engage asignó, con el formato:
+Agregue el correo electrónico que le envió el marketing CNAME, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado que Marketo Engage asignó, con el formato:
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 Por ejemplo:
@@ -94,9 +94,9 @@ Su equipo de marketing también debería haberle enviado información sobre el m
 include: mktomail.com ~all
 
    Si ya tiene un registro SPF existente en la entrada de DNS, simplemente añada lo siguiente:
-include: mktomail.com
+incluir: mktomail.com
 
-   Sustituya CompanyDomain por el dominio principal de su sitio web (por ej.: “`(company.com/)`”) y CorpIP por la dirección IP de su servidor de correo electrónico corporativo (por ej.: “255.255.255.255”). Si va a enviar correos electrónicos desde varios dominios a través de Marketo Engage, debe pedir al personal informático que añada esta línea a cada dominio (en una línea).
+   Sustituya CompanyDomain por el dominio principal de su sitio web (por ej.: “`(company.com/)`”) y CorpIP por la dirección IP de su servidor de correo electrónico corporativo (por ej.: &quot;255.255.255.255&quot;). Si va a enviar correos electrónicos desde varios dominios a través de Marketo Engage, debe pedir al personal informático que añada esta línea a cada dominio (en una línea).
 
 1. Para DKIM, cree Registros de recursos DNS para cada dominio que desee configurar. A continuación se muestran los registros de host y los valores TXT de cada dominio que firmaremos:
 
@@ -117,11 +117,11 @@ Para que DMARC funcione, debe tener al menos uno de los siguientes registros TXT
 
 Además, debe tener un registro TXT DNS específico de DMARC para su FROM: Domain. De forma opcional, se puede definir una dirección de correo electrónico de su elección para indicar a dónde deben ir los informes de DMARC dentro de su organización, de modo que pueda monitorizar los informes.
 
-Como práctica recomendada, se recomienda desplegar lentamente la implementación de DMARC escalando la directiva de DMARC de p=none, a p=quarantine, a p=reject para comprender el impacto potencial de DMARC y establecer la directiva de DMARC en una alineación relajada en SPF y DKIM.
+Como práctica recomendada, se recomienda implementar lentamente la implementación de DMARC escalando la política de DMARC de p=none, p=quarantine, p=reject a medida que comprenda el impacto potencial de DMARC y establezca la política de DMARC para una alineación relajada en SPF y DKIM.
 
 ### Flujo de trabajo de ejemplo de DMARC {#dmarc-example-workflow}
 
-1. Si está configurado para recibir informes DMARC, debe hacer lo siguiente...
+1. Si está configurado para recibir informes de DMARC, debe hacer lo siguiente...
 
    I. Analice los comentarios y los informes que recibe y utiliza (p=ninguno), lo que indica al destinatario que no realice ninguna acción contra los mensajes que no se autentican correctamente, pero que envíe informes por correo electrónico al remitente.
 
@@ -135,11 +135,11 @@ Como práctica recomendada, se recomienda desplegar lentamente la implementació
 
    I. Revise los informes para asegurarse de que los resultados sean los esperados.
 
-1. Si está satisfecho con el comportamiento de los mensajes en el nivel p=cuarentena, puede ajustar la directiva a (p=rechazar). La directiva p=rechazar indica al destinatario que deniegue (rechace) completamente cualquier correo electrónico del dominio que falle en la autenticación. Con esta directiva habilitada, solo el correo electrónico verificado como 100 % autenticado por el dominio tendrá la oportunidad de ser ubicado en la bandeja de entrada.
+1. Si está satisfecho con el comportamiento de los mensajes en el nivel p=quarantine, puede ajustar la directiva a (p=reject). La directiva p=rechazar indica al destinatario que deniegue (rechace) completamente cualquier correo electrónico del dominio que falle en la autenticación. Con esta directiva habilitada, solo el correo electrónico verificado como 100 % autenticado por el dominio tendrá la oportunidad de ser ubicado en la bandeja de entrada.
 
 >[!CAUTION]
 >
->Utilice este directiva con precaución y determine si es adecuada para su organización.
+>Utilice esta directiva con precaución y determine si es apropiada para su organización.
 
 ### Sistema de informes DMARC {#dmarc-reporting}
 
@@ -147,7 +147,7 @@ DMARC ofrece la posibilidad de recibir informes sobre correos electrónicos en l
 
 * Informes agregados (RUA): no contienen información de identificación personal (PII) que pueda ser sensible al Reglamento general de protección de datos (RGPD).
 
-* Informes forenses (FRU): contienen direcciones de correo electrónico que son confidenciales según el RGPD. Antes de utilizar, es mejor comprobar internamente cómo tratar la información que debe cumplir con el RGPD.
+* Informes forenses (FRU): contienen direcciones de correo electrónico que son confidenciales según el RGPD. Antes de utilizar, es mejor comprobar internamente cómo tratar la información que necesita cumplir con el RGPD.
 
 El principal uso de estos informes es recibir información general de los correos electrónicos cuya identidad se ha intentando suplantar. Estos informes son muy técnicos y es mejor procesarlos a través de un herramienta de terceros.
 
@@ -192,8 +192,8 @@ Los registros de DMARC tienen varios componentes llamados etiquetas DMARC. Cada 
     <td>Permite al propietario del dominio especificar las opciones del sistema de informes.</td>
     <td>0: Generar informe si falla todo
     <br>1: Generar informe si algo falla
-    <br>d: Generar informe si falla DKIM
-    <br>s: Generar informe si falla el SPF</td>
+    <br>d: generar informe si falla DKIM
+    <br>s: generar informe si falla el SPF</td>
     <td>1 (recomendado para informes de DMARC)</td>
   </tr>
   <tr>
@@ -249,7 +249,7 @@ Existen dos tipos de alineación para DMARC: alineación DKIM y alineación SPF.
 
 >[!NOTE]
 >
->Se recomienda hacer la alineación de DMARC en DKIM frente a SPF para Marketo Engage.
+>se recomienda realizar la alineación de DMARC en DKIM frente a SPF para Marketo Engage.
 
 * DMARC alineado con DKIM: para configurar DMARC alineado con DKIM, debe:
 
@@ -264,19 +264,19 @@ Existen dos tipos de alineación para DMARC: alineación DKIM y alineación SPF.
 
    * Configurar DMARC para el dominio de ruta de retorno de marca
 
-* Si envía un correo electrónico desde Marketo Engage a través de una IP dedicada y aún no ha implementado una ruta de retorno de marca (o no está seguro de si lo ha hecho), abra una solicitud de asistencia con el [Soporte técnico de Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Si está enviando correo desde Marketo Engage a través de una IP dedicada y aún no ha implementado una ruta de retorno de marca, o no está seguro de haberlo hecho, abra un ticket con [Soporte técnico de Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Si envía un correo electrónico desde Marketo Engage a través de un grupo compartido de IP, puede ver si cumple los requisitos para obtener IP de confianza [solicitándolo aquí](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es){target="_blank"}. La ruta de retorno de marca se ofrece de forma gratuita a quienes realizan los envíos desde direcciones IP de confianza de Marketo Engage. Si ha recibido la aprobación para este programa, póngase en contacto con el soporte técnico de Adobe para configurar la ruta de retorno de marca.
+* Si está enviando correo desde Marketo Engage a través de un grupo compartido de IP, puede ver si cumple los requisitos para obtener IP de confianza al [solicitar aquí](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es){target="_blank"}. La ruta de retorno de marca se ofrece de forma gratuita a quienes realizan los envíos desde direcciones IP de confianza de Marketo Engage. Si ha recibido la aprobación para este programa, póngase en contacto con el soporte técnico de Adobe para configurar la ruta de retorno de marca.
 
    * IP de confianza: un grupo compartido de IP reservadas para usuarios con un volumen de envíos inferior a 75 000 por mes y que no cumplen los requisitos para obtener una IP dedicada. Estos usuarios también deben cumplir los requisitos de prácticas recomendadas.
 
-* Si envía un correo electrónico desde Marketo Engage a través de direcciones IP compartidas pero no cumple los requisitos para obtener direcciones IP de confianza y envía más de 100 000 mensajes al mes, deberá ponerse en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para comprar una dirección IP dedicada.
+* Si envía correo desde Marketo Engage a través de direcciones IP compartidas y no cumple los requisitos para obtener direcciones IP fiables y envía más de 100 000 mensajes al mes, deberá ponerse en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para adquirir una dirección IP dedicada.
 
 * La alineación SPF estricta no es compatible ni recomendada en Marketo Engage.
 
 ## Paso 5: Configurar registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
 
-Un registro MX le permite recibir correo en el dominio desde el que envía correo para procesar respuestas y respondedores automáticos. Si realiza el envío desde su dominio corporativo, es probable que ya lo tenga configurado. Si no es así, puede configurarlo para que se asigne al registro MX de su dominio corporativo.
+Un registro MX le permite recibir correo en el dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si realiza envíos desde el dominio corporativo, es probable que ya lo tenga configurado. Si no es así, puede configurarlo para que se asigne al registro MX de su dominio corporativo.
 
 ## Direcciones IP de salida {#outbound-ip-addresses}
 
@@ -292,7 +292,7 @@ Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesfo
 
 **Bloques de direcciones IP salientes de Marketo Engage**
 
-Las siguientes tablas abarcan todos los servidores de Marketo Engage que realizan llamadas salientes. Consulte las listas siguientes si va a configurar alguna lista de IP permitidas, servidor, cortafuegos, lista de control de acceso, grupo de seguridad o servicio de terceros para recibir conexiones de salida desde Marketo Engage.
+Las siguientes tablas abarcan todos los servidores de Marketo Engage que realizan llamadas salientes. Utilice las siguientes listas si está configurando una lista de permitidos IP, un servidor de, un cortafuegos, una lista de control de acceso, un grupo de seguridad o un servicio de terceros para recibir conexiones salientes desde Marketo Engage.
 
 <table>
  <tbody>

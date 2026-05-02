@@ -4,16 +4,16 @@ description: Aprenda a añadir una prueba de correo electrónico de campeón/asp
 title: Añadir un campeón/aspirante de correo electrónico
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '219'
 ht-degree: 7%
 
 ---
 
 # Añadir un campeón/aspirante de correo electrónico {#add-an-email-champion-challenger}
 
-Es una buena idea probar cualquier correo electrónico que utilice con frecuencia para asegurarse de que funcione. Una forma es comparar la eficacia de un correo electrónico con otras versiones o rivales. En una prueba de campeón/aspirante, puede probar todo el correo electrónico, la línea de asunto o la dirección de origen.
+Es aconsejable probar los correos electrónicos que utilice con frecuencia para asegurarse de que funcionan. Una forma es comparar la eficacia de un correo electrónico con otras versiones o rivales. En una prueba de campeón/aspirante, puede probar todo el correo electrónico, la línea de asunto o la dirección de origen.
 
 El correo electrónico existente que está probando se considera el campeón. Cualquier variante que cree dentro de una prueba se considera la aspirante. Usted determina el porcentaje de personas que reciben el contenido de campeón o el contenido de aspirante. Si ha definido varios aspirantes, se distribuirán equitativamente entre el grupo de aspirantes.
 

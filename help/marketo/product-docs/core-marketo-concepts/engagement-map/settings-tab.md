@@ -2,9 +2,9 @@
 description: Obtenga información acerca de la pestaña Configuración para reglas de calificación, ejecuciones y periodicidad de campañas inteligentes. Establezca la frecuencia con la que las personas recorren el flujo de campaña.
 title: Pestaña Configuración
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -60,7 +60,7 @@ Todos los conjuntos de permisos existentes se aplicarán en la pestaña Configur
 
 >[!NOTE]
 >
->Si después de hacer clic en el icono de ayuda ve &quot;Se requiere permiso adicional&quot;, póngase en contacto con su administrador de Marketo.
+>Si después de hacer clic en el icono de ayuda ve &quot;Se requieren permisos adicionales&quot;, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
 
 ![](assets/settings-tab-5.png)
 

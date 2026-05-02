@@ -4,9 +4,9 @@ description: Aprenda a publicar páginas de aterrizaje de Marketo en Facebook. C
 title: Publicación de páginas de destino en Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---

@@ -2,9 +2,9 @@
 description: Obtenga información sobre las solicitudes de campo en las plantillas de correo electrónico. Agregue marcadores de posición que pidan al remitente que rellene contenido personalizado al enviar.
 title: Indicaciones de campo
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ Para agregar un indicador de campo, escriba el texto deseado. Delante de la imag
 
 >[!NOTE]
 >
->Cuando se utilizan avisos con campañas de ventas, es mejor usarlos con pasos manuales de correo electrónico. Estos pasos asignarán a un usuario una tarea de recordatorio para enviar el correo electrónico, lo que le ofrece la oportunidad de reemplazar las indicaciones por texto personalizado. Los pasos automáticos del correo electrónico en Campañas de ventas intentarán enviarse automáticamente, sin permitir que el usuario reemplace las indicaciones. Los mensajes que no se sustituyan provocarán que los mensajes de correo electrónico no se envíen.
+>Cuando se utilizan indicaciones con campañas de ventas, es mejor utilizarlas con pasos de correo electrónico manuales. Estos pasos asignarán a un usuario una tarea de recordatorio para enviar el correo electrónico, lo que le ofrece la oportunidad de reemplazar las indicaciones por texto personalizado. Los pasos automáticos del correo electrónico en Campañas de ventas intentarán enviarse automáticamente, sin permitir que el usuario reemplace las indicaciones. Los mensajes que no se sustituyan provocarán que los mensajes de correo electrónico no se envíen.

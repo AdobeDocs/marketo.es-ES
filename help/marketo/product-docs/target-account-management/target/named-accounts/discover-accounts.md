@@ -4,9 +4,9 @@ description: Aprenda a descubrir posibles cuentas de destinatario de sus empresa
 title: Cuentas de Discover
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -107,7 +107,7 @@ Identifique las empresas adecuadas para la segmentación.
 
 >[!NOTE]
 >
->Si ve una discrepancia entre las cuentas de CRM que ha seleccionado y lo que hay en la cuadrícula de Discover CRM, es probable que se deba a uno o más de los siguientes factores:
+>Si ve una discrepancia entre las cuentas de CRM que ha seleccionado y las que se encuentran en la cuadrícula de Discover CRM, es probable que se deba a uno o más de los siguientes factores:
 >
 >* Tener cuentas de CRM diferentes con nombres similares que se deduplicaron
 >* Aún no se ha producido la siguiente sincronización programada

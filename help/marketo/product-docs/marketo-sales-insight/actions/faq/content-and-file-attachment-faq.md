@@ -3,9 +3,9 @@ description: Obtenga respuestas a preguntas comunes sobre contenido y archivos a
 title: Preguntas frecuentes sobre contenido y archivos adjuntos
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Un **archivo adjunto** es similar a un archivo adjunto que usaría en su cliente de correo electrónico normal.
 
-**Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) del que desee que [!DNL Sales Insight Actions] realice un seguimiento.
+**Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) que desea que [!DNL Sales Insight Actions] le haga un seguimiento.
 
 Después de hacer clic en ese botón, puede elegir un archivo que ya se ha cargado o cargar un nuevo archivo para rastrearlo. A continuación, insertamos un vínculo en el correo electrónico o la plantilla que está utilizando.
 

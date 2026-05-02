@@ -4,7 +4,7 @@ description: Aprenda a utilizar acciones rápidas en Sales Connect para acelerar
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 8%
@@ -40,7 +40,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>
@@ -59,7 +59,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>
@@ -78,7 +78,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr>
   <tr>
    <td>[!UICONTROL Eliminar]</td>
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
+   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los mensajes de correo electrónico enviados como parte de una campaña no se pueden eliminar.</p></td>
   </tr>
  </tbody>
 </table>

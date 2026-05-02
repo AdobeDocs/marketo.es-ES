@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo definir valores en un campo de opc
 title: Definir valores en una radio o campo seleccionado en un formulario
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '203'
 ht-degree: 14%
 
 ---
@@ -29,7 +29,7 @@ Una vez que haya [establecido un tipo de campo](/help/marketo/product-docs/admin
 
    >[!NOTE]
    >
-   >El primer valor predeterminado es siempre &quot;[!UICONTROL Seleccionar...]&quot; No dude en editarlo. Si cambia el botón de opción predeterminado a otra fila, &quot;[!UICONTROL Seleccionar...]&quot; no aparecerá como una opción en el formulario.
+   >El primer valor predeterminado siempre es &quot;[!UICONTROL Select...]&quot; Siéntase libre de editar eso. Si cambia el botón de opción predeterminado a otra fila, &quot;[!UICONTROL Seleccionar...]&quot; no aparecerá como una opción en el formulario.
 
 1. Haga clic en para añadir su valor.
 

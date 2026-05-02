@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo administrar la biblioteca de respu
 title: Biblioteca de respuestas
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '385'
 ht-degree: 3%
 
 ---
@@ -85,7 +85,7 @@ A continuación encontrará instrucciones sobre cómo realizar ediciones masivas
 </tbody>
 </table>
 
-1. Cuando haya terminado de realizar las modificaciones en el archivo, vuelva a la pestaña **[!UICONTROL Biblioteca de respuestas]** y haga clic en **[!UICONTROL Cargar respuestas]**.
+1. Cuando haya terminado de realizar las ediciones en el archivo, vuelva a la pestaña **[!UICONTROL Biblioteca de respuestas]** y haga clic en **[!UICONTROL Cargar respuestas]**.
 
    ![](assets/response-library-9.png)
 
@@ -93,7 +93,7 @@ A continuación encontrará instrucciones sobre cómo realizar ediciones masivas
 
    ![](assets/response-library-10.png)
 
-1. Aparece la confirmación y ya está todo listo.
+1. Aparecerá la confirmación y ya estará todo listo.
 
    ![](assets/response-library-11.png)
 

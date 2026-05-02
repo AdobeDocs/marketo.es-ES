@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo enviar y rastrear un correo electr
 title: Enviar y rastrear un correo electrónico con el complemento de correo electrónico para  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---

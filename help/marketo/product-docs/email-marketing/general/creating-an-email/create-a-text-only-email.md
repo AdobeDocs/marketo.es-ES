@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo crear un correo electrónico de so
 title: Crear un correo electrónico de solo texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 9%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -57,7 +57,7 @@ Si alguna vez desea enviar correos electrónicos solo de texto, así es como cre
 
    >[!NOTE]
    >
-   >El contenido añadido a la sección HTML del correo electrónico se ignora cuando se envía.
+   >El contenido añadido a la sección HTML del correo electrónico se ignorará cuando se envíe.
 
 1. Haga doble clic en el área de texto.
 

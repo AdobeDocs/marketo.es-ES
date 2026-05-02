@@ -4,10 +4,10 @@ description: Obtenga información sobre el seguimiento de inicios por cuenta en 
 title: Iniciar el seguimiento por la cuenta en el modelador de ingresos
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '267'
+ht-degree: 5%
 
 ---
 
@@ -39,8 +39,8 @@ Con la Modeler de la etapa de ingresos y [!UICONTROL Explorador de ingresos], ob
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. En el cuadro de diálogo que aparece, seleccione **[!UICONTROL Yes]** y haga clic en la flecha que señala a la derecha en el centro. Esto filtrará solo las etapas con &quot;Seguimiento por cuenta&quot; habilitado. Haz clic en **[!UICONTROL Aceptar]** cuando hayas terminado.
+1. En el cuadro de diálogo que aparece, seleccione **[!UICONTROL Yes]** y haga clic en la flecha que señala a la derecha en el centro. Esto filtrará solo las etapas con &quot;Seguimiento por cuenta&quot; habilitado. Haga clic en **[!UICONTROL Aceptar]** cuando haya terminado.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
-1. El informe ahora debe mostrar solo las fases que está rastreando por cuenta. Asegúrese de guardar el informe para poder utilizarlo en el futuro. Ahora puede utilizarlo como otra medida del éxito de sus esfuerzos de marketing.
+1. El informe ahora debería mostrar solo las etapas que está rastreando por cuenta. Asegúrese de guardar el informe para poder utilizarlo en el futuro. Ahora puede utilizarlo como otra medida del éxito de sus esfuerzos de marketing.

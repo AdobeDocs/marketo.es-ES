@@ -4,9 +4,9 @@ description: Aprenda a añadir secciones editables a las plantillas de correo el
 title: Añadir secciones editables a plantillas de correo electrónico v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 14%
 
 ---

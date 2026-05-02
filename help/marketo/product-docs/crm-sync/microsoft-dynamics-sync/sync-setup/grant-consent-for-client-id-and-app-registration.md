@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo conceder consentimiento para el ID
 title: Conceder consentimiento para el ID de cliente y el registro de aplicaciones
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 5%
 
 ---
@@ -57,7 +57,7 @@ Siga los pasos a continuación para obtener información sobre cómo conceder el
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
-1. Inicie sesión como el usuario de sincronización para el que concede permisos.
+1. Inicie sesión como el usuario de sincronización para el que está concediendo permisos.
 
    ![](assets/grant-consent-for-client-id-app-registration-2.png)
 

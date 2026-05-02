@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo exportar una lista con direcciones
 title: Exportación de una lista con direcciones URL personalizadas
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '187'
 ht-degree: 6%
 
 ---

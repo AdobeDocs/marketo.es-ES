@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 2%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en [!UICONTROL Individuos] y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
+1. Dado que está añadiendo a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en [!UICONTROL Individuos] y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en [!UICONTROL Individuos] y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
+1. Dado que está añadiendo a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puedes elegir añadir más contactos. Si lo desea, haga clic en [!UICONTROL Individuos] y escríbalos. Haga clic en **[!UICONTROL Siguiente]** cuando haya terminado.
 
 PICC
 

@@ -4,9 +4,9 @@ description: Notas de la versión, primavera de 2016, documentación de Marketo,
 title: Notas de la versión, primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '819'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Perspectivas de correo electrónico es una nueva experiencia histórica de anál
 
 >[!NOTE]
 >
->A partir del 3 de junio, publicaremos por lotes las perspectivas de correo electrónico para los clientes. Nuestro objetivo es completar esto en los próximos meses. Le avisaremos por correo electrónico cuando esté activado.
+>A partir del 3 de junio, publicaremos por lotes las perspectivas de correo electrónico para los clientes. Nuestro objetivo es completar esto en los próximos meses. Le notificaremos por correo electrónico cuando esté habilitado.
 
 ![](assets/two.png)
 

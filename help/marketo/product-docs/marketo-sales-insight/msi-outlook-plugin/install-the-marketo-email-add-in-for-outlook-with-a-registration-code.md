@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo instalar el complemento de correo 
 title: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook]  con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 4%
+source-wordcount: '638'
+ht-degree: 3%
 
 ---
 

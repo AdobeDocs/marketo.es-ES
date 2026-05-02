@@ -3,16 +3,16 @@ description: Obtenga información sobre las integraciones de Adobe Experience Cl
 title: Información general sobre las integraciones de Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 85%
+source-wordcount: '188'
+ht-degree: 73%
 
 ---
 
 # Información general sobre las integraciones de Adobe Experience Cloud{#adobe-experience-cloud-integrations-overview}
 
-Adobe ofrece una sólida solución de marketing bajo demanda, empezando por la sincronización de públicos nativos en los productos de Adobe Experience Cloud. Aproveche los datos únicos centrados en B2B de Adobe Audience Manager, lo que le permite descubrir casos de uso de marketing bajo demanda y el potencial sin explotar de las aplicaciones existentes de Adobe.
+Adobe ofrece una sólida solución de marketing bajo demanda, empezando por la sincronización de públicos nativos en los productos de Adobe Experience Cloud. Aproveche los datos únicos centrados en B2B en Adobe Audience Manager, desbloqueando potentes casos de uso de marketing a petición y un potencial sin explotar para las aplicaciones de Adobe existentes.
 
 >[!NOTE]
 >
@@ -22,9 +22,9 @@ Adobe ofrece una sólida solución de marketing bajo demanda, empezando por la s
 
 **Integración de Marketo con Adobe Audience Manager**
 
-* [Sincronización de un público desde Adobe Experience Cloud](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
+* [Sincronizar una audiencia desde Adobe Experience Cloud](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
-* [Envío de una lista a Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
+* [Enviar una lista a Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
 Permite sincronizar listas estáticas de personas conocidas de Marketo Engage con varias aplicaciones de AEC, lo que mejora los programas existentes, posibilita nuevos casos de uso y coordina campañas multicanal. Esta integración incluye: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager y Adobe Advertising Cloud.
 

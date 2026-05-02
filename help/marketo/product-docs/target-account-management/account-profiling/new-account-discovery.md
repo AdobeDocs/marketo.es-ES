@@ -4,9 +4,9 @@ description: Aprenda a encontrar nuevas cuentas a las que dirigirse mediante rec
 title: Detección de nuevas cuentas
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ La detección de nuevas cuentas puede ayudarle a encontrar nuevas cuentas a las 
 
 >[!TIP]
 >
->Se recomienda presionar el botón **Actualizar cuentas existentes** antes de realizar una búsqueda de cuentas nuevas para asegurarse de que está viendo los datos más recientes. Esta actualización puede tardar hasta 24 horas.
+>se recomienda presionar el botón **Actualizar cuentas existentes** antes de realizar una nueva búsqueda de cuentas para asegurarse de que está viendo los datos más recientes. Esta actualización puede tardar hasta 24 horas.
 
 1. En Mi Marketo, haga clic en **[!UICONTROL Administración de cuentas de Target]**.
 

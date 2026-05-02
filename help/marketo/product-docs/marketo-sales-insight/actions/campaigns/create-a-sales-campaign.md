@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo crear una campaña de ventas con p
 title: Crear una campaña de ventas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ Entonces, ¿cómo se configura una campaña de ventas?
    >
    >Para crear una categoría nueva, haz clic en **+** junto a **[!UICONTROL Categorías]**.
 
-1. Se seleccionará la categoría que haya elegido. Si cambia de opinión, haga clic en la lista desplegable y seleccione otra diferente. Cuando haya terminado, haga clic en **[!UICONTROL Continuar]**.
+1. Se seleccionará la categoría que haya elegido. Si cambia de opinión, haga clic en la lista desplegable y seleccione otra diferente. Cuando termine, haga clic en **[!UICONTROL Continuar]**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
@@ -46,7 +46,7 @@ Entonces, ¿cómo se configura una campaña de ventas?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Cuando hayas [terminado tu correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, haz clic en **[!UICONTROL Agregar]**.
+1. Cuando haya [terminado su correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, haga clic en **[!UICONTROL Agregar]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 

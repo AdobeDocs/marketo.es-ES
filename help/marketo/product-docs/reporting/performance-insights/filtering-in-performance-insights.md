@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo filtrar los datos de Performance I
 title: Filtrar en perspectivas de rendimiento
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '348'
 ht-degree: 3%
 
 ---

@@ -4,9 +4,9 @@ description: Comprender los canales de envío en Sales Connect. Descubra cómo s
 title: Información general sobre el canal de entrega
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ El uso de Gmail o [!DNL Exchange] presenta algunas ventajas distintas con respec
 * Los métodos de autenticación como SPF y DKIM ya están configurados y administrados por su equipo de TI, por lo que no hay ninguna configuración adicional.
 * El envío de correos electrónicos dentro de una red de correo electrónico determinada (por ejemplo, el envío de un correo electrónico como usuario de [!DNL Exchange] a una compañía que recibe correos electrónicos a través de [!DNL Exchange]) puede ayudar a aumentar aún más la capacidad de envío.
 
-Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío, que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Obtenga más información acerca de la limitación de [correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de limitación para ayudar a los usuarios a mantenerse dentro de esos límites. Obtenga más información acerca de la limitación de [correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Aprenda a utilizar acciones masivas en Salesforce Classic con Sales
 title: Uso de acciones masivas en  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 1. Aparecerá un correo electrónico de MSC. Incluye las siguientes funciones:
 
    a. El campo &quot;[!UICONTROL Para]&quot; muestra &quot;[!UICONTROL Todos los destinatarios]&quot;, que corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes
-b. Esta lista está visible en el panel izquierdo llamado &quot;[!UICONTROL Maquetar]&quot;. Puede agregar o quitar destinatarios aquí
+b. Esta lista está visible en el panel izquierdo llamado &quot;[!UICONTROL Maquetación en lote]&quot;. Puede agregar o quitar destinatarios aquí
 c. Puede elegir una plantilla o crear su propio correo electrónico
-d. Puede obtener una vista previa de los campos dinámicos que se rellenarán en el correo electrónico
+d. Puede previsualizar los campos dinámicos que se rellenarán en el correo electrónico
 e. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
 
    ![](assets/three-4.png)

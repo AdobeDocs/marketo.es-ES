@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo evitar que las visualizaciones aut
 title: ¿Cómo evito las vistas automáticas?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---

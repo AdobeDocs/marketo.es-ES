@@ -4,16 +4,16 @@ description: Obtenga información acerca de las cuentas con nombre y cómo retie
 title: Información general sobre [!UICONTROL Cuenta con nombre]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '254'
 ht-degree: 10%
 
 ---
 
 # Información general sobre [!UICONTROL Cuenta con nombre] {#named-account-overview}
 
-[!UICONTROL Cuentas con nombre] tienen a las personas de las empresas a las que estás dirigiendo. El tablero proporciona datos actuales de cada atributo para todas las cuentas con nombre.
+[!UICONTROL Cuentas con nombre] tienen a las personas de las empresas a las que está dirigiendo. El tablero proporciona datos actuales de cada atributo para todas las cuentas con nombre.
 
 ## [!UICONTROL Tablero de cuentas con nombre] {#named-accounts-dashboard}
 

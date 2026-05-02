@@ -3,9 +3,9 @@ description: Aprenda a configurar acciones de Insight de ventas como administrad
 title: Guía de configuración de administración de acciones de Insight de ventas
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '669'
 ht-degree: 4%
 
 ---

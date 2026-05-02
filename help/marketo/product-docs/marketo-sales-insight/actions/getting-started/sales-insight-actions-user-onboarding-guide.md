@@ -3,10 +3,10 @@ description: Aprenda a empezar como un nuevo usuario de acciones de Insight de v
 title: Guía de incorporación del usuario de acciones de Insight de ventas
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 6%
+source-wordcount: '337'
+ht-degree: 5%
 
 ---
 
@@ -87,7 +87,7 @@ Los nuevos usuarios deberán seguir los pasos a continuación.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Cuando haya terminado el recorrido o, si se ha saltado, elija si desea iniciar sesión directamente en la aplicación web o en su cuenta de [!DNL Salesforce], donde puede acceder a todas las funciones desde el panel MSI (en este ejemplo, elegimos **[!UICONTROL Launch Salesforce]**).
+1. Cuando haya terminado el paseo o, si se ha saltado, elija si desea iniciar sesión directamente en la aplicación web o en su cuenta de [!DNL Salesforce], donde puede acceder a todas las funciones desde el panel MSI (en este ejemplo, elegimos **[!UICONTROL Launch Salesforce]**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

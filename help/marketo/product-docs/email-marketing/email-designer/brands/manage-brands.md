@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 2%
+source-wordcount: '453'
+ht-degree: 4%
 
 ---
 
@@ -84,7 +84,7 @@ Para crear y administrar las directrices de marca, puede escribir los detalles u
 
    >[!NOTE]
    >
-   >Esto crea una copia temporal en modo de edición y reemplaza la versión activa después de publicarla.
+   >Esto crea una copia temporal en el modo de edición y reemplaza la versión activa después de publicarla.
 
    ![](assets/create-and-manage-brands-11.png)
 
@@ -93,7 +93,7 @@ Para crear y administrar las directrices de marca, puede escribir los detalles u
 * Ver marca
 * Editar
 * Duplicado
-* Publicar
+* Publicación
 * Cancelar la publicación de
 * Eliminar
 

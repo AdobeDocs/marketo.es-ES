@@ -4,9 +4,9 @@ description: Aprenda a utilizar las fases del inventario del modelo de ingresos 
 title: Uso de fases de inventario del modelo de ingresos
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '287'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase 
 
 >[!TIP]
 >
->Es una buena idea crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo primero con sus colegas.
+>es una buena idea crear un modelo de práctica en un programa gráfico o de presentación y confirmarlo primero con sus colegas.
 
 ## Agregar Una Fase De Inventario {#add-an-inventory-stage}
 
@@ -63,7 +63,7 @@ Al seleccionar un icono de inventario, puede editar **[!UICONTROL Nombre]**, agr
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. También puede eliminar una fase haciendo clic en ella y luego, en el menú desplegable **[!UICONTROL Acciones de fase]**, seleccione **[!UICONTROL Eliminar]**.
+1. También puede eliminar una fase haciendo clic en ella y luego, en la lista desplegable **[!UICONTROL Acciones de fase]**, seleccione **[!UICONTROL Eliminar]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 

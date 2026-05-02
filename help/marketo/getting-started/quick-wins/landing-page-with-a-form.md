@@ -4,10 +4,10 @@ description: 'Página de aterrizaje con un formulario: documentos de Marketo, do
 title: Página de destino con formulario
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 6%
+source-wordcount: '557'
+ht-degree: 7%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 6%
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,7 +77,7 @@ ht-degree: 6%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
@@ -117,7 +117,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Puede que tengas una plantilla diferente a la de nuestra captura de pantalla, está bien, elige una y sigue adelante.
+   >Puede tener una plantilla diferente a la de nuestra captura de pantalla, está bien, elija una y continúe.
 
    ![](assets/landing-page-with-a-form-17.png)
 

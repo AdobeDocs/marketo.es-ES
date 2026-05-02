@@ -3,16 +3,16 @@ description: Solucione problemas cuando los campos dinámicos no rellenan planti
 title: ¿Por qué no se rellenan mis campos dinámicos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
 
 # ¿Por qué no se rellenan mis campos dinámicos? {#why-arent-my-dynamic-fields-filling-out}
 
-Los campos dinámicos solo funcionarán cuando se utilice una plantilla. Los correos electrónicos únicos individuales que escriba no los rellenarán.
+Los campos dinámicos solo funcionarán cuando utilice una plantilla. Los correos electrónicos únicos individuales que escriba no los rellenarán.
 
 ## Qué comprobar {#what-to-check}
 
@@ -22,7 +22,7 @@ Existen tres tipos de campos dinámicos en las acciones de Sales Insight: Básic
 
 [!DNL Salesforce] campos: p. ej. `{{sfdc_account_name}}`
 
-* Asegúrese de que está correctamente conectado con Sales Insight Actions. Vaya a la página [Configuración]&#x200B;(<https://toutapp.com/login{target="_blank"}>) y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que está correctamente conectado con las acciones de Sales Insight. Vaya a la página [Configuración]&#x200B;(<https://toutapp.com/login{target="_blank"}>) y haga clic en **Administrar** junto a su CRM.
 
 **Solucionar problemas de campos básicos y personalizados**
 
