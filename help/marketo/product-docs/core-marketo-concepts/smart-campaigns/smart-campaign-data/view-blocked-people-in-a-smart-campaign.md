@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo ver las personas bloqueadas en una
 title: Ver personas bloqueadas en una campaña inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 10%
 
 ---
 
 # Ver personas bloqueadas en una campaña inteligente {#view-blocked-people-in-a-smart-campaign}
 
-Las personas bloqueadas en la base de datos de Marketo Engage se marcan como incluidas en la lista de bloqueados, sin suscripción, con marketing suspendido o con un correo electrónico no válido o vacío.
+Las personas bloqueadas en la base de datos de Marketo Engage se marcan como incluidas en la lista de bloqueados, canceladas la suscripción, con marketing suspendido o con un correo electrónico no válido o vacío.
 
 1. En su campaña inteligente, haga clic en **[!UICONTROL Programar]**. En **[!UICONTROL Estado de la lista inteligente]**, haga clic en el segundo vínculo.
 

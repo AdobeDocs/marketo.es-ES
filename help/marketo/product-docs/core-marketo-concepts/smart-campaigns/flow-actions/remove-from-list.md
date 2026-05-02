@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo eliminar personas de una lista con
 title: Quitar de la lista
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 9%
 
 ---
@@ -21,4 +21,3 @@ Dado que tiene la capacidad de [Agregar a la lista](/help/marketo/product-docs/c
 
    ![](assets/remove-from-list-2.png)
 
-¡Eso es todo!

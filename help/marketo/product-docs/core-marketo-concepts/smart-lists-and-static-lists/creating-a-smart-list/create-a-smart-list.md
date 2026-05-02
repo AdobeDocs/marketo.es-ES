@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo crear una lista inteligente en Mar
 title: Crear una lista inteligente
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # Crear una lista inteligente {#create-a-smart-list}
 
-Las listas inteligentes permiten encontrar grupos específicos de personas mediante filtros simples. A continuación se muestra cómo crear uno.
+Las listas inteligentes permiten encontrar grupos específicos de personas mediante filtros simples.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -35,7 +35,7 @@ Las listas inteligentes permiten encontrar grupos específicos de personas media
 
    ![](assets/create-a-smart-list-5.png)
 
-   ¡Ta-da, gran trabajo! Ahora vamos a añadir y definir algunos filtros.
+   Ahora añada y defina algunos filtros.
 
    >[!MORELIKETHIS]
    >

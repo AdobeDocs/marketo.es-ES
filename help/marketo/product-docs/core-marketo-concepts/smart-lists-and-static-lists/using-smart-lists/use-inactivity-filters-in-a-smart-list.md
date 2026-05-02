@@ -4,16 +4,16 @@ description: Aprenda a utilizar filtros de inactividad en una lista inteligente.
 title: Uso de filtros de inactividad en una lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '133'
 ht-degree: 13%
 
 ---
 
 # Uso de filtros de inactividad en una lista inteligente {#use-inactivity-filters-in-a-smart-list}
 
-¿Sabía que puede buscar personas en una lista inteligente que _no_ hayan hecho algo? Eche un vistazo a estos filtros de inactividad.
+Utilice los filtros de inactividad para encontrar personas en una lista inteligente que no hayan hecho nada.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -23,7 +23,7 @@ ht-degree: 13%
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. Busque y arrastre el filtro de inactividad que desee al lienzo. Por ejemplo, vamos a buscar personas que no hayan visitado ninguna de sus páginas.
+1. Busque y arrastre el filtro de inactividad que desee al lienzo. Por ejemplo, este ejemplo encuentra personas que no han visitado ninguna de sus páginas.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 

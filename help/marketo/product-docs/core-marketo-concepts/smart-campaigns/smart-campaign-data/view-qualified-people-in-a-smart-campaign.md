@@ -4,9 +4,9 @@ description: Aprenda a ver personas cualificadas en una campaña inteligente. Ve
 title: Ver personas cualificadas en una campaña inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Vea las personas que cumplen los requisitos para pasar por el flujo al ejecutar 
    >
    >El número de personas cualificadas también depende de las reglas de calificación de campañas inteligentes. Obtenga información sobre cómo [editar reglas de calificación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-¡Bonito! Puede utilizar esta lista para comprobar qué personas pueden pasar por el flujo antes de ejecutar una campaña inteligente.
+Utilice esta lista para comprobar qué personas pueden pasar por el flujo antes de ejecutar una campaña inteligente.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Aprenda a cambiar el éxito del programa en un paso de flujo. Marca
 title: Cambiar el éxito del programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Si alguna vez tiene un grupo de personas marcado incorrectamente con Éxito del 
 
 ![](assets/change-program-success-1.png)
 
-1. Al arrastrar este paso de flujo, el programa se establecerá automáticamente en el programa que contiene la campaña inteligente que está editando.
+1. Cuando arrastra este paso de flujo, el programa se establece automáticamente en el programa que contiene la campaña inteligente que está editando.
 
    >[!NOTE]
    >
@@ -41,4 +41,4 @@ Si alguna vez tiene un grupo de personas marcado incorrectamente con Éxito del 
    >
    >Puede utilizar el paso de flujo dos veces para establecer tanto el indicador de éxito como la fecha.
 
-¡Excelente! Ahora sabe cómo deshacer y forzar el éxito.
+Ahora sabe cómo deshacer y forzar el éxito.

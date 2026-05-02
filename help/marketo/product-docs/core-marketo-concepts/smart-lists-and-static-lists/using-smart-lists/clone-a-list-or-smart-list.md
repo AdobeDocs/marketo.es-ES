@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo clonar una lista o una lista intel
 title: Clonar una lista o lista inteligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 19%
+source-wordcount: '88'
+ht-degree: 18%
 
 ---
 
 # Clonar una lista o lista inteligente {#clone-a-list-or-smart-list}
 
-En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una similar y realizando cambios. Así es cómo se hace.
+En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una similar y realizando cambios.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -27,4 +27,4 @@ En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una s
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-¡Buen trabajo! También puede clonar listas regulares de la misma manera.
+También puede clonar listas regulares de la misma manera.

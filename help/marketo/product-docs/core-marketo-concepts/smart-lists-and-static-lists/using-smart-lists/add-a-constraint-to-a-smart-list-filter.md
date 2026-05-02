@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo agregar una restricción a un filt
 title: Añadir una restricción a un filtro de listas inteligentes
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '182'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Al crear una lista inteligente, algunos filtros tienen opciones avanzadas denominadas &quot;restricciones&quot;. Estas son condiciones adicionales que puede agregar a los filtros y déclencheur para ayudar a limitar la búsqueda aún más.
 
-En este ejemplo, vamos a agregar algunas restricciones a un filtro de **[Valor de datos cambiado](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** para encontrar personas que tuvieron un cambio de estado de MQL a SQL.
+En este ejemplo, agregue algunas restricciones a un filtro **[Valor de datos cambiado](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** para encontrar personas que tuvieron un cambio de estado de MQL a SQL.
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ En este ejemplo, vamos a agregar algunas restricciones a un filtro de **[Valor d
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. ¡Bien hecho! Haga clic en la ficha **[!UICONTROL Personas]** para ver todas las personas que han cambiado de estado de &quot;MQL&quot; a &quot;SQL&quot; en los últimos 30 días.
+1. Haga clic en la ficha **[!UICONTROL Personas]** para ver todas las personas que han cambiado de estado de &quot;MQL&quot; a &quot;SQL&quot; en los últimos 30 días.

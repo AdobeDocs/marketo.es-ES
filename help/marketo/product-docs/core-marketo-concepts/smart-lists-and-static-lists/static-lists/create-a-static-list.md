@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo crear una lista estática en Marke
 title: Creación de una lista estática
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 7%
 
 ---
 
 # Creación de una lista estática {#create-a-static-list}
 
-Las listas estáticas son un grupo de personas que ya se encuentran en la base de datos. A continuación se muestra cómo crear uno.
+Las listas estáticas son un grupo de personas que ya se encuentran en la base de datos.
 
 1. Ir a **[!UICONTROL Base de datos]**.
 

@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo ejecutar una campaña inteligente 
 title: Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutarla ahora o más tarde. A continuación se indica cómo ejecutarlo inmediatamente.
+Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutarla ahora o más tarde.
 
 1. Seleccione la campaña por lotes, vaya a la ficha **[!UICONTROL Programar]** y haga clic en **[!UICONTROL Ejecutar una vez]**.
 
@@ -27,7 +27,7 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   ¡Tranquilo! También puede [programar ejecuciones para más tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}, si lo prefiere.
+   También puede [programar ejecuciones para más tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}, si lo prefiere.
 
    >[!NOTE]
    >

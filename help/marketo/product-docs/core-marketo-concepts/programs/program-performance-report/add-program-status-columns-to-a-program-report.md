@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo agregar columnas de estado de prog
 title: Añadir columnas de estado del programa a un informe de programa
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -39,7 +39,7 @@ Agrega estadísticas sobre el estado del programa a tu [informe de rendimiento d
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. ¡Tú lo hiciste! Haga clic en la ficha [!UICONTROL Informe] para ver el informe con las columnas de estado del programa.
+1. Haga clic en la ficha [!UICONTROL Informe] para ver el informe con las columnas de estado del programa.
 
    ![](assets/programreport.jpg)
 

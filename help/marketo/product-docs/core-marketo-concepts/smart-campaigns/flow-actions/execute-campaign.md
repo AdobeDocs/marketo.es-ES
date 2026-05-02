@@ -3,9 +3,9 @@ description: Aprenda a utilizar el paso de flujo Ejecutar campaña. Ejecute otra
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -60,7 +60,7 @@ Cuando se establece en true, se envían los siguientes contextos de token a la c
 
 **Interacción de API**
 
-Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
+Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos le permiten pasar valores para Mis tokens, lo que anula los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
@@ -73,7 +73,7 @@ Al usar Programar o Solicitar campaña [en la API](https://experienceleague.adob
 
 >[!CAUTION]
 >
->Nunca dejes inválidas tus listas inteligentes para Campañas ejecutables, de lo contrario _nadie_ cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
+>Nunca dejes inválidas tus listas inteligentes para Campañas ejecutables, de lo contrario _nadie_ cumplirá los requisitos para ello. La práctica recomendada es crear recursos de lista inteligente independientes, definirlos por completo y confirmar que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
 
 ## Ejemplo de herencia de token {#token-inheritance-example}
 

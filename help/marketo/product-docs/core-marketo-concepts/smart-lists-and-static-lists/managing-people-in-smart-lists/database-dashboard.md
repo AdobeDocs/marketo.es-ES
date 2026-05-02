@@ -4,9 +4,9 @@ description: Obtenga información sobre el tablero Base de datos en Marketo. Vea
 title: Panel de la base de datos
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Los gráficos indican la cantidad total de personas, la cantidad de personas com
 
 >[!TIP]
 >
->¿Desea obtener información más específica u oportuna sobre su gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Para obtener información más específica u oportuna sobre su personal, pruebe con un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Personas totales:** Cantidad de personas permanentes para el área de trabajo enumerada.
 

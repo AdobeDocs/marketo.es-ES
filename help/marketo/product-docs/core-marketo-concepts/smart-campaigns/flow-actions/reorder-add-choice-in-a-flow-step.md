@@ -4,9 +4,9 @@ description: Aprenda a reordenar las opciones de Agregar opción en un paso de f
 title: Reordenar la opción de adición en un paso de flujo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Dado que solo se aplica la primera opción coincidente a una persona, el orden i
    >
    >Al reordenar, puedes **[!UICONTROL Subir]**, **[!UICONTROL Bajar]** o **[!UICONTROL Mover a]**.
 
-   ¡Buen trabajo! Ahora sabe cómo mover una opción hacia arriba/hacia abajo en incrementos únicos.
+   Puede mover una opción hacia arriba o hacia abajo en incrementos únicos.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ Dado que solo se aplica la primera opción coincidente a una persona, el orden i
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-Es así de fácil reorganizar el orden de las opciones de los pasos de flujo.

@@ -4,9 +4,9 @@ description: Aprenda a cancelar una campaña inteligente. Detenga una campaña p
 title: Anulación de la campaña inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 >
 >Solo para uso de emergencia
 
-A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fue un error. Así es como tirar del freno de emergencia y detener la campaña inteligente a mitad de carrera.
+A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fue un error. Siga los pasos a continuación para detener una campaña inteligente a mitad de camino.
 
 1. Elija la campaña inteligente que desee y haga clic en la ficha **[!UICONTROL Programar]**.
 
@@ -33,7 +33,7 @@ A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fu
 
    >[!NOTE]
    >
-   >Anular no deshace los pasos que ya han finalizado, solo evita que se produzcan más (por ejemplo: los correos electrónicos no se pueden cancelar).
+   >Anular no deshace los pasos que ya han finalizado, evita que se produzcan más (por ejemplo: los correos electrónicos no se pueden cancelar).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

@@ -4,9 +4,9 @@ description: Obtenga ayuda sobre los operadores de filtro de listas inteligentes
 title: Glosario de operadores de filtros de listas inteligentes
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '614'
 ht-degree: 14%
 
 ---
@@ -102,7 +102,7 @@ Al elegir un operador, el lado derecho cambia de forma dinámica.
   </tr>
 </tbody></table>
 
-**&#42;**: la entrada en lenguaje natural es genial. Estos son algunos de los patrones que puede introducir:
+**&#42;**: la entrada en lenguaje natural usa los siguientes patrones:
 
 * 1 hora
 * 82 días
@@ -110,7 +110,7 @@ Al elegir un operador, el lado derecho cambia de forma dinámica.
 * 14 meses
 * 1 año
 
-Solo escribe el número y la unidad juntos y va a funcionar!
+Escriba el número y la unidad juntos.
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
 </tbody>
 </table>
 
-Como puede ver, estos operadores facilitan hablar Marketo-ese con fluidez.
+Como puede ver, estos operadores facilitan la fluidez al hablar en Marketo.

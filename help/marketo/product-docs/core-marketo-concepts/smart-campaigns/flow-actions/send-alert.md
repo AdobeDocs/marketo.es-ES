@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo enviar una alerta en un paso de fl
 title: Enviar alerta
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Marketo Engage puede enviar una alerta por correo electrónico con información 
 
    >[!NOTE]
    >
-   >Asegúrese de usar el token &quot;[!UICONTROL Enviar información de alerta]&quot; en el correo electrónico.
+   >Use el token &quot;[!UICONTROL Enviar información de alerta]&quot; en su correo electrónico.
 
 1. Seleccione el destinatario de la alerta. Puede elegir [!UICONTROL Propietario de ventas] o [!UICONTROL Propietario de cuenta].
 

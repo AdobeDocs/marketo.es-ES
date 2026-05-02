@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo ver los resultados de campañas in
 title: Ver resultados de la campaña inteligente
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
 # Ver resultados de la campaña inteligente {#view-smart-campaign-results}
 
-¿Quiere ver un desglose de todo lo que ha sucedido en una campaña inteligente? Así es cómo se hace.
+Aprenda a ver los resultados de su campaña inteligente.
 
 >[!TIP]
 >
@@ -35,7 +35,7 @@ ht-degree: 7%
    >
    >Vea los detalles de la persona haciendo clic en su nombre.
 
-   Explore los resultados para ver lo que realmente hizo su campaña o simplemente [exporte los resultados de la campaña inteligente a Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Explore los resultados para ver lo que realmente hizo su campaña o [exporte los resultados de la campaña inteligente a Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

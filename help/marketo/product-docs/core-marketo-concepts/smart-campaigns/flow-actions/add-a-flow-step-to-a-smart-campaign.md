@@ -4,9 +4,9 @@ description: Aprenda a añadir un paso de flujo a una campaña inteligente. Inse
 title: Adición de un paso de flujo a una campaña inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 11%
 
 ---
@@ -39,7 +39,7 @@ Los pasos de flujo indican a Marketo Engage lo que desea que le ocurra a un grup
 >
 >Aparece una línea ondulada roja en caso de que una entrada no sea válida. Pase el ratón sobre la línea para ver cómo corregirla.
 
-¡Fantástico! Asegúrese de [revisar y validar la campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} antes de programarla o activarla.
+[Revise y valide la campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} antes de programarla o activarla.
 
 >[!MORELIKETHIS]
 >

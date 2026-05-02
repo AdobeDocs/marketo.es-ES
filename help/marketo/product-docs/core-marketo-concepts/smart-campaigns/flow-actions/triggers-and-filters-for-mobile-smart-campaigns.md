@@ -4,9 +4,9 @@ description: Obtenga información sobre los déclencheur y filtros para campaña
 title: Activadores y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} y [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 
@@ -136,7 +136,7 @@ Las restricciones de acción permiten utilizar el déclencheur y los filtros par
 >   * Costó 30 dólares
 >   * Tomó 20 segundos para comprar
 
-Este es el aspecto del filtro en Marketo:
+El filtro tiene este aspecto en Marketo:
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo clonar una campaña inteligente. C
 title: 'Acciones de campaña: clonar una campaña inteligente'
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 6%
 
 ---
@@ -26,5 +26,3 @@ Clonar campañas puede ahorrarle tiempo. No es necesario compilarlo todo desde c
 1. Elija un **[!UICONTROL programa]**. Escriba un **[!UICONTROL Nombre de campaña]** y haga clic en **[!UICONTROL Clonar]**.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
-
-¡Y listo!

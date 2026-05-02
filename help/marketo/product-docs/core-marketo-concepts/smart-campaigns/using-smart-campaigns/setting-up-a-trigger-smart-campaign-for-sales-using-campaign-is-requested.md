@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar una campaña inteligent
 title: Configuración de una campaña inteligente de activador para ventas con “La campaña está solicitada”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '289'
 ht-degree: 8%
 
 ---
@@ -19,10 +19,10 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 >
 >Ejemplos de campañas inteligentes para solicitar:
 >
->1. **Nutrición a largo plazo**: cuando no tengan presupuesto para este año y solo quieras mantenerte al tanto
+>1. **Nutrición a largo plazo** - cuando no tienen un presupuesto este año y quieres mantenerte al tanto
 >1. **Ciclo de ventas activo**: cuando el vendedor no desea ningún mensaje para la persona, excepto el suyo propio. (utilice el indicador suspendido de marketing para cancelar la suscripción temporalmente)
 >
->Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pídeles y ponlo en contacto!
+>Pregunte al equipo de ventas qué desea automatizar y configurar.
 
 1. Cree una campaña inteligente.
 
@@ -32,13 +32,13 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Las opciones de fuente indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrate de elegir **[!UICONTROL Sales Insight]**.
+1. Las opciones de fuente indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, elige **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
    >Los operadores de origen son para la seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elija **[!UICONTROL Is Any]** en el primer cuadro si desea permitir solicitudes de todos los orígenes.
    >
-   >_Recuerda_, al elegir Sales Insight, aparecerá por arte de magia en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
+   >_Recuerda_, al elegir Sales Insight, aparecerá por arte de magia en el cuadro de ventas. Evite añadir demasiados, ya que se ignorarán.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Esta es una excelente manera de ampliar su alcance de marketing a otros departam
 
 >[!TIP]
 >
->No olvide nombrar claramente sus campañas inteligentes. Aparecerán en Sales Insight exactamente como les pongas nombre.
+>Asigne un nombre claro a sus campañas inteligentes. Aparecerán en Sales Insight exactamente como les pongas nombre.

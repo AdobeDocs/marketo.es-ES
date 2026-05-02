@@ -4,9 +4,9 @@ description: Aprenda a añadir una persona a la lista de bloqueados. Impida que 
 title: Añadir persona a la lista de bloqueados
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ Agregar personas a la Lista de bloqueados impide que reciban la correspondencia.
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Seleccione la lista inteligente que acaba de crear.
+1. Seleccione la lista inteligente que ha creado.
 
    ![](assets/add-person-to-blocklist-9.png)
 

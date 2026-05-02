@@ -4,16 +4,16 @@ description: Aprenda a buscar y combinar personas duplicadas. Combine los regist
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---
 
 # Buscar y combinar personas duplicadas {#find-and-merge-duplicate-people}
 
-Marketo Engage anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados. A continuación se indica cómo combinarlos.
+Marketo Engage anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados.
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ Marketo Engage anula la duplicación automáticamente cuando nuevas personas ent
 
    >[!CAUTION]
    >
-   >La combinación de personas en Marketo puede no funcionar si usa una cuenta de persona de [!DNL Salesforce]. Combine los registros de [!DNL Salesforce], si es posible.
+   >La combinación de personas en Marketo puede no funcionar si usa una cuenta de persona de [!DNL Salesforce]. Combinar los registros en [!DNL Salesforce] si es posible.
 
 1. Seleccione la lista inteligente del sistema **[!UICONTROL Posibles duplicados]** y haga clic en la ficha **[!UICONTROL Personas]**.
 
@@ -49,7 +49,7 @@ Marketo Engage anula la duplicación automáticamente cuando nuevas personas ent
 
 >[!CAUTION]
 >
->Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, _no_ se volverá a asociar con la persona ganadora. Vuelva a obtener la primaria del objeto personalizado antes de realizar la combinación.
+>Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, _no_ se volverá a asociar con la persona ganadora. Volver a padre del objeto personalizado antes de realizar la combinación.
 
 1. Para seleccionar los duplicados, mantenga presionada la tecla Ctrl o Cmd y haga clic en **[!UICONTROL Combinar personas]**.
 
@@ -82,7 +82,7 @@ Si tiene integración con Salesforce, hay algunas notas sobre el efecto de la co
 
 Para obtener información específica sobre el comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes [!DNL Salesforce] documentos:
 
-* [Combinando posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Combinación de posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [Combinando contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Combinación masiva {#bulk-merging}

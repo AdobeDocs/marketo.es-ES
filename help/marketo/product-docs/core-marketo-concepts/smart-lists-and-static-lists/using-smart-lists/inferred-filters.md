@@ -4,7 +4,7 @@ description: Obtenga información sobre los filtros deducidos en las listas inte
 title: Filtros inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Filtros inferidos {#inferred-filters}
 
-Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de información.
+Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. El sistema busca su IP en una base de datos especial e infiere todo tipo de información.
 
 >[!NOTE]
 >
->Para garantizar que los valores de campo deducidos permanezcan actualizados, actualizamos periódicamente la base de datos que se utiliza para las búsquedas de direcciones IP. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo deducidos que es posible que tenga que agregar a las definiciones de filtro de listas inteligentes.
+>Para garantizar que los valores de campo deducidos permanezcan actualizados, la base de datos utilizada para las búsquedas de direcciones IP se actualiza periódicamente. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo deducidos que es posible que tenga que agregar a las definiciones de filtro de listas inteligentes.
 >
 >Las actualizaciones de la base de datos pueden producirse durante una [versión del producto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Cuando se produce una actualización, las [notas de la versión de Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} contendrán una explicación de los cambios realizados en los valores de los campos deducidos.
 

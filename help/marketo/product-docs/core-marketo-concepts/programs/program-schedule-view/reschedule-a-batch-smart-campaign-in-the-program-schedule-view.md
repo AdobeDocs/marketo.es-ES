@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo reprogramar una campaña inteligen
 title: Reprogramar una campaña inteligente por lotes en la vista Calendario del programa
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 18%
@@ -23,7 +23,7 @@ ht-degree: 18%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. ¡Excelente! Se ha reprogramado la campaña inteligente. La hora también se puede cambiar del menú desplegable **[!UICONTROL Fecha]** en los detalles de la entrada.
+1. Se ha reprogramado la campaña inteligente. La hora también se puede cambiar del menú desplegable **[!UICONTROL Fecha]** en los detalles de la entrada.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

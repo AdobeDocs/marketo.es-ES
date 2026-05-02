@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo mover una campaña inteligente. Ca
 title: Mover una campaña inteligente
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ Mueva una campaña inteligente entre diferentes programas o carpetas mediante la
 
    >[!NOTE]
    >
-   >En este ejemplo, se mueve la campaña inteligente a otro programa, pero también se puede mover a una carpeta de campaña.
+   >En este ejemplo, la campaña inteligente se está moviendo a otro programa, pero también puede moverla a una carpeta de campaña.
 
-¡Bien hecho! Se ha movido la campaña inteligente.
+Se ha movido la campaña inteligente.
 
 ![](assets/move-a-smart-campaign-4.png)

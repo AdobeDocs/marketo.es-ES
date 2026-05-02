@@ -4,16 +4,16 @@ description: Aprenda a anexar datos a un campo en un paso de flujo. Agregue text
 title: Anexar datos a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
 
 # Anexar datos a un campo {#append-data-to-a-field}
 
-Existe una forma sencilla de anexar datos a un campo. Así es cómo se hace.
+Anexar datos a un campo es sencillo.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ Existe una forma sencilla de anexar datos a un campo. Así es cómo se hace.
 
    ![](assets/append-data-to-a-field-4.png)
 
-¡Ya está! Puede ser más creativo y agregar varios tokens allí.
+Puede añadir varios tokens en el mismo campo.

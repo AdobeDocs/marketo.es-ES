@@ -4,7 +4,7 @@ description: Aprenda a utilizar Agregar opción en un paso de flujo. Ramifique e
 title: Uso de Añadir opción en un paso de flujo
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 6%
@@ -51,7 +51,7 @@ ht-degree: 6%
    >
    >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Agregar opción&quot; en una acción de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   ¡Excelente! Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
+   Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo eliminar un paso de flujo de una c
 title: Eliminar un paso de flujo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >Si elimina los pasos del flujo, _especialmente los pasos de espera_ de las campañas inteligentes activas, puede dar resultados inesperados. Lea este artículo detenidamente.
 
-Primero vamos a cubrir los conceptos básicos. Así se elimina un paso de flujo no deseado de una campaña inteligente.
+Para eliminar un paso de flujo no deseado de una campaña inteligente:
 
 1. En la campaña inteligente **[!UICONTROL Flujo]**, haga clic en el icono **X** para eliminar cualquier paso del flujo.
 
@@ -39,7 +39,7 @@ Primero vamos a cubrir los conceptos básicos. Así se elimina un paso de flujo 
 
    1. **Nunca se ejecutó**. Realice todos los cambios que desee. No afectará a nadie hasta que ejecute esa campaña.
    1. **Es una campaña inteligente recurrente**. Los cambios afectarán a las personas en las ejecuciones futuras, no en las anteriores.
-   1. **Ya se ejecutó SIN pasos de espera**. Ninguna persona se verá afectada porque la campaña está inactiva después de ejecutarse.
+   1. **Ya se ejecutó SIN pasos de espera**.Ninguna persona se verá afectada porque la campaña está inactiva después de ejecutarse.
    1. **Se está ejecutando**. Los cambios pueden provocar un comportamiento inesperado según el momento y los detalles de la eliminación. Se recomienda NO editar una campaña por lotes que se esté ejecutando de forma activa. Para casos de emergencia, aprenda a [cancelar una campaña inteligente en ejecución](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
    1. **Ya se ejecutó CON pasos de espera.** Varios detalles sobre este.

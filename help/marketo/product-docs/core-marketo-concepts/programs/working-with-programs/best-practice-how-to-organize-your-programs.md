@@ -4,9 +4,9 @@ description: Obtenga ayuda sobre las prácticas recomendadas para organizar sus 
 title: 'Práctica recomendada: Cómo organizar los programas'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '855'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Existen muchas formas de organizar el árbol en Actividades de marketing, así c
 
 >[!TIP]
 >
->Un día (¡cuando te asciendan!), alguien más tratará de darle sentido a tus programas. Una buena organización les ayudará a ser productivos rápidamente.
+>Un día, alguien más puede necesitar darle sentido a tus programas. Una buena organización les ayudará a ser productivos rápidamente.
 
 ## Carpetas {#folders}
 
@@ -105,20 +105,20 @@ Se utilizan con fines de limpieza de datos. Tenga carpetas para las fechas en qu
 
 ## Anidado de programas de correo electrónico {#nesting-email-programs}
 
-Los programas de correo electrónico están diseñados para ser su herramienta para la limpieza de correos electrónicos. Puede ponerlos dentro de Eventos u otros programas para promociones, invitaciones y recordatorios. Incluyen un tablero de mandos frío y otras funciones de prueba A/B. Además, se manipulan fácilmente en la vista de programación del programa.
+Los programas de correo electrónico están diseñados para ser su herramienta para la limpieza de correos electrónicos. Puede ponerlos dentro de Eventos u otros programas para promociones, invitaciones y recordatorios. Incluyen un tablero de mandos y otras funciones de prueba A/B. También se pueden administrar en la vista de programación del programa.
 
-También puede crear un programa de correo electrónico como programa independiente. Los programas de correo electrónico no están permitidos dentro de otros programas de correo electrónico. ¡Eso sería una locura!
+También puede crear un programa de correo electrónico como programa independiente. Los programas de correo electrónico no están permitidos dentro de otros programas de correo electrónico.
 
 ## Clonando {#cloning}
 
-Una de las mejores características de Marketo es la capacidad de clonar programas. Esto significa que puede configurar una &quot;plantilla&quot; de programa que tenga todas las campañas inteligentes y los correos electrónicos que desee. Configúrelo con antelación y clónelo para su próxima iniciativa de marketing.
+Una de las funciones más útiles de Marketo es la capacidad de clonar programas. Esto significa que puede configurar una &quot;plantilla&quot; de programa que tenga todas las campañas inteligentes y los correos electrónicos que desee. Configúrelo con antelación y clónelo para su próxima iniciativa de marketing.
 
 >[!TIP]
 >
 >Observe las plantillas de evento en el ejemplo de la parte superior. Coloca tus diferentes tipos de eventos ahí para facilitar la clonación.
 
-Algunas personas incluso abstraen la mayoría del texto de los correos electrónicos y las páginas de aterrizaje en tokens. Esto le permite clonar y luego editar los tokens. Por último, vaya a la vista de programación del programa, ajuste las fechas y verá que ha finalizado. ¡Voila!
+Algunas personas incluso abstraen la mayoría del texto de los correos electrónicos y las páginas de aterrizaje en tokens. Esto le permite clonar y luego editar los tokens. Por último, vaya a la vista de programación del programa, ajuste las fechas y verá que ha finalizado.
 
 ## Resumen {#summary}
 
-Como puede ver, hay mucho poder en Marketo. Cubrimos los conceptos básicos aquí, pero considera servicios adicionales de [expertos de Marketo Engage](https://business.adobe.com/es/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararte para el éxito.
+Como puede ver, hay mucho poder en Marketo. Aquí se explican los conceptos básicos, pero considere la posibilidad de recibir servicios adicionales de [expertos en Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustarlos y prepararse para el éxito.

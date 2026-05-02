@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo crear y cambiar vistas para listas
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 8%
 
 ---
 
 # Crear y cambiar vistas para listas y listas inteligentes {#create-and-change-views-for-lists-and-smart-list}
 
-Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías que podrías editar esas columnas para tu propio contenido? Así es cómo se hace.
+Una lista inteligente muestra un conjunto predeterminado de columnas. Estas columnas se pueden personalizar.
 
 ## Crear una vista {#create-a-view}
 
@@ -45,7 +45,7 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Editar una vista {#edit-a-view}
 
-1. Asegúrese de que la vista que desea editar esté seleccionada en la lista desplegable **[!UICONTROL Vista]**.
+1. Compruebe que la vista que desea editar esté seleccionada en la lista desplegable **[!UICONTROL Vista]**.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 

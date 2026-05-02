@@ -4,10 +4,10 @@ description: Aprenda a cambiar un valor de datos en un paso de flujo de Smart Ca
 title: Cambiar valor de datos
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '120'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Puede utilizar Marketo para actualizar el valor de un campo. Para ello, usará l
 
    ![](assets/change-data-value-2.png)
 
-1. Introduzca el valor que desee y ya está.
+1. Introduzca el valor deseado.
 
    ![](assets/change-data-value-3.png)
 

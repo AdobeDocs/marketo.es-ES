@@ -4,10 +4,10 @@ description: Obtenga información acerca de las fechas provisionales y confirmad
 title: Explicación de las fechas provisionales/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 4%
+source-wordcount: '211'
+ht-degree: 5%
 
 ---
 
@@ -47,8 +47,8 @@ Las entradas confirmadas se ejecutarán sin duda. Tienen reglas, recursos aproba
 
 ## Finalizado  {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y está **[!UICONTROL Finalizada]**, no puede moverla ni convertirla en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Solo pueden estar en el pasado. Una vez que una entrada se ha ejecutado y está **[!UICONTROL Finalizada]**, no puede moverla ni convertirla en provisional.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Estos estados son herramientas poderosas. Al clonar un programa, todas las fechas de la campaña inteligente y del programa de correo electrónico serán provisionales. Todas se pueden confirmar directamente desde la vista de programación. Genial, ¿verdad?
+Estos estados son herramientas poderosas. Al clonar un programa, todas las fechas de la campaña inteligente y del programa de correo electrónico serán provisionales. Todas se pueden confirmar directamente desde la vista de programación.

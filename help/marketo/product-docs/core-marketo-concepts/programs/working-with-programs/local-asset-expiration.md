@@ -3,9 +3,9 @@ description: Obtenga información acerca de la caducidad de recursos locales en 
 title: Vencimiento del recurso local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '277'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Para poder programar una caducidad de recursos, la función de Marketo debe tene
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Compruebe los recursos para los que desea establecer una fecha de caducidad y haga clic en **[!UICONTROL Establecer caducidad]**.
+1. Compruebe el recurso para el que desea establecer una fecha de caducidad y haga clic en **[!UICONTROL Establecer caducidad]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ Para poder programar una caducidad de recursos, la función de Marketo debe tene
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Fije una hora. Debe programar una hora al menos 15 minutos en el futuro (no olvide introducir AM/PM). Haga clic en **[!UICONTROL Confirmar]** cuando haya terminado.
+1. Fije una hora. Debe programar una hora al menos 15 minutos en el futuro (recuerde introducir AM/PM). Haga clic en **[!UICONTROL Confirmar]** cuando haya terminado.
 
    ![](assets/local-asset-expiration-7.png)
 

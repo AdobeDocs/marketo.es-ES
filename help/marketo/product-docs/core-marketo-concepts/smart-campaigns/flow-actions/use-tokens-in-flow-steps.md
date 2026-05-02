@@ -4,9 +4,9 @@ description: Aprenda a utilizar tokens en los pasos de flujo. Inserte valores di
 title: Uso de tókenes en pasos de flujo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterr
    >
    >Los tokens de campo personalizado de miembro de programa se pueden utilizar en: Crear tarea, Crear tarea en Microsoft, Momentos interesantes, Cambiar valor de datos, Acciones de flujo y Webhooks.
 
-   ¡Genial! Los datos se extraerán del token cuando se ejecute la campaña inteligente.
+   Los datos se extraerán del token cuando se ejecute la campaña inteligente.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo ejecutar un solo paso de flujo des
 title: Ejecutar un solo paso de flujo desde una lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '239'
 ht-degree: 9%
 
 ---
@@ -39,7 +39,7 @@ Si desea ejecutar un paso de flujo de solo una vez, puede utilizar un solo paso 
    >
    >Si los resultados abarcan varias páginas, al hacer clic en **[!UICONTROL Seleccionar todo]** se seleccionarán todas las personas en todas las páginas.
 
-1. En **[!UICONTROL Acciones de persona]**, seleccione el paso de flujo que desee. En este ejemplo utilizaremos [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. En **[!UICONTROL Acciones de persona]**, seleccione el paso de flujo que desee. Este ejemplo usa [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -51,12 +51,12 @@ Si desea ejecutar un paso de flujo de solo una vez, puede utilizar un solo paso 
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
-1. Si va a cambiar los valores de los datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga Clic En **[!UICONTROL Ir A Por Él]**.
+1. Si está cambiando los valores de los datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga Clic En **[!UICONTROL Ir A Por Él]**.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-¡Increíble trabajo! Verá el estado del paso de un solo flujo en la esquina superior derecha.
+El estado del paso de un solo flujo aparecerá en la esquina superior derecha.
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
-Cuando haya terminado, actualice la lista y verá la información actualizada.
+Cuando termine, actualice la lista y verá la información actualizada.

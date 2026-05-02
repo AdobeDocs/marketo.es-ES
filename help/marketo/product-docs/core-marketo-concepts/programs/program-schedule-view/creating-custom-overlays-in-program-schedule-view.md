@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear superposiciones personalizad
 title: Creación de superposiciones personalizadas en la vista Calendario del programa
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 16%
 
 ---
@@ -31,6 +31,6 @@ Puede crear superposiciones personalizadas para ver las entradas que se adapten 
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   Fantástico. Ahora la superposición solo mostrará las entradas que haya definido.
+   Ahora la superposición solo mostrará las entradas que haya definido.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

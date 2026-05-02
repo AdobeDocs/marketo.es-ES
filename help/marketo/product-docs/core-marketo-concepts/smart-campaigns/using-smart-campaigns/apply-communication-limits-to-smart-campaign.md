@@ -4,9 +4,9 @@ description: Aprenda a aplicar límites de comunicación a una campaña intelige
 title: Aplicar límites de comunicación a campaña inteligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---

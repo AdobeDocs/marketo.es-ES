@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo activar una campaña inteligente d
 title: Activación de una campaña inteligente de activador | Pestaña Programación
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
 # Activación de una campaña inteligente de activador | Pestaña Programación {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Activar una campaña inteligente de déclencheur es como activarla. Esto es lo que hay que hacer.
+Activar una campaña inteligente de déclencheur es como activarla.
 
 1. En la ficha **[!UICONTROL Programar]** de la campaña inteligente, haga clic en **[!UICONTROL Activar]**.
 

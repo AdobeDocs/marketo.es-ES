@@ -4,16 +4,16 @@ description: Aprenda a utilizar listas inteligentes integradas y del sistema. Ut
 title: Usar listas inteligentes integradas/del sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 12%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# Usar listas inteligentes integradas/del sistema {#use-built-in-system-smart-lists}
+# Usar listas inteligentes de sistema integradas {#use-built-in-system-smart-lists}
 
-Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
+Marketo Engage tiene listas inteligentes integradas que son útiles para tareas de segmentación comunes.
 
 1. Ir a **[!UICONTROL Base de datos]**.
 
@@ -31,7 +31,7 @@ Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos
    >
    >No es necesario aplicar los filtros de las listas inteligentes del sistema a cada lista inteligente o campaña. Su contenido se reconoce automáticamente.
 
-Este es un resumen de lo que hacen las listas inteligentes integradas:
+A continuación se muestra un resumen de lo que hacen las listas inteligentes integradas:
 
 <table><thead>
   <tr>
@@ -68,7 +68,7 @@ Este es un resumen de lo que hacen las listas inteligentes integradas:
 
 >[!NOTE]
 >
->No se pueden eliminar las listas inteligentes del sistema. Con la excepción de la lista Duplicados posibles, tampoco se pueden editar.
+>Las listas inteligentes del sistema no se pueden eliminar. Con la excepción de la lista Duplicados posibles, tampoco se pueden editar.
 
 >[!MORELIKETHIS]
 >

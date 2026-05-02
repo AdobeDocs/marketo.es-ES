@@ -4,16 +4,16 @@ description: Aprenda a utilizar el filtro Valor de datos cambiado en una lista i
 title: Usar el filtro de valor de datos cambiado en una lista inteligente
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 18%
+source-wordcount: '151'
+ht-degree: 17%
 
 ---
 
 # Usar el filtro de valor de datos cambiado en una lista inteligente {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Los valores cambian constantemente y se actualizan en la base de datos de Marketo. A veces, en lugar de buscar un valor específico, desea buscar personas que hayan tenido un cambio en el valor. Así es cómo se hace.
+Los valores cambian constantemente y se actualizan en la base de datos de Marketo. A veces, en lugar de buscar un valor específico, desea buscar personas que hayan tenido un cambio en el valor.
 
 >[!PREREQUISITES]
 >

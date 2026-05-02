@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo eliminar personas de una lista int
 title: Eliminar personas de una lista inteligente o una lista
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
 
 # Eliminar personas de una lista inteligente o una lista {#delete-people-in-a-smart-list-or-list}
 
-Puede eliminar rápida y fácilmente algunas o todas las personas que están en una lista o una lista inteligente.
+Puede eliminar algunas o todas las personas de una lista o una lista inteligente.
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ Puede eliminar rápida y fácilmente algunas o todas las personas que están en 
    >
    >Para ver los resultados de la eliminación masiva, haga clic en **[!UICONTROL Ver resultados]** en el cuadro emergente Acción de un solo flujo en la esquina superior derecha de la pantalla. Los tiempos de eliminación pueden variar considerablemente, según varios factores.
 
-   Esta es una gran característica, solo tenga cuidado al usarlo!
+   Utilice esta función con precaución.
