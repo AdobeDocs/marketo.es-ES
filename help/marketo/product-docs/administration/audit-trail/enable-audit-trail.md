@@ -4,10 +4,10 @@ description: Habilite la pista de auditoría y el historial de inicio de sesión
 title: Habilitar seguimiento de auditoría
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: '244'
+ht-degree: 4%
 
 ---
 
@@ -65,15 +65,15 @@ La pista de auditoría está disponible para todos los clientes y controlada por
 
    >[!NOTE]
    >
-   >Este proceso también se aplica cuando crea un nuevo usuario.
+   >Este proceso también se aplica al crear un nuevo usuario.
 
-1. Seleccione las funciones de pista de auditoría que ha creado. En este ejemplo creamos &quot;Pista de auditoría: recurso y administración&quot; y &quot;Pista de auditoría: con historial de inicio de sesión&quot;.
+1. Seleccione las funciones de pista de auditoría que ha creado. Este ejemplo muestra la creación de &quot;Pista de auditoría: recurso y administración&quot; y &quot;Pista de auditoría: con historial de inicio de sesión&quot;.
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >Si tiene espacios de trabajo activados, asegúrese de marcar la casilla de verificación de la función, que selecciona todos los espacios de trabajo. Al anular la selección de un espacio de trabajo individual, se oculta la pista de auditoría. Esto significa que verá datos de pista de auditoría para cada espacio de trabajo. Tiene la opción de ocultar espacios de trabajo al [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Si tiene espacios de trabajo activados, asegúrese de marcar la casilla de verificación de la función, que selecciona todos los espacios de trabajo. Al anular la selección de un espacio de trabajo individual, se oculta Audit Trail. Tiene la opción de ocultar espacios de trabajo al [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 

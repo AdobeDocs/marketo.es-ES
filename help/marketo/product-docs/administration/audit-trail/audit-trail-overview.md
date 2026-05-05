@@ -4,9 +4,9 @@ description: Información general sobre la pista de auditoría y cómo captura u
 title: Información general de seguimiento de auditoría
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ La pista de auditoría le permite obtener un historial completo (seis meses) de 
 
 La pista de auditoría captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de una suscripción de Marketo. Incluye una forma de autoservicio de acceder a un historial de datos de seis meses para responder preguntas como las siguientes:
 
-¿Qué ha pasado con este recurso o configuración y quién lo actualizó por última vez?
+&quot;¿Qué ha pasado con este recurso o configuración y quién lo actualizó por última vez?&quot;
 
-¿Qué ha estado haciendo el usuario X?
+&quot;¿Qué ha estado haciendo el usuario X?&quot;
 
-¿Quién inicia sesión en nuestra cuenta?
+&quot;¿Quién inicia sesión en nuestra cuenta?&quot;
 
 ## Qué auditamos {#what-we-audit}
 
-Marketo auditará las acciones [crear, editar y eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
+Marketo audita las acciones [crear, editar y eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
 * Recursos de Design Studio
 * Todos los programas de Marketo
@@ -62,11 +62,11 @@ Monitorice los detalles basados en el usuario.
 
 **3) [Historial de inicio de sesión de usuario](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Ver quién ha iniciado sesión en su suscripción y cuándo. También incluye los intentos de inicio de sesión erróneos.
+Ver quién ha iniciado sesión en su suscripción y cuándo (también incluye intentos de inicio de sesión fallidos).
 
 >[!TIP]
 >
->Es mucho lo que puede auditar con la pista de auditoría. ¡Asegúrese de usar [Filtrado](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Dado que hay muchas cosas que puedes auditar usando la pista de auditoría, [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) puede ahorrar mucho tiempo.
 
 ## Exportando datos {#exporting-data}
 
@@ -78,7 +78,7 @@ Solo puede ver datos de 30 días en su instancia. Para obtener (hasta) seis mese
 >
 >**Definición**
 >
->**Desconocido:** En [!DNL Webhook], es posible que vea el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto sucede cuando realiza un cambio en los valores de la lista de selección en su CRM. Estos valores aparecen en formularios Marketo y páginas de aterrizaje. Al realizar esta actualización en CRM, se realizará un borrador automático de las páginas de aterrizaje que hagan referencia al formulario. En [!DNL Webhook], capturaremos que la página de aterrizaje se redactó, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no podemos capturar la información del usuario desde CRM.
+>**Desconocido:** En [!DNL Webhook], es posible que vea el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto sucede cuando realiza un cambio en los valores de la lista de selección en su CRM. Estos valores aparecen en formularios Marketo y páginas de aterrizaje. Al realizar esta actualización en CRM, se realizará un borrador automático de las páginas de aterrizaje que hagan referencia al formulario. En [!DNL Webhook], Marketo captura que la página de aterrizaje se redactó, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que Marketo no puede capturar la información del usuario desde CRM.
 
 >[!MORELIKETHIS]
 >

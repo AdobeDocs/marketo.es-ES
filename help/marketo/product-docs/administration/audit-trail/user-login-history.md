@@ -4,10 +4,10 @@ description: Vea quién ha iniciado sesión en su suscripción y cuándo, inclui
 title: Historial de inicio de sesión de usuario
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 6%
 
 ---
 
@@ -49,7 +49,7 @@ Para ver el historial de inicio de sesión del usuario:
 
    ![](assets/user-login-history-5.png)
 
-1. O bien, elija en la lista desplegable.
+1. O elija una de las opciones desplegables.
 
    ![](assets/user-login-history-6.png)
 
@@ -67,7 +67,7 @@ Para ver el historial de inicio de sesión del usuario:
 
    >[!NOTE]
    >
-   >La interfaz de usuario muestra hasta 30 días de datos. Si necesita más, puede descargar los últimos seis meses de datos en un archivo CSV.
+   >La interfaz de usuario muestra hasta 30 días de datos. Si necesita más, puede descargar los datos de los últimos seis meses en un archivo CSV.
 
    >[!MORELIKETHIS]
    >

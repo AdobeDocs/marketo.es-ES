@@ -4,10 +4,10 @@ description: Filtre la pista de auditoría por lapso de tiempo, tipo de recurso,
 title: Filtrado en seguimiento de auditoría
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 5%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y muc
 
    >[!NOTE]
    >
-   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo ubicamos: _todos los correos electrónicos - editados por cualquier persona - en los siete días anteriores_.
+   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. Este ejemplo localiza: _todos los mensajes de correo electrónico - editados por cualquier persona - en los siete días anteriores_.
 
 1. Haga clic en el menú desplegable **[!UICONTROL Periodo]** y seleccione **[!UICONTROL Últimos 7 días]**.
 
@@ -39,7 +39,7 @@ Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y muc
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Haga clic en la lista desplegable **Aacciones** y seleccione **[!UICONTROL Editar]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones]** y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -51,11 +51,9 @@ Filtre por lapso de tiempo, tipo de recurso, usuarios, acciones realizadas y muc
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   ¡Eso es todo!
-
    >[!NOTE]
    >
-   >Si tiene espacios de trabajo habilitados, verá datos de auditoría para todos los espacios de trabajo. Si aplica un filtro de espacio de trabajo, Marketo recuerda el valor anterior del espacio de trabajo cada vez que utiliza la pista de auditoría. Se aplican permisos de Workspace en el nivel de recurso.
+   >Si tiene espacios de trabajo habilitados, verá datos de auditoría para todos los espacios de trabajo. Si aplica un filtro de área de trabajo, Marketo recuerda el valor del área de trabajo anterior cada vez que utiliza la pista de auditoría. Se aplican permisos de Workspace en el nivel de recurso.
 
    >[!MORELIKETHIS]
    >

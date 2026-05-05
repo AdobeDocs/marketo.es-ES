@@ -4,16 +4,16 @@ description: Referencia para los detalles del cambio Registros de pista de audit
 title: Cambiar detalles en el seguimiento de auditoría
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '1906'
+source-wordcount: '1910'
 ht-degree: 14%
 
 ---
 
 # Cambiar detalles en el seguimiento de auditoría {#change-details-in-audit-trail}
 
-La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qué en su suscripción a Marketo. Aquí están los detalles.
+La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qué en su suscripción a Marketo.
 
 ## Seguimiento de auditoría de recurso {#asset-audit-trail}
 
@@ -303,7 +303,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
   </tr>
   <tr>
    <td>Modificar flujo de programa</td>
-   <td>Agregar contenido<br>Nombre de flujo "nombre de flujo"<br>Escriba "correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Nombre de campaña inteligente" de la campaña inteligente</td>
+   <td>Agregar contenido<br>Nombre de secuencia "nombre de secuencia"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Nombre de campaña inteligente" de la campaña inteligente</td>
   </tr>
   <tr>
    <td>Modificar flujo de programa</td>
@@ -412,7 +412,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
   </tr>
   <tr>
    <td>Modificar configuración del programa</td>
-   <td>Eliminar "nombre de comportamiento" del comportamiento de análisis</td>
+   <td>Eliminar el comportamiento de análisis "nombre de comportamiento"</td>
   </tr>
   <tr>
    <td colspan="1">Modificar configuración del programa</td>
@@ -428,7 +428,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
   </tr>
   <tr>
    <td colspan="1">Modificar configuración del programa</td>
-   <td colspan="1">Se ha añadido el socio de evento "partner_name"</td>
+   <td colspan="1">Se ha agregado el socio de evento 'partner_name'</td>
   </tr>
   <tr>
    <td>Exportar</td>
@@ -630,7 +630,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
    <td>Clonado en "Programas" en el programa "nombre del programa" <br>Clonado nombre del recurso "nombre"<br>o<br>Clonado en "Carpeta" en la carpeta "nombre de carpeta"<br>Clonado nombre del recurso "nombre"</td>
   </tr>
   <tr>
-   <td>Modificar configuración de lista inteligente</td>
+   <td>Modificar configuración de listas inteligentes</td>
    <td>Muestra la instantánea del estado actual, incluidos los nombres y valores de los filtros y déclencheur</td>
   </tr>
   <tr>
@@ -667,7 +667,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
    <td>Clonado en "Base de datos de personas" en la carpeta "foldername" <br>Nombre de recurso clonado "name"<br>o <br>Clonado en "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "name"</td>
   </tr>
   <tr>
-   <td>Modificar configuración de lista inteligente</td>
+   <td>Modificar configuración de listas inteligentes</td>
    <td>Muestra la instantánea del estado actual, incluidos los nombres y valores de los filtros y déclencheur </td>
   </tr>
   <tr>
@@ -749,7 +749,7 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
   <tr>
    <td>Seguridad de la contraseña</td>
    <td>Editar</td>
-   <td>La seguridad de la contraseña se ha cambiado a la plantilla: Seguridad estándar, longitud mínima: #, parte inferior-superior: #, número: #, mayúsculas y minúsculas mixtas: #, caducidad: #, tiempo de espera de sesión: #</td>
+   <td>La seguridad de la contraseña se ha cambiado a la plantilla: Seguridad estándar, longitud mínima: #, parte inferior superior: #, número: #, mayúsculas y minúsculas mixtas: #, caducidad: #, tiempo de espera de sesión: #</td>
   </tr>
   <tr>
    <td rowspan="3">Función<br><br></td>
@@ -762,12 +762,12 @@ La pista de auditoría ofrece una gran cantidad de insight sobre quién hace qu�
   </tr>
   <tr>
    <td>Editar</td>
-   <td>Función editada de "nombre anterior" a "nombre nuevo" (NOTA: si necesita editar detalles sobre permisos, póngase en contacto con el servicio de asistencia técnica) - <br>muestra una instantánea de los permisos asignados a la función<br></td>
+   <td>La función editada de "nombre anterior" a "nombre nuevo" (NOTA: si necesita detalles sobre los permisos editados, póngase en contacto con el servicio de asistencia técnica) - <br>muestra una instantánea de los permisos asignados a la función<br></td>
   </tr>
   <tr>
    <td>Informe de listas inteligentes</td>
    <td>Editar</td>
-   <td>SmartList editado para iniciar sesión y descargar: "true o false"</td>
+   <td>Lista inteligente editada para iniciar sesión y descargar: "true o false"</td>
   </tr>
   <tr>
    <td rowspan="7">Usuario<br><br><br><br></td>
