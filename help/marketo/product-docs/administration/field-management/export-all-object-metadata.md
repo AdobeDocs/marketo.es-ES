@@ -3,10 +3,10 @@ description: Exporte todos los objetos y sus metadatos, incluidos los campos de 
 title: Exportar todos los metadatos del objeto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 25%
+source-wordcount: '85'
+ht-degree: 24%
 
 ---
 
@@ -45,6 +45,6 @@ Esta función le permite exportar todos los objetos y sus metadatos.
 >
 >Asegúrese de que el explorador no bloquee las ventanas emergentes de Marketo.
 
-Los datos se exportarán como CSV.
+Los datos se exportan como CSV.
 
 ![](assets/export-all-object-metadata-4.png)

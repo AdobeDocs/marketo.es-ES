@@ -1,13 +1,13 @@
 ---
-description: La descripción se incluye aquí.
+description: Obtenga información sobre cómo definir un conjunto fijo de valores para un campo para simplificar la administración de los datos y el flujo de trabajo.
 title: Administración de listas de selección
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Haga clic en el menú desplegable _Acciones de campo_ y seleccione **Administrar
 
 ![](assets/picklist-management-2.png)
 
-En el cuadro de diálogo _Administrar lista de selección_ puede agregar, editar o eliminar valores. También puede eliminar la lista de selección administrada para revertir el campo a su estado de lista de selección original, ya sea _No administrada_ o _Predefinida_.
+En el cuadro de diálogo _Administrar lista de selección_, puede agregar, editar o eliminar valores. También puede eliminar la lista de selección administrada para revertir el campo a su estado de lista de selección original, ya sea _No administrada_ o _Predefinida_.
 
 ![](assets/picklist-management-3.png)
 
-Cada entrada de la lista de selección tiene un valor para mostrar y un valor enviado. El valor para mostrar es lo que se sugiere al usuario al crear listas inteligentes, campañas inteligentes o formularios, mientras que el valor enviado es el que se almacena. Por ejemplo, el caso de uso Código de territorio puede sugerir el nombre completo de un territorio (por ejemplo, Alberta), mientras almacena el código de dos letras (AB).
+Cada entrada de la lista de selección tiene un valor para mostrar y un valor enviado. El valor para mostrar es lo que se sugiere al usuario al crear listas inteligentes, campañas inteligentes o formularios, mientras que el valor enviado es el que se almacena. Por ejemplo, un caso de uso de Código de territorio puede sugerir el nombre completo de un territorio (por ejemplo, Alberta), mientras almacena el código de dos letras (AB).
 
 ## Autosugerir {#autosuggest}
 
@@ -54,7 +54,7 @@ Cuando la configuración _Lista de selección administrada_ está habilitada, lo
 
 ### Cambio entre listas de selección administradas y no administradas {#switching}
 
-La mayoría de las suscripciones de Marketo Engage contienen datos anteriores a la introducción de las listas de selección administradas. Para utilizar valores en listas inteligentes o pasos de flujo de esta lista de selección de versión no administrada (por ejemplo, del conjunto completo de valores que existen en los registros de la base de datos), alterne la configuración Lista de selección administrada en la vista Smart List o Campaign. Cuando está activada, solo se muestran los valores de la lista de selección gestionada. Cuando se desactiva, se utiliza la lista de selección no administrada y los valores se sugieren automáticamente en función de los valores existentes en la base de datos.
+La mayoría de las suscripciones de Marketo Engage contienen datos anteriores a la introducción de las listas de selección administradas. Para utilizar valores en listas inteligentes o pasos de flujo desde esta versión no administrada de la lista de selección (por ejemplo, desde el conjunto completo de valores que existen en los registros de la base de datos), alterne la configuración Lista de selección administrada en la vista Smart List o Campaign. Cuando está activada, solo se muestran los valores de la lista de selección gestionada. Cuando se desactiva, se utiliza la lista de selección no administrada y los valores se sugieren automáticamente en función de los valores existentes en la base de datos.
 
 ## Listas de selección de formularios (Seleccionar campos de tipo) {#form-picklists}
 

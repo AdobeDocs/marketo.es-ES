@@ -4,16 +4,16 @@ description: Obtenga información acerca de los campos administrados del sistema
 title: Explicación de los campos administrados por el sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 17%
 
 ---
 
 # Explicación de los campos administrados por el sistema {#understanding-system-managed-fields}
 
-Es posible que haya observado que la [página de detalles de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} tiene una serie de campos no editables creados por Marketo. Estos datos provienen de varias fuentes y hay infinidad de valores que podrían mostrarse.
+Es posible que haya observado que la [página de detalles de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} tiene una serie de campos no editables creados por Marketo. Estos datos provienen de varias fuentes y hay infinidad de valores que se podrían mostrar.
 
 ## Tipos de campo {#field-types}
 
@@ -129,7 +129,7 @@ A continuación se muestran algunos valores posibles y lo que significan.
   </tr>
   <tr>
     <td>Contacto</td>
-    <td>La persona se ha sincronizado desde Webhook como contacto</td>
+    <td>La persona se ha sincronizado desde Salesforce como contacto</td>
   </tr>
   <tr>
     <td>API de Munchkin</td>

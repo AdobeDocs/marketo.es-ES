@@ -4,7 +4,7 @@ description: Referencia para tipos de campos personalizados en Marketo, incluido
 title: Glosario de tipo de campo personalizado
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 >[!NOTE]
 >
->La mayoría de los campos no alcanzan el máximo en el número de caracteres, sino en la cantidad de bytes. Por ello, no podemos proporcionar un límite de caracteres definitivo para cada campo. La excepción es **String**, que alcanza un máximo de 255 caracteres.
+>La mayoría de los campos no alcanzan el máximo en el número de caracteres, sino en la cantidad de bytes. Por ello, Marketo no puede proporcionar un límite de caracteres definitivo para cada campo. La excepción es **String**, que alcanza un máximo de 255 caracteres.
 
 ## Booleano {#boolean}
 
-**Nombre de ejemplo:** es cliente: Etiquete a sus empleados como clientes
+**Nombre de ejemplo:** es cliente - Etiquetar personas como clientes
 
 **Valores de ejemplo:** Verdadero (comprobado) / Falso (desmarcado)
 
@@ -61,7 +61,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## Correo electrónico {#email}
 
-**Nombre de ejemplo:** Correo electrónico alternativo: mantenga una dirección de correo electrónico alternativa para sus recursos (en realidad no puede enviar correos electrónicos a este campo como el campo de dirección de correo electrónico predeterminado, ese campo es especial)
+**Nombre de ejemplo:** Correo electrónico alternativo: mantenga una dirección de correo electrónico alternativa para las personas (en realidad no puede enviar correos electrónicos a este campo como el campo de dirección de correo electrónico predeterminado)
 
 **Valores de ejemplo:** <name@company.com>
 
@@ -77,9 +77,9 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## Fórmula {#formula}
 
-**Nombre de ejemplo:** Saludos - use este campo especial en una [solución para obtener el saludo correcto](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) basado en el género
+**Nombre de ejemplo:** Saludos - Utilice este campo especial en una [solución para obtener el saludo correcto](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) basado en el género
 
-**Valores de ejemplo:** compruebe la solución vinculada
+**Valores de ejemplo:** Compruebe la solución vinculada
 
 ## Entero {#integer}
 
@@ -91,7 +91,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## Porcentaje {#percent}
 
-**Nombre de ejemplo:** con probabilidad de comprar: almacene un valor porcentual (tal vez calculado en el lado del CRM).
+**Nombre de ejemplo:** con probabilidad de comprar: almacene un valor porcentual (calculado en CRM)
 
 **Valores de ejemplo:** 85%
 
@@ -99,7 +99,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## Teléfono {#phone}
 
-**Nombre de ejemplo:** Teléfono alternativo: almacena un número de teléfono adicional para tus empleados
+**Nombre de ejemplo:** Teléfono alternativo: almacena un número de teléfono adicional para personas
 
 **Valor de ejemplo:** 650-555-5555
 
@@ -115,7 +115,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## Cadena {#string}
 
-**Nombre de ejemplo:** Segundo nombre: almacene un atributo de texto adicional
+**Nombre de ejemplo:** Segundo nombre - Almacenar un atributo de texto adicional
 
 **Valor de ejemplo:** Rose
 
@@ -131,7 +131,7 @@ Al crear un campo personalizado en Marketo, tiene una lista de tipos para elegir
 
 ## URL {#url}
 
-**Nombre de ejemplo:** blog: cree un campo para almacenar las direcciones URL del blog de la persona
+**Nombre de ejemplo:** Blog: Cree un campo para almacenar las direcciones URL del blog de una persona
 
 **Valor de ejemplo:** &lt;www.myblog.com>
 

@@ -4,16 +4,16 @@ description: Exporte una lista de los recursos que utilizan un campo para poder 
 title: Exportación utilizada por los datos de un campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 15%
 
 ---
 
 # Exportación utilizada por los datos de un campo {#export-used-by-data-for-a-field}
 
-Como administrador, tiene la capacidad de exportar los recursos relacionados de un campo para poder delegar su desvinculación a su equipo.
+Como administrador, puede exportar los recursos relacionados de un campo para poder delegar su desvinculación a su equipo.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Como administrador, tiene la capacidad de exportar los recursos relacionados de 
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Se exportará un archivo de [!DNL Excel]. Ábralo para ver su contenido.
+1. Se exporta un archivo de [!DNL Excel]. Ábralo para ver su contenido.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

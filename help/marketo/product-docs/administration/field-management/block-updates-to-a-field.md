@@ -4,16 +4,16 @@ description: Bloquear actualizaciones de un campo para que el primer valor escri
 title: Bloquear actualizaciones de un campo
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 7%
 
 ---
 
 # Bloquear actualizaciones de un campo {#block-updates-to-a-field}
 
-Bloquear las actualizaciones de un campo permite escribir en él una vez y, a continuación, conservar el valor original durante toda la duración del campo. Esto puede resultar útil en un campo como [!UICONTROL Source de persona].
+Bloquear las actualizaciones de un campo permite escribir en él una vez y, a continuación, conservar el valor original durante la duración del registro. Esto puede resultar útil en un campo como [!UICONTROL Source de persona].
 
 >[!NOTE]
 >

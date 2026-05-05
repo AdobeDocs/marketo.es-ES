@@ -5,10 +5,10 @@ description: Obtenga información acerca de Email Designer y su editor de arrast
 title: Información general
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 95%
+source-wordcount: '682'
+ht-degree: 89%
 
 ---
 
@@ -62,9 +62,9 @@ Para acceder al nuevo Diseñador de correo electrónico, debe migrar la suscripc
 
 ## Preguntas frecuentes {#faq}
 
-**¿Seguirá funcionando el antiguo editor de correo electrónico? Si es así, ¿por cuánto tiempo?**
+**¿Cuándo quedará obsoleto el editor de correo electrónico clásico?**
 
-Sí, el antiguo editor de correo electrónico (clásico) coexistirá con el nuevo Diseñador de correo electrónico. Los correos electrónicos creados en el editor clásico permanecerán. No hay fecha en cuanto a cuándo el editor clásico quedará obsoleto en este momento, pero seguirá funcionando en 2026. Daremos un aviso de varios meses antes de dejar obsoleto al antiguo editor.
+Aunque el editor clásico finalmente quedará obsoleto, no hay una fecha específica en este momento. Pero habrá _un aviso de_ meses antes de la desaprobación.
 
 **¿En qué programas puedo usar los nuevos correos electrónicos del Diseñador de correo electrónico?**
 

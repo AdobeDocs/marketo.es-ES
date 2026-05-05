@@ -4,9 +4,9 @@ description: Pasos para cambiar el nombre de un campo personalizado en Marketo d
 title: Cambiar el nombre del campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Puede cambiar el nombre de un campo personalizado en Marketo, pero hay un problema: debe eliminar todo su uso en el sistema antes de hacerlo. Esto incluye formularios, listas inteligentes y campañas inteligentes.
+>Puede cambiar el nombre de un campo personalizado en Marketo. Sin embargo, debe eliminar todo su uso en el sistema antes de hacerlo. Esto incluye formularios, listas inteligentes y campañas inteligentes.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 6%
 
    ![](assets/rename-a-field-4.png)
 
-¡Buen trabajo! Ahora sabe cómo cambiar el nombre de los campos en Marketo.
+Ahora sabe cómo cambiar el nombre de los campos en Marketo.
 
 >[!CAUTION]
 >

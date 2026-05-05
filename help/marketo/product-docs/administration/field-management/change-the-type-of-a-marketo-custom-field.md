@@ -4,16 +4,16 @@ description: Cómo cambiar el tipo de datos de un campo personalizado en Adminis
 title: Cambiar el tipo de un campo personalizado de Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '113'
 ht-degree: 14%
 
 ---
 
 # Cambiar el tipo de un campo personalizado de Marketo {#change-the-type-of-a-marketo-custom-field}
 
-A continuación, se muestra cómo cambiar el tipo de campo de un campo personalizado.
+Aprenda a cambiar el tipo de campo de un campo personalizado.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -45,7 +45,7 @@ A continuación, se muestra cómo cambiar el tipo de campo de un campo personali
 
    >[!NOTE]
    >
-   >El mensaje de advertencia que verá variará según el tipo de campo del que cambie.
+   >El mensaje de advertencia que vea variará según el tipo de campo que esté cambiando de y a.
 
    >[!MORELIKETHIS]
    >

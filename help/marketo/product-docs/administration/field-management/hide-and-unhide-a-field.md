@@ -4,16 +4,16 @@ description: Oculte los campos de la IU de Marketo cuando ya no los necesite o m
 title: Ocultar y mostrar un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 
 # Ocultar y mostrar un campo {#hide-and-unhide-a-field}
 
-Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de usuario para que ya no se muestre en la aplicación.
+Si ya no necesita un campo en Marketo Engage, puede ocultarlo de la interfaz de usuario para que ya no se muestre en la aplicación.
 
 ## Ocultar un campo {#hide-a-field}
 
@@ -35,7 +35,7 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
    >[!NOTE]
    >
-   >* Para ocultar un campo, no debe asociarse con ningún otro recurso (incluidos los archivados). Asegúrese de eliminar el campo de todas las listas inteligentes, opciones de pasos de flujo, formularios, correos electrónicos, etc., antes de ocultarlo.
+   >* Para ocultar un campo, no debe asociarse con ningún otro recurso (incluidos los archivados). Elimine el campo de todas las listas inteligentes, las opciones de pasos de flujo, los formularios, los correos electrónicos, etc., antes de ocultarlo.
    >* No puede ocultar los campos estándar (del sistema).
    >* No se pueden ocultar los campos de información de oportunidad.
 
@@ -43,7 +43,7 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
-   ¡Buen trabajo! Ahora sabe cómo ocultar un campo de la interfaz de usuario de Marketo.
+   Ahora sabe cómo ocultar un campo de la interfaz de usuario de Marketo.
 
    ![](assets/hide-and-unhide-a-field-5.png)
 
@@ -61,4 +61,4 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   ¡Gran trabajo! Ahora sabe cómo mostrar campos y hacerlos visibles de nuevo.
+   Ahora sabe cómo mostrar campos y hacerlos visibles de nuevo.

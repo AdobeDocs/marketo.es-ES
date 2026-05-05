@@ -4,10 +4,10 @@ description: Combine valores de varios campos o cree valores condicionales utili
 title: Crear y utilizar un campo de cadena concatenada (fórmula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '148'
+ht-degree: 10%
 
 ---
 
@@ -54,5 +54,3 @@ Puede combinar valores de varios campos o crear un valor condicional mediante un
 >[!NOTE]
 >
 >Los campos de fórmula se pueden utilizar en páginas de destino, correos electrónicos y columnas de listas inteligentes. Los correos electrónicos con campos de fórmula _no_ se pueden enviar usando una campaña por lotes. Use un [token de script de correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) en este escenario.
-
-¡Buen trabajo! Ahora tiene un campo inteligente que sabe qué saludos incluir en función del género. Diviértete con esto y ponte creativo.
