@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo editar una actividad personalizada
 title: Edición de una actividad personalizada
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
 # Edición de una actividad personalizada {#edit-a-custom-activity}
 
-¿Necesita realizar cambios en una actividad personalizada que ya ha creado? Así es cómo se hace.
+Para realizar cambios en una actividad personalizada que ya se ha creado, siga los pasos a continuación.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -31,15 +31,15 @@ ht-degree: 9%
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Aparecerá Editar tipo de actividad. En este ejemplo, estamos corrigiendo un error tipográfico.
+   Aparecerá Editar tipo de actividad. En este ejemplo, se está corrigiendo un error tipográfico.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Escriba la nueva información y haga clic en **[!UICONTROL Enviar]**.
+1. Escriba la información actualizada y haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   La actividad personalizada se ha editado.
+   Se ha actualizado la actividad personalizada.
 
    >[!NOTE]
    >

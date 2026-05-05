@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar una etiqueta de campo en un
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 15%
 
 ---

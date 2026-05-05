@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo exportar el esquema de metadatos d
 title: Exportación de metadatos de actividad personalizada
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 9%
 
 ---

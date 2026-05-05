@@ -4,9 +4,9 @@ description: Aprenda a hacer que un campo de formulario sea obligatorio en Marke
 title: Establecer un campo de formulario como obligatorio
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '119'
 ht-degree: 15%
 
 ---

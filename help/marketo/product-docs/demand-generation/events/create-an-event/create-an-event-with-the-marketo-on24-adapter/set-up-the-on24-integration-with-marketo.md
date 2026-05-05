@@ -3,10 +3,10 @@ description: Aprenda a configurar la integración de ON24 con Marketo. Conecte s
 title: Configuración de la integración ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 7%
+source-wordcount: '299'
+ht-degree: 6%
 
 ---
 

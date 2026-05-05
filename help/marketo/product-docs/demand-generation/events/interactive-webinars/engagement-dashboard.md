@@ -3,9 +3,9 @@ description: Obtenga información sobre el tablero de participación de seminari
 title: Panel de participación
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1781'
 ht-degree: 1%
 
 ---
@@ -303,7 +303,7 @@ Comprenda los criterios para clasificar el nivel de participación de cada parti
   <tr>
     <td>Medio</td>
     <td>Participantes que cumplan todos los criterios siguientes:
-    <li>El nivel de compromiso del asistente no está determinado a ser alto.</li>
+    <li>No se ha determinado que el nivel de participación del asistente sea alto.</li>
     <li>La duración de la asistencia es de al menos el 60% del tiempo total del evento.</li>
     <li>El asistente ha realizado al menos una de las siguientes acciones:
     <ul>
