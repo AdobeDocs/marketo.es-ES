@@ -4,10 +4,10 @@ description: Requerir SSO para todos los usuarios para que no puedan omitir la s
 title: Restringir el inicio de sesión del usuario a solo SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 
@@ -45,13 +45,13 @@ Si está [usando SSO](/help/marketo/product-docs/administration/additional-integ
 
 >[!TIP]
 >
->Si selecciona **[!UICONTROL Requerir SSO]**, puede excluir un [rol de usuario](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de esta restricción marcando la opción **[!UICONTROL Omitir el inicio de sesión único]** al configurar el rol. Esto permitirá a los usuarios iniciar sesión normalmente. Por ejemplo, es posible que los usuarios administradores tengan que iniciar sesión en Marketo a través de la pantalla de inicio de sesión. Si tanto SSO como Universal ID están activados, debe tener el permiso &quot;Omitir el inicio de sesión único&quot; establecido para alternar entre suscripciones.
+>Si selecciona **[!UICONTROL Requerir SSO]**, puede excluir un [rol de usuario](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de esta restricción marcando la opción **[!UICONTROL Omitir el inicio de sesión único]** al configurar el rol. Esto permite a los usuarios iniciar sesión con normalidad. Por ejemplo, es posible que los usuarios administradores tengan que iniciar sesión en Marketo a través de la pantalla de inicio de sesión. Si tanto SSO como Universal ID están activados, debe tener el permiso &quot;Omitir el inicio de sesión único&quot; establecido para alternar entre suscripciones.
 
 >[!CAUTION]
 >
 >Cuando se invita a nuevos usuarios, reciben correos electrónicos de invitación. Sin embargo, si se selecciona **[!UICONTROL Requerir SSO]**, no recibirán estos mensajes de correo electrónico, a menos que estén asignados a una función que esté establecida en **[!UICONTROL Omitir el inicio de sesión único]**.
 
-¡Ya está! Ahora todos los usuarios (excepto los usuarios con permiso para omitir el inicio de sesión único) estarán restringidos a utilizar solo el inicio de sesión SSO.
+Ahora todos los usuarios (excepto los usuarios con permiso para omitir el inicio de sesión único) están restringidos a utilizar solo el inicio de sesión SSO.
 
 >[!MORELIKETHIS]
 >

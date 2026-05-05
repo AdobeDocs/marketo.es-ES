@@ -4,9 +4,9 @@ description: Aprenda a crear campos dinámicos personalizados en plantillas de S
 title: Crear campos dinámicos personalizados
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ Existen dos formas de crear campos dinámicos personalizados.
 
 Una vez almacenados los campos personalizados con los métodos anteriores, podrá hacer referencia a ellos en las plantillas.
 
-1. [Cree una plantilla](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) y haga clic en el botón **[!UICONTROL Campos dinámicos]** como lo haría normalmente.
+1. [Cree una plantilla](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template) y haga clic en el botón **[!UICONTROL Campos dinámicos]** como lo haría normalmente.
 
 1. Seleccione **[!UICONTROL Campos personalizados]** de la lista desplegable que aparece.
 

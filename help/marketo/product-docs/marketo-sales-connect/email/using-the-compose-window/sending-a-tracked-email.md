@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo enviar un correo electrónico rast
 title: Enviar un correo electrónico rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 3%
@@ -40,7 +40,7 @@ Al enviar un correo electrónico con [!DNL Marketo Sales Connect], se realizará
 
    >[!NOTE]
    >
-   >Si alguien que ha sido CC o CCO abre el correo electrónico, esa apertura se registrará como una vista en el registro de la persona en el campo **[!UICONTROL Para]**.
+   >Si alguien que ha recibido una CC o una CCO abre el correo electrónico, esa apertura se registrará como una vista en el registro de la persona en el campo **[!UICONTROL Para]**.
 
 1. Añada una línea de asunto.
 
@@ -57,4 +57,4 @@ Al enviar un correo electrónico con [!DNL Marketo Sales Connect], se realizará
    >[!MORELIKETHIS]
    >
    >* [Programando un correo electrónico](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)
