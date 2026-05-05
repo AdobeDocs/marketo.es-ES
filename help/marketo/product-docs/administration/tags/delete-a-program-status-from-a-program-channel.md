@@ -4,16 +4,16 @@ description: Cómo quitar un estado de programa de un canal en Administración e
 title: Eliminar un estado de programa de un canal de programa
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
 # Eliminar un estado de programa de un canal de programa {#delete-a-program-status-from-a-program-channel}
 
-Los estados de programa son los puntos de comprobación a través de una ruta de programas (canal). Si establece un estado por error o ya no lo necesita, puede eliminarlo.
+Los estados de programa son los puntos de comprobación a través de la ruta de un programa (canal). Si crea un estado por error o ya no lo necesita, puede eliminarlo.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -33,6 +33,6 @@ Los estados de programa son los puntos de comprobación a través de una ruta de
 
    >[!TIP]
    >
-   >Si hay alguna persona asignada actualmente al estado en cuestión, no puede eliminarla; sin embargo, puede ocultarla.
+   >Si hay alguna persona asignada actualmente al estado en cuestión, no puede eliminarla, pero puede ocultarla.
 
-¡Bien hecho! También puede [eliminar un canal completo](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si lo necesita.
+También puede [eliminar un canal completo](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si lo necesita.

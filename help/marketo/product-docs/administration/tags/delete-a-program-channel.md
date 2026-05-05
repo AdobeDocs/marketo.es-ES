@@ -4,9 +4,9 @@ description: Pasos para eliminar un canal de programa cuando no esté asociado a
 title: Eliminar un canal de programa
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -29,7 +29,7 @@ Si lo hace por accidente o ya no lo necesita, puede eliminarlo.
 
    >[!TIP]
    >
-   >Si el canal está asociado con algún programa, no puede eliminar, solo ocultar.
+   >Si el canal está asociado con algún programa, no puede eliminarlo, solo ocultarlo.
 
    ![](assets/delete-a-program-channel-3.png)
 

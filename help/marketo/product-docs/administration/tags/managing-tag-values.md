@@ -4,7 +4,7 @@ description: Cómo añadir, ocultar y mostrar los valores de etiqueta para las e
 title: Administrar valores de etiquetas
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Administrar valores de etiquetas {#managing-tag-values}
 
-Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para describir programas. Puede crear tantas como necesite, cada una con valores únicos. A continuación se indica cómo administrar esos valores.
+Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para describir programas. Puede crear tantas como necesite, cada una con valores únicos. Los pasos siguientes explican cómo administrar esos valores.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/wo
 
    ![](assets/managing-tag-values-4.png)
 
-1. Escriba un **[!UICONTROL Valor]** y haga clic en **[!UICONTROL Agregar otro]**. Puede agregar todos los valores que desee.
+1. Escriba un **[!UICONTROL Valor]** y haga clic en **[!UICONTROL Agregar otro]**. Puede agregar tantos valores como sea necesario.
 
    ![](assets/managing-tag-values-5.png)
 
@@ -49,7 +49,7 @@ Se usan [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/wo
 
    ![](assets/managing-tag-values-6.png)
 
-Debería ver los cambios inmediatamente.
+Los cambios aparecen inmediatamente.
 
 ![](assets/managing-tag-values-7.png)
 

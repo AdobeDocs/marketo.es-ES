@@ -4,7 +4,7 @@ description: Cómo crear un nuevo tipo de etiqueta con valores, elegir a qué ti
 title: Creación de etiquetas personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 4%
