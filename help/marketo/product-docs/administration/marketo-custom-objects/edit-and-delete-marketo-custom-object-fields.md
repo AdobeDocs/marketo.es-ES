@@ -4,9 +4,9 @@ description: Cómo editar o eliminar campos en un objeto personalizado no aproba
 title: Editar y eliminar campos de objetos personalizables de Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -31,7 +31,7 @@ A veces, es necesario editar un campo que aún no está aprobado.
 
    >[!NOTE]
    >
-   >No puede editar el nombre de la API.
+   >No puede editar el Nombre de la API.
 
 1. Los cambios aparecerán en el listado de **[!UICONTROL Campos]**.
 
@@ -39,17 +39,17 @@ A veces, es necesario editar un campo que aún no está aprobado.
 
 ## Eliminar un campo {#delete-a-field}
 
-Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
+Cuando un campo de un objeto personalizado ya no es necesario, puede eliminarlo.
 
 1. En la pestaña Campos, haga clic en **[!UICONTROL Acciones de campo]** y **[!UICONTROL Eliminar campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Asegúrese de que realmente desea eliminar el campo antes de extraer el déclencheur. Haga clic en **[!UICONTROL Eliminar]**.
+1. Confirme que desea eliminar el campo antes de continuar. Haga clic en **[!UICONTROL Eliminar]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-¡Se ha ido!
+El campo se elimina.
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

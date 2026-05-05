@@ -4,9 +4,9 @@ description: Pasos para agregar campos a un objeto personalizado, incluidos el n
 title: Añadir campos de objeto personalizables de Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Después de crear un objeto personalizado, debe agregarle campos para satisfacer sus necesidades comerciales.
 
-Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculo tienen un trabajo especial, para conectar objetos personalizados, y se tratan en [artículo independiente](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculo tienen un propósito específico (conectar objetos personalizados) y se tratan en [artículo independiente](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -45,7 +45,7 @@ Los campos definen la información específica que utiliza un objeto personaliza
    >
    >[!UICONTROL Nombre de API] solo se puede editar hasta que se apruebe.
 
-1. Ahora, elija un [!UICONTROL Tipo de datos] apropiado en la lista.
+1. Elija un [!UICONTROL Tipo de datos] apropiado en la lista.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
@@ -61,7 +61,7 @@ Los campos definen la información específica que utiliza un objeto personaliza
 
    >[!NOTE]
    >
-   >Si está creando una estructura &quot;uno a varios&quot;, debe añadir un campo Vínculo al objeto personalizado. Para una estructura &quot;varios a varios&quot;, no se necesita un campo de vínculo en el objeto personalizado, pero se deben añadir dos campos de vínculo en el objeto intermedio. Consulte [Agregar campos de vínculo de objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para crear los campos de vínculo y [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información sobre los tipos de objetos personalizados.
+   >Si está creando una estructura &quot;uno a varios&quot;, debe añadir un campo Enlace al objeto personalizado. Para una estructura &quot;varios a varios&quot;, no se necesita un campo de vínculo en el objeto personalizado, pero se deben añadir dos campos de vínculo en el objeto intermedio. Consulte [Agregar campos de vínculo de objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para crear los campos de vínculo y [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información sobre los tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >

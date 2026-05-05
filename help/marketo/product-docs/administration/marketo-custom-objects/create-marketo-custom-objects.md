@@ -4,16 +4,16 @@ description: Pasos para crear objetos personalizados de Marketo para estructuras
 title: Crear objetos personalizables de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 2%
+source-wordcount: '771'
+ht-degree: 4%
 
 ---
 
 # Crear objetos personalizables de Marketo {#create-marketo-custom-objects}
 
-Utilice objetos personalizados en Marketo para realizar un seguimiento de métricas específicas de su empresa. Esto puede ser cualquier cosa, desde autos hasta cursos, todo lo que desee modelar en Marketo para ejecutar sus campañas.
+Utilice objetos personalizados en Marketo para realizar un seguimiento de métricas específicas de su empresa. Esto puede ser cualquier cosa, desde autos hasta cursos, lo que sea que desee modelar en Marketo para ejecutar sus campañas.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
    >[!NOTE]
    >
-   >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante **[!UICONTROL Mostrar en detalle del posible cliente]**.
+   >Puede editar estos campos cuando los esté creando, pero una vez guardados, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante **[!UICONTROL Mostrar en detalle del posible cliente]**.
 
 1. Pase el control deslizante **[!UICONTROL Mostrar en detalle de posibles clientes]** para mostrar **[!UICONTROL Mostrar]** si desea ver datos de objetos personalizados en la página Base de datos. Haga clic en **[!UICONTROL Guardar]**.
 
@@ -67,7 +67,7 @@ Este ejemplo muestra un objeto personalizado Car para utilizarlo en una estructu
 
 ## Creación de un objeto personalizado para una estructura &quot;varios a varios&quot; {#create-a-custom-object-for-a-many-to-many-structure}
 
-En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para crear una relación &quot;varios a varios&quot; entre personas/empresas y cursos. Cuando haya terminado, creará un objeto intermedio para conectarlo a personas o empresas de la base de datos.
+En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para crear una relación &quot;varios a varios&quot; entre personas o empresas y cursos. Cuando haya terminado, creará un objeto intermedio para conectarlo a personas o empresas de la base de datos.
 
 >[!NOTE]
 >
@@ -91,7 +91,7 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
 
    >[!NOTE]
    >
-   >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante **[!UICONTROL Mostrar en detalle del posible cliente]**.
+   >Puede editar estos campos cuando los esté creando, pero una vez guardados, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante **[!UICONTROL Mostrar en detalle del posible cliente]**.
 
 1. Pase el control deslizante **[!UICONTROL Mostrar en detalle de posibles clientes]** para mostrar **[!UICONTROL Mostrar]** si desea ver datos de objetos personalizados en la página Base de datos. Haga clic en **[!UICONTROL Guardar]**.
 
@@ -105,7 +105,7 @@ En este ejemplo se muestra un objeto personalizado de curso, que se utiliza para
    >
    >Solo puede rellenar objetos personalizados de Marketo mediante una importación de lista o la [API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api).
 
-El siguiente paso es crear el objeto intermedio (consulte a continuación). Pero antes de eso, debe crear un campo al que vincularse.
+El siguiente paso es crear el objeto intermedio (consulte a continuación). Antes de ello, debe crear un campo al que vincularse.
 
 ## Crear un objeto intermedio {#create-an-intermediary-object}
 
@@ -133,9 +133,9 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
 
    >[!NOTE]
    >
-   >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante [!UICONTROL Mostrar en detalle del posible cliente].
+   >Puede editar estos campos cuando los esté creando, pero una vez guardados, solo podrá editar el campo [!UICONTROL Nombre plural] y el control deslizante [!UICONTROL Mostrar en detalle del posible cliente].
 
-1. Pase el control deslizante **[!UICONTROL Mostrar en detalle de posibles clientes]** para mostrar **Mostrar** si desea ver datos de objetos personalizados en la página Base de datos. Haga clic en **Guardar**.
+1. Pase el control deslizante **[!UICONTROL Mostrar en detalle de posibles clientes]** para mostrar **[!UICONTROL Mostrar]** si desea ver datos de objetos personalizados en la página Base de datos. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

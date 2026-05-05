@@ -4,9 +4,9 @@ description: Cómo añadir campos de vínculo para conectar objetos personalizad
 title: Añadir campos de vínculo de objetos personalizables de Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '735'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Al crear objetos personalizados, debe proporcionar campos de vínculo para conec
 
 ## Creación de un campo de vínculo para una estructura &quot;uno a varios&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
-A continuación, se muestra cómo crear un campo de vínculo en un objeto personalizado para una estructura &quot;uno a varios&quot;.
+Siga los pasos a continuación para crear un campo de vínculo en un objeto personalizado para una estructura &quot;uno a varios&quot;.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -42,13 +42,13 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Asigne un nombre al campo de vínculo y agregue una [!UICONTROL descripción] opcional. Asegúrese de seleccionar el tipo de datos [!UICONTROL Link].
+1. Asigne un nombre al campo de vínculo y agregue una [!UICONTROL descripción] opcional. Seleccione el tipo de datos [!UICONTROL Link].
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Una vez que se apruebe el objeto personalizado, no podrás volver atrás y crear, editar ni eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
+   >Una vez aprobado el objeto personalizado, no es posible volver atrás y crear, editar o eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
 
 1. Seleccione si el [!UICONTROL objeto de vínculo] es para un [!UICONTROL posible cliente] (persona) o una [!UICONTROL empresa].
 
@@ -56,7 +56,7 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
 
    >[!NOTE]
    >
-   >Si eliges [!UICONTROL posible cliente], verás el identificador, la dirección de correo electrónico y cualquier campo personalizado en la lista.
+   >Si elige [!UICONTROL posible cliente], verá el ID, la dirección de correo electrónico y cualquier campo personalizado en la lista.
    >
    >Si elige [!UICONTROL empresa], verá el identificador y cualquier campo personalizado en la lista.
 
@@ -74,7 +74,7 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto person
 
 ## Creación de un campo de vínculo para una estructura &quot;varios a varios&quot; {#create-a-link-field-for-a-many-to-many-structure}
 
-A continuación, se muestra cómo crear un campo de vínculo en un objeto intermedio para utilizarlo en una estructura de varios a varios.
+Siga los pasos a continuación para crear un campo de vínculo en un objeto intermedio para utilizarlo en una estructura de varios a varios.
 
 >[!PREREQUISITES]
 >
@@ -96,13 +96,13 @@ A continuación, se muestra cómo crear un campo de vínculo en un objeto interm
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Debe crear dos campos de vínculo. Créelos de uno en uno. En primer lugar, asigne un nombre al campo de los miembros de la lista de la base de datos (por ejemplo, leadID). Agregue una [!UICONTROL descripción] opcional. Asegúrese de seleccionar el [!UICONTROL vínculo] [!UICONTROL tipo de datos].
+1. Cree dos campos de vínculo, uno a la vez. En primer lugar, asigne un nombre al campo de los miembros de la lista de la base de datos (por ejemplo, leadID). Agregue una [!UICONTROL descripción] opcional. Seleccione el [!UICONTROL vínculo] [!UICONTROL Tipo de datos].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Una vez que se apruebe el objeto personalizado, no podrás volver atrás y crear, editar ni eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
+   >Una vez aprobado el objeto personalizado, no es posible volver atrás y crear, editar o eliminar un [!UICONTROL vínculo] o [!UICONTROL campo desduplicado].
 
 1. Seleccione [!UICONTROL Link Object] de la base de datos; en este caso, [!UICONTROL Lead].
 

@@ -4,10 +4,10 @@ description: Cómo aprobar objetos personalizados nuevos o editados en Administr
 title: Aprobar un objeto personalizable
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '303'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Debe aprobar un objeto personalizado para poder utilizarlo. El proceso es ligera
 
 ## Aprobar un nuevo objeto personalizado {#approve-a-new-custom-object}
 
-Ha creado un objeto personalizado completamente nuevo. Así es como se aprueba.
+Se ha creado un nuevo objeto personalizado. Siga los pasos a continuación para aprobarla.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -27,7 +27,7 @@ Ha creado un objeto personalizado completamente nuevo. Así es como se aprueba.
 
    ![](assets/approve-a-custom-object-2.png)
 
-1. Seleccione un objeto que esté en estado de Borrador.
+1. Seleccione un objeto que esté en estado Borrador.
 
    ![](assets/approve-a-custom-object-3.png)
 
@@ -43,13 +43,13 @@ Ha creado un objeto personalizado completamente nuevo. Así es como se aprueba.
    >
    >Un objeto personalizado utilizado en una _estructura &quot;uno a varios&quot;_ debe tener al menos un campo desduplicado, un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado para ser aprobado.
    >
-   >Un objeto personalizado que se usa en una estructura _varios a varios_ **no** necesita un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado cuando lo aprueba (porque residen en el objeto intermedio).
+   >Un objeto personalizado utilizado en una estructura _varios a varios_ **no** necesita un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado cuando lo aprueba (ya que residen en el objeto intermedio).
    >
-   >Un objeto personalizado que se usa como _objeto intermedio_ requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no** requiere un campo desduplicado.
+   >Un objeto personalizado utilizado como _objeto intermedio_ requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no** requiere un campo desduplicado.
    >
    >Consulte [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información.
 
-¡Ya está! Ahora puede seleccionar el objeto personalizado dentro de las restricciones de los filtros y déclencheur para utilizarlo en sus campañas.
+Ahora puede seleccionar el objeto personalizado dentro de las restricciones de los filtros y déclencheur para utilizarlo en sus campañas.
 
 ## Aprobar un objeto personalizado editado {#approve-an-edited-custom-object}
 

@@ -4,16 +4,16 @@ description: Pasos para importar datos de objeto personalizados mediante un arch
 title: Importar datos de objetos personalizables
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '252'
 ht-degree: 4%
 
 ---
 
 # Importar datos de objetos personalizables {#import-custom-object-data}
 
-Es fácil importar datos de objeto personalizados en la base de datos. Si usa objetos personalizados con empresas, vea [Usar objetos personalizados con empresas](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
+Siga los pasos a continuación para importar datos de objeto personalizados en la base de datos. Si usa objetos personalizados con empresas, vea [Usar objetos personalizados con empresas](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
 
 1. En Mi Marketo, vaya a **[!UICONTROL Base de datos]**.
 
@@ -37,7 +37,7 @@ Es fácil importar datos de objeto personalizados en la base de datos. Si usa ob
 
    >[!NOTE]
    >
-   >Utilice los campos de desduplicación como identificadores únicos al crear o actualizar registros de objetos personalizados. Este ejemplo usa el campo Desduplicación del objeto personalizado **car**: vin (número de identificación del vehículo). Si solo está actualizando registros de objetos personalizados, puede seleccionar [!UICONTROL Marketo Guid] como [!UICONTROL Modo de desduplicación].
+   >Utilice uno o varios campos Desduplicar como identificadores únicos al crear o actualizar registros de objeto personalizados. Este ejemplo usa el campo Desduplicación del objeto personalizado **car**: vin (número de identificación del vehículo). Si solo está actualizando registros de objetos personalizados, puede seleccionar [!UICONTROL Marketo Guid] como [!UICONTROL Modo de desduplicación].
 
 1. Asigne cada columna a un campo de Marketo, seleccionándolo en la lista desplegable.
 
@@ -45,7 +45,7 @@ Es fácil importar datos de objeto personalizados en la base de datos. Si usa ob
 
    >[!NOTE]
    >
-   >Asegúrese de que los valores del archivo coincidan con el tipo de campo con el que los hace coincidir (por ejemplo, texto, entero, etc.); de lo contrario, el archivo se rechazará.
+   >Asegúrese de que los valores del archivo coincidan con el tipo de campo con el que desea hacerlos coincidir (por ejemplo, texto, entero, etc.); de lo contrario, el archivo se rechazará.
 
 1. Haga clic en **[!UICONTROL Next]**.
 
@@ -61,13 +61,11 @@ Es fácil importar datos de objeto personalizados en la base de datos. Si usa ob
 
    >[!TIP]
    >
-   >Escriba su dirección de correo electrónico en el campo **[!UICONTROL Enviar alerta a]** y Marketo le enviará un correo electrónico cuando finalice la importación.
+   >Escribe tu dirección de correo electrónico en el campo **[!UICONTROL Enviar alerta a]** y Marketo te enviará un correo electrónico cuando se complete la importación.
 
 1. En la esquina superior derecha de la pantalla, verá una notificación mientras se ejecuta la importación y los resultados finales cuando se complete.
 
    ![](assets/import-custom-object-data-9.png)
-
-   ¡Yay!
 
 >[!MORELIKETHIS]
 >

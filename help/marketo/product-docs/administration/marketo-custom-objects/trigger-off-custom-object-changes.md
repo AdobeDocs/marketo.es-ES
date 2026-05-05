@@ -4,10 +4,10 @@ description: Cómo utilizar objetos personalizados para agregar o cambiar décle
 title: Desactivar cambios en objetos personalizables
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 5%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 5%
 >Esta función solo está disponible:
 >
 >* Solo se puede usar con objetos personalizados de Marketo, no con objetos personalizados sincronizados mediante la integración nativa de [!DNL Salesforce] o [!DNL Microsoft Dynamics]
+>
 >* Como déclencheur, no como filtro
 >
 >Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para que se habiliten los Déclencheur de cambio de objeto personalizado.
@@ -48,7 +49,7 @@ En la lista inteligente de una campaña inteligente, puede almacenar en déclenc
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. Y ahí estás. El cambio se guarda automáticamente.
+1. El cambio se guarda automáticamente.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 
