@@ -4,16 +4,16 @@ description: Pasos para establecer una página de reserva para que los visitante
 title: Establecer una página de reserva
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '81'
 ht-degree: 13%
 
 ---
 
 # Establecer una página de reserva {#set-a-fallback-page}
 
-Las páginas de reserva son la última línea de defensa si la página de aterrizaje está sin conexión o no se encuentra. Asegúrese de que tiene uno.
+Las páginas de reserva son la última línea de defensa si la página de aterrizaje está sin conexión o no se encuentra. Asegúrese de tener uno configurado.
 
 >[!NOTE]
 >

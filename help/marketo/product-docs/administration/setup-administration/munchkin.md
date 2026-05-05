@@ -4,15 +4,15 @@ description: Información general sobre el fragmento de código JavaScript de Mu
 title: '[!DNL Munchkin]'
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 1%
+source-wordcount: '67'
+ht-degree: 16%
 
 ---
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] es el fragmento de JavaScript que colocó en su sitio web. Rastrea visitas, clics y rellenos de formularios. También tiene una API rica para hacer todo tipo de cosas interesantes.
+[!DNL Munchkin] es el fragmento de JavaScript que colocó en su sitio web. Rastrea visitas, clics y rellenos de formularios. También tiene una API enriquecida con funcionalidades adicionales.
 
-Consulte la [página para desarrolladores de [!DNL Munchkin]](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} para obtener más información.
+Consulte la [página de desarrollador en [!DNL Munchkin]](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} para obtener más información.

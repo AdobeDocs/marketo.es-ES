@@ -4,7 +4,7 @@ description: Cómo activar o desactivar las características experimentales de T
 title: Habilitar o deshabilitar las funciones del cofre del tesoro
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 17%
@@ -13,7 +13,7 @@ ht-degree: 17%
 
 # Habilitar o deshabilitar las funciones del cofre del tesoro {#enable-or-disable-treasure-chest-features}
 
-El cofre del tesoro contiene divertidas características experimentales que no son totalmente compatibles.
+El cofre del tesoro contiene características experimentales que no son totalmente compatibles.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ El cofre del tesoro contiene divertidas características experimentales que no s
 
    >[!TIP]
    >
-   >Es posible que tenga que cerrar la sesión y volver a Marketo para ver cómo se aplican los cambios.
+   >Es posible que tenga que cerrar la sesión y volver a iniciarla en Marketo para ver cómo se aplican los cambios.

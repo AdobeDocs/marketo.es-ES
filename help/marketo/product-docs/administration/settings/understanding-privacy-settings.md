@@ -4,9 +4,9 @@ description: Información general sobre las opciones de privacidad y seguimiento
 title: Explicación de la configuración de privacidad
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Para ello, debe agregar un parámetro a un vínculo de no participación en una 
 
 ?marketo_opt_out=true
 
-A continuación se muestran ejemplos de una página web con un vínculo de no participación y una página de aterrizaje para después de hacer clic en el vínculo. El suyo variará.
+A continuación se muestran ejemplos de una página web con un vínculo de no participación y una página de aterrizaje para después de hacer clic en el vínculo. Estos variarán.
 
 Esta es una página web con un botón con el parámetro &quot;?marketo_opt_out=true&quot; en el vínculo de no participación.
 
@@ -66,9 +66,9 @@ Los especialistas en marketing pueden permitir que los usuarios acepten la inclu
 
 ## Seguimiento con una IP anónima {#tracking-using-an-anonymized-ip}
 
-Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, agregue este código al RTP o al JavaScript [!DNL Munchkin] incrustado en el sitio web.
+Los especialistas en marketing pueden preservar la privacidad realizando un seguimiento de los usuarios con una dirección IP anónima. Para ello, agregue este código al RTP o [!DNL Munchkin] JavaScript que está incrustado en el sitio web.
 
-* Para [!DNL Munchkin], simplemente agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], agregue `{"anonymizeIP",true}` a la [función init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para Web Personalization (RTP), añádalo al javascript:
 

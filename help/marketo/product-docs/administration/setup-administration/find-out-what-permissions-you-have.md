@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo ver los permisos actuales de Marke
 title: Descubra qué permisos tiene
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 21%
+source-wordcount: '67'
+ht-degree: 23%
 
 ---
 
 # Descubra qué permisos tiene {#find-out-what-permissions-you-have}
 
-Si se está preguntando qué permisos tiene o no tiene en Marketo, hay una manera fácil de averiguarlo.
+Siga los pasos a continuación para ver qué permisos tiene en Marketo.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -23,7 +23,7 @@ Si se está preguntando qué permisos tiene o no tiene en Marketo, hay una maner
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 
-Verá una lista de los permisos.
+Verá los permisos en la lista.
 
 ![](assets/find-out-what-permissions-you-have-3.png)
 

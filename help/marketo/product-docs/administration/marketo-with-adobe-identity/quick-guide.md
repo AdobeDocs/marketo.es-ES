@@ -3,10 +3,10 @@ description: Referencia rápida con vínculos para configurar Marketo Engage con
 title: Guía rápida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 81%
+source-wordcount: '135'
+ht-degree: 69%
 
 ---
 
@@ -24,21 +24,21 @@ Creación de perfiles de producto y administradores de productos.
 
 ## Gestión de usuarios {#user-management}
 
-Añadir y quitar usuarios. Completado por el administrador de productos (o el administrador del sistema).
+Agregar y eliminar usuarios. Completado por el administrador de productos (o el administrador del sistema).
 
 [Añadir un usuario](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
-[Quitar un usuario](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
+[Eliminar un usuario](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
 ## Usuario único de API en Marketo Engage {#api-only-user-in-marketo-engage}
 
 Los usuarios únicos de API de Marketo Engage deben crearse y administrarse en Marketo Engage.
 
-[Añadir usuario único de API a las suscripciones habilitadas para IMS de Adobe](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
+[Añadir usuario solo de API para suscripciones habilitadas para IMS de Adobe](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
 ## Añadir usuarios a través de CSV {#add-users-via-csv}
 
-[Importar un CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importación de un CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Inicio de sesión de usuario {#user-sign-in}
 

@@ -4,16 +4,16 @@ description: Crear un diseño personalizado para la página de detalles de la pe
 title: Creación de una pestaña personalizada para la página de detalles de la persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
 # Creación de una pestaña personalizada para la página de detalles de la persona {#creating-a-custom-tab-for-the-person-detail-page}
 
-Si busca un conjunto específico de campos en los detalles de la persona una y otra vez, plantéese crear un diseño personalizado para facilitar las cosas.
+Si necesita acceder con frecuencia a un conjunto específico de campos en la página de detalles de la persona, plantéese crear un diseño personalizado.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
@@ -43,6 +43,6 @@ Si busca un conjunto específico de campos en los detalles de la persona una y o
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   ¡Increíble trabajo! Ahora, al cargar los detalles de una persona, puede utilizar su diseño personalizado para acceder a la información importante para usted.
+   Al cargar los detalles de una persona, puede utilizar su diseño personalizado para acceder a la información importante para usted.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

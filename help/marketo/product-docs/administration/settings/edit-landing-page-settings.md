@@ -4,16 +4,16 @@ description: Cómo editar el nombre de dominio, la página de reserva, el rellen
 title: Editar configuración de página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
 # Editar configuración de página de destino {#edit-landing-page-settings}
 
-Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar el rellenado previo del formulario, evitar el uso indebido de su página de aterrizaje y mucho más. Así es cómo se hace.
+Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar el rellenado previo del formulario, evitar el uso indebido de su página de aterrizaje y mucho más. Siga los pasos a continuación.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
    | Término | Definición |
    |---|---|
-   | [!UICONTROL Nombre de dominio para páginas de aterrizaje] | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;ir&quot; es el CNAME. Puede tener varios, pero la mayoría de las personas solo utilizan el uno. |
+   | [!UICONTROL Nombre de dominio para páginas de aterrizaje] | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;ir&quot; es el CNAME. Puede tener varios, pero la mayoría de las personas solo utilizan uno. |
    | [!UICONTROL Página de reserva] | Aquí es donde debe ir si la página de aterrizaje no existe o está caída. Más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Página principal] | Introduzca la URL de su sitio corporativo. |
 
@@ -55,4 +55,4 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   ¡Buen trabajo! Las páginas de aterrizaje ahora tienen la información correcta y deben empezar a funcionar de inmediato.
+   Las páginas de aterrizaje ahora tienen la información correcta y deben comenzar a funcionar inmediatamente.

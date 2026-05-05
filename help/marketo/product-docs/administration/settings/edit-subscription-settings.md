@@ -4,16 +4,16 @@ description: Cómo asignar un nombre único a la suscripción de Marketo para qu
 title: Editar configuración de suscripción
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 9%
 
 ---
 
 # Editar configuración de suscripción {#edit-subscription-settings}
 
-Si tiene acceso a varias suscripciones de Marketo y desea asegurarse de cuál está utilizando, intente asignar a cada una un nombre único. A continuación, ese nombre se muestra en la parte superior de la página de suscripción.
+Si tiene acceso a varias suscripciones de Marketo y desea confirmar cuál está utilizando, asigne a cada una un nombre único. A continuación, ese nombre se muestra en la parte superior de la página de suscripción.
 
 Por ejemplo, si trabaja en instancias de producción y de zona protegida, puede asignar un nombre a una suscripción **Marketo Production** y a la otra **zona protegida de Marketo**.
 

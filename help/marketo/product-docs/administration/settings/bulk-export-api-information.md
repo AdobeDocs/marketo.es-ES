@@ -3,16 +3,16 @@ description: Cómo comprobar el uso de capacidad de la API de extracción masiva
 title: Información sobre la API de exportación masiva
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 7%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
 # Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace; ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
+Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1} ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
 
 >[!NOTE]
 >

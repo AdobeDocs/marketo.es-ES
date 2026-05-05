@@ -3,10 +3,10 @@ description: Información general sobre Adobe Identity Management para Marketo E
 title: Información general sobre Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 6%
 
 ---
 
@@ -43,7 +43,7 @@ Las suscripciones de Adobe Marketo Engage integradas en el sistema Identity Mana
  </tr>
  <tr>
   <td><strong>Administrador de Marketo Engage</strong></td>
-  <td>Una persona a la que se le ha dado acceso a Marketo Engage con privilegios administrativos. Se ha concedido la función en Marketo Engage, no en Adobe Admin Console (aparece como "Admin" en el modal <b>Editar usuario</b>).</td>
+  <td>Una persona a la que se le ha dado acceso a Marketo Engage con privilegios administrativos. Se ha concedido la función en Marketo Engage, no en Adobe Admin Console (aparece solo como "Administrador" en el modal <b>Editar usuario</b>).</td>
  </tr>
  <tr>
   <td><strong>Usuario de Marketo Engage</strong></td>

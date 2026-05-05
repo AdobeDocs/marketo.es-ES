@@ -4,9 +4,9 @@ description: Cómo establecer opciones de atribución de primer contacto y de m�
 title: Cambiar la configuración de atribución para Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Esta configuración afectará los informes de [!UICONTROL Explorador de ingresos
 
    >[!TIP]
    >
-   >Al cambiar esta configuración no se modifica ningún dato de Marketo; simplemente se cambia la forma en que se ejecutan los informes. Esto se puede revertir en cualquier momento.
+   >Al cambiar esta configuración no se modifica ningún dato de Marketo; cambia la forma en que se ejecutan los informes. Esto se puede revertir en cualquier momento.
 
 1. Seleccione una opción y haga clic en **[!UICONTROL Guardar]**.
 

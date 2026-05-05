@@ -3,16 +3,16 @@ description: Cómo habilitar y utilizar el Inspector de campaña de para ver y b
 title: Inspector de campañas
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
 # Inspector de campañas {#campaign-inspector}
 
-Utilice el Inspector de campaña para ver o buscar todas las campañas inteligentes en un solo lugar.
+Utilice el Inspector de campaña para ver y buscar todas las campañas inteligentes en un solo lugar.
 
 ## Habilitar el Inspector de campaña {#enable-campaign-inspector}
 
@@ -34,7 +34,7 @@ Utilice el Inspector de campaña para ver o buscar todas las campañas inteligen
 
    >[!NOTE]
    >
-   >El espacio de trabajo deseado debe estar seleccionado en el árbol para ver la pestaña Inspector de campaña una vez que se ha habilitado.
+   >El espacio de trabajo deseado debe seleccionarse en el árbol para ver la pestaña Inspector de campaña después de habilitarla.
 
 ## Uso del Inspector de campaña {#using-campaign-inspector}
 

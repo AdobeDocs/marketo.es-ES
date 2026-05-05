@@ -3,9 +3,9 @@ description: Cómo habilitar el permiso Reglas de validación de formularios de 
 title: Reglas de formulario de validación global
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
 
 >[!IMPORTANT]
 >
->Estas reglas se aplicarán a todos los formularios de sus suscripciones a Marketo Engage.
+>Estas reglas se aplicarán a todos los formularios de las suscripciones de Marketo Engage.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
@@ -64,13 +64,13 @@ Para poder utilizar esta función, debe habilitar su permiso para cada función 
    >
    >La lista desplegable [!UICONTROL Acciones de regla de validación de formulario] le permite eliminar o editar las reglas existentes.
 
-1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Escriba los dominios que quiera bloquear en el cuadro de reglas, seleccione **[!UICONTROL Activar regla]** y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Escriba uno o varios dominios que desee bloquear en el cuadro de reglas, seleccione **[!UICONTROL Activar regla]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor libre que se bloquean al utilizar nuestra regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Vea esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para descargarla, asegúrese de que su explorador esté actualizado y de que puede aceptar descargas).
+>Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor libre que se bloquean al utilizar la regla precargada &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot;. [Ver esa lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para descargarla, asegúrate de que tu navegador esté actualizado y de que acepte descargas).
 
 ## Cómo deshabilitar el acceso por formulario{#how-to-disable-access-per-form}
 
