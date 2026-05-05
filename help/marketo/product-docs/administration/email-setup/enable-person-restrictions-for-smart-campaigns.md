@@ -4,10 +4,10 @@ description: Establezca un número máximo de personas que puedan cumplir los re
 title: Habilitar restricciones de persona para campañas inteligentes
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 10%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -37,7 +37,7 @@ Hay una función en Marketo para limitar el _número máximo_ de personas que pu
 
    >[!CAUTION]
    >
-   >Si el número de personas aptas para ejecutar una campaña inteligente supera el límite establecido, no se ejecutará en absoluto.
+   >Si el número de personas que cumplen los requisitos para ejecutar una campaña inteligente supera el límite establecido, no se ejecutará en absoluto.
 
 1. Introduce un límite y haz clic en **[!UICONTROL Guardar]**.
 
@@ -50,8 +50,6 @@ Hay una función en Marketo para limitar el _número máximo_ de personas que pu
    >[!CAUTION]
    >
    >Este límite se aplica a todas las campañas inteligentes, pero se puede anular en el nivel de campaña. Aprenda a [anular las restricciones de persona en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
-
-¡Listo! Acaba de encender el interruptor de seguridad.
 
 >[!MORELIKETHIS]
 >

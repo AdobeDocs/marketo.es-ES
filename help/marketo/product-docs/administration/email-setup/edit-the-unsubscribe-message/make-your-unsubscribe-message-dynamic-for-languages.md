@@ -4,16 +4,16 @@ description: Utilice el contenido dinámico y la segmentación para mostrar el m
 title: Haga que el mensaje de cancelación de suscripción sea dinámico para idiomas
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 6%
+source-wordcount: '472'
+ht-degree: 8%
 
 ---
 
 # Haga que el mensaje de cancelación de suscripción sea dinámico para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
 
-El mensaje y el vínculo predeterminados para cancelar la suscripción están en inglés. Puede utilizar el contenido dinámico para mostrarlo en diferentes idiomas.
+El mensaje y el vínculo predeterminados para cancelar la suscripción están en inglés. Puede utilizar contenido dinámico para mostrarlos en diferentes idiomas.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ El mensaje y el vínculo predeterminados para cancelar la suscripción están en
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Vaya a la ficha **[!UICONTROL Lista inteligente]**. Escriba **[!UICONTROL Idioma preferido]** en el campo de búsqueda. Arrastre y suelte el filtro en el lienzo.
+1. Vaya a la pestaña **[!UICONTROL Lista inteligente]**. Escriba **[!UICONTROL Idioma preferido]** en el campo de búsqueda. Arrastre y suelte el filtro en el lienzo.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -71,7 +71,7 @@ El mensaje y el vínculo predeterminados para cancelar la suscripción están en
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. En el menú desplegable **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo fragmento]**.
+1. En la lista desplegable **[!UICONTROL Nuevo]**, haga clic en **[!UICONTROL Nuevo fragmento]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -95,7 +95,7 @@ El mensaje y el vínculo predeterminados para cancelar la suscripción están en
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Seleccione un segmento del árbol. Haga clic en su cancelación de suscripción y luego en el icono de enlace.
+1. Seleccione un segmento del árbol. Haga clic en el texto &quot;Cancelar la suscripción&quot; y luego en el icono de vínculo.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,11 +107,9 @@ El mensaje y el vínculo predeterminados para cancelar la suscripción están en
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Fantástico. ¡Ya casi está!
+## Uso de un fragmento en un correo electrónico {#use-a-snippet-in-an-email}
 
-## Usar fragmento de código en un correo electrónico {#use-snippet-in-an-email}
-
-1. Dentro del editor de correo electrónico, haga clic en el elemento editable. A continuación, haga clic en el icono de engranaje y seleccione **[!UICONTROL Reemplazar con fragmento]**. Si está seleccionando un elemento de fragmento editable, haga clic en el icono de engranaje y seleccione **[!UICONTROL Editar]**.
+1. Dentro del editor de correo electrónico, haga clic en el elemento editable. A continuación, haga clic en el icono de engranaje y seleccione **[!UICONTROL Reemplazar con fragmento]**. Si selecciona un elemento de fragmento editable, haga clic en el icono de engranaje y seleccione **[!UICONTROL Editar]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -119,7 +117,7 @@ Fantástico. ¡Ya casi está!
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Para probarlo, haga clic en **[!UICONTROL Atrás]**...
+1. Para probar, haga clic en **[!UICONTROL Atrás]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
@@ -133,9 +131,9 @@ Fantástico. ¡Ya casi está!
 
    >[!TIP]
    >
-   >Por supuesto, también puede editar el resto del correo electrónico para lenguaje dinámico. Mientras está en ello, realice la misma técnica en la página de cancelación de suscripción.
+   >También puede editar el resto del correo electrónico para lenguaje dinámico. Utilice la misma técnica en la página de cancelación de suscripción.
 
-## Personalización de la página de cancelación de suscripción con contenido dinámico {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Personalización de la página de cancelación de suscripción con contenido dinámico {#customize-your-unsubscribe-page-with-dynamic-content}
 
 Si desea que sus recursos accedan a una página de cancelación de suscripción en su idioma preferido, puede utilizar contenido dinámico en la página de aterrizaje y en la página de confirmación.
 
@@ -159,8 +157,6 @@ Si desea que sus recursos accedan a una página de cancelación de suscripción 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Edite el contenido de cada página de aterrizaje, apruébelo y ya está listo.
-
    >[!NOTE]
    >
-   >Más información sobre [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) y todas las cosas interesantes que puedes hacer.
+   >Más información sobre [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).

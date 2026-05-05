@@ -4,16 +4,16 @@ description: Establezca límites de correo electrónico por día y por 7 días p
 title: Habilitar límites de comunicación
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 
 # Habilitar límites de comunicación {#enable-communication-limits}
 
-Es muy importante que no te excedas en la comunicación con tu gente. Establecer límites de comunicación le ayudará a evitar que su organización envíe demasiados correos electrónicos.
+Es importante no excederse en la comunicación con su gente. Establecer límites de comunicación le ayudará a evitar que su organización envíe demasiados correos electrónicos.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
    >
    >[!UICONTROL Por día] se basa en el día del calendario en el huso horario de la suscripción (medianoche-medianoche).
 
-1. Haga clic en el menú desplegable **[!UICONTROL Por día]** y seleccione el límite deseado. En este ejemplo elegimos 1.
+1. Haga clic en el menú desplegable **[!UICONTROL Por día]** y seleccione el límite deseado. En este ejemplo, se está utilizando 1.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
    >
    >También puede elegir **[!UICONTROL Personalizado]** si ninguna de las opciones preestablecidas funciona para usted.
 
-1. Haga clic en el menú desplegable **[!UICONTROL Por 7 días]** y seleccione el límite deseado. En este ejemplo elegimos 5.
+1. Haga clic en el menú desplegable **[!UICONTROL Por 7 días]** y seleccione el límite deseado. En este ejemplo, se está utilizando 5.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ Es muy importante que no te excedas en la comunicación con tu gente. Establecer
    >
    >**Ejemplo**
    >
-   >La configuración anterior significa que las personas no recibirán más de **correo electrónico al día** o más de **5 en un período de siete días**.
+   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico al día** o más de **5 en un período de siete días**.
 
    >[!NOTE]
    >

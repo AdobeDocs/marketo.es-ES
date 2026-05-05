@@ -4,10 +4,10 @@ description: Cambie el dominio de marca genérico al dominio de empresa al utili
 title: Editar el dominio de marca predeterminado con espacios de trabajo
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 11%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 11%
    >[!NOTE]
    >
    >**[!UICONTROL Add]** no funciona hasta que edites el dominio genérico. **[!UICONTROL Eliminar]** no funciona hasta que agregue un segundo dominio.
-   >
-   >No puede agregar un dominio adicional hasta que edite primero el dominio genérico.
 
 1. Escriba el nombre de su dominio predeterminado y haga clic en **[!UICONTROL Siguiente]**.
 
@@ -41,6 +39,6 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Al agregar dominios de promoción de la marca adicionales, puede elegir que este sea su dominio principal para uno o más espacios de trabajo, y todos los correos electrónicos no enviados existentes establecidos en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se establecerán de forma predeterminada en el dominio principal. Puede anular esto por correo electrónico.
+>Al agregar dominios de promoción de la marca adicionales, puede elegir que este sea su dominio principal para uno o más espacios de trabajo, y todos los correos electrónicos no enviados existentes que estén configurados en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se establecerán de forma predeterminada en el dominio principal. Puede anular esto por correo electrónico.
 
 Ahora puede [agregar los dominios de promoción de la marca adicionales](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) que necesite para los espacios de trabajo.

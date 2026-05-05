@@ -4,16 +4,16 @@ description: Personalice el texto Ver como vínculo de página web y HTML en Cor
 title: Editar el mensaje “Ver como página web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 13%
+source-wordcount: '182'
+ht-degree: 24%
 
 ---
 
 # Editar el mensaje “Ver como página web” {#edit-the-view-as-web-page-message}
 
-Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, así es.
+Aprenda a editar el texto &quot;[Ver como página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-d
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >La segunda parte `##MKT_TOK##` es la cookie [!UICONTROL munchkin] de esa persona. Se asegura de que se les cookies correctamente cuando hacen clic en el vínculo.
+   >La segunda parte `##MKT_TOK##` es la cookie [!UICONTROL Munchkin] de esa persona. Garantiza que se realice un seguimiento adecuado cuando haga clic en el vínculo.
 
 1. Edite las versiones de **[!UICONTROL Ver como página web HTML]** y **[!UICONTROL Ver como página web Text]** a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
 
@@ -48,7 +48,7 @@ Si necesita editar el texto &quot;[Ver como página web](/help/marketo/product-d
 >* Añadir direcciones URL adicionales a cualquiera de los cuadros de HTML
 >* Incluir HTML en la versión de texto
 
-Ahí lo tienes. Envíe correos electrónicos de prueba para garantizar el formato.
+Envíe correos electrónicos de prueba para verificar el formato.
 
 ## Texto predeterminado de &quot;Ver como página web&quot; {#default-view-as-web-page-text}
 
@@ -62,5 +62,3 @@ Si alguna vez necesita volver al sistema predeterminado &quot;[!UICONTROL Ver co
 
 Para ver este correo electrónico como una página web, vaya a la siguiente dirección:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-¡Eso es todo!

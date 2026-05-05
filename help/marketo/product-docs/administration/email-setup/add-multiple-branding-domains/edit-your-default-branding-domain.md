@@ -4,10 +4,10 @@ description: Reemplace el dominio de seguimiento genérico con el dominio de mar
 title: Editar el dominio de marca predeterminado
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
@@ -27,7 +27,7 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. En la tabla [!UICONTROL Dominios de marca], seleccione el dominio genérico y haga clic en Editar para cambiarlo al dominio con marca de su compañía.
+1. En la tabla [!UICONTROL Dominios de marca], seleccione el dominio genérico y haga clic en **[!UICONTROL Editar]** para cambiarlo al dominio de marca de su compañía.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -43,4 +43,4 @@ Ahora puede [agregar los dominios de promoción de la marca adicionales](/help/m
 
 >[!NOTE]
 >
->Si necesita actualizar o quitar un SSL existente, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Si necesita actualizar o quitar un SSL existente, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

@@ -4,9 +4,9 @@ description: Obtenga información acerca de la implementación de rtp con el adm
 title: Implementación de RTP mediante Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '230'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Haga clic en **[!UICONTROL Guardar código]** en el editor de scripts y en **[!UICONTROL Guardar regla]** en el editor de reglas.
 
-1. En el panel Reglas, busque la regla de carga de página Marketo RTP y, en el menú desplegable **[!UICONTROL Acciones]**, seleccione **[!UICONTROL Activar reglas]**.
+1. En el panel Reglas, busque la regla de carga de página RTP de Marketo y, en la lista desplegable **[!UICONTROL Acciones]**, seleccione **[!UICONTROL Activar reglas]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
