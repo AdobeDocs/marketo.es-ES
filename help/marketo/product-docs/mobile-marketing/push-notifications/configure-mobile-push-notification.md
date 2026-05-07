@@ -3,7 +3,7 @@ description: Obtenga información sobre cómo configurar una notificación push 
 title: Configurar notificación push para dispositivos móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 3d0c7a7ee68bfcd128ba106bef4e44d88eac02cc
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 4%
@@ -82,11 +82,11 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
-## Redirigir direcciones URL {#redirect-urls}
+## URI de redireccionamiento {#redirect-uris}
 
-Las direcciones URL de redireccionamiento configuradas en los mensajes de notificaciones push admiten tokens de Marketo en ellos. Solo se aplica a &quot;URL de la aplicación de Launch&quot;.
+Los URI de redireccionamiento configurados en los mensajes de notificaciones push admiten tokens de Marketo en ellos. Solo se aplica a &quot;URL de la aplicación de Launch&quot;.
 
 Formato de muestra:
 

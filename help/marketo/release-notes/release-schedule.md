@@ -4,10 +4,10 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 89%
+source-wordcount: '160'
+ht-degree: 79%
 
 ---
 
@@ -45,36 +45,36 @@ _Las fechas/características de la versión están sujetas a cambios_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Marzo de 2026</td>
    <td>27 de marzo de 2026</td>
-   <td>En curso</td>
+   <td>Completo</td>
   </tr>
   <tr>
   <td>Mayo de 2026</td>
-   <td>sábado, 15 de mayo de 2026</td>
+   <td>22 de mayo de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
   <td>Junio del 26</td>
-   <td>sábado, 26 de junio de 2026</td>
+   <td>26 de junio de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
   <td>Julio del 26</td>
-   <td>sábado, 31 de julio de 2026</td>
+   <td>31 de julio de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
   <td>Agosto del 26</td>
-   <td>sábado, 28 de agosto de 2026</td>
+   <td>28 de agosto de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
   <td>Septiembre de 2026</td>
-   <td>sábado, 25 de septiembre de 2026</td>
+   <td>25 de septiembre de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
   <td>Octubre del 26</td>
-   <td>sábado, 30 de octubre de 2026</td>
+   <td>30 de octubre de 2026</td>
    <td>Según lo programado</td>
   </tr>
  </tbody>
