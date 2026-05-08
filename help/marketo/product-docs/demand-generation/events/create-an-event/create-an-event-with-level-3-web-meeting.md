@@ -4,9 +4,9 @@ description: Aprenda a crear un evento con reunión web de nivel 3 en Marketo. C
 title: Crear un evento con  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Establezca las [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)adecuadas para rastrear la participación
 
-Primero cree su seminario web en [!DNL Level 3]. Si necesita ayuda, consulte la [[!DNL Level 3] Biblioteca de recursos](https://www.level3.com/en/resource-library/). Lo encontrará muy similar a [!DNL BrightTalk].  Marketo usa un pequeño subconjunto de [!DNL Level 3] campos:
+Primero cree su seminario web en [!DNL Level 3]. Si necesita ayuda, consulte la [[!DNL Level 3] Biblioteca de recursos](https://www.level3.com/en/resource-library/). Es muy similar a [!DNL BrightTalk].  Marketo usa un pequeño subconjunto de [!DNL Level 3] campos:
 
 * **Nombre** - El nombre de la difusión web.
 * **Fecha de inicio** - La fecha de inicio de la difusión web.
@@ -47,7 +47,7 @@ Primero cree su seminario web en [!DNL Level 3]. Si necesita ayuda, consulte la 
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   ¡Excelente! ¡Ha conectado su evento a [!DNL Level 3]!
+   El evento ahora está conectado a [!DNL Level 3].
 
 ## Visualización de la programación  {#viewing-the-schedule}
 

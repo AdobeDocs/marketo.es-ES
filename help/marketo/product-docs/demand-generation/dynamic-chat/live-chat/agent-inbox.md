@@ -3,9 +3,9 @@ description: Obtenga información acerca de la Bandeja de entrada del agente, do
 title: Bandeja de entrada del agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic e
 >
 >Esta función forma parte de la IA generativa, disponible mediante la suscripción a Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-Los métodos abreviados, con la tecnología de IA generativa [biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), son una excelente manera de obtener ayuda sobre la marcha cuando se chatea con un visitante. Simplemente escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
+Los métodos abreviados, con tecnología de la API generativa [biblioteca de respuestas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), son una forma eficaz de obtener ayuda cuando chatea con un visitante. Escriba una barra diagonal (`/`) en el cuadro de texto y elija `ask` o `search`.
 
 ![](assets/agent-inbox-7.png)
 

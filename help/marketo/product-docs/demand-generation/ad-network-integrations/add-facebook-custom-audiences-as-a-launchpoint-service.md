@@ -4,10 +4,10 @@ description: Aprenda a añadir audiencias personalizadas de Facebook como servic
 title: Agregar  [!DNL Facebook] audiencias personalizadas como [!DNL LaunchPoint] servicio
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 1%
+source-wordcount: '314'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Se requieren permisos de administrador**
 
-Con esta integración, puede enviar datos de audiencia desde listas estáticas e inteligentes de Marketo a [!DNL Facebook] para que se utilicen como audiencias personalizadas en [!DNL Facebook] campañas de publicidad. A continuación se muestra cómo configurarlo.
+Con esta integración, puede enviar datos de audiencia desde listas estáticas e inteligentes de Marketo a [!DNL Facebook] para que se utilicen como audiencias personalizadas en [!DNL Facebook] campañas de publicidad. Siga estos pasos para configurarlo.
 
 1. Vaya a Marketo **[!UICONTROL Admin]**.
 
@@ -59,11 +59,11 @@ Con esta integración, puede enviar datos de audiencia desde listas estáticas e
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   ¡Buen trabajo! Ahora puede pasar a cualquier lista estática o inteligente en Marketo y enviar datos de audiencia a [!DNL Facebook].
+   Ahora puede ir a cualquier lista estática o inteligente en Marketo y enviar datos de audiencia a [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >¡Antes de irte, asegúrate de [aceptar [!DNL Facebook] los términos de audiencias personalizadas](https://www.facebook.com/ads/manage/customaudiences/tos.php) en tu cuenta de [!DNL Facebook]! Sin hacerlo, las actualizaciones de audiencia fallarán.
+   >Antes de usar la integración, [Acepte los términos de audiencias personalizadas de  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php) en su cuenta de [!DNL Facebook]. Sin hacerlo, las actualizaciones de audiencia fallarán.
 
 >[!MORELIKETHIS]
 >

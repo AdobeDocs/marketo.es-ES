@@ -3,9 +3,9 @@ description: Obtenga ayuda sobre las prácticas recomendadas para seminarios web
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Al ejecutar eventos virtuales, ya estén dirigidos a una audiencia pequeña o grande, es fundamental que las cosas vayan según lo planificado. Con varios pasos necesarios para planificar y ejecutar un evento, desde la preparación, la promoción, la entrega y el seguimiento, a veces se puede sentir como mucho.
 
-Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pueden ayudar en la planificación, el diseño y la producción de seminarios web exitosos y atractivos. Estas sugerencias le ayudarán a sacar el máximo partido a los seminarios web interactivos ofrecidos por Adobe Connect.
+Las siguientes prácticas recomendadas pueden ayudar a planificar, diseñar y producir seminarios web exitosos y atractivos. Estas sugerencias le ayudarán a sacar el máximo partido a los seminarios web interactivos ofrecidos por Adobe Connect.
 
 ## Preparación antes del evento {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 >[!TIP]
 >
->La experiencia web móvil de los seminarios web interactivos no es adaptable, por lo que recomendamos utilizar la aplicación de Adobe Connect para disfrutar de una experiencia de seminario web perfecta en su dispositivo móvil. Tenga en cuenta que la aplicación de Adobe Connect no está disponible actualmente en tiendas de aplicaciones de China.
+>La experiencia web móvil de los seminarios web interactivos no es adaptable, por lo que recomendamos utilizar la aplicación de Adobe Connect para disfrutar de una experiencia de seminario web perfecta en su dispositivo móvil. La aplicación de Adobe Connect no está disponible actualmente en tiendas de aplicaciones de China.
 
 * Cree un ejemplo de seminario web interactivo (IW) y clónelo cada vez para evitar empezar desde cero.
 
-* Vuelva a utilizar las salas de Adobe Connect si va a volver a enviar el mismo contenido más tarde. Vaya a **Borrar contenido de pods** desde el menú Pods para borrar el historial de chat y los resultados de encuesta/prueba de la última sesión. Esto simplemente borra el contenido de la sala. Todos los datos de sesiones anteriores seguirán estando disponibles en Marketo Engage.
+* Vuelva a utilizar las salas de Adobe Connect si va a volver a enviar el mismo contenido más tarde. Vaya a **Borrar contenido de pods** desde el menú Pods para borrar el historial de chat y los resultados de encuesta/prueba de la última sesión. Esto borra el contenido de la sala. Todos los datos de sesiones anteriores seguirán estando disponibles en Marketo Engage.
 
 * Evite programar sesiones consecutivas. Asegúrese de tener al menos 30 minutos de tiempo de preparación antes del inicio del seminario web. Esto le permitirá cargar cualquier cambio de presentación de última hora, ajustar el micrófono y la cámara y hacer que los nuevos presentadores se sientan cómodos con la interfaz.
 
-* Asigne funciones a los integrantes del equipo. Agréguelos como Co-hosts y Presentadores. Los anfitriones y los moderadores pueden entrar en la sala antes que los participantes. No obstante, asegúrese de [diseñar su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes de_ agregar co-anfitriones y moderadores.
+* Asigne funciones a los integrantes del equipo. Agréguelos como Co-hosts y Presentadores. Los anfitriones y los moderadores pueden entrar en la sala antes que los participantes. Pero [diseñe su seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de agregar co-anfitriones y moderadores.
 
 ### Promoción del evento {#promoting-your-event}
 
@@ -85,7 +85,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del presentador/anfitrión que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/es/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
+* **Panel de chat**: El panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
 
 * **Chat privado**: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 
@@ -93,7 +93,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 ## envío {#delivery}
 
-* Realice algunas pruebas en seco para probar la configuración de audio/vídeo y familiarizarse con Adobe Connect si no lo ha utilizado antes. No olvide incluir a sus presentadores y co-anfitriones también cuando ensaye.
+* Realice algunas pruebas en seco para probar la configuración de audio/vídeo y familiarizarse con Adobe Connect si no lo ha utilizado anteriormente. Incluya también a los presentadores y a los copatrocinadores cuando ensaye.
 
 * Pida a los presentadores y anfitriones que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente.
    * Decida quién moderará los pods de preguntas y respuestas y chat.

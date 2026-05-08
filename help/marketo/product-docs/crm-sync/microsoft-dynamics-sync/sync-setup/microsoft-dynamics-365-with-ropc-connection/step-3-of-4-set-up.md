@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo configurar la aplicación cliente 
 title: 'Paso 3 de 4: Configurar la aplicación cliente en MS [!DNL Dynamics]'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. Siga todos los pasos. Para el paso 3, escriba un nombre de aplicación relevante (p. ej., &quot;[!DNL Marketo Integration]&quot;). En Tipos de cuenta admitidos, seleccione Cuenta solo en este directorio organizativo.
 
-1. Anote el ID de la aplicación (ClientId). Tendrá que introducirlo en Marketo más adelante.
+1. Anote el ID de la aplicación (ClientId). Introdúzcalo en Marketo más tarde.
 
 1. Conceder consentimiento de administrador siguiendo los pasos de [este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Asegúrese de tomar nota del valor Secreto del cliente (que se muestra en la captura de pantalla siguiente), ya que lo necesitará más adelante. Solo se muestra una vez y no podrá recuperarla de nuevo.
+   >Tenga en cuenta el valor Secreto del cliente (visto en la captura de pantalla siguiente), ya que solo se muestra una vez y no se puede recuperar de nuevo.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
 ## [!DNL Azure AD] se federó con [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated [!DNL Azure] AD to [!DNL ADFS Onprem] necesita la creación de una directiva de detección de dominio kerberos principal para la aplicación específica. Con esta directiva, [!DNL Azure] AD redirigirá la solicitud de autenticación al servicio de federación. La sincronización de hash de contraseña debe habilitarse en [!DNL AD Connect] para esto. Para obtener más información, consulte [[!DNL OAuth] con [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) y [Establecer una directiva de hardware para una aplicación](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Federated [!DNL Azure] AD to [!DNL ADFS Onprem] necesita la creación de una directiva de detección de dominio kerberos principal para la aplicación específica. Con esta directiva, [!DNL Azure] AD redirigirá la solicitud de autenticación al servicio de federación. La sincronización de hash de contraseña debe habilitarse en [!DNL AD Connect] para esto. Para obtener más información, vea [[!DNL OAuth] con [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) y [Establecer una directiva de hardware para una aplicación](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Se pueden encontrar referencias adicionales [aquí](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 

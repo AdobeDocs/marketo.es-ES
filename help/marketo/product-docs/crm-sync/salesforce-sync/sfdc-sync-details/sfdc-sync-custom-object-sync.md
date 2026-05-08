@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo configurar la sincronización de o
 title: 'Sincronización de SFDC: sincronización de objetos personalizada'
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 5%
 
 ---
 
@@ -65,7 +65,7 @@ Los objetos personalizados creados en su instancia de [!DNL Salesforce] también
 
    >[!NOTE]
    >
-   >No olvide volver a activar la sincronización global.
+   >Recuerde volver a habilitar la sincronización global.
 
 1. Vuelva a la ficha **[!UICONTROL Salesforce]**.
 
@@ -87,6 +87,6 @@ Los objetos personalizados creados en su instancia de [!DNL Salesforce] también
 
 ### ¿Qué sigue? {#whats-next}
 
-[Agregar o quitar campo de objeto personalizado como restricciones de lista inteligente/Déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-¡Excelente! Ahora puede utilizar los datos de este objeto personalizado en campañas inteligentes y listas inteligentes.
+Ahora puede utilizar los datos de este objeto personalizado en campañas inteligentes y listas inteligentes.

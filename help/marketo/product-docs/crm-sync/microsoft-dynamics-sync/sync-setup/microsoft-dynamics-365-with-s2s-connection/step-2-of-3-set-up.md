@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar la solución de Marketo
 title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '624'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Anote el ID de aplicación (ClientId) y el ID de inquilino. Tendrá que introducirlo en Marketo más adelante.
 
-1. Conceda el consentimiento del administrador siguiendo los pasos [&#x200B; de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. Conceda el consentimiento del administrador siguiendo los pasos [ de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Genere un secreto de cliente en el Centro de administración haciendo clic en **[!UICONTROL Certificados y secretos]**.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Asegúrese de tomar nota del valor Secreto del cliente (que se muestra en la captura de pantalla siguiente), ya que lo necesitará más adelante. Solo se muestra una vez y no podrá recuperarla de nuevo.
+>Tenga en cuenta el valor Secreto del cliente (visto en la captura de pantalla siguiente), ya que solo se muestra una vez y no se puede recuperar de nuevo.
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >* Al conceder permisos al usuario de la aplicación, asegúrese de asignarlo a &quot;Función de usuario de sincronización de Marketo&quot;.
+   >* Al conceder permisos al usuario de la aplicación, asígnelo a &quot;Función de usuario de sincronización de Marketo&quot;.
    >* Tenga en cuenta la dirección de correo electrónico del usuario de la aplicación desde la opción [ver detalles](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) en Power Platform. Esta dirección de correo electrónico se utilizará como nombre de usuario al configurar la conexión con MS [!DNL Dynamics] en Marketo.
 
 ## [!DNL Azure AD] se federó con [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
@@ -62,7 +62,7 @@ Se pueden encontrar referencias adicionales [aquí](https://docs.microsoft.com/e
 
 ## Configuración de la solución Marketo {#configure-marketo-solution}
 
-¡Ya casi está! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
+Un último paso: informar a la solución de Marketo sobre el nuevo usuario creado.
 
 1. Vuelva a la sección [!UICONTROL Configuración avanzada], haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) junto a [!UICONTROL Configuración] y seleccione **[!UICONTROL Configuración de Marketo]**.
 

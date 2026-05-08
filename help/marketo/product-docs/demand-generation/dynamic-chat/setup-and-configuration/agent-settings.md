@@ -3,7 +3,7 @@ description: Obtenga información sobre cómo configurar la disponibilidad del c
 title: Configuración del agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Configure su calendario y establezca la disponibilidad de la reunión/chat en vi
 
 >[!PREREQUISITES]
 >
->Asegúrese de que se hayan concedido a sus agentes los [permisos](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} adecuados.
+>Compruebe que se hayan concedido a sus agentes los [permisos](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} adecuados.
 
 ![](assets/agent-settings-1.png)
 

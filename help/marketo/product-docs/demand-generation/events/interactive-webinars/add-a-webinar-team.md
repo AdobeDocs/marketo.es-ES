@@ -3,9 +3,9 @@ description: Aprenda a añadir un equipo a los seminarios web interactivos. Asig
 title: Añadir un equipo al seminario web
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ El presentador es una función externa que participa en la entrega de la experie
 
    >[!NOTE]
    >
-   >Si selecciona **Usuario interno del seminario web interactivo**, solo tendrá que hacer clic en el menú desplegable **Hosts disponibles** y elegir de la lista de personas que se han agregado como usuarios de seminarios web interactivos en Marketo Engage. Los hosts existentes no se verán a sí mismos en esta lista desplegable, ya que ya son hosts.
+   >Si selecciona **Usuario interno del seminario web interactivo**, tendrá que hacer clic en el menú desplegable **Hosts disponibles** y elegir de la lista de personas que se han agregado como usuarios de seminarios web interactivos en Marketo Engage. Los hosts existentes no se verán a sí mismos en esta lista desplegable, ya que ya son hosts.
 
 1. Introduzca el nombre, los apellidos y la dirección de correo electrónico del cohost deseado. Haga clic en **Agregar**.
 

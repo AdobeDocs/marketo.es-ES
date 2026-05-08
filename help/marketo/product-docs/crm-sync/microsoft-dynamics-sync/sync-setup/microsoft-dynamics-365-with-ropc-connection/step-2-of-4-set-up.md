@@ -3,16 +3,16 @@ description: Aprenda a configurar la solución Marketo con conexión ROPC. Cree 
 title: 'Paso 2 de 4: Configuración de la solución Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
 
 # Paso 2 de 4: Configurar la solución de Marketo con la conexión de control de contraseña del propietario de los recursos {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
-Empecemos por crear una cuenta de usuario.
+Cree una cuenta de usuario.
 
 >[!PREREQUISITES]
 >
@@ -74,7 +74,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [&#x200B; debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Vuelva a la ficha [!UICONTROL Usuarios habilitados] y actualice la lista de usuarios.
 
@@ -98,7 +98,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 ## Configuración de la solución Marketo {#configure-marketo-solution}
 
-¡Ya casi está! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
+Un último paso: informar a la solución de Marketo sobre el nuevo usuario creado.
 
 1. Vuelva a la sección [!UICONTROL Configuración avanzada], haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) junto a [!UICONTROL Configuración] y seleccione **[!UICONTROL Configuración de Marketo]**.
 

@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo instalar la solución Marketo en D
 title: 'Paso 1 de 4: Instalación de la solución de Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 4%
+source-wordcount: '311'
+ht-degree: 3%
 
 ---
 
@@ -67,7 +67,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] 365 y Marketo, primero debe ins
    >
    >Deberá habilitar las ventanas emergentes en el explorador para completar el proceso de instalación.
 
-1. Ahora espere a que finalice la importación. Levántate y haz algunos estiramientos.
+1. Ahora espere a que finalice la importación.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -87,7 +87,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] 365 y Marketo, primero debe ins
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   ¡Buen trabajo! La instalación ha finalizado.
+   La instalación ha finalizado.
 
    >[!MORELIKETHIS]
    >

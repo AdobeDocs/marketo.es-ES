@@ -4,9 +4,9 @@ description: Descubra cómo funciona la sincronización de oportunidades de Sale
 title: 'Sincronización de SFDC: sincronización de oportunidad'
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 11%
 
 ---
@@ -57,6 +57,6 @@ Filtros:
 
 >[!TIP]
 >
->Consulte las restricciones de filtros y déclencheur. Hay muchos detalles geniales ahí dentro.
+>Revise las restricciones de los filtros y déclencheur para obtener más información.
 >
->Simplemente cree un nuevo campo en el objeto de oportunidad en [!DNL Salesforce] y se convertirá automáticamente en una restricción.
+>Cree un nuevo campo en el objeto de oportunidad en [!DNL Salesforce] y se convertirá automáticamente en una restricción.

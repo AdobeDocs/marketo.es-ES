@@ -4,9 +4,9 @@ description: Aprenda a publicar páginas de aterrizaje de Marketo en Facebook. C
 title: Publicación de páginas de destino en Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Supongamos que está lanzando un nuevo libro, podría llegar a parte de su audie
    >
    >Para reemplazar las páginas de aterrizaje de Marketo que haya publicado anteriormente en [!DNL Facebook], seleccione **[!UICONTROL Reemplazar ficha existente]** y elija la ficha que desea reemplazar en la lista desplegable. Tenga en cuenta que esto no reemplazará las pestañas que no sean de Marketo.
 
-1. Los posibles clientes ahora pueden visitar su página de aterrizaje directamente en la página [!DNL Facebook]. Simplemente haga clic en el nombre de la ficha debajo de la imagen de portada.
+1. Los posibles clientes ahora pueden visitar su página de aterrizaje directamente en la página [!DNL Facebook]. Haga clic en el nombre de la ficha debajo de la imagen de portada.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

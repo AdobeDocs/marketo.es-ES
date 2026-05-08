@@ -3,9 +3,9 @@ description: Obtener ayuda sobre la sincronización de cuentas de persona entre 
 title: Preguntas frecuentes sobre la sincronización de cuenta de persona
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '488'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ La sincronización de los campos relacionados con el contacto de la cuenta de pe
 
 **¿Qué sucede si se realizan cambios en ambos sistemas a los campos Contacto en la Cuenta de persona al mismo tiempo?**
 
-Estaríamos encantados de dejar que [!DNL Veeva] CRM gane. Sin embargo, es raro que se produzca este tipo de colisión de datos.
+[!DNL Veeva] gana el CRM. Sin embargo, es poco frecuente que se produzca este tipo de colisión de datos.
 
 **¿El tipo de registros de contacto o posible cliente está sincronizado con [!DNL Veeva] CRM?**
 

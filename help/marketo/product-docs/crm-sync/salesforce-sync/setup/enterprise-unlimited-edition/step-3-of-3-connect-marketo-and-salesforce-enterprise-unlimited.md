@@ -4,9 +4,9 @@ description: Aprenda a conectar Marketo y Salesforce en el paso final Enterprise
 title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (empresarial/ilimitada)'
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ En este artículo, configurará Marketo para que se sincronice con la instancia 
 
    >[!NOTE]
    >
-   >Asegúrese de [ocultar todos los campos que no necesite](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) en Marketo del usuario de sincronización antes de hacer clic en **[!UICONTROL Campos de sincronización]**. Una vez que haga clic en [!UICONTROL Sincronizar campos], todos los campos que el usuario pueda ver se crearán en Marketo de forma permanente y no se podrán eliminar.
+   >[Oculte del usuario de sincronización todos los campos que no necesite](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) en Marketo antes de hacer clic en **[!UICONTROL Campos de sincronización]**. Una vez que haga clic en [!UICONTROL Sincronizar campos], todos los campos que el usuario pueda ver se crearán en Marketo de forma permanente y no se podrán eliminar.
 
 1. Introduzca las credenciales de usuario de sincronización [!DNL Salesforce] creadas en la parte 2 de la configuración de [!DNL Salesforce] ([Profesional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) o [Empresa](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) y haga clic en **[!UICONTROL Campos de sincronización]** (marque **[!UICONTROL Zona protegida]** solo si está sincronizando una Zona protegida de Marketo con una de [!DNL Salesforce]).
 
@@ -100,7 +100,7 @@ Marketo proporciona mensajes de estado para la sincronización de [!DNL Salesfor
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Acaba de terminar de configurar una de las funciones más potentes de Marketo. ¡Ya está!
+Ha terminado de configurar una de las funciones más potentes de Marketo.
 
 >[!MORELIKETHIS]
 >

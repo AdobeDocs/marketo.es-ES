@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo generar preguntas para Dynamic Cha
 title: Generación de preguntas
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
    ![](assets/question-generation-7.png)
 
-1. En el archivo de Excel, **[!DNL Task details]** muestra solo eso, varios detalles sobre la tarea, incluidas instrucciones sobre cómo agregar o editar preguntas y/o respuestas.
+1. En el archivo de Excel, **[!DNL Task details]** muestra varios detalles sobre la tarea, incluidas instrucciones sobre cómo agregar o editar preguntas y respuestas.
 
    ![](assets/question-generation-8.png)
 
@@ -74,7 +74,7 @@ Vea todas las tareas y sus detalles pertinentes, como cuándo se generaron, la c
 
 ## Direcciones IP para Lista de permitidos {#ip-addresses-to-allowlist}
 
-Para permitir la extracción de contenido de las URL de su web durante la generación de preguntas y respuestas, busque su región a continuación y asegúrese de que el equipo web incluida en la lista de permitidos la dirección IP asociada con ella.
+Para permitir la extracción de contenido de las URL de su web durante la generación de preguntas y respuestas, busque su región a continuación y compruebe que su equipo web haya incluido en la lista de permitidos la dirección IP asociada a ella.
 
 <table width="450">
 <thead>
@@ -88,7 +88,7 @@ Para permitir la extracción de contenido de las URL de su web durante la genera
   <tr>
     <td>13.68.17.252</td>
     <td>20.105.150.224</td>
-    <td>20 213 91 77</td>
+    <td>20.213.91.77</td>
   </tr>
 </tbody>
 </table>

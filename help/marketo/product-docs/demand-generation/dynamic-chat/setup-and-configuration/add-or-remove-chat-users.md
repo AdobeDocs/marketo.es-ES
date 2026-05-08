@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo agregar o quitar usuarios de Dynam
 title: Añadir o quitar usuarios de chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 5%
+source-wordcount: '289'
+ht-degree: 9%
 
 ---
 
@@ -58,7 +58,7 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
 ## Agregar acceso de Dynamic Chat a la función de Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Si la función de Marketo del usuario de Chat que acaba de agregarse aún no tiene el permiso [!DNL Dynamic Chat], así es como se agrega.
+Si la función de Marketo del usuario de chat recién agregado aún no tiene el permiso [!DNL Dynamic Chat], siga estos pasos para agregarla.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]** y seleccione **[!UICONTROL Usuarios y roles]**.
 

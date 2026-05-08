@@ -4,9 +4,9 @@ description: Aprenda a utilizar los déclencheur y filtros de anuncios de posibl
 title: Uso de filtros y activadores de anuncios de posibles clientes en una campaña inteligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '94'
 ht-degree: 21%
 
 ---

@@ -4,16 +4,16 @@ description: Obtenga información acerca de cómo funciona la sincronización de
 title: 'Sincronización de Microsoft Dynamics: sincronización de campos'
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
 # Sincronización de [!DNL Microsoft Dynamics]: sincronización de campos {#microsoft-dynamics-sync-field-sync}
 
-La sincronización de Marketo con [!DNL Dynamics] es muy eficaz. Aquí están los detalles.
+La sincronización de Marketo con [!DNL Dynamics] es eficaz. Aquí están los detalles.
 
 ## ¿Cómo se sincronizan los detalles de campo entre los dos sistemas? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 

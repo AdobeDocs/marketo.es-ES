@@ -3,16 +3,16 @@ description: Obtenga información sobre cómo configurar la API de incrustación
 title: API de inserción de Adobe PDF
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---
 
 # API de inserción de Adobe PDF {#adobe-pdf-embed-api}
 
-La tarjeta de documento le permite incrustar documentos de PDF en cuadros de diálogo y rastrear la actividad de participación de visitantes en los documentos. A continuación se muestra cómo configurarlo.
+La tarjeta de documento le permite incrustar documentos de PDF en cuadros de diálogo y rastrear la actividad de participación de visitantes en los documentos. Siga estos pasos para configurarlo.
 
 1. Vaya a [API de incrustación de Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -30,7 +30,7 @@ La tarjeta de documento le permite incrustar documentos de PDF en cuadros de di�
 
    >[!IMPORTANT]
    >
-   >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, asegúrese de introducirlo en el paso 4).
+   >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, introduzca ese dominio en el paso 4).
 
 1. Haga clic en **[!UICONTROL Copiar]** para copiar el ID de cliente.
 

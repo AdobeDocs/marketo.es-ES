@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo crear un nuevo programa de eventos
 title: Crear un nuevo programa de eventos
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 8%
 
 ---
 
 # Crear un nuevo programa de eventos {#create-a-new-event-program}
 
-Los eventos le permiten automatizar eventos en línea y sin conexión. Capture el estado de sus recursos a medida que progresan en diferentes etapas y obtenga mediciones precisas del ROI de sus iniciativas de marketing.
+Los eventos permiten automatizar eventos en línea y sin conexión. Capture el estado de sus recursos a medida que progresan en diferentes etapas y obtenga mediciones precisas del ROI de sus iniciativas de marketing.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -39,7 +39,7 @@ Los eventos le permiten automatizar eventos en línea y sin conexión. Capture e
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   ¡Ta-da! El nuevo evento aparecerá en el árbol.
+   El nuevo evento aparecerá en el árbol.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 

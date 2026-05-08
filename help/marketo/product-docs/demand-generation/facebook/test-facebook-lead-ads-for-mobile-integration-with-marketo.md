@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo probar la integración móvil de F
 title: Prueba de anuncios de clientes potenciales de Facebook para la integración móvil con Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
 
 # Probar [!DNL Facebook] anuncios de posibles clientes para la integración móvil con Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-Después de crear su anuncio de cliente potencial, debe probarlo!
+Después de crear el anuncio de posible cliente, debe probarlo.
 
 >[!PREREQUISITES]
 >
@@ -43,9 +43,9 @@ Después de crear su anuncio de cliente potencial, debe probarlo!
 
    >[!NOTE]
    >
-   >Este es solo un ejemplo, que utiliza una Call to action Más información. El Call to action de la unidad de anuncios de posibles clientes puede ser diferente.
+   >Este es un ejemplo que utiliza una Call to action Más información. El Call to action de la unidad de anuncios de posibles clientes puede ser diferente.
 
-1. ¡Aquí es donde ocurre la magia! Una vez enviado el formulario, [crea una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos de posibles clientes que usa el filtro **[!UICONTROL Formulario de anuncios de posibles clientes rellenado en Facebook]**. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
+1. Después de enviar el formulario, [cree una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos de posibles clientes que usa el filtro **[!UICONTROL Formulario de anuncios de posibles clientes rellenado en Facebook]**. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que ha enviado.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ Después de crear su anuncio de cliente potencial, debe probarlo!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-¿Es genial o qué?
-
 >[!NOTE]
 >
->[Habilitar/Deshabilitar [!UICONTROL Anuncios de clientes potenciales de Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configurar [!UICONTROL Anuncios Principales De Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

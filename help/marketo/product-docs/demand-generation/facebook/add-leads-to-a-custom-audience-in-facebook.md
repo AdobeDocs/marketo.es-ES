@@ -4,16 +4,16 @@ description: Aprenda a añadir posibles clientes a una audiencia personalizada e
 title: Añadir posibles clientes a una audiencia personalizada en Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
 # Agregar posibles clientes a una audiencia personalizada en [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-¿Ya tiene una audiencia personalizada en [!DNL Facebook] y desea agregarle más posibles clientes? Así es cómo se hace.
+Para añadir posibles clientes a una audiencia personalizada existente, siga estos pasos.
 
 >[!PREREQUISITES]
 >
@@ -46,7 +46,7 @@ ht-degree: 6%
 
    ![](assets/five-1.png)
 
-   ¡Eso es todo lo que hay!
+   El proceso ha finalizado.
 
    >[!NOTE]
    >

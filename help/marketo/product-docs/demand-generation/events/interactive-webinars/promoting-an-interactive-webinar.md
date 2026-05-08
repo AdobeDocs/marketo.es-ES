@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo promocionar un seminario web inter
 title: Promoción de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Para solicitar el registro en este seminario web, habilite un formulario en la p
 
 Una vez que un miembro ha estado en el estado de programa &quot;registrado&quot; en un programa de evento de seminario web interactivo, se registra automáticamente en el seminario web creado en Adobe Connect. A continuación, los datos de registro, como el nombre, los apellidos y el ID de correo electrónico, se transfieren a Adobe Connect. Esto significa que una vez que el usuario se una al seminario web como participante, la información estará disponible para el presentador o el anfitrión durante el seminario web.
 
-A los pocos minutos de registrarse, la dirección URL del seminario web del miembro se rellenará en la pestaña Miembros. Si no puede localizar la columna de la URL del seminario web, asegúrese de que esa columna se haya agregado a la vista. Se trata de una dirección URL personalizada para que cada miembro registrado pueda entrar en el seminario web a la hora programada sin requerir ninguna autenticación. Los tokens intercambiados internamente se encargan de la autenticación de los miembros.
+A los pocos minutos de registrarse, la dirección URL del seminario web del miembro se rellenará en la pestaña Miembros. Si no puede localizar la columna de la URL del seminario web, compruebe que se haya añadido esa columna a la vista. Se trata de una dirección URL personalizada para que cada miembro registrado pueda entrar en el seminario web a la hora programada sin requerir ninguna autenticación. Los tokens intercambiados internamente se encargan de la autenticación de los miembros.
 
 Puede usar el `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} para incluir la URL del seminario web a miembros individuales en una campaña de correo electrónico para comunicar que se han registrado en el evento y usar la URL de unión para entrar al seminario web a la hora programada. Los tokens de calendario se pueden usar en la misma campaña de correo electrónico para garantizar que la programación del seminario web se pueda agregar a los calendarios de los miembros.
 
@@ -42,7 +42,7 @@ Los vínculos están disponibles en la parte derecha de la pestaña Información
 
 ![](assets/promoting-an-interactive-webinar-2.png)
 
-Los seminarios web interactivos le permiten solicitar el registro antes, durante o después de un seminario web. En todos los casos, simplemente tendría que compartir la URL del seminario web con el posible cliente. Al hacer clic en el vínculo antes de que comience el seminario web, se envían a una página de aterrizaje previa al seminario web. Al hacer clic en él durante el seminario web, se les redirige al seminario web en curso. Al hacer clic en él después de que el seminario web los lleve a una grabación del seminario web.
+Los seminarios web interactivos le permiten solicitar el registro antes, durante o después de un seminario web. En todos los casos, deberá compartir la dirección URL del seminario web con el posible cliente. Al hacer clic en el vínculo antes de que comience el seminario web, se envían a una página de aterrizaje previa al seminario web. Al hacer clic en él durante el seminario web, se les redirige al seminario web en curso. Al hacer clic en él después de que el seminario web los lleve a una grabación del seminario web.
 
 ## Tokens de seminarios web interactivos {#interactive-webinars-tokens}
 

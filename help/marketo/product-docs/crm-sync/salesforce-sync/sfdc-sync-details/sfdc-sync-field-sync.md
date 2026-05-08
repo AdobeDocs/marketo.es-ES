@@ -4,9 +4,9 @@ description: Obtenga información sobre qué campos de Salesforce se sincronizan
 title: 'Sincronización de SFDC: sincronización de campos'
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Cambiar la etiqueta del campo en SFDC no afecta a la etiqueta del campo en Marke
 
 ## ¿Qué sucede si cambio un tipo de campo en SFDC? {#what-if-i-change-a-field-type-in-sfdc}
 
-Al cambiar un tipo de campo, Marketo elimina los datos de los campos si no coinciden (pero primero muestra una advertencia). Para conservar los datos, asegúrese de exportarlos y volver a importarlos después de cambiar el tipo de campo.
+Al cambiar un tipo de campo, Marketo elimina los datos de los campos si no coinciden (pero primero muestra una advertencia). Para conservar los datos, exporte los datos y vuelva a importarlos después de cambiar el tipo de campo.
 
 ## ¿Qué sucede si cambio el nombre de una API en SFDC? {#what-if-i-change-an-api-name-in-sfdc}
 

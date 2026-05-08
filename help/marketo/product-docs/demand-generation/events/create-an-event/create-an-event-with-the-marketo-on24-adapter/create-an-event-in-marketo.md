@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un evento en Marketo para la
 title: Crear un evento en Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Un evento de Marketo rastrea la progresión de sus recursos a través de un programa. Inserta información de registro y extrae información de asistencia utilizando el adaptador ON24. El evento registra el estado de sus recursos a medida que avanzan por él.
 
-Así es como se intercambian los datos:
+A continuación se muestra cómo se intercambian los datos:
 
 ![](assets/image2015-12-16-13-33-56.png)
 

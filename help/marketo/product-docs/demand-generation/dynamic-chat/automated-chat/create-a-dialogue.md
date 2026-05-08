@@ -3,16 +3,16 @@ description: Obtenga información sobre cómo crear un nuevo cuadro de diálogo 
 title: Creación de un diálogo
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 6%
 
 ---
 
 # Creación de un diálogo {#create-a-dialogue}
 
-A continuación se muestra cómo crear un nuevo Diálogo.
+Siga estos pasos para crear un nuevo cuadro de diálogo.
 
 1. Haga clic en **[!UICONTROL cuadros de diálogo]**.
 

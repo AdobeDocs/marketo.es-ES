@@ -3,7 +3,7 @@ description: Obtenga información acerca de los criterios de audiencia para segm
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 1%
@@ -22,7 +22,7 @@ La prioridad determina qué diálogo recibe un posible cliente en caso de que cu
 
 ## Eventos {#events}
 
-Los eventos le permiten segmentar visitantes en función de su desplazamiento o del tiempo que lleven en la página o sitio. En el ejemplo siguiente, se segmenta a los visitantes que han estado en una página específica durante más de 20 segundos.
+Los eventos le permiten segmentar visitantes en función de su desplazamiento o de cuánto tiempo pasen en su página o sitio. En el siguiente ejemplo, la configuración se dirige a los visitantes que han estado en una página específica durante más de 20 segundos.
 
 1. Coja el evento **[!UICONTROL Time on Page]** y arrástrelo a la derecha.
 
@@ -40,7 +40,7 @@ Los eventos le permiten segmentar visitantes en función de su desplazamiento o 
 
 **Personas conocidas**
 
-Hay _muchas_ combinaciones de atributos para elegir. En el siguiente ejemplo, nos dirigimos a todas las personas conocidas en California que trabajan en una empresa con más de 50 empleados.
+Hay _muchas_ combinaciones de atributos para elegir. En el siguiente ejemplo, la configuración se dirige a todas las personas conocidas en California que trabajan en una empresa con más de 50 empleados.
 
 1. Coja el atributo **[!UICONTROL Estado de la persona]** y arrástrelo hacia la derecha.
 
@@ -68,7 +68,7 @@ Hay _muchas_ combinaciones de atributos para elegir. En el siguiente ejemplo, no
 
 **Personas anónimas**
 
-Hay una manera fácil de dirigirse específicamente a personas que aún no están en la base de datos. En este ejemplo, estamos dirigiéndonos a todas las personas anónimas ubicadas en el área de Nueva York.
+Los siguientes destinatarios son personas que aún no están en la base de datos. En este ejemplo, la configuración se dirige a todas las personas anónimas ubicadas en el área de Nueva York.
 
 1. Coja el atributo **[!UICONTROL Correo electrónico de persona]** y arrástrelo a la derecha.
 
@@ -84,7 +84,7 @@ Hay una manera fácil de dirigirse específicamente a personas que aún no está
 
    >[!NOTE]
    >
-   >Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
+   >Cuando alguien visita tu sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} los cookies y los coloca en el sistema. La dirección IP se busca en una base de datos especial para deducir la ubicación y otra información.
 
 1. _[!UICONTROL Is]_ está establecido de manera predeterminada. En el campo Seleccionar valores, escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 

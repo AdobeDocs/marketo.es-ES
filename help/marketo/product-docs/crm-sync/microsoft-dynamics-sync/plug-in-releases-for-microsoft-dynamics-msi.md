@@ -4,9 +4,9 @@ description: Obtenga información acerca de las versiones de complementos para M
 title: Versiones de complementos para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 12%
 
 ---
@@ -43,7 +43,7 @@ Si está usando la solución nativa de sincronización CRM de Marketo para [!DNL
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. Después de una importación correcta, verá dos soluciones MSI: MarketoSalesInsight y MarketoSalesInsight_Upgrade. Seleccione la solución más antigua y haga clic en Aplicar actualización de solución.
+1. Después de una importación correcta, aparecerán dos soluciones MSI: MarketoSalesInsight y MarketoSalesInsight_Upgrade. Seleccione la solución más antigua y haga clic en Aplicar actualización de solución.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 

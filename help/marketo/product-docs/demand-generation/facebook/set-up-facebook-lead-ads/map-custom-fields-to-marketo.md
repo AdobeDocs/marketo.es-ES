@@ -4,9 +4,9 @@ description: Aprenda a asignar campos personalizados de anuncios de posibles cli
 title: Asignar campos personalizados a Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '266'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ Es posible que desee recopilar más de la información estándar que [!DNL Faceb
 
 Sin embargo, **Marketo no comenzará a recopilar automáticamente estos datos**. Para que Marketo empiece a capturar valores de campos personalizados, **debe** asignar esos campos personalizados a un campo de Marketo.
 
-A continuación, se indica cómo configurarlo en el área de LaunchPoint de Admin.
+Siga estos pasos para configurarlo en el área de LaunchPoint de Admin.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ A continuación, se indica cómo configurarlo en el área de LaunchPoint de Admi
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Deje la cuenta autorizada tal cual: **no** realiza ningún cambio. Haga clic en **[!UICONTROL Next]**.
+1. Deje la cuenta autorizada tal cual, **no** realiza ningún cambio. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Como antes, deje las páginas seleccionadas tal cual: **no** realiza ningún cambio. Haga clic en **[!UICONTROL Next]**.
+1. Como antes, deje las páginas seleccionadas tal cual, **no** realice ningún cambio. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Aquí es donde asigna el campo personalizado [!DNL Facebook] a su campo de Marketo. Haga clic en **[!UICONTROL Agregar].**
+1. Asigne el campo personalizado [!DNL Facebook] al campo de Marketo. Haga clic en **[!UICONTROL Agregar].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -51,7 +51,7 @@ A continuación, se indica cómo configurarlo en el área de LaunchPoint de Admi
    >
    >Solo los campos que se hayan guardado en [!DNL Facebook] plantillas de formulario aparecerán como opciones aquí.
 
-1. Haga clic en la columna **[!UICONTROL Campo de Marketo]**. Escriba para buscar el campo al que desea asignar. Una vez que haya seleccionado un campo, haga clic en **[!UICONTROL Guardar]**.
+1. Haga clic en la columna **[!UICONTROL Campo de Marketo]**. Escriba para buscar el campo al que desea asignar. Después de seleccionar un campo, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 

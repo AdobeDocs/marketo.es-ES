@@ -4,9 +4,9 @@ description: Aprenda a crear un evento con Webex en Marketo. Configure la integr
 title: Crear un evento con  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '651'
 ht-degree: 1%
 
 ---
@@ -40,8 +40,8 @@ Programas tu evento y eliges tu configuración preferida en [Webex](https://www.
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Contraseña del seminario web**: (opcional) Si utiliza este campo, asegúrese de incluirlo en el correo electrónico de confirmación.
-* **Contraseña para la lista de paneles**: (opcional) Si utiliza este campo, asegúrese de incluirlo en la agenda del seminario web.
+* **Contraseña del seminario web**: (opcional) Si utiliza este campo, inclúyalo en el correo electrónico de confirmación.
+* **Contraseña de lista de paneles**: (opcional) Si utiliza este campo, inclúyalo en la agenda del seminario web.
 * **Requerir cuenta**: limita a los asistentes únicamente a aquellos que tienen cuentas de Webex.
 
 ### Opciones de conexión de audio {#audio-connection-options}
@@ -67,7 +67,7 @@ Programas tu evento y eliges tu configuración preferida en [Webex](https://www.
 
 >[!NOTE]
 >
->La integración Marketo-Webex no puede admitir el envío de correos electrónicos de confirmación desde Webex. La confirmación debe enviarse a través de Marketo. Después de programar el evento, asegúrese de copiar la información del evento en el correo electrónico de confirmación de Marketo y establecer el correo electrónico como _Operativo_.
+>La integración Marketo-Webex no puede admitir el envío de correos electrónicos de confirmación desde Webex. La confirmación debe enviarse a través de Marketo. Después de programar el evento, copia la información del evento en el correo electrónico de confirmación de Marketo y establece el correo electrónico como _Operativo_.
 
 ## Sincronizar el evento con Marketo Engage {#sync-your-event-with-marketo-engage}
 
@@ -95,10 +95,10 @@ Programas tu evento y eliges tu configuración preferida en [Webex](https://www.
 
    ![](assets/create-an-event-with-webex-9.png)
 
-El evento de Webex ahora se sincroniza con el programa de eventos de Marketo. Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo _Cambiar estado del programa_ cuando el nuevo estado se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Asegúrese de hacer que el paso de flujo _Cambiar estado del programa_ #1 y el paso de flujo _Enviar correo electrónico_ #2.
+El evento de Webex ahora se sincroniza con el programa de eventos de Marketo. Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo _Cambiar estado del programa_ cuando el nuevo estado se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Realice _Cambiar estado del programa_ paso de flujo #1 y _Enviar correo electrónico_ paso de flujo #2.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
 * Evite utilizar programas de correo electrónico anidados para enviar los correos electrónicos de confirmación. En su lugar, utilice la campaña inteligente del programa de eventos.
 
-* Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, haz clic en **Actualizar del proveedor de seminarios web** en la lista desplegable **Acciones de eventos** en la pestaña **Resumen** de tu programa de eventos.
+* Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de esperar tanto tiempo sigues sin ver nada, haz clic en **Actualizar del proveedor de seminarios web** en la lista desplegable **Acciones de eventos** de la pestaña **Resumen** de tu programa de eventos.

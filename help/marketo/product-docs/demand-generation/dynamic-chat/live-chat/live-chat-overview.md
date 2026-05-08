@@ -3,9 +3,9 @@ description: Obtenga información acerca del chat en vivo para conversaciones en
 title: Información general del chat en directo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '916'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Usa la tarjeta de chat en vivo en [Stream Designer](/help/marketo/product-docs/d
 ### Mejores prácticas {#best-practices}
 
 * Utilice una tarjeta de preguntas antes de la tarjeta de chat en vivo preguntando al visitante si desea conectarse.
-* Una vez que el visitante acepte conectarse, utilice la tarjeta de captura de información para recopilar parte de su información, como nombre/apellido, dirección de correo electrónico, cargo, etc. (se recomienda solicitar al menos el nombre y la dirección de correo electrónico).
+* Una vez que el visitante acepte conectarse, utilice la tarjeta de captura de información para recopilar parte de su información, como nombre, apellidos, dirección de correo electrónico, cargo, etc. (se recomienda solicitar al menos el nombre y la dirección de correo electrónico).
 
 ## Opciones de tarjeta de chat en vivo {#live-chat-card-options}
 
@@ -115,7 +115,7 @@ Cuando falla una acción, como una reserva de reunión o un chat en vivo, los us
 
 * Los agentes tienen 100 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para los suscriptores de Dynamic Chat Prime que tengan la opción de enrutamiento establecida en **Equipo**, se intentará usar un agente más antes de que aparezca el mensaje de reserva.
 * Hay un límite de 10 chats en vivo por agente en este momento.
-* La Bandeja de entrada del agente es solo para conversaciones de Chat en directo. Si el chat no es aceptado por un agente, no aparecerá en la bandeja de entrada del agente, ya que no cumple los requisitos para ser un chat en vivo.
+* La bandeja de entrada del agente está destinada exclusivamente a conversaciones de Live Chat. Si el chat no es aceptado por un agente, no aparecerá en la bandeja de entrada del agente, ya que no cumple los requisitos para ser un chat en vivo.
 * La pestaña Conversación muestra todas las conversaciones, tanto en vivo como en chat automatizado. Por lo tanto, si el agente no acepta una conversación, se indicará en la pestaña Conversación. Hay hasta un retraso de 24 horas en la pestaña Conversación, ya que no es en tiempo real. La bandeja de entrada del agente, sin embargo, es en tiempo real.
 * Si no hay actividad de chat después de 10 minutos (por parte del agente o del visitante), el chat agotará el tiempo de espera.
 * Si un agente cambia su imagen de perfil (en account.adobe.com) _durante_ un chat en directo, el visitante seguirá viendo la imagen antigua hasta que finalice el chat. El visitante verá la nueva imagen la próxima vez que chatee con él y obtenga a ese agente.

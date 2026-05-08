@@ -3,10 +3,10 @@ description: Obtenga información sobre la IA generativa en Dynamic Chat para la
 title: IA generativa en Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 3%
+source-wordcount: '472'
+ht-degree: 5%
 
 ---
 
@@ -16,7 +16,7 @@ Las funciones generativas impulsadas por IA de Adobe Dynamic Chat le permiten op
 
 ## Permisos {#permissions}
 
-Para usar IA generativa, asegúrese de otorgar a los usuarios deseados los [permisos](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) adecuados.
+Para usar IA generativa, conceda a los usuarios deseados los [permisos](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) adecuados.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -70,7 +70,7 @@ Los temas abordados están disponibles en los déclencheur y filtros de listas i
 
 >[!IMPORTANT]
 >
->Al usar IA generativa, debe cumplir con las [Directrices del usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html), para que podamos asegurarnos de que las funciones de Adobe Experience Cloud que incorporan IA generativa se usen de manera segura y responsable.
+>Al usar IA generativa, debe cumplir con las [Directrices del usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para asegurarse de que las funciones de Adobe Experience Cloud que incorporan IA generativa se usen de manera segura y responsable.
 
 ## Preguntas frecuentes {#faq}
 

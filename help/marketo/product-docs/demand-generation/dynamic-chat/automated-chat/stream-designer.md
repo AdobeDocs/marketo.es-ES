@@ -3,9 +3,9 @@ description: Obtenga información sobre Stream Designer y las tarjetas para enta
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1206'
 ht-degree: 2%
 
 ---
@@ -76,7 +76,7 @@ La Stream Designer contiene varias tarjetas que puedes agregar para dar forma a 
 
 ## Iconos de Stream Designer {#stream-designer-icons}
 
-En la parte superior derecha de Stream Designer, verás un puñado de íconos. Esto es lo que hacen.
+En la parte superior derecha de Stream Designer, verás un puñado de íconos. A continuación se describe cada icono.
 
 <table>
  <tr>
@@ -103,7 +103,7 @@ En la parte superior derecha de Stream Designer, verás un puñado de íconos. E
 
 ## Crear una secuencia {#create-a-stream}
 
-Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
+Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, se crea una secuencia para un Diálogo.
 
 1. Después de [crear tu Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, haz clic en la ficha **[!UICONTROL Transmitir Designer]**.
 
@@ -119,7 +119,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    >[!TIP]
    >
-   >¡Puede personalizar la experiencia para los visitantes de chat!
+   >Puede personalizar la experiencia de los visitantes del chat.
    >
    >* Haga clic en el icono &quot;Insertar HTML&quot; `</>` para insertar su propio HTML y obtener el aspecto deseado de la conversación.
    >
@@ -137,7 +137,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
    >
    >**[!UICONTROL Editar valores almacenados]** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta Pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, usted almacena ese valor como &quot;SEO&quot;).
 
-1. Para &quot;Sí&quot; queremos reservar una reunión, así que debajo de esa opción, arrastra la tarjeta _Reserva de reunión_.
+1. Para &quot;Sí&quot;, arrastre sobre la tarjeta _Reserva de reuniones_ situada debajo de esa opción.
 
    ![](assets/stream-designer-10.png)
 
@@ -153,7 +153,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-13.png)
 
-1. Para &quot;No&quot; queremos ver si se unen a la lista de correo, así que debajo de esa opción, arrastra otra tarjeta de [!UICONTROL Pregunta].
+1. Para &quot;No&quot;, arrastra otra tarjeta de [!UICONTROL Pregunta] debajo de esa opción para comprobar si el visitante desea unirse a la lista de correo.
 
    ![](assets/stream-designer-14.png)
 
@@ -185,11 +185,11 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
    ![](assets/stream-designer-20.png)
 
-1. Recuerde agregar una respuesta si dice &quot;No&quot;. Una opción es arrastrar una tarjeta de mensaje a continuación y decir &quot;gracias de todos modos&quot;. Pero en este ejemplo, les proporcionaremos un documento de PDF gratuito en su lugar.
+1. Recuerde agregar una respuesta si dice &quot;No&quot;. Una opción es arrastrar una tarjeta de mensaje a continuación y decir &quot;gracias de todos modos&quot;. Pero en este ejemplo, se proporciona un documento PDF gratuito en su lugar.
 
    ![](assets/stream-designer-21.png)
 
-1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
+1. Cree un nuevo documento. Asígnele un nombre, escriba la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -199,7 +199,7 @@ Puede crear secuencias para cuadros de diálogo o [Forms de conversación](/help
 
 >[!NOTE]
 >
->Antes de hacer clic en [!UICONTROL Publicar], recuerde que debe [escribir las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic en [!UICONTROL Publicar], compruebe que ha [introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

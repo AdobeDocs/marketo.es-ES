@@ -3,9 +3,9 @@ description: Aprenda a probar un seminario web interactivo antes de empezar. Com
 title: Prueba de un seminario web interactivo
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ El flujo de trabajo para crear un seminario web de prueba sigue siendo el mismo 
 >
 >Si establece la fecha y la hora del seminario web de prueba demasiado cerca en el futuro y esa fecha y hora transcurren, Interactive Webinars considera que el seminario web se ha entregado y deduciría un crédito de su licencia.
 
-Se bloqueará un crédito para el seminario web de prueba, pero se puede utilizar reprogramando el programa para utilizarlo con un seminario web real o simplemente eliminando el programa de seminario web de prueba.
+Se bloqueará un crédito para el seminario web de prueba, pero se puede utilizar reprogramando el programa para utilizarlo con un seminario web real o eliminando el programa de seminario web de prueba.
 
 Después de crear y diseñar el seminario web, el anfitrión, el coanfitrión o los presentadores pueden unirse para ensayar el envío. Los invitados externos también se pueden añadir como co-anfitriones para poder participar en las pruebas. Las pruebas se pueden realizar del mismo modo que se imparte el seminario web, por lo que los evaluadores tienen una idea de cómo irá el seminario web delante de una audiencia real. Todas las funcionalidades del seminario web en directo también estarían disponibles en el seminario web de prueba. Esto se puede realizar hasta 15 minutos antes de la hora de inicio del seminario web.
 

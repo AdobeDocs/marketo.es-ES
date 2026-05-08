@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar un canal de eventos en Mark
 title: Editar un canal de eventos
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -65,4 +65,4 @@ También se puede asignar un nuevo tipo de canal desde la ficha **[!UICONTROL Co
 
    ![](assets/2017-06-13-09-35-53.png)
 
-¡Felicidades! ¡Acaba de editar un canal!
+El canal se ha editado.

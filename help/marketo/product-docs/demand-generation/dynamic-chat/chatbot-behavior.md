@@ -3,10 +3,10 @@ description: Obtenga información sobre el comportamiento del bot de chat de Dyn
 title: Comportamiento del bot de chat
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 3%
+source-wordcount: '1700'
+ht-degree: 1%
 
 ---
 
@@ -409,4 +409,4 @@ Los siguientes son diferentes escenarios posibles que describen el comportamient
 
 ## Resolución de posibles clientes en tiempo real {#real-time-lead-resolution}
 
-Durante una conversación con un posible cliente anónimo, se proporciona un ID de correo electrónico, resolvemos si existe un registro de posible cliente conocido con ese ID de correo electrónico y utilizamos ese registro para la personalización en tiempo real. Si encontramos varios registros, los combinamos en tiempo real. Este funcionamiento se implementa tanto en los diálogos como en los flujos conversacionales.
+Durante una conversación con un posible cliente anónimo y se proporciona un ID de correo electrónico, Dynamic Chat resuelve si existe un registro de posibles clientes conocido con ese ID de correo electrónico y utiliza ese registro para la personalización en tiempo real. Si se encuentran varios registros, se combinan en tiempo real. Este funcionamiento se implementa tanto en los diálogos como en los flujos conversacionales.

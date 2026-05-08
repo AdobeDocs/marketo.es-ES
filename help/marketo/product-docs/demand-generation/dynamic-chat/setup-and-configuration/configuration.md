@@ -3,9 +3,9 @@ description: Aprenda a personalizar la apariencia de la ventana de diálogo de D
 title: Configuración
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ Haga clic en el menú desplegable para seleccionar un sonido para el visitante c
 
 **Habilitar mensajes de poke en el móvil**
 
-Seleccione el control deslizante para activar &quot;Poke&quot;, que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic para verla, para los visitantes que chatean desde un dispositivo móvil.
+Seleccione el control deslizante para activar &quot;Poke&quot;, que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo, para los visitantes que chatean desde un dispositivo móvil.
 
 ![](assets/configuration-6.png)
 

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo agregar o quitar campos de objeto 
 title: Añadir o quitar campos de objetos personalizados como restricciones de listas inteligentes o activador
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 11%
 
 ---
@@ -61,7 +61,7 @@ Marketo Engage proporciona un control preciso sobre la sincronización de objeto
 
    >[!NOTE]
    >
-   >No olvide volver a activar la sincronización global.
+   >Recuerde volver a habilitar la sincronización global.
 
 Ahora sus listas inteligentes y campañas inteligentes tienen aún más poder.
 

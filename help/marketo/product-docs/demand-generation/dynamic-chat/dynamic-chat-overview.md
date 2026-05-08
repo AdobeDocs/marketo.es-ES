@@ -3,16 +3,16 @@ description: Obtenga información acerca de Dynamic Chat para segmentar visitant
 title: Información general de Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 96%
+source-wordcount: '627'
+ht-degree: 74%
 
 ---
 
 # Información general de [!DNL Dynamic Chat] {#dynamic-chat-overview}
 
-Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse tanto a las personas como a las cuentas que visitan su sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden chatear con un agente activo e incluso concertar reuniones con su equipo de ventas. Los datos de actividad y participación de Dynamic Chat se pueden utilizar para añadir miembros a programas de Marketo y actividades activadoras en canales múltiples.
+Dynamic Chat le permite aprovechar una interfaz intuitiva para dirigirse tanto a las personas como a las cuentas que visitan el sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden chatear con un agente activo e incluso concertar reuniones con su equipo de ventas. Los datos de actividad y participación de Dynamic Chat se pueden utilizar para añadir miembros a programas de Marketo y actividades activadoras en canales múltiples.
 
 >[!TIP]
 >
@@ -20,7 +20,7 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 ## Integraciones {#integrations}
 
-Un componente clave de Dynamic Chat es su capacidad para interactuar de forma nativa con la suscripción de Marketo. Para aprovechar todas las capacidades de esta integración, primero debe iniciar la sincronización de datos. Según el tamaño de su base de datos de Marketo, la [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} inicial de los datos puede tardar hasta 24 horas en completarse.
+Un componente clave de Dynamic Chat es su capacidad para interactuar de forma nativa con la suscripción de Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de su base de datos de Marketo, la [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} inicial de los datos puede tardar hasta 24 horas en completarse.
 
 Se sincroniza lo siguiente:
 
@@ -42,7 +42,7 @@ Conecte el calendario de Outlook o Gmail para utilizarlo en la programación de 
 
 ## Reuniones {#meetings}
 
-Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos diálogos. [Más información sobre las reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
+Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de sus distintos cuadros de diálogo. [Más información sobre las reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## Enrutamiento {#routing}
 
@@ -84,11 +84,11 @@ Siga los pasos indicados a continuación para cambiar el idioma de Dynamic Chat.
    >
    >Hay varias docenas de idiomas entre los que elegir, pero [!DNL Dynamic Chat] solo admite los siguientes: inglés, francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional.
 
-Al actualizar el idioma, todo cambia en la propia aplicación, excepto las palabras que haya rellenado personalmente (por ejemplo, las respuestas de flujo).
+Al actualizar el idioma, todo cambia en la propia aplicación, excepto las palabras que haya rellenado personalmente (por ejemplo, respuestas de flujo).
 
 ## Límites de retención de datos de Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-A continuación se muestran algunos de los límites o parámetros dentro de Dynamic Chat. Para obtener una lista completa, consulte la [página de descripción del producto](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} Marketo Engage.
+A continuación se muestran algunos de los límites y parámetros de Dynamic Chat. Para obtener una lista completa, consulte la [página de descripción del producto](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} de Marketo Engage.
 
 <table>
   <th>Tipo de datos</th>
@@ -117,4 +117,4 @@ A continuación se muestran algunos de los límites o parámetros dentro de Dyna
 
 ## Preguntas frecuentes {#faq}
 
-Consulte las [preguntas frecuentes sobre Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Ver las [preguntas frecuentes sobre Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

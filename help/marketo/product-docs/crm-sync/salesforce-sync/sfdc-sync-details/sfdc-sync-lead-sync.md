@@ -4,16 +4,16 @@ description: Obtenga información acerca de cómo funciona la sincronización de
 title: 'Sincronización de SFDC: sincronización de posibles clientes'
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
 # Sincronización de SFDC: sincronización de posibles clientes {#sfdc-sync-lead-sync}
 
-¿Sabía que Marketo sincroniza desde su base de datos [!DNL Salesforce]? Se sincroniza, espera 5 minutos y luego se sincroniza de nuevo. Todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo Marketo trata específicamente los posibles clientes de [!DNL Salesforce].
+Marketo sincroniza desde su base de datos [!DNL Salesforce]. Se sincroniza, espera 5 minutos y luego se sincroniza de nuevo. Todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo Marketo trata específicamente los posibles clientes de [!DNL Salesforce].
 
 ## Dirección de sincronización {#sync-direction}
 

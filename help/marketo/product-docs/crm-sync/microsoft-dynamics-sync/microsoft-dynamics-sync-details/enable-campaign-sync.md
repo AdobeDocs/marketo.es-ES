@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo habilitar la sincronización de ca
 title: Habilitar sincronización de campaña
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
@@ -38,7 +38,7 @@ Esta opción permite que Marketo agregue y elimine miembros de [!DNL MS Dynamics
 
    ![](assets/enable-campaign-sync-4.png)
 
-Ahí lo tienes. Asigne un poco de tiempo a la sincronización para extraer los datos de [!DNL Microsoft Dynamics] y ya está listo.
+Asigne un tiempo a la sincronización para extraer los datos de [!DNL Microsoft Dynamics].
 
 >[!NOTE]
 >

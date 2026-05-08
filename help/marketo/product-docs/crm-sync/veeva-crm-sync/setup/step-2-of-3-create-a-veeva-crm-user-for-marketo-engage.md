@@ -3,9 +3,9 @@ description: Aprenda a crear un usuario de Veeva CRM para la sincronización de 
 title: 'Paso 2 de 3: Creación de un usuario de Veeva CRM para Marketo Engage'
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '636'
 ht-degree: 6%
 
 ---
@@ -104,9 +104,9 @@ Los siguientes pasos permitirán al usuario de sincronización de Marketo actual
 
    >[!TIP]
    >
-   >Asegúrese de marcar la casilla [!UICONTROL La contraseña nunca caduca].
+   >Marque la casilla [!UICONTROL La contraseña nunca caduca].
 
-1. En la sección [!UICONTROL Permisos generales de usuario], asegúrese de que las opciones [!UICONTROL Editar eventos] y [!UICONTROL Editar tareas] estén seleccionadas.
+1. En la sección [!UICONTROL Permisos generales de usuario], compruebe que las opciones [!UICONTROL Editar eventos] y [!UICONTROL Editar tareas] estén seleccionadas.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -195,9 +195,9 @@ Marketo requiere credenciales para acceder a [!DNL Veeva] CRM. Esto se realiza m
 
 >[!TIP]
 >
->Asegúrese de que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como el usuario de sincronización para restablecer la contraseña.
+>Compruebe que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como el usuario de sincronización para restablecer la contraseña.
 
-¡Excelente! Ahora tiene una cuenta que Marketo Engage puede usar para conectarse a [!DNL Veeva] CRM. Vamos a hacerlo...
+Ahora tiene una cuenta que Marketo Engage puede usar para conectarse a [!DNL Veeva] CRM.
 
 >[!MORELIKETHIS]
 >

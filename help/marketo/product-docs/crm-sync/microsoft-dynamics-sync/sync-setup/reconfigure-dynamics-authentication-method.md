@@ -3,7 +3,7 @@ description: Aprenda a reconfigurar el método de autenticación de Dynamics en 
 title: Volver a configurar  [!DNL Dynamics] método de autenticación
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Siga los pasos a continuación para actualizar su método de autenticación [!DN
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. Seleccione el nuevo método de autenticación que desee (en este ejemplo, elegimos API web).
+1. Seleccione el nuevo Método de autenticación que desee (en este ejemplo, se selecciona API web).
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 

@@ -3,9 +3,9 @@ description: Obtenga información sobre las funciones de GenAI en los seminarios
 title: Funciones de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Genere automáticamente capítulos y resúmenes para sus seminarios web grabados
 
 * **Contenido editable**: modifique los capítulos y resúmenes generados si lo desea, mediante funciones de edición manuales y con tecnología de IA.
 
-* **Fácil integración**: Agregue fácilmente capítulos y resúmenes a sus páginas de aterrizaje copiando el código HTML en el editor de páginas web que elija.
+* **Integración perfecta**: Agregue capítulos y resúmenes a sus páginas de aterrizaje copiando el código HTML en el editor de páginas web que elija.
 
 ## Habilitar GenAI {#enable-genai}
 

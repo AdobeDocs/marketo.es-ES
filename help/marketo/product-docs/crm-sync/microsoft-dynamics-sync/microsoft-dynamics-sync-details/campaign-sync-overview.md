@@ -3,7 +3,7 @@ description: Obtenga información acerca de la sincronización de campañas entr
 title: Información general de sincronización de campañas
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%
@@ -36,7 +36,7 @@ Los déclencheur se ejecutarán según las acciones de la acción de flujo de Ma
 
 >[!NOTE]
 >
->Asegúrese de que la sincronización de campañas funcione y de que la campaña no esté inactiva en Microsoft [!DNL Dynamics].
+>Compruebe que la sincronización de campañas funciona y que la campaña no está inactiva en Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >

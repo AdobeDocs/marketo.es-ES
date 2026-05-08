@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo descargar la solución Marketo Lea
 title: Descargar la solución Gestión de clientes potenciales de Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -47,4 +47,4 @@ Para comenzar la sincronización, deberá descargar e instalar una solución de 
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-¡Fantástico! Ahora se descargará un archivo zip de la solución en el dispositivo.
+Ahora se descargará un archivo zip de la solución en el dispositivo.

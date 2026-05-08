@@ -3,16 +3,16 @@ description: Aprenda a crear e implementar plantillas en seminarios web interact
 title: Plantillas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
 
 # Plantillas para seminarios web interactivos {#templates-for-interactive-webinars}
 
-Cree plantillas fáciles de usar en los seminarios web interactivos para producir contenido más rápido y mantenerse en línea con las directrices de marca al trabajar en equipo.
+Cree plantillas reutilizables en seminarios web interactivos para producir contenido más rápido y mantenerse en línea con las directrices de marca al trabajar en equipo.
 
 ## Conceder permisos {#grant-permissions}
 
@@ -68,7 +68,7 @@ Antes de que cualquier usuario de su organización pueda acceder a las plantilla
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Se abre una nueva pestaña. Para editar o guardar la plantilla, debe introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Haga clic en **Introducir sala**.
+1. Se abre una nueva pestaña. Para editar o guardar la plantilla, deberá introducir una sala. Como no se trata de una sala de seminarios web real, no es necesario realizar selecciones de audio/vídeo. Haga clic en **Introducir sala**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 

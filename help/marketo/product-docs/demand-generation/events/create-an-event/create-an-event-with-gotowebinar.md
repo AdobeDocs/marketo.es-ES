@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un evento con el seminario w
 title: Crear un evento con  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,9 @@ Introduzca la siguiente información para el seminario web y se incorporará a M
 
 >[!TIP]
 >
->Si necesita ayuda adicional de [!DNL GoToWebinar], visite su [Sitio de ayuda](https://support.logmeininc.com/gotowebinar).
+>Si necesita ayuda adicional de [!DNL GoToWebinar], consulte su [Sitio de ayuda](https://support.logmeininc.com/gotowebinar).
 
-Ahora, ¡vamos a saltar a Marketo!
+Ahora, continúe con Marketo.
 
 1. Seleccione un evento. Haga clic en **[!UICONTROL Acciones de eventos]** y elija **[!UICONTROL Configuración de eventos]**.
 
@@ -83,7 +83,7 @@ Ahora, ¡vamos a saltar a Marketo!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. ¡Excelente! Ahora **[!DNL GoToWebinar]** sincroniza y programa el evento.
+1. Ahora **[!DNL GoToWebinar]** sincroniza y programa el evento.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -107,7 +107,7 @@ Ahora, ¡vamos a saltar a Marketo!
    >
    >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de tanto tiempo aún no ves nada, selecciona **[!UICONTROL Actualizar del proveedor de seminarios web]** en el menú [!UICONTROL Acciones de eventos] de la pestaña **[!UICONTROL Resumen]** de tu evento.
 
-Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo [!UICONTROL Cambiar estado del programa] cuando el [!UICONTROL Nuevo estado] se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de hacer que el paso de flujo [!UICONTROL Cambiar estado del programa] #1 y el paso de flujo [!UICONTROL Enviar correo electrónico] #2.
+Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo [!UICONTROL Cambiar estado del programa] cuando el [!UICONTROL Nuevo estado] se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, realice el paso de flujo [!UICONTROL Cambiar estado del programa] #1 y el paso de flujo [!UICONTROL Enviar correo electrónico] #2.
 
 ## Visualización de la programación  {#viewing-the-schedule}
 

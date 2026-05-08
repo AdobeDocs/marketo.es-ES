@@ -4,9 +4,9 @@ description: Aprenda a añadir audiencias coincidentes de LinkedIn como servicio
 title: Agregar  [!DNL LinkedIn] audiencias coincidentes como [!DNL LaunchPoint] servicio
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '225'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Conecte su cuenta de Marketo con [!DNL LinkedIn] audiencias coincidentes para us
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   ¡Fantástico! Ahora verá [!DNL LinkedIn] audiencias coincidentes como un servicio de [!DNL LaunchPoint] en la pestaña Servicios instalados.
+   [!DNL LinkedIn] audiencias coincidentes ahora aparece como un servicio [!DNL LaunchPoint] en la pestaña Servicios instalados.
 
    ![](assets/bartholomew2.png)
 

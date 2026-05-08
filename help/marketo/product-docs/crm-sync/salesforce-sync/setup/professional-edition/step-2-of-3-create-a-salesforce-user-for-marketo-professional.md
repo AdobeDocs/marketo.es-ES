@@ -4,9 +4,9 @@ description: Aprenda a crear un usuario de Salesforce para Marketo con Professio
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (profesional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,9 @@ Marketo requiere credenciales para tener acceso a [!DNL Salesforce]. Esto se rea
 
    >[!TIP]
    >
-   >Asegúrese de que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como el usuario de sincronización para restablecer la contraseña.
+   >Compruebe que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como el usuario de sincronización para restablecer la contraseña.
 
-¡Excelente! Ahora tiene una cuenta que Marketo puede usar para conectarse a [!DNL Salesforce]. Vamos a hacerlo...
+Ahora tiene una cuenta que Marketo puede usar para conectarse a [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >

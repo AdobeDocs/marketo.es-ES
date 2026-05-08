@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo probar la integración de Marketo 
 title: Prueba de anuncios de clientes potenciales de Facebook para la integración de escritorio con Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 5%
 
 ---
 
 # Probar [!DNL Facebook] anuncios de posibles clientes para la integración de escritorio con Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
-Después de crear su anuncio de cliente potencial, debe probarlo! A continuación se indica cómo hacerlo en el escritorio.
+Después de crear el anuncio de posible cliente, debe probarlo. Siga estos pasos para hacerlo en el escritorio.
 
 >[!PREREQUISITES]
 >
@@ -31,25 +31,23 @@ Después de crear su anuncio de cliente potencial, debe probarlo! A continuació
 
    >[!NOTE]
    >
-   >Este es solo un ejemplo, que utiliza una Call to action Más información. El Call to action de la unidad de anuncios de posibles clientes puede ser diferente.
+   >Este es un ejemplo que utiliza una Call to action Más información. El Call to action de la unidad de anuncios de posibles clientes puede ser diferente.
 
 1. Envíe su unidad de prueba de anuncio de posibles clientes rellenando el formulario en su equipo de escritorio. Haga clic en **[!UICONTROL Enviar]**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
-1. Felicitaciones. Ha terminado de enviar el formulario de anuncio de posibles clientes.
+1. Ha terminado de enviar el formulario de anuncio de posibles clientes.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. ¡Aquí es donde ocurre la magia! Una vez enviado el formulario, [cree una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que usa el filtro Rellenado del formulario de [!DNL Facebook] anuncios potenciales. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que acaba de enviar.
+1. Después de enviar el formulario, [cree una lista inteligente en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que usa el filtro Rellenado de formulario de [!DNL Facebook] anuncios potenciales. Inserte el nombre del formulario de anuncio de posibles clientes del formulario que ha enviado.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
 1. Ahora haga clic en la ficha **[!UICONTROL Personas]** para comprobar que la sincronización funciona correctamente.
 
    ![](assets/people.png)
-
-   ¿Es genial o qué?
 
 >[!MORELIKETHIS]
 >

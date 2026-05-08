@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un evento con Adobe Connect 
 title: Crear un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 3%
 
 ---
@@ -20,17 +20,17 @@ La sincronización con Adobe Connect le permite administrar el registro y la asi
 >* [Vincular Adobe Connect y Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-En primer lugar, asegúrese de haber creado la reunión o el seminario en Adobe Connect. Si necesita ayuda, consulte la [Guía del usuario de Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+En primer lugar, compruebe que ha creado la reunión o el seminario en Adobe Connect. Si necesita ayuda, consulte la [Guía del usuario de Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta especificada al introducir sus credenciales en Marketo. Después de crear la reunión o el seminario, anote la información logística pertinente (como el número de teléfono) que desee utilizar en el correo electrónico de confirmación y en el archivo ICS.
 
 >[!CAUTION]
 >
->Como anfitrión del evento, asegúrese de unirse desde la aplicación y **no** mediante el vínculo enviado a los asistentes.
+>Como anfitrión del evento, únase desde la aplicación y **no** mediante el vínculo enviado a los asistentes.
 
 >[!NOTE]
 >
->En este momento no se admite Adobe Connect en el sitio.
+>Adobe Connect On-Site no es compatible en este momento.
 
 1. En la página principal de un nuevo evento, selecciona **[!UICONTROL Acciones de evento]** y, a continuación, **[!UICONTROL Configuración de evento]**.
 
@@ -38,7 +38,7 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
 
    >[!NOTE]
    >
-   >Si no ves **[!UICONTROL Configuración de eventos]** en la lista desplegable, asegúrate de que el canal del evento tenga **[!UICONTROL Evento con seminario web]** seleccionado en &quot;[!UICONTROL Se aplica a]&quot;.
+   >Si no ve **[!UICONTROL Configuración de eventos]** en la lista desplegable, compruebe que el canal del evento tenga **[!UICONTROL Evento con seminario web]** seleccionado en &quot;[!UICONTROL Se aplica a]&quot;.
 
 1. En **[!UICONTROL Socio de evento]**, seleccione **[!UICONTROL Adobe Connect]**.
 
@@ -52,7 +52,7 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
 
    ![](assets/event-settings-overview.png)
 
-   ¡Bonito! El evento de Adobe Connect ahora se sincroniza con el evento de Marketo.
+   El evento de Adobe Connect ahora se sincroniza con el evento de Marketo.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
    >
    >Establece tu correo electrónico de confirmación en **Operativo** para asegurarte de que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
 
-   Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo [!UICONTROL Cambiar estado del programa] cuando el [!UICONTROL Nuevo estado] se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de hacer que el paso de flujo [!UICONTROL Cambiar estado del programa] #1 y el paso de flujo [!UICONTROL Enviar correo electrónico] #2.
+   Las personas que se suscriban a tu seminario web se transferirán a tu proveedor de seminarios web a través del paso de flujo [!UICONTROL Cambiar estado del programa] cuando el [!UICONTROL Nuevo estado] se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, realice el paso de flujo [!UICONTROL Cambiar estado del programa] #1 y el paso de flujo [!UICONTROL Enviar correo electrónico] #2.
 
    ![](assets/adobe.png)
 

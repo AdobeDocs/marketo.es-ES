@@ -4,9 +4,9 @@ description: Obtenga información sobre los estados de programas de seminarios w
 title: Explicación de los estados del programa del seminario web
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ A continuación se muestra una breve descripción de los estados de programa aso
 
 >[!NOTE]
 >
->Para que Marketo extraiga el estado No mostrar, las personas deben haberse registrado *en Marketo*. No podemos capturar Ningún programa que provenga de la fuente de datos On24.
+>Para que Marketo extraiga el estado No mostrar, las personas deben haberse registrado *en Marketo*. No No se pueden capturar los programas procedentes de la fuente de datos On24.
 
 >[!MORELIKETHIS]
 >

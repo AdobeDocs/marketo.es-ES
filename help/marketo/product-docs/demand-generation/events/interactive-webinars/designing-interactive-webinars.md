@@ -3,9 +3,9 @@ description: Obtenga información sobre el diseño de seminarios web interactivo
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
    >
    >* Una sala es un espacio en línea que se utiliza para llevar a cabo reuniones.
    >
-   >* Si elige una sala de seminarios web existente y necesita cambiarle el nombre, simplemente haga clic en el botón **Cambiar el nombre de la sala de seminarios web** que aparece a la derecha.
+   >* Si elige una sala de seminarios web existente y necesita cambiarle el nombre, haga clic en el botón **Cambiar nombre de sala de seminarios web** que hay a la derecha.
    >
    >* La lista desplegable solo muestra las salas existentes que creó anteriormente, no las de otros hosts.
 
@@ -50,7 +50,7 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Puede perfeccionar el seminario web de inmediato o más tarde. Vamos a hacerlo ahora. Haga Clic **Refine Your Webinar Now**.
+1. Puede perfeccionar el seminario web de inmediato o más tarde. Para continuar, haga clic **Refinar el seminario web ahora**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -76,9 +76,9 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 
 **Pod**: Un componente dentro de una plantilla que realiza una actividad en particular durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuestas puede cumplir. Del mismo modo, charlar con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad que se ofrece a través del pod de chat. Hay varios pods más disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
 
-      **Pod de encuestas**: permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa. El sondeo amplía las capacidades existentes del sondeo, ya que permite presentar varias preguntas juntas, lo que ofrece una forma más ágil y coherente de recopilar las perspectivas de los participantes. [Más información](https://helpx.adobe.com/es/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod de encuestas**: permite a los hosts diseñar y enviar formularios de comentarios estructurados directamente en una sesión activa. El sondeo amplía las capacidades existentes del sondeo, ya que permite presentar varias preguntas juntas, lo que ofrece una forma más ágil y coherente de recopilar las perspectivas de los participantes. [Más información](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod de recursos**: reemplaza los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas. [Más información](https://helpx.adobe.com/es/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod de recursos**: reemplaza los pods anteriores de archivos y vínculos web, lo que proporciona una forma única y unificada de compartir recursos durante las sesiones activas. [Más información](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

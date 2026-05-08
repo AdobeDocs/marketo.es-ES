@@ -4,7 +4,7 @@ description: Obtenga información acerca de cómo funciona la sincronización de
 title: 'Sincronización de Microsoft Dynamics: sincronización de oportunidad'
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronización de [!DNL Microsoft Dynamics]: sincronización de oportunidad {#microsoft-dynamics-sync-opportunity-sync}
 
-La sincronización de Marketo con [!DNL Dynamics] es muy eficaz. Estos son todos los detalles de la sincronización de oportunidades:
+La sincronización de Marketo con [!DNL Dynamics] es eficaz. Estos son todos los detalles de la sincronización de oportunidades:
 
 ## ¿Cómo se sincronizan los detalles de las oportunidades entre los dos sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -37,4 +37,4 @@ El contacto o la cuenta se pueden asociar a una oportunidad de dos formas:
    * Si el valor de la cuenta se establece y el contacto se deja vacío, Marketo solo establecerá la cuenta en la oportunidad de esta cuenta.
    * Si se establecen ambos valores, Dynamics elige la cuenta como valor para customerid, por lo que el comportamiento sería el mismo que arriba.
 
-* A través de las partes interesadas: Dynamics utiliza conexiones para conectar oportunidades de contacto a través de partes interesadas desde la página de creación de oportunidades. Para esto, crearemos un registro `opportunitycontactrole` para cada nuevo inversor.
+* A través de las partes interesadas: Dynamics utiliza conexiones para conectar oportunidades de contacto a través de partes interesadas desde la página de creación de oportunidades. Para esto, se crea un registro `opportunitycontactrole` para cada nuevo inversor.

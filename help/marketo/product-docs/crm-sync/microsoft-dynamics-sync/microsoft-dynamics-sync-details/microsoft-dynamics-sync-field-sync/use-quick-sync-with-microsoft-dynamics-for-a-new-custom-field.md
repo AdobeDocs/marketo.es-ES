@@ -4,9 +4,9 @@ description: Aprenda a utilizar la sincronización rápida con Microsoft Dynamic
 title: Utilizar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 4%
 
 Marketing o Ventas desea un nuevo campo. O quizás olvidó uno en su selección inicial de campo. O, sus necesidades cambiaron. En cualquier caso, puede utilizar la sincronización rápida para volver a sincronizar campos específicos.
 
-Normalmente, se utiliza la sincronización rápida para agregar un nuevo campo y actualizar los valores. Sin embargo, hay casos en los que es posible que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) más abajo para obtener más información.
+Normalmente, la sincronización rápida se utiliza para agregar un nuevo campo y actualizar los valores. Sin embargo, hay casos en los que es posible que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) más abajo para obtener más información.
 
 La sincronización rápida puede sincronizar valores nulos. Por ejemplo, si está utilizando los valores A y B y cambia el valor B de [!DNL Dynamics] a nulo, sincronizará el valor nulo con Marketo.
 
 ## Sincronización rápida para todos los registros {#quick-sync-for-all-records}
-
-A continuación se indica cómo utilizar la sincronización rápida para volver a sincronizar nuevos campos.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
@@ -53,7 +51,7 @@ A continuación se indica cómo utilizar la sincronización rápida para volver 
 
 ## Opciones de sincronización avanzadas {#advanced-sync-options}
 
-¿Qué sucede si desea sincronizar un campo existente pero solo lo hace para un conjunto limitado de datos? Así es cómo se hace.
+¿Qué sucede si desea sincronizar un campo existente pero solo lo hace para un conjunto limitado de datos?
 
 1. Desactive la casilla de verificación de un campo existente. Haga clic en **[!UICONTROL Guardar]**.
 
@@ -75,7 +73,7 @@ A continuación se indica cómo utilizar la sincronización rápida para volver 
 
 ## Corrección de campos no sincronizados {#fixing-out-of-sync-fields}
 
-En el improbable caso de que un campo de [!DNL Dynamics] y Marketo no estén sincronizados, existe una forma rápida y sencilla de volver a sincronizarlos.
+En el improbable caso de que un campo de [!DNL Dynamics] y Marketo no estén sincronizados, existe una forma rápida de volver a sincronizarlos.
 
 1. Anule la selección del campo y haga clic en **[!UICONTROL Guardar]**.
 

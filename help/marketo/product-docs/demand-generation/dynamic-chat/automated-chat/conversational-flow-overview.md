@@ -3,16 +3,16 @@ description: Obtenga información acerca de los flujos de conversación y en qu�
 title: Información general de flujo conversacional
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
 
 # Información general de flujo conversacional {#conversational-flow-overview}
 
-Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de call-to-action, al cargar la página, el tiempo invertido en la página, etc.).
+Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de call-to-action, al cargar la página, el tiempo invertido en la página, etc.).
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -27,7 +27,7 @@ Aunque los cuadros de diálogo y los flujos de conversación tienen varias simil
    <th style="width:50%">Flujos conversacionales</th>
   </tr>
   <tr>
-   <td>Los cuadros de diálogo son objetivos: se diseña una conversación para una página y una audiencia específicas en función de los parámetros implementados.</td>
+   <td>Los cuadros de diálogo son el objetivo: diseña una conversación para una página y una audiencia específicas en función de los parámetros implementados.</td>
    <td>Los flujos de conversación se activan: diseña una conversación que se puede activar en función de la acción de un visitante, como rellenar un formulario, hacer clic en un vínculo, etc.</td>
   </tr>
    <tr>
@@ -82,7 +82,7 @@ En la mitad inferior de la pestaña Configuración, personalice el déclencheur 
 
 >[!TIP]
 >
->Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=es){target="_blank"} en acción.
+>Ver [Conversaciones en SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en acción.
 
 >[!MORELIKETHIS]
 >

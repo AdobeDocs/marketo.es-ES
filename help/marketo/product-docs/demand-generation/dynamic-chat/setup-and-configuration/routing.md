@@ -3,9 +3,9 @@ description: Obtenga información acerca del enrutamiento de reuniones y chat en
 title: Enrutamiento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Regla personalizada: puede elegir agentes específicos para recibir reuniones en
 
 ## Crear una regla personalizada {#create-a-custom-rule}
 
-En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, OR y WA al agente John.
+En este ejemplo, todas las reuniones de los estados deducidos de CA, OR y WA se dirigen al agente John.
 
 1. En Configuración, haga clic en **Reglas de enrutamiento**.
 
@@ -100,7 +100,7 @@ Identifique y cargue su cuenta de Target y sus respectivos propietarios de venta
 
 ### Agregar una cuenta {#add-an-account}
 
-En este ejemplo, enrutaremos a todos los empleados desde Lego directamente al agente Steven.
+En este ejemplo, todos los empleados de Lego se dirigen directamente al agente Steven.
 
 1. En la pestaña Enrutamiento de cuenta, haga clic en **+ Agregar cuenta**.
 

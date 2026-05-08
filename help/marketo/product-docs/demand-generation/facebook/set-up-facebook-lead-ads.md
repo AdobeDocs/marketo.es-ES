@@ -4,9 +4,9 @@ description: Aprenda a configurar anuncios de posibles clientes de Facebook con 
 title: Configurar anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 >
 >* **Se requieren permisos de administrador**
 >
->* Al crear formularios de anuncios de posibles clientes de Facebook, asegúrese de que el nombre del formulario no contenga solo caracteres numéricos. El nombre del formulario debe ser alfabético o alfanumérico.
+>* Al crear formularios de anuncios de posibles clientes de Facebook, compruebe que el nombre del formulario no contenga solo caracteres numéricos. El nombre del formulario debe ser alfabético o alfanumérico.
 
 >[!AVAILABILITY]
 >
@@ -53,7 +53,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Next]**.
+1. Observará que ya está autorizado. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
@@ -65,7 +65,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Para aceptar las asignaciones predeterminadas de [!DNL Facebook] a los campos de Marketo, simplemente haga clic en **[!UICONTROL Crear]**.
+1. Para aceptar las asignaciones predeterminadas de [!DNL Facebook] a campos de Marketo, haga clic en **[!UICONTROL Crear]**.
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ Use [Anuncios de clientes potenciales de Facebook](https://www.facebook.com/busi
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   ¡Bien hecho! Los posibles clientes comenzarán a fluir a Marketo conforme se ejecuten [!DNL Facebook] campañas de anuncios de posibles clientes.
+   Los posibles clientes comenzarán a fluir a Marketo conforme se ejecuten [!DNL Facebook] campañas de anuncios de posibles clientes.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

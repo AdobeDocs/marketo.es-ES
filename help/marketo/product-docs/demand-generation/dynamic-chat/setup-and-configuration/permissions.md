@@ -3,9 +3,9 @@ description: Obtenga información acerca de los permisos de Dynamic Chat y los p
 title: Permisos
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
    ![](assets/permissions-1.png)
 
-1. En la ficha **Perfiles de producto**, seleccione el perfil que desee editar. En este ejemplo, elegimos **Agente activo**.
+1. En la ficha **Perfiles de producto**, seleccione el perfil que desee editar. En este ejemplo, **Live Agent** está seleccionado.
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ Hay cinco perfiles predeterminados con permisos predefinidos que puede editar en
 
    ![](assets/permissions-3.png)
 
-1. Seleccione el área del perfil que desea editar. En este ejemplo, elegimos Chat en vivo. Haga clic en el icono de lápiz.
+1. Seleccione el área del perfil que desea editar. En este ejemplo, **Chat en vivo** está seleccionado. Haga clic en el icono de lápiz.
 
    ![](assets/permissions-4.png)
 
@@ -156,10 +156,10 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Publicar flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Reuniones</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -167,7 +167,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver informes de reuniones</li>
     <br>
     <i>Configuración del agente</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>
@@ -186,7 +186,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver mis conversaciones</li>
     <br>
     <i>Reuniones</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -212,10 +212,10 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Reuniones</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -244,10 +244,10 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Publicar flujos de conversación</li>
     <br>
     <i>Chat en vivo</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Reuniones</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Análisis</i>
     <li>Ver informes de rendimiento globales</li>
@@ -256,7 +256,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Exportar informes</li>
     <br>
     <i>Configuración del agente</i>
-    <li>N/A</li>
+    <li>n/a</li>
     <br>
     <i>Configuración de administración</i>
     <li>Ver operación por turnos</li>

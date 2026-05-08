@@ -4,7 +4,7 @@ description: Aprenda a crear un usuario de Salesforce para Marketo con edición 
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (empresarial/ilimitado)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -47,7 +47,7 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. En la sección **[!UICONTROL Permisos administrativos]**, asegúrese de marcar las siguientes casillas:
+1. En la sección **[!UICONTROL Permisos administrativos]**, compruebe que las siguientes casillas estén marcadas:
 
    * [!UICONTROL API habilitada]
    * [!UICONTROL Editar plantillas de HTML]
@@ -58,9 +58,9 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    >[!TIP]
    >
-   >Asegúrese de marcar la casilla **[!UICONTROL La contraseña nunca caduca]**.
+   >Marque la casilla **[!UICONTROL La contraseña nunca caduca]**.
 
-1. En la sección [!UICONTROL Permisos generales de usuario], asegúrese de marcar las siguientes casillas:
+1. En la sección [!UICONTROL Permisos generales de usuario], compruebe que las siguientes casillas estén marcadas:
 
    * [!UICONTROL Convertir posibles clientes]
    * [!UICONTROL Editar eventos]
@@ -68,7 +68,7 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. En la sección [!UICONTROL Permisos de objeto estándar], asegúrese de comprobar los permisos de [!UICONTROL Leer, Crear, Editar y Eliminar] para:
+1. En la sección [!UICONTROL Permisos de objeto estándar], compruebe que los permisos [!UICONTROL Leer, Crear, Editar y Eliminar] estén comprobados para:
 
    * [!UICONTROL Cuentas]
    * [!UICONTROL Campañas]
@@ -111,7 +111,7 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Busque los campos que no necesite, asegúrese de que las opciones **[!UICONTROL Acceso de lectura]** y **[!UICONTROL Editar acceso]** estén desactivadas. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Busque los campos que no necesite, compruebe que **[!UICONTROL Acceso de lectura]** y **[!UICONTROL Acceso de edición]** estén desactivados. Haga clic en **[!UICONTROL Guardar]** cuando haya terminado.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Una vez que termine de deshabilitar todos los campos innecesarios, debe comprobar **[!UICONTROL Acceso de lectura y acceso de edición]** para los siguientes campos de objeto. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Una vez que termine de deshabilitar todos los campos innecesarios, debe comprobar **[!UICONTROL Acceso de lectura y acceso de edición]** para los siguientes campos de objeto. Haga clic en **[!UICONTROL Guardar]** cuando haya terminado.
 
 <table>
  <tbody>
@@ -154,7 +154,7 @@ En este artículo, configurará los permisos de usuario en el perfil [!DNL Sales
 
    ![](assets/sfdc-new-users.png)
 
-1. Rellene los campos obligatorios. A continuación, seleccione la **[!UICONTROL licencia de usuario: Salesforce]** y el perfil que creó anteriormente. Haz clic en **[!UICONTROL Guardar]** cuando hayas terminado.
+1. Rellene los campos obligatorios. A continuación, seleccione la **[!UICONTROL licencia de usuario: Salesforce]** y el perfil que creó anteriormente. Haga clic en **[!UICONTROL Guardar]** cuando haya terminado.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

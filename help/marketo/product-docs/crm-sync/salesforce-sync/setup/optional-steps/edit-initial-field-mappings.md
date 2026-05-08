@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar las asignaciones de campos 
 title: Editar asignaciones de campo iniciales
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Si tiene campos con nombres similares en el posible cliente y en el objeto de co
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   ¡Bonito! Ya casi ha terminado la sincronización inicial.
+   Ya casi ha terminado la sincronización inicial.
 
 ## Restablecer esquema {#reset-schema}
 

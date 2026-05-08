@@ -3,16 +3,16 @@ description: Obtenga información sobre cómo configurar el usuario de sincroniz
 title: Instalar Marketo para  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 local, paso 2 de 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
 # Paso 2 de 3 Configurar Marketo para [!DNL Dynamics] (2016 local/[!DNL Dynamics] 365 local){#step-of-set-up-for-marketo-on-premises-2016}
 
-Buen trabajo completando los pasos anteriores. Vamos a seguir avanzando a través de esto.
+Los pasos anteriores se han completado.
 
 >[!PREREQUISITES]
 >
@@ -74,7 +74,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [&#x200B; debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. En **[!UICONTROL Configuración]**, haga clic en **[!UICONTROL Seguridad]**.
 
@@ -106,7 +106,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 ## Configuración de la solución Marketo {#configure-marketo-solution}
 
-¡Ya casi terminamos! Solo tenemos unas pocas piezas de configuración antes de pasar al siguiente artículo.
+Quedan algunas partes finales de la configuración antes de pasar al siguiente artículo.
 
 1. En **[!UICONTROL Configuración]**, haga clic en **[!UICONTROL Configuración de Marketo]**.
 

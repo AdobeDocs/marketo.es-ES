@@ -3,9 +3,9 @@ description: Obtenga información sobre el tablero de participación de seminari
 title: Panel de participación
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1781'
+source-wordcount: '1783'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ El tablero realiza un seguimiento de varias métricas, incluidas las respuestas 
 Vea la participación de los siguientes tipos de sesiones en un seminario web interactivo.
 
 * **Sesión en vivo**: Una sesión en línea en tiempo real en la que los participantes pueden interactuar activamente entre sí.
-* **Sesión bajo demanda**: la grabación del evento en directo está disponible como un evento propio. Los nuevos invitados pueden registrarse y ver la grabación. Después del registro, recibirán un vínculo de unión a un evento, que los llevará a la grabación del evento una vez finalizado. Los participantes registrados en el evento en directo también pueden ver la grabación utilizando el mismo vínculo de unión.
+* **Sesión bajo demanda**: la grabación del evento en directo está disponible como un evento propio. Los nuevos invitados pueden registrarse y ver la grabación. Después del registro, recibirán un vínculo de unión al evento, que los lleva a la grabación del evento una vez finalizado. Los participantes registrados en el evento en directo también pueden ver la grabación utilizando el mismo vínculo de unión.
 
 ## Ver el panel {#view-the-dashboard}
 

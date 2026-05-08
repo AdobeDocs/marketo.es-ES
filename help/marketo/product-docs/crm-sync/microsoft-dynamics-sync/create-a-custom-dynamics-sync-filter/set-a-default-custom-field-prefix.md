@@ -4,16 +4,16 @@ description: Aprenda a establecer el prefijo de campo personalizado predetermina
 title: Establecer un prefijo de campo personalizado predeterminado
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '106'
+ht-degree: 11%
 
 ---
 
 # Establecer un prefijo de campo personalizado predeterminado {#set-a-default-custom-field-prefix}
 
-El prefijo predeterminado [!DNL Microsoft Dynamics] de los campos personalizados debe ser **new** para que los campos propietarios de Marketo se sincronicen correctamente. A continuación se indica cómo cambiar el prefijo predeterminado.
+El prefijo predeterminado [!DNL Microsoft Dynamics] de los campos personalizados debe ser **new** para que los campos propietarios de Marketo se sincronicen correctamente.
 
 1. Vaya a [!UICONTROL Configuración] y seleccione **[!UICONTROL Personalizaciones].**
 

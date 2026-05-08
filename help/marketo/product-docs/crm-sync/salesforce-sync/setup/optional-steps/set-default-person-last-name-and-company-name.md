@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo establecer los apellidos de la per
 title: Establecer apellidos de persona y nombre de empresa predeterminados
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '149'
 ht-degree: 10%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 10%
    >
    >Marketo Engage solo asigna un valor predeterminado cuando el registro se sincroniza inicialmente con Salesforce y solo si alguno de los campos obligatorios está vacío.
 
-¡Y eso es todo! Cada vez que a una persona le falta un apellido o un nombre de empresa, Marketo agrega el valor predeterminado a medida que sincroniza el registro.
+Cada vez que a una persona le falta un apellido o un nombre de empresa, Marketo agregará el valor predeterminado a medida que sincroniza el registro.

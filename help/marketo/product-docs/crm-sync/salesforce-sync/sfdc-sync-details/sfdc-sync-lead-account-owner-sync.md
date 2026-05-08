@@ -4,10 +4,10 @@ description: Obtenga información acerca de cómo se sincronizan los campos de p
 title: 'Sincronización de SFDC: sincronización de cliente potencial/Propietario de cuenta'
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 14%
+source-wordcount: '218'
+ht-degree: 15%
 
 ---
 
@@ -48,4 +48,3 @@ Existen muchas razones para utilizar estos datos, como
 * Reglas de asignación (y reasignación) en Marketo
 * Úsalos en las acciones de flujo [Cambiar propietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} y [Crear tarea](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo tiene una sincronización de [!DNL Salesforce] impresionante. ¡Nadie más lo hace tan bien!

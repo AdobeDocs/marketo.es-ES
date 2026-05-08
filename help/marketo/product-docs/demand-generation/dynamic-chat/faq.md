@@ -3,10 +3,10 @@ description: Obtenga ayuda sobre el acceso, la instalación, la retención de da
 title: Preguntas frecuentes sobre Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 0%
+source-wordcount: '922'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Consulte a continuación las respuestas a algunas de las preguntas más frecuent
 
 **Parece que no tengo acceso a Dynamic Chat. ¿Cómo puedo obtenerlo?**
 
-Póngase en contacto con el administrador de Marketo Engage y asegúrese de que [lo haya agregado como usuario](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} en Adobe Admin Console.
+Póngase en contacto con el administrador de Marketo Engage y compruebe que [le ha agregado como usuario](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} en Adobe Admin Console.
 
 **¿Puedo instalar Dynamic Chat en cualquier lugar del sitio web de mi empresa o solo funciona en las páginas de aterrizaje de Marketo?**
 
@@ -24,7 +24,7 @@ El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio 
 
 **¿Durante cuánto tiempo se almacenan los datos para los informes?**
 
-90 días. Para obtener una lista completa de límites/parámetros, visite la [página de descripción del producto](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} de Marketo Engage.
+90 días. Para obtener una lista completa de límites/parámetros, consulte la [página de descripción del producto](https://helpx.adobe.com/es/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} de Marketo Engage.
 
 **¿Dynamic Chat admite otros idiomas además del inglés?**
 
@@ -32,7 +32,7 @@ Sí. Dynamic Chat admite los siguientes idiomas: francés, español, alemán, ja
 
 **¿Admite la funcionalidad AI/NLP?**
 
-No admitimos la funcionalidad AI/NLP.
+Dynamic Chat no admite la funcionalidad AI/NLP.
 
 **¿Cómo puedo dirigirme a personas anónimas?**
 
@@ -48,7 +48,7 @@ Cuando alcances el límite mensual de conversaciones comprometidas, todos los Di
 
 **¿Cómo sabré cuándo me estoy acercando al límite de conversaciones comprometidas?**
 
-Cuando hayas alcanzado el 90 % del límite de conversaciones que has mantenido, los administradores de Dynamic Chat recibirán una notificación por correo electrónico y todos los usuarios verán una notificación en forma de banner en Dynamic Chat.
+Cuando haya alcanzado el 90 % del límite de conversaciones comprometidas, los administradores de Dynamic Chat recibirán una notificación por correo electrónico y todos los usuarios verán una notificación en forma de banner en Dynamic Chat.
 
 **Si un visitante se involucra con un Diálogo y posteriormente se conecta con un agente activo, ¿se cuenta como un compromiso o dos?**
 
@@ -80,7 +80,7 @@ Dynamic Chat se integra con Salesforce mediante la integración de Marketo Engag
 
 **Mi calendario está conectado en Dynamic Chat y estoy incluido en las reglas de enrutamiento, ¿por qué no recibo ninguna reunión?**
 
-Esto probablemente indica que es necesario volver a autenticar la conexión de calendario. Esto suele ocurrir cuando se cambia la contraseña del proveedor de calendarios y Dynamic Chat pierde la conexión. Simplemente puede ir a la página de Configuración de Agente en Dynamic Chat y hacer clic en &quot;Volver a autenticar calendario&quot;.
+Esto probablemente indica que es necesario volver a autenticar la conexión de calendario. Esto suele ocurrir cuando se cambia la contraseña del proveedor de calendarios y Dynamic Chat pierde la conexión. Vaya a la página Configuración de agente en Dynamic Chat y haga clic en &quot;Volver a autenticar calendario&quot;.
 
 **¿Cuál es la diferencia entre un Diálogo y un Flujo de conversación?**
 
@@ -88,7 +88,7 @@ Un cuadro de diálogo es una conversación que se muestra automáticamente a los
 
 **¿Hay alguna manera de usar Dynamic Chat para reservar reuniones directamente desde un correo electrónico?**
 
-¡Sí! [Más información](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Sí. [Más información](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **¿Qué significan exactamente términos como &quot;Comprometido&quot; o &quot;Personas adquiridas&quot;?**
 

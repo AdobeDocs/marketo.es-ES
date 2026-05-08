@@ -3,9 +3,9 @@ description: Obtenga información sobre la administración de agentes en Dynamic
 title: Gestión de agentes
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Esta pestaña enumera todos los agentes de la instancia de Dynamic Chat e incluy
 
 >[!NOTE]
 >
->¿No ve un agente que _acaba de_ agregar? Pueden tardar hasta dos horas en aparecer aquí después de agregarlas en la Admin Console de Adobe.
+>Si un agente agregado recientemente no aparece aquí, podrían pasar hasta dos horas después de agregarlo en la Admin Console de Adobe.
 
 ## Equipos {#teams}
 
@@ -76,7 +76,7 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 
 >[!TIP]
 >
->Al crear un mensaje personalizado, puede aplicar estilo a la fuente, utilizar vínculos e incluso insertar emojis. `:)`
+>Al crear un mensaje personalizado, puede aplicar estilo a la fuente, utilizar vínculos e incluso insertar emojis.
 
 ## Configuración {#settings}
 

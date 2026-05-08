@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo personalizar seminarios web intera
 title: Personalización de seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Seleccione **Aplicar** para guardar los cambios o **Restablecer a los valores pr
 
 * Los anfitriones pueden elegir temas durante la creación de la sala o actualizarlos más tarde desde la página de información de la sala (**Barra superior de la sala** > **Menú más** > **Ver información de la sala**).
 
-Más información sobre [Temas](https://helpx.adobe.com/es/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Más información sobre [Temas](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

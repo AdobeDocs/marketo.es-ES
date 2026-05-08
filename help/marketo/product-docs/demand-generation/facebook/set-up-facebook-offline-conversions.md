@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo configurar conversiones sin conexi
 title: Configuración de conversiones de Facebook sin conexión
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---
 
 # Configurar [!DNL Facebook] conversiones sin conexión {#set-up-facebook-offline-conversions}
 
-Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] para las personas creadas mediante anuncios de posibles clientes, su equipo de publicidad puede optimizar el gasto de su publicidad mejor que nunca. A continuación se muestra cómo configurarlo.
+Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] para las personas creadas mediante anuncios de posibles clientes, su equipo de publicidad puede optimizar el gasto de su publicidad mejor que nunca. Siga estos pasos para configurarlo.
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   ¡Dulce! Ha completado la mitad del proceso al habilitar [!DNL Facebook] conversiones sin conexión. Vamos a saltar a la Modeler del ciclo de ingresos para asignar las fases.
+   Ha completado la mitad del proceso al habilitar [!DNL Facebook] conversiones sin conexión. Continúe con el Modeler del ciclo de ingresos para asignar las fases.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
    ![](assets/2.png)
 
-1. ¡Apruebe su modelo y ha terminado!
+1. Apruebe el modelo y habrá terminado.
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

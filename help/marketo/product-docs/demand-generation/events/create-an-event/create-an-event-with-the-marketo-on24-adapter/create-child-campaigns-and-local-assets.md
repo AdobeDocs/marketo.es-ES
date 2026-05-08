@@ -4,9 +4,9 @@ description: Aprenda a crear campañas secundarias y recursos locales para event
 title: Crear campañas secundarias y recursos locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '688'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Algunos ejemplos de campañas secundarias son una campaña de invitación, una c
 **Registro/Confirmación (Campaña de Déclencheur)**
 
 * Lista inteligente
-* Déclencheur basado en **Rellena formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Agregar restricción**, especialmente si el mismo formulario se utiliza en varias páginas de aterrizaje.
+* Déclencheur basado en **Rellena formulario**. Incluya la página de aterrizaje en la que se encuentra el formulario usando **Agregar restricción**, especialmente si el mismo formulario se usa en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >

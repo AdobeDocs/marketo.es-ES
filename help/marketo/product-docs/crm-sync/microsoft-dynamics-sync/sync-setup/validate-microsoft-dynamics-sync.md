@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo ejecutar la herramienta Validar si
 title: Validar [!DNL Microsoft Dynamics] sincronización
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 2%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

@@ -4,9 +4,9 @@ description: Aprenda a conectar Marketo y Salesforce en el paso final de la edic
 title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (profesional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ En este artículo, configurará Marketo Engage para que se sincronice con la ins
 
    >[!NOTE]
    >
-   >Asegúrese de [ocultar todos los campos que no necesite](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} en Marketo del usuario de sincronización antes de hacer clic en **[!UICONTROL Campos de sincronización]**. Una vez que haga clic en Sincronizar campos, todos los campos que el usuario pueda ver se crearán en Marketo de forma permanente y no se podrán eliminar.
+   >[Oculte del usuario de sincronización todos los campos que no necesite](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} en Marketo antes de hacer clic en **[!UICONTROL Campos de sincronización]**. Una vez que haga clic en Sincronizar campos, todos los campos que el usuario pueda ver se crearán en Marketo de forma permanente y no se podrán eliminar.
 
 1. Escriba las credenciales del usuario de sincronización de Salesforce creadas en la parte 2 de la configuración de Salesforce ([Profesional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Empresa](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) y haga clic en **[!UICONTROL Campos de sincronización]**.
 
@@ -100,7 +100,7 @@ Marketo proporciona mensajes de estado para la sincronización de [!DNL Salesfor
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Acaba de terminar de configurar una de las funciones más potentes de Marketo. ¡Ya está!
+Ha terminado de configurar una de las funciones más potentes de Marketo.
 
 >[!MORELIKETHIS]
 >

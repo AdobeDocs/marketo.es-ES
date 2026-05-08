@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo añadir Customer Match de Google c
 title: Agregar la coincidencia de clientes de Google como  [!DNL LaunchPoint] servicio
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Con esta integración, puede enviar una audiencia de Marketo a Google para que l
 
    ![](assets/authorizesuccess.png)
 
-   ¡Fantástico! Ahora verá Audiencias coincidentes de Google como un servicio [!DNL LaunchPoint] en la pestaña Servicios instalados.
+   Audiencias coincidentes de Google ahora aparece como un servicio [!DNL LaunchPoint] en la pestaña Servicios instalados.
 
 >[!NOTE]
 >

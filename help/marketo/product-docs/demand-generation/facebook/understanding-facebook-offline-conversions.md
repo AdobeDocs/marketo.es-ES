@@ -4,16 +4,16 @@ description: Obtenga información acerca de las conversiones sin conexión de Fa
 title: Explicación de las conversiones sin conexión de Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '241'
 ht-degree: 2%
 
 ---
 
 # Explicación de [!DNL Facebook] conversiones sin conexión {#understanding-facebook-offline-conversions}
 
-Las campañas de anuncios de posibles clientes de Facebook generan posibles clientes y los envían a Marketo para su uso en campañas de marketing. Sin embargo, sin visibilidad de las conversiones sin conexión, el anunciante de [!DNL Facebook] no puede saber qué anuncios son los más efectivos. A continuación se muestra un ejemplo.
+Las campañas de anuncios de posibles clientes de Facebook generan posibles clientes y los envían a Marketo para su uso en campañas de marketing. Sin embargo, sin visibilidad de las conversiones sin conexión, el anunciante de [!DNL Facebook] no puede saber qué anuncios son los más efectivos. El siguiente es un ejemplo.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Las campañas de anuncios de posibles clientes de Facebook generan posibles clie
 
 Puede [configurar conversiones de Facebook sin conexión](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar el rendimiento de anuncios sin conexión a [!DNL Facebook].
 
-1. Asegúrese de que la integración de [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) esté actualizada.
+1. Compruebe que su integración de [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) esté actualizada.
 1. Asignar fases del modelo del ciclo de ingresos a fases de conversión sin conexión en [!DNL Facebook].
 1. Cuando se genera un posible cliente [!DNL Facebook] a partir de un anuncio de posible cliente [!DNL Facebook] y llega a una fase asignada, Marketo devuelve los datos de conversión sin conexión a [!DNL Facebook] varias veces al día mediante una API segura y automatizada. Los datos aparecen en el informe de [!DNL Facebook] Ads Manager.
 

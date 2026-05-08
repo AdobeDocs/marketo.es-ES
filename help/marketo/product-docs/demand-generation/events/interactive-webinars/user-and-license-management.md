@@ -3,9 +3,9 @@ description: Obtenga información sobre la administración de usuarios y licenci
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -102,9 +102,9 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 
 * Cada vez que se crea un evento, se contabiliza como &quot;consumido&quot; desde su licencia respectiva (a menos que sea una licencia de sala compartida). Se da preferencia a &quot;Licencia de evento compartido&quot; si hay &quot;Licencia de evento compartido&quot; y &quot;Licencia de habitación compartida&quot; de la misma capacidad. Si el evento no se ha entregado y el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reaprovisiona. Si el evento no se entrega y el programa de eventos no se elimina antes de la hora programada, el evento no se reaprovisiona.
 
-* El tipo &quot;Licencia de almacenamiento adicional&quot; simplemente proporciona almacenamiento, por lo tanto el valor en cada campo _además de la Capacidad de almacenamiento de_ se indicará simplemente como &quot;-&quot;.
+* El tipo &quot;Licencia de almacenamiento adicional&quot; proporciona solo almacenamiento, por lo tanto el valor en cada campo _además de_ Capacidad de almacenamiento se enumerará como &quot;-&quot;.
 
-* El tipo &quot;Licencia de sala compartida&quot; tiene eventos ilimitados y &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo que el campo Eventos totales para estas licencias se enumerará simplemente como &quot;-&quot;.
+* El tipo &quot;Licencia de sala compartida&quot; tiene eventos ilimitados y &quot;Licencia de almacenamiento adicional&quot; proporciona solo almacenamiento, por lo que el campo Eventos totales para estas licencias se enumerará como &quot;-&quot;.
 
 * Una vez agotada la licencia, el mosaico permanece en la pantalla Seminarios web interactivos de la sección Administración con &quot;Eventos totales&quot; y &quot;Eventos consumidos&quot; con el mismo valor. Solo cuando caduque la licencia se eliminará de la pantalla.
 

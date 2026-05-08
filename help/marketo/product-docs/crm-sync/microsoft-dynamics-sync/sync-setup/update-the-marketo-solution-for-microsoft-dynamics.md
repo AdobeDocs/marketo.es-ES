@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo actualizar la solución de Marketo
 title: Actualizar la solución Marketo para  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Cuando se publique una nueva solución [!DNL Microsoft Dynamics], podrá descarg
 
    ![](assets/msd-online.png)
 
-   ¡Fantástico! Ahora se descargará un archivo zip de la solución en el dispositivo. Si no está familiarizado con los pasos de instalación, póngase en contacto con su administrador de [!UICONTROL Dynamics].
+   Ahora se descargará un archivo zip de la solución en el dispositivo. Si no está familiarizado con los pasos de instalación, póngase en contacto con su administrador de [!UICONTROL Dynamics].
 
 ## Realización de la actualización {#performing-the-update}
 
@@ -51,4 +51,4 @@ Cuando se publique una nueva solución [!DNL Microsoft Dynamics], podrá descarg
 
 >[!CAUTION]
 >
->Si selecciona Actualizar en lugar de Actualizar, podrían dañarse los datos del entorno [!DNL Dynamics]. **Asegúrese de elegir Actualizar** en [!UICONTROL Opciones de importación].
+>Si selecciona Actualizar en lugar de Actualizar, podrían dañarse los datos del entorno [!DNL Dynamics]. **Elija Actualización** en [!UICONTROL Opciones de importación].

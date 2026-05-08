@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo enviar una lista estática de Mark
 title: Enviar una lista a Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '239'
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ Para aquellos que utilizan Customer Match de Google, siga los pasos a continuaci
 
    >[!NOTE]
    >
-   >* Al seleccionar **Mantener la pertenencia a la audiencia sincronizada**, la lista se mantiene actualizada a medida que cambia en la instancia. Añadimos o eliminamos personas de la audiencia cuando se añaden o eliminan de la lista estática.
+   >* Al seleccionar **Mantener la pertenencia a la audiencia sincronizada**, la lista se mantiene actualizada a medida que cambia en la instancia. La pertenencia a audiencias se actualiza cuando se agregan o eliminan personas de la lista estática.
    >
    >* Al seleccionar la casilla de verificación en la parte inferior, se envía el estado de consentimiento como CONCEDIDO para los datos de usuario enviados a Google Ads con fines de publicidad y personalización de anuncios. Si lo deja sin marcar, el estado de consentimiento se envía como NO ESPECIFICADO. Para aquellos que planean cargar datos para usuarios en el Espacio Económico Europeo (EEE), Google ha reunido una lista de [preguntas frecuentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, así como detalles adicionales que describen la [política de consentimiento del usuario de la UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 

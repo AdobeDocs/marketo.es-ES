@@ -4,9 +4,9 @@ description: Aprenda a crear una audiencia personalizada en Facebook desde Marke
 title: Creación de una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >¿Desea intercambiar una audiencia nueva por una existente que esté asociada actualmente a un conjunto o grupo de anuncios? Active la casilla de verificación **[!UICONTROL Reemplazar una audiencia existente]**. Al hacerlo, **no** eliminará la audiencia que se está reemplazando.
+   >Para intercambiar una audiencia nueva por otra existente que esté asociada actualmente a un grupo o conjunto de anuncios, active la casilla de verificación **[!UICONTROL Reemplazar una audiencia existente]**. Al hacerlo, **no** eliminará la audiencia que se está reemplazando.
 
 1. Cuando termine, el cuadro de diálogo de estado se actualizará.
 

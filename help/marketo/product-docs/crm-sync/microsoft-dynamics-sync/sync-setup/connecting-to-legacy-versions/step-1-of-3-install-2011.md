@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo instalar la solución de Marketo p
 title: 'Paso 1 de 3: Instalación de la solución de Marketo (local de 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '304'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Para poder sincronizar [!DNL Microsoft Dynamics] On-Premies y Marketo, primero d
    >
    >Deberá habilitar las ventanas emergentes en el explorador para completar el proceso de instalación.
 
-1. Ahora espere a que finalice la importación. Levántate y haz algunos estiramientos.
+1. Ahora espere a que finalice la importación.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

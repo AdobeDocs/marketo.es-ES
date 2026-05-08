@@ -4,16 +4,16 @@ description: Aprenda de un ejemplo de integración de eventos ON24 con Marketo. 
 title: Ejemplo de integración de eventos ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 2%
 
 ---
 
 # Ejemplo de integración de eventos ON24 {#example-on-event-integration}
 
-Este es un evento de ejemplo, incluidas las campañas, para un seminario web ON24. Cuando cree su evento, asegúrese de probar las campañas antes de ejecutarlas.
+El siguiente es un evento de ejemplo, incluidas campañas, para un seminario web ON24. Cuando organice el evento, pruebe las campañas antes de ejecutarlas.
 
 ## Crear un evento nuevo en actividades de marketing {#create-a-new-event-in-marketing-activities}
 
@@ -55,7 +55,7 @@ Este es un evento de ejemplo, incluidas las campañas, para un seminario web ON2
 
 * **Lista inteligente**
 
-   * Almacene en déclencheur la campaña según **[!UICONTROL Rellena el formulario]**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **[!UICONTROL Agregar restricción]**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
+   * Almacene en déclencheur la campaña según **[!UICONTROL Rellena el formulario]**. Incluya la página de aterrizaje en la que se encuentra el formulario mediante **[!UICONTROL Agregar restricción]**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >
@@ -79,7 +79,7 @@ Este es un evento de ejemplo, incluidas las campañas, para un seminario web ON2
 
 * **Flujo** - Enviar correo electrónico (Correo electrónico de recordatorio).
 
-**NOTA**: podrías usar una campaña similar para enviar un correo electrónico de seguimiento de *diferentes* a las personas invitadas pero que aún no se han registrado.
+**NOTA**: podría usar una campaña similar para enviar un correo electrónico de seguimiento *diferente* a las personas invitadas pero que aún no se han registrado.
 
 ## Campaña de seguimiento (campaña por lotes o de Déclencheur) {#follow-up-campaign-batch-or-trigger-campaign}
 

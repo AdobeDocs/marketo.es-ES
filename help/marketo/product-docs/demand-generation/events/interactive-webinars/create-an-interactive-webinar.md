@@ -3,16 +3,16 @@ description: Aprenda a crear un seminario web interactivo en Marketo. Siga los p
 title: Creación de un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '304'
 ht-degree: 3%
 
 ---
 
 # Creación de un seminario web interactivo {#create-an-interactive-webinar}
 
-Cree un seminario web interactivo en unos sencillos pasos.
+Cree un seminario web interactivo en los pasos siguientes.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -30,7 +30,7 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Haga clic en el menú desplegable Canal y seleccione cualquier canal que tenga _Evento con seminario web_ en la columna &quot;Se aplica a&quot;. En este ejemplo, elegimos **Seminario web**.
+1. Haga clic en el menú desplegable Canal y seleccione cualquier canal que tenga _Evento con seminario web_ en la columna &quot;Se aplica a&quot;. En este ejemplo, **Seminario web** está seleccionado.
 
    ![](assets/create-an-interactive-webinar-4.png)
 

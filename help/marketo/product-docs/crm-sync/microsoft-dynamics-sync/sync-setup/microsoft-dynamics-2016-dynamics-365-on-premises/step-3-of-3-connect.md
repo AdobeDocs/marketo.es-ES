@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo conectar Marketo a Dynamics 2016 o
 title: Instalar Marketo para  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 local, paso 3 de 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >Asegúrese de que sus credenciales sean correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de Marketo.
+   >Compruebe que sus credenciales son correctas. Los cambios de esquema posteriores no se pueden revertir después del envío. Si se guardan credenciales incorrectas, se requerirá una nueva suscripción de Marketo.
 
 1. Escriba **Nombre de usuario**, **Contraseña**, [!DNL Microsoft Dynamics] **URL** y **Secreto/Id. de cliente**. Haga clic en **Guardar** cuando termine.
 
@@ -73,7 +73,7 @@ ht-degree: 4%
 
 ## Sincronizar campos para un filtro personalizado {#sync-fields-for-a-custom-filter}
 
-Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nuevos campos que desea sincronizar con Marketo.
+Si ha creado un filtro personalizado, vaya y seleccione los nuevos campos que desea sincronizar con Marketo.
 
 1. Vaya a Administración y seleccione **[!DNL Microsoft Dynamics]**.
 
