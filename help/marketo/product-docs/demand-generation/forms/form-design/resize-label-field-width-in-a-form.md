@@ -4,10 +4,10 @@ description: Aprenda a cambiar el tamaño de la etiqueta y el ancho del campo en
 title: Cambiar el tamaño de la etiqueta o el ancho del campo en un formulario
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 15%
+source-wordcount: '102'
+ht-degree: 13%
 
 ---
 
@@ -31,8 +31,7 @@ Existen dos formas de cambiar el tamaño del ancho de etiqueta del campo y del p
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Escriba un valor en píxeles para [!UICONTROL Anchura de etiqueta] y/o [!UICONTROL Anchura de campo].
+1. Escriba un valor en píxeles para [!UICONTROL Ancho de etiqueta], [!UICONTROL Ancho de campo] o ambos.
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-¡Buen trabajo! Bastante fácil, ¿verdad?

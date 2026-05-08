@@ -4,7 +4,7 @@ description: Aprenda a cargar imágenes y archivos de Box a Marketo. Conecte Box
 title: Cargar imágenes y archivos desde Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 12%
@@ -43,4 +43,4 @@ Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y cor
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Sus archivos ya están listos para utilizarse en sus páginas de aterrizaje y correos electrónicos.
+Los archivos ya están listos para utilizarse en las páginas de aterrizaje y los correos electrónicos.

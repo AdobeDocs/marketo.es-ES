@@ -4,9 +4,9 @@ description: Aprenda a cambiar el estilo y el color del botón de envío en un f
 title: Cambiar el estilo y el color del botón Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '150'
 ht-degree: 12%
 
 ---
@@ -29,7 +29,7 @@ Si encuentra el botón de envío estándar aburrido o si necesita algo más eleg
 
    >[!TIP]
    >
-   >¿Sabía que puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición? Es así de fácil. Pruébelo.
+   >Puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición.
 
 1. Elija el estilo de botón que desee (desplácese hacia arriba/abajo).
 
@@ -54,8 +54,6 @@ Si encuentra el botón de envío estándar aburrido o si necesita algo más eleg
 1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   ¡Ahí tienes!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

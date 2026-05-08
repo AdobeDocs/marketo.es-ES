@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo agregar un campo a un formulario e
 title: Añadir un campo a un formulario
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 12%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
 # Añadir un campo a un formulario {#add-a-field-to-a-form}
 
-Una vez que [hayas creado tu formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} y [seleccionado un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, quizá quieras agregar campos adicionales para que las personas los rellenen. Así es cómo se hace.
+Después de que [hayas creado tu formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} y [seleccionado un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, quizá quieras agregar campos adicionales para que las personas los rellenen.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -49,7 +49,7 @@ Una vez que [hayas creado tu formulario](/help/marketo/product-docs/demand-gener
 
 >[!NOTE]
 >
->Asegúrese de aprobar cualquier borrador de página de aterrizaje creado debido a los cambios del formulario.
+>Apruebe cualquier borrador de página de aterrizaje creado debido a los cambios del formulario.
 
 >[!MORELIKETHIS]
 >

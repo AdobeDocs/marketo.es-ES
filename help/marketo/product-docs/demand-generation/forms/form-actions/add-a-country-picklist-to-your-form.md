@@ -4,10 +4,10 @@ description: Aprenda a añadir una lista de selección de país al formulario de
 title: Añadir una lista de selección de país a su formulario
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 11%
+source-wordcount: '156'
+ht-degree: 14%
 
 ---
 
@@ -69,11 +69,9 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   ¡Bien hecho! Ahora, cuando una persona rellene el formulario, podrá elegir de la lista de países que ha proporcionado.
+   Ahora, cuando una persona rellene el formulario, podrá elegir de la lista de países que ha proporcionado.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Como eso fue tan fácil, ¿por qué no hacer más? ¿Qué tal si se muestra dinámicamente el campo Estado cuando un usuario selecciona Estados Unidos como país de la lista? Consulte el artículo relacionado que aparece a continuación para saber cómo hacerlo.
 
 >[!MORELIKETHIS]
 >

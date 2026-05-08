@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo eliminar un campo de un formulario
 title: Eliminar campo de un formulario
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 22%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
@@ -37,4 +37,4 @@ Si hay un campo que ya no necesita en el formulario, se puede eliminar fácilmen
 
 >[!NOTE]
 >
->No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
+>Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.

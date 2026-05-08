@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo configurar reCAPTCHA v3 para formu
 title: Configuración de un reCAPTCHA versión 3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '372'
 ht-degree: 4%
 
 ---
@@ -68,7 +68,7 @@ Los siguientes pasos se realizan fuera de Marketo.
 
 >[!IMPORTANT]
 >
->Después de seguir estos pasos y [habilitar CAPTCHA en su primer formulario Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, asegúrese de probar el formulario de inmediato, ya que cualquier tipo de configuración incorrecta en la configuración de reCAPTCHA puede romper el formulario.
+>Después de seguir estos pasos y [habilitar CAPTCHA en su primer formulario Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, pruebe el formulario de inmediato, ya que cualquier tipo de configuración incorrecta en la configuración de reCAPTCHA puede romper el formulario.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 

@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo mostrar HTML personalizado para pe
 title: Mostrar formulario HTML personalizado para personas conocidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 8%
 
 ---
@@ -68,7 +68,7 @@ Si un visitante ha proporcionado su nombre completo y dirección de correo elect
    >
    >Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
-   ¡Pedazo de torta! Vea lo que una persona vería si volviera al mismo formulario:
+   A continuación, se muestra lo que vería una persona si volviera al mismo formulario:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

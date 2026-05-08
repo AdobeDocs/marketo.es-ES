@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo agregar imágenes y archivos a Mar
 title: Añadir imágenes y archivos a Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 9%
 
 ---
@@ -41,7 +41,7 @@ Obtenga información sobre cómo agregar nuevas imágenes o archivos a la instan
 
    >[!NOTE]
    >
-   >Aunque Marketo acepta todos los tipos de archivos para cargar, solo los tipos de imagen principales (JPG, PNG, GIF, etc.) funcionarán en nuestro editor de correo electrónico.
+   >Aunque Marketo acepta todos los tipos de archivo para la carga, solo los tipos de imagen principales (JPG, PNG, GIF, etc.) funcionará en el editor de correo electrónico.
 
    >[!MORELIKETHIS]
    >

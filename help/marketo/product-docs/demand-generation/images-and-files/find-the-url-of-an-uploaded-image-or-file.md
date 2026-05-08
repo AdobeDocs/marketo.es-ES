@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo encontrar la dirección URL de una
 title: Buscar la URL de una imagen o archivo cargado
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 21%
 
 ---
 
 # Buscar la URL de una imagen o archivo cargado {#find-the-url-of-an-uploaded-image-or-file}
 
-¿Busca la dirección web (URL) de una imagen o archivo que ha cargado?
+Siga estos pasos para encontrar la dirección URL de una imagen o archivo que ha cargado.
 
 1. Vaya a **[!UICONTROL Design Studio]**.
 

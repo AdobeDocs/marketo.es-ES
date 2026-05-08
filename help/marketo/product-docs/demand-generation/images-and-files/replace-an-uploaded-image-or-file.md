@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo reemplazar una imagen o un archivo
 title: Reemplazar una imagen o archivo cargado
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '126'
 ht-degree: 9%
 
 ---
@@ -40,8 +40,6 @@ ht-degree: 9%
    >[!NOTE]
    >
    >El nombre del archivo de reemplazo cambiará para coincidir con el nombre del archivo anterior.
-
-¡Buen trabajo!
 
 >[!MORELIKETHIS]
 >

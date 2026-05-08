@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo agregar un conjunto de campos a un
 title: Añadir un conjunto de campos a un formulario
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Añadir un conjunto de campos a un formulario {#add-a-fieldset-to-a-form}
 
-Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También puedes controlar un bloque entero a la vez!
+Los conjuntos de campos agrupan un conjunto de campos. Puede controlar un bloque entero a la vez.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -35,11 +35,9 @@ Los conjuntos de campos son geniales. Agrupan un montón de campos. ¡También p
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Este es el aspecto que debería tener cuando se termine.
+1. A continuación se muestra el aspecto que debería tener cuando se termine.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
-
-¡Ahí lo tienes!
 
 >[!TIP]
 >

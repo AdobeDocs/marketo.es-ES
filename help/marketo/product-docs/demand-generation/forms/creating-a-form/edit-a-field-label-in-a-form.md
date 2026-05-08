@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar una etiqueta de campo en un
 title: Edición de una etiqueta de campo en un formulario
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,4 +45,4 @@ Puede cambiar la etiqueta de un formulario a cualquier cosa, incluso puede utili
 
 >[!NOTE]
 >
->No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} creado por el formulario.
+>Recuerde [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} creado por los cambios del formulario.

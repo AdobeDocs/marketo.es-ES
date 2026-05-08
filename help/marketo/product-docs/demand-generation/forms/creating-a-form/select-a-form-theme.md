@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo seleccionar una temática de formu
 title: Selección de un tema de formulario
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 12%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
 # Selección de un tema de formulario {#select-a-form-theme}
 
-Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gusta más?
+Hay varias temáticas disponibles para los formularios.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -53,8 +53,6 @@ Hemos hecho un montón de temas agradables para sus formularios. ¿Cuál te gust
 1. Haga clic en **[!UICONTROL Siguiente]** para configurar otras opciones de formulario o haga clic en **[!UICONTROL Finalizar]** si solo desea cambiar el tema del formulario.
 
    ![](assets/select-a-form-theme-5.png)
-
-¿Fue fácil?! Ahora puedes dejar que tu libro de HTML/CSS recopile algo de polvo.
 
 >[!MORELIKETHIS]
 >

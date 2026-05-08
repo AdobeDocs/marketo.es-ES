@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo crear un formulario en Marketo. Ag
 title: Creación de un formulario
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '132'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
 >[!TIP]
 >
->La mayoría de los usuarios crea un nuevo formulario para cada página de aterrizaje, pero también puede crear un formulario para utilizarlo con varias páginas de aterrizaje. ¡Todo depende de ti!
+>La mayoría de los usuarios crea un nuevo formulario para cada página de aterrizaje, pero también puede crear un formulario para utilizarlo con varias páginas de aterrizaje.
 
 >[!MORELIKETHIS]
 >

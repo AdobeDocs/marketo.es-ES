@@ -4,9 +4,9 @@ description: Aprenda a añadir instrucciones de información sobre herramientas 
 title: Añadir instrucciones de ayuda contextual a un campo de formulario
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
+   >Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-¡Increíble trabajo! La información del objeto aparecerá cuando un visitante pase el ratón sobre el campo.
+La información del objeto aparecerá cuando un visitante pase el ratón sobre el campo.

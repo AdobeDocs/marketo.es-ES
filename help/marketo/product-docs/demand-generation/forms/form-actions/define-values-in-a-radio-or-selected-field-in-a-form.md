@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo definir valores en un campo de opc
 title: Definir valores en una radio o campo seleccionado en un formulario
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 14%
+source-wordcount: '196'
+ht-degree: 15%
 
 ---
 
@@ -62,5 +62,3 @@ Una vez que haya [establecido un tipo de campo](/help/marketo/product-docs/admin
 1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-¡Excelente trabajo! Lo estás haciendo muy bien.

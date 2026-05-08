@@ -4,10 +4,10 @@ description: Aprenda a cambiar la posición de las etiquetas de los formularios 
 title: Cambiar posición de etiqueta del formulario
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '108'
+ht-degree: 14%
 
 ---
 
@@ -51,8 +51,6 @@ Al [crear un formulario](/help/marketo/product-docs/demand-generation/forms/crea
    >[!NOTE]
    >
    >Recuerde aprobar los cambios del borrador de la página de aterrizaje creado por el formulario.
-
-¡Bien hecho! ¿Ve lo fácil que era cambiar las posiciones de las etiquetas en un formulario? Bien, veamos qué podemos hacer para cambiar la fuente de las etiquetas del formulario.
 
 >[!MORELIKETHIS]
 >

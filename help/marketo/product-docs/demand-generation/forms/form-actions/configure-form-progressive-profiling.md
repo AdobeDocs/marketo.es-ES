@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar la creación de perfile
 title: Configurar una creación de perfiles progresiva del formulario
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '337'
 ht-degree: 4%
 
 ---
@@ -94,6 +94,4 @@ ht-degree: 4%
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-¡Buen trabajo! El trabajo que acabas de hacer dará sus frutos.
-
-Experimente con esta función y asegúrese de realizar pruebas. Es avanzado, pero puede hacer que los formularios sean muy dinámicos de esta manera.
+Experimente con esta función y pruébela. Es avanzado, pero puede hacer que los formularios sean muy dinámicos de esta manera.

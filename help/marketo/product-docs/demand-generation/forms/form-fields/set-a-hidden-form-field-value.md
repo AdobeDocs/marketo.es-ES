@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo establecer un valor de campo de fo
 title: Establecer un valor de campo de formulario oculto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Si desea capturar los parámetros de URL (cadenas de consulta) de la página en 
 
 >[!NOTE]
 >
->Los parámetros son un poco técnicos, ¿no? Sin embargo, una vez que los tienes, son poderosos. Esta [página de Wikipedia sobre cadenas de consulta](https://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
+>Los parámetros son técnicos. Una vez que los entiendes, son poderosos. Esta [página de Wikipedia sobre cadenas de consulta](https://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
 
 1. Seleccione **[!UICONTROL Parámetro de dirección URL]** para **[!UICONTROL Obtener tipo de valor]**.
 

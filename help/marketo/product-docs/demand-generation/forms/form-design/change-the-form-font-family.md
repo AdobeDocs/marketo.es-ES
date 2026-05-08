@@ -4,16 +4,16 @@ description: Aprenda a cambiar la familia de fuentes del formulario en Marketo. 
 title: Cambio de la familia de fuentes del formulario
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '116'
+ht-degree: 13%
 
 ---
 
 # Cambio de la familia de fuentes del formulario {#change-the-form-font-family}
 
-Las fuentes de Google son increíbles y las hemos incorporado directamente en el editor de formularios. ¡Eche un vistazo!
+Google Fonts está integrado en el editor de formularios.
 
 >[!NOTE]
 >
@@ -56,8 +56,6 @@ Las fuentes de Google son increíbles y las hemos incorporado directamente en el
    >Recuerde aprobar los cambios del borrador de la página de aterrizaje creado por el formulario.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
-
-¿Ve lo fácil que era cambiar la familia de fuentes en un formulario? Genial, ahora que ya está hecho, vamos a aprender a cambiar el tamaño de la fuente del formulario.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Aprenda a utilizar un formulario en un lightbox en Marketo. Muestre
 title: Uso de un formulario en Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '116'
 ht-degree: 15%
 
 ---
@@ -40,5 +40,3 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
 Entregue el código a su desarrollador web y pídale que lo añada a su sitio web.
-
-¡Gran trabajo!

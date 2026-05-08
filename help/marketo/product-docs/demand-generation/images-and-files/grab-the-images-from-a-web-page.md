@@ -4,16 +4,16 @@ description: Aprenda a capturar imágenes de una página web en Marketo. Importa
 title: Captar las imágenes desde la página web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---
 
 # Captar las imágenes desde la página web {#grab-the-images-from-a-web-page}
 
-Para agregar imágenes desde una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos sencillos pasos.
+Para añadir imágenes desde una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos pasos.
 
 1. Vaya a **[!UICONTROL Design Studio]**.
 
@@ -42,8 +42,6 @@ Para agregar imágenes desde una página web, copie la dirección web (URL) de l
 1. Puede ver todas las imágenes disponibles en **[!UICONTROL Imágenes y archivos]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
-
-¡Buen trabajo, maestro de imagen!
 
 >[!MORELIKETHIS]
 >

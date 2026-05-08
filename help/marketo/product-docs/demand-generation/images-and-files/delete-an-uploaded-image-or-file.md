@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo eliminar una imagen o un archivo c
 title: Eliminar una imagen o un archivo cargados
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 10%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 
 # Eliminar una imagen o un archivo cargados {#delete-an-uploaded-image-or-file}
 
-La eliminación de imágenes o archivos es rápida y sencilla.
+Siga estos pasos para eliminar una imagen o un archivo cargado.
 
 >[!CAUTION]
 >

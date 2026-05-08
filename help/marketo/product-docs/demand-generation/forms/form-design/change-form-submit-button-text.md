@@ -4,10 +4,10 @@ description: Aprenda a cambiar el texto del botón de envío del formulario en M
 title: Cambiar texto del botón Enviar formulario
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 18%
+source-wordcount: '94'
+ht-degree: 19%
 
 ---
 
@@ -38,7 +38,5 @@ Puede cambiar rápida y fácilmente un botón de formularios de &quot;Enviar&quo
 1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
-
-   ¡Bam!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)

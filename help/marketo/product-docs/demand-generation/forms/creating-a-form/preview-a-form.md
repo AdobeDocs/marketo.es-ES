@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo obtener una vista previa de un for
 title: Vista previa de un formulario
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 12%
 
 ---
 
 # Vista previa de un formulario {#preview-a-form}
 
-Antes de publicar, puede ver el formulario en este visor de formularios rápido y sencillo.
+Antes de publicar, puede ver el formulario en este visor de formularios.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

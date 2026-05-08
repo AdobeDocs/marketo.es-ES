@@ -4,9 +4,9 @@ description: Aprenda a agregar texto de sugerencia a un campo de formulario en M
 title: Añadir texto de sugerencia a un campo de formulario
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '133'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ Sugerencias e [instrucciones](/help/marketo/product-docs/demand-generation/forms
 
    >[!NOTE]
    >
-   >No olvide [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
+   >Recuerde [aprobar los cambios del borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-¡Eche un vistazo! Vamos a agregar [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.
+Para agregar instrucciones de información sobre herramientas a un campo de formulario, consulte [Agregar instrucciones de información sobre herramientas a un campo de formulario](add-tooltip-instructions-to-a-form-field.md).

@@ -4,16 +4,16 @@ description: Aprenda a hacer que un campo de formulario sea obligatorio en Marke
 title: Establecer un campo de formulario como obligatorio
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Establecer un campo de formulario como obligatorio {#make-a-form-field-required}
 
-Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, es posible que desee que algunos de ellos sean obligatorios para la persona que los rellena. Así es cómo se hace.
+Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, es posible que desee que algunos de ellos sean obligatorios para la persona que los rellena.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -31,7 +31,7 @@ Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. ¡Bien hecho! Haga clic en **[!UICONTROL Finalizar]**.
+1. Haga clic en **[!UICONTROL Finalizar]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,7 +41,7 @@ Al [agregar campos a un formulario](/help/marketo/product-docs/demand-generation
 
 >[!NOTE]
 >
->No olvides [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} en la que se base este formulario para que los cambios se activen.
+>Recuerde [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} en la que se encuentre este formulario para que los cambios se activen.
 
 >[!MORELIKETHIS]
 >

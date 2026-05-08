@@ -4,10 +4,10 @@ description: Aprenda a cambiar el tamaño de la fuente del formulario en Marketo
 title: Cambiar el tamaño de la fuente del formulario
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 13%
+source-wordcount: '124'
+ht-degree: 14%
 
 ---
 
@@ -52,5 +52,3 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
    >Recuerde aprobar los cambios del borrador de la página de aterrizaje creado por el formulario.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
-
-¡Pedazo de torta! Tú tienes esto.

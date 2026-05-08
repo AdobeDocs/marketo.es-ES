@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo incrustar un formulario de Marketo
 title: Incrustar un formulario en el sitio web
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 8%
+source-wordcount: '227'
+ht-degree: 7%
 
 ---
 
@@ -47,6 +47,6 @@ Ahora solo tiene que proporcionar el código incrustado al desarrollador web y h
 
 >[!NOTE]
 >
->Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-¡Buen trabajo! ¿Desea que el [código incrustado incluya el código de Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? ¡Eso también es fácil!
+Para el código Lightbox, consulte [Usar un formulario en un Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).

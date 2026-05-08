@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo editar el CSS de una temática de 
 title: Editar el CSS de una temática de formulario
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '192'
 ht-degree: 11%
 
 ---
@@ -39,7 +39,7 @@ Tiene algunos [temas generados previamente que solo puede elegir entre](/help/ma
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Siéntase libre de cortar/pegar este CSS a su propio editor. Es de solo lectura, por lo que solo necesita el CSS de anulación.
+1. Puede copiar este CSS en su propio editor. Es de solo lectura, por lo que solo necesita el CSS de anulación.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -62,5 +62,3 @@ Tiene algunos [temas generados previamente que solo puede elegir entre](/help/ma
 1. Para ver el formulario personalizado, haga clic en **[!UICONTROL Vista previa del borrador]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-¡Y eso es todo!
