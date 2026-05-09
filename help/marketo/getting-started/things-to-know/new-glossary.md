@@ -246,7 +246,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr>
   <tr>
    <td colspan="1"><strong>Seguimiento de dominio personalizado</strong></td>
-   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3}.</strong></td>
+   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3&rbrace;.</strong></td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Público personalizado</a></strong></td>
