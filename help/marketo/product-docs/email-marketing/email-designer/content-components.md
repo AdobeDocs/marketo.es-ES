@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1308'
-ht-degree: 42%
+source-wordcount: '1320'
+ht-degree: 37%
 
 ---
 
@@ -80,7 +80,7 @@ Utilice el componente **[!UICONTROL Botón]** para insertar uno o varios botones
 
 ## Texto {#text}
 
-Use el componente **[!UICONTROL Texto]** para insertar texto en el correo electrónico y ajustar el estilo (borde, tamaño, relleno, etc.) con la ficha **[!UICONTROL Estilos]**.
+Use el componente **[!UICONTROL Texto]** para insertar texto en el correo electrónico y ajustar el estilo (borde, tamaño, relleno, etc.) usando la ficha **[!UICONTROL Estilos]**.
 
 CAPTURA DE PANTALLA
 
@@ -107,7 +107,7 @@ CAPTURA DE PANTALLA
    * **[!UICONTROL Duplicar]**: añadir una copia del componente de texto.
    * **[!UICONTROL Eliminar]**: eliminar el componente de texto seleccionado del correo electrónico.
 
-1. Ajuste los demás atributos de estilo, como el color del texto, la familia de fuentes, el borde, el relleno, el margen, etc. de la ficha **[!UICONTROL Estilos]**.
+1. Ajuste otros atributos de estilo, como el color del texto, la familia de fuentes, el borde, el relleno, el margen, etc., en la ficha **[!UICONTROL Estilos]**.
 
    CAPTURA DE PANTALLA
 
@@ -164,7 +164,7 @@ Utilice el componente **[!UICONTROL Image]** para insertar un archivo de imagen 
 
 1. También puede elegir **[!UICONTROL Buscar fotografías similares de Stock]**. `[Learn more](../integrations/stock.md)`
 
-1. En la ficha **[!UICONTROL Estilos]**, ajuste los demás atributos de estilo como margen, borde, etc. o añada un enlace para redirigir a su público a otro contenido desde el panel **[!UICONTROL Configuración de componentes]**.
+1. En la ficha **[!UICONTROL Estilos]**, ajuste los demás atributos de estilo, como margen, borde, etc., o agregue un vínculo para redirigir la audiencia a otro contenido desde el panel **[!UICONTROL Configuración de componentes]**.
 
 ## Social {#social}
 
@@ -186,7 +186,7 @@ Utilice el componente **[!UICONTROL Social]** para insertar vínculos a páginas
 
 1. También puede cambiar los iconos de cada uno de sus medios sociales si es necesario desde su Assets.
 
-1. Ajuste los demás atributos de estilo como estilo, margen, borde, etc. de la ficha **[!UICONTROL Estilos]**.
+1. Ajuste los demás atributos de estilo, como estilo, margen, borde, etc., en la ficha **[!UICONTROL Estilos]**.
 
 ## Decisión de oferta {#offer-decision}
 

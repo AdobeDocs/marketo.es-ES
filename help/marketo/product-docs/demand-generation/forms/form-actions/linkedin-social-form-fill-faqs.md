@@ -3,12 +3,11 @@ unique-page-id: 10098238
 description: Obtenga ayuda sobre LinkedIn rellene formularios sociales con formularios de Marketo. Encuentre respuestas a preguntas comunes sobre la integración de rellenado de formularios de LinkedIn.
 title: Preguntas frecuentes sobre relleno de formulario social de LinkedIn
 hide: true
-hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -63,15 +62,15 @@ No, los formularios de los que hemos eliminado esta funcionalidad siguen publica
 
 No, solo se eliminará el botón [!DNL LinkedIn] del formulario. Siempre que se aplica Relleno de formulario social a un formulario, existe un contenedor creado encima que contiene los botones Relleno de formulario social. Antes del 28 de abril de 2016, si [!DNL LinkedIn] era la única opción, el aspecto del contenedor se parecía al de esta imagen:
 
-![—](assets/one.png)
+![--](assets/one.png)
 
 A partir del 28 de abril de 2016, quedará un contenedor vacío en la parte superior de cualquier formulario en el que se haya eliminado [!DNL LinkedIn] relleno de formulario social:
 
-![—](assets/two.png)
+![--](assets/two.png)
 
 >[!NOTE]
 >
->Las imágenes anteriores son solo por ejemplo. Puede que no sea exactamente así como se representa el contenedor de botones Rellenar formulario social. Cualquier color de fuente, estilo, etc. ha elegido influenciar en el aspecto del contenedor.
+>Las imágenes anteriores son solo por ejemplo. Puede que no sea exactamente así como se representa el contenedor de botones Rellenar formulario social. Cualquier color de fuente, estilo, etc. que haya elegido influye en el aspecto del contenedor.
 
 ## Si [!DNL LinkedIn] era la única red seleccionada, ¿cómo puedo quitar el contenedor vacío encima del formulario? {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 

@@ -2,10 +2,9 @@
 description: 'Notas de la versión actuales, documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 hide: true
-hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 3d0c7a7ee68bfcd128ba106bef4e44d88eac02cc
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 52%

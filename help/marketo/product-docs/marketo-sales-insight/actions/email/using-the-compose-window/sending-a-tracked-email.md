@@ -3,7 +3,7 @@ description: Obtenga información sobre cómo enviar un correo electrónico de v
 title: Enviar un correo electrónico rastreado
 hide: true
 hidefromtoc: true
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%

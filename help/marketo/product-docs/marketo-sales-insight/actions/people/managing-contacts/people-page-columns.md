@@ -2,10 +2,9 @@
 description: Obtenga información sobre las columnas de la página Personas y cómo personalizar la vista. Muestre u oculte columnas para ver los datos de contacto que necesita.
 title: Columnas de la página Personas
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 6%

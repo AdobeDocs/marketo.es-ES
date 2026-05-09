@@ -4,7 +4,7 @@ title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (empresarial/ilimitada)'
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 8%

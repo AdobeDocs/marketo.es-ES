@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -26,7 +26,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <th>Descripción</th>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
    <td>Lista inteligente de cuentas</td>
   </tr>
@@ -58,7 +58,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
    <td><img src="assets/email-template.png"></td>
-   <td>Plantilla de correo electrónico</td>
+   <td>Plantilla de email</td>
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
@@ -86,7 +86,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Filtro</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/filter-active.png"></td>
    <td>Filtro: activo</td>
   </tr>
@@ -148,17 +148,17 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-poll.png"></td>
    <td><img src="assets/poll.png"></td>
-   <td>Encuesta</td>
+   <td>Sondeo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notificación push</td>
+   <td>Notificación de inserción</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
    <td><img src="assets/referral-offer.png"></td>
-   <td>Oferta de referencia</td>
+   <td>Oferta recomendada</td>
   </tr>
   <tr>
    <td><img src="assets/classic-report.png"></td>
@@ -166,9 +166,9 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Informe</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Búsqueda</td>
+   <td>Buscar</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -221,7 +221,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Activador: activo</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
    <td>Activador: inactivo</td>
   </tr>
@@ -305,7 +305,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Se solicita</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inactivo</td>
   </tr>
@@ -334,7 +334,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
    <td><img src="assets/completed.png"></td>
-   <td>Completado</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
@@ -396,7 +396,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>En pausa</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
    <td>Programado</td>
   </tr>
@@ -445,17 +445,17 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <th>Descripción</th>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
    <td>Aprobado: en cálculo</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
    <td>Aprobado: en recálculo</td>
   </tr>
   <tr>
-   <td><strong>N/A</strong></td>
+   <td><strong>n/a</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
    <td>Borrador: en cálculo</td>
   </tr>

@@ -3,12 +3,11 @@ description: 'Notas de la versión de Dynamic Chat, documentos de Marketo: docum
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -64,7 +63,7 @@ La reserva de Round Robin no se activa solo porque un agente no responda.
 Si ninguno de los agentes participa, ocurre lo siguiente:
 
 * El sistema muestra el calendario del primer agente probado (si está activado).
-o
+-o-
 * Muestra el mensaje de reserva predeterminado.
 
 _&#x200B;**Enrutamiento Round Robin**&#x200B;_
@@ -93,8 +92,8 @@ Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Eq
 
 * Si ninguna participación tiene éxito, se aplica la lógica de reserva:
 
-   * Reserva de calendario (si está activada),
-o
+   * reserva de calendario (si está activada),
+-o-
    * Mensaje predeterminado.
 
 La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
