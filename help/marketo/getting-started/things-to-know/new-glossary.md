@@ -4,8 +4,8 @@ short-description: Conozca los términos de Marketo Engage y sus definiciones pa
 title: Glosario de Marketo Engage
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 63%
@@ -246,7 +246,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr>
   <tr>
    <td colspan="1"><strong>Seguimiento de dominio personalizado</strong></td>
-   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3&rbrace;.</strong></td>
+   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3}.</strong></td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Público personalizado</a></strong></td>

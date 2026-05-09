@@ -3,12 +3,11 @@ description: 'Notas de la versión de Dynamic Chat, documentos de Marketo: docum
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -36,7 +35,7 @@ Hemos rediseñado la lógica de enrutamiento de chat en directo en Dynamic Chat 
 
 * **Comportamiento específico de la regla de enrutamiento**
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 Si el dominio de correo electrónico de un visitante se asigna a una cuenta conocida, siempre se da prioridad al agente asignado.
 
@@ -53,7 +52,7 @@ En su lugar:
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, Equipo o Personalizado) solo se tiene en cuenta si el enrutamiento de cuentas no es elegible (no hay dominio o agente coincidente).
 
-_&#x200B;**Enrutamiento personalizado/de equipo**&#x200B;_
+_**Enrutamiento personalizado/de equipo**_
 
 Estas reglas pueden devolver varios agentes aptos.
 
@@ -64,10 +63,10 @@ La reserva de Round Robin no se activa solo porque un agente no responda.
 Si ninguno de los agentes participa, ocurre lo siguiente:
 
 * El sistema muestra el calendario del primer agente probado (si está activado).
-o
+-o-
 * Muestra el mensaje de reserva predeterminado.
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 Cuando se utiliza como regla de enrutamiento principal, el sistema hace lo siguiente:
 
@@ -77,7 +76,7 @@ Cuando se utiliza como regla de enrutamiento principal, el sistema hace lo sigui
 
 Si se utiliza el Round Robin como reserva, solo se activa si no se resuelve ningún agente a partir de la regla principal.
 
-_&#x200B;**Flujo de experiencia del visitante**&#x200B;_
+_**Flujo de experiencia del visitante**_
 
 El sistema comprueba si se aplica el enrutamiento de cuentas.
 
@@ -93,15 +92,15 @@ Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Eq
 
 * Si ninguna participación tiene éxito, se aplica la lógica de reserva:
 
-   * Reserva de calendario (si está activada),
-o
+   * reserva de calendario (si está activada),
+-o-
    * Mensaje predeterminado.
 
 La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
 
 ##### Casos de uso {#use-cases}
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -127,7 +126,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -153,7 +152,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -179,7 +178,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>

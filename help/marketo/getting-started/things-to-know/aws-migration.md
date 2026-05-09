@@ -3,8 +3,8 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -46,6 +46,6 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 ## Actualizaciones y asistencia
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support).
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support).
 
 PARA AGREGAR: DETALLES DE LA SECUENCIA/CENTRO DE DATOS

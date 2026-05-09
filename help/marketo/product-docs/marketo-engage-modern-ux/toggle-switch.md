@@ -3,9 +3,8 @@ description: Aprenda a utilizar el conmutador para cambiar entre Marketo Classic
 title: Conmutador de alternancia
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
-hidefromtoc: true
 feature: Modern UX
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 86%

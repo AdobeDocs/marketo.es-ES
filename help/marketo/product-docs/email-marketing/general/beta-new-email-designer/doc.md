@@ -4,10 +4,10 @@ title: Doc temporal
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
@@ -37,7 +37,7 @@ Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/
 
 Haga clic en Habilitar contenido de condición para añadir contenido dinámico y adaptar el contenido a los perfiles de destino según las reglas condicionales.
 
-Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo para añadir etiquetas de seguimiento o HTML personalizadas.
+Si es necesario, puede personalizar aún más el correo electrónico haciendo clic en Cambiar al editor de código desde el menú avanzado. Esto le permite editar el código fuente del correo electrónico, por ejemplo, para agregar etiquetas HTML personalizadas o de seguimiento.
 
 PRECAUCIÓN
 No puede volver al diseñador visual para este correo electrónico después de cambiar al editor de código.

@@ -2,12 +2,11 @@
 description: Obtenga información sobre cómo agregar imágenes y archivos a Marketo Design Studio. Cargue, organice y utilice recursos en campañas y páginas de aterrizaje.
 title: Nuevo documento Añadir imágenes
 hide: true
-hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 8%
 
 ---
