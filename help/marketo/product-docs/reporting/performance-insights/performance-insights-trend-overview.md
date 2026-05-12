@@ -4,9 +4,9 @@ description: Obtenga información acerca de la vista Tendencia de perspectivas d
 title: Información general de tendencias de perspectivas de rendimiento
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Haga clic en la ficha **[!UICONTROL Tendencia]** para obtener acceso a esta vist
 
 ![](assets/2-1.png)
 
-Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [[!UICONTROL Primer contacto]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Seleccione la métrica por la que desea ver el rendimiento.
 
 ![](assets/3-2.png)
 

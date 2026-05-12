@@ -4,10 +4,10 @@ description: Obtenga información acerca de los tipos de informes disponibles, i
 title: Información general del tipo de informe
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 17%
 
 ---
 
@@ -46,16 +46,8 @@ Cuando [cree un informe en un programa](/help/marketo/product-docs/reporting/bas
    <td>Creación de informes automática basada en el campo Estado de la persona.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Informe de personas por fase de ingresos</a></strong></td>
-   <td>Creación de informes básicos para el modelo de ingresos. Consulte <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
-  </tr>
-  <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempeño de página de destino</a>  </strong></td>
    <td>Vea visitas, conversiones y otras métricas para sus páginas de aterrizaje.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempeño del programa</a>  </strong></td>
-   <td>Métricas básicas del programa como miembros y éxito. Consulte <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análisis del ciclo de ingresos</a> para obtener informes más profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Actividad de la compañía en la web</a></strong></td>

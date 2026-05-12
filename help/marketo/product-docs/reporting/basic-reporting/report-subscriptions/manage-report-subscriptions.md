@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo administrar todas las suscripcione
 title: Administrar suscripciones a informes
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---
@@ -60,5 +60,5 @@ Configurar y eliminar suscripciones a informes.
 
    >[!MORELIKETHIS]
    >
-   >* [Suscribirse a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Suscribirse a un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >[Suscribirse a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+

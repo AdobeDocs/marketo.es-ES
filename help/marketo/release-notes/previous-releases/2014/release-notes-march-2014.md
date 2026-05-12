@@ -4,9 +4,9 @@ description: 'Notas de la versión, marzo de 2014, Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Al usar el [informe de rendimiento del programa](/help/marketo/product-docs/core
 
 ## Programas operativos y de inclusión para Analytics {#inclusive-and-operational-programs-for-analytics}
 
-Ahora puede [incluir programas sin costos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) en [!UICONTROL Explorador de ingresos] y Analizadores estableciendo la opción Comportamiento de Analytics en &quot;Inclusivo&quot; cuando edita los canales de programa. También puede excluir programas operativos de la creación de informes seleccionando &quot;Operativo&quot;.
+Ahora puede incluir programas sin costos de período en [!UICONTROL Explorador de ingresos] y Analizadores si establece la opción Comportamiento de Analytics en &quot;Inclusivo&quot; al editar Canales de programa. También puede excluir programas operativos de la creación de informes seleccionando &quot;Operativo&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

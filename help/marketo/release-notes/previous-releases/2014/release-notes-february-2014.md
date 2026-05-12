@@ -4,7 +4,7 @@ description: 'Notas de la versión, febrero de 2014, Documentos de Marketo: docu
 title: Notas de la versión, febrero de 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 1%
@@ -45,7 +45,7 @@ Hemos agregado la puntuación de participación al [[!UICONTROL informe de rendi
 
 ## Detalles del programa en análisis de correo electrónico {#program-details-in-email-analysis}
 
-[Ahora puede agrupar sus métricas de correo electrónico por Nombre de programa, Canal y Etiquetas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). El nombre del programa se añade al campo Nombre del correo electrónico cuando el correo electrónico es un recurso local del programa. El nuevo campo Nombre del programa muestra el nombre del programa de la campaña inteligente que envió el correo electrónico. Esto puede ser diferente al programa en el campo Nombre del correo electrónico si el correo electrónico es un recurso local de un programa diferente.
+Ahora puede agrupar las métricas de correo electrónico por Nombre de programa, Canal y Etiquetas. El nombre del programa se añade al campo Nombre del correo electrónico cuando el correo electrónico es un recurso local del programa. El nuevo campo Nombre del programa muestra el nombre del programa de la campaña inteligente que envió el correo electrónico. Esto puede ser diferente al programa en el campo Nombre del correo electrónico si el correo electrónico es un recurso local de un programa diferente.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

@@ -4,7 +4,7 @@ description: Obtenga información acerca de la vista de contribución de Perform
 title: Información general sobre contribución de perspectivas de rendimiento
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 1%
@@ -21,17 +21,13 @@ Seleccione la métrica por la que desea ver el rendimiento. En este ejemplo, ver
 
 ![](assets/2.png)
 
->[!NOTE]
->
->Obtenga información sobre [[!UICONTROL primer contacto] y [!UICONTROL multicontacto]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
-
 Elija para qué período desea ver las métricas. En este ejemplo, se busca el año actual (acumulado anual).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->Hemos eliminado temporalmente la selección &quot;Año anterior&quot;. Todavía tiene la opción de ver todos los datos de rendimiento del año anterior usando la selección **[!UICONTROL Intervalo personalizado]**.
+>Hemos eliminado temporalmente la selección &quot;Año anterior&quot;. Aún tiene la opción de ver todos los datos de rendimiento del año anterior mediante la selección **[!UICONTROL Intervalo personalizado]**.
 
 Las métricas se presentan mediante dos gráficos: de anillos y de barras.
 

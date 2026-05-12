@@ -4,9 +4,9 @@ description: 'Notas de la versión, mayo de 2014, Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ Vea cómo se comportarán los vínculos en los correos electrónicos con antelac
 
 ## [!UICONTROL Anular campaña] {#abort-campaign}
 
-¡No se preocupe! Si encuentra un error, use el nuevo botón [cancelar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para detener inmediatamente las campañas en su seguimiento. Recibirá una notificación que indica cuántos posibles clientes estaban pendientes en cada paso del flujo cuando se detuvo la campaña.
+¡No te asustes! Si encuentra un error, use el nuevo botón [cancelar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para detener inmediatamente las campañas en su seguimiento. Recibirá una notificación que indica cuántos posibles clientes estaban pendientes en cada paso del flujo cuando se detuvo la campaña.
 
 ## [!UICONTROL Insight de ventas] en japonés, portugués y español {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Descargue la última versión de [!UICONTROL Sales Insight] de AppExchange para 
 
 ## Estado del programa y plazo de éxito en el análisis de pertenencia a programas {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Vea cuántos [miembros hay en cada estado de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) y cuándo cambiaron a cada estado, incluida la fecha en que lograron el éxito del programa.
+Vea cuántos miembros hay en cada Estado de programa y cuándo se cambiaron a cada estado, incluida la fecha en la que alcanzaron el éxito del programa.
 
 ## Correos electrónicos de prueba A/B en [!UICONTROL análisis de correo electrónico] {#a-b-test-emails-in-email-analysis}
 
-Informe sobre cada una de sus [variantes de correo electrónico de prueba A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) en [!UICONTROL Análisis de correo electrónico].
+Informar sobre cada una de las variantes de correo electrónico de la prueba A/B en [!UICONTROL Análisis de correo electrónico].
 
 ## Cambios en paquetes de Analytics {#analytics-packaging-changes}
 

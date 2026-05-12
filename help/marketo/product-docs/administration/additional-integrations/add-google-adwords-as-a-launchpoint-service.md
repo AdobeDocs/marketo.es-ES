@@ -4,9 +4,9 @@ description: Vincule  [!DNL Google AdWords] a Marketo a través de LaunchPoint p
 title: Agregar  [!DNL Google AdWords] como [!DNL LaunchPoint] servicio
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Obtenga más información acerca de la característica de importación de conver
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Enter a [!UICONTROL display name] and select **[!UICONTROL Google AdWords]**.
+1. Escriba un [!UICONTROL nombre para mostrar] y seleccione **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
@@ -91,7 +91,3 @@ Obtenga más información acerca de la característica de importación de conver
    >[Se debe seleccionar el etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} para que esta característica funcione. La desactivación debe realizarse dentro de [!DNL AdWords].
 
 Consulte el artículo relacionado siguiente para obtener información sobre cómo asignar [!DNL AdWords] conversiones sin conexión en su modelo de ingresos.
-
->[!MORELIKETHIS]
->
->[Establecer [!DNL Google AdWords] conversiones en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

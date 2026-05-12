@@ -4,9 +4,9 @@ description: Obtenga información sobre cómo configurar conversiones sin conexi
 title: Configuración de conversiones de Facebook sin conexión
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -17,8 +17,7 @@ Al enviar los datos de conversión sin conexión de vuelta a [!DNL Facebook] par
 
 >[!PREREQUISITES]
 >
->* Debe [configurar anuncios de clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Debe tener un modelo aprobado en [Modeler del ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>Debe [configurar anuncios de clientes potenciales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 ## Configuración de administración {#admin-configuration}
 

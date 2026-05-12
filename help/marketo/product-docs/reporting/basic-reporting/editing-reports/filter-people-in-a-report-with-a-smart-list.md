@@ -4,10 +4,10 @@ description: Obtenga información sobre cómo filtrar personas en informes media
 title: Filtrar personas en un informe con una lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 34%
+source-wordcount: '143'
+ht-degree: 32%
 
 ---
 
@@ -19,7 +19,6 @@ Puede utilizar listas inteligentes con estos tipos de informes:
 
 * [Desempeño de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personas por estado](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personas por etapa de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Desempeño de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Desempeño de vínculo de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Desempeño de la secuencia de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)

@@ -4,7 +4,7 @@ description: 'Notas de la versión, febrero de 2013, Documentos de Marketo: docu
 title: Notas de la versión, febrero de 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 1%
@@ -33,4 +33,4 @@ Se ha actualizado el extremo de la API de SOAP preferido, que se muestra en [!UI
 
 ## Próximamente: compatibilidad con varios modelos {#coming-soon-support-for-multiple-models}
 
-Estamos sentando las bases para admitir varios modelos de ciclo de ingresos, votados #1 idea para RCA en la Comunidad, en una versión futura. En esta versión, notará algunos cambios, incluidos [filtros de listas inteligentes y Agregar opciones en pasos de flujo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para admitir la selección de un modelo y una fase. También estamos moviendo los campos Etapa de ingresos de posibles clientes y Modelo de ciclo de ingresos de posibles clientes fuera de la pestaña de cuadrícula de posibles clientes de listas inteligentes.
+Estamos sentando las bases para admitir varios modelos de ciclo de ingresos, votados #1 idea para RCA en la Comunidad, en una versión futura. En esta versión, verá algunos cambios, incluidos los filtros de listas inteligentes y Agregar opciones en Pasos de flujo, para admitir la selección de un modelo y una fase. También estamos moviendo los campos Etapa de ingresos de clientes potenciales y Modelo de ciclo de ingresos de clientes potenciales fuera de la pestaña de cuadrícula de clientes potenciales de listas inteligentes.

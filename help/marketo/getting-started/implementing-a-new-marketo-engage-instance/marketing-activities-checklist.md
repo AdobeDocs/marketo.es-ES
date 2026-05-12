@@ -3,9 +3,9 @@ description: Configure la sección Actividades de marketing para la nueva instan
 title: 'Nuevas Prácticas Recomendadas De Instancia: Lista De Comprobación De Actividades De Marketing'
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1363'
 ht-degree: 2%
 
 ---
@@ -102,7 +102,7 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Administrar suscripciones a informes</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=es" target="_blank">Configurar suscripciones a informes</a> en actividades de marketing o Analytics para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=es" target="_blank">informes básicos</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=es" target="_blank">informes del Explorador de ciclos de ingresos</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=es" target="_blank">Configurar suscripciones a informes</a> en actividades de marketing o Analytics para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=es" target="_blank">informes básicos</a>.</li></td>
   </tr>
 </tbody>
 </table>

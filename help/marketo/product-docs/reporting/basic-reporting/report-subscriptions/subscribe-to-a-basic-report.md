@@ -4,20 +4,16 @@ description: Obtenga información sobre cómo suscribir direcciones de correo el
 title: Suscribirse a un informe básico
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
 # Suscribirse a un informe básico {#subscribe-to-a-basic-report}
 
 Para recibir actualizaciones automáticas de un informe básico o compartirlo, puede suscribir cualquier dirección de correo electrónico a un informe existente.
-
->[!NOTE]
->
->Para las suscripciones al informe del Explorador del ciclo de ingresos, consulte [Suscribirse a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Vaya al área **[!UICONTROL Actividades de marketing]**.
 
