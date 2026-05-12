@@ -4,10 +4,10 @@ description: 'Notas de la versión, enero de 2014, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 2%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Tome el control del proceso de creación de formularios y dé un respiro a sus d
 
 **Dale a tu Forms el cambio visual que se merece:**
 
-Los diseños de temas, la personalización de botones y los diseños flexibles le permiten diseñar formularios de aspecto moderno que se adaptan perfectamente al aspecto y la presentación de su sitio.
+Los diseños de temas, la personalización de botones y los diseños flexibles le permiten diseñar formularios de aspecto moderno que se ajusten a la apariencia de su sitio.
 
 **Visibilidad condicional y lógica de página de seguimiento:**
 
@@ -47,6 +47,6 @@ Atrás quedaron los días en que se quitaba el código HTML de los formularios c
 
 ## Campos adicionales en Análisis de pertenencia a programas {#additional-fields-in-program-membership-analysis}
 
-Ahora puede agregar y agrupar sus métricas de [Análisis de pertenencia a programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por cliente potencial y atributos de compañía. Por ejemplo, puede agregar el campo Sector para ver la división de los miembros del programa y los éxitos.
+Ahora puede agregar y agrupar las métricas de Análisis de pertenencia a programas por atributos de cliente potencial y compañía. Por ejemplo, puede agregar el campo Sector para ver la división de los miembros del programa y los éxitos.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -4,16 +4,16 @@ description: Obtenga información sobre cómo editar la configuración de compor
 title: Editar configuración de comportamiento de análisis
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---
 
 # Editar configuración de comportamiento de análisis {#edit-analytics-behavior-settings}
 
-Puede establecer el comportamiento de [analytics en el nivel de administrador en los canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, pero también puede editarlo en el nivel de programa. Así es cómo se hace.
+Aprenda a editar el comportamiento de los análisis en el nivel de programa.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 

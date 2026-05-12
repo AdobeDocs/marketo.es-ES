@@ -4,9 +4,9 @@ description: Obtenga información acerca de la pertenencia a programas y cómo e
 title: Explicación del abono al programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ El propósito de un programa es crear una interacción significativa con la pers
 
 ## Programa de adquisición {#acquisition-program}
 
-Cuando un nuevo nombre entra en el sistema como miembro de un programa, Marketo establece automáticamente ese programa como &quot;adquisición&quot;. Esto establece el crédito de [atribución de primer toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Cuando un nuevo nombre entra en el sistema como miembro de un programa, Marketo establece automáticamente ese programa como &quot;adquisición&quot;.
 
 >[!MORELIKETHIS]
 >

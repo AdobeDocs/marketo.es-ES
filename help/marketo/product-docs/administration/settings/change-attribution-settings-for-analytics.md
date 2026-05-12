@@ -4,9 +4,9 @@ description: Cómo establecer opciones de atribución de primer contacto y de m�
 title: Cambiar la configuración de atribución para Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '174'
 ht-degree: 5%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 5%
 # Cambiar la configuración de atribución para Analytics {#change-attribution-settings-for-analytics}
 
 Puede cambiar la forma en que Marketo vincula los contactos con las oportunidades para la atribución de primer contacto y de varios contactos, las métricas de conversión de posibles clientes y el indicador de oportunidad influenciado por el marketing.
-
-Esta configuración afectará los informes de [!UICONTROL Explorador de ingresos] en las áreas de [Análisis de oportunidad de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) y Análisis de posibles clientes. Esto también afectará el informe [!UICONTROL Analizador de programas].
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
