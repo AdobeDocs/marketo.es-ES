@@ -59,11 +59,11 @@ Cuando [cree un informe en un programa](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Informe de rendimiento del flujo de participación</a> </strong></td>
-   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
+   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Desempeño de correo electrónico de la campaña</a> </strong></td>
-   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
+   <td>Mira cómo está funcionando tu <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de participación</a>.</td>
   </tr>
  </tbody>
 </table>
