@@ -3,9 +3,9 @@ description: Utilice los conocimientos del producto para preguntar a Marketo AI 
 title: Conocimiento del producto
 beta: true
 hide: true
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,6 @@ El conocimiento del producto le permite acceder a petición a la experiencia de 
 
 ## Casos de uso {#use-cases}
 
-A continuación se muestran algunos ejemplos para los que puede utilizar el conocimiento del producto de Marketo AI.
-
 **Solución de problemas de una campaña inteligente**: un especialista en operaciones de marketing no puede averiguar por qué la gente no está pasando por un déclencheur de campaña inteligente. Se preguntan: &quot;¿Por qué una campaña de déclencheur no se activaría incluso cuando las personas cumplen con los criterios de filtrado?&quot; La inteligencia artificial aplicada a Marketo analiza las causas más comunes: la campaña no está activada, el evento de déclencheur no se produce, la persona que ya ha ejecutado la campaña y las reglas de calificación bloquean la reentrada.
 
 **Elección entre campañas por lotes y de déclencheur**: un administrador de generación de demanda no está seguro de qué tipo de campaña inteligente usar para una alerta con distinción de tiempo. Se preguntan: &quot;¿Cuál es la diferencia entre una campaña por lotes y una campaña de déclencheur, y cuándo debo usar cada una?&quot; Marketo AI explica la distinción y recomienda déclencheur para acciones en tiempo real impulsadas por eventos (como alertas MQL) y campañas por lotes para envíos programados a una lista definida.
@@ -34,7 +32,7 @@ A continuación se muestran algunos ejemplos para los que puede utilizar el cono
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
-* El **conocimiento del producto es mejor para las preguntas generales y las prácticas recomendadas de Marketo**: no tiene acceso a los datos específicos de su instancia.
+* **El conocimiento del producto es mejor para las preguntas generales y las prácticas recomendadas de Marketo**: no tiene acceso a los datos de suscripción específicos.
 * **Usar agentes específicos cuando estén disponibles**: Si tiene preguntas sobre por qué una persona, posible cliente o campaña se comportó de una manera determinada, use _Investigación de posibles clientes_ o _Control de calidad del programa_ en su lugar.
 * El conocimiento de **Marketo AI refleja las directrices documentadas y las prácticas recomendadas de Adobe**: Para las versiones de funcionalidades muy recientes, consulte directamente las notas de la versión de Adobe Marketo Engage.
 * **Cuanto más específica sea su pregunta, más útil será la respuesta**: &quot;¿Cómo funciona la puntuación de persona/posible cliente?&quot; obtendrá una respuesta más amplia que &quot;¿Debería puntuar una visita a la página de precios en 10 o 15 puntos?&quot;
