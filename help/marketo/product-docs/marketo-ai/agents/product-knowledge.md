@@ -3,9 +3,9 @@ description: Utilice los conocimientos del producto para preguntar a Marketo AI 
 title: Conocimiento del producto
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Conocimiento del producto {#product-knowledge}
 
 El conocimiento del producto le permite acceder a petición a la experiencia de Marketo sin abandonar la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para responderla.
+
+>[!PREREQUISITES]
+>
+>Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Cómo usar {#how-to-use}
 
@@ -32,7 +36,7 @@ El conocimiento del producto le permite acceder a petición a la experiencia de 
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
-* **El conocimiento del producto es mejor para las preguntas generales y las prácticas recomendadas de Marketo**: no tiene acceso a los datos de suscripción específicos.
-* **Usar agentes específicos cuando estén disponibles**: Si tiene preguntas sobre por qué una persona, posible cliente o campaña se comportó de una manera determinada, use _Investigación de posibles clientes_ o _Control de calidad del programa_ en su lugar.
-* El conocimiento de **Marketo AI refleja las directrices documentadas y las prácticas recomendadas de Adobe**: Para las versiones de funcionalidades muy recientes, consulte directamente las notas de la versión de Adobe Marketo Engage.
-* **Cuanto más específica sea su pregunta, más útil será la respuesta**: &quot;¿Cómo funciona la puntuación de persona/posible cliente?&quot; obtendrá una respuesta más amplia que &quot;¿Debería puntuar una visita a la página de precios en 10 o 15 puntos?&quot;
+* El conocimiento del producto es mejor para las preguntas generales y las prácticas recomendadas de Marketo. No tiene acceso a sus datos de suscripción específicos.
+* Utilice agentes específicos cuando estén disponibles. Si tiene preguntas sobre por qué una persona, posible cliente o campaña se comportó de una manera determinada, use _Investigación de posibles clientes_ o _Control de calidad del programa_ en su lugar.
+* El conocimiento de Marketo AI refleja las directrices documentadas y las prácticas recomendadas de Adobe. Para ver las versiones más recientes de las funciones, consulte directamente las notas de la versión de Adobe Marketo Engage.
+* Cuanto más específica sea su pregunta, más útil será la respuesta. &quot;¿Cómo funciona la puntuación de persona/posible cliente?&quot; obtendrá una respuesta más amplia que &quot;¿Debería puntuar una visita a la página de precios en 10 o 15 puntos?&quot;
