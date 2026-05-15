@@ -3,9 +3,9 @@ description: Utilice la IA de Marketo para crear un programa de Marketo a partir
 title: Crear programa
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Describa una campaña de marketing en un lenguaje sencillo y Marketo AI creará 
 
 >[!PREREQUISITES]
 >
->Debe tener permiso para crear programas en su cuenta de Marketo.
+>* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>
+>* Debe tener permiso para crear programas en su cuenta de Marketo.
 
 ## Cómo usar {#how-to-use}
 
@@ -48,8 +50,8 @@ Describa una campaña de marketing en un lenguaje sencillo y Marketo AI creará 
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
-* **Tenga una idea clara de lo que debe hacer la campaña**: quién es la audiencia, qué acción la déclencheur (o si es un envío por lotes) y cuál es el objetivo.
-* **No se requieren plantillas ni formularios por adelantado**: Marketo AI crea la estructura y puede conectar los recursos posteriormente (usted sigue siendo el responsable de escribir una copia de correo electrónico y configurar las páginas de aterrizaje).
-* **Marketo AI no puede acceder automáticamente a las listas de audiencia existentes**: debe conectar los filtros de lista inteligente a los segmentos reales una vez creado el programa.
-* **Es posible que los programas complejos de varios pasos** con lógica avanzada de ramificación necesiten refinamiento manual después de su creación.
-* **Si su entorno de Marketo usa convenciones de nomenclatura o estructuras de carpetas**: Especifíquelas en su informe para que el programa se cree en el lugar correcto.
+* Tenga una idea clara de lo que debe hacer la campaña, quién es la audiencia, qué acción déclencheur (o si es un envío por lotes) y cuál es el objetivo.
+* No se requieren plantillas ni formularios por adelantado. Marketo AI crea la estructura y puede conectar recursos posteriormente (usted sigue siendo el responsable de escribir una copia del correo electrónico y configurar las páginas de aterrizaje).
+* Marketo AI no puede acceder automáticamente a sus listas de audiencia existentes. Debe conectar los filtros de lista inteligente a los segmentos reales después de crear el programa.
+* Los programas complejos de varios pasos con lógica de ramificación avanzada pueden necesitar un refinamiento manual después de su creación.
+* Si su entorno de Marketo utiliza convenciones de nomenclatura o estructuras de carpetas. Especifíquelas en su informe para que el programa se cree en el lugar correcto.

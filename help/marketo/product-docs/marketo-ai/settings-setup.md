@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 4%
+source-wordcount: '594'
+ht-degree: 3%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 4%
 
 Obtenga información sobre cómo habilitar permisos y utilizar el área Configuración para ver los detalles de conexión, definir reglas organizativas y configurar integraciones y notificaciones.
 
+>[!PREREQUISITES]
+>
+>Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
 >[!NOTE]
 >
->Esta función está en versión beta abierta y se está implementando por fases en los próximos meses. Sabrás cuándo se ha habilitado para tu suscripción cuando veas un mosaico de _Generar con IA_ en la pantalla de Mi Marketo.
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se ha habilitado para tu suscripción cuando veas un mosaico de _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Permisos y funciones {#permission-and-role}
 

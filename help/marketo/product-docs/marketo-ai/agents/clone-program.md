@@ -3,9 +3,9 @@ description: Clone program duplica un programa de Marketo existente en una nueva
 title: Clonar programa
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,10 @@ El agente de programa de clonación copia un programa de trabajo, incluidas sus 
 
 >[!PREREQUISITES]
 >
+>* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>
 >* Debe tener permiso para crear programas en la carpeta de destino.
+>
 >* El programa de origen que desea clonar ya debe existir en su entorno de Marketo.
 
 ## Cómo usar {#how-to-use}
@@ -43,8 +46,8 @@ El agente de programa de clonación copia un programa de trabajo, incluidas sus 
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
-* **Los programas clonados se crean en un estado desactivado**: Nada se activa hasta que active las campañas inteligentes.
-* **Los recursos de correo electrónico del clon son copias, no se comparten con el original**: Los cambios en los mensajes de correo electrónico del clon no afectarán al programa de origen.
-* **Los tokens utilizados en el programa de origen se copian en el clon**: sin embargo, aún deben actualizarse con nuevos valores (fechas, direcciones URL, nombres de eventos).
-* **Los filtros de campaña inteligente del clon hacen referencia a las mismas listas y campos que el original**: revise y actualice el direccionamiento de audiencia antes de activarlo.
-* **Los recursos locales que hacen referencia a otros programas o listas compartidas se copian en el clon**: esas referencias deben revisarse antes de activarse.
+* Los programas clonados se crean en un estado desactivado. Nada se activa hasta que se activan las campañas inteligentes.
+* Los recursos de correo electrónico del clon son copias, no se comparten con el original. Los cambios en los correos electrónicos del clon no afectarán al programa de origen.
+* Los tokens utilizados en el programa de origen se copian en el clon. Sin embargo, deben actualizarse con nuevos valores (fechas, direcciones URL, nombres de eventos).
+* Los filtros de campaña inteligente del clon hacen referencia a las mismas listas y campos que el original. Revise y actualice la segmentación de audiencia antes de activarla.
+* Los recursos locales que hacen referencia a otros programas o listas compartidas se copian en el clon. Estas referencias deben revisarse antes de activarlas.

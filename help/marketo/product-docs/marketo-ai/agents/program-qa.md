@@ -3,9 +3,9 @@ description: Obtenga información sobre cómo auditar sus programas para conocer
 title: Control de calidad del programa
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Audite sus programas para conocer las prácticas recomendadas en todos los componentes, como correos electrónicos, páginas de aterrizaje, campañas y mucho más.
 
+>[!PREREQUISITES]
+>
+>Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
 >[!NOTE]
 >
->Esta función está en versión beta abierta y se está implementando por fases en los próximos meses. Sabrás cuándo se ha habilitado para tu suscripción cuando veas un mosaico de _Generar con IA_ en la pantalla de Mi Marketo.
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas un mosaico de _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Cómo usar {#how-to-use}
 
@@ -34,7 +38,7 @@ Audite sus programas para conocer las prácticas recomendadas en todos los compo
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   En el panel central aparece un resumen del programa, que proporciona una descripción general del programa.
+   Aparecerá un resumen del programa seleccionado en el panel central.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
@@ -42,7 +46,7 @@ Audite sus programas para conocer las prácticas recomendadas en todos los compo
 
    ![](assets/program-qa-5.png)
 
-   El asistente de IA proporciona un control de calidad del programa seleccionado que muestra lo que ha pasado y lo que ha fallado.
+   El Asistente de IA proporciona un control de calidad del programa seleccionado, que muestra lo que ha pasado y lo que ha fallado.
 
    ![](assets/program-qa-6.png)
 
