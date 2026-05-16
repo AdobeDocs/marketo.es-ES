@@ -4,9 +4,14 @@ title: Sincronizar una audiencia desde Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
 TQID: https://experienceleague.adobe.com/XCskpUNcNae-ikOLXxREb4kePbFs9HRheIihzJqHKoU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 294
@@ -56,7 +61,7 @@ ht-degree: 5%
 
 Cuando la sincronización de cookies está habilitada para su suscripción a Marketo, munchkin.js de Marketo intenta capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con ECID de Adobe.
 
-Se requiere un paso adicional para asociar el perfil de usuario anónimo con un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} se describe exactamente cómo funciona [.
+Se requiere un paso adicional para asociar el perfil de usuario anónimo con un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Aquí [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} se describe exactamente cómo funciona .
 
 **¿Por qué el tamaño de la lista en Marketo es diferente al de Adobe?**
 

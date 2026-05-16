@@ -5,7 +5,8 @@ title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de 
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/3U-6D08B0wmDyHMsDwUqAzFT-jy1EroQ4ZHzndAr-kE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 624
@@ -27,7 +28,7 @@ ht-degree: 0%
 
 1. Anote el ID de aplicación (ClientId) y el ID de inquilino. Tendrá que introducirlo en Marketo más adelante.
 
-1. Conceda el consentimiento del administrador siguiendo los pasos [ de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. Conceda el consentimiento del administrador siguiendo los pasos [&#x200B; de este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Genere un secreto de cliente en el Centro de administración haciendo clic en **[!UICONTROL Certificados y secretos]**.
 

@@ -4,7 +4,8 @@ title: Información general sobre la búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 445
@@ -85,13 +86,13 @@ Hay tres estados de correo electrónico para elegir. Las opciones de tipo/activi
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Estado: enviado**_
+_&#x200B;**Estado: enviado**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtra por la actividad de correo electrónico enviado. Puede elegir [!UICONTROL vistas]/[!UICONTROL sin vistas], [!UICONTROL clics]/[!UICONTROL sin clics] o [!UICONTROL respuestas]/[!UICONTROL sin respuestas].
 
-_**Estado: pendiente**_
+_&#x200B;**Estado: pendiente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -116,7 +117,7 @@ Filtra por todos los correos electrónicos pendientes.
  </tr>
 </table>
 
-_**Estado: sin entregar**_
+_&#x200B;**Estado: sin entregar**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

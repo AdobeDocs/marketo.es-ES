@@ -5,7 +5,8 @@ title: Registrar una aplicación con Azure para adquirir su ID de cliente o ID d
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 355

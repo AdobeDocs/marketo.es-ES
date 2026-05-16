@@ -5,10 +5,20 @@ title: Notas de la versión, junio de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
 TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 639
@@ -73,4 +83,4 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Integración de Drift**: Entienda cómo las conversaciones de Drift afectan el recorrido de su cliente. [!DNL Bizible] también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: [!DNL Bizible] ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-_**Seminario web sobre la versión del producto**_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Seminario web sobre la versión del producto**&#x200B;_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

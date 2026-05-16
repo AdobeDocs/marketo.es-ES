@@ -4,10 +4,22 @@ title: Notas de la versión, octubre de 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
 TQID: https://experienceleague.adobe.com/lJDSwy-83svV2pbHrXQvM4nEEidAPfcBeRz-Z3LmVjk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1116
@@ -63,7 +75,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 **[!DNL Sales Insight]para[!DNL Salesforce]**
 
-* **Lo más probable]** en el nivel de cuenta y oportunidad: [!UICONTROL Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight]Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
+* **Lo más probable** en el nivel de cuenta y oportunidad: Ahora, los representantes de ventas pueden revisar lo más probable en todos los contactos de la cuenta u oportunidad que posean, incluso cuando el contacto esté asignado a un miembro diferente del equipo. [!DNL Sales Insight]Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en función de una vista más holística de la cuenta o oportunidad.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
