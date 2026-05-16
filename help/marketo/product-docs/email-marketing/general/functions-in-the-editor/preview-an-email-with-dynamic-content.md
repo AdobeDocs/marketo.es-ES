@@ -4,10 +4,12 @@ description: Obtenga información sobre cómo previsualizar correos electrónico
 title: Vista previa de un correo electrónico con contenido dinámico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: 124
+ht-degree: 10%
 
 ---
 

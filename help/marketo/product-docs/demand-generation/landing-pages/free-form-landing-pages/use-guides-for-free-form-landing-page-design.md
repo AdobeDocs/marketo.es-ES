@@ -4,10 +4,12 @@ description: Aprenda a utilizar las guías para diseñar páginas de aterrizaje 
 title: Uso de guías para el diseño de páginas de destino de forma libre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: 126
+ht-degree: 12%
 
 ---
 

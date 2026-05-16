@@ -4,9 +4,12 @@ description: Aprenda a redactar correos electrónicos masivos con Seleccionar y 
 title: Redactar correos electrónicos masivos con selección y envío
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NJX0blPhAaSvofC9LTI8tf1Qtt0BMF0NnfO-SHgFFX8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: 417
 ht-degree: 3%
 
 ---

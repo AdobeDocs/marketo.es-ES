@@ -4,10 +4,12 @@ description: Aprenda a añadir un vínculo a una imagen en una página de aterri
 title: Adición de un vínculo a una imagen de página de destino de forma libre
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 19%
+source-wordcount: 98
+ht-degree: 20%
 
 ---
 

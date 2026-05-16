@@ -3,9 +3,12 @@ unique-page-id: 2953243
 description: Obtenga información acerca de los tipos de notificaciones en Marketo, incluidos los errores de campañas, la sincronización CRM y la participación. Comprenda qué significa cada alerta.
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/CsekFCXNG0acEgpSCcSvWcreKsPHBLE4Ht8lSb-PSq8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 256
 ht-degree: 6%
 
 ---
@@ -60,4 +63,4 @@ Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada no
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/error-codes).
+>Algunos de los códigos de error que puede recibir se describen en [Documentación para desarrolladores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

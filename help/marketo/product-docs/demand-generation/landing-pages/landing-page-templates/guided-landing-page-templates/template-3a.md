@@ -4,16 +4,19 @@ description: Obtenga información acerca de la plantilla de página de aterrizaj
 title: Plantilla 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/abzFy7UFBgTK4zp31-HrSMcunL-Jf2Z38HaX-gyTvEk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 6%
+source-wordcount: 81
+ht-degree: 4%
 
 ---
 
 # Plantilla 3A {#template-3a}
 
-Haga clic con el botón derecho para [descargar la plantilla 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -29,4 +32,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=es)
+[Plantilla 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)

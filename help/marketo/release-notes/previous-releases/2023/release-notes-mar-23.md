@@ -3,9 +3,11 @@ description: 'Notas de la versión, marzo de 2023: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: 587
 ht-degree: 22%
 
 ---
@@ -35,7 +37,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -49,7 +51,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -63,7 +65,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -81,7 +83,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -103,7 +105,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -117,7 +119,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -131,12 +133,12 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
 
-* **Atributos deducidos para Dynamic Chat**: garantiza que los datos de IP deducidos (ciudad, estado, país, etc.) se escriban en el registro de persona para las personas nuevas adquiridas por Dynamic Chat.
+* **Atributos deducidos para Dynamic Chat**: garantiza que los datos de IP deducidos (ciudad, estado, país, etc.) se escribe en el registro de persona para las personas nuevas adquiridas por Dynamic Chat.
 
 <table>
   <tr>
@@ -145,7 +147,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -159,7 +161,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -173,7 +175,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>

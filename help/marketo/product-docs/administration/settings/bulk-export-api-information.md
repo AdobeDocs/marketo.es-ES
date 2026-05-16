@@ -3,16 +3,21 @@ description: Cómo comprobar el uso de capacidad de la API de extracción masiva
 title: Información sobre la API de exportación masiva
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/IWx84F--IJBlHjReI6TnHNpoA4AqGsuqIFkRhGFIWpE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: 116
 ht-degree: 6%
 
 ---
 
 # Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace; ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
+Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1} ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
 
 >[!NOTE]
 >

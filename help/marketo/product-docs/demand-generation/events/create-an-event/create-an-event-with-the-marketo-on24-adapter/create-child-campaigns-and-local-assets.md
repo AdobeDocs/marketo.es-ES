@@ -4,9 +4,12 @@ description: Aprenda a crear campañas secundarias y recursos locales para event
 title: Crear campañas secundarias y recursos locales
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: 688
 ht-degree: 3%
 
 ---

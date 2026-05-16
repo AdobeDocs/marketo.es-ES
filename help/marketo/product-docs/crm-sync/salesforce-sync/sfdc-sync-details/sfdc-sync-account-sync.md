@@ -4,9 +4,11 @@ description: Obtenga información sobre cómo se sincroniza la información de l
 title: 'Sincronización de SFDC: sincronización de cuenta'
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/vwdN66F4u7itA91F89GCxPfg0T7VUkchpKb69XDBReA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: 240
 ht-degree: 2%
 
 ---

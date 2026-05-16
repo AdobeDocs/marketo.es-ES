@@ -4,9 +4,11 @@ description: Obtenga información sobre cómo aprobar un título para contenido 
 title: Aprobar un título para el contenido predictivo
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: 171
 ht-degree: 7%
 
 ---

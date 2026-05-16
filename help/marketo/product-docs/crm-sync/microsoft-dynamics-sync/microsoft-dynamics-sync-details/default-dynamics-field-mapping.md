@@ -3,9 +3,11 @@ description: Obtenga información acerca de la asignación de campos de Microsof
 title: Asignación de campos de Dynamics predeterminada
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1049'
+source-wordcount: 1052
 ht-degree: 3%
 
 ---
@@ -170,7 +172,7 @@ Al sincronizar inicialmente la cuenta de Marketo Engage con Microsoft, Marketo r
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
@@ -380,7 +382,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Método de contacto preferido de [!UICONTROL Microsoft]</td>
-      <td>Método de contacto preferido de </td>
+      <td>Método de contacto preferido de [!UICONTROL]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
@@ -431,7 +433,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     <tr>
       <td>[!UICONTROL Notas de persona]</td>
       <td>[!UICONTROL Descripción]</td>
-      <td>description </td>
+      <td>Descripción </td>
     </tr>
     <tr>
       <td>[!UICONTROL Puntuación de persona]</td>
@@ -441,7 +443,7 @@ Los campos de posibles clientes siguientes se sincronizan para uso interno.
     <tr>
       <td>[!UICONTROL Notas de persona]</td>
       <td>[!UICONTROL Descripción]</td>
-      <td>description </td>
+      <td>Descripción </td>
     </tr>
   </tbody>
 </table>

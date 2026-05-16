@@ -4,16 +4,19 @@ description: Obtenga información acerca de la plantilla de página de aterrizaj
 title: Plantilla 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/9-XuvmyDaau3TgjSs8IwuCQ1ZRfm93m59AQHGnVeFDk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 6%
+source-wordcount: 75
+ht-degree: 5%
 
 ---
 
 # Plantilla 13E {#template-13e}
 
-Haga clic con el botón derecho para [descargar la plantilla 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -28,4 +31,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=es)
+[Plantilla 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

@@ -4,10 +4,13 @@ description: Obtenga información sobre cómo editar una plantilla de página de
 title: Editar una plantilla de la página de destino de Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 11%
+source-wordcount: 105
+ht-degree: 12%
 
 ---
 

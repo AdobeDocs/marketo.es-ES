@@ -4,10 +4,14 @@ description: 'Notas de la versión, mayo de 2015: Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/q8FpGPqnVD-LY4WmqX-V-SXJXrbYEGxh6Ltl0KbFz1M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 5%
+source-wordcount: 256
+ht-degree: 6%
 
 ---
 
@@ -29,7 +33,7 @@ Estamos lanzando un nuevo modo de edición de la página de aterrizaje y una sin
 
 ¿Ha pulsado Enviar antes de que un programa de correo electrónico estuviera listo para ejecutarse? Tire de los frenos con el nuevo botón abort email program. Esto detendrá los programas de correo electrónico en vuelo justo en su camino.
 
-## Entrega de correo electrónico  {#email-deliverability}
+## Capacidad de entrega de correos electrónicos  {#email-deliverability}
 
 Marketo ahora ejecutará comprobaciones automáticas [!DNL SPF] y [!DNL DKIM] semanales en los dominios agregados. Manténgase al tanto de esto comprobando sus notificaciones.
 

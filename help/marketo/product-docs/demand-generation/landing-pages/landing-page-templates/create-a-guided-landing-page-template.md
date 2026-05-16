@@ -4,9 +4,12 @@ description: Aprenda a crear una plantilla de página de aterrizaje guiada en Ma
 title: Crear una plantilla de la página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: 1127
 ht-degree: 21%
 
 ---
@@ -154,39 +157,39 @@ Ejemplo básico:
 
 `<meta class="mktoString" id="var1" mktoName="My Variable">`
 
-Example with all attributes:
+Ejemplo con todos los atributos:
 
 `<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Color {#color}
 
-Required Attributes:
-**class** : &quot;mktoColor&quot;,
+Atributos necesarios:
+**clase** : &quot;mktoColor&quot;,
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
-**mktoName** : cadena. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
+**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-Optional:
-**default**: A 7-digit HEX character color code. Eg: &quot;#336699&quot;
+Opcional:
+**default**: código de color de carácter HEX de 7 dígitos. P. ej.: #336699
 
-Basic Example:
+Ejemplo básico:
 
 `<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
-Example with all attributes:
+Ejemplo con todos los atributos:
 
 `<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Booleano {#boolean}
 
-Required Attributes:
-**class** : &quot;mktoBoolean&quot;,
+Atributos necesarios:
+**clase** : &quot;mktoBoolean&quot;,
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
-**mktoName** : cadena. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
+**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-Optional:
-**default**: Boolean string. &quot;true&quot; or &quot;false&quot; controls if the value starts in the ON or OFF position. &quot;false&quot; if not provided.
-**false_value**: String. The value to be inserted for the variable when it is in the OFF position. &quot;false&quot; if not provided.
-**true_value**: String. The value to be inserted for the variable when it is in the ON position. &quot;true&quot; if not provided.
+Opcional:
+**predeterminado**: cadena booleana. Los controles &quot;true&quot; o &quot;false&quot; si el valor comienza en la posición ON u OFF. &quot;false&quot; si no se proporciona.
+**false_value**: String. Valor que se va a insertar para la variable cuando está en la posición OFF. &quot;false&quot; si no se proporciona.
+**true_value**: String. Valor que se va a insertar para la variable cuando está en la posición ON. &quot;true&quot; si no se proporciona.
 **false_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición OFF. &quot;OFF&quot; si no se proporciona.
 **true_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición ON. &quot;ON&quot; si no se proporciona.
 

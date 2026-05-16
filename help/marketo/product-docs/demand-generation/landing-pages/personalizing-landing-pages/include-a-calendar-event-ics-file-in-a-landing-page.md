@@ -4,9 +4,11 @@ description: Aprenda a incluir un archivo ICS de evento de calendario en una pá
 title: Incluir un archivo ICS de eventos de calendario en una página de destino
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: 126
 ht-degree: 17%
 
 ---

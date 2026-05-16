@@ -3,9 +3,13 @@ description: Glosario de iconos clásicos - Documentos de Marketo - Documentaci�
 title: Glosario de iconos clásicos
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: 566
 ht-degree: 35%
 
 ---
@@ -59,7 +63,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-9-3a35-3a59.png">
     </td>
-   <td>¡Correcto! (Se muestra con frecuencia como Éxito del programa, Ejecución correcta o Activo)</td>
+   <td>¡Éxito! (Se muestra con frecuencia como Éxito del programa, Ejecución correcta o Activo)</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-10-3a34-3a57.png">
@@ -220,7 +224,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Administrador</td>
+   <td>Administración</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -881,7 +885,7 @@ A continuación se muestran los iconos antiguos de la interfaz de Marketo Classi
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png">
     </td>
-   <td>Importación</td>
+   <td>Importar</td>
   </tr>
  </tbody>
 </table>

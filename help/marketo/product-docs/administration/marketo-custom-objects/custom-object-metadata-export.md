@@ -3,9 +3,13 @@ description: Cómo exportar el esquema de metadatos de objeto personalizado para
 title: Exportación de metadatos de objeto personalizable
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
+TQID: https://experienceleague.adobe.com/7eZF1c45qtTibEHxI-QLu3KvT0rV-pRZSF66DxpD5eg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: 115
 ht-degree: 6%
 
 ---

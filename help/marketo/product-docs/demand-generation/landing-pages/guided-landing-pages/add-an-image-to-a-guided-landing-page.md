@@ -4,9 +4,12 @@ description: Aprenda a añadir una imagen a una página de aterrizaje guiada en 
 title: Añadir una imagen a una página de destino guiada
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/mpQDAnY0wH2GZQdzBVKuFeUALx6OQzppu7wodBricKQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: 131
 ht-degree: 12%
 
 ---

@@ -5,9 +5,12 @@ title: Editar configuración de publicaciones enriquecidas de Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 1%
 
 ---
@@ -26,7 +29,7 @@ Las _aplicaciones sociales_ de Marketo permiten que tus clientes potenciales com
 
 Puede especificar los tipos de información de página que se usarán en las [!DNL Facebook] publicaciones enriquecidas generadas por los recursos compartidos desde la página de aterrizaje.
 
-1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social _&#x200B;_[!DNL YouTube_]_.
+1. Seleccione **[!UICONTROL Mensaje de Facebook]** en el editor de su vídeo o botón social __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

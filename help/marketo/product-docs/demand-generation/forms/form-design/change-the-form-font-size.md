@@ -4,9 +4,12 @@ description: Aprenda a cambiar el tamaño de la fuente del formulario en Marketo
 title: Cambiar el tamaño de la fuente del formulario
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/OEAPpTYS7qsHRiPRf-FyojfukRij174VuPkBDjdW7Wo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 124
 ht-degree: 14%
 
 ---

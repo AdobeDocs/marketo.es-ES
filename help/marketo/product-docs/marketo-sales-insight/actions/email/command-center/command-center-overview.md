@@ -3,9 +3,11 @@ description: Obtenga información sobre el Centro de comandos para administrar c
 title: Información general sobre el centro de comandos
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: 523
 ht-degree: 3%
 
 ---
@@ -45,7 +47,7 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
  <tr>
   <td>[!UICONTROL Borrador]</td>
   <td>Correos electrónicos guardados como borrador.<br/>
-  <strong>Nota</strong>: solo los correos electrónicos individuales pueden guardarse como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</td>
+  <strong>Nota</strong>: solo los correos electrónicos únicos se pueden guardar como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</td>
  </tr>
  <tr>
   <td>[!UICONTROL En Curso]</td>

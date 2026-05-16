@@ -3,10 +3,15 @@ description: 'Notas de la versión, agosto de 2025: Documentos de Marketo: docum
 title: Notas de la versión, agosto de 2025
 feature: Release Information
 exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Tt3KgAUlQd8oBN2KV-dFUQdEPmlZ-3tOzQ8T-EaCTfI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 97%
+source-wordcount: 680
+ht-degree: 98%
 
 ---
 
@@ -14,7 +19,7 @@ ht-degree: 97%
 
 A continuación encontrará todas las funciones incluidas en la versión de agosto de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +39,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: sistema de informes</strong>: los informes de rendimiento de correo electrónico y de rendimiento de vínculos de correo electrónico ahora muestran datos de los correos electrónicos creados con el nuevo Diseñador de correo electrónico.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -44,7 +49,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: eliminación de Autocompletar</strong>: la opción Autocompletar del editor de personalización de tókenes apuntaba a objetos erróneos y se ha eliminado. No hay planes para volver a implementar dicha opción en este momento.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +59,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: optimización de vista previa del correo electrónico</strong>: algunos usuarios experimentaban tiempos de carga más lentos al intentar obtener una vista previa de su correo electrónico en la página de detalles del correo electrónico/plantilla de correo electrónico/fragmento. Esta experiencia se ha optimizado para lograr tiempos de carga hasta un 60 % más rápidos.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -64,7 +69,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: correcciones de plantilla</strong>: algunas plantillas predeterminadas tenían problemas de procesamiento (por ejemplo, no se representaban correctamente en determinados exploradores/modo oscuro, imágenes mal alineadas, botones de CTA mal colocados y algunos más). Todos estos problemas se han corregido con esta versión.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +79,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td><strong>Diseñador de correo electrónico: corrección del bloqueo de contenido</strong>: anteriormente, si se creaba una plantilla de correo electrónico con bloqueo de contenido y esta se utilizaba para crear un correo electrónico, el bloqueo de contenido se mantenía incluso cuando se restablecía el correo electrónico o se seleccionaba “cambiar diseño”. Este problema se ha corregido con esta versión.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>

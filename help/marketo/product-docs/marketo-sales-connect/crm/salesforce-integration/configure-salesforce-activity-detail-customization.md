@@ -3,9 +3,11 @@ description: Aprenda a configurar la personalización de los detalles de activid
 title: Configuración de la personalización de detalles de la actividad de Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: 680
 ht-degree: 2%
 
 ---

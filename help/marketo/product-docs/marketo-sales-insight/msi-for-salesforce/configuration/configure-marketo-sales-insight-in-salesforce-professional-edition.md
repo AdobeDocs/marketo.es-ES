@@ -4,9 +4,13 @@ description: Obtenga información sobre cómo configurar Marketo Sales Insight e
 title: Configuración de Marketo Sales Insight en Salesforce Edición profesional
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: 779
 ht-degree: 1%
 
 ---

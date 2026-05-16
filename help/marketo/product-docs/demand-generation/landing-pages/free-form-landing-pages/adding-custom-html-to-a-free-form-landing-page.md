@@ -4,10 +4,13 @@ description: Aprenda a añadir HTML personalizado a una página de aterrizaje de
 title: Añadir un HTML personalizado a una página de destino de forma libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 9%
+source-wordcount: 165
+ht-degree: 10%
 
 ---
 

@@ -4,10 +4,13 @@ description: Aprenda a enviar código SDK a su desarrollador. Utilice las accion
 title: Enviar código SDK a un desarrollador
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/6jda4bPfCg8Be2N-RNSTVdqxdPRPlhnG9m97te4e-tE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 13%
+source-wordcount: 161
+ht-degree: 11%
 
 ---
 
@@ -15,8 +18,8 @@ ht-degree: 13%
 
 Para poder crear mensajes en la aplicación o notificaciones push, debe tener al desarrollador configurado e inicializado Mobile App SDK para las plataformas Android y iOS.
 
-* [Instrucciones para Android](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Instrucciones para iOS](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Instrucciones para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instrucciones para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Enviar código SDK a un desarrollador {#send-sdk-code-to-a-developer-1}
 

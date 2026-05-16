@@ -3,9 +3,11 @@ description: Obtenga información acerca de la asignación de campos Veeva prede
 title: Asignación de campo  [!DNL Veeva] predeterminada
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: 272
 ht-degree: 43%
 
 ---

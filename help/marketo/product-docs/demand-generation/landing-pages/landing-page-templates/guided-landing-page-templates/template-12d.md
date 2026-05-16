@@ -4,16 +4,19 @@ description: Obtenga información acerca de la plantilla de página de aterrizaj
 title: Plantilla 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/Gp5pXfwqpP-hGrj9DJ6kWWhsJxwcy1iaPcsZMt8Su-Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: 78
+ht-degree: 5%
 
 ---
 
 # Plantilla 12D {#template-12d}
 
-Haga clic con el botón derecho para [descargar plantilla 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=es)
+Haga clic con el botón derecho para [descargar plantilla 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -29,4 +32,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=es)
+[Plantilla 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)

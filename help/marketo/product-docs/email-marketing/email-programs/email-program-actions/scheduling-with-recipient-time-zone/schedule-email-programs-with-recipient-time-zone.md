@@ -4,9 +4,13 @@ description: Obtenga información sobre cómo programar programas de correo elec
 title: Planificar programas de correo electrónico con zona horaria del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: 854
 ht-degree: 2%
 
 ---
@@ -36,7 +40,7 @@ Esto le ofrece dos opciones:
 >
 >* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en husos horarios en los que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00am.
 >
->* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9:00am PDT (la hora que esté en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/change-time-zone.md)
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00am, las personas calificadas que vivan en zonas horarias donde ya ha pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el correo electrónico del martes a las 9:00am PDT (la hora que esté en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/change-time-zone.md)
 
 >[!NOTE]
 >

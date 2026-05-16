@@ -4,9 +4,13 @@ description: Obtenga información sobre cómo integrar con Adobe Analytics en Ma
 title: Integración con Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1074'
+source-wordcount: 1129
 ht-degree: 1%
 
 ---
@@ -122,7 +126,7 @@ Seleccione el número [Variable de conversión](https://microsite.omniture.com/t
 
 1. En **[!UICONTROL Configuración de la cuenta]**, haga clic en **[!UICONTROL Dominio]**.
 1. En **[!UICONTROL Analytics]**, haga clic en **Adobe Analytics**.
-1. Activa **[!UICONTROL 1&rbrace; las opciones de Conversión, Personalizado y Tráfico.]**
+1. Activa **[!UICONTROL 1} las opciones de Conversión, Personalizado y Tráfico.]**
 1. Asigne las variables de conversión, evento y tráfico **números de ranura** para que coincidan con los números de ranura creados en AA
 1. Haga clic en **[!UICONTROL Guardar]**.
 

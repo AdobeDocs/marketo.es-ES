@@ -4,9 +4,14 @@ description: 'Notas de la versión, junio de 2019: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 0%
 
 ---
@@ -22,7 +27,7 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 ## Servicios principales de Marketo {#marketo-core-services}
 
 * **Suma de comprobación de archivos de extracción masiva**: compruebe que se recuperó un archivo completo comparando el hash de archivo con la cadena de suma de comprobación de los trabajos de extracción completados.
-* **Migración automatizada del correo electrónico 1.0 al correo electrónico 2.0**: El correo electrónico 2.0 es totalmente compatible con los correos electrónicos y las plantillas de correo electrónico 1.0. Disfrute de nuevas funcionalidades, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) en módulos, definir variables como Cadena, Color, Imagen, etc. en las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un Selector de plantillas de correo electrónico visual.
+* **Migración automatizada del correo electrónico 1.0 al correo electrónico 2.0**: El correo electrónico 2.0 es totalmente compatible con los correos electrónicos y las plantillas de correo electrónico 1.0. Disfrute de nuevas funciones, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) En módulos, defina variables como Cadena, Color, Imagen, etc. en las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un Selector de plantillas de correo electrónico visual.
 
 >[!CAUTION]
 >
@@ -51,7 +56,7 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Widget de publicaciones de blog de la comunidad**: Acceda a las publicaciones recientes de la comunidad en Mi Marketo.
 * **Widget que caduca pronto**: agregue el widget &quot;caducará pronto&quot; a su panel de My Marketo para ver qué campañas y páginas de aterrizaje están configuradas para caducar a continuación.
 * **Más tarjetas de listas inteligentes**: Segmente y oriente correctamente con tarjetas de listas inteligentes adicionales, incluidos el paso de flujo &quot;Crear tarea&quot;, las reglas de listas inteligentes de CRM y mucho más.
-* **Página de detalles del campeón/aspirante de correo electrónico**: vea datos como criterios ganadores, creados en, etc. de sus pruebas de campeón/aspirante de correo electrónico.
+* **Página de detalles del campeón/aspirante de correo electrónico**: vea datos como criterios ganadores, creados en, etc., de sus pruebas de campeón/aspirante de correo electrónico.
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
@@ -68,4 +73,4 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Integración de Drift**: Entienda cómo las conversaciones de Drift afectan el recorrido de su cliente. [!DNL Bizible] también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: [!DNL Bizible] ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-_&#x200B;**Seminario web sobre la versión del producto**&#x200B;_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Seminario web sobre la versión del producto**_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

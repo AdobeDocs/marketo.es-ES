@@ -4,9 +4,13 @@ description: Obtenga información acerca de la implementación de RTP con google
 title: Implementación de RTP mediante Google Tag Manager
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 173
 ht-degree: 3%
 
 ---
@@ -39,4 +43,4 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Compruebe que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
 
-   a. Puede hacerlo haciendo clic con el botón derecho en la página del sitio web. Vaya a **[!UICONTROL Inspeccionar elemento]**, busque **RTP** para localizar la etiqueta.
+   a. Para ello, haga clic con el botón derecho en la página del sitio web. Vaya a **[!UICONTROL Inspeccionar elemento]**, busque **RTP** para localizar la etiqueta.

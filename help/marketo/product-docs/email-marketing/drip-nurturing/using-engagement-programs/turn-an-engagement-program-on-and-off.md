@@ -4,9 +4,12 @@ description: Obtenga información sobre cómo activar o desactivar un programa d
 title: Activar y desactivar un programa de participación
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 99
 ht-degree: 20%
 
 ---

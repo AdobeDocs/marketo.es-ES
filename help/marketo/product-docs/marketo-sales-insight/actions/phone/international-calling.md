@@ -3,10 +3,12 @@ description: Obtenga información sobre las llamadas internacionales en Acciones
 title: Llamadas internacionales
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 12%
+source-wordcount: 404
+ht-degree: 29%
 
 ---
 
@@ -64,7 +66,7 @@ Sales Dialer facilita la comunicación internacional. Para los clientes que llam
   </tr>
   <tr>
    <td>Hungría</td>
-   <td>37, 361</td>
+   <td>36, 361</td>
   </tr>
   <tr>
    <td colspan="1">Irlanda </td>
@@ -136,7 +138,7 @@ Sales Dialer facilita la comunicación internacional. Para los clientes que llam
   </tr>
   <tr>
    <td>Estados Unidos</td>
-   <td>1 1800 1808 1844 1855 1866 1867 1877 1888</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
   </tr>
  </tbody>
 </table>

@@ -4,9 +4,13 @@ description: 'Notas de la versión, junio de 2013, Documentos de Marketo: docume
 title: Notas de la versión, junio de 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 2%
 
 ---
@@ -35,7 +39,7 @@ Clonar recursos en subcarpetas.
 
 ## Varios modelos {#multiple-models}
 
-Una idea principal para el análisis del ciclo de ingresos (RCA) en la comunidad, esta función le permite crear varios modelos para tener una comprensión más detallada del canal de ingresos por línea de producto, unidad de negocio o región. Los informes Leads by Revenue Stage, Success Path Analyzer, Program Analyzer y Revenue Explorer ahora admiten la capacidad de seleccionar un modelo específico para la creación de informes.
+Una idea principal para el análisis del ciclo de ingresos (RCA) en la comunidad, esta función le permite crear varios modelos para tener una comprensión más detallada de su funnel de ingresos por línea de producto, unidad de negocio o región. Los informes Leads by Revenue Stage, Success Path Analyzer, Program Analyzer y Revenue Explorer ahora admiten la capacidad de seleccionar un modelo específico para la creación de informes.
 
 De forma predeterminada, hay dos modelos disponibles para Select SMB Edition y quince para Enterprise Edition. También puedes comprar modelos adicionales.
 

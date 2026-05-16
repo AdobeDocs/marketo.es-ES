@@ -2,9 +2,11 @@
 description: Obtenga información sobre cómo configurar una zona protegida de acciones de Sales Insight para realizar pruebas. Solicite el aprovisionamiento, active la instancia y conecte con la zona protegida de Salesforce.
 title: Establecer una zona protegida de acciones de Insight de ventas
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: 693
 ht-degree: 3%
 
 ---

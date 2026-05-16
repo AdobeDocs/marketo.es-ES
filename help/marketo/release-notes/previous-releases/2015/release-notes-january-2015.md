@@ -4,10 +4,14 @@ description: 'Notas de la versión, enero de 2015, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c954475c-8548-4e33-a0b8-6b550d956115id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: 385
+ht-degree: 4%
 
 ---
 
@@ -21,7 +25,7 @@ En la versión de enero de 2015 se incluyen las siguientes funciones. Compruebe 
 
 Ahora puede [crear vistas móviles para páginas de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) desde el editor de páginas de aterrizaje. Ofrezca su mensaje de forma eficaz independientemente del dispositivo y aumente la participación adaptando su contenido para facilitar el consumo sobre la marcha. Esta función se implementará gradualmente durante la semana siguiente al lanzamiento.
 
-[&#x200B; - Vídeo de introducción a la página de aterrizaje -](https://youtu.be/aPQHlG2X6c0)
+[-Vídeo de introducción a la página de aterrizaje-](https://youtu.be/aPQHlG2X6c0)
 
 **Nuevas llamadas a la API de REST**
 
@@ -31,7 +35,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 * Obtener posibles clientes por ID de programa
 * Obtener posibles clientes eliminados
 
-Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
 **Compatibilidad con objeto personalizado de scripts de correo electrónico**
 
@@ -62,6 +66,6 @@ Las opciones de la etiqueta RTP de Configuración de cuenta se han actualizado p
 1. Etiqueta asíncrona sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

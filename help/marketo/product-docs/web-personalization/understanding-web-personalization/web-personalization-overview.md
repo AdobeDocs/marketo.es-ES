@@ -4,9 +4,13 @@ description: Obtenga información acerca de las funciones de Web Personalization
 title: Información general de la personalización web
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: 884
 ht-degree: 1%
 
 ---
@@ -163,7 +167,7 @@ La página Tiempo real se divide en 6 tablas informativas con detalles de visita
    <td colspan="1">La URL de las páginas que están viendo los visitantes en el sitio</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><strong>Referencias principales de </strong></td>
+   <td colspan="1" rowspan="1"><strong>Referencias principales de [!UICONTROL]</strong></td>
    <td colspan="1" rowspan="1">Dirección URL de referencia que trajo al visitante a su sitio</td>
   </tr>
  </tbody>

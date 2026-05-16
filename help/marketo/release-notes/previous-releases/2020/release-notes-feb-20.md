@@ -4,9 +4,14 @@ description: 'Notas De La Versión, Febrero De 2020: Documentos De Marketo: Docu
 title: Notas de la versión, febrero de 2020
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/wl-pYQcDIIDTeepjPdWbmZyEhyjvw51ojMGmFQsB63o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: 652
 ht-degree: 2%
 
 ---

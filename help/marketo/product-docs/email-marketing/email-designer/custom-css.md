@@ -6,9 +6,14 @@ description: Aprenda a añadir CSS personalizado al contenido del correo electr�
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: 625
 ht-degree: 4%
 
 ---
@@ -35,7 +40,7 @@ Añada su propio CSS personalizado directamente en el Designer de correo electr�
    >
    >El botón **[!UICONTROL Agregar CSS personalizado]** solo está disponible cuando se selecciona **[!UICONTROL Cuerpo]**. Sin embargo, puede aplicar estilos CSS personalizados a todos los componentes del contenido.
 
-1. Introduzca su código CSS en el área de texto dedicada que aparece. Asegúrese de que CSS personalizado [&#x200B; sea válido y siga la sintaxis correcta &#x200B;](#use-valid-css). Haga clic en **Guardar** cuando termine.
+1. Introduzca su código CSS en el área de texto dedicada que aparece. Asegúrese de que CSS personalizado [ sea válido y siga la sintaxis correcta ](#use-valid-css). Haga clic en **Guardar** cuando termine.
 
    ![](assets/custom-css-2.png)
 

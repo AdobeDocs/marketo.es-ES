@@ -4,9 +4,12 @@ description: Aprenda a utilizar los déclencheur del formulario de generación d
 title: Uso de filtros y activadores de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/dJLqOLSz1zp-6ZErolBmv-xl0SwsJECvW-942Ghf7oI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: 148
 ht-degree: 16%
 
 ---

@@ -4,9 +4,13 @@ description: Cree campañas web de widget que aparezcan como texto fijo o banner
 title: Creación de una nueva campaña web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: 655
 ht-degree: 3%
 
 ---
@@ -67,7 +71,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>Botón Widget</strong><br></p></td>
-   <td colspan="1" rowspan="1">Personalice el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Tipos de archivo aceptados: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: el widget puede ser texto; personalice su color, tamaño y fuente.</td>
+   <td colspan="1" rowspan="1">Personalizar el botón del widget.<br>Flecha: permite elegir entre varios iconos diferentes en el menú desplegable derecho. La lista desplegable izquierda determina su color.<br>Personalizado: inserte la dirección URL de cualquier imagen alojada. Se aceptan los tipos de archivo: .JPEG, .GIF (incluido animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: El widget puede ser texto; personalice su color, tamaño y fuente.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adhesivo</strong></td>
@@ -83,7 +87,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr>
   <tr>
    <td colspan="1"><strong>Vista previa en el sitio </strong></td>
-   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br>
+   <td colspan="1">Previsualice las campañas antes de iniciarlas.<br>
     <ul>
      <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li>
      <li>Vista previa: haga clic en <strong>Vista previa </strong>para abrir una nueva ventana de la URL de ejemplo y ver cómo reacciona la campaña (añada la <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensión de Chrome</a> para disfrutar de la mejor experiencia de vista previa de campañas web). </li>
@@ -95,7 +99,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Quiere probar sus campañas web?** Una o más campañas web se pueden [probar A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la característica [!UICONTROL Ajuste automático], la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
+>**¿Quiere probar sus campañas web?** Se pueden [probar una o más campañas web para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la característica [!UICONTROL Ajuste automático], la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 

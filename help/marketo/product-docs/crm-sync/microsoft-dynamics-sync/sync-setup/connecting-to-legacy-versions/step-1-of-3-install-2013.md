@@ -4,9 +4,11 @@ description: Obtenga información sobre cómo instalar la solución de Marketo e
 title: 'Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (2013 local)'
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: 308
 ht-degree: 0%
 
 ---

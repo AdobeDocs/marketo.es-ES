@@ -4,9 +4,12 @@ description: 'Notas de la versión, agosto de 2019: Documentos de Marketo: docum
 title: Notas de la versión, agosto de 2019
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/9khB0o-UG6J245lAy9I1-Sw2wRtHsC1ekdotB7DqEh8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 349
 ht-degree: 1%
 
 ---

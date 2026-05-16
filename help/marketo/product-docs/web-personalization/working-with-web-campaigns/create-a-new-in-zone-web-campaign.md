@@ -4,9 +4,13 @@ description: Cree campañas web en la zona que reemplacen elementos de sitios we
 title: Creación de una nueva campaña web en la zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: 715
 ht-degree: 3%
 
 ---
@@ -25,7 +29,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Seleccione el tipo de campaña **[!UICONTROL En la zona]**. Personalice y agregue un **[!UICONTROL ID de zona].** Establece la campaña en **[!UICONTROL Adhesiva]** y agrega tu elemento creativo en el editor. Agregue la dirección URL de la página para obtener una vista previa y haga clic en **[!UICONTROL Vista previa]** para ver cómo reaccionará la campaña en el sitio.
+1. Seleccione el tipo de campaña **[!UICONTROL En la zona]**. Personalizar y agregar un **[!UICONTROL ID de zona].** Establece la campaña en **[!UICONTROL Adhesivo]** y agrega tu elemento creativo en el editor. Agregue la dirección URL de la página para obtener una vista previa y haga clic en **[!UICONTROL Vista previa]** para ver cómo reaccionará la campaña en el sitio.
 
    ![](assets/new-3-1.png)
 
@@ -84,7 +88,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Desea probar sus campañas web?** Una o más campañas web se pueden [probar A/B para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la función Ajuste automático, la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
+>**¿Desea probar sus campañas web?** Se pueden [probar una o más campañas web para obtener resultados óptimos](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la función Ajuste automático, la plataforma reconoce automáticamente las campañas con mejor rendimiento, continúa con las campañas de conversión más altas y pausa las demás.
 
 ## Edición de una campaña web {#edit-a-web-campaign}
 

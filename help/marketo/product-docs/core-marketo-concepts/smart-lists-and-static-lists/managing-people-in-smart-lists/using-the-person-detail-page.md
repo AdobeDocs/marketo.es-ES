@@ -4,10 +4,14 @@ description: Aprenda a utilizar la página de detalles de la persona. Permite ve
 title: Uso de la página Detalles de persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 34%
+source-wordcount: 552
+ht-degree: 33%
 
 ---
 
@@ -60,7 +64,7 @@ La información de la persona se clasifica en las siguientes pestañas:
 
 >[!NOTE]
 >
->También puede ver la información de oportunidad [insertada a través de la API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no están sincronizadas con un CRM.
+>También puede ver la información de oportunidad [insertada a través de la API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instancias que no están sincronizadas con un CRM.
 
 ## Edición de un campo {#editing-a-field}
 
@@ -75,7 +79,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 | Dirección | Ingresos anuales | IP anónima | Dirección de facturación | Ciudad de facturación |
 | País de facturación | Código postal de facturación | Estado de facturación | Ciudad | Nombre de la empresa |
 | País | Creado en | Fecha de nacimiento | Departamento | No llamar |
-| Causa por la que no se debe llamar | Razón por la que no se debe llamar | Correo electrónico | Correo electrónico no válido | Causa de email no válido |
+| Causa por la que no se debe llamar | Razón por la que no se debe llamar | Dirección de email | Correo electrónico no válido | Causa de email no válido |
 | Identificación de compañía externa | Identificación de persona de ventas externa | Número de fax | Nombre | Nombre completo |
 | Industria | Ciudad inferida | Compañía inferida | País inferido | Área metropolitana inferida |
 | Código de área telefónico inferido | Código postal inferido | Región del estado inferida | Es anónimo | Es cliente |
