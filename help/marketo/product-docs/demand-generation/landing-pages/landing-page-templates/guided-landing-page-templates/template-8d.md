@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Plantilla 8D {#template-8d}
 
-Haga clic con el botón derecho para [descargar la plantilla 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+Haga clic con el botón derecho para [descargar la plantilla 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=es)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -34,4 +34,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+[Plantilla 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=es)

@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Plantilla 1D {#template-1d}
 
-Haga clic con el botón derecho para [descargar la plantilla 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+Haga clic con el botón derecho para [descargar la plantilla 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=es)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -33,4 +33,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Plantilla1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=es)

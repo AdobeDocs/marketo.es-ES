@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Plantilla 7B {#template-7b}
 
-Haga clic con el botón derecho para [descargar la plantilla 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+Haga clic con el botón derecho para [descargar la plantilla 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html?lang=es)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -34,4 +34,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+[Plantilla 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html?lang=es)

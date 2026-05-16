@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Plantilla 1C {#template-1c}
 
-Haga clic con el botón derecho para [descargar la plantilla 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+Haga clic con el botón derecho para [descargar la plantilla 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=es)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -33,4 +33,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+[Plantilla 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=es)

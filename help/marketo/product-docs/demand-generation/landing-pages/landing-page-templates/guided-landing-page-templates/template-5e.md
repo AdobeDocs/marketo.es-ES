@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Plantilla 5E {#template-5e}
 
-Haga clic con el botón derecho para [descargar la plantilla 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+Haga clic con el botón derecho para [descargar la plantilla 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=es)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -34,4 +34,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+[Plantilla 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=es)

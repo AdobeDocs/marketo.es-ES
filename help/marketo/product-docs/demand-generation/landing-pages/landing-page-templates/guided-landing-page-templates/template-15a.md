@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Plantilla 15A {#template-15a}
 
-Haga clic con el botón derecho para [descargar la plantilla 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+Haga clic con el botón derecho para [descargar la plantilla 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=es)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -33,4 +33,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+[Plantilla 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=es)

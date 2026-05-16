@@ -24,7 +24,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->La API de SOAP está [en desuso](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) el 31 de julio de 2026. Se recomienda usar la [API de REST](https://developer.adobe.com/marketo-apis/) en su lugar.
+>La API de SOAP está [en desuso](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/soap/soap-api) el 31 de julio de 2026. Se recomienda usar la [API de REST](https://developer.adobe.com/marketo-apis/) en su lugar.
 
 >[!NOTE]
 >

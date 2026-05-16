@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Plantilla 10E {#template-10e}
 
-Haga clic con el botón derecho para [descargar la plantilla 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+Haga clic con el botón derecho para [descargar la plantilla 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=es)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -33,4 +33,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+[Plantilla 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=es)

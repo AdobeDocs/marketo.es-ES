@@ -29,7 +29,7 @@ A veces, desea conceder acceso a la API solo a una dirección IP específica o a
 
 >[!CAUTION]
 >
->Si habilita esta característica, no podrá obtener acceso a [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} en este momento. Se espera que esto se resuelva en una próxima versión.
+>Si habilita esta característica, no podrá obtener acceso a [Marketo MCP Server](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server){target="_blank"} en este momento. Se espera que esto se resuelva en una próxima versión.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 
