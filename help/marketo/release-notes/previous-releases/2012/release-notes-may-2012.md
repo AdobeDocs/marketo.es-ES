@@ -4,9 +4,15 @@ description: 'Notas de la versión, mayo de 2012, Documentos de Marketo: documen
 title: Notas de la versión, mayo de 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/GBXVTrpq498UQF0vsVxoK2hhgA5-kHVov2vFLGFw-Ts
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: 650
 ht-degree: 5%
 
 ---
@@ -105,7 +111,7 @@ Configure cuándo y si se muestra el pie de página de cancelación de suscripci
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figura 12. Configuración de [!DNL Sales Insight] en el administrador
+Figura 12. [!DNL Sales Insight] Configuración en administración
 
 ## Carpetas para plantillas de correo electrónico de ventas {#folders-for-sales-email-templates}
 

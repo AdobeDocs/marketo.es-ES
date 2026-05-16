@@ -4,9 +4,21 @@ description: Obtenga información acerca de los paneles de rtp personalizados en
 title: Paneles de control RTP personalizados en Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: 787
 ht-degree: 2%
 
 ---
@@ -74,14 +86,14 @@ El tablero consta de 3 columnas
      <li><span class="uicontrol">Crear un gráfico de barras que muestre</span>: <span class="uicontrol">Sesión</span></li>
      <li><span class="uicontrol">Agrupado por</span>: <span class="uicontrol">Etiqueta de evento</span></li>
      <li><span class="uicontrol">Tabla dinámica por</span>: <span class="uicontrol">Agrupación de canales predeterminada</span></li>
-     <li>Filtro: <br><span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Segmentos RTP de categoría de evento</span> (<span class="uicontrol">que contienen</span>)</li>
+     <li>Filtro: <br><span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (<span class="uicontrol">que contiene</span>) Segmentos RTP</li>
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
      <li>Nombre: N.º de usuarios segmentados RTP</li>
      <li>Tipo: <span class="uicontrol">2.1 Métrica</span></li>
      <li><span class="uicontrol">Mostrar la siguiente métrica</span>: <span class="uicontrol">Usuarios</span><br></li>
-     <li>Filtro: <br><span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) segmentos RTP</li>
+     <li>Filtro: <br><span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) Segmentos RTP</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -106,7 +118,7 @@ El tablero consta de 3 columnas
      <li><strong>Tipo: <span class="uicontrol">Geomap</span></strong></li>
      <li><strong><span class="uicontrol">Métrica seleccionada en el diagrama</span>: <span class="uicontrol">País</span> | <span class="uicontrol">Sesiones</span></strong></li>
      <li><strong><span class="uicontrol">Seleccionar una región</span>: <span class="uicontrol">El mundo</span></strong></li>
-     <li><strong>Filtro: <span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) segmentos RTP</strong></li>
+     <li><strong>Filtro: <span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) Segmentos RTP</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -124,7 +136,7 @@ El tablero consta de 3 columnas
      <li>Tipo: <span class="uicontrol">Barra</span></li>
      <li><span class="uicontrol">Crear un gráfico de barras que muestre</span>: <span class="uicontrol">Usuarios</span></li>
      <li><span class="uicontrol">Agrupado por</span>: <span class="uicontrol">Acción de evento</span></li>
-     <li>Filtro: <span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) segmentos RTP</li>
+     <li>Filtro: <span class="uicontrol">Mostrar solo</span> | <span class="uicontrol">Categoría de evento</span> (que contiene) Segmentos RTP</li>
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>

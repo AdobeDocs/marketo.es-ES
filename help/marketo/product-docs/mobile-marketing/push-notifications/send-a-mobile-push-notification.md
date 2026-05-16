@@ -4,10 +4,13 @@ description: Obtenga información sobre cómo enviar una notificación push móv
 title: Enviar una notificación push para dispositivos móviles
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 22%
+source-wordcount: 114
+ht-degree: 21%
 
 ---
 

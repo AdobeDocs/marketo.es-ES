@@ -4,9 +4,20 @@ description: Obtenga información acerca de la implementación de rtp en página
 title: Implementación de RTP en páginas de aterrizaje de Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/scyZfbFBloPu8JRfJiMjm62AFCHM7WCxaats3qssq2A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 213
 ht-degree: 5%
 
 ---
@@ -49,4 +60,4 @@ Para implementar su [!UICONTROL etiqueta RTP], siga las instrucciones de instala
 
 1. Compruebe que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
 
-   Para ello, haga clic con el botón derecho en la página del sitio web. Vaya a **[!UICONTROL Ver página Source].** busque **[!UICONTROL RTP]** para encontrar la etiqueta.
+   Para ello, haga clic con el botón derecho en la página del sitio web. Ir a **[!UICONTROL Ver página Source].** Busque **[!UICONTROL RTP]** para encontrar la etiqueta.

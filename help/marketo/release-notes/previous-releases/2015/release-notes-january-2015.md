@@ -4,10 +4,20 @@ description: 'Notas de la versión, enero de 2015, Documentos de Marketo: docume
 title: Notas de la versión, enero de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: 385
+ht-degree: 4%
 
 ---
 
@@ -21,7 +31,7 @@ En la versión de enero de 2015 se incluyen las siguientes funciones. Compruebe 
 
 Ahora puede [crear vistas móviles para páginas de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) desde el editor de páginas de aterrizaje. Ofrezca su mensaje de forma eficaz independientemente del dispositivo y aumente la participación adaptando su contenido para facilitar el consumo sobre la marcha. Esta función se implementará gradualmente durante la semana siguiente al lanzamiento.
 
-[&#x200B; - Vídeo de introducción a la página de aterrizaje -](https://youtu.be/aPQHlG2X6c0)
+[-Vídeo de introducción a la página de aterrizaje-](https://youtu.be/aPQHlG2X6c0)
 
 **Nuevas llamadas a la API de REST**
 

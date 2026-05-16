@@ -4,9 +4,12 @@ description: Obtenga información acerca del Centro de comandos en Sales Connect
 title: Información general sobre el centro de comandos
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: 595
 ht-degree: 1%
 
 ---
@@ -53,7 +56,7 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
   <tr>
    <td title="Color de fondo: Gris"><br></td>
    <td title="Color de fondo: Gris">[!UICONTROL Borrador]</td>
-   <td title="Color de fondo: Gris"><p>Correos electrónicos guardados como borrador.<br><strong>Nota:</strong> Solo los mensajes de correo electrónico únicos se pueden guardar como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</p></td>
+   <td title="Color de fondo: Gris"><p>Correos electrónicos guardados como borrador.<br><strong>Nota:</strong> Solo se pueden guardar correos electrónicos individuales como borradores. Los correos electrónicos masivos (seleccionar y enviar correos electrónicos y agrupar correos electrónicos) no se guardarán como borradores.</p></td>
   </tr>
   <tr>
    <td title="Color de fondo: Gris"><br></td>
@@ -73,7 +76,7 @@ La sección de correo electrónico le ofrece una vista panorámica de todos sus 
   <tr>
    <td title="Color de fondo: Azul"><br></td>
    <td title="Color de fondo: Azul">[!UICONTROL Spam]</td>
-   <td title="Color de fondo: Azul"><p>Correos electrónicos que el destinatario ha marcado manualmente como correo no deseado.<br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de entrega.</p></td>
+   <td title="Color de fondo: Azul"><p>Correos electrónicos que el destinatario ha marcado manualmente como correo no deseado.<br><strong>Nota:</strong> Esto solo se detecta si es un usuario ToutApp heredado y tiene acceso a servidores MSC como canal de envío.</p></td>
   </tr>
  </tbody>
 </table>

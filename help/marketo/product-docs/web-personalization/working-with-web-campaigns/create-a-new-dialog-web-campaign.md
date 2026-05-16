@@ -4,9 +4,17 @@ description: Cree campañas web de diálogo para personalizar el contenido en ti
 title: Creación de una nueva campaña web de diálogo
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: 768
 ht-degree: 3%
 
 ---
@@ -115,7 +123,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr>
   <tr>
    <td colspan="1"><strong>Vista previa en el sitio</strong></td>
-   <td colspan="1">Previsualizar campañas antes de iniciarlas.<br>
+   <td colspan="1">Previsualice las campañas antes de iniciarlas.<br>
     <ul>
      <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de vista previa del aspecto que tendría la campaña en directo.</li>
      <li>Dispositivo: obtenga una vista previa del aspecto de la campaña por dispositivo: Escritorio, Móvil vertical, Móvil horizontal, Tablet vertical, Vertical horizontal.<br></li>

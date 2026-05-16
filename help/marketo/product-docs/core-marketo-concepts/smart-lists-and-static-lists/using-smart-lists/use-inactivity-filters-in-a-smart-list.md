@@ -4,9 +4,12 @@ description: Aprenda a utilizar filtros de inactividad en una lista inteligente.
 title: Uso de filtros de inactividad en una lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/Yn0UrS8Umo--Uhd7iGyUCI-aB0pTyY0jxrf2277qUSM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 133
 ht-degree: 13%
 
 ---

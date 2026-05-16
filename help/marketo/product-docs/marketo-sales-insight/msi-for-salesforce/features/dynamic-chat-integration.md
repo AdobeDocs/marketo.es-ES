@@ -3,9 +3,16 @@ description: Obtenga información sobre la integración de Dynamic Chat con Mark
 title: Integración de Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: 401
 ht-degree: 7%
 
 ---
@@ -38,7 +45,7 @@ Siga los pasos a continuación para habilitar la integración de [!DNL Dynamic C
 
 ## Información general de funciones {#feature-overview}
 
-[!DNL Dynamic Chat] usuarios pueden aprovechar las siguientes [!DNL Sales Insight] actividades...
+[!DNL Sales Insight] usuarios pueden aprovechar las siguientes [!DNL Dynamic Chat] actividades...
 
 Diálogo comprometido: Se ha iniciado sesión en Marketo y se ha completado en [!DNL Sales Insight] cuando un visitante hace clic en un bot de chat e interactúa con el cuadro de diálogo.
 

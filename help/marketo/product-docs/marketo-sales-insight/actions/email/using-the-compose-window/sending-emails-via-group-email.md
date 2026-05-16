@@ -3,10 +3,13 @@ description: Aprenda a enviar correos electrónicos de ventas por correo electr�
 title: Enviar correos electrónicos mediante correo electrónico de grupo
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 5%
+source-wordcount: 172
+ht-degree: 8%
 
 ---
 
@@ -16,7 +19,7 @@ A continuación, se muestra cómo enviar/editar correos electrónicos con la opc
 
 ## Envío de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en la ficha **[!UICONTROL Personas]**.
+1. Haga clic en la pestaña **[!UICONTROL Personas]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 

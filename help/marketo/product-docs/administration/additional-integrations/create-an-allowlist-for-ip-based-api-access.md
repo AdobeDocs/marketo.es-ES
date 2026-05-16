@@ -4,9 +4,17 @@ description: Restrinja el acceso de la API a direcciones IP o rangos específico
 title: Creación de una Lista de permitidos para el acceso a API basado en IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 12%
 
 ---
@@ -21,7 +29,7 @@ A veces, desea conceder acceso a la API solo a una dirección IP específica o a
 
 >[!CAUTION]
 >
->Si habilita esta característica, no podrá obtener acceso a [Marketo MCP Server](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server){target="_blank"} en este momento. This is expected to be resolved in an upcoming release.
+>Si habilita esta característica, no podrá obtener acceso a [Marketo MCP Server](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server){target="_blank"} en este momento. Se espera que esto se resuelva en una próxima versión.
 
 1. Vaya al área de **[!UICONTROL Admin]**.
 

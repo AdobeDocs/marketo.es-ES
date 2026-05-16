@@ -3,9 +3,12 @@ description: Obtenga información sobre cómo ver campañas como otro usuario cu
 title: Ver la lista de campañas como otro usuario
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 100
 ht-degree: 15%
 
 ---

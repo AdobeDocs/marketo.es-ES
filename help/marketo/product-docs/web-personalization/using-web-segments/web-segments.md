@@ -4,10 +4,20 @@ description: Obtenga información sobre los segmentos web en Marketo Engage, inc
 title: Segmentos web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '2061'
-ht-degree: 0%
+source-wordcount: 2104
+ht-degree: 1%
 
 ---
 
@@ -17,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-La pestaña Segmentos muestra todos los segmentos definidos personalizados que ha configurado en función de varios atributos.  **Un segmento es un conjunto de visitantes que cumplen los criterios especificados definidos en la página &#39;Establecer un segmento&#39;.** Un segmento puede ser de visitantes de una industria, ubicación o en función de la actividad en el sitio del visitante.
+La pestaña Segmentos muestra todos los segmentos definidos personalizados que ha configurado en función de varios atributos.  **Un segmento es un conjunto de visitantes que cumplen los criterios especificados definidos en la página &#39;Establecer un segmento&#39;.**  Un segmento puede ser visitante de un sector específico, una ubicación o en función de la actividad en el sitio del visitante.
 
 En [!DNL Web Personalizatio] , un visitante puede coincidir con más de un segmento. Por ejemplo, si hay un segmento para visitantes de EE. UU. y otro para empresas financieras, un visitante web de Bank of America coincidiría con **tanto** el segmento para visitantes de EE. UU. como el segmento para empresas financieras.
 
@@ -149,7 +159,7 @@ Una vez agregado el país, también puede especificar el estado, la ciudad y el 
 
 >[!TIP]
 >
->**¿Qué condiciones de segmento elijo? ¿&#39;Y&#39; u &#39;O&#39;?** OR funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo tienen que cumplir uno de los criterios seleccionados en cada campo para poder acceder al segmento. (Por ejemplo, los clientes potenciales pueden ser de EE. UU. *o* de la industria de defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, las perspectivas deben ser tanto de Estados Unidos como de la industria de Defensa). Dentro de cada perfil de segmentación, cada campo independiente puede funcionar como ambos, ya sea como &quot;Y&quot; u &quot;O&quot; según la Condición del segmento seleccionada.
+>**¿Qué condiciones de segmento elijo? ¿&#39;AND&#39; u &#39;OR&#39;?** OR funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo tienen que cumplir uno de los criterios seleccionados en cada campo para poder acceder al segmento. (Por ejemplo, los clientes potenciales pueden proceder de EE. UU. *o* de la industria de defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, las perspectivas deben ser tanto de Estados Unidos como de la industria de Defensa). Dentro de cada perfil de segmentación, cada campo independiente puede funcionar como ambos, ya sea como &quot;Y&quot; u &quot;O&quot; según la Condición del segmento seleccionada.
 
 **Industrias** En la sección **[!UICONTROL Segmentación de perfiles]**, marque la casilla junto a **[!UICONTROL Industria]**.
 
@@ -177,7 +187,7 @@ Cuentas con nombre de **-**
 * **Es de estas empresas (nombres específicos)**
 
    * Seleccione la empresa de destino en la lista desplegable &quot;Seleccionar empresa para agregar&quot;.
-   * Puede escribir el nombre exacto de la organización a la que desea dirigirse. *Se recomienda *siempre* usar Listas de cuentas con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver a continuación).
+   * Puede escribir el nombre exacto de la organización a la que desea dirigirse. *Se recomienda* siempre* usar Listas de cuentas con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver a continuación).
 
 **Lista de cuentas con nombre**
 
@@ -282,7 +292,7 @@ Visitante de Target que utiliza tipos de explorador o versiones específicos.
 
 **Eventos de datos** - Visitantes de segmentos que almacenan en déclencheur eventos de datos personalizados específicos
 
-Añada el valor de Event que desee segmentar. Por ejemplo, de fuentes de datos de terceros.
+Añada el valor de Event que desee segmentar. E.g. de fuentes de datos de terceros.
 
 **API de contexto de usuario**
 

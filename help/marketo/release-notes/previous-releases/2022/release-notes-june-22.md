@@ -3,9 +3,21 @@ description: 'Notas de la versión, junio de 2022: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: 620
 ht-degree: 6%
 
 ---
@@ -38,8 +50,8 @@ Las siguientes características comenzarán a lanzarse el **24 de junio de 2022*
 
 **Nuevas vistas de conmutador de alternancia**: Las vistas siguientes ya están disponibles en la experiencia de próxima generación:
 
-* [Vista de detalles de correo electrónico](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Vista de lista de correo electrónico](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Vista de detalles del correo electrónico](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Vista de lista del correo electrónico](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Automatización de experiencias {#experience-automation}
 
@@ -63,7 +75,7 @@ Las siguientes características comenzarán a lanzarse el **24 de junio de 2022*
 
 ![(estrella)](assets/yellow-star.png)
 
-* **[!DNL Salesforce]Actualización de API**: Con la versión del verano de 2022, las versiones heredadas de API 21 -30 ya no serán compatibles con [!DNL Salesforce]. [!DNL Salesforce] Con esta versión de Marketo Engage, todas las [!DNL Sales Connect] solicitudes que utilizan versiones de API heredadas se han actualizado para permanecer dentro de una versión admitida. Para obtener detalles completos sobre [!DNL Salesforce] planes de retiro de API, haga clic [aquí](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
+* **[!DNL Salesforce]Actualización de API**: Con la versión del verano de 2022, las versiones heredadas de API 21 -30 ya no serán compatibles con [!DNL Salesforce]. [!DNL Salesforce]Con esta versión de Marketo Engage, todas las [!DNL Sales Connect] solicitudes que utilizan versiones de API heredadas se han actualizado para permanecer dentro de una versión admitida. Para obtener detalles completos sobre [!DNL Salesforce] planes de retiro de API, haga clic [aquí](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
 ## Mejoras de API {#api-enhancements}
 
@@ -77,4 +89,4 @@ Las siguientes características comenzarán a lanzarse el **24 de junio de 2022*
 
 **_Seminario web sobre la versión del producto_**
 
-[Seminario web sobre la versión de Marketo Engage de junio y agosto de 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Seminario web de junio y agosto de 2022 sobre la versión de Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

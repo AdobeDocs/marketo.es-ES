@@ -4,10 +4,20 @@ description: Obtenga información sobre cómo las integraciones de red de anunci
 title: Explicación de las integraciones de red de anuncios
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/cqrXgz6GK9SP798tPfcISrONRmT1HXSeP1-OE7BQt8I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: 253
+ht-degree: 12%
 
 ---
 
@@ -17,7 +27,7 @@ ht-degree: 3%
 
 ## Cómo funcionan las integraciones de red de Ad {#how-ad-network-integrations-work}
 
-Las integraciones de red de anuncios conectan los datos de audiencia únicos de Marketo con sus sistemas de medios de pago para que pueda ejecutar campañas de publicidad digital más específicas y personalizadas. Actualmente, estas integraciones funcionan con [!DNL Facebook], [!DNL LinkedIn] y Google.
+La red de anuncios conecta los datos únicos del público de Marketo con los sistemas de medios pagos para que usted pueda ejecutar campañas de anuncios digitales más específicas y personalizadas. Actualmente, estas integraciones funcionan con [!DNL Facebook], [!DNL LinkedIn] y Google.
 
 Las capacidades incluyen:
 
@@ -52,6 +62,6 @@ Puede utilizar las integraciones para lo siguiente:
 
 |   | Datos de audiencia | Ingesta de clientes potenciales | Conversión sin conexión |
 |---|---|---|---|
-| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
-| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
-| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
+| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
+| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
+| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |

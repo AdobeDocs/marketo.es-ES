@@ -4,9 +4,14 @@ description: Aprenda a aprobar varias páginas de aterrizaje a la vez en Marketo
 title: Aprobar varias páginas de destino a la vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/UaNuf1ByD4EoI7naSn6XTXVzarlNyvFEL2r9R3DhvDQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 95
 ht-degree: 12%
 
 ---

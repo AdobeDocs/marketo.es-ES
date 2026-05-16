@@ -4,9 +4,12 @@ description: Aprenda a instalar los campos de evento de Conexión de ventas en e
 title: Instalación de campos de eventos de Sales Connect en el historial de actividades
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: 268
 ht-degree: 9%
 
 ---

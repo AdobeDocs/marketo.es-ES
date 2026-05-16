@@ -4,9 +4,12 @@ description: Obtenga información sobre cómo sincronizar las cancelaciones de s
 title: Sincronizar cancelaciones de suscripción con Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: 435
 ht-degree: 2%
 
 ---
@@ -25,7 +28,7 @@ Cuando se recopila una cancelación de suscripción en [!DNL Sales Connect], se 
 
 **Cancelar la suscripción a la sincronización**
 
-Cuando haya habilitado la sincronización de cancelación de suscripción (Paso 3 a continuación), activará la sincronización nocturna. La sincronización se produce una vez al día alrededor de las 20:00 PST. :00 Sincronizará bidireccionalmente todas las cancelaciones de suscripción en Marketo Sales con el campo de exclusión de Salesforce.
+Cuando haya habilitado la sincronización de cancelación de suscripción (Paso 3 a continuación), activará la sincronización nocturna. La sincronización se produce una vez al día alrededor de las 20:00 PST. :00Sincronizará bidireccionalmente todas las cancelaciones de suscripción en Marketo Sales con el campo de exclusión de Salesforce.
 
 ## Configurar la sincronización de cancelación de suscripción a [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 

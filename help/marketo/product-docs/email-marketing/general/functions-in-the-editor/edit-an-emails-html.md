@@ -4,9 +4,12 @@ description: Obtenga información sobre cómo editar un HTML de correo electrón
 title: Editar el HTML de un correo electrónico
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: 363
 ht-degree: 3%
 
 ---
@@ -50,7 +53,7 @@ Estos cambios de código **no** separarán un correo electrónico de su plantill
 * Eliminación de un módulo del contenedor
 
 * Cambiar atributos específicos de mkto (por ejemplo, &quot;mktoName&quot; o &quot;mktoImgUrl&quot;) de cualquier elemento fuera de un módulo
-* Editar el contenido de cualquier elemento (texto enriquecido, imagen, vídeo, etc.) fuera de un módulo
+* Edición del contenido de cualquier elemento (texto enriquecido, imagen, vídeo, etc.) fuera de un módulo
 
 Estas acciones que puede hacer en el editor de código **separarán** el correo electrónico de su plantilla:
 

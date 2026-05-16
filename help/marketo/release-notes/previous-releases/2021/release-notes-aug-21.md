@@ -2,9 +2,25 @@
 description: 'Notas de la versión, agosto de 2021: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: 908
 ht-degree: 1%
 
 ---
@@ -63,7 +79,7 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] integración de Forms de generación de clientes potenciales**: los especialistas en marketing ahora pueden realizar la atribución de ingresos en las conversiones que se producen cuando [!DNL LinkedIn] captura los formularios que se rellenan a través de sus unidades de anuncios de Forms de generación de clientes potenciales. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones en medios de pago. [!DNL LinkedIn] Lead Gen Forms es una de las ofertas de medios de pago de más rápido crecimiento de [!DNL LinkedIn] y esta nueva capacidad se incluye con nuestra integración de anuncios de [!DNL LinkedIn] existente con [!DNL Bizible].
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] integración de Forms de generación de clientes potenciales**: los especialistas en marketing ahora pueden realizar la atribución de ingresos en las conversiones que se producen cuando [!DNL LinkedIn] captura los formularios que se rellenan a través de sus unidades de anuncios de Forms de generación de clientes potenciales. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones en medios de pago. [!DNL LinkedIn] Forms de generación de clientes potenciales es una de las ofertas de medios de pago de más rápido crecimiento de [!DNL LinkedIn], y esta nueva funcionalidad se incluye con nuestra integración de anuncios de [!DNL LinkedIn] existente con [!DNL Bizible].
 
 * **Tablero de velocidad mejorado**: Hemos agregado una nueva métrica de velocidad y un filtro de tablero para obtener información más detallada. Los especialistas en marketing utilizan este tablero para comprender la velocidad de posible cliente y de oportunidad paso a paso y la eficiencia de las diferentes formas de participación de marketing y ventas.
 

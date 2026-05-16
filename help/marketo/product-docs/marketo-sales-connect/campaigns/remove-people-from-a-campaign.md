@@ -4,9 +4,12 @@ description: Obtenga información sobre cómo eliminar personas de una campaña 
 title: Quitar personas de una campaña
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 286
 ht-degree: 3%
 
 ---

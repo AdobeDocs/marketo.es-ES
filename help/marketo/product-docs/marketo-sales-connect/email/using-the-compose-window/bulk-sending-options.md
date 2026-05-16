@@ -4,9 +4,12 @@ description: Obtenga información sobre las opciones de envío masivo en Sales C
 title: Opciones de envío masivo
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: 270
 ht-degree: 4%
 
 ---
@@ -37,7 +40,7 @@ Enviar correos electrónicos por lotes es una buena manera de acelerar la partic
   </tr>
   <tr>
    <td><p><span>Correo electrónico del grupo</span> </p></td>
-   <td><p><span>1.000</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
    <td><p><span>Seleccione un grupo y haga clic</span><span> en el botón </span><span>"Acciones de grupo"</span><span>, o escriba el nombre del grupo en el campo Para. </span> </p></td>
    <td><p><span>Sí</span> </p></td>
    <td><p><span>No</span> </p></td>

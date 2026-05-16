@@ -4,9 +4,14 @@ description: Obtenga información sobre cómo cancelar la entrega de programas d
 title: Anular el envío de programas de correo electrónico programados con la zona horaria del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-ruQwfzzw58-9Bi0eRNqUynXuzggRhBdTxTtNCptrGA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 228
 ht-degree: 8%
 
 ---

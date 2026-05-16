@@ -3,9 +3,23 @@ description: 'Notas de la versión, enero de 2024: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: 840
 ht-degree: 18%
 
 ---
@@ -62,7 +76,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
     <tr>
    <td><strong>Actualización de la API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes cuando <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si no se encuentra un registro de persona vinculado al <b>id</b> proporcionado en la base de datos de Marketo Engage, no se producirá ninguna actualización de registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en la propiedad <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -82,7 +96,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
     <tr>
    <td><strong>Quitar un usuario en seminarios web interactivos</strong>: Un administrador de Marketo Engage ahora puede quitar un usuario específico en los seminarios web interactivos.</td>
    <td>Publicado</td>
-   <td>N/A</td>
+   <td>n/a</td>
   </tr>
  </tbody>
 </table>
@@ -192,7 +206,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 * **Actualización de cancelación de suscripción a una lista de un solo clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. [Conoce qué son y cómo te afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3&rbrace; se ha ajustado ligeramente con respecto a las actualizaciones del campo &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}. `unsubscribed` Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
+* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3&rbrace; se ha ajustado ligeramente con respecto a las actualizaciones del campo `unsubscribed`. &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: en nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

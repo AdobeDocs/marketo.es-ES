@@ -3,9 +3,16 @@ description: 'Documento de instancia heredada durante la configuración: documen
 title: Documento de instancia heredada de la configuración
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 3%
 
 ---
@@ -46,7 +53,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
   <tr>
    <td>Diccionario de datos</td>
    <td><li>¿Hay un diccionario de datos independiente que explique los campos disponibles?
-   <br/>     Si no es así, considere la posibilidad de crear una en una carpeta accesible para su equipo de operaciones de marketing.</li></td>
+   <br/> Si no es así, considere la posibilidad de crear una en una carpeta a la que tenga acceso su equipo de Operaciones de marketing.</li></td>
   </tr>
   <tr>
    <td>Organización</td>
@@ -61,7 +68,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
   <tr>
    <td>Manuales de tácticas</td>
     <td><li>¿Su organización tiene un manual de usuario o de administrador?
-    <br/>     Si es así, actualícelas en consecuencia.</li></td>
+    <br/> Si es así, actualícelas en consecuencia.</li></td>
   </tr>
   <tr>
    <td>Conversaciones con partes interesadas internas</td>

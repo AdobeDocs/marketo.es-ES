@@ -4,9 +4,12 @@ description: Aprenda a añadir botones de conexión de ventas a Salesforce. Colo
 title: Añadir botones de Sales Connect a Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/m4Qn3b3J8l0y6Qoedfo5-Mc6FCeEKcy01k87KCNr3YY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: 166
 ht-degree: 7%
 
 ---

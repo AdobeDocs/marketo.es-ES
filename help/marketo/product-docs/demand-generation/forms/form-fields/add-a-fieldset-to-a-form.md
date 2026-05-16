@@ -4,9 +4,14 @@ description: Obtenga información sobre cómo agregar un conjunto de campos a un
 title: Añadir un conjunto de campos a un formulario
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/roCUm7V5CeTZqvUOSXm45TjsQtZQCf8quVhjWjRZyO4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 105
 ht-degree: 15%
 
 ---

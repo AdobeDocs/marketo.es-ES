@@ -4,9 +4,18 @@ description: Agregue Marketo [!DNL Munchkin] JavaScript a su sitio para hacer un
 title: Agregar  [!DNL Munchkin] código de seguimiento a tu sitio web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: 685
 ht-degree: 3%
 
 ---
@@ -53,7 +62,7 @@ El código de seguimiento personalizado de JavaScript de Marketo, denominado [!D
    >
    >Coloque el código de seguimiento en las páginas web que desee rastrear. Esto puede ser cada página para sitios más pequeños o solo páginas clave en sitios que tienen muchas páginas web generadas dinámicamente, foros de usuarios, etc.
 
-   Para obtener los mejores resultados, use el código [!DNL Munchkin] asincrónico y colóquelo dentro de los elementos `<head>` de sus páginas. If you are using the simple code (not recommended), this is right before the `</body>` tag.
+   Para obtener los mejores resultados, use el código [!DNL Munchkin] asincrónico y colóquelo dentro de los elementos `<head>` de sus páginas. Si utiliza código simple (no recomendado), justo antes de la etiqueta `</body>`.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -69,7 +78,7 @@ Si utiliza espacios de trabajo en su cuenta de Marketo, es probable que también
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Click **[!UICONTROL Munchkin]**.
+1. Haga clic en **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -79,13 +88,13 @@ Si utiliza espacios de trabajo en su cuenta de Marketo, es probable que también
 
    >[!NOTE]
    >
-   >Si no usa el código de área de trabajo especial [!DNL Munchkin], las personas se asignarán a la partición predeterminada que se creó con la configuración de la cuenta. It is named &#39;[!UICONTROL Default]&#39; by default, but this name may have been changed.
+   >Si no usa el código de área de trabajo especial [!DNL Munchkin], las personas se asignarán a la partición predeterminada que se creó con la configuración de la cuenta. Se le denomina &#39;[!UICONTROL Default]&#39; de forma predeterminada, pero es posible que se haya cambiado este nombre.
 
 1. Seleccione **[!UICONTROL Asincrónica]** para **[!UICONTROL Tipo de código de seguimiento]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Copy the JavaScript tracking code to add to your website.
+1. Copie el código de seguimiento de JavaScript para añadirlo a su sitio web.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
@@ -93,17 +102,17 @@ Si utiliza espacios de trabajo en su cuenta de Marketo, es probable que también
    >
    >No use el código que se muestra en esta captura de pantalla: debe usar el código único que aparece en su cuenta.
 
-1. Place the tracking code on your web pages in the `<head>` element. Las personas nuevas que visiten esta página se asignarán a esta partición.
+1. Coloque el código de seguimiento en las páginas web en el elemento `<head>`. Las personas nuevas que visiten esta página se asignarán a esta partición.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
    >[!CAUTION]
    >
-   >You can only use one [!DNL Munchkin] tracking script for a single partition and workspace on a page. No incluya scripts de seguimiento para varias particiones o espacios de trabajo en el sitio web.
+   >Solo puede usar un script de seguimiento [!DNL Munchkin] para una sola partición y área de trabajo en una página. No incluya scripts de seguimiento para varias particiones o espacios de trabajo en el sitio web.
 
    >[!NOTE]
    >
-   >Las páginas de aterrizaje creadas en Marketo contienen automáticamente código de seguimiento. You do not need to add this code to them.
+   >Las páginas de aterrizaje creadas en Marketo contienen automáticamente código de seguimiento. No es necesario que les agregue este código.
 
 ## Tipos de [!DNL Munchkin] códigos de seguimiento {#types-of-munchkin-tracking-codes}
 

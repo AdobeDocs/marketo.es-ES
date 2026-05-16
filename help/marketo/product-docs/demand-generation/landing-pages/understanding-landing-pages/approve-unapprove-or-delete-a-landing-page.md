@@ -4,9 +4,17 @@ description: Obtenga información sobre cómo aprobar, desaprobar o eliminar una
 title: Aprobar, desaprobar o eliminar una página de destino
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: 271
 ht-degree: 5%
 
 ---

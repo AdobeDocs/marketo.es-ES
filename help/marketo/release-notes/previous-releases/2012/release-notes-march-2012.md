@@ -4,9 +4,12 @@ description: 'Notas de la versión, marzo de 2012, Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/zX0tE831yiWUKWze-duVCVXeUXcMorLMZdm9512RlkU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: 249
 ht-degree: 1%
 
 ---
