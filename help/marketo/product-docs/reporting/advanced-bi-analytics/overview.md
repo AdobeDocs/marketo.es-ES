@@ -137,7 +137,7 @@ Obtenga información sobre cómo exportar secciones específicas del informe.
 
 Vea el siguiente vídeo para ver un ejemplo de una experiencia de informe de obtención de detalles de varias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451685/?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Informes estándar en Advanced BI Analytics {#standard-reports}
 
