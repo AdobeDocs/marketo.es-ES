@@ -1,12 +1,12 @@
 ---
 description: El agente principal de investigación responde a las preguntas que los especialistas en marketing formulan con más frecuencia. Es más rápido y confiable que examinar manualmente los registros de actividad, el historial de campañas inteligentes y los registros de puntuación.
 title: Investigar posible cliente
-beta: true
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ Averigüe por qué una persona o posible cliente específico no alcanzó un hito
 >* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 >
 >* Debe tener acceso de visualización al registro de posible cliente y al programa o hito que está investigando.
+
+>[!AVAILABILITY]
+>
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Cómo usar {#how-to-use}
 
