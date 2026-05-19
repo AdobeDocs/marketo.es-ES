@@ -3,7 +3,7 @@ description: Aprenda a utilizar el agente Importar posibles clientes para cargar
 title: Importar posibles clientes
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -18,9 +18,9 @@ Importe y deduplique listas de posibles clientes en la base de datos de Marketo 
 >
 >Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas un mosaico de _Generar con IA_ en la pantalla de Mi Marketo.
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Cómo usar {#how-to-use}
 

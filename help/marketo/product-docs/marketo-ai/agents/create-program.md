@@ -1,11 +1,11 @@
 ---
 description: Utilice la IA de Marketo para crear un programa de Marketo a partir de una información en lenguaje sencillo. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
 title: Crear programa
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Describa una campaña de marketing en un lenguaje sencillo y Marketo AI creará 
 >* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 >
 >* Debe tener permiso para crear programas en su cuenta de Marketo.
+
+>[!AVAILABILITY]
+>
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Cómo usar {#how-to-use}
 

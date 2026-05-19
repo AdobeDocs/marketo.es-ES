@@ -1,11 +1,11 @@
 ---
 description: Utilice los conocimientos del producto para preguntar a Marketo AI sobre las funciones, las prácticas recomendadas y los procedimientos de Marketo Engage. Las respuestas se basan en la documentación oficial de Adobe.
 title: Conocimiento del producto
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ El conocimiento del producto le permite acceder a petición a la experiencia de 
 >[!PREREQUISITES]
 >
 >Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
+>[!AVAILABILITY]
+>
+>Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
 
 ## Cómo usar {#how-to-use}
 
