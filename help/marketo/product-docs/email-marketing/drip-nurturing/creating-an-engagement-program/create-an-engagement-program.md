@@ -5,14 +5,12 @@ title: Creación de un programa de participación
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 99
-ht-degree: 76%
+source-wordcount: 84
+ht-degree: 72%
 
 ---
 
@@ -31,8 +29,6 @@ Puede utilizar programas de participación en Marketo para nutrir el correo elec
 1. Escriba un **[!UICONTROL Nombre]**, seleccione **[!UICONTROL Participación]** para **[!UICONTROL Tipo de programa]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
-
-1. Ahora que ya tiene un programa de participación, sigamos adelante y completémoslo.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

@@ -5,21 +5,13 @@ title: Adición de un programa a un flujo de programa de participación
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -44,15 +36,15 @@ Cuando se utiliza un programa anidado, la decisión de enviar un correo electró
 * Si es miembro del programa, no recibirá el correo electrónico
 * Si ya no es miembro pero recibió el correo electrónico anteriormente a través de ese programa, no recibirá el correo electrónico
 
-Cuando utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes de *en ese programa específico*, puede recibirlo de nuevo.
+Cuando utiliza un programa en un flujo, no importa si ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes de *en ese programa específico*, puede recibirlo de nuevo.
 
 Puede resultar difícil mezclar correos electrónicos y programas en un programa de participación. Es posible que desee utilizar una o la otra.
 
 >[!TIP]
 >
->Asegúrese de usar un filtro de **[!UICONTROL Miembro del programa de participación]** en la lista inteligente.
+>Use un filtro de **[!UICONTROL Miembro del programa de participación]** en su lista inteligente.
 
-## ¿Qué les sucede a las personas que no cumplen los criterios de las listas inteligentes? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## ¿Qué les sucede a las personas que no cumplen los criterios de la lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 En caso de que alguien se filtre de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente fragmento de contenido durante el reparto actual. Pasarán al siguiente fragmento de contenido del flujo para el *siguiente* reparto.
 

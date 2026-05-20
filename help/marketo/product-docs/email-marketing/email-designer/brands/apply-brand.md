@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TÍTULO
+title: Aplicar temáticas al contenido del correo electrónico
 description: Aprenda a aplicar temas de marca a los correos electrónicos para lograr un diseño coherente. Utilice temáticas y módulos reutilizables en el Designer de correo electrónico.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 4%
+source-wordcount: '746'
+ht-degree: 5%
 
 ---
 
@@ -46,7 +46,7 @@ Key Benefits:
 
 * Al crear un correo electrónico desde cero, puede elegir empezar a crear el contenido con un tema para aplicar rápidamente un estilo específico que se ajuste a su marca y diseño.
 
-  Si eliges el modo _Estilo manual_, no podrás aplicar ningún tema a menos que restablezcas tu correo electrónico.
+  Si elige el modo _Estilo manual_, no podrá aplicar ningún tema a menos que restablezca el correo electrónico.
 
 * Los [fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) no son compatibles entre los modos _Usar temas_ y _Estilo manual_.
 
@@ -62,7 +62,7 @@ If using a content created in Manual Styling mode or HTML, you cannot apply them
 If you apply a theme to a content using a [fragment](../content-management/fragments.md) created in Manual Styling mode, the rendering may not be optimal.
 -->
 
-## Crear una temática {#create-and-edit-themes}
+## Creación de tema {#create-and-edit-themes}
 
 Para definir una temática que pueda aprovechar en el contenido futuro del correo electrónico, siga los pasos a continuación.
 
@@ -128,9 +128,9 @@ Para aplicar temáticas de estilo predeterminadas o personalizadas a un correo e
 
      >[!CAUTION]
      >
-     >Si eliges el modo _Estilo manual_, no podrás aplicar ningún tema a menos que restablezcas tu correo electrónico.
+     >* Si elige el modo _Estilo manual_, no podrá aplicar ningún tema a menos que restablezca el correo electrónico.
      >
-     >Para usar un [fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) en el modo _Usar temas_, este fragmento debe haberse creado solo usando el modo _Usar temas_.
+     >* Para usar un [fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) en el modo _Usar temas_, este fragmento debe haberse creado solo usando el modo _Usar temas_.
 
 1. Una vez que se encuentre en el Designer de correo electrónico, haga clic en el botón **[!UICONTROL Temas]** en el carril derecho. Se muestra el tema predeterminado o el tema de la plantilla. Puede cambiar entre las dos variantes de color para esta temática.
 

@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 37%
+source-wordcount: '1317'
+ht-degree: 35%
 
 ---
 
@@ -135,7 +135,7 @@ Utilice el componente **[!UICONTROL HTML]** para copiar y pegar las diferentes p
 
 >[!NOTE]
 >
->Para hacer que un contenido externo sea compatible con el Diseñador de correo electrónico, Adobe recomienda crear un mensaje desde cero y copiar el contenido del correo electrónico existente en los componentes.
+>Para que el contenido externo sea compatible con Email Designer, Adobe recomienda crear un mensaje desde cero y copiar el contenido del correo electrónico existente en los componentes.
 
 ## Imagen {#image}
 
@@ -147,7 +147,7 @@ Utilice el componente **[!UICONTROL Image]** para insertar un archivo de imagen 
 
 1. En la pestaña **[!UICONTROL Configuración]**, haga clic en **[!UICONTROL Examinar]** para elegir un archivo de imagen de sus recursos o en **[!UICONTROL Importar medios]** para cargar un recurso en Adobe Experience Manager Assets.
 
-   Para obtener más información sobre [!DNL Adobe Experience Manager Assets], consulte [Documentación de Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=es){target="_blank"}.
+   Para obtener más información sobre [!DNL Adobe Experience Manager Assets], consulte [Documentación de Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -158,7 +158,7 @@ Utilice el componente **[!UICONTROL Image]** para insertar un archivo de imagen 
 1. Haga clic en el componente recién agregado y configure las propiedades de la imagen:
 
    * **[!UICONTROL Título de la imagen]** permite definir un título para la imagen.
-   * **[!UICONTROL Texto alternativo]** permite definir el pie de ilustración vinculado a la imagen. Esto corresponde al atributo alternativo de HTML.
+   * **[!UICONTROL Texto alternativo]** permite definir el pie de ilustración vinculado a la imagen. Esto corresponde al atributo HTML alt.
 
    CAPTURA DE PANTALLA
 
@@ -198,7 +198,7 @@ Utilice el componente **[!UICONTROL Decisión de oferta]** para insertar ofertas
 
    CAPTURA DE PANTALLA
 
-1. En la lista desplegable, seleccione sus **[!UICONTROL ubicaciones]**.  A continuación, seleccione la **[!UICONTROL decisión de oferta]** que desee agregar al contenido y haga clic en **[!UICONTROL Agregar]**.
+1. En la lista desplegable, seleccione sus **[!UICONTROL ubicaciones]**. A continuación, seleccione la **[!UICONTROL decisión de oferta]** que desee agregar al contenido y haga clic en **[!UICONTROL Agregar]**.
 
    CAPTURA DE PANTALLA
 

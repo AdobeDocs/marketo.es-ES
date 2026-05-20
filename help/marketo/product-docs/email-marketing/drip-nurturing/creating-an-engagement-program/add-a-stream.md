@@ -5,20 +5,18 @@ title: Añadir un flujo
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/DjV7-AOEPHtFnooWkPCntLq0hwGlRk4Zl-Pbn3-1YPc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 73
-ht-degree: 13%
+source-wordcount: 64
+ht-degree: 15%
 
 ---
 
 # Añadir un flujo {#add-a-stream}
 
-Los programas de participación pueden contener más de un flujo. A continuación se indica cómo agregar uno nuevo.
+Los programas de participación pueden contener más de un flujo.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -35,7 +33,5 @@ Los programas de participación pueden contener más de un flujo. A continuació
    >[!NOTE]
    >
    >Puede añadir hasta 25 flujos por programa de participación.
-
-   Y... ¡hecho!
 
    ![](assets/image2014-9-15-16-3a56-3a27.png)

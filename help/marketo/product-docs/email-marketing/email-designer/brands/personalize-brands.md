@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '902'
+ht-degree: 1%
 
 ---
 
@@ -167,7 +167,7 @@ Para personalizar tu **[!UICONTROL estilo de escritura]**:
 
 1. Si es necesario, seleccione una de las directrices o exclusión para actualizar o eliminar.
 
-1. Haga clic en &quot;Editar&quot; para editar el ejemplo o en el icono &quot;Eliminar&quot; para eliminarlo.
+1. Haz clic en el icono **[!UICONTROL Editar]** para editar tu entrada o en el icono **[!UICONTROL Eliminar]** para eliminarla.
 
    CAPTURA DE PANTALLA
 

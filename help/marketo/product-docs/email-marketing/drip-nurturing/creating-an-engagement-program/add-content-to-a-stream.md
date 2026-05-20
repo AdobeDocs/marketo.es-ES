@@ -5,20 +5,18 @@ title: Añadir contenido a un flujo
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: 157
 ht-degree: 8%
 
 ---
 
 # Añadir contenido a un flujo {#add-content-to-a-stream}
 
-Una vez que haya creado su programa de participación, debe añadir contenido a los flujos. Puede agregar correos electrónicos o programas a un flujo.
+Después de crear el programa de participación, debe agregar contenido al flujo. Puede agregar correos electrónicos o programas a un flujo.
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -53,8 +51,6 @@ Una vez que haya creado su programa de participación, debe añadir contenido a 
    >[!NOTE]
    >
    >Una campaña inteligente debe contener el filtro **[!UICONTROL Miembro del programa de participación]** para que funcione correctamente.
-
-¡Buen trabajo! Ahora sabe cómo agregar contenido a las secuencias de programas. Añada todo lo que necesite para su nutrición. Consulte el artículo relacionado siguiente para obtener más información.
 
 >[!MORELIKETHIS]
 >

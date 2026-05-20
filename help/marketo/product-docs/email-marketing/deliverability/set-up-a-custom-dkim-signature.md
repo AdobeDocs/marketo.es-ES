@@ -5,26 +5,24 @@ title: Configurar una firma personalizada de DKIM
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/ln23WoloRVzBoC8CXFsm90LqYV5FDJzbII8UItp3xDc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: 434
 ht-degree: 4%
 
 ---
 
 # Configurar una firma personalizada de DKIM {#set-up-a-custom-dkim-signature}
 
-Para garantizar una entrega de primer nivel, firmamos automáticamente todo el correo saliente con una firma compartida de Marketo DKIM.
+Para garantizar una capacidad de envío óptima, Marketo firma automáticamente todo el correo saliente con una firma DKIM compartida.
 
 >[!NOTE]
 >
 >Es posible que necesite la ayuda de su equipo de TI para completar algunos de los pasos de este artículo.
 
-Puede personalizar la firma de DKIM para que refleje los dominios que elija. Así es cómo se hace.
+Puede personalizar la firma de DKIM para que refleje los dominios que elija.
 
 1. Vaya a la sección **[!UICONTROL Admin]**.
 
@@ -32,7 +30,7 @@ Puede personalizar la firma de DKIM para que refleje los dominios que elija. As�
 
    >[!NOTE]
    >
-   >Si configura una firma de DKIM personalizada de la forma antigua, seguirá funcionando y debería aparecer aquí.
+   >Si configura una firma de DKIM personalizada mediante el método heredado, seguirá funcionando y debería aparecer aquí.
 
 1. Haga clic en **Correo electrónico**.
 
@@ -62,14 +60,14 @@ Puede personalizar la firma de DKIM para que refleje los dominios que elija. As�
 
    >[!TIP]
    >
-   >* Recomendamos un tamaño de clave de 2048.
-   >* Si utiliza un dominio diferente en la dirección remitente, se utilizará la firma de DKIM compartida de Marketo.
+   >* Se recomienda un tamaño de clave de 2048.
+   >* Si utiliza un dominio diferente en la dirección remitente, Marketo utilizará la firma compartida de DKIM.
 
    >[!IMPORTANT]
    >
    >Si necesita actualizar el Selector de DKIM o el Tamaño de cifrado de DKIM para su dominio, debe eliminar el registro existente y volver a publicar el registro recién generado con los nuevos valores.
    >
-   >Tenga en cuenta que, al hacerlo, DKIM no se firmará para su dominio hasta que nuestro sistema publique y valide su nuevo registro. Planifique el cambio en consecuencia, ya que pueden pasar de 24 a 48 horas antes de que el nuevo registro de DKIM se propague completamente por Internet.
+   >Al hacerlo, DKIM no se firmará para su dominio hasta que nuestro sistema publique y valide su nuevo registro. Planifique el cambio en consecuencia, ya que pueden pasar de 24 a 48 horas antes de que el nuevo registro de DKIM se propague completamente por Internet.
 
 1. Envíe el **[!UICONTROL registro de host]** y el **[!UICONTROL valor TXT]** a su equipo de TI. Pídale que cree el registro y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketo requiere que la clave de DKIM se propague a todos los servidores de nombres asociados con el dominio que se firma con DKIM.
 
@@ -85,6 +83,6 @@ Puede personalizar la firma de DKIM para que refleje los dominios que elija. As�
 
    >[!CAUTION]
    >
-   >Modificar o eliminar el registro DNS correspondiente resultará en una capacidad de envío dañada. Asegúrese de eliminar la entrada en Marketo antes de realizar cambios en DNS.
+   >Modificar o eliminar el registro DNS correspondiente resultará en una capacidad de envío dañada. Elimine la entrada en Marketo antes de realizar cambios en DNS.
 
-   Esto le ayudará en absoluto con su capacidad de envío de correo electrónico. Debe obtener la validación de que el registro está allí y corregirlo.
+   Esto mejorará la capacidad de envío de correo electrónico. Debe obtener la validación de que el registro está allí y corregirlo.

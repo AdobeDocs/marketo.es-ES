@@ -5,14 +5,12 @@ title: Explicación de los programas de participación
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 296
-ht-degree: 93%
+ht-degree: 88%
 
 ---
 
@@ -85,7 +83,7 @@ Una **cadencia de persona** es un estado que define su capacidad para recibir co
 
 ## Agotados {#exhausted}
 
-Una vez que una persona ha recibido cada fragmento de contenido de una secuencia, la persona se denomina como **Agotada**.
+Una vez que una persona ha recibido cada fragmento de contenido en un flujo, se le llama **Agotado**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

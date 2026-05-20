@@ -5,11 +5,9 @@ title: Cancelación la suscripción duradera
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 304
 ht-degree: 1%
@@ -18,7 +16,7 @@ ht-degree: 1%
 
 # Cancelación la suscripción duradera {#durable-unsubscribe}
 
-Marketo ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Hemos añadido un estado de correo electrónico principal, que es independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
+Marketo ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Se ha añadido un estado de correo electrónico maestro, que es independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
 
 Si el indicador de cancelación de suscripción se establece de falso a verdadero, el estado del correo electrónico principal se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se quita una persona y se vuelve a crear, o si se crea un nuevo registro con la misma dirección de correo electrónico, el indicador de cancelación de suscripción **no** se sobrescribirá.
 
@@ -38,13 +36,13 @@ En Marketo, desactive la casilla &quot;Cancelación de la suscripción&quot; en 
 
 ![Borrando la casilla de cancelación de suscripción en el registro de una persona](assets/durable-unsubscribe-2.png)
 
-Ejecute un paso de flujo de _Cambiar valor de datos_ como se muestra a continuación en una o varias personas.
+Ejecute un paso de flujo de **[!UICONTROL Cambiar valor de datos]** como se muestra a continuación en una o varias personas.
 
 ![Cambiar paso de flujo de valor de datos](assets/durable-unsubscribe-3.png)
 
 ## Creación de una nueva persona {#creating-a-new-person}
 
-Cuando se crea una persona nueva, Marketo la compara con la tabla de estado del correo electrónico principal. Si la persona canceló la suscripción anteriormente, actualizaremos el registro para cancelar la suscripción.
+Cuando se crea una persona nueva, Marketo la compara con la tabla de estado del correo electrónico principal. Si la persona ha cancelado la suscripción anteriormente, el registro se actualizará a cancelada.
 
 ## Cambio de una dirección de correo electrónico {#changing-an-email-address}
 
@@ -52,7 +50,7 @@ Si cambia la dirección de correo electrónico de una persona a una dirección d
 
 ## Volver a suscribirse {#re-subscribing}
 
-Al igual que una cancelación de suscripción haría que todas las personas con la misma dirección de correo electrónico se cancelaran, una nueva suscripción volvería a suscribir a todas las personas con la misma dirección de correo electrónico.
+Al igual que una cancelación de suscripción haría que todas las personas con la misma dirección de correo electrónico se cancelaran, una nueva suscripción también volverá a suscribir a todas las personas con la misma dirección de correo electrónico.
 
 >[!MORELIKETHIS]
 >
