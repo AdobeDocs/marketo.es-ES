@@ -1,26 +1,26 @@
 ---
-description: Explore el conjunto de agentes de IA de Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
-title: Información general sobre Marketo Engage AI
+description: Explore el conjunto de agentes de IA de Marketo diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
+title: Información general sobre Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Información general sobre Marketo Engage AI {#overview}
+# Información general sobre Marketo AI {#overview}
 
-Marketo Engage AI proporciona agentes diseñados para automatizar funciones de marketing importantes pero que consumen mucho tiempo.
-
->[!PREREQUISITES]
->
->Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+Marketo AI proporciona agentes diseñados para automatizar funciones de marketing importantes pero que consumen mucho tiempo.
 
 >[!AVAILABILITY]
 >
->Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
+>Esta función tiene disponibilidad limitada. Para solicitar acceso para su suscripción, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+
+>[!PREREQUISITES]
+>
+>Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con su administrador de cuentas para obtener más detalles.
 
 >[!IMPORTANT]
 >
