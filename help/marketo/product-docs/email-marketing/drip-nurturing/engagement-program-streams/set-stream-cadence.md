@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 381
+source-wordcount: 375
 ht-degree: 3%
 
 ---
@@ -46,11 +46,11 @@ Puede enviar contenido de participación a cualquier intervalo que desee. Por ej
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Ahora elija si desea que la cadencia se produzca cada semana o más espaciada. Vamos a elegir cada 2 semanas.
+1. Ahora elija si desea que la cadencia se produzca cada semana o más espaciada. Elija cada 2 semanas.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Decida qué días de la semana. En este caso vamos a hacer martes, miércoles y jueves.
+1. Decida qué días de la semana. En este caso, seleccione martes, miércoles y jueves.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -66,13 +66,13 @@ Puede enviar contenido de participación a cualquier intervalo que desee. Por ej
    >
    >El contenido se publicará en la fecha que selecciones para el primer reparto, así que asegúrate de que coincida con el día de la semana que elijas; de lo contrario, saldrá dos veces en la primera semana.
 
-1. Pase el ratón sobre la cadencia. Verás en qué días saldrán los futuros cilindros.
+1. Pase el ratón sobre la cadencia. Los días de futuros lanzamientos aparecerán.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >En este ejemplo, un correo electrónico se publicará el jueves. Entonces, omitimos una semana y enviamos nuevamente el martes, el miércoles y el jueves de la semana siguiente. Y luego volvemos a repetir.
+   >En este ejemplo, un correo electrónico se publicará el jueves. La semana siguiente se omite y el correo electrónico se envía de nuevo el martes, el miércoles y el jueves de la semana siguiente. A continuación, el ciclo se repite.
 
 ## Mensualmente {#monthly}
 
@@ -84,7 +84,7 @@ Puede enviar contenido de participación a cualquier intervalo que desee. Por ej
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Seleccione si desea que sea cada mes o más espaciado... Vamos a elegir cada cuatro meses.
+1. Seleccione si desea que sea cada mes o más espaciado. Elija cada cuatro meses.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -100,7 +100,7 @@ Puede enviar contenido de participación a cualquier intervalo que desee. Por ej
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Pase el ratón sobre la cadencia. Verás en qué días saldrán los futuros cilindros.
+1. Pase el ratón sobre la cadencia. Los días de futuros lanzamientos aparecerán.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 

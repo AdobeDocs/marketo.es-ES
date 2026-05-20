@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 346
+source-wordcount: 339
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Una lista semilla es una lista de cuentas de correo electrónico en varios prove
 
    >[!TIP]
    >
-   >Asegúrese de asignar un nombre a la lista que facilite su búsqueda.
+   >Asigne un nombre a la lista que facilite su búsqueda.
 
    >[!CAUTION]
    >
@@ -58,6 +58,6 @@ Una lista semilla es una lista de cuentas de correo electrónico en varios prove
 
 ## Adquisición de nuevas listas de semillas {#acquiring-new-seedlists}
 
-La lista de semillas puede cambiar con tanta frecuencia como cada mes. Es importante iniciar sesión en el paquete de energía de entrega de correo electrónico regularmente y comprobar el estado de la lista de semillas. Cuando se añaden nuevas direcciones o se requiere una actualización por su parte, se le avisará mediante el icono de notificación en la parte inferior izquierda de la aplicación.
+La lista de semillas puede cambiar con tanta frecuencia como cada mes. Es importante iniciar sesión en el paquete de energía de capacidad de entrega de correo electrónico regularmente y comprobar el estado de la lista de semillas. Cuando se añaden nuevas direcciones o se requiere una actualización por su parte, se le avisará mediante el icono de notificación en la parte inferior izquierda de la aplicación.
 
 Una vez creada la lista estática en Marketo, puede empezar a enviarla para probar la ubicación de la bandeja de entrada del correo electrónico.

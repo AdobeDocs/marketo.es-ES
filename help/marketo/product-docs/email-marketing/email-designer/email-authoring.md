@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1819
-ht-degree: 5%
+source-wordcount: 1746
+ht-degree: 2%
 
 ---
 
 # Creación del correo electrónico {#email-authoring}
 
-Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en el nuevo Marketo Engage Email Designer.
-
->[!PREREQUISITES]
->
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Obtenga información sobre cómo crear, personalizar y previsualizar correos electrónicos en Email Designer.
 
 ## Crear un correo electrónico {#create-an-email}
 
@@ -73,7 +69,7 @@ Los correos electrónicos del diseñador de correo electrónico solo se pueden c
 
    ![](assets/create-an-email-5.png)
 
-1. Tiene dos opciones para crear un nuevo correo electrónico. Haga clic con el botón derecho en el nombre de su programa de correo electrónico y seleccione **Nuevo recurso local** o haga clic en el botón **+Nuevo correo electrónico** en el cuadro Correo electrónico del panel. En este ejemplo, haremos lo primero.
+1. Tiene dos opciones para crear un nuevo correo electrónico. Haga clic con el botón derecho en el nombre de su programa de correo electrónico y seleccione **Nuevo recurso local** o haga clic en el botón **+Nuevo correo electrónico** en el cuadro Correo electrónico del panel. En este ejemplo, se utiliza la primera opción.
 
    ![](assets/create-an-email-6.png)
 

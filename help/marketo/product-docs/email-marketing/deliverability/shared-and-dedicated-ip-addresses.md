@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 450
+source-wordcount: 445
 ht-degree: 2%
 
 ---
@@ -54,18 +54,18 @@ _Inconvenientes_
 
 _Profesionales_
 
-**Buenos compañeros de habitación**: si la gente con la que comparte su IP sigue las prácticas recomendadas de envío, se beneficiará.
+**Buenos compañeros de habitación**: si los remitentes que comparten su IP siguen las prácticas recomendadas de envío, se beneficiará.
 **Frecuencia de envío**: no se necesita una frecuencia de envío mínima para calificar para una IP compartida, a diferencia de las IP dedicadas.
 **Costo**: nunca hay un cargo adicional para enviar desde una IP compartida.
 
 _Inconvenientes_
 
-**Compañeros de cuarto malos**: si los compañeros con los que comparte su IP se involucran en prácticas de envío deficientes, sus campañas de correo electrónico podrían verse afectadas negativamente.
+**Compañeros de habitación incorrectos**: si los remitentes que comparten su IP realizan prácticas de envío deficientes, sus campañas de correo electrónico podrían verse afectadas negativamente.
 **Control**: tienes mucho menos control sobre la reputación de tu remitente.
 **Resolución de problemas**: a menudo puede ser más difícil resolver un problema al enviarlo desde direcciones IP compartidas.
 
 >[!NOTE]
 >
->Al tomar una decisión, hay otro factor importante a considerar: el volumen de envío. Si planea enviar menos de 100 000 correos electrónicos al mes o menos de dos envíos en un mes, probablemente no se beneficiaría de una IP dedicada. El envío de números como ese se considera bajo y sería difícil mantener su IP dedicada lo suficientemente &quot;caliente&quot; como para que los principales ISP lo consideren seguro. Básicamente, si no envía correos con la frecuencia suficiente, los ISP verán un correo como una repentina &quot;oleada&quot; de actividad y pueden terminar bloqueándolo como correo no deseado sospechoso.
+>Al tomar una decisión, hay otro factor importante a considerar: el volumen de envío. Si planea enviar menos de 100 000 correos electrónicos al mes o menos de dos envíos en un mes, probablemente no se beneficiaría de una IP dedicada. El envío de números como ese se considera bajo y sería difícil mantener su IP dedicada lo suficientemente &quot;caliente&quot; como para que los principales ISP lo consideren seguro. Si no envía correos con la frecuencia suficiente, los ISP verán un correo como un &quot;aumento&quot; repentino de la actividad y pueden terminar bloqueándolo como correo no deseado sospechoso.
 
-Si tiene alguna pregunta o está interesado en configurar una IP dedicada, póngase en contacto con su representante de ventas de Marketo.
+Si tiene alguna pregunta o está interesado en configurar una IP dedicada, póngase en contacto con su representante de cuentas de Marketo.

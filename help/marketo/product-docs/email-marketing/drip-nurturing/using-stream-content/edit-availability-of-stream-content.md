@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 126
-ht-degree: 9%
+ht-degree: 7%
 
 ---
 
 # Editar disponibilidad de contenido de flujo {#edit-availability-of-stream-content}
 
-Puede establecer un intervalo de tiempo para que el contenido esté activo en el flujo. Así es cómo se hace.
+Puede establecer un intervalo de tiempo para que el contenido esté activo en el flujo. A continuación se muestra cómo.
 
 1. Seleccione su programa de participación y vaya a la ficha **[!UICONTROL Transmisiones]**.
 
@@ -36,6 +36,6 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
    >
    >Puede dejar **[!UICONTROL Activo hasta]** en blanco para que el contenido esté disponible para siempre.
 
-   ¡Perfecto! Verá el icono de reloj junto al contenido programado. Se activa e inactiva según la programación que haya establecido.
+   Verá el icono de reloj junto al contenido programado. Se activa e inactiva según la programación que haya establecido.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

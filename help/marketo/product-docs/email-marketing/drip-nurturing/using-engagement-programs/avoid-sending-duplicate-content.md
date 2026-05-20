@@ -9,16 +9,14 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: 209
 ht-degree: 7%
 
 ---
 
 # Evitar enviar contenido duplicado {#avoid-sending-duplicate-content}
-
-¿Alguna vez ha recibido el mismo correo electrónico dos veces? Molesto, ¿no?
 
 Estos son siete escenarios y resultados posibles que deben tenerse en cuenta para evitar enviar a alguien el mismo mensaje dos veces con programas de participación.
 
@@ -28,8 +26,8 @@ Estos son siete escenarios y resultados posibles que deben tenerse en cuenta par
 |---|---|---|
 | Una campaña en un programa independiente, independiente y predeterminado | No es miembro del programa predeterminado | Sí |
 | Una campaña en un programa independiente, independiente y predeterminado | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro del programa CEE **same** | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro del programa CEE **same** | No es miembro del programa predeterminado | Sí |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro de un programa CEE **diferente** | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión dentro de un programa CEE **diferente** | No es miembro del programa predeterminado | Sí |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | No es miembro del programa predeterminado | Sí |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión de un programa de CEE **diferente** | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa a partir de una conversión de un programa de CEE **diferente** | No es miembro del programa predeterminado | Sí |
 | Un programa CEE **diferente** que usa un flujo inteligente | Un miembro de ambos programas CEE | No |

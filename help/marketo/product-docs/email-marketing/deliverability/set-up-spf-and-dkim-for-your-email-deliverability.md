@@ -7,10 +7,10 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
@@ -20,7 +20,7 @@ Un método rápido para mejorar sus tasas de entrega de correo electrónico es i
 
 >[!CAUTION]
 >
->Necesitará que su administrador de red realice este cambio en el registro DNS.
+>El administrador de red deberá realizar este cambio en el registro DNS.
 
 ## Configurar SPF {#set-up-spf}
 
@@ -44,16 +44,16 @@ DKIM es un protocolo de autenticación que utilizan los receptores de correo ele
 
 **¿Cómo funciona DKIM?**
 
-Después de configurar la clave pública en su registro DNS y de activar el dominio de envío en la sección de administración (A), activaremos la firma DKIM personalizada para sus mensajes salientes, que incluirá una firma digital cifrada con cada correo electrónico que enviemos por usted (B). Los receptores podrán descifrar la firma digital consultando la “clave pública” en el DNS (C) del dominio de envío. Si la clave del correo electrónico se corresponde con la clave del registro DNS, es más probable que el servidor receptor de correo acepte el correo electrónico que envía Marketo en su nombre.
+Después de configurar la clave pública en el registro DNS y activar el dominio de envío en la sección Administración (A), Marketo activará la firma personalizada de DKIM para los mensajes salientes, que incluirá una firma digital cifrada con cada correo electrónico enviado en su nombre (B). Los receptores podrán descifrar la firma digital consultando la “clave pública” en el DNS (C) del dominio de envío. Si la clave del correo electrónico se corresponde con la clave del registro DNS, es más probable que el servidor receptor de correo acepte el correo electrónico que envía Marketo en su nombre.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **¿Cómo configuro DKIM?**
 
-Consulte [Configurar una firma DKIM personalizada](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+Consulte [Configurar una firma personalizada de DKIM](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* Más información acerca de SPF y su funcionamiento`: http://www.open-spf.org/Introduction/`
+>* Más información acerca de SPF y su funcionamiento: `http://www.open-spf.org/Introduction/`
 >* ¿Está configurado correctamente mi SPF?: `https://www.kitterman.com/spf/validate.html`
 >* ¿He utilizado la sintaxis correcta?: `http://www.open-spf.org/SPF_Record_Syntax/`

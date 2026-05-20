@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 151
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Archivar y desarchivar contenido de flujo {#archive-and-unarchive-stream-content}
 
-Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. A continuación se muestra cómo archivar contenido.
+Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. Así se archiva el contenido.
 
 >[!TIP]
 >
@@ -50,4 +50,4 @@ Si ya no quieres usar un fragmento de contenido en un flujo, puedes [quitarlo](/
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   ¡Perfecto! Ahora este contenido está disponible para priorizar y activar.
+   Ahora este contenido está disponible para priorizar y activar.

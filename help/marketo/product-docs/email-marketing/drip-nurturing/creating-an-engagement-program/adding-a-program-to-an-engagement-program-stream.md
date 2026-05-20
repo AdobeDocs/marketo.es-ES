@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -44,15 +44,15 @@ Cuando se utiliza un programa anidado, la decisión de enviar un correo electró
 * Si es miembro del programa, no recibirá el correo electrónico
 * Si ya no es miembro pero recibió el correo electrónico anteriormente a través de ese programa, no recibirá el correo electrónico
 
-Cuando utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes de *en ese programa específico*, puede recibirlo de nuevo.
+Cuando utiliza un programa en un flujo, no importa si ha recibido ese correo electrónico específico anteriormente. Siempre que el correo electrónico no se haya enviado antes de *en ese programa específico*, puede recibirlo de nuevo.
 
 Puede resultar difícil mezclar correos electrónicos y programas en un programa de participación. Es posible que desee utilizar una o la otra.
 
 >[!TIP]
 >
->Asegúrese de usar un filtro de **[!UICONTROL Miembro del programa de participación]** en la lista inteligente.
+>Use un filtro de **[!UICONTROL Miembro del programa de participación]** en su lista inteligente.
 
-## ¿Qué les sucede a las personas que no cumplen los criterios de las listas inteligentes? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## ¿Qué les sucede a las personas que no cumplen los criterios de la lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 En caso de que alguien se filtre de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente fragmento de contenido durante el reparto actual. Pasarán al siguiente fragmento de contenido del flujo para el *siguiente* reparto.
 

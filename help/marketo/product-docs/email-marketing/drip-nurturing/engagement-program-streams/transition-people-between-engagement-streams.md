@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 251
+source-wordcount: 243
 ht-degree: 6%
 
 ---
 
 # Transición de personas entre flujos de participación {#transition-people-between-engagement-streams}
 
-Los programas de participación pueden tener más de un flujo. Si [agrega una secuencia](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), querrá definir una forma para que las personas se muevan de una secuencia a otra. Se denominan **reglas de transición.**
+Los programas de participación pueden tener más de un flujo. Si [agrega una secuencia](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), defina la forma en que las personas puedan pasar de una secuencia a otra. Se denominan **reglas de transición.**
 
 1. Vaya a **[!UICONTROL Actividades de marketing]**.
 
@@ -36,23 +36,23 @@ Los programas de participación pueden tener más de un flujo. Si [agrega una se
    >
    >Las reglas de transición entran en un flujo; defina siempre las reglas del flujo en el que desee entrar.
 
-   Una vez abierta la ventana de la regla de transición, busque y arrastre el déclencheur que desee. En este caso, queremos mover personas a [!UICONTROL Fase intermedia] cuando se añada a una oportunidad.
+   Una vez abierta la ventana de la regla de transición, busque y arrastre el déclencheur que desee. En este ejemplo, las personas se moverán a la [!UICONTROL etapa intermedia] cuando se agreguen a una oportunidad.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Establezcamos el operador en **[!UICONTROL is any]** para que las personas se trasladen para cualquier oportunidad agregada.
+1. Establezca el operador en **[!UICONTROL is any]** para que las personas se muevan para cualquier oportunidad agregada.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >Puede añadir varios déclencheur y filtros a una regla de transición, pero la regla de transición utiliza todos los filtros (el uso de TODOS los filtros es la única opción). Si necesita utilizar OR en una regla de transición, le recomendamos que configure una campaña inteligente externa en su lugar.
+   >Puede añadir varios déclencheur y filtros a una regla de transición, pero la regla de transición utiliza todos los filtros (el uso de TODOS los filtros es la única opción). Si necesita utilizar OR en una regla de transición, se recomienda configurar una campaña inteligente externa en su lugar.
 
 1. Haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   ¡Excelente! Ahora, cualquier persona del programa de participación que se agregue a una oportunidad se moverá al flujo de [!UICONTROL Etapa intermedia].
+   Ahora, cualquier persona del programa de participación que se agregue a una oportunidad se moverá al flujo de [!UICONTROL Etapa intermedia].
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

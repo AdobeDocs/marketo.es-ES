@@ -25,9 +25,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1342
+source-wordcount: 1341
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ Para convertir una imagen en una plantilla de correo electrónico de HTML totalm
 
    ![](assets/image-to-html-3.png)
 
-1. Desplácese hacia abajo y seleccione la casilla de verificación _El archivo de carga no contiene..._. Haga clic en **Convertir**.
+1. Desplácese hacia abajo y seleccione la casilla de verificación _el archivo cargado no contiene..._. Haga clic en **Convertir**.
 
    ![](assets/image-to-html-4.png)
 

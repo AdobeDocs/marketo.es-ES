@@ -9,20 +9,20 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
 
 # Devoluciones graves y leves de correos electrónicos {#hard-and-soft-bounces-in-email}
 
-Un rechazo permanente puede hacer que la dirección de correo electrónico de una persona no sea válida cuando un servidor de correo indica a Marketo que el correo electrónico de la persona no se puede entregar. Un rebote suave significa que hubo un problema al enviar el correo electrónico a la persona; esto se resuelve automáticamente y a veces puede tardar días. Los rechazos permanentes y temporales constan de [varias categorías](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Un rechazo permanente puede hacer que la dirección de correo electrónico de una persona no sea válida cuando un servidor de correo indica a Marketo que el correo electrónico de la persona no se puede entregar. Una devolución suave significa que hubo un error al enviar el correo electrónico a la persona; esto se resuelve automáticamente y a veces puede tardar días. Los rechazos permanentes y temporales constan de [varias categorías](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
 ## Clasificación de rechazo {#bounce-classification}
 
-Hay cadenas de 5 personas en Marketo relacionadas con envíos de correo electrónico con problemas.
+Hay campos de 5 personas en Marketo relacionados con la entrega de correo electrónico con problemas.
 
 1. **Correo electrónico suspendido** - Se establece como Verdadero cuando se produce un determinado tipo de devolución.
 1. **Causa suspendida de correo electrónico**: puede haber muchas razones. Este campo intenta explicar la causa.
@@ -34,7 +34,7 @@ Hay cadenas de 5 personas en Marketo relacionadas con envíos de correo electró
 >
 >Una vez que una persona alcanza el estado **correo electrónico suspendido**, no hay forma de borrar la casilla de verificación de correo electrónico suspendido. Sin embargo, la persona seguirá siendo enviada 24 horas después de la suspensión inicial.
 >
->Cuando una persona está marcada como **correo electrónico no válido**, solo se puede restablecer de forma manual (lo que recomendamos que lo haga únicamente si sabe con seguridad que su correo electrónico es válido) si desmarca la casilla &quot;Correo electrónico no válido&quot; en la pestaña Información de persona de su registro.
+>Cuando una persona está marcada como **correo electrónico no válido**, solo se puede restablecer manualmente (lo cual se recomienda solo si ha confirmado que la dirección de correo electrónico es válida) si desmarca la casilla &quot;Correo electrónico no válido&quot; en la pestaña Información de persona de su registro.
 
 >[!PREREQUISITES]
 >

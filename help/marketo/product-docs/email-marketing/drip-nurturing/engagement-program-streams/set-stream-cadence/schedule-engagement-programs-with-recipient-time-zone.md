@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: 205
 ht-degree: 9%
 
 ---
 
 # Planificar programas de participación con la zona horaria del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
-Cuando se programa un flujo de programa de participación y la zona horaria del destinatario está activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en la primera zona horaria (UTC +14:00). Es necesario que programes el primer reparto **al menos 25 horas** en el futuro, ya que puede haber personas que califiquen para el reparto en todas las zonas horarias del mundo. Comenzar a procesar en este momento en el primer huso horario garantiza que entregaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
+Cuando se programa un flujo de programa de participación y la zona horaria del destinatario está activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en la primera zona horaria (UTC +14:00). La primera emisión debe programarse **al menos 25 horas** en el futuro, ya que es posible que haya personas que califiquen para la emisión en todas las zonas horarias del mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que el correo electrónico se enviará en la fecha y hora programadas para cada destinatario.
 
 1. En el programa de participación, vaya a la pestaña **[!UICONTROL Transmisiones]** y haga clic en la programación de cadencia de una transmisión para editarla.
 

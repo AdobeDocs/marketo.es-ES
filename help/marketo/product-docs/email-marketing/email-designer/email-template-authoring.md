@@ -20,10 +20,10 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1891
-ht-degree: 4%
+source-wordcount: 1806
+ht-degree: 2%
 
 ---
 
@@ -31,13 +31,9 @@ ht-degree: 4%
 
 Para un proceso de diseño acelerado y mejorado, puede crear plantillas de correo electrónico independientes para reutilizar fácilmente el contenido personalizado.
 
->[!PREREQUISITES]
->
->Para acceder al nuevo diseñador de correo electrónico, la suscripción de Marketo Engage debe migrarse al [Sistema Identity Management de Adobe (IMS)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Si el suyo aún no se ha actualizado y desea solicitar que se agilice, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) o con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
-
 >[!NOTE]
 >
->Las plantillas de correo electrónico del nuevo diseñador de correo electrónico solo se pueden utilizar para crear correos electrónicos en el nuevo diseñador. No se puede hacer referencia a ellos en el antiguo editor de correo electrónico.
+>Las plantillas de correo electrónico de Designer solo se pueden utilizar para crear correos electrónicos en Designer de correo electrónico. No se puede hacer referencia a ellos en el editor de correo electrónico clásico.
 
 ## Creación de una plantilla de correo electrónico {#create-an-email-template}
 
@@ -185,7 +181,7 @@ Agregue imágenes que estén almacenadas en la sección [Imágenes y archivos](/
 
 >[!NOTE]
 >
->Sólo puede agregar imágenes en el nuevo diseñador, no en otros tipos de archivo en este momento.
+>Solo puede añadir imágenes en el Designer de correo electrónico, no en otros tipos de archivo en este momento.
 
 1. Para acceder a sus imágenes, haga clic en el icono Selector de recursos.
 
@@ -236,7 +232,7 @@ En el ejemplo siguiente se describen los pasos para ajustar el relleno y la alin
 
 ### Personalización del contenido {#personalize-content}
 
-Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
+Los tokens funcionan en el Designer de correo electrónico del mismo modo que en el editor clásico, pero el icono tiene un aspecto diferente. El ejemplo siguiente describe cómo agregar un token de nombre con texto de reserva.
 
 1. Seleccione el componente de texto. Coloque el cursor donde desee que aparezca el token y haga clic en el icono **Agregar personalización**.
 
@@ -252,7 +248,7 @@ Los tokens funcionan en el nuevo editor del mismo modo que en el antiguo, pero e
 
    >[!NOTE]
    >
-   >&quot;Texto de reserva&quot; es el nuevo término del editor para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``. Se recomienda en caso de que no haya ningún valor para la persona en el campo que elija.
+   >&quot;Texto de reserva&quot; es el término del Designer de correo electrónico para el valor predeterminado. Ejemplo: ``{{lead.First Name:default=Friend}}``. Se recomienda en caso de que no haya ningún valor para la persona en el campo que elija.
 
 1. Establece el texto de reserva y haz clic en **Agregar**.
 
@@ -384,4 +380,4 @@ En la página de lista _Plantillas de correo electrónico_, seleccione varias pl
 
 >[!MORELIKETHIS]
 >
->[Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Aprenda a crear, diseñar y hacer referencia a un correo electrónico en el nuevo diseñador.
+>[Creación de correo electrónico](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

@@ -9,20 +9,20 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: 131
 ht-degree: 12%
 
 ---
 
 # Eliminación de un miembro de un programa de participación {#remove-a-member-from-an-engagement-program}
 
-¡Uy! ¿Cómo entró esa gente ahí? Puede quitar miembros de un programa de participación con el paso de flujo **[!UICONTROL Cambiar estado del programa]**.
+Puede quitar miembros de un programa de participación con el paso de flujo **[!UICONTROL Cambiar estado del programa]**.
 
 >[!TIP]
 >
->No use esto para pausar contenido para una persona. Esto eliminará toda atribución en Analytics. Más información sobre cómo [pausar a las personas en un programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>No lo use para pausar el contenido de una persona. Esto eliminará toda atribución en Analytics. Más información sobre cómo [pausar a las personas en un programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Paso de flujo {#flow-step}
 
@@ -34,11 +34,11 @@ ht-degree: 12%
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Estupendo. Todos los miembros que haya definido en la [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dejarán de estar en este programa de participación.
+   Todos los miembros que haya definido en la [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) dejarán de estar en este programa de participación.
 
 ## Pausar personas  {#pause-people}
 
-A veces solo se desea pausar a las personas en un programa de participación y no eliminarlas. Esto se hace con la **[!UICONTROL cadencia del programa de participación de cambios]**.
+A veces, se desea pausar a las personas en un programa de participación y no eliminarlas. Esto se hace con la **[!UICONTROL cadencia del programa de participación de cambios]**.
 
 >[!MORELIKETHIS]
 >

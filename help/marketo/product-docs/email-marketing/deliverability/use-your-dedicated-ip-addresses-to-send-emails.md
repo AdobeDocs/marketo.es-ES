@@ -11,7 +11,7 @@ feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 452
 ht-degree: 7%
@@ -26,7 +26,7 @@ El envío desde una o más IP dedicadas le proporciona un control completo sobre
 >
 >Una IP dedicada es un producto complementario. No todos podrán añadir una IP dedicada a su programa. Debe enviar más de 100 000 correos electrónicos al mes y tener una cadencia de campaña estable para mantener una IP dedicada. Póngase en contacto con el equipo de su cuenta para obtener más información sobre cómo agregar una IP dedicada a su programa de Marketo.
 >
->Si envía menos de 100 000 correos electrónicos al mes, tiene volúmenes de campaña variables o es un remitente estacional, no podrá mantener una IP dedicada. Marketo mantiene un grupo compartido de IP fiables independiente para los clientes que siguen prácticas recomendadas estrictas. Si está interesado, por favor llene [este cuestionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es) para aplicar al programa Trusted IP de Marketo.
+>Si envía menos de 100 000 correos electrónicos al mes, tiene volúmenes de campaña variables o es un remitente estacional, no podrá mantener una IP dedicada. Marketo mantiene un grupo compartido de IP fiables independiente para los clientes que siguen prácticas recomendadas estrictas. Para aplicar al programa Trusted IP de Marketo, complete [este cuestionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es).
 
 Todas las cuentas de Marketo comienzan con una IP compartida, lo que le permite empezar a enviar correos inmediatamente. Si agrega una IP dedicada, trabajará con los consultores de capacidad de entrega para programar el aprovisionamiento de la IP.
 
@@ -39,14 +39,14 @@ Un consultor especializado en la capacidad de envío proporciona:
 
 ## Aumento de la rampa IP dedicada {#dedicated-ip-ramp-up}
 
-Para maximizar la capacidad de entrega a largo plazo, los consultores de capacidad de entrega ofrecen recomendaciones personalizadas para aumentar lentamente el volumen de la campaña de correo electrónico en su IP dedicada. A esto lo llamamos &quot;calentamiento de su IP&quot;. Empieza frío, y enviar correo lo calienta. Las IP frías que envían un gran volumen de correo electrónico suelen ver sus velocidades de envío restringidas y generalmente se clasifican como correo no deseado.
+Para maximizar la capacidad de entrega a largo plazo, los consultores de capacidad de entrega ofrecen recomendaciones personalizadas para aumentar lentamente el volumen de la campaña de correo electrónico en su IP dedicada. Este proceso se denomina &quot;calentamiento de la IP&quot;. Empieza frío, y enviar correo lo calienta. Las IP frías que envían un gran volumen de correo electrónico suelen ver sus velocidades de envío restringidas y generalmente se clasifican como correo no deseado.
 
 **Importante**: Por lo general, debes mantener un número constante de correos electrónicos por mes. Esto ayuda a establecer un patrón para la reputación y la capacidad de envío. Los incrementos o disminuciones drásticos en el volumen del correo electrónico, incluso en una IP &quot;cálida&quot;, pueden hacer que los proveedores de correo electrónico vean el correo electrónico de forma sospechosa.
 
 >[!TIP]
 >
->Mantenga la base de datos limpia para mantener la capacidad de envío alta. [Adobe requiere](https://www.adobe.com/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido o solicitado recibir correo electrónico. No envies spam.
+>Mantenga la base de datos limpia para mantener la capacidad de envío alta. [Adobe requiere](https://www.adobe.com/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido o solicitado recibir correo electrónico. No enviar correos electrónicos no solicitados.
 
 >[!CAUTION]
 >
->Si observa un número elevado de rechazos o cualquier otro problema, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Si desea una asistencia más centrada para aprender a mantener una base de datos limpia y aumentar la participación con su programa, se puede contratar a los consultores de capacidad de envío de correo electrónico de Marketo para un paquete de servicios personalizados.
+>Si observa un número elevado de rechazos o cualquier otro problema, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Para obtener una asistencia más centrada, con el fin de obtener información sobre cómo mantener una base de datos limpia y aumentar la participación con su programa, se puede contratar a los consultores de capacidad de envío de correo electrónico de Marketo para un paquete de servicios personalizados.
