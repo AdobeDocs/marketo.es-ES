@@ -7,7 +7,7 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 202
 ht-degree: 8%
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Ahora que sabe cómo agregar texto a una página de aterrizaje, trabajemos en agregar un token.
+Ahora que sabe cómo agregar texto a una página de aterrizaje, la siguiente sección trata sobre agregar un token.
 
 ## Añadir un token a la página de aterrizaje {#add-a-token-to-your-landing-page}
 
@@ -46,7 +46,7 @@ Los tokens son fragmentos de texto dinámicos que pueden personalizar la página
 
 >[!TIP]
 >
->Cosas como el Nombre provienen del registro de la persona. Otros tokens provienen de la pestaña Mis tokens del programa.
+>Los valores como Nombre provienen del registro de persona. Otros tokens provienen de la pestaña Mis tokens del programa.
 
 1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
@@ -76,4 +76,4 @@ Los tokens son fragmentos de texto dinámicos que pueden personalizar la página
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   ¡Misión finalizada! Ahora tiene un token en la página de aterrizaje.
+   Ahora tiene un token en la página de aterrizaje.

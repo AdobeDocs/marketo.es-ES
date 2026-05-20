@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: 114
 ht-degree: 12%
 
 ---
 
 # Añadir un fragmento a una página de destino {#add-a-snippet-to-a-landing-page}
 
-Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y albergar contenido personalizado.
+Los fragmentos de código son bloques reutilizables de HTML que pueden seguir reglas y albergar contenido personalizado.
 
 >[!PREREQUISITES]
 >
@@ -50,4 +50,4 @@ Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y alber
    >
    >Si desea agregar un fragmento a una página de aterrizaje guiada, consulte [este artículo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-¡Excelente trabajo! Ahora sabe cómo agregar fragmentos de código a las páginas de aterrizaje.
+Ahora sabe cómo agregar fragmentos de código a las páginas de aterrizaje.

@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 220
 ht-degree: 10%
 
 ---
 
 # Uso de contenido dinámico en una página de destino de forma libre {#use-dynamic-content-in-a-free-form-landing-page}
 
-El uso de contenido dinámico en las páginas de destino hace que la audiencia se involucre con la información de destino.
+El uso de contenido dinámico en páginas de aterrizaje engancha a su audiencia con información de destino.
 
 >[!PREREQUISITES]
 >
@@ -86,7 +86,7 @@ El uso de contenido dinámico en las páginas de destino hace que la audiencia s
 >
 >Cree una página de aterrizaje predeterminada antes de modificar el contenido de los distintos segmentos.
 
-¡Voila! Ahora puede enviar contenido de destino.
+Ahora puede enviar contenido de destino a sus segmentos.
 
 >[!MORELIKETHIS]
 >

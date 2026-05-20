@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 313
-ht-degree: 88%
+source-wordcount: 314
+ht-degree: 79%
 
 ---
 
@@ -115,7 +115,7 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Los campos de compañía personalizados también funcionan si usa su nombre para mostrar, por ejemplo, `{{Company.Custom Field Name}}`
+* Los campos personalizados de empresa también funcionan si usa su nombre para mostrar, por ejemplo, `{{Company.Custom Field Name}}`
 
 ## Tókenes de campaña {#campaign-tokens}
 
@@ -168,7 +168,7 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 
 ## Token de abonado {#member-token}
 
-Los tókenes de abonado se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tókenes de abonado es para URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicio.
+Los tókenes de abonado se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tókenes de abonado es para URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
 
 * `{{member.webinar url}}`
 

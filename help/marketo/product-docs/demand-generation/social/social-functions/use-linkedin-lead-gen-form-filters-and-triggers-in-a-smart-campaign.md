@@ -10,16 +10,16 @@ product_v2:
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: 149
 ht-degree: 16%
 
 ---
 
 # Uso de filtros y activadores de formulario de generación de posibles clientes de LinkedIn en una campaña inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
-Una vez que haya habilitado LinkedIn Lead Gen Forms, podrá utilizarlos como filtros y déclencheur en sus campañas inteligentes.
+Cuando haya habilitado LinkedIn Lead Gen Forms, podrá utilizarlas como filtros y déclencheur en sus campañas inteligentes.
 
 >[!NOTE]
 >

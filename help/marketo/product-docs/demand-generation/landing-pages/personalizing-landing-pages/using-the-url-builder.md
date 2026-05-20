@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: 134
 ht-degree: 5%
 
 ---
@@ -36,4 +36,4 @@ El Generador de URL le ayuda a construir direcciones URL que pueden rellenar los
    >
    >Si no ve ningún campo disponible en el generador, asegúrese de que el formulario tenga campos ocultos y de que estén [configurados para aceptar los parámetros de URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
-¡Gran trabajo! Ahora puede copiar y pegar la dirección URL y utilizarla en la web.
+Ahora puede copiar y pegar la dirección URL y utilizarla en la web.

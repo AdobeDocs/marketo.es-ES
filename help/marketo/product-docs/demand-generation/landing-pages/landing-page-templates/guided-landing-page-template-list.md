@@ -12,7 +12,7 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 357
 ht-degree: 61%
@@ -31,10 +31,10 @@ Para importar una plantilla en Marketo:
 
 1. Haga clic en el nombre de la plantilla para verla más grande.
 1. Descargue la plantilla elegida.
-1. En Marketo, vaya a **[!UICONTROL Design Studio].**
-1. Haga clic en **[!UICONTROL Páginas de destino]** en el árbol izquierdo y, a continuación, seleccione **[!UICONTROL Plantillas].**
+1. En Marketo, vaya a **[!UICONTROL Design Studio]**.
+1. Haga clic en **[!UICONTROL Páginas de destino]** en el árbol izquierdo y, a continuación, seleccione **[!UICONTROL Plantillas]**.
 
-1. En la barra de menús, haga clic en **[!UICONTROL Importar plantilla].**
+1. En la barra de menús, haga clic en **[!UICONTROL Importar plantilla]**.
 1. Elija el archivo descargado, escriba un nombre de plantilla y haga clic en **[!UICONTROL Importar]** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **[!UICONTROL Guided]**).
 
 <table>

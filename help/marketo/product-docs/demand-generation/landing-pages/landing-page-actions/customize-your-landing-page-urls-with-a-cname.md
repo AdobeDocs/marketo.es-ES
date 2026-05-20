@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: 242
 ht-degree: 9%
 
 ---
@@ -82,4 +82,4 @@ Pida al personal de TI que configure el siguiente CNAME: (Reemplace la palabra [
 >
 >Su página de reserva será la página a la que se redirigirán los posibles clientes si la página de aterrizaje de Marketo no está disponible.
 
-¡Buen trabajo! Las páginas de aterrizaje ahora están etiquetadas con el dominio de la compañía.
+Las páginas de aterrizaje ahora están etiquetadas con el dominio de la compañía.

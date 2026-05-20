@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1132
 ht-degree: 21%
 
 ---
@@ -22,7 +22,7 @@ Las plantillas de página de aterrizaje guiada tienen una sintaxis especial. Uti
 
 >[!TIP]
 >
->Use buenas convenciones de nomenclatura y su equipo de marketing se enamorará de usted.
+>El uso de convenciones de nomenclatura claras facilita al equipo de marketing el trabajo con la plantilla.
 
 Existen dos maneras de declarar que algo en su página debe ser editable:
 
@@ -38,16 +38,16 @@ Los elementos se declaran agregando un elemento DOM normal a la plantilla y deco
 Si define una región como Texto enriquecido, los usuarios podrán editar su contenido [con el Editor de texto enriquecido de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Atributos necesarios:
+
 **class**: &quot;mktoText&quot;
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
+
 El contenido de un elemento con clase mktoText (si se proporciona) se utilizará como valor predeterminado para el área editable.
 
-Por ejemplo:
-
-`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
+Ejemplo: `<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## Imagen {#image}
 
@@ -64,58 +64,55 @@ mktoName : cadena. Este es el nombre para mostrar que se mostrará en el editor 
 Opcional:
 mktoImgClass: String. El valor aquí se añadirá al atributo class del elemento `<img>` dentro del div.
 
-Por ejemplo:
-
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
+Ejemplo: `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## Opción 2 - Usar un `<img>` {#option-use-a-img}
 
 Atributos necesarios:
+
 clase: &quot;mktoImg&quot;
 id: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 mktoName : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
+
 src: URL de cadena. Se utilizará como valor predeterminado para la imagen.
 
-Por ejemplo:
-
-`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
+Ejemplo: `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
->Al utilizar la versión `<img>`, el HTML procesado contendrá un contenedor div generado alrededor de la etiqueta `<img>`. Se establecerá en la clase .&quot;mktoImg.mktoGen&quot; y se mostrará:inline-block.
+>Al utilizar la versión `<img>`, el HTML procesado contendrá un contenedor div generado alrededor de la etiqueta `<img>`. Se establecerá en la clase &quot;mktoImg mktoGen&quot; y se mostrará :inline-block.
 
 ## Formulario {#form}
 
-Atributos de ejemplo :Required:
+Atributos necesarios:
+
 **class**: &quot;mktoForm&quot;
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
-**mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
+**mktoName**: cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
+Ejemplo: `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Fragmento {#snippet}
 
 Atributos necesarios:
+
 **class**: &quot;mktoSnippet&quot;
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-Por ejemplo:
-
-`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
+Ejemplo: `<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## Compartir botón {#share-button}
 
 Atributos necesarios:
+
 **class**: &quot;mktoShareButton&quot;
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-Por ejemplo:
-
-`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
+Ejemplo: `<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## Vídeo {#video}
 
@@ -124,21 +121,18 @@ Por ejemplo:
 >Al utilizar el elemento de vídeo en una página de aterrizaje, Marketo solo admite vídeos de YouTube. Si utiliza otro servicio, le recomendamos que utilice un cuadro de texto enriquecido y pegue el código incrustado del vídeo.
 
 Atributos necesarios:
+
 **clase**: &quot;mktoVideo&quot;
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
-Por ejemplo:
-
-`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
+Ejemplo: `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## Variables editables {#editable-variables}
 
 Todos los tipos de variables se utilizan haciendo referencia al valor de su atributo id dentro de una secuencia de caracteres ${ }. Se pueden utilizar en cualquier parte del documento, excepto en el interior de otras declaraciones de variables.
 
-Por ejemplo:
-
-`${var1}`
+Ejemplo: `${var1}`
 
 **Declaración:**
 
@@ -147,63 +141,57 @@ Las variables se declaran como metaetiquetas dentro del elemento `<head>` de la 
 ## Cadena {#string}
 
 Atributos necesarios:
+
 **clase** : &quot;mktoString&quot;,
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
+
 **default**: valor de cadena para el atributo. Vacío si no se proporciona ninguno.
 **allowHtml**: &quot;true&quot; o &quot;false&quot;. Controla si el valor se imprimirá sin omitir HTML. Si no se establece, el valor predeterminado es &quot;false&quot;.
 
-Ejemplo básico:
+Ejemplo básico: `<meta class="mktoString" id="var1" mktoName="My Variable">`
 
-`<meta class="mktoString" id="var1" mktoName="My Variable">`
-
-Ejemplo con todos los atributos:
-
-`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
+Ejemplo con todos los atributos: `<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Color {#color}
 
 Atributos necesarios:
+
 **clase** : &quot;mktoColor&quot;,
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
+
 **default**: código de color de carácter HEX de 7 dígitos. P. ej.: #336699
 
-Ejemplo básico:
+Ejemplo básico: `<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
-`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
-
-Ejemplo con todos los atributos:
-
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
+Ejemplo con todos los atributos: `<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Booleano {#boolean}
 
 Atributos necesarios:
+
 **clase** : &quot;mktoBoolean&quot;,
 **id**: cadena de ID. Solo contiene letras, números, guiones “-” y guiones bajos “_”. No se permiten espacios. El nombre debe ser único.
 **mktoName** : cadena. Este es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Una práctica recomendada es utilizar un nombre descriptivo.
 
 Opcional:
+
 **predeterminado**: cadena booleana. Los controles &quot;true&quot; o &quot;false&quot; si el valor comienza en la posición ON u OFF. &quot;false&quot; si no se proporciona.
 **false_value**: String. Valor que se va a insertar para la variable cuando está en la posición OFF. &quot;false&quot; si no se proporciona.
 **true_value**: String. Valor que se va a insertar para la variable cuando está en la posición ON. &quot;true&quot; si no se proporciona.
 **false_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición OFF. &quot;OFF&quot; si no se proporciona.
 **true_value_name**: String. Nombre para mostrar que se mostrará en el editor de páginas de aterrizaje cuando el valor esté en la posición ON. &quot;ON&quot; si no se proporciona.
 
-Ejemplo básico:
+Ejemplo básico: `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
-`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
+Ejemplo con todos los atributos: `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="false" true_value="block" false_value="none" true_value_name="Show" false_value_name="Hide">`
 
-Ejemplo con todos los atributos:
-
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
-Este ejemplo muestra un caso de uso común en el que una variable booleana controla la visibilidad de un elemento css estableciendo el valor de la propiedad de visualización css en &quot;block&quot; o &quot;none&quot; para mostrar/ocultar un elemento por ID con CSS. El editor de la página de aterrizaje utilizará el nombre para mostrar Mostrar/Ocultar en lugar de OFF/ON.
+El ejemplo siguiente muestra un caso de uso común en el que una variable booleana controla la visibilidad de un elemento css estableciendo el valor de la propiedad de visualización css en &quot;block&quot; o &quot;none&quot; para mostrar/ocultar un elemento por ID con CSS. El editor de la página de aterrizaje utilizará el nombre para mostrar Mostrar/Ocultar en lugar de OFF/ON.
 
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 

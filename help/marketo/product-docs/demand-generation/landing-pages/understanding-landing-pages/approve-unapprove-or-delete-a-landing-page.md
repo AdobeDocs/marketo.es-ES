@@ -12,9 +12,9 @@ feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: 269
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Las páginas de aterrizaje están en modo de borrador hasta que las apruebe. La 
 
 ## Aprobar una página de aterrizaje {#approve-a-landing-page}
 
-1. Seleccione la página de aterrizaje deseada, haga clic y luego haga clic en **[!UICONTROL Aprobar borrador]**.
+1. Seleccione la página de aterrizaje deseada y haga clic en **[!UICONTROL Aprobar borrador]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 

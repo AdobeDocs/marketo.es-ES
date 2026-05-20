@@ -15,9 +15,9 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 206
+source-wordcount: 209
 ht-degree: 8%
 
 ---
@@ -74,7 +74,7 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. Una marca de verificación verde indica el contenido específico del segmento. Un espacio en blanco indica el contenido de segmento predeterminado.
+1. Una marca de verificación verde indica el contenido específico de un segmento. Un espacio en blanco indica el contenido de segmento predeterminado.
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
@@ -86,7 +86,7 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
    >
    >Cree una página de aterrizaje predeterminada antes de modificar el contenido de los distintos segmentos.
 
-¡Voila! Ahora puede enviar contenido de destino.
+Ahora puede enviar contenido de destino a sus segmentos.
 
 >[!MORELIKETHIS]
 >

@@ -13,9 +13,9 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 208
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    ![](assets/three.png)
 
-1. La plantilla debe abrirse en una nueva pestaña. Ahora puede editarse para cualquier persona familiarizada con CSS/HTML.
+1. La plantilla debe abrirse en una nueva pestaña. Ahora es editable por cualquier persona familiarizada con CSS/HTML.
 
    ![](assets/four.png)
 
@@ -47,8 +47,6 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 1. Cuando haya terminado de hacer cambios, haga clic en **[!UICONTROL Acciones de plantilla]** y, a continuación, seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/five.png)
-
-   Ahora tiene una nueva plantilla de página de aterrizaje de forma libre.
 
    >[!NOTE]
    >

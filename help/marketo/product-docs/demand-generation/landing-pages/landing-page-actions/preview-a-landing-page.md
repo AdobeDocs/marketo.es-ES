@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 153
-ht-degree: 9%
+source-wordcount: 149
+ht-degree: 8%
 
 ---
 
 # Previsualización de la página de destino {#preview-a-landing-page}
 
-Probablemente quiera ver el aspecto de la página de aterrizaje antes de publicarla.
+Obtenga una vista previa de la página de aterrizaje para ver su aspecto antes de publicarla.
 
 ## Previsualización de la página de destino {#preview-a-landing-page-1}
 
@@ -52,4 +52,4 @@ Probablemente quiera ver el aspecto de la página de aterrizaje antes de publica
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-¡Buen trabajo! Ahora sabe cómo previsualizar las páginas de aterrizaje.
+Ahora sabe cómo previsualizar las páginas de aterrizaje.

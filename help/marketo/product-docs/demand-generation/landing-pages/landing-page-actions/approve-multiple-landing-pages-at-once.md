@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 95
 ht-degree: 12%
@@ -34,11 +34,11 @@ ht-degree: 12%
    >
    >No haga clic en el nombre real de la página de aterrizaje, ya que son vínculos y le llevarán a la propia página.
 
-1. Con las páginas de aterrizaje seleccionadas, haga clic en el menú desplegable **Acciones de página de aterrizaje** y seleccione **Aprobar**.
+1. Con las páginas de aterrizaje seleccionadas, haga clic en el menú desplegable **[!UICONTROL Acciones de página de aterrizaje]** y seleccione **[!UICONTROL Aprobar]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-1. Haga clic en **Aprobar**.
+1. Haga clic en **[!UICONTROL Aprobar]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
