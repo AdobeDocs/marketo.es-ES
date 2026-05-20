@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Obtenga información sobre cómo establecer conversiones de [!dnl google adwords] en el modelo de ingresos con una cuenta de administrador en Marketo Engage. Utilice esta guía para completar el siguiente paso.
+description: Obtenga información sobre cómo establecer conversiones de [ !dnl google adwords] en el modelo de ingresos con una cuenta de administrador en Marketo Engage. Utilice esta guía para completar el siguiente paso.
 title: Establecer [!DNL Google AdWords] conversiones en el modelo de ingresos con una cuenta de administrador
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
