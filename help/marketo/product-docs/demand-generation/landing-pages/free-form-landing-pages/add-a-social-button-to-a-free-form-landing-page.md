@@ -6,12 +6,11 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 7%
+source-wordcount: 240
+ht-degree: 8%
 
 ---
 
@@ -35,7 +34,7 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Una vez que tu página de aterrizaje esté activa, consulta la actividad generada por tu _botón social (con Analytics) en el panel social_.
+   Una vez que la página de aterrizaje esté activa, puede ver la actividad generada por el botón social (con Analytics) en el panel social.
 
    Si en su lugar agrega un [!UICONTROL botón Me gusta/Recomendar (Lite)], vea el número de difusiones en el [informe de rendimiento de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -53,10 +52,6 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
    >
    >Para ahorrar tiempo, puede usar la opción **[!UICONTROL Clonar desde]** para copiar toda la configuración de un botón social existente.
 
-   [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _poner el botón social en el sitio web_
+1. Publique la página de aterrizaje [en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) y coloque el botón social en su sitio web.
 
-¡Felicidades! Ha añadido un botón social a la página de aterrizaje. Asegúrese de aprobar la página de aterrizaje.
-
->[!MORELIKETHIS]
->
->ha terminado, pero puede cambiar la configuración del botón social si es necesario. Comience por _personalizar el estilo del botón_ o _editar los mensajes compartidos_ que presenta.
+Ha añadido un botón social a la página de aterrizaje. Apruebe la página de aterrizaje cuando esté listo.

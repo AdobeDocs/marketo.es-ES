@@ -5,13 +5,11 @@ title: Añadir una imagen a una página de destino guiada
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/mpQDAnY0wH2GZQdzBVKuFeUALx6OQzppu7wodBricKQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: 130
 ht-degree: 12%
 
 ---
@@ -32,7 +30,7 @@ A diferencia de las páginas de aterrizaje de forma libre, las páginas de aterr
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
-1. El contenido se mostrará en el marcador de posición del elemento.
+1. El contenido se muestra en el marcador de posición del elemento.
 
    >[!NOTE]
    >

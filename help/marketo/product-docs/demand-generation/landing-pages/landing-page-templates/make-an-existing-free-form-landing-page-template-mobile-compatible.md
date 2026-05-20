@@ -5,19 +5,16 @@ title: Hacer compatible una plantilla de página de destino de forma libre exist
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 263
-ht-degree: 3%
+source-wordcount: 259
+ht-degree: 7%
 
 ---
 
-# Hacer compatible una plantilla de página de aterrizaje de forma libre existente [!UICONTROL móvil] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Hacer compatible una plantilla de página de destino de forma libre existente con dispositivos móviles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Esto se puede hacer en dos lugares, el Editor de plantillas y el Editor de páginas de aterrizaje.
 
@@ -57,9 +54,15 @@ Esto se puede hacer en dos lugares, el Editor de plantillas y el Editor de pági
 
 ## ¿Qué hace que una plantilla [!UICONTROL móvil sea compatible]? {#what-makes-a-template-mobile-compatible}
 
-¡Grandes preguntas! La plantilla debe tener las etiquetas siguientes:
+La plantilla debe tener las etiquetas siguientes:
 
-`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
 Si todo se ve bien, verá este mensaje.
 
@@ -69,7 +72,7 @@ Si algo está mal, aparecerá un mensaje de error, haga clic en reparar para sol
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Si realiza cambios en la plantilla, haga clic en [!UICONTROL Acciones de plantilla] y seleccione [!UICONTROL Validar compatibilidad móvil].
+Si realiza cambios en la plantilla, haga clic en **[!UICONTROL Acciones de plantilla]** y seleccione **[!UICONTROL Validar compatibilidad móvil]**.
 
 ## Actualización de una plantilla desde el editor de páginas de aterrizaje de forma libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -87,4 +90,4 @@ Cuando está editando una página de aterrizaje y hace clic en la pestaña móvi
    >
    >Al activar la versión móvil de una plantilla, se crearán borradores de todas las páginas de aterrizaje que la utilicen.
 
-¡Fantástico! Ahora puedes [personalizar la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas tus páginas de aterrizaje que usen esta plantilla.
+Ahora puedes [personalizar la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas tus páginas de aterrizaje que usen esta plantilla.

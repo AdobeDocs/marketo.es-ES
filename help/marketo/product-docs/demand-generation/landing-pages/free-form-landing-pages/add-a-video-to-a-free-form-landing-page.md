@@ -6,13 +6,11 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: 229
 ht-degree: 7%
 
 ---
@@ -49,8 +47,4 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
 >
 >Para ahorrar tiempo, puede usar la opción **[!UICONTROL Clonar a partir de]** para copiar toda la configuración de un recurso compartido de vídeo existente.
 
-¡Felicidades! Ha agregado un recurso compartido de vídeo a su página de aterrizaje de forma libre. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puedes [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o _colocar el recurso compartido de vídeo en tu sitio web_.
-
->[!MORELIKETHIS]
->
->ha terminado, pero puede cambiar la configuración del recurso compartido de vídeo si es necesario. Comience por _personalizar el flujo de recursos compartidos_ (cuándo y dónde se abre la solicitud de recursos compartidos).
+Ha agregado un recurso compartido de vídeo a su página de aterrizaje de forma libre. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puedes [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o colocar el recurso compartido de vídeo en tu sitio web.

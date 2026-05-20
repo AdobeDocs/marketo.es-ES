@@ -5,15 +5,12 @@ title: Personalizar la vista móvil para la página de destino de forma libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 389
-ht-degree: 5%
+source-wordcount: 378
+ht-degree: 4%
 
 ---
 
@@ -23,7 +20,7 @@ ht-degree: 5%
 >
 >[Agregar una vista móvil para la página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-La vista móvil de la página de aterrizaje de forma libre es generalmente automática, pero puede personalizarla. Así es cómo se hace.
+La vista móvil de la página de aterrizaje de forma libre es generalmente automática, pero puede personalizarla.
 
 1. Seleccione la página de aterrizaje de forma libre.
 
@@ -51,7 +48,7 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Aspectos importantes que debe saber: {#important-things-to-know}
+## Cosas importantes que saber {#important-things-to-know}
 
 * Las imágenes se ampliarán a la anchura de su dispositivo móvil. Si desea imágenes más pequeñas, arrastre el elemento de texto enriquecido y añada la imagen desde allí.
 * Utilice únicamente formularios Forms 2.0. Responden y se ajustan automáticamente.
@@ -63,13 +60,13 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!TIP]
 >
->Menos es más en dispositivos móviles. Use menos palabras para los clientes más felices.
+>Menos es más en dispositivos móviles.
 
 1. Para ocultar un elemento, haga clic en la casilla de verificación correspondiente de la columna móvil.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. ¡Perfecto! Ese elemento ya no estará visible en la vista móvil.
+1. Ese elemento ya no estará visible en la vista móvil.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +74,7 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!TIP]
 >
->Cree contenido especial (más corto) solo para la vista móvil.
+>Reduzca el contenido para la vista móvil.
 
 1. Para agregar un elemento, arrástrelo y suéltelo en la página de aterrizaje de forma libre.
 
@@ -97,15 +94,15 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. ¿Quieres ver algo genial? Seleccione **[!UICONTROL Lado A Lado]**.
+1. Seleccione **[!UICONTROL Side By Side]** para comparar las versiones de escritorio y móvil al mismo tiempo.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. Ahora puede ver las versiones de escritorio y móvil de sus páginas de aterrizaje al mismo tiempo.
+1. Ahora puede ver las versiones de escritorio y móvil de las páginas de aterrizaje al mismo tiempo.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Si te encanta, haz clic en **[!UICONTROL Aprobar y cerrar]**.
+1. Haga clic en **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +110,6 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
    >
    >La vista previa no es interactiva. Cada smartphone muestra las cosas un poco diferente. Se recomienda previsualizar la página de aterrizaje en algunos dispositivos para ver exactamente cómo se comportará.
 
-A pasarlo bien.
 
 >[!MORELIKETHIS]
 >

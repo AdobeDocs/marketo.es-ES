@@ -5,11 +5,10 @@ title: Añadir CNAME de página de destino adicional
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 235
+source-wordcount: 232
 ht-degree: 6%
 
 ---
@@ -64,7 +63,7 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Escriba su **[!UICONTROL alias de dominio].** **[!UICONTROL Página predeterminada]** se muestra si el visitante no escribe una dirección URL. Introduzca a dónde deben ir en ese caso.
+1. Escriba su **[!UICONTROL alias de dominio]**. **[!UICONTROL Página predeterminada]** se muestra si el visitante no escribe una dirección URL. Introduzca a dónde deben ir en ese caso.
 
    >[!NOTE]
    >
@@ -76,4 +75,4 @@ Es posible que desee añadir CNAME de página de aterrizaje para permitir que di
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-¡Bonito! Ahora sabe qué hacer si alguna vez desea agregar un CNAME.
+Ahora sabe cómo agregar un CNAME a sus páginas de aterrizaje.

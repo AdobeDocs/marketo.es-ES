@@ -5,12 +5,11 @@ title: Exportación de una lista con direcciones URL personalizadas
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 187
-ht-degree: 6%
+source-wordcount: 170
+ht-degree: 7%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 6%
 >* [Habilitar direcciones URL personalizadas para su cuenta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Habilitar direcciones URL personalizadas para una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Seleccione su lista o lista inteligente, haga clic en la ficha **[!UICONTROL Posibles clientes]** para obtener los resultados y, a continuación, haga clic en el icono de Excel. EN LÍNEA Asegúrese de que tiene **[!UICONTROL Código único de Marketo]** y **[!UICONTROL Nombre único de Marketo]** [columnas visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Seleccione su lista o lista inteligente, haga clic en la ficha **[!UICONTROL Posibles clientes]** para obtener los resultados y, a continuación, haga clic en el icono de Excel. Asegúrese de que tiene **[!UICONTROL código único de Marketo]** y **[!UICONTROL nombre único de Marketo]** [columnas visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -44,8 +43,6 @@ ht-degree: 6%
 1. Cuando finalice la exportación, haga clic en el vínculo **[!UICONTROL Descargar ahora]** para guardar el archivo.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   ¡Y has terminado! Ahora tiene una lista de posibles clientes y direcciones URL personalizadas.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

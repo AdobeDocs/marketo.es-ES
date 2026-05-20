@@ -5,20 +5,18 @@ title: Añadir una vista móvil para la página de destino de forma libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: 147
 ht-degree: 19%
 
 ---
 
 # Añadir una vista móvil para la página de destino de forma libre {#add-a-mobile-view-for-your-free-form-landing-page}
 
-Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un smartphone.
+Puede optimizar las páginas de aterrizaje de forma libre para que se muestren correctamente en los smartphones.
 
 >[!NOTE]
 >
@@ -48,7 +46,7 @@ Es fácil hacer que sus páginas de aterrizaje de forma libre se vean bien en un
    >
    >Puede que sea necesario actualizar la plantilla de forma libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) una plantilla de página de aterrizaje de forma libre existente para dispositivos móviles.
 
-1. ¡Excelente! Ya ha activado la versión móvil de la página de aterrizaje. Haga clic en **[!UICONTROL Cerrar]**.
+1. Ya ha activado la versión móvil de la página de aterrizaje. Haga clic en **[!UICONTROL Cerrar]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

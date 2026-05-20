@@ -5,15 +5,11 @@ title: Configuración de formularios de generación de clientes potenciales de L
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
 TQID: https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: 512
 ht-degree: 3%
 
 ---
@@ -38,7 +34,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Escriba un _Nombre para mostrar_ para su servicio, seleccione el servicio **[!UICONTROL LinkedIn Lead Gen]** del menú desplegable y haga clic en **[!UICONTROL Siguiente]**.
+1. Escriba un **[!UICONTROL Nombre para mostrar]** para su servicio, seleccione el servicio **[!UICONTROL LinkedIn Lead Gen]** del menú desplegable y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -58,13 +54,13 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Verá que ahora está autorizado. Haga clic en **[!UICONTROL Next]**.
+1. Observará que ya está autorizado. Haga clic en **[!UICONTROL Next]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >El servicio caduca automáticamente un año después de la autorización. Para recuperar el acceso, simplemente haga clic en **[!UICONTROL Volver a autorizar]**. Es posible que tenga que volver a introducir la contraseña de LinkedIn, según la configuración del explorador.
+   >El servicio caduca automáticamente un año después de la autorización. Para recuperar el acceso, haga clic en **[!UICONTROL Volver a autorizar]**. Es posible que tenga que volver a introducir la contraseña de LinkedIn, según la configuración del explorador.
 
 1. Seleccione las cuentas de las que desea que los posibles clientes de LinkedIn Lead Gen entren en Marketo desde y haga clic en **[!UICONTROL Siguiente]**.
 
@@ -74,7 +70,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Para aceptar las asignaciones predeterminadas de campos de LinkedIn a Marketo, simplemente haga clic en **[!UICONTROL Crear]**. Si desea cambiar la asignación de campo predeterminada, quitar una asignación de campo o agregar una nueva asignación de campo, puede hacerlo por campo a través del modal siguiente.
+1. Para aceptar las asignaciones predeterminadas de campos de LinkedIn a Marketo, haga clic en **[!UICONTROL Crear]**. Si desea cambiar la asignación de campo predeterminada, quitar una asignación de campo o agregar una nueva asignación de campo, puede hacerlo por campo a través del modal siguiente.
 
    >[!CAUTION]
    >
@@ -88,7 +84,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas publicitarias en LinkedI
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-¡Bien hecho! Las personas que envíen formularios de generación de posibles clientes de LinkedIn empezarán a fluir a Marketo a medida que ejecute campañas exitosas en LinkedIn.
+Las personas que envíen formularios de generación de posibles clientes de LinkedIn empezarán a fluir a Marketo a medida que ejecute campañas exitosas en LinkedIn.
 
 >[!NOTE]
 >
