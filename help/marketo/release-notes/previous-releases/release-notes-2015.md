@@ -60,7 +60,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 * Obtener posibles clientes por ID de programa
 * Obtener posibles clientes eliminados
 
-Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
 **Compatibilidad con objeto personalizado de scripts de correo electrónico**
 
@@ -91,7 +91,7 @@ Las opciones de la etiqueta RTP de Configuración de cuenta se han actualizado p
 1. Etiqueta asíncrona sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -161,7 +161,7 @@ Vincula tu cuenta de [[!DNL Google AdWords] a Marketo](/help/marketo/product-doc
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuevas API de REST de recursos](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/assets)
 
 Ahora tenemos compatibilidad para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [a través de la API](https://developer.adobe.com/marketo-apis/api/asset/).
 
