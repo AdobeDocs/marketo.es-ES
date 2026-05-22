@@ -4,9 +4,9 @@ description: Obtenga información sobre la ruta del éxito del modelo de ingreso
 title: Explicación de la ruta de éxito del modelo de ingresos
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 En el modelo, la ruta verde conocida como **Ruta de éxito** es la ruta óptima para que un posible cliente realice una transición lineal hacia un negocio cerrado o ganado.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![diagrama de flujo](assets/image2015-6-12-17-3a12-3a18.png)
 
 Ejemplo de etapas en una ruta de éxito:
 
