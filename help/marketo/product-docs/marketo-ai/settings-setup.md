@@ -3,10 +3,10 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 4%
+source-wordcount: '580'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ Obtenga información sobre cómo habilitar permisos y utilizar el área Configur
 
 >[!AVAILABILITY]
 >
->Esta función tiene disponibilidad limitada. Para solicitar acceso para su suscripción, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+>Esta función tiene disponibilidad limitada. Para solicitar acceso, rellene [este formulario](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Asegúrese de tener preparado el Munchkin ID de su suscripción.
 
 >[!PREREQUISITES]
 >
