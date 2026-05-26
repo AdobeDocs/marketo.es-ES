@@ -44,7 +44,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Marketo AI</strong>: utilice un conjunto de agentes diseñados para automatizar funciones de marketing importantes pero que requieren mucho tiempo (hay dos agentes disponibles ahora y más próximamente).
 </td>
    <td>Disponibilidad limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acceso aquí</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Información general sobre Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/overview">Información general sobre Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -107,4 +107,4 @@ A principios de este año, los campos relacionados que se habían dejado atrás 
 
 * **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos Obtener actividades de posibles clientes y Obtener cambios de posibles clientes que incluyan el parámetro `listId` devolverán un código de error 1003 si la lista estática de destino contiene 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener más información.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos Obtener actividades de posibles clientes y Obtener cambios de posibles clientes que incluyan el parámetro `listId` devolverán un código de error 1003 si la lista estática de destino contiene 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener más información.
