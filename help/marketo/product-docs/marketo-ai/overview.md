@@ -3,9 +3,9 @@ description: Explore el conjunto de agentes de IA de Marketo diseñado para auto
 title: Información general sobre Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Marketo AI proporciona agentes diseñados para automatizar funciones de marketin
 
 >[!AVAILABILITY]
 >
->Esta función tiene disponibilidad limitada. Para solicitar acceso para su suscripción, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+>Esta función tiene disponibilidad limitada. Para solicitar acceso, rellene [este formulario](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Asegúrese de tener preparado el Munchkin ID de su suscripción.
 
 >[!PREREQUISITES]
 >

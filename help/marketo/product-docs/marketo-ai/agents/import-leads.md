@@ -3,9 +3,9 @@ description: Aprenda a utilizar el agente Importar posibles clientes para cargar
 title: Importar posibles clientes
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Importe y deduplique listas de posibles clientes en la base de datos de Marketo 
 
 >[!AVAILABILITY]
 >
->Esta función tiene disponibilidad limitada. Para solicitar acceso para su suscripción, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
+>Esta función tiene disponibilidad limitada. Para solicitar acceso, rellene [este formulario](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Asegúrese de tener preparado el Munchkin ID de su suscripción.
 
 >[!PREREQUISITES]
 >
