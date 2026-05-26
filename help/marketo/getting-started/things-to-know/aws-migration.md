@@ -70,7 +70,7 @@ Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getti
    <td>AB70<br>
    AB43</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Actualizaciones y asistencia
