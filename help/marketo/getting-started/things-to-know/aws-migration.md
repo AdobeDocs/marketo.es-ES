@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
+source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Durante la ventana de migración, todos los servicios de Marketo Engage no estar
 
 * **Revise y actualice las listas de permitidos IP** para el inicio de sesión, el acceso a la API, el envío de correo electrónico, el seguimiento web y las integraciones.
 
-* Añada las siguientes direcciones IP y mantenga sus direcciones IP actuales tal cual:
+* **Agregue las siguientes direcciones IP** y mantenga sus direcciones IP actuales tal cual:
 
    * 54.160.246.246
    * 54.237.141.197
@@ -43,6 +43,35 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 * **Las integraciones de CRM y los servicios de LaunchPoint** se deshabilitarán, pero se reanudarán automáticamente más tarde.
 * **Las páginas de aterrizaje, los formularios y la recopilación de datos** no estarán disponibles, y en su lugar se mostrará un mensaje de mantenimiento.
+
+## Programación {#schedule}
+
+Periódicamente se añaden nuevas fechas e información de centros de datos/pod, así que asegúrese de volver aquí para obtener más detalles.
+
+Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) en qué centro de datos y pod/servidor se encuentra su suscripción.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">Fecha</th>
+   <th style="width:25%">Pod</th>
+  </tr>
+  <tr>
+   <td>5 de junio de 2026</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>8 de julio de 2026</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>9 de julio de 2026</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  &lt;/body>
+  </table>
 
 ## Actualizaciones y asistencia
 
