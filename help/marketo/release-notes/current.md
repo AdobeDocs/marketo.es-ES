@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Estado de chat perdido</strong>: Ahora, cuando un agente no acepta un chat, aparecerá un nuevo estado "Chat perdido" en los detalles de actividad de la persona que ha hablado en.
+   <td><strong>Dynamic Chat - Estado de chat perdido</strong>: Cuando un agente no acepta un chat, aparecerá un nuevo estado "Chat perdido" en los Detalles de la actividad en el Registro de persona de la persona que conversó en.
    </td>
    <td>Publicado</td>
    <td>n/a</td>
@@ -126,7 +126,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Nuevo comportamiento de sincronización de atributos</strong>: Anteriormente, al agregar nuevos atributos, se bloqueaban los cambios en el entorno durante un máximo de 24 horas mientras se completaba la sincronización, lo que impedía la edición y publicación de cuadros de diálogo. Ahora, mientras que la adición de un nuevo atributo requiere una sincronización de datos completa (que puede tardar hasta 24 horas), el entorno ya no se bloquea durante este proceso.
+   <td><strong>Dynamic Chat - Nuevo comportamiento de sincronización de atributos</strong>: Anteriormente, al agregar nuevos atributos, se bloqueaban los cambios en el entorno durante un máximo de 24 horas mientras se completaba la sincronización, lo que impedía la edición y publicación de cuadros de diálogo. Ahora, mientras que la adición de un nuevo atributo requiere una sincronización de datos completa (que puede tardar hasta 24 horas), el entorno ya no se bloquea durante el proceso.
    </td>
    <td>Publicado</td>
    <td>n/a</td>
