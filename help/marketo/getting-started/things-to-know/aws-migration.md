@@ -76,7 +76,7 @@ Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getti
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Actualizaciones y asistencia
