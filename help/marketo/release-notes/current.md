@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    </td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Está escribiendo</strong>: Ahora tanto el visitante como el agente ven un mensaje "está escribiendo..." mientras la otra parte está escribiendo, evitando que una interrumpa a la otra.
+   </td>
+   <td>Publicado</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Campos de lista de selección/lista desplegable de Marketo</strong>: Los campos de lista de selección/persona desplegable de Marketo (incluidos los valores sincronizados con Salesforce) ya están disponibles como valores desplegables en el editor de perfiles de chat.
+   </td>
+   <td>Publicado</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Estado de chat perdido</strong>: Ahora, cuando un agente no acepta un chat, aparecerá un nuevo estado "Chat perdido" en los detalles de actividad de la persona que ha hablado en.
+   </td>
+   <td>Publicado</td>
+   <td>n/a</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Nuevo comportamiento de sincronización de atributos</strong>: Anteriormente, al agregar nuevos atributos, se bloqueaban los cambios en el entorno durante un máximo de 24 horas mientras se completaba la sincronización, lo que impedía la edición y publicación de cuadros de diálogo. Ahora, mientras que la adición de un nuevo atributo requiere una sincronización de datos completa (que puede tardar hasta 24 horas), el entorno ya no se bloquea durante este proceso.
+   </td>
+   <td>Publicado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
