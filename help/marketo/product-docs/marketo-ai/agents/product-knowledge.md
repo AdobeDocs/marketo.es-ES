@@ -3,9 +3,9 @@ description: Utilice los conocimientos del producto para preguntar a Marketo AI 
 title: Conocimiento del producto
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ El conocimiento del producto le permite acceder a petición a la experiencia de 
 
 >[!AVAILABILITY]
 >
->Esta función está en versión beta cerrada y se está implementando por fases en los próximos meses. Sabrás cuándo se habilitó para tu suscripción cuando veas el mosaico _Generar con IA_ en la pantalla de Mi Marketo.
+>Esta función se encuentra actualmente en versión beta cerrada. Por favor, no difunda esta documentación.
 
 ## Cómo usar {#how-to-use}
 
