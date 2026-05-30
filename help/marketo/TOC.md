@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [Ocultar y mostrar un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Tókenes de codificación HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Marcar un campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[Administración de listas de selección](product-docs/administration/field-management/picklist-management.md)
+         + [Administración de listas de selección](product-docs/administration/field-management/picklist-management.md)
          + [Cambiar el nombre del campo](product-docs/administration/field-management/rename-a-field.md)
          + [Explicación de los campos administrados por el sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Visualización de asignaciones de campos entre Marketo y Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)

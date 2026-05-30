@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
-ht-degree: 18%
+source-wordcount: 655
+ht-degree: 19%
 
 ---
 
@@ -74,8 +74,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Administración de listas de selección</strong>: ahora puede especificar los valores que se pueden usar en los campos en Marketo Engage.
    </td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Administración de listas de selección</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Está escribiendo</strong>: Ahora tanto el visitante como el agente ven un mensaje "está escribiendo..." mientras la otra parte está escribiendo, evitando que una interrumpa a la otra.
+   <td><strong>Dynamic Chat - Está escribiendo</strong>: Ahora tanto el visitante como el agente ven una notificación "está escribiendo..." mientras la otra parte escribe, lo que impide que una interrumpa a la otra.
    </td>
    <td>Publicado</td>
    <td>n/a</td>
