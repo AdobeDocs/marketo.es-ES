@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + Agentes {#agents}
          + {hide-from-toc}[Conocimiento del producto](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[Perspectivas de superficie](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[Generar programas](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Generar programas](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[Clonar programa](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[Investigar posibles clientes](product-docs/marketo-ai/agents/investigate-leads.md)
          + [Importar posibles clientes](product-docs/marketo-ai/agents/import-leads.md)
