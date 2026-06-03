@@ -4,7 +4,7 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 1%
@@ -58,7 +58,7 @@ Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getti
    <th style="width:30%">Hora</th>
   </tr>
   <tr>
-   <td>5 de junio de 2026</td>
+   <td>19 de junio de 2026</td>
    <td>AB46</td>
    <td>17:00 PST</td>
   </tr>
@@ -76,9 +76,9 @@ Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getti
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Actualizaciones y asistencia
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support).
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support).
