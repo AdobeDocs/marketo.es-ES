@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +29,10 @@ Póngase en contacto con el administrador de Marketo Engage y compruebe que [le 
 **¿Puedo instalar Dynamic Chat en cualquier lugar del sitio web de mi empresa o solo funciona en las páginas de aterrizaje de Marketo?**
 
 El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio web, así como en las páginas de aterrizaje de Marketo.
+
+**Tengo Dynamic Chat, pero no veo ningún mosaico de Dynamic Chat en Mi Marketo. ¿Cómo lo consigo?**
+
+Acceda a Dynamic Chat desde el menú Aplicación en experience.adobe.com y conéctese a Marketo mediante **Configuración** > **Integraciones**. Después de la conexión, aparecerá el mosaico.
 
 **¿Durante cuánto tiempo se almacenan los datos para los informes?**
 
@@ -70,7 +74,7 @@ El límite de conversaciones comprometidas se restablece el primero de cada mes 
 
 Los cuadros de diálogo están diseñados para mostrarse a un visitante solo una vez. Por lo tanto, tan pronto como un visitante llega al final de cualquier rama determinada de un cuadro de diálogo, ese cuadro de diálogo se considera completo y nunca se volverá a mostrar a ese visitante.
 
-**Cuando hago clic en el mosaico de Dynamic Chat en Mi Marketo e inicio sesión en Adobe Experience Cloud, ¿por qué recibo el siguiente mensaje? &quot;_Parece que su Adobe ID no está vinculado con sus cuentas de la solución Adobe Experience Cloud_.&quot;**
+**Cuando hago clic en el mosaico de Dynamic Chat en Mi Marketo e inicio sesión en Adobe Experience Cloud, ¿por qué recibo el siguiente mensaje? &quot;_Parece que su Adobe ID no está vinculado a sus cuentas de la solución Adobe Experience Cloud_.&quot;**
 
 Esto probablemente indica que no se le ha agregado como usuario de Dynamic Chat en Adobe Admin Console. Póngase en contacto con un administrador del sistema de su organización de Adobe o con un administrador de productos de Dynamic Chat para solicitar acceso a Dynamic Chat.
 
