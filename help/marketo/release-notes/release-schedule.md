@@ -5,16 +5,13 @@ title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 79%
+source-wordcount: 165
+ht-degree: 76%
 
 ---
 
@@ -57,15 +54,15 @@ _Las fechas/características de la versión están sujetas a cambios_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Mayo de 2026</a></td>
    <td>22 de mayo de 2026</td>
-   <td>En curso</td>
+   <td>Completo</td>
   </tr>
   <tr>
-  <td>Junio del 26</td>
-   <td>26 de junio de 2026</td>
+  <td>Julio de 2026 (1 de 2)</td>
+   <td>10 de julio de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
-  <td>Julio del 26</td>
+  <td>Julio de 2026 (2 de 2)</td>
    <td>31 de julio de 2026</td>
    <td>Según lo programado</td>
   </tr>
