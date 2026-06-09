@@ -5,12 +5,11 @@ title: Previsualización de la página de destino
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 8%
+source-wordcount: 179
+ht-degree: 4%
 
 ---
 
@@ -18,38 +17,38 @@ ht-degree: 8%
 
 Obtenga una vista previa de la página de aterrizaje para ver su aspecto antes de publicarla.
 
-## Previsualización de la página de destino {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>Algunas metaetiquetas personalizadas no son compatibles con el modo de vista previa (como la directiva de redireccionamiento `<meta http-equiv="refresh" ...>`), ya que pueden infringir la Política de seguridad de contenido establecida para mantener Marketo Engage seguro. Para obtener una vista previa de las páginas de aterrizaje con estas etiquetas, genere la dirección URL de vista previa (**Acciones de vista previa** > **Generar URL de vista previa**) y péguela en una nueva ventana del explorador.
 
-1. Seleccione una página de aterrizaje y haga clic en **[!UICONTROL Previsualizar página]**.
+## Previsualización de una página aprobada {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. Seleccione la página de aterrizaje que desee y haga clic en **[!UICONTROL Vista previa]**.
 
-   >[!NOTE]
-   >
-   >El borrador es la versión en la que está trabajando, no la versión activa que ven los clientes.
+   ![](assets/preview-a-landing-page-1.png)
 
-1. También puede hacer clic con el botón derecho en la página de aterrizaje y seleccionar **[!UICONTROL Vista previa]**.
+También puede hacer clic con el botón derecho en la página de aterrizaje y seleccionar **[!UICONTROL Vista previa]**.
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## Previsualización de un borrador {#preview-a-draft}
 
-## Previsualizar un borrador de página de aterrizaje {#preview-a-landing-page-draft}
+1. Seleccione la página de aterrizaje que desee y haga clic en **[!UICONTROL Previsualizar borrador]**.
 
-1. Haga clic con el botón derecho en una página de aterrizaje aprobada que tenga una versión de borrador y haga clic en **[!UICONTROL Previsualizar borrador]**.
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>El borrador es la versión en la que está trabajando, no la versión activa que ven los clientes.
 
-## Previsualización de un borrador de página de aterrizaje al editar {#preview-a-landing-page-draft-while-editing}
+## Previsualizar un borrador de página de aterrizaje al editar {#preview-a-draft-while-editing}
 
-1. Seleccione una página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
+1. Seleccione la página de aterrizaje deseada y haga clic en **[!UICONTROL Editar borrador]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. En cualquier momento del trabajo en el editor de páginas de aterrizaje, puedes hacer clic en **[!UICONTROL Previsualizar borrador]**.
+1. En el editor de la página de aterrizaje, haga clic en **[!UICONTROL Previsualizar borrador]**.
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. Para volver rápidamente a la edición, haga clic en **[!UICONTROL Editar borrador]**.
+1. Vuelva a la edición haciendo clic en **[!UICONTROL Editar borrador]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-Ahora sabe cómo previsualizar las páginas de aterrizaje.
+   ![](assets/preview-a-landing-page-5.png)
