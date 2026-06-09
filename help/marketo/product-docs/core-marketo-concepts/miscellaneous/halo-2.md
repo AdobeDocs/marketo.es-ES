@@ -38,7 +38,7 @@ Un CSV de audiencia listo para cargar. (Descargue un CSV de audiencia de ejemplo
 Una idea clara del objetivo de la campaña (por ejemplo, &quot;recuperar clientes caducados&quot; o &quot;invitar a usuarios de prueba a un seminario web&quot;).
 
 Sugerencia: Si acaba de empezar a escribir mensajes para campañas de marketing, dedique dos minutos a desechar el halo de mensajes instantáneos, prácticas recomendadas antes de comenzar. Enfocará todo lo que sigue.
-[PARA KEITH: Tendremos que crear este documento adicional, se basará en una combinación de:
+&lbrack;PARA KEITH: Tendremos que crear este documento adicional, se basará en una combinación de:
 
 1. Generación de contenido de AJO / prácticas de solicitud (secciones aplicables:
 
@@ -50,7 +50,7 @@ Redacción de objetivos efectivos
 
 No incluya el contenido específico)
 
-2. Journey Agent (secciones aplicables: en las secciones de ámbito y fuera de ámbito, tendremos que agregar algo similar a esto)
+&#x200B;2. Journey Agent (secciones aplicables: en las secciones de ámbito y fuera de ámbito, tendremos que agregar algo similar a esto)
 
 Forma
 
@@ -104,10 +104,10 @@ Forma
 
 Paso 4: Añadir un resumen y materiales de referencia
 
-[FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo Halo utiliza esta información (extraída en el contexto del mensaje, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
+&lbrack;FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo Halo utiliza esta información (extraída en el contexto del mensaje, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
 
 He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. ]
+Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. &rbrack;
 
 [CAPTURA DE PANTALLA: resumen/referencia de la IU de datos adjuntos]
 
@@ -181,14 +181,14 @@ Forma
 
 Preguntas frecuentes
 
-[PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos: para hablar con nuestro equipo de Engg:
+&lbrack;PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos: para hablar con nuestro equipo de Engg:
 - &quot;¿Por qué tarda tanto la primera respuesta?
 - &quot;¿Y si la salida de Halo no es correcta?&quot;
 - &quot;¿Puedo editar correos electrónicos directamente o solo a través de chat?&quot;
 - &quot;¿Cómo puedo guardar una campaña sin iniciarla?&quot;
 - &quot;¿Qué sucede si el CSV de mi audiencia contiene errores?&quot;
 - &quot;¿Puedo duplicar o remezclar una campaña?&quot;
-- &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;]
+- &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;&rbrack;
 
 Forma
 
