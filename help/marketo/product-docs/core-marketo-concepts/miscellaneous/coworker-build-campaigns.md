@@ -1,9 +1,9 @@
 ---
 description: Una guía paso a paso para crear una campaña de correo electrónico en CX Enterprise Coworker, desde escribir mensajes hasta revisar y exportar su campaña.
 title: Creación y generación de campañas de correo electrónico
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Obtenga información sobre cómo crear y revisar campañas de correo electrónic
 
 Asegúrese de que dispone de:
 
-* Cuenta activa de colaborador de CX Enterprise ([regístrese aquí](https://coworker-essentials.experience.adobe.com/) si aún no lo ha hecho).
+* Cuenta activa de colaborador de CX Enterprise ([regístrese aquí](https://coworker-essentials.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
 
 * Tu marca se configuró en **Tus cosas** > **Marcas**.
 
@@ -24,27 +24,29 @@ Asegúrese de que dispone de:
 
 * Un CSV de audiencia listo para cargar.
 
-* Una idea clara del objetivo de la campaña (por ejemplo, &quot;recuperar clientes caducados&quot;, &quot;invitar a usuarios de prueba a un seminario web&quot;).
-
->[!TIP]
->
->Si no tiene experiencia en escribir mensajes para campañas de marketing, dedique dos minutos a _Preguntar al compañero de CX Enterprise: prácticas recomendadas_ antes de comenzar.
+* Una idea clara del objetivo de la campaña (por ejemplo, &quot;recuperar clientes caducados&quot; o &quot;invitar a usuarios de prueba a un seminario web&quot;).
 
 ## Paso 1: Iniciar un nuevo chat
 
 Desde la página de inicio, tiene tres formas de empezar:
 
-* Escriba un mensaje en la barra de mensajes central.
-* Elija una plantilla de campaña lista para usar de la sección templates debajo de la barra de mensajes.
-* Utilice una opción &quot;ayuda para preguntar&quot; en el menú desplegable de la barra de mensajes para que CX Enterprise Coworker le guíe a través de la escritura del mensaje.
+**Opción uno**: escriba un mensaje en la barra de mensajes central.
+
+_Cuándo se debe usar: cuando se sabe exactamente lo que se desea._
+
+Opción dos: elija una plantilla lista para usar en la sección **Plantillas de campaña** debajo de la barra de mensajes.
+
+_Cuándo usar: cuando no está seguro de por dónde empezar._
+
+Opción tres: utilice una opción &quot;Ayúdeme a preguntar&quot; de la lista desplegable en la barra de mensajes para que CX Enterprise Coworker le guíe a través de la escritura de su mensaje.
+
+_Cuándo usar: cuando tengas una idea de lo que deseas, pero quieras un poco de ayuda._
 
 [CAPTURA DE PANTALLA: página principal con barra de mensajes, fila de plantilla y opción de &quot;ayuda para preguntar&quot; resaltada]
 
 ![](assets/generate-email-campaigns-.png)
 
-[FOR KEITH: breve descripción de cada opción y cuándo utilizarla. Recomiende plantillas para los principiantes, mensajes de forma libre para los especialistas en marketing que sepan lo que desean y &quot;ayúdeme a preguntar&quot; para cualquier persona que se encuentre entre medias.]
-
-## Paso 2: Escriba el mensaje
+## Paso 2: Crear el mensaje
 
 Un mensaje de CX Enterprise Coworker sólido incluye:
 
@@ -55,11 +57,13 @@ Un mensaje de CX Enterprise Coworker sólido incluye:
 
 Por ejemplo:
 
-```
-"Create a win-back email series for customers who bought last year but haven't returned. Use the CSV I uploaded. Include 2–3 emails that feel seasonal and remind them to shop again."
-```
+<pre style="white-space: pre-wrap;">
+"Cree una serie de correos electrónicos de recuperación para los clientes que compraron el año pasado pero que no han regresado. Utilice el CSV que he cargado. Incluya entre dos y tres correos electrónicos que se sientan de temporada y recuerde que debe volver a comprar".
+</pre>
 
-[FOR KEITH: puede agregar de 2 a 3 ejemplos más que abarquen B2B y B2C para dar variedad. Extraiga los casos de uso de nuestro documento de recopilación para mantener la coherencia.]
+>[!TIP]
+>
+>Para ver más ejemplos, consulte el artículo _Casos de uso_.
 
 [CAPTURA DE PANTALLA: Barra de mensaje con mensaje de ejemplo escrito en]
 
@@ -79,10 +83,10 @@ Por ejemplo:
 
 ## Paso 4: Añadir un resumen y materiales de referencia
 
-&lbrack;FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo utiliza CX Enterprise Coworker esta información (extraída en el contexto del prompt, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
+[FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo utiliza CX Enterprise Coworker esta información (extraída en el contexto del prompt, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
 
-He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/es/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. &rbrack;
+He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. ]
 
 [CAPTURA DE PANTALLA: resumen/referencia de la IU de datos adjuntos]
 
@@ -116,7 +120,7 @@ La interfaz conversacional hace que el refinamiento sea sencillo. Para hacer cam
 
 [FOR KEITH: explica cómo hacer cambios mediante chat y edición directa. Explique cómo se actualizan los artefactos en su lugar. Mencione que no existe la posibilidad de añadir más nodos al flujo de trabajo a través del editor y que no existe actualmente el control de versiones. Para obtener los mejores resultados, también se recomienda solicitar cualquier cambio en el flujo de trabajo general al principio de la creación del plan]
 
-[CAPTURA DE PANTALLA: refinamiento de la conversación en acción — mostrar un antes y un después de un correo electrónico después de una solicitud de chat]
+[CAPTURA DE PANTALLA: refinamiento de la conversación en acción: mostrar un antes y un después de un correo electrónico después de una solicitud de chat]
 
 ![](assets/generate-email-campaigns-.png)
 
@@ -150,11 +154,11 @@ Cuando esté satisfecho con la campaña, tiene algunas opciones:
 
 ## Preguntas frecuentes
 
-&lbrack;PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos - para discutir con nuestro equipo de Ing:
+[PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos - para discutir con nuestro equipo de Ing:
 * &quot;¿Por qué tarda tanto la primera respuesta?
 * &quot;¿Qué sucede si la salida de CX Enterprise Coworker no es correcta?&quot;
 * &quot;¿Puedo editar correos electrónicos directamente o solo a través de chat?&quot;
 * &quot;¿Cómo puedo guardar una campaña sin iniciarla?&quot;
 * &quot;¿Qué sucede si el CSV de mi audiencia contiene errores?&quot;
 * &quot;¿Puedo duplicar o remezclar una campaña?&quot;
-* &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;&rbrack;
+* &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;]

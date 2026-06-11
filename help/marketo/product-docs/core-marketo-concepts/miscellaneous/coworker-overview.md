@@ -1,16 +1,16 @@
 ---
 description: Obtenga información sobre CX Enterprise Coworker, una aplicación de marketing nativa de IA que convierte un solo mensaje en una campaña lista para revisión.
 title: Descripción general de CX Enterprise Coworker
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # Descripción general de CX Enterprise Coworker {#overview}
 
-CX Enterprise Coworker es una aplicación de marketing nativa de IA que le lleva desde un único mensaje a una campaña lista para revisión en minutos.
+CX Enterprise Coworker es una aplicación de marketing nativa de IA que le lleva desde un único mensaje hasta una campaña completa lista para revisión.
 
 ## Acceso
 
