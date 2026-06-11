@@ -81,7 +81,7 @@ Por ejemplo:
 
 &lbrack;FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo utiliza CX Enterprise Coworker esta información (extraída en el contexto del prompt, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
 
-He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/es/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. &rbrack;
 
 [CAPTURA DE PANTALLA: resumen/referencia de la IU de datos adjuntos]
