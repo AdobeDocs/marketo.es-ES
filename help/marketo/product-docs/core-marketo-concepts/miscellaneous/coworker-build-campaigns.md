@@ -79,10 +79,10 @@ Por ejemplo:
 
 ## Paso 4: Añadir un resumen y materiales de referencia
 
-[FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo utiliza CX Enterprise Coworker esta información (extraída en el contexto del prompt, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
+&lbrack;FOR KEITH: Explique cómo adjuntar un informe, documentos de referencia de marca u otro contexto. Portada: - Tipos de archivo compatibles. - Cómo utiliza CX Enterprise Coworker esta información (extraída en el contexto del prompt, aplicada a la generación de contenido, etc.). - Límites de tamaño de archivo, si los hay
 
 He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. ]
+Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. &rbrack;
 
 [CAPTURA DE PANTALLA: resumen/referencia de la IU de datos adjuntos]
 
@@ -150,11 +150,11 @@ Cuando esté satisfecho con la campaña, tiene algunas opciones:
 
 ## Preguntas frecuentes
 
-[PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos - para discutir con nuestro equipo de Ing:
+&lbrack;PARA KEITH: 4-6 preguntas frecuentes basadas en los comentarios tempranos de los usuarios. Primeros pasos sugeridos - para discutir con nuestro equipo de Ing:
 * &quot;¿Por qué tarda tanto la primera respuesta?
 * &quot;¿Qué sucede si la salida de CX Enterprise Coworker no es correcta?&quot;
 * &quot;¿Puedo editar correos electrónicos directamente o solo a través de chat?&quot;
 * &quot;¿Cómo puedo guardar una campaña sin iniciarla?&quot;
 * &quot;¿Qué sucede si el CSV de mi audiencia contiene errores?&quot;
 * &quot;¿Puedo duplicar o remezclar una campaña?&quot;
-* &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;]
+* &quot;¿Cómo comparto un borrador de campaña con un compañero de equipo para su revisión?&quot;&rbrack;
