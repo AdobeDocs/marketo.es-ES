@@ -1,9 +1,9 @@
 ---
 description: Obtenga información sobre CX Enterprise Coworker, una aplicación de marketing nativa de IA que convierte un solo mensaje en una campaña lista para revisión.
 title: Descripción general de CX Enterprise Coworker
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ CX Enterprise Coworker es una aplicación de marketing nativa de IA que le lleva
 
 1. (Opcional) Cargue una plantilla de correo electrónico de HTML en **Plantillas de correo electrónico** para que CX Enterprise Coworker aplique su diseño al generar contenido.
 
-[CAPTURA DE PANTALLA: pantalla de inicio de sesión/bienvenida para la versión de prueba de CX Enterprise Coworker]
+   ![Pantalla de bienvenida para la prueba de CX Enterprise Coworker](assets/overview-1.png)
 
 Está listo para generar su primera campaña.
 
@@ -40,7 +40,7 @@ Está listo para generar su primera campaña.
 
 La interfaz de CX Enterprise Coworker está organizada en torno a un panel de navegación izquierdo.
 
-[CAPTURA DE PANTALLA: Pantalla de inicio anotada que muestra la navegación izquierda (Nuevo chat, Inicio, Chats, Campañas, Tus cosas, Personalizar) y el área central de mensajes]
+![Pantalla de inicio](assets/overview-2.gif)
 
 | Sección | Objetivo |
 |---|---|

@@ -1,9 +1,9 @@
 ---
 description: Una guía paso a paso para crear una campaña de correo electrónico en CX Enterprise Coworker, desde escribir mensajes hasta revisar y exportar su campaña.
 title: Creación y generación de campañas de correo electrónico
-source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Desde la página de inicio, tiene tres formas de empezar:
 
 [CAPTURA DE PANTALLA: página principal con barra de mensajes, fila de plantilla y opción de &quot;ayuda para preguntar&quot; resaltada]
 
+![](assets/generate-email-campaigns-.png)
+
 [FOR KEITH: breve descripción de cada opción y cuándo utilizarla. Recomiende plantillas para los principiantes, mensajes de forma libre para los especialistas en marketing que sepan lo que desean y &quot;ayúdeme a preguntar&quot; para cualquier persona que se encuentre entre medias.]
 
 ## Paso 2: Escriba el mensaje
@@ -61,11 +63,15 @@ Por ejemplo:
 
 [CAPTURA DE PANTALLA: Barra de mensaje con mensaje de ejemplo escrito en]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Paso 3: Carga de la audiencia
 
 [PARA KEITH: Introducción a la carga de CSV. Portada: - Donde está el botón de carga en la interfaz de usuario. : columnas requeridas y expectativas de formato. - Campos de personalización que CX Enterprise Coworker puede utilizar (nombre, fecha de último pedido, categoría de producto, etc.). - Vínculo a CSV de ejemplo. - ¿Qué sucede si los datos son confusos o faltan campos.]
 
 [CAPTURA DE PANTALLA: flujo de carga de CSV]
+
+![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -79,6 +85,8 @@ He aquí un análisis profundo de mi sesión en Summit donde repaso esto: https:
 Limitaciones - Puedo conectarte con el engg - Neha Pullabhotla, que podrá ayudarnos en detalles específicos aquí. &rbrack;
 
 [CAPTURA DE PANTALLA: resumen/referencia de la IU de datos adjuntos]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Paso 5: Generación de la campaña
 
@@ -94,6 +102,8 @@ Haga clic en **Generar campaña**. CX Enterprise Coworker:
 
 [CAPTURA DE PANTALLA: tablero de campaña generado con plan, recorrido y contenido visible]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Paso 6: revisar y perfeccionar
 
 La interfaz conversacional hace que el refinamiento sea sencillo. Para hacer cambios, hable con CX Enterprise Coworker:
@@ -108,6 +118,8 @@ La interfaz conversacional hace que el refinamiento sea sencillo. Para hacer cam
 
 [CAPTURA DE PANTALLA: refinamiento de la conversación en acción — mostrar un antes y un después de un correo electrónico después de una solicitud de chat]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Paso 7: Enviar un correo electrónico de prueba
 
 Antes de iniciar, envíese la campaña a usted mismo o a un miembro de su equipo para que la revise en una bandeja de entrada real.
@@ -116,12 +128,15 @@ Antes de iniciar, envíese la campaña a usted mismo o a un miembro de su equipo
 
 [CAPTURA DE PANTALLA: enviar flujo de prueba]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Paso 8: Inicio o exportación
 
 Cuando esté satisfecho con la campaña, tiene algunas opciones:
 
->[!NOTE]
->Launch no está disponible actualmente en el momento de la publicación, pero se habilitará en un plazo de dos semanas desde la publicación inicial, pendiente de la aprobación legal.
+>[!AVAILABILITY]
+>
+>Launch no está disponible en la versión inicial, pero se prevé que esté habilitado para finales de junio. Vuelva aquí para ver las actualizaciones.
 
 * Inicie la campaña.
 * Exportar correos electrónicos individuales como HTML.
@@ -130,6 +145,8 @@ Cuando esté satisfecho con la campaña, tiene algunas opciones:
 [FOR KEITH: detalles sobre cada opción y cualquier comprobación previa al lanzamiento que ejecute CX Enterprise Coworker (cumplimiento, vínculos rotos, campos de personalización que faltan, etc.).]
 
 [CAPTURA DE PANTALLA: Opciones de lanzamiento/exportación]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Preguntas frecuentes
 
