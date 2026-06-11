@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '8905'
+source-wordcount: '8907'
 ht-degree: 96%
 
 ---
@@ -468,7 +468,7 @@ ht-degree: 96%
                + [Compartir un momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Varios {#miscellaneous}
          + {hide-from-toc}[Información general de compañeros](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[Campañas de compilación de compañeros](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[Compañero de trabajo crea una campaña de correo electrónico](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
          + {hide-from-toc}[Casos de uso de compañeros](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Configuración de la integración de Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Crear nueva carpeta de la campaña](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
