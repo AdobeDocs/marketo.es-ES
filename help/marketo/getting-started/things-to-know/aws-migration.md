@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,7 @@ Durante la ventana de migración, todos los servicios de Marketo Engage no estar
 
 * **Revise y actualice las listas de permitidos IP** para el inicio de sesión, el acceso a la API, el envío de correo electrónico, el seguimiento web y las integraciones.
 
-* **Agregue las siguientes direcciones IP** y mantenga sus direcciones IP actuales tal cual:
-
-   * 54.160.246.246
-   * 54.237.141.197
-   * 52.20.211.99
+* **Agregue nuevas direcciones IP** y mantenga sus direcciones IP actuales tal cual. Consulte las direcciones IP que desea agregar en la [tabla siguiente](#ip-addresses).
 
 ## Impactos previstos en el servicio
 
@@ -44,17 +40,19 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 * **Las integraciones de CRM y los servicios de LaunchPoint** se deshabilitarán, pero se reanudarán automáticamente más tarde.
 * **Las páginas de aterrizaje, los formularios y la recopilación de datos** no estarán disponibles, y en su lugar se mostrará un mensaje de mantenimiento.
 
+## Identificación del centro/pod de datos {#identify}
+
+Antes de revisar las tablas siguientes, [aprenda a identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) en qué centro de datos y pod/servidor se encuentra su suscripción.
+
 ## Programación {#schedule}
 
 Periódicamente se añaden nuevas fechas e información de centros de datos/pod, así que asegúrese de volver aquí para obtener más detalles.
-
-Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) en qué centro de datos y pod/servidor se encuentra su suscripción.
 
 <table>
  <tbody>
   <tr>
    <th style="width:50%">Fecha</th>
-   <th style="width:20%">Pod</th>
+   <th style="width:20%">Centro de datos/Pod</th>
    <th style="width:30%">Hora</th>
   </tr>
   <tr>
@@ -75,6 +73,31 @@ Antes de revisar la tabla siguiente, [aprenda a identificar](/help/marketo/getti
    AB43</td>
    <td>17:00 PST<br>
    18:00 PST</td>
+  </tr>
+  &lt;/body>
+  </table>
+
+## Direcciones IP que agregar {#ip-addresses}
+
+En función de su centro de datos, colabore con su departamento de TI para añadir las direcciones IP correspondientes.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Centro de datos</th>
+   <th style="width:75%">Direcciones IP</th>
+  </tr>
+  <tr>
+   <td>AB</td>
+   <td>54.160.246.246<br>
+   54.237.141.197<br>
+   52.20.211.99</td>
+  </tr>
+  <tr>
+   <td>NLD</td>
+   <td>34.247.24.245<br>
+18.200.201.81<br>
+54.220.138.65</td>
   </tr>
   &lt;/body>
   </table>
