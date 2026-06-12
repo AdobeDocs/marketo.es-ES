@@ -3,9 +3,9 @@ description: Explore el conjunto de agentes de IA de Marketo diseñado para auto
 title: Información general sobre Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
+source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -28,11 +28,11 @@ Marketo AI proporciona agentes diseñados para automatizar funciones de marketin
 
 ## Acceso {#access}
 
-En la pantalla Mi Marketo, haga clic en el mosaico **Generar con IA**.
+En la pantalla Mi Marketo, haga clic en el mosaico **Marketo AI**.
 
 ![](assets/overview-1.png)
 
-En el campo de solicitud, haga clic en **Comenzar** (o escriba su propia consulta).
+Escriba la solicitud en el campo de solicitud o seleccione uno de los agentes siguientes.
 
 ![](assets/overview-2.png)
 
@@ -58,4 +58,4 @@ Próximamente habrá agentes adicionales diseñados para gestionar el trabajo m�
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=es){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
