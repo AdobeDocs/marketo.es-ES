@@ -1,20 +1,20 @@
 ---
-description: Examine patrones de mensajes reales para CX Enterprise Coworker, organizados por casos de uso en campañas de adquisición, participación, eventos, conversión y retención.
+description: Examine patrones de mensajes reales para campañas de Adobe CX Enterprise Coworker, organizadas por casos de uso en campañas de adquisición, participación, eventos, conversión y retención.
 title: Casos de uso
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # Casos de uso {#use-cases}
 
-A continuación se muestran patrones de mensajes reales que utilizan los especialistas en marketing de ciclo vital y de crecimiento en CX Enterprise Coworker. Cada una está diseñada para ser copiada, intercambiada con su propia audiencia y detalles de marca, y refinada en la conversación.
+A continuación se muestran patrones de mensajes instantáneos reales que utilizan los especialistas en marketing en crecimiento y ciclo vital en las campañas de compañeros de Adobe CX Enterprise. Cada una está diseñada para ser copiada, intercambiada con su propia audiencia y detalles de marca, y refinada en la conversación.
 
 ## Cómo usar
 
-Elija un caso de uso que se ajuste a su objetivo, copie el mensaje de ejemplo y péguelo en CX Enterprise Coworker, reemplace los marcadores de posición con sus datos específicos y perfeccione la salida a través del chat. Para ver la información paso a paso completa, vaya a Generar y generar campañas.
+Elija un caso de uso que se ajuste a su objetivo, copie el mensaje de ejemplo y péguelo en Campañas de compañeros, sustituya los marcadores de posición por los específicos y perfeccione la salida a través del chat. Para ver la información paso a paso completa, vaya a Generar y generar campañas.
 
 ## Adquisición e incorporación
 
@@ -24,7 +24,7 @@ Dé la bienvenida a nuevos clientes, miembros o cuentas y configúrelos para una
 
 Lo mejor para: Activación de cuentas empresariales, nuevas suscripciones a SaaS, transferencias posteriores a la venta.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### Incorporación de nuevos miembros, B2C
 
@@ -52,7 +52,7 @@ Mantenga a su audiencia informada, educada y conectada entre momentos clave.
 
 Lo mejor para: Retención de clientes, conocimiento del producto, liderazgo mental.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Newsletter mensual, B2C
 
@@ -142,7 +142,7 @@ Recupere audiencias que se hayan alejado y reactive segmentos inactivos.
 
 Ideal para: clientes caducados, compradores latentes, reactivación estacional.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Reparticipación del ventilador con solapa, B2C (Deportes y entretenimiento)
 
@@ -158,4 +158,4 @@ Mejor para: Cualquier audiencia que haya permanecido en silencio.
 
 ## ¿Listo para compilar?
 
-Elija un caso de uso anterior, visite _Generar y generar campañas_ para obtener información paso a paso y pruébelo.
+Elija un caso de uso anterior, visite _Crear una campaña de correo electrónico_ para ver el paso a paso completo y pruébelo.

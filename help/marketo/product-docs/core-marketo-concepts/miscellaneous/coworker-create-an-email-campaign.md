@@ -1,28 +1,28 @@
 ---
-description: Una guía paso a paso para crear una campaña de correo electrónico en CX Enterprise Coworker, desde escribir mensajes hasta revisar y exportar su campaña.
+description: Una guía paso a paso para generar una campaña de correo electrónico en Adobe CX Enterprise Coworker Campaigns, desde la escritura de mensajes hasta la revisión y exportación de la campaña.
 title: Creación de una campaña de correo electrónico
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
 
 # Creación de una campaña de correo electrónico {#create-an-email-campaign}
 
-Obtenga información sobre cómo crear y revisar campañas de correo electrónico completas en minutos.
+Obtenga información sobre cómo generar y revisar campañas de correo electrónico completas en minutos.
 
 >[!IMPORTANT]
 >
->En este momento, solo puede crear campañas, no puede enviarlas (iniciarlas). La funcionalidad de Launch estará disponible próximamente.
+>En este momento, solo puede generar campañas, pero aún no puede enviarlas (iniciarlas). La funcionalidad de Launch estará disponible próximamente.
 
 ## Antes de comenzar
 
 Asegúrese de que dispone de:
 
-* Cuenta activa de colaborador de CX Enterprise ([regístrese aquí](https://coworker-essentials.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
+* Una cuenta activa de Campañas de compañeros de trabajo de Adobe CX Enterprise ([regístrese aquí](https://coworker-essentials.experience.adobe.com/){target="_blank"} si aún no lo ha hecho).
 
-* Tu marca se configuró en **Tus cosas** > **Marcas**.
+* Tu marca se agregó en **Tus cosas** > **Marcas**.
 
 * (Opcional, pero recomendada) Se ha cargado una plantilla de correo electrónico de HTML en **Sus cosas** > **Plantillas de correo electrónico**.
 
@@ -42,7 +42,7 @@ _Cuándo se debe usar: cuando se sabe exactamente lo que se desea._
 
 _Cuándo usar: cuando no está seguro de lo que desea._
 
-**Opción tres**: use una opción &quot;Ayuda para que se me solicite&quot; en la lista desplegable de la barra de mensajes para que CX Enterprise Coworker le guíe a través de la escritura del mensaje.
+**Opción tres**: usa una opción &quot;Ayúdame a preguntar&quot; en la lista desplegable de la barra de mensajes para que Campañas de trabajo te guíen a través de la escritura del mensaje.
 
 _Cuándo usar: cuando tengas una idea de lo que deseas, pero quieras un poco de ayuda (o, usa &quot;Sorpréndeme&quot; para sorprenderte)._
 
@@ -50,7 +50,7 @@ _Cuándo usar: cuando tengas una idea de lo que deseas, pero quieras un poco de 
 
 ## Paso 2: Crear el mensaje
 
-Un mensaje de CX Enterprise Coworker sólido incluye:
+Un potente mensaje de Campañas de compañeros incluye lo siguiente:
 
 * El objetivo de la campaña (lo que está intentando lograr).
 * La audiencia (para quién es o de dónde provienen los datos de audiencia).
@@ -67,11 +67,11 @@ Por ejemplo:
 
 >[!NOTE]
 >
->Si ya tiene un resumen de campaña, cárguelo junto con el mensaje como contexto adicional para el plan que se ha creado para usted.
+>Si ya tiene un resumen de campaña, cárguelo junto con el mensaje como contexto adicional para el plan que generará para usted.
 
 ![Escribiendo en su propia solicitud](assets/create-an-email-campaign-2.png)
 
-Cuando tenga la solicitud lista, haga clic en **Generar campaña**. A continuación, CX Enterprise Coworker:
+Cuando tenga la solicitud lista, haga clic en **Generar campaña**. Las campañas de compañeros de trabajo:
 
 * Genere un plan de campaña estructurado.
 * Pregunte por la audiencia de destino, que también se utilizará para la personalización de contenido.
@@ -81,7 +81,7 @@ Cuando tenga la solicitud lista, haga clic en **Generar campaña**. A continuaci
 
 ## Paso 3: Carga de la audiencia
 
-Las audiencias se cargan mediante CSV. Todas las audiencias son específicas de sus respectivas campañas.
+Las audiencias se cargan mediante CSV. Todas las audiencias son específicas para sus respectivas campañas (no se almacenan en ningún otro lugar del entorno en este momento).
 
 1. Después de enviar la solicitud, revise las tareas que ejecutará el colaborador y haga clic en **Generar**.
 
@@ -91,15 +91,13 @@ Las audiencias se cargan mediante CSV. Todas las audiencias son específicas de 
 
    >[!NOTE]
    >
-   >* La dirección de correo electrónico es un campo obligatorio, y se recomiendan el nombre y otros campos que se pueden utilizar para la personalización.
-   >
-   >* Los campos de personalización que CX Enterprise Coworker puede utilizar son: nombre, fecha de último pedido, categoría de producto.
+   >* La dirección de correo electrónico es un campo obligatorio, el nombre, la fecha de última compra y cualquier otro campo que se pueda utilizar para la personalización son recomendados.
 
 1. Importe el archivo CSV.
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >Excluya los contactos que no desee enviar por correo electrónico (usuarios sin suscribir, direcciones internas, cuentas de prueba) antes de cargarlos. Aunque habilitaremos progresivamente la funcionalidad para &quot;excluir&quot; usuarios específicos o &quot;añadir atributos&quot; durante el transcurso de la prueba, no está disponible inmediatamente desde la fecha de lanzamiento.
+   >Excluya los contactos que no desee enviar por correo electrónico (usuarios sin suscribir, direcciones internas, cuentas de prueba) antes de cargarlos. Aunque habilitaremos progresivamente la funcionalidad para excluir usuarios específicos o añadir atributos durante el transcurso de la prueba, no está disponible inmediatamente a partir de la fecha de lanzamiento.
 
 ## Paso 4: Revisar y perfeccionar Campaign Assets
 
@@ -113,12 +111,11 @@ Existen dos formas de actualizar el contenido.
 
 -o-
 
-* Utilice la interfaz conversacional para hacer cambios hablando directamente con CX Enterprise Coworker. Algunos ejemplos son:
+* Utilice la interfaz conversacional para realizar cambios hablando directamente con Campañas de compañeros de trabajo. Algunos ejemplos son:
 
    * &quot;Haga que la línea de asunto sea más urgente&quot;.
    * &quot;Acorta la copia del cuerpo&quot;.
    * &quot;Haga que call to action sea más fuerte&quot;.
-   * &quot;Cambie la espera de 3 días a 5 días&quot;.
 
 También puede utilizar los botones de IA para refinar el Asunto o el Preencabezado.
 
@@ -142,11 +139,11 @@ La funcionalidad de Launch (envío de la campaña de correo electrónico) estar�
 
 **¿Por qué tarda tanto la primera respuesta?**
 
-Está generando una campaña completa para usted, incluida la estrategia, la audiencia que necesita, el flujo de trabajo, etc. (escuche grabar la marca 1:15ish)
+Genera una campaña completa, incluida la estrategia, la audiencia que necesita, el flujo de trabajo, etc. El tiempo promedio de la primera respuesta con el contenido generado suele ser de alrededor de un minuto.
 
-**¿Qué puedo hacer si la salida de CX Enterprise Coworker no es correcta?**
+**¿Qué puedo hacer si el resultado de Campañas de compañeros no es correcto?**
 
-Utilice el botón de comentarios en la parte superior derecha y háganoslo saber para que podamos mejorar la plataforma.
+Haga clic en el icono de comentarios en el encabezado y háganoslo saber para que podamos mejorar la plataforma.
 
 **¿Puedo editar correos electrónicos directamente o solo mediante chat?**
 
