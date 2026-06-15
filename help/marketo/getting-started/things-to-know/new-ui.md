@@ -3,9 +3,9 @@ description: 'Nueva interfaz de usuario de Marketo Engage: documentos de Marketo
 title: Nueva IU de Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
@@ -28,25 +28,25 @@ Los administradores pueden conceder el permiso _Acceder a la nueva interfaz de u
 
 1. En el área **Administrador**, seleccione **Usuarios y roles**.
 
-CAPTURA DE PANTALLA
+   ![](assets/new-ui-1.png)
 
 1. Haga clic en la ficha **Roles**. Seleccione la función que desee y haga clic en **Editar función**.
 
-CAPTURA DE PANTALLA
+   ![](assets/new-ui-2.png)
 
 >[!NOTE]
 >
 >También puede crear una función nueva.
 
-1. Haga clic en la casilla de verificación **Acceder a nuevo tema** y luego haga clic en **Guardar**.
+1. Seleccione la casilla **Acceder a nuevo tema** y haga clic en **Guardar**.
 
-CAPTURA DE PANTALLA
+   ![](assets/new-ui-3.png)
 
 ## IU nueva y clásica {#new-and-classic}
 
-Para cambiar a la nueva interfaz de usuario, haga clic en el menú desplegable de tema en la esquina superior derecha y seleccione **Nuevo (Beta)**.
+Para cambiar a la nueva interfaz de usuario, haga clic en el menú desplegable IU en la esquina superior derecha y seleccione **Nuevo (Beta)**.
 
-CAPTURA DE PANTALLA
+![](assets/new-ui-4.png)
 
 Si necesita volver a cambiar por cualquier motivo, vuelva a hacer clic en la lista desplegable de temas y seleccione **Classic**.
 
@@ -54,4 +54,4 @@ Si necesita volver a cambiar por cualquier motivo, vuelva a hacer clic en la lis
 
 Agradecemos enormemente sus comentarios. Si tiene problemas para acceder a la funcionalidad o utilizarla mientras explora la nueva interfaz de usuario, o si tiene sugerencias o dudas, haga clic en el botón Comentarios de Beta de la interfaz de usuario en la parte superior derecha.
 
-CAPTURA DE PANTALLA
+![](assets/new-ui-5.png)
