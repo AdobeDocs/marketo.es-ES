@@ -4,9 +4,9 @@ title: Investigar posibles clientes
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Averigüe por qué una persona o posible cliente específico no alcanzó un hito
 
 ## Cómo usar {#how-to-use}
 
-1. En Mi Marketo, haga clic en el mosaico **Generar con IA**.
+1. En Mi Marketo, haga clic en el mosaico **Marketo AI**.
 
 1. En la ventana del mensaje, describa lo que está investigando. Incluya el posible cliente (por correo electrónico o nombre) y lo que esperaba que sucediera.
 
