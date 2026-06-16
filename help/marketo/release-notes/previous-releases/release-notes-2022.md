@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +46,7 @@ Las siguientes funciones se incluyen en la versión de enero de 2022. Compruebe 
 
 Las siguientes características comenzarán a lanzarse el **21 de enero de 2022**, con un despliegue gradual de cada característica en las semanas siguientes (a menos que se especifique lo contrario).
 
-## Experiencia de próxima generación {#modern-ux}
+## Experiencia de próxima generación
 
 * **Screens actualizado en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
 
@@ -133,7 +133,7 @@ Las siguientes características comenzarán a lanzarse el **11 de marzo de 2022*
 
 * **Mejora del filtrado de actividades de bots de correo electrónico**: como mejora de la característica [Filtrado de actividades de bots de correo electrónico](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lanzada anteriormente, ahora puede optar por registrarse en las actividades identificadas como bots. A continuación, puede filtrar y almacenar en déclencheur las acciones basadas en actividades identificadas como realizadas por bots.
 
-## Experiencia de próxima generación {#modern-ux}
+## Experiencia de próxima generación
 
 * **Screens actualizado en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
 
@@ -215,7 +215,7 @@ Las siguientes características comenzarán a lanzarse el **6 de mayo de 2022**,
 
 **[Encabezado STS para vínculos de seguimiento de correo electrónico](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: cumpla las prácticas recomendadas de seguridad con la capacidad de aplicar encabezados de seguridad de transporte seguro para garantizar que el tráfico a los vínculos rastreados siempre sea seguro.
 
-## Experiencia de próxima generación {#modern-ux}
+## Experiencia de próxima generación
 
 **Cambio de alternancia predeterminado a la experiencia de próxima generación**: el interruptor de alternancia estará predeterminado a la nueva experiencia en todas las pantallas donde esté disponible, lo que facilita a los usuarios descubrir los diseños actualizados y las mejoras de uso.
 
@@ -427,7 +427,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   </tbody>
 </table>
 
-### Experiencia de última generación {#modern-ux}
+### Experiencia de última generación
 
 </br>
 
@@ -565,3 +565,4 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 * **Forms 1.0**: la versión de Forms 1.0 quedará obsoleta y se completará con la versión de octubre. Los recursos de Forms 1.0 ya no podrán enviar datos a Marketo Engage y devolverán los errores si se intenta hacerlo.
 
 * **Forms sin script**: Forms dejará de funcionar cuando Javascript esté deshabilitado en el explorador. El envío de formularios requerirá que esté habilitado Javascript.
+
