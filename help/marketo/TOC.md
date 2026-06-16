@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
 source-wordcount: '8909'
 ht-degree: 96%
@@ -1116,11 +1116,11 @@ ht-degree: 96%
       + [Configuración y configuración](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[Configuración y configuración](product-docs/marketo-ai/settings-setup-old.md)
       + Agentes {#agents}
-         + {hide-from-toc}[Conocimiento del producto](product-docs/marketo-ai/agents/product-knowledge.md)
+         + [Conocimiento del producto](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[Perspectivas de superficie](product-docs/marketo-ai/agents/surface-insights.md)
          + {hide-from-toc}[Generar programas](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[Clonar programa](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[Investigar posibles clientes](product-docs/marketo-ai/agents/investigate-leads.md)
+         + [Investigar posibles clientes](product-docs/marketo-ai/agents/investigate-leads.md)
          + [Importar posibles clientes](product-docs/marketo-ai/agents/import-leads.md)
          + [Validar programas](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage Modern UX {#marketo-engage-modern-ux}

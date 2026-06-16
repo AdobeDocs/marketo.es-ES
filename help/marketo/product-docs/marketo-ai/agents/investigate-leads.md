@@ -1,12 +1,9 @@
 ---
 description: El agente principal de investigación responde a las preguntas que los especialistas en marketing formulan con más frecuencia. Es más rápido y confiable que examinar manualmente los registros de actividad, el historial de campañas inteligentes y los registros de puntuación.
 title: Investigar posibles clientes
-badge: Beta
-hide: true
-hidefromtoc: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
