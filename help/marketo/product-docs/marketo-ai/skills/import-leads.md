@@ -3,7 +3,7 @@ description: Aprenda a utilizar el agente Importar posibles clientes para cargar
 title: Importar posibles clientes
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -67,3 +67,4 @@ Importe y deduplique listas de posibles clientes en la base de datos de Marketo 
    ![](assets/import-leads-10.png)
 
 Cuando termina la importación, aparece un resumen de verificación que muestra los posibles clientes procesados, las filas con errores y las advertencias.
+

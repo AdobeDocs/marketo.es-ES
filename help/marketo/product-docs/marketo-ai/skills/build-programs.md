@@ -3,7 +3,7 @@ description: Utilice la IA de Marketo para crear un programa de Marketo a partir
 title: Generar programas
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
@@ -59,3 +59,4 @@ Describa una campaña de marketing en un lenguaje sencillo y Marketo AI crea la 
 * Marketo AI no puede acceder automáticamente a sus listas de audiencia existentes. Debe conectar los filtros de lista inteligente a los segmentos reales después de crear el programa.
 * Los programas complejos de varios pasos con lógica de ramificación avanzada pueden necesitar un refinamiento manual después de su creación.
 * Si su entorno de Marketo utiliza convenciones de nomenclatura o estructuras de carpetas, especifíquelas en la descripción para que el programa se cree en el lugar correcto.
+
