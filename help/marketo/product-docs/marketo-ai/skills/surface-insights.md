@@ -3,7 +3,7 @@ description: Hable con la inteligencia artificial aplicada a Marketo sobre los d
 title: Perspectivas de superficie
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
@@ -49,3 +49,4 @@ Las perspectivas de Surface le permiten hablar sobre los datos de rendimiento de
 * Marketo AI puede mostrar datos, pero no puede realizar cambios en los programas o informes en función de lo que encuentre.
 * Para obtener informes personalizados detallados con filtros y desgloses específicos, las herramientas de informes integradas de Marketo o una integración de BI pueden ser más apropiadas.
 * La atribución en campañas multitáctiles requiere una configuración adecuada del programa. Marketo AI informa sobre lo que se rastrea, no deduce la atribución que no se configuró.
+

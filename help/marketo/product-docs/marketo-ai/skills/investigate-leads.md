@@ -2,7 +2,7 @@
 description: El agente principal de investigación responde a las preguntas que los especialistas en marketing formulan con más frecuencia. Es más rápido y confiable que examinar manualmente los registros de actividad, el historial de campañas inteligentes y los registros de puntuación.
 title: Investigar posibles clientes
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -54,3 +54,4 @@ Averigüe por qué una persona o posible cliente específico no alcanzó un hito
 * Lead Investigation es de solo lectura. Le informa de lo sucedido, pero no realiza cambios en el registro de posibles clientes ni en la pertenencia a programas.
 * Para los problemas que resultan ser problemas de calidad de datos (falta de valores de campo, origen de cliente potencial incorrecto), la corrección debe realizarse manualmente en el registro de cliente potencial.
 * Si la investigación revela un problema de lógica de campaña inteligente que afecta a muchos posibles clientes, utilice el control de calidad del programa para revisar la configuración completa del programa.
+
