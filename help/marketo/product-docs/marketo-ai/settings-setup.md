@@ -2,9 +2,9 @@
 description: Obtenga información sobre cómo habilitar permisos de IA de Marketo, configurar reglas organizativas y administrar configuraciones como integraciones y notificaciones.
 title: Configuración y configuración
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 3%
 
 ---
@@ -118,4 +118,4 @@ _Esta ficha puede aparecer en la interfaz de usuario, pero aún no está disponi
 
 Administrar las preferencias de alerta y los canales de notificación.
 
-_Esta ficha puede aparecer en la interfaz de usuario, pero aún no está disponible para su uso. Vuelva a buscar actualizaciones_.
+_Esta ficha puede aparecer en la interfaz de usuario, pero aún no está disponible para su uso. Consulte este artículo para ver las actualizaciones_.
