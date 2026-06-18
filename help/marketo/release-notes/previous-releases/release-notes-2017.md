@@ -2,27 +2,10 @@
 title: 2017
 description: '2017: Documentos de Marketo: documentación del producto'
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2364
 ht-degree: 0%
@@ -109,7 +92,7 @@ Los desarrolladores ahora tienen control adicional sobre el envío de notificaci
 
 Mejore su segmentación con una nueva opción de filtro, &quot;Miembro de la lista de vibraciones&quot;.
 
-## [Obsolescencia del editor de texto enriquecido y del editor de formularios 1.0 heredados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Obsolescencia del editor de texto enriquecido y del editor de formularios 1.0 heredados](https://nation.marketo.com/docs/DOC-4315)
 
 A partir del 1 de agosto de 2017, los clientes que sigan utilizando el Editor de texto enriquecido y el Editor de formularios 1.0 heredados pasarán automáticamente a la nueva experiencia.
 
@@ -145,7 +128,7 @@ Se acabaron los días en que se limpiaban las plantillas obsoletas de [!DNL Sale
 
 Transfiera fácilmente grandes cantidades de datos de persona y actividad de Marketo a sus sistemas externos.
 
-## Mejoras de ABM {#abm-enhancements}
+## Mejoras de ABM
 
 **[Campos personalizados en cuentas con nombre ABM](https://docs.marketo.com/x/1wnG)**
 
@@ -159,7 +142,7 @@ Las puntuaciones de las cuentas con nombre pueden variar considerablemente. Mark
 
 Aproveche las integraciones de socios de ABM enriquecidas y sólidas con compatibilidad de API mejorada para Listas de cuentas con nombre.
 
-## Mejoras de Web Personalization {#web-personalization-enhancements}
+## Mejoras de Web Personalization
 
 ![](assets/dialogoptions.png)
 
@@ -203,7 +186,7 @@ Web Personalization ahora se ofrece en todos los idiomas compatibles con Marketo
 
 El contenido predictivo ahora se ofrece en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-## [Obsolescencia del editor de texto enriquecido y del editor de formularios 1.0 heredados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Obsolescencia del editor de texto enriquecido y del editor de formularios 1.0 heredados](https://nation.marketo.com/docs/DOC-4315)
 
 A partir del 1 de agosto de 2017, los clientes que sigan utilizando el Editor de texto enriquecido y el Editor de formularios 1.0 heredados pasarán automáticamente a la nueva experiencia.
 
@@ -225,7 +208,7 @@ Asegúrese de que el mensaje y el contenido sean coherentes y evite realizar edi
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## Mejoras de ABM {#abm-enhancements}
+## Mejoras de ABM
 
 **Búsqueda de datos en Source para empresas japonesas**
 
@@ -235,7 +218,7 @@ Hacer coincidir personas con nombres de empresas en japonés en el idioma local.
 
 La integración de [!DNL LeanData] ahora permite la coincidencia de cliente potencial con cuenta en Marketo. Mantenga el marketing y las ventas alineados al tener los mismos posibles clientes asociados a las cuentas dentro de los sistemas de ventas y marketing de registro. Las opciones más flexibles proporcionan a las operaciones de marketing y ventas más control sobre las reglas de coincidencia de cliente potencial con cuenta para que puedan alcanzar el nivel de precisión deseado.
 
-## Mejoras de Web Personalization {#web-personalization-enhancements}
+## Mejoras de Web Personalization
 
 **[Mejoras en la vista previa de Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
@@ -308,7 +291,7 @@ Hemos lanzado dos funciones como parte de nuestra nueva integración con Slack:
 * Notificaciones del sistema: obtenga notificaciones de Slack sobre eventos importantes de su instancia de Marketo, como alertas sobre estados de campañas actuales y cualquier problema que requiera atención inmediata.
 * Momentos interesantes: Cuando una persona conocida activa un Marketo Insight desde una cuenta de ventas, se puede notificar a los propietarios del posible cliente mediante Slack. Las notificaciones incluyen información sobre posibles clientes y sobre la cuenta de ventas.
 
-## Mejoras de ABM {#abm-enhancements}
+## Mejoras de ABM
 
 **[Mostrar cuentas sin contactos](https://docs.marketo.com/x/fKCt)**
 
@@ -324,7 +307,7 @@ Vea y compare el rendimiento del contenido en las listas de cuentas de ABM para 
 * contenido convertido superior
 * Contenido sugerido con tecnología de IA para actividades de marketing
 
-## Mejoras de Web Personalization {#web-personalization-enhancements}
+## Mejoras de Web Personalization
 
 **[Tokens para campañas web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
@@ -340,11 +323,11 @@ Ahorre tiempo reutilizando recursos e imágenes creativos en varios canales dent
 
 ## Integración  {#integration}
 
-**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
+**[API de vista previa de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ahora puede previsualizar de forma remota el correo electrónico fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-**[Reemplazar la API de HTML](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/email-scripting)**
+**[Reemplazar la API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Los desarrolladores pueden actualizar el contenido de HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar dentro de un solo sistema para mantener los recursos.
 
@@ -387,3 +370,4 @@ Haga clic en los vínculos del título para ver los artículos detallados de cad
 Estamos agregando una nueva forma de crear listas de cuentas en ABM. Además de las listas de cuentas existentes, ahora puede crear listas de cuentas dinámicas que se generan a partir de vistas de cuentas de CRM públicas. Una vista de cuenta de CRM es un conjunto de reglas que actúa como filtro al mostrar cuentas. Por ejemplo, puede usarlo para buscar cuentas en las que el sector es atención médica _y_ los ingresos superan los 100 millones de dólares.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
+

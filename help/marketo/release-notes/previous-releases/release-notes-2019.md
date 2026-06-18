@@ -2,36 +2,10 @@
 title: 2019
 description: '2019: Documentos de Marketo: documentación del producto'
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2528
 ht-degree: 0%
@@ -58,7 +32,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 >
 >Marketo está actualizando la versión de OAuth para el seminario web GoTo de 1.0 a 2.0. La compatibilidad con OAuth 1.0 dejará de usarse en enero de 2019. Si es cliente de GoToWebinar, deberá volver a autenticar sus inicios de sesión a través de LaunchPoint (en el área de Administración) antes del **31 de enero de 2019** para garantizar que su integración siga funcionando. Para obtener más información, consulte nuestra [página de la comunidad](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
-## Mejoras en la plataforma principal {#core-platform-enhancements}
+## Mejoras en la plataforma principal
 
 **[Correo electrónico CC para correos electrónicos de Marketo](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
@@ -75,7 +49,7 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Administración de exclusión**: Administre fácilmente las exclusiones haciendo coincidir el dominio de cookie de exclusión con el dominio de cookie de seguimiento [!DNL Munchkin].
 * **Parámetro de decisor de nivel de dominio**: Los dominios de dos letras (por ejemplo, &quot;[website.io](https://website.io)&quot;) se rastrearán automáticamente en Marketo sin requisitos de configuración adicionales.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **[!DNL Salesforce]perfil personalizado**: Sales Engage ahora admite perfiles personalizados ilimitados.
 
@@ -89,7 +63,7 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Complemento de OWA para[!DNL Windows]**: con un solo complemento, se admitirán todos los clientes de [!DNL Windows Office365] en Sales Engage, lo que permitirá usar Live Feed en Outlook. El nuevo complemento estará disponible en la Tienda Microsoft.
 * **Propulsor de actividades**: sincronice el compromiso de ventas con la plataforma principal de Marketo para aprovechar las perspectivas de marketing en tiempo real.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 >[!NOTE]
 >
@@ -108,7 +82,7 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Mejoras en la usabilidad del programa de correo electrónico**: Seguimos avanzando hacia la paridad en la funcionalidad del programa de correo electrónico entre nuestra plataforma clásica de Marketo Lead Management y la nueva experiencia [!DNL Marketo Sky].
 * **Programas de seminarios web con eventos**: Los programas de seminarios web con eventos ya están disponibles en [!DNL Marketo Sky] (nota: en esta versión solo se admitirá GoToWebinar, con integraciones posteriores establecidas a lo largo del tiempo).
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 **[Segmentación y filtrado basados en personas ABM](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
@@ -159,7 +133,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 Las siguientes funciones se lanzaron el 15 de marzo de 2019.
 
-## Mejoras en la plataforma principal {#core-platform-enhancements}
+## Mejoras en la plataforma principal
 
 * **En lista de espera:** Nuevo estado de programa/evento para poner en lista de espera a un miembro cuando quieras [ponerlo en espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) hasta que se abra una vacante. Esto se aplica a los canales asociados con los programas de eventos en Marketo Classic, así como a los eventos y eventos con los programas de seminarios web de [!DNL Marketo Sky]. De forma predeterminada, Lista de espera tiene el mismo valor de paso que Registrado.
 * **[Límite de comunicación personalizada](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: los administradores ahora pueden establecer límites de comunicación diarios o semanales personalizados.
@@ -177,19 +151,19 @@ Account-Based Marketing
 
 Se espera que las siguientes funciones se publiquen durante el primer trimestre natural y al comienzo del segundo trimestre de 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **Funcionalidad completa del programa de correo electrónico**: Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados para disfrutar de una experiencia fácil de usar.
 * **Funcionalidad de campañas inteligentes**: Disfruta de una mayor estabilidad en una nueva interfaz de usuario a medida que la funcionalidad de campañas inteligentes continúa desplegándose en Sky.
 * **Administrar Assets de Design Studio**: Se ha agregado la capacidad de administrar plantillas, imágenes, Forms, fragmentos de código, archivos, correos electrónicos y páginas de aterrizaje de forma masiva desde las vistas de lista de Design Studio.
 * **Tablero de zona horaria de entrega a destinatario**: Comprenda el comportamiento de los clientes con los informes de los correos electrónicos enviados mediante la función de zona horaria de entrega a destinatario en Sky.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **Auditoría mejorada**: Nueva visibilidad de todas las personas, correos electrónicos y [contenido](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) en una instancia con capacidad agregada para [finalizar campañas existentes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)creadas por otros usuarios.
 * **[Administración de cancelación de suscripción](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximice la capacidad de entrega y el cumplimiento con la capacidad de [bloquear los dominios de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) para que no se pongan en contacto con ellos. Marketo también hará referencia cruzada a la base de datos de posibles clientes para las cancelaciones de suscripción antes de enviar un correo electrónico.
 
-## [!DNL Bizible] por Marketo {#bizible-by-marketo}
+## [!DNL Bizible] por Marketo
 
 * **[!DNL Bizible]Discover Mejoras en la característica**: Las nuevas capacidades de segmentación de tableros permiten a los especialistas en marketing comprender mejor el rendimiento.
 * **Compatibilidad con múltiples monedas**: cambie entre su moneda corporativa y cualquier moneda local con la nueva funcionalidad de conversión de moneda automática de [!DNL Bizible] creada en tablas de moneda CRM.
@@ -212,7 +186,7 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 >
 >Desde el 18 de junio de 2019, el correo electrónico 1.0 ya no está disponible. Puede obtener más información sobre el correo electrónico 2.0 y la obsolescencia del correo electrónico 1.0 [aquí](https://nation.marketo.com/docs/DOC-7038).
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 * **[!DNL LinkedIn]Coincidencia de cuenta (BETA)** : Una nueva funcionalidad ABM ya está disponible en versión beta, lo que le ofrece la capacidad de enviar listas de cuentas conocidas y de espacio en blanco directamente desde Marketo a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketo ABM.
 
@@ -222,7 +196,7 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 
 Se espera que las siguientes funciones se publiquen durante el segundo trimestre natural y a principios del tercer trimestre de 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **Límites para eventos** y **Objetivos de eventos** están disponibles generalmente en [!DNL Marketo Sky] bajo el complemento Eventos Premium.
 
@@ -246,13 +220,13 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 
 * **Plantillas de correo electrónico del sistema**: Funciones actualizadas de diseño, capacidad de respuesta e internacionalización.
 
-## [!DNL Bizible] por Marketo {#bizible-by-marketo}
+## [!DNL Bizible] por Marketo
 
 * **Compatibilidad con múltiples monedas para[!DNL Dynamics]**: [!DNL Bizible] ahora se adapta a [!DNL Microsoft Dynamics] tablas de moneda, de modo que puede cambiar fácilmente entre las monedas corporativas y locales. (Nota: La compatibilidad con SFDC se publicó en el primer trimestre de 2019).
 * **Integración de Drift**: Entienda cómo las conversaciones de Drift afectan el recorrido de su cliente. [!DNL Bizible] también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: [!DNL Bizible] ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-_&#x200B;**Seminario web sobre la versión del producto**&#x200B;_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Seminario web sobre la versión del producto**_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
 
 ## Agosto de 2019 {#august}
 
@@ -294,3 +268,4 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 >**Para mantener su acceso a Marketo Engage, asegúrese de que todos los sistemas cliente sean compatibles con TLS 1.2 antes del 13 de diciembre de 2019**. Encontrará información más detallada [aquí](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
 **_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/August_19_Release_Webinar.html) el 28 de agosto a las 1:00PM PT / 4:00PM ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.
+
