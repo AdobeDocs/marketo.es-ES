@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1871
 ht-degree: 0%
@@ -105,7 +105,7 @@ Marketo está agregando una fuente de datos adicional en japonés para Web Perso
 
 Web Personalization ahora puede personalizar el contenido a un visitante web conocido que forme parte de una lista estática definida en Actividades de marketing (MLM). Con esta mejora, ahora puede enviar al mercado listas estáticas entre canales y dirigirse a las personas de estas listas con contenido personalizado en el sitio web.
 
-## ContentAI {#contentai}
+## ContentAI
 
 **Mejora del algoritmo predictivo**
 
@@ -189,7 +189,7 @@ Comparta fácilmente sus gráficos rápidos con otros usuarios de [!UICONTROL Pe
 
 La navegación optimizada y los flujos de trabajo mejorados le proporcionan visibilidad de los criterios de éxito del programa y acceso a los detalles del programa.
 
-## ContentAI {#contentai}
+## ContentAI
 
 [Configuración de metas](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +217,7 @@ Las siguientes funciones se incluyen en la versión de otoño de 1818. Compruebe
 
 Haga clic en los vínculos de título para ver los artículos detallados de cada función, si están disponibles.
 
-## Mejoras en la plataforma principal {#core-platform-enhancements}
+## Mejoras en la plataforma principal
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +305,4 @@ Marketo ahora admite el uso de campos de disposición de correo electrónico sob
 >[!NOTE]
 >
 >Marketo también está actualizando las bibliotecas relacionadas con la identidad y la autenticación. Mientras la actualización está en curso, puede observar errores intermitentes si tiene una sesión activa abierta. Si tiene problemas, cierre la sesión y vuelva a iniciarla.
+
