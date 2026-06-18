@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
 workflow-type: tm+mt
-source-wordcount: 628
-ht-degree: 19%
+source-wordcount: 695
+ht-degree: 17%
 
 ---
 
@@ -136,6 +136,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    * Sorteos
 
 A principios de este año, los campos relacionados que se habían dejado atrás se eliminaron de Marketo. Poco después, las solicitudes de API que hacían referencia a ciertos campos de posibles clientes relacionados con Social devolvieron un error de &quot;campo no encontrado&quot;, lo que provocó interrupciones. El servicio se restauró después de que los campos afectados volvieran a estar disponibles, por lo que, para evitar más interrupciones, Marketo ha disociado permanentemente los campos de Social de la obsolescencia de las funciones de Social (y, como tales, estarán disponibles en su cuenta de Marketo). Se recomienda a los usuarios revisar las consultas e integraciones de API que hacen referencia a campos relacionados con Marketo Social y determinar si esos campos siguen siendo necesarios para los procesos empresariales en curso.
+
+* **Funcionalidad de combinación de API para campos booleanos**: El comportamiento de los campos booleanos en una combinación de API cambió en la versión de marzo de 2026. Ahora, un valor False se trata correctamente como si tuviera un valor para ese campo. Solo un valor nulo se trata como &quot;vacío&quot; al evaluar campos en conflicto. Vea [esta publicación de la comunidad](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=es){target="_blank"} para obtener más información.
 
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de julio de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
