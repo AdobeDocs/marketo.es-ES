@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
+source-git-commit: b0f4d348a51b5f3c0f0ec79d3467810c83aa4231
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -14,7 +14,7 @@ ht-degree: 96%
 # Guía de Marketo {#using}
 
 + [Inicio](home.md)
-+ Introducción a Marketo Engage
++ Introducción a Marketo Engage {#getting-started}
    + [¿Qué es Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + Configuración inicial {#initial-setup}
       + [Pasos de configuración](getting-started/initial-setup/setup-steps.md)
@@ -69,7 +69,7 @@ ht-degree: 96%
             + {hide-from-toc}[SEO: utilice el informe de tendencias de KW de la competencia](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + {hide-from-toc}[SEO: usar el informe de tendencias de palabras clave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + Administración {#administration}
-      + Configuración
+      + Configuración {#setup}
          + [Descubra qué permisos tiene](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Requisitos mínimos del sistema](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
@@ -546,7 +546,7 @@ ht-degree: 96%
          + [Eliminación de un posible cliente o contacto](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Sincronización con Salesforce {#salesforce-sync}
          + [Explicación de la sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-         + Configuración
+         + Configuración {#setup}
             + Empresas/Sin límites {#enterprise-unlimited-edition}
                + [Paso 1 de 3: Añadir campos de Marketo a Salesforce (para empresas y sin límites)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [Paso 2 de 3: Crear un usuario de Salesforce para Marketo (para empresas y sin límites)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
@@ -593,7 +593,7 @@ ht-degree: 96%
          + [Uso de cuentas de persona](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Sincronización de Veeva CRM {#veeva-crm-sync}
          + [Explicación de la sincronización de Veeva CRM](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
-         + Configuración
+         + Configuración {#setup}
             + [Paso 1 de 3: Añadir campos de Marketo a Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [Paso 2 de 3: Crear un usuario de Veeva CRM para Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [Paso 3 de 3: Conectar Marketo Engage y Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
@@ -640,7 +640,7 @@ ht-degree: 96%
             + [Creación de un diálogo](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [Criterios de audiencia](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [Diseñador de flujo](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
-         + Integraciones
+         + Integraciones {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [API de inserción de Adobe PDF](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
             + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
@@ -1126,18 +1126,18 @@ ht-degree: 96%
    + Notificaciones de Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificación: Conexión de Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Introducción
+      + Introducción {#getting-started}
          + [Información general sobre Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Acceso a la nueva instancia de Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guía de introducción para administradores de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [Administrar su perfil](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
          + [Cambiar la contraseña de Sales Connect](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
-         + Configuración del correo electrónico
+         + Configuración del correo electrónico {#email-settings}
             + [Añadir identidad](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Añadir su firma de correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Nunca he recibido un correo electrónico de verificación](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [Verifique su correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
-      + Administrador
+      + Administrador {#admin}
          + [Administradores adicionales](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [Dominios bloqueados](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Bloqueo del contenido](product-docs/marketo-sales-connect/admin/content-lockdown.md)
@@ -1146,12 +1146,12 @@ ht-degree: 96%
          + [Configuración de SSO de UP a través de SAML 2.0 en Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Configuración del uso compartido](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Detalles de acceso del usuario](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics
+      + Analytics {#analytics}
          + [Información general sobre la página de análisis](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Explicación de la pestaña Contenido](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [Explicación de la pestaña Yo](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [Explicación de la pestaña Equipo](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
-      + Campañas
+      + Campañas {#campaigns}
          + [Añadir personas a su campaña](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
          + [Añadir a campaña de marketing](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
          + [Tipos de pasos de la campaña](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
@@ -1163,8 +1163,8 @@ ht-degree: 96%
          + [Explicación de las opciones de envío](product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
          + [Uso de tareas en campañas](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [Ver la lista de campañas como otro usuario](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
-      + CRM
-         + Personalización de Salesforce
+      + CRM {#crm}
+         + Personalización de Salesforce {#salesforce-customization}
             + [Campo Tipo de actividad en tareas (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [Añadir botones de Sales Connect a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [Creación de un informe de llamadas prioritarias de Salesforce con datos de Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1184,7 +1184,7 @@ ht-degree: 96%
             + [Uso de acciones masivas en Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [Desinstalar Marketo Sales Connect desde Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Desinstalar Marketo Sales Connect desde Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
-         + Integración de Salesforce
+         + Integración de Salesforce {#salesforce-integration}
             + [Configuración de la personalización de detalles de la actividad de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Conectar su cuenta de Sales Connect a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Desconectar Salesforce de su cuenta de Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
@@ -1194,7 +1194,7 @@ ht-degree: 96%
             + [Configuraciones de sincronización de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [La actividad de seguimiento no aparece](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + Complementos de correo electrónico {#email-plugins}
-         + Gmail
+         + Gmail {#gmail}
             + [Añadir correo electrónico a Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Adjuntar un fragmento de contenido](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Funcionalidad del calendario](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
@@ -1217,8 +1217,8 @@ ht-degree: 96%
             + Complemento de Office 365 {#office-365-add-in}
                + [Añadir correo electrónico a Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Instalación del complemento de correo electrónico de Sales Connect para Outlook (en línea, Mac y Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + Correo electrónico
-         + Centro de comandos
+      + Correo electrónico {#email}
+         + Centro de comandos {#command-center}
             + [Información general sobre el centro de comandos](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Información general sobre la búsqueda avanzada](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
             + [Asignación de tareas a los integrantes del equipo](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
@@ -1231,18 +1231,18 @@ ht-degree: 96%
             + [Cómo funciona el seguimiento de visitas](product-docs/marketo-sales-connect/email/common-tracking-questions/how-view-tracking-works.md)
             + [Evitar las autovisualizaciones](product-docs/marketo-sales-connect/email/common-tracking-questions/preventing-self-views.md)
             + [Probar correo electrónico no mostrado como visto](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
-         + Entrega de correo electrónico
+         + Entrega de correo electrónico {#email-delivery}
             + [Información general sobre el canal de entrega](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [Limitación de la conexión de correo electrónico](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Configuración de un canal de entrega personalizado](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + Enviar un correo electrónico de ventas
+         + Enviar un correo electrónico de ventas {#send-a-sales-email}
             + [La campaña ha finalizado](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC o CCO en los correos electrónicos](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [Correo electrónico marcado como correo no deseado](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + La fuente directa {#the-live-feed}
             + [Ubicación de destinatario incorrecta](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Información general de la fuente en directo](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + Cancelaciones de suscripción
+         + Cancelaciones de suscripción {#unsubscribes}
             + [Anexar automáticamente la configuración del mensaje de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [Personalizar mensaje de vínculo de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Verificar cancelación de suscripción de Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1252,7 +1252,7 @@ ht-degree: 96%
             + [Tarjeta de historial de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [Página de destino del vínculo de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
             + [Información general de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
-         + Usar la ventana de composición
+         + Usar la ventana de composición {#using-the-compose-window}
             + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
             + [Añadir contenido de Highspot al correo electrónico](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opciones de envío masivo](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
@@ -1261,7 +1261,7 @@ ht-degree: 96%
             + [Enviar un correo electrónico rastreado](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Enviar correos electrónicos mediante correo electrónico de grupo](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Usar una plantilla en la ventana de composición](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + Preguntas frecuentes
+      + Preguntas frecuentes {#faq}
          + [¿Puedo recuperar un contacto o grupo que he eliminado?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Preguntas frecuentes sobre contenido y archivos adjuntos](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [¿Sales Connect tiene una aplicación de iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1274,19 +1274,19 @@ ht-degree: 96%
          + [¿Por qué no se inserta a ninguno de mis contactos en Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [¿Por qué no se insertaron todos mis contactos en Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
-      + Integraciones
+      + Integraciones {#integrations}
          + [Registrar correos electrónicos a otros CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
-      + Marketo
+      + Marketo {#marketo}
          + [Configurar la conexión de Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Otorgar acceso a usuarios](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interesantes en Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Hacer que una campaña esté visible para los usuarios de Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glosario de actividad de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Activador y filtros de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Personas
+      + Personas {#people}
          + [Vista de detalle de persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect y el cumplimiento del RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + Administrar contactos
+         + Administrar contactos {#manging-contacts}
             + [Acciones masivas en personas](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [Crear y eliminar contactos](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Tipos de grupos](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
@@ -1294,7 +1294,7 @@ ht-degree: 96%
             + [Importar contactos mediante CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Administrar grupos](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Columnas de la página Personas](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + Teléfono
+      + Teléfono {#phone}
          + [Las llamadas no se registran en Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Resultados de las llamadas](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Motivos de la llamada](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1307,11 +1307,11 @@ ht-degree: 96%
          + [Información general sobre el teléfono de ventas](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [Compartir grabaciones de llamadas con su equipo](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Configuración del consentimiento entre dos partes](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + Tareas
+      + Tareas {#tasks}
          + [Crear y asignar tareas de recordatorio](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Sincronización de las tareas de recordatorio con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sincronización de las tareas de Sales Connect con Salesforce por primera vez](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
-      + Plantillas
+      + Plantillas {#templates}
          + [Administrar plantillas](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Añadir texto con hipervínculos](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [Plantillas recomendadas](product-docs/marketo-sales-connect/templates/recommended-templates.md)
@@ -1328,17 +1328,17 @@ ht-degree: 96%
    + Marketo Sales Insight {#marketo-sales-insight}
       + Acciones {#actions}
          + [Información general sobre la función de acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + Introducción
+         + Introducción {#getting-started}
             + [Guía de incorporación del usuario de acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Lista de comprobación de incorporación de usuarios de acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Guía de configuración de administración de acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Límites de uso del producto](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
-            + Configuración del correo electrónico
+            + Configuración del correo electrónico {#email-settings}
                + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Añadir o actualizar la firma del correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Añadir identidad](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + Administrador
+         + Administrador {#admin}
             + [Inicio de sesión automático desde Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Dominios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Conectar el nuevo administrador a Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1350,13 +1350,13 @@ ht-degree: 96%
             + [Configuración del uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Sincronizar datos de acción de ventas con Marketo y Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Detalles de acceso del usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics
+         + Analytics {#analytics}
             + [Información general sobre la página de análisis](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Explicación de la pestaña Contenido](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [Explicación de la pestaña Yo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Explicación de la pestaña Equipo](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [Participación en la plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
-         + Campañas
+         + Campañas {#campaigns}
             + {hide-from-toc}[Agregar a la campaña de mercadotecnia](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [La campaña ha finalizado](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Crear una campaña de ventas](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
@@ -1364,10 +1364,10 @@ ht-degree: 96%
             + [Tipos de pasos de campañas de ventas y tareas de recordatorio](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Ver la lista de campañas como otro usuario](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
-         + CRM
-            + Personalización de Salesforce
+         + CRM {#crm}
+            + Personalización de Salesforce {#salesforce-customization}
                + {hide-from-toc}[Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
-            + Integración de Salesforce
+            + Integración de Salesforce {#salesforce-integration}
                + [Configuración de la personalización de detalles de la actividad de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Conectar su cuenta de acciones de Insight de ventas a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + {hide-from-toc}[Desconectar Salesforce De Las Acciones De Insight De Ventas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
@@ -1383,36 +1383,36 @@ ht-degree: 96%
             + Acciones en Salesforce {#actions-in-salesforce}
                + [Uso del envío masivo de correo electrónico de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Uso de la adición masiva a la campaña de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
-         + Correo electrónico
-            + Centro de comandos
+         + Correo electrónico {#email}
+            + Centro de comandos {#command-center}
                + [Información general sobre la búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Asignación de tareas a los integrantes del equipo](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
                + [Información general sobre el centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [Columnas de correo electrónico y diseño de página del correo electrónico](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Acciones rápidas en el centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
-            + Entrega de correo electrónico
+            + Entrega de correo electrónico {#email-delivery}
                + [Información general sobre el canal de entrega](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Limitación de la conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configurar un canal de entrega personalizado para su equipo](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Cancelaciones de suscripción
+            + Cancelaciones de suscripción {#unsubscribes}
                + [Información general de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Anexar automáticamente la configuración del mensaje de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [Personalizar mensaje de vínculo de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Verificar cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronizar cancelaciones de suscripción con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
                + [Plantillas de correo electrónico de ventas transaccionales](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
-            + Usar la ventana de composición
+            + Usar la ventana de composición {#using-the-compose-window}
                + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [Opciones de correo electrónico masivo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + {hide-from-toc}[Componer correos electrónicos en lotes con Seleccionar y Enviar](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Enviar correos electrónicos mediante correo electrónico de grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Usar una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Integraciones de correo electrónico {#email-integrations}
-            + Gmail
+            + Gmail {#gmail}
                + [Conectar a Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Conectarse a Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + Preguntas frecuentes
+         + Preguntas frecuentes {#faq}
             + [¿Puedo recuperar un contacto o grupo que he eliminado?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [¿Puedo seguir a varios destinatarios con CC/CCO?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Preguntas frecuentes sobre contenido y archivos adjuntos](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1434,23 +1434,23 @@ ht-degree: 96%
             + [¿Por qué mis correos electrónicos se marcan como correo no deseado?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [¿Por qué ha finalizado mi campaña?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [¿Por qué la actividad de seguimiento no se muestra en la actividad de Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
-         + Integraciones
+         + Integraciones {#integrations}
             + [Integración de Highspot](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
-         + Marketo
+         + Marketo {#marketo}
             + [Conceder acceso a Marketo a los usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Momentos interesantes en las acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Hacer que una campaña esté visible para los usuarios de Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Activador y filtros de actividades de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glosario de actividad de acciones de Insight de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + {hide-from-toc}[Configurar la conexión de Marketo](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + Personas
+         + Personas {#people}
             + {hide-from-toc}[Vista de detalles de persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Acciones de Insight de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-            + Administrar contactos
+            + Administrar contactos {#managing-contacts}
                + [Acciones masivas en personas](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Administrar grupos](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + {hide-from-toc}[Columnas de página de personas](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + Teléfono
+         + Teléfono {#phone}
             + [Resultados de las llamadas](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [Motivos de la llamada](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [Registrar los motivos de la llamada y los resultados de la llamada en Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1458,11 +1458,11 @@ ht-degree: 96%
             + [Llamadas internacionales](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Presencia local](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Configuración del consentimiento entre dos partes](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Enviar un correo electrónico de ventas
+         + Enviar un correo electrónico de ventas {#send-a-sales-email}
             + [Información general de seguimiento de correo electrónico](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
-         + Tareas
+         + Tareas {#tasks}
             + [Sincronización de las tareas de recordatorio con Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-         + Plantillas
+         + Plantillas {#templates}
             + [Añadir texto con hipervínculos](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Campos dinámicos](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [Indicaciones de campo](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
@@ -1478,9 +1478,9 @@ ht-degree: 96%
          + [Usar Marketo Insights para Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Ver información e información de cuenta y en el correo de Google](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI para Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + Funciones
+         + Funciones {#features}
             + [Información general de funciones](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
-            + Pestaña Marketo
+            + Pestaña Marketo {#marketo-tab}
                + [Configuración de las vistas de MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [Mejores apuestas](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [Actividades de correo electrónico](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
@@ -1517,7 +1517,7 @@ ht-degree: 96%
             + [Añadir el acceso de Insight de ventas a los perfiles](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Añadir botones de acción masiva a Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + Funciones
+         + Funciones {#features}
             + [Información general sobre la función MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Información general sobre las funciones del panel de control de Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Integración de Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1530,7 +1530,7 @@ ht-degree: 96%
                + [Enviar un correo electrónico de prueba](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Compatibilidad con idiomas {#language-support}
                + [Preparar Insight de ventas para la asistencia multilingüe en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Pestaña Marketo
+            + Pestaña Marketo {#marketo-tab}
                + [Mejores apuestas](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Usar la fuente de posible cliente](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Pestaña de configuración MSI {#msi-configuration-tab}
@@ -1571,7 +1571,7 @@ ht-degree: 96%
    + Marketo Sky {#marketo-sky}
       + {hide-from-toc}[Comportamiento esperado](product-docs/marketo-sky/expected-behavior.md)
    + Marketing móvil {#mobile-marketing}
-      + Administrador
+      + Administrador {#admin}
          + [Añadir una aplicación móvil](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Añadir Vibes como un servicio de LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Autenticar la seguridad de acceso móvil](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1641,7 +1641,7 @@ ht-degree: 96%
       + [Resumen del contenido predictivo](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definición de una lista inteligente para actividades de contenido predictivo](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Información general sobre el análisis del contenido predictivo](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + Introducción
+      + Introducción {#getting-started}
          + [Configuración de objetivos del algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Crear patrones de contenido](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Implementar JavaScript para Content-AI](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1796,7 +1796,7 @@ ht-degree: 96%
          + [Información general avanzada de BI Analytics](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [Métricas y dimensiones](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
    + Administración de cuentas objetivo {#target-account-management}
-      + Configuración
+      + Configuración {#setup}
          + [Información general de administración de cuentas objetivo](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Introducción a TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Expedir una licencia](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -1843,7 +1843,7 @@ ht-degree: 96%
          + [Account-based Web Marketing con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Crear una nueva lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Crear un segmento mediante una lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + Introducción
+      + Introducción {#getting-started}
          + [Añadir subdominios en la configuración de la cuenta](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Editar regiones](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Inicio de sesión y administración de usuarios](product-docs/web-personalization/getting-started/login-and-user-management.md)
