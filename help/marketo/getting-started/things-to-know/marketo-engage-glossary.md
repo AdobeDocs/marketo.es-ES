@@ -42,9 +42,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
-source-wordcount: 6102
+source-wordcount: 6103
 ht-degree: 62%
 
 ---
@@ -163,7 +163,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr>
    <td>
     <div>
-     <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Campaña por lote</a></strong></p>
+     <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Campaña por lotes</a></strong></p>
     </div></td>
    <td><p>Una <strong>campaña</strong> dirigida a miembros cualificados mediante filtros o abono a listas. Las campañas por lotes se lanzan en un momento específico y afectan a un conjunto específico de personas a la vez. Las campañas por lotes se pueden configurar para que se repitan o ejecuten una vez.<br></p></td>
   </tr>
