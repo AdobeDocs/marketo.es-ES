@@ -3,7 +3,7 @@ description: 'Nueva interfaz de usuario de Marketo Engage: documentos de Marketo
 title: Nueva IU de Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Nueva IU de Marketo Engage {#new-ui}
 
-Gracias por participar en la versión beta de la nueva IU de Marketo Engage. Esta actualización moderniza el estilo de Marketo Engage y mejora la capacidad de respuesta, sin alterar la funcionalidad. Se accede a la nueva interfaz de usuario mediante una lista desplegable que aparece en la esquina superior derecha de la mayoría de las páginas de Marketo Engage.
+Gracias por participar en la versión beta de la nueva IU de Marketo Engage. Esta actualización moderniza el estilo de Marketo Engage y mejora la capacidad de respuesta sin alterar la funcionalidad. Se accede a la nueva interfaz de usuario mediante una lista desplegable que aparece en la esquina superior derecha de la mayoría de las páginas de Marketo Engage.
 
 ## Antes de comenzar {#before-starting}
 
