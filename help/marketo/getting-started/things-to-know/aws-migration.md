@@ -4,7 +4,7 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
+source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -74,7 +74,7 @@ Periódicamente se añaden nuevas fechas e información de centros de datos/pod,
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Direcciones IP que agregar {#ip-addresses}
@@ -99,9 +99,9 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Actualizaciones y asistencia
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support).
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
