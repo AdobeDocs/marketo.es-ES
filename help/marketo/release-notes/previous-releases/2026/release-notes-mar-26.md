@@ -40,7 +40,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Designer de correo electrónico - Componentes editables de HTML en fragmentos</strong>: en los fragmentos visuales, los campos editables son compatibles con los componentes de imagen, texto y botones a través del panel de propiedades del componente. Para los componentes de HTML, los campos editables se configuran de forma diferente, utilizando una sintaxis basada en variables dentro del código fuente del propio componente de HTML.
    </td>
    <td>Publicado</i></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componentes editables de HTML en fragmentos</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componentes editables de HTML en fragmentos</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Desaprobación de la característica SEO**: El martes 31 de marzo de 2026, Marketo Engage dejará de utilizar la característica de optimización del motor de búsqueda (SEO). Si no usas SEO de forma activa, no tienes que hacer nada. Si ha utilizado recientemente el SEO, tiene la opción de exportar los datos. [Más información](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=es){target="_blank"}.
 
 * **Límite de posibles clientes de combinación de API REST**: A partir del 31 de julio de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 
