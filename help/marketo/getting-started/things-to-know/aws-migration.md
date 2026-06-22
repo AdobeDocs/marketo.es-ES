@@ -93,7 +93,7 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <td>10:00 PDT<br>
    11:00 PDT</td>
   </tr>
-  </body>
+  &lt;/body>
 </table>
 
 ## Direcciones IP que agregar {#ip-addresses}
@@ -118,7 +118,7 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-</body>
+&lt;/body>
 </table>
 
 ## Actualizaciones y asistencia
