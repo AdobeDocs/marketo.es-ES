@@ -2,9 +2,9 @@
 description: Revise el ámbito de datos de Marketo AI, los controles de gobernanza y las consideraciones PII en los flujos de trabajo clave, como la importación de posibles clientes, el control de calidad del programa y la normalización de datos.
 title: Hoja de información de datos de Marketo AI
 badge: beta
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
 workflow-type: tm+mt
-source-wordcount: '1479'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -121,11 +121,11 @@ Esta sección resume los entornos en los que funciona Marketo AI y dónde se pro
 
 **No hay ningún almacén independiente entre usuarios:** El servicio no introduce una capa de almacenamiento o de uso compartido de datos entre usuarios independiente.
 
-## PII y consideraciones sobre privacidad de datos: ámbito de datos por tipo de flujo de trabajo
+## Ámbito de datos por tipo de flujo de trabajo
 
 Los datos procesados por Marketo AI están determinados por el patrón de uso del usuario y el flujo de trabajo específico invocado. No todos los flujos de trabajo requieren el procesamiento de datos de nivel de posible cliente.
 
-### Flujos de trabajo que solo procesan metadatos de campaña (sin PII de posible cliente)
+### Flujos de trabajo que solo aprovechan los metadatos de la campaña (sin información de posibles clientes)
 
 * Creación de programas a partir de instrucciones: genera estructuras de programas, campañas inteligentes, pasos de flujo y marcadores de posición de contenido a partir de instrucciones en lenguaje natural.
 * Clonación y traducción de correo electrónico: duplica y traduce el contenido de HTML de correo electrónico, las líneas de asunto y las copias de marketing entre las variantes de idioma.
@@ -134,9 +134,9 @@ Los datos procesados por Marketo AI están determinados por el patrón de uso de
 * Revisiones del centro de suscripciones y de la arquitectura del programa: analiza la lógica de campaña y la estructura del programa
 * Conocimiento del producto y directrices sobre prácticas recomendadas: proporciona respuestas de procedimientos de Marketo desde una capa de conocimiento compartida
 
-### Flujos de trabajo que procesan registros de nivel de cliente potencial (campos de contacto B2B estándar)
+### Flujos de trabajo que aprovechan los registros de nivel de cliente potencial (campos de contacto B2B estándar)
 
-* Investigación y solución de problemas de posibles clientes: examina los valores de los campos de posibles clientes individuales, el historial de actividades y la progresión del ciclo vital para diagnosticar por qué un posible cliente llegó o no a MQL o calificó para una campaña de marketing
+* Investigación y solución de problemas de posibles clientes: examina los valores de los campos de posibles clientes individuales proporcionados por el usuario, el historial de actividades y la progresión del ciclo vital para diagnosticar por qué un posible cliente alcanzó o no el estado MQL o calificó para una campaña de marketing
 * Importación y normalización de posibles clientes: procesa los datos de posibles clientes proporcionados por el usuario, incluidos los nombres, las direcciones de correo electrónico, los números de teléfono y los campos de la empresa, para la asignación, la limpieza y la deduplicación
 * Clasificación y enriquecimiento de posibles clientes: evalúa los registros de posibles clientes con una lógica de clasificación o puntuación definida por el usuario (por ejemplo, posibles clientes válidos frente a spam para el estado de la base de datos, personas con fines de personalización, posibles clientes empresariales con posibles clientes de correo electrónico corporativo frente a posibles clientes).
 * Auditorías de calidad de datos y capacidad de entrega: analiza los datos de participación de nivel de posible cliente, los patrones de rechazo y los registros duplicados para identificar problemas de estado de la base de datos
@@ -145,8 +145,7 @@ Los datos procesados por Marketo AI están determinados por el patrón de uso de
 ### Minimización de datos por diseño
 
 * En todos los casos, los datos enviados al modelo de IA se limitan a lo necesario para cumplir la solicitud de usuario específica dentro de ese flujo de trabajo
-* La API hereda los permisos de Marketo Engage existentes del usuario solicitante: no puede acceder a los registros de posibles clientes, campos o programas más allá de lo que el usuario ya puede ver a través de la interfaz de usuario del producto
-* Los flujos de trabajo de investigación y operaciones de datos requieren necesariamente datos de nivel de posible cliente, ya que el usuario solicita explícitamente a la API que analice, clasifique o actúe en esos registros
+* Marketo AI sigue los permisos de Marketo Engage existentes del usuario: no proporciona acceso a registros de posibles clientes, campos o programas más allá de lo que el usuario tiene permiso para ver a través de la interfaz de usuario del producto
 * Los usuarios que deseen limitar el procesamiento de datos de posibles clientes pueden restringir el acceso a los flujos de trabajo de investigación de la herramienta a través de los controles de funciones y permisos de Marketo Engage existentes, al tiempo que conservan el acceso completo a las capacidades de IA estructural y administrativa
 
 ### Sin exposición a datos incrementales
