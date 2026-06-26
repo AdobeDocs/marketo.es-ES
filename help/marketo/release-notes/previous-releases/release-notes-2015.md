@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: "2015"
 description: '2015: Documentos de Marketo: documentación del producto'
 feature: Release Information
 feature_v2:
@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 2816
+source-wordcount: 2871
 ht-degree: 1%
 
 ---
@@ -281,8 +281,7 @@ Consulte el valor que la personalización y el contenido recomendado proporciona
 
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
-Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
+Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

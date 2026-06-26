@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '392'
+ht-degree: 2%
 
 ---
 
@@ -56,51 +56,70 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <th style="width:30%">Hora</th>
   </tr>
   <tr>
-   <td>19 de junio de 2026</td>
-   <td>AB46</td>
-   <td>17:00 PST</td>
-  </tr>
-  <tr>
    <td>8 de julio de 2026</td>
    <td>AB69<br>
    AB64</td>
-   <td>17:00 PST<br>
-   18:00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
   <tr>
    <td>9 de julio de 2026</td>
    <td>AB70<br>
    AB43</td>
-   <td>17:00 PST<br>
-   18:00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+  </tr>
+  <tr>
+   <td>11 de julio de 2026</td>
+   <td>AB46</td>
+   <td>10:00 PDT</td>
+  </tr>
+  <tr>
+   <td>13 de julio de 2026</td>
+   <td>NLD101</td>
+   <td>10:00 PDT</td>
+  </tr>
+  <tr>
+   <td>15 de julio de 2026</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>10:00 PDT<br>
+   11:00 PDT</td>
+  </tr>
+  <tr>
+   <td>17 de julio de 2026</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>10:00 PDT<br>
+   11:00 PDT</td>
   </tr>
   &lt;/body>
-  </table>
+</table>
 
 ## Direcciones IP que agregar {#ip-addresses}
 
 En función de su centro de datos, colabore con su departamento de TI para añadir las direcciones IP correspondientes.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Centro de datos</th>
-   <th style="width:75%">Direcciones IP</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">Centro de datos</th>
+  <th style="width:75%">Direcciones IP</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+&lt;/body>
+</table>
 
 ## Actualizaciones y asistencia
 

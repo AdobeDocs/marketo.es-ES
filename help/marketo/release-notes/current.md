@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
+source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
 workflow-type: tm+mt
-source-wordcount: 695
-ht-degree: 17%
+source-wordcount: 758
+ht-degree: 16%
 
 ---
 
@@ -140,6 +140,8 @@ A principios de este año, los campos relacionados que se habían dejado atrás 
 * **Funcionalidad de combinación de API para campos booleanos**: El comportamiento de los campos booleanos en una combinación de API cambió en la versión de marzo de 2026. Ahora, un valor False se trata correctamente como si tuviera un valor para ese campo. Solo un valor nulo se trata como &quot;vacío&quot; al evaluar campos en conflicto. Vea [esta publicación de la comunidad](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=es){target="_blank"} para obtener más información.
 
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de julio de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Límite de posibles clientes de combinación de API REST**: A partir del 31 de julio de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 
 * **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 

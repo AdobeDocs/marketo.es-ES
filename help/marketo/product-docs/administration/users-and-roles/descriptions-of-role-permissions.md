@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 18%
 
 ---
@@ -68,7 +68,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Acceso `Data.com`: otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso a la administración de correo electrónico: otorga a los usuarios acceso a la administración de correo electrónico para cambiar la configuración predeterminada, como cancelar la suscripción y personalizar la marca de los dominios
 * Acceso a socios de eventos: otorga a los usuarios acceso a LaunchPoint en administración
-* Acceso al uso compartido de audiencias de Experience Cloud: otorga a los usuarios acceso para sincronizar una audiencia de Adobe Experience Cloud a Marketo Engage
+* Acceso compartido de audiencias de Experience Cloud: otorga a los usuarios acceso para sincronizar una audiencia de Adobe Experience Cloud a Marketo Engage
 * Acceso a Administración de campos: otorga a los usuarios acceso a Administración de campos en Administración
 * Carga de archivos de Access: permite a los usuarios cargar imágenes y archivos en Design Studio
 * Acceso a páginas de aterrizaje: otorga a los usuarios acceso a las páginas de aterrizaje en la administración
@@ -234,15 +234,10 @@ Vea la pestaña Actividades de marketing, las campañas y las carpetas de campa�
 * Eliminar recurso de marketing
 * Editar restricciones de campaña
 * Editar recurso de marketing
-* Exportar actividad de campaña&#42;
+* Exportar actividad de campaña
 * Importar programa
 * Lista de importación
 * Programar campaña por lotes
-
-Acceder al SEO
-
-* Administrar SEO
-* SEO estándar
 
 ## Enfoque y personalización {#targeting-and-personalization}
 
