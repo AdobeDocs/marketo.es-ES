@@ -2,7 +2,7 @@
 description: Revise el ámbito de datos de Marketo AI, los controles de gobernanza y las consideraciones PII en los flujos de trabajo clave, como la importación de posibles clientes, el control de calidad del programa y la normalización de datos.
 title: Hoja de información de datos de Marketo AI
 badge: beta
-source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
+source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
 workflow-type: tm+mt
 source-wordcount: '1454'
 ht-degree: 0%
@@ -127,25 +127,25 @@ Los datos procesados por Marketo AI están determinados por el patrón de uso de
 
 ### Flujos de trabajo que solo aprovechan los metadatos de la campaña (sin información de posibles clientes)
 
-* Creación de programas a partir de instrucciones: genera estructuras de programas, campañas inteligentes, pasos de flujo y marcadores de posición de contenido a partir de instrucciones en lenguaje natural.
-* Clonación y traducción de correo electrónico: duplica y traduce el contenido de HTML de correo electrónico, las líneas de asunto y las copias de marketing entre las variantes de idioma.
+* Creación de programas a partir de información breve: genera estructuras de programas, campañas inteligentes, pasos de flujo y marcadores de posición de contenido a partir de instrucciones en lenguaje natural
+* Clonación y traducción de correo electrónico: duplica y traduce el contenido de HTML de correo electrónico, las líneas de asunto y la copia de marketing entre las variantes de idioma
 * Auditoría de campañas: revisa las configuraciones de campañas inteligentes, las definiciones de déclencheur/filtros, la lógica de flujo y las convenciones de nomenclatura
-* Validación de control de calidad del programa: evalúa los programas según las reglas de cumplimiento definidas por el usuario, el estado de aprobación y la integridad estructural
-* Revisiones del centro de suscripciones y de la arquitectura del programa: analiza la lógica de campaña y la estructura del programa
-* Conocimiento del producto y directrices sobre prácticas recomendadas: proporciona respuestas de procedimientos de Marketo desde una capa de conocimiento compartida
+* Validación de control de calidad del programa: evalúa los programas según las reglas definidas por el usuario para el cumplimiento, el estado de aprobación y la integridad estructural
+* Revisiones del centro de suscripciones y la arquitectura del programa: analiza la lógica de campaña y la estructura del programa
+* Conocimiento del producto e instrucciones sobre las prácticas recomendadas: proporciona respuestas de procedimientos de Marketo desde una capa de conocimiento compartida
 
 ### Flujos de trabajo que aprovechan los registros de nivel de cliente potencial (campos de contacto B2B estándar)
 
 * Investigación y solución de problemas de posibles clientes: examina los valores de los campos de posibles clientes individuales proporcionados por el usuario, el historial de actividades y la progresión del ciclo vital para diagnosticar por qué un posible cliente alcanzó o no el estado MQL o calificó para una campaña de marketing
-* Importación y normalización de posibles clientes: procesa los datos de posibles clientes proporcionados por el usuario, incluidos los nombres, las direcciones de correo electrónico, los números de teléfono y los campos de la empresa, para la asignación, la limpieza y la deduplicación
-* Clasificación y enriquecimiento de posibles clientes: evalúa los registros de posibles clientes con una lógica de clasificación o puntuación definida por el usuario (por ejemplo, posibles clientes válidos frente a spam para el estado de la base de datos, personas con fines de personalización, posibles clientes empresariales con posibles clientes de correo electrónico corporativo frente a posibles clientes).
+* Importación y normalización de posibles clientes: procesa los datos de posibles clientes proporcionados por el usuario, incluidos nombres, direcciones de correo electrónico, números de teléfono y campos de empresa, para la asignación, limpieza y deduplicación
+* Clasificación y enriquecimiento de posibles clientes: evalúa los registros de posibles clientes con una puntuación definida por el usuario o lógica de clasificación (por ejemplo, posibles clientes válidos frente a spam para el estado de la base de datos, personas con fines de personalización, posibles clientes empresariales con posibles clientes de correo electrónico corporativo frente a posibles clientes)
 * Auditorías de calidad de datos y capacidad de entrega: analiza los datos de participación de nivel de posible cliente, los patrones de rechazo y los registros duplicados para identificar problemas de estado de la base de datos
-* Análisis del rendimiento de la campaña: muestra patrones de participación de posibles clientes, datos de conversión y composición de audiencias para admitir el análisis del rendimiento
+* Análisis del rendimiento de Campaign: muestra patrones de participación de posibles clientes, datos de conversión y composición de audiencias para admitir el análisis del rendimiento
 
 ### Minimización de datos por diseño
 
 * En todos los casos, los datos enviados al modelo de IA se limitan a lo necesario para cumplir la solicitud de usuario específica dentro de ese flujo de trabajo
-* Marketo AI sigue los permisos de Marketo Engage existentes del usuario: no proporciona acceso a registros de posibles clientes, campos o programas más allá de lo que el usuario tiene permiso para ver a través de la interfaz de usuario del producto
+* Marketo AI sigue los permisos de Marketo Engage existentes del usuario; no proporciona acceso a registros de posibles clientes, campos o programas más allá de lo que el usuario tiene permiso para ver a través de la interfaz de usuario del producto
 * Los usuarios que deseen limitar el procesamiento de datos de posibles clientes pueden restringir el acceso a los flujos de trabajo de investigación de la herramienta a través de los controles de funciones y permisos de Marketo Engage existentes, al tiempo que conservan el acceso completo a las capacidades de IA estructural y administrativa
 
 ### Sin exposición a datos incrementales
