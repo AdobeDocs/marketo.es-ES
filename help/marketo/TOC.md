@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
 source-wordcount: '8898'
 ht-degree: 96%
@@ -1107,10 +1107,10 @@ ht-degree: 96%
             + [Usar el token de información de envío de alerta](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Uso de los URL en Mis tókenes](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [CC del correo electrónico](product-docs/email-marketing/general/email-cc.md)
-   + MARKETO AI {#marketo-ai}
+   + IA de Marketo {#marketo-ai}
       + [Información general](product-docs/marketo-ai/overview.md)
       + [Configuración y configuración](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Hoja de información de datos de Marketo AI](product-docs/marketo-ai/data-information.md)
+      + [Hoja de información de datos de Marketo AI](product-docs/marketo-ai/data-information.md)
       + Aptitudes {#skills}
          + [Conocimiento del producto](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[Perspectivas de superficie](product-docs/marketo-ai/skills/surface-insights.md)

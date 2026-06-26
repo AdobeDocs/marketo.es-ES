@@ -1,11 +1,10 @@
 ---
-description: Explore el conjunto de agentes de IA de Marketo diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
+description: Revise el ámbito de datos de Marketo AI, los controles de gobernanza y las consideraciones PII en los flujos de trabajo clave, como la importación de posibles clientes, el control de calidad del programa y la normalización de datos.
 title: Hoja de información de datos de Marketo AI
 badge: beta
-hide: true
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
-source-wordcount: '1478'
+source-wordcount: '1479'
 ht-degree: 0%
 
 ---
@@ -56,7 +55,7 @@ Marketo AI es una función nativa y agéntica de Adobe Marketo Engage que permit
 
 ## Casos de uso
 
-Además de los enumerados, considere la posibilidad de utilizar la IA de Marketo para diagnosticar y solucionar problemas operativos complejos (errores de sincronización de CRM, errores de ganchos web, análisis de causas raíz de entrega de correo electrónico, discrepancias de campos), realice auditorías en toda la cuenta (capacidad de entrega de correo electrónico, conformidad con el centro de suscripciones, revisiones de campañas inteligentes, evaluaciones del modelo de puntuación) y acelere la creación de programas a partir de informes y plantillas (programas de eventos, campañas de correo electrónico en varios idiomas, configuraciones de seminarios web). Adicionales está diseñado para ayudar con la clasificación de posibles clientes asistida por IA y el enriquecimiento de datos a escala, análisis de rendimiento con recomendaciones de corrección y depuración guiada de configuraciones técnicas como scripts de Velocity y modelos de ciclo vital.
+Además de los enumerados, considere la posibilidad de utilizar la IA de Marketo para diagnosticar y solucionar problemas operativos complejos (errores de sincronización de CRM, errores de ganchos web, análisis de causas raíz de entrega de correo electrónico, discrepancias de campos), realice auditorías en toda la cuenta (capacidad de entrega de correo electrónico, conformidad con el centro de suscripciones, revisiones de campañas inteligentes, evaluaciones del modelo de puntuación) y acelere la creación de programas a partir de informes y plantillas (programas de eventos, campañas de correo electrónico en varios idiomas, configuraciones de seminarios web). La IA de Marketo está diseñada para proporcionar clasificación de posibles clientes asistida por IA y enriquecimiento de datos a escala, análisis de rendimiento con recomendaciones de corrección y depuración guiada de configuraciones técnicas como scripts de Velocity y modelos de ciclo vital.
 
 ## Disponibilidad y estado de despliegue
 
@@ -122,9 +121,7 @@ Esta sección resume los entornos en los que funciona Marketo AI y dónde se pro
 
 **No hay ningún almacén independiente entre usuarios:** El servicio no introduce una capa de almacenamiento o de uso compartido de datos entre usuarios independiente.
 
-## PII y consideraciones de privacidad de datos
-
-### Ámbito de datos por tipo de flujo de trabajo
+## PII y consideraciones sobre privacidad de datos: ámbito de datos por tipo de flujo de trabajo
 
 Los datos procesados por Marketo AI están determinados por el patrón de uso del usuario y el flujo de trabajo específico invocado. No todos los flujos de trabajo requieren el procesamiento de datos de nivel de posible cliente.
 
@@ -150,7 +147,7 @@ Los datos procesados por Marketo AI están determinados por el patrón de uso de
 * En todos los casos, los datos enviados al modelo de IA se limitan a lo necesario para cumplir la solicitud de usuario específica dentro de ese flujo de trabajo
 * La API hereda los permisos de Marketo Engage existentes del usuario solicitante: no puede acceder a los registros de posibles clientes, campos o programas más allá de lo que el usuario ya puede ver a través de la interfaz de usuario del producto
 * Los flujos de trabajo de investigación y operaciones de datos requieren necesariamente datos de nivel de posible cliente, ya que el usuario solicita explícitamente a la API que analice, clasifique o actúe en esos registros
-* Los usuarios que deseen limitar el procesamiento de los datos de posibles clientes pueden restringir el acceso a las herramientas y a los flujos de trabajo de investigación mediante los controles de funciones y permisos de Marketo Engage existentes, al tiempo que conservan el acceso completo a las capacidades de IA estructural y administrativa
+* Los usuarios que deseen limitar el procesamiento de datos de posibles clientes pueden restringir el acceso a los flujos de trabajo de investigación de la herramienta a través de los controles de funciones y permisos de Marketo Engage existentes, al tiempo que conservan el acceso completo a las capacidades de IA estructural y administrativa
 
 ### Sin exposición a datos incrementales
 
