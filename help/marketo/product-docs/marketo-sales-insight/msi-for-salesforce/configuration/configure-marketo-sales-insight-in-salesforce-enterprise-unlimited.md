@@ -5,17 +5,13 @@ title: Configuración de Marketo Sales Insight en Salesforce para empresas y sin
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 946
-ht-degree: 4%
+source-wordcount: 977
+ht-degree: 3%
 
 ---
 
@@ -104,6 +100,10 @@ Para configurar Marketo Sales Insight en las ediciones Enterprise/Unlimited de S
    >_Usted_ elige **[!UICONTROL Nombre de sitio remoto]** (`MarketoAPI` se usa aquí). La **[!UICONTROL URL del sitio remoto]** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API en el paso 3 de la sección &quot;Configuración de Sales Insight en Marketo&quot;.
 
 ## Concesión de acceso al perfil de los usuarios de Sales Insight a objetos estándar de Salesforce {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>Se requiere la licencia estándar de Salesforce para la funcionalidad completa de MSI. Los usuarios con la licencia de Salesforce Platform (una clase de licencia limitada) pueden ver errores al realizar determinadas acciones o al acceder a algunas pestañas.
 
 Debido a las mejoras de seguridad de Salesforce, los paquetes de AppExchange ya no pueden conceder permiso a objetos estándar y se debe conceder acceso a los objetos de Salesforce relevantes desde el perfil del usuario de Salesforce. Para conceder los permisos necesarios, siga estos pasos.
 

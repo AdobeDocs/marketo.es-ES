@@ -4,16 +4,13 @@ title: Añadir conjunto de permisos de Insight de ventas
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 3%
+source-wordcount: 393
+ht-degree: 2%
 
 ---
 
@@ -27,7 +24,9 @@ Siga estos pasos para agregar acceso a las características de [!DNL Sales Insig
 
 >[!IMPORTANT]
 >
->Si anteriormente ha dado acceso a [!DNL Sales Insight] a todos los perfiles o ha implementado [!DNL Sales Insight] para todos los usuarios, debe [quitar el acceso de nivel de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para usar este conjunto de permisos.
+>* Si anteriormente dio acceso a [!DNL Sales Insight] a todos los perfiles o implementó [!DNL Sales Insight] para todos los usuarios, debe [quitar el acceso de nivel de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para usar este conjunto de permisos.
+>
+>* Se requiere la licencia estándar de Salesforce para la funcionalidad completa de MSI. Los usuarios con la licencia de Salesforce Platform (una clase de licencia limitada) pueden ver errores al realizar determinadas acciones o al acceder a algunas pestañas.
 
 ## Información general {#overview}
 
@@ -120,4 +119,4 @@ El permiso &quot;Aplicación Marketo&quot; forma parte del paquete [!DNL Sales I
 >
 >Los usuarios que no tengan acceso a [!DNL Sales Insight] verán este mensaje: &quot;No cuenta con privilegios suficientes para acceder a esta ficha&quot;.
 
-¡Eso es todo! Ha agregado correctamente el acceso de [!DNL Sales Insight]. Repita los mismos pasos para cualquier otro perfil al que desee agregar acceso.
+¡Ya está! Ha agregado correctamente el acceso de [!DNL Sales Insight]. Repita los mismos pasos para cualquier otro perfil al que desee agregar acceso.
