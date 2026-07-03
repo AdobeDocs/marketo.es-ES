@@ -17,22 +17,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 483
+ht-degree: 22%
 
 ---
 
-# Notas de la versión: mayo de 2026 {#release-notes-may-26}
+# Notas de la versión: 2 de julio #1 2026 {#release-notes-july-26-one}
 
-A continuación encontrará todas las funciones incluidas en la versión de mayo de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la primera versión de julio de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **22 de mayo de 2026**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **10 de julio de 2026**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +42,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Contenido condicional para fragmentos de correo electrónico</strong>: <i>Paridad con el antiguo editor de correo electrónico</i>. Ahora se admite contenido condicional para los fragmentos.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td><strong>Conocimiento de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para responderla.</td>
+   <td>Abrir versión beta</td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Información general sobre Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,10 +52,21 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Administración de listas de selección</strong>: ahora puede especificar los valores que se pueden usar en los campos en Marketo Engage.
-   </td>
+   <td><strong>Habilidad de Marketo AI: investigar posibles clientes</strong>: descubra por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
+</td>
+   <td>Abrir versión beta</td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Información general sobre Marketo AI</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Menú contextual del Asistente de IA</strong>: Ahora se puede acceder a las funciones del Asistente de IA del Designer de correo electrónico desde el menú contextual (la barra negra). Por ejemplo, al seleccionar contenido de texto, el icono Asistente de IA aparece en el menú contextual, lo que le permite realizar acciones rápidas desde allí.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
+  </tr>
   </tr>
   </tbody>
 </table>
@@ -63,17 +74,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
-* **Campos de obsolescencia de funciones sociales**: en 2025, Marketo Engage dejó de utilizar las siguientes funciones sociales:
-
-   * Sondeos
-   * Botón social
-   * Oferta de referencia
-   * Compartir video
-   * Sorteos
-
-A principios de este año, los campos relacionados que se habían dejado atrás se eliminaron de Marketo. Poco después, las solicitudes de API que hacían referencia a ciertos campos de posibles clientes relacionados con Social devolvieron un error de &quot;campo no encontrado&quot;, lo que provocó interrupciones. El servicio se restauró después de que los campos afectados volvieran a estar disponibles, por lo que, para evitar más interrupciones, Marketo ha disociado permanentemente los campos de Social de la obsolescencia de las funciones de Social (y, como tales, estarán disponibles en su cuenta de Marketo). Se recomienda a los usuarios revisar las consultas e integraciones de API que hacen referencia a campos relacionados con Marketo Social y determinar si esos campos siguen siendo necesarios para los procesos empresariales en curso.
-
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de julio de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Límite de posibles clientes de combinación de API REST**: A partir del 31 de julio de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 
 * **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 

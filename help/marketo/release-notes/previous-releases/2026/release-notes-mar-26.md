@@ -1,11 +1,11 @@
 ---
 description: 'Notas de la versión, marzo de 2026: Documentos de Marketo: documentación del producto'
-title: Notas de la versión, febrero de 2026
+title: Notas de la versión, marzo de 2026
 feature: Release Information
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '533'
+ht-degree: 18%
 
 ---
 
@@ -37,8 +37,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Componentes editables de HTML en fragmentos</strong>: en los fragmentos visuales, los campos editables son compatibles con los componentes de imagen, texto y botones a través del panel de propiedades del componente. Para los componentes de HTML, los campos editables se configuran de forma diferente, utilizando una sintaxis basada en variables dentro del código fuente del propio componente de HTML.
-   </td>
+   <td><strong>Designer de correo electrónico - Componentes editables de HTML en fragmentos</strong>: en los fragmentos visuales, los campos editables son compatibles con los componentes de imagen, texto y botones a través del panel de propiedades del componente. Para los componentes de HTML, los campos editables se configuran de forma diferente, utilizando una sintaxis basada en variables dentro del código fuente del propio componente de HTML.</td>
    <td>Publicado</i></td>
    <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componentes editables de HTML en fragmentos</a></td>
   </tr>
@@ -48,8 +47,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Acciones rápidas</strong>: <i>Paridad con el antiguo editor de correo electrónico</i>. Ahora hay acciones rápidas disponibles para todos los recursos de Designer de correo electrónico (correos electrónicos, plantillas de correo electrónico, fragmentos). Las acciones rápidas admitidas son: Duplicar, Eliminar, Mover, Crear/Editar borrador.
-   </td>
+   <td><strong>Designer de correo electrónico - Acciones rápidas</strong>: <i>Paridad con el antiguo editor de correo electrónico</i>. Ahora hay acciones rápidas disponibles para todos los recursos de Designer de correo electrónico (correos electrónicos, plantillas de correo electrónico, fragmentos). Las acciones rápidas admitidas son: Duplicar, Eliminar, Mover, Crear/Editar borrador.</td>
    <td>Publicado</i></td>
    <td>n/a</td>
   </tr>
@@ -59,8 +57,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Email Designer - Corrección de procesamiento de Outlook</strong>: Esta actualización corrige los problemas de procesamiento, especialmente en MS Outlook. El modo avanzado de HTML le permite realizar pequeñas ediciones de HTML/CSS o añadir etiquetas de script a la plantilla de correo electrónico.
-   </td>
+   <td><strong>Email Designer - Corrección de procesamiento de Outlook</strong>: Esta actualización corrige los problemas de procesamiento, especialmente en MS Outlook. El modo avanzado de HTML le permite realizar pequeñas ediciones de HTML/CSS o añadir etiquetas de script a la plantilla de correo electrónico.</td>
    <td>Publicado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Edición de plantillas de correo electrónico con el editor avanzado de HTML</a></td>
   </tr>
