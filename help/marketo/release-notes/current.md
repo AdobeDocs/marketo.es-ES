@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: 481
 ht-degree: 22%
 
 ---
@@ -41,9 +41,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Conocimiento de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para responderla.</td>
+   <td><strong>Habilidad de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para responderla.</td>
    <td>Abrir versión beta</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Información general sobre Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Habilidad de Marketo AI: investigar posibles clientes</strong>: descubra por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
 </td>
    <td>Abrir versión beta</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Información general sobre Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
   </tr>
   <tr>
    <td> </td>
