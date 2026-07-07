@@ -4,7 +4,7 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ En los próximos meses, todas las suscripciones de Marketo Engage se migrarán d
 
 Recibirá un correo electrónico y una notificación en la aplicación aproximadamente 30 días antes de la migración. Utilice esta guía para prepararse.
 
-## Acciones recomendadas
+## Acciones recomendadas {#actions}
 
 Durante la ventana de migración, todos los servicios de Marketo Engage no estarán disponibles. Recomendamos realizar los siguientes pasos para mitigar cualquier impacto en su negocio.
 
@@ -33,7 +33,7 @@ Durante la ventana de migración, todos los servicios de Marketo Engage no estar
 
 * **Agregue nuevas direcciones IP** y mantenga sus direcciones IP actuales tal cual. Consulte las direcciones IP que desea agregar en la [tabla siguiente](#ip-addresses).
 
-## Impactos previstos en el servicio
+## Impactos previstos en el servicio {#impacts}
 
 Los impactos siguientes no requieren ninguna acción por su parte.
 
@@ -93,7 +93,7 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <td>10:00 PDT<br>
    11:00 PDT</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## Direcciones IP que agregar {#ip-addresses}
@@ -118,9 +118,9 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## Actualizaciones y asistencia
+## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
