@@ -6,9 +6,9 @@ description: Obtenga información sobre cómo configurar Marketo Engage para la 
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ En el Designer de correo electrónico, la casilla de verificación **Deshabilita
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. En el paso de flujo, haga clic en **Agregar opción**. En la opción 1, establezca **if** en _EmailPixelTracking_, establezca el operador en _is_ y establezca el valor en _false_. Para **Correo electrónico**, seleccione _Correo electrónico dos_.
+1. En el paso de flujo, haga clic en **Agregar opción**. En la opción 1, establezca **if** en _Seguimiento de píxeles de correo electrónico_, establezca el operador en _is_ y establezca el valor en _false_. Para **Correo electrónico**, seleccione _Correo electrónico dos_.
 
 1. En la opción predeterminada, establezca **Correo electrónico** en _Correo electrónico uno_.
 
