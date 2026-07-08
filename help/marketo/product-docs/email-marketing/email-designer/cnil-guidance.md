@@ -29,7 +29,7 @@ Aprenda a configurar Marketo Engage para que respete el consentimiento del usuar
 
 ## Paso 2: Rellenar el campo de consentimiento {#populate}
 
-1. Establezca el valor del campo Seguimiento de píxeles de correo electrónico para cada persona a través de la importación de datos (sincronización de API o [carga CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Establezca el valor del campo Seguimiento de píxeles de correo electrónico para cada persona a través de la importación de datos (sincronización de API o [carga CSV](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -63,7 +63,7 @@ En el Designer de correo electrónico, la casilla de verificación **Deshabilita
 
 ## Paso 4: Configuración de la campaña inteligente {#smart-campaign}
 
-[Cree una campaña inteligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qué correo electrónico recibe cada persona.
+[Cree una campaña inteligente](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qué correo electrónico recibe cada persona.
 
 1. En la pestaña _Flujo_ de su campaña inteligente, inserte el paso de flujo **Enviar correo electrónico**.
 
