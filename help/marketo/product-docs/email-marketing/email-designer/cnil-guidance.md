@@ -6,10 +6,10 @@ description: Obtenga información sobre cómo configurar Marketo Engage para la 
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
+source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 1%
+source-wordcount: '419'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Aprenda a configurar Marketo Engage para que respete el consentimiento del usuar
 
 ## Paso 2: Rellenar el campo de consentimiento {#populate}
 
-1. Establezca el valor del campo EmailPixelTracking para cada persona a través de la importación de datos (sincronización de API o carga de CSV).
+1. Establezca el valor del campo Seguimiento de píxeles de correo electrónico para cada persona a través de la importación de datos (sincronización de API o [carga CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -51,7 +51,7 @@ Cree dos correos electrónicos. Tenga en cuenta que el seguimiento de aperturas 
 
   ![](assets/cnil-5.png)
 
-En el Designer de correo electrónico, la casilla de verificación **Deshabilitar seguimiento de aperturas** se encuentra en la pestaña _Detalles_ del panel _Resumen_, a la derecha del correo electrónico. En el editor de correo electrónico heredado, se encuentra la casilla de verificación **Deshabilitar seguimiento de aperturas** en el menú _Editar configuración_.
+En el Designer de correo electrónico, la casilla de verificación **Deshabilitar seguimiento de aperturas** se encuentra en la pestaña _Detalles_ del panel _Resumen_, a la derecha del correo electrónico. En el editor de correo electrónico heredado, se encuentra la casilla de verificación **Deshabilitar seguimiento de aperturas** en el menú _Configuración de correo electrónico_.
 
 **Diseñador de correo electrónico**
 
@@ -63,7 +63,7 @@ En el Designer de correo electrónico, la casilla de verificación **Deshabilita
 
 ## Paso 4: Configuración de la campaña inteligente {#smart-campaign}
 
-Cree una campaña inteligente para determinar qué correo electrónico recibe cada persona.
+[Cree una campaña inteligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qué correo electrónico recibe cada persona.
 
 1. En la pestaña _Flujo_ de su campaña inteligente, inserte el paso de flujo **Enviar correo electrónico**.
 
