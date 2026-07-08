@@ -1,19 +1,18 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 'Cumplimiento de las directrices de CNIL: seguimiento condicional de aperturas de correo electrónico'
+title: 'Directrices de CNIL: seguimiento condicional de aperturas por correo electrónico'
 description: Obtenga información sobre cómo configurar Marketo Engage para la conformidad con CNIL mediante un campo booleano personalizado para dirigir el seguimiento de aperturas de correo electrónico en función del estado de consentimiento de cada persona.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-# Cumplimiento de las directrices de CNIL: seguimiento condicional de aperturas por correo electrónico {#cnil}
+# Directrices de CNIL: seguimiento condicional de aperturas por correo electrónico {#cnil}
 
 Aprenda a configurar Marketo Engage para que respete el consentimiento del usuario final para el seguimiento de aperturas de correo electrónico (píxeles), en consonancia con las directrices de CNIL (VÍNCULO DE LA COMUNIDAD). El método utiliza un campo booleano personalizado para determinar qué variante de correo electrónico recibe una persona, una con el seguimiento de aperturas habilitado o otra con él deshabilitado.
 
