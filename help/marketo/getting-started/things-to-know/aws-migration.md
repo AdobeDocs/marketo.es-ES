@@ -4,9 +4,9 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
+source-git-commit: 959b1599d48d5e496f012b515a9d8f9a528431e0
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -64,10 +64,8 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
   </tr>
   <tr>
    <td>9 de julio de 2026</td>
-   <td>AB70<br>
-   AB43</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <td>AB70</td>
+   <td>17:00 PDT</td>
   </tr>
   <tr>
    <td>11 de julio de 2026</td>
@@ -148,4 +146,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
