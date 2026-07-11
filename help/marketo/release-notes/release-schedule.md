@@ -11,10 +11,10 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 165
-ht-degree: 78%
+source-wordcount: 152
+ht-degree: 83%
 
 ---
 
@@ -60,18 +60,13 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Julio de 2026 (1 de 2)</a></td>
+  <td><a href="/help/marketo/release-notes/current.md">Julio del 26</a></td>
    <td>10 de julio de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
-  <td>Julio de 2026 (2 de 2)</td>
-   <td>31 de julio de 2026</td>
-   <td>Según lo programado</td>
-  </tr>
-  <tr>
   <td>Agosto del 26</td>
-   <td>28 de agosto de 2026</td>
+   <td>14 de agosto de 2026</td>
    <td>Según lo programado</td>
   </tr>
   <tr>
