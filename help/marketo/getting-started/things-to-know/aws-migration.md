@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -51,9 +51,10 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">Fecha</th>
-   <th style="width:20%">Centro de datos/Pod</th>
-   <th style="width:30%">Hora</th>
+   <th style="width:25%">Fecha</th>
+   <th style="width:25%">Centro de datos/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Estado</th>
   </tr>
   <tr>
    <td>8 de julio de 2026</td>
@@ -61,21 +62,26 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    AB64</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Finalizaciones<br>
+   Completado</td>
   </tr>
   <tr>
    <td>9 de julio de 2026</td>
    <td>AB70</td>
    <td>17:00 PDT</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td>11 de julio de 2026</td>
    <td>AB46</td>
    <td>10:00 PDT</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td>13 de julio de 2026</td>
    <td>NLD101</td>
    <td>10:00 PDT</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td>15 de julio de 2026</td>
@@ -83,6 +89,8 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   <tr>
    <td>17 de julio de 2026</td>
@@ -90,6 +98,8 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    NLD105</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   <tr>
    <td>21 de julio de 2026</td>
@@ -97,16 +107,20 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    AB56</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   <tr>
    <td>23 de julio de 2026</td>
    <td>AB48</td>
    <td>17:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   <tr>
    <td>31 de julio de 2026</td>
    <td>AB43</td>
    <td>15:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   <tr>
    <td>12 de agosto de 2026</td>
@@ -114,10 +128,13 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    AB17</td>
    <td>15:00 PDT<br>
    16:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   <td>13 de agosto de 2026</td>
    <td>AB68</td>
    <td>16:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   </body>
 </table>
@@ -149,4 +166,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
