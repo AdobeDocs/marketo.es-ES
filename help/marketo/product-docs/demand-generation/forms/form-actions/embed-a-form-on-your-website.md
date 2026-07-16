@@ -12,49 +12,45 @@ feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 7%
+source-wordcount: 212
+ht-degree: 5%
 
 ---
 
 # Incrustar un formulario en el sitio web {#embed-a-form-on-your-website}
 
-Marketo le permite incrustar los formularios en su propio sitio web. A continuación, se indica cómo obtener acceso al código incrustado.
+Acceda al código incrustado de un formulario para alojarlo en su propio sitio web.
 
-1. Vaya a **[!UICONTROL Actividades de marketing]**.
+>[!PREREQUISITES]
+>
+>El formulario debe aprobarse para que el código incrustado esté disponible.
 
-   ![](assets/login-marketing-activities-4.png)
+1. Busque y seleccione el formulario que desee.
 
-1. Busque y seleccione su formulario.
+   ![](assets/embed-a-form-on-your-website-1.png)
 
-   ![](assets/image2014-9-15-12-3a12-3a14.png)
+1. A la derecha de la pantalla de detalles del formulario, haga clic en **[!UICONTROL Código incrustado]**.
 
-1. En **[!UICONTROL Acciones de formulario]**, haga clic en **[!UICONTROL Código incrustado]**.
-
-   >[!NOTE]
-   >
-   >El formulario debe aprobarse para que el elemento **[!UICONTROL Código incrustado]** sea visible/utilizable.
-
-   ![](assets/image2014-9-15-12-3a12-3a20.png)
+   ![](assets/embed-a-form-on-your-website-2.png)
 
    >[!CAUTION]
    >
    >**[El relleno previo de formulario](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** no funciona al usar el código incrustado de formulario en sus propias páginas _o_ en una página de aterrizaje de Marketo. El prerrellenado del formulario solo está diseñado para funcionar cuando el formulario se utiliza en una página de aterrizaje de Marketo a través de la opción Insertar elemento.
 
-1. Seleccione o copie el código de incrustación y luego haga clic en **[!UICONTROL Cerrar]**.
+1. En la ficha _Estándar_, haga clic en **[!UICONTROL Copiar texto]**. Haga clic en **[!UICONTROL Cerrar]** cuando haya terminado.
 
-   ![](assets/image2014-9-15-12-3a12-3a31.png)
+   ![](assets/embed-a-form-on-your-website-3.png)
 
->[!TIP]
->
->Una vez que el código esté incrustado en el sitio web, cualquier cambio en el formulario en Marketo se insertará en el sitio tras la aprobación del formulario. No es necesario que realice más cambios en el código.
+   >[!NOTE]
+   >
+   >Para el código Lightbox, consulte [Usar un formulario en un Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
 
-Ahora solo tiene que proporcionar el código incrustado al desarrollador web y hacer que lo añada al sitio.
+1. Proporcione el código incrustado al desarrollador web.
 
->[!NOTE]
->
->Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   Una vez que el código esté incrustado en el sitio web, cualquier cambio en el formulario en Marketo Engage se insertará en el sitio tras la aprobación del formulario. No es necesario realizar cambios en el código.
 
-Para el código Lightbox, consulte [Usar un formulario en un Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
+   >[!TIP]
+   >
+   >Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
