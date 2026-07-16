@@ -1,38 +1,13 @@
 ---
-title: "2015"
+title: 2015
 description: '2015: Documentos de Marketo: documentación del producto'
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c18d9e03-ac7d-4811-9c92-3e92ddc70adeid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 1%
 
 ---
@@ -60,7 +35,7 @@ Tres nuevas llamadas para la API de REST de posible cliente y actividad:
 * Obtener posibles clientes por ID de programa
 * Obtener posibles clientes eliminados
 
-Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
+Además, hay una nueva opción para Sincronizar posible cliente, para escribir el cambio de posible cliente asincrónicamente para una llamada de API más rápida. Todos los detalles estarán disponibles después del lanzamiento en [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/home)
 
 **Compatibilidad con objeto personalizado de scripts de correo electrónico**
 
@@ -91,7 +66,7 @@ Las opciones de la etiqueta RTP de Configuración de cuenta se han actualizado p
 1. Etiqueta asíncrona sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obtener el mejor rendimiento, se recomienda colocar la etiqueta al principio del encabezado de la página web después de `<head>`. Todas las etiquetas permiten el uso de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -161,7 +136,7 @@ Vincula tu cuenta de [[!DNL Google AdWords] a Marketo](/help/marketo/product-doc
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuevas API de REST de recursos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Ahora tenemos compatibilidad para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos de código [a través de la API](https://developer.adobe.com/marketo-apis/api/asset/).
 
@@ -267,7 +242,9 @@ Utilice los algoritmos de aprendizaje automático y análisis predictivo de RTP 
 
 En la versión de junio de 2015 de se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition. Después del lanzamiento, asegúrese de volver para encontrar vínculos a artículos detallados para cada función.
 
-## [Informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Informe de correo electrónico de atribución {#attribution-email-report}
+
+[Informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Consulte el valor que la personalización y el contenido recomendado proporcionan a sus actividades de marketing. [El informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) muestra los posibles clientes directos y asistidos atribuidos a las campañas de personalización y contenido recomendado de RTP. En RTP, Configuración de usuario e Informe de correo electrónico, añada el Informe de correo electrónico de atribución para recibir correos electrónicos mensuales o trimestrales.
 
@@ -281,7 +258,8 @@ Consulte el valor que la personalización y el contenido recomendado proporciona
 
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
-Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
+Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

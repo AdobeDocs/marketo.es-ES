@@ -4,9 +4,9 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+source-git-commit: 42d19e88f8c9b77f5e2524701f2cced40eccaf86
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 6%
 
 ---
@@ -89,8 +89,8 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>Finalizaciones<br>
+   Completado</td>
   </tr>
   <tr>
    <td>17 de julio de 2026</td>
@@ -166,4 +166,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
