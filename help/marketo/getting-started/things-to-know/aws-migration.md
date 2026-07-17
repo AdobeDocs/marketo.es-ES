@@ -42,7 +42,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!NOTE]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -170,4 +170,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
