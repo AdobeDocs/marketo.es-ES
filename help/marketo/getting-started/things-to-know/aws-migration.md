@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 6%
+source-wordcount: '488'
+ht-degree: 5%
 
 ---
 
@@ -39,6 +39,10 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 * **Las integraciones de CRM y los servicios de LaunchPoint** se deshabilitarán, pero se reanudarán automáticamente más tarde.
 * **Las páginas de aterrizaje, los formularios y la recopilación de datos** no estarán disponibles, y en su lugar se mostrará un mensaje de mantenimiento.
+
+>[!NOTE]
+>
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -89,8 +93,8 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>Finalizaciones<br>
+   Completado</td>
   </tr>
   <tr>
    <td>17 de julio de 2026</td>

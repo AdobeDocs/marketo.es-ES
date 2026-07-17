@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 1%
 
 ---
@@ -267,7 +267,9 @@ Utilice los algoritmos de aprendizaje automático y análisis predictivo de RTP 
 
 En la versión de junio de 2015 de se incluyen las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition. Después del lanzamiento, asegúrese de volver para encontrar vínculos a artículos detallados para cada función.
 
-## [Informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Informe de correo electrónico de atribución {#attribution-email-report}
+
+[Informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Consulte el valor que la personalización y el contenido recomendado proporcionan a sus actividades de marketing. [El informe de correo electrónico de atribución](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) muestra los posibles clientes directos y asistidos atribuidos a las campañas de personalización y contenido recomendado de RTP. En RTP, Configuración de usuario e Informe de correo electrónico, añada el Informe de correo electrónico de atribución para recibir correos electrónicos mensuales o trimestrales.
 
@@ -281,7 +283,8 @@ Consulte el valor que la personalización y el contenido recomendado proporciona
 
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
-Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
+Editor de texto actualizado con aspecto moderno, incluido el formato de texto optimizado, la edición de imágenes, la inserción de vínculos y la edición de HTML. El editor de HTML ahora incluye una validación mínima, lo que permite una edición de código menos restrictiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en un plazo de unos días a partir de la versión de julio. Después, podrás alternar entre las versiones nueva y heredada del editor en **[!UICONTROL Administrador] > [!UICONTROL Correo electrónico] > [!UICONTROL Editar configuración del editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
