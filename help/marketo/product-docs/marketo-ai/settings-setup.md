@@ -3,7 +3,7 @@ description: Obtenga información sobre cómo habilitar permisos de IA de Market
 title: Configuración y configuración
 badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 4%
@@ -77,11 +77,11 @@ Sigue estos pasos para asignar un usuario específico al rol _Usuario de Marketo
 
 ### Función personalizada {#custom-role}
 
-También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Acceder a Marketo AI_, junto con cualquier otra cosa que desee, y [asignar esa función](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
+También tiene la opción de [crear una nueva función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} y personalizar sus permisos, agregando _Acceder a Marketo AI_, junto con cualquier otra cosa que desee, y [asignar esa función](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuarios específicos.
 
 ## Configuración {#settings}
 
-1. En Mi Marketo, haga clic en el mosaico **Marketo AI**.
+1. En Mi Marketo, haga clic en el mosaico **[!UICONTROL Marketo AI]**.
 
    ![](assets/settings-setup-7.png)
 
