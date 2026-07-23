@@ -3,10 +3,10 @@ description: 'Notas de la versión, enero de 2026: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 32%
+source-wordcount: '566'
+ht-degree: 25%
 
 ---
 
@@ -96,6 +96,6 @@ Visite [esta página](https://helpx.adobe.com/es/adobe-connect/release-note/adob
 
 * **Migración de la comunidad de Marketo completada**: ¡La nueva comunidad de Adobe Experience League ya está activa! [Se han realizado varias mejoras](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=es){target="_blank"} para mejorar aún más la experiencia de la comunidad de Marketo. [Descúbrelo](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=es){target="_blank"}.
 
-* **Parámetro &#39;access_token&#39; de la API REST obsoleto**: el parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API REST de Marketo está obsoleto y no estará disponible después del sábado, 31 de julio de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de agosto de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **API de SOAP obsoleta**: la compatibilidad con la API de Marketo SOAP finalizará el sábado, 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
