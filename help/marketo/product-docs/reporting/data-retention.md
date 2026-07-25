@@ -93,7 +93,7 @@ Muchos usuarios pueden considerar obsoletos los datos de actividad anteriores a 
 
 ## Exportación de datos
 
-Marketo ofrece la [API de REST de extracción masiva](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que le permite exportar actividades de personas y hospedarlas localmente. Una vez que los datos se extraen a través de la API, puede almacenarlos y ordenarlos según sea necesario para su caso de uso.
+Marketo ofrece la [API de REST de extracción masiva](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que le permite exportar actividades de personas y hospedarlas localmente. Una vez que los datos se extraen a través de la API, puede almacenarlos y ordenarlos según sea necesario para su caso de uso.
 
 >[!TIP]
 >
