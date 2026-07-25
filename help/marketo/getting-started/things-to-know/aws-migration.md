@@ -4,9 +4,9 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '502'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!NOTE]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -115,7 +115,7 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <td>23 de julio de 2026</td>
    <td>AB48</td>
    <td>17:00 PDT</td>
-   <td>Según lo programado</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td>31 de julio de 2026</td>
@@ -132,10 +132,26 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
+  <tr>
   <td>13 de agosto de 2026</td>
    <td>AB68</td>
    <td>16:00 PDT</td>
    <td>Según lo programado</td>
+  </tr>
+  <tr>
+  <td>18 de agosto de 2026</td>
+   <td>AB39</td>
+   <td>17:00 PDT</td>
+   <td>Según lo programado</td>
+  </tr>
+  <tr>
+   <td>20 de agosto de 2026</td>
+   <td>AB42<br>
+   AB44</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   </body>
 </table>
@@ -167,4 +183,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
