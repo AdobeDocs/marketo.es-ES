@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -42,7 +42,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!NOTE]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -50,7 +50,7 @@ Antes de revisar las tablas siguientes, [aprenda a identificar](/help/marketo/ge
 
 ## Programar {#schedule}
 
-Periódicamente se añaden nuevas fechas e información del centro de datos/pod, así que asegúrese de volver aquí para obtener más detalles.
+Las nuevas fechas y la información del centro de datos/pod se añaden o cambian periódicamente, por lo que debe supervisar esta programación para ver si hay actualizaciones.
 
 <table>
  <tbody>
@@ -153,6 +153,24 @@ Periódicamente se añaden nuevas fechas e información del centro de datos/pod,
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
+  <tr>
+   <td>26 de agosto de 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>28 de agosto de 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>15:00 PDT<br>
+   16:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
   </body>
 </table>
 
@@ -183,4 +201,4 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
