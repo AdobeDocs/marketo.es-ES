@@ -5,13 +5,11 @@ title: Información general sobre momentos interesantes
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/987o7hkp-WjgYBLBE7J8P-erbckKLALHxcOBP84Cc6Q
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 117
 ht-degree: 5%
 
 ---
@@ -19,6 +17,10 @@ ht-degree: 5%
 # Información general sobre momentos interesantes {#interesting-moments-overview}
 
 Puede utilizar el interesante paso de flujo de momento para dar a su equipo de ventas visibilidad de las cosas interesantes que sus posibles clientes están haciendo en una campaña inteligente.
+
+>[!AVAILABILITY]
+>
+>Para usar momentos interesantes, debes ser un usuario de [!DNL Marketo Sales Insight] o de [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
