@@ -11,9 +11,9 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 439
+source-wordcount: 443
 ht-degree: 1%
 
 ---
@@ -24,11 +24,11 @@ Momentos interesantes son la clave para comunicarse con su equipo de ventas a tr
 
 >[!AVAILABILITY]
 >
->Solo están disponibles para [!DNL Marketo Sales Insight] y [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) clientes.
+>Para usar momentos interesantes, debes ser un usuario de [!DNL Marketo Sales Insight] o de [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ## ¿Qué es un momento interesante? {#what-is-an-interesting-moment}
 
-¡Eso depende de ti! Usted decide qué información es relevante para su equipo de ventas. Es posible que el equipo de ventas desee saber cuándo un posible cliente:
+Eso depende de ti. Usted decide qué información es relevante para su equipo de ventas. Es posible que el equipo de ventas desee saber cuándo un posible cliente:
 
 * Visita la página de precios del sitio web
 * Hace clic en un vínculo de un correo electrónico para anunciar un nuevo producto
