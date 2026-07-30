@@ -3,9 +3,10 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+nudge: toc
+source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 96%
 
 ---
@@ -163,6 +164,7 @@ ht-degree: 96%
       + [Inspector de campañas](product-docs/administration/settings/campaign-inspector.md)
       + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Creación de una pestaña personalizada para la página de detalles de la persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+      + {hide-from-toc}[Deshabilitar campañas inteligentes en el archivo](product-docs/administration/settings/disable-smart-campaigns-archive.md)
       + [Editar la configuración de compatibilidad con el explorador “No rastrear”](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [Editar configuración de página de destino](product-docs/administration/settings/edit-landing-page-settings.md)
       + [Editar la caducidad de los vínculos en Informes y alertas](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
