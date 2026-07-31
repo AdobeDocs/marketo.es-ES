@@ -2,10 +2,9 @@
 description: Aprenda a utilizar el agente Importar posibles clientes para cargar un CSV, aplicar reglas comerciales, asignar campos e importar posibles clientes directamente en la base de datos de Marketo Engage.
 title: Importar posibles clientes
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 0%
 # Importar posibles clientes {#import-leads}
 
 Importe y deduplique listas de posibles clientes en la base de datos de Marketo Engage con ayuda de asignación de campos.
-
->[!AVAILABILITY]
->
->Esta función se encuentra actualmente en la versión beta abierta. Para solicitar acceso, póngase en contacto con su administrador de cuentas de. También debe aceptar los términos de la [generación principal de IA y los términos complementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Cómo usar {#how-to-use}
 

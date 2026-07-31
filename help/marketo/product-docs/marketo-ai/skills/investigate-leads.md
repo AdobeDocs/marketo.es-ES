@@ -1,10 +1,9 @@
 ---
 description: El agente principal de investigación responde a las preguntas que los especialistas en marketing formulan con más frecuencia. Es más rápido y confiable que examinar manualmente los registros de actividad, el historial de campañas inteligentes y los registros de puntuación.
 title: Investigar posibles clientes
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 Averigüe por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->Esta función se encuentra actualmente en la versión beta abierta. Para solicitar acceso, póngase en contacto con su administrador de cuentas de. También debe aceptar los términos de la [generación principal de IA y los términos complementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
->
->* Debe tener acceso de visualización al registro de persona/posible cliente y al programa o hito que está investigando.
-
->[!AVAILABILITY]
->
->Esta función se encuentra actualmente en la versión beta abierta. Para acceder, póngase en contacto con su administrador de cuentas.
+>Debe tener acceso de visualización al registro de persona/posible cliente y al programa o hito que está investigando.
 
 ## Cómo usar {#how-to-use}
 
