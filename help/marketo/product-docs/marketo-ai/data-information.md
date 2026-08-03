@@ -1,9 +1,9 @@
 ---
 description: Revise el ámbito de datos de Marketo AI, los controles de gobernanza y las consideraciones PII en los flujos de trabajo clave, como la importación de posibles clientes, el control de calidad del programa y la normalización de datos.
 title: Hoja de información de datos de Marketo AI
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,25 +28,33 @@ Marketo AI es una función nativa y agéntica de Adobe Marketo Engage que permit
 
 **Función:** procesa los datos de posibles clientes proporcionados por el usuario para su asignación, normalización, deduplicación e importación en Marketo Engage.
 
-### Control de calidad del programa
+### Validar programas
 
 **Función:** evalúa los programas de Marketo comparándolos con las reglas organizativas definidas por los usuarios en un archivo de marcado de aptitudes, como los estándares de nomenclatura, el estado de aprobación, el cumplimiento de las normas de correo electrónico y la lógica de flujo.
 
-### Crear programa a partir de información breve
+<!--
 
-**Función:** utiliza mensajes en lenguaje natural para generar estructuras de programa de Marketo, incluidas campañas inteligentes, pasos de flujo y marcadores de posición de contenido, directamente en el entorno del usuario.
+### Create program from brief
 
-### Agentes a los que llamar
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**Función:** ejecuta acciones de IA activadas por acciones de flujo dentro de los pasos de flujo de Smart Campaign para casos de uso como validación, normalización y detección de bots.
+### Callable agents
 
-### Investigación principal
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### Investigar posibles clientes
 
 **Función:** Proporciona un análisis conversacional de por qué una persona progresó o no a un hito al examinar la ejecución de pasos de flujo y la pertenencia a listas inteligentes.
 
-### Medición y análisis
+<!--
 
-**Función:** Superficie el análisis del rendimiento de la campaña y del programa, incluidas las recomendaciones y las perspectivas de la causa raíz.
+### Measurement and analytics
+
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### Conocimiento del producto
 
@@ -58,11 +66,9 @@ Además de los enumerados, considere la posibilidad de utilizar la IA de Marketo
 
 ## Disponibilidad y estado de despliegue
 
-**Elegibilidad:** La habilitación inicial del usuario está limitada a los usuarios elegibles de Marketo Engage que hayan aceptado el Adobe Gen AI Rider.
+**Elegibilidad:** El aprovisionamiento se limita a los usuarios de Marketo Engage que han aceptado los [términos de Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
-**Aprovisionamiento:** El acceso se administra mediante los controles de habilitación de productos existentes y el aprovisionamiento de indicadores de características dentro de la experiencia de Marketo Engage.
-
-**Modelo de despliegue:** La implementación progresa a través de Alpha y Private Beta antes de una expansión pública de Beta más amplia.
+**Modelo de despliegue:** La implementación progresa a través de Alpha y Private Beta antes de una expansión de Public Beta más amplia y, finalmente, de la disponibilidad general.
 
 **Ámbito geográfico:** La versión inicial está destinada a usuarios globales de Marketo Engage, excluida China continental.
 
