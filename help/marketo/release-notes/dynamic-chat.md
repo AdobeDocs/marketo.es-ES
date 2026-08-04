@@ -4,19 +4,9 @@ title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 3551
@@ -32,13 +22,13 @@ La página de notas de la versión estándar de Marketo Engage [se encuentra aqu
 
 ## Lanzamiento de marzo de 2026 {#march-2026-release}
 
-### Límite de tiempo de espera de visitante {#visitor-wait-time}
+### Límite de tiempo de espera del visitante {#visitor-wait-time}
 
-Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Descargar transcripción {#download-transcript}
 
-Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Lanzamiento de junio de 2025 {#june-2025-release}
 
@@ -52,11 +42,11 @@ Hemos rediseñado la lógica de enrutamiento de chat en directo en Dynamic Chat 
 
 * **Hasta dos intentos de participación por sesión**
 
-   * El sistema intentará conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
+  * El sistema intentará conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
 
-   * Si un agente está disponible, pero no responde (por ejemplo, rechaza o no responde al chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
+  * Si un agente está disponible, pero no responde (por ejemplo, rechaza o no responde al chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
 
-   * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de una participación fallida.
+  * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de una participación fallida.
 
 * **Comportamiento específico de la regla de enrutamiento**
 
@@ -72,9 +62,9 @@ Si el agente no está disponible, el sistema hace lo siguiente:
 
 * En su lugar, hace lo siguiente:
 
-   * Muestra el calendario de reuniones del agente asignado (si está activado).
--o-
-   * Vuelve a un mensaje predeterminado (en el peor de los casos).
+  * Muestra el calendario de reuniones del agente asignado (si está activado).
+    -o-
+  * Vuelve a un mensaje predeterminado (en el peor de los casos).
 
 La regla de enrutamiento a nivel de tarjeta (por ejemplo, equipo o personalizado) solo se tiene en cuenta si el enrutamiento de cuenta no es apto (no hay dominio o agente que coincida).
 
@@ -118,9 +108,9 @@ Se evalúa la regla de enrutamiento a nivel de tarjeta (personalizado, equipo o 
 
 * Si ningún intento de participación tiene éxito, se aplica la lógica de reserva:
 
-   * reserva de calendario (si está activada),
--o-
-   * Mensaje predeterminado.
+  * reserva de calendario (si está activada),
+    -o-
+  * Mensaje predeterminado.
 
 La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
 
@@ -128,7 +118,7 @@ La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agente
 
 <p>
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -154,7 +144,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -180,7 +170,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -206,7 +196,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
@@ -304,9 +294,9 @@ Cuantifique los posibles clientes en función de la calidad de su interacción c
 
 * Para configurar una puntuación, haga lo siguiente:
 
-   * En la bandeja de entrada del agente: durante una conversación en directo, el agente puede actualizar o establecer una puntuación para la conversación, que se almacena en la actividad de conversación
+  * En la bandeja de entrada del agente: durante una conversación en directo, el agente puede actualizar o establecer una puntuación para la conversación, que se almacena en la actividad de conversación
 
-   * En el diseñador de flujo: en la tarjeta de objetivos, el usuario puede actualizar o establecer una puntuación para la conversación
+  * En el diseñador de flujo: en la tarjeta de objetivos, el usuario puede actualizar o establecer una puntuación para la conversación
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
