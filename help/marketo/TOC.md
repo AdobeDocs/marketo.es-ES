@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 17404d2a3a89cec66785ca395564d422837b860a
+source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8917'
 ht-degree: 96%
 
 ---
@@ -993,6 +993,7 @@ ht-degree: 96%
       + [Información general](product-docs/email-marketing/email-designer/overview.md)
       + [Comparación de funciones](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Creación del correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
+      + {hide-from-toc}[Usar módulos en el Designer de correo electrónico](product-docs/email-marketing/email-designer/email-modules.md)
       + [Contenido condicional](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Creación de plantilla de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importar una plantilla](product-docs/email-marketing/email-designer/import-template.md)
@@ -1121,7 +1122,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/marketo-ai/skills/import-leads.md)
       + [Validar programas](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notificaciones de Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificación: Conexión de Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
