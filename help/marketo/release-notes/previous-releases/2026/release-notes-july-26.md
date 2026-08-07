@@ -30,7 +30,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Habilidad de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para proporcionar una respuesta.
 </td>
    <td>Abrir versión beta</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Habilidad de Marketo AI: investigar posibles clientes</strong>: descubra por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
 </td>
    <td>Abrir versión beta</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -63,4 +63,4 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de agosto de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 * **Límite de posibles clientes de combinación de API REST**: A partir del 31 de julio de 2026, las llamadas que incluyan más de 25 ID en el parámetro leadIds de una llamada de API de combinación de posibles clientes generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.
 * **Desaprobación de la API de SOAP**: La compatibilidad con la API de Marketo SOAP finalizará el 31 de julio de 2026. Los servicios que usan funcionalidades de la API de SOAP deben migrarse a la [API REST](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos Obtener actividades de posibles clientes y Obtener cambios de posibles clientes que incluyan el parámetro `listId` devolverán un código de error 1003 si la lista estática de destino contiene 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener más información.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos Obtener actividades de posibles clientes y Obtener cambios de posibles clientes que incluyan el parámetro `listId` devolverán un código de error 1003 si la lista estática de destino contiene 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener más información.
