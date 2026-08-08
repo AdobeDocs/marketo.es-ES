@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Utilizar el Asistente de IA
-description: Aprenda a utilizar el asistente de IA para añadir texto e imágenes a los correos electrónicos. Utilice la IA generativa de Adobe en el Designer de correo electrónico para ideas de contenido.
+title: Generación de contenido en el Designer de correo electrónico
+description: Obtenga información sobre cómo generar contenido para agregar texto e imágenes a los correos electrónicos. Utilice la IA generativa de Adobe en el Designer de correo electrónico para ideas de contenido.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
+source-wordcount: 914
 ht-degree: 1%
 
 ---
 
-# Asistente de IA para Email Designer {#ai-assistant-email-designer}
+# Generación de contenido en el Designer de correo electrónico {#generate-content}
 
-El asistente de IA de Marketo Engage Email Designer le ayuda a crear correos electrónicos contemporáneos, eficaces e intuitivos. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con Firefly para la generación de imágenes que ayuda a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
+La generación de contenido en Marketo Engage Email Designer permite crear correos electrónicos contemporáneos, eficaces e intuitivos. Esto se logra a través de la tecnología de IA generativa de Adobe y la biblioteca rápida junto con Firefly para la generación de imágenes que ayuda a crear contenido adecuado para una persona en particular / grupo de compra, etapa de recorrido de marketing, estrategia de comunicación, tono, etc. Los activos específicos de la marca también se pueden utilizar para crear contenido.
 
 >[!PREREQUISITES]
 >
->El Asistente de IA no está habilitado de forma predeterminada. Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>Esta función no está habilitada de forma predeterminada. Primero debe aceptar los [términos básicos de la generación de IA y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar la funcionalidad de generación de IA en el Designer de correo electrónico. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Configurar permisos {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _Después de_ que sigue el requisito previo anterior, los administradores de Mar
 
 ## Casos de uso {#use-cases}
 
-Hay algunos casos de uso principales para el asistente de IA:
-
 * [Cree una línea de asunto o un encabezado previo](#create-a-subject-line-preheader) para su correo electrónico
 * [Crea contenido para una sección específica](#create-content-for-a-specific-section) de tu correo electrónico
 * [Crear un correo electrónico completo](#create-an-entire-email) a partir de una plantilla seleccionada
 
 ## Creación de una línea de asunto/encabezado previo {#create-a-subject-line-preheader}
 
-Puede utilizar el asistente de IA para crear una línea de asunto, un encabezado previo o ambos.
+Cree una línea de asunto, un encabezado previo o ambos.
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ El ejemplo siguiente ilustra la línea de asunto. Para un preencabezado, se pued
 
 Cuando se cree un correo electrónico con la Nueva Designer de correo electrónico, introduzca una línea de asunto temporal.
 
-Una vez creado el correo electrónico, la línea de asunto se encuentra en la columna _Detalles_, a la derecha. Haga clic en el botón del asistente de IA ( ![Icono de filtro](assets/icon-ai-assistant.png) ) que se encuentra junto a él para obtener ayuda con la creación de una nueva línea de asunto mediante la funcionalidad de IA general.
+Una vez creado el correo electrónico, la línea de asunto se encuentra en la columna _Detalles_, a la derecha. Haga clic en el botón Generar contenido ( ![Icono de filtro](assets/icon-ai-assistant.png)) que se encuentra junto a él para obtener ayuda con la creación de una nueva línea de asunto mediante la funcionalidad de IA general.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Habilite la opción **Usar contenido de referencia** para el asistente de IA a fin de personalizar el nuevo contenido en función del contenido seleccionado.
+Habilite la opción **Usar contenido de referencia** para personalizar el nuevo contenido en función del contenido seleccionado.
 
 Introduzca el mensaje para personalizar la línea de asunto. Introduzca la configuración de texto relevante y cargue cualquier recurso de marca que desee utilizar como referencia para crear una línea de asunto adecuada.
 
@@ -135,7 +133,7 @@ Una vez creado el correo electrónico, tiene la opción de modificar determinada
 
 ![](assets/use-the-ai-assistant-7.png)
 
-En este ejemplo, utilizamos una plantilla financiera. Si una o más de las imágenes existentes no satisfacen sus necesidades, puede indicar al asistente de IA que cree una nueva imagen basada en la descripción. Seleccione la imagen que desee y haga clic en el icono Asistente de IA.
+En este ejemplo, utilizamos una plantilla financiera. Si una o más de las imágenes existentes no satisfacen sus necesidades, puede crear una nueva imagen basada en su descripción. Seleccione la imagen que desee y haga clic en el icono Generate content.
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ De forma similar a la imagen, también se pueden modificar las partes de texto d
 
 Esta opción solo está disponible si el correo electrónico se crea con una plantilla existente. Puede ser una plantilla estándar proporcionada por el Designer de correo electrónico, una plantilla guardada que ya haya creado o una plantilla importada mediante la opción Importar HTML. Esta opción no está disponible si elige [Diseño desde cero](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) para el correo electrónico.
 
-Seleccione una plantilla sin seleccionar ningún componente y haga clic en el botón Asistente de IA en el Designer de correo electrónico.
+Seleccione una plantilla sin seleccionar ningún componente dentro de ella y haga clic en el botón Generate content de Email Designer.
 
 ![](assets/use-the-ai-assistant-12.png)
 
