@@ -4,10 +4,10 @@ title: Migración de AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
+source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 6%
+source-wordcount: '820'
+ht-degree: 5%
 
 ---
 
@@ -42,7 +42,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!NOTE]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea conservar los datos durante la migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -203,6 +203,24 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
+  <tr>
+   <td>15 de septiembre de 2026</td>
+   <td>AB05<br>
+   AB06</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>18 de septiembre de 2026</td>
+   <td>AB07<br>
+   AB08</td>
+   <td>15:00 PDT<br>
+   16:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
   </body>
 </table>
 
@@ -233,7 +251,7 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
