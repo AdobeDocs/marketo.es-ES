@@ -3,14 +3,12 @@ description: Obtenga información acerca de las herramientas de administración 
 title: Administración de la privacidad
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 1%
+source-wordcount: 268
+ht-degree: 5%
 
 ---
 
@@ -30,15 +28,7 @@ Marketo Engage ofrece un conjunto de herramientas para ayudarle a cumplir con la
 
 ## Regulaciones sobre administración de la privacidad {#regulations-on-privacy-management}
 
-Las funciones de Marketo Engage le ayudan a cumplir con las siguientes regulaciones:
-
-* **[!DNL GDPR]** [Reglamento General de Protección de Datos](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) es la ley de privacidad de la Unión Europea (UE) que armoniza y moderniza los requisitos de protección de datos para los países de la UE.
-* **[!DNL CCPA]** [La Ley de Privacidad del Consumidor de California](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) proporciona a los residentes de California derechos respecto a su información personal e impone responsabilidades de protección de datos para ciertas entidades que hacen negocios en California.
-* **[!DNL PDPA]** [La Ley de Protección de Datos Personales](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) es la ley de privacidad que armoniza y moderniza los requisitos de protección de datos para Tailandia.
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) con efecto a principios de 2021 para todas las compañías que recopilen o procesen datos personales en Brasil.
-* **[!DNL NZPA]** [La Ley de Privacidad de 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) es la ley de privacidad que armoniza y moderniza los requisitos de protección de datos para Nueva Zelanda.
-
-Todas las regulaciones anteriores se aplican a los clientes de Marketo Engage que poseen datos de sujetos de datos residentes en las regiones o países respectivos antes mencionados (UE, California, Tailandia, Brasil, Nueva Zelanda).
+Las funciones de Marketo Engage le ayudan a cumplir con varias regulaciones de privacidad. Para obtener una lista de las regulaciones compatibles, consulte [Información general sobre las regulaciones de privacidad](https://experienceleague.adobe.com/es/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Derecho de acceso y derecho a ser olvidado {#right-to-access-and-right-to-be-forgotten}
 
