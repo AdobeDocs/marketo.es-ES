@@ -2,10 +2,10 @@
 description: 'Notas de la versión, julio de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2026
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 20%
+source-wordcount: '505'
+ht-degree: 19%
 
 ---
 
@@ -29,7 +29,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Habilidad de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para proporcionar una respuesta.
 </td>
-   <td>Abrir versión beta</td>
+   <td>Publicado</td>
    <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Habilidad de Marketo AI: investigar posibles clientes</strong>: descubra por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
 </td>
-   <td>Abrir versión beta</td>
+   <td>Publicado</td>
    <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Módulos</strong>: Ahora tiene acceso a bloques de contenido totalmente estructurados y listos para usar diseñados para acelerar el ensamblado de correo electrónico.</td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Uso de módulos de en el Designer de correo electrónico</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Email Designer - Generate Content Contextual Menu</strong>: Ahora se puede acceder a las funciones "Generar contenido" de Email Designer desde el menú contextual (la barra negra). Por ejemplo, al seleccionar contenido de texto, el icono Generar contenido aparece en el menú contextual, lo que le permite realizar acciones rápidas desde allí.</td>
    <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+<td><i>Próximamente</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## Anuncios {#announcements}
 
