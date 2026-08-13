@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78940c808e61be8a702b50df253071182d176942
+source-git-commit: e7ad638f664fe8dca4b9e9896a8fdd6e155437d4
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '828'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!NOTE]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -195,12 +195,9 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
   </tr>
   <tr>
    <td>10 de septiembre de 2026</td>
-   <td>AB03<br>
-   AB04</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>AB03</td>
+   <td>17:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   <tr>
    <td>15 de septiembre de 2026</td>
@@ -250,7 +247,7 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
