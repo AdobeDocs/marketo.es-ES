@@ -3,7 +3,7 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: 9a445d50781458b3342be0dd9c1a4262346a9f7f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 5%
@@ -212,11 +212,11 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    Dentro del horario</td>
   </tr>
   <tr>
-   <td>18 de septiembre de 2026</td>
+   <td>17 de septiembre de 2026</td>
    <td>AB07<br>
    AB08</td>
-   <td>15:00 PDT<br>
-   16:00 PDT</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
