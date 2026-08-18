@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: 324
 ht-degree: 0%
 
 ---
@@ -65,7 +65,9 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
 
    >[!NOTE]
    >
-   >La lógica de criterios establecida en &quot;todo&quot; significa que todos los atributos deben cumplirse para poder calificarse. La lógica de criterios establecida en &quot;cualquiera&quot; significa que cualquiera de los atributos será suficiente.
+   >* La lógica de criterios establecida en &quot;todo&quot; significa que todos los atributos deben cumplirse para poder calificarse. La lógica de criterios establecida en &quot;cualquiera&quot; significa que cualquiera de los atributos será suficiente.
+   >
+   >* Para &quot;Miembro de listas inteligentes&quot;, los valores de la lista desplegable representan todas las listas inteligentes que forman parte de cualquier programa. Se muestran como `<program name>.<smart list name>`.
 
    **PASO OPCIONAL**: si agrega dos o más opciones, puede reordenarlas haciendo clic en sus flechas arriba/abajo.
 
