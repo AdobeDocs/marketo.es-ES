@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
+source-git-commit: ad7e1cef03a03e43198d91a6dd8f30ee3c2a5732
 workflow-type: tm+mt
-source-wordcount: '8918'
+source-wordcount: '8922'
 ht-degree: 96%
 
 ---
@@ -1122,7 +1122,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/marketo-ai/skills/import-leads.md)
       + [Validar programas](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notificaciones de Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificación: Conexión de Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1928,6 +1928,7 @@ ht-degree: 96%
       + [Notas de la versión: febrero de 2026](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + [Notas de la versión: Marzo de 2026](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + [Notas de la versión: mayo de 2026](release-notes/previous-releases/2026/release-notes-may-26.md)
+      + [Notas de la versión: julio de 2026](release-notes/previous-releases/2026/release-notes-july-26.md)
     + 2025 {#2025}
       + [Notas de la versión: enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [Notas de la versión: marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
