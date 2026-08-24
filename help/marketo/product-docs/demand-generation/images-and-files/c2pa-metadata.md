@@ -3,9 +3,9 @@ description: Descubra cómo los metadatos de C2PA se adjuntan automáticamente a
 title: Metadatos de C2PA en Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ La siguiente tabla resume cuándo se adjuntan los metadatos de C2PA, en función
 
 | Acción | Descripción | ¿Metadatos de C2PA adjuntos? | Ejemplo de caso de uso |
 |---|---|---|---|
-| **Generar una imagen** | Cree una nueva imagen a partir de un mensaje de texto, de una imagen de referencia o genere una imagen similar. | Siempre. La imagen se genera mediante IA generativa, por lo que siempre lleva metadatos frescos de C2PA. | Se genera una imagen de titular para una campaña de correo electrónico a partir de un mensaje de texto que describe el elemento visual deseado. |
+| **Usar la herramienta &#39;Generar imagen&#39;** | Cree una nueva imagen a partir de un mensaje de texto, de una imagen de referencia o genere una imagen similar. | Siempre. La imagen se genera mediante IA generativa, por lo que siempre lleva metadatos frescos de C2PA. | Se genera una imagen de titular para una campaña de correo electrónico a partir de un mensaje de texto que describe el elemento visual deseado. |
 | **Recortar una imagen** | Ajuste una imagen a las dimensiones solicitadas. | Solo si la imagen de origen ya tenía metadatos de C2PA. Al recortar se vuelven a crear los píxeles de la imagen, lo que normalmente borraría los metadatos de C2PA, por lo que Marketo Engage los lee de la imagen de origen antes de recortarlos y, a continuación, los vuelve a crear y a adjuntar al resultado recortado. El recorte en sí no agrega una nueva acción de IA generativa; conserva la existente. | Se recorta una imagen de titular generada para que se ajuste a una página web: los metadatos de C2PA se conservan a través del recorte. Se recorta una foto de archivo cargada que se utiliza como fondo de notificación push para ajustarse a la pantalla: como la foto de archivo no lleva ninguna acción de IA generativa, no se crean metadatos de C2PA. |
 | **Agregar una superposición de texto** | Procesar texto generado sobre una imagen de fondo. | Solo si la imagen de fondo ya tenía metadatos de C2PA. Al procesar la superposición, se genera una nueva imagen del fondo más el texto, que normalmente borraría esos metadatos de C2PA, por lo que Marketo Engage los lee de antemano de la imagen de fondo y luego los reconstruye y vuelve a adjuntar al resultado. El paso de superposición no agrega una nueva acción de IA generativa. | Un titular promocional se procesa como una superposición de texto en una imagen de fondo generada para una página de aterrizaje: se conservan los metadatos de C2PA de la imagen de fondo. |
 
@@ -47,4 +47,4 @@ Marketo Engage conserva los metadatos de C2PA asociados a los recursos de imagen
 ## Recursos adicionales
 
 * [Directrices de usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
