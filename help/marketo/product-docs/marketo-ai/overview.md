@@ -2,7 +2,7 @@
 description: Explore el conjunto de agentes de IA de Marketo diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
 title: Información general sobre Marketo AI
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -29,7 +29,7 @@ En la pantalla Mi Marketo, haga clic en el mosaico **Marketo AI**.
 
 ![](assets/overview-1.png)
 
-Escriba la solicitud en el campo de solicitud o seleccione uno de los agentes siguientes.
+Escriba la solicitud en el campo de solicitud o seleccione una de las habilidades a continuación.
 
 ![](assets/overview-2.png)
 
@@ -63,4 +63,4 @@ Próximamente habrá agentes adicionales diseñados para gestionar el trabajo m�
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=es){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
