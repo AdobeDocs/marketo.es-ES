@@ -3,10 +3,10 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b420d49baca6e04cbb52179881701ecc57f5deac
+source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
 workflow-type: tm+mt
-source-wordcount: '824'
-ht-degree: 4%
+source-wordcount: '856'
+ht-degree: 5%
 
 ---
 
@@ -162,21 +162,21 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
   </tr>
   <tr>
    <td>26 de agosto de 2026</td>
-   <td>AB40<br>
+   <td><i>AB40</i><br>
    AB50</td>
-   <td>17:00 PDT<br>
+   <td><i>5 p. m. PDT</i><br>
    18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td><i>Pospuesto (fecha por determinar)</i><br>
+   Según lo programado</td>
   </tr>
   <tr>
    <td>28 de agosto de 2026</td>
-   <td>AB53<br>
+   <td><i>AB53</i><br>
    AB56</td>
-   <td>15:00 PDT<br>
+   <td><i>3 p. m. PDT</i><br>
    16:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td><i>Pospuesto (fecha por determinar)</i><br>
+   Según lo programado</td>
   </tr>
   <tr>
    <td>8 de septiembre de 2026</td>
@@ -211,6 +211,24 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    AB08</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>22 de septiembre de 2026</td>
+   <td>AB09<br>
+   AB12</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>25 de septiembre de 2026</td>
+   <td>AB10<br>
+   AB11</td>
+   <td>16:00 PDT<br>
+   17:00 PDT</td>
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
