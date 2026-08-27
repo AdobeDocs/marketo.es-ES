@@ -3,9 +3,9 @@ description: Descubra cómo los metadatos de C2PA se adjuntan automáticamente a
 title: Metadatos de C2PA en Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '715'
 ht-degree: 2%
 
 ---
@@ -46,5 +46,6 @@ Marketo Engage conserva los metadatos de C2PA asociados a los recursos de imagen
 
 ## Recursos adicionales
 
-* [Directrices de usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Transparencia de contenido de IA generativa](https://experienceleague.adobe.com/es/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Directrices de usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [Mecanismos de protección y limitaciones](https://experienceleague.adobe.com/es/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
