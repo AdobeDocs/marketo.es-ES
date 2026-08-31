@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
+source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '855'
 ht-degree: 5%
 
 ---
@@ -66,7 +66,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    AB64</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Finalizaciones<br>
+   <td>Completado<br>
    Completado</td>
   </tr>
   <tr>
@@ -79,13 +79,13 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td>11 de julio de 2026</td>
    <td>AB46</td>
    <td>10:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>13 de julio de 2026</td>
    <td>NLD101</td>
    <td>10:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>15 de julio de 2026</td>
@@ -93,7 +93,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Finalizaciones<br>
+   <td>Completado<br>
    Completado</td>
   </tr>
   <tr>
@@ -102,26 +102,26 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    NLD105</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Finalizaciones<br>
+   <td>Completado<br>
    Completado</td>
   </tr>
   <tr>
    <td>21 de julio de 2026</td>
    <td>AB54</td>
    <td>17:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>23 de julio de 2026</td>
    <td>AB48</td>
    <td>17:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>31 de julio de 2026</td>
    <td>AB43</td>
    <td>15:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   </body>
 </table>
@@ -142,14 +142,14 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    AB17</td>
    <td>15:00 PDT<br>
    16:00 PDT</td>
-   <td>Finalizaciones<br>
+   <td>Completado<br>
    Completado</td>
   </tr>
   <tr>
   <td>13 de agosto de 2026</td>
    <td>AB68</td>
    <td>16:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>20 de agosto de 2026</td>
@@ -167,7 +167,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td><i>5 p. m. PDT</i><br>
    18:00 PDT</td>
    <td><i>Pospuesto (fecha por determinar)</i><br>
-   Según lo programado</td>
+   Completado</td>
   </tr>
   <tr>
    <td>28 de agosto de 2026</td>
