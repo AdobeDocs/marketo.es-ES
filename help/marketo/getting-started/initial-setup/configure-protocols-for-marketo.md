@@ -5,26 +5,13 @@ title: Configurar protocolos de Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
 workflow-type: tm+mt
-source-wordcount: 2203
+source-wordcount: 2192
 ht-degree: 83%
 
 ---
@@ -109,10 +96,10 @@ Su equipo de marketing también debería haberle enviado información sobre el m
 1. Para configurar el SPF, añada la línea siguiente a las entradas de DNS:
 
    `[CompanyDomain]` EN TXT v=spf1 mx ip4:`[CorpIP]`
-include: mktomail.com ~all
+   include: mktomail.com ~all
 
    Si ya tiene un registro SPF existente en la entrada de DNS, simplemente añada lo siguiente:
-incluir: mktomail.com
+   incluir: mktomail.com
 
    Sustituya CompanyDomain por el dominio principal de su sitio web (por ej.: “`(company.com/)`”) y CorpIP por la dirección IP de su servidor de correo electrónico corporativo (por ej.: &quot;255.255.255.255&quot;). Si va a enviar correos electrónicos desde varios dominios a través de Marketo Engage, debe pedir al personal informático que añada esta línea a cada dominio (en una línea).
 
@@ -271,22 +258,22 @@ Existen dos tipos de alineación para DMARC: alineación DKIM y alineación SPF.
 
 * DMARC alineado con DKIM: para configurar DMARC alineado con DKIM, debe:
 
-   * Configurar DKIM para el dominio FROM: del mensaje. Usar las instrucciones de [este artículo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * Configurar DMARC para el dominio FROM:/DKIM configurado anteriormente
+  * Configurar DKIM para el dominio FROM: del mensaje. Usar las instrucciones de [este artículo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+  * Configurar DMARC para el dominio FROM:/DKIM configurado anteriormente
 
 * SPF alineado con DMARC. Para configurar SPF alineado con DMARC a través de una ruta de retorno de marca, debe hacer lo siguiente:
 
-   * Configurar el dominio de ruta de retorno de marca
-      * Configurar el registro SPF apropiado
-      * Cambiar el registro MX para que apunte de nuevo al MX predeterminado para el centro de datos desde el que se envía el correo
+  * Configurar el dominio de ruta de retorno de marca
+    * Configurar el registro SPF apropiado
+    * Cambiar el registro MX para que apunte de nuevo al MX predeterminado para el centro de datos desde el que se envía el correo
 
-   * Configurar DMARC para el dominio de ruta de retorno de marca
+  * Configurar DMARC para el dominio de ruta de retorno de marca
 
 * Si está enviando correo desde Marketo Engage a través de una IP dedicada y aún no ha implementado una ruta de retorno de marca, o no está seguro de haberlo hecho, abra un ticket con [Soporte técnico de Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * Si está enviando correo desde Marketo Engage a través de un grupo compartido de IP, puede ver si cumple los requisitos para obtener IP de confianza al [solicitar aquí](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=es){target="_blank"}. La ruta de retorno de marca se ofrece de forma gratuita a quienes realizan los envíos desde direcciones IP de confianza de Marketo Engage. Si ha recibido la aprobación para este programa, póngase en contacto con el soporte técnico de Adobe para configurar la ruta de retorno de marca.
 
-   * IP de confianza: un grupo compartido de IP reservadas para usuarios con un volumen de envíos inferior a 75 000 por mes y que no cumplen los requisitos para obtener una IP dedicada. Estos usuarios también deben cumplir los requisitos de prácticas recomendadas.
+  * IP de confianza: un grupo compartido de IP reservadas para usuarios con un volumen de envíos inferior a 75 000 por mes y que no cumplen los requisitos para obtener una IP dedicada. Estos usuarios también deben cumplir los requisitos de prácticas recomendadas.
 
 * Si envía correo desde Marketo Engage a través de direcciones IP compartidas y no cumple los requisitos para obtener direcciones IP fiables y envía más de 100 000 mensajes al mes, deberá ponerse en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para adquirir una dirección IP dedicada.
 
@@ -300,102 +287,78 @@ Un registro MX le permite recibir correo en el dominio desde el que envía el co
 
 Una conexión saliente es aquella creada por Marketo Engage en un servidor de internet en su nombre. Algunos socios o proveedores con los que trabaja, o su propia organización de TI, pueden utilizar listas de permitidos para restringir el acceso a los servidores. Si es así, debe proporcionarles bloques de direcciones IP de salida de Marketo Engage para añadirlos a sus listas de permitidos.
 
-**Webhooks**
+### Webhooks
 
 Los [webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} de Marketo Engage son un mecanismo de integración saliente. Cuando la acción de flujo [Llamar a un webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} se ejecuta como parte de una campaña inteligente, se realiza una petición HTTP a un servicio web externo. Si el editor del servicio web utiliza una lista de permitidos en el cortafuegos de la red en la que se encuentra el servicio web externo, el editor debe añadir a su lista de permitidos los bloques de direcciones IP que se indican a continuación.
 
-**Sincronización de CRM**
+### Sincronización de CRM
 
 Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} y [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} son mecanismos de integración que realizan peticiones HTTP salientes a las API publicadas por el proveedor de CRM. Debe asegurarse de que su organización de TI no bloquee el acceso de ninguno de los siguientes bloques de direcciones IP a las API del proveedor de CRM.
 
-**Bloques de direcciones IP salientes de Marketo Engage**
+### Bloques de direcciones IP salientes de Marketo Engage
 
 Las siguientes tablas abarcan todos los servidores de Marketo Engage que realizan llamadas salientes. Utilice las siguientes listas si está configurando una lista de permitidos IP, un servidor de, un cortafuegos, una lista de control de acceso, un grupo de seguridad o un servicio de terceros para recibir conexiones salientes desde Marketo Engage.
 
+**Bloque IP (Notación CIDR)**
 <table>
  <tbody>
-  <tr>
-   <th>Bloque de IP (notación CIDR)</th>
-  </tr>
    <tr>
    <td>130.248.172.0/24</td>
-  </tr>
-   <tr>
    <td>130.248.173.0/24</td>
   </tr>
-  <tr>
+   <tr>
    <td>130.248.244.88/29</td>
-  </tr>
-  <tr>
    <td>185.28.196.0/22</td>
   </tr>
   <tr>
    <td>192.28.144.0/20</td>
-  </tr>
-  <tr>
    <td>192.28.160.0/19</td>
   </tr>
   <tr>
    <td>199.15.212.0/22</td>
+   <td> </td>
   </tr>
- </tbody>
+  </tbody>
 </table>
 
+<br>
+**Dirección IP individual**
 <table>
- <tbody>
-  <tr>
-   <th>Dirección IP individual</th>
-  </tr>
-  <tr>
-   <td>13.237.155.207</td>
-  </tr>
-   <tr>
-   <td>13.55.192.247</td>
-  </tr>
-  <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-  <tr>
-   <td>35.165.244.220</td>
-  </tr>
-  <tr>
-   <td>44.235.171.179</td>
-  </tr>
-  <tr>
-   <td>52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>52.64.109.86</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-  <tr>
-   <td>54.212.167.17</td>
-  </tr>
-  <tr>
-   <td>54.220.138.65</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>124.47.174.193</td>
-  </tr>
-  <tr>
-   <td>130.248.168.16</td>
-  </tr>
-   <tr>
-   <td>130.248.168.17</td>
-  </tr>
-  <tr>
-   <td>199.15.213.245</td>
-  </tr>
-  <tr>
-   <td>199.15.215.245</td>
-  </tr>
- </tbody>
+  <tbody>
+    <tr>
+      <td>13.237.155.207</td>
+      <td>13.55.192.247</td>
+      <td>18.200.201.81</td>
+    </tr>
+    <tr>
+      <td>34.247.24.245</td>
+      <td>35.165.244.220</td>
+      <td>44.235.171.179</td>
+    </tr>
+    <tr>
+      <td>52.20.211.99</td>
+      <td>52.64.109.86</td>
+      <td>54.160.246.246</td>
+    </tr>
+    <tr>
+      <td>54.212.167.17</td>
+      <td>54.220.138.65</td>
+      <td>54.237.141.197</td>
+    </tr>
+    <tr>
+      <td>66.235.146.130</td>
+      <td>66.235.146.131</td>
+      <td>124.47.174.193</td>
+    </tr>
+    <tr>
+      <td>130.248.168.16</td>
+      <td>130.248.168.17</td>
+      <td>199.15.213.245</td>
+    </tr>
+    <tr>
+      <td>199.15.215.245</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
