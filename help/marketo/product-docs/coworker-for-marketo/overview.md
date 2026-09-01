@@ -1,0 +1,65 @@
+---
+description: Explore el conjunto de agentes de Coworker for Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
+title: Información general sobre Coworker para Marketo Engage
+source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+workflow-type: tm+mt
+source-wordcount: '403'
+ht-degree: 1%
+
+---
+
+# Información general sobre Coworker para Marketo Engage {#overview}
+
+Coworker para Marketo Engage ofrece habilidades de agente diseñadas para automatizar funciones de marketing importantes pero que llevan mucho tiempo.
+
+>[!AVAILABILITY]
+>
+>Esta función está disponible para todas las suscripciones. Si no ve el mosaico Colaborador para Marketo Engage en la pantalla de Mi Marketo, póngase en contacto con su administrador de cuentas de. También debe aceptar los términos de la [generación principal de IA y los términos complementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+
+>[!IMPORTANT]
+>
+>* Una vez que se haya habilitado la suscripción de Colaborador para Marketo Engage, debe realizar [algunos pasos de configuración](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} para garantizar que los usuarios deseados tengan acceso.
+>
+>* Revise el ámbito de datos, los controles de control y las consideraciones sobre PII en la [hoja de información de datos](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"} de Coworker for Marketo Engage.
+
+## Acceso {#access}
+
+En la pantalla de Mi Marketo, haz clic en el icono **Colaborador de Marketo Engage**.
+
+![](assets/overview-1.png)
+
+Escriba la solicitud en el campo de solicitud, seleccione una de las aptitudes de agente o pruebe con una de las solicitudes de ejemplo.
+
+![](assets/overview-2.png)
+
+## Habilidades {#skills}
+
+La consola central incluye un conjunto cada vez mayor de habilidades de agente disponibles para ayudarle con diversas tareas. Cada aptitud es un asistente de IA creado específicamente con el que interactúa a través del lenguaje natural para completar una tarea específica.
+
+### Investigar posibles clientes {#investigate-leads}
+
+Averigüe por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió. Más información sobre la [aptitud para investigar posibles clientes](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+
+### Conocimiento del producto {#product-knowledge}
+
+El conocimiento del producto le permite acceder a petición a la experiencia de Marketo sin abandonar la plataforma. Haga una pregunta en lenguaje sencillo y Coworker for Marketo Engage se basa en la documentación oficial de Adobe para responderla. Más información sobre la [aptitud para el conocimiento del producto](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
+
+### Validar programas {#validate-programs}
+
+Validar programas comprueba automáticamente la configuración en función de las prácticas recomendadas de Marketo y muestra los problemas antes del inicio. Más información sobre la [aptitud para validar programas](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+
+### Importar posibles clientes {#import-leads}
+
+Importe y deduplique listas de posibles clientes en la base de datos de Marketo Engage con ayuda de asignación de campos. Más información sobre la [habilidad Importar posibles clientes](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+
+## Próximamente {#coming-soon}
+
+Próximamente habrá agentes adicionales diseñados para gestionar el trabajo más repetitivo y laborioso, como:
+
+* Diagnosticar por qué un posible cliente no ejecutó MQL o progresó a través del ciclo vital.
+* Genere programas de Marketo Engage completos directamente desde una información de campaña.
+* Y más.
+
+>[!MORELIKETHIS]
+>
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
