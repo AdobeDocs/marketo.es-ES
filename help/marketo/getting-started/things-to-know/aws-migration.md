@@ -3,7 +3,7 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -73,13 +73,13 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td>9 de julio de 2026</td>
    <td>AB70</td>
    <td>17:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>11 de julio de 2026</td>
    <td>AB46</td>
    <td>10:00 PDT</td>
-   <td>Completado</td>
+   <td>Finalizaciones</td>
   </tr>
   <tr>
    <td>13 de julio de 2026</td>
@@ -93,7 +93,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Completado<br>
+   <td>Finalizaciones<br>
    Completado</td>
   </tr>
   <tr>
@@ -128,6 +128,8 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
 
 +++
 
++++Programación de agosto
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
   </tr>
   <tr>
    <td>20 de agosto de 2026</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>17:00 PDT<br>
-   <i>6 p. m. PDT</i></td>
-   <td>Finalizaciones<br>
-   <i>Pospuesto (fecha por determinar)</i></td>
+   <td>AB42</td>
+   <td>17:00 PDT</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>26 de agosto de 2026</td>
@@ -176,7 +175,20 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td><i>3 p. m. PDT</i><br>
    16:00 PDT</td>
    <td><i>Pospuesto (fecha por determinar)</i><br>
-   Según lo programado</td>
+   Finalizaciones</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Fecha</th>
+   <th style="width:25%">Centro de datos/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Estado</th>
   </tr>
   <tr>
    <td>8 de septiembre de 2026</td>
