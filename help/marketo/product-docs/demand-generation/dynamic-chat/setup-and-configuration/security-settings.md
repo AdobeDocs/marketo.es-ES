@@ -4,15 +4,12 @@ title: Configuración de seguridad
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
 TQID: https://experienceleague.adobe.com/7ans6J5WCXbTalK7ubMCrWBLWaJm3prPCoxsrCWEKtg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 88949407423d12a95bf39470e3c29835d934e2f6
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 238
 ht-degree: 3%
 
 ---
@@ -22,6 +19,17 @@ ht-degree: 3%
 En Configuración de seguridad, puede agregar dominios a una lista de permitidos bloqueada o bloqueada.
 
 ![](assets/security-settings-1.png)
+
+>[!IMPORTANT]
+>
+>El filtrado Bloquear y Permitir dominio del correo electrónico solo se aplica cuando un visitante introduce su dirección de correo electrónico directamente en Dynamic Chat, ya sea en el bot de chat o en un flujo conversacional. No se aplica a las direcciones de correo electrónico que Dynamic Chat recibe de productos integrados, como Marketo Engage. Para obtener más información, consulte la tabla siguiente.
+
+| Escenario | ¿Se aplica el filtrado? |
+|---|---|
+| El visitante escribe su correo electrónico directamente en el bot de chat de Dynamic Chat | Sí |
+| El visitante escribe su correo electrónico directamente en un flujo conversacional de Dynamic Chat | Sí |
+| El correo electrónico se rellena previamente desde un envío de formulario de Marketo (el flujo de conversación aparece después de rellenar el formulario) | No |
+| El correo electrónico se pasa a Dynamic Chat desde cualquier otro sistema integrado | No |
 
 ## Dominios de correo electrónico bloqueados {#blocked-email-domains}
 
