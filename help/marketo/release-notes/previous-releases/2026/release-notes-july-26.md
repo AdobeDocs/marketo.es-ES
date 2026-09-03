@@ -2,9 +2,9 @@
 description: 'Notas de la versión, julio de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2026
 feature: Release Information
-source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 19%
 
 ---
@@ -30,7 +30,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Habilidad de Marketo AI - Conocimiento del producto</strong>: El conocimiento del producto le brinda acceso a petición a la experiencia de Marketo sin salir de la plataforma. Haga una pregunta en lenguaje sencillo y Marketo AI utiliza la documentación oficial de Adobe para proporcionar una respuesta.
 </td>
    <td>Publicado</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Conocimiento del producto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Habilidad de Marketo AI: investigar posibles clientes</strong>: descubra por qué una persona o posible cliente específico no alcanzó un hito (como MQL, calificación de programas o una campaña) y obtenga una explicación en lenguaje sencillo de lo que sucedió.
 </td>
    <td>Publicado</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Investigar posibles clientes</a></td>
   </tr>
   <tr>
    <td> </td>

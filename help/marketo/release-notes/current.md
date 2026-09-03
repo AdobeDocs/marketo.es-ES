@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer de correo electrónico - Generador de scripts</strong>: El creador de scripts es un asistente con tecnología de IA que le ayuda a crear scripts de personalización más rápido.
-</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong>Deshabilitar campañas en el archivo</strong>: al archivar una carpeta, ahora se deshabilitan y desprograman todas las campañas de ese árbol de carpetas, lo que evita la ejecución inesperada de campañas inteligentes archivadas.
+</td>
+   <td>Publicado</td>
+   <td>n/a</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer de correo electrónico - Generador de scripts</strong>: El creador de scripts es un asistente con tecnología de IA que le ayuda a crear scripts de personalización más rápido.
 </td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
@@ -73,6 +73,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 <br/>
 
 ## Anuncios {#announcements}
+
+* **Marketo AI es ahora Coworker para Marketo Engage**: Coworker para Marketo Engage ofrece habilidades de agente diseñadas para automatizar funciones de marketing que consumen tiempo. Nuevo nombre, mismas características, disponible para todos los usuarios. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo está en desuso y no estará disponible después del 31 de agosto de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

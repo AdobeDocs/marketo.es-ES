@@ -2,10 +2,10 @@
 description: 'Notas de la versión, mayo de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, mayo de 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>: utilice un conjunto de agentes diseñados para automatizar funciones de marketing importantes pero que requieren mucho tiempo (hay dos agentes disponibles ahora y más próximamente).
+   <td><strong>Marketo AI</strong>: utilice un conjunto de habilidades de agente diseñadas para automatizar funciones de marketing importantes pero que consumen tiempo (hay dos habilidades de agente disponibles ahora y más próximamente).
 </td>
    <td>Abrir versión beta</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Información general sobre Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Información general sobre Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Está escribiendo</strong>: Ahora tanto el visitante como el agente ven una notificación "está escribiendo..." mientras la otra parte escribe, lo que impide que una interrumpa a la otra.
+   <td><strong>Dynamic Chat - Está escribiendo</strong>: Ahora tanto el visitante como el agente ven un mensaje "está escribiendo..." mientras la otra parte está escribiendo, evitando que una interrumpa a la otra.
    </td>
    <td>Publicado</td>
    <td>n/a</td>
