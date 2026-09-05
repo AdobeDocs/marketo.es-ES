@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
+source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '903'
 ht-degree: 5%
 
 ---
@@ -79,7 +79,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td>11 de julio de 2026</td>
    <td>AB46</td>
    <td>10:00 PDT</td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>13 de julio de 2026</td>
@@ -93,7 +93,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    NLD104</td>
    <td>10:00 PDT<br>
    11:00 PDT</td>
-   <td>Finalizaciones<br>
+   <td>Completado<br>
    Completado</td>
   </tr>
   <tr>
@@ -175,7 +175,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td><i>3 p. m. PDT</i><br>
    16:00 PDT</td>
    <td><i>Pospuesto (fecha por determinar)</i><br>
-   Finalizaciones</td>
+   Completado</td>
   </tr>
   </body>
 </table>
@@ -239,6 +239,36 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    <td>25 de septiembre de 2026</td>
    <td>AB10<br>
    AB11</td>
+   <td>16:00 PDT<br>
+   17:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>29 de septiembre de 2026</td>
+   <td>AB14</td>
+   <td>18:00 PDT</td>
+   <td>Según lo programado</td>
+  </tr>
+   <tr>
+   <td>1 de octubre de 2026</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>6 de octubre de 2026</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>Según lo programado</td>
+  </tr>
+  <tr>
+   <td>9 de octubre de 2026</td>
+   <td>AB19<br>
+   AB22</td>
    <td>16:00 PDT<br>
    17:00 PDT</td>
    <td>Según lo programado<br>
