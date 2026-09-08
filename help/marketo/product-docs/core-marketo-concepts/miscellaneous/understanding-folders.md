@@ -4,21 +4,16 @@ description: Obtenga información sobre las carpetas dentro de los programas par
 title: Explicación de las carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: 7c035bd266b25d19ab7406ca989e8fc9f13126b9
 workflow-type: tm+mt
-source-wordcount: 274
-ht-degree: 4%
+source-wordcount: 428
+ht-degree: 1%
 
 ---
 
-# Explicación de las carpetas {#understanding-folders}
+# Explicación de carpetas {#understanding-folders}
 
 Las carpetas dentro de un programa se pueden utilizar para organizar las campañas inteligentes y los recursos. Son diferentes de [carpetas de campaña](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
@@ -74,6 +69,28 @@ Al archivar una carpeta:
 Funcionalidad que **no** cambiará al archivar:
 
 * La búsqueda global sigue encontrando resultados en carpetas archivadas
-* Un recurso en uso seguirá funcionando incluso después de archivarse
 * Puede utilizar un filtro para seleccionar recursos archivados para utilizarlos en informes
-* Los recursos archivados no se desactivan. También deben desactivarse si desea que dejen de ejecutarse
+
+### Campañas inteligentes desactivadas tras el archivo {#disable-smart-campaigns-archive}
+
+Cuando se archiva una carpeta o un programa, o cuando se mueve una campaña inteligente activa a una carpeta que ya está archivada, Marketo Engage detiene la ejecución de las campañas afectadas:
+
+* Se han desactivado **campañas activadas**.
+* Se han cancelado las ejecuciones pendientes de **campañas por lotes**.
+* **Las campañas ejecutables** no tienen estado de ejecución, por lo que no se realiza ninguna acción.
+
+**Acciones compatibles**
+
+Las siguientes acciones desactivan las campañas:
+
+* Arrastrando y soltando una **carpeta** que contiene campañas activas en una carpeta archivada
+* Arrastrando y soltando un **programa** (de cualquier tipo) que contenga campañas activas en una carpeta archivada
+* Arrastrando y soltando **una sola campaña inteligente** en una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover** de una sola campaña inteligente a una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover carpeta** en una carpeta que contenga campañas activas a una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover** un programa que contenga campañas activas a una carpeta archivada
+* Haciendo clic con el botón derecho en **Convertir en carpeta archivada** en una carpeta para archivarla sin moverla
+
+>[!NOTE]
+>
+>Si se hace referencia a una campaña inteligente dentro de la carpeta o del programa que se está archivando en otra parte (por ejemplo, a través del paso de flujo &quot;Solicitar campaña&quot;), el archivado se bloquea para evitar que se interrumpa esa otra campaña.
