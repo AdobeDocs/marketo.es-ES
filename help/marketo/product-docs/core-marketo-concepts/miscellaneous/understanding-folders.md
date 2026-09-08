@@ -4,16 +4,11 @@ description: Obtenga información sobre las carpetas dentro de los programas par
 title: Explicación de las carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: 7c035bd266b25d19ab7406ca989e8fc9f13126b9
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 428
+source-wordcount: 427
 ht-degree: 1%
 
 ---
@@ -30,11 +25,11 @@ Las carpetas dentro de un programa se pueden utilizar para organizar las campañ
 
 1. Haga clic con el botón derecho en un programa y seleccione **[!UICONTROL Nueva carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Asigne un nombre a la nueva carpeta y presione **[!UICONTROL Intro]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 La nueva carpeta ya está lista para sus recursos locales.
 
@@ -42,11 +37,11 @@ La nueva carpeta ya está lista para sus recursos locales.
 
 1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Cambiar nombre de carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Escriba un nombre nuevo y presione **[!UICONTROL Entrar]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Eliminar una carpeta {#delete-a-folder}
 
@@ -56,13 +51,13 @@ La nueva carpeta ya está lista para sus recursos locales.
 
 1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Eliminar carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## Archivar una carpeta {#archive-a-folder}
 
 En Marketo, puede convertir las carpetas existentes en carpetas de archivo. Existen carpetas de archivo en [!UICONTROL Actividades de marketing], [!UICONTROL Base de datos] y [!UICONTROL Design Studio].
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 Al archivar una carpeta:
 
@@ -76,7 +71,7 @@ Funcionalidad que **no** cambiará al archivar:
 * La búsqueda global sigue encontrando resultados en carpetas archivadas
 * Puede utilizar un filtro para seleccionar recursos archivados para utilizarlos en informes
 
-### Campañas inteligentes desactivadas tras el archivo {#disable-smart-campaigns-archive}
+### Deshabilitar campañas en el archivo {#disable-campaigns-archive}
 
 Cuando se archiva una carpeta o un programa, o cuando se mueve una campaña inteligente activa a una carpeta que ya está archivada, Marketo Engage detiene la ejecución de las campañas afectadas:
 
