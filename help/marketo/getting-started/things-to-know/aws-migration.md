@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2f5b6f31959e542b149e10bf42e4ab4ee763fbcd
+source-git-commit: 45994b2296473529f7c8ea9e34dd76c6c1c1e897
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '990'
 ht-degree: 5%
 
 ---
@@ -43,7 +43,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!IMPORTANT]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -51,7 +51,9 @@ Antes de revisar la programación a continuación, [aprenda a identificar](/help
 
 ## Programación {#schedule}
 
-Las nuevas fechas y la información del centro de datos/pod se añaden o cambian periódicamente, por lo que debe supervisar esta programación para ver si hay actualizaciones.
+Las nuevas fechas y la información del centro de datos/pod se añaden o cambian periódicamente, por lo que debe supervisar esta programación para ver si hay actualizaciones. No hay opción de exclusión ni de solicitar que la migración se mueva a una fecha diferente.
+
+Si, por algún motivo, una migración no se ha realizado correctamente, se le notificará y se volverá a programar.
 
 +++Programación de julio
 <table>
@@ -306,7 +308,9 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener la información más reciente, marque esta página como favorito. Para recibir actualizaciones de estado al inicio y al finalizar la migración, pero [debes suscribirte](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} para recibirlas. También puede visitar https://status.adobe.com/.
+
+Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
