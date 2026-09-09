@@ -11,14 +11,14 @@ feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 274
-ht-degree: 4%
+source-wordcount: 427
+ht-degree: 1%
 
 ---
 
-# Explicación de las carpetas {#understanding-folders}
+# Explicación de carpetas {#understanding-folders}
 
 Las carpetas dentro de un programa se pueden utilizar para organizar las campañas inteligentes y los recursos. Son diferentes de [carpetas de campaña](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
@@ -30,11 +30,11 @@ Las carpetas dentro de un programa se pueden utilizar para organizar las campañ
 
 1. Haga clic con el botón derecho en un programa y seleccione **[!UICONTROL Nueva carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Asigne un nombre a la nueva carpeta y presione **[!UICONTROL Intro]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 La nueva carpeta ya está lista para sus recursos locales.
 
@@ -42,11 +42,11 @@ La nueva carpeta ya está lista para sus recursos locales.
 
 1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Cambiar nombre de carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Escriba un nombre nuevo y presione **[!UICONTROL Entrar]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Eliminar una carpeta {#delete-a-folder}
 
@@ -56,13 +56,13 @@ La nueva carpeta ya está lista para sus recursos locales.
 
 1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Eliminar carpeta]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## Archivar una carpeta {#archive-a-folder}
 
 En Marketo, puede convertir las carpetas existentes en carpetas de archivo. Existen carpetas de archivo en [!UICONTROL Actividades de marketing], [!UICONTROL Base de datos] y [!UICONTROL Design Studio].
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 Al archivar una carpeta:
 
@@ -74,6 +74,28 @@ Al archivar una carpeta:
 Funcionalidad que **no** cambiará al archivar:
 
 * La búsqueda global sigue encontrando resultados en carpetas archivadas
-* Un recurso en uso seguirá funcionando incluso después de archivarse
 * Puede utilizar un filtro para seleccionar recursos archivados para utilizarlos en informes
-* Los recursos archivados no se desactivan. También deben desactivarse si desea que dejen de ejecutarse
+
+### Deshabilitar campañas en el archivo {#disable-campaigns-archive}
+
+Cuando se archiva una carpeta o un programa, o cuando se mueve una campaña inteligente activa a una carpeta que ya está archivada, Marketo Engage detiene la ejecución de las campañas afectadas:
+
+* Se han desactivado **campañas activadas**.
+* Se han cancelado las ejecuciones pendientes de **campañas por lotes**.
+* **Las campañas ejecutables** no tienen estado de ejecución, por lo que no se realiza ninguna acción.
+
+**Acciones compatibles**
+
+Las siguientes acciones desactivan las campañas:
+
+* Arrastrando y soltando una **carpeta** que contiene campañas activas en una carpeta archivada
+* Arrastrando y soltando un **programa** (de cualquier tipo) que contenga campañas activas en una carpeta archivada
+* Arrastrando y soltando **una sola campaña inteligente** en una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover** de una sola campaña inteligente a una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover carpeta** en una carpeta que contenga campañas activas a una carpeta archivada
+* Haciendo clic con el botón derecho en **Mover** un programa que contenga campañas activas a una carpeta archivada
+* Haciendo clic con el botón derecho en **Convertir en carpeta archivada** en una carpeta para archivarla sin moverla
+
+>[!NOTE]
+>
+>Si se hace referencia a una campaña inteligente dentro de la carpeta o del programa que se está archivando en otra parte (por ejemplo, a través del paso de flujo &quot;Solicitar campaña&quot;), el archivado se bloquea para evitar que se interrumpa esa otra campaña.

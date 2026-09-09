@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 477
-ht-degree: 19%
+source-wordcount: 496
+ht-degree: 18%
 
 ---
 
@@ -55,7 +55,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Deshabilitar campañas en el archivo</strong>: al archivar una carpeta, ahora se deshabilitan y desprograman todas las campañas de ese árbol de carpetas, lo que evita la ejecución inesperada de campañas inteligentes archivadas.
 </td>
    <td>Publicado</td>
-   <td>n/a</td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Deshabilitar campañas en el archivo</a></td>
   </tr>
     <tr>
    <td> </td>
