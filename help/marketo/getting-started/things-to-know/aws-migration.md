@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
+source-git-commit: 157eb35db14f4aa425db32901f878b66fcb31330
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '993'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 En los próximos meses, todas las suscripciones de Marketo Engage se migrarán de un centro de datos privado a la nube pública de AWS para mejorar la fiabilidad, la escalabilidad y la velocidad.
 
-Recibirá un correo electrónico y una notificación en la aplicación aproximadamente 30 días antes de la migración. Utilice esta guía para prepararse.
+Recibirá un correo electrónico y una notificación en la aplicación aproximadamente 30 días antes de [su migración](#identify). Utilice esta guía para prepararse.
 
 ## Acciones recomendadas {#actions}
 
@@ -37,19 +37,23 @@ Durante la ventana de migración, todos los servicios de Marketo Engage no estar
 Los impactos siguientes no requieren ninguna acción por su parte.
 
 * **Las integraciones de CRM y los servicios de LaunchPoint** se deshabilitarán, pero se reanudarán automáticamente más tarde.
-* **Las páginas de aterrizaje, los formularios y la recopilación de datos** no estarán disponibles, y en su lugar se mostrará un mensaje de mantenimiento.
+* **Las páginas de aterrizaje, los formularios y la recopilación de datos** no estarán disponibles y se mostrará un mensaje de mantenimiento (ver a continuación).
 
->[!NOTE]
+  ![Mensaje que ven sus clientes cuando acceden a sus páginas de aterrizaje de Marketo Engage durante el tiempo de inactividad](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
 >Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
-Antes de revisar las tablas siguientes, [aprenda a identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) en qué centro de datos y pod/servidor se encuentra su suscripción.
+Antes de revisar la programación a continuación, [aprenda a identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) en qué centro de datos y pod/servidor se encuentra su suscripción.
 
 ## Programación {#schedule}
 
-Las nuevas fechas y la información del centro de datos/pod se añaden o cambian periódicamente, por lo que debe supervisar esta programación para ver si hay actualizaciones.
+Las nuevas fechas y la información del centro de datos/pod se añaden o cambian periódicamente, por lo que debe supervisar esta programación para ver si hay actualizaciones. No hay opción de exclusión ni de solicitar que la migración se mueva a una fecha diferente.
+
+Si, por algún motivo, una migración no se ha realizado correctamente, se le notificará y se volverá a programar.
 
 +++Programación de julio
 <table>
@@ -196,8 +200,8 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
    AB02</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>Completado<br>
+   Completado</td>
   </tr>
   <tr>
    <td>10 de septiembre de 2026</td>
@@ -304,7 +308,11 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 ## Actualizaciones y asistencia {#support}
 
-Para obtener las últimas actualizaciones, marque esta página como favorito. Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Para obtener la información más reciente, marque esta página como favorito.
+
+Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
+
+Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
