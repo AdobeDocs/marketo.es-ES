@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 157eb35db14f4aa425db32901f878b66fcb31330
+source-git-commit: ae8999e3dbf4f95f470c36f675c9a4b5798b8d07
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '992'
 ht-degree: 5%
 
 ---
@@ -43,7 +43,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!IMPORTANT]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -209,7 +209,7 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    <i>AB04</i></td>
    <td>17:00 PDT<br>
    <i>6 p. m. PDT</i></td>
-   <td>Según lo programado<br>
+   <td>Completado<br>
    <i>Pospuesto (fecha por determinar)</i></td>
   </tr>
   <tr>
@@ -310,9 +310,9 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 Para obtener la información más reciente, marque esta página como favorito.
 
-Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
+Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
 
-Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
