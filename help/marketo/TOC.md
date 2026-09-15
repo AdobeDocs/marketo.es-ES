@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '8930'
+source-wordcount: '8932'
 ht-degree: 96%
 ---
 
@@ -487,6 +487,7 @@ ht-degree: 96%
   + Compañero de trabajo de Marketo Engage {#coworker-for-marketo}
     + [Información general](product-docs/coworker-for-marketo/overview.md)
     + [Configuración y configuración](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Reglas organizativas](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Compañero de trabajo para Marketo Engage data information sheet](product-docs/coworker-for-marketo/data-information.md)
     + Habilidades {#skills}
       + [Conocimiento del producto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
@@ -496,7 +497,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
