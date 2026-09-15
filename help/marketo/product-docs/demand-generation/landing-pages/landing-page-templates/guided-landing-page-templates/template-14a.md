@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/FKDZhve6Z8HfMcZpudfRCEV0fqdVoqqP-EBYtZgERoU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 5%
-
 ---
-
 # Plantilla 14A {#template-14a}
 
-Haga clic con el botón derecho para [descargar la plantilla 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 14A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
@@ -27,11 +27,11 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * Incluye título y texto para héroes
+  * Incluye título y texto para héroes
 
 * Cinco secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 14A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=es)
+[Plantilla 14A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-14a.html)

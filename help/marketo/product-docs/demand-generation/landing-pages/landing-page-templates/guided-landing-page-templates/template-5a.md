@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/TTGX2rYJF4BQxGLPIR9HK8-n-NJlXqq9L826goMSH4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 80
+source-wordcount: '80'
 ht-degree: 5%
-
 ---
-
 # Plantilla 5A {#template-5a}
 
-Haga clic con el botón derecho para [descargar la plantilla 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=es)
+Haga clic con el botón derecho para [descargar la plantilla 5A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -27,11 +27,11 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye imagen a pantalla completa, título a pantalla completa y 3 viñetas de descripción.
+  * incluye imagen a pantalla completa, título a pantalla completa y 3 viñetas de descripción.
 
 * Tres secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=es)
+[Plantilla 5A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5a.html)
