@@ -6,23 +6,29 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
+    internal-label: Administration
+source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
 workflow-type: tm+mt
-source-wordcount: 496
-ht-degree: 18%
-
+source-wordcount: '546'
+ht-degree: 17%
 ---
-
 # Notas de la versión: agosto de 2026 {#release-notes-aug-26}
 
 A continuación encontrará todas las funciones incluidas en la versión de agosto de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
@@ -41,9 +47,9 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Nueva interfaz de usuario de Marketo Engage</strong>: La interfaz de Marketo Engage tiene un aspecto actualizado, que incluye menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Se trata de una actualización visual; no afecta a la funcionalidad ni a los flujos de trabajo existentes.
+   <td><strong>Nueva interfaz de usuario de Marketo Engage</strong>: La interfaz de Marketo Engage tiene un aspecto actualizado, que incluye menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Esto es solo una actualización visual; no afecta a la funcionalidad ni a los flujos de trabajo existentes.
 </td>
-   <td>Despliegue gradual durante todo el mes de agosto</td>
+   <td>Despliegue gradual durante agosto y septiembre</td>
    <td><i>n/a</i></td>
   </tr>
   <tr>
@@ -68,6 +74,18 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Generate Content Contextual Menu</strong>: Ahora se puede acceder a las funciones "Generar contenido" de Email Designer desde el menú contextual (la barra negra). Por ejemplo, al seleccionar contenido de texto, el icono Generar contenido aparece en el menú contextual, lo que le permite realizar acciones rápidas.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  </tr>
   </tbody>
 </table>
 <br/>
@@ -80,6 +98,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Id. de ejecución de campaña de API REST**: En determinadas circunstancias, el valor del Id. de ejecución de campaña de una actividad se devolvió a veces con un formato incorrecto, entre dos pares de comillas (por ejemplo, `"campaignRunId": ""102938""`).<br/>A partir de la versión de agosto, este valor siempre se devolverá con el formato numérico correcto (`"campaignRunId": 102938`)
 
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos Obtener actividades de posibles clientes u Obtener cambios de posibles clientes que incluyan el parámetro `listId` fallarán si las listas de destinatarios contienen 10 000 posibles clientes o más con un código de error 1003 que indique que la lista estática de destinatarios tiene demasiados registros. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyan el parámetro `listId` generarán un error de código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
 
 * **Límite de posibles clientes de combinación de API de REST**: El 31 de julio de 2026, las llamadas que incluyen más de 25 ID en el parámetro leadIds de una llamada de API de Merge Leads generarán un código de error 1080, y se omitirá la llamada. Los trabajos que requieren la fusión de más de 25 registros en uno deben dividirse en varios trabajos para garantizar el éxito de esas llamadas.

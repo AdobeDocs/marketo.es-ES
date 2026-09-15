@@ -4,13 +4,11 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Guía de Marketo {#using}
 
@@ -129,7 +127,7 @@ ht-degree: 96%
       + [Exportación de una lista de todos los nombres de campo de la API de Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
       + [Exportación utilizada por los datos de un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
       + [Ocultar y mostrar un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-      + [Tókenes de codificación HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+      + [Tokens de codificación HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
       + [Marcar un campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
       + [Administración de listas de selección](product-docs/administration/field-management/picklist-management.md)
       + [Cambiar el nombre del campo](product-docs/administration/field-management/rename-a-field.md)
@@ -275,7 +273,7 @@ ht-degree: 96%
         + [Activadores y filtros para campañas inteligentes móviles](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
         + [Uso de un webhook en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
         + [Uso de Añadir opción en un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
-        + [Uso de tókenes en pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+        + [Uso de tokens en pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
         + Espera {#wait}
           + [Información general de la espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
           + [Uso de un token de fecha en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
@@ -418,10 +416,10 @@ ht-degree: 96%
         + [Reprogramación de un programa completo desde la vista Calendario](product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
         + [Explicación de las fechas provisionales/confirmadas](product-docs/core-marketo-concepts/programs/program-schedule-view/understanding-tentative-confirmed-dates.md)
         + [Uso de una superposición global](product-docs/core-marketo-concepts/programs/program-schedule-view/using-a-global-overlay.md)
-      + Tókenes {#tokens}
-        + [Administrar mis tókenes](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-        + [Explicación de mis tókenes en un programa](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-        + [Tókenes de campo personalizado para miembros del programa](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
+      + Tokens {#tokens}
+        + [Administrar mis tokens](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+        + [Explicación de mis tokens en un programa](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+        + [Tokens de campo personalizado para miembros del programa](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
     + Calendario de marketing {#marketing-calendar}
       + Explicación del calendario {#understanding-the-calendar}
         + [Emitir/revocar una licencia de calendario de marketing](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -937,13 +935,13 @@ ht-degree: 96%
         + [Añadir un fragmento a una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
         + [Añadir CNAME de página de destino adicional](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
         + [Añadir SSL a sus páginas de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-        + [Añadir texto y tókenes a una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
+        + [Añadir texto y tokens a una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
         + [Habilitar direcciones URL personalizadas para una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
         + [Habilitar direcciones URL personalizadas para su cuenta](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
         + [Exportación de una lista con direcciones URL personalizadas](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
         + [Incluir un archivo ICS de eventos de calendario en una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
         + [Redireccionar una ruta de URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-        + [Información general sobre tókenes](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+        + [Información general sobre tokens](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
         + [Uso de contenido dinámico en una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
         + [Uso del generador de URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
     + Social {#social}
@@ -1007,7 +1005,7 @@ ht-degree: 96%
       + [Información general](product-docs/email-marketing/email-designer/overview.md)
       + [Comparación de funciones](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Creación del correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [Uso de módulos de en el Designer de correo electrónico](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Módulos en el Diseñador de correo electrónico](product-docs/email-marketing/email-designer/email-modules.md)
       + [Contenido condicional](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Creación de plantilla de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importar una plantilla](product-docs/email-marketing/email-designer/import-template.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [Correo electrónico de colaboración](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Generación de contenido en el Designer de correo electrónico](product-docs/email-marketing/email-designer/generate-content.md)
       + [Informe de correo no deseado con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [Guía de seguimiento abierto de CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Seguimiento de apertura condicional](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + Programas de correo electrónico {#email-programs}
       + Creación de un programa de correo electrónico {#creating-an-email-program}
         + [Creación de un programa de correo electrónico](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1115,14 +1113,14 @@ ht-degree: 96%
           + [Campeón/Aspirante: dirección del remitente](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
           + [Campeón/Aspirante: línea de asunto](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
           + [Campeón/Aspirante: correos electrónicos completos](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-      + Uso de tókenes {#using-tokens}
+      + Uso de tokens {#using-tokens}
         + [Añadir un token del sistema como un vínculo en un correo electrónico](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
         + [Añadir un token de script de correo electrónico al correo electrónico](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
-        + [Añadir tókenes a un vínculo de un correo electrónico](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
+        + [Añadir tokens a un vínculo de un correo electrónico](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
         + [Crear un token de script de correo electrónico](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
-        + [Glosario de tókenes del sistema](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
+        + [Glosario de tokens del sistema](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
         + [Usar el token de información de envío de alerta](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
-        + [Uso de los URL en Mis tókenes](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+        + [Uso de los URL en Mis tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [CC del correo electrónico](product-docs/email-marketing/general/email-cc.md)
   + Notificaciones de Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificación: Conexión de Websocket](product-docs/marketo-notifications/websocket-connection.md)
@@ -1546,7 +1544,7 @@ ht-degree: 96%
           + [Pestaña de correo electrónico](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
           + Momentos interesantes {#interesting-moments}
             + [Información general sobre momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-            + [Activar tókenes para momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+            + [Activar tokens para momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
             + [Usar momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
       + MSI para dispositivos móviles {#msi-for-mobile}
         + [Mejores apuestas en Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

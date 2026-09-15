@@ -2,13 +2,11 @@
 description: 'Notas de la versión, julio de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2026
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # Notas de la versión: julio de 2026 {#release-notes-july-26}
 
 A continuación encontrará todas las funciones incluidas en la versión de julio de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
@@ -51,18 +49,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Email Designer - Módulos</strong>: Ahora tiene acceso a bloques de contenido totalmente estructurados y listos para usar diseñados para acelerar el ensamblado de correo electrónico.</td>
    <td>Publicado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Uso de módulos de en el Designer de correo electrónico</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Generate Content Contextual Menu</strong>: Ahora se puede acceder a las funciones "Generar contenido" de Email Designer desde el menú contextual (la barra negra). Por ejemplo, al seleccionar contenido de texto, el icono Generar contenido aparece en el menú contextual, lo que le permite realizar acciones rápidas.</td>
-   <td><i>Próximamente</i></td>
-<td><i>Próximamente</i></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Módulos en el Diseñador de correo electrónico</a></td>
   </tr>
   </tr>
   </tbody>
