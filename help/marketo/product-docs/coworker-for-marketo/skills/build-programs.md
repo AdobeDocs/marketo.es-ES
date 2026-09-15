@@ -1,15 +1,11 @@
 ---
 description: Use Colaborador para Marketo Engage para crear un programa de Marketo a partir de una información en lenguaje sencillo. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
 title: Generar programas
-badge: Beta
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '582'
 ht-degree: 0%
-
 ---
-
 # Generar programas {#build-programs}
 
 Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage creará la estructura del programa, con marcadores de posición de recursos y programación.
@@ -19,10 +15,6 @@ Describa una campaña de marketing en un lenguaje sencillo y el colaborador de M
 >* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 >
 >* Debe tener permiso para crear programas en su cuenta de Marketo.
-
->[!AVAILABILITY]
->
->Esta función se encuentra actualmente en versión beta cerrada. Por favor, no difunda esta documentación.
 
 ## Cómo usar {#how-to-use}
 
