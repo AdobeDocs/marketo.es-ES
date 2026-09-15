@@ -1,24 +1,26 @@
 ---
-description: Use Colaborador para Marketo Engage para crear un programa de Marketo a partir de una información en lenguaje sencillo. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
+description: Use Colaborador para Marketo Engage para crear un programa de Marketo adaptando una plantilla existente. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
 title: Generar programas
-source-git-commit: f812c2f442c39883e028735ce51efe607968142b
+source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '769'
 ht-degree: 0%
 ---
 # Generar programas {#build-programs}
 
-Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage creará la estructura del programa, con marcadores de posición de recursos y programación.
+Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage adapta una plantilla de programa existente para adaptarla a sus necesidades, actualiza automáticamente el contenido del correo electrónico y crea recursos adicionales mediante la duplicación de la estructura de la plantilla.
 
 >[!PREREQUISITES]
 >
 >* Para usar esta característica, primero debe aceptar los términos de [Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 >
->* Debe tener permiso para crear programas en su cuenta de Marketo.
+>* Debe tener permiso para crear programas en su cuenta de Marketo y tener al menos un programa de Marketo existente para utilizarlo como plantilla. El programa de plantillas debe contener al menos un correo electrónico y una campaña inteligente.
 
 ## Cómo usar {#how-to-use}
 
 1. En Mi Marketo, haga clic en el icono **Colaborador de Marketo Engage**.
+
+1. Seleccione un programa de plantillas. Elija un programa existente que coincida con su tipo de campaña (por ejemplo, Correo electrónico, Seminario web, Nutrición).
 
 1. En la ventana de solicitud, escriba una descripción de la campaña que desea crear. Sea tan específico o general como desee (siempre puede refinarlo).
 
@@ -32,7 +34,7 @@ Describa una campaña de marketing en un lenguaje sencillo y el colaborador de M
 
 1. Compruebe que los filtros de campaña inteligente y los pasos de flujo coinciden con la audiencia y la lógica deseadas.
 
-1. Ejecute el agente [Validar programas](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) antes de activarlo.
+1. Después de completar todos los refinamientos manuales (configurar la lógica de Smart Campaign, finalizar filtros, personalizar el contenido del correo electrónico), ejecute [Validar programas](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) para asegurarse de que los cambios cumplan con las reglas de organización antes de activarlos.
 
 ## Casos de uso {#use-cases}
 
@@ -42,13 +44,18 @@ Describa una campaña de marketing en un lenguaje sencillo y el colaborador de M
 
 **Nutrición para renovar la participación**: un gerente de generación de demanda pide una serie de renovación de la participación de tres correos electrónicos dirigida a los posibles clientes que no hayan participado en 90 días. Compañero de Marketo Engage crea la campaña por lotes con el filtro de inactividad, tres pasos de envío de correo electrónico con los pasos de espera adecuados entre ellos y un paso de flujo para actualizar el estado del posible cliente si alguien se vuelve a comprometer.
 
-**Programa de seguimiento de eventos**: después de una feria comercial, un administrador le pide a Marketo Engage que cree un programa de seguimiento posterior al evento que envíe un correo electrónico de agradecimiento a los asistentes y un correo electrónico de agradecimiento a los inscritos que no se presentaron. Coworker para Marketo Engage crea dos campañas inteligentes, una para cada segmento, con los filtros y los marcadores de posición de correo electrónico correctos.
+**Programa de seguimiento de eventos**: después de una feria comercial, un administrador le pide a Marketo Engage que cree un programa de seguimiento posterior al evento que envíe un correo electrónico de agradecimiento a los asistentes y un correo electrónico de agradecimiento a los inscritos que no se presentaron. Un compañero de Marketo Engage crea dos campañas inteligentes, una para cada segmento, con los filtros y los marcadores de posición de correo electrónico correctos.
+
+>[!NOTE]
+>
+>En cada ejemplo anterior, el colaborador clona una plantilla de programa existente (un correo electrónico o programa de evento simple con estructura básica) y crea los correos electrónicos y campañas adicionales duplicando los recursos de plantilla y actualizando su contenido. Los pasos y filtros de flujo de la campaña inteligente se adaptan siempre que sea posible, pero puede requerir un refinamiento manual para que coincida con la lógica de campaña específica.
 
 ## Cosas que debe tener en cuenta {#things-to-note}
 
 * Tenga una idea clara de lo que debe hacer la campaña, quién es la audiencia, qué acción déclencheur (o si es un envío por lotes) y cuál es el objetivo.
-* No se requieren plantillas ni formularios por adelantado. Los compañeros de Marketo Engage crean la estructura y puede conectar recursos posteriormente (usted sigue siendo el responsable de escribir una copia del correo electrónico y configurar las páginas de aterrizaje).
-* El compañero de Marketo Engage no puede acceder automáticamente a sus listas de audiencia existentes. Debe conectar los filtros de lista inteligente a los segmentos reales después de crear el programa.
+* Se requiere la selección de plantillas. Elija una plantilla con al menos un correo electrónico y una campaña inteligente. La herramienta no puede funcionar con plantillas vacías.
+* El contenido del correo electrónico se genera automáticamente, pero los filtros de campañas inteligentes y los pasos de flujo siguen siendo manuales. Debe configurar la lógica después de la creación para que coincida con el comportamiento deseado de la campaña.
+* Los recursos adicionales se crean mediante duplicación. Si el informe llama a 4 correos electrónicos pero la plantilla tiene 1, la herramienta crea 3 duplicados. Revise todos para mantener la coherencia; heredan el diseño y la estructura de la plantilla.
+* El compañero de Marketo Engage no puede acceder automáticamente a sus listas de audiencia existentes. Debe configurar manualmente los filtros de la lista inteligente para que se dirijan a los segmentos reales después de crear el programa.
 * Los programas complejos de varios pasos con lógica de ramificación avanzada pueden necesitar un refinamiento manual después de su creación.
 * Si su entorno de Marketo utiliza convenciones de nomenclatura o estructuras de carpetas, especifíquelas en la descripción para que el programa se cree en el lugar correcto.
-
