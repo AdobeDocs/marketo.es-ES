@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: c5aeb2888adf964f59d61f21a7bb0abf68ff4ba8
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 53%
 ---
 # Lista de plantillas de la página de destino guiada {#guided-landing-page-template-list}
@@ -33,7 +33,7 @@ Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor 
 
 1. Haga clic en el nombre de la [plantilla deseada debajo de](#all-templates) que se llevará a su página dedicada.
 
-1. Haga clic con el botón derecho en &quot;descargar plantilla&quot; y seleccione **Guardar vínculo como**. Guarde el archivo en la ubicación deseada en el equipo.
+1. Haga clic con el botón derecho en &quot;descargar plantilla&quot; y seleccione **Guardar vínculo como...**. Guarde el archivo en la ubicación deseada en el equipo.
 
 1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]**.
 
@@ -49,7 +49,7 @@ Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor 
 
    ![](assets/guided-landing-page-template-list-5.png)
 
-1. Elija el archivo descargado y haga clic en **[!UICONTROL Crear]** (seleccionar **Reemplazar cualquier plantilla existente con este nombre** es opcional).
+1. Elija el archivo de plantilla que descargó y haga clic en **[!UICONTROL Crear]** (seleccionar **Reemplazar cualquier plantilla existente con este nombre** es opcional).
 
    ![](assets/guided-landing-page-template-list-6.png)
 
