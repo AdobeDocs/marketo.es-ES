@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/WzaQDClZ8mfxlAsm8IWA0IaNnWPW8I4Uxr0B8q8f5XY
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '78'
 ht-degree: 5%
-
 ---
-
 # Plantilla 16D {#template-16d}
 
-Haga clic con el botón derecho para [descargar plantilla 16D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=es)
+Haga clic con el botón derecho para [descargar plantilla 16D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16d.html)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -27,11 +27,11 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye título de héroe, texto de héroe y sorteos
+  * incluye título de héroe, texto de héroe y sorteos
 
 * Seis secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón secundario para descargar esta plantilla:**
 
-[Plantilla 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=es)
+[Plantilla 16D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16d.html)
