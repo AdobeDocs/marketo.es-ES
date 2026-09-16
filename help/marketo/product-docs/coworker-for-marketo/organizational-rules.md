@@ -1,9 +1,9 @@
 ---
 description: Descubra cómo las reglas organizativas definen los estándares de gobernanza y guían a los colaboradores de Marketo Engage en la creación de programas, la planificación de campañas y la validación.
 title: Reglas organizativas
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # Reglas organizativas {#organizational-rules}
@@ -19,7 +19,7 @@ Las reglas organizativas son un documento de configuración basado en Markdown q
 * Requisitos de cumplimiento (vínculos de cancelación de suscripción, parámetros de UTM, filtros de exclusión)
 * Prácticas recomendadas (diseño de correo electrónico, configuración de listas inteligentes)
 
-Cada instancia de Marketo incluye reglas organizativas predeterminadas. Puede personalizarlos para que reflejen las necesidades de gobernanza específicas de su organización.
+Todos los entornos de Marketo Engage incluyen reglas organizativas predeterminadas. Puede personalizarlos para que reflejen las necesidades de gobernanza específicas de su organización.
 
 ## Dónde se utilizan las reglas organizativas {#where-organizational-rules-are-used}
 
