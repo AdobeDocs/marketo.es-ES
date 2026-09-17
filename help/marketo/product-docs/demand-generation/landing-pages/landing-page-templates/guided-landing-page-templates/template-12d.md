@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '101'
+ht-degree: 3%
 ---
 # Plantilla 12D {#template-12d}
 
-Haga clic con el botón derecho para [descargar plantilla 12D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12d.html)
+Haga clic con el botón derecho en [descargar plantilla 12D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12d.html) y seleccione **Guardar vínculo como...**
+
+>[!NOTE]
+>
+>Puede encontrar los pasos completos para descargar e importar una plantilla [aquí](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -32,6 +36,6 @@ Esta plantilla incluye el siguiente contenido:
 * Seis secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
-**Haga clic con el botón secundario para descargar esta plantilla:**
+**Haga clic con el botón derecho a continuación (y seleccione _Guardar vínculo como..._) para descargar esta plantilla:**
 
 [Plantilla 12D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12d.html)

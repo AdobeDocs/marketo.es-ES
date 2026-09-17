@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 61%
-
+source-wordcount: '411'
+ht-degree: 53%
 ---
-
 # Lista de plantillas de la página de destino guiada {#guided-landing-page-template-list}
 
 Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y se basa en el marco de trabajo de Bootstrap.
@@ -27,15 +29,35 @@ Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor 
 >
 >La asistencia de Marketo no está configurada para ayudar a solucionar problemas de HTML. Si necesita ayuda para modificar cualquiera de estas plantillas, consúltelo con un desarrollador web.
 
-Para importar una plantilla en Marketo:
+## Cómo importar una plantilla en Marketo Engage{#how-to-import}
 
-1. Haga clic en el nombre de la plantilla para verla más grande.
-1. Descargue la plantilla elegida.
-1. En Marketo, vaya a **[!UICONTROL Design Studio]**.
-1. Haga clic en **[!UICONTROL Páginas de destino]** en el árbol izquierdo y, a continuación, seleccione **[!UICONTROL Plantillas]**.
+1. Haga clic en el nombre de la [plantilla deseada debajo de](#all-templates) que se llevará a su página dedicada.
 
-1. En la barra de menús, haga clic en **[!UICONTROL Importar plantilla]**.
-1. Elija el archivo descargado, escriba un nombre de plantilla y haga clic en **[!UICONTROL Importar]** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **[!UICONTROL Guided]**).
+1. Haga clic con el botón derecho en &quot;descargar plantilla&quot; y seleccione **Guardar vínculo como...**. Guarde el archivo en la ubicación deseada en el equipo.
+
+1. En Marketo Engage, vaya a **[!UICONTROL Design Studio]**.
+
+1. Seleccione **[!UICONTROL Plantillas de página de aterrizaje]**.
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. En el menú desplegable **[!UICONTROL Acciones de plantilla de página de aterrizaje]**, seleccione **[!UICONTROL Nueva plantilla de página de aterrizaje]**.
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. Asigne un nombre a la plantilla. En la lista desplegable Modo de edición, seleccione **[!UICONTROL Guiado]**. Seleccione la casilla **[!UICONTROL Importar plantilla]**.
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. Elija el archivo de plantilla que descargó y haga clic en **[!UICONTROL Crear]** (seleccionar **Reemplazar cualquier plantilla existente con este nombre** es opcional).
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. La plantilla ya está importada y lista para sus ediciones.
+
+## Todas las plantillas disponibles {#all-templates}
+
+Examine la biblioteca de plantillas gratuita.
 
 <table>
 <tr>

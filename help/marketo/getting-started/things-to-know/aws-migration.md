@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
+source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '997'
 ht-degree: 5%
 ---
 # Migración de AWS {#aws-migration}
@@ -216,17 +216,17 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    <i>AB06</i></td>
    <td>17:00 PDT<br>
    <i>6 p. m. PDT</i></td>
-   <td>Según lo programado<br>
+   <td>Completado<br>
    <i>Pospuesto (fecha por determinar)</i></td>
   </tr>
   <tr>
    <td>17 de septiembre de 2026</td>
    <td>AB07<br>
-   AB08</td>
+   <i>AB08</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <i>6 p. m. PDT</i></td>
    <td>Según lo programado<br>
-   Dentro del horario</td>
+   <i>Pospuesto (fecha por determinar)</i></td>
   </tr>
   <tr>
    <td>22 de septiembre de 2026</td>
@@ -262,12 +262,6 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    Dentro del horario</td>
   </tr>
   <tr>
-   <td>6 de octubre de 2026</td>
-   <td>AB18</td>
-   <td>17:00 PDT</td>
-   <td>Según lo programado</td>
-  </tr>
-  <tr>
    <td>9 de octubre de 2026</td>
    <td>AB19<br>
    AB22</td>
@@ -275,6 +269,13 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    17:00 PDT</td>
    <td>Según lo programado<br>
    Dentro del horario</td>
+  </tr>
+   <tr>
+   <td>30 de octubre de 2026<br> 
+   (reprogramado a partir del 6 de octubre)</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   </body>
 </table>
