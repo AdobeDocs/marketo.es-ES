@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Notas de la versión: agosto de 2026 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 </td>
    <td>Publicado</td>
    <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Deshabilitar campañas en el archivo</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de correo electrónico - Generador de scripts</strong>: El creador de scripts es un asistente con tecnología de IA que le ayuda a crear scripts de personalización más rápido.
-</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>

@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # Notas de la versión: septiembre de 2026 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Pasos de flujo de autoservicio - Tiempo de espera de devolución de llamada aumentado</strong>: El tiempo de espera de devolución de llamada para los pasos de flujo de autoservicio se está incrementando de una hora a cuatro horas. No se requiere ninguna acción por su parte.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Tablas</strong>: Ahora puede arrastrar y soltar el tipo de contenido "tabla" en su correo electrónico, con la capacidad de establecer el número de columnas y filas.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
