@@ -7,17 +7,18 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+    internal-label: Personalization
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: 166
-ht-degree: 75%
-
+source-wordcount: '180'
+ht-degree: 69%
 ---
-
 # Programación de versiones {#release-schedule}
 
 **Versión**: el mes/año de cada versión. Una vez disponibles, las notas de la versión se vinculan en la siguiente tabla.
@@ -60,19 +61,19 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julio del 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julio del 26</a></td>
    <td>10 de julio de 2026</td>
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Agosto del 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto del 26</a></td>
    <td>14 de agosto de 2026</td>
-   <td>En curso</td>
+   <td>Completo</td>
   </tr>
   <tr>
-  <td>Septiembre de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Septiembre de 2026</a></td>
    <td>25 de septiembre de 2026</td>
-   <td>Según lo programado</td>
+   <td>En curso</td>
   </tr>
   <tr>
   <td>Octubre del 26</td>

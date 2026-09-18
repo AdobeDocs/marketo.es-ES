@@ -2,13 +2,11 @@
 title: Versiones anteriores
 description: Notas de la versión de todas las versiones anteriores de Marketo Engage, organizadas por año.
 feature: Release Information
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 35%
-
 ---
-
 
 # Versiones anteriores
 
@@ -23,6 +21,7 @@ ht-degree: 35%
 * [Marzo de 2026](previous-releases/2026/release-notes-mar-26.md)
 * [Mayo de 2026](previous-releases/2026/release-notes-may-26.md)
 * [Julio del 26](previous-releases/2026/release-notes-july-26.md)
+* [Agosto del 26](previous-releases/2026/release-notes-aug-26.md)
 
 ## 2025
 
