@@ -1,14 +1,16 @@
 ---
 description: Use Colaborador para Marketo Engage para crear un programa de Marketo adaptando una plantilla existente. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
 title: Generar programas
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # Generar programas {#build-programs}
 
 Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage adapta una plantilla de programa existente para adaptarla a sus necesidades, actualiza automáticamente el contenido del correo electrónico y crea recursos adicionales mediante la duplicación de la estructura de la plantilla.
+
+Las [reglas organizativas](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} de su organización guían el modo en que Coworker for Marketo Engage estructura y valida el programa durante la creación. Estas reglas garantizan que el nuevo programa se ajuste a las convenciones de nomenclatura, los tokens necesarios, la estructura de carpetas y los estándares de conformidad.
 
 >[!PREREQUISITES]
 >
