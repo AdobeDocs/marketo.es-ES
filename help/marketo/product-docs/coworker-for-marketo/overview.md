@@ -1,9 +1,9 @@
 ---
 description: Explore el conjunto de agentes de Coworker for Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
 title: Información general sobre Coworker para Marketo Engage
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
 ---
 # Información general sobre Coworker para Marketo Engage {#overview}
@@ -34,13 +34,9 @@ Escriba la solicitud en el campo de solicitud, seleccione una de las aptitudes d
 
 La consola central incluye un conjunto cada vez mayor de habilidades de agente disponibles para ayudarle con diversas tareas. Cada aptitud es un asistente de IA creado específicamente con el que interactúa a través del lenguaje natural para completar una tarea específica.
 
-<!--
+### Generar programas {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage creará la estructura del programa, con marcadores de posición de recursos y programación. Más información sobre la [aptitud para generar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Investigar posibles clientes {#investigate-leads}
 

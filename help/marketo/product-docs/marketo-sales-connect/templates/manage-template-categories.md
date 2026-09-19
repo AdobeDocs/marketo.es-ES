@@ -2,13 +2,12 @@
 description: Aprenda a crear, editar, combinar duplicados y eliminar categorías de plantillas de Marketo Sales Connect para mantener las plantillas de correo electrónico organizadas y fáciles de encontrar.
 title: Administrar categorías de plantilla
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 9%
-
 ---
-
 # Administrar categorías de plantilla {#manage-template-categories}
 
 ## Crear una nueva categoría {#create-a-new-category}
