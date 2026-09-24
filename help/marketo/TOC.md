@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '8932'
+source-wordcount: '8936'
 ht-degree: 96%
 ---
 
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1929,6 +1929,7 @@ ht-degree: 96%
       + [Notas de la versión: Marzo de 2026](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + [Notas de la versión: mayo de 2026](release-notes/previous-releases/2026/release-notes-may-26.md)
       + [Notas de la versión: julio de 2026](release-notes/previous-releases/2026/release-notes-july-26.md)
+      + [Notas de la versión: Agosto de 2026](release-notes/previous-releases/2026/release-notes-aug-26.md)
     + 2025 {#2025}
       + [Notas de la versión: enero de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [Notas de la versión: marzo de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
