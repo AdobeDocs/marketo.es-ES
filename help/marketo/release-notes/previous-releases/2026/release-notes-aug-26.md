@@ -2,10 +2,10 @@
 description: 'Notas de la versión, julio de 2026: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2026
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '577'
+ht-degree: 13%
 ---
 # Notas de la versión: agosto de 2026 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Servidor MCP de Marketo Engage</strong>: El servidor MCP de Marketo Engage actúa como un puente entre su asistente de IA y Marketo Engage. Expone más de 100 operaciones en formularios, programas, campañas inteligentes, personas/posibles clientes, correos electrónicos, fragmentos de código, listas y carpetas.</td>
+   <td>Disponible de forma general</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=es" target="_blank">Servidor MCP de Marketo</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Deshabilitar campañas en el archivo</strong>: al archivar una carpeta, ahora se deshabilitan y desprograman todas las campañas de ese árbol de carpetas, lo que evita la ejecución inesperada de campañas inteligentes archivadas.
 </td>
    <td>Publicado</td>
@@ -50,7 +60,6 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td><strong>Email Designer - Generate Content Contextual Menu</strong>: Ahora se puede acceder a las funciones "Generar contenido" de Email Designer desde el menú contextual (la barra negra). Por ejemplo, al seleccionar contenido de texto, el icono Generar contenido aparece en el menú contextual, lo que le permite realizar acciones rápidas.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>
