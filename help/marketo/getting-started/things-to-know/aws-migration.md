@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 8c767c18df9483c060fea9bd055e48be1a58c172
+source-git-commit: 78109173b7dc6ea6793961ee84ec6878c3f6011a
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1018'
 ht-degree: 5%
 ---
 # Migración de AWS {#aws-migration}
@@ -41,7 +41,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!IMPORTANT]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -277,11 +277,22 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    Dentro del horario</td>
   </tr>
    <tr>
-   <td>30 de octubre de 2026<br> 
-   (reprogramado a partir del 6 de octubre)</td>
-   <td>AB18</td>
-   <td>17:00 PDT</td>
-   <td>Según lo programado</td>
+   <td>21 de octubre de 2026</td>
+   <td>AB36<br>
+   AB38</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>22 de octubre de 2026</td>
+   <td>AB51<br>
+   AB52</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
   </tr>
   </body>
 </table>
@@ -315,9 +326,9 @@ En función de su centro de datos, colabore con su departamento de TI para añad
 
 Para obtener la información más reciente, marque esta página como favorito.
 
-Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
+Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
 
-Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
