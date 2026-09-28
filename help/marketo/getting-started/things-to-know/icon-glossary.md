@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Glosario de icono de Marketo Engage {#icon-glossary}
 
-A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage actual. Si necesita hacer referencia a los iconos de Marketo Classic, los puede [encontrar aquí](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage actual.
 
 ## Iconos generales {#general-icons}
 
@@ -29,7 +29,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <th style="width:50%">Descripción</th>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
    <td>Lista inteligente de cuentas</td>
   </tr>
@@ -61,7 +61,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
    <td><img src="assets/email-template.png"></td>
-   <td>Plantilla de email</td>
+   <td>Plantilla de correo electrónico</td>
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
@@ -89,7 +89,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <td>Filtro</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/filter-active.png"></td>
    <td>Filtro: activo</td>
   </tr>
@@ -151,17 +151,17 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
   <tr>
    <td><img src="assets/classic-poll.png"></td>
    <td><img src="assets/poll.png"></td>
-   <td>Sondeo</td>
+   <td>Encuesta</td>
   </tr>
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notificación de inserción</td>
+   <td>Notificación push</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
    <td><img src="assets/referral-offer.png"></td>
-   <td>Oferta recomendada</td>
+   <td>Oferta de referencia</td>
   </tr>
   <tr>
    <td><img src="assets/classic-report.png"></td>
@@ -169,9 +169,9 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <td>Informe</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Buscar</td>
+   <td>Búsqueda</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -224,7 +224,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <td>Activador: activo</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
    <td>Activador: inactivo</td>
   </tr>
@@ -308,7 +308,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <td>Se solicita</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inactivo</td>
   </tr>
@@ -337,7 +337,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
    <td><img src="assets/completed.png"></td>
-   <td>Finalizaciones</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
@@ -399,7 +399,7 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <td>En pausa</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
    <td>Programado</td>
   </tr>
@@ -448,17 +448,17 @@ A continuación se muestran los iconos de la interfaz de Adobe Marketo Engage ac
    <th style="width:50%">Descripción</th>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
    <td>Aprobado: en cálculo</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
    <td>Aprobado: en recálculo</td>
   </tr>
   <tr>
-   <td><strong>n/a</strong></td>
+   <td><strong>N/A</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
    <td>Borrador: en cálculo</td>
   </tr>
