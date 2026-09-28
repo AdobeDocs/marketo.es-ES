@@ -4,7 +4,7 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
+source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -30,7 +30,7 @@ ht-degree: 96%
   + Cosas que debe saber {#things-to-know}
     + [Glosario de Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
     + [Glosario de iconos](getting-started/things-to-know/icon-glossary.md)
-    + [Glosario de iconos clásicos](getting-started/things-to-know/classic-icon-glossary.md)
+    + {hide-from-toc}[Glosario de iconos clásicos](getting-started/things-to-know/classic-icon-glossary.md)
     + [Centro de ayuda](getting-started/things-to-know/help-center.md)
     + [Suscribirse a las notificaciones de estado del sistema](getting-started/things-to-know/system-status-notifications.md)
     + [Migración de AWS](getting-started/things-to-know/aws-migration.md)
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
