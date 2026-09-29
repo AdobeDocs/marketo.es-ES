@@ -3,14 +3,12 @@ description: 'Centro de ayuda: documentos de Marketo Engage, documentación del 
 title: Centro de ayuda
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%
-
 ---
-
 # Centro de ayuda {#help-center}
 
 El Centro de ayuda de Adobe Marketo Engage sirve como ubicación centralizada para obtener asistencia. Además de vincularse a varios recursos (p. ej., [documentación del producto](/help/marketo/home.md){target="_blank"}, [información de la versión](/help/marketo/release-notes/current.md){target="_blank"}, la [comunidad de usuarios de Marketo](https://nation.marketo.com/){target="_blank"}), puede acceder a útiles tutoriales del producto organizados por nivel de experiencia.

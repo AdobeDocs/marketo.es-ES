@@ -7,15 +7,15 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/ln23WoloRVzBoC8CXFsm90LqYV5FDJzbII8UItp3xDc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 434
+source-wordcount: '434'
 ht-degree: 4%
-
 ---
-
 # Configurar una firma personalizada de DKIM {#set-up-a-custom-dkim-signature}
 
 Para garantizar una capacidad de envío óptima, Marketo firma automáticamente todo el correo saliente con una firma DKIM compartida.

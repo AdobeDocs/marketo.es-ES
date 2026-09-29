@@ -7,18 +7,20 @@ feature: Forms
 TQID: https://experienceleague.adobe.com/yaIgInfZtfAz2Zie2zRar9JI-KdlCRAxsk9BfYNQKy8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 5%
-
 ---
-
 # Incrustar un formulario en el sitio web {#embed-a-form-on-your-website}
 
 Acceda al código incrustado de un formulario para alojarlo en su propio sitio web.
@@ -53,4 +55,4 @@ Acceda al código incrustado de un formulario para alojarlo en su propio sitio w
 
    >[!TIP]
    >
-   >Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   >Si el desarrollador desea personalizar el aspecto o acceder a las funciones avanzadas de la API, muéstreles la [página para desarrolladores de Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).

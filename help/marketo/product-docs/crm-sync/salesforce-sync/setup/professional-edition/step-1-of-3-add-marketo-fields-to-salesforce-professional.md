@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 767
+source-wordcount: '767'
 ht-degree: 9%
-
 ---
-
 # Paso 1 de 3: Agregar campos de Marketo a [!DNL Salesforce] (profesional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,58 +55,58 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
 1. Escriba [!UICONTROL Etiqueta de campo], [!UICONTROL Longitud] y [!UICONTROL Nombre de campo] para el campo, como se muestra en la tabla siguiente.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Etiqueta del campo
-    </div></th>
-   <th>
-    <div>
-      Nombre del campo
-    </div></th>
-   <th>
-    <div>
-      Tipo de datos
-    </div></th>
-   <th>
-    <div>
-      Atributos de campo
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Puntuación</td>
-   <td>mkto71_Lead_Score</td>
-   <td>Número</td>
-   <td>Longitud 10<br>Lugares decimales 0 </td>
-  </tr>
-  <tr>
-   <td>Fecha de adquisición</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Fecha/hora</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Programa de adquisición</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Texto</td>
-   <td>Longitud 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Etiqueta del campo
+      </div></th>
+      <th>
+      <div>
+         Nombre del campo
+      </div></th>
+      <th>
+      <div>
+         Tipo de datos
+      </div></th>
+      <th>
+      <div>
+         Atributos de campo
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Puntuación</td>
+      <td>mkto71_Lead_Score</td>
+      <td>Número</td>
+      <td>Longitud 10<br>Lugares decimales 0 </td>
+   </tr>
+   <tr>
+      <td>Fecha de adquisición</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Fecha/hora</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Programa de adquisición</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Texto</td>
+      <td>Longitud 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
+   >[!NOTE]
+   >
+   >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
 1. Haga clic en **[!UICONTROL Next]**.
 
@@ -119,9 +118,9 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    * Desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil Administrador del sistema (como se muestra a continuación)
+     * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil Administrador del sistema (como se muestra a continuación)
 
-      * Si creó un _perfil personalizado_ para el usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para ese perfil personalizado
+     * Si creó un _perfil personalizado_ para el usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
