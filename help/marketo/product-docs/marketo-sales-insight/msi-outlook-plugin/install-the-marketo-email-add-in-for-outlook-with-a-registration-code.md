@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2949711
 description: Obtenga información sobre cómo instalar el complemento de correo electrónico de Marketo para Outlook con un código de registro. Obtenga el complemento para los usuarios que tengan un código de registro.
-title: Instale el complemento de correo electrónico de Marketo para  [!DNL Outlook]  con un código de registro
+title: Instale el complemento de correo electrónico de Marketo para [!DNL Outlook] con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/bu311YmDSYHNbjD-WfmOzLK21N0rpYu9kAChA82T5IE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 638
+source-wordcount: '639'
 ht-degree: 3%
-
 ---
-
 # Instale el complemento de correo electrónico de Marketo para [!DNL Outlook] con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si los usuarios pueden acceder a la configuración de administración de sus portátiles, puede enviarles directamente un código de registro.

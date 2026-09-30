@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 1%
-
 ---
-
 # Métricas de registro de asuntos pendientes de Salesforce  {#salesforce-sync-backlog-metrics}
 
 El registro de pendientes de sincronización es el nombre utilizado para los registros pendientes de sincronización. Tiene en cuenta los registros pendientes de sincronización de Salesforce a Marketo Engage y viceversa. Garantizar que el registro de pendientes permanece bajo control dará lugar a sincronizaciones suaves y de tiempo. El registro de pendientes abarca los números pendientes de las actualizaciones posteriores a la sincronización en ambos lados, y no aquellos que se realizan mediante pasos de flujo de sincronización como los pasos de flujo de Sincronizar posible cliente a SFDC.
@@ -89,7 +92,8 @@ Las estadísticas reflejan el rendimiento y el estado del registro de pendientes
     <td>Estado de trabajo pendiente</td>
     <td>Esto muestra si el registro de pendientes ha aumentado en las últimas 6 horas. Se deduce como "Creciente" si el registro de asuntos pendientes actual es mayor que el registro de asuntos pendientes hace seis horas. De lo contrario, se muestra como "Normal". El objetivo de esto es mostrar si el rendimiento de la sincronización se está poniendo al día con el registro de pendientes.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Qué causa los trabajos pendientes de sincronización {#what-causes-sync-backlogs}
 

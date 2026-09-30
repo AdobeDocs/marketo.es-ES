@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 4%
-
 ---
-
 # Enviar un correo electrónico de prueba {#send-a-test-email}
 
 Antes de enviar un correo electrónico, puede probar el formato de correo electrónico y los tokens enviándose un correo electrónico de prueba a cualquier dirección de correo electrónico.

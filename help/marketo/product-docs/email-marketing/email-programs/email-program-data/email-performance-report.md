@@ -7,18 +7,20 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 514
+source-wordcount: '514'
 ht-degree: 95%
-
 ---
-
 # Informe de rendimiento de los correos electrónicos {#email-performance-report}
 
 Para ver el rendimiento de los correos electrónicos con estadísticas como enviados, abiertos, hechos clic, etc., cree un informe de rendimiento de correo electrónico.
@@ -27,23 +29,23 @@ Para ver el rendimiento de los correos electrónicos con estadísticas como envi
 1. [Cambie el lapso de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la pestaña **[!UICONTROL Informe]**.
 1. ¡Estás ahí! Ahora explore el informe para ver el rendimiento de sus correos electrónicos.
 
-   >[!NOTE]
-   >
-   >El filtro Fecha de envío se basa en la primera fecha en que se envió el correo electrónico.
+>[!NOTE]
+>
+>El filtro Fecha de envío se basa en la primera fecha en que se envió el correo electrónico.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa del correo electrónico.
+>[!TIP]
+>
+>Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa del correo electrónico.
 
-   >[!NOTE]
-   >
-   >Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, es posible que solo desee ver las actividades de personas activas. En ese caso, debe filtrar las personas eliminadas para excluirlas del informe. Use la pestaña **[!UICONTROL Lista inteligente]** para [crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para el informe. Si no está aplicando un filtro por un campo específico, establezca el filtro Dirección de correo electrónico en: **[!UICONTROL no está vacío]**.
+>[!NOTE]
+>
+>Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, es posible que solo desee ver las actividades de personas activas. En ese caso, debe filtrar las personas eliminadas para excluirlas del informe. Use la pestaña **[!UICONTROL Lista inteligente]** para [crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para el informe. Si no está aplicando un filtro por un campo específico, establezca el filtro Dirección de correo electrónico en: **[!UICONTROL no está vacío]**.
 
-   [La seleccion de columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico incluye lo siguiente:
+[La seleccion de columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico incluye lo siguiente:
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>Columna</th>

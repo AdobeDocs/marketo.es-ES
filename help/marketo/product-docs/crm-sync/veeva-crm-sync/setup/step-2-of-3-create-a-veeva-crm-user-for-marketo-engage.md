@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
+source-wordcount: '636'
 ht-degree: 6%
-
 ---
-
 # Paso 2 de 3: Crear un usuario de CRM [!DNL Veeva] para Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -148,13 +149,13 @@ Los siguientes pasos permitirán al usuario de sincronización de Marketo actual
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Busque los campos innecesarios. Asegúrese de que [!UICONTROL Acceso de lectura] y [!UICONTROL Acceso de edición] estén **desprotegidos** marcados. Haga clic en **[!UICONTROL Guardar]** cuando termine.
+   Busque los campos innecesarios. Asegúrese de que [!UICONTROL Acceso de lectura] y [!UICONTROL Acceso de edición] estén **desprotegidos** marcados. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Editar solo la accesibilidad de los campos personalizados.
+   >[!NOTE]
+   >
+   >Editar solo la accesibilidad de los campos personalizados.
 
 1. Cuando termine de deshabilitar todos los campos innecesarios, compruebe [!UICONTROL Acceso de lectura] y [!UICONTROL Editar acceso] para ver los siguientes campos de objeto. Haga clic en **[!UICONTROL Guardar]** cuando termine.
 

@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1705
-ht-degree: 85%
-
+source-wordcount: '1703'
+ht-degree: 84%
 ---
-
 # Pasos de configuración {#setup-steps}
 
 **Le damos la bienvenida a Adobe Marketo Engage.**
@@ -102,9 +105,9 @@ Ahora dispone de toda la información necesaria para enviar su solicitud a TI.
 
 Elija un CNAME para las páginas de aterrizaje. Algunos ejemplos:
 
-    * **go**.[DominioCompañía].com
-    * **www2**.[DominioCompañía].com
-    * **lp**.[DominioCompañía].com
+* **ir**.[DominioCompañía].com
+* **www2**.[CompanyDomain].com
+* **lp**.[DominioCompañía].com
 
 >[!TIP]
 >
@@ -156,26 +159,26 @@ Nuestro equipo de marketing ha empezado a utilizar la plataforma de Marketo para
 
 `3)` Incluir Marketo en la lista de permitidos.
 
-    *Si usa las direcciones IP en nuestra Lista de permitidos de correo electrónico, añada las direcciones IP que se indican a continuación:
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* Si utilizamos direcciones IP en nuestra Lista de permitidos de correo electrónico, añada las direcciones IP que se indican a continuación:
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >Póngase en contacto con el Soporte de Adobe si desea una lista abreviada de direcciones IP para la lista de permitidos específica de su entorno.
 
-    *Si nuestro sistema antispam utiliza dominios de origen, añada lo siguiente:
+* Si nuestro sistema antispam utiliza los dominios De, agregue lo siguiente:
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -207,7 +210,7 @@ Deseo que me avisen cuando se hayan completado estos pasos para que pueda comple
 
 ¡Gracias! Son extraordinarios.
 
-Un saludo,
+Un saludo.
 
 **`[Your Name]`**
 

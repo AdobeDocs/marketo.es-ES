@@ -6,17 +6,18 @@ exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
 TQID: https://experienceleague.adobe.com/WZgOsCc5-8oEKLPhj6ziYMIhrYKHxHjrqhLp73mirSU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 3%
-
+source-wordcount: '362'
+ht-degree: 4%
 ---
-
 # Gestión de agentes {#agent-management}
 
 En la administración de agentes, vea una lista de agentes en la instancia de Dynamic Chat, administre equipos y establezca reglas de reserva.
@@ -93,7 +94,7 @@ Establece el número de chats activos simultáneos que un agente puede tomar al 
 
 ![](assets/agent-management-10.png)
 
-### Límite de tiempo de espera de visitante {#visitor-wait-time}
+### Límite de tiempo de espera del visitante {#visitor-wait-time}
 
 Controle la cantidad máxima de tiempo que un visitante esperará (en segundos) para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. Puede ajustarse entre 10 y 500 segundos.
 

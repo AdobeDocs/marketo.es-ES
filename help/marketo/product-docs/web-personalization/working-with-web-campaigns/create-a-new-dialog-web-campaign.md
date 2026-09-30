@@ -7,18 +7,20 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 768
+source-wordcount: '768'
 ht-degree: 3%
-
 ---
-
 # Creación de una nueva campaña web de diálogo {#create-a-new-dialog-web-campaign}
 
 ## Creación de una campaña web de diálogo {#create-a-dialog-web-campaign}
@@ -71,7 +73,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>Por coordenadas</strong></p><p><br></p></td>
-   <td colspan="1" rowspan="1">Para obtener más opciones de posicionamiento del cuadro de diálogo, seleccione la casilla de verificación "Coordenadas de posición" e introduzca las coordenadas de pantalla exactas (Horizontal, Vertical) en las que desea que aparezca el cuadro de diálogo.</td>
+   <td colspan="1" rowspan="1">Para obtener opciones de colocación adicionales del cuadro de diálogo, seleccione la casilla de verificación "Coordenadas de posición" e introduzca las coordenadas de pantalla exactas (Horizontal, Vertical) en las que desea que aparezca el cuadro de diálogo.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Botón Completar</strong></td>
