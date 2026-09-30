@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 9%
@@ -98,15 +98,15 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
+>[!NOTE]
+>
+>[!DNL Salesforce] anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
+>[!NOTE]
+>
+>Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
 1. Haga clic en **[!UICONTROL Next]**.
 

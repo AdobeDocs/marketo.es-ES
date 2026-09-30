@@ -7,13 +7,12 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '376'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Puntuación de la cuenta] {#account-score}
 
 La puntuación de cuentas es una parte vital de [!UICONTROL Administración de cuentas de Target]. Le ayuda a determinar el nivel de participación de sus cuentas.
@@ -49,7 +48,10 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 >
 >Para calcular las puntuaciones de la cuenta, primero debe crear puntuaciones de posibles clientes. Marketo TAM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés de producto de cuenta_ y _Puntuación de participación en la web de cuenta_).
 >
->En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
+>En primer lugar, cree campos de puntuación de posibles clientes que recopilen detalles relevantes de cada posible cliente de una cuenta de destino.
+>A continuación, asigne esas puntuaciones de posibles clientes a sus respectivas puntuaciones de cuenta:
+>Puntuación de interés de producto de cuenta = SUM (puntuación de interés de producto de cliente potencial)
+>Puntuación de participación en la web de la cuenta = SUM (Puntuación de participación en la web del posible cliente)
 
 >[!NOTE]
 >
