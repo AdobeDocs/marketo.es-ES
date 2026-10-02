@@ -7,49 +7,61 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: fd61a23992a0698425987c9c1c307c148c51041e
 workflow-type: tm+mt
-source-wordcount: 234
-ht-degree: 32%
-
+source-wordcount: '253'
+ht-degree: 25%
 ---
-
 # Informe de rendimiento de correos electrónicos de la campaña {#campaign-email-performance-report}
 
-Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), ejecute un informe de rendimiento del correo electrónico de Campaign.
+Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), ejecute un informe de rendimiento del correo electrónico de Campaign.
 
-1. [Cree un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el **[!UICONTROL Rendimiento de correo electrónico de la campaña]** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+>[!NOTE]
+>
+>Un informe de rendimiento de correo electrónico de campaña solo se puede crear como recurso local en un programa de actividades de marketing. No está disponible en la sección Analytics.
 
-1. [Establezca el lapso de tiempo de su informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **[!UICONTROL Informe]**.
+1. En su programa, haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
-1. Ahora explore el informe para ver el rendimiento de cada correo electrónico en sus campañas.
+   ![](assets/campaign-email-performance-report-1.png)
 
-   ![](assets/image2014-9-16-16-3a19-3a59.png)
+1. Seleccionar **informe**.
 
-   >[!TIP]
-   >
-   >Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa del correo electrónico.
+   ![](assets/campaign-email-performance-report-2.png)
 
-   [Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico de campaña incluyen:
+1. En el menú desplegable _Tipo_, seleccione **Rendimiento de correo electrónico de la campaña**. Asigne un nombre al informe y haga clic en **Crear**.
 
-   | Columna | Descripción |
-   |---|---|
-   | [!UICONTROL Rechazado fuerte] | El correo electrónico se rechazó debido a una condición permanente, como una dirección de correo electrónico inexistente. |
-   | [!UICONTROL Rechazado suave] | El correo electrónico se rechazó debido a una condición temporal, como que un servidor esté inactivo o que la bandeja de entrada esté llena. |
-   | [!UICONTROL Pendiente] | El correo electrónico aún se está enviando. |
-   | [!UICONTROL Se Hizo Clic En El Vínculo] | Número de destinatarios del correo electrónico que hicieron clic en el vínculo incluido en él. |
-   | [!UICONTROL Canceló la suscripción] | Número de destinatarios de correo electrónico que hicieron clic en el vínculo **[!UICONTROL Cancelar la suscripción]** del correo electrónico y rellenaron el formulario. |
+   ![](assets/campaign-email-performance-report-3.png)
 
-   >[!NOTE]
-   >
-   >En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hace clic en un vínculo de un correo electrónico, obviamente, lo abre primero. Para ver las reglas específicas que seguimos, consulte [Informe de rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+1. Defina los parámetros del informe.
 
-   >[!MORELIKETHIS]
-   >
-   >* [Filtrar Assets en un informe de correo electrónico de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [Informe de rendimiento del correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+   ![](assets/campaign-email-performance-report-4.png)
+
+1. Cuando termine, haga clic en la ficha **Informe** para ver el informe.
+
+[Las columnas que puede seleccionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de correo electrónico de campaña incluyen:
+
+| Columna | Descripción |
+|---|---|
+| [!UICONTROL Rechazado fuerte] | El correo electrónico se rechazó debido a una condición permanente, como una dirección de correo electrónico inexistente. |
+| [!UICONTROL Rechazado suave] | El correo electrónico se rechazó debido a una condición temporal, como que un servidor esté inactivo o que la bandeja de entrada esté llena. |
+| [!UICONTROL Pendiente] | El correo electrónico aún se está enviando. |
+| [!UICONTROL Se Hizo Clic En El Vínculo] | Número de destinatarios del correo electrónico que hicieron clic en el vínculo incluido en él. |
+| [!UICONTROL Canceló la suscripción] | Número de destinatarios de correo electrónico que hicieron clic en el vínculo **[!UICONTROL Cancelar la suscripción]** del correo electrónico y rellenaron el formulario. |
+
+>[!NOTE]
+>
+>En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hace clic en un vínculo de un correo electrónico, obviamente, lo abre primero. Para ver las reglas específicas que seguimos, consulte [Informe de rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+
+>[!MORELIKETHIS]
+>
+>* [Filtrar Assets en un informe de correo electrónico de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Informe de rendimiento del correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
