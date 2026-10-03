@@ -3,9 +3,9 @@ description: 'Migración de AWS: Documentos de Marketo Engage: documentación de
 title: Migración de AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1f7f306e387ec0baa6fb452313d76a4fdcb83680
+source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1020'
 ht-degree: 5%
 ---
 # Migración de AWS {#aws-migration}
@@ -184,6 +184,8 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
 
 +++
 
++++Programación de septiembre
+
 <table>
  <tbody>
   <tr>
@@ -240,11 +242,24 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    <td><i>18:00 PDT</i></td>
    <td><i>Pospuesto (fecha por determinar)</i></td>
   </tr>
-   <tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Fecha</th>
+   <th style="width:25%">Centro de datos/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Estado</th>
+  </tr>
+  <tr>
    <td>1 de octubre de 2026</td>
    <td>AB16</td>
    <td>18:00 PDT</td>
-   <td>Según lo programado</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>9 de octubre de 2026</td>
