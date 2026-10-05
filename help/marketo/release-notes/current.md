@@ -24,16 +24,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # Notas de la versión: septiembre de 2026 {#release-notes-sep-26}
 
 A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -49,7 +49,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Nueva interfaz de usuario de Marketo Engage</strong>: La interfaz de Marketo Engage tiene un aspecto actualizado, que incluye menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Esto es solo una actualización visual; no afecta a la funcionalidad ni a los flujos de trabajo existentes. <i>La capacidad de seleccionar la IU clásica estará disponible hasta la versión de enero de 2027</i>.
 </td>
-   <td>Disponibilidad general a finales de septiembre</td>
+   <td>Disponibilidad general a mediados de octubre</td>
    <td><i>n/a</i></td>
   </tr>
   <tr>
@@ -100,10 +100,10 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Restricciones de nombres de API para atributos de actividad personalizados**: Los nombres de API para atributos de actividad personalizados creados mediante la API o la interfaz de usuario ahora solo pueden contener caracteres alfanuméricos y guiones bajos, y deben comenzar con un carácter alfanumérico.
 
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyan el parámetro `listId` generarán un error de código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyan el parámetro `listId` generarán un error de código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
 
 * **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo quedó obsoleto el 31 de agosto de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Id. de ejecución de campaña de API REST**: En determinadas circunstancias, el valor del Id. de ejecución de campaña de una actividad se devolvió a veces con un formato incorrecto, entre dos pares de comillas (por ejemplo, `"campaignRunId": ""102938""`).<br/>A partir de la versión de agosto, este valor siempre se devolverá con el formato numérico correcto (`"campaignRunId": 102938`).
 
-* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de octubre.
+* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de octubre.
