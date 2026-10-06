@@ -1,34 +1,34 @@
 ---
-description: Explore el conjunto de agentes de Coworker for Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
-title: Información general sobre Coworker para Marketo Engage
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: Explore el conjunto de agentes de CX Enterprise Coworker para Marketo Engage diseñado para automatizar tareas de marketing como control de calidad de programas, importación de posibles clientes, normalización de datos y mucho más.
+title: Información general sobre CX Enterprise Coworker para Marketo Engage
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 1%
 ---
-# Información general sobre Coworker para Marketo Engage {#overview}
+# Información general sobre CX Enterprise Coworker para Marketo Engage {#overview}
 
-Coworker for Marketo Engage (anteriormente conocido como Marketo AI) proporciona habilidades de agente diseñadas para automatizar funciones de marketing importantes pero que requieren mucho tiempo.
+CX Enterprise Coworker para Marketo Engage proporciona habilidades de agente diseñadas para automatizar funciones de marketing importantes pero que llevan mucho tiempo.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible para todas las suscripciones. Si no ve el mosaico Colaborador para Marketo Engage en la pantalla de Mi Marketo, póngase en contacto con su administrador de cuentas de. También debe aceptar los términos de la [generación principal de IA y los términos complementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Esta función está disponible para todas las suscripciones. Si no ve el mosaico de CX Enterprise Coworker for Marketo Engage en la pantalla de Mi Marketo, póngase en contacto con su administrador de cuentas. También debe aceptar los términos de la [generación principal de IA y los términos complementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
->* Una vez que se haya habilitado la suscripción de Colaborador para Marketo Engage, debe realizar [algunos pasos de configuración](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} para garantizar que los usuarios deseados tengan acceso.
+>* Una vez habilitada la suscripción de CX Enterprise Coworker para Marketo Engage, debe realizar [algunos pasos de configuración](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} para garantizar que los usuarios deseados tengan acceso.
 >
->* Revise el ámbito de datos, los controles de control y las consideraciones sobre PII en la [hoja de información de datos](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"} de Coworker for Marketo Engage.
+>* Revise el ámbito de datos, los controles de control y las consideraciones PII en la [hoja de información de datos](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"} de CX Enterprise Coworker for Marketo Engage.
 
 ## Acceso {#access}
 
-En la pantalla de Mi Marketo, haz clic en el icono **Colaborador de Marketo Engage**.
+En la pantalla de Mi Marketo, haga clic en el mosaico **CX Enterprise Coworker for Marketo Engage**.
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 Escriba la solicitud en el campo de solicitud, seleccione una de las aptitudes de agente o pruebe con una de las solicitudes de ejemplo.
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## Habilidades {#skills}
 
@@ -36,7 +36,7 @@ La consola central incluye un conjunto cada vez mayor de habilidades de agente d
 
 ### Generar programas {#build-programs}
 
-Describa una campaña de marketing en un lenguaje sencillo y el colaborador de Marketo Engage creará la estructura del programa, con marcadores de posición de recursos y programación. Más información sobre la [aptitud para generar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+Describa una campaña de marketing en un lenguaje sencillo y CX Enterprise Coworker para Marketo Engage crea la estructura del programa, con marcadores de posición de recursos y programación. Más información sobre la [aptitud para generar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Investigar posibles clientes {#investigate-leads}
 
@@ -44,7 +44,7 @@ Averigüe por qué una persona o posible cliente específico no alcanzó un hito
 
 ### Conocimiento del producto {#product-knowledge}
 
-El conocimiento del producto le permite acceder a petición a la experiencia de Marketo sin abandonar la plataforma. Haga una pregunta en lenguaje sencillo y Coworker for Marketo Engage se basa en la documentación oficial de Adobe para responderla. Más información sobre la [aptitud para el conocimiento del producto](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
+El conocimiento del producto le permite acceder a petición a la experiencia de Marketo sin abandonar la plataforma. Haga una pregunta en lenguaje sencillo y CX Enterprise Coworker para Marketo Engage se basa en la documentación oficial de Adobe para responderla. Más información sobre la [aptitud para el conocimiento del producto](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Validar programas {#validate-programs}
 
@@ -64,4 +64,4 @@ Próximamente habrá agentes adicionales diseñados para gestionar el trabajo m�
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=es){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} actúa como un puente entre su asistente de IA y Marketo Engage.
