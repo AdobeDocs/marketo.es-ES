@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # Notas de la versión: septiembre de 2026 {#release-notes-sep-26}
@@ -49,7 +49,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <td><strong>Nueva interfaz de usuario de Marketo Engage</strong>: La interfaz de Marketo Engage tiene un aspecto actualizado, que incluye menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Esto es solo una actualización visual; no afecta a la funcionalidad ni a los flujos de trabajo existentes. <i>La capacidad de seleccionar la IU clásica estará disponible hasta la versión de enero de 2027</i>.
 </td>
-   <td>Disponibilidad general a finales de septiembre</td>
+   <td>Disponibilidad general a mediados de octubre</td>
    <td><i>n/a</i></td>
   </tr>
   <tr>
