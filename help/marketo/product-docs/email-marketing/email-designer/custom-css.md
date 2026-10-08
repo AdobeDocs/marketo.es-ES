@@ -55,7 +55,7 @@ Añada su propio CSS personalizado directamente en el Designer de correo electr�
    >
    >El botón **[!UICONTROL Agregar CSS personalizado]** solo está disponible cuando se selecciona **[!UICONTROL Cuerpo]**. Sin embargo, puede aplicar estilos CSS personalizados a todos los componentes del contenido.
 
-1. Introduzca su código CSS en el área de texto dedicada que aparece. Asegúrese de que CSS personalizado [ sea válido y siga la sintaxis correcta ](#use-valid-css). Haga clic en **Guardar** cuando termine.
+1. Introduzca su código CSS en el área de texto dedicada que aparece. Asegúrese de que CSS personalizado [&#x200B; sea válido y siga la sintaxis correcta &#x200B;](#use-valid-css). Haga clic en **Guardar** cuando termine.
 
    ![](assets/custom-css-2.png)
 

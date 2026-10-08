@@ -51,7 +51,7 @@ Esto le ofrece dos opciones:
 >
 >* **[!UICONTROL Enviar al día siguiente en el huso horario del destinatario]**: si el correo electrónico está programado para salir el martes a las 9:00 a. m., las personas calificadas que vivan en zonas horarias en las que ya haya pasado el huso horario programado recibirán el correo electrónico el *miércoles* a las 9:00 a. m.
 >
->* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00 a.m., las personas calificadas que vivan en zonas horarias donde ya haya pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1} está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el mensaje de correo electrónico el martes a las 9:00 (la hora que corresponda en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/change-time-zone.md)
+>* **[!UICONTROL Enviar usando la hora predeterminada del programa]**: si el correo electrónico está programado para salir el martes a las 9:00 a.m., las personas calificadas que vivan en zonas horarias donde ya haya pasado la hora programada recibirán el correo electrónico *según la configuración de la zona horaria de la suscripción*. Por lo tanto, si la configuración de la zona horaria de la suscripción [1&rbrace; está establecida en PDT América/Los Ángeles, estos destinatarios seguirán recibiendo el mensaje de correo electrónico el martes a las 9:00 (la hora que corresponda en sus propias zonas horarias).](/help/marketo/product-docs/administration/settings/change-time-zone.md)
 
 >[!NOTE]
 >
