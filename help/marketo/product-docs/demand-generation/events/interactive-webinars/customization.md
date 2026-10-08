@@ -3,21 +3,25 @@ description: Obtenga información sobre cómo personalizar seminarios web intera
 title: Personalización de seminarios web interactivos
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-TQID: https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q
+TQID: 'https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 807
+source-wordcount: '807'
 ht-degree: 0%
-
 ---
-
 # Personalización de seminarios web interactivos {#interactive-webinars-customization}
 
 La personalización de los seminarios web es crucial para crear una experiencia más atractiva y eficaz para los participantes.

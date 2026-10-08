@@ -1,31 +1,35 @@
 ---
 unique-page-id: 1147114
 description: Obtenga información acerca de Mis tokens en un programa. Utilice tokens para personalizar el contenido con datos de programas o miembros.
-title: Explicación de mis tókenes en un programa
+title: Explicación de mis tokens en un programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4
+TQID: 'https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 441
+source-wordcount: '441'
 ht-degree: 6%
-
 ---
-
-# Explicación de mis tókenes en un programa {#understanding-my-tokens-in-a-program}
+# Explicación de mis tokens en un programa {#understanding-my-tokens-in-a-program}
 
 Un token es una variable que puede utilizar en correos electrónicos, páginas de aterrizaje y campañas inteligentes para facilitar sus tareas.
 
 Además de Mis tokens, también puede utilizar cualquiera de los tokens integrados en sus programas. Consulte la [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-## Mis tókenes  {#my-tokens}
+## Mis tokens  {#my-tokens}
 
 Mis tokens son variables personalizadas que cualquiera puede crear. Localmente, se [crean](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} en carpetas de campañas o programas.
 

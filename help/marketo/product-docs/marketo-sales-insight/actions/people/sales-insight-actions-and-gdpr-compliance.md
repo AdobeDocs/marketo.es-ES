@@ -3,23 +3,29 @@ description: Conozca las Acciones de Sales Insight y el cumplimiento del RGPD. C
 title: Acciones de Insight de ventas y cumplimiento del RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA
+TQID: 'https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1409
-ht-degree: 9%
-
+source-wordcount: '1414'
+ht-degree: 8%
 ---
-
 # Acciones de Insight de ventas y cumplimiento del RGPD {#sales-insight-actions-and-gdpr-compliance}
 
 El Reglamento General de Protección de Datos (RGPD) es la legislación de la Unión Europea que entró en vigor el 25 de mayo de 2018.
@@ -162,7 +168,7 @@ Puede exportar la información de contacto desde la Vista de detalles de la pers
   </tr>
   <tr>
    <td>[!UICONTROL ID de correo electrónico]</td>
-   <td>[!DNL Salesforce] Identificación</td>
+   <td>[!DNL Salesforce] ID</td>
    <td><br></td>
   </tr>
   <tr>

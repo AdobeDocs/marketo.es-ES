@@ -2,15 +2,16 @@
 unique-page-id: 11387674
 description: Actualizaciones en la terminología de Marketo - Docs de Marketo - Documentación del producto
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Actualizaciones en la terminología de Marketo
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Actualizaciones en la terminología de Marketo {#updates-to-marketo-terminology}
 
 Estamos realizando algunos cambios en nuestra plataforma, lo que afectará a la denominación de algunos elementos. Si tiene una nueva instancia de Marketo desde marzo de 2016 o si su compañía ha renovado después de julio de 2016, podrá ver la nueva terminología ahora.
@@ -73,9 +74,9 @@ En algunos casos, simplemente se ha eliminado la palabra «Posible cliente».
 
 El posible cliente y la persona **son lo mismo**.
 
-## Tókenes {#tokens}
+## Tokens {#tokens}
 
-Los tókenes que contienen la palabra Posible cliente **no cambian**. Lamentamos cualquier confusión; sin embargo, cambiar todos los tókenes para que coincidan con la nueva terminología rompería muchos de los que se utilizan actualmente. Por lo tanto, seguirá viendo tókenes como «`{{lead.First Name}}`» No hay tókenes específicos para cada persona.
+Los tokens que contienen la palabra Posible cliente **no cambian**. Lamentamos cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería muchos de los que se utilizan actualmente. Por lo tanto, seguirá viendo tokens como «`{{lead.First Name}}`» No hay tokens específicos para cada persona.
 
 >[!NOTE]
 >

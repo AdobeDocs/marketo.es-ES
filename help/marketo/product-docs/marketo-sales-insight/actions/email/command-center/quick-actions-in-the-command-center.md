@@ -3,16 +3,18 @@ description: Obtenga información sobre las acciones rápidas en el Centro de co
 title: Acciones rápidas en el centro de comandos
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 5%
-
 ---
-
 # Acciones rápidas en el [!UICONTROL Centro de comandos] {#quick-actions-in-the-command-center}
 
 Existen dos tipos de columnas de acción rápida en la cuadrícula de correo electrónico. Acciones de correo electrónico, que le permite realizar acciones en el correo electrónico, y Acciones de seguimiento, que le permite realizar acciones de participación con unos pocos clics rápidos.

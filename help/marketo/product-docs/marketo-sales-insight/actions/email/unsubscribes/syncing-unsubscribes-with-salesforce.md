@@ -3,19 +3,22 @@ description: Obtenga información sobre cómo sincronizar las cancelaciones de s
 title: Sincronizar cancelaciones de suscripción con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+TQID: 'https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 488
+source-wordcount: '489'
 ht-degree: 2%
-
 ---
-
 # Sincronizando cancelaciones de suscripción con [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 Si desea sincronizar las cancelaciones de suscripción con un campo de exclusión en Salesforce, puede utilizar la sincronización de cancelación de suscripción de Salesforce.
@@ -32,7 +35,7 @@ Cuando se recopila una cancelación de suscripción en [!DNL Marketo Sales], se 
 
 **Cancelar la suscripción a la sincronización**
 
-Cuando haya habilitado la sincronización de cancelación de suscripción (Paso 3 a continuación), activará la sincronización nocturna. La sincronización se produce una vez al día alrededor de las 20:00 PST. :00Sincronizará bidireccionalmente todas las cancelaciones de suscripción en Marketo Sales con el campo de exclusión de Salesforce.
+Cuando haya habilitado la sincronización de cancelación de suscripción (Paso 3 a continuación), activará la sincronización nocturna. La sincronización se produce una vez al día alrededor de las 20:00 PST. Sincronizará bidireccionalmente todas las cancelaciones de suscripción en Marketo Sales con el campo de exclusión de Salesforce.
 
 >[!NOTE]
 >

@@ -4,16 +4,21 @@ description: Aprenda a descartar una prueba de correo electrónico de campeón/a
 title: 'Campeón/Challenger: descartar una prueba de correo electrónico'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ
+TQID: 'https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 101
+source-wordcount: '101'
 ht-degree: 11%
-
 ---
-
 # Campeón/Aspirante: descartar una prueba de correo electrónico {#champion-challenger-discard-an-email-test}
 
 Si, en cualquier momento, decide que no desea continuar ejecutando la prueba de correo electrónico, puede descartarla. Así es cómo se hace.

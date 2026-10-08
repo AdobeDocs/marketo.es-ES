@@ -2,14 +2,15 @@
 description: Obtenga información sobre cómo enviar un correo electrónico de ventas rastreado para poder ver vistas, clics y respuestas. Utilice un canal de envío y rastree desde el Centro de comandos.
 title: Enviar un correo electrónico rastreado
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%
-
 ---
-
 # Enviar un correo electrónico rastreado {#sending-a-tracked-email}
 
 Al enviar un correo electrónico con Marketo Sales Connect, se realiza un seguimiento de las vistas (aperturas de correo electrónico) y los clics (vínculos en los que se ha hecho clic).

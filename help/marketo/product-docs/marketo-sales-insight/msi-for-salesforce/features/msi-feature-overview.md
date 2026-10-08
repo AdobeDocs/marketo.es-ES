@@ -4,20 +4,23 @@ description: Obtenga información acerca de las funciones de Marketo Sales Insig
 title: Información general sobre la función MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 8%
-
 ---
-
 # Información general sobre la función MSI {#msi-feature-overview}
 
 MSI tiene las siguientes características disponibles en [!DNL Salesforce] Lightning y Classic.
@@ -32,17 +35,17 @@ MSI Visualforce Panel incluye las siguientes funcionalidades:
 
 * Pestañas
 
-   * [Tablero de perspectivas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momentos interesantes
-   * Actividad en la web
-   * Correo electrónico
-   * Puntuación
+  * [Tablero de perspectivas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Momentos interesantes
+  * Actividad en la web
+  * Correo electrónico
+  * Puntuación
 
 * Acciones
 
-   * Añadir a Marketo Campaign
-   * Enviar correo electrónico a Marketo
-   * Agregar o quitar de la lista de observación
+  * Añadir a Marketo Campaign
+  * Enviar correo electrónico a Marketo
+  * Agregar o quitar de la lista de observación
 
 * Estrellas y llamas
 
@@ -151,37 +154,37 @@ Las siguientes características **no están disponibles** en la página Diseño 
 
 * [!DNL Best Bets]
 
-   * Incluye la capacidad de crear y editar vistas. Posibilidad de ocultar los resultados más probables en función de la configuración de la opción &quot;Ocultar predeterminados&quot; en la página Configuración de Marketo
-   * Columnas: Nombre, Cuenta, Último momento interesante, Encabezado de estado, Participación (estrellas y llamas), Ocultar
+  * Incluye la capacidad de crear y editar vistas. Posibilidad de ocultar los resultados más probables en función de la configuración de la opción &quot;Ocultar predeterminados&quot; en la página Configuración de Marketo
+  * Columnas: Nombre, Cuenta, Último momento interesante, Encabezado de estado, Participación (estrellas y llamas), Ocultar
 
 * Mi lista a observar
 
-   * Incluye la capacidad de crear y editar vistas
-   * Columnas: Nombre, Cuenta, Último momento interesante, Encabezado de estado, Participación (estrellas y llamas), Eliminar
+  * Incluye la capacidad de crear y editar vistas
+  * Columnas: Nombre, Cuenta, Último momento interesante, Encabezado de estado, Participación (estrellas y llamas), Eliminar
 
 * Actividad en la web
 
-   * Incluye la capacidad de crear y editar vistas y la funcionalidad de filtro de lapso de tiempo
-   * Columna: vista de página, nombre, cuenta, última visita
+  * Incluye la capacidad de crear y editar vistas y la funcionalidad de filtro de lapso de tiempo
+  * Columna: vista de página, nombre, cuenta, última visita
 
 * Actividad web anónima
 
-   * Incluye la capacidad de crear y editar vistas y la funcionalidad de filtro de lapso de tiempo
-   * Columnas: vista de página, compañía, última visita, referencia (abre la página de LinkedIn de la compañía)
+  * Incluye la capacidad de crear y editar vistas y la funcionalidad de filtro de lapso de tiempo
+  * Columnas: vista de página, compañía, última visita, referencia (abre la página de LinkedIn de la compañía)
 
 * Mi correo electrónico
 
-   * Incluye la capacidad de crear y editar vistas
-   * Columnas: nombre, cuenta, asunto, fecha, apertura, clic
+  * Incluye la capacidad de crear y editar vistas
+  * Columnas: nombre, cuenta, asunto, fecha, apertura, clic
 
 * Fuente de posibles clientes: incluye la capacidad de suscribirse a momentos interesantes, la fuente RSS de la página de configuración debe estar habilitada para utilizar esta función
 
-   * Posible cliente/contacto que ha tenido este momento interesante
-   * Tipo de momento interesante (web, correo electrónico o hito) y descripción
-   * Nombre de la cuenta
-   * Hora a la que ocurrió este momento interesante
-   * Opción Suscribirse para recibir notificaciones por correo electrónico para este tipo de evento
-   * Icono de alta prioridad para mostrar que esta persona es lo más probable
+  * Posible cliente/contacto que ha tenido este momento interesante
+  * Tipo de momento interesante (web, correo electrónico o hito) y descripción
+  * Nombre de la cuenta
+  * Hora a la que ocurrió este momento interesante
+  * Opción Suscribirse para recibir notificaciones por correo electrónico para este tipo de evento
+  * Icono de alta prioridad para mostrar que esta persona es lo más probable
 
 ## [!DNL Marketo Sales Insight] ficha de configuración {#marketo-sales-insight-configuration-tab}
 

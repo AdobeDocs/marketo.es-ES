@@ -3,24 +3,31 @@ description: Documente la configuración de la nueva instancia de Marketo Engage
 title: 'Prácticas Recomendadas Para Nuevas Instancias: Documentar La Configuración'
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-TQID: https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs
+TQID: 'https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 536
+source-wordcount: '536'
 ht-degree: 4%
-
 ---
-
 # Prácticas recomendadas para nuevas instancias: Documente su configuración {#new-instance-best-practices-document-your-setup}
 
 Ahora que ha aprendido las áreas de producto clave para configurar para una nueva instancia de Marketo Engage, el siguiente paso es crear documentación para la configuración de la instancia y la pila tecnológica. Tanto si la crea mediante una hoja de cálculo como mediante una aplicación de gestión de proyectos, su documentación será un excelente recurso para realizar un seguimiento del progreso y registrar los detalles, así como para mantener su instancia estructurada y sostenible para los futuros especialistas en marketing de su organización.

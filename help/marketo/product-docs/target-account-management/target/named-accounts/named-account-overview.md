@@ -4,16 +4,21 @@ description: Obtenga información acerca de las cuentas con nombre y cómo retie
 title: Información general sobre [!UICONTROL Cuenta con nombre]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA
+TQID: 'https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 254
+source-wordcount: '254'
 ht-degree: 10%
-
 ---
-
 # Información general sobre [!UICONTROL Cuenta con nombre] {#named-account-overview}
 
 [!UICONTROL Cuentas con nombre] tienen a las personas de las empresas a las que está dirigiendo. El tablero proporciona datos actuales de cada atributo para todas las cuentas con nombre.

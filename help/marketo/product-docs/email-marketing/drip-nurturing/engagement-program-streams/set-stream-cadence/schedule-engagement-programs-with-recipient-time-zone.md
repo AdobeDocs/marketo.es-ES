@@ -4,18 +4,23 @@ description: Aprenda a programar conversiones de programas de participación con
 title: Planificar programas de participación con la zona horaria del destinatario
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '206'
 ht-degree: 9%
-
 ---
-
 # Planificar programas de participación con la zona horaria del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
 Cuando se programa un flujo de programa de participación y la zona horaria del destinatario está activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en la primera zona horaria (UTC +14:00). La primera emisión debe programarse **al menos 25 horas** en el futuro, ya que es posible que haya personas que califiquen para la emisión en todas las zonas horarias del mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que el correo electrónico se enviará en la fecha y hora programadas para cada destinatario.

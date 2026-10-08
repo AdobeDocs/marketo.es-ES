@@ -4,16 +4,18 @@ description: 'Correo electrónico de respuesta automática: documentos de Market
 title: Respuesta automática de correo electrónico
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 391
+source-wordcount: '391'
 ht-degree: 97%
-
 ---
-
 # Respuesta automática de correo electrónico {#email-auto-response}
 
 ## Misión: Enviar un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
@@ -25,7 +27,7 @@ ht-degree: 97%
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
 
-1. Vaya al área [!UICONTROL Actividades de marketing].
+1. Vaya al área de [!UICONTROL Actividades de marketing].
 
    ![](assets/email-auto-response-1.png)
 

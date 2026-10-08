@@ -4,16 +4,25 @@ title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Notas de la versión de Dynamic Chat {#dynamic-chat-release}
 
 Las versiones de Adobe Dynamic Chat funcionan bajo un modelo de entrega continua que permite un enfoque más gradual para la implementación de funciones. En ocasiones, hay varias versiones en un solo mes, por lo que debe consultar regularmente la información más actualizada.
@@ -30,11 +39,11 @@ Hemos rediseñado la lógica de enrutamiento de chat en directo en Dynamic Chat 
 
 * **Hasta dos intentos de participación por sesión**
 
-   * El sistema intenta conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
+  * El sistema intenta conectarse con hasta dos agentes (como máximo), pero estrictamente dentro de la regla de enrutamiento principal.
 
-   * Si un agente está disponible pero no responde (por ejemplo, rechaza o pierde el chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
+  * Si un agente está disponible pero no responde (por ejemplo, rechaza o pierde el chat), el sistema intenta conectarse a un agente diferente del mismo grupo.
 
-   * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de una participación fallida.
+  * La lógica de reserva (como Round Robin) solo se activa si no se encuentran agentes aptos durante la resolución inicial, para no volver a intentarlo después de una participación fallida.
 
 * **Comportamiento específico de la regla de enrutamiento**
 
@@ -95,9 +104,9 @@ Se han evaluado las reglas de enrutamiento a nivel de tarjeta (Personalizado, Eq
 
 * Si ninguna participación tiene éxito, se aplica la lógica de reserva:
 
-   * reserva de calendario (si está activada),
--o-
-   * Mensaje predeterminado.
+  * reserva de calendario (si está activada),
+    -o-
+  * Mensaje predeterminado.
 
 La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agentes aptos según la regla de enrutamiento principal, no cuando los agentes individuales no responden.
 

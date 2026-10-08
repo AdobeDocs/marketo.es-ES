@@ -3,13 +3,20 @@ description: Obtenga información sobre cómo definir un conjunto fijo de valore
 title: Administración de listas de selección
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
 # Administración de listas de selección {#picklist-management}
 
 La administración de listas de selección permite definir un conjunto fijo de valores para un campo con el fin de simplificar la administración de los datos y el flujo de trabajo en Marketo Engage. Solo se pueden administrar en Marketo los campos no textuales que no estén asignados a un campo CRM con una lista de selección definida. Si un campo está asignado a un campo CRM que tiene una lista de selección definida, los valores de ese campo deben definirse en CRM.

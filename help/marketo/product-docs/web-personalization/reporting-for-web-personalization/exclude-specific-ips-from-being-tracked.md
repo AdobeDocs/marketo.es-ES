@@ -4,22 +4,27 @@ description: Obtenga información sobre cómo excluir del seguimiento de direcci
 title: Excluir direcciones IP específicas del seguimiento
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/iWnjpI93pHG0A5xXrQhz8EP7CB-4-QeNAaLh203-l5o
+TQID: 'https://experienceleague.adobe.com/iWnjpI93pHG0A5xXrQhz8EP7CB-4-QeNAaLh203-l5o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 224
+source-wordcount: '224'
 ht-degree: 5%
-
 ---
-
 # Excluir direcciones IP específicas del seguimiento {#exclude-specific-ips-from-being-tracked}
 
 ¿Alguna vez ha querido excluir a sus propios empleados y nombres de organización del seguimiento y la creación de informes en [!UICONTROL Web Personalization]?

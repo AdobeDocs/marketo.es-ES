@@ -3,16 +3,18 @@ description: Aprenda a utilizar la búsqueda avanzada en el Centro de comandos p
 title: Información general sobre la búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+TQID: 'https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 3%
-
 ---
-
 # Información general sobre la búsqueda avanzada {#advanced-search-overview}
 
 Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que han visto, hecho clic o respondido a correos electrónicos, puede crear una lista segmentada de los posibles clientes más comprometidos.

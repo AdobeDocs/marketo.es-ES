@@ -4,18 +4,24 @@ description: Aprenda a editar el título de la página de aterrizaje y los metad
 title: Editar título y metadatos de la página de destino
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
+TQID: 'https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '147'
 ht-degree: 9%
-
 ---
-
 # Editar título y metadatos de la página de destino {#edit-landing-page-title-and-metadata}
 
 Marketo le permite editar las [metaetiquetas de su página de aterrizaje para fines de optimización de los motores de búsqueda](https://www.w3schools.com/tags/tag_meta.asp), así como personalizar la parte `<head>` de HTML.

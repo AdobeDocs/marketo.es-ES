@@ -4,20 +4,23 @@ description: Obtenga información acerca de la pestaña de configuración de Mar
 title: Pestaña Configuración de Marketo Sales Insight en Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # [!DNL Marketo Sales Insight] ficha de configuración en [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Configuración operativa {#operational-settings}
@@ -38,8 +41,8 @@ Las configuraciones son aplicables a todos los usuarios de MSI y no son específ
 **Configuración de página de Visualforce**
 
 * Activar lista desplegable de Acción:
-   * Capacidad para ocultar el menú desplegable Enviar correo electrónico de Marketo desde en el diseño de MSI de contacto y posible cliente
-   * Capacidad para ocultar las opciones de Agregar a Marketo Campaign de la lista desplegable en el diseño de MSI de posible cliente y contacto
+  * Capacidad para ocultar el menú desplegable Enviar correo electrónico de Marketo desde en el diseño de MSI de contacto y posible cliente
+  * Capacidad para ocultar las opciones de Agregar a Marketo Campaign de la lista desplegable en el diseño de MSI de posible cliente y contacto
 * Próximos eventos: permite mostrar eventos invitados, todos los eventos a los usuarios u ocultar esta pestaña por completo
 * Próximas campañas: capacidad de mostrar todas las campañas de correo electrónico u ocultar completamente esta pestaña
 * Cargar próximas campañas y eventos: capacidad para reducir el número de llamadas a la API de REST realizadas por los usuarios colocando la pestaña eventos y campañas detrás de un botón &quot;Cargar próximos elementos&quot; bajo demanda

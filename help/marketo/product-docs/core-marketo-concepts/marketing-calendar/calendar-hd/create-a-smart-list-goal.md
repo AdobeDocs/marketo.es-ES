@@ -4,20 +4,26 @@ description: Obtenga información sobre cómo crear un objetivo de lista intelig
 title: Creación de una meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/wDBTecelODmii-pFVGULEX4E9Q6FFT6hTJr9jHDjjTc
+TQID: 'https://experienceleague.adobe.com/wDBTecelODmii-pFVGULEX4E9Q6FFT6hTJr9jHDjjTc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 155
+source-wordcount: '155'
 ht-degree: 6%
-
 ---
-
 # Creación de una meta de lista inteligente {#create-a-smart-list-goal}
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Se pueden combinar con listas inteligentes para rastrear una variedad de métricas en Marketo. Además, una vez configurado el objetivo de una lista inteligente, se actualizará automáticamente cada dos horas cuando se utilice en una presentación.

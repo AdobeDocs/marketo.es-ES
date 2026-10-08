@@ -4,16 +4,18 @@ description: Comprender los canales de envío en Sales Connect. Descubra cómo s
 title: Información general sobre el canal de entrega
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 570
+source-wordcount: '571'
 ht-degree: 1%
-
 ---
-
 # Información general sobre el canal de entrega {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] le ofrece varias opciones para enviar correos electrónicos. Este artículo revisa los canales de envío que puede aprovechar, cómo seleccionarlos y cuándo elegir uno sobre otro.
@@ -52,7 +54,7 @@ Los servidores MSC no admiten los métodos de autenticación DKIM y SPF, lo que 
 
 ## Servidores Marketo {#marketo-servers}
 
-Los servidores de correo electrónico de Marketo no se integran con [!DNL Sales Connect]. Los servidores Marketo están optimizados para la entrega masiva, lo que les permite ampliarse según las necesidades de los especialistas en marketing. Sin embargo, Gmail y [!DNL Exchange] tienen una tasa de éxito mayor para la comunicación de ventas de 1:1, por lo que recomendamos utilizar estos servidores para la comunicación de ventas.
+Los servidores de correo electrónico de Marketo no se integran con [!DNL Sales Connect]. Los servidores Marketo están optimizados para la entrega masiva, lo que les permite ampliarse según las necesidades de los especialistas en marketing. Sin embargo, Gmail y [!DNL Exchange] tienen una tasa de éxito mayor para la comunicación de ventas 1:1, por lo que recomendamos utilizar estos servidores para la comunicación de ventas.
 
 >[!MORELIKETHIS]
 >

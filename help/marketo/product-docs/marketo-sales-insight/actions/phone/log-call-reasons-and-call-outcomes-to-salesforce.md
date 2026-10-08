@@ -3,22 +3,27 @@ description: Obtenga información sobre cómo registrar motivos de llamada y res
 title: Registrar los motivos de la llamada y los resultados de la llamada en Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0
+TQID: 'https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 6%
-
 ---
-
 # Registrar los motivos de la llamada y los resultados de la llamada en Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
 Si desea registrar los resultados de las llamadas y los motivos de la llamada en Salesforce con fines de creación de informes o visibilidad, puede crear un campo de actividad personalizado para cada uno. Cada campo debe utilizar un Nombre de API específico (conocido como &quot;Nombre de campo&quot; en Salesforce).

@@ -4,16 +4,18 @@ description: Obtenga información sobre cómo configurar el seguimiento de domin
 title: Cómo configurar el seguimiento del dominio personalizado
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
+TQID: 'https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 13%
-
 ---
-
 # Cómo configurar el seguimiento del dominio personalizado {#how-to-set-up-custom-domain-tracking}
 
 Le damos la opción de configurar el seguimiento de dominio personalizado para sus vínculos, de modo que cuando alguien pase el ratón sobre un vínculo, indique &quot;go.yourcompany.com&quot; en lugar de &quot;go.toutapp.com&quot;.

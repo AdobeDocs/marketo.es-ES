@@ -6,24 +6,33 @@ description: Aprenda a bloquear contenido en plantillas de correo electrónico p
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 909
+source-wordcount: '909'
 ht-degree: 9%
-
 ---
-
 # Bloqueo del contenido en las plantillas de correo electrónico {#lock-content-email-templates}
 
 Marketo Engage le permite bloquear contenido en plantillas de correo electrónico, ya sea bloqueando toda la plantilla o estructuras/componentes específicos. Esto le permite evitar ediciones o eliminaciones no intencionadas, lo que le proporciona un mayor control sobre la personalización de las plantillas y mejora la eficacia y fiabilidad de sus campañas de correo electrónico.
@@ -36,15 +45,15 @@ El bloqueo de contenido se puede aplicar en el nivel **structure** o en el nivel
 
 * Cuando una estructura está bloqueada:
 
-   * Todo el contenido de esa estructura también está bloqueado.
-   * No se puede añadir contenido a la estructura.
-   * De forma predeterminada, no se puede eliminar la estructura. Puede anular esta restricción activando la opción Permitir eliminación.
-   * Los componentes de contenido individuales dentro de la estructura bloqueada se pueden establecer como editables.
+  * Todo el contenido de esa estructura también está bloqueado.
+  * No se puede añadir contenido a la estructura.
+  * De forma predeterminada, no se puede eliminar la estructura. Puede anular esta restricción activando la opción Permitir eliminación.
+  * Los componentes de contenido individuales dentro de la estructura bloqueada se pueden establecer como editables.
 
 * Cuando una estructura es editable (estructura no bloqueada):
 
-   * Los componentes de contenido individuales se pueden bloquear dentro de esa estructura.
-   * De forma predeterminada, no se puede eliminar un componente si está bloqueado o si la opción &quot;Solo bloqueo de contenido editable&quot; está seleccionada. Puede anular esta restricción activando la opción Permitir eliminación.
+  * Los componentes de contenido individuales se pueden bloquear dentro de esa estructura.
+  * De forma predeterminada, no se puede eliminar un componente si está bloqueado o si la opción &quot;Solo bloqueo de contenido editable&quot; está seleccionada. Puede anular esta restricción activando la opción Permitir eliminación.
 
 ## Bloquear una plantilla de correo electrónico {#lock-an-email-template}
 

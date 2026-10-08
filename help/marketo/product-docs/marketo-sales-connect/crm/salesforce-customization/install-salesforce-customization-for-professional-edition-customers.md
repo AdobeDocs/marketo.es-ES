@@ -1,19 +1,21 @@
 ---
 unique-page-id: 27656223
 description: Aprenda a instalar la personalización de Sales Connect Salesforce para Professional Edition. Configurar personalizaciones al usar Salesforce PE.
-title: Instalar  [!DNL Salesforce] Personalización para clientes de Professional Edition
+title: Instalar la personalización de [!DNL Salesforce] para clientes de Professional Edition
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+TQID: 'https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 261
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
-
 # Instalar la personalización de [!DNL Salesforce] para clientes de Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
 
 Los clientes con [!DNL Salesforce] Professional Edition tendrán que seguir estos pasos para instalar la personalización.

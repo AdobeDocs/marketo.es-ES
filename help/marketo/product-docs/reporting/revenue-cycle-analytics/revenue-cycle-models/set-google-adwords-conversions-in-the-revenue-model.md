@@ -1,16 +1,22 @@
 ---
 unique-page-id: 6095029
-description: Obtenga información sobre cómo establecer conversiones de [ !dnl google adwords] en el modelo de ingresos de Marketo Engage mediante set dnl google. Utilice esta guía para completar el siguiente paso.
-title: Establecer [!DNL Google AdWords] conversiones en el modelo de ingresos
+description: Obtenga información sobre cómo establecer [ !dnl conversiones de google adwords] en el modelo de ingresos en Marketo Engage mediante set dnl google. Utilice esta guía para completar el siguiente paso.
+title: Establecer conversiones de [!DNL Google AdWords] en el modelo de ingresos
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
-
 ---
-
 # Establecer conversiones de [!DNL Google AdWords] en el modelo de ingresos {#set-google-adwords-conversions-in-the-revenue-model}
 
 Vincule su cuenta de [!DNL Google AdWords] a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde la interfaz de usuario de [!DNL AdWords], podrá ver fácilmente qué clics resultaron en posibles clientes, oportunidades y clientes nuevos calificados (o las fases de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556) en [!DNL AdWords].

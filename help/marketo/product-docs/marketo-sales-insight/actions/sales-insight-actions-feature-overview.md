@@ -3,23 +3,29 @@ description: Obtenga información sobre las acciones de Insight de ventas y las 
 title: Información general sobre la función de acciones de Insight de ventas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+TQID: 'https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1390
+source-wordcount: '1390'
 ht-degree: 1%
-
 ---
-
 # Información general sobre la función de acciones de Insight de ventas {#msi-actions-feature-overview}
 
 Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un solo flujo de trabajo mediante las acciones de Insight de ventas.
@@ -37,31 +43,31 @@ Para ver un vídeo introductorio de las acciones de Sales Insight, [haga clic aq
 Las siguientes acciones están disponibles en la lista desplegable &quot;Elegir acciones&quot; de la barra de navegación superior:
 
 * Enviar correo electrónico de ventas
-   * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
-   * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
-   * Uso compartido de plantillas e informes
-   * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
-   * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
-   * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
+  * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
+  * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
+  * Uso compartido de plantillas e informes
+  * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
+  * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
+  * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
 
 * Agregar a la campaña de ventas
-   * Añadir posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
-   * Incluye acceso y uso compartido de equipos, generación de tareas, omisión de fines de semana, omisión de correos electrónicos OOO como respuestas y finalización automática
-   * La actividad de la campaña se registrará en el registro personal de Marketo
-   * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
+  * Añadir posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
+  * Incluye acceso y uso compartido de equipos, generación de tareas, omisión de fines de semana, omisión de correos electrónicos OOO como respuestas y finalización automática
+  * La actividad de la campaña se registrará en el registro personal de Marketo
+  * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
 
 * Llamada de ventas
-   * Realizar llamadas de ventas utilizando el marcador dentro de CRM
-   * Incluye presencia local, pregrabada
-   * Registra el resultado de la llamada, la grabación de llamadas en el panel y el historial de actividades
-   * La actividad de llamada se registrará en el registro de persona de Marketo
-   * Filtros y Déclencheur en campañas inteligentes de Marketo
+  * Realizar llamadas de ventas utilizando el marcador dentro de CRM
+  * Incluye presencia local, pregrabada
+  * Registra el resultado de la llamada, la grabación de llamadas en el panel y el historial de actividades
+  * La actividad de llamada se registrará en el registro de persona de Marketo
+  * Filtros y Déclencheur en campañas inteligentes de Marketo
 
 * Agregar tarea
-   * Crear correo electrónico, llamadas, InMail y tareas personalizadas para los posibles clientes
-   * Automatización de la creación de tareas con campañas de ventas
-   * Sincronizar tareas con [!DNL Salesforce]
-   * Registrar tareas en [!DNL Salesforce] sección Historial de actividades
+  * Crear correo electrónico, llamadas, InMail y tareas personalizadas para los posibles clientes
+  * Automatización de la creación de tareas con campañas de ventas
+  * Sincronizar tareas con [!DNL Salesforce]
+  * Registrar tareas en [!DNL Salesforce] sección Historial de actividades
 
 Para acceder a Live Feed, haga clic en el icono ((0)) de la barra de navegación superior. Incluye la posibilidad de ver actualizaciones en directo sobre las actividades de ventas, así como la capacidad de acoplamiento de pantalla.
 
@@ -70,56 +76,56 @@ Para acceder a Live Feed, haga clic en el icono ((0)) de la barra de navegación
 Los siguientes datos están disponibles en las pestañas del panel MSI:
 
 * Tablero de perspectivas
-   * La cuadrícula de velocidad de participación incluirá actividades de Correos electrónicos de ventas, Acciones de campañas de ventas y Llamadas de ventas
-   * Próximas campañas de ventas: cuando un posible cliente forma parte de una campaña en curso, esta información está disponible en la pestaña Próximas campañas de ventas
-   * Próximas tareas: cuando se aproxima una tarea que pertenece a un posible cliente, esta información está disponible en la pestaña de próximas tareas
+  * La cuadrícula de velocidad de participación incluirá actividades de Correos electrónicos de ventas, Acciones de campañas de ventas y Llamadas de ventas
+  * Próximas campañas de ventas: cuando un posible cliente forma parte de una campaña en curso, esta información está disponible en la pestaña Próximas campañas de ventas
+  * Próximas tareas: cuando se aproxima una tarea que pertenece a un posible cliente, esta información está disponible en la pestaña de próximas tareas
 
 * Pestaña de correo electrónico
-   * Todos los correos electrónicos de ventas enviados se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
-   * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente, Fecha
-   * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
+  * Todos los correos electrónicos de ventas enviados se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
+  * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente, Fecha
+  * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
 
 * Pestaña Llamada
-   * Todas las llamadas realizadas con la función de marcador de ventas se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
-   * Las columnas incluyen Nombre, Resultado, Notas, Llamado en, Duración y vínculo a la grabación
-   * Incluye una tarjeta deslizable con detalles adicionales como Llamada realizada por, Llamada respondida por, Número de teléfono y Estado
+  * Todas las llamadas realizadas con la función de marcador de ventas se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
+  * Las columnas incluyen Nombre, Resultado, Notas, Llamado en, Duración y vínculo a la grabación
+  * Incluye una tarjeta deslizable con detalles adicionales como Llamada realizada por, Llamada respondida por, Número de teléfono y Estado
 
 ## Diseño de cuenta y oportunidad {#account-and-opportunity-layout}
 
 Las siguientes acciones están disponibles en la barra de navegación superior:
 
 * Envío de correo electrónico de ventas: capacidad para enviar correos electrónicos de grupo personalizados o con plantilla con seguimiento de visualización, clics y respuestas a todos los contactos asociados a una cuenta u oportunidad
-   * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
-   * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
-   * Uso compartido de plantillas e informes
-   * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
-   * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
-   * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
+  * Los correos electrónicos de ventas tienen seguimiento de visualización, clics y respuestas (cuando se configura el canal de entrega)
+  * Incluye Personalization de correo electrónico, firma personalizada y archivos adjuntos
+  * Uso compartido de plantillas e informes
+  * Uso compartido de equipos, correos electrónicos de grupos y capacidad para CC/CCO
+  * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
+  * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
 
 * Añadir a la campaña de ventas: añade todos los contactos asociados a una cuenta u oportunidad a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
-   * Añadir posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
-   * Incluye acceso y uso compartido de equipos, generación de tareas, omisión de fines de semana, omisión de correos electrónicos OOO como respuestas y finalización automática
-   * La actividad de la campaña se registrará en el registro personal de Marketo
-   * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
+  * Añadir posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
+  * Incluye acceso y uso compartido de equipos, generación de tareas, omisión de fines de semana, omisión de correos electrónicos OOO como respuestas y finalización automática
+  * La actividad de la campaña se registrará en el registro personal de Marketo
+  * Filtros y déclencheur correspondientes en Marketo Smart Campaigns (detalles a continuación)
 
 Para acceder a Live Feed, haga clic en el icono ((0)) en la barra de navegación superior. Incluye la posibilidad de ver actualizaciones en directo sobre las actividades de ventas, así como la capacidad de acoplamiento de pantalla.
 
 Los siguientes datos están disponibles en las pestañas:
 
 * Tablero de perspectivas
-   * La cuadrícula de velocidad de participación incluirá actividades de Correos electrónicos de ventas, Acciones de campañas de ventas y la Llamada de ventas
-   * Próximas campañas de ventas: cuando un contacto de la cuenta/oportunidad forme parte de una campaña en curso, esta información estará disponible en la pestaña Próximas campañas de ventas
-   * Próximas tareas: cuando haya una próxima tarea perteneciente a un contacto desde la cuenta o la oportunidad, esta información estará disponible en la pestaña de próximas tareas
+  * La cuadrícula de velocidad de participación incluirá actividades de Correos electrónicos de ventas, Acciones de campañas de ventas y la Llamada de ventas
+  * Próximas campañas de ventas: cuando un contacto de la cuenta/oportunidad forme parte de una campaña en curso, esta información estará disponible en la pestaña Próximas campañas de ventas
+  * Próximas tareas: cuando haya una próxima tarea perteneciente a un contacto desde la cuenta o la oportunidad, esta información estará disponible en la pestaña de próximas tareas
 
 * Pestaña de correo electrónico
-   * Todos los correos electrónicos de ventas enviados a los contactos desde la cuenta/oportunidad se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
-   * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente y Fecha
-   * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
+  * Todos los correos electrónicos de ventas enviados a los contactos desde la cuenta/oportunidad se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
+  * Las columnas incluyen Asunto, Abrir, Clic, Respondido (disponible solo para correo electrónico de ventas con canal de entrega configurado), Remitente y Fecha
+  * Incluye una tarjeta deslizable con detalles adicionales como remitente, plantilla, campaña de ventas y vista previa de correo electrónico
 
 * Pestaña Llamada
-   * Todas las llamadas realizadas a los contactos desde la cuenta/oportunidad utilizando la función de marcador de ventas se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
-   * Las columnas incluyen Nombre, Resultado, Notas, Llamado en, Duración y vínculo a la grabación
-   * Incluye una tarjeta deslizable con detalles adicionales como Llamada realizada por, Llamada respondida por, Número de teléfono y Estado
+  * Todas las llamadas realizadas a los contactos desde la cuenta/oportunidad utilizando la función de marcador de ventas se registrarán aquí. Las actividades también se registran en el registro de persona de Marketo
+  * Las columnas incluyen Nombre, Resultado, Notas, Llamado en, Duración y vínculo a la grabación
+  * Incluye una tarjeta deslizable con detalles adicionales como Llamada realizada por, Llamada respondida por, Número de teléfono y Estado
 
 ## Vista de lista de contactos y posibles clientes (acciones masivas) {#lead-and-contact-list-view}
 

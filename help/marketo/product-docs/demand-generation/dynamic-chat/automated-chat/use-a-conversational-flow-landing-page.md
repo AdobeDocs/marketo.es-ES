@@ -2,15 +2,22 @@
 description: Aprenda a incrustar un flujo de conversación en una página de aterrizaje de Marketo. Permita que los visitantes programen reuniones a través de Dynamic Chat sin rellenar un formulario.
 title: Utilizar una página de aterrizaje de flujo de conversación
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # Utilizar una página de aterrizaje de flujo de conversación{#use-a-conversational-flow-landing-page}
 
 La incrustación de un flujo de conversación de Dynamic Chat directamente en una página de aterrizaje de Marketo Engage permite a los visitantes programar una reunión a través de Dynamic Chat sin tener que rellenar un formulario ni interactuar con un bot de chat.

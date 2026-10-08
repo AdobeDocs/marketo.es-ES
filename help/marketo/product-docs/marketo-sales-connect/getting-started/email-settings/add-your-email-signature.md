@@ -4,16 +4,18 @@ description: Aprenda a añadir su firma de correo electrónico en Sales Connect.
 title: Añadir su firma de correo electrónico
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM
+TQID: 'https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 6%
-
 ---
-
 # Añadir su firma de correo electrónico {#add-your-email-signature}
 
 Queremos que el correo electrónico de Sales Connect se sienta como una experiencia perfecta cuando envíe desde su propio cliente de correo electrónico. Una buena manera de hacerlo es agregar su firma de correo electrónico.

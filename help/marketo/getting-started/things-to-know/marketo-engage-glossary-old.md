@@ -4,13 +4,17 @@ short-description: Conozca los términos de Marketo Engage y sus definiciones pa
 title: Glosario de Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Glosario de Marketo Engage {#marketo-engage-glossary}
 
 A continuación encontrará definiciones de muchos de los términos que puede encontrar al utilizar Marketo Engage. Para solicitar que se añada un término, [envíenos un correo electrónico](mailto:GRP-Marketo-articlefeedback@adobe.com).
@@ -93,7 +97,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   <tr>
    <td>
     <div>
-     <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Campaña por lote</a></strong></p>
+     <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Campaña por lotes</a></strong></p>
     </div></td>
    <td><p>Una <strong>campaña</strong> dirigida a miembros cualificados mediante filtros o abono a listas. Las campañas por lotes se lanzan en un momento específico y afectan a un conjunto específico de personas a la vez. Las campañas por lotes se pueden configurar para que se repitan o ejecuten una vez.<br></p></td>
   </tr>
@@ -543,7 +547,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Una de las secciones estándar de Adobe Marketo Engage. Actúa como «página principal» de Marketo y muestra mosaicos para todas las secciones de Marketo a las que tiene acceso.</td>
   </tr>
   <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mis tókenes</strong></a></td>
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mis tokens</strong></a></td>
    <td colspan="1">Variables personalizadas que cualquiera puede crear. Se han <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">creado</a> en <strong>carpetas de campaña</strong> o en <strong>programas</strong>.</td>
   </tr>
  </tbody>

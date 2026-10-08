@@ -4,16 +4,18 @@ description: Obtenga información acerca de la página de aterrizaje del víncul
 title: Página de destino del vínculo de cancelación de suscripción
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs
+TQID: 'https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: '69'
 ht-degree: 11%
-
 ---
-
 # Página de destino del vínculo de cancelación de suscripción {#unsubscribe-link-landing-page}
 
 Cuando una persona hace clic en el vínculo de cancelación de suscripción, se le redirige a una página de aterrizaje de cancelación de suscripción en la que puede seleccionar desde qué desea cancelar la suscripción y por qué.

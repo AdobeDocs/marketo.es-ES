@@ -1,25 +1,30 @@
 ---
 description: Aprenda a configurar Sales Insight para integraciones de MS Dynamics no nativas. Configure MSI cuando Marketo se conecte a Dynamics mediante sincronización personalizada.
-title: '[!DNL Sales Insight] para integraciones de MS [!DNL Dynamics] no nativas'
+title: '[!DNL Sales Insight] para integraciones no nativas de MS [!DNL Dynamics]'
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
+TQID: 'https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1532
+source-wordcount: '1533'
 ht-degree: 2%
-
 ---
-
 # [!DNL Sales Insight] para integraciones no nativas de MS [!DNL Dynamics] {#sales-insight-for-non-native-ms-dynamics-integrations}
 
 Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] mediante una integración personalizada o no nativa, use este artículo para configurar [!DNL Sales Insight].
@@ -271,4 +276,4 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS [!DNL Dynamics] median
    >
    >Para los tipos de objeto Posible cliente/Contactos y Cuentas: Marketo admite el uso de sus propios campos personalizados como campos de ID externos al utilizar Perspectivas de ventas de Marketo. Si necesita ayuda con esta personalización, comuníquese con [Soporte técnico de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-   El uso adecuado de los campos externos es clave para que la sincronización no nativa se realice correctamente. Si no ve los datos en algunas vistas, es probable que un campo determinado no se haya sincronizado correctamente. Por ejemplo, si las actividades y los momentos interesantes de un posible cliente no aparecen al buscar en el widget MSI debajo de su cuenta, es probable que la compañía o la cuenta del posible cliente no se hayan sincronizado correctamente. Realizar una solicitud de GET para este posible cliente al especificar los campos externos le ayudará a comprobar si el posible cliente se sincronizó correctamente. Además, el correo electrónico del vendedor externo de Marketo debe coincidir con el del usuario de MS Dynamics correspondiente. Es posible que los datos no se muestren en la pestaña Marketo de MS Dynamics si los correos electrónicos no coinciden.
+   El uso adecuado de los campos externos es clave para que la sincronización no nativa se realice correctamente. Si no ve los datos en algunas vistas, es probable que un campo determinado no se haya sincronizado correctamente. Por ejemplo, si las actividades y los momentos interesantes de un posible cliente no aparecen al buscar en el widget MSI debajo de su cuenta, es probable que la compañía o la cuenta del posible cliente no se hayan sincronizado correctamente. Realizar una petición GET para este posible cliente al especificar los campos externos le ayudará a comprobar si el posible cliente se sincronizó correctamente. Además, el correo electrónico del vendedor externo de Marketo debe coincidir con el del usuario de MS Dynamics correspondiente. Es posible que los datos no se muestren en la pestaña Marketo de MS Dynamics si los correos electrónicos no coinciden.

@@ -3,16 +3,18 @@ description: Obtenga información sobre cómo crear un mensaje en la aplicación
 title: Crear un mensaje en la aplicación
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+TQID: 'https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 141
+source-wordcount: '141'
 ht-degree: 6%
-
 ---
-
 # Crear un [!UICONTROL mensaje en la aplicación] {#create-an-in-app-message}
 
 Hay que seguir varios pasos para crear el mensaje en la aplicación perfecto. Comience aquí y, a continuación, siga los pasos en orden en estos artículos.

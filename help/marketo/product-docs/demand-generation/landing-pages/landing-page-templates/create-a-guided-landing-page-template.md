@@ -4,18 +4,23 @@ description: Aprenda a crear una plantilla de página de aterrizaje guiada en Ma
 title: Crear una plantilla de la página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+TQID: 'https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1132
-ht-degree: 21%
-
+source-wordcount: '1067'
+ht-degree: 22%
 ---
-
 # Crear una plantilla de la página de destino guiada {#create-a-guided-landing-page-template}
 
 Las plantillas de página de aterrizaje guiada tienen una sintaxis especial. Utilice esta sintaxis para especificar qué se puede personalizar y dónde terminará el contenido en cada página de aterrizaje creada a partir de la plantilla. Solo las regiones o variables que especifique como editables estarán disponibles para la personalización en el editor de páginas de aterrizaje &quot;Guiado&quot;.

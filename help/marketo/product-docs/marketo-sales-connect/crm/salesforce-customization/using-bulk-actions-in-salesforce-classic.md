@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: Aprenda a utilizar acciones masivas en Salesforce Classic con Sales Connect. Insertar varios posibles clientes o contactos en Sales Connect a la vez.
-title: Uso de acciones masivas en  [!DNL Salesforce] Classic
+title: Uso de acciones masivas en [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '377'
 ht-degree: 0%
-
 ---
-
 # Uso de acciones masivas en [!DNL Salesforce] Classic {#using-bulk-actions-in-salesforce-classic}
 
 Aprenda a realizar acciones masivas, como agregar posibles clientes a una campaña, enviar un correo electrónico masivo o transferir posibles clientes de [!DNL Salesforce] a [!DNL Sales Connect].
@@ -39,10 +41,10 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 1. Aparecerá un correo electrónico de MSC. Incluye las siguientes funciones:
 
    a. El campo &quot;[!UICONTROL Para]&quot; muestra &quot;[!UICONTROL Todos los destinatarios]&quot;, que corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes
-b. Esta lista está visible en el panel izquierdo llamado &quot;[!UICONTROL Maquetación en lote]&quot;. Puede agregar o quitar destinatarios aquí
-c. Puede elegir una plantilla o crear su propio correo electrónico
-d. Puede previsualizar los campos dinámicos que se rellenarán en el correo electrónico
-e. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
+   b. Esta lista está visible en el panel izquierdo llamado &quot;[!UICONTROL Maquetación en lote]&quot;. Puede agregar o quitar destinatarios aquí
+   c. Puede elegir una plantilla o crear su propio correo electrónico
+   d. Puede previsualizar los campos dinámicos que se rellenarán en el correo electrónico
+   e. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
 
    ![](assets/three-4.png)
 

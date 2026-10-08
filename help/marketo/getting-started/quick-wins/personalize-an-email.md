@@ -4,19 +4,21 @@ description: 'Personalizar un correo electrónico: documentos de Marketo, docume
 title: Personalizar un correo electrónico
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 100%
-
 ---
-
 # Personalizar un correo electrónico {#personalize-an-email}
 
-## Misión: Personalice sus correos electrónicos añadiendo tókenes de datos {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Misión: Personalice sus correos electrónicos añadiendo tokens de datos {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
@@ -86,7 +88,7 @@ Si no ha habilitado un bloqueador de ventanas emergentes, el editor de correo el
 
    >[!TIP]
    >
-   >Incluya siempre un valor predeterminado para los tókenes; esto garantiza que el valor predeterminado se muestre en el correo electrónico si falta alguna parte de la información personal.
+   >Incluya siempre un valor predeterminado para los tokens; esto garantiza que el valor predeterminado se muestre en el correo electrónico si falta alguna parte de la información personal.
 
 1. Haga clic en **[!UICONTROL Guardar]**.
 

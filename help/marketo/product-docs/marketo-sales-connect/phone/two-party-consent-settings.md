@@ -4,16 +4,18 @@ description: Obtenga información acerca de la configuración de consentimiento 
 title: Configuración del consentimiento entre dos partes
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+TQID: 'https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 7%
-
 ---
-
 # Configuración del consentimiento entre dos partes {#two-party-consent-settings}
 
 Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de Estados Unidos al grabar llamadas, como administrador puede habilitar un mensaje pregrabado de su elección para que se reproduzca al principio de las llamadas cuando se grabe.

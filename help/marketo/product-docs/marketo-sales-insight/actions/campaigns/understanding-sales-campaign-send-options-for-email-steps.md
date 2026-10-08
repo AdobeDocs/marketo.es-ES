@@ -3,16 +3,18 @@ description: Conozca las opciones de envío para los pasos de correo electrónic
 title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '772'
 ht-degree: 5%
-
 ---
-
 # Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico {#understanding-sales-campaign-send-options-for-email-steps}
 
 Al crear una campaña de ventas, tiene varias opciones sobre cómo se crean los pasos de correo electrónico en [!DNL Sales Insight Actions]. Y, dependiendo de dónde se encuentre su correo electrónico en la campaña de ventas, sus opciones también difieren.
@@ -37,8 +39,8 @@ Si es su primer paso y el primer día de su campaña de ventas, tendrá las sigu
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con [!DNL Salesforce]) que podrá enviar según le convenga.
 * Una vez que haya realizado esta selección, cuando inicie la campaña de ventas, pondremos en cola estas tareas en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
-   * Si abre esta tarea en Gmail o [!DNL Outlook], se abrirá una ventana de redacción nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+  * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+  * Si abre esta tarea en Gmail o [!DNL Outlook], se abrirá una ventana de redacción nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
 ## Opciones de envío de pasos posteriores {#subsequent-step-send-options}
 
@@ -63,8 +65,8 @@ Para los días o pasos siguientes de la campaña de ventas, tiene las siguientes
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con [!DNL Salesforce]) que podrá enviar según le convenga.
 * Una vez que haya hecho esta selección, cuando inicie su campaña de ventas, [!DNL Sales Insight Actions] pondrá en cola estas tareas por usted en el Centro de comandos y en la Fuente en vivo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
-   * Si abre esta tarea en Gmail o [!DNL Outlook], se abrirá una ventana de redacción nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+  * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+  * Si abre esta tarea en Gmail o [!DNL Outlook], se abrirá una ventana de redacción nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
 ### Cree este correo electrónico como seguimiento del correo electrónico anterior en esta campaña {#subsequent-create-this-email}
 

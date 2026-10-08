@@ -3,20 +3,26 @@ description: Obtenga información acerca de cómo se sincronizan los objetos Men
 title: Sincronización de mensajes de clave de llamada y llamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
+TQID: 'https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: '495'
 ht-degree: 10%
-
 ---
-
 # Sincronización de mensajes de clave de llamada y llamada {#syncing-call-and-call-key-messages}
 
 Los objetos de mensajes de clave de llamada y llamada de [!DNL Veeva] CRM se sincronizan de manera predeterminada en Marketo Engage. Marketo sincroniza datos con una antigüedad de hasta 6 meses, en función de la fecha de creación de la llamada.

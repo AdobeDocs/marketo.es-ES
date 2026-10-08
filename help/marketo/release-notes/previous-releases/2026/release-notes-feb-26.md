@@ -3,13 +3,20 @@ description: 'Notas de la versión, febrero de 2026: Documentos de Marketo: docu
 title: Notas de la versión, febrero de 2026
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
-
 ---
-
 # Notas de la versión: febrero de 2026 {#release-notes-feb-26}
 
 A continuación encontrará todas las funciones incluidas en la versión de febrero de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.

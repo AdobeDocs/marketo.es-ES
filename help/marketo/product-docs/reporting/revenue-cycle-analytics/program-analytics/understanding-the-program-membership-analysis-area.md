@@ -4,13 +4,19 @@ description: Obtenga información sobre cómo comprender el área de análisis d
 title: Explicación del área de análisis de miembros del programa
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 20%
-
 ---
-
 # Explicación del área de análisis de miembros del programa {#understanding-the-program-membership-analysis-area}
 
 El área Análisis de pertenencia a programas le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal durante un período de tiempo determinado.

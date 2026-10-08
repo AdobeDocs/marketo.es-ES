@@ -3,22 +3,30 @@ description: Obtenga información acerca del panel Estado de sincronización de 
 title: Estado de sincronización de Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/RsWPcnu2ZkoqdMVRM8DVu2GM-VJLIgVdB-UJDJaD4RM
+TQID: 'https://experienceleague.adobe.com/RsWPcnu2ZkoqdMVRM8DVu2GM-VJLIgVdB-UJDJaD4RM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 13%
-
 ---
-
 # Estado de sincronización de Salesforce {#salesforce-sync-status}
 
 Utilice el panel Estado de sincronización para ver las estadísticas de sincronización como parte de los pasos de sincronización y su estado de éxito.
@@ -168,7 +176,7 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
    <td colspan="1">Oportunidad</td>
   </tr>
   <tr>
-   <td colspan="1">Rol del contacto y la oportunidad</td>
+   <td colspan="1">Función del contacto y la oportunidad</td>
   </tr>
   <tr>
    <td colspan="1">Tarea</td>

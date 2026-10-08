@@ -4,16 +4,18 @@ description: Obtén ayuda cuando el complemento de conexión de ventas no aparez
 title: El complemento de Sales Connect no aparece en Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+TQID: 'https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 4%
-
 ---
-
 # El complemento [!DNL Sales Connect] no se muestra en Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
 
 Según nuestra experiencia, aquí hay algunas cosas que debe probar si la barra de herramientas no aparece.

@@ -1,20 +1,25 @@
 ---
 description: Aprenda a conectar Marketo Engage a Veeva CRM en el paso final de la configuración. Configure OAuth, confirme las credenciales y sincronice los campos para completar la conexión.
-title: 'Paso 3 de 3: Conectar Marketo Engage y  [!DNL Veeva] CRM'
+title: 'Paso 3 de 3: Conexión de Marketo Engage y [!DNL Veeva] CRM'
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw
+TQID: 'https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 343
+source-wordcount: '344'
 ht-degree: 0%
-
 ---
-
 # Paso 3 de 3: Conectar Marketo Engage y [!DNL Veeva] CRM {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
 En este artículo, configurará Marketo Engage para que se sincronice con su instancia de CRM [!DNL Veeva] configurada. **Verá [!DNL Salesforce] en algunas de las ventanas emergentes**, ya que [!DNL Veeva] CRM se ha creado en la plataforma [!DNL Salesforce].

@@ -4,16 +4,18 @@ description: Explicación de los tipos de grupos en Sales Connect. Obtenga infor
 title: Tipos de grupos
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/T9ZW2amKeLWFAbWHSuP4d858Qh8nqAfxwpyMESvKftk
+TQID: 'https://experienceleague.adobe.com/T9ZW2amKeLWFAbWHSuP4d858Qh8nqAfxwpyMESvKftk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 5%
-
 ---
-
 # Tipos de grupos {#group-types}
 
 Obtenga información acerca de los distintos tipos de grupos en [!UICONTROL Conexión de ventas].

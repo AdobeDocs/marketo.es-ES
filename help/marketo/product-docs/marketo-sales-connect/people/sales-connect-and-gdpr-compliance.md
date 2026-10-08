@@ -4,23 +4,29 @@ description: Obtenga información sobre Sales Connect y el cumplimiento del RGPD
 title: Sales Connect y el cumplimiento del RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw
+TQID: 'https://experienceleague.adobe.com/7LgLCoMIcJI-0o3Cw8BYnLUH-0QJTVsMwLi-aeWkwtw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1393
+source-wordcount: '1399'
 ht-degree: 8%
-
 ---
-
 # [!DNL Sales Connect] y el cumplimiento del RGPD {#sales-connect-and-gdpr-compliance}
 
 El Reglamento General de Protección de Datos (RGPD) es la legislación de la Unión Europea que entró en vigor el 25 de mayo de 2018.

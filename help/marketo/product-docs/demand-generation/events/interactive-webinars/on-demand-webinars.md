@@ -3,18 +3,20 @@ description: Obtenga información sobre los seminarios web a petición en los se
 title: Seminarios web bajo demanda
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # Seminarios web bajo demanda {#on-demand-webinars}
 
 Los seminarios web a petición capturan y perfeccionan los posibles clientes que se registraron en el evento y no asistieron, pero que desean obtener información relacionada con el evento observando la grabación. La información como el nombre, el ID de correo electrónico y la fecha y duración del seguimiento se puede recopilar en Marketo Engage y utilizar para dirigirse a estos posibles clientes que no acuden.
@@ -28,9 +30,9 @@ Marketo Engage proporciona las estadísticas de inspección para los seminarios 
 * Resumen a petición: Proporciona un resumen del recuento de visitantes (no-espectadores) que ven la grabación después del evento en un día determinado
 
 * Estadísticas a petición: Este widget proporciona información sobre:
-   * Días en los que la grabación bajo demanda está disponible para su visualización: ayuda a los especialistas en marketing a realizar acciones como ejecutar campañas de correo electrónico cerca del final de la duración de disponibilidad de la grabación de 30 días.
-   * Recuento total de visitantes para seminarios web a petición hasta la fecha: Recuento de todos los inscritos que no han comparecido y que han visto la grabación bajo demanda hasta la fecha.
-   * Duración media del reloj en minutos para todos los visitantes: ofrece a los especialistas en marketing una idea de qué parte de la grabación se visualiza y qué campañas inteligentes se pueden utilizar para dirigirse a posibles clientes por encima de una duración de reloj determinada.
+  * Días en los que la grabación bajo demanda está disponible para su visualización: ayuda a los especialistas en marketing a realizar acciones como ejecutar campañas de correo electrónico cerca del final de la duración de disponibilidad de la grabación de 30 días.
+  * Recuento total de visitantes para seminarios web a petición hasta la fecha: Recuento de todos los inscritos que no han comparecido y que han visto la grabación bajo demanda hasta la fecha.
+  * Duración media del reloj en minutos para todos los visitantes: ofrece a los especialistas en marketing una idea de qué parte de la grabación se visualiza y qué campañas inteligentes se pueden utilizar para dirigirse a posibles clientes por encima de una duración de reloj determinada.
 
 ![](assets/on-demand-webinars-1.png)
 

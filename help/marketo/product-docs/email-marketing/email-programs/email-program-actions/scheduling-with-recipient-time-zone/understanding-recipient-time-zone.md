@@ -4,18 +4,23 @@ description: Obtenga información acerca de la programación de zonas horarias d
 title: Explicación de zona horaria del destinatario
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '414'
 ht-degree: 2%
-
 ---
-
 # Explicación de zona horaria del destinatario {#understanding-recipient-time-zone}
 
 Los programas de correo electrónico y participación se pueden configurar para que se entreguen según los husos horarios de los destinatarios, lo que elimina la necesidad de crear varios programas: enviar una vez y Marketo retiene automáticamente el correo electrónico hasta la hora local correcta.
@@ -35,7 +40,7 @@ Para dar cabida a cada zona horaria, los programas de correo electrónico progra
 
 ## Programas de participación {#engagement-programs}
 
-Cuando [programe un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la [!UICONTROL zona horaria del destinatario] esté activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar en este momento en UTC +14:00 garantiza que el correo electrónico se envíe en la fecha y hora programadas para cada persona que califique para este reparto.
+Cuando [programe un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y la [!UICONTROL zona horaria del destinatario] esté activa, el lanzamiento del programa comenzará a ejecutarse a medianoche en UTC +14:00. Necesitamos que programes el primer reparto al menos 25 horas en el futuro (24 horas + algún tiempo para comenzar la campaña) porque las personas pueden calificar para el reparto en cada zona horaria en todo el mundo. Comenzar a procesar a esta hora en UTC +14:00 garantiza que el correo electrónico se envíe en la fecha y hora programadas para cada persona que califique para este reparto.
 
 ## Cálculo de zona horaria {#calculating-time-zone}
 
@@ -46,7 +51,7 @@ En casos en los que tenemos **solamente** país o **solamente** estado disponibl
 * Para los países con tres o menos zonas horarias, seleccionamos la zona horaria media.
 * Para los estados con dos zonas horarias, se selecciona la anterior de las dos.
 
-Si todavía no podemos determinar la zona horaria de alguien a partir de cualquier combinación de estos campos, **no** asignaremos una zona horaria y el correo electrónico se enviará según la zona horaria de suscripción de Marketo. Por lo tanto, si su programa está programado para 9:00am PDT, las personas sin zona horaria asignada se enviarán por correo electrónico a 9:00am PDT.
+Si todavía no podemos determinar la zona horaria de alguien a partir de cualquier combinación de estos campos, **no** asignaremos una zona horaria y el correo electrónico se enviará según la zona horaria de suscripción de Marketo. Por lo tanto, si el programa está programado para la PDT de las 9:00 a. m., las personas sin zona horaria asignada se enviarán por correo electrónico a la PDT de las 9:00 a. m.
 
 >[!NOTE]
 >

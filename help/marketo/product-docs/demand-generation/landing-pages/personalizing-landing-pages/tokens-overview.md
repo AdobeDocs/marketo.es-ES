@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2950799
 description: Obtenga información acerca de los tokens para personalizar páginas de aterrizaje de Marketo. Utilice tokens para insertar contenido dinámico y personalizar la experiencia.
-title: Información general sobre tókenes
+title: Información general sobre tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+TQID: 'https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 79%
-
 ---
-
-# Información general sobre tókenes {#tokens-overview}
+# Información general sobre tokens {#tokens-overview}
 
 Un token es una variable que se puede utilizar en los pasos de flujo de campañas inteligentes de Marketo, correos electrónicos, páginas de aterrizaje, fragmentos y campañas web.
 
@@ -32,13 +37,13 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 
 >[!CAUTION]
 >
->Los tókenes no funcionan en el preencabezado cuando se utiliza el editor de correo electrónico de Marketo. Para utilizar un token en el preencabezado, debe ser a través de su propio HTML en una plantilla de correo electrónico.
+>Los tokens no funcionan en el preencabezado cuando se utiliza el editor de correo electrónico de Marketo. Para utilizar un token en el preencabezado, debe ser a través de su propio HTML en una plantilla de correo electrónico.
 
 >[!NOTE]
 >
->Esta lista no es exhaustiva. Los tókenes también se crean para cada campo personalizado que tenga en Marketo.
+>Esta lista no es exhaustiva. Los tokens también se crean para cada campo personalizado que tenga en Marketo.
 
-## Tókenes de persona {#person-tokens}
+## Tokens de persona {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -94,7 +99,7 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 * `{{lead.Updated At}}`
 * Los campos de persona personalizados también funcionan si usa su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
 
-## Tókenes de compañía {#company-tokens}
+## Tokens de compañía {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -117,17 +122,17 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 * `{{Company.Website}}`
 * Los campos personalizados de empresa también funcionan si usa su nombre para mostrar, por ejemplo, `{{Company.Custom Field Name}}`
 
-## Tókenes de campaña {#campaign-tokens}
+## Tokens de campaña {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
 * `{{campaign.description}}`
 
-## Tókenes de sistema {#system-tokens}
+## Tokens de sistema {#system-tokens}
 
 >[!NOTE]
 >
->Obtenga más información acerca de estos tókenes en el [Glosario de tókenes del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Obtenga más información acerca de estos tokens en el [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -136,7 +141,7 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tókenes de activador {#trigger-tokens}
+## Tokens de activador {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -154,21 +159,21 @@ En este ejemplo, el correo electrónico dirá “Saludos, (nombre)” o “Salud
 
 >[!NOTE]
 >
->Encuentre más información sobre [tókenes para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basados en los activadores utilizados en una campaña inteligente.
+>Encuentre más información sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basados en los activadores utilizados en una campaña inteligente.
 
-## Tókenes de programa {#program-tokens}
+## Tokens de programa {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## [!UICONTROL Mis tókenes] {#my-tokens}
+## [!UICONTROL Mis tokens] {#my-tokens}
 
-[!UICONTROL Mis tókenes] se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tókenes en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Mis tókenes] se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de abonado {#member-token}
 
-Los tókenes de abonado se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tókenes de abonado es para URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
+Los tokens de abonado se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de abonado es para URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
 
 * `{{member.webinar url}}`
 

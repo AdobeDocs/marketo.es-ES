@@ -4,13 +4,19 @@ description: Aprenda a utilizar las fases del inventario del modelo de ingresos 
 title: Uso de fases de inventario del modelo de ingresos
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 4%
-
 ---
-
 # Uso de fases de inventario del modelo de ingresos {#using-revenue-model-inventory-stages}
 
 Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase de inventario. Este grupo de clientes potenciales es donde se nutren los posibles clientes hasta que estén listos para las ventas. No hay límite de tiempo en una fase de inventario.

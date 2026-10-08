@@ -4,16 +4,21 @@ description: Aprenda a añadir campos de Marketo a Salesforce Enterprise o Unlim
 title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ilimitado)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 764
+source-wordcount: '764'
 ht-degree: 9%
-
 ---
-
 # Paso 1 de 3: Agregar campos de Marketo a [!DNL Salesforce] (empresa/ilimitado) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -119,8 +124,8 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    * Desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil Administrador del sistema (como se muestra a continuación)
-      * Si creó un _perfil personalizado_ para el usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para ese perfil personalizado
+     * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para el perfil Administrador del sistema (como se muestra a continuación)
+     * Si creó un _perfil personalizado_ para el usuario de sincronización, desactive la casilla de verificación **[!UICONTROL Solo lectura]** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

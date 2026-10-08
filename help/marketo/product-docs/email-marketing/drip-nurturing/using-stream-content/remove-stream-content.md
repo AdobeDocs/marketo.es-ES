@@ -4,18 +4,23 @@ description: Aprenda a eliminar el contenido de la emisión cuando no necesite c
 title: Quitar contenido de flujo
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/RUEpcbz2EecspF524umRFK7uCfXE-YCAZFxok7teXog
+TQID: 'https://experienceleague.adobe.com/RUEpcbz2EecspF524umRFK7uCfXE-YCAZFxok7teXog'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 8%
-
 ---
-
 # Quitar contenido de flujo {#remove-stream-content}
 
 Puede eliminar o archivar un fragmento de contenido. A diferencia de eliminar contenido de flujo, [archivar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no le importa perder las estadísticas históricas de algún contenido y desea eliminarlo, así es.

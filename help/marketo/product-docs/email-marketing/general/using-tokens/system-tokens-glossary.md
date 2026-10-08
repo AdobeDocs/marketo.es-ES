@@ -1,20 +1,22 @@
 ---
 unique-page-id: 1147344
 description: Obtenga información acerca de los tokens del sistema disponibles en los correos electrónicos de Marketo. Utilice el glosario para encontrar el token adecuado para la personalización.
-title: Glosario de tókenes del sistema
+title: Glosario de tokens del sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+TQID: 'https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '230'
 ht-degree: 2%
-
 ---
-
-# Glosario de tókenes del sistema {#system-tokens-glossary}
+# Glosario de tokens del sistema {#system-tokens-glossary}
 
 Además de los tokens de persona, puede utilizar algunos tokens de sistema muy interesantes. Aquí están.
 
@@ -35,7 +37,7 @@ El token `{{system.date}}` procesará la fecha actual en tiempo de ejecución de
 
 ## system.time {#system-time}
 
-El token `{{system.time}}` procesará la hora actual en tiempo de ejecución como: **04:34 PM (GMT -0700)**
+El token `{{system.time}}` procesará la hora actual en tiempo de ejecución de la siguiente manera: **04:34 PM (GMT -0700)**
 
 **Funciona en:**
 

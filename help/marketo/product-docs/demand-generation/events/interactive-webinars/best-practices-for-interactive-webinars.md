@@ -3,21 +3,25 @@ description: Obtenga ayuda sobre las prácticas recomendadas para seminarios web
 title: Prácticas recomendadas para seminarios web interactivos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # Prácticas recomendadas para seminarios web interactivos {#best-practices-for-interactive-webinars}
 
 Al ejecutar eventos virtuales, ya estén dirigidos a una audiencia pequeña o grande, es fundamental que las cosas vayan según lo planificado. Con varios pasos necesarios para planificar y ejecutar un evento, desde la preparación, la promoción, la entrega y el seguimiento, a veces se puede sentir como mucho.
@@ -79,13 +83,13 @@ Las siguientes prácticas recomendadas pueden ayudar a planificar, diseñar y pr
 * Active el recordatorio de grabación en las Preferencias de sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
 
 * Habilite el área Host y presentador y configúrela con los pods correspondientes. Esta área solo es visible para los anfitriones y presentadores y se puede usar para colaborar entre bastidores. Algunos pods para incluir aquí serían:
-   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo usar el tablero de participación.
-   * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
-   * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
+  * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo usar el tablero de participación.
+  * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
+  * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
 
 * Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar de `apps.adobeconnect.com` como archivos .pod o .zip, que luego se pueden compartir en el pod compartido.
-   * Algunos pods personalizados populares son Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * [Haz clic aquí](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para ver un breve vídeo sobre cómo usar pods personalizados.
+  * Algunos pods personalizados populares son Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
+  * [Haz clic aquí](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para ver un breve vídeo sobre cómo usar pods personalizados.
 
 **Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:**
 
@@ -104,8 +108,8 @@ Las siguientes prácticas recomendadas pueden ayudar a planificar, diseñar y pr
 * Realice algunas pruebas en seco para probar la configuración de audio/vídeo y familiarizarse con Adobe Connect si no lo ha utilizado anteriormente. Incluya también a los presentadores y a los copatrocinadores cuando ensaye.
 
 * Pida a los presentadores y anfitriones que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente.
-   * Decida quién moderará los pods de preguntas y respuestas y chat.
-   * Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
+  * Decida quién moderará los pods de preguntas y respuestas y chat.
+  * Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
 
 * Haga que los programas que está compartiendo pantalla estén abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en programas mientras comparte la pantalla.
 

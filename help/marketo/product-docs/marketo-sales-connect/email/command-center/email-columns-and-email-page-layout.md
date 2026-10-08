@@ -4,18 +4,20 @@ description: Obtenga información sobre las columnas de correo electrónico y el
 title: Columnas de correo electrónico y diseño de página del correo electrónico
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+TQID: 'https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 533
+source-wordcount: '533'
 ht-degree: 2%
-
 ---
-
 # Columnas de correo electrónico y diseño de página del correo electrónico {#email-columns-and-email-page-layout}
 
 Puede configurar cualquiera de las columnas disponibles para que sean visibles en la sección de correo electrónico del [!UICONTROL Centro de comandos]. La configuración se guardará para cada subcarpeta de correo electrónico (por ejemplo, [!UICONTROL Entregado], [!UICONTROL Fallido], [!UICONTROL Programado], etc.).

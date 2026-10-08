@@ -2,15 +2,19 @@
 description: Obtenga información sobre las herramientas de participación en los seminarios web interactivos. Utilice encuestas, preguntas y respuestas y otras funciones para impulsar la interacción de los asistentes durante los seminarios web.
 title: Herramientas de participación en seminarios web interactivos
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # Herramientas de participación en seminarios web interactivos {#engagement-tools-in-interactive-webinars}
 
 Funcionalidad de envío de pods dentro de una sala de Adobe Connect. Para añadir un pod a un diseño, haga clic en el menú de pods y seleccione el pod que desee añadir.
