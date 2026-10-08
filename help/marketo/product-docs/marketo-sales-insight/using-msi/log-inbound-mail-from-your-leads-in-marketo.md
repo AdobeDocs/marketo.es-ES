@@ -4,20 +4,23 @@ description: Obtenga información sobre cómo registrar el correo entrante desde
 title: Registrar correo entrante de sus posibles clientes en Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/WVa6R88xfw8evzzfUpZuwG51xWNYMhUbM9csYTRN4TQ
+TQID: 'https://experienceleague.adobe.com/WVa6R88xfw8evzzfUpZuwG51xWNYMhUbM9csYTRN4TQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 10%
-
 ---
-
 # Registrar correo entrante de sus posibles clientes en Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 Puede registrar las respuestas de sus posibles clientes en [!DNL Outlook] con el complemento de correo electrónico de Marketo.

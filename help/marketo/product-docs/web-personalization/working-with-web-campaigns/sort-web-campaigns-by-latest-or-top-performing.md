@@ -4,20 +4,23 @@ description: Obtenga información sobre cómo ordenar campañas web por las últ
 title: Ordenar campañas web por la fecha o el rendimiento
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rsvwXcwd3W25-Bqi2L7Bw68XL4Onmp2UOcfY3brtuEw
+TQID: 'https://experienceleague.adobe.com/rsvwXcwd3W25-Bqi2L7Bw68XL4Onmp2UOcfY3brtuEw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 15%
-
 ---
-
 # Ordenar campañas web por la fecha o el rendimiento {#sort-web-campaigns-by-latest-or-top-performing}
 
 Puede ordenar las campañas web de un par de formas diferentes.

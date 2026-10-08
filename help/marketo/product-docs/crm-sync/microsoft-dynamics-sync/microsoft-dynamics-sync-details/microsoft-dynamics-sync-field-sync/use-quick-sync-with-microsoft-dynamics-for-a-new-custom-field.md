@@ -4,18 +4,23 @@ description: Aprenda a utilizar la sincronización rápida con Microsoft Dynamic
 title: Utilizar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I
+TQID: 'https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 356
+source-wordcount: '356'
 ht-degree: 4%
-
 ---
-
 # Usar sincronización rápida con [!DNL Microsoft Dynamics] para un nuevo campo personalizado {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing o Ventas desea un nuevo campo. O quizás olvidó uno en su selección inicial de campo. O, sus necesidades cambiaron. En cualquier caso, puede utilizar la sincronización rápida para volver a sincronizar campos específicos.

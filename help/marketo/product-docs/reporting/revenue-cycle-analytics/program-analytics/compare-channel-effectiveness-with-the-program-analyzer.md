@@ -4,13 +4,19 @@ description: Obtenga información acerca de la comparación de la eficacia del c
 title: Comparar la eficacia del canal con el analizador de programas
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 1%
-
 ---
-
 # Comparar la eficacia del canal con [!UICONTROL Analizador de programas] {#compare-channel-effectiveness-with-the-program-analyzer}
 
 Use el [!UICONTROL Analizador de programas] para comparar costos de canal, adquisición de miembros, canalización, ingresos y más, a fin de identificar los canales más efectivos y menos efectivos.

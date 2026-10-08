@@ -3,16 +3,18 @@ description: Obtenga información sobre el seguimiento de correo electrónico pa
 title: Información general de seguimiento de correo electrónico
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+TQID: 'https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 500
+source-wordcount: '500'
 ht-degree: 5%
-
 ---
-
 # Información general de seguimiento de correo electrónico {#email-tracking-overview}
 
 ## Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}

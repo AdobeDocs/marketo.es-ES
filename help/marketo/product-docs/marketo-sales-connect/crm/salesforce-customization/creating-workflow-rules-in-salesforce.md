@@ -4,16 +4,18 @@ description: Obtenga información sobre cómo crear reglas de flujo de trabajo e
 title: Creación de reglas de flujo de trabajo en Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 482
+source-wordcount: '482'
 ht-degree: 3%
-
 ---
-
 # Creación de reglas de flujo de trabajo en Salesforce {#creating-workflow-rules-in-salesforce}
 
 Al usar Marketo Sales Insight (MSI) y Marketo Sales Connect (MSC) en paralelo, la función Más probable de MSI de [!DNL Salesforce] no se actualizará. Todas las demás funciones de MSI funcionan de la forma habitual (ver momentos interesantes en el iFrame, enviar correos electrónicos, añadir a campañas, etc.). Este artículo ofrece una solución para que los resultados más probables vuelvan a funcionar.

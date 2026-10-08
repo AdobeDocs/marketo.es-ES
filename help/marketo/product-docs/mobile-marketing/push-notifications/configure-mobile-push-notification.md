@@ -3,19 +3,22 @@ description: Obtenga información sobre cómo configurar una notificación push 
 title: Configurar notificación push para dispositivos móviles
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+TQID: 'https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 521
+source-wordcount: '521'
 ht-degree: 4%
-
 ---
-
 # Configurar notificación push para dispositivos móviles {#configure-mobile-push-notification}
 
 1. Vaya al área **[!UICONTROL Actividades de marketing]**.
@@ -88,7 +91,7 @@ Un URI de vínculo profundo consta de tres partes: nombre del esquema, ruta e id
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir los URI de vínculos profundos, por lo que debe pedirle que le envíe los URI (vínculos) de las páginas que le interesen. Esto garantiza que los URI introducidos en los mensajes push apunten a los lugares correctos. Su desarrollador puede [encontrar más información aquí](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 ## URI de redireccionamiento {#redirect-uris}
 

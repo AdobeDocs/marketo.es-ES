@@ -4,16 +4,18 @@ description: Aprenda a utilizar acciones masivas en Salesforce Lightning con Sal
 title: Uso de acciones masivas en Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 2%
-
 ---
-
 # Uso de acciones masivas en [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
 Aprenda a realizar acciones masivas, como agregar posibles clientes a una campaña, enviar un correo electrónico masivo o transferir posibles clientes de [!DNL Salesforce] a [!DNL Sales Connect].
@@ -46,9 +48,9 @@ Aprenda a realizar acciones masivas, como agregar posibles clientes a una campa�
 1. Aparecerá un correo electrónico de MSC. Incluye las siguientes funciones:
 
    a. El campo &quot;[!UICONTROL Para]&quot; muestra &quot;Todas las recepciones&quot;; corresponde a la lista de posibles clientes que ha elegido en la vista de lista de posibles clientes
-b. Esta lista está visible en el panel izquierdo llamado &quot;Maquetación masiva&quot;; puede añadir o quitar destinatarios aquí
-c. Puede elegir una plantilla o crear su propio correo electrónico
-d. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
+   b. Esta lista está visible en el panel izquierdo llamado &quot;Maquetación masiva&quot;; puede añadir o quitar destinatarios aquí
+   c. Puede elegir una plantilla o crear su propio correo electrónico
+   d. Puede enviar el correo electrónico de inmediato o programar su envío más tarde
 
    ![](assets/three-5.png)
 

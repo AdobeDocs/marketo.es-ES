@@ -4,18 +4,20 @@ description: 'Puntuación simple: Documentos de Marketo: documentación del prod
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU
+TQID: 'https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 386
+source-wordcount: '386'
 ht-degree: 14%
-
 ---
-
 # Puntuación simple {#simple-scoring}
 
 >[!PREREQUISITES]

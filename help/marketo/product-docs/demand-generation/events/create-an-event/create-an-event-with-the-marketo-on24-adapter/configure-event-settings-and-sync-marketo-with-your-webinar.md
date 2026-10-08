@@ -4,16 +4,18 @@ description: Aprenda a configurar los eventos y sincronizar Marketo con el semin
 title: Configuración de eventos y sincronización de Marketo con el seminario web
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+TQID: 'https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 240
+source-wordcount: '240'
 ht-degree: 9%
-
 ---
-
 # Configuración de eventos y sincronización de Marketo con el seminario web {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 Siga estos pasos para configurar los eventos de Marketo y conectar Marketo y ON24.

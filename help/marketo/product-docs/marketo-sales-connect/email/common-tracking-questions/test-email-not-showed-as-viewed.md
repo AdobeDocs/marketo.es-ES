@@ -4,16 +4,18 @@ description: Obtener ayuda si un correo electrónico de prueba no aparece como v
 title: Probar correo electrónico no mostrado como visto
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE
+TQID: 'https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 7%
-
 ---
-
 # Probar correo electrónico no mostrado como visto {#test-email-not-showed-as-viewed}
 
 Aunque hayas enviado el mensaje a otra dirección de correo electrónico, no registraremos tu visualización de los correos electrónicos que te hayas enviado a ti mismo en Live Feed. Nuestro seguimiento se basa en el dispositivo. Siempre y cuando use un equipo con el que haya iniciado sesión en [!DNL Sales Connect], filtraremos esa actividad.

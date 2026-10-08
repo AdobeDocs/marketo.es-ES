@@ -4,18 +4,20 @@ description: Obtenga información sobre cómo enviar un correo electrónico rast
 title: Enviar un correo electrónico rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TBEuqnKhnaJuZaNivU36NNZJ6cV7-13Stp8SwSdNY78
+TQID: 'https://experienceleague.adobe.com/TBEuqnKhnaJuZaNivU36NNZJ6cV7-13Stp8SwSdNY78'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: '207'
 ht-degree: 3%
-
 ---
-
 # Enviar un correo electrónico rastreado {#sending-a-tracked-email}
 
 Al enviar un correo electrónico con [!DNL Marketo Sales Connect], se realizará un seguimiento de las vistas (aperturas de correo electrónico) y los clics (vínculos en los que se hizo clic).

@@ -4,16 +4,18 @@ description: Aprenda a evitar que una dirección secundaria de Gmail se integre 
 title: Cómo impedir que la dirección secundaria de Gmail se integre con Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds
+TQID: 'https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: '323'
 ht-degree: 2%
-
 ---
-
 # Impedir que la dirección secundaria de Gmail se integre con [!DNL Sales Connect] {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
 ## Integración de Gmail rota (por qué mi Gmail personal envía correos electrónicos) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}

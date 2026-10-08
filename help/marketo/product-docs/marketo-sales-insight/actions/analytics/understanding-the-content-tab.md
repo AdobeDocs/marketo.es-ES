@@ -3,18 +3,20 @@ description: Comprenda las métricas de participación de plantillas y pestañas
 title: Explicación de la pestaña Contenido
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE
+TQID: 'https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 2%
-
 ---
-
 # Explicación de la ficha [!UICONTROL Contenido] {#understanding-the-content-tab}
 
 La ficha [!UICONTROL Contenido] tiene que ver con la participación de su equipo por correo electrónico al usar una plantilla. Automáticamente propagamos tres métricas que creemos que son importantes.

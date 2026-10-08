@@ -3,27 +3,38 @@ description: 'Notas de la versión, enero de 2024: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+TQID: 'https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 840
+source-wordcount: '840'
 ht-degree: 18%
-
 ---
-
 # Notas de la versión: enero de 2024 {#release-notes-jan-24}
 
 A continuación encontrará todas las funciones incluidas en la versión de enero de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
@@ -206,7 +217,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 * **Actualización de cancelación de suscripción a una lista de un solo clic**: Gmail y Yahoo han implementado varios requisitos de remitente nuevos que entraron en vigor el 1 de febrero de 2024. [Conoce qué son y cómo te afectan](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3&rbrace; se ha ajustado ligeramente con respecto a las actualizaciones del campo `unsubscribed`. &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
+* **Actualización de la API del posible cliente de sincronización**: El comportamiento de la API del posible cliente de sincronización [3} se ha ajustado ligeramente con respecto a las actualizaciones del campo `unsubscribed`. ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Ahora, cuando pase `null` como valor, es igual a pasar un valor de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: en nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

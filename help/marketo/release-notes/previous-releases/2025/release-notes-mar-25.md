@@ -3,30 +3,39 @@ description: 'Notas de la versión, marzo de 2025: Documentos de Marketo: docume
 title: Notas de la versión, marzo de 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-TQID: https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY
+TQID: 'https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 527
+source-wordcount: '527'
 ht-degree: 39%
-
 ---
-
 # Notas de la versión: marzo de 2025 {#release-notes-mar-25}
 
 A continuación encontrará todas las funciones incluidas en la versión de marzo de 2025. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -56,7 +65,7 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
   <tr>
    <td>Características de <strong>GenAI en seminarios web interactivos</strong>: ahora puede generar capítulos y un resumen de los seminarios web a petición. Edite y exporte un archivo HTML de sus datos.</td>
    <td>Publicado</td>
-   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funciones de GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funciones de GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -76,11 +85,11 @@ Las siguientes características están dentro del ciclo de lanzamiento estándar
 
 * **Desaprobación de funciones sociales**: El miércoles 31 de julio de 2024, Marketo Engage comenzó la desaprobación de las siguientes funciones sociales del producto:
 
-   * Sondeos
-   * Botón social
-   * Oferta de referencia
-   * Compartir video
-   * Sorteos
+  * Sondeos
+  * Botón social
+  * Oferta de referencia
+  * Compartir video
+  * Sorteos
 
 A partir de ese momento, los usuarios no han podido crear, clonar ni incrustar ninguna de estas funciones de Social en Marketo Engage. Los recursos sociales existentes seguirán funcionando hasta el 31 de enero de 2025. El 1 de febrero de 2025, los activos sociales dejaron de funcionar. Deberá eliminar cualquier función social incrustada en las páginas de destino. [Más información](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

@@ -4,16 +4,21 @@ description: Obtenga información sobre cómo editar un HTML de correo electrón
 title: Editar el HTML de un correo electrónico
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+TQID: 'https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 363
+source-wordcount: '363'
 ht-degree: 3%
-
 ---
-
 # Editar el HTML de un correo electrónico {#edit-an-emails-html}
 
 A veces, es posible que tenga que modificar la HTML subyacente de un correo electrónico. A veces puede utilizar un sistema externo para diseñar y crear el código del correo electrónico. En cualquier caso, puede importar o editar fácilmente código desde el editor de correo electrónico.

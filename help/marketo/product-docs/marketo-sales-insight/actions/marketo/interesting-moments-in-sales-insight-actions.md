@@ -3,16 +3,18 @@ description: Conozca los momentos interesantes de las acciones de Sales Insight.
 title: Momentos interesantes en las acciones de Insight de ventas
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0
+TQID: 'https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 2%
-
 ---
-
 # Momentos interesantes en [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
 Momentos interesantes son la clave para comunicarse con su equipo de ventas a través de [!DNL Marketo Sales Insight Actions].

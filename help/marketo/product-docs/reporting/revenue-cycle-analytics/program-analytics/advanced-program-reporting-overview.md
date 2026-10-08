@@ -4,13 +4,19 @@ description: Obtenga información sobre la información general avanzada de info
 title: Información general sobre el sistema de informes avanzado de programas
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
-
 ---
-
 # Información general sobre el sistema de informes avanzado de programas {#advanced-program-reporting-overview}
 
 **Explorador del ciclo de ingresos** incluye varias áreas de análisis y una amplia gama de nuevas métricas que le permiten medir la efectividad del programa.

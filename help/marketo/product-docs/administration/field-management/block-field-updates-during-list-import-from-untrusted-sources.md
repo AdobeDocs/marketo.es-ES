@@ -4,20 +4,26 @@ description: Impida que los campos clave se sobrescriban durante las importacion
 title: Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-TQID: https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY
+TQID: 'https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 10%
-
 ---
-
 # Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza {#block-field-updates-during-list-import-from-untrusted-sources}
 
 Puede confiar más en los datos de algunas listas que en otras. A veces, los datos son cuestionables y se desea aceptar si el campo está en blanco, pero no si existe un valor. Para ello, bloquee las actualizaciones de los campos de los campos clave.

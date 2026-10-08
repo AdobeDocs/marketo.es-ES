@@ -3,21 +3,25 @@ description: Obtenga información sobre cómo insertar un segmento de Adobe Expe
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60
+TQID: 'https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 683
+source-wordcount: '683'
 ht-degree: 3%
-
 ---
-
 # Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 Esta función le permite insertar segmentos ubicados en su Adobe Experience Platform en Marketo Engage en forma de lista estática.
@@ -107,7 +111,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
+   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Use [Describir solicitud de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar los campos de atributo a los que su organización tiene acceso.
 
 1. Asigne los apellidos y el nombre de la compañía haciendo clic en **[!UICONTROL Agregar nueva asignación]** de nuevo y repitiendo el paso 15 dos veces, eligiendo **[!UICONTROL lastName]** y luego **[!UICONTROL companyName]**.
 

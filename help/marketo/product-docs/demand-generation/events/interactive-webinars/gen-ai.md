@@ -3,16 +3,18 @@ description: Obtenga información sobre las funciones de GenAI en los seminarios
 title: Funciones de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 694
+source-wordcount: '694'
 ht-degree: 0%
-
 ---
-
 # Funciones de GenAI {#gen-ai-features}
 
 Genere automáticamente capítulos y resúmenes para sus seminarios web grabados, lo que los hace más accesibles y fáciles de navegar para su audiencia.
@@ -65,9 +67,9 @@ Después de aceptar los términos y condiciones de Adobe GenAI, el siguiente pas
 
    * Combine dos capítulos consecutivos seleccionándolos y haciendo clic en **[!UICONTROL Combinar]**.
 
-      * AI genera un capítulo compuesto formado por los dos capítulos seleccionados
+     * AI genera un capítulo compuesto formado por los dos capítulos seleccionados
 
-      * Para combinar varios capítulos, debe hacer dos a la vez
+     * Para combinar varios capítulos, debe hacer dos a la vez
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 

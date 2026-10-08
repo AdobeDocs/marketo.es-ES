@@ -3,18 +3,20 @@ description: Obtenga información sobre cómo enviar un mensaje SMS mediante un 
 title: Enviar un mensaje SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-TQID: https://experienceleague.adobe.com/F-M5VulzDeqzUGcnAE58xOrQohBjEZ2rp40G7OEwxeY
+TQID: 'https://experienceleague.adobe.com/F-M5VulzDeqzUGcnAE58xOrQohBjEZ2rp40G7OEwxeY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 342
+source-wordcount: '342'
 ht-degree: 2%
-
 ---
-
 # Enviar un mensaje SMS {#send-a-vibes-sms-message}
 
 Has [creado tu mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, ahora es el momento de enviarlo. Puede enviarlo por lotes o mediante la campaña de Déclencheur.

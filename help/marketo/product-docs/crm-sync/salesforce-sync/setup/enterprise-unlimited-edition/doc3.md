@@ -2,15 +2,22 @@
 description: Aprenda a conectar Marketo y Salesforce en el paso final Enterprise o Unlimited. Recupere el token de seguridad del usuario de sincronización y establezca las credenciales en el Administrador de Marketo.
 title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (empresarial/ilimitada)'
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 8%
-
 ---
-
 # Paso 3 de 3: Conectar Marketo y Salesforce (para empresas y sin límites) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 En este artículo, configurará Marketo Engage para que se sincronice con la instancia de Salesforce configurada.

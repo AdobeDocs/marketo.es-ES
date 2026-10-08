@@ -4,21 +4,25 @@ description: Obtenga información sobre cómo instalar y configurar Marketo Sale
 title: Instalar y configurar Marketo Sales Insight en Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/ILDX3tNq-X0E6jVl5NY8EHw5lGwFEcgXh5yz4Q7zfhs
+TQID: 'https://experienceleague.adobe.com/ILDX3tNq-X0E6jVl5NY8EHw5lGwFEcgXh5yz4Q7zfhs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: '469'
 ht-degree: 5%
-
 ---
-
 # Instalar y configurar [!DNL Marketo Sales Insight] en [!DNL Microsoft Dynamics Online] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
 [!DNL Marketo Sales Insight] es una herramienta fantástica para ofrecer a su equipo de ventas una &quot;ventana&quot; sobre la gran cantidad de datos que tiene el equipo de marketing. Así se instala y configura en [!DNL Microsoft Dynamics Online].

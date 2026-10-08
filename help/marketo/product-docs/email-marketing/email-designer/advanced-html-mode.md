@@ -6,13 +6,23 @@ description: Obtenga información sobre cómo ver y editar el código fuente de 
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
-
 ---
-
 # Edición de plantillas de correo electrónico con el editor avanzado de HTML {#advanced-html-mode}
 
 El modo avanzado de HTML le permite ver y editar el código fuente sin procesar de las plantillas de correo electrónico directamente desde la interfaz de Designer de correo electrónico [!DNL Marketo Engage].

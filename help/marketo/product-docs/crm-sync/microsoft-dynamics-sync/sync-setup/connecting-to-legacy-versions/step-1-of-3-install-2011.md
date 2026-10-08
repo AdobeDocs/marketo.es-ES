@@ -4,16 +4,21 @@ description: Obtenga información sobre cómo instalar la solución de Marketo p
 title: 'Paso 1 de 3: Instalación de la solución de Marketo (local de 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk
+TQID: 'https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: '304'
 ht-degree: 6%
-
 ---
-
 # Paso 1 de 3: Instalar la solución de Marketo (2011, local) {#step-of-install-the-marketo-solution-on-premises}
 
 Para poder sincronizar [!DNL Microsoft Dynamics] On-Premies y Marketo, primero debe instalar la solución Marketo en [!DNL Dynamics].

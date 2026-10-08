@@ -4,16 +4,18 @@ description: Aprenda a definir patrones de URL para que el contenido predictivo 
 title: Crear patrones de contenido
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '406'
 ht-degree: 1%
-
 ---
-
 # Crear patrones de contenido {#create-content-patterns}
 
 Cuando se establecen patrones de contenido, este se detecta automáticamente cuando un visitante web hace clic en la página web de HTML correspondiente al patrón de contenido. Se utiliza para añadir páginas de HTML (publicaciones de blog, comunicados de prensa, artículos de noticias) como piezas de contenido a la página Todo el contenido. Cuando la detección automática se basa en patrones de contenido, detecta y rastrea páginas de HTML relacionadas con el patrón de URL definido cuando un visitante web ve o hace clic en un vínculo a la página. Este fragmento de contenido (la URL, el nombre de página y los metadatos, incluida la URL y la descripción de la imagen) se añade a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como PDF y vídeo incrustado, debe [habilitar la detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).

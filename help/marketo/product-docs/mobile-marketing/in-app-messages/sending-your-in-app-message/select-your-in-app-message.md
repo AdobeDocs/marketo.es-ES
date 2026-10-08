@@ -4,16 +4,18 @@ description: Obtenga información sobre cómo seleccionar el mensaje en la aplic
 title: Previsualizar el mensaje en la aplicación
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE
+TQID: 'https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: '136'
 ht-degree: 7%
-
 ---
-
 # Previsualizar el mensaje en la aplicación {#select-your-in-app-message}
 
 Aquí es donde selecciona el mensaje que creó para utilizarlo en el programa.

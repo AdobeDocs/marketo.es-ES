@@ -3,27 +3,36 @@ description: Configure la sección Base de datos para la nueva instancia de Mark
 title: 'Nuevas prácticas recomendadas para instancias: lista de comprobación de bases de datos'
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-TQID: https://experienceleague.adobe.com/yHZP1MXkAnmnz3zeucu2Bdm6FrCVtmnX9opKWiIJTAA
+TQID: 'https://experienceleague.adobe.com/yHZP1MXkAnmnz3zeucu2Bdm6FrCVtmnX9opKWiIJTAA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 451
+source-wordcount: '451'
 ht-degree: 7%
-
 ---
-
 # Prácticas recomendadas para nuevas instancias: Lista de comprobación de la base de datos {#new-instance-best-practices-database-checklist}
 
 La sección Base de datos es donde encontrará los atributos clave de las personas de la instancia. Obtenga más información sobre los pasos necesarios para navegar por diferentes listas y segmentaciones de la base de datos, así como para administrar registros de personas.
@@ -43,26 +52,26 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
   <tr>
     <td>Todas las personas</td>
     <td><li>Determine la implementación de una sincronización 1:1 con su CRM o la aplicación de filtros para limitar quién se mueve de un sistema a otro y cuándo.</li>
-    <li>Revise la cantidad total de personas y personas comercializables en su <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=es" target="_blank">base de datos de Marketo Engage</a>.</li></td>
+    <li>Revise la cantidad total de personas y personas comercializables en su <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">base de datos de Marketo Engage</a>.</li></td>
   </tr>
   <tr>
     <td>Lista de bloqueados</td>
-    <td><li>Defina los criterios de lista de bloqueados. Considere la posibilidad de agregar los dominios de la competencia a su <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=es" target="_blank">lista de bloqueados</a> para evitar que reciban cualquiera de sus correos electrónicos.</li></td>
+    <td><li>Defina los criterios de lista de bloqueados. Considere la posibilidad de agregar los dominios de la competencia a su <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">lista de bloqueados</a> para evitar que reciban cualquiera de sus correos electrónicos.</li></td>
   </tr>
   <tr>
     <td>Marketing suspendido</td>
-    <td><li>Definir <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">criterios de marketing suspendido</a>.</li></td>
+    <td><li>Definir <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">criterios de marketing suspendido</a>.</li></td>
   </tr>
   <tr>
     <td>Direcciones de email rechazadas </td>
     <td><li>Defina los criterios para las direcciones de correo electrónico devueltas.</li>
-    <li>Revise las personas en la categoría "Correo electrónico no válido" y determine si sus correos electrónicos deben <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=es" target="_blank">restablecerse manualmente</a>.</li></td>
+    <li>Revise las personas en la categoría "Correo electrónico no válido" y determine si sus correos electrónicos deben <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">restablecerse manualmente</a>.</li></td>
   </tr>
   <tr>
     <td>Duplicados posibles</td>
     <td><li>Revise las personas en la lista de posibles duplicados.</li>
-    <li>Defina su estrategia de administración de duplicados para determinar si desea <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=es" target="_blank">combinar personas manualmente</a>.</li>
-    <li>Si tiene una integración de CRM, defina un proceso y una cuenta para <a href="https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">el efecto de combinar posibles clientes en su CRM</a>.</li></td>
+    <li>Defina su estrategia de administración de duplicados para determinar si desea <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">combinar personas manualmente</a>.</li>
+    <li>Si tiene una integración de CRM, defina un proceso y una cuenta para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">el efecto de combinar posibles clientes en su CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Sin programa de adquisición</td>
@@ -70,7 +79,7 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Personas que cancelaron su suscripción</td>
-    <td><li>Revisa tus criterios para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=es" target="_blank">Personas que cancelaron la suscripción</a>.</li></td>
+    <td><li>Revisa tus criterios para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">Personas que cancelaron la suscripción</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +114,7 @@ Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Segmentación</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=es" target="_blank">Cree segmentaciones</a> basadas en sus necesidades comerciales. Cada suscripción está limitada a 20 segmentaciones y 100 segmentos dentro de cada segmentación.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">Cree segmentaciones</a> basadas en sus necesidades comerciales. Cada suscripción está limitada a 20 segmentaciones y 100 segmentos dentro de cada segmentación.</li></td>
   </tr>
 </tbody>
 </table>

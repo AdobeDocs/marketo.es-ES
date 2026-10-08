@@ -3,13 +3,17 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 5%
-
 ---
-
 # Instancia heredada: Lista de comprobación de Design Studio {#inherited-instance-design-studio-checklist}
 
 Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivos globales ayudará a minimizar los errores de datos y a optimizar el flujo de trabajo de la compilación del programa. Recuerde [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) y realizar un seguimiento de su progreso.
@@ -25,7 +29,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr>
    <td>Páginas de destino globales</td>
    <td><li>¿Cuántas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">páginas de aterrizaje</a> globales hay? ¿Los utilizan los programas?</li>
-   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=es" target="_blank">centro de suscripciones</a>?
+   <li>¿Tiene configurado un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro de suscripciones</a>?
    <br/> Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
   <tr>

@@ -4,16 +4,18 @@ description: Conozca los momentos interesantes de Sales Connect y Marketo. Descu
 title: Momentos interesantes en Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+TQID: 'https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 1%
-
 ---
-
 # Momentos interesantes en [!DNL Sales Connect] {#interesting-moments-in-sales-connect}
 
 Momentos interesantes son la clave para comunicarse con su equipo de ventas a través de [!DNL Marketo Sales Connect].

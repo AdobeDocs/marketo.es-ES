@@ -4,20 +4,23 @@ description: Obtenga información acerca del remarketing personalizado en facebo
 title: Remarketing personalizado en Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+TQID: 'https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 343
+source-wordcount: '343'
 ht-degree: 6%
-
 ---
-
 # Remarketing personalizado en [!DNL Facebook] {#personalized-remarketing-in-facebook}
 
 El remarketing personalizado le permite volver a interactuar con los usuarios mediante datos RTP y el poder del remarketing de Facebook.
@@ -25,7 +28,7 @@ El remarketing personalizado le permite volver a interactuar con los usuarios me
 >[!PREREQUISITES]
 >
 >* Complete la configuración [Redireccionamiento con datos de Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Revise la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) y remarketing.
+>* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) y remarketing.
 
 ## Creando una audiencia en [!DNL Facebook] {#creating-an-audience-in-facebook}
 

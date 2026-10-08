@@ -3,16 +3,18 @@ description: Obtenga información acerca de los canales de entrega para enviar c
 title: Información general sobre el canal de entrega
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '679'
 ht-degree: 0%
-
 ---
-
 # Información general sobre el canal de entrega {#delivery-channel-overview}
 
 Marketo Sales le ofrece varias opciones para enviar correos electrónicos. Este artículo revisa los canales de envío que puede aprovechar, cómo seleccionarlos y cuándo elegir uno sobre otro.
@@ -57,7 +59,7 @@ Los servidores MSC no admiten los métodos de autenticación DKIM y SPF, lo que 
 
 ## Servidores Marketo {#marketo-servers}
 
-Los servidores de correo electrónico de Marketo no se integran con Marketo Sales. Los servidores Marketo están optimizados para la entrega masiva, lo que les permite ampliarse según las necesidades de los especialistas en marketing. Sin embargo, Gmail y [!DNL Exchange] tienen una tasa de éxito mayor para la comunicación de ventas de 1:1, por lo que recomendamos utilizar estos servidores para la comunicación de ventas.
+Los servidores de correo electrónico de Marketo no se integran con Marketo Sales. Los servidores Marketo están optimizados para la entrega masiva, lo que les permite ampliarse según las necesidades de los especialistas en marketing. Sin embargo, Gmail y [!DNL Exchange] tienen una tasa de éxito mayor para la comunicación de ventas 1:1, por lo que recomendamos utilizar estos servidores para la comunicación de ventas.
 
 >[!MORELIKETHIS]
 >

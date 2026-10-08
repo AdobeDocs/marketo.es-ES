@@ -3,16 +3,18 @@ description: Obtenga información sobre cómo configurar las opciones de Campañ
 title: Configuración de la campaña de ventas
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0
+TQID: 'https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 5%
-
 ---
-
 # Configuración de la campaña de ventas {#sales-campaign-settings}
 
 La sección de configuración de la campaña de ventas le permite configurar una campaña de ventas específica para que funcione de la mejor manera posible en los casos de uso de su equipo para esa campaña de ventas.

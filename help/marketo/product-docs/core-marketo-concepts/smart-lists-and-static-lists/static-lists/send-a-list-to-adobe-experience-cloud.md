@@ -4,22 +4,27 @@ description: Obtenga información sobre cómo enviar una lista a Adobe Experienc
 title: Enviar una lista a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 847
+source-wordcount: '847'
 ht-degree: 3%
-
 ---
-
 # Enviar una lista a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -65,7 +70,7 @@ Una lista estática es estática. No se producirán cambios en la lista de Adobe
 
 ## Cómo enviar una lista sincronizada {#how-to-send-a-synced-list}
 
-Sincronizar una lista significa que, cada vez que actualice una lista en Marketo, ese cambio se sincroniza automáticamente con su audiencia en Adobe Experience Cloud.
+La sincronización de una lista significa que, cada vez que actualice una lista en Marketo, ese cambio se sincroniza automáticamente con su audiencia en Adobe Experience Cloud.
 
 1. En Marketo, busque la lista que desee exportar. Haga clic con el botón derecho en él y seleccione **[!UICONTROL Enviar a Experience Cloud]**.
 
@@ -103,9 +108,9 @@ Puede detener la sincronización de la lista en cualquier momento.
 
 ### Uso compartido en Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=es){target="_blank"} para obtener más información sobre cómo configurarla.
+* Para los usuarios que poseen Adobe Audience Manager y Adobe Analytics, esta integración permite compartir audiencias desde Marketo a sus grupos de informes de Adobe Analytics. Sin embargo, hay que seguir algunos pasos de configuración adicionales en Adobe Audience Manager para habilitar esta opción. Consulte la [documentación de Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obtener más información sobre cómo configurarla.
 
-* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [debe estar habilitada en Adobe Target](https://experienceleague.adobe.com/es/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Una vez cargada una lista desde Marketo a Adobe Audience Manager, también se puede acceder a ella desde Adobe Target. Esa configuración [debe estar habilitada en Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Si una lista está vacía o no tiene personas con valores ECID, el nombre de la lista no se insertará para que se haga referencia fuera de Marketo.
 

@@ -4,23 +4,28 @@ description: Obtenga información acerca de la sintaxis de las plantillas de cor
 title: Sintaxis de la plantilla de correo electrónico
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # Sintaxis de la plantilla de correo electrónico {#email-template-syntax}
 
 En la nueva experiencia de correo electrónico de Marketo 2.0, las plantillas de correo electrónico están compuestas por cualquier combinación de elementos, variables, módulos o contenedores. Cada uno se define añadiendo sintaxis específica de Marketo a la HTML. Las plantillas de correo electrónico antiguas (versión 1.0) se admiten en el Editor de correo electrónico 2.0; sin embargo, no incluirán todas las funciones del nuevo Editor.
 
-La sintaxis del correo electrónico de Marketo solo funciona en plantillas y correos electrónicos individuales; **no** funciona si está incrustada en fragmentos o tókenes de texto enriquecido.
+La sintaxis del correo electrónico de Marketo solo funciona en plantillas y correos electrónicos individuales; **no** funciona si está incrustada en fragmentos o tokens de texto enriquecido.
 
 >[!NOTE]
 >
@@ -167,7 +172,7 @@ Por ejemplo:
 
 ## Variables {#variables}
 
-Las variables son como tókenes. Primero debe definirlas dentro de la sección `<head>` de la plantilla de correo electrónico mediante las etiquetas `<meta>` y, a continuación, utilizarlas tantas veces como desee en toda la plantilla. Dado que se definen en la plantilla, el usuario final podrá modificar sus valores según sus reglas. Tenga en cuenta que puede definir una variable como de ámbito local o global. Si utiliza una variable dentro de un “módulo” (consulte a continuación) y un usuario final duplica ese módulo, las variables locales tendrán valores independientes, mientras que las variables globales se aplicarán a ambos módulos.
+Las variables son como tokens. Primero debe definirlas dentro de la sección `<head>` de la plantilla de correo electrónico mediante las etiquetas `<meta>` y, a continuación, utilizarlas tantas veces como desee en toda la plantilla. Dado que se definen en la plantilla, el usuario final podrá modificar sus valores según sus reglas. Tenga en cuenta que puede definir una variable como de ámbito local o global. Si utiliza una variable dentro de un “módulo” (consulte a continuación) y un usuario final duplica ese módulo, las variables locales tendrán valores independientes, mientras que las variables globales se aplicarán a ambos módulos.
 
 ## Cadena {#string}
 

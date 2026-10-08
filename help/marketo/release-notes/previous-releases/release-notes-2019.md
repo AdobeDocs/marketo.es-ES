@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: '2019: Documentos de Marketo: documentación del producto'
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 0%
-
 ---
-
 # 2019
 
 ## Invierno de 2019 {#winter}
@@ -83,8 +114,8 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Servicio de correo electrónico**: disfruta de una mejor capacidad de envío, además de un seguimiento de respuestas mejorado, funcionalidad de correo electrónico programado y funcionalidad de correo electrónico masivo al conectarte a [!DNL Microsoft Outlook] (ya sea a través de Office365 o en la ubicación local a través de la pestaña Conexión de correo electrónico).
 * **Nueva configuración de administración**: se han agregado dos páginas de administración para optimizar la instancia de participación en ventas
 
-   * *Team Management* admite un proceso de configuración de cuenta sin problemas, ya que permite a los administradores editar suscripciones y equipos.
-   * *Configuración de administración de Salesforce* ayuda a los equipos a configurar la sincronización de SFDC de forma más rápida y sencilla que nunca.
+  * *Team Management* admite un proceso de configuración de cuenta sin problemas, ya que permite a los administradores editar suscripciones y equipos.
+  * *Configuración de administración de Salesforce* ayuda a los equipos a configurar la sincronización de SFDC de forma más rápida y sencilla que nunca.
 
 * **Complemento de OWA para[!DNL Windows]**: con un solo complemento, se admitirán todos los clientes de [!DNL Windows Office365] en Sales Engage, lo que permitirá usar Live Feed en Outlook. El nuevo complemento estará disponible en la Tienda Microsoft.
 * **Propulsor de actividades**: sincronice el compromiso de ventas con la plataforma principal de Marketo para aprovechar las perspectivas de marketing en tiempo real.
@@ -226,8 +257,8 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 
 * **Límites para eventos** y **Objetivos de eventos** están disponibles generalmente en [!DNL Marketo Sky] bajo el complemento Eventos Premium.
 
-   * Límites de eventos: optimice la experiencia del cliente con sus eventos y seminarios web con límites de registro, redirecciones de páginas y funciones de listas de espera.
-   * Objetivos del evento: establezca los objetivos de registro y asistencia del evento y realice un seguimiento del progreso en tiempo real.
+  * Límites de eventos: optimice la experiencia del cliente con sus eventos y seminarios web con límites de registro, redirecciones de páginas y funciones de listas de espera.
+  * Objetivos del evento: establezca los objetivos de registro y asistencia del evento y realice un seguimiento del progreso en tiempo real.
 
 * **Vínculos de navegación completos**: Hemos habilitado la navegación en todas las aplicaciones con permisos, como Hootsuite, Calendar y más.
 * **Vistas de correo electrónico, página de aterrizaje, fragmento, formulario, imagen y lista de archivos**: vea, busque y realice acciones masivas en cualquiera de sus recursos en Design Studio.
@@ -252,7 +283,7 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Integración de Drift**: Entienda cómo las conversaciones de Drift afectan el recorrido de su cliente. [!DNL Bizible] también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: [!DNL Bizible] ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
-_&#x200B;**Seminario web sobre la versión del producto**&#x200B;_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Seminario web sobre la versión del producto**_ Vea la grabación de nuestro seminario web sobre innovaciones en la versión de junio de 2019 [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
 
 ## Agosto de 2019 {#august}
 
@@ -293,5 +324,5 @@ Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante
 >
 >**Para mantener su acceso a Marketo Engage, asegúrese de que todos los sistemas cliente sean compatibles con TLS 1.2 antes del 13 de diciembre de 2019**. Encontrará información más detallada [aquí](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/August_19_Release_Webinar.html) el 28 de agosto a las 1:00PM PT / 4:00PM ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.
+**_Seminario web sobre la versión del producto_** [Únase a nosotros](https://engage.marketo.com/August_19_Release_Webinar.html) el 28 de agosto a las 1:00 p.m. PT / 4:00 p.m. ET para asistir a un seminario web en directo organizado por nuestro equipo de productos y obtener más información sobre las funciones incluidas en esta versión.
 

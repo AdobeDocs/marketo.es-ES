@@ -4,16 +4,18 @@ description: Más información sobre el Teléfono de ventas en Sales Connect. Re
 title: Información general sobre el teléfono de ventas
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY
+TQID: 'https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: '312'
 ht-degree: 1%
-
 ---
-
 # Información general sobre el teléfono de ventas {#sales-phone-overview}
 
 ## ¿Por qué teléfono de ventas? {#why-sales-phone}

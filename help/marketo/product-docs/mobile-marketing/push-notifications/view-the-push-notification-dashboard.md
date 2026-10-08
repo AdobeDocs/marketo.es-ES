@@ -4,16 +4,18 @@ description: Obtenga información sobre cómo ver el panel de notificaciones pus
 title: Ver el tablero de notificaciones push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA
+TQID: 'https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 143
+source-wordcount: '143'
 ht-degree: 11%
-
 ---
-
 # Ver el tablero de notificaciones push {#view-the-push-notification-dashboard}
 
 Es fácil ver cómo van sus notificaciones push.

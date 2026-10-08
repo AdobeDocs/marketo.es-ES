@@ -4,16 +4,18 @@ description: Obtenga información sobre las opciones de envío masivo en Sales C
 title: Opciones de envío masivo
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+TQID: 'https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 4%
-
 ---
-
 # Opciones de envío masivo {#bulk-sending-options}
 
 Enviar correos electrónicos por lotes es una buena manera de acelerar la participación de sus posibles clientes. [!DNL Sales Connect] ofrece dos formas de enviar correos electrónicos de forma masiva: **Correos electrónicos de grupo** y **Seleccionar y enviar**. Los correos electrónicos de grupo son una buena manera de enviar rápidamente cientos de correos electrónicos a un grupo objetivo. Usar Seleccionar y Enviar significa reducir los límites de correo electrónico, pero ofrece más oportunidades de personalización al usuario.

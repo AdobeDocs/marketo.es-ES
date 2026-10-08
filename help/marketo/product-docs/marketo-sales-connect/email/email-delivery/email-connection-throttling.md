@@ -3,19 +3,21 @@ description: Obtenga información acerca de la limitación de conexiones de corr
 title: Limitación de la conexión de correo electrónico
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '409'
 ht-degree: 2%
-
 ---
-
 # Limitación de la conexión de correo electrónico {#email-connection-throttling}
 
-La integración de su cuenta de [!DNL Sales Connect] para enviar a través de [!DNL Exchange] o proveedores de correo electrónico de Gmail ofrece una configuración optimizada y optimiza la capacidad de envío de correo electrónico para la comunicación de ventas de 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y Exchange aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
+Al integrar su cuenta de [!DNL Sales Connect] para enviar a través de [!DNL Exchange] o proveedores de correo electrónico de Gmail, se ofrece una configuración optimizada y se optimiza la capacidad de envío de correo electrónico para la comunicación de ventas 1:1. Sin embargo, para mantener los sistemas en buen estado y las cuentas seguras, Gmail y Exchange aplican límites de envío de correo electrónico. Estos límites están abiertos a ser aumentados o disminuidos a discreción de los proveedores.
 
 ## Información general {#overview}
 

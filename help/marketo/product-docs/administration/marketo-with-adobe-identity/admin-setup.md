@@ -3,22 +3,26 @@ description: Pasos de configuración iniciales para administradores del sistema 
 title: Ajustes de administración
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI
+TQID: 'https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 4%
-
 ---
-
 # Ajustes de administración {#admin-setup}
 
 Después de agregarlo como administrador del sistema de Adobe a Marketo Engage en una organización de Adobe, deberá seguir algunos pasos para completar la configuración inicial.
@@ -29,7 +33,7 @@ Después de agregarlo como administrador del sistema de Adobe a Marketo Engage e
 
    ![](assets/admin-setup-1.png)
 
-1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/es/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Si ya ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 

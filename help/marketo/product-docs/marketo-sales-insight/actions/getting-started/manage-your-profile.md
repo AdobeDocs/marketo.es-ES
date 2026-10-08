@@ -1,13 +1,14 @@
 ---
 description: Obtenga información sobre cómo administrar su perfil de acciones de Insight de ventas. Actualice las preferencias de nombre, correo electrónico, firma y notificación en Configuración.
 title: Administrar su perfil
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 8%
-
 ---
-
 # Administrar su perfil {#manage-your-profile}
 
 En la página Mi perfil, puede actualizar su nombre, el idioma, la configuración regional y la zona horaria de su cuenta y cambiar la contraseña.

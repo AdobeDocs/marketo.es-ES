@@ -4,16 +4,18 @@ description: Aprenda a crear su evento de seminario web en ON24 para utilizarlo 
 title: Crear su evento de seminario web en ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
+TQID: 'https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 6%
-
 ---
-
 # Crear su evento de seminario web en ON24 {#create-your-webinar-event-in-on}
 
 Después de crear el seminario web en ON24, puede crear un evento de Marketo y asociarlo al seminario web ON24. Esto permite que los sistemas compartan la información de registro y asistencia. Tome nota de la dirección URL y otra información para usarla en el correo electrónico de confirmación y en el archivo ICS.

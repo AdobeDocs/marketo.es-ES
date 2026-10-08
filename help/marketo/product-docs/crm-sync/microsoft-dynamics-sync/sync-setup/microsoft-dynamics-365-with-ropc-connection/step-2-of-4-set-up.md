@@ -3,18 +3,24 @@ description: Aprenda a configurar la solución Marketo con conexión ROPC. Cree 
 title: 'Paso 2 de 4: Configuración de la solución Marketo con la conexión de control de contraseña del propietario de los recursos'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+TQID: 'https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 453
+source-wordcount: '453'
 ht-degree: 0%
-
 ---
-
 # Paso 2 de 4: Configurar la solución de Marketo con la conexión de control de contraseña del propietario de los recursos {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Cree una cuenta de usuario.
@@ -79,7 +85,7 @@ Asigne la función Usuario de sincronización de Marketo únicamente al usuario 
 
 >[!IMPORTANT]
 >
->La configuración de idioma del usuario de sincronización [&#x200B; debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>La configuración de idioma del usuario de sincronización [ debe establecerse en inglés](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Vuelva a la ficha [!UICONTROL Usuarios habilitados] y actualice la lista de usuarios.
 

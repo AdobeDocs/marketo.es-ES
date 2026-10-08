@@ -2,15 +2,22 @@
 description: Documento temporal para la nueva versión beta de Designer de correo electrónico. Añada recursos y utilice el diseñador para pruebas beta (ocultar de la tabla de contenido).
 title: Doc temporal
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Email Editor
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 21%
-
 ---
-
 # Doc temporal {#temp-doc}
 
 ## Copiar debajo de esta parte {#copy}

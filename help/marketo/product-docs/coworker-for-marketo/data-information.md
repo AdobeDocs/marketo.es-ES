@@ -1,7 +1,10 @@
 ---
 description: Revise el ámbito de datos de CX Enterprise Coworker para Marketo Engage, los controles de gobernanza y las consideraciones PII en los flujos de trabajo clave, como la importación de posibles clientes, el control de calidad del programa y la normalización de datos.
 title: Hoja de información de datos de CX Enterprise Coworker for Marketo Engage
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%
@@ -66,7 +69,7 @@ Además de los enumerados, considere la posibilidad de utilizar CX Enterprise Co
 
 **Elegibilidad:** El aprovisionamiento se limita a los usuarios de Marketo Engage que han aceptado los [términos de Core Gen-AI y los términos suplementarios](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
-**Modelo de despliegue:** La implementación progresa a través de Alpha y Private Beta antes de una expansión de Public Beta más amplia y, finalmente, de la disponibilidad general.
+**Modelo de despliegue:** La implementación progresa a través de Alpha y Private beta antes de una expansión de Public Beta más amplia y, finalmente, de la disponibilidad general.
 
 **Ámbito geográfico:** La versión inicial está destinada a usuarios globales de Marketo Engage, excluida China continental.
 

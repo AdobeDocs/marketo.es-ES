@@ -1,13 +1,14 @@
 ---
 description: Obtenga información sobre cómo programar un correo electrónico de ventas para su entrega posterior. Defina la fecha y la hora al maquetar en Acciones de Insight de ventas o en su bandeja de entrada.
 title: Programar un correo electrónico
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 4%
-
 ---
-
 # Programar un correo electrónico {#scheduling-an-email}
 
 Siga estos sencillos pasos para programar un correo electrónico.

@@ -4,16 +4,18 @@ description: Obtenga información sobre los estados de programas de seminarios w
 title: Explicación de los estados del programa del seminario web
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-TQID: https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4
+TQID: 'https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 1%
-
 ---
-
 # Explicación de los estados del programa del seminario web {#understanding-webinar-program-statuses}
 
 Los estados de programa representan los diferentes estados de evento por los que progresa una persona como miembro del evento. Están asociados a un tipo de canal. Marketo tiene un tipo de canal integrado llamado **Seminario web**. Los estados se pueden utilizar en campañas por lotes y de déclencheur.

@@ -3,20 +3,23 @@ description: Obtenga información sobre cómo eliminar el acceso de Sales Insigh
 title: Eliminar el acceso de Insight de ventas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+TQID: 'https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '387'
 ht-degree: 4%
-
 ---
-
 # Eliminar el acceso de [!DNL Sales Insight] {#remove-sales-insight-access}
 
 Siga estos pasos para quitar el acceso a las características de [!DNL Sales Insight] en [!DNL Salesforce]. Aplicable a [!DNL Salesforce] Classic y Lightning.

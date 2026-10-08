@@ -1,22 +1,25 @@
 ---
 description: Aprenda a configurar la nueva instancia de Sales Connect. Siga los pasos para acceder a la cuenta, invitar a usuarios, conectar Salesforce y Marketo.
-title: Guía de introducción para  [!DNL Sales Connect] administradores
+title: Guía de introducción para administradores de [!DNL Sales Connect]
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+TQID: 'https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: '478'
 ht-degree: 0%
-
 ---
-
 # Guía de introducción para administradores de [!DNL Sales Connect] {#getting-started-guide-for-sales-connect-admins}
 
 Este documento lo llevará a través de los pasos iniciales para configurar su nueva instancia de [!DNL Sales Connect]. Algunos de estos pasos requerirán acceso como administrador de Marketo, administrador de [!DNL Salesforce] y administrador de [!DNL Sales Connect]. Siga nuestras guías a continuación para completar la configuración de la instancia.

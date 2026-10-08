@@ -4,18 +4,23 @@ description: Obtenga información acerca de los grupos de prueba de página de a
 title: Grupos de prueba de la página de destino
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+TQID: 'https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 3%
-
 ---
-
 # Grupos de prueba de la página de destino {#landing-page-test-groups}
 
 Marketo realiza un seguimiento del número de vistas de página y de las finalizaciones de formularios de cada página probada dentro de un grupo de prueba. Puede utilizar los resultados de grupos de prueba para decidir qué página de aterrizaje es la más atractiva. A continuación se indica cómo crear un grupo de prueba.

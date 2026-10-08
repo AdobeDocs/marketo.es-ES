@@ -3,25 +3,27 @@ description: Obtenga información sobre cómo crear un mensaje SMS. Añada texto
 title: Crear un mensaje SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-TQID: https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro
+TQID: 'https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 502
+source-wordcount: '502'
 ht-degree: 3%
-
 ---
-
 # Crear un mensaje SMS {#create-an-sms-message}
 
 A continuación se muestra cómo crear un mensaje SMS.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se pueda aprovisionar correctamente, debe adquirirse a través de Adobe. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, se puede utilizar una conexión a través de Webhooks de Marketo poniéndose en contacto directamente con Vibes[&#128279;](https://www.vibes.com/talk-to-sales).
+>Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se pueda aprovisionar correctamente, debe adquirirse a través de Adobe. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información. La integración nativa de Marketo Vibes SMS está disponible en Estados Unidos y Canadá. Para otros países, se puede utilizar una conexión a través de Webhooks de Marketo poniéndose en contacto directamente con Vibes](https://www.vibes.com/talk-to-sales).[
 
 >[!PREREQUISITES]
 >

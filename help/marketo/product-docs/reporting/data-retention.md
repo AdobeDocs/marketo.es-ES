@@ -2,13 +2,17 @@
 description: Descubra cómo las políticas de retención de datos de 25 meses y 90 días de Marketo afectan a los informes de Analytics, con un desglose por informe y sugerencias para retener los datos durante más tiempo.
 title: Retención de datos
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Política de retención de datos de la actividad de Marketo: impacto en la creación de informes
 
 Marketo conserva los datos de actividad de marketing de forma gradual. Los datos de actividad y pertenencia a campañas se almacenan durante un periodo móvil de 25 meses a partir de la fecha de actividad y los datos de actividad de gran volumen se conservan durante un periodo móvil de 90 días a partir de la fecha de actividad de forma predeterminada, que se puede ajustar por usuario. Más allá de estos períodos de retención, los datos ya no están disponibles a través de la interfaz de usuario de Marketo.
@@ -93,7 +97,7 @@ Muchos usuarios pueden considerar obsoletos los datos de actividad anteriores a 
 
 ## Exportación de datos
 
-Marketo ofrece la [API de REST de extracción masiva](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que le permite exportar actividades de personas y hospedarlas localmente. Una vez que los datos se extraen a través de la API, puede almacenarlos y ordenarlos según sea necesario para su caso de uso.
+Marketo ofrece la [API de REST de extracción masiva](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que le permite exportar actividades de personas y hospedarlas localmente. Una vez que los datos se extraen a través de la API, puede almacenarlos y ordenarlos según sea necesario para su caso de uso.
 
 >[!TIP]
 >

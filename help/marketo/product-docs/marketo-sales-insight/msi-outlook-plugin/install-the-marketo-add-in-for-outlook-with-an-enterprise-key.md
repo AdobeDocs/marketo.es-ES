@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377488
 description: Obtenga información sobre cómo instalar el complemento de Marketo para Outlook con una clave empresarial. Implemente el complemento para su organización mediante una clave de empresa.
-title: Instale el complemento de Marketo para  [!DNL Outlook]  con una clave de empresa
+title: Instalar el complemento de Marketo para [!DNL Outlook] con una clave de empresa
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+TQID: 'https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '320'
 ht-degree: 2%
-
 ---
-
 # Instalar el complemento de Marketo para [!DNL Outlook] con una clave de empresa {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 Muchas veces, los representantes de ventas no tienen privilegios administrativos en sus portátiles, y sus equipos de TI son responsables de instalar todo el software de forma remota. El complemento de Marketo para Outlook se puede instalar de esta manera con la clave de empresa, que se encuentra en la sección Sales Insight del Administrador. Si no ve el botón Ver clave de empresa, póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitarlo.

@@ -1,30 +1,38 @@
 ---
 unique-page-id: 10096583
-description: Preguntas más frecuentes sobre el despliegue de seguimiento de  [!DNL Munchkin] próxima generación y el cambio de filtro de Is Anonymous.
-title: Preguntas frecuentes sobre seguimiento  [!DNL Munchkin] de próxima generación
+description: Preguntas más frecuentes sobre el despliegue de seguimiento de [!DNL Munchkin] de próxima generación y el cambio de filtro Es anónimo.
+title: Preguntas frecuentes sobre el seguimiento de [!DNL Munchkin] de próxima generación
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+TQID: 'https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: '710'
 ht-degree: 0%
-
 ---
-
 # Preguntas frecuentes sobre el seguimiento de [!DNL Munchkin] de próxima generación {#next-generation-munchkin-tracking-faq}
 
 Marketo está implementando la tecnología de seguimiento web de próxima generación por fases.
@@ -57,7 +65,9 @@ Si ya está utilizando este filtro en una lista inteligente (por ejemplo, en una
 
 >[!NOTE]
 >
->**Déclencheur**: visita la página web, la página web es una página de precios >**Flujo**: cambiar puntuación +10 y momento interesante >**Web**: página de precios vista
+>**Déclencheur**: visita la página web, la página web es una página de precios
+>**Flujo**: cambiar puntuación +10 y momento interesante
+>**Web**: página de precios vista
 >
 >Con [!DNL Munchkin] V2, si una persona anónima visita la página de precios, no ingresa a la campaña inmediatamente. En el momento en que se conoce a la persona anónima, Marketo ejecuta esta campaña en ella. Ellos:
 >

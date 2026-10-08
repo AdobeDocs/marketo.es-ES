@@ -4,16 +4,18 @@ description: Aprenda de un ejemplo de integración de eventos ON24 con Marketo. 
 title: Ejemplo de integración de eventos ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 2%
-
 ---
-
 # Ejemplo de integración de eventos ON24 {#example-on-event-integration}
 
 El siguiente es un evento de ejemplo, incluidas campañas, para un seminario web ON24. Cuando organice el evento, pruebe las campañas antes de ejecutarlas.
@@ -49,8 +51,8 @@ El siguiente es un evento de ejemplo, incluidas campañas, para un seminario web
 * **Lista inteligente** - Define a quién invitarás al evento.
 * **Flujo**
 
-   * Enviar correo electrónico: si se trata de un correo electrónico de recurso local, tendrá la siguiente convención de nomenclatura: EventName.EmailName. También puede utilizar correos electrónicos globales.
-   * Cambiar estado en progresión: establezca en Seminario web > Invitado.
+  * Enviar correo electrónico: si se trata de un correo electrónico de recurso local, tendrá la siguiente convención de nomenclatura: EventName.EmailName. También puede utilizar correos electrónicos globales.
+  * Cambiar estado en progresión: establezca en Seminario web > Invitado.
 
 * **Programación** - Establezca la fecha para enviar la invitación.
 
@@ -58,7 +60,7 @@ El siguiente es un evento de ejemplo, incluidas campañas, para un seminario web
 
 * **Lista inteligente**
 
-   * Almacene en déclencheur la campaña según **[!UICONTROL Rellena el formulario]**. Incluya la página de aterrizaje en la que se encuentra el formulario mediante **[!UICONTROL Agregar restricción]**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
+  * Almacene en déclencheur la campaña según **[!UICONTROL Rellena el formulario]**. Incluya la página de aterrizaje en la que se encuentra el formulario mediante **[!UICONTROL Agregar restricción]**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ El siguiente es un evento de ejemplo, incluidas campañas, para un seminario web
 
 * **Flujo**
 
-   * **Cambiar estado en progresión** - Definir en Seminario web > Registrado. **PRECAUCIÓN**: Este paso de flujo es necesario al configurar su campaña secundaria. Cuando el estado de progresión de una persona cambia a **Registrada**, Marketo envía la información de registro a ON24.
+  * **Cambiar estado en progresión** - Definir en Seminario web > Registrado. **PRECAUCIÓN**: Este paso de flujo es necesario al configurar su campaña secundaria. Cuando el estado de progresión de una persona cambia a **Registrada**, Marketo envía la información de registro a ON24.
 
-   * **Enviar correo electrónico** - Correo electrónico de confirmación (configurado en **Operativo** para que las personas que cancelaron la suscripción y que se han registrado lo reciban).
+  * **Enviar correo electrónico** - Correo electrónico de confirmación (configurado en **Operativo** para que las personas que cancelaron la suscripción y que se han registrado lo reciban).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

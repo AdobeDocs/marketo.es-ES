@@ -1,22 +1,28 @@
 ---
 unique-page-id: 26837421
 description: Aprenda a crear audiencias coincidentes con la cuenta de LinkedIn desde sus listas de cuentas de TAM. Activar audiencias en los canales de LinkedIn para la segmentación de anuncios.
-title: Crear una audiencia coincidente con la cuenta en  [!DNL LinkedIn]
+title: Crear una audiencia coincidente con la cuenta en [!DNL LinkedIn]
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk
+TQID: 'https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 197
+source-wordcount: '197'
 ht-degree: 0%
-
 ---
-
 # Crear una audiencia coincidente con la cuenta en [!DNL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
 
 Cree audiencias coincidentes de cuenta a partir de las listas de cuentas de TAM para [[!DNL LinkedIn] Segmentación de anuncios](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] comparará la lista con las cuentas de su sistema y usted puede crear una audiencia [!DNL LinkedIn] basada en esa lista de cuentas para activarla en [!DNL LinkedIn] canales. Esto permite a los especialistas en marketing dirigirse a las personas que se encuentran dentro o fuera de su base de datos.

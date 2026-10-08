@@ -2,15 +2,22 @@
 description: Aprenda a añadir campos de Marketo a Salesforce Enterprise o Unlimited edition. Crear puntuación, programa de adquisición y fecha de adquisición en objetos de contacto y cliente potencial.
 title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ilimitado)'
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # Paso 1 de 3: Añadir campos de Marketo a Salesforce (para empresas y sin límites) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
    Desactive la casilla de verificación Solo lectura para el perfil del usuario de sincronización:
 
    Si tiene un usuario con el perfil de un administrador del sistema como usuario de sincronización, desactive la casilla Solo lectura del perfil del administrador del sistema (como se muestra a continuación)
-Si ha creado un perfil personalizado para el usuario de sincronización, desactive la casilla de verificación Solo lectura para ese perfil personalizado
+   Si ha creado un perfil personalizado para el usuario de sincronización, desactive la casilla de verificación Solo lectura para ese perfil personalizado
 
    CAPTURA DE PANTALLA
 

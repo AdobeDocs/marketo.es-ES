@@ -4,23 +4,28 @@ description: Obtenga información sobre los segmentos web en Marketo Engage, inc
 title: Segmentos web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2104
+source-wordcount: '2104'
 ht-degree: 1%
-
 ---
-
 # Segmentos web {#web-segments}
 
 ## Ver segmento {#view-segment}
@@ -106,8 +111,8 @@ Defina parámetros generales para el segmento:
 * **Lógica de regla de segmento:** Seleccione una lógica AND/OR para generar cada atributo de segmentación
 * **Horario:** Defina el nivel de participación del visitante que desea en su campaña
 
-   * **En la entrada**: el compromiso del visitante llega al sitio web
-   * **Después del primer a noveno clic**: Capte al visitante después de una cantidad específica de clics en el sitio web
+  * **En la entrada**: el compromiso del visitante llega al sitio web
+  * **Después del primer a noveno clic**: Capte al visitante después de una cantidad específica de clics en el sitio web
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ Arrastre y suelte **[!UICONTROL Location]** en el editor de segmentos.
 
 * Seleccione entre los siguientes parámetros:
 
-   * **[!UICONTROL Incluir]** - Seleccione si desea que la campaña incluya o excluya una ubicación.
-   * **[!UICONTROL Seleccione el país que desea agregar]**: en el cuadro desplegable, seleccione el país que desea incluir en el segmento. El nombre del país aparece a la derecha. Puede elegir varios países.
+  * **[!UICONTROL Incluir]** - Seleccione si desea que la campaña incluya o excluya una ubicación.
+  * **[!UICONTROL Seleccione el país que desea agregar]**: en el cuadro desplegable, seleccione el país que desea incluir en el segmento. El nombre del país aparece a la derecha. Puede elegir varios países.
 
 Una vez agregado el país, también puede especificar el estado, la ciudad y el código postal del segmento.
 
@@ -165,8 +170,8 @@ Una vez agregado el país, también puede especificar el estado, la ciudad y el 
 
 * Seleccione entre los siguientes parámetros:
 
-   * **[!UICONTROL Incluye]**: seleccione si desea que el segmento incluya o excluya un sector.
-   * **[!UICONTROL Seleccionar sectores que agregar]** - Seleccione el sector que desee incluir en el segmento. El sector aparece debajo del cuadro desplegable. Puede elegir varias industrias.
+  * **[!UICONTROL Incluye]**: seleccione si desea que el segmento incluya o excluya un sector.
+  * **[!UICONTROL Seleccionar sectores que agregar]** - Seleccione el sector que desee incluir en el segmento. El sector aparece debajo del cuadro desplegable. Puede elegir varias industrias.
 
 **Grupo de organización**
 
@@ -174,11 +179,11 @@ En la sección **[!UICONTROL Segmentación de perfiles]**, marque la casilla jun
 
 * En el cuadro desplegable, seleccione una de las siguientes opciones:
 
-   * Fortune 500: incluye solo las compañías de Fortune 500 en este segmento
-   * Fortune 1000: incluye solo las compañías de Fortune 1000 en este segmento
-   * Global 2000: incluye las empresas de Global 2000 en este segmento
-   * Empresa: incluye organizaciones con más de 1000 empleados e ingresos superiores a 250 millones de dólares
-   * SMB: sólo incluye pequeñas y medianas empresas en este segmento
+  * Fortune 500: incluye solo las compañías de Fortune 500 en este segmento
+  * Fortune 1000: incluye solo las compañías de Fortune 1000 en este segmento
+  * Global 2000: incluye las empresas de Global 2000 en este segmento
+  * Empresa: incluye organizaciones con más de 1000 empleados e ingresos superiores a 250 millones de dólares
+  * SMB: sólo incluye pequeñas y medianas empresas en este segmento
 
 Cuentas con nombre de **-**
 
@@ -186,8 +191,8 @@ Cuentas con nombre de **-**
 
 * **Es de estas empresas (nombres específicos)**
 
-   * Seleccione la empresa de destino en la lista desplegable &quot;Seleccionar empresa para agregar&quot;.
-   * Puede escribir el nombre exacto de la organización a la que desea dirigirse. *Se recomienda* siempre* usar Listas de cuentas con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver a continuación).
+  * Seleccione la empresa de destino en la lista desplegable &quot;Seleccionar empresa para agregar&quot;.
+  * Puede escribir el nombre exacto de la organización a la que desea dirigirse. *Se recomienda* siempre* usar Listas de cuentas con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver a continuación).
 
 **Lista de cuentas con nombre**
 
@@ -197,7 +202,7 @@ Seleccione de una [lista de cuentas con nombre](/help/marketo/product-docs/web-p
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>El número entre corchetes junto al nombre de la lista de cuentas con nombre se usa como referencia de índice para la lista de Web Personalization [Read API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Excluir ISP**
 
@@ -240,11 +245,11 @@ Defina su segmento según el estado de un cliente potencial: conocido o anónimo
 
 * Número de visitas: seleccione esta opción en el cuadro desplegable para especificar el número de visitas de los posibles clientes en el sitio web.
 
-   * Seleccione Igual, Igual o Mayor que, o Igual o Menor que en el cuadro desplegable.
+  * Seleccione Igual, Igual o Mayor que, o Igual o Menor que en el cuadro desplegable.
 
 * Visitas específicas: seleccione esta opción en el cuadro desplegable para especificar un visitante específico.
 
-   * En el cuadro de texto de la derecha, introduzca el número de visitante que desea rastrear. Se puede encontrar el número de identificación único de visitante [!DNL Web Personalization] al hacer clic en un visitante (en la página de visitantes) y en Establecer campaña en el panel lateral derecho. El ID de visitante se encuentra en la sección Configuración avanzada. El ID de visitante también se puede encontrar en la dirección URL (por ejemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * En el cuadro de texto de la derecha, introduzca el número de visitante que desea rastrear. Se puede encontrar el número de identificación único de visitante [!DNL Web Personalization] al hacer clic en un visitante (en la página de visitantes) y en Establecer campaña en el panel lateral derecho. El ID de visitante se encuentra en la sección Configuración avanzada. El ID de visitante también se puede encontrar en la dirección URL (por ejemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Términos de búsqueda**: defina un segmento de acuerdo con los términos de búsqueda de un cliente potencial.
 
@@ -275,9 +280,9 @@ Arrastre y suelte el [!UICONTROL sistema operativo móvil] en el editor de segme
 * **Tipo de visitante**<br />
   **[!UICONTROL Sistema operativo móvil]**: en el cuadro desplegable, seleccione uno o varios de los sistemas operativos móviles de la lista. El sistema operativo móvil seleccionado aparece a continuación.
 
-   * El visitante utiliza cualquier dispositivo móvil
-   * El visitante utiliza este dispositivo/SO específico
-   * El visitante no utiliza ningún dispositivo móvil
+  * El visitante utiliza cualquier dispositivo móvil
+  * El visitante utiliza este dispositivo/SO específico
+  * El visitante no utiliza ningún dispositivo móvil
 
 * **[!UICONTROL Dispositivo]**: en la lista desplegable, seleccione uno o más dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Los dispositivos seleccionados aparecen a continuación.
 
@@ -296,7 +301,7 @@ Añada el valor de Event que desee segmentar. E.g. de fuentes de datos de tercer
 
 **API de contexto de usuario**
 
-Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Llamada de la API de Web Personalization [más información al respecto aquí.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

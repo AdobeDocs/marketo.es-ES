@@ -3,27 +3,33 @@ description: 'Notas de la versión, abril de 2024: Documentos de Marketo: docume
 title: Notas de la versión, abril de 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-TQID: https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo
+TQID: 'https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 29%
-
 ---
-
 # Notas de la versión: abril de 2024 {#release-notes-apr-24}
 
 A continuación encontrará todas las funciones incluidas en la versión de abril de 2024. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >

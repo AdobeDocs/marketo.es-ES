@@ -3,27 +3,44 @@ description: 'Notas de la versión de Dynamic Chat, documentos de Marketo: docum
 title: Notas de la versión de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
+TQID: 'https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3551
+source-wordcount: '3551'
 ht-degree: 94%
-
 ---
-
 # Notas de la versión de Dynamic Chat {#dynamic-chat-release}
 
 Las versiones de Adobe Dynamic Chat funcionan bajo un modelo de entrega continua que permite un enfoque más gradual para la implementación de funciones. En ocasiones, hay varias versiones en un solo mes, por lo que debe consultar regularmente la información más actualizada.
@@ -34,11 +51,11 @@ La página de notas de la versión estándar de Marketo Engage [se encuentra aqu
 
 ### Límite de tiempo de espera del visitante {#visitor-wait-time}
 
-Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Establezca una cantidad máxima de tiempo (entre 10 y 500 segundos) que un visitante esperará para conectarse a un agente activo antes de que el visitante reciba un mensaje de reserva. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Descargar transcripción {#download-transcript}
 
-Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ahora puede descargar un archivo .txt de su transcripción de chat después de que un chat en vivo termina. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Lanzamiento de junio de 2025 {#june-2025-release}
 
@@ -128,7 +145,7 @@ La reserva de Round Robin solo se tiene en cuenta cuando no se encuentran agente
 
 <p>
 
-_&#x200B;**Enrutamiento de cuenta**&#x200B;_
+_**Enrutamiento de cuenta**_
 
 <table><thead>
   <tr>
@@ -154,7 +171,7 @@ _&#x200B;**Enrutamiento de cuenta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento personalizado**&#x200B;_
+_**Enrutamiento personalizado**_
 
 <table><thead>
   <tr>
@@ -180,7 +197,7 @@ _&#x200B;**Enrutamiento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento de equipo**&#x200B;_
+_**Enrutamiento de equipo**_
 
 <table><thead>
   <tr>
@@ -206,7 +223,7 @@ _&#x200B;**Enrutamiento de equipo**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Enrutamiento Round Robin**&#x200B;_
+_**Enrutamiento Round Robin**_
 
 <table><thead>
   <tr>
