@@ -3,20 +3,26 @@ description: Obtenga información sobre cómo conectar Marketo y Salesforce medi
 title: Iniciar sesión con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+TQID: 'https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 115ae737bd08722278cb207b24827e109bb259bf
 workflow-type: tm+mt
-source-wordcount: 666
+source-wordcount: '688'
 ht-degree: 2%
-
 ---
-
 # Iniciar sesión con OAuth 2.0 {#log-in-using-oauth-2-0}
 
 Salesforce utiliza el protocolo OAuth para permitir a los usuarios de aplicaciones acceder a los datos de forma segura (autenticar la aplicación mediante OAuth 2.0) sin tener que revelar las credenciales de inicio de sesión. A continuación se indican los pasos que se deben seguir para conectar y sincronizar Marketo Engage de forma segura con Salesforce.
@@ -55,7 +61,7 @@ Salesforce utiliza el protocolo OAuth para permitir a los usuarios de aplicacion
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. En _Seguridad_, asegúrese de que solo están seleccionados **Requerir secreto para flujo de servidor web** y **Requerir secreto para flujo de token de actualización**.
+1. En _Seguridad_, asegúrese de que solo están seleccionados **Requerir secreto para flujo de servidor web**, **Requerir secreto para flujo de token de actualización** y **Requerir clave de prueba para intercambio de código (PKCE)...**.
 
    ![](assets/log-in-using-oauth-7.png)
 
@@ -77,9 +83,9 @@ Salesforce utiliza el protocolo OAuth para permitir a los usuarios de aplicacion
 >
 >* El acceso a la API debe estar habilitado para el usuario de sincronización de Salesforce (si es usuario de Salesforce Professional Edition, ese acceso no está disponible de forma predeterminada; póngase en contacto con el administrador de cuentas de Salesforce).
 >* El usuario de sincronización de Marketo debe crearse en Salesforce.
->* Para los clientes existentes, la función &quot;Habilitar OAuth para la sincronización de SFDC&quot; está habilitada en la suscripción del cliente.
 >* Los bloqueadores de elementos emergentes están deshabilitados.
 >* La aplicación conectada se ha creado y la [!UICONTROL clave del consumidor] y el [!UICONTROL secreto del consumidor] están disponibles para su uso.
+>* Póngase en contacto con el [Soporte técnico de Marketo](https://experienceleague.adobe.com/en/support) para habilitar las siguientes funciones: Habilitar OAuth para la sincronización de SFDC, Requerir secreto para Actualizar flujo de token y Clave de revisión para intercambio de código (PKCE).
 
 >[!CAUTION]
 >

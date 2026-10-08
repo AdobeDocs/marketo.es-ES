@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 2bf1305a6dd7f26b4a96309e858c32e101f5b41c
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
-source-wordcount: '8942'
+source-wordcount: '8936'
 ht-degree: 96%
 ---
 
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -600,7 +600,6 @@ ht-degree: 96%
       + [Habilitar/deshabilitar la sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [Acciones de Salesforce implícitas](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [Iniciar sesión con OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
-      + {hide-from-toc}[Iniciar sesión usando OAuth 2.0 NEW](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)
       + [Métricas de registro de asuntos pendientes de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Errores de sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Estado de sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
