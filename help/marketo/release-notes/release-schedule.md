@@ -66,12 +66,12 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julio del 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julio del 26</a></td>
    <td>10 de julio de 2026</td>
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto del 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto del 26</a></td>
    <td>14 de agosto de 2026</td>
    <td>Completo</td>
   </tr>
