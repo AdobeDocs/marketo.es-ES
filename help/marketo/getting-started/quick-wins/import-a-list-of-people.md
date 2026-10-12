@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 91%
+source-wordcount: '621'
+ht-degree: 90%
 ---
 # Importar una lista de personas {#import-a-list-of-people}
 
@@ -138,7 +138,7 @@ En este tutorial, aprenderá a importar personas desde un archivo de hoja de cá
    >
    >Si hay campos que no desea importar, seleccione **Ignorar** en el menú desplegable Campo de Marketo.
 
-1. _Si_ tiene [Particiones de persona](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} configuradas, selecciónelas aquí. Seleccione **Mi programa de feria comercial** para el **[!UICONTROL Programa de adquisición]** y luego haga clic en **[!UICONTROL Importar]**.
+1. Si tiene [Particiones de persona](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} configuradas, seleccione la que desee aquí. Seleccione **Mi programa de feria comercial** para el **[!UICONTROL Programa de adquisición]** y luego haga clic en **[!UICONTROL Importar]**.
 
    ![](assets/import-a-list-of-people-13-new.png)
 
