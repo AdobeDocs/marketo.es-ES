@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 13%
+source-wordcount: '128'
+ht-degree: 8%
 ---
 # Crear una partición de personas {#create-a-person-partition}
 
@@ -52,3 +52,7 @@ Cree una nueva partición de persona siguiendo estos pasos.
 Después de crear la partición, debería ver la actualización.
 
 ![](assets/create-a-person-partition-5.png)
+
+>[!TIP]
+>
+>Puede seleccionar una partición de persona específica en la que filtrar a las personas durante el proceso de [importación de lista](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}.

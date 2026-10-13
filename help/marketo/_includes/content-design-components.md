@@ -3,18 +3,16 @@ title: 'Creación de contenido: componentes'
 description: Sección reutilizada sobre el uso de componentes y elementos de contenido para la creación de contenido
 source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # Creación de contenido: componentes
 
 1. Para empezar a crear o modificar contenido, arrastre y suelte un elemento de Estructuras en el lienzo. Edite su configuración en el panel de la derecha.
 
    >[!TIP]
    >
-   >Seleccione el componente de columna n:n para definir el número de columnas que desea (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
+   >Seleccione el componente de columna n:n para definir el número de columnas que desee (entre tres y 10). También puede definir el ancho de cada columna moviendo las flechas debajo de la columna.
 
    ![](../assets/add-structure-and-content-1.png)
 

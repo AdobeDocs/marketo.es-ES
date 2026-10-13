@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # Notas de la versión: septiembre de 2026 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Seleccionar partición al importar</strong>: ahora puede seleccionar de la lista de particiones del espacio de trabajo local al importar registros de personas en entornos que tienen espacios de trabajo y particiones habilitados.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">Importación de lista</a></td>
   </tr>
   <tr>
    <td> </td>
