@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
+source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1235'
 ht-degree: 4%
 ---
 # Migración de AWS {#aws-migration}
@@ -287,12 +287,9 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
   </tr>
    <tr>
    <td>21 de octubre de 2026</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>AB38</td>
+   <td>17:00 PDT</td>
+   <td>Según lo programado</td>
   </tr>
   <tr>
    <td>22 de octubre de 2026</td>
@@ -309,6 +306,15 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    AB25</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Según lo programado<br>
+   Dentro del horario</td>
+  </tr>
+  <tr>
+   <td>6 de noviembre de 2026</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>16:00 PST<br>
+   17:00 PST</td>
    <td>Según lo programado<br>
    Dentro del horario</td>
   </tr>
@@ -336,6 +342,12 @@ En función de su centro de datos, colabore con su departamento de TI para añad
   <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
+</tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
 </tr>
 </body>
 </table>

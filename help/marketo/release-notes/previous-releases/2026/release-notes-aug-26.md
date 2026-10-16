@@ -1,6 +1,6 @@
 ---
-description: 'Notas de la versión, julio de 2026: Documentos de Marketo: documentación del producto'
-title: Notas de la versión, julio de 2026
+description: 'Notas de la versión, agosto de 2026: Documentos de Marketo: documentación del producto'
+title: Notas de la versión, agosto de 2026
 feature: Release Information
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 13%

@@ -27,20 +27,20 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '347'
 ht-degree: 18%
 ---
-# Notas de la versión: septiembre de 2026 {#release-notes-sep-26}
+# Notas de la versión: octubre de 2026 {#release-notes-oct-26}
 
-A continuación encontrará todas las funciones incluidas en la versión de septiembre de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de octubre de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **25 de septiembre de 2026**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes características caen dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **23 de octubre de 2026**, con un despliegue gradual de las características restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto">
  <tbody>
@@ -50,18 +50,7 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:25%">Documentación</th>
   </tr>
   <tr>
-   <td><strong>Nueva interfaz de usuario de Marketo Engage</strong>: La interfaz de Marketo Engage tiene un aspecto actualizado, que incluye menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Esto es solo una actualización visual; no afecta a la funcionalidad ni a los flujos de trabajo existentes. <i>La capacidad de seleccionar la IU clásica estará disponible hasta la versión de enero de 2027</i>.
-</td>
-   <td>Disponibilidad general a finales de septiembre</td>
-   <td><i>n/a</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Seleccionar partición al importar</strong>: ahora puede seleccionar de la lista de particiones del espacio de trabajo local al importar registros de personas en entornos que tienen espacios de trabajo y particiones habilitados.</td>
+   <td><strong>Clonar a este programa/carpeta</strong>: Las operaciones de clonación en Marketo Engage ahora ofrecen de forma consistente una opción "Esta carpeta" o "Este programa" como primera opción al elegir el destino del recurso clonado. Al elegir esta opción, se clona el recurso en el programa o la carpeta principal del recurso actual.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
@@ -71,29 +60,11 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Alerta instantánea en la sincronización CRM</strong>: Los usuarios suscritos a las notificaciones de CRM recibirán una notificación inmediata cuando cambie el estado habilitado de su sincronización nativa de CRM, lo que proporcionará a los administradores mayor visibilidad de su estado de sincronización de CRM.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Pasos de flujo de autoservicio - Tiempo de espera de devolución de llamada aumentado</strong>: El tiempo de espera de devolución de llamada para los pasos de flujo de autoservicio se está incrementando de una hora a cuatro horas. No se requiere ninguna acción por su parte.</td>
+   <td><strong>Alerta instantánea en la sincronización con CRM</strong>: al habilitar o deshabilitar la sincronización de CRM nativa para un entorno, ahora se envía una déclencheur a los usuarios suscritos al canal de notificación de CRM.</td>
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Tablas</strong>: Ahora puede arrastrar y soltar el tipo de contenido "tabla" en su correo electrónico, con la capacidad de establecer el número de columnas y filas.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
   </tr>
   </tbody>
 </table>
@@ -101,12 +72,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 ## Anuncios {#announcements}
 
+* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de octubre.
+
 * **Restricciones de nombres de API para atributos de actividad personalizados**: Los nombres de API para atributos de actividad personalizados creados mediante la API o la interfaz de usuario ahora solo pueden contener caracteres alfanuméricos y guiones bajos, y deben comenzar con un carácter alfanumérico.
 
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyan el parámetro `listId` generarán un error de código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
-
-* **Desaprobación del parámetro &#39;access_token&#39; de la API de REST**: El parámetro de consulta `access_token` utilizado para autenticar las llamadas a la API de REST de Marketo quedó obsoleto el 31 de agosto de 2026. Todas las integraciones nuevas y existentes deben autenticar las llamadas a la API REST usando el encabezado “Autorización” [tal como se describe aquí](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **Id. de ejecución de campaña de API REST**: En determinadas circunstancias, el valor del Id. de ejecución de campaña de una actividad se devolvió a veces con un formato incorrecto, entre dos pares de comillas (por ejemplo, `"campaignRunId": ""102938""`).<br/>A partir de la versión de agosto, este valor siempre se devolverá con el formato numérico correcto (`"campaignRunId": 102938`).
-
-* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de octubre.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyen el parámetro `listId` comenzaron a fallar con un código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
