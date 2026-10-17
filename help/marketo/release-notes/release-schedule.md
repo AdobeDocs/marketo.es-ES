@@ -76,7 +76,7 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>Completo</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">Septiembre de 2026</a></td>
+  <td><a href="https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">Septiembre de 2026</a></td>
    <td>25 de septiembre de 2026</td>
    <td>En curso</td>
   </tr>
