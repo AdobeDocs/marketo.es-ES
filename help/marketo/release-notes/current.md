@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # Notas de la versión: octubre de 2026 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
    <th style="width:65%">Función</th>
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
+  </tr>
+  <tr>
+   <td><strong>Aptitud para planificar campañas</strong>: CX Enterprise Coworker para Marketo Engage ahora puede convertir un informe de campaña en un documento completo de configuración del programa de Marketo Engage. El documento incluye una estructura de carpetas, campañas inteligentes, configuraciones de correo electrónico, tokens y una lista de comprobación de control de calidad. Esto ayuda a los equipos a iniciar campañas más rápido y a estandarizar la configuración del programa. La aptitud se puede configurar mediante Markdown.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Agentes a los que llamar</strong>: cree agentes de IA que funcionen como un paso de flujo en sus campañas inteligentes y actúen en un registro de posibles clientes basado en instrucciones que escriba en lenguaje sencillo. Por ejemplo, un agente puede normalizar los datos de un posible cliente o marcar bots probables y, a continuación, escribir el resultado en los campos del posible cliente. Esto lleva el procesamiento de posibles clientes basado en juicios a sus campañas sin código personalizado.</td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Clonar a este programa/carpeta</strong>: Las operaciones de clonación en Marketo Engage ahora ofrecen de forma consistente una opción "Esta carpeta" o "Este programa" como primera opción al elegir el destino del recurso clonado. Al elegir esta opción, se clona el recurso en el programa o la carpeta principal del recurso actual.</td>
