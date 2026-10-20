@@ -112,4 +112,4 @@ Consulte estos vínculos:
 
 ## ¡Tengo más preguntas! ¿Cómo puedo conseguir que me respondan? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visite la [Comunidad de Marketo](https://experienceleaguecommunities.adobe.com/?profile.language=es){target="_blank"}. También puede ponerse en contacto con el Soporte de Marketo. Ellos estarán encantados de responder a sus preguntas.
+Visite la [Comunidad de Marketo](https://experienceleaguecommunities.adobe.com/?profile.language=es&lang=es){target="_blank"}. También puede ponerse en contacto con el Soporte de Marketo. Ellos estarán encantados de responder a sus preguntas.

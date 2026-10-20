@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # Seguimiento condicional de aperturas de correo electrónico {#conditional-open-tracking}
 
-Aprenda a configurar Marketo Engage para que acepte el consentimiento del usuario final para el seguimiento de aperturas de correo electrónico (píxeles), en consonancia con [varias directrices](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=es){target="_blank"}. El método utiliza un campo booleano personalizado para determinar qué variante de correo electrónico recibe una persona, una con el seguimiento de aperturas habilitado o otra con él deshabilitado.
+Aprenda a configurar Marketo Engage para que acepte el consentimiento del usuario final para el seguimiento de aperturas de correo electrónico (píxeles), en consonancia con [varias directrices](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=es&lang=es){target="_blank"}. El método utiliza un campo booleano personalizado para determinar qué variante de correo electrónico recibe una persona, una con el seguimiento de aperturas habilitado o otra con él deshabilitado.
 
 ## Paso 1: Crear un campo booleano personalizado {#custom-field}
 

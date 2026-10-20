@@ -70,7 +70,7 @@ Esta herramienta se ha usado para `auto-personalize your email` y le ahorrará m
 | `{{my_signature}}` | Keith Flynn, redactor técnico sénior - Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Escritor técnico sénior |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/es> |
 
 **Aspectos a tener en cuenta**:
 

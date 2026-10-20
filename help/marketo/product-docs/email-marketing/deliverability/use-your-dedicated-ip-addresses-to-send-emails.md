@@ -51,7 +51,7 @@ Para maximizar la capacidad de entrega a largo plazo, los consultores de capacid
 
 >[!TIP]
 >
->Mantenga la base de datos limpia para mantener la capacidad de envío alta. [Adobe requiere](https://www.adobe.com/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido o solicitado recibir correo electrónico. No enviar correos electrónicos no solicitados.
+>Mantenga la base de datos limpia para mantener la capacidad de envío alta. [Adobe requiere](https://www.adobe.com/es/legal/terms/aup.html) que los clientes solo envíen comunicaciones de marketing a las personas que hayan elegido o solicitado recibir correo electrónico. No enviar correos electrónicos no solicitados.
 
 >[!CAUTION]
 >

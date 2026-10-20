@@ -85,7 +85,7 @@ Los temas abordados están disponibles en los déclencheur y filtros de listas i
 
 >[!IMPORTANT]
 >
->Cuando utilice IA generativa, debe cumplir las [Directrices del usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para garantizar que las funciones de Adobe Experience Cloud que incorporan IA generativa se utilicen de forma segura y responsable.
+>Cuando utilice IA generativa, debe cumplir las [Directrices del usuario de IA generativa de Adobe Experience Cloud](https://www.adobe.com/es/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para garantizar que las funciones de Adobe Experience Cloud que incorporan IA generativa se utilicen de forma segura y responsable.
 
 ## Preguntas frecuentes {#faq}
 

@@ -31,7 +31,7 @@ Introduzca y organice manualmente los detalles de su marca o cargue documentos d
 
 >[!AVAILABILITY]
 >
->Debe aceptar el [acuerdo de usuario](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} para poder usar el Asistente de IA en Adobe Marketo Engage. Para obtener más información, póngase en contacto con el administrador de cuentas de Adobe.
+>Debe aceptar el [acuerdo de usuario](https://www.adobe.com/es/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} para poder usar el Asistente de IA en Adobe Marketo Engage. Para obtener más información, póngase en contacto con el administrador de cuentas de Adobe.
 
 ## Acceso a marcas {#access}
 

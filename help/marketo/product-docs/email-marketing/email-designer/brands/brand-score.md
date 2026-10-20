@@ -35,7 +35,7 @@ La revisión de la puntuación de su marca garantiza la coherencia en el tono, l
 
 >[!AVAILABILITY]
 >
->Debe aceptar el [acuerdo de usuario](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} para poder usar el Asistente de IA en Adobe Marketo Engage. Para obtener más información, contacte con su representante de Adobe.
+>Debe aceptar el [acuerdo de usuario](https://www.adobe.com/es/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} para poder usar el Asistente de IA en Adobe Marketo Engage. Para obtener más información, contacte con su representante de Adobe.
 
 ## Validar el contenido con la alineación de marca {#validate-content}
 
