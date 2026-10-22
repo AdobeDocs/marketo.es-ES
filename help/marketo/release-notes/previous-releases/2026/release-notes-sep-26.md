@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 14%
@@ -83,4 +83,4 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Id. de ejecución de campaña de API REST**: En determinadas circunstancias, el valor del Id. de ejecución de campaña de una actividad se devolvió a veces con un formato incorrecto, entre dos pares de comillas (por ejemplo, `"campaignRunId": ""102938""`).<br/>A partir de la versión de agosto, este valor siempre se devolverá con el formato numérico correcto (`"campaignRunId": 102938`).
 
-* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de octubre.
+* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de noviembre.

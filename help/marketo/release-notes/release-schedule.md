@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 64%
@@ -81,8 +81,8 @@ _Las fechas/características de la versión están sujetas a cambios_
    <td>En curso</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Octubre del 26</a></td>
-   <td>23 de octubre de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Noviembre de 2026</a></td>
+   <td>6 de noviembre de 2026</td>
    <td>Según lo programado</td>
   </tr>
  </tbody>
