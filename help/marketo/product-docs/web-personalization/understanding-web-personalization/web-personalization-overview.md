@@ -177,7 +177,7 @@ La página Tiempo real se divide en 6 tablas informativas con detalles de visita
    <td colspan="1">La URL de las páginas que están viendo los visitantes en el sitio</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><strong>Referencias principales de [!UICONTROL]</strong></td>
+   <td colspan="1" rowspan="1"><strong>Referencias principales de </strong></td>
    <td colspan="1" rowspan="1">Dirección URL de referencia que trajo al visitante a su sitio</td>
   </tr>
  </tbody>
