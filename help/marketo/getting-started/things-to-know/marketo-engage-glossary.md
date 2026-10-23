@@ -316,7 +316,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr>
   <tr>
    <td colspan="1"><strong>Seguimiento de dominio personalizado</strong></td>
-   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3&rbrace;.</strong></td>
+   <td colspan="1">El uso de un dominio de marca empresarial para el seguimiento de vínculos de correo electrónico y las direcciones URL de <strong>página de aterrizaje</strong> en lugar del dominio de Marketo predeterminado, lo que mejora la coherencia de la marca y la capacidad de envío de correo electrónico <strong>3}.</strong></td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Público personalizado</a></strong></td>
@@ -1188,7 +1188,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Resegmentación de sitios web</a></strong></td>
-   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (a través de Facebook y Google) con anuncios relevantes basados en el sector, cuentas designadas y datos conocidos.</td>
+   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (a través de Facebook y Google) con anuncios relevantes basados en el sector, cuentas nombradas y datos conocidos.</td>
   </tr>
   <tr>
    <td><strong>Editor WYSIWYG</strong></td>

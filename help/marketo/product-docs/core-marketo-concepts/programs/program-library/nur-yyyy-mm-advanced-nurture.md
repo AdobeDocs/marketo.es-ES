@@ -6,25 +6,29 @@ exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
 TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 508
+source-wordcount: '508'
 ht-degree: 16%
-
 ---
-
 # NUR-AAAA-MM-Nutrición avanzada {#nur-yyyy-mm-advanced-nurture}
 
 Este es un ejemplo de programas de nutrición avanzados que utilizan el Programa de participación de Marketo Engage. Los programas de correo electrónico anidados impiden que las personas reciban contenido que ya han consumido o controlan el tipo de contenido que deben consumir en cada flujo. Los informes de atribución se pueden ejecutar para cada programa de correo electrónico anidado individual. Canales: &quot;Nutrir&quot; y un canal &quot;Nutrir correo electrónico&quot; dedicado para los programas de correo electrónico anidados envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
-Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/es/customers/consulting-services/main.html){target="_blank"}.
+Para obtener más ayuda sobre la estrategia o para personalizar un programa, comuníquese con el equipo de cuenta de Adobe o visite la página de [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumen del canal {#channel-summary}
 
@@ -194,20 +198,20 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, com
 ## Reglas de conflicto {#conflict-rules}
 
 * **Etiquetas de programas**
-   * Crear etiquetas en esta suscripción: _Recomendado_
-   * Ignorar
+  * Crear etiquetas en esta suscripción: _Recomendado_
+  * Ignorar
 
 * **Plantilla de página de aterrizaje con el mismo nombre**
-   * Copiar plantilla original
-   * Usar plantilla de destino: _Recomendado_
+  * Copiar plantilla original
+  * Usar plantilla de destino: _Recomendado_
 
 * **Imágenes con el mismo nombre**
-   * Conservar ambos archivos
-   * Reemplazar elemento en esta suscripción: _Recomendado_
+  * Conservar ambos archivos
+  * Reemplazar elemento en esta suscripción: _Recomendado_
 
 * **Plantillas de correo electrónico con el mismo nombre**
-   * Conservar ambas plantillas
-   * Reemplazar plantilla existente: _Recomendado_
+  * Conservar ambas plantillas
+  * Reemplazar plantilla existente: _Recomendado_
 
 ## Mejores prácticas {#best-practices}
 

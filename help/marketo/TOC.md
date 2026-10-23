@@ -497,7 +497,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1818,7 +1818,7 @@ ht-degree: 96%
         + [Cuentas de Discover](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
         + [Coincidencia de cliente potencial con cuenta](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
         + [Filtrado en cuentas con nombre](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-        + [Eliminar una cuenta con nombre](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+        + [Eliminar una cuenta nombrada](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
         + [Jerarquías de TAM](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
         + [Crear una jerarquía](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
       + [Listas de cuentas](product-docs/target-account-management/target/account-lists.md)
