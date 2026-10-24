@@ -7,34 +7,51 @@ feature: Users and Roles
 TQID: https://experienceleague.adobe.com/3n-kUApPaDh4HNYgYPGgo94S04tjxqrTgA7UxdwY1h4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1338
+source-wordcount: '1338'
 ht-degree: 18%
-
 ---
-
 # Descripciones de los permisos de funciones {#descriptions-of-role-permissions}
 
 A continuación, se muestra una lista de todos los permisos disponibles que puede asignar a sus funciones. Los permisos generalmente están asociados con áreas funcionales específicas dentro de Marketo y pueden ayudarle a controlar a qué áreas y funcionalidades tienen acceso distintos usuarios.
@@ -139,53 +156,53 @@ Proporciona a los usuarios acceso a las presentaciones del calendario; habilita 
 Proporciona a los usuarios acceso a la ficha Design Studio y a la vista del árbol, pero no a los detalles.
 
 * Acceder a Correo electrónico
-   * Editar correo electrónico: otorga a los usuarios permiso para editar, crear y clonar correos electrónicos
-      * Crear y editar correos electrónicos operativos: otorga a los usuarios permiso para crear o editar correos electrónicos operativos. Ver: [Poner un correo electrónico en funcionamiento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+  * Editar correo electrónico: otorga a los usuarios permiso para editar, crear y clonar correos electrónicos
+    * Crear y editar correos electrónicos operativos: otorga a los usuarios permiso para crear o editar correos electrónicos operativos. Ver: [Poner un correo electrónico en funcionamiento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
-      * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
-      * Establecer dominio con marca: permite a los usuarios trabajar con dominios con marca. Ver: [Agregar un dominio de promoción de otra marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+    * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
+    * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
+    * Establecer dominio con marca: permite a los usuarios trabajar con dominios con marca. Ver: [Agregar un dominio de promoción de otra marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acceder a Plantilla de correo electrónico
 
-   * Aprobar plantilla de email
-   * Eliminar plantilla de email
-   * Editar plantilla de correo electrónico: editar, crear y clonar plantillas de correo electrónico
+  * Aprobar plantilla de email
+  * Eliminar plantilla de email
+  * Editar plantilla de correo electrónico: editar, crear y clonar plantillas de correo electrónico
 
 * Acceder a Formulario
 
-   * Aprobar formulario
-   * Eliminar formulario
-   * Editar formulario: editar, crear y clonar formularios
+  * Aprobar formulario
+  * Eliminar formulario
+  * Editar formulario: editar, crear y clonar formularios
 
 * Acceder a Imagen
 
-   * Eliminar imagen
-   * Cargar imagen
+  * Eliminar imagen
+  * Cargar imagen
 
 * Acceder a Página de destino
 
-   * Aprobar página de destino
-   * Eliminar página de aterrizaje
-   * Editar página de aterrizaje: edite, cree y clone páginas de aterrizaje
+  * Aprobar página de destino
+  * Eliminar página de aterrizaje
+  * Editar página de aterrizaje: edite, cree y clone páginas de aterrizaje
 
 * Acceder a Plantilla de página de destino
 
-   * Aprobar plantilla de página de destino
-   * Eliminar plantilla de página de destino
-   * Editar plantilla de página de aterrizaje: edite, cree y clone plantillas de página de aterrizaje
+  * Aprobar plantilla de página de destino
+  * Eliminar plantilla de página de destino
+  * Editar plantilla de página de aterrizaje: edite, cree y clone plantillas de página de aterrizaje
 
 * Acceder a Fragmento
 
-   * Aprobar fragmento
-   * Eliminar fragmento
-   * Editar fragmento
+  * Aprobar fragmento
+  * Eliminar fragmento
+  * Editar fragmento
 
 * Acceder a Aplicación social
 
-   * Aprobar aplicación social
-   * Eliminar aplicación social
-   * Editar aplicación social
+  * Aprobar aplicación social
+  * Eliminar aplicación social
+  * Editar aplicación social
 
 ## Acceder a la base de datos {#access-database}
 
@@ -193,14 +210,14 @@ Vea la base de datos, así como las listas inteligentes/estáticas.
 
 * Acceder a Segmentación
 
-   * Aprobar segmentación
-   * Eliminar segmentación
-   * Editar segmentación
+  * Aprobar segmentación
+  * Eliminar segmentación
+  * Editar segmentación
 
 * Eliminar persona
 * Crear lista
-   * Acceso para crear un recurso de lista en actividades de base de datos y marketing
-   * Acceso para crear un recurso de lista inteligente en actividades de base de datos y marketing
+  * Acceso para crear un recurso de lista en actividades de base de datos y marketing
+  * Acceso para crear un recurso de lista inteligente en actividades de base de datos y marketing
 * Eliminar lista
 * Editar persona: evita la edición manual y la ejecución de pasos de flujo únicos; aún puede editar personas ejecutando campañas en su contra
 * Exportar persona: exporte hojas de cálculo de las listas de bases de datos
@@ -217,15 +234,15 @@ Vea la pestaña Actividades de marketing, las campañas y las carpetas de campa�
 
 * Acceder a mensaje SMS
 
-   * Aprobar mensaje SMS
-   * Eliminar mensaje SMS
-   * Editar mensaje SMS
+  * Aprobar mensaje SMS
+  * Eliminar mensaje SMS
+  * Editar mensaje SMS
 
 * Acceder a la notificación de inserción
 
-   * Aprobar notificación de inserción
-   * Eliminar notificación de inserción
-   * Editar notificación de inserción
+  * Aprobar notificación de inserción
+  * Eliminar notificación de inserción
+  * Editar notificación de inserción
 
 * Acceder a recompensas
 * Activar campaña desencadenadora

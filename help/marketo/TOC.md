@@ -1818,7 +1818,7 @@ ht-degree: 96%
         + [Cuentas de Discover](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
         + [Coincidencia de cliente potencial con cuenta](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
         + [Filtrado en cuentas con nombre](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-        + [Eliminar una cuenta con nombre](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+        + [Eliminar una cuenta nombrada](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
         + [Jerarquías de TAM](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
         + [Crear una jerarquía](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
       + [Listas de cuentas](product-docs/target-account-management/target/account-lists.md)

@@ -1188,7 +1188,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Resegmentación de sitios web</a></strong></td>
-   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (a través de Facebook y Google) con anuncios relevantes basados en el sector, cuentas designadas y datos conocidos.</td>
+   <td>Funcionalidad de complemento que ayuda a los usuarios de Marketo a segmentar visitantes conocidos y anónimos (a través de Facebook y Google) con anuncios relevantes basados en el sector, cuentas nombradas y datos conocidos.</td>
   </tr>
   <tr>
    <td><strong>Editor WYSIWYG</strong></td>

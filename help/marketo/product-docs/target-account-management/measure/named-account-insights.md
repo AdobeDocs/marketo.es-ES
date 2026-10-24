@@ -30,7 +30,7 @@ workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 2%
 ---
-# Información sobre la cuenta con nombre {#named-account-insights}
+# Información sobre la cuenta nombrada {#named-account-insights}
 
 El Tablero de cuentas con nombre proporciona una vista de 360 grados de una cuenta de destino.
 
