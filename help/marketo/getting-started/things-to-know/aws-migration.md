@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
+source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
 workflow-type: tm+mt
-source-wordcount: '1282'
+source-wordcount: '1278'
 ht-degree: 4%
 ---
 # Migración de AWS {#aws-migration}
@@ -47,7 +47,7 @@ Los impactos siguientes no requieren ninguna acción por su parte.
 
 >[!IMPORTANT]
 >
->Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/es/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
+>Si usa [formularios externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} y desea evitar la pérdida de los datos de envío de formularios recopilados mientras Marketo Engage no está disponible durante la ventana de migración, póngase en contacto con el [Soporte técnico de Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **con al menos dos días hábiles** de antelación y proporcione el ID del formulario y el ID de Munchkin de su suscripción.
 
 ## Identificación del centro/pod de datos {#identify}
 
@@ -294,8 +294,8 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    AB52</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>Completado<br>
+   Completado</td>
   </tr>
   <tr>
    <td>28 de octubre de 2026</td>
@@ -303,8 +303,8 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    AB25</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Según lo programado<br>
-   Dentro del horario</td>
+   <td>Completado<br>
+   Completado</td>
   </tr>
   <tr>
    <td>6 de noviembre de 2026</td>
@@ -365,9 +365,9 @@ Si su organización utiliza una lista de permitidos IP, un cortafuegos, una list
 
 Para obtener la información más reciente, marque esta página como favorito.
 
-Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
+Para obtener actualizaciones de estado, puede [suscribirse para recibirlas](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} al inicio y al finalizar la migración. También puedes visitar [status.adobe.com](https://status.adobe.com/es){target="_blank"} durante tu ventana de migración.
 
-Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/es/support){target="_blank"}.
+Si tiene alguna pregunta, póngase en contacto con el Soporte técnico de Adobe a través del portal de soporte técnico en Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
@@ -393,6 +393,6 @@ Las cancelaciones de suscripción estándar y de lista (de clientes de correo el
 **¿Hay alguna alternativa a la pausa de campañas?**
 Sí. Si desea evitar que las personas avancen pero no desea perder los datos entrantes, tenga en cuenta las siguientes opciones:
 
-* Agregar un paso de opción: en lugar de deshabilitar la campaña, déjela activa, pero agregue un paso de flujo de espera [1&rbrace; o un paso inmediato de &quot;No hacer nada&quot; en la parte superior del flujo. &#x200B;](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}Establezca una [regla de opción](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} que dirija a sus recursos a este estado pausado y luego actualice las reglas de opción cuando esté listo.
-* Eliminar del flujo: si las personas ya han entrado en la campaña, pero es necesario detener su progreso, utilice la acción [Eliminar del flujo](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} para extraerlas sin deshabilitar permanentemente el déclencheur de la campaña.
+* Agregar un paso de opción: en lugar de deshabilitar la campaña, déjela activa, pero agregue un paso de flujo de espera [1} o un paso inmediato de &quot;No hacer nada&quot; en la parte superior del flujo. ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}Establezca una [regla de opción](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} que dirija a sus recursos a este estado pausado y luego actualice las reglas de opción cuando esté listo.
+* Eliminar del flujo: si las personas ya han entrado en la campaña, pero es necesario detener su progreso, utilice la acción [Eliminar del flujo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} para extraerlas sin deshabilitar permanentemente el déclencheur de la campaña.
 * Alternativa por lotes: Considere la posibilidad de convertir campañas de Déclencheur en campañas por lotes si no necesita un enrutamiento instantáneo o respuestas y solo desea procesar personas durante la noche o a intervalos programados.
