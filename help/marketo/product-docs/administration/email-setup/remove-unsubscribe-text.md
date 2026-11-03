@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 6%
 ---
 # Quitar texto de cancelación de suscripción {#remove-unsubscribe-text}
 
 La única razón por la que deberías eliminar por completo el contenido de cancelación de suscripción del área de **[!UICONTROL Administración]** > **[!UICONTROL Correo electrónico]** es si eliges crear el vínculo de cancelación de suscripción en las propias plantillas de correo electrónico. El cuadro de texto tiene una validación que no permite guardar sin contenido. Puede evitar esto añadiendo un pequeño comentario en HTML. El comentario de HTML no aparecerá en el cliente de correo electrónico, porque está procesando el correo electrónico en HTML y los comentarios se omiten.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

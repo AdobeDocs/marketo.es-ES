@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512292
-description: Agrega [!DNL Level 3 Web Meeting] as a un servicio de LaunchPoint para administrar el registro y la asistencia en Marketo.
+description: Agregue [!DNL Level 3 Web Meeting] como servicio de LaunchPoint para administrar el registro y la asistencia en Marketo.
 title: Agregar [!DNL Level 3 Web Meeting] como [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 98
-ht-degree: 3%
-
+source-wordcount: '101'
+ht-degree: 2%
 ---
-
 # Agregar [!DNL Level 3 Web Meeting] como servicio [!DNL LaunchPoint] {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo administra el registro y la asistencia de [!DNL Level 3 Web Meeting].
@@ -35,7 +33,7 @@ Marketo administra el registro y la asistencia de [!DNL Level 3 Web Meeting].
 >
 >Se necesita una suscripción existente a [!DNL Level 3 Web Meeting] y derechos de administración para este paso. Tenga a mano su número de acceso, código de acceso y contraseña.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 

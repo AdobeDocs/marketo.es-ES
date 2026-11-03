@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '132'
 ht-degree: 12%
 ---
 # Eliminar un estado de programa de un canal de programa {#delete-a-program-status-from-a-program-channel}
 
 Los estados de programa son los puntos de comprobación a través de la ruta de un programa (canal). Si crea un estado por error o ya no lo necesita, puede eliminarlo.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 

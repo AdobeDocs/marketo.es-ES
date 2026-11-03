@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '97'
 ht-degree: 17%
-
 ---
-
 # Habilitar direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
 
 Las direcciones URL personalizadas son útiles para imprimir campañas de correo.
@@ -29,7 +27,7 @@ Las direcciones URL personalizadas son útiles para imprimir campañas de correo
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 

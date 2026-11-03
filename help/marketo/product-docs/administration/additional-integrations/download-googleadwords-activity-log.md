@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7512607
-description: Descargue el registro de actividad  [!DNL Google AdWords] de LaunchPoint para solucionar problemas de integración.
+description: Descargue el registro de actividad [!DNL Google AdWords] de LaunchPoint para solucionar problemas de integración.
 title: Descargar [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
@@ -16,18 +16,16 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 45
+source-wordcount: '47'
 ht-degree: 0%
-
 ---
-
 # Descargar registro de actividad [!DNL Google Adwords] {#download-googleadwords-activity-log}
 
 Obtenga información sobre cómo descargar el registro de actividades para solucionar problemas.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 

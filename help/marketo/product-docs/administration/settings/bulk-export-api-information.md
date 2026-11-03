@@ -18,22 +18,20 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '118'
 ht-degree: 6%
-
 ---
-
 # Información sobre la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace; ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
+Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1} ha usado su instancia de Marketo Engage en los últimos siete días.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}
 
 >[!NOTE]
 >
 >Si necesita capacidad adicional, póngase en contacto con su representante de cuentas.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ Aprenda a comprobar cuánta capacidad de la API de extracción masiva [1&rbrace;
 
 >[!NOTE]
 >
->La asignación de la instancia de Marketo Engage se restablece diariamente a las 12:00 a.m. CST.
+>La asignación de la instancia de Marketo Engage se restablece diariamente a las 12:00 (CST).

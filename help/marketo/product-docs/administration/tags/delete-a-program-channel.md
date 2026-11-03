@@ -17,9 +17,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 7%
 ---
 # Eliminar un canal de programa {#delete-a-program-channel}
@@ -28,7 +28,7 @@ Los canales de programa son una colección de estados o puntos de comprobación 
 
 Si lo hace por accidente o ya no lo necesita, puede eliminarlo.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-program-channel-1.png)
 

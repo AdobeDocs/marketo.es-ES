@@ -16,13 +16,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 89
+source-wordcount: '90'
 ht-degree: 12%
-
 ---
-
 # Exportar funciones y permisos {#export-roles-and-permissions}
 
 En los pasos siguientes se explica cómo exportar todas las funciones y sus permisos.
@@ -31,7 +29,7 @@ En los pasos siguientes se explica cómo exportar todas las funciones y sus perm
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/export-roles-and-permissions-1.png)
 

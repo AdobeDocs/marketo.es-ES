@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '291'
 ht-degree: 0%
 ---
 # Agregar, editar o eliminar campos de actividad personalizados de Marketo {#add-edit-delete-marketo-custom-activity-fields}
@@ -30,7 +30,7 @@ Obtenga información sobre cómo agregar, cambiar o quitar un campo de actividad
 
 ## Añadir un campo de actividad personalizado {#add-a-custom-activity-field}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -66,7 +66,7 @@ Obtenga información sobre cómo agregar, cambiar o quitar un campo de actividad
 
 ## Editar un campo de actividad personalizado {#edit-a-custom-activity-field}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -110,7 +110,7 @@ Se ha actualizado el campo.
 
 ## Eliminar un campo de actividad personalizado {#delete-a-custom-activity-field}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

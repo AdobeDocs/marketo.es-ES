@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 13%
-
+source-wordcount: '139'
+ht-degree: 12%
 ---
-
 # Creación de una pestaña personalizada para la página de detalles de la persona {#creating-a-custom-tab-for-the-person-detail-page}
 
 Si necesita acceder con frecuencia a un conjunto específico de campos en la página de detalles de la persona, plantéese crear un diseño personalizado.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

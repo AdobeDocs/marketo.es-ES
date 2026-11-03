@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 10%
 ---
 # Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza {#block-field-updates-during-list-import-from-untrusted-sources}
@@ -34,7 +34,7 @@ Puede confiar más en los datos de algunas listas que en otras. A veces, los dat
 
 ## Bloqueo De Actualizaciones De Campos De Fuentes Que No Son De Confianza {#blocking-field-updates-from-untrusted-sources}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

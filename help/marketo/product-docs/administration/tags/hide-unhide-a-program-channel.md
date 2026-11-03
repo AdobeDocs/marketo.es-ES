@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 11%
 ---
 # Ocultar/mostrar un canal de programa {#hide-unhide-a-program-channel}
@@ -34,7 +34,7 @@ Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/
 
 ## Ocultar un canal de programa {#hide-a-program-channel}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

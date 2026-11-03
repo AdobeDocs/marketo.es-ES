@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '82'
 ht-degree: 13%
-
 ---
-
 # Establecer una página de reserva {#set-a-fallback-page}
 
 Las páginas de reserva son la última línea de defensa si la página de aterrizaje está sin conexión o no se encuentra. Asegúrese de tener uno configurado.
@@ -29,7 +27,7 @@ Las páginas de reserva son la última línea de defensa si la página de aterri
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/set-a-fallback-page-1.png)
 

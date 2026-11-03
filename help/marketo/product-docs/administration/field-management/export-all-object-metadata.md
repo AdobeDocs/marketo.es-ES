@@ -20,9 +20,9 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '86'
 ht-degree: 24%
 ---
 # Exportar todos los metadatos del objeto {#export-all-object-metadata}
@@ -44,7 +44,7 @@ Esta función le permite exportar todos los objetos y sus metadatos.
 
 ## Exportar metadatos del objeto {#export-object-metadata}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/export-all-object-metadata-1.png)
 

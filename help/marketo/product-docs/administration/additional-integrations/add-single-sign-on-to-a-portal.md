@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 658
+source-wordcount: '659'
 ht-degree: 5%
-
 ---
-
 # Añadir el inicio de sesión único a un portal {#add-single-sign-on-to-a-portal}
 
 Si tiene un servicio de directorio que autentica a los usuarios, puede permitir el inicio de sesión único (SSO) en Marketo. Marketo admite esta característica mediante [!DNL Security Assertion Markup Language] (SAML) versión 2.0 y posteriores.
@@ -73,7 +71,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar SAML y configurarlo.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

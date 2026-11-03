@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 24%
 ---
 # Editar el mensaje “Ver como página web” {#edit-the-view-as-web-page-message}
@@ -34,7 +34,7 @@ Aprenda a editar el texto &quot;[Ver como página web](/help/marketo/product-doc
 
 ## Editar el mensaje “Ver como página web” {#edit-the-view-as-web-page-message-1}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 

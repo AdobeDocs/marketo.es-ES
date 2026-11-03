@@ -21,10 +21,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 20%
 ---
 # Exportación de una lista de todos los nombres de campo de la API de Marketo {#export-a-list-of-all-marketo-api-field-names}
 
@@ -34,7 +34,7 @@ Si está usando [!DNL SOAP API] o [!DNL Munchkin API], necesitará una lista de 
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
