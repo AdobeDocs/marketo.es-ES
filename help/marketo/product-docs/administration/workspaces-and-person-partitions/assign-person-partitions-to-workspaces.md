@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '143'
 ht-degree: 15%
 ---
 # Asignar particiones de persona a espacios de trabajo {#assign-person-partitions-to-workspaces}
@@ -37,7 +37,7 @@ Siga los pasos a continuación para editar las asignaciones de partición de per
 >
 >Los espacios de trabajo y las particiones de persona pueden ser complejos. Póngase en contacto con el [soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} para obtener ayuda con la configuración.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

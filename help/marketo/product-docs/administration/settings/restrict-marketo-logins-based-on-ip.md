@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 249
+source-wordcount: '250'
 ht-degree: 6%
-
 ---
-
 # Restringir inicios de sesión de Marketo según la dirección IP {#restrict-marketo-logins-based-on-ip}
 
 Puede restringir o permitir que los usuarios accedan a Marketo en función de sus direcciones IP. Siga los pasos a continuación.
@@ -38,7 +36,7 @@ Puede restringir o permitir que los usuarios accedan a Marketo en función de su
 >
 >A partir del primer trimestre de 2027, se eliminarán las restricciones de IP de Marketo Engage. El acceso basado en IP se administrará exclusivamente mediante AAC y debe configurarse para aplicar restricciones de inicio de sesión. Más adelante se anunciará una fecha final de transición.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

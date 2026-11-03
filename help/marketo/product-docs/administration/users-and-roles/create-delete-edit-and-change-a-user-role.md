@@ -17,13 +17,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: '285'
 ht-degree: 8%
-
 ---
-
 # Crear, eliminar, editar y cambiar una función de usuario {#create-delete-edit-and-change-a-user-role}
 
 **Roles** agrupan un conjunto de permisos. **Permisos** le permiten realizar acciones en Marketo. Usted asigna un **rol** a un usuario.
@@ -41,7 +39,7 @@ ht-degree: 8%
 
 ## Crear un rol {#create-a-role}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 8%
 
 ## Eliminar un rol {#delete-a-role}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 8%
 >
 >Para editar su propia función de usuario, deberá iniciar sesión como otro usuario con derechos de administrador.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 8%
 
 ## Cambiar rol de usuario {#change-a-users-role}
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

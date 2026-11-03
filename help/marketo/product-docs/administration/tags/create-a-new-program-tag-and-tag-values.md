@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 11%
 ---
 # Creación de una nueva etiqueta de programa y valores de etiqueta {#create-a-new-program-tag-and-tag-values}
@@ -40,7 +40,7 @@ Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/program
 >
 >Valor de etiqueta de programa: SMB, empresa, mercado medio
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 

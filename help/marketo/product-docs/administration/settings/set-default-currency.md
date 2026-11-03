@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '62'
 ht-degree: 0%
 ---
 # Establecer la moneda predeterminada {#set-default-currency}
@@ -23,7 +23,7 @@ Obtenga información sobre cómo ver y editar la divisa predeterminada de su sus
 >
 >Se requieren **permisos de administración.**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/set-default-currency-1.png)
 

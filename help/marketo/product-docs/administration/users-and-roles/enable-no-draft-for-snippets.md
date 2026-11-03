@@ -27,13 +27,11 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
 # Habilitar la opción Sin borrador para fragmentos {#enable-no-draft-for-snippets}
 
 La opción Sin borrador para fragmentos permite distribuir cambios en los fragmentos de código sin necesidad de crear recursos aprobados para utilizarla. Todos los recursos que utilizan el fragmento editado obtienen las actualizaciones y mantienen sus respectivos estados:
@@ -48,7 +46,7 @@ La opción No borrador se habilita automáticamente para todas las funciones de 
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

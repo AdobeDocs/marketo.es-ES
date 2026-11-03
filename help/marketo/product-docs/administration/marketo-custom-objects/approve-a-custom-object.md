@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 2%
 ---
 # Aprobar un objeto personalizable {#approve-a-custom-object}
@@ -32,7 +32,7 @@ Debe aprobar un objeto personalizado para poder utilizarlo. El proceso es ligera
 
 Se ha creado un nuevo objeto personalizado. Siga los pasos a continuación para aprobarla.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/approve-a-custom-object-1.png)
 

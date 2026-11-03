@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1703'
+source-wordcount: '1704'
 ht-degree: 84%
 ---
 # Pasos de configuración {#setup-steps}
@@ -73,7 +73,7 @@ La primera parte es el CNAME de seguimiento del correo electrónico, `[EmailTrac
 >
 >Los CNAME de los correos electrónicos y las páginas de destino deben ser diferentes. Además, evite CNAME como &quot;seguimiento&quot; o &quot;vínculo&quot;. A menudo se marca como correo no deseado.
 
-Para encontrar el vínculo de seguimiento de Marketo, vaya al área de **[!UICONTROL Administración]**.
+Para encontrar el vínculo de seguimiento de Marketo, en Mi Marketo, haga clic en **[!UICONTROL Administrador]**.
 
 ![](assets/setup-steps-1.png)
 

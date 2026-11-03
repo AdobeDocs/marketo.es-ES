@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 14%
 ---
 # Eliminar un campo personalizado en Marketo {#delete-a-custom-field-in-marketo}
@@ -32,7 +32,7 @@ ht-degree: 14%
 
 Es posible que desee quitar un campo que haya creado anteriormente si ya no lo utiliza. Lamentablemente, no puede eliminar campos en Marketo, pero _puede_ ocultarlos en la interfaz de usuario.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 

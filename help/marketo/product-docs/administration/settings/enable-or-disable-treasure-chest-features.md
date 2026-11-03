@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '86'
 ht-degree: 17%
-
 ---
-
 # Habilitar o deshabilitar las funciones del cofre del tesoro {#enable-or-disable-treasure-chest-features}
 
 El cofre del tesoro contiene características experimentales que no son totalmente compatibles.
@@ -29,7 +27,7 @@ El cofre del tesoro contiene características experimentales que no son totalmen
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

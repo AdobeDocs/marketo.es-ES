@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 492
+source-wordcount: '496'
 ht-degree: 2%
-
 ---
-
 # Administración de funciones y permisos de usuario {#managing-user-roles-and-permissions}
 
 Establezca, cree y edite funciones de usuario y asígnelas a usuarios. Esto le permite controlar las áreas y la funcionalidad a las que cada usuario de Marketo tiene acceso.
@@ -53,7 +51,7 @@ No puede eliminar los roles de Administrador o Administrador de productos de Ado
 
 Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](/hel
 
 A veces, su organización tiene empleados con funciones muy específicas que requieren una combinación personalizada de permisos.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ A veces, su organización tiene empleados con funciones muy específicas que req
 
 Si necesita cambiar los permisos asociados a una función existente, puede editar la función.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Si necesita cambiar los permisos asociados a una función existente, puede edita
 
 Si una función se vuelve innecesaria, puede eliminarla.
 
-1. Vaya al área de **[!UICONTROL Admin]**.
+1. En Mi Marketo, haz clic en **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
