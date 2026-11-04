@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
 workflow-type: tm+mt
-source-wordcount: '8944'
+source-wordcount: '8948'
 ht-degree: 96%
 ---
 
@@ -491,13 +491,15 @@ ht-degree: 96%
     + [Hoja de información de datos de CX Enterprise Coworker for Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Habilidades {#skills}
       + [Conocimiento del producto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Agentes a los que llamar](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Perspectivas de superficie](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Generar programas](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Planificar campañas](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[Clonar programa](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1006,7 +1008,7 @@ ht-degree: 96%
       + [Información general](product-docs/email-marketing/email-designer/overview.md)
       + [Comparación de funciones](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Creación del correo electrónico](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [Módulos en el Diseñador de correo electrónico](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Uso de módulos en el Diseñador de correo electrónico](product-docs/email-marketing/email-designer/email-modules.md)
       + [Contenido condicional](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Creación de plantilla de correo electrónico](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importar una plantilla](product-docs/email-marketing/email-designer/import-template.md)
