@@ -1,14 +1,13 @@
 ---
 description: Hable con CX Enterprise Coworker para Marketo Engage sobre sus datos de rendimiento. Haga preguntas en lenguaje sencillo y obtenga respuestas basadas en su entorno de Marketo Engage.
 title: Perspectivas de superficie
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # Perspectivas de superficie {#surface-insights}
