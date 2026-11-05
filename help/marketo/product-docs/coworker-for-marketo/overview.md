@@ -4,9 +4,9 @@ title: Información general sobre CX Enterprise Coworker para Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Información general sobre CX Enterprise Coworker para Marketo Engage {#overview}
@@ -37,6 +37,10 @@ Escriba la solicitud en el campo de solicitud, seleccione una de las aptitudes d
 
 La consola central incluye un conjunto cada vez mayor de habilidades de agente disponibles para ayudarle con diversas tareas. Cada aptitud es un asistente de IA creado específicamente con el que interactúa a través del lenguaje natural para completar una tarea específica.
 
+### Planificar campañas {#plan-campaigns}
+
+Convierta un informe de campaña en un plan de implementación estructurado para Marketo Engage. La aptitud de las campañas de Plan describe la estructura del programa, la lógica de audiencia, los correos electrónicos, las campañas inteligentes, los tokens, los informes y las comprobaciones previas a la activación. Más información sobre la [aptitud para planificar campañas](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Generar programas {#build-programs}
 
 Describa una campaña de marketing en un lenguaje sencillo y CX Enterprise Coworker para Marketo Engage crea la estructura del programa, con marcadores de posición de recursos y programación. Más información sobre la [aptitud para generar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -59,11 +63,7 @@ Importe y deduplique listas de posibles clientes en la base de datos de Marketo 
 
 ## Próximamente {#coming-soon}
 
-Próximamente habrá agentes adicionales diseñados para gestionar el trabajo más repetitivo y laborioso, como:
-
-* Diagnosticar por qué un posible cliente no ejecutó MQL o progresó a través del ciclo vital.
-* Genere programas de Marketo Engage completos directamente desde una información de campaña.
-* Y más.
+Próximamente habrá más habilidades diseñadas para manejar el trabajo más repetitivo y que requiere más tiempo.
 
 >[!MORELIKETHIS]
 >

@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # Notas de la versión: noviembre de 2026 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Aptitud para planificar campañas</strong>: CX Enterprise Coworker para Marketo Engage ahora puede convertir un informe de campaña en un documento completo de configuración del programa de Marketo Engage. El documento incluye una estructura de carpetas, campañas inteligentes, configuraciones de correo electrónico, tokens y una lista de comprobación de control de calidad. Esto ayuda a los equipos a iniciar campañas más rápido y a estandarizar la configuración del programa. La aptitud se puede configurar mediante Markdown.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">Planificar campañas</a></td>
   </tr>
   <tr>
    <td> </td>
