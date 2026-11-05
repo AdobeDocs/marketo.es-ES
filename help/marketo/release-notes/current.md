@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 14%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # Notas de la versión: noviembre de 2026 {#release-notes-nov-26}
 
@@ -90,6 +90,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 <br/>
 
 ## Anuncios {#announcements}
+
+* **Desuso de la IU clásica**: La interfaz de Marketo Engage ahora tiene un aspecto actualizado, incluidos menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Es solo una actualización visual; no se cambia ninguna funcionalidad ni flujo de trabajo existente. Actualmente puede cambiar entre las interfaces clásica y las actualizadas mediante un menú desplegable, pero la interfaz clásica se eliminará al final de la versión de enero de 2027 (la fecha exacta se determinará próximamente).
 
 * **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de noviembre.
 

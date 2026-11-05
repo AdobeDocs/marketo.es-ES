@@ -1,7 +1,7 @@
 ---
 description: Utilice CX Enterprise Coworker para Marketo Engage para crear un programa de Marketo adaptando una plantilla existente. Obtenga campañas inteligentes, programación y marcadores de posición de recursos listos para revisar y refinar.
 title: Generar programas
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
 source-wordcount: '828'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Las [reglas organizativas](/help/marketo/product-docs/coworker-for-marketo/organ
 
 ## Cómo usar {#how-to-use}
 
-1. En Mi Marketo, haga clic en el mosaico **CX Enterprise Coworker for Marketo Engage**.
+1. En Mi Marketo, haga clic en el mosaico **[!UICONTROL CX Enterprise Coworker for Marketo Engage]**.
 
 1. Seleccione un programa de plantillas. Elija un programa existente que coincida con su tipo de campaña (por ejemplo, Correo electrónico, Seminario web, Nutrición).
 
