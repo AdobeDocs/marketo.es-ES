@@ -36,7 +36,7 @@ Los agentes a los que llamar le permiten utilizar un agente de IA como paso en u
 
 1. Seleccione **[!UICONTROL Guardar]** para guardar un borrador o **[!UICONTROL Guardar y publicar]** para que el agente esté disponible en Marketo Engage.
 
-1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**. En la sección Marketing de la lista de pasos de flujo, busque **Llamar al agente: _[Nombre del agente]_**y arrástrelo al flujo.
+1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**. En la sección Marketing de la lista de pasos de flujo, busque **Llamar al agente: _[Nombre del agente]_**&#x200B;y arrástrelo al flujo.
 
 1. Pruebe la campaña con un pequeño conjunto de posibles clientes. Revise el registro de actividad y confirme que los campos de salida se actualizan según lo esperado antes de activar la campaña para todos los posibles clientes.
 
