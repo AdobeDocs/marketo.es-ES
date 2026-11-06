@@ -4,9 +4,9 @@ title: Agentes a los que llamar
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2002'
 ht-degree: 1%
 ---
 # Agentes a los que llamar {#callable-agents}
@@ -36,7 +36,7 @@ Los agentes a los que llamar le permiten utilizar un agente de IA como paso en u
 
 1. Seleccione **[!UICONTROL Guardar]** para guardar un borrador o **[!UICONTROL Guardar y publicar]** para que el agente esté disponible en Marketo Engage.
 
-1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**. En la sección Marketing de la lista de pasos de flujo, busque **Llamar al agente: _[Nombre del agente]_**&#x200B;y arrástrelo al flujo.
+1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**. En la sección Marketing de la lista de pasos de flujo, busque **Llamar al agente: _[Nombre del agente]_**y arrástrelo al flujo.
 
 1. Pruebe la campaña con un pequeño conjunto de posibles clientes. Revise el registro de actividad y confirme que los campos de salida se actualizan según lo esperado antes de activar la campaña para todos los posibles clientes.
 
@@ -58,7 +58,7 @@ Elija una plantilla para rellenar previamente las instrucciones, los campos de e
 
 | Plantilla | Finalidad | Entradas | Salidas |
 | --- | --- | --- | --- |
-| Nombre de empresa Normalizer | Limpia los nombres de las empresas eliminando sufijos legales, corrigiendo errores tipográficos comunes y aplicando mayúsculas de marca estándar. | Compañía | Empresa normalizada (texto); confianza (número, 0-1) |
+| Nombre de empresa Normalizer | Limpia los nombres de las empresas eliminando sufijos legales, corrigiendo errores tipográficos comunes y aplicando mayúsculas de marca estándar. | Compañía | Empresa normalizada (texto); confianza (número) |
 | Teléfono E.164 Formatter | Aplica formato a los números de teléfono según el estándar internacional E.164. | Teléfono | Teléfono normalizado (texto); confianza (número) |
 | Puesto de trabajo estandarizado | Estandariza los cargos y deriva la antigüedad. | Título | Título normalizado (texto); antigüedad (nivel C, vicepresidente, director, administrador, individuo o desconocido); confianza |
 | Detector de bots y spam | Indica los envíos de bots o formularios de correo no deseado. | Correo electrónico, Nombre, Apellido, Empresa, Teléfono | Es bot (verdadero/falso); confianza; motivo; indicadores (separados por comas) |
