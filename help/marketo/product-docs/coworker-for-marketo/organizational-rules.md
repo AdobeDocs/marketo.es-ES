@@ -4,9 +4,9 @@ title: Reglas organizativas
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '870'
 ht-degree: 0%
 ---
 # Reglas organizativas {#organizational-rules}
@@ -35,6 +35,10 @@ Las reglas organizativas guían CX Enterprise Coworker para Marketo Engage en tr
 | Validar programas | Las reglas definen lo que CX Enterprise Coworker para Marketo Engage comprueba al validar programas antes de la activación. |
 
 ## Cómo acceder y personalizar las reglas organizativas {#how-to-access-and-customize-organizational-rules}
+
+>[!NOTE]
+>
+>**Se requieren permisos de administrador**
 
 1. En Mi Marketo, haga clic en el mosaico **CX Enterprise Coworker for Marketo Engage**.
 1. Haga clic en el icono de engranaje.
