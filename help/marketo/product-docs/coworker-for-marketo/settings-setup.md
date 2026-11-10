@@ -4,10 +4,10 @@ title: Configuración y configuración
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 3%
+source-wordcount: '588'
+ht-degree: 4%
 ---
 # Configuración y configuración {#settings-setup}
 
@@ -37,6 +37,10 @@ Hay un permiso de _Colaborador de acceso para Marketo Engage_ y un rol de _Colab
 ### Permiso Acceder a Compañero para Marketo Engage {#access-coworker-marketo-permission}
 
 Siga los pasos a continuación para habilitar _Acceder a Compañero de trabajo para Marketo Engage_ para roles calificadores que aún no lo tengan habilitado.
+
+>[!NOTE]
+>
+>**Se requieren permisos de administrador**
 
 1. En Mi Marketo, haz clic en **Administrador**, luego en **Usuarios y roles**.
 
