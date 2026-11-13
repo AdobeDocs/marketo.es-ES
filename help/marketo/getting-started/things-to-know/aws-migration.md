@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # Migración de AWS {#aws-migration}
@@ -60,6 +60,7 @@ Las nuevas fechas y la información del centro de datos/pod se añaden o cambian
 Si, por algún motivo, una migración no se ha realizado correctamente, se le notificará y se volverá a programar.
 
 +++Programación de julio
+
 <table>
  <tbody>
   <tr>
@@ -253,6 +254,8 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
 
 +++
 
++++ Horario de octubre
+
 <table>
  <tbody>
   <tr>
@@ -306,17 +309,30 @@ Si, por algún motivo, una migración no se ha realizado correctamente, se le no
    <td>Completado<br>
    Completado</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Fecha</th>
+   <th style="width:25%">Centro de datos/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Estado</th>
+  </tr>
   <tr>
    <td>6 de noviembre de 2026</td>
    <td>AB18</td>
    <td>16:00 PST</td>
-   <td>Según lo programado</td>
+   <td>Completado</td>
   </tr>
   <tr>
    <td>18 de noviembre de 2026</td>
-   <td>SJ14</td>
-   <td>17:00 PST</td>
-   <td>Según lo programado</td>
+   <td><i>SJ14</i></td>
+   <td><i>17:00 PST</i></td>
+   <td><i>Pospuesto (fecha por determinar)</i></td>
   </tr>
   <tr>
    <td>20 de noviembre de 2026</td>
