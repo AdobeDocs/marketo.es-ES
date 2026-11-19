@@ -5,9 +5,9 @@ badge: beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
+source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '611'
 ht-degree: 1%
 ---
 # Panel CX Enterprise Coworker en Marketo Engage {#coworker-panel-overview}
@@ -42,7 +42,7 @@ El panel Compañero de trabajo le permite abrir CX Enterprise Coworker directame
 
 1. Revise las respuestas generadas y los cambios propuestos antes de utilizarlas.
 
-## Su experiencia actual con CX Enterprise Coworker {#your-existing-cx-enterprise-coworker-experience}
+## Experiencia existente de CX Enterprise Coworker para Marketo Engage {#existing-experience}
 
 El historial y la funcionalidad existentes siguen estando disponibles en Colaborador para Marketo Engage. No aparecen en la versión beta incrustada y el acceso continuo a la experiencia actual no significa que las dos experiencias tengan paridad de características.
 
