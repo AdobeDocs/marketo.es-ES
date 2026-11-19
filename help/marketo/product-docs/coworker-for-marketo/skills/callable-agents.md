@@ -4,18 +4,18 @@ title: Agentes a los que llamar
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '1995'
 ht-degree: 1%
 ---
 # Agentes a los que llamar {#callable-agents}
 
 Los agentes a los que llamar le permiten utilizar un agente de IA como paso en una campaña inteligente de Marketo Engage. Cree un agente en CX Enterprise Coworker para Marketo Engage, elija los campos de posible cliente que lee y actualiza y publíquelo para su uso en campañas. Los agentes pueden ayudar a limpiar los datos, clasificar los posibles clientes, enriquecer la información que falta o filtrar los envíos de formularios.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Debe tener el permiso **Administrador de acceso** en Marketo Engage.
+>Se requieren permisos de **Admin**.
 
 ## Antes de empezar {#before-you-begin}
 
