@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
 workflow-type: tm+mt
-source-wordcount: '8948'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -499,7 +499,9 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+  + Panel CX Enterprise Coworker {#coworker-panel}
+    + {hide-from-toc}[Información general](product-docs/coworker-panel/overview.md)
   + Sincronización de CRM {#crm-sync}
     + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
       + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
