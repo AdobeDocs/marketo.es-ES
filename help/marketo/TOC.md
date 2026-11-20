@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
+source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
 workflow-type: tm+mt
-source-wordcount: '8953'
+source-wordcount: '8958'
 ht-degree: 96%
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 96%
       + [Habilitar límites de comunicación](product-docs/administration/email-setup/enable-communication-limits.md)
       + [Habilitar restricciones de persona para campañas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [Seguimiento de aperturas de correo electrónico en el nivel de campaña](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
+      + {hide-from-toc}[Seguimiento de correo electrónico en el nivel de persona](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [Filtrar actividad del bot de correo electrónico](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [Quitar texto de cancelación de suscripción](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + Administración de campos {#field-management}
