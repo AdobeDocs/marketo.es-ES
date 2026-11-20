@@ -91,7 +91,7 @@ Los campos de anulación son campos de persona booleanos. Configúrelos con el m
 
 | Método | Notas |
 |---|---|
-| [Paso de flujo Cambiar valor de datos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilice una campaña inteligente para definir un campo cuando una persona cumpla sus criterios, como enviar una casilla de verificación de consentimiento en un formulario. |
+| [Paso de flujo Cambiar valor de datos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilice una campaña inteligente para definir un campo cuando una persona cumpla sus criterios, como enviar una casilla de verificación de consentimiento en un formulario. |
 | Formularios | Asigne una casilla de verificación o un campo oculto de un formulario Marketo Engage al campo de la persona. |
 | Importación de lista | Incluya el campo como una columna en el archivo de importación. |
 | API de REST | Use los nombres de campo de API `overrideOpenTrackingDefault` y `overrideClickTrackingDefault`. |
@@ -115,7 +115,7 @@ Cuando Marketo Engage no rastrea a una persona, cambia el contenido de correo el
 | Correos electrónicos de déclencheur, como correos electrónicos enviados desde una campaña inteligente de déclencheur | Sí |
 | Correos electrónicos con pruebas A/B o variantes de campeón/aspirante | Sí. El seguimiento se decide por separado para cada persona, independientemente de la variante que reciba. |
 | Ver como página web | Sí. La versión web sigue la configuración actual de la persona. Un cambio puede tardar hasta una hora en aparecer. |
-| [Correos electrónicos operativos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | No. Siguen un comportamiento de seguimiento normal. |
+| [Correos electrónicos operativos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | No. Siguen un comportamiento de seguimiento normal. |
 | Correos electrónicos de muestra (prueba) | No. Siguen un comportamiento de seguimiento normal. |
 | Previsualizaciones de correo electrónico | Sin cambios. No se realiza un seguimiento de las vistas previas. |
 | Correos electrónicos de alerta | Sin cambios. No se realiza un seguimiento de las alertas. |
@@ -125,7 +125,7 @@ Cuando Marketo Engage no rastrea a una persona, cambia el contenido de correo el
 
 Marketo Engage lee los valores de anulación de una persona cuando prepara el correo electrónico para su envío.
 
-- **Envío programado o retrasado:** Si un correo electrónico se prepara ahora y se entrega más tarde (por ejemplo, con [Head Start](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} o [Zona horaria del destinatario](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), se aplican los valores en el momento de la preparación. Un cambio realizado después de la preparación no cambia ese correo electrónico.
+- **Envío programado o retrasado:** Si un correo electrónico se prepara ahora y se entrega más tarde (por ejemplo, con [Head Start](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} o [Zona horaria del destinatario](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), se aplican los valores en el momento de la preparación. Un cambio realizado después de la preparación no cambia ese correo electrónico.
 - **Correos electrónicos ya entregados:** Al cambiar la invalidación de una persona, no se cambian los mensajes de correo electrónico que ya ha recibido. Los clics en vínculos en correos electrónicos enviados anteriormente se pueden seguir rastreando si esos vínculos se prepararon con el seguimiento habilitado.
 - **Correos electrónicos futuros:** Se aplica un cambio a los mensajes de correo electrónico que Marketo Engage prepara después del cambio.
 
