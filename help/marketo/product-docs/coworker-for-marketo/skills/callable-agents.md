@@ -4,9 +4,9 @@ title: Agentes a los que llamar
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Agentes a los que llamar {#callable-agents}
@@ -37,6 +37,10 @@ Los agentes a los que llamar le permiten utilizar un agente de IA como paso en u
    ![](assets/callable-agents-3.png)
 
 1. Para usar una plantilla, haz clic en **Comenzar a partir de una plantilla** y selecciona una.
+
+   >[!NOTE]
+   >
+   >Para obtener más información sobre plantillas de agentes a los que se puede llamar, consulte [Comenzar desde una plantilla](#start-from-a-template).
 
 1. Para crear el suyo propio, escriba un **[!UICONTROL nombre de agente]** y **[!UICONTROL instrucciones de agente]** que describan cómo procesar cada posible cliente.
 
