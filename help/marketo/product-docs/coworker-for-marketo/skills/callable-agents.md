@@ -4,9 +4,9 @@ title: Agentes a los que llamar
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1995'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Agentes a los que llamar {#callable-agents}
@@ -26,17 +26,35 @@ Los agentes a los que llamar le permiten utilizar un agente de IA como paso en u
 
 1. En Mi Marketo, haga clic en el mosaico **[!UICONTROL CX Enterprise Coworker for Marketo Engage]**.
 
-1. Seleccione **[!UICONTROL agentes a los que llamar]** en el panel de navegación izquierdo. La lista muestra el nombre, la fecha de creación, el creador y el estado de cada agente. Busque por nombre u ordene por nombre o fecha de creación.
+   ![](assets/callable-agents-1.png)
 
-1. Seleccione **[!UICONTROL Crear agente al que llamar]**. Elija una plantilla o deje vacío el selector de plantillas para empezar desde cero.
+1. En la esquina superior derecha, seleccione **[!UICONTROL Agentes]**.
 
-1. Escriba un **[!UICONTROL nombre de agente]** y escriba **[!UICONTROL instrucciones de agente]** que describan cómo procesar cada posible cliente.
+   ![](assets/callable-agents-2.png)
 
-1. En **[!UICONTROL Campos de posible cliente para enviar]**, agregue los campos de posible cliente que el agente necesita como entradas. En **[!UICONTROL Campos de posible cliente para actualizar]**, agregue cada valor que el agente debe devolver y asígnelo a un campo de posible cliente actualizable.
+1. Seleccione **[!UICONTROL Crear agente al que llamar]**.
 
-1. Seleccione **[!UICONTROL Guardar]** para guardar un borrador o **[!UICONTROL Guardar y publicar]** para que el agente esté disponible en Marketo Engage.
+   ![](assets/callable-agents-3.png)
 
-1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**. En la sección Marketing de la lista de pasos de flujo, busque **Llamar al agente: _[Nombre del agente]_**&#x200B;y arrástrelo al flujo.
+1. Para usar una plantilla, haz clic en **Comenzar a partir de una plantilla** y selecciona una.
+
+   >[!NOTE]
+   >
+   >Para obtener más información sobre plantillas de agentes a los que se puede llamar, consulte [Comenzar desde una plantilla](#start-from-a-template).
+
+1. Para crear el suyo propio, escriba un **[!UICONTROL nombre de agente]** y **[!UICONTROL instrucciones de agente]** que describan cómo procesar cada posible cliente.
+
+1. En **[!UICONTROL Campos de posible cliente para enviar]**, agregue los campos de posible cliente que el agente necesita como entradas. En **[!UICONTROL Campos de posible cliente para actualizar]**, agregue cada valor que el agente debe devolver y asígnelo a un campo de posible cliente actualizable. Haga clic en **[!UICONTROL Crear]** cuando haya terminado.
+
+   ![](assets/callable-agents-4.png)
+
+1. Abra una campaña inteligente y seleccione la ficha **[!UICONTROL Flujo]**.
+
+   ![](assets/callable-agents-5.png)
+
+1. Introduzca &quot;callable&quot; en la búsqueda de acciones de flujo. Busque el agente deseado y arrástrelo al lienzo.
+
+   ![](assets/callable-agents-6.png)
 
 1. Pruebe la campaña con un pequeño conjunto de posibles clientes. Revise el registro de actividad y confirme que los campos de salida se actualizan según lo esperado antes de activar la campaña para todos los posibles clientes.
 
