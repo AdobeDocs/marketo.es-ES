@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # Notas de la versión: noviembre de 2026 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Clonar a este programa/carpeta</strong>: Las operaciones de clonación en Marketo Engage ahora ofrecen de forma consistente una opción "Esta carpeta" o "Este programa" como primera opción al elegir el destino del recurso clonado. Al elegir esta opción, se clona el recurso en el programa o la carpeta principal del recurso actual.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <tr>
    <td><strong>Alerta instantánea en la sincronización con CRM</strong>: al habilitar o deshabilitar la sincronización de CRM nativa para un entorno, ahora se envía una déclencheur a los usuarios suscritos al canal de notificación de CRM.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>n/a</td>
   </tr>
   </tr>
   </tbody>
