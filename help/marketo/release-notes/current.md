@@ -26,16 +26,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # Notas de la versión: noviembre de 2026 {#release-notes-nov-26}
 
 A continuación encontrará todas las funciones incluidas en la versión de noviembre de 2026. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
-Las notas de la versión específicas de Adobe Dynamic Chat [&#x200B; se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Las notas de la versión específicas de Adobe Dynamic Chat [ se encuentran aquí](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
@@ -70,8 +70,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Clonar a este programa/carpeta</strong>: Las operaciones de clonación en Marketo Engage ahora ofrecen de forma consistente una opción "Esta carpeta" o "Este programa" como primera opción al elegir el destino del recurso clonado. Al elegir esta opción, se clona el recurso en el programa o la carpeta principal del recurso actual.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>n/a</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   <tr>
    <tr>
    <td><strong>Alerta instantánea en la sincronización con CRM</strong>: al habilitar o deshabilitar la sincronización de CRM nativa para un entorno, ahora se envía una déclencheur a los usuarios suscritos al canal de notificación de CRM.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td>n/a</td>
   </tr>
   </tr>
   </tbody>
@@ -93,8 +93,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
 
 * **Desuso de la IU clásica**: La interfaz de Marketo Engage ahora tiene un aspecto actualizado, incluidos menús, iconos y diseño actualizados para una experiencia más limpia y moderna. Es solo una actualización visual; no se cambia ninguna funcionalidad ni flujo de trabajo existente. Actualmente puede cambiar entre las interfaces clásica y las actualizadas mediante un menú desplegable, pero la interfaz clásica se eliminará al final de la versión de enero de 2027 (la fecha exacta se determinará próximamente).
 
-* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de noviembre.
+* **Desuso de Capturar imágenes de la web**: Para ajustarse a las prácticas recomendadas modernas de seguridad y privacidad, la función [Capturar imágenes de la web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} quedará obsoleta a partir de la versión de noviembre.
 
 * **Restricciones de nombres de API para atributos de actividad personalizados**: Los nombres de API para atributos de actividad personalizados creados mediante la API o la interfaz de usuario ahora solo pueden contener caracteres alfanuméricos y guiones bajos, y deben comenzar con un carácter alfanumérico.
 
-* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyen el parámetro `listId` comenzaron a fallar con un código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
+* **Límites de tamaño de lista estática para obtener actividades de posibles clientes y obtener cambios de posibles clientes**: a partir del 30 de septiembre de 2026, las llamadas a los extremos de obtener actividades de posibles clientes u obtener cambios de posibles clientes que incluyen el parámetro `listId` comenzaron a fallar con un código de error 1003 (que indica que la lista estática de destino tiene demasiados registros) si las listas de destino contienen 10 000 posibles clientes o más. Consulte la [Guía de migración](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obtener información adicional.
