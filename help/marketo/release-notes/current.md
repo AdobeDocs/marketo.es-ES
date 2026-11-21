@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # Notas de la versión: noviembre de 2026 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Las siguientes características caen dentro del ciclo de lanzamiento estándar y
   </tr>
   <tr>
    <td><strong>Agentes a los que llamar</strong>: cree agentes de IA que funcionen como un paso de flujo en sus campañas inteligentes y actúen en un registro de posibles clientes basado en instrucciones que escriba en lenguaje sencillo. Por ejemplo, un agente puede normalizar los datos de un posible cliente o marcar bots probables y, a continuación, escribir el resultado en los campos del posible cliente. Esto lleva el procesamiento de posibles clientes basado en juicios a sus campañas sin código personalizado.</td>
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Publicado</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">Agentes a los que llamar</a></td>
   </tr>
   <tr>
    <td> </td>
