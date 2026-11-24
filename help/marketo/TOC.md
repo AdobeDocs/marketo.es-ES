@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [Añadir el inicio de sesión único a un portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Añadir Webex como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Añadir Zoom como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[Configuración de la API de SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [Conectar BrightTALK a Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [Creación de un servicio personalizado para utilizarlo con la API de ReST](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [Creación de un webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -500,7 +499,7 @@ ht-degree: 96%
       + [Investigar posibles clientes](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar posibles clientes](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MCP de Marketo](https://experienceleague.adobe.com/es/docs/marketo-developer/marketo/mcp-server)
+    + [MCP de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Panel CX Enterprise Coworker {#coworker-panel}
     + {hide-from-toc}[Información general](product-docs/coworker-panel/overview.md)
   + Sincronización de CRM {#crm-sync}

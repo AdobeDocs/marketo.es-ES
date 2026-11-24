@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '254'
 ht-degree: 3%
 ---
 # Explicación de la actividad y las personas anónimas {#understanding-anonymous-activity-and-people}
@@ -52,7 +52,6 @@ Una actividad anónima se combina con una persona nueva o existente cuando algui
 
 * Hace clic en un vínculo [de un correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
 * Rellena un [formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} de Marketo.
-* Utiliza la API [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} de Marketo (para desarrolladores) para asociar a una persona anónima con un registro conocido.
 
 Un nombre de la base de datos puede estar vinculado a muchas cookies porque los usuarios suelen utilizar distintos dispositivos y exploradores para visitar el sitio.
 
